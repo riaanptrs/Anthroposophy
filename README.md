@@ -15,7 +15,7 @@ Start with the [agreed course outline](content/course-outline.md): a beginner co
 
 Edit original bilingual lesson content in `content/lessons.mjs` and `content/lessons-chapter-2.mjs` through `content/lessons-chapter-4.mjs`. Run `node scripts/build-lessons.mjs` to regenerate the lesson pages and course indexes. Run `node scripts/check-site.mjs` to check every local link, language pair, and lesson structure before publishing. No packages are required.
 
-The course uses original explanations, notebook exercises, expandable suggested answers, and a self-assessment rubric. The 1971 English edition supplies printed-page references; the edition comparison records OCR limitations and recovered parallel readings. Portuguese explanations are original Brazilian Portuguese course text, not quotations from a published Portuguese translation.
+The course uses original worked examples, explanations, one key takeaway per lesson, notebook exercises, expandable suggested answers, and a self-assessment rubric. Edit the bilingual examples in `content/lesson-examples.mjs`. Examples explicitly distinguish what they illustrate from the wider claims they do not establish. The opening lesson distinguishes soul from emotion alone and spirit from reasoning alone. The 1971 English edition supplies printed-page references; the edition comparison records OCR limitations and recovered parallel readings. Portuguese explanations are original Brazilian Portuguese course text, not quotations from a published Portuguese translation.
 
 1. Supply a book, excerpt, or transcript, together with available author, edition, page, or timestamp information.
 2. Identify the learning objectives and create a draft using `content/lesson-template.md`.

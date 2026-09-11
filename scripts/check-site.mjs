@@ -20,6 +20,7 @@ for (const relative of files) {
   if(anchor&&!fs.readFileSync(target,'utf8').includes(`id="${anchor}"`)) errors.push(`${relative}: missing anchor ${href}`);
  }
  if(relative.includes('lessons')) {
+  if(!html.includes('class="worked-example"')||!html.includes('class="takeaway"')) errors.push(`${relative}: missing worked example or takeaway`);
   if((html.match(/<details>/g)||[]).length!==2) errors.push(`${relative}: missing answer or rubric`);
   const expected=relative.startsWith('pt')?'pt-BR':'en';
   if(!html.includes(`<html lang="${expected}">`)) errors.push(`${relative}: language mismatch`);
