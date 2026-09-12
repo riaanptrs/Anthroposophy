@@ -24,7 +24,9 @@ for (const relative of files) {
  if(relative.includes('lessons')) {
   if(!html.includes('class="worked-example"')||!html.includes('class="takeaway"')) errors.push(`${relative}: missing worked example or takeaway`);
   const intro=!relative.includes('higher-worlds') && path.basename(relative)==='00.html';
-  const expectedDetails=relative.includes('higher-worlds')?4:intro?6:2;
+  const thinkingLesson=!relative.includes('higher-worlds') && path.basename(relative)==='18.html';
+  const expectedDetails=relative.includes('higher-worlds')?4:intro?6:thinkingLesson?3:2;
+  if(thinkingLesson && (!html.includes('class="inquiry-diagrams thinking-review"') || !html.includes('((3 × 3) + 1) ÷ 2') || !html.includes('10 ÷ 2 = 5'))) errors.push(`${relative}: missing thinking exercise or explicit arithmetic grouping`);
   if((html.match(/<details\b/g)||[]).length!==expectedDetails) errors.push(`${relative}: incorrect number of answer, rubric or inquiry controls`);
   if(!html.includes('How to assess your response')&&!html.includes('Como avaliar sua resposta')) errors.push(`${relative}: missing rubric`);
   if(intro && (!html.includes('class="question-pair"')||!html.includes('class="inquiry-steps"')||(html.match(/<details open>/g)||[]).length!==1)) errors.push(`${relative}: incomplete introductory diagrams`);
