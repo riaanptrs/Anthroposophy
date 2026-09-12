@@ -4,6 +4,10 @@ Reviewed 12 September 2026. Read the complete supplied `Chapter 09 -- The idea o
 
 Primary comparison: read the complete Chapter 9, **Basis markers 75–89** in the supplied 147-marker transcription. These are transcription markers, not Brian’s printed page numbers. Encoding corruption remains in this copy; summaries below use original wording rather than reproduce damaged quotations.
 
+## Follow-up from Chapter 10
+
+The later transcript recovers the five words: **“Wisdom lives in the light”**, Chapter 10, **09:00–09:03**, in Brian’s retrospective description of the exercise. The missing-phrase observations below describe what was available in Chapter 9 alone and are superseded on this point. The board, full assignment sheet and omitted interval remain unavailable. This recovery identifies the phrase; it does not verify the claimed spiritual results or make the statement a demonstrated fact. See the [Chapter 10 review](philosophy-of-freedom-brian-chapter-10.md) for an optional study treatment.
+
 ## Teaching decision
 
 Keep the planned two lessons: **12, What moves an action?**, and **13, What is a free deed in Steiner’s account?** The nearly three-hour lecture should not become one beginner lesson. Assign 75–79 and 80–82 in separate reading sessions for Lesson 12; Lesson 13 revisits 82 and completes 83–89. Together they cover the entire chapter.
@@ -131,6 +135,6 @@ Steiner relaciona a liberdade à compreensão da vontade alheia num mundo compar
 - **GA 10 Lesson 7, EN/PT:** clarify that understanding another aim is compatible with disagreement, advice, cooperation and responsibilities. These are preparatory ethical connections, not proof of GA 10’s spiritual results.
 - **GA 4 Lessons 12–13:** bilingual drafts above remain preparation material. Chapter 10 onward lectures are pending; no separate course is published by this update.
 - **Implemented visual:** native HTML definition list inside the existing GA 9 panel. Reads in order on mobile and with assistive technology, with no dependence on color or motion.
-- **Board requested:** exact five-word phrase around 07:49–15:24; levels chart introduced at 37:20; cognitive/moral axes around 1:43:31–1:47:20. The missing exercise stays omitted until its content is supplied.
+- **Board requested, updated after Chapter 10:** levels chart introduced at 37:20; cognitive/moral axes around 1:43:31–1:47:20. The five-word phrase has now been recovered; see the follow-up above and the optional study adaptation in the Chapter 10 review. The omitted interval and fuller assignment remain unavailable.
 - **Future diagram:** two labelled paths, “understand the existing situation” and “realize an ethical aim,” using the same meeting. Arrows represent explanatory relationships, not literal spiritual forces. A second view can show motive and driving force coinciding at the intuitive level without ranking people.
 - **Optional motion:** a user-controlled reveal of situation, considered aim and possible deed could support Lesson 13. Prefer that to an autoplay GIF; retain a complete static version and reduced-motion support. No animation has been produced in this update.
