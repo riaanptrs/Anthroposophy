@@ -1,3 +1,5 @@
+Chapter 2 update — 12 September 2026: [The complete lecture review and bilingual Lesson 2 draft](philosophy-of-freedom-brian-chapter-2.md) are ready. Use Basis 12–16, including the final qualification, for Lesson 2; Essential 11–12 is an abridgment. Theosophy Lessons 1 and 2 receive the immediate clarifications. Chapters 3 onward and the board drawings remain pending. The third course is still a plan.
+
 Chapter 1 update — 12 September 2026: The lecture is reviewed. See [the bilingual Lesson 1 draft and visual plan](philosophy-of-freedom-brian-chapter-1.md). Theosophy Lessons 19 and 21 incorporate its clarifications. Later chapter lectures remain pending; earlier planning notes below retain their historical context.
 
 # Philosophy of Freedom: provisional course plan
