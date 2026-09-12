@@ -1,3 +1,5 @@
+Chapter 9 update — 12 September 2026: [Complete lecture review and bilingual Lessons 12–13 drafts](philosophy-of-freedom-brian-chapter-9.md) compare the full lecture through 2:50:50 with Basis 75–89. GA 9 Lesson 21 distinguishes motive, driving force and practical feasibility; GA 10 Lesson 7 clarifies advice, understanding others and independent judgment. Novelty is not a criterion of freedom. The five-word exercise and board charts remain incomplete in the supplied material. Chapter 10 onward lectures are pending; the separate GA 4 course remains in preparation. Earlier updates below are historical.
+
 # Research and course development record
 
 This folder keeps the source analysis, teaching decisions and implementation plans under Git version control. Begin here when adding a book, lecture or illustration. The website is generated into `docs/`; editorial notes remain in `content/`.
