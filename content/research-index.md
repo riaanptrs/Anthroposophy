@@ -2,6 +2,10 @@
 
 This folder keeps the source analysis, teaching decisions and implementation plans under Git version control. Begin here when adding a book, lecture or illustration. The website is generated into `docs/`; editorial notes remain in `content/`.
 
+## Chapter 7 update — 12 September 2026
+
+[Chapter 7 review and bilingual Lesson 10 draft](philosophy-of-freedom-brian-chapter-7.md) compare the complete nine-minute transcript with Basis 58–69 and recover the fuller argument and 1918 addition. Both course orientations now clarify the scope of knowledge claims. GA 10 adds a comparison of missing information, an unclear question and an asserted impossibility. The review records qualifications to Brian’s motivational claims and avoids promising spiritual attainment.
+
 ## Chapter 6 update — 12 September 2026
 
 [Chapter 6 review and bilingual Lesson 9 draft](philosophy-of-freedom-brian-chapter-6.md) compare the complete supplied lecture with Basis 54–57. Theosophy Lesson 7 now explains the individualized concept and distinguishes recognition of a kind from identification of the same object. Lesson 19 clarifies shared understanding and personal feeling. The review records the book’s additional recognition passage, source qualifications and optional arts and visual activities.
@@ -34,7 +38,7 @@ This folder keeps the source analysis, teaching decisions and implementation pla
 | What Is Anthroposophy?, GA 225 | [Introduction review and replacement-source findings](anthroposophy-introduction-review.md) | `introduction.mjs`, `anthroposophy-connections.mjs` |
 | How to Know Higher Worlds, GA 10 | [Reading review](higher-worlds-reading-review.md) | [Course plan](higher-worlds-course-plan.md), `higher-worlds.mjs`, `higher-worlds-connections.mjs` |
 | The Philosophy of Freedom, GA 4 | [Initial reading review](philosophy-of-freedom-reading-review.md), [three-text comparison and recovered passages](philosophy-of-freedom-edition-comparison.md) | [Provisional course plan](philosophy-of-freedom-course-plan.md), `philosophy-of-freedom-connections.mjs` |
-| Brian's chapter lectures | [Chapter 1](philosophy-of-freedom-brian-chapter-1.md), [Chapter 2](philosophy-of-freedom-brian-chapter-2.md), [Chapter 3](philosophy-of-freedom-brian-chapter-3.md), [Chapter 4](philosophy-of-freedom-brian-chapter-4.md), [Chapter 5](philosophy-of-freedom-brian-chapter-5.md), [Chapter 6](philosophy-of-freedom-brian-chapter-6.md) | Bilingual drafts, source comparisons, implemented changes and visual plans |
+| Brian's chapter lectures | [Chapter 1](philosophy-of-freedom-brian-chapter-1.md), [Chapter 2](philosophy-of-freedom-brian-chapter-2.md), [Chapter 3](philosophy-of-freedom-brian-chapter-3.md), [Chapter 4](philosophy-of-freedom-brian-chapter-4.md), [Chapter 5](philosophy-of-freedom-brian-chapter-5.md), [Chapter 6](philosophy-of-freedom-brian-chapter-6.md), [Chapter 7](philosophy-of-freedom-brian-chapter-7.md) | Bilingual drafts, source comparisons, implemented changes and visual plans |
 | Brian's preface lectures | [Timestamped review of both prefaces](philosophy-of-freedom-brian-prefaces.md) | Original examples, lesson destinations, transcription issues and six visual storyboards in that review |
 
 ## Implementation record — 12 September 2026
