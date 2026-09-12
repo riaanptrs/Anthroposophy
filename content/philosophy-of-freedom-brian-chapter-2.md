@@ -101,3 +101,6 @@ O próximo passo proposto é investigar nossa participação no conhecer. Como p
 4. **Motion only if useful:** a branch at rest and then moving, followed by a pause asking what caused the movement. A next-step control can reveal competing hypotheses without declaring a winner. Use an original drawing or supplied board image; do not imply we possess the lecture drawing. Respect reduced motion and include a still version. No GIF is necessary for the current lesson.
 
 Most useful next image: Brian's self/world board drawing around 08:00–10:54; next priority is the monism/dualism chart around 15:21–25:58. Exact timestamps and the whole board would help distinguish his labels from later annotations.
+
+
+Board update — 12 September 2026: the requested self/world board has now been supplied and [redrawn with provenance](illustrations/self-world-clear-v1.md). The earlier request above is retained as research history. The monism/dualism chart remains unsupplied.

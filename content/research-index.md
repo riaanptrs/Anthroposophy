@@ -2,6 +2,10 @@
 
 This folder keeps the source analysis, teaching decisions and implementation plans under Git version control. Begin here when adding a book, lecture or illustration. The website is generated into `docs/`; editorial notes remain in `content/`.
 
+## Chapter 4 update — 12 September 2026
+
+[Chapter 4 review and bilingual Lessons 5–6 drafts](philosophy-of-freedom-brian-chapter-4.md) map the full supplied transcript to Basis 29–40. GA 9 Lesson 7 now distinguishes present percept, concept, memory and capacity. GA 10 Lesson 3 includes a two-view diagram and clarifies perspective and judgment. The self/world board is now received; [its cleaned adaptation and provenance](illustrations/self-world-clear-v1.md) are saved for future course use.
+
 ## Chapter 3 update — 12 September 2026
 
 [Chapter 3 review and bilingual Lessons 3–4 drafts](philosophy-of-freedom-brian-chapter-3.md) map the complete 93-minute transcript to Basis 17–28, including the 1918 addition. GA 9 Lessons 5 and 18 and GA 10 Lesson 2 now clarify intuition, active reasoning and retrospective attention. Lesson 18 adds an arithmetic answer reveal with explicit grouping. Research records the lecture’s qualifications, ambiguous arithmetic and proposed board illustrations.
@@ -22,7 +26,7 @@ This folder keeps the source analysis, teaching decisions and implementation pla
 | What Is Anthroposophy?, GA 225 | [Introduction review and replacement-source findings](anthroposophy-introduction-review.md) | `introduction.mjs`, `anthroposophy-connections.mjs` |
 | How to Know Higher Worlds, GA 10 | [Reading review](higher-worlds-reading-review.md) | [Course plan](higher-worlds-course-plan.md), `higher-worlds.mjs`, `higher-worlds-connections.mjs` |
 | The Philosophy of Freedom, GA 4 | [Initial reading review](philosophy-of-freedom-reading-review.md), [three-text comparison and recovered passages](philosophy-of-freedom-edition-comparison.md) | [Provisional course plan](philosophy-of-freedom-course-plan.md), `philosophy-of-freedom-connections.mjs` |
-| Brian's chapter lectures | [Chapter 1](philosophy-of-freedom-brian-chapter-1.md), [Chapter 2](philosophy-of-freedom-brian-chapter-2.md), [Chapter 3](philosophy-of-freedom-brian-chapter-3.md) | Bilingual drafts, source comparisons, implemented changes and visual plans |
+| Brian's chapter lectures | [Chapter 1](philosophy-of-freedom-brian-chapter-1.md), [Chapter 2](philosophy-of-freedom-brian-chapter-2.md), [Chapter 3](philosophy-of-freedom-brian-chapter-3.md), [Chapter 4](philosophy-of-freedom-brian-chapter-4.md) | Bilingual drafts, source comparisons, implemented changes and visual plans |
 | Brian's preface lectures | [Timestamped review of both prefaces](philosophy-of-freedom-brian-prefaces.md) | Original examples, lesson destinations, transcription issues and six visual storyboards in that review |
 
 ## Implementation record — 12 September 2026
