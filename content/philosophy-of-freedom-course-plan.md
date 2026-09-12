@@ -1,3 +1,5 @@
+Chapter 1 update — 12 September 2026: The lecture is reviewed. See [the bilingual Lesson 1 draft and visual plan](philosophy-of-freedom-brian-chapter-1.md). Theosophy Lessons 19 and 21 incorporate its clarifications. Later chapter lectures remain pending; earlier planning notes below retain their historical context.
+
 # Philosophy of Freedom: provisional course plan
 
 **Implementation update, 12 September 2026:** Applied the currently supported improvements to eight GA 9 lessons (0, 1, 5, 7, 18–21) and eight GA 10 lessons (0–4, 7, 14, 18), in both languages. The introduction now has two native HTML diagrams: a knowing/acting map and expandable inquiry steps. The GA 9 Lesson 18 activity reconstructs and checks an argument. Source-labelled connections are maintained in `philosophy-of-freedom-connections.mjs`; no full lecture transcripts are published. The following syllabus remains a plan for the separate course. Chapter lectures, board drawings and optional animation production remain future work. This update describes local implementation, not a deployment.

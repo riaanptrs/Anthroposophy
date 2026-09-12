@@ -17,13 +17,13 @@ export const freedomConnections = {
   18: ['Ch. 3; prefaces', '17–28, 1–4',
    'First work through a short argument; afterwards look back at the connections you made. Producing a thought and reflecting on it are distinguishable moments. A phrase passing through your mind is different from actively understanding why one step follows another. Brian’s preface lectures encourage this movement from reading to personal examination; a successful reconstruction shows comprehension, not necessarily agreement.',
    'Primeiro acompanhe um argumento curto; depois retome as relações que estabeleceu. Produzir um pensamento e refletir sobre ele são momentos distinguíveis. Uma frase que passa pela mente é diferente de compreender ativamente por que uma etapa decorre de outra. As palestras de Brian sobre os prefácios incentivam essa passagem da leitura ao exame pessoal; uma boa reconstrução mostra compreensão, não necessariamente concordância.'],
-  19: ['Ch. 6, 8 and 13', '57, 74, 113',
+  19: ['Ch. 1, 6, 8 and 13', '11, 57, 74, 113',
    'Clear thinking need not mean coldness. Feeling gives an encounter personal significance, and Steiner’s fuller discussion connects living thinking with feeling, will and love. If a brief message hurts me, that hurt belongs to my experience; it does not yet establish what the sender intended. I can acknowledge the feeling while examining my interpretation.',
    'Pensar com clareza não precisa significar frieza. O sentir dá significado pessoal a um encontro, e a discussão mais completa de Steiner liga o pensar vivo ao sentir, ao querer e ao amor. Se uma mensagem breve me magoa, a mágoa faz parte da minha experiência; ela ainda não estabelece a intenção de quem a enviou. Posso reconhecer o sentimento enquanto examino minha interpretação.'],
   20: ['Ch. 12', '100–102',
    'GA 4 distinguishes moral intuition, moral imagination and moral technique: grasping an ethical idea, imagining a particular deed, and knowing how to realize it. Suppose you understand a reason to include a newcomer in a study group. You envisage another meeting time, then check whether a host and room are available. A workable plan alone does not establish a free or ethical motive. Moral imagination here must not be confused with every technical use of Imagination in spiritual training.',
    'A GA 4 distingue intuição moral, imaginação moral e técnica moral: apreender uma ideia ética, imaginar uma ação concreta e saber realizá-la. Suponha que você compreenda uma razão para incluir uma pessoa nova num grupo de estudo. Você imagina outro horário e verifica se há alguém para conduzir o encontro e uma sala disponível. Um plano viável, sozinho, não estabelece um motivo livre ou ético. Imaginação moral, aqui, não deve ser confundida com todo uso técnico de Imaginação no desenvolvimento espiritual.'],
-  21: ['Ch. 9–12', '82–106',
+  21: ['Ch. 1 and 9–12', '6–11, 82–106',
    'The same helpful deed may come from habit, fear of disapproval, or an individually understood ethical aim. Its outward appearance does not settle the question of freedom. Nor must independence mean rejecting every rule: a person can examine a principle and adopt it through understanding. External circumstances can still prevent the intended action. Steiner describes free and unfree activity within a developing life.',
    'A mesma ação prestativa pode nascer do hábito, do medo da reprovação ou de um objetivo ético compreendido individualmente. Sua aparência externa não resolve a questão da liberdade. Independência também não precisa significar rejeitar toda regra: uma pessoa pode examinar um princípio e adotá-lo pela compreensão. Circunstâncias externas ainda podem impedir a ação pretendida. Steiner descreve atividades livres e não livres numa vida em desenvolvimento.']
  },
@@ -62,6 +62,12 @@ export function applyFreedomConnections(lessons, course) {
   const lesson=structuredClone(original);
   for(const [lang,index] of [['en',2],['pt',3]]) {
    lesson[lang][2].push(entry[index]);
+   if(course==='theosophy' && lesson.id===19) lesson[lang][2].push(lang==='en'
+    ? 'Chapter 1 of GA 4 helps explain this connection: how I understand a situation can awaken a feeling and shape a response. A classmate closes their book. I imagine that they are discouraged and feel concern; asking them may reveal that they have simply finished. Thought can support care, while the picture I form of another person still needs checking.'
+    : 'O capítulo 1 da GA 4 ajuda a explicar essa relação: minha compreensão de uma situação pode despertar um sentimento e orientar uma resposta. Uma colega fecha o livro. Imagino que esteja desanimada e sinto preocupação; ao perguntar, posso descobrir que ela apenas terminou a leitura. O pensar pode apoiar o cuidado, mas a representação que formo de outra pessoa ainda precisa ser verificada.');
+   if(course==='theosophy' && lesson.id===21) lesson[lang][3]=lang==='en'
+    ? 'Choose an ordinary decision, such as attending a study group. Separate the options available, your ability to carry out the choice, and how your motive arose. Name one possible influence and one reason you have examined. What remains uncertain? Keep a practical responsibility in view; this exercise does not certify that an action is free.'
+    : 'Escolha uma decisão cotidiana, como participar de um grupo de estudo. Separe as opções disponíveis, sua possibilidade de realizar a escolha e como surgiu seu motivo. Nomeie uma possível influência e uma razão que examinou. O que permanece incerto? Considere uma responsabilidade prática; este exercício não certifica que uma ação seja livre.';
    if(course==='theosophy' && lesson.id===18) lesson[lang][3]=lang==='en'
     ? 'Choose a short argument from this lesson’s reading. Close the text and explain three connected steps in your own words. Reopen it, check the connections, and correct anything missing. Then distinguish one question about meaning from one about justification.'
     : 'Escolha um argumento curto da leitura desta lição. Feche o texto e explique três etapas relacionadas com suas próprias palavras. Abra-o novamente, confira as relações e corrija o que faltou. Depois distinga uma pergunta sobre significado de outra sobre justificação.';
@@ -74,6 +80,20 @@ export function freedomSource(course,id,lang) {
  const e=freedomConnections[course][id]; if(!e)return '';
  const pt=lang==='pt';
  return `<p class="closing freedom-source">${pt?'Ligação complementar:':'Additional connection:'} <cite>${pt?'A Filosofia da Liberdade':'The Philosophy of Freedom'}</cite> (GA 4), ${pt?'marcadores':'markers'} ${e[1]} ${pt?'da transcrição Basis de 147 páginas. Localize pelo capítulo em outra edição.':'in the 147-page Basis transcription. Locate by chapter in another edition.'} <a href="https://rsarchive.org/Books/GA004/English/RSP1964/GA004_index.html">${pt?'Consultar o livro':'Find the book'}</a>.${[0,18].includes(id)&&course==='theosophy'||[1,18].includes(id)&&course==='higherWorlds' ? ` ${pt?'Método de estudo também informado pelas palestras de Brian sobre os prefácios (1893: 10:23–13:09, 17:44–18:12; 1918: 03:50–10:45). Exemplos e explicações são material original do curso.':'Study method also informed by Brian’s preface lectures (1893: 10:23–13:09, 17:44–18:12; 1918: 03:50–10:45). Examples and explanations are original course material.'}`:''}</p>`;
+}
+
+export function actionQuestions(lang) {
+ const pt=lang==='pt';
+ const cards=pt?[
+  ['Quais são minhas opções?','Posso participar do grupo na terça ou no sábado. Ter duas opções descreve a situação; ainda não explica meu motivo.'],
+  ['Posso realizar minha escolha?','Escolho terça, mas o encontro é cancelado. Esse obstáculo impede o plano; não explica como cheguei à decisão.'],
+  ['Como surgiu meu motivo?','Vou por hábito, para obter aprovação ou por uma razão que examinei? Os motivos podem se misturar. Reconhecer um desejo ainda não resolve a questão da liberdade.']
+ ]:[
+  ['What are my options?','I can attend the group on Tuesday or Saturday. Having two options describes the situation; it does not yet explain my motive.'],
+  ['Can I carry out my choice?','I choose Tuesday, but the meeting is cancelled. This obstacle prevents the plan; it does not explain how I reached the decision.'],
+  ['How did my motive arise?','Am I going from habit, to gain approval, or for a reason I have examined? Motives can be mixed. Recognizing a desire does not yet settle the question of freedom.']
+ ];
+ return `<section class="inquiry-diagrams action-questions" aria-labelledby="action-heading"><h2 id="action-heading">${pt?'Três perguntas sobre uma decisão':'Three questions about a decision'}</h2><ol>${cards.map(([title,body])=>`<li><h3>${title}</h3><p>${body}</p></li>`).join('')}</ol><p>${pt?'O capítulo 1 abre a investigação: compreender a ação exige examinar o conhecer e o pensar. Ele ainda não oferece uma demonstração completa da liberdade.':'Chapter 1 opens the inquiry: understanding action requires examining knowing and thinking. It does not yet offer a complete demonstration of freedom.'}</p><p class="closing">${pt?'Exemplo original inspirado na palestra de Brian, capítulo 1, 33:15–37:25 e 39:23–44:39; GA 4, marcadores Basis 9–11.':'Original example informed by Brian’s Chapter 1 lecture, 33:15–37:25 and 39:23–44:39; GA 4, Basis markers 9–11.'}</p></section>`;
 }
 
 export function introductoryDiagrams(lang) {

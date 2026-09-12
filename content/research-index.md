@@ -2,6 +2,10 @@
 
 This folder keeps the source analysis, teaching decisions and implementation plans under Git version control. Begin here when adding a book, lecture or illustration. The website is generated into `docs/`; editorial notes remain in `content/`.
 
+## Chapter 1 update — 12 September 2026
+
+[Chapter 1 review and bilingual lesson draft](philosophy-of-freedom-brian-chapter-1.md) records the full lecture, book comparisons and visual plans. Theosophy Lessons 19 and 21 now use its clarifications; Lesson 21 includes a three-question comparison. The separate GA 4 course remains in preparation.
+
 ## Research by source
 
 | Material | Reading and source analysis | Teaching plan / implementation |
