@@ -13,13 +13,13 @@ To publish with GitHub Pages, use **Settings → Pages → Deploy from a branch*
 
 ## Developing the lessons
 
-The introduction and selected lessons now include original bilingual connections with *The Philosophy of Freedom* and the teaching method from Brian's two preface lectures. Edit these in `content/philosophy-of-freedom-connections.mjs`; both course builders apply them without changing the main books' reading references. Lesson 0 includes a responsive two-question map and four expandable inquiry steps. GA 9 Lesson 18 now asks students to reconstruct and check a chain of reasoning. The separate GA 4 course remains in planning while chapter lectures are supplied; these changes do not publish a third course.
+The introduction and selected lessons now include original bilingual connections with *The Philosophy of Freedom* and the teaching method from Brian's two preface lectures. Edit these in `content/philosophy-of-freedom-connections.mjs`; both course builders apply them without changing the main books' reading references. Lesson 0 includes a responsive two-question map and four expandable inquiry steps. GA 9 Lesson 18 now asks students to reconstruct and check a chain of reasoning. The separate GA 4 course now publishes the reviewed material through Chapter 12: orientation and 17 lessons, in both languages.
 
-The site now contains **two bilingual reading courses**: *Theosophy* (orientation, 21 book lessons and synthesis) and *How to Know Higher Worlds* (orientation and 18 lessons including synthesis). Course 2 starts at `docs/higher-worlds/index.html`, with its Portuguese counterpart at `docs/pt/higher-worlds/index.html`. The homepages link both courses, and the final GA 9 lesson leads into GA 10.
+The site now contains **three bilingual reading courses**: *Theosophy* (orientation, 21 book lessons and synthesis) and *How to Know Higher Worlds* (orientation and 18 lessons including synthesis). Course 2 starts at `docs/higher-worlds/index.html`, with its Portuguese counterpart at `docs/pt/higher-worlds/index.html`. The homepages link all three courses, and the final GA 9 lesson leads into GA 10.
 
 Edit Course 2 in `content/higher-worlds.mjs` and its four short GA 9 supplements in `content/higher-worlds-connections.mjs`. Every Course 2 lesson includes a worked example, explanation, source assignment, glossary, activity, three answer checks, a rubric and a link back to Course 1. Its page references use the replacement **107-page transcription**, not the original 294-marker file. Source texts remain private and are not copied into the public site.
 
-`node scripts/build-lessons.mjs` builds both courses; it invokes `scripts/build-higher-worlds.mjs`. `node scripts/check-site.mjs` checks all **88 pages**, their links and anchors, language pairs, required learning sections and content completeness. The source comparison and editorial history remain in `content/higher-worlds-reading-review.md` and `content/higher-worlds-course-plan.md`.
+`node scripts/build-all.mjs` (or `node scripts/build-lessons.mjs`) builds all three courses in order. `node scripts/check-site.mjs` checks all **126 pages**, their links and anchors, language pairs, required learning sections and content completeness. The source comparison and editorial history remain in `content/higher-worlds-reading-review.md` and `content/higher-worlds-course-plan.md`.
 
 Start with the [agreed course outline](content/course-outline.md): a beginner course built around Rudolf Steiner's **Theosophy / Teosofia (GA 9)**. The [chapter-by-chapter teaching plan](content/theosophy-chapter-teaching-plan.md) records the source analysis. The website now contains the orientation, 21 book lessons, and a final synthesis in both languages.
 
@@ -41,3 +41,7 @@ Keep original source files intended only for preparation in `.sources/` (ignored
 ## Design
 
 Responsive, accessible static HTML and CSS with matching language navigation, semantic headings, visible keyboard focus, and no third-party scripts or services.
+
+## Philosophy of Freedom course
+
+The course starts at `docs/philosophy-of-freedom/index.html`, with matching Portuguese pages under `docs/pt/philosophy-of-freedom/`. Edit the extracted, reviewed student lessons in `content/philosophy-of-freedom-lessons.json` and the orientation and Chapter 12 lessons in `content/philosophy-of-freedom-additions.mjs`. Editorial review files remain the provenance record; changes to them do not automatically change the published student text. The course currently covers the prefaces and Chapters 1–12, retaining the planned two-lesson splits. Later chapters are in preparation.

@@ -61,3 +61,4 @@ for (const lang of ['en','pt']) {
 }
 console.log(`Built ${lessons.length*2} lesson pages and 2 course indexes.`);
 await import('./build-higher-worlds.mjs');
+await import('./build-freedom.mjs');
