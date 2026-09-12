@@ -72,3 +72,7 @@ Em outro livro, *A Filosofia da Liberdade*, Steiner examina como ideias morais t
 ## Placement decision
 
 For the current Lesson 12, use the short bilingual clarification to refine the existing building-plan analogy, not as an additional theory to memorize. For a future GA 4 Chapter 12 lesson, use the study-group example as the main worked example and read the omitted Darwinism section separately. For the current course's Lesson 20, the three questions offer a useful optional extension with a clear GA 4 source label.
+
+## Implementation update — 12 September 2026
+
+The named source `Lecture 12 -- Moral imagination - Darwinism and morality.md` has now been reviewed and fingerprinted. The [Chapter 12 comparison](philosophy-of-freedom-brian-chapter-12.md) updates this earlier proposal and records implementation in GA 4 Lessons 16–17. The reading extends through Basis 107 to include the full 1918 addition. Earlier statements above about material not being implemented describe the proposal stage.

@@ -163,3 +163,14 @@ Before publishing:
 - Extend the site's build and checks to cover the actual new page count, navigation, English/Portuguese pairs, answer controls and image alternatives. Inspect the new pages on narrow and wide layouts.
 
 For now, the concrete result is a source-grounded review, proposed earlier-course wording, a provisional syllabus, a worked lesson example and drawing briefs. The course should be developed further after the promised lecture transcripts and board drawings are read.
+
+## Chapters 12–13 implementation — 12 September 2026
+
+Lessons 16–17 now incorporate the named Chapter 12 recording and the complete Basis 100–107 reading, including the evolution argument and 1918 addition. Lessons 18–19 are implemented in both languages from the supplied Chapter 13 recording and Basis 108–124. The music-practice and book-repair examples distinguish experience, fulfillment, particular aims and ethical content. See the [Chapter 12](philosophy-of-freedom-brian-chapter-12.md) and [Chapter 13](philosophy-of-freedom-brian-chapter-13.md) comparisons for timestamps and corrections. Course coverage now extends through Chapter 13; earlier proposed implementation paths and status statements are historical planning notes. Chapter 14, conclusion and synthesis remain outstanding.
+
+
+## Chapter 14 implementation — 12 September 2026
+
+The [Chapter 14 lecture comparison](philosophy-of-freedom-brian-chapter-14.md) reviews the complete supplied recording against Basis 125–127 and the 1918 footnote in the endnotes at 143. Lesson 20, “Understanding an individual / Compreender uma individualidade,” now distinguishes observation, assumption and the person’s own explanation, addresses historical group generalizations, and restores the book’s account of listening, gradual freedom and community. Both languages include an example, activity, glossary and explained answers.
+
+Current GA 4 coverage is orientation and 20 lessons on Chapters 1–14, with 132 pages across the three bilingual courses. The concluding section and synthesis remain in preparation. This supersedes earlier coverage summaries while retaining their editorial history. Changes are generated locally; publication is not established by this record.

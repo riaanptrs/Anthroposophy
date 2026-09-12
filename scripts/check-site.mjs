@@ -63,8 +63,8 @@ for(const lang of ['en','pt']) for(const l of higherWorlds) {
  if(!Number.isInteger(l.bridge)||l.bridge<0||l.bridge>22) errors.push(`Invalid Course 1 reference: ${l.id}`);
 }
 if(higherWorlds.length!==19 || new Set(higherWorlds.map(l=>l.id)).size!==19) errors.push('Expected 19 distinct Course 2 lessons');
-for(let id=0;id<=17;id++)for(const prefix of ['philosophy-of-freedom','pt/philosophy-of-freedom'])if(!fs.existsSync(path.join(root,prefix,'lessons',String(id).padStart(2,'0')+'.html')))errors.push(`Missing GA 4 ${prefix}/${id}`);
-if(freedomLessons.length!==18||new Set(freedomLessons.map(l=>l.id)).size!==18)errors.push('Expected 18 distinct GA 4 lessons');
-if(files.length!==126) errors.push(`Expected 126 HTML pages, got ${files.length}`);
+for(let id=0;id<=20;id++)for(const prefix of ['philosophy-of-freedom','pt/philosophy-of-freedom'])if(!fs.existsSync(path.join(root,prefix,'lessons',String(id).padStart(2,'0')+'.html')))errors.push(`Missing GA 4 ${prefix}/${id}`);
+if(freedomLessons.length!==21||new Set(freedomLessons.map(l=>l.id)).size!==21)errors.push('Expected 21 distinct GA 4 lessons');
+if(files.length!==132) errors.push(`Expected 132 HTML pages, got ${files.length}`);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
 console.log(`Passed: ${files.length} pages, local links and anchors, three bilingual courses, headings, examples, answers, and rubrics.`);

@@ -1,3 +1,5 @@
+import {chapter13} from './philosophy-of-freedom-chapter-13.mjs';
+import {chapter14} from './philosophy-of-freedom-chapter-14.mjs';
 const make=(title,goal,reading,paragraphs,activity,checks,takeaway)=>({title,goal,reading,paragraphs,activity,checks,takeaway});
 export const additions=[{
 id:0,chapter:0,source:'content/philosophy-of-freedom-brian-prefaces.md',
@@ -66,3 +68,22 @@ pt:make('Imaginação moral e técnica','Acompanhar uma ideia até uma proposta 
 ['A palestra explica toda a seção sobre darwinismo?','Não. Ela passa por grande parte da seção sem desenvolvê-la. Use o livro para examinar o argumento, em vez de tratar a gravação como cobertura completa.']
 ],'Uma razão ética precisa de expressão concreta adequada e de meios práticos para se realizar.')
 }];
+
+// Apply the September 12 lecture comparison to the existing Chapter 12 lessons.
+for(const lesson of additions.filter(l=>l.chapter===12)) lesson.source='content/philosophy-of-freedom-brian-chapter-12.md';
+const imagination=additions.find(l=>l.id===17);
+imagination.en.reading='Chapter 12: imagination and technique, Basis 100–102; evolution and the source of willing, 102–106; 1918 addition, 106–107.';
+imagination.pt.reading='Capítulo 12: imaginação e técnica, Basis 100–102; evolução e origem do querer, 102–106; adendo de 1918, 106–107.';
+imagination.en.paragraphs.splice(3,0,
+'The lecture’s sketch-and-building comparison helps distinguish an anticipated result from an accomplished one. A memory refers to what you encountered; here you form a concrete picture of a possible response that has not happened. This still uses what you know about the world. Imagination is not creation from nothing, and a compelling picture does not supply technical knowledge or establish a good motive.');
+imagination.pt.paragraphs.splice(3,0,
+'A comparação da palestra entre esboço e construção ajuda a distinguir um resultado antecipado de um resultado realizado. Uma lembrança se refere ao que você encontrou; aqui você forma uma imagem concreta de uma resposta possível que ainda não aconteceu. Isso utiliza o que você conhece do mundo. Imaginação não é criação a partir do nada, e uma imagem convincente não fornece conhecimento técnico nem estabelece um bom motivo.');
+imagination.en.paragraphs.splice(5,0,
+'To unpack that argument, separate three questions: how an idea arose historically, what its content is, and what determines this action now. Discovering the history of a group’s arrangements does not, by itself, supply the particular response to a new participant. Steiner argues that the new content must itself be encountered and understood. He also rejects treating inherited moral rules as ready-made natural laws from which each new deed follows. This is a claim to examine, not permission to dismiss other people’s reasons.',
+'At the end of the chapter, practical freedom to carry out a wish is distinguished from authorship of the motive. A broken printer may prevent delivery without replacing the reason you understood. Conversely, having a working printer does not make a motive free. The 1918 addition at Basis 106–107 returns to observation of willing and makes the stronger claim that organic activity withdraws to allow ideal activity. Attribute that claim to Steiner; the file example does not demonstrate it, and it is not an instruction to suppress bodily needs.');
+imagination.pt.paragraphs.splice(5,0,
+'Para compreender esse argumento, separe três perguntas: como uma ideia surgiu historicamente, qual é seu conteúdo e o que determina esta ação agora. Conhecer a história dos encontros de um grupo não fornece, por si só, a resposta particular para uma nova pessoa. Steiner argumenta que o conteúdo novo precisa ser encontrado e compreendido. Também rejeita tratar regras morais herdadas como leis naturais prontas das quais cada nova ação decorreria. É uma afirmação a examinar, não uma autorização para desprezar as razões alheias.',
+'No fim do capítulo, a liberdade prática para realizar um desejo é distinguida da autoria do motivo. Uma impressora quebrada pode impedir a entrega sem substituir a razão compreendida. Inversamente, ter uma impressora funcionando não torna livre um motivo. O adendo de 1918, em Basis 106–107, retoma a observação do querer e afirma, de modo mais forte, que a atividade orgânica recua para permitir a atividade ideal. Atribua essa afirmação a Steiner; o exemplo do arquivo não a demonstra nem constitui uma instrução para suprimir necessidades corporais.');
+imagination.en.checks[2]=['Does explaining the history of an idea settle whether this deed is free?','No. Historical development, the content of the idea and the present determining motive are different questions. Steiner asks us to examine the action itself; evolution alone does not settle its freedom.'];
+imagination.pt.checks[2]=['Explicar a história de uma ideia decide se esta ação é livre?','Não. Desenvolvimento histórico, conteúdo da ideia e motivo determinante atual são perguntas diferentes. Steiner pede que examinemos a própria ação; a evolução sozinha não decide sua liberdade.'];
+additions.push(...chapter13,chapter14);

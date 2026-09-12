@@ -78,3 +78,16 @@ Do not treat an editorial note as proof that a source is complete. Keep Steiner'
 3. Add a chapter review with useful explanations, original examples, lesson destinations and visual briefs.
 4. Update the cumulative course plan and this index to distinguish proposed work from implemented work.
 5. For implemented changes, rebuild and run the site checks, then commit and push the content, research records and generated pages together. Check the Pages deployment before describing changes as live.
+
+## Chapters 12–13 update — 12 September 2026
+
+The [Chapter 12 comparison](philosophy-of-freedom-brian-chapter-12.md) checks the named lecture against Basis 100–107 and strengthens Lessons 16–17, including the missing evolution argument, motive versus practical ability, and complete 1918 addition. The [Chapter 13 comparison](philosophy-of-freedom-brian-chapter-13.md) checks the full supplied lecture against Basis 108–124 and implements Lessons 18–19 in English and Brazilian Portuguese. It corrects the lecture's account of Hartmann and distinguishes striving, fulfillment, pleasure, particular aims and ethical content.
+
+Current implementation supersedes the earlier planning status: the GA 4 course includes orientation and 19 lessons through Chapter 13. Chapter 14 and concluding synthesis remain in preparation. The site now contains 130 generated pages. Course content is maintained in `philosophy-of-freedom-lessons.json`, `philosophy-of-freedom-additions.mjs` and `philosophy-of-freedom-chapter-13.mjs`. These updates are local generated-site changes; no deployment is established by this record.
+
+
+## Chapter 14 implementation — 12 September 2026
+
+The [Chapter 14 lecture comparison](philosophy-of-freedom-brian-chapter-14.md) reviews the complete supplied recording against Basis 125–127 and the 1918 footnote in the endnotes at 143. Lesson 20, “Understanding an individual / Compreender uma individualidade,” now distinguishes observation, assumption and the person’s own explanation, addresses historical group generalizations, and restores the book’s account of listening, gradual freedom and community. Both languages include an example, activity, glossary and explained answers.
+
+Current GA 4 coverage is orientation and 20 lessons on Chapters 1–14, with 132 pages across the three bilingual courses. The concluding section and synthesis remain in preparation. This supersedes earlier coverage summaries while retaining their editorial history. Changes are generated locally; publication is not established by this record.
