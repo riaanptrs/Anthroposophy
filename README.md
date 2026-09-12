@@ -2,6 +2,8 @@
 
 A bilingual learning website for studying Anthroposophy in English and Brazilian Portuguese.
 
+Research, source comparisons, lecture timestamps, illustration briefs and future improvements are tracked in the [research index](content/research-index.md). The [source register](content/source-register.json) identifies reviewed input files by filename and fingerprint. Full source books and lecture transcripts remain local; they are not backed up by this repository.
+
 ## Website
 
 The generated static website lives in `docs/`. Viewing or hosting it needs no installation.
@@ -10,6 +12,8 @@ Open `docs/index.html` locally to preview it. The Portuguese edition is in `docs
 To publish with GitHub Pages, use **Settings → Pages → Deploy from a branch**, choose the branch containing these files, and select **/docs**. The expected address is https://riaanptrs.github.io/Anthroposophy/ once Pages is enabled and deployment succeeds.
 
 ## Developing the lessons
+
+The introduction and selected lessons now include original bilingual connections with *The Philosophy of Freedom* and the teaching method from Brian's two preface lectures. Edit these in `content/philosophy-of-freedom-connections.mjs`; both course builders apply them without changing the main books' reading references. Lesson 0 includes a responsive two-question map and four expandable inquiry steps. GA 9 Lesson 18 now asks students to reconstruct and check a chain of reasoning. The separate GA 4 course remains in planning while chapter lectures are supplied; these changes do not publish a third course.
 
 The site now contains **two bilingual reading courses**: *Theosophy* (orientation, 21 book lessons and synthesis) and *How to Know Higher Worlds* (orientation and 18 lessons including synthesis). Course 2 starts at `docs/higher-worlds/index.html`, with its Portuguese counterpart at `docs/pt/higher-worlds/index.html`. The homepages link both courses, and the final GA 9 lesson leads into GA 10.
 

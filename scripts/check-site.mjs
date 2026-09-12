@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {higherWorlds} from '../content/higher-worlds.mjs';
+import {freedomConnections} from '../content/philosophy-of-freedom-connections.mjs';
 const root = path.resolve('docs');
 const files = fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.html'));
 const errors = [];
@@ -22,10 +23,20 @@ for (const relative of files) {
  }
  if(relative.includes('lessons')) {
   if(!html.includes('class="worked-example"')||!html.includes('class="takeaway"')) errors.push(`${relative}: missing worked example or takeaway`);
-  const expectedDetails=relative.includes('higher-worlds')?4:2;
-  if((html.match(/<details>/g)||[]).length!==expectedDetails) errors.push(`${relative}: missing answer or rubric`);
+  const intro=!relative.includes('higher-worlds') && path.basename(relative)==='00.html';
+  const expectedDetails=relative.includes('higher-worlds')?4:intro?6:2;
+  if((html.match(/<details\b/g)||[]).length!==expectedDetails) errors.push(`${relative}: incorrect number of answer, rubric or inquiry controls`);
+  if(!html.includes('How to assess your response')&&!html.includes('Como avaliar sua resposta')) errors.push(`${relative}: missing rubric`);
+  if(intro && (!html.includes('class="question-pair"')||!html.includes('class="inquiry-steps"')||(html.match(/<details open>/g)||[]).length!==1)) errors.push(`${relative}: incomplete introductory diagrams`);
   const expected=relative.startsWith('pt')?'pt-BR':'en';
   if(!html.includes(`<html lang="${expected}">`)) errors.push(`${relative}: language mismatch`);
+ }
+}
+for(const [course,entries] of Object.entries(freedomConnections)) for(const [id,entry] of Object.entries(entries)) {
+ for(const [lang,index] of [['en',2],['pt',3]]) {
+  const relative=`${lang==='pt'?'pt/':''}${course==='higherWorlds'?'higher-worlds/':''}lessons/${String(id).padStart(2,'0')}.html`;
+  const html=fs.readFileSync(path.join(root,relative),'utf8');
+  if(!entry[index]||!html.includes(entry[index])||!html.includes('freedom-source')) errors.push(`${relative}: missing bilingual GA 4 explanation or source`);
  }
 }
 for(let i=0;i<=22;i++) for(const prefix of ['lessons','pt/lessons']) {
