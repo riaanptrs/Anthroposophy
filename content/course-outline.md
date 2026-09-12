@@ -1,9 +1,14 @@
 # Course outline: studying Rudolf Steiner's Theosophy
 
 Saved: 11 September 2026
-Status: the user supplied the 1971 English edition; chapter-by-chapter reading and teaching analysis completed. Full lesson drafting remains to be done.
+Implementation update (12 September 2026): both courses now exist locally in English and Brazilian Portuguese. GA 10 adds orientation and 18 lessons, including synthesis; GA 9 Lessons 2, 17, 19 and 20 include attributed GA 10 clarifications. The site has 88 generated HTML pages. The earlier planning status below is retained as history; current Course 2 content and references are in `higher-worlds.mjs`.
+Current status (12 September 2026): all 21 book lessons and the final synthesis exist in English and Brazilian Portuguese. A new Lesson 0 introduces anthroposophy and maps the course; selected later-lecture connections supplement eight lessons. See [the introduction review](anthroposophy-introduction-review.md) for sources and pending transcription recovery. These changes have been generated locally; this update does not record a deployment.
+
+The planning sections below preserve the earlier drafting sequence and historical status. Their references to unwritten lessons or the old Lesson 0 are superseded by this status and the current generated pages.
 
 ## Detailed plan
+
+The follow-on course originated in [How to Know Higher Worlds: Course 2 plan](higher-worlds-course-plan.md), with a [sequential reading review](higher-worlds-reading-review.md). The four GA 10 clarifications and the 18-lesson sequence plus orientation are now implemented. The plan retains its original source-recovery history; implemented lessons use the replacement transcription's references.
 
 Continue from [Theosophy: chapter-by-chapter teaching plan](theosophy-chapter-teaching-plan.md). It contains source pagination, chapter and subsection takeaways, 21 proposed book lessons, activities, misconception checks with answer guidance, an assessment rubric, a provisional bilingual glossary, and a concrete first-lesson plan. Add Lesson 0 and a final synthesis (Lesson 22).
 
