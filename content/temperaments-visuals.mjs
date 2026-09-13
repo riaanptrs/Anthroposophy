@@ -1,0 +1,8 @@
+export function temperamentsVisual(id,lang){
+ const pt=lang==='pt';
+ if(id===0||id===10)return `<section class="inquiry-diagrams"><h2>${pt?'Da observação à resposta':'From observation to response'}</h2><ol><li>${pt?'Descreva a situação e o comportamento.':'Describe the situation and behaviour.'}</li><li>${pt?'Distinga a interpretação e procure um contraexemplo.':'Distinguish the interpretation and look for a counterexample.'}</li><li>${pt?'Ofereça uma resposta concreta e confira sua adequação.':'Offer a concrete response and check its fit.'}</li></ol></section>`;
+ if(id!==2&&id!==8)return '';
+ const headers=pt?['Tipo','Membro predominante, segundo Steiner','Via educativa proposta']:['Type','Predominant member, according to Steiner','Proposed educational route'];
+ const rows=pt?[['Colérico','Portador do Eu','Respeito pela competência; desafio'],['Sanguíneo','Corpo astral','Afeto e interesse pessoal'],['Fleumático','Corpo etérico ou vital','Interesses dos companheiros'],['Melancólico','Corpo físico','Compaixão pelo destino alheio']]:[['Choleric','I-bearer','Respect for competence; challenge'],['Sanguine','Astral body','Affection and personal interest'],['Phlegmatic','Etheric or life body','Companions’ interests'],['Melancholic','Physical body','Compassion for another’s destiny']];
+ return `<section class="temperaments-map"><h2>${pt?'Mapa de leitura':'Reading map'}</h2><table><caption>${pt?'Correspondências na palestra: não é um teste para classificar pessoas.':'Correspondences in the lecture: not a test for classifying people.'}</caption><thead><tr>${headers.map(h=>`<th scope="col">${h}</th>`).join('')}</tr></thead><tbody>${rows.map(r=>`<tr><th scope="row">${r[0]}</th><td>${r[1]}</td><td>${r[2]}</td></tr>`).join('')}</tbody></table></section>`;
+}

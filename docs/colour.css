@@ -1,0 +1,17 @@
+.colour-study{margin:2rem 0;padding:1.25rem;border:1px solid #d6d1c7;border-radius:12px;background:#fffdf7}
+.colour-study table{width:100%;border-collapse:collapse;font-size:.95rem}
+.colour-study th,.colour-study td{text-align:left;vertical-align:top;border-bottom:1px solid #d6d1c7;padding:.6rem;overflow-wrap:anywhere}
+.colour-studies{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,180px),1fr));gap:1rem}
+.colour-studies figure{margin:0;min-width:0}
+.colour-studies figcaption{font-size:.9rem;line-height:1.5;margin-top:.5rem;color:#29352f}
+.colour-swatch{height:180px;position:relative;overflow:hidden;border:1px solid #b7b2a8;border-radius:8px;background:#e4dfd2}
+.colour-swatch.yellow{background:radial-gradient(circle,#efc220 0%,#f4d052 23%,#fffdf7 70%)}
+.colour-swatch.blue{background:radial-gradient(circle,#fffdf7 0%,#b6d0ed 25%,#3569b2 75%,#234780 100%)}
+.colour-swatch.red{background:#b84438}
+.colour-swatch:is(.pair-a,.pair-b) i,.colour-swatch:is(.pair-a,.pair-b) b{position:absolute;top:55px;width:54px;height:54px;border-radius:50%}
+.colour-swatch:is(.pair-a,.pair-b) i{left:15%;background:#b84438}
+.colour-swatch:is(.pair-a,.pair-b) b{right:15%;background:#3569b2}
+.colour-swatch.pair-b i{background:#3569b2}.colour-swatch.pair-b b{background:#b84438}
+.colour-swatch:is(.weight-a,.weight-b){background:#e4d8a5}
+.colour-swatch:is(.weight-a,.weight-b) i{position:absolute;top:68px;width:35px;height:35px;background:#363653}
+.colour-swatch.weight-a i{left:7%}.colour-swatch.weight-b i{left:45%}

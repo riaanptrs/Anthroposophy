@@ -1,0 +1,5 @@
+.temperaments-map{margin:2rem 0;padding:1rem;border:1px solid #d6d1c7;border-radius:12px;background:#fffdf7}
+.temperaments-map table{width:100%;border-collapse:collapse;table-layout:fixed;font-size:.95rem}
+.temperaments-map caption{text-align:left;padding:.5rem 0 1rem;line-height:1.6}
+.temperaments-map th,.temperaments-map td{text-align:left;vertical-align:top;padding:.65rem .4rem;border-bottom:1px solid #d6d1c7;overflow-wrap:anywhere;hyphens:auto}
+@media(max-width:480px){.temperaments-map{padding:.6rem}.temperaments-map table{font-size:.85rem}.temperaments-map th,.temperaments-map td{padding:.5rem .25rem}}
