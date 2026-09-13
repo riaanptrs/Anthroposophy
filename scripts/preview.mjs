@@ -10,7 +10,7 @@ http.createServer((req,res)=>{
   if (!file.startsWith(root + path.sep)) { res.writeHead(403).end(); return; }
   fs.readFile(file,(error,body)=>{
     if(error){res.writeHead(404).end('Not found');return;}
-    res.writeHead(200,{'Content-Type':({'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.png':'image/png'})[path.extname(file)]||'application/octet-stream','Cache-Control':'no-store'});
+    res.writeHead(200,{'Content-Type':({'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.png':'image/png'})[path.extname(file)]||'application/octet-stream','Cache-Control':'no-store'});
     res.end(body);
   });
 }).listen(4173,'127.0.0.1',()=>console.log('Preview: http://127.0.0.1:4173'));

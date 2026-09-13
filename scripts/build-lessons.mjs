@@ -71,3 +71,5 @@ await import('./build-temperaments.mjs');
 await import('./build-understand-temperament.mjs');
 
 await import('./build-encountering-the-self.mjs');
+await import('./build-mystery-temperaments.mjs');
+await import('./build-guided-study.mjs');

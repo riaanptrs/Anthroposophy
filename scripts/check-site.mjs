@@ -10,12 +10,14 @@ import {colourConnections} from '../content/colour-connections.mjs';
 import {temperamentsLessons,temperamentsSource,temperamentsConnections} from '../content/temperaments.mjs';
 import {understandLessons,understandSource,understandConnections} from '../content/understand-temperament.mjs';
 import {selfLessons,selfSource,selfConnections} from '../content/encountering-the-self.mjs';
+import {mysteryLessons,mysterySource} from '../content/mystery-temperaments.mjs';
 const freedomLessons=[...JSON.parse(fs.readFileSync('content/philosophy-of-freedom-lessons.json','utf8')),...additions];
 const root = path.resolve('docs');
 const files = fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.html'));
 const errors = [];
 for (const relative of files) {
  const file = path.join(root,relative), html = fs.readFileSync(file,'utf8');
+ const answerDetails=(html.match(/<details(?! class="guided-)\b/g)||[]).length;
  const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
  if(new Set(ids).size!==ids.length) errors.push(`${relative}: duplicate id`);
  if((html.match(/<h1\b/g)||[]).length!==1) errors.push(`${relative}: expected one h1`);
@@ -32,9 +34,18 @@ for (const relative of files) {
  }
  if(relative.includes('lessons')) {
   if(!html.includes('class="worked-example"')||!html.includes('class="takeaway"')) errors.push(`${relative}: missing worked example or takeaway`);
+  if(relative.includes('mystery-temperaments')) {
+   const lang=relative.startsWith('pt')?'pt':'en',lesson=mysteryLessons.find(l=>l.id===Number(path.basename(relative,'.html')));
+   if(!lesson||!html.includes(lesson[lang].title)||answerDetails!==4)errors.push(`${relative}: incomplete Mystery lesson`);
+   if(!html.includes(mysterySource)||!html.includes(lesson?.span))errors.push(`${relative}: missing Mystery source assignment`);
+   const partner=path.join(root,lang==='pt'?'':'pt','mystery-temperaments','lessons',path.basename(relative));
+   const alternate=html.match(/<link rel="alternate"[^>]*href="([^"]+)"/);
+   if(!alternate||path.resolve(path.dirname(file),alternate[1])!==partner)errors.push(`${relative}: incorrect Mystery language partner`);
+   continue;
+  }
   if(relative.includes('encountering-the-self')) {
    const lang=relative.startsWith('pt')?'pt':'en',lesson=selfLessons.find(l=>l.id===Number(path.basename(relative,'.html')));
-   if(!lesson||!html.includes(lesson[lang].title)||(html.match(/<details\b/g)||[]).length!==4)errors.push(`${relative}: incomplete Koepke lesson`);
+   if(!lesson||!html.includes(lesson[lang].title)||answerDetails!==4)errors.push(`${relative}: incomplete Koepke lesson`);
    if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong Koepke language`);
    if(!html.includes('How to assess your response')&&!html.includes('Como avaliar sua resposta'))errors.push(`${relative}: missing Koepke rubric`);
    if(!html.includes(selfSource))errors.push(`${relative}: missing dated primary source`);
@@ -46,7 +57,7 @@ for (const relative of files) {
   }
   if(relative.includes('understand-temperament')) {
    const lang=relative.startsWith('pt')?'pt':'en',lesson=understandLessons.find(l=>l.id===Number(path.basename(relative,'.html')));
-   if(!lesson||!html.includes(lesson[lang].title)||(html.match(/<details\b/g)||[]).length!==4)errors.push(`${relative}: incomplete Childs lesson`);
+   if(!lesson||!html.includes(lesson[lang].title)||answerDetails!==4)errors.push(`${relative}: incomplete Childs lesson`);
    if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong Childs language`);
    if(!html.includes('How to assess your response')&&!html.includes('Como avaliar sua resposta'))errors.push(`${relative}: missing Childs rubric`);
    if(!html.includes(understandSource))errors.push(`${relative}: missing dated primary source`);
@@ -58,7 +69,7 @@ for (const relative of files) {
   }
   if(relative.includes('temperaments')) {
    const lang=relative.startsWith('pt')?'pt':'en',lesson=temperamentsLessons.find(l=>l.id===Number(path.basename(relative,'.html')));
-   if(!lesson||!html.includes(lesson[lang].title)||(html.match(/<details\b/g)||[]).length!==4)errors.push(`${relative}: incomplete GA 57 lesson`);
+   if(!lesson||!html.includes(lesson[lang].title)||answerDetails!==4)errors.push(`${relative}: incomplete GA 57 lesson`);
    if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong GA 57 language`);
    if(!html.includes('How to assess your response')&&!html.includes('Como avaliar sua resposta'))errors.push(`${relative}: missing GA 57 rubric`);
    if(!html.includes(temperamentsSource))errors.push(`${relative}: missing dated primary source`);
@@ -70,7 +81,7 @@ for (const relative of files) {
   }
   if(relative.includes('colour')) {
    const lang=relative.startsWith('pt')?'pt':'en',lesson=colourLessons.find(l=>l.id===Number(path.basename(relative,'.html')));
-   if(!lesson||!html.includes(lesson[lang].title)||(html.match(/<details\b/g)||[]).length!==4)errors.push(`${relative}: incomplete GA 291 lesson`);
+   if(!lesson||!html.includes(lesson[lang].title)||answerDetails!==4)errors.push(`${relative}: incomplete GA 291 lesson`);
    if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong GA 291 language`);
    if(!html.includes('How to assess your response')&&!html.includes('Como avaliar sua resposta'))errors.push(`${relative}: missing GA 291 rubric`);
    if(lesson?.lecture&&!html.includes(colourSources[lesson.lecture-1].url))errors.push(`${relative}: missing dated primary source`);
@@ -82,7 +93,7 @@ for (const relative of files) {
   }
   if(relative.includes('according-to-luke')) {
    const lang=relative.startsWith('pt')?'pt':'en',lesson=lukeLessons.find(l=>l.id===Number(path.basename(relative,'.html')));
-   if(!lesson||!html.includes(lesson[lang].title)||(html.match(/<details\b/g)||[]).length!==4)errors.push(`${relative}: incomplete GA 114 lesson`);
+   if(!lesson||!html.includes(lesson[lang].title)||answerDetails!==4)errors.push(`${relative}: incomplete GA 114 lesson`);
    if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong GA 114 language`);
    if(!html.includes('How to assess your response')&&!html.includes('Como avaliar sua resposta'))errors.push(`${relative}: missing GA 114 rubric`);
    if(lesson?.lecture&&!html.includes(lukeSources[lesson.lecture-1].url))errors.push(`${relative}: missing dated primary source`);
@@ -95,7 +106,7 @@ for (const relative of files) {
   if(relative.includes('philosophy-of-freedom')) {
    const lang=relative.startsWith('pt')?'pt':'en';
    const lesson=freedomLessons.find(l=>l.id===Number(path.basename(relative,'.html')));
-   if(!lesson||!html.includes(lesson[lang].title)||(html.match(/<details\b/g)||[]).length!==lesson[lang].checks.length+1) errors.push(`${relative}: missing lesson or answers`);
+   if(!lesson||!html.includes(lesson[lang].title)||answerDetails!==lesson[lang].checks.length+1) errors.push(`${relative}: missing lesson or answers`);
    if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong language`);
    if(/For both drafts|Assess both drafts|student draft|Visual plan and/.test(html))errors.push(`${relative}: editorial notes leaked`);
    continue;
@@ -104,7 +115,7 @@ for (const relative of files) {
   const thinkingLesson=!relative.includes('higher-worlds') && path.basename(relative)==='18.html';
   const expectedDetails=relative.includes('higher-worlds')?4:intro?6:thinkingLesson?3:2;
   if(thinkingLesson && (!html.includes('class="inquiry-diagrams thinking-review"') || !html.includes('((3 × 3) + 1) ÷ 2') || !html.includes('10 ÷ 2 = 5'))) errors.push(`${relative}: missing thinking exercise or explicit arithmetic grouping`);
-  if((html.match(/<details\b/g)||[]).length!==expectedDetails) errors.push(`${relative}: incorrect number of answer, rubric or inquiry controls`);
+  if(answerDetails!==expectedDetails) errors.push(`${relative}: incorrect number of answer, rubric or inquiry controls`);
   if(!html.includes('How to assess your response')&&!html.includes('Como avaliar sua resposta')) errors.push(`${relative}: missing rubric`);
   if(intro && (!html.includes('class="question-pair"')||!html.includes('class="inquiry-steps"')||(html.match(/<details open>/g)||[]).length!==1)) errors.push(`${relative}: incomplete introductory diagrams`);
   const expected=relative.startsWith('pt')?'pt-BR':'en';
@@ -209,6 +220,6 @@ for(const prefix of ['', 'pt/']){
  }
  for(const c of selfConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- self-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Koepke supplement');}
 }
-if(files.length!==276) errors.push(`Expected 276 HTML pages, got ${files.length}`);
+if(files.length!==308) errors.push(`Expected 308 HTML pages, got ${files.length}`);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
-console.log(`Passed: ${files.length} pages, local links and anchors, eight bilingual courses, headings, examples, answers, and rubrics.`);
+console.log(`Passed: ${files.length} pages, local links and anchors, nine bilingual courses, headings, examples, answers, and rubrics.`);
