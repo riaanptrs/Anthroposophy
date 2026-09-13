@@ -74,4 +74,5 @@ await import('./build-encountering-the-self.mjs');
 await import('./build-mystery-temperaments.mjs');
 await import('./build-freedom-route.mjs');
 await import('./build-practice-courses.mjs');
+await import('./build-ancient-myths.mjs');
 await import('./build-guided-study.mjs');

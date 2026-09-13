@@ -15,11 +15,11 @@ To publish with GitHub Pages, use **Settings → Pages → Deploy from a branch*
 
 The introduction and selected lessons now include original bilingual connections with *The Philosophy of Freedom* and the teaching method from Brian's two preface lectures. Edit these in `content/philosophy-of-freedom-connections.mjs`; both course builders apply them without changing the main books' reading references. Lesson 0 includes a responsive two-question map and four expandable inquiry steps. GA 9 Lesson 18 now asks students to reconstruct and check a chain of reasoning. The separate GA 4 course now publishes the reviewed material through Chapter 14 and the conclusion: 16 core lessons and six optional exercises, in both languages.
 
-The site now offers **eight primary bilingual courses**: Practical Training in Thought (10 lessons), Understanding Temperaments (12 lessons), Theosophy (23), How to Know Higher Worlds (19), The Philosophy of Freedom (16 core lessons plus 6 optional exercises), According to Luke (12), Colour (14), and Encountering the Self (17). Three earlier temperament book companions remain in the optional source library, with all 39 lessons, URLs and notebooks preserved. The new temperament core combines their teaching into one subject path.
+The site now offers **nine primary bilingual courses**: Myth, Meaning and Human Consciousness (8 lessons), Practical Training in Thought (10 lessons), Understanding Temperaments (12 lessons), Theosophy (23), How to Know Higher Worlds (19), The Philosophy of Freedom (16 core lessons plus 6 optional exercises), According to Luke (12), Colour (14), and Encountering the Self (17). Three earlier temperament book companions remain in the optional source library, with all 39 lessons, URLs and notebooks preserved. The new temperament core combines their teaching into one subject path.
 
 Edit Course 2 in `content/higher-worlds.mjs` and its four short GA 9 supplements in `content/higher-worlds-connections.mjs`. Every Course 2 lesson includes a worked example, explanation, source assignment, glossary, activity, three answer checks, a rubric and a link back to Course 1. Its page references use the replacement **107-page transcription**, not the original 294-marker file. Source texts remain private and are not copied into the public site.
 
-`node scripts/build-all.mjs` (or `node scripts/build-lessons.mjs`) builds all courses and source companions in order. `node scripts/check-site.mjs` checks all **358 pages**, their links and anchors, language pairs, required learning sections and content completeness. The source comparison and editorial history remain in `content/higher-worlds-reading-review.md` and `content/higher-worlds-course-plan.md`.
+`node scripts/build-all.mjs` (or `node scripts/build-lessons.mjs`) builds all courses and source companions in order. `node scripts/check-site.mjs` checks all **376 pages**, their links and anchors, language pairs, required learning sections and content completeness. The source comparison and editorial history remain in `content/higher-worlds-reading-review.md` and `content/higher-worlds-course-plan.md`.
 
 Start with the [agreed course outline](content/course-outline.md): a beginner course built around Rudolf Steiner's **Theosophy / Teosofia (GA 9)**. The [chapter-by-chapter teaching plan](content/theosophy-chapter-teaching-plan.md) records the source analysis. The website now contains the orientation, 21 book lessons, and a final synthesis in both languages.
 
@@ -68,7 +68,7 @@ Course 8 starts at `docs/encountering-the-self/index.html`, with matching Portug
 
 ## Guided study and Course 9
 
-All 168 lesson pages per language now offer a first attempt, optional hint, expandable explanation, source connection and revised answer. Selected lessons include arithmetic feedback, colour comparisons, staged conversations and revealable diagrams. Notes and study marks save only after the learner opts in, on this browser and device; export a copy to retain it elsewhere. There is no account or device sync.
+All 176 lesson pages per language now offer a first attempt, optional hint, expandable explanation, source connection and revised answer. Selected lessons include arithmetic feedback, colour comparisons, staged conversations and revealable diagrams. Notes and study marks save only after the learner opts in, on this browser and device; export a copy to retain it elsewhere. There is no account or device sync.
 
 Run `node scripts/check-guided-study.mjs` alongside the site checker. See [implementation notes](content/guided-study-implementation.md) and [the Mystery source review](content/mystery-temperaments-reading-review.md).
 
@@ -79,3 +79,7 @@ One main path integrates the fuller Wilson text, Amrine and the supplied lecture
 ## Practice courses and unified temperaments
 
 Edit `content/practical-thinking.mjs` and `content/temperament-course.mjs`; `scripts/build-practice-courses.mjs` generates the routes before the shared guided-study pass. Both new courses have three dated practice entries per lesson and a course journal with text export. The Philosophy of Freedom includes optional bridges to relevant exercises. Run `node scripts/check-practice-courses.mjs` as well as the existing checks. See [implementation and source decisions](content/practice-courses-implementation.md).
+
+## Ancient Myths
+
+The eight-lesson `ancient-myths` route follows the seven lectures in the supplied 1971 Cotterell edition, with orientation, original examples, interpretation maps, activities and a final adult teaching project. Edit `content/ancient-myths.mjs`; the builder adds four optional connections to existing courses. Run `node scripts/check-ancient-myths.mjs`. See [source and teaching review](content/ancient-myths-review.md).

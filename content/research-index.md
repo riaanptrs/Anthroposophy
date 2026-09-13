@@ -1,3 +1,5 @@
+Ancient Myths — 13 September 2026: [Source and teaching review](ancient-myths-review.md) records eight bilingual lessons spanning all seven source lectures and four paired connections to existing courses. Current total: nine primary courses, 376 pages and 176 bilingual lesson identities. Earlier counts below are historical.
+
 Practice courses and temperament consolidation — 13 September 2026: [Implementation and source decisions](practice-courses-implementation.md) records ten Practical Thinking lessons, one twelve-lesson temperament core and course journals. Eight primary courses; three optional temperament companions retain their existing URLs and notes. Current total: 358 HTML pages and 168 bilingual lesson identities. Earlier counts below are historical.
 
 Philosophy of Freedom consolidation — 13 September 2026: [Source and teaching review](philosophy-of-freedom-consolidation-review.md) records one sixteen-step core covering orientation, Chapters 1–14 and conclusion/synthesis, with six optional exercises. Wilson, Amrine and the supplied lecture reviews now support a single main route. The website has 310 pages; previous counts below are historical.

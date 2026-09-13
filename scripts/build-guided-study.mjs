@@ -5,6 +5,7 @@ import {guidedLab} from '../content/guided-labs.mjs';
 import {mysteryLessons} from '../content/mystery-temperaments.mjs';
 import {thinkingLessons} from '../content/practical-thinking.mjs';
 import {temperamentCourse} from '../content/temperament-course.mjs';
+import {mythsLessons} from '../content/ancient-myths.mjs';
 const root=path.resolve('docs'),esc=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('"','&quot;');
 let count=0;
 const mysteryQuestions=[
@@ -32,7 +33,7 @@ for(const file of fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.h
  h=h.replace('</head>',`<link rel="stylesheet" href="${asset('guided-study.v1.css')}?v=practice-1"><script defer src="${asset('guided-study.v1.js')}?v=practice-1"></script></head>`);
  if(!file.includes('lessons')){h=h.replace(/(<main\b[^>]*>)/,`$1<div class="study-resume" data-study-resume hidden></div>`);fs.writeFileSync(full,h);continue;}
  const parts=file.replaceAll('\\','/').replace(/^pt\//,'').split('/'),course=parts.length===2?'theosophy':parts[0],id=Number(path.basename(file,'.html'));
- const practiceLesson=(course==='practical-thinking'?thinkingLessons:course==='understanding-temperaments'?temperamentCourse:null)?.[id]?.[lang];
+ const practiceLesson=(course==='practical-thinking'?thinkingLessons:course==='understanding-temperaments'?temperamentCourse:course==='ancient-myths'?mythsLessons:null)?.[id]?.[lang];
  const question=practiceLesson?practiceLesson.question:course==='mystery-temperaments'?mysteryQuestions[id][pt?1:0]:guidedPrompt(course,id,lang);
  h=h.replace('class="lesson-main"',`class="lesson-main" data-study-id="${course}/${String(id).padStart(2,'0')}"`);
  const worked=h.match(/<section class="worked-example">([\s\S]*?)<\/section>/);
@@ -51,6 +52,7 @@ for(const file of fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.h
  h=h.replace('<section class="practice">','</details>'+sourceStep+'<section class="practice">');
  let transfer=t('Change one condition in your example. Explain which part of your answer still holds and which part needs revision.','Mude uma condição do seu exemplo. Explique qual parte da resposta continua válida e qual precisa de revisão.');
  if(practiceLesson)transfer=practiceLesson.transfer||t('Compare your three practice entries with your first answer. Identify one change you can demonstrate and one question that remains.','Compare suas três anotações práticas com a primeira resposta. Identifique uma mudança demonstrável e uma pergunta que permanece.');
+ if(course==='ancient-myths')transfer=t('Return to your first interpretation after the activity. Cite a detail or passage that changed your understanding, distinguish your response from Steiner’s claim, and leave one question open.','Retome sua interpretação inicial após a atividade. Cite um detalhe ou trecho que mudou sua compreensão, distinga sua resposta da afirmação de Steiner e deixe uma pergunta em aberto.');
  if(course==='philosophy-of-freedom')transfer=t('Use the activity above to revisit your first answer. Identify one connection you can now explain more precisely and one question that remains.','Use a atividade acima para retomar sua primeira resposta. Identifique uma ligação que agora consegue explicar com mais precisão e uma pergunta que permanece.');
  if(course==='philosophy-of-freedom'&&id===4)transfer=t('Transfer the method: an appointment is at 9:00. Travel takes 30 minutes and you want to arrive 10 minutes early. Explain your departure time. Then change travel to 40 minutes and reconstruct the chain.','Transfira o método: um compromisso é às 9h. O trajeto leva 30 minutos e você quer chegar 10 minutos antes. Explique seu horário de saída. Depois mude o trajeto para 40 minutos e reconstrua a sequência.');
  if(course==='colour'&&id===2)transfer=t('Try the reversed arrangement with blue. Keep size and lighting as constant as possible. Compare your own observations before consulting the author’s account; disagreement is not a wrong answer.','Experimente a composição invertida em azul. Mantenha tamanho e iluminação tão constantes quanto possível. Compare suas observações antes de consultar o autor; discordar não é errar.');

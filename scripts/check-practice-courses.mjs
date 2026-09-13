@@ -8,7 +8,7 @@ for(const prefix of ['docs','docs/pt']){
  const lang=prefix.endsWith('/pt')?'pt':'en',other=lang==='en'?'docs/pt':'docs';
  const home=fs.readFileSync(prefix+'/index.html','utf8');
  const cards=[...home.matchAll(/<a class="course-card" href="([^"]+)"/g)].map(m=>m[1]);
- assert.equal(cards.length,8);assert.equal(new Set(cards).size,8);
+ assert.equal(cards.length,9);assert.equal(new Set(cards).size,9);
  for(const old of ['temperaments','understand-temperament','mystery-temperaments']){
   assert.ok(!cards.includes(old+'/index.html'),'Duplicate primary temperament route');
   assert.ok(home.includes(`href="${old}/index.html"`),'Missing source-library access');

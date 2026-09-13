@@ -14,6 +14,7 @@ import {mysteryLessons,mysterySource} from '../content/mystery-temperaments.mjs'
 import {freedomConsolidated as freedomLessons} from '../content/philosophy-of-freedom-consolidated.mjs';
 import {thinkingLessons} from '../content/practical-thinking.mjs';
 import {temperamentCourse} from '../content/temperament-course.mjs';
+import {mythsLessons} from '../content/ancient-myths.mjs';
 const root = path.resolve('docs');
 const files = fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.html'));
 const errors = [];
@@ -35,6 +36,11 @@ for (const relative of files) {
   if(anchor&&!fs.readFileSync(target,'utf8').includes(`id="${anchor}"`)) errors.push(`${relative}: missing anchor ${href}`);
  }
  if(relative.includes('lessons')) {
+  if(relative.includes('ancient-myths')) {
+   const lang=relative.startsWith('pt')?'pt':'en',l=mythsLessons[Number(path.basename(relative,'.html'))];
+   if(!l||!html.includes(l[lang].title)||answerDetails!==3||!html.includes(l.url)||!html.includes(l.span))errors.push(`${relative}: incomplete myth lesson or reading reference`);
+   continue;
+  }
   if(/practical-thinking|understanding-temperaments/.test(relative)) {
    const lang=relative.startsWith('pt')?'pt':'en',lessons=relative.includes('practical-thinking')?thinkingLessons:temperamentCourse;
    const l=lessons[Number(path.basename(relative,'.html'))],v=l?.[lang];
@@ -229,6 +235,6 @@ for(const prefix of ['', 'pt/']){
  }
  for(const c of selfConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- self-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Koepke supplement');}
 }
-if(files.length!==358) errors.push(`Expected 358 HTML pages, got ${files.length}`);
+if(files.length!==376) errors.push(`Expected 376 HTML pages, got ${files.length}`);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
 console.log(`Passed: ${files.length} pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.`);
