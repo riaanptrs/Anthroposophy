@@ -1,7 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import {additions} from '../content/philosophy-of-freedom-additions.mjs';
-const lessons=[...JSON.parse(fs.readFileSync('content/philosophy-of-freedom-lessons.json','utf8')),...additions].sort((a,b)=>a.id-b.id);
+import {freedomConsolidated as lessons} from '../content/philosophy-of-freedom-consolidated.mjs';
 const esc=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 const inline=s=>esc(s).replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
 const n=id=>String(id).padStart(2,'0');
@@ -19,7 +18,7 @@ for(const lang of ['en','pt']){
  for(const l of lessons){
   const v=l[lang],file=`${dir}/lessons/${n(l.id)}.html`,alt=`${other}/philosophy-of-freedom/lessons/${n(l.id)}.html`;
   if(v.checks.length<3||!v.activity||v.paragraphs.length<3)throw Error(`Incomplete ${l.id}/${lang}`);
-  const sourceUrl=l.chapter?`https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c${n(l.chapter)}.html`:archive;
+  const sourceUrl=l.sourceUrl||(l.chapter?`https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c${n(l.chapter)}.html`:archive);
   const content=`<main id="main" class="lesson-main"><p class="breadcrumb"><a href="../index.html#lessons">← ${pt?'Todas as lições de Filosofia da Liberdade':'All Philosophy of Freedom lessons'}</a></p><article><div class="eyebrow">GA 4 · ${label} ${n(l.id)} · ${l.chapter?`${pt?'Capítulo':'Chapter'} ${l.chapter}`:pt?'Orientação':'Orientation'}</div><h1>${esc(v.title)}</h1><p class="lead">${inline(v.goal)}</p><div class="reading lesson-reading"><section class="worked-example"><h2>${pt?'Comece aqui':'Start here'}</h2><p>${inline(v.paragraphs[0])}</p></section><h2>${pt?'Entenda a ideia':'Understand the idea'}</h2>${v.paragraphs.slice(1).map(p=>`<p>${inline(p)}</p>`).join('')}<aside class="takeaway"><strong>${pt?'Guarde esta ideia':'Keep this idea'}</strong><p>${inline(v.takeaway)}</p></aside><aside class="source-note"><p>${pt?'Leitura':'Reading'}: ${inline(v.reading)}</p><p>${pt?'Basis indica marcadores da transcrição de estudo; localize pelo capítulo em outras edições.':'Basis indicates study-transcription markers; locate by chapter in other editions.'} <a href="../index.html#sources">${pt?'Sobre as fontes':'About the sources'}</a>.</p><p><a href="${sourceUrl}">${pt?'Ler a fonte em inglês':'Read the source in English'} →</a></p></aside>${v.terms?`<h2>${pt?'Palavras da leitura':'Words for the reading'}</h2><p>${inline(v.terms)}</p>`:''}<section class="practice"><h2>${pt?'Experimente':'Try it'}</h2><p>${inline(v.activity)}</p></section><h2>${pt?'Confira sua compreensão':'Check your understanding'}</h2>${v.checks.map(([q,a])=>`<div class="knowledge-check"><p>${inline(q)}</p><details><summary>${pt?'Ver uma resposta comentada':'Show a suggested answer'}</summary><p>${inline(a)}</p></details></div>`).join('')}<details><summary>${pt?'Como avaliar sua resposta':'How to assess your response'}</summary><p>${pt?'Confira se explicou a distinção, apresentou razões e usou o trecho indicado. Separe o exemplo, o argumento de Steiner e sua avaliação. Releia o que ficou pouco claro. Uma discordância bem fundamentada demonstra compreensão; não é necessário concordar ou relatar experiências espirituais.':'Check that you explained the distinction, gave reasons and used the assigned passage. Separate the example, Steiner’s argument and your assessment. Revisit what remains unclear. Well-supported disagreement can demonstrate understanding; agreement or reports of spiritual experiences are not required.'}</p></details></div></article><nav class="lesson-navigation" aria-label="${pt?'Navegação das lições':'Lesson navigation'}"><a href="${l.id?n(l.id-1)+'.html':'../index.html'}">← ${pt?'Anterior':'Previous'}</a><a href="../index.html#lessons">${pt?'Todas as lições':'All lessons'}</a><a href="${l.id<20?n(l.id+1)+'.html':'../index.html'}">${l.id<20?`${pt?'Próxima':'Next'}: ${n(l.id+1)}`:pt?'Voltar ao curso':'Return to course'} →</a></nav></main>`;
   fs.writeFileSync(file,shell(file,alt,`${label} ${l.id}: ${v.title}`,content));
  }
@@ -33,4 +32,4 @@ for(const lang of ['en','pt']){
  const hw=`${base}/higher-worlds/index.html`;
  fs.writeFileSync(hw,fs.readFileSync(hw,'utf8').replace('Both courses','All courses').replace('Os dois cursos','Todos os cursos'));
 }
-console.log('Built 42 Philosophy of Freedom lesson pages, 2 indexes, and course navigation.');
+console.log(`Built ${lessons.length*2} Philosophy of Freedom lesson pages, 2 indexes, and course navigation.`);

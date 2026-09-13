@@ -11,7 +11,7 @@ import {temperamentsLessons,temperamentsSource,temperamentsConnections} from '..
 import {understandLessons,understandSource,understandConnections} from '../content/understand-temperament.mjs';
 import {selfLessons,selfSource,selfConnections} from '../content/encountering-the-self.mjs';
 import {mysteryLessons,mysterySource} from '../content/mystery-temperaments.mjs';
-const freedomLessons=[...JSON.parse(fs.readFileSync('content/philosophy-of-freedom-lessons.json','utf8')),...additions];
+import {freedomConsolidated as freedomLessons} from '../content/philosophy-of-freedom-consolidated.mjs';
 const root = path.resolve('docs');
 const files = fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.html'));
 const errors = [];
@@ -142,7 +142,7 @@ for(const lang of ['en','pt']) for(const l of higherWorlds) {
 }
 if(higherWorlds.length!==19 || new Set(higherWorlds.map(l=>l.id)).size!==19) errors.push('Expected 19 distinct Course 2 lessons');
 for(let id=0;id<=20;id++)for(const prefix of ['philosophy-of-freedom','pt/philosophy-of-freedom'])if(!fs.existsSync(path.join(root,prefix,'lessons',String(id).padStart(2,'0')+'.html')))errors.push(`Missing GA 4 ${prefix}/${id}`);
-if(freedomLessons.length!==21||new Set(freedomLessons.map(l=>l.id)).size!==21)errors.push('Expected 21 distinct GA 4 lessons');
+if(freedomLessons.length!==22||new Set(freedomLessons.map(l=>l.id)).size!==22)errors.push('Expected 22 GA 4 pages: 16 core lessons and 6 optional practices');
 if(lukeLessons.length!==12||new Set(lukeLessons.map(l=>l.id)).size!==12)errors.push('Expected 12 distinct GA 114 lessons');
 if(lukeLessons.filter(l=>l.lecture).map(l=>l.lecture).join(',')!=='1,2,3,4,5,6,7,8,9,10')errors.push('GA 114 must cover ten lectures in order');
 for(const prefix of ['','pt/']){
@@ -220,6 +220,6 @@ for(const prefix of ['', 'pt/']){
  }
  for(const c of selfConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- self-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Koepke supplement');}
 }
-if(files.length!==308) errors.push(`Expected 308 HTML pages, got ${files.length}`);
+if(files.length!==310) errors.push(`Expected 310 HTML pages, got ${files.length}`);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
 console.log(`Passed: ${files.length} pages, local links and anchors, nine bilingual courses, headings, examples, answers, and rubrics.`);

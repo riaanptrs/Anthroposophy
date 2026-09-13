@@ -3,3 +3,4 @@
 @media print{.study-guidebar,.study-actions,.js-only,.study-consent{display:none!important}.study-note{min-height:80px}.guided-reveal{break-inside:auto}.study-lab{break-inside:avoid}}
 
 .study-consent.js-only{display:none!important}.study-js .study-consent.js-only{display:flex!important}
+@media(max-width:600px){.study-guidebar{flex-direction:column;align-items:stretch}.study-guidebar p{width:100%;flex:auto}.study-guidebar .study-button{width:100%}}

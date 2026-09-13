@@ -140,5 +140,7 @@ temperaments:[
 'Where would three reflected points lie before you draw the whole curve?|Onde ficariam três pontos refletidos antes de desenhar a curva inteira?',
 'What does the child’s next request change in your first interpretation?|O que o próximo pedido da criança muda na interpretação inicial?']
 };
+rows['philosophy-of-freedom'][21]='Does a successful helpful action establish both accurate understanding and a free motive?|Uma ajuda bem-sucedida estabelece compreensão correta e um motivo livre?';
+rows['philosophy-of-freedom'][16]='What ethical reason, concrete response and practical means would make participation possible?|Que razão ética, resposta concreta e meios práticos possibilitariam a participação?';
 export function guidedPrompt(course,id,lang){const row=rows[course]?.[id];if(!row)throw Error(`Missing guided prompt ${course}/${id}`);return row.split('|')[lang==='pt'?1:0];}
 export const guidedCounts=Object.fromEntries(Object.entries(rows).map(([k,v])=>[k,v.length]));

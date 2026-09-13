@@ -4,8 +4,8 @@ import assert from 'node:assert/strict';
 import {guidedCounts} from '../content/guided-prompts.mjs';
 import {mysteryLessons} from '../content/mystery-temperaments.mjs';
 const files=fs.readdirSync('docs',{recursive:true}).filter(f=>/lessons[\\/]\d{2}\.html$/.test(f));
-assert.equal(files.length,290);
-assert.equal(Object.values(guidedCounts).reduce((a,b)=>a+b,0),130);
+assert.equal(files.length,292);
+assert.equal(Object.values(guidedCounts).reduce((a,b)=>a+b,0),131);
 assert.deepEqual(mysteryLessons.map(l=>l.id),Array.from({length:15},(_,i)=>i));
 const counts={};
 for(const f of files){
@@ -20,7 +20,7 @@ for(const f of files){
  assert.ok(!/C:\\Users\\|Starting in|capture-software/.test(h),f+' private capture noise');
  const ids=[...h.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(new Set(ids).size,ids.length,f+' duplicate id');
 }
-assert.equal(Object.keys(counts).length,145);assert.ok(Object.values(counts).every(c=>c===2));
+assert.equal(Object.keys(counts).length,146);assert.ok(Object.values(counts).every(c=>c===2));
 for(const p of ['docs/index.html','docs/pt/index.html'])assert.equal((fs.readFileSync(p,'utf8').match(/class="course-card"/g)||[]).length,9,p);
 for(const [file,lab] of [['philosophy-of-freedom/lessons/04.html','arithmetic'],['colour/lessons/02.html','colour'],['encountering-the-self/lessons/03.html','dialogue'],['encountering-the-self/lessons/15.html','reflection'],['lessons/06.html','map'],['according-to-luke/lessons/07.html','map']])for(const p of ['docs/','docs/pt/'])assert.ok(fs.readFileSync(p+file,'utf8').includes(`data-lab="${lab}"`),p+file);
-console.log('Passed: 145 bilingual lesson pairs, nine course cards, guided sequence, note controls, lab coverage and static fallback.');
+console.log('Passed: 146 bilingual lesson pairs, nine course cards, guided sequence, note controls, lab coverage and static fallback.');
