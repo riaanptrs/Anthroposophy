@@ -16,6 +16,23 @@ if(resume&&enabled()){
  const last=read('anthro-study-v1:last'),u=last&&safeLesson(last.url);
  if(u){const a=document.createElement('a');a.href=u.href;a.textContent=say('Resume: ','Continuar: ')+last.title;resume.replaceChildren(a);resume.hidden=false;}
 }
+const journal=document.querySelector('[data-course-journal]');
+if(journal){
+ const course=journal.dataset.courseJournal,lang=pt?'pt':'en',entries=journal.querySelector('[data-journal-entries]');
+ const labels={first:say('First attempt','Primeira tentativa'),source:say('Reading connection','Ligação com a leitura'),after:say('Revised answer','Resposta revisada'),session1:say('Practice session 1','Sessão prática 1'),session2:say('Practice session 2','Sessão prática 2'),session3:say('Practice session 3','Sessão prática 3')};
+ function collect(){return enabled()?[...document.querySelectorAll('[data-practice-lesson]')].flatMap(row=>{
+  const lesson=String(row.dataset.practiceLesson).padStart(2,'0'),saved=read('anthro-study-v1:'+course+'/'+lesson),notes=saved?.[lang];
+  if(!notes||!Object.values(notes).some(v=>typeof v==='string'&&v.trim()))return [];
+  return [{title:row.querySelector('h3').textContent,url:row.querySelector('h3 a').href,notes}];
+ }):[];}
+ function render(){entries.replaceChildren();const saved=collect();journal.querySelector('[data-journal-export]').disabled=saved.length===0;
+  if(!saved.length){const p=document.createElement('p');p.textContent=say('No saved entries are available here yet. Enable saving in a lesson to keep your practice notes.','Ainda não há anotações salvas disponíveis aqui. Ative o salvamento numa lição para conservar as notas práticas.');entries.append(p);}
+  for(const e of saved){const d=document.createElement('details'),s=document.createElement('summary');s.textContent=e.title;d.append(s);const a=document.createElement('a');a.href=e.url;a.textContent=say('Open lesson','Abrir lição');d.append(a);
+   for(const [key,label] of Object.entries(labels)){if(!e.notes[key])continue;const h=document.createElement('h3'),p=document.createElement('p');h.textContent=label;p.textContent=e.notes[key];p.style.whiteSpace='pre-wrap';d.append(h,p);}entries.append(d);}
+ }
+ render();window.addEventListener('pageshow',render);
+ journal.querySelector('[data-journal-export]').addEventListener('click',()=>{const saved=collect();if(!saved.length){render();return;}download(course+'-'+lang+'-journal.txt',saved.map(e=>e.title+'\n'+e.url+'\n\n'+Object.entries(labels).filter(([k])=>e.notes[k]).map(([k,label])=>label+'\n'+e.notes[k]).join('\n\n')).join('\n\n---\n\n'));});
+}
 if(!root)return;
 const id=root.dataset.studyId,lang=pt?'pt':'en',key='anthro-study-v1:'+id;
 const status=root.querySelector('[data-note-status]'),saveBox=root.querySelector('[data-save-notes]');
@@ -46,7 +63,7 @@ for(const f of fields)f.addEventListener('input',()=>{dirty=true;compare();clear
 window.addEventListener('pagehide',save);
 completeButton.addEventListener('click',()=>{complete=!complete;dirty=true;paintComplete();save();if(!saveBox.checked)announce(say('Study mark changed for this visit. Enable saving to keep it.','Marcação alterada nesta visita. Ative o salvamento para conservá-la.'));});
 root.querySelector('[data-export]').addEventListener('click',()=>{
- const labels={first:say('First attempt','Primeira tentativa'),source:say('Reading connection','Ligação com a leitura'),after:say('Revised answer','Resposta revisada')};
+ const labels={first:say('First attempt','Primeira tentativa'),source:say('Reading connection','Ligação com a leitura'),after:say('Revised answer','Resposta revisada'),session1:say('Practice session 1','Sessão prática 1'),session2:say('Practice session 2','Sessão prática 2'),session3:say('Practice session 3','Sessão prática 3')};
  const text=document.querySelector('h1').textContent+'\n'+location.href.split('#')[0]+'\n\n'+fields.map(f=>labels[f.dataset.noteField]+'\n'+f.value).join('\n\n');download(id.replaceAll('/','-')+'-'+lang+'-notes.txt',text);announce(say('Notes exported.','Anotações exportadas.'));
 });
 root.querySelector('[data-delete]').addEventListener('click',()=>{

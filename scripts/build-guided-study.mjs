@@ -3,6 +3,8 @@ import path from 'node:path';
 import {guidedPrompt} from '../content/guided-prompts.mjs';
 import {guidedLab} from '../content/guided-labs.mjs';
 import {mysteryLessons} from '../content/mystery-temperaments.mjs';
+import {thinkingLessons} from '../content/practical-thinking.mjs';
+import {temperamentCourse} from '../content/temperament-course.mjs';
 const root=path.resolve('docs'),esc=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('"','&quot;');
 let count=0;
 const mysteryQuestions=[
@@ -27,10 +29,11 @@ for(const file of fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.h
  if(h.includes('guided-study.v1.js'))continue;
  const pt=h.includes('<html lang="pt-BR"'),lang=pt?'pt':'en',t=(en,br)=>pt?br:en;
  const asset=name=>path.relative(path.dirname(full),path.join(root,name)).replaceAll('\\','/');
- h=h.replace('</head>',`<link rel="stylesheet" href="${asset('guided-study.v1.css')}"><script defer src="${asset('guided-study.v1.js')}"></script></head>`);
+ h=h.replace('</head>',`<link rel="stylesheet" href="${asset('guided-study.v1.css')}?v=practice-1"><script defer src="${asset('guided-study.v1.js')}?v=practice-1"></script></head>`);
  if(!file.includes('lessons')){h=h.replace(/(<main\b[^>]*>)/,`$1<div class="study-resume" data-study-resume hidden></div>`);fs.writeFileSync(full,h);continue;}
  const parts=file.replaceAll('\\','/').replace(/^pt\//,'').split('/'),course=parts.length===2?'theosophy':parts[0],id=Number(path.basename(file,'.html'));
- const question=course==='mystery-temperaments'?mysteryQuestions[id][pt?1:0]:guidedPrompt(course,id,lang);
+ const practiceLesson=(course==='practical-thinking'?thinkingLessons:course==='understanding-temperaments'?temperamentCourse:null)?.[id]?.[lang];
+ const question=practiceLesson?practiceLesson.question:course==='mystery-temperaments'?mysteryQuestions[id][pt?1:0]:guidedPrompt(course,id,lang);
  h=h.replace('class="lesson-main"',`class="lesson-main" data-study-id="${course}/${String(id).padStart(2,'0')}"`);
  const worked=h.match(/<section class="worked-example">([\s\S]*?)<\/section>/);
  if(!worked)throw Error('Missing example '+file);
@@ -47,6 +50,7 @@ for(const file of fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.h
  const sourceStep=`<section class="study-return"><span class="study-step">${t('3 · Return to the source','3 · Volte à fonte')}</span><h2>${t('Find the connection in the reading','Encontre a ligação na leitura')}</h2><p>${t('Use the reading assignment and source link in the explanation. Locate one passage relevant to your first attempt. Paraphrase its claim, give the page or lecture reference, and say whether it supports or challenges your interpretation. Distinguish the author’s claim from what the example establishes.','Use a leitura indicada e o link da fonte na explicação. Localize um trecho relevante para sua primeira tentativa. Parafraseie a afirmação, indique página ou palestra e diga se ela apoia ou questiona sua interpretação. Distinga a afirmação do autor daquilo que o exemplo demonstra.')}</p><label for="study-source-note">${t('Passage, reference and connection','Trecho, referência e ligação')}</label><textarea class="study-note" id="study-source-note" data-note-field="source" rows="4"></textarea></section>`;
  h=h.replace('<section class="practice">','</details>'+sourceStep+'<section class="practice">');
  let transfer=t('Change one condition in your example. Explain which part of your answer still holds and which part needs revision.','Mude uma condição do seu exemplo. Explique qual parte da resposta continua válida e qual precisa de revisão.');
+ if(practiceLesson)transfer=practiceLesson.transfer||t('Compare your three practice entries with your first answer. Identify one change you can demonstrate and one question that remains.','Compare suas três anotações práticas com a primeira resposta. Identifique uma mudança demonstrável e uma pergunta que permanece.');
  if(course==='philosophy-of-freedom')transfer=t('Use the activity above to revisit your first answer. Identify one connection you can now explain more precisely and one question that remains.','Use a atividade acima para retomar sua primeira resposta. Identifique uma ligação que agora consegue explicar com mais precisão e uma pergunta que permanece.');
  if(course==='philosophy-of-freedom'&&id===4)transfer=t('Transfer the method: an appointment is at 9:00. Travel takes 30 minutes and you want to arrive 10 minutes early. Explain your departure time. Then change travel to 40 minutes and reconstruct the chain.','Transfira o método: um compromisso é às 9h. O trajeto leva 30 minutos e você quer chegar 10 minutos antes. Explique seu horário de saída. Depois mude o trajeto para 40 minutos e reconstrua a sequência.');
  if(course==='colour'&&id===2)transfer=t('Try the reversed arrangement with blue. Keep size and lighting as constant as possible. Compare your own observations before consulting the author’s account; disagreement is not a wrong answer.','Experimente a composição invertida em azul. Mantenha tamanho e iluminação tão constantes quanto possível. Compare suas observações antes de consultar o autor; discordar não é errar.');

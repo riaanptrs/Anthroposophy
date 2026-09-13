@@ -4,3 +4,4 @@
 
 .study-consent.js-only{display:none!important}.study-js .study-consent.js-only{display:flex!important}
 @media(max-width:600px){.study-guidebar{flex-direction:column;align-items:stretch}.study-guidebar p{width:100%;flex:auto}.study-guidebar .study-button{width:100%}}
+.practice-journal label{display:block;margin:24px 0 10px;font-size:15px;font-weight:bold}.practice-map{width:100%;border-collapse:collapse;margin:24px 0}.practice-map caption{text-align:left;margin-bottom:14px}.practice-map th,.practice-map td{padding:12px;text-align:left;border-bottom:1px solid #c7d5c1;overflow-wrap:anywhere}.practice-map thead{background:#eaf0e5}[data-course-journal] details{margin:18px 0;overflow-wrap:anywhere}[data-course-journal] details h3{font-size:19px;margin-top:22px}

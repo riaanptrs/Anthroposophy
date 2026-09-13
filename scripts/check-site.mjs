@@ -12,6 +12,8 @@ import {understandLessons,understandSource,understandConnections} from '../conte
 import {selfLessons,selfSource,selfConnections} from '../content/encountering-the-self.mjs';
 import {mysteryLessons,mysterySource} from '../content/mystery-temperaments.mjs';
 import {freedomConsolidated as freedomLessons} from '../content/philosophy-of-freedom-consolidated.mjs';
+import {thinkingLessons} from '../content/practical-thinking.mjs';
+import {temperamentCourse} from '../content/temperament-course.mjs';
 const root = path.resolve('docs');
 const files = fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.html'));
 const errors = [];
@@ -25,7 +27,7 @@ for (const relative of files) {
  for(const match of html.matchAll(/(?:href|src)="([^"]+)"/g)) {
   const href=match[1];
   if(/^(https?:|data:|mailto:)/.test(href)) continue;
-  const [name,anchor]=href.split('#');
+  const [resource,anchor]=href.split('#'),name=resource.split('?')[0];
   let target=name?path.resolve(path.dirname(file),name):file;
   if(!target.startsWith(root+path.sep)&&target!==root) {errors.push(`${relative}: link escapes docs ${href}`);continue;}
   if(fs.existsSync(target)&&fs.statSync(target).isDirectory()) target=path.join(target,'index.html');
@@ -33,6 +35,13 @@ for (const relative of files) {
   if(anchor&&!fs.readFileSync(target,'utf8').includes(`id="${anchor}"`)) errors.push(`${relative}: missing anchor ${href}`);
  }
  if(relative.includes('lessons')) {
+  if(/practical-thinking|understanding-temperaments/.test(relative)) {
+   const lang=relative.startsWith('pt')?'pt':'en',lessons=relative.includes('practical-thinking')?thinkingLessons:temperamentCourse;
+   const l=lessons[Number(path.basename(relative,'.html'))],v=l?.[lang];
+   if(!v||!html.includes(v.title)||answerDetails!==v.checks.length+1)errors.push(`${relative}: incomplete practice lesson`);
+   for(const field of ['session1','session2','session3'])if(!html.includes(`data-note-field="${field}"`))errors.push(`${relative}: missing journal field ${field}`);
+   continue;
+  }
   if(!html.includes('class="worked-example"')||!html.includes('class="takeaway"')) errors.push(`${relative}: missing worked example or takeaway`);
   if(relative.includes('mystery-temperaments')) {
    const lang=relative.startsWith('pt')?'pt':'en',lesson=mysteryLessons.find(l=>l.id===Number(path.basename(relative,'.html')));
@@ -220,6 +229,6 @@ for(const prefix of ['', 'pt/']){
  }
  for(const c of selfConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- self-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Koepke supplement');}
 }
-if(files.length!==310) errors.push(`Expected 310 HTML pages, got ${files.length}`);
+if(files.length!==358) errors.push(`Expected 358 HTML pages, got ${files.length}`);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
-console.log(`Passed: ${files.length} pages, local links and anchors, nine bilingual courses, headings, examples, answers, and rubrics.`);
+console.log(`Passed: ${files.length} pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.`);
