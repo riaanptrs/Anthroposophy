@@ -14,7 +14,11 @@ for(const f of files){
  for(const field of ['first','source','after'])assert.equal((h.match(new RegExp(`data-note-field="${field}"`,'g'))||[]).length,1,f+' '+field);
  for(const control of ['save-notes','reading-view','note-status','complete','export','delete','first-preview'])assert.ok(h.includes('data-'+control),f+' '+control);
  assert.equal((h.match(/class="guided-reveal"/g)||[]).length,1,f);
- assert.ok(h.indexOf('data-note-field="first"')<h.indexOf('id="study-explanation"'),f+' explanation precedes attempt');
+ if(h.includes('data-passage-study')){
+  assert.ok(h.indexOf('id="book-passage"')<h.indexOf('id="study-explanation"'),f+' passage follows explanation');
+  assert.ok(h.indexOf('id="study-explanation"')<h.indexOf('data-note-field="first"'),f+' attempt precedes source teaching');
+  assert.ok(h.includes('<details class="guided-reveal" open'),f+' explanation hidden at start');
+ }else assert.ok(h.indexOf('data-note-field="first"')<h.indexOf('id="study-explanation"'),f+' explanation precedes attempt');
  assert.ok(h.includes('<noscript>'),f+' missing fallback');
  assert.ok(h.includes('guided-study.v1.css')&&h.includes('guided-study.v1.js'),f+' missing assets');
  assert.ok(!/C:\\Users\\|Starting in|capture-software/.test(h),f+' private capture noise');

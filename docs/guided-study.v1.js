@@ -72,7 +72,7 @@ root.querySelector('[data-delete]').addEventListener('click',()=>{
 });
 root.querySelector('[data-reading-view]').addEventListener('click',e=>{
  const full=!document.body.classList.contains('study-full');document.body.classList.toggle('study-full',full);
- for(const d of root.querySelectorAll('details.guided-reveal'))d.open=full;
+ for(const d of root.querySelectorAll('details.guided-reveal'))d.open=full||root.hasAttribute('data-passage-study');
  e.currentTarget.textContent=full?say('Return to guided view','Voltar ao modo guiado'):say('Open complete explanation','Abrir explicação completa');e.currentTarget.setAttribute('aria-pressed',String(full));
 });
 for(const lab of root.querySelectorAll('[data-lab]')){

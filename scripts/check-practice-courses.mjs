@@ -24,7 +24,8 @@ for(const prefix of ['docs','docs/pt']){
    assert.equal(path.resolve(path.dirname(file),alternate),path.resolve(other,slug,'lessons',filename));
    for(const key of ['title','goal','example','explanation','activity','question','takeaway'])assert.ok(v[key]?.trim(),file+' missing '+key);
    assert.equal((h.match(/data-note-field=/g)||[]).length,6,file+' needs first/source/after plus three dated entries');
-   assert.ok(h.indexOf('data-note-field="first"')<h.indexOf('id="study-explanation"'));
+   assert.ok(h.indexOf('id="book-passage"')<h.indexOf('id="study-explanation"'));
+   assert.ok(h.indexOf('id="study-explanation"')<h.indexOf('data-note-field="first"'));
    assert.ok(h.indexOf('data-note-field="session3"')<h.indexOf('data-note-field="after"'));
    if(l.id<total-1)assert.ok(h.includes(`href="${String(l.id+1).padStart(2,'0')}.html"`));
    else assert.ok(h.includes('href="../index.html#journal"'));

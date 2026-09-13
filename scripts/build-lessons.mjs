@@ -77,3 +77,4 @@ await import('./build-practice-courses.mjs');
 await import('./build-ancient-myths.mjs');
 await import('./build-guided-study.mjs');
 await import('./build-meditation.mjs');
+await import('./build-passage-study.mjs');

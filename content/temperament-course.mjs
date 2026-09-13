@@ -1,9 +1,10 @@
 import {temperamentsLessons as steiner} from './temperaments.mjs';
 import {understandLessons as childs} from './understand-temperament.mjs';
 import {mysteryLessons as mystery} from './mystery-temperaments.mjs';
+import {temperamentConceptChecks} from './temperament-teaching.mjs';
 const n=i=>String(i).padStart(2,'0');
 const books={steiner:{lessons:steiner,route:'temperaments',label:'Rudolf Steiner · The Four Temperaments · GA 57'},childs:{lessons:childs,route:'understand-temperament',label:'Gilbert Childs · Understand Your Temperament!'},mystery:{lessons:mystery,route:'mystery-temperaments',label:'Rudolf Steiner · The Mystery of Temperaments'}};
-// Twelve learning events, not three books pasted into twelve oversized pages.
+// Twelve lessons combine direct concept teaching, source comparisons and practice.
 const map=[['steiner',0,[['mystery',1],['childs',0]]],['steiner',2,[['mystery',4],['childs',2]]],['steiner',3,[['mystery',9],['childs',3]]],['steiner',4,[['mystery',8],['childs',4]]],['steiner',5,[['mystery',11],['childs',5]]],['steiner',6,[['mystery',10],['childs',6]]],['steiner',7,[['mystery',6],['childs',10]]],['steiner',8,[['mystery',7],['childs',6]]],['childs',7,[['mystery',13]]],['childs',8,[['mystery',13]]],['steiner',9,[['mystery',12]]],['steiner',10,[['mystery',14],['childs',12]]]];
 // Rows: title, opening scene, first question, sustained activity, new information.
 const events=[
@@ -92,6 +93,6 @@ export const temperamentCourse=map.map(([book,index,extra],id)=>({id,...Object.f
   key:primary.key+' '+primary.context,
   sources:[[book,index],...extra].map(([b,j])=>({label:books[b].label,url:'../../'+books[b].route+'/lessons/'+n(j)+'.html',focus:books[b].lessons[j][lang].title})),
   comparison:extra.map(([b,j])=>({label:books[b].label,text:books[b].lessons[j][lang].takeaway})),
-  checks:[[e[2],responses[id][i]],[(i?'Nova informação: ':'New information: ')+e[4],revisionAnswers[id][i]]]
+  checks:[...(temperamentConceptChecks[id]?[temperamentConceptChecks[id][lang]]:[]),[e[2],responses[id][i]],[(i?'Nova informação: ':'New information: ')+e[4],revisionAnswers[id][i]]]
  }];
 }))}));
