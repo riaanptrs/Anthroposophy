@@ -76,3 +76,4 @@ await import('./build-freedom-route.mjs');
 await import('./build-practice-courses.mjs');
 await import('./build-ancient-myths.mjs');
 await import('./build-guided-study.mjs');
+await import('./build-meditation.mjs');

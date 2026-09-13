@@ -21,6 +21,6 @@ for(const f of files){
  const ids=[...h.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(new Set(ids).size,ids.length,f+' duplicate id');
 }
 assert.equal(Object.keys(counts).length,176);assert.ok(Object.values(counts).every(c=>c===2));
-for(const p of ['docs/index.html','docs/pt/index.html'])assert.equal((fs.readFileSync(p,'utf8').match(/class="course-card"/g)||[]).length,9,p);
+for(const p of ['docs/index.html','docs/pt/index.html'])assert.equal((fs.readFileSync(p,'utf8').match(/class="course-card"/g)||[]).length,10,p);
 for(const [file,lab] of [['philosophy-of-freedom/lessons/04.html','arithmetic'],['colour/lessons/02.html','colour'],['encountering-the-self/lessons/03.html','dialogue'],['encountering-the-self/lessons/15.html','reflection'],['lessons/06.html','map'],['according-to-luke/lessons/07.html','map']])for(const p of ['docs/','docs/pt/'])assert.ok(fs.readFileSync(p+file,'utf8').includes(`data-lab="${lab}"`),p+file);
-console.log('Passed: 176 bilingual lesson pairs, nine course cards, guided sequence, note controls, lab coverage and static fallback.');
+console.log('Passed: 176 existing bilingual lesson pairs, ten course cards, guided sequence, note controls, lab coverage and static fallback. Meditation sessions have their own checker.');

@@ -83,3 +83,7 @@ Edit `content/practical-thinking.mjs` and `content/temperament-course.mjs`; `scr
 ## Ancient Myths
 
 The eight-lesson `ancient-myths` route follows the seven lectures in the supplied 1971 Cotterell edition, with orientation, original examples, interpretation maps, activities and a final adult teaching project. Edit `content/ancient-myths.mjs`; the builder adds four optional connections to existing courses. Run `node scripts/check-ancient-myths.mjs`. See [source and teaching review](content/ancient-myths-review.md).
+
+## Meditation and Inner Life
+
+Nine bilingual guided sessions at docs/meditation/index.html and docs/pt/meditation/index.html use Start Now!, Weekly Meditations and The Foundation Stone. They include a daily verse, four complete Calendar verses and the complete Foundation Stone in new study translations of its printed German original. Source directions, editorial commentary and course adaptations are distinguished. Build with node scripts/build-all.mjs; validate with node scripts/check-meditation.mjs and the existing site checks. See content/meditation-reading-review.md for source scope and transcription decisions.

@@ -235,6 +235,7 @@ for(const prefix of ['', 'pt/']){
  }
  for(const c of selfConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- self-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Koepke supplement');}
 }
-if(files.length!==376) errors.push(`Expected 376 HTML pages, got ${files.length}`);
+const courseFiles=files.filter(f=>f!=='learning-review.html');
+if(courseFiles.length!==396) errors.push(`Expected 396 course HTML pages, got ${courseFiles.length}`);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
 console.log(`Passed: ${files.length} pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.`);
