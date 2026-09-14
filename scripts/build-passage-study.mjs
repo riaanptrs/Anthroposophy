@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {cloudGuide} from '../content/thinking-cloud-guide.mjs';
 
 const passages=JSON.parse(fs.readFileSync(new URL('../content/passage-study.json',import.meta.url),'utf8'));
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -14,6 +15,11 @@ function element(html,marker){
  throw Error('Unclosed element: '+marker);
 }
 function paragraphBlock(text){return text.split('\n\n').map(p=>`<p>${esc(p).replaceAll('\n','<br>')}</p>`).join('');}
+function renderCloudGuide(lang){
+ const v=cloudGuide[lang],pt=lang==='pt';
+ const urls=['https://rsarchive.org/Lectures/GA108/English/Singles/19090118p02.html','https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c06.html'];
+ return `<section class="cloud-guide" id="cloud-guide" aria-labelledby="cloud-guide-title"><h2 id="cloud-guide-title">${esc(v.title)}</h2><p>${esc(v.intro)}</p>${v.steps.map(([title,body,question,hint,answer],i)=>`<section id="cloud-step-${i+1}"><h3>${i+1}. ${esc(title)}</h3><p>${esc(body)}</p><p><strong>${pt?'Confira sua compreensão':'Check your understanding'}:</strong> ${esc(question)}</p><details class="guided-hint"><summary>${pt?'Uma dica':'A hint'}</summary><p>${esc(hint)}</p></details><details class="guided-answer"><summary>${pt?'Ver uma resposta comentada':'Show an explained answer'}</summary><p>${esc(answer)}</p></details></section>`).join('')}<aside class="source-note"><h3>${esc(v.sourceTitle)}</h3><ul>${urls.map((url,i)=>`<li><a href="${url}">${esc(v.sources[i])}</a></li>`).join('')}</ul><p><a href="01.html">${pt?'Retome a lição anterior: pensamento espiritual e compreensão humana':'Revisit the previous lesson: spiritual thought and human understanding'} →</a></p></aside></section>`;
+}
 function renderPassage(p,lang,goal){
  const pt=lang==='pt',t=(en,br)=>pt?br:en,v=p[lang];
  const credit=t(p.edition,p.originalLanguage==='de'?'Original alemão; novas traduções de estudo em inglês e português brasileiro.':p.title.includes('Foundation Stone')?'Tradução de estudo preparada para este curso a partir do original alemão impresso.':'Trecho selecionado da edição inglesa indicada; nova tradução de estudo em português. Quebras de linha normalizadas.');
@@ -28,7 +34,7 @@ for(const p of passages)for(const id of p.ids)for(const lang of ['en','pt']){
  let h=fs.readFileSync(file,'utf8');
  if(h.includes('data-passage-study='))throw Error('Run the complete build before applying passage study again: '+file);
  const lead=h.match(/<p class="lead">([\s\S]*?)<\/p>/);if(!lead)throw Error('No lesson goal: '+file);
- const passage=renderPassage(p,lang,lead[1]);
+ const passage=renderPassage(p,lang,lead[1])+(p.course==='practical-thinking'&&id===2?renderCloudGuide(lang):'');
  h=h.replace('class="lesson-main"','class="lesson-main" data-passage-study="true"');
  const css=path.relative(path.dirname(file),'docs/passage-study.css').replaceAll('\\','/');
  h=h.replace('</head>',`<link rel="stylesheet" href="${css}"></head>`);
