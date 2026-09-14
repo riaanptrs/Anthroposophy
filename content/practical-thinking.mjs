@@ -1,3 +1,4 @@
+import {deepenThinkingLessons} from './thinking-depth.mjs';
 export const thinkingSource='https://rsarchive.org/Lectures/GA108/English/Singles/19090118p02.html';
 // Original teaching examples and activities. References use the numbered Adams edition,
 // not Sophia's lesson numbers. The course is a practice companion, not a transcription.
@@ -108,3 +109,6 @@ for (const lang of ['en', 'pt']) {
   ['How does this idea guide observation practice?','In §§ 9–12, Steiner presents the world as understandable through thought. In §§ 14–16, he asks for accurate observations of successive conditions before premature conclusions. The practice seeks to discover relationships without treating an assumption as a fact.']
  ]));
 }
+
+// Apply the source-alignment review after the earlier lesson refinements.
+deepenThinkingLessons(thinkingLessons);
