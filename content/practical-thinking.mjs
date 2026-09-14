@@ -45,6 +45,39 @@ const rows=[
 ];
 export const thinkingLessons=rows.map((pair,id)=>({id,...Object.fromEntries(pair.map((r,i)=>[i?'pt':'en',{title:r[0],goal:r[1],example:r[2],explanation:r[3],activity:r[4],question:r[5],checks:[[r[5],r[6]]],takeaway:r[1],reading:(i?'Parágrafos ':'Paragraphs ')+r[7],sources:[{label:'Rudolf Steiner · GA 108 · 18 January 1909',url:thinkingSource}],key:''}]))}));
 
+// Teach deliberate attention separately from detailed recollection.
+for(const lang of ['en','pt']){
+ const pt=lang==='pt',attention=thinkingLessons[6][lang],memory=thinkingLessons[7][lang];
+ attention.goal=pt?'Escolha deliberadamente um assunto fora das preocupações habituais; distinga esse exercício da recordação detalhada.':'Deliberately choose a subject outside habitual concerns; distinguish this exercise from detailed recollection.';
+ attention.takeaway=pt?'Escolha e sustente o assunto. Não é necessário reinterpretar o passado nem praticar antes de dormir.':'Choose and sustain the subject. Reinterpreting the past and practising at bedtime are not required.';
+ attention.example=pt?'Durante uma pausa à tarde, sua mente volta a uma tarefa pendente. Você decide dedicar cinco minutos à entrada de um prédio que notou de manhã: a posição da porta, os degraus e o percurso de quem entra.':'During an afternoon break, your mind returns to an unfinished task. You decide to spend five minutes thinking about a building entrance you noticed that morning: the door’s position, the steps and the route people take inside.';
+ attention.explanation=pt?'A mudança principal está em quem escolhe o assunto: você o escolhe deliberadamente, em vez de seguir a preocupação automática. Não precisa descobrir outro significado na cena nem recordar todos os detalhes. Quando a tarefa pendente reaparecer, perceba e retome o assunto escolhido. O exercício seguinte trabalhará a precisão da recordação.':'The main change is how the subject is selected: you choose it deliberately instead of following the automatic worry. You do not need to discover a different meaning in the scene or remember every detail. When the unfinished task returns to mind, notice and resume your chosen subject. The next exercise addresses precision of recollection.';
+ attention.activity=pt?'Em três ocasiões, escolha uma pausa tranquila. Nomeie um assunto comum fora das preocupações atuais: uma cena pouco notada ou um trecho breve de leitura. Dedique até cinco minutos a ele; se necessário, comece com menos tempo. Depois anote o assunto, um desvio e como retomou a atenção. O horário é livre, inclusive antes de dormir se for conveniente. Avalie a escolha e o retorno ao assunto, sem transformar o exercício em busca de novos significados ou de memória perfeita.':'On three occasions, choose a quiet break. Name an ordinary subject outside your current concerns: an overlooked scene or a short reading passage. Give it up to five minutes; begin with less time if needed. Afterwards record the subject, one diversion and how you returned. The time of day is your choice, including before sleep if convenient. Assess your choice and return to the subject, without turning the exercise into a search for new meanings or perfect recall.';
+ attention.reading=pt?'Tradução inglesa de Adams, § 28: escolha do assunto e transição para o exercício de memória.':'Adams English translation, § 28: choice of subject and transition to the memory exercise.';
+ attention.checks.push(...(pt?[
+ ['É preciso revisar o dia de outra maneira antes de dormir?','Não. O essencial é escolher um assunto fora das preocupações habituais e dirigir a atenção a ele. Não há exigência de horário nem de nova interpretação do passado.'],
+ ['Recordar uma cena significa que os dois exercícios são iguais?','Não. A mesma cena pode servir a ambos, mas o primeiro trabalha a escolha e sustentação do assunto; o segundo, a reconstrução de detalhes.'],
+ ['Os trinta minutos mencionados são o tempo obrigatório de concentração?','Não. Steiner descreve meia hora disponível para descanso e sugere até mesmo apenas cinco minutos para o assunto escolhido.']
+ ]:[
+ ['Must you review your day differently before going to sleep?','No. The essential task is to choose a subject outside habitual concerns and direct attention to it. No particular time or new interpretation of the past is required.'],
+ ['Does recalling a scene make the two exercises identical?','No. The same scene can serve both, but the first trains choosing and sustaining a subject; the second trains reconstruction of details.'],
+ ['Are the thirty minutes mentioned a required concentration time?','No. Steiner describes half an hour available for rest and suggests even just five minutes on the chosen subject.']
+ ]));
+ memory.goal=pt?'Reconstrua detalhes de um encontro e distinga o que lembra, o que não sabe e o que imagina.':'Reconstruct details of an encounter and distinguish what you remember, do not know and imagine.';
+ memory.takeaway=pt?'A recordação detalhada é outro exercício. Um acréscimo imaginado deve continuar identificado como imaginação.':'Detailed recollection is a separate exercise. An imagined addition must remain identified as imagination.';
+ memory.reading=pt?'Tradução inglesa de Adams, final do § 28 e §§ 29–32: memória e complementação imaginativa.':'Adams English translation, end of § 28 and §§ 29–32: memory and imaginative completion.';
+ memory.explanation+=' '+(pt?'A comparação imediata com objetos usada neste curso é uma adaptação verificável. Na fonte, Steiner começa com um encontro passado e depois propõe completar imaginativamente o que falta. A explicação do trecho acima distingue essa proposta daquilo que você realmente recorda.':'The immediate object comparison used in this course is a checkable adaptation. In the source, Steiner starts with a past encounter and then proposes imaginatively completing missing details. The passage explanation above distinguishes that proposal from what you actually remember.');
+ memory.checks.push(...(pt?[
+ ['O que muda em relação ao exercício anterior?','Antes, o foco era escolher o assunto e retornar a ele. Agora, é reconstruir detalhes de uma experiência e perceber a qualidade e as lacunas da recordação.'],
+ ['Steiner proíbe inventar detalhes nessa passagem?','Não. Nos §§ 30–32 ele propõe a complementação imaginativa, admitindo que a imagem será inexata. Neste curso, identificamos esses acréscimos como imaginados, para não confundi-los com lembranças.'],
+ ['A recomendação de deixar uma decisão para depois do sono é este mesmo exercício?','Não. Ela pertence à comparação de alternativas nos §§ 33–36. O exercício de memória não exige o horário de dormir.']
+ ]:[
+ ['What changes from the preceding exercise?','Previously, the focus was choosing a subject and returning to it. Now it is reconstructing the details of an experience and noticing the quality and gaps of recollection.'],
+ ['Does Steiner prohibit invented details in this passage?','No. In §§ 30–32 he proposes imaginative completion while acknowledging the picture will be inaccurate. In this course we identify these additions as imagined so they are not confused with memories.'],
+ ['Is the advice to sleep on a decision this same exercise?','No. That belongs to comparing alternatives in §§ 33–36. The memory exercise does not require bedtime.']
+ ]));
+}
+
 // Align the independent practice with the preceding guided cloud walkthrough.
 for (const lang of ['en','pt']) {
  const pt=lang==='pt',lesson=thinkingLessons[2][lang];
