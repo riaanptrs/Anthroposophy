@@ -44,3 +44,20 @@ const rows=[
 ]
 ];
 export const thinkingLessons=rows.map((pair,id)=>({id,...Object.fromEntries(pair.map((r,i)=>[i?'pt':'en',{title:r[0],goal:r[1],example:r[2],explanation:r[3],activity:r[4],question:r[5],checks:[[r[5],r[6]]],takeaway:r[1],reading:(i?'Parágrafos ':'Paragraphs ')+r[7],sources:[{label:'Rudolf Steiner · GA 108 · 18 January 1909',url:thinkingSource}],key:''}]))}));
+
+// Make the spiritual premise explicit alongside its practical application.
+for (const lang of ['en', 'pt']) {
+ const pt=lang==='pt', lesson=thinkingLessons[1][lang];
+ lesson.goal=pt?'Distinga a atividade espiritual criadora do pensar humano que a compreende, e relacione essa ideia à observação atenta.':'Distinguish spiritual creative activity from the human thinking that understands it, and connect this idea to careful observation.';
+ lesson.takeaway=pt?'Para Steiner, o pensar humano pode descobrir uma ordem espiritual já atuante no mundo. Investigue as relações observadas antes de impor sua primeira interpretação.':'For Steiner, human thinking can discover a spiritual order already active in the world. Investigate observed relationships before imposing your first interpretation.';
+ lesson.sources[0].focus=pt?'Tradução inglesa de Adams: §§ 9–12, fundamento espiritual; § 10, relojoeiro; §§ 14–16, observação antes da explicação.':'Adams English translation: §§ 9–12, spiritual foundation; § 10, watchmaker; §§ 14–16, observation before explanation.';
+ lesson.checks.push(...(pt?[
+  ['Nesta passagem, pensar em uma planta faz com que ela cresça?','Não. Steiner atribui a atividade criadora da natureza a seres espirituais. Nosso pensar pode compreender as relações presentes no crescimento; imaginar a planta não causa esse crescimento.'],
+  ['O que o exemplo do relojoeiro explica, e qual passo adicional Steiner dá?','O fabricante organiza as peças segundo relações que outra pessoa pode compreender ao estudar o relógio. Steiner estende essa comparação à natureza e afirma que ela é obra de seres espirituais; o exemplo do relógio, sozinho, não demonstra essa extensão.'],
+  ['Como essa ideia orienta a prática de observar?','Nos §§ 9–12, Steiner apresenta o mundo como compreensível pelo pensar. Nos §§ 14–16, pede observações precisas de estados sucessivos antes de conclusões precipitadas. A prática busca descobrir relações, sem tratar uma suposição como fato.']
+ ]:[
+  ['Does thinking about a plant make it grow in this passage?','No. Steiner attributes nature’s creative activity to spiritual beings. Our thinking can understand relationships in the growth; imagining the plant does not cause that growth.'],
+  ['What does the watchmaker example explain, and what further step does Steiner take?','The maker arranges parts according to relationships that another person can understand by studying the watch. Steiner extends this comparison to nature and calls it the work of spiritual beings; the watch example alone does not establish that extension.'],
+  ['How does this idea guide observation practice?','In §§ 9–12, Steiner presents the world as understandable through thought. In §§ 14–16, he asks for accurate observations of successive conditions before premature conclusions. The practice seeks to discover relationships without treating an assumption as a fact.']
+ ]));
+}
