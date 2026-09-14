@@ -2,6 +2,8 @@
 
 Placement: a shared bilingual reference at `reference/human-constitution.html`, introduced from the home page and Theosophy lessons 0, 3 and 6. Lesson 3 is the primary curricular entry: life, sensation and formative organization. The reference supports all courses without adding a competing course or renumbering lessons.
 
+The natural-worlds extension adds mineral, plant and animal world/kingdom explanations, with cumulative comparison, examples and three explained answers. Sources: GA 9 I §§ 10–12 and GA 13 II § 2 and §§ 9–11. The Adams edition marks § 9 untranslated and includes the plant comparison in § 10; the German has a separate § 9. The comparison is limited to this introductory account, avoiding universal claims about everything Steiner says about plants or animals elsewhere. Kingdom terms link to dedicated anchors, including mentions within the body reference itself.
+
 ## Source basis
 
 - GA 13, Chapter II, [English Adams edition](https://rsarchive.org/Books/GA013/English/RSP1969/GA013_c02.html) and [German](https://rsarchive.org/Books/GA013/German/GA013_c02.html): physical §§ 1–3; etheric §§ 5–10; astral §§ 10–11; I and transformation later in the chapter. The German original was consulted alongside the English reading references. Prose and examples are original rather than extended quotations from the translation.

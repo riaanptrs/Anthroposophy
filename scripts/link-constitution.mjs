@@ -3,9 +3,13 @@ import path from 'node:path';
 // Work only on rendered text, never attributes, code, form fields or existing links.
 const excluded=new Set(['a','script','style','textarea','title','code','pre','svg','button','select']);
 const voids=new Set(['area','base','br','col','embed','hr','img','input','link','meta','param','source','track','wbr']);
-export const terms=/\b(?:physical (?:bod(?:y|ies)|organi[sz]ation|member)s?|etheric(?: or life)?(?: (?:bod(?:y|ies)|organi[sz]ation|member)s?)?|ether bod(?:y|ies)|life[- ]bod(?:y|ies)|astral(?: (?:bod(?:y|ies)|organi[sz]ation|member)s?)?|corpos? (?:físicos?|etéricos?|astrais|astral|vitais|vital|de (?:éter|vida))|organizaç(?:ão|ões) (?:física|físicas|etérica|etéricas|astral|astrais)|etéric[oa]s?|astral|astrais)\b/giu;
-export function targetFor(term){return /astr/i.test(term)?'astral-body':/physical|físic/i.test(term)?'physical-body':'etheric-body';}
-export function linkTerms(html,url){
+export const worldTerms=/\b(?:(?:mineral|plant|vegetable|animal) (?:world|kingdom)s?|(?:mundo|reino) (?:mineral|vegetal|animal|das plantas|dos animais|dos minerais))\b/giu;
+export const terms=/\b(?:(?:mineral|plant|vegetable|animal) (?:world|kingdom)s?|(?:mundo|reino) (?:mineral|vegetal|animal|das plantas|dos animais|dos minerais)|physical (?:bod(?:y|ies)|organi[sz]ation|member)s?|etheric(?: or life)?(?: (?:bod(?:y|ies)|organi[sz]ation|member)s?)?|ether bod(?:y|ies)|life[- ]bod(?:y|ies)|astral(?: (?:bod(?:y|ies)|organi[sz]ation|member)s?)?|corpos? (?:físicos?|etéricos?|astrais|astral|vitais|vital|de (?:éter|vida))|organizaç(?:ão|ões) (?:física|físicas|etérica|etéricas|astral|astrais)|etéric[oa]s?|astral|astrais)\b/giu;
+export function targetFor(term){
+ if(/world|kingdom|mundo|reino/i.test(term))return /minera/i.test(term)?'mineral-world':/animal|animais/i.test(term)?'animal-world':'plant-world';
+ return /astr/i.test(term)?'astral-body':/physical|físic/i.test(term)?'physical-body':'etheric-body';
+}
+export function linkTerms(html,url,matcher=terms){
  const stack=[];let count=0;
  const result=html.replace(/<!--[\s\S]*?-->|<(script|style|textarea)\b[^>]*>[\s\S]*?<\/\1\s*>|<[^>]*>|[^<]+/gi,token=>{
   if(token.startsWith('<')){
@@ -15,7 +19,7 @@ export function linkTerms(html,url){
    return token;
   }
   if(!stack.includes('body')||stack.some(t=>excluded.has(t)))return token;
-  return token.replace(terms,term=>{count++;return `<a class="constitution-ref" href="${url}#${targetFor(term)}">${term}</a>`;});
+  return token.replace(matcher,term=>{count++;return `<a class="constitution-ref" href="${url}#${targetFor(term)}">${term}</a>`;});
  });
  return {html:result,count};
 }

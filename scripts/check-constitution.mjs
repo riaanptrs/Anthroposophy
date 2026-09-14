@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
-import {linkTerms} from './link-constitution.mjs';
+import {linkTerms,targetFor} from './link-constitution.mjs';
 const strip=h=>h.replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');
 const fixture='<html><head><title>Astral body</title></head><body><p title="etheric body">Physical body, astral body, etheric body; astral body again.</p><a href="source.html">astral body</a><textarea>etheric body</textarea><script>if (a < b) { text = "astral body"; }</script><svg><text>physical body</text></svg><!-- astral body --></body></html>';
 const result=linkTerms(fixture,'reference/human-constitution.html');
@@ -9,13 +9,18 @@ assert.equal(result.count,4);
 assert.equal(strip(result.html),fixture,'Linking must preserve wording and attributes');
 assert.equal(linkTerms(result.html,'reference/human-constitution.html').html,result.html,'Linking must be idempotent');
 assert.equal(linkTerms('<body><p>Corpo físico, corpo etérico, corpo astral, corpo vital, corpos astrais.</p></body>','ref').count,5);
+for(const [term,target] of [['mineral world','mineral-world'],['plant kingdom','plant-world'],['animal world','animal-world'],['reino mineral','mineral-world'],['mundo vegetal','plant-world'],['reino dos animais','animal-world']]){
+ assert.equal(targetFor(term),target);
+ assert.equal(linkTerms(`<body><p>${term}</p></body>`,'ref').html,`<body><p><a class="constitution-ref" href="ref#${target}">${term}</a></p></body>`);
+}
 let links=0,pages=0;
 for(const rel of fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('.html'))){
  const file=path.join('docs',rel),h=fs.readFileSync(file,'utf8');
  if(rel.replaceAll('\\','/').includes('reference/human-constitution.html')){
-  for(const id of ['physical-body','etheric-body','astral-body','i','terminology','sleep','sources'])assert.ok(h.includes(`id="${id}"`),file+' missing '+id);
+  for(const id of ['physical-body','etheric-body','astral-body','i','terminology','sleep','sources','natural-worlds','mineral-world','plant-world','animal-world'])assert.ok(h.includes(`id="${id}"`),file+' missing '+id);
   assert.equal((h.match(/<svg\b/g)||[]).length,2);
-  assert.equal((h.match(/<details>/g)||[]).length,8);
+  assert.equal((h.match(/<details>/g)||[]).length,11);
+  for(const id of ['mineral-world','plant-world','animal-world'])assert.ok(h.includes(`href="human-constitution.html#${id}"`));
   assert.ok(h.includes('GA013_c02.html')&&h.includes('GA009_c01.html'));
   continue;
  }
