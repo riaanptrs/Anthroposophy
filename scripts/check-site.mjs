@@ -197,7 +197,7 @@ for(const prefix of ['', 'pt/']){
   if(!h.includes(v.reading))errors.push(p+': missing source assignment');
   if([2,8].includes(l.id)&&!h.includes('class="temperaments-map"'))errors.push(p+': missing comparison table');
  }
- for(const c of temperamentsConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- temperaments-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Temperaments supplement');}
+ for(const c of temperamentsConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8').replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');if((h.match(/<!-- temperaments-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Temperaments supplement');}
 }
 
 if(understandLessons.map(l=>l.id).join(',')!=='0,1,2,3,4,5,6,7,8,9,10,11,12')errors.push('Expected thirteen Understand lessons');
@@ -236,6 +236,6 @@ for(const prefix of ['', 'pt/']){
  for(const c of selfConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- self-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Koepke supplement');}
 }
 const courseFiles=files.filter(f=>f!=='learning-review.html');
-if(courseFiles.length!==396) errors.push(`Expected 396 course HTML pages, got ${courseFiles.length}`);
+if(courseFiles.length!==398) errors.push(`Expected 398 course and reference HTML pages, got ${courseFiles.length}`);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
 console.log(`Passed: ${files.length} pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.`);
