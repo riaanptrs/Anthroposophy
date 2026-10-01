@@ -1,0 +1,163 @@
+[
+  {
+    "studyId": "toward-threefold-society/00",
+    "en": {
+      "question": "Which description matches the material supplied for this course?",
+      "options": [
+        "The front matter, Smith’s introduction and Steiner’s 1920 preface as supplied",
+        "The complete main text with all chapters about capitalism and international relations",
+        "A 1920 introduction written by Smith and a 2019 preface written by Steiner"
+      ],
+      "answer": 0,
+      "explanation": "The 14 marked pages contain front matter, Smith’s introduction and the fourth-edition preface as supplied. The later chapters are named in the contents but their text is absent."
+    },
+    "pt": {
+      "question": "Qual descrição corresponde ao material fornecido para este curso?",
+      "options": [
+        "Os elementos iniciais, a introdução de Smith e o prefácio de Steiner de 1920 tal como fornecido",
+        "O texto principal completo, com todos os capítulos sobre capitalismo e relações internacionais",
+        "Uma introdução de 1920 escrita por Smith e um prefácio de 2019 escrito por Steiner"
+      ],
+      "answer": 0,
+      "explanation": "As 14 páginas marcadas contêm os elementos iniciais, a introdução de Smith e o prefácio à quarta edição tal como fornecido. Os capítulos posteriores são nomeados no sumário, mas seus textos estão ausentes."
+    }
+  },
+  {
+    "studyId": "toward-threefold-society/01",
+    "en": {
+      "question": "What does Smith mean when he asks whether schools are free?",
+      "options": [
+        "That schools charge no tuition",
+        "That schools are free from state control and economic influence",
+        "That schools have no administration or educational commitments"
+      ],
+      "answer": 1,
+      "explanation": "Smith expressly excludes the meaning “free of cost.” His question concerns freedom from political control and economic influence."
+    },
+    "pt": {
+      "question": "O que Smith quer dizer ao perguntar se as escolas são livres?",
+      "options": [
+        "Que as escolas não cobram mensalidades",
+        "Que as escolas estão livres do controle estatal e da influência econômica",
+        "Que as escolas não têm administração nem compromissos educacionais"
+      ],
+      "answer": 1,
+      "explanation": "Smith exclui expressamente o sentido de gratuidade. Sua pergunta trata da liberdade em relação ao controle político e à influência econômica."
+    }
+  },
+  {
+    "studyId": "toward-threefold-society/02",
+    "en": {
+      "question": "What difficulty remains even for Steiner’s hypothetical perfect theoretical solution?",
+      "options": [
+        "Its author must avoid all concepts and discussion",
+        "It must receive approval from an economic planning office",
+        "It assumes people will accept another person’s scheme and act accordingly"
+      ],
+      "answer": 2,
+      "explanation": "The example questions the belief that public life can be changed merely by announcing a theoretically convincing arrangement. People’s social action cannot simply be assumed."
+    },
+    "pt": {
+      "question": "Que dificuldade permanece mesmo na solução teórica perfeita imaginada por Steiner?",
+      "options": [
+        "Seu autor precisa evitar todos os conceitos e debates",
+        "Ela precisa receber aprovação de um órgão de planejamento econômico",
+        "Ela pressupõe que as pessoas aceitarão o esquema de outra pessoa e agirão conforme ele"
+      ],
+      "answer": 2,
+      "explanation": "O exemplo questiona a crença de que a vida pública pode mudar apenas pelo anúncio de uma organização teoricamente convincente. Não se pode simplesmente pressupor a ação social das pessoas."
+    }
+  },
+  {
+    "studyId": "toward-threefold-society/03",
+    "en": {
+      "question": "Who should administer education in the preface’s proposal?",
+      "options": [
+        "A parliament advised by former teachers",
+        "Active educators who also take part in administration",
+        "Economic representatives who define teachers’ terms of work"
+      ],
+      "answer": 1,
+      "explanation": "Steiner expressly connects teaching and administration, excludes outside political and economic direction, and says decisions should not be made by people outside the active educational process."
+    },
+    "pt": {
+      "question": "Quem deve administrar a educação na proposta do prefácio?",
+      "options": [
+        "Um parlamento assessorado por antigos professores",
+        "Educadores em atividade que também participem da administração",
+        "Representantes econômicos que definam as condições do trabalho docente"
+      ],
+      "answer": 1,
+      "explanation": "Steiner liga expressamente ensino e administração, exclui a direção política e econômica externa e afirma que as decisões não devem ser tomadas por pessoas fora do processo educacional em atividade."
+    }
+  },
+  {
+    "studyId": "toward-threefold-society/04",
+    "en": {
+      "question": "What does the comparison with hunger explain?",
+      "options": [
+        "The need to respond repeatedly to social difficulties",
+        "A permanent cure produced by one ideal institution",
+        "An exact anatomical model for assigning social functions"
+      ],
+      "answer": 0,
+      "explanation": "Hunger returns after eating, just as social order can develop new disorder. Steiner uses this comparison to reject a universal social panacea and explain continuing renewal."
+    },
+    "pt": {
+      "question": "O que a comparação com a fome explica?",
+      "options": [
+        "A necessidade de responder repetidamente às dificuldades sociais",
+        "Uma cura permanente produzida por uma instituição ideal",
+        "Um modelo anatômico exato para distribuir as funções sociais"
+      ],
+      "answer": 0,
+      "explanation": "A fome retorna depois da alimentação, assim como a ordem social pode desenvolver nova desordem. Steiner utiliza essa comparação para rejeitar uma panaceia social universal e explicar a renovação contínua."
+    }
+  },
+  {
+    "studyId": "toward-threefold-society/05",
+    "en": {
+      "question": "Which participants constitute the economic associations proposed here?",
+      "options": [
+        "Only producers deciding consumers’ needs",
+        "Only elected officials directing production",
+        "Consumers, distributors and producers forming economic relationships"
+      ],
+      "answer": 2,
+      "explanation": "Steiner names all three groups. Their participation, contracts and reciprocal insight are meant to connect production, circulation and consumption."
+    },
+    "pt": {
+      "question": "Quais participantes constituem as associações econômicas propostas aqui?",
+      "options": [
+        "Somente produtores que decidam as necessidades dos consumidores",
+        "Somente representantes eleitos que dirijam a produção",
+        "Consumidores, distribuidores e produtores que estabeleçam relações econômicas"
+      ],
+      "answer": 2,
+      "explanation": "Steiner nomeia os três grupos. Sua participação, seus contratos e seu discernimento recíproco devem ligar produção, circulação e consumo."
+    }
+  },
+  {
+    "studyId": "toward-threefold-society/06",
+    "en": {
+      "question": "Which matters does Steiner explicitly assign to the political rights-state?",
+      "options": [
+        "The content of education and the judgment of artistic talent",
+        "Hours and conditions of labor, human rights and obligations",
+        "The prices of all goods and each association’s production plan"
+      ],
+      "answer": 1,
+      "explanation": "The final page assigns hours and conditions of labor, rights and obligations to this sphere. It distinguishes equal human standing from cultural abilities and economic values."
+    },
+    "pt": {
+      "question": "Que assuntos Steiner atribui expressamente ao Estado responsável pela esfera dos direitos?",
+      "options": [
+        "O conteúdo da educação e o julgamento do talento artístico",
+        "Os horários e as condições de trabalho, os direitos e as obrigações humanos",
+        "Os preços de todos os bens e o plano de produção de cada associação"
+      ],
+      "answer": 1,
+      "explanation": "A página final atribui os horários e as condições de trabalho, os direitos e as obrigações a essa esfera. Distingue a igualdade da condição humana das capacidades culturais e dos valores econômicos."
+    }
+  }
+]

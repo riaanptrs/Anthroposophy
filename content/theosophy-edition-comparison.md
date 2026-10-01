@@ -1,6 +1,10 @@
 # Theosophy: recovery of damaged passages
 
-Checked 11 September 2026. Targeted comparison of the passages flagged in the chapter teaching plan; not a complete collation of both books.
+Historical comparison checked 11 September 2026; verification update 30 September 2026.
+
+**Current source decision:** the newly supplied 1971 PDF has now been read with its matching Markdown. Images of printed pp. 36–37 (PDF 64–65) and p. 154 (PDF 182) resolve the old OCR gaps. Lesson 6 now teaches the lists directly from the 1971 edition, and Chapter IV begins from its own verified text. The ownership stamp GEORGE E. MAYCOCK on the title page is not a translation credit; the copyright-page image confirms Henry B. Monges and Gilbert Church. See the [new course review](theosophy-course-review.md) and per-page notes for current evidence.
+
+The following targeted comparison is retained as historical recovery work, not the current source for 1971 quotations. Statements below about unverified images describe the earlier review. It was not a complete collation of the two translations.
 
 ## Sources
 

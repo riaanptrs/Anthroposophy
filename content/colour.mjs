@@ -1,6 +1,7 @@
+import {colourLessonRevisions} from './colour-source-guides.mjs';
 // Original bilingual reading companions to the supplied Colour edition.
 const dates=['1921-05-06','1921-05-07','1921-05-08','1914-07-26','1915-01-01','1920-12-05','1920-12-10','1923-02-21','1923-06-02','1923-06-09','1923-07-29','1924-01-04'];
-const pages=['14–22','23–32','33–44','46–57','58–68','69–76','77–88','89–100','101–110','111–121','122–134','135–144'];
+const pages=['15–23','24–33','34–45','47–58','59–69','70–77','78–89','90–101','102–111','112–122','123–135','136–145'];
 const ga=['291','291','291','286','275','202','202','349','276','276','228','233a'];
 export const colourSources=dates.map((date,i)=>({lecture:i+1,date,pages:pages[i],ga:ga[i],url:'https://rsarchive.org/Lectures/GA291/'}));
 // Rows: title, goal, key, context, example, explanation, activity, takeaway, terms, question, answer.
@@ -305,3 +306,10 @@ const practiceAnswers=[
  ['A strong submission shows the initial and revised arrangement, names two lecture ideas and explains a concrete change. It distinguishes the felt result from a wider spiritual interpretation.','Uma boa entrega mostra a disposição inicial e a revisada, nomeia duas ideias das palestras e explica uma mudança concreta. Distingue o resultado sentido de uma interpretação espiritual mais ampla.']
 ];
 for(const l of colourLessons)for(const [i,lang] of ['en','pt'].entries())l[lang].checks[2]=[lang==='pt'?'Como seria uma resposta bem fundamentada à atividade?':'What would a well-supported response to the activity include?',practiceAnswers[l.id][i]];
+
+// Preserve original worked examples and stable lesson identities while expanding the source teaching.
+for(const revision of colourLessonRevisions){
+ const lesson=colourLessons.find(l=>l.id===revision.id);
+ if(!lesson)throw Error(`Missing Colour lesson ${revision.id}`);
+ for(const lang of ['en','pt'])Object.assign(lesson[lang],revision[lang]);
+}

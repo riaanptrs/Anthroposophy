@@ -1,37 +1,25 @@
 # The Mystery of Temperaments — source review and course map
 
-13 September 2026
+Updated 1 October 2026. This review replaces the earlier 13 September map of a different 32-capture upload. The new PDF and matching Markdown contain 33 captures. Cover and title occupy 1–2, the discussion 3–31, and advertisements 32–33. All were read and every native PDF page inspected. The new copy still contains genuine repeated passages, irregular translation and an incomplete sentence; those defects have not been described as fully recovered.
 
-The supplied `The Mystery of Temperaments.md` contains 32 capture page markers. The main discussion runs from pages 2–30; page 1 is a cover and pages 31–32 advertise other books. The capture does not identify a translator, edition or lecture date. Repeated blocks and damaged expressions (including unstable translations of sanguine, choleric and the I) should not be copied into student lessons.
+See the [completed revision, teaching map and full page notes](mystery-temperaments-course-review.md) and [source identity audit](mystery-temperaments-source-audit.md). Title and author are identified, while translator, publisher, publication year, lecture identity and GA volume remain unknown. The linked Dawson translation retains its own catalogue particulars as a separate parallel.
 
-The opening, argument and conclusion closely parallel [The Mystery of the Human Temperaments in the Rudolf Steiner Archive](https://rsarchive.org/Lectures/19090119p01.html), catalogued as Karlsruhe, 19 January 1909, GA 68d, translated by Frances E. Dawson. This is a usable parallel reading, not a verified identification of the supplied edition. The source overlaps the existing Four Temperaments course (Berlin, 4 March 1909, GA 57). Course 9 is a complementary reading route, not a new system or fifteen separate original lectures.
-
-## Coverage
-
-| Lesson | Capture pages | Focus and teaching activity |
+| Lesson | PDF captures | Essential teaching |
 |---|---|---|
-| 00 | 2–30 | Orientation: distinguish source, interpretation and adaptation; retain an opening encounter for synthesis. |
-| 01 | 2–4 | Individuality: revise a general description when another observation arrives. |
-| 02 | 4–8 | Inheritance and spiritual individuality: distinguish biological claims from Steiner’s spiritual account. |
-| 03 | 8–9 | Temperament as mediation: explain reciprocal influence without inventing a third person inside someone. |
-| 04 | 9–12 | Four members: distinguish predominance from absence of the others. |
-| 05 | 12–15 | Four portraits: compare observable attention and action with an interpretive label. |
-| 06 | 15–18 | Physical appearance: expose the missing inference between outward form and character. |
-| 07 | 18–20 | Mixtures: work with a response in a particular situation rather than a fixed identity. |
-| 08 | 20–22 | Sanguine education: build from an existing interest and a reliable relationship. |
-| 09 | 22–23 | Choleric education: model competence, honest correction and an attainable challenge. |
-| 10 | 23–24 | Melancholic education: voluntary care and acknowledgment of another perspective. |
-| 11 | 25–26 | Phlegmatic education: offer concrete, optional participation in a shared interest. |
-| 12 | 26–28 | Self-education: change a circumstance and observe a modest practice. |
-| 13 | 28–30 | Social application: show how understanding changes a concrete encounter. |
-| 14 | 2–30 | Synthesis: return to the original encounter, revise and explain the limits of the framework. |
+| 00 | 3–31 | From the individual enigma to an art of living |
+| 01 | 3–5 | General human nature and the particular person |
+| 02 | 5–9 | Heredity and the individuality carried through lives |
+| 03 | 9–10 | Temperament as reciprocal colouring |
+| 04 | 10–13 | Four members: interaction and predominance |
+| 05 | 14–16 | Four portraits: members, direction and response |
+| 06 | 16–19 | Appearance: the source’s signs and its qualification |
+| 07 | 19–20 | Mixtures and guidance: preserve variety, redirect one-sidedness |
+| 08 | 21–23 | Sanguine education: present interest, personal affection and arranged variety |
+| 09 | 23–24 | Choleric education: earned respect and real resistance |
+| 10 | 24–25 | Melancholic education: lived experience and compassion |
+| 11 | 26–27 | Phlegmatic education: the interests of companions |
+| 12 | 23–29 | Adult self-education: reason works indirectly |
+| 13 | 29–31 | Social understanding: knowledge becomes responsive conduct |
+| 14 | 3–31 | Synthesis: from temperament to the individual encounter |
 
-Repeated passages occur especially around pages 9–11, 17, 19, 21, 23, 27 and 30. Lesson divisions follow the argument rather than counting those repeated blocks as new content. Every lesson has original English and Brazilian Portuguese explanation, vocabulary, activity and three answer checks, followed by the shared guided notebook.
-
-## Editorial distinctions
-
-Spiritual members, reincarnation and bodily correspondences are attributed to Steiner. Historical biological comparisons and psychiatric characterizations are not presented as current scientific explanations or diagnostic instruments. Appearance is not taught as evidence of a person’s temperament.
-
-Some historical educational recommendations require explicit adaptation: affection is not made conditional on performance; the adult may acknowledge mistakes; challenges are attainable rather than designed to defeat a child; activities do not manufacture suffering, provoke anger or impose prolonged boredom. These choices are identified as original practical adaptations rather than attributed verbatim to the source. Fictional situations allow study without requiring personal disclosure.
-
-The source file stays outside the public site. Its fingerprint is recorded in the source register. Course data: `mystery-temperaments.mjs`; generator: `../scripts/build-mystery-temperaments.mjs`.
+The fifteen bilingual lessons are divisions of the argument, not chapters or separate original lectures. Each now includes a four-section source guide, an actual short supplied English passage with a capture/column reference, a Portuguese study translation, three source-comprehension checks and an explicitly adapted activity. The source’s stronger prescriptions are taught with attribution rather than silently replaced by the course’s practical choices. Existing fictional examples, note controls and study identities remain intact.

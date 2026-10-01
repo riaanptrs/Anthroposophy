@@ -1,3 +1,4 @@
+import {childsTemperamentLessonRevisions,childsTemperamentConnectionRevisions} from './childs-temperament-source-guides.mjs';
 export const understandSource='https://www.rudolfsteinerpress.com/the_index_t_z.php';
 // Original bilingual companions to Gilbert Childs, not lectures attributed to Steiner.
 const rows=[
@@ -271,3 +272,15 @@ export const understandConnections=[
  {target:'temperaments/lessons/05.html',lesson:5,en:['An invitation can include preparation time','Childs’s Chapter 5 describes privacy and time to prepare a response; Chapter 7 gives the example of a useful suggestion withheld because nobody asked. Extend the shared-activity invitation with advance notice and a choice of speaking or writing. These are possibilities to check with the person, not requirements inferred from a label.'],pt:['Um convite pode incluir tempo de preparação','O capítulo 5 de Childs descreve privacidade e tempo para preparar respostas; o capítulo 7 apresenta uma sugestão útil não mencionada porque ninguém perguntou. Amplie o convite à atividade compartilhada com aviso prévio e escolha entre falar e escrever. São possibilidades a conferir com a pessoa, não exigências deduzidas de um rótulo.']},
  {target:'temperaments/lessons/07.html',lesson:8,en:['A relationship is more than two categories','Childs’s compatibility chapter considers ten pairings and explicitly calls its sketches caricatures. Use its themes to ask about pace, privacy, decisions and shared responsibilities. The companion lesson turns the pairings into discussion prompts rather than predictions of success or failure.'],pt:['Uma relação é mais do que duas categorias','O capítulo de compatibilidade de Childs considera dez combinações e chama seus esboços explicitamente de caricaturas. Use os temas para perguntar sobre ritmo, privacidade, decisões e responsabilidades. A lição complementar transforma os pares em perguntas, não previsões de sucesso ou fracasso.']}
 ];
+
+// Replace superseded capture readings and add full source teaching while preserving original cases and routes.
+for(const revision of childsTemperamentLessonRevisions){
+ const lesson=understandLessons.find(l=>l.id===revision.id);
+ if(!lesson)throw Error(`Unknown Childs lesson: ${revision.id}`);
+ for(const lang of ['en','pt'])Object.assign(lesson[lang],revision[lang]);
+}
+for(const revision of childsTemperamentConnectionRevisions){
+ const connection=understandConnections.find(c=>c.target===revision.target&&c.lesson===revision.lesson);
+ if(!connection)throw Error(`Unknown Childs connection: ${revision.target}`);
+ for(const lang of ['en','pt'])connection[lang]=revision[lang];
+}

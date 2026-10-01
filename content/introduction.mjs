@@ -1,47 +1,122 @@
-// Original bilingual orientation. Source markers refer to the supplied 2002
-// Bamford/Spiegler transcription, not the printed pagination of GA 9.
+// Bilingual orientation grounded in the supplied 1971 Theosophy PDF.
+// Portuguese quotations elsewhere in the course are original study translations.
 export const introduction = {
- id: 0, chapter: 0, pages: '15–16, 22–24, 30–32, 46–49, 151–152, 160–162', notes: '',
- en: ['Why study anthroposophy?', 'Understand the purpose of this study and see how the course fits together.', [
-  'Anthroposophy is Rudolf Steiner’s path of spiritual knowledge, beginning with the question of what it means to be human. He proposes that capacities within us can develop toward knowledge of a spiritual reality. His aim connects understanding ourselves with understanding the world and acting within it. This course helps you follow that proposal, examine it, and form your own questions.',
-  'Self-knowledge here means more than describing your personality. It involves attending to how you perceive, feel, think, remember, and act. These familiar activities provide starting questions: How does an experience become part of me? What guides a choice? Can I understand something beyond my immediate likes and dislikes? Steiner takes these questions toward an account of soul and spirit.',
-  'Bamford presents a comparison from Steiner that helps explain this starting point. Imagine exploring a landscape at ground level, seeing it from a hilltop, and looking from the hillside where details and the wider view can meet. The comparison places anthroposophy on the hillside: it begins with observable human life and seeks indications of its spiritual foundation. “Anthropology” and “theosophy” name the other perspectives in this particular comparison, not a ranking of people or a complete description of those fields today. The image explains an intended approach; it does not prove the spiritual foundation.',
-  'In his later lectures collected as What Is Anthroposophy?, Steiner connects spiritual life with freedom, memory, and love. Freedom raises the question of how we understand and form the motives for our actions. Memory connects past experience with present inner life. Love opens us toward another being and the world. These are themes to explore throughout the course; you do not need to master their spiritual explanation before beginning.',
-  'Our main book is Theosophy (GA 9). It gives us an organized sequence: the human being; individuality and destiny; the soul and spiritual worlds; and a path of knowledge. We will work through it in short readings. The later lectures help us revisit the meaning of those ideas, while Theosophy supplies the foundation.',
-  'Keep three uses of the name distinct. Theosophy is the title of Steiner’s book in this course. Theosophy can also mean divine wisdom more broadly. The Theosophical Society is the historical organization in which Steiner worked before the separate Anthroposophical movement. Studying this particular book is not the same as studying every teaching associated with that organization.',
-  'Steiner calls his approach spiritual science because he intends a disciplined way of knowing, not simply accepting a belief. That is how he presents his method; the name does not by itself establish the truth of its results. We will distinguish an ordinary observation, an argument, and a report of spiritual perception as we meet them. Understanding a proposal and agreeing with it are different steps.',
-  'Allow about 20–30 minutes for this opening, including reflection; you can divide it into two sessions. Begin with an experience you can describe, then follow the author’s explanation before evaluating it. Keep one question in your notebook and return to it as the course develops. You can begin without prior spiritual experience or specialist vocabulary.'
- ], 'Return to the example of helping someone at the beginning. Write what you notice, what you feel, and what reasons might guide your response. Then choose one question about human life you want this course to help you explore. Use the course map to identify where you might revisit it.', 'In your own words: What does anthroposophy seek? Why does this course begin with Theosophy? Does noticing a thoughtful choice establish the whole spiritual account?', 'Steiner’s anthroposophy seeks a path from human self-knowledge toward knowledge of spiritual reality. Theosophy supplies an organized foundation for studying that account. A thoughtful choice gives us an everyday starting point for questions about freedom and action; it does not establish all of Steiner’s explanations. If you can explain these distinctions and name one question of your own, continue to Lesson 1. Otherwise reread the opening and the course map.'],
- pt: ['Por que estudar antroposofia?', 'Compreender o propósito deste estudo e como as partes do curso se relacionam.', [
-  'Antroposofia é o caminho de conhecimento espiritual de Rudolf Steiner, que começa pela pergunta sobre o que significa ser humano. Ele propõe que capacidades presentes em nós podem se desenvolver em direção ao conhecimento de uma realidade espiritual. Seu propósito liga a compreensão de nós mesmos à compreensão do mundo e à nossa atuação nele. Este curso ajuda você a acompanhar essa proposta, examiná-la e formular suas próprias perguntas.',
-  'Autoconhecimento, aqui, significa mais do que descrever a própria personalidade. Envolve prestar atenção a como percebemos, sentimos, pensamos, lembramos e agimos. Essas atividades familiares oferecem perguntas iniciais: Como uma experiência passa a fazer parte de mim? O que orienta uma escolha? Posso compreender algo além daquilo de que gosto ou não gosto imediatamente? Steiner conduz essas perguntas a uma concepção de alma e espírito.',
-  'Bamford apresenta uma comparação de Steiner que ajuda a explicar esse ponto de partida. Imagine explorar uma paisagem ao nível do chão, vê-la do alto de uma colina e observá-la da encosta, onde os detalhes e a visão mais ampla podem se encontrar. A comparação situa a antroposofia na encosta: ela começa pela vida humana observável e busca indícios de seu fundamento espiritual. “Antropologia” e “teosofia” nomeiam as outras perspectivas nessa comparação específica, não uma classificação de pessoas nem uma descrição completa dessas áreas hoje. A imagem explica uma abordagem pretendida; não comprova o fundamento espiritual.',
-  'Nas palestras posteriores reunidas em What Is Anthroposophy?, Steiner relaciona a vida espiritual à liberdade, à memória e ao amor. A liberdade levanta a pergunta de como compreendemos e formamos os motivos de nossas ações. A memória liga a experiência passada à vida interior presente. O amor nos abre para outro ser e para o mundo. São temas para explorar ao longo do curso; você não precisa dominar sua explicação espiritual antes de começar.',
-  'Nosso livro principal é Teosofia (GA 9). Ele oferece uma sequência organizada: o ser humano; individualidade e destino; os mundos anímico e espiritual; e um caminho de conhecimento. Vamos percorrê-lo em leituras curtas. As palestras posteriores ajudam a retomar o significado dessas ideias, enquanto Teosofia fornece a base.',
-  'Distinga três usos do nome. Teosofia é o título do livro de Steiner estudado neste curso. Teosofia também pode significar sabedoria divina num sentido mais amplo. A Sociedade Teosófica é a organização histórica na qual Steiner atuou antes do movimento antroposófico separado. Estudar este livro específico não equivale a estudar todos os ensinamentos associados àquela organização.',
-  'Steiner chama sua abordagem de ciência espiritual porque pretende apresentar um modo disciplinado de conhecer, além da simples aceitação de uma crença. É assim que ele apresenta seu método; o nome, sozinho, não estabelece a verdade dos resultados. Vamos distinguir uma observação comum, um argumento e um relato de percepção espiritual à medida que aparecerem. Compreender uma proposta e concordar com ela são passos diferentes.',
-  'Reserve cerca de 20–30 minutos para esta abertura, incluindo a reflexão; você pode dividi-la em duas sessões. Comece por uma experiência que possa descrever e acompanhe a explicação do autor antes de avaliá-la. Guarde uma pergunta no caderno e retome-a ao longo do curso. Você pode começar sem experiência espiritual prévia ou vocabulário especializado.'
- ], 'Use o exemplo de ajudar alguém apresentado nesta lição. Escreva o que você percebe, o que sente e quais razões poderiam orientar sua resposta. Depois escolha uma pergunta sobre a vida humana que deseja explorar com o curso. Use o mapa do curso para identificar onde poderia retomá-la.', 'Com suas palavras: O que a antroposofia busca? Por que este curso começa com Teosofia? Perceber uma escolha ponderada estabelece toda a concepção espiritual?', 'A antroposofia de Steiner busca um caminho do autoconhecimento humano ao conhecimento da realidade espiritual. Teosofia fornece uma base organizada para estudar essa concepção. Uma escolha ponderada oferece um ponto de partida cotidiano para perguntas sobre liberdade e ação; não estabelece todas as explicações de Steiner. Se consegue explicar essas distinções e formular uma pergunta própria, avance para a Lição 1. Caso contrário, releia a abertura e o mapa do curso.']
+ "id": 0,
+ "chapter": 0,
+ "pages": "vii–xv, xvii–xxiii",
+ "notes": "",
+ "en": [
+  "Reading Theosophy: purpose and method",
+  "Explain the book’s purpose, its four-chapter sequence, and the difference between understanding and discovering spiritual knowledge.",
+  [
+   "Theosophy asks what the human being is and how human life belongs to a wider spiritual reality. Our source is Rudolf Steiner’s Theosophy (GA 9), the 1971 Anthroposophic Press edition translated by Henry B. Monges and revised by Gilbert Church. Its four chapters move from human constitution to spiritual biography and destiny, then to the three worlds, and finally to a path of knowledge. The course follows that argument in order.",
+   "In the Introduction, printed p. xxii, Steiner calls the study of spiritual processes in human life and the cosmos spiritual science. He uses theosophy for the part of that study concerned with the spiritual core of the human being and its destination. This gives the book its subject: bodily, soul and spiritual life are to be understood together. The title does not make this a survey of every teaching associated with the historical Theosophical Society.",
+   "The prefaces explain what sort of account the author intends. Steiner presents the supersensible descriptions as reports of his own experience, and argues that this knowledge should make a person more capable in practical life. He is describing what he considers real spiritual beings and processes. Read his account on those terms before asking what supports it; quietly replacing all of it with metaphor would change the book.",
+   "Printed p. viii asks the reader to work through individual pages and sentences. In this course, that means identifying a passage’s subject, explaining a distinction or relationship in your own words, and returning to the surrounding section to see what the short quotation leaves out. Memorizing a name such as etheric body is less useful than explaining why the author introduces it and how it relates to an earlier concept.",
+   "Steiner distinguishes discovering spiritual facts from understanding an investigator’s account. On p. xv he compares appreciating a painting with being able to paint it; the Introduction develops the difference between a capacity for perception and an informed understanding of what is perceived. In his account, thoughtful understanding can precede direct spiritual seeing and help prepare it. Understanding a report, accepting its conclusion, and independently verifying it remain different achievements.",
+   "The revised-edition preface, pp. xiii–xiv, asks for flowing, mobile ideas. Steiner says that fixed physical outlines would misrepresent the spiritual world. Treat the later diagrams as aids for following relationships: several classifications can describe the same human being, and regions can interpenetrate. A chart is useful only if you can explain the movements and connections it summarizes.",
+   "The Introduction asks the reader to consider whether the account, if true, would explain human life. This is an invitation to reconstruct its explanatory proposal. Keep track of ordinary observations, arguments, analogies and reported supersensible perception as they enter the book. An analogy can clarify an idea without proving its conclusion. Accurate understanding and a reasoned question can belong in the same response.",
+   "Follow this sequence in every lesson: read the attributed book passage, study its close explanation and chapter context, then explain and apply the distinction. Use the reading assignment for the wider section and the linked addenda when they qualify a term or argument. English excerpts retain the supplied edition’s wording; Portuguese excerpts are labelled study translations. Keep one question from this orientation and return to it at the final synthesis."
+  ],
+  "Read the passage above and the prefaces on pp. viii and xv. Explain what a reader can do before becoming a spiritual investigator. Then write the four chapter questions in order, choose one question of your own, and identify the chapter where you will first investigate it.",
+  "Why does Steiner distinguish understanding a spiritual account from discovering its contents, and how should that distinction guide your reading?",
+  "Discovering the contents requires the spiritual capacities he describes. Understanding an account begins with thoughtful engagement with its ideas and relationships; the painting comparison separates these tasks. The reader should reconstruct the account accurately, use its source context, and distinguish understanding from agreement or independent verification. The course moves through human constitution, spiritual biography and destiny, the three worlds, and the path of knowledge."
+ ],
+ "pt": [
+  "Ler Teosofia: propósito e método",
+  "Explicar o propósito do livro, a sequência de seus quatro capítulos e a diferença entre compreender e descobrir conhecimento espiritual.",
+  [
+   "Teosofia pergunta o que é o ser humano e como a vida humana pertence a uma realidade espiritual mais ampla. Nossa fonte é Theosophy (GA 9), de Rudolf Steiner, na edição de 1971 da Anthroposophic Press, traduzida por Henry B. Monges e revista por Gilbert Church. Seus quatro capítulos passam da constituição humana à biografia espiritual e ao destino, depois aos três mundos e, por fim, a um caminho de conhecimento. O curso acompanha esse argumento em ordem.",
+   "Na Introdução, p. xxii impressa, Steiner chama de ciência espiritual o estudo dos processos espirituais na vida humana e no cosmos. Usa teosofia para a parte desse estudo que trata do núcleo espiritual do ser humano e de sua destinação. Esse é o assunto do livro: compreender em conjunto a vida corporal, anímica e espiritual. O título não faz deste curso um panorama de todos os ensinamentos associados à Sociedade Teosófica histórica.",
+   "Os prefácios explicam o tipo de exposição pretendida pelo autor. Steiner apresenta as descrições suprassensíveis como relatos de sua própria experiência e sustenta que esse conhecimento deve tornar a pessoa mais capaz na vida prática. Descreve seres e processos espirituais que considera reais. Leia sua concepção nesses termos antes de perguntar o que a sustenta; substituir silenciosamente tudo por metáfora mudaria o livro.",
+   "A p. viii impressa pede que o leitor trabalhe cada página e muitas frases. No curso, isso significa identificar o assunto de um trecho, explicar com suas palavras uma distinção ou relação e voltar à seção ao redor para perceber o que a citação curta deixa de fora. Memorizar um nome, como corpo etérico, ajuda menos que explicar por que o autor o introduz e como ele se relaciona com um conceito anterior.",
+   "Steiner distingue descobrir fatos espirituais de compreender a exposição de um pesquisador. Na p. xv, compara apreciar um quadro com saber pintá-lo; a Introdução desenvolve a diferença entre uma capacidade de percepção e uma compreensão informada daquilo que se percebe. Em sua concepção, compreender pelo pensar pode preceder a visão espiritual direta e ajudar a prepará-la. Compreender um relato, aceitar sua conclusão e verificá-lo de modo independente continuam sendo realizações diferentes.",
+   "O prefácio da edição revista, pp. xiii–xiv, pede ideias móveis e fluidas. Steiner afirma que contornos físicos rígidos representariam mal o mundo espiritual. Use os diagramas posteriores como auxílio para acompanhar relações: diferentes classificações podem descrever o mesmo ser humano, e regiões podem se interpenetrar. Um quadro só é útil quando você consegue explicar os movimentos e as ligações que ele resume.",
+   "A Introdução pede ao leitor que considere se a concepção, caso verdadeira, explicaria a vida humana. É um convite a reconstruir sua proposta explicativa. Acompanhe como observações comuns, argumentos, analogias e relatos de percepção suprassensível entram no livro. Uma analogia pode esclarecer uma ideia sem provar sua conclusão. Compreensão fiel e uma pergunta fundamentada podem fazer parte da mesma resposta.",
+   "Siga esta sequência em cada lição: leia o trecho atribuído ao livro, estude sua explicação e o contexto no capítulo, depois explique e aplique a distinção. Use a leitura indicada para a seção mais ampla e os adendos ligados à lição quando qualificarem um termo ou argumento. Os trechos em inglês conservam a redação da edição fornecida; os trechos em português são identificados como traduções de estudo. Guarde uma pergunta desta orientação e retome-a na síntese final."
+  ],
+  "Leia o trecho inicial e os prefácios nas pp. viii e xv. Explique o que um leitor pode fazer antes de tornar-se pesquisador espiritual. Depois escreva em ordem as quatro perguntas dos capítulos, formule uma pergunta própria e identifique o capítulo no qual começará a investigá-la.",
+  "Por que Steiner distingue compreender uma concepção espiritual de descobrir seus conteúdos, e como essa distinção deve orientar sua leitura?",
+  "Descobrir os conteúdos exige as capacidades espirituais descritas por ele. Compreender uma exposição começa pelo trabalho atento com suas ideias e relações; a comparação com o quadro separa essas tarefas. O leitor deve reconstruir a concepção com fidelidade, usar seu contexto de origem e distinguir compreensão de concordância ou verificação independente. O curso percorre constituição humana, biografia espiritual e destino, três mundos e caminho de conhecimento."
+ ]
 };
 
 export const introductionExample = {
- en: ['A friend asks for help while you are busy. You hear the request, notice impatience, remember how someone once helped you, and consider what you can reasonably offer.', 'One ordinary moment brings together perception, feeling, memory, thought, and action. Steiner asks how these activities relate and what they reveal about the human being. This gives us a question to investigate before learning his terminology.', 'Start with a human question. Learn the concepts as ways of exploring it.'],
- pt: ['Uma amiga pede ajuda enquanto você está ocupado. Você ouve o pedido, percebe impaciência, lembra de quando alguém o ajudou e considera o que pode oferecer de maneira razoável.', 'Um momento comum reúne percepção, sentimento, memória, pensamento e ação. Steiner pergunta como essas atividades se relacionam e o que revelam sobre o ser humano. Isso nos oferece uma pergunta para investigar antes de aprender sua terminologia.', 'Comece com uma pergunta humana. Aprenda os conceitos como formas de explorá-la.']
+ "en": [
+  "You can appreciate the relationships in a painting and follow an explanation of its composition even if you cannot paint it yourself.",
+  "Steiner’s preface uses this comparison to distinguish understanding a work from possessing the capacity that produced it. His further claim is that understanding a spiritual account can help prepare spiritual perception; the painting comparison makes that proposal intelligible.",
+  "First understand the relationship the author describes; then state the further claim and your question."
+ ],
+ "pt": [
+  "Você pode apreciar as relações num quadro e acompanhar uma explicação de sua composição mesmo sem saber pintá-lo.",
+  "O prefácio de Steiner usa essa comparação para distinguir compreender uma obra de possuir a capacidade que a produziu. Sua afirmação adicional é que compreender uma exposição espiritual pode ajudar a preparar a percepção espiritual; a comparação com o quadro torna essa proposta inteligível.",
+  "Primeiro compreenda a relação descrita pelo autor; depois apresente a afirmação adicional e sua pergunta."
+ ]
 };
 
 export const courseMap = {
- en: [
-  ['What is the human being?', 'Begin with body, soul, and spirit, then learn how Steiner organizes their relationships.', 1, 'Lessons 1–6'],
-  ['What carries through a life?', 'Explore memory, individuality, actions, and the proposed relationship between repeated lives and destiny.', 7, 'Lessons 7–9'],
-  ['How do human life and the spiritual worlds relate?', 'Study the worlds Steiner describes and the development he proposes between death and rebirth.', 10, 'Lessons 10–17'],
-  ['How is spiritual knowledge approached?', 'Examine the roles of thinking, feeling, conduct, and freedom in the path of knowledge.', 18, 'Lessons 18–21'],
-  ['How do the ideas fit together?', 'Return to your first question and explain what you now understand, including what remains unresolved.', 22, 'Final synthesis']
+ "en": [
+  [
+   "What is the human being?",
+   "Chapter I, pp. 1–39: follow the flower example through body, soul, spirit, the I and the classifications.",
+   1,
+   "Lessons 1–6"
+  ],
+  [
+   "How do experience and deeds become a biography?",
+   "Chapter II, pp. 40–69: distinguish memory, capacities, individuality, repeated lives and destiny; read Addendum 7.",
+   7,
+   "Lessons 7–9"
+  ],
+  [
+   "How do the three worlds belong together?",
+   "Chapter III, pp. 70–153: study soul-world and Spiritland regions, the journey between lives, and their relationship to earthly life.",
+   10,
+   "Lessons 10–17"
+  ],
+  [
+   "How is spiritual knowledge approached?",
+   "Chapter IV, pp. 154–178: connect understanding, feeling, thought, will and participation in practical life.",
+   18,
+   "Lessons 18–21"
+  ],
+  [
+   "Can you explain the book as a connected argument?",
+   "Use one cited passage from each chapter, an addendum and an analogy to explain the connections and an open question.",
+   22,
+   "Final synthesis"
+  ]
  ],
- pt: [
-  ['O que é o ser humano?', 'Comece por corpo, alma e espírito; depois aprenda como Steiner organiza suas relações.', 1, 'Lições 1–6'],
-  ['O que permanece ao longo de uma vida?', 'Explore memória, individualidade, ações e a relação proposta entre vidas sucessivas e destino.', 7, 'Lições 7–9'],
-  ['Como a vida humana e os mundos espirituais se relacionam?', 'Estude os mundos descritos por Steiner e o desenvolvimento que ele propõe entre morte e renascimento.', 10, 'Lições 10–17'],
-  ['Como se aproxima do conhecimento espiritual?', 'Examine os papéis do pensamento, do sentimento, da conduta e da liberdade no caminho do conhecimento.', 18, 'Lições 18–21'],
-  ['Como as ideias se relacionam?', 'Retome sua primeira pergunta e explique o que compreende agora, incluindo o que permanece em aberto.', 22, 'Síntese final']
+ "pt": [
+  [
+   "O que é o ser humano?",
+   "Capítulo I, pp. 1–39: acompanhe o exemplo da flor até corpo, alma, espírito, Eu e classificações.",
+   1,
+   "Lições 1–6"
+  ],
+  [
+   "Como experiências e atos formam uma biografia?",
+   "Capítulo II, pp. 40–69: distinga memória, capacidades, individualidade, vidas sucessivas e destino; leia o Adendo 7.",
+   7,
+   "Lições 7–9"
+  ],
+  [
+   "Como os três mundos se relacionam?",
+   "Capítulo III, pp. 70–153: estude as regiões do mundo anímico e do mundo espiritual, a jornada entre vidas e sua relação com a vida terrestre.",
+   10,
+   "Lições 10–17"
+  ],
+  [
+   "Como se aproxima do conhecimento espiritual?",
+   "Capítulo IV, pp. 154–178: relacione compreensão, sentimento, pensar, querer e participação na vida prática.",
+   18,
+   "Lições 18–21"
+  ],
+  [
+   "Você consegue explicar o livro como um argumento conectado?",
+   "Use um trecho citado de cada capítulo, um adendo e uma analogia para explicar as ligações e uma pergunta em aberto.",
+   22,
+   "Síntese final"
+  ]
  ]
 };

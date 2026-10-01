@@ -1,4 +1,43 @@
-# How to Know Higher Worlds: reading review
+# Higher Worlds: current source review — 30 September 2026
+
+Use the [revision summary](higher-worlds-course-review.md), [current teaching map](higher-worlds-course-plan.md) and four page ledgers for this version of the course. Every PDF page 1–108 has been reviewed, including the editorial preface, contents, part dividers, chapter boundaries and appendix ending.
+
+The new uploads are not two editions of GA 10. The twenty-page PDF and both identical Markdown uploads contain Frederick Amrine's *The Essential Philosophy of Freedom* (third expanded edition, 2022). The 108-page `How to know Higher Worlds2.pdf` contains Rudolf Steiner's GA 10, labelled Dead Authors Society, 2018. The source register fingerprints all three distinct files and records the duplicate Markdown instances. Neither supplied Markdown is used as a transcription of GA 10.
+
+The usable PDF is image-only. Native page images were extracted and OCR was applied separately to its three columns. Sequential review confirms coherent chapter transitions and a complete final appendix paragraph relative to the capture; it does not establish completeness against an external critical edition. The editorial preface quotes the author's 1914 preface, but the author prefaces are not separately reproduced. The English translator is not identified. No printed folios are visible; lesson and excerpt locators refer to PDF pages and columns.
+
+| PDF pages | Section |
+| --- | --- |
+| 1–5 | Publisher/title, editorial preface, contents and Part 1/2 dividers |
+| 5–11 | Conditions |
+| 11–18 | Inner Tranquillity |
+| 18–19 | Stages of Initiation, introduction |
+| 19–24 | Probation |
+| 24–26 | Enlightenment |
+| 26–34 | Control of Thoughts and Feelings |
+| 34–42 | Initiation |
+| 42–48 | Some Practical Aspects |
+| 48–55 | Conditions of Esoteric Training |
+| 55–77 | Some Results of Initiation |
+| 77–82 | Transformation of Dream Life |
+| 82–86 | Continuity of Consciousness |
+| 86–92 | Partition of Human Personality during Spiritual Training |
+| 92–98 | Guardian of the Threshold |
+| 98–103 | Great or Second Guardian of the Threshold |
+| 103–108 | Author's Appendix |
+
+The source already includes passages previously missing in the first capture: the complete seed opening, eight functions, six qualities, dream and consciousness openings, and the appendix continuation. Its images also preserve some digitization defects: quotation marks and apostrophes rendered as stray letters, duplicated or intrusive fragments, and historical page references not converted to capture pagination. These are source defects as well as OCR issues. The lower-organ reference on PDF 68, column 3 names eight, six and four petals, although the detailed discussion on PDF 64–66 calls the relevant organ ten-petalled. This discrepancy is visible in the image and is recorded without silently reconciling the counts; Lesson 10 follows the detailed ten-petalled discussion. Selected quotations are visually checked and avoid damaged wording; explanations paraphrase the intelligible argument rather than supply invented missing sentences.
+
+The course keeps the author's supersensible account specific, including spiritual organs, etheric organization, consciousness during sleep, the asserted reality of the Guardians, karma and collective spirits. It explains everyday analogies on their own terms. The racial/national hierarchy on PDF 101 is discussed explicitly and critically in Lesson 16. The appendix's clarification about book instruction, conscious independence and continued ability in ordinary life is part of the main route.
+
+Four GA 9 connections have current PDF locators: sound/listening21–23; colour-language56 and106–108; equanimity43–44; listening, judgment and tact22–23,39,46. Other course connections remain labelled supplementary material.
+
+---
+
+## Historical source record — 12 September 2026
+
+The earlier findings below describe the older uploads and their limitations at that time. Their page markers and incomplete-reading qualifications do not apply to the newly reviewed 108-page PDF. They remain here to explain the course's development.
+
 
 Prepared 12 September 2026. Status: editorial review and proposed Course 1 additions; not published lesson content.
 

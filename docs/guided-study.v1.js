@@ -68,12 +68,16 @@ root.querySelector('[data-export]').addEventListener('click',()=>{
 });
 root.querySelector('[data-delete]').addEventListener('click',()=>{
  if(!remove(key)){announce(say('Could not delete saved notes. Try your browser’s site-data settings.','Não foi possível excluir as anotações salvas. Use as configurações de dados do site no navegador.'));return;}
+ const last=read('anthro-study-v1:last'),lastUrl=last&&safeLesson(last.url);
+ if(last?.course===id.split('/')[0]&&lastUrl&&Number(lastUrl.pathname.match(/\/lessons\/(\d{2})\.html$/)?.[1])===Number(id.split('/')[1]))remove('anthro-study-v1:last');
  clearTimeout(timer);for(const f of fields)f.value='';complete=false;dirty=false;paintComplete();compare();announce(say('Notes for this lesson were deleted in both languages.','As anotações desta lição foram excluídas nos dois idiomas.'));
 });
+root.querySelector('[data-reading-view]').textContent=say('Open all study notes','Abrir todas as notas de estudo');
 root.querySelector('[data-reading-view]').addEventListener('click',e=>{
  const full=!document.body.classList.contains('study-full');document.body.classList.toggle('study-full',full);
- for(const d of root.querySelectorAll('details.guided-reveal'))d.open=full||root.hasAttribute('data-passage-study');
- e.currentTarget.textContent=full?say('Return to guided view','Voltar ao modo guiado'):say('Open complete explanation','Abrir explicação completa');e.currentTarget.setAttribute('aria-pressed',String(full));
+ for(const d of root.querySelectorAll('details.guided-reveal'))d.open=true;
+ for(const d of root.querySelectorAll('details[data-deep-study]'))d.open=full;
+ e.currentTarget.textContent=full?say('Return to reading view','Voltar ao modo de leitura'):say('Open all study notes','Abrir todas as notas de estudo');e.currentTarget.setAttribute('aria-pressed',String(full));
 });
 for(const lab of root.querySelectorAll('[data-lab]')){
  const type=lab.dataset.lab,out=lab.querySelector('[data-lab-output]');

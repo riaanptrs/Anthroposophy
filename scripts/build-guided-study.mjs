@@ -9,25 +9,70 @@ import {mythsLessons} from '../content/ancient-myths.mjs';
 const root=path.resolve('docs'),esc=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('"','&quot;');
 let count=0;
 const mysteryQuestions=[
- ['What would make a second reading useful even when the names are familiar?','O que tornaria uma segunda leitura útil, mesmo com nomes conhecidos?'],
- ['How would you revise “quiet” after seeing the colleague in another setting?','Como você revisaria “quieto” depois de ver o colega em outro contexto?'],
- ['What can the siblings’ different learning speeds tell us, and what remains unexplained?','O que as diferentes velocidades de aprendizagem dos irmãos mostram e o que permanece sem explicação?'],
- ['What does the instrument comparison illuminate, and where does it stop helping?','O que a comparação com o instrumento esclarece e onde deixa de ajudar?'],
- ['If one part takes the lead, what happens to the others?','Se uma parte assume a liderança, o que acontece com as outras?'],
- ['Which workshop behaviours can you describe before choosing any temperament label?','Quais comportamentos da oficina você consegue descrever antes de escolher um rótulo de temperamento?'],
- ['What alternative explanation could fit the slow walk?','Que explicação alternativa poderia corresponder ao caminhar lento?'],
- ['How could the learner keep persistence while changing their contribution to the discussion?','Como a pessoa poderia conservar a persistência e mudar sua participação na discussão?'],
- ['How could the recurring interest in birds help shape one small next task?','Como o interesse recorrente por aves poderia orientar uma pequena próxima tarefa?'],
- ['How might admitting an unstable joint affect the teacher’s credibility?','Como admitir a instabilidade de uma união poderia afetar a credibilidade do professor?'],
- ['What makes the learner’s act of care different from pressure to stop feeling sad?','O que distingue o gesto de cuidado da pressão para deixar de sentir tristeza?'],
- ['What could invite participation without making belonging depend on performance?','O que poderia convidar à participação sem condicionar o pertencimento ao desempenho?'],
- ['Which circumstance could you change to make a short reading practice possible?','Que circunstância você poderia mudar para tornar possível uma breve prática de leitura?'],
- ['What would you ask before deciding which kind of help to offer?','O que você perguntaria antes de decidir que ajuda oferecer?'],
- ['What observation would make you revise your first account of the teammate?','Que observação faria você revisar sua primeira descrição do colega?']
+ [
+  "What should remain distinct when studying an example?",
+  "O que deve permanecer distinto no estudo de um exemplo?"
+ ],
+ [
+  "How can the four groups coexist with individual difference?",
+  "Como os quatro grupos podem coexistir com a diferença individual?"
+ ],
+ [
+  "What remains to be explained after naming the two streams?",
+  "O que ainda precisa ser explicado depois de nomear as duas correntes?"
+ ],
+ [
+  "Why is temperament more than adding two lists of traits?",
+  "Por que o temperamento vai além de somar duas listas de traços?"
+ ],
+ [
+  "What must a complete explanation of a pairing include?",
+  "O que uma explicação completa de um par deve incluir?"
+ ],
+ [
+  "What do all four portraits have in common as explanations?",
+  "O que os quatro retratos têm em comum como explicações?"
+ ],
+ [
+  "Why is the proportion passage essential to a fair account of the appearance argument?",
+  "Por que o trecho sobre proporção é essencial para um relato fiel do argumento sobre aparência?"
+ ],
+ [
+  "How do the mixture qualification and the educational aim belong together?",
+  "Como a ressalva sobre combinações se relaciona ao objetivo educativo?"
+ ],
+ [
+  "Why are personal affection and arranged objects distinct proposals?",
+  "Por que o afeto pessoal e os objetos organizados são propostas distintas?"
+ ],
+ [
+  "What must an explanation retain before adapting the choleric education proposal?",
+  "O que uma explicação precisa conservar antes de adaptar a proposta de educação colérica?"
+ ],
+ [
+  "What makes the melancholic route more specific than telling a child to cheer up?",
+  "O que torna a via melancólica mais específica que mandar uma criança se animar?"
+ ],
+ [
+  "What is the proposed mediator in phlegmatic education, and what must be kept distinct from it?",
+  "Qual é a mediação proposta na educação fleumática, e o que deve permanecer distinto dela?"
+ ],
+ [
+  "How does the source allow reason to act, and how is the course exercise different from the four original prescriptions?",
+  "Como a fonte permite que a razão aja, e como o exercício do curso difere das quatro prescrições originais?"
+ ],
+ [
+  "How does the closing social aim go beyond recognizing a temperament?",
+  "Como o objetivo social final ultrapassa o reconhecimento de um temperamento?"
+ ],
+ [
+  "What turns a final account into a synthesis of this book rather than a temperament label?",
+  "O que torna o relato final uma síntese deste livro, em vez de um rótulo de temperamento?"
+ ]
 ];
 for(const file of fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.html'))){
  const full=path.join(root,file);let h=fs.readFileSync(full,'utf8');
- if(h.includes('guided-study.v1.js'))continue;
+ if(h.includes('guided-study.v1.js')||h.includes('data-learning-owned='))continue;
  const pt=h.includes('<html lang="pt-BR"'),lang=pt?'pt':'en',t=(en,br)=>pt?br:en;
  const asset=name=>path.relative(path.dirname(full),path.join(root,name)).replaceAll('\\','/');
  h=h.replace('</head>',`<link rel="stylesheet" href="${asset('guided-study.v1.css')}?v=practice-1"><script defer src="${asset('guided-study.v1.js')}?v=practice-1"></script></head>`);

@@ -1,0 +1,1539 @@
+[
+  {
+    "id": 1,
+    "part": 1,
+    "titleEn": "Who was Rudolf Steiner?",
+    "titlePt": "Quem foi Rudolf Steiner?",
+    "centralQuestionEn": "What kind of author and teacher are we about to study?",
+    "centralQuestionPt": "Que autor e professor vamos estudar?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 0
+    },
+    "sourceStatus": "historical-context-with-local-book-evidence",
+    "essentialConcept": "Introduce Steiner (1861–1925) as the author of philosophical works, anthroposophical books and lectures, and an initiator of practical movements. Separate his early philosophical inquiry, later spiritual claims, historical life and the modern course’s evaluation. Koepke’s quoted autobiography supplies a limited example of childhood geometry, not an impartial complete biography.",
+    "misconception": "An autobiographical recollection or a reverent later biography proves the spiritual claims; everything on the site was written by Steiner.",
+    "prerequisites": [],
+    "sourceSectionIfNoQuote": "Theosophy prefaces and Introduction; Philosophy of Freedom prefaces; Koepke, The Ninth Year in Biography, captures 38–39, distinguishes Steiner’s autobiography from Koepke’s commentary.",
+    "coverageLimit": "The repository has bibliographic and autobiographical fragments, not a complete independently checked chronological biography. Do not invent historical milestones, institutional dates, or a biography quotation. Label historical context, author testimony and course explanation separately.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 0,
+        "title": "Theosophy",
+        "url": "lessons/00.html"
+      },
+      {
+        "course": "philosophy-of-freedom",
+        "id": 0,
+        "title": "Philosophy Of Freedom",
+        "url": "philosophy-of-freedom/lessons/00.html"
+      },
+      {
+        "course": "encountering-the-self",
+        "id": 4,
+        "title": "Encountering The Self",
+        "url": "encountering-the-self/lessons/04.html"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "part": 1,
+    "titleEn": "What is Anthroposophy?",
+    "titlePt": "O que é antroposofia?",
+    "centralQuestionEn": "What does this study claim to understand about human life?",
+    "centralQuestionPt": "O que este estudo pretende compreender sobre a vida humana?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 0
+    },
+    "sourceStatus": "reviewed-local-section-no-selected-excerpt",
+    "essentialConcept": "Explain anthroposophy as Steiner’s proposed inquiry into spiritual dimensions of humanity and the cosmos. Theosophy introduces the spiritual core and destination of the human being; the later GA225 lectures develop self-knowledge, freedom, memory and love. Distinguish the inquiry, its claims and the institutions or applications inspired by it.",
+    "misconception": "Anthroposophy is just an application such as Waldorf, a collection of personality labels, or identical to every teaching of the historical Theosophical Society.",
+    "prerequisites": [
+      1
+    ],
+    "sourceSectionIfNoQuote": "Theosophy Introduction, printed p. xxii, and prefaces; introduction.mjs. Later supplementary context: What Is Anthroposophy? (GA225), reviewed in anthroposophy-introduction-review.md; Bamford’s introduction is distinct from Steiner’s lectures.",
+    "coverageLimit": "No definition quotation is selected in the 177-record register. Use the reviewed section and faithful paraphrase; do not turn the modern course’s definition into a Steiner quotation. GA225 references belong to its own edition, not GA9.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 0,
+        "title": "Theosophy",
+        "url": "lessons/00.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 22,
+        "title": "Theosophy",
+        "url": "lessons/22.html"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "part": 1,
+    "titleEn": "What does Steiner mean by Spiritual Science?",
+    "titlePt": "O que Steiner entende por ciência espiritual?",
+    "centralQuestionEn": "How is spiritual science meant to differ from a report of belief or an ordinary sensory investigation?",
+    "centralQuestionPt": "Como a ciência espiritual pretende diferir de uma crença ou investigação sensorial comum?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 0
+    },
+    "sourceStatus": "reviewed-local-section-no-selected-excerpt",
+    "essentialConcept": "Steiner presents supersensible beings and processes as realities and his descriptions as results of spiritual investigation. His proposal includes disciplined development of the knower and thoughtful understanding of another researcher’s account. Explain the author’s use of science before distinguishing it from contemporary empirical verification.",
+    "misconception": "Calling a teaching science either automatically proves it or permits replacing all spiritual claims with metaphors. Understanding, agreement and independent discovery are the same.",
+    "prerequisites": [
+      2
+    ],
+    "sourceSectionIfNoQuote": "Theosophy Introduction and revised-edition prefaces; Chapter IV opening, printed pp.154–161; Addendum13. Compare GA10 appendix, PDF106–108, for pure thinking and further spiritual experience.",
+    "coverageLimit": "The course can reconstruct the method and evaluate its forms of support; an example or a definition does not independently establish spiritual perception. The source’s experimental-testing qualification should remain visible.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 0,
+        "title": "Theosophy",
+        "url": "lessons/00.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 18,
+        "title": "Theosophy",
+        "url": "lessons/18.html"
+      },
+      {
+        "course": "higher-worlds",
+        "id": 17,
+        "title": "Higher Worlds",
+        "url": "higher-worlds/lessons/17.html"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "part": 1,
+    "titleEn": "How does Steiner claim spiritual knowledge is possible?",
+    "titlePt": "Como Steiner afirma que o conhecimento espiritual é possível?",
+    "centralQuestionEn": "What must change in the knower, according to Steiner?",
+    "centralQuestionPt": "O que precisa mudar em quem conhece, segundo Steiner?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 22,
+      "recordIndex": 78
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "The source compares ordinary bodily sense organs with claimed soul and spiritual organs of perception developed within the person. Thoughtful understanding is distinguished from direct discovery; disciplined attention, thought, feeling and character are proposed conditions.",
+    "misconception": "Vivid imagination, a strong emotion, passing a quiz or following a timetable demonstrates spiritual sight.",
+    "prerequisites": [
+      3
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The quoted eye-and-ear comparison explains the proposed capacity; it is an analogy and author claim, not proof or a promise of attainment. Theosophy outlines a path; GA10 supplies a fuller training account.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 18,
+        "title": "Theosophy",
+        "url": "lessons/18.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 22,
+        "title": "Theosophy",
+        "url": "lessons/22.html"
+      },
+      {
+        "course": "higher-worlds",
+        "id": 0,
+        "title": "Higher Worlds",
+        "url": "higher-worlds/lessons/00.html"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "part": 2,
+    "titleEn": "Body, Soul and Spirit",
+    "titlePt": "Corpo, alma e espírito",
+    "centralQuestionEn": "Why does Steiner distinguish three relationships within one encounter?",
+    "centralQuestionPt": "Por que Steiner distingue três relações num mesmo encontro?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 1,
+      "recordIndex": 57
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Body connects with things; soul retains and inwardly experiences impressions; spirit discloses enduring intelligible relationships. Use the flower encounter to explain three aspects of one human being, without equating them with three independent people or with thinking, feeling and willing.",
+    "misconception": "Body–soul–spirit is simply another spelling of physical–etheric–astral or thinking–feeling–willing.",
+    "prerequisites": [
+      4
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The distinction begins with ordinary experience, but Steiner’s full spiritual ontology goes beyond the example. Threefold, fourfold, sevenfold and ninefold accounts answer related questions at different levels.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 1,
+        "title": "Theosophy",
+        "url": "lessons/01.html"
+      },
+      {
+        "course": "human-constitution",
+        "id": 0,
+        "title": "Human constitution reference",
+        "url": "reference/human-constitution.html#terminology"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "part": 2,
+    "titleEn": "The Physical Body",
+    "titlePt": "O corpo físico",
+    "centralQuestionEn": "What does physical body name in the fourfold account?",
+    "centralQuestionPt": "O que corpo físico nomeia na explicação quádrupla?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 2
+    },
+    "sourceStatus": "reviewed-local-section-no-selected-excerpt",
+    "essentialConcept": "Physical body names the material organization considered through substances, physical forces and bodily structures. In this technical usage it is distinguished from the organization of life, inward experience and selfhood, while the members cooperate in one living person.",
+    "misconception": "Physical means bad, irrelevant, only bones or skin, or the whole living and experiencing person in every context.",
+    "prerequisites": [
+      5
+    ],
+    "sourceSectionIfNoQuote": "Theosophy Chapter I, The Bodily Nature of Man, printed pp.6–7, within Lesson2’s pp.6–11; human-constitution.mjs identifies GA13 II, §§1–3, as the linked parallel section.",
+    "coverageLimit": "No selected register quotation directly defines the physical member. Use the identified section and the existing physical-body reference explanation, without inventing a PDF page for the parallel GA13 edition.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 2,
+        "title": "Theosophy",
+        "url": "lessons/02.html"
+      },
+      {
+        "course": "human-constitution",
+        "id": 0,
+        "title": "Human constitution reference",
+        "url": "reference/human-constitution.html#physical-body"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "part": 2,
+    "titleEn": "The Etheric or Life Body",
+    "titlePt": "O corpo etérico ou vital",
+    "centralQuestionEn": "Why does Steiner distinguish living formation from material existence?",
+    "centralQuestionPt": "Por que Steiner distingue formação viva de existência material?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 3,
+      "recordIndex": 59
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Etheric or life body is Steiner’s supersensible formative organization that sustains and shapes living processes. The seedling/stone comparison illustrates organized living development; life is distinguished from inward sentient experience.",
+    "misconception": "Etheric is chemical ether, electricity, the obsolete physical luminiferous ether, vague energy, or a measurable memory container.",
+    "prerequisites": [
+      6
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The chosen sentence places etheric life within physical organization and connects it with sentient dependence. Read surrounding ChapterI pp.11–20 for the fuller account. Plant growth does not prove an invisible member.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 3,
+        "title": "Theosophy",
+        "url": "lessons/03.html"
+      },
+      {
+        "course": "human-constitution",
+        "id": 0,
+        "title": "Human constitution reference",
+        "url": "reference/human-constitution.html#etheric-body"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "part": 2,
+    "titleEn": "The Astral Body",
+    "titlePt": "O corpo astral",
+    "centralQuestionEn": "What is added when life is also inwardly experienced?",
+    "centralQuestionPt": "O que se acrescenta quando a vida também é vivenciada interiormente?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 6
+    },
+    "sourceStatus": "reviewed-local-section-no-selected-excerpt",
+    "essentialConcept": "Astral body names the sentient member associated with sensation, pleasure/pain, desire and inner activity. In Theosophy’s regrouping, soul body and sentient soul are treated together as astral body. Separate life from experience and the bearer of an activity from a particular mental picture.",
+    "misconception": "Astral means all invisible things, only emotion, the whole soul, a mental picture, or an aura color inferred from a photograph.",
+    "prerequisites": [
+      7
+    ],
+    "sourceSectionIfNoQuote": "Theosophy Chapter I, final grouping, printed pp.35–39, especially p.37; connect with life/sensation pp.11–20. Existing reference identifies GA13 II §§10–11 and GA108 §§17–18.",
+    "coverageLimit": "No selected quote directly defines astral body. Soul body alone is not automatically astral body; the grouped context matters. Ordinary hearing illustrates experience but does not establish the supersensible explanation.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 3,
+        "title": "Theosophy",
+        "url": "lessons/03.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 6,
+        "title": "Theosophy",
+        "url": "lessons/06.html"
+      },
+      {
+        "course": "human-constitution",
+        "id": 0,
+        "title": "Human constitution reference",
+        "url": "reference/human-constitution.html#astral-body"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "part": 2,
+    "titleEn": "The I",
+    "titlePt": "O Eu",
+    "centralQuestionEn": "How does the I relate to changing experiences and spiritual individuality?",
+    "centralQuestionPt": "Como o Eu se relaciona com experiências mutáveis e individualidade espiritual?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 5,
+      "recordIndex": 61
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "The I gathers body and soul experience and takes up spiritual content, recognizing experiences as its own and working upon other members. The chosen spirit-self passage locates a spiritual revelation within the I; the surrounding discussion distinguishes I, consciousness soul and spirit self.",
+    "misconception": "I means selfishness, every passing thought, ordinary personality alone, or an isolated operator controlling three separate bodies.",
+    "prerequisites": [
+      8
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "Read ChapterI pp.26–35 around the selected sentence, not only its definition of spirit self. An ordinary deliberate response illustrates self-relation; it is not detection of a spiritual I.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 5,
+        "title": "Theosophy",
+        "url": "lessons/05.html"
+      },
+      {
+        "course": "human-constitution",
+        "id": 0,
+        "title": "Human constitution reference",
+        "url": "reference/human-constitution.html#i"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "part": 2,
+    "titleEn": "Thinking, Feeling and Willing",
+    "titlePt": "Pensar, sentir e querer",
+    "centralQuestionEn": "How can understanding, inward response and action be distinguished without separating the person?",
+    "centralQuestionPt": "Como distinguir compreensão, resposta interior e ação sem separar a pessoa?",
+    "existingSource": {
+      "course": "philosophy-of-freedom",
+      "id": 11,
+      "recordIndex": 27
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "GA4 considers thinking, feeling and will as factors of life; its addition says intuitive thinking can do justice to feeling and will. These activities are distinguishable within one encounter. Compare, later, GA10’s stronger account of their proposed spiritual separation and conscious coordination.",
+    "misconception": "Thinking is head, feeling is etheric and willing is astral by simple one-to-one equivalence; feeling must be suppressed for thinking to work.",
+    "prerequisites": [
+      5,
+      9
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The GA4 passage concerns intuitive thinking in this philosophical argument, not proof of later supersensible Intuition. GA10’s spiritual separation is a different claim requiring its own context.",
+    "bookLinks": [
+      {
+        "course": "philosophy-of-freedom",
+        "id": 11,
+        "title": "Philosophy Of Freedom",
+        "url": "philosophy-of-freedom/lessons/11.html"
+      },
+      {
+        "course": "higher-worlds",
+        "id": 14,
+        "title": "Higher Worlds",
+        "url": "higher-worlds/lessons/14.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 2,
+        "title": "Theosophy",
+        "url": "lessons/02.html"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "part": 2,
+    "titleEn": "The Soul and Spiritual Members of the Human Being",
+    "titlePt": "Os membros anímicos e espirituais do ser humano",
+    "centralQuestionEn": "Why do the counts of human members change between the lists?",
+    "centralQuestionPt": "Por que a contagem dos membros humanos muda entre as listas?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 6,
+      "recordIndex": 62
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Explain the ninefold distinctions, then the grouped sevenfold account: soul body/sentient soul and consciousness soul/spirit self are treated as unities. Distinguish the fourfold physical–life–astral–I account from the transformation-based sevenfold physical–life–astral–I–spirit-self–life-spirit–spirit-man account.",
+    "misconception": "Nine and seven are conflicting anatomies, or every sevenfold list is identical. The grouped sevenfold account and the transformation-based sevenfold account are interchangeable.",
+    "prerequisites": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The short unity quotation explains one grouping only. The complete grouping and transformation discussion in pp.35–39 is essential. No diagram should turn members into literal material layers around the body.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 4,
+        "title": "Theosophy",
+        "url": "lessons/04.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 5,
+        "title": "Theosophy",
+        "url": "lessons/05.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 6,
+        "title": "Theosophy",
+        "url": "lessons/06.html"
+      },
+      {
+        "course": "human-constitution",
+        "id": 0,
+        "title": "Human constitution reference",
+        "url": "reference/human-constitution.html#terminology"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "part": 3,
+    "titleEn": "Death",
+    "titlePt": "A morte",
+    "centralQuestionEn": "What changes when the bodily means of experience are no longer available?",
+    "centralQuestionPt": "O que muda quando os meios corporais da experiência deixam de estar disponíveis?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 11,
+      "recordIndex": 67
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Steiner describes death as release from physical embodiment while soul desires initially persist without their bodily organs of satisfaction. Introduce the difference between losing an organ, retaining a longing, and the proposed process of release from bodily attachment.",
+    "misconception": "Death immediately eliminates every desire, or the after-death description is a geographical itinerary established by an ordinary example.",
+    "prerequisites": [
+      11
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "This is Steiner’s supersensible after-death account. The food/palate analogy clarifies a relation, not evidence about a deceased person. Keep purification distinct from karma and later spiritual assimilation.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 11,
+        "title": "Theosophy",
+        "url": "lessons/11.html"
+      },
+      {
+        "course": "human-constitution",
+        "id": 0,
+        "title": "Human constitution reference",
+        "url": "reference/human-constitution.html#sleep"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "part": 3,
+    "titleEn": "What Does Steiner Say Survives Death?",
+    "titlePt": "O que Steiner afirma que sobrevive à morte?",
+    "centralQuestionEn": "What is enduring individuality, as distinct from every passing experience?",
+    "centralQuestionPt": "O que é individualidade duradoura, distinta de cada experiência passageira?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 14,
+      "recordIndex": 70
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "The lasting spirit or higher self assimilates fruits and capacities from earthly life. Steiner distinguishes the enduring individual from transitory sensory forms and self-seeking attachments. In the higher spiritual regions, purposes and the lasting I come into view in his account.",
+    "misconception": "Survival means keeping every mood, bodily appetite, personality habit and autobiographical memory unchanged forever.",
+    "prerequisites": [
+      9,
+      12
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The selected higher-region passage needs pp.121–127 for the enduring-self discussion; it should not be generalized into a claim that every ordinary memory survives unchanged. The degree of consciousness is qualified in the source.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 7,
+        "title": "Theosophy",
+        "url": "lessons/07.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 14,
+        "title": "Theosophy",
+        "url": "lessons/14.html"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "part": 3,
+    "titleEn": "Reincarnation",
+    "titlePt": "A reencarnação",
+    "centralQuestionEn": "Why does Steiner connect spiritual individuality with repeated earthly lives?",
+    "centralQuestionPt": "Por que Steiner relaciona a individualidade espiritual a vidas terrenas repetidas?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 8,
+      "recordIndex": 64
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Steiner argues from a distinctive spiritual biography to spiritual development across lives, distinguishing bodily heredity from the continuing individuality and acquired capacities. Explain the analogy of spiritual heredity and the further supersensible claim it is used to prepare.",
+    "misconception": "The existence of talents or differences proves a specific past life, or the account denies every inherited psychological influence.",
+    "prerequisites": [
+      13
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The source itself qualifies the thoughtful argument in Addendum7 as a silhouette that prepares what spiritual science must discover. Do not present biography or the heredity analogy as conclusive empirical proof.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 8,
+        "title": "Theosophy",
+        "url": "lessons/08.html"
+      },
+      {
+        "course": "temperaments",
+        "id": 1,
+        "title": "Temperaments",
+        "url": "temperaments/lessons/01.html"
+      },
+      {
+        "course": "mystery-temperaments",
+        "id": 2,
+        "title": "Mystery Temperaments",
+        "url": "mystery-temperaments/lessons/02.html"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "part": 3,
+    "titleEn": "Karma",
+    "titlePt": "O carma",
+    "centralQuestionEn": "How do deeds connect present action with continuing consequences?",
+    "centralQuestionPt": "Como os atos ligam a ação presente a consequências duradouras?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 9,
+      "recordIndex": 65
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Karma concerns self-created destiny through inward predispositions and outward consequences of deeds, connected with repeated lives. The selected sentence describes one inner consequence, not the complete doctrine. Present action remains consequential rather than being cancelled by fate.",
+    "misconception": "Karma means punishment, blaming sufferers, fixed fatalism, or knowing another person’s past deed from their current difficulty.",
+    "prerequisites": [
+      14
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The outward side and relation to repeated lives must be read in the full ChapterII pp.60–69. An ordinary consequence illustrates a relation without proving karmic history. No personal diagnosis or karmic prediction belongs in the activity.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 9,
+        "title": "Theosophy",
+        "url": "lessons/09.html"
+      },
+      {
+        "course": "higher-worlds",
+        "id": 15,
+        "title": "Higher Worlds",
+        "url": "higher-worlds/lessons/15.html"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "part": 3,
+    "titleEn": "Life Between Death and Rebirth",
+    "titlePt": "A vida entre a morte e o renascimento",
+    "centralQuestionEn": "How are earthly experiences said to become capacities for another life?",
+    "centralQuestionPt": "Como as experiências terrenas se tornam, segundo Steiner, capacidades para outra vida?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 13,
+      "recordIndex": 69
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "After soul release, the spirit assimilates the fruits of earthly relationships and activity within Spiritland. The architect analogy links planning and forming capacities with later embodiment. Distinguish release, assimilation and return rather than memorizing a travel schedule.",
+    "misconception": "Every region is a separate physical destination, everyone follows an identical conscious timetable, or the architect analogy proves the account.",
+    "prerequisites": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The source distinguishes maturity and degrees of conscious participation. The selected analogy is explanatory. Read Theosophy pp.110–127; the planetary journey in Colour7 is a later supplementary account, not the same classification.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 13,
+        "title": "Theosophy",
+        "url": "lessons/13.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 14,
+        "title": "Theosophy",
+        "url": "lessons/14.html"
+      },
+      {
+        "course": "colour",
+        "id": 7,
+        "title": "Colour",
+        "url": "colour/lessons/07.html"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "part": 4,
+    "titleEn": "The Soul World",
+    "titlePt": "O mundo anímico",
+    "centralQuestionEn": "What do sympathy and antipathy organize in Steiner’s soul-world account?",
+    "centralQuestionPt": "O que simpatia e antipatia organizam na descrição do mundo anímico?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 10,
+      "recordIndex": 66
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Soul formations relate through attraction, union, exclusion and maintenance of distinctness. The seven regions name interpenetrating relationships, not seven physical floors. The excerpt covers the first three regions; the whole reading adds inward feeling, soul light, active force and soul life.",
+    "misconception": "Soul-world regions are ordinary geographic places; sympathy always means moral goodness and antipathy moral evil.",
+    "prerequisites": [
+      16
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The first-three-region statement should not be represented as defining all seven. Ordinary attraction/aversion can introduce the vocabulary but does not establish supersensible regions.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 10,
+        "title": "Theosophy",
+        "url": "lessons/10.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 11,
+        "title": "Theosophy",
+        "url": "lessons/11.html"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "part": 4,
+    "titleEn": "The Spiritual World",
+    "titlePt": "O mundo espiritual",
+    "centralQuestionEn": "What are living archetypes in the account of Spiritland?",
+    "centralQuestionPt": "O que são arquétipos vivos na descrição do mundo espiritual?",
+    "existingSource": {
+      "course": "theosophy",
+      "id": 12,
+      "recordIndex": 68
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Steiner describes archetypes as living creators of physical and soul forms, not inert copies in an imagined warehouse. Explain forms, life, soul, coordination and creative impulses across the seven regions and their relation to earthly appearance.",
+    "misconception": "Archetypes are ordinary mental pictures, material models, or static objects floating above the world.",
+    "prerequisites": [
+      17
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The excerpt’s “They” refers to archetypes in its surrounding section. Preserve the antecedent in the introduction to the passage rather than expanding the quotation silently. Regions and higher impulses are not an attainment hierarchy for a student.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 12,
+        "title": "Theosophy",
+        "url": "lessons/12.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 15,
+        "title": "Theosophy",
+        "url": "lessons/15.html"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "part": 4,
+    "titleEn": "Spiritual Beings and Hierarchies",
+    "titlePt": "Seres espirituais e hierarquias",
+    "centralQuestionEn": "Why are spiritual beings distinguished by their activities and relationships?",
+    "centralQuestionPt": "Por que seres espirituais são distinguidos por suas atividades e relações?",
+    "existingSource": {
+      "course": "colour",
+      "id": 12,
+      "recordIndex": 91
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "The lecture names First Hierarchy (Seraphim, Cherubim, Thrones), Second (Kyriotetes, Dynamis, Exusiai) and Third (Archai, Archangels, Angels), relating them to warmth, light and colour. It calls original humanity a Fourth Hierarchy. Introduce the ordering as Steiner’s account of spiritual activities, not ranks of present human worth.",
+    "misconception": "Spiritual hierarchy licenses ranking peoples or contemporary individuals, or the elements are just modern chemical substances.",
+    "prerequisites": [
+      18
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "Colour12 is one specific presentation with a Fourth-Hierarchy account of original humanity before the Fall. Theosophy16’s collective and elemental beings are distinct classifications. Do not merge them into one unsupported list.",
+    "bookLinks": [
+      {
+        "course": "colour",
+        "id": 12,
+        "title": "Colour",
+        "url": "colour/lessons/12.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 16,
+        "title": "Theosophy",
+        "url": "lessons/16.html"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "part": 4,
+    "titleEn": "Cosmic Evolution",
+    "titlePt": "A evolução cósmica",
+    "centralQuestionEn": "How does Steiner connect cosmic history with developing human consciousness?",
+    "centralQuestionPt": "Como Steiner relaciona a história cósmica ao desenvolvimento da consciência humana?",
+    "existingSource": {
+      "course": "colour",
+      "id": 6,
+      "recordIndex": 85
+    },
+    "sourceStatus": "partial-local-coverage-with-named-follow-up",
+    "essentialConcept": "Introduce cosmic evolution as successive spiritual conditions and transformations of human constitution/consciousness. Local Colour12 supports Old Saturn, Old Sun, Old Moon and Earth; Colour6–7 relates past spiritual thought and deeds to present nature and current will to future worlds. A full Old Saturn→Sun→Moon→Earth→Jupiter→Venus→Vulcan scheme needs the named GA13 follow-up.",
+    "misconception": "Old Saturn and the other stages are simply today’s planets, or present planetary passages in Colour7 are the same as future cosmic stages. The evolutionary claim is an established physical chronology.",
+    "prerequisites": [
+      19
+    ],
+    "sourceSectionIfNoQuote": "For the complete past-and-future sequence: GA13, Cosmic Evolution and the Human Being (Chapter IV in the existing linked English edition family); this chapter is not a locally reviewed excerpt source. Local readings: Colour6–7 and12.",
+    "coverageLimit": "No reviewed local full Jupiter–Venus–Vulcan sequence or legitimate selected quotation for those future stages was located. Distinguish the verified local outline from a clearly labelled named-source overview; no invented dates, stage durations, figures or page numbers.",
+    "bookLinks": [
+      {
+        "course": "colour",
+        "id": 6,
+        "title": "Colour",
+        "url": "colour/lessons/06.html"
+      },
+      {
+        "course": "colour",
+        "id": 7,
+        "title": "Colour",
+        "url": "colour/lessons/07.html"
+      },
+      {
+        "course": "colour",
+        "id": 12,
+        "title": "Colour",
+        "url": "colour/lessons/12.html"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "part": 4,
+    "titleEn": "Lucifer and Ahriman",
+    "titlePt": "Lúcifer e Ahriman",
+    "centralQuestionEn": "What different one-sided influences do these names describe in Steiner’s teaching?",
+    "centralQuestionPt": "Que influências unilaterais diferentes esses nomes descrevem no ensino de Steiner?",
+    "existingSource": {
+      "course": "colour",
+      "id": 6
+    },
+    "sourceStatus": "partial-local-coverage-with-named-follow-up",
+    "essentialConcept": "A named-source overview should distinguish luciferic tendencies toward spiritual escape or inflation from ahrimanic fixation on material, rigid and mechanical experience. Present them as Steiner’s spiritual beings and influences, not merely psychological metaphors, while explaining how their relation to freedom and development requires context.",
+    "misconception": "Lucifer and Ahriman are interchangeable names for evil, darkness automatically means Ahriman, or these categories identify groups of living people.",
+    "prerequisites": [
+      20
+    ],
+    "sourceSectionIfNoQuote": "GA13, Cosmic Evolution and the Human Being, Earth-evolution discussion of the luciferic influence and its consequences; later Steiner treatments are needed for the full polarity. Local Colour6, captures75–77, supplies only a narrow Ahriman/Ahura Mazda reference.",
+    "coverageLimit": "No reviewed local direct source for the full Lucifer–Ahriman polarity is present. Colour6’s Persian light/dark vocabulary does not justify the whole doctrine; Colour7’s polemic about a Christ statue is also inadequate. Label the broader overview and its source gap; do not fabricate a quotation or citation page.",
+    "bookLinks": [
+      {
+        "course": "colour",
+        "id": 6,
+        "title": "Colour",
+        "url": "colour/lessons/06.html"
+      },
+      {
+        "course": "colour",
+        "id": 7,
+        "title": "Colour",
+        "url": "colour/lessons/07.html"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "part": 5,
+    "titleEn": "Spiritual Development",
+    "titlePt": "O desenvolvimento espiritual",
+    "centralQuestionEn": "Why does the proposed path join knowledge with character and ordinary responsibility?",
+    "centralQuestionPt": "Por que o caminho proposto une conhecimento, caráter e responsabilidade cotidiana?",
+    "existingSource": {
+      "course": "higher-worlds",
+      "id": 5,
+      "recordIndex": 5
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Steiner’s training account places moral preparation alongside developing capacities of knowledge. The three-to-one character maxim introduces the relation between spiritual inquiry, ethical conduct, patience and responsibility. Keep learning about the path distinct from undertaking a complete esoteric training program.",
+    "misconception": "Spiritual development is a quick perception trick, an aggressive attainment score, or withdrawal from ordinary duties.",
+    "prerequisites": [
+      4,
+      10,
+      21
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The source’s strong spiritual and bodily-effect claims remain attributed. The beginner activity should explain the relationship, not reproduce demanding exercises, claim diagnosis or promise attainment.",
+    "bookLinks": [
+      {
+        "course": "higher-worlds",
+        "id": 0,
+        "title": "Higher Worlds",
+        "url": "higher-worlds/lessons/00.html"
+      },
+      {
+        "course": "higher-worlds",
+        "id": 5,
+        "title": "Higher Worlds",
+        "url": "higher-worlds/lessons/05.html"
+      },
+      {
+        "course": "higher-worlds",
+        "id": 17,
+        "title": "Higher Worlds",
+        "url": "higher-worlds/lessons/17.html"
+      },
+      {
+        "course": "meditation",
+        "id": 0,
+        "title": "Meditation",
+        "url": "meditation/00.html"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "part": 5,
+    "titleEn": "Imagination",
+    "titlePt": "A Imaginação",
+    "centralQuestionEn": "How does spiritual Imagination differ from inventing a picture?",
+    "centralQuestionPt": "Como a Imaginação espiritual difere de inventar uma imagem?",
+    "existingSource": {
+      "course": "according-to-luke",
+      "id": 1
+    },
+    "sourceStatus": "reviewed-local-section-no-selected-excerpt",
+    "essentialConcept": "In verified Luke Lecture1, Imagination means spiritual perception in images of beings, distinguished from ordinary sensory cognition and freely invented scenes. Its plant-colour comparison introduces a claimed mode of perception rather than an aura-personality color code.",
+    "misconception": "Any vivid visualization, fantasy, dream, artistic imagination or GA4 moral imagination is spiritual Imagination.",
+    "prerequisites": [
+      22
+    ],
+    "sourceSectionIfNoQuote": "According to Luke Lecture1, uploaded captures15–16, ordinary cognition and plant-colour illustration; lukeSourceGuides1, “Ordinary cognition and Imagination.”",
+    "coverageLimit": "A selected legitimate local passage is available for this lesson’s wider distinction between clairvoyant and initiate (record36), but none currently isolates Imagination. Use the verified section and attributed paraphrase. The illustration does not show that a learner has attained it.",
+    "bookLinks": [
+      {
+        "course": "according-to-luke",
+        "id": 1,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/01.html"
+      },
+      {
+        "course": "ancient-myths",
+        "id": 3,
+        "title": "Ancient Myths",
+        "url": "ancient-myths/lessons/03.html"
+      },
+      {
+        "course": "higher-worlds",
+        "id": 4,
+        "title": "Higher Worlds",
+        "url": "higher-worlds/lessons/04.html"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "part": 5,
+    "titleEn": "Inspiration",
+    "titlePt": "A Inspiração",
+    "centralQuestionEn": "What is added when a spiritual being’s inward expression is said to be understood?",
+    "centralQuestionPt": "O que se acrescenta quando se compreende, segundo Steiner, a expressão interior de um ser espiritual?",
+    "existingSource": {
+      "course": "according-to-luke",
+      "id": 1,
+      "recordIndex": 36
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Steiner distinguishes imaginative seeing from Inspiration, which receives a being’s inward expression or inner word. A clairvoyant and an initiate need not coincide; older mysteries may distribute these capacities among different specialists. An ordinary conversation illustrates outside appearance versus self-expression, not the spiritual capacity.",
+    "misconception": "Inspiration means a creative idea, an unexplained voice, or merely possessing imaginative images.",
+    "prerequisites": [
+      23
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The selected sentence concerns the distinction between capacities, so the explanation must explicitly return to verified capture16 for Inspiration’s meaning. Inner word is technical vocabulary, not an instruction to treat voices as authority.",
+    "bookLinks": [
+      {
+        "course": "according-to-luke",
+        "id": 1,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/01.html"
+      },
+      {
+        "course": "higher-worlds",
+        "id": 11,
+        "title": "Higher Worlds",
+        "url": "higher-worlds/lessons/11.html"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "part": 5,
+    "titleEn": "Intuition",
+    "titlePt": "A Intuição",
+    "centralQuestionEn": "How does Steiner distinguish spiritual Intuition from an ordinary hunch?",
+    "centralQuestionPt": "Como Steiner distingue Intuição espiritual de um palpite comum?",
+    "existingSource": {
+      "course": "according-to-luke",
+      "id": 1
+    },
+    "sourceStatus": "reviewed-local-section-no-selected-excerpt",
+    "essentialConcept": "In Luke Lecture1, spiritual Intuition is participation in or entering the being of spiritual beings through developed spiritual love, beyond images and their inward expression. It is distinct from ordinary hunches, GA4’s intuition of conceptual content, and moral intuition as an individualized ethical insight.",
+    "misconception": "Intuition means guessing correctly; GA4 moral intuition and later technical spiritual Intuition are automatically the same achieved stage.",
+    "prerequisites": [
+      24
+    ],
+    "sourceSectionIfNoQuote": "According to Luke Lecture1, supplied capture16, Inspiration/Intuition and love; compare GA4 Chapters5,9,12 and the 1918 addition to the conclusion.",
+    "coverageLimit": "No existing selected quote isolates this definition; use the verified section. Do not make a short philosophical reasoning exercise a test of union with a spiritual being. The term’s meaning must be identified by text and context.",
+    "bookLinks": [
+      {
+        "course": "according-to-luke",
+        "id": 1,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/01.html"
+      },
+      {
+        "course": "philosophy-of-freedom",
+        "id": 7,
+        "title": "Philosophy Of Freedom",
+        "url": "philosophy-of-freedom/lessons/07.html"
+      },
+      {
+        "course": "philosophy-of-freedom",
+        "id": 12,
+        "title": "Philosophy Of Freedom",
+        "url": "philosophy-of-freedom/lessons/12.html"
+      },
+      {
+        "course": "philosophy-of-freedom",
+        "id": 21,
+        "title": "Philosophy Of Freedom",
+        "url": "philosophy-of-freedom/lessons/21.html"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "part": 5,
+    "titleEn": "Freedom and Moral Intuition",
+    "titlePt": "Liberdade e intuição moral",
+    "centralQuestionEn": "What would make an action free rather than simply chosen?",
+    "centralQuestionPt": "O que tornaria uma ação livre, em vez de apenas escolhida?",
+    "existingSource": {
+      "course": "philosophy-of-freedom",
+      "id": 12,
+      "recordIndex": 28
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "GA4 distinguishes motive, driving force and ethical individuality. Moral intuition supplies an individually understood ethical content; moral imagination forms a concrete action and moral technique concerns actual means. Freedom includes love toward one’s actions and understanding another person’s will, not arbitrary preference.",
+    "misconception": "Freedom means doing anything one wants, originality is enough, intuition needs no reasoning, or moral imagination is the later technical Imagination of spiritual perception.",
+    "prerequisites": [
+      10,
+      25
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "Use Chapters9 and12, including qualifications about conditions and other people. The quotation states the social maxim, not the entire motive argument. A workable idea or successful act does not by itself establish a free ethical motive.",
+    "bookLinks": [
+      {
+        "course": "philosophy-of-freedom",
+        "id": 12,
+        "title": "Philosophy Of Freedom",
+        "url": "philosophy-of-freedom/lessons/12.html"
+      },
+      {
+        "course": "philosophy-of-freedom",
+        "id": 16,
+        "title": "Philosophy Of Freedom",
+        "url": "philosophy-of-freedom/lessons/16.html"
+      },
+      {
+        "course": "philosophy-of-freedom",
+        "id": 20,
+        "title": "Philosophy Of Freedom",
+        "url": "philosophy-of-freedom/lessons/20.html"
+      },
+      {
+        "course": "philosophy-of-freedom",
+        "id": 21,
+        "title": "Philosophy Of Freedom",
+        "url": "philosophy-of-freedom/lessons/21.html"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "part": 6,
+    "titleEn": "Steiner’s Esoteric Christianity",
+    "titlePt": "O cristianismo esotérico de Steiner",
+    "centralQuestionEn": "How does Steiner’s spiritual reading of the Gospels differ from their literal text and from editorial interpretation?",
+    "centralQuestionPt": "Como a leitura espiritual dos Evangelhos em Steiner difere do texto literal e da interpretação editorial?",
+    "existingSource": {
+      "course": "according-to-luke",
+      "id": 7,
+      "recordIndex": 42
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Introduce Christ as a cosmic being in Steiner’s account and distinguish Jesus, Zarathustra, Buddha-related contributions and Christ. The Luke narrative proposes two Jesus children, convergence at twelve, then the change at baptism at thirty. These are esoteric interpretations investigated before comparison with documents, not explicit Gospel statements or a neutral summary of every Christian tradition.",
+    "misconception": "Jesus and Christ are interchangeable names at every stage; McDermott’s editorial introduction is Steiner’s lecture; the Gospel explicitly states the two-children account.",
+    "prerequisites": [
+      26
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "Lecture1 is supplied in verified English captures14–21. The later Luke material chiefly retains German passages with study translations and prior references; no complete new English source for all ten lectures is supplied. Preserve that provenance and the date discrepancy already documented.",
+    "bookLinks": [
+      {
+        "course": "according-to-luke",
+        "id": 0,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/00.html"
+      },
+      {
+        "course": "according-to-luke",
+        "id": 1,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/01.html"
+      },
+      {
+        "course": "according-to-luke",
+        "id": 4,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/04.html"
+      },
+      {
+        "course": "according-to-luke",
+        "id": 7,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/07.html"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "part": 6,
+    "titleEn": "Christ and the Mystery of Golgotha",
+    "titlePt": "Cristo e o Mistério do Gólgota",
+    "centralQuestionEn": "Why does Steiner place the Christ event within human and earthly evolution?",
+    "centralQuestionPt": "Por que Steiner situa o acontecimento de Cristo na evolução humana e terrena?",
+    "existingSource": {
+      "course": "according-to-luke",
+      "id": 10,
+      "recordIndex": 45
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "The Luke conclusion connects Golgotha with initiation entering public world history and the gradual transformation of earthly existence through spirit. Explain the distinction between teaching an ideal and Christ’s asserted gift of love as an active power, with faith, love and hope in the source’s theological setting.",
+    "misconception": "The lecture merely retells an ordinary historical execution; forgiveness erases responsibility; non-Christians lack compassion.",
+    "prerequisites": [
+      27
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The excerpt is retained German with labelled study translations, not a checked new English quotation from the incomplete upload. Spiritual world-historical meaning is Steiner’s interpretation, distinguishable from historical evidence and other Christian accounts.",
+    "bookLinks": [
+      {
+        "course": "according-to-luke",
+        "id": 9,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/09.html"
+      },
+      {
+        "course": "according-to-luke",
+        "id": 10,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/10.html"
+      },
+      {
+        "course": "according-to-luke",
+        "id": 11,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/11.html"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "part": 6,
+    "titleEn": "Christ, Lucifer and Ahriman",
+    "titlePt": "Cristo, Lúcifer e Ahriman",
+    "centralQuestionEn": "How is the Christ impulse related to overcoming one-sided influences in Steiner’s account?",
+    "centralQuestionPt": "Como o impulso de Cristo se relaciona à superação de influências unilaterais na explicação de Steiner?",
+    "existingSource": {
+      "course": "according-to-luke",
+      "id": 7
+    },
+    "sourceStatus": "partial-local-coverage-with-named-follow-up",
+    "essentialConcept": "A clearly attributed overview can explain that Steiner relates the Christ impulse to human freedom and the transformation of luciferic and ahrimanic one-sidedness. Keep distinct the roles of the Christ being, spiritual influences and the individual’s responsibility; do not collapse three figures into interchangeable forces or reduce the account silently to metaphor.",
+    "misconception": "Christ is simply a third equivalent opposing power, Lucifer and Ahriman are the same, or recognizing a balanced mood demonstrates a cosmic spiritual event.",
+    "prerequisites": [
+      21,
+      28
+    ],
+    "sourceSectionIfNoQuote": "Named follow-up: GA13, Cosmic Evolution and the Human Being, Earth-evolution/Christ discussion. Related local background: Luke Lecture7 and10 and Colour7; none gives a verified complete local excerpt on the full triad.",
+    "coverageLimit": "The direct local source gap remains. The Goetheanum-statue polemic in Colour7 cannot substitute for the complete relationship. Use an explicitly labelled overview with named reading, without new quotation, page, or theological claim presented as independently verified.",
+    "bookLinks": [
+      {
+        "course": "according-to-luke",
+        "id": 7,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/07.html"
+      },
+      {
+        "course": "according-to-luke",
+        "id": 10,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/10.html"
+      },
+      {
+        "course": "colour",
+        "id": 7,
+        "title": "Colour",
+        "url": "colour/lessons/07.html"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "part": 7,
+    "titleEn": "Human Development",
+    "titlePt": "O desenvolvimento humano",
+    "centralQuestionEn": "How do capacities change, and why is an age map different from observing a person?",
+    "centralQuestionPt": "Como as capacidades mudam e por que um mapa etário difere de observar uma pessoa?",
+    "existingSource": {
+      "course": "encountering-the-self",
+      "id": 5,
+      "recordIndex": 97
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Koepke interprets the second seven years through cooperating head, rhythmic and metabolic-limb systems, with changing emphasis and transitions. Explain the diagram’s 7/9⅓/11⅔/14 labels and the prose’s broader nine/twelve language. Connect childhood change to biography and consciously cultivated lifelong development without turning the map into a rule for every child.",
+    "misconception": "Every child changes on an exact birthday; grade is age; Koepke’s developmental interpretations are direct Steiner clinical findings; a childhood memory fixes a destiny.",
+    "prerequisites": [
+      11,
+      14,
+      29
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "Koepke’s passage is his explanation of Diagram1, not Steiner’s words. Sease distinguishes grade and age. Biography is retrospective, and bodily/spiritual correspondences are attributed claims. No maturity assessment protocol should follow from the table.",
+    "bookLinks": [
+      {
+        "course": "encountering-the-self",
+        "id": 0,
+        "title": "Encountering The Self",
+        "url": "encountering-the-self/lessons/00.html"
+      },
+      {
+        "course": "encountering-the-self",
+        "id": 4,
+        "title": "Encountering The Self",
+        "url": "encountering-the-self/lessons/04.html"
+      },
+      {
+        "course": "encountering-the-self",
+        "id": 5,
+        "title": "Encountering The Self",
+        "url": "encountering-the-self/lessons/05.html"
+      },
+      {
+        "course": "ancient-myths",
+        "id": 5,
+        "title": "Ancient Myths",
+        "url": "ancient-myths/lessons/05.html"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "part": 7,
+    "titleEn": "Waldorf Education",
+    "titlePt": "A educação Waldorf",
+    "centralQuestionEn": "What does it mean for teaching to grow with the learner?",
+    "centralQuestionPt": "O que significa um ensino que cresce com o estudante?",
+    "existingSource": {
+      "course": "encountering-the-self",
+      "id": 15,
+      "recordIndex": 107
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "The selected Steiner statement is mediated by Koepke’s form-drawing appendix and calls for inventive teaching. Koepke’s curriculum discussion connects practical work, language, movement, arts and later reflective understanding with his developmental framework. Explain those source proposals before offering a modest, optional educational adaptation.",
+    "misconception": "A rigid age recipe, a form-drawing task, or a beautiful activity proves spiritual development; every quoted sentence in Koepke is his own or directly consulted in Steiner’s original book.",
+    "prerequisites": [
+      30
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The excerpt comes from Steiner as quoted by Koepke, with the book’s note1 citing A Modern Art of Education; the original edition was not independently inspected in this task. Stronger authority, discipline and instrument/therapy prescriptions remain historical claims, not classroom protocols. Listen to the particular learner.",
+    "bookLinks": [
+      {
+        "course": "encountering-the-self",
+        "id": 8,
+        "title": "Encountering The Self",
+        "url": "encountering-the-self/lessons/08.html"
+      },
+      {
+        "course": "encountering-the-self",
+        "id": 15,
+        "title": "Encountering The Self",
+        "url": "encountering-the-self/lessons/15.html"
+      },
+      {
+        "course": "understanding-temperaments",
+        "id": 7,
+        "title": "Understanding Temperaments",
+        "url": "understanding-temperaments/lessons/07.html"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "part": 7,
+    "titleEn": "Biodynamic Agriculture",
+    "titlePt": "A agricultura biodinâmica",
+    "centralQuestionEn": "How do farm individuality, celestial rhythms and preparations fit together?",
+    "centralQuestionPt": "Como se relacionam a individualidade da fazenda, os ritmos celestes e os preparados?",
+    "existingSource": {
+      "course": "what-is-biodynamics",
+      "id": 1,
+      "recordCollection": "what-is-biodynamics",
+      "recordIndex": 1
+    },
+    "sourceStatus": "reviewed-supplied-anthology-with-complete-markdown-follow-up",
+    "essentialConcept": "Explain Courtney’s three defining features: farm/Earth as living, celestial relationships and preparations. Teach the two horn preparations, six compost preparations and his contested inclusion of horsetail; preserve his spiritual premise and qualifications about calendar results. Continue into the separately reviewed complete GA 327 course for Steiner’s eight-lecture sequence, whole-farm relationships and animal feeding.",
+    "misconception": "Organic and biodynamic are interchangeable; a relationship diagram proves an agricultural effect; every practitioner accepts Courtney’s nine-preparation emphasis; Courtney’s introductory voice and Steiner’s complete Agriculture lectures are the same source.",
+    "prerequisites": [
+      7,
+      20,
+      31
+    ],
+    "coverageLimit": "The beginner excerpt remains Hugh J. Courtney’s introduction in the fully reviewed What Is Biodynamics? anthology. A separate eighteen-reading course now follows all eight GA 327 Agriculture lectures and supplied supporting material in two complete Markdown witnesses, the 1993 Creeger/Gardner and 2012 Adams editions. Their page markers are transcription locators; the newly uploaded PDFs exceeded the transfer limit and were not visually checked. Proposed effects remain attributed; no universal calendar or field protocol is supplied.",
+    "bookLinks": [
+      {
+        "course": "agriculture",
+        "id": 0,
+        "title": "Agriculture · Complete GA 327 source orientation",
+        "url": "agriculture/lessons/00.html"
+      },
+      {
+        "course": "agriculture",
+        "id": 1,
+        "title": "Agriculture · Lecture 1: beginning the sequence",
+        "url": "agriculture/chapters/lectures-lecture-1.html"
+      },
+      {
+        "course": "agriculture",
+        "id": 3,
+        "title": "Agriculture · Lecture 2: farm individuality",
+        "url": "agriculture/lessons/03.html"
+      },
+      {
+        "course": "agriculture",
+        "id": 13,
+        "title": "Agriculture · Lecture 7: relationships in the farm",
+        "url": "agriculture/chapters/lectures-lecture-7.html"
+      },
+      {
+        "course": "agriculture",
+        "id": 15,
+        "title": "Agriculture · Lecture 8: animal feeding",
+        "url": "agriculture/chapters/lectures-lecture-8.html"
+      },
+      {
+        "course": "what-is-biodynamics",
+        "id": 1,
+        "title": "What Is Biodynamics? · Farm, rhythms and preparations",
+        "url": "what-is-biodynamics/lessons/01.html"
+      },
+      {
+        "course": "what-is-biodynamics",
+        "id": 0,
+        "title": "What Is Biodynamics? · Source orientation",
+        "url": "what-is-biodynamics/lessons/00.html"
+      },
+      {
+        "course": "theosophy",
+        "id": 15,
+        "title": "Theosophy",
+        "url": "lessons/15.html"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "part": 7,
+    "titleEn": "Anthroposophical Medicine",
+    "titlePt": "A medicina antroposófica",
+    "centralQuestionEn": "How can we study a historical medical explanation while keeping its author and uncertainty visible?",
+    "centralQuestionPt": "Como estudar uma explicação médica histórica mantendo autoria e incerteza visíveis?",
+    "existingSource": {
+      "course": "encountering-the-self",
+      "id": 11,
+      "recordIndex": 103
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Holtzapfel’s signed contribution links bodily symptoms, pulse volume, blood sugar and iron with the I’s incarnation; it also says fluctuating symptoms must be taken seriously and names possible serious causes. Preserve the tension between his external-stress explanation, admitted lack of scientific explanation/specific treatment and subsequent iron claims.",
+    "misconception": "The contribution is Steiner’s own medical chapter, the age theory diagnoses symptoms, or the source’s remedies are a treatment or supplementation protocol.",
+    "prerequisites": [
+      7,
+      8,
+      9,
+      30,
+      32
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "The selected author is Walter Holtzapfel, within Koepke’s volume translated by Jesse Darrell. This is a narrow school-doctor contribution, not a full overview of Steiner/Wegman medicine. Named broader follow-up: GA27 Fundamentals of Therapy. The course must not prescribe treatment or infer efficacy from historical assertion.",
+    "bookLinks": [
+      {
+        "course": "encountering-the-self",
+        "id": 11,
+        "title": "Encountering The Self",
+        "url": "encountering-the-self/lessons/11.html"
+      },
+      {
+        "course": "according-to-luke",
+        "id": 8,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/08.html"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "part": 7,
+    "titleEn": "Art, Architecture and Eurythmy",
+    "titlePt": "Arte, arquitetura e euritmia",
+    "centralQuestionEn": "How do colour, form and movement become expressions of a spiritual account?",
+    "centralQuestionPt": "Como cor, forma e movimento se tornam expressões de uma concepção espiritual?",
+    "existingSource": {
+      "course": "colour",
+      "id": 9,
+      "recordIndex": 88
+    },
+    "sourceStatus": "partial-local-coverage-with-named-follow-up",
+    "essentialConcept": "Use the real Colour material to explain painting from colour relationships and its distinction from spatial arts. Colour9 situates architecture, dress and sculpture within a spiritual ordering of the arts; Colour4 gives Goetheanum artistic context. Koepke describes eurythmy within curriculum as expressive movement through speech and musical forms. Distinguish the practices and their source-specific aims.",
+    "misconception": "Digital colour exercises reproduce Steiner’s original artwork or prove spiritual effects; architecture, painting and eurythmy are the same practice; a simple gesture is therapeutic training.",
+    "prerequisites": [
+      10,
+      19,
+      31,
+      33
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "Architecture has local discussion, but no complete design or construction text. Eurythmy has secondary Koepke curriculum context, not a local Steiner eurythmy course. Named source for the latter: GA279 Eurythmy as Visible Speech. Do not invent a movement protocol or architectural specifications.",
+    "bookLinks": [
+      {
+        "course": "colour",
+        "id": 3,
+        "title": "Colour",
+        "url": "colour/lessons/03.html"
+      },
+      {
+        "course": "colour",
+        "id": 4,
+        "title": "Colour",
+        "url": "colour/lessons/04.html"
+      },
+      {
+        "course": "colour",
+        "id": 9,
+        "title": "Colour",
+        "url": "colour/lessons/09.html"
+      },
+      {
+        "course": "encountering-the-self",
+        "id": 8,
+        "title": "Encountering The Self",
+        "url": "encountering-the-self/lessons/08.html"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "part": 7,
+    "titleEn": "Social Threefolding",
+    "titlePt": "A trimembração social",
+    "centralQuestionEn": "Why distinguish cultural life, rights and economic life?",
+    "centralQuestionPt": "Por que distinguir vida cultural, direitos e vida econômica?",
+    "existingSource": {
+      "course": "toward-threefold-society",
+      "id": 6,
+      "recordCollection": "toward-threefold-society",
+      "recordIndex": 6
+    },
+    "sourceStatus": "reviewed-supplied-markdown-preface",
+    "essentialConcept": "Explain the supplied 1920 preface’s cultural self-administration, economic associations and equal rights, including the rights-state responsibility for working hours and conditions. Show ongoing judgment and cooperation of autonomous spheres; credit Smith’s 2019 introduction separately.",
+    "misconception": "Body–soul–spirit mechanically maps to social institutions, one slogan governs every sphere, or threefolding is a personal temperament classification or political implementation recipe.",
+    "prerequisites": [
+      26,
+      34
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "All fourteen supplied OCR Markdown blocks were reviewed, including Steiner’s 1920 preface and Smith’s 2019 introduction. The native PDF and the main GA 23 chapter bodies are absent. No full-book review, native-image quotation verification or unprovided capital/land argument is claimed.",
+    "bookLinks": [
+      {
+        "course": "toward-threefold-society",
+        "id": 6,
+        "title": "Introduction and preface: rights and cooperation",
+        "url": "toward-threefold-society/lessons/06.html"
+      },
+      {
+        "course": "toward-threefold-society",
+        "id": 3,
+        "title": "Cultural self-administration",
+        "url": "toward-threefold-society/lessons/03.html"
+      },
+      {
+        "course": "toward-threefold-society",
+        "id": 5,
+        "title": "Associative economic life",
+        "url": "toward-threefold-society/lessons/05.html"
+      },
+      {
+        "course": "philosophy-of-freedom",
+        "id": 13,
+        "title": "The Philosophy of Freedom",
+        "url": "philosophy-of-freedom/lessons/13.html"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "part": 8,
+    "titleEn": "How the Anthroposophical Worldview Fits Together",
+    "titlePt": "Como a visão de mundo antroposófica se articula",
+    "centralQuestionEn": "Can you connect the concepts while distinguishing their different claims and sources?",
+    "centralQuestionPt": "Você consegue relacionar os conceitos distinguindo suas afirmações e fontes?",
+    "existingSource": {
+      "course": "philosophy-of-freedom",
+      "id": 21,
+      "recordIndex": 34
+    },
+    "sourceStatus": "verified-local-excerpt",
+    "essentialConcept": "Connect constitution→individuality→destiny→worlds→knowledge→freedom→Christ/evolution→applications. The selected GA4 addition explicitly says later books cannot be deduced by logical inference from GA4 alone. Build a connected conceptual map with source-specific claims, analogies, arguments, supersensible reports, historical context and open questions.",
+    "misconception": "One persuasive analogy proves every doctrine; later spiritual teachings logically follow from the philosophy of freedom; Koepke, Childs, McDermott and Holtzapfel can be attributed to Steiner.",
+    "prerequisites": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "sourceSectionIfNoQuote": null,
+    "coverageLimit": "A complete beginner route is not complete direct-source coverage. The full eight-lecture GA 327 course is now reviewed in two supplied Markdown editions, with the new PDFs unavailable for visual checking; the main GA 23 chapters remain further reading. Broader cosmic, polarity and eurythmy coverage needs more sources. Assess source understanding and relationships, not belief or reported spiritual attainment.",
+    "bookLinks": [
+      {
+        "course": "theosophy",
+        "id": 22,
+        "title": "Theosophy",
+        "url": "lessons/22.html"
+      },
+      {
+        "course": "philosophy-of-freedom",
+        "id": 21,
+        "title": "Philosophy Of Freedom",
+        "url": "philosophy-of-freedom/lessons/21.html"
+      },
+      {
+        "course": "according-to-luke",
+        "id": 11,
+        "title": "According To Luke",
+        "url": "according-to-luke/lessons/11.html"
+      },
+      {
+        "course": "colour",
+        "id": 13,
+        "title": "Colour",
+        "url": "colour/lessons/13.html"
+      },
+      {
+        "course": "encountering-the-self",
+        "id": 16,
+        "title": "Encountering The Self",
+        "url": "encountering-the-self/lessons/16.html"
+      },
+      {
+        "course": "agriculture",
+        "id": 17,
+        "title": "Agriculture · Whole-course synthesis",
+        "url": "agriculture/lessons/17.html"
+      }
+    ]
+  }
+]

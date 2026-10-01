@@ -1,5 +1,7 @@
+import {encounteringSelfLessonRevisions} from './encountering-self-source-guides.mjs';
+import {encounteringSelfConnectionRevisions} from './encountering-self-connections.mjs';
 export const selfSource='https://steinerbooks.org/products/9780880102797-encountering-the-self';
-// Original reading companions. Page numbers identify the user's incomplete capture.
+// Original reading companions. The current source revisions below supply verified 76-capture references.
 const rows=[
 [
 ['Reading Koepke: observation, interpretation and care','Learn how to read a developmental account without turning it into a rule for every child.',
@@ -351,3 +353,15 @@ export const selfConnections=[
 {target:'temperaments/lessons/08.html',lesson:8,en:['Add the developmental situation to the invitation','Encountering the Self adds the question of a learner’s changing relationship to privacy, useful work and belonging. Before choosing a temperament-based route, ask what has changed in this particular situation. A small building or gardening project can offer a real contribution and a choice. Age and school grade do not establish the child’s needs; the response still needs review.'],pt:['Inclua a situação de desenvolvimento no convite','O encontro com o eu acrescenta a pergunta sobre mudanças na relação do estudante com privacidade, trabalho útil e pertencimento. Antes de escolher um caminho por temperamento, pergunte o que mudou nesta situação. Um pequeno projeto de construção ou cultivo pode oferecer contribuição real e escolha. Idade e ano escolar não estabelecem as necessidades da criança; a resposta ainda precisa ser revista.']},
 {target:'colour/lessons/01.html',lesson:6,en:['Return to the colour study on another day','Koepke’s comparison of seven- and twelve-year-olds proposes observing, recalling and interpreting a colour experiment on successive days. Adapt that sequence to this lesson’s colour fields: describe the arrangement, later recall it without looking, then compare the recollection with the original. Keep perceived colour relationships, memory differences and spiritual interpretation in separate notes. This is an original learning exercise, not Koepke’s optical experiment.'],pt:['Retome o estudo de cor em outro dia','Na comparação entre sete e doze anos, Koepke propõe observar, recordar e interpretar uma experiência de cor em dias sucessivos. Adapte a sequência aos campos desta lição: descreva a composição, depois recorde sem olhar e compare a lembrança com o original. Separe relações percebidas, diferenças de memória e interpretação espiritual. É um exercício original, não a experiência óptica de Koepke.']}
 ];
+
+// Preserve the established fictional examples, explanations, section IDs and bridges.
+for(const revision of encounteringSelfLessonRevisions){
+ const lesson=selfLessons[revision.id];
+ lesson.span=revision.span;
+ for(const lang of ['en','pt'])Object.assign(lesson[lang],revision[lang]);
+}
+for(const revision of encounteringSelfConnectionRevisions){
+ const connection=selfConnections.find(c=>c.target===revision.target);
+ if(!connection)throw Error(`Unknown existing connection ${revision.target}`);
+ Object.assign(connection,revision);
+}

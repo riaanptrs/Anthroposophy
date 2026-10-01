@@ -1,0 +1,324 @@
+[
+  {
+    "studyId": "what-is-biodynamics/00",
+    "en": {
+      "question": "Which reading map accurately describes the seven lectures?",
+      "options": [
+        "Seven consecutive Agriculture Course lectures",
+        "Two GA 136 lectures, two GA 230 lectures and three GA 327 lectures",
+        "Seven chapter introductions written by Courtney"
+      ],
+      "answer": 1,
+      "explanation": "The imprint and section notes identify the three cycles. The Agriculture selections are specifically GA 327 lectures 4–6."
+    },
+    "pt": {
+      "question": "Qual mapa descreve corretamente as sete palestras?",
+      "options": [
+        "Sete palestras consecutivas do Curso de Agricultura",
+        "Duas palestras de GA 136, duas de GA 230 e três de GA 327",
+        "Sete apresentações de capítulos escritas por Courtney"
+      ],
+      "answer": 1,
+      "explanation": "O expediente e as notas das seções identificam os três ciclos. As seleções agrícolas são especificamente as palestras 4–6 de GA 327."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/01",
+    "en": {
+      "question": "Which combination gives Courtney’s three defining features?",
+      "options": [
+        "Nutrient measurements, crop rotation and mechanization",
+        "Farm/Earth as living, celestial relationships and preparations",
+        "Calendars alone, without soil or preparations"
+      ],
+      "answer": 1,
+      "explanation": "He names a living individuality, work in relation to celestial rhythms, and specially made preparations. He particularly emphasizes the preparations."
+    },
+    "pt": {
+      "question": "Qual conjunto apresenta as três características definidoras de Courtney?",
+      "options": [
+        "Medições de nutrientes, rotação de culturas e mecanização",
+        "Fazenda/Terra como vivas, relações celestes e preparados",
+        "Apenas calendários, sem solo ou preparados"
+      ],
+      "answer": 1,
+      "explanation": "Ele nomeia a individualidade viva, o trabalho em relação aos ritmos celestes e os preparados especiais. Dá destaque particular aos preparados."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/02",
+    "en": {
+      "question": "Who is responsible for the pictured preparation channel to the Earth’s core in the selected passage?",
+      "options": [
+        "Courtney, developing his personal interpretation",
+        "The editor, reporting a measured soil experiment",
+        "Steiner, speaking these words in the 1924 lecture"
+      ],
+      "answer": 0,
+      "explanation": "Courtney explicitly says this is the picture in his mind, reached through his reading and practice. Attribution preserves that qualification."
+    },
+    "pt": {
+      "question": "De quem é a imagem do canal dos preparados até o centro da Terra no trecho selecionado?",
+      "options": [
+        "De Courtney, desenvolvendo sua interpretação pessoal",
+        "Da editora, relatando um experimento medido no solo",
+        "De Steiner, pronunciando essas palavras na palestra de 1924"
+      ],
+      "answer": 0,
+      "explanation": "Courtney diz explicitamente que essa é a imagem que tem em mente, alcançada por sua leitura e prática. A atribuição conserva essa qualificação."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/03",
+    "en": {
+      "question": "What contrast does Steiner make between the human etheric body and nature’s etheric world?",
+      "options": [
+        "Both are a single undifferentiated form.",
+        "The human etheric body is connected and unitary; nature’s etheric world is a plurality of beings.",
+        "The human body consists only of cloud formations."
+      ],
+      "answer": 1,
+      "explanation": "The distinction at capture 38 is unity in the individual human etheric body and differentiated multiplicity behind physical nature."
+    },
+    "pt": {
+      "question": "Que contraste Steiner faz entre o corpo etérico humano e o mundo etérico da natureza?",
+      "options": [
+        "Ambos são uma única forma indiferenciada.",
+        "O corpo etérico humano é conectado e unitário; o mundo etérico da natureza é uma pluralidade de seres.",
+        "O corpo humano consiste apenas em formações de nuvens."
+      ],
+      "answer": 1,
+      "explanation": "A distinção na captura 38 é entre unidade no corpo etérico humano individual e multiplicidade diferenciada por trás da natureza física."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/04",
+    "en": {
+      "question": "Which relationship distinguishes the cycle spirits from the planetary spirit?",
+      "options": [
+        "The cycle spirits only protect individual seeds; the planetary spirit only changes cloud shapes.",
+        "Both are interchangeable names for the same four elemental classes.",
+        "The cycle spirits direct recurring earthly rhythms; the planetary spirit relates Earth to other heavenly bodies."
+      ],
+      "answer": 2,
+      "explanation": "Captures 48–50 describe the direction of seasonal and daily rhythms; capture 53 distinguishes that task from the planetary spirit’s relation to other heavenly bodies."
+    },
+    "pt": {
+      "question": "Que relação distingue os espíritos dos ciclos do espírito planetário?",
+      "options": [
+        "Os espíritos dos ciclos apenas protegem sementes individuais; o espírito planetário apenas muda formas de nuvens.",
+        "Ambos são nomes intercambiáveis das mesmas quatro classes elementais.",
+        "Os espíritos dos ciclos dirigem ritmos terrestres recorrentes; o espírito planetário relaciona a Terra a outros corpos celestes."
+      ],
+      "answer": 2,
+      "explanation": "As capturas 48–50 descrevem a direção dos ritmos sazonais e diários; a captura 53 distingue essa tarefa da relação do espírito planetário com os outros corpos celestes."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/05",
+    "en": {
+      "question": "Which pairing preserves the four ether activities in the lecture?",
+      "options": [
+        "Gnomes/light; undines/warmth; sylphs/life; fire spirits/chemical",
+        "Gnomes/life; undines/chemical; sylphs/light; fire spirits/warmth",
+        "Gnomes/chemical; undines/life; sylphs/warmth; fire spirits/light"
+      ],
+      "answer": 1,
+      "explanation": "Capture 64 explicitly names life, chemical, light and warmth ether in that order. Their activities cooperate in the plant."
+    },
+    "pt": {
+      "question": "Que combinação preserva as quatro atividades etéricas da palestra?",
+      "options": [
+        "Gnomos/luz; ondinas/calor; silfos/vital; espíritos do fogo/química",
+        "Gnomos/vital; ondinas/química; silfos/luz; espíritos do fogo/calor",
+        "Gnomos/química; ondinas/vital; silfos/calor; espíritos do fogo/luz"
+      ],
+      "answer": 1,
+      "explanation": "A captura 64 nomeia explicitamente éter vital, químico, de luz e de calor nessa ordem. Suas atividades cooperam na planta."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/06",
+    "en": {
+      "question": "Which sequence preserves the lecture’s consciousness relationships?",
+      "options": [
+        "Falling asleep/gnomes; illuminated deep sleep/undines; awakening/sylphs; conscious self-observation/fire spirits",
+        "Falling asleep/fire spirits; deep sleep/sylphs; awakening/gnomes; self-observation/undines",
+        "Every ordinary dream shows all four groups in the same way"
+      ],
+      "answer": 0,
+      "explanation": "Captures 69–72 distinguish these encounters and repeatedly qualify ordinary masked or unconscious experience."
+    },
+    "pt": {
+      "question": "Que sequência preserva as relações de consciência da palestra?",
+      "options": [
+        "Adormecer/gnomos; sono profundo iluminado/ondinas; despertar/silfos; auto-observação consciente/espíritos do fogo",
+        "Adormecer/espíritos do fogo; sono profundo/silfos; despertar/gnomos; auto-observação/ondinas",
+        "Todo sonho comum mostra os quatro grupos da mesma maneira"
+      ],
+      "answer": 0,
+      "explanation": "As capturas 69–72 distinguem esses encontros e reiteram as ressalvas sobre experiência comum mascarada ou inconsciente."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/07",
+    "en": {
+      "question": "Why does Steiner connect fertilizing with the plant’s surroundings?",
+      "options": [
+        "Because he says life continues from the roots into the soil around them.",
+        "Because he says plant life is completely enclosed by its visible outline.",
+        "Because he describes humus as a wholly lifeless container."
+      ],
+      "answer": 0,
+      "explanation": "The tree/mound argument extends life through the roots into soil. Enlivening that surrounding soil is therefore central to his account of plant development."
+    },
+    "pt": {
+      "question": "Por que Steiner relaciona a adubação ao ambiente da planta?",
+      "options": [
+        "Porque afirma que a vida continua das raízes para o solo que as envolve.",
+        "Porque afirma que a vida da planta fica inteiramente encerrada em seu contorno visível.",
+        "Porque descreve o húmus como um recipiente totalmente sem vida."
+      ],
+      "answer": 0,
+      "explanation": "O argumento da árvore e do monte de terra estende a vida pelas raízes até o solo. Vivificar esse solo circundante torna-se, portanto, central para sua explicação do desenvolvimento vegetal."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/08",
+    "en": {
+      "question": "Which pairing matches the lecture’s two horn preparations?",
+      "options": [
+        "Manure spends winter underground and addresses soil from below; the mineral preparation spends summer underground and addresses the plant from above.",
+        "Both preparations spend summer underground and work only on roots.",
+        "The mineral preparation replaces all ordinary manuring, while manure is applied only to fruit."
+      ],
+      "answer": 0,
+      "explanation": "Captures 85–86 connect the substances with opposite seasons and complementary sides of plant development. The final answer at 95 expressly preserves ordinary manuring."
+    },
+    "pt": {
+      "question": "Qual associação corresponde aos dois preparados de chifre da palestra?",
+      "options": [
+        "O esterco passa o inverno sob a terra e se dirige ao solo a partir de baixo; o preparado mineral passa o verão sob a terra e se dirige à planta a partir de cima.",
+        "Ambos passam o verão sob a terra e atuam somente nas raízes.",
+        "O preparado mineral substitui toda adubação habitual, enquanto o esterco é aplicado somente aos frutos."
+      ],
+      "answer": 0,
+      "explanation": "As capturas 85–86 relacionam as substâncias a estações opostas e a lados complementares do desenvolvimento vegetal. A resposta final, na 95, preserva expressamente a adubação habitual."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/09",
+    "en": {
+      "question": "What distinction does the selected passage make?",
+      "options": [
+        "Increasing substances is sufficient regardless of uptake.",
+        "Living forces should enable plants to receive and use what soil offers.",
+        "Preparations eliminate the need for ordinary manuring immediately."
+      ],
+      "answer": 1,
+      "explanation": "Steiner distinguishes abundance from a living capacity to receive and use it; he starts by retaining ordinary manuring."
+    },
+    "pt": {
+      "question": "Que distinção faz o trecho selecionado?",
+      "options": [
+        "Aumentar substâncias basta, independentemente da absorção.",
+        "Forças vivas devem permitir que as plantas recebam e utilizem o que o solo oferece.",
+        "Os preparados eliminam imediatamente a necessidade da adubação comum."
+      ],
+      "answer": 1,
+      "explanation": "Steiner distingue abundância de capacidade viva de recebê-la e utilizá-la; começa mantendo a adubação comum."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/10",
+    "en": {
+      "question": "Which relationship belongs to the nettle preparation in this lecture?",
+      "options": [
+        "An intestinal enclosure chosen for calcium's relation to sulfur.",
+        "A blossom extract completing the preparations through phosphorus.",
+        "Nitrogen retention and regulated decomposition without an animal enclosure."
+      ],
+      "answer": 2,
+      "explanation": "Nettle is linked with regulating decomposition, retaining nitrogen and increasing sensitivity; chamomile and valerian have the other named roles."
+    },
+    "pt": {
+      "question": "Que relação pertence ao preparado de urtiga nesta palestra?",
+      "options": [
+        "Um envoltório intestinal escolhido pela relação entre cálcio e enxofre.",
+        "Um extrato de flores que completa os preparados pelo fósforo.",
+        "Retenção de nitrogênio e decomposição regulada sem envoltório animal."
+      ],
+      "answer": 2,
+      "explanation": "A urtiga é ligada à regulação da decomposição, retenção de nitrogênio e aumento da sensibilidade; camomila e valeriana têm os outros papéis nomeados."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/11",
+    "en": {
+      "question": "Which route is associated with successive plant generations in this lecture?",
+      "options": [
+        "Distant planets acting only through fleshy fruit.",
+        "Microscopic creatures replacing all cosmic forces.",
+        "Moon, Mercury and Venus acting through Earth, with lime involved."
+      ],
+      "answer": 2,
+      "explanation": "Steiner connects the near-planet route through Earth with reproduction, and the distant-planet route through air/silica with fleshy formation."
+    },
+    "pt": {
+      "question": "Que via se associa às gerações vegetais sucessivas nesta palestra?",
+      "options": [
+        "Planetas distantes atuando apenas pelo fruto carnoso.",
+        "Microrganismos substituindo todas as forças cósmicas.",
+        "Lua, Mercúrio e Vênus atuando pela Terra, com participação da cal."
+      ],
+      "answer": 2,
+      "explanation": "Steiner liga a via dos planetas próximos pela Terra à reprodução, e a dos distantes pelo ar/sílica à formação carnosa."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/12",
+    "en": {
+      "question": "Why does Steiner prefer shared insight to police-enforced uniformity in the mouse discussion?",
+      "options": [
+        "He considers adjoining fields irrelevant to pest return.",
+        "Neighboring land matters, so cooperation should arise through understanding and persuasion.",
+        "He says each organism can be controlled by an identical compulsory method."
+      ],
+      "answer": 1,
+      "explanation": "Mice returning from neighboring land motivate the wider cooperation. The selected sentence states his preference for shared insights."
+    },
+    "pt": {
+      "question": "Por que Steiner prefere compreensão compartilhada à uniformidade imposta pela polícia na discussão dos ratos?",
+      "options": [
+        "Ele considera terrenos vizinhos irrelevantes para o retorno das pragas.",
+        "Terrenos vizinhos importam; por isso, a cooperação deve surgir de compreensão e persuasão.",
+        "Ele diz que todo organismo pode ser controlado por um método obrigatório idêntico."
+      ],
+      "answer": 1,
+      "explanation": "O retorno de ratos de terrenos vizinhos motiva a cooperação mais ampla. A frase selecionada declara sua preferência por compreensões compartilhadas."
+    }
+  },
+  {
+    "studyId": "what-is-biodynamics/13",
+    "en": {
+      "question": "Which synthesis keeps the source’s differences visible?",
+      "options": [
+        "Treat every sentence as a single 1924 Steiner lecture",
+        "Explain the spiritual proposal, attribute later interpretations and retain experimental qualifications",
+        "Use the bibliography as proof that all cited books have been reviewed"
+      ],
+      "answer": 1,
+      "explanation": "The anthology contains several voices, dated lecture cycles and editorial qualifications. A careful synthesis connects them while keeping those distinctions."
+    },
+    "pt": {
+      "question": "Qual síntese conserva as diferenças da fonte?",
+      "options": [
+        "Tratar cada frase como uma única palestra de Steiner de 1924",
+        "Explicar a proposta espiritual, atribuir interpretações posteriores e conservar qualificações experimentais",
+        "Usar a bibliografia como prova de que todos os livros citados foram revistos"
+      ],
+      "answer": 1,
+      "explanation": "A antologia contém diversas vozes, ciclos datados e qualificações editoriais. Uma síntese cuidadosa os relaciona conservando essas distinções."
+    }
+  }
+]

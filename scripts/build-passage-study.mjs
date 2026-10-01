@@ -15,6 +15,10 @@ function element(html,marker){
  throw Error('Unclosed element: '+marker);
 }
 function paragraphBlock(text){return text.split('\n\n').map(p=>`<p>${esc(p).replaceAll('\n','<br>')}</p>`).join('');}
+function ensureStylesheet(html,href){
+ const link=`<link rel="stylesheet" href="${href}">`;
+ return html.replaceAll(link,'').replace('</head>',link+'</head>');
+}
 function renderCloudGuide(lang){
  const v=cloudGuide[lang],pt=lang==='pt';
  const urls=['https://rsarchive.org/Lectures/GA108/English/Singles/19090118p02.html','https://rsarchive.org/Books/GA004/English/RSP1964/GA004_c06.html'];
@@ -22,9 +26,11 @@ function renderCloudGuide(lang){
 }
 function renderPassage(p,lang,goal){
  const pt=lang==='pt',t=(en,br)=>pt?br:en,v=p[lang];
- const credit=t(p.edition,p.originalLanguage==='de'?'Original alemão; novas traduções de estudo em inglês e português brasileiro.':p.title.includes('Foundation Stone')?'Tradução de estudo preparada para este curso a partir do original alemão impresso.':'Trecho selecionado da edição inglesa indicada; nova tradução de estudo em português. Quebras de linha normalizadas.');
- const original=p.originalLanguage==='de'?`<details class="guided-original"><summary>${t('Compare with the German passage','Compare com o trecho alemão')}</summary><blockquote lang="de">${paragraphBlock(p.original)}</blockquote></details>`:'';
- return `<section class="book-passage" id="book-passage" aria-labelledby="passage-title"><div class="eyebrow">${t('1 · Read the passage','1 · Leia o trecho')}</div><h2 id="passage-title">${t('Begin with the book','Comece pelo livro')}</h2><p class="passage-context">${esc(p.author)} · <cite>${esc(p.title)}</cite> · ${esc(p.locator)}</p><blockquote class="source-excerpt">${paragraphBlock(v.quote)}</blockquote><p class="passage-credit">${esc(credit)}</p>${p.url?`<p><a href="${esc(p.url)}">${t(p.originalLanguage==='de'?'Read the original chapter or lecture (German)':'Open the source or edition index',p.originalLanguage==='de'?'Leia o capítulo ou a palestra original (alemão)':'Abra a fonte ou o índice de edições')} →</a></p>`:''}${original}<div class="passage-explanation"><h3>${t('What this passage means','O que este trecho significa')}</h3>${paragraphBlock(v.note)}<h3>${t('The focus of this lesson','O foco desta lição')}</h3><p>${goal}</p></div></section>`;
+ const credit=t(p.edition,p.editionPt||(p.originalLanguage==='de'?'Original alemão; novas traduções de estudo em inglês e português brasileiro.':p.title.includes('Foundation Stone')?'Tradução de estudo preparada para este curso a partir do original alemão impresso.':'Trecho selecionado da edição inglesa indicada; nova tradução de estudo em português. Quebras de linha normalizadas.'));
+ const title=pt?(p.titlePt||p.title):p.title,locator=pt?(p.locatorPt||p.locator):p.locator;
+ const reference=p.referenceEdition;
+ const original=p.originalLanguage==='de'?`<details class="guided-original"><summary>${t('Compare with the German passage','Compare com o trecho alemão')}</summary><blockquote lang="de">${paragraphBlock(p.original)}</blockquote></details>`:reference?.originalLanguage==='de'?`<details class="guided-original"><summary>${t('Compare with the separately credited German parallel','Compare com a edição paralela alemã, creditada separadamente')}</summary><p>${esc(reference.title)} · ${esc(reference.locator)}</p><p>${t('Earlier German reference selection; the passage above quotes the supplied 2012 English edition. The selections can cover different sentences.','Seleção alemã de referência anterior; o trecho acima cita a edição inglesa de 2012 fornecida. As seleções podem abranger frases diferentes.')}</p><blockquote lang="de">${paragraphBlock(reference.original)}</blockquote>${reference.url?`<p><a href="${esc(reference.url)}">${t('Read the German lecture','Leia a palestra alemã')} →</a></p>`:''}</details>`:'';
+ return `<section class="book-passage" id="book-passage" aria-labelledby="passage-title"><div class="eyebrow">${t('1 · Read the passage','1 · Leia o trecho')}</div><h2 id="passage-title">${t('Begin with the book','Comece pelo livro')}</h2><p class="passage-context">${esc(p.author)} · <cite>${esc(title)}</cite> · ${esc(locator)}</p><blockquote class="source-excerpt">${paragraphBlock(v.quote)}</blockquote><p class="passage-credit">${esc(credit)}</p>${p.url?`<p><a href="${esc(p.url)}">${t(p.originalLanguage==='de'?'Read the original chapter or lecture (German)':'Open the source or edition index',p.originalLanguage==='de'?'Leia o capítulo ou a palestra original (alemão)':'Abra a fonte ou o índice de edições')} →</a></p>`:''}${original}<div class="passage-explanation"><h3>${t('What this passage means','O que este trecho significa')}</h3>${paragraphBlock(v.note)}<h3>${t('The focus of this lesson','O foco desta lição')}</h3><p>${goal}</p></div></section>`;
 }
 const seen=new Set();let count=0;
 for(const p of passages)for(const id of p.ids)for(const lang of ['en','pt']){
@@ -37,7 +43,7 @@ for(const p of passages)for(const id of p.ids)for(const lang of ['en','pt']){
  const passage=renderPassage(p,lang,lead[1])+(p.course==='practical-thinking'&&id===2?renderCloudGuide(lang):'');
  h=h.replace('class="lesson-main"','class="lesson-main" data-passage-study="true"');
  const css=path.relative(path.dirname(file),'docs/passage-study.css').replaceAll('\\','/');
- h=h.replace('</head>',`<link rel="stylesheet" href="${css}"></head>`);
+ h=ensureStylesheet(h,css);
  if(p.course==='meditation'){
   h=h.replace(lead[0],lead[0]+passage);
  }else{
@@ -67,7 +73,7 @@ for(const course of courses)for(const lang of ['en','pt']){
  const guide=`<section class="passage-course-guide" id="reading-method"><h2>${t('Read the book with guidance','Leia o livro com orientação')}</h2><p>${t('Every lesson starts with a selected source passage and explains its meaning and place in the chapter. Read the core ideas, then use the example and questions to check your understanding.','Cada lição começa com um trecho selecionado da fonte e explica seu significado e lugar no capítulo. Leia as ideias centrais; depois use o exemplo e as perguntas para conferir a compreensão.')}</p><p>${t('Short excerpts are starting points for close reading. The source credit identifies the edition; the lesson’s reading assignment gives the wider section.','Os trechos curtos iniciam a leitura atenta. O crédito identifica a edição; a leitura indicada na lição apresenta a seção mais ampla.')}</p></section>`;
  h=h.replace(/(<p class="lead">[\s\S]*?<\/p>)/,'$1'+guide);
  const css=path.relative(path.dirname(file),'docs/passage-study.css').replaceAll('\\','/');
- h=h.replace('</head>',`<link rel="stylesheet" href="${css}"></head>`);
+ h=ensureStylesheet(h,css);
  fs.writeFileSync(file,h);
 }
 console.log(`Passage study: ${passages.length} verified selections across ${courses.length} courses; ${count} English and Portuguese lesson pages.`);

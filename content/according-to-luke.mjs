@@ -3,57 +3,177 @@
 const dates=['15','16','17','18','19','20','21','24','25','26'];
 export const lukeSources=dates.map((day,i)=>({lecture:i+1,date:`1909-09-${day}`,url:`https://rsarchive.org/Lectures/GospLuke/190909${day}p01.html`}));
 export const lukeLessons=[
-{id:0,lecture:null,bridge:'lessons/00.html',
- en:{title:'How to read this course',goal:'Separate a text, an interpretation and your own judgment.',
- key:'According to Luke presents ten lectures by Rudolf Steiner on the Gospel of Luke. Robert A. McDermott’s introduction is a later editor’s contribution. We study these voices separately. The lessons follow Steiner’s lectures, not the twenty-four chapters of the Gospel.',
- context:'The supplied capture ends during Lecture 1. For the complete sequence, the reading links use the parallel 1964 English edition, The Gospel of St. Luke, translated by Dorothy S. Osmond and Owen Barfield. Wording and pagination differ. The Portuguese lessons are original teaching material. Each lesson offers a starting point for reading the full lecture, rather than replacing it.',
- example:'A study group writes: “The narrator reports an event; the lecturer explains its spiritual meaning; I find the explanation moving.” These are three different statements. The last tells us about the reader’s response. It cannot, by itself, establish the event or its explanation.',
- explanation:'Use three notebook columns: passage, interpretation, assessment. Add a reference before moving a claim into the first column. Put uncertainty into words: “I understand what is being proposed, but I have not established whether it is true.” That is a useful study result.',
- activity:'Choose a short paragraph from the reading. Record who is speaking, paraphrase one claim and write what would help you evaluate it. Spend about twenty minutes on each lesson, then allow additional time for the complete source. Return to the linked introductory course whenever a term is unfamiliar.',
- checks:[['Which column holds “I was deeply moved”?','Assessment: it describes your response. Add why the passage moved you without treating the response as historical evidence.'],['Can two readers disagree and both complete the exercise well?','Yes. Each can accurately identify the passage, explain the interpretation and give reasons for a different assessment.'],['What should you do when the editions differ?','Identify the lecture by its date and topic. Record the wording difference rather than silently combining translations.']],
- takeaway:'Understand a claim clearly before deciding what you think of it.',terms:'Source: the text being studied. Interpretation: an account of its meaning. Assessment: your reasoned judgment.',reading:'McDermott’s introduction and the opening of Lecture 1; see the edition note below.'},
- pt:{title:'Como ler este curso',goal:'Separe o texto, sua interpretação e seu próprio juízo.',
- key:'Segundo Lucas apresenta dez palestras de Rudolf Steiner sobre o Evangelho de Lucas. A introdução de Robert A. McDermott é uma contribuição editorial posterior. Estudamos essas vozes separadamente. As lições seguem as palestras de Steiner, não os vinte e quatro capítulos do Evangelho.',
- context:'A captura fornecida termina durante a palestra 1. Para a sequência completa, os links de leitura usam a edição inglesa paralela de 1964, The Gospel of St. Luke, traduzida por Dorothy S. Osmond e Owen Barfield. A redação e a paginação diferem. As lições em português são textos didáticos originais. Cada lição oferece um ponto de partida para ler a palestra completa, sem substituí-la.',
- example:'Um grupo de estudo escreve: “O narrador relata um acontecimento; o palestrante explica seu significado espiritual; essa explicação me comove.” São três afirmações diferentes. A última informa a reação do leitor. Por si só, não comprova o acontecimento nem sua explicação.',
- explanation:'Use três colunas no caderno: passagem, interpretação e avaliação. Acrescente uma referência antes de colocar uma afirmação na primeira coluna. Expresse a dúvida com clareza: “Compreendo o que está sendo proposto, mas ainda não estabeleci se é verdadeiro.” Esse é um resultado útil de estudo.',
- activity:'Escolha um parágrafo curto da leitura. Registre quem fala, parafraseie uma afirmação e escreva o que ajudaria a avaliá-la. Dedique cerca de vinte minutos a cada lição e reserve tempo adicional para a fonte completa. Volte ao curso introdutório indicado quando um termo for desconhecido.',
- checks:[['Em qual coluna entra “Fiquei profundamente comovido”?','Na avaliação: isso descreve sua reação. Acrescente por que a passagem o comoveu, sem tratar a reação como evidência histórica.'],['Dois leitores podem discordar e realizar bem a atividade?','Sim. Ambos podem identificar corretamente a passagem, explicar a interpretação e apresentar razões para avaliações diferentes.'],['O que fazer quando as edições diferem?','Identifique a palestra pela data e pelo assunto. Registre a diferença de redação, em vez de combinar silenciosamente as traduções.']],
- takeaway:'Compreenda uma afirmação com clareza antes de decidir o que pensa dela.',terms:'Fonte: o texto estudado. Interpretação: uma explicação de seu sentido. Avaliação: seu juízo fundamentado.',reading:'Introdução de McDermott e início da palestra 1; consulte a nota sobre as edições abaixo.'}},
-{id:1,lecture:1,bridge:'higher-worlds/lessons/10.html',
- en:{title:'Seeing, understanding and spiritual cognition',goal:'Recognize how technical terms differ from everyday uses.',
- key:'Steiner distinguishes Imagination, Inspiration and Intuition as modes of supersensible cognition. His images of colour describe what he claims is spiritual perception; they are not a theory of paint or light. He also distinguishes a clairvoyant’s perception from an initiate’s understanding, although these capacities can occur together.',
- context:'In the supplied Lecture 1, Imagination concerns spiritual images; Inspiration concerns what beings communicate; Intuition concerns participation in their being. These are Steiner’s technical meanings. They do not make an ordinary mental picture, a creative idea or a hunch into spiritual knowledge. His appeal to the Akashic record is a claimed spiritual source, distinct from a document that another reader can inspect.',
- example:'A friend looks quiet during a meeting. You picture tiredness, then ask and learn that she is concentrating. Observation, your interpretation and her explanation differ. Asking improved your ordinary understanding; it did not establish clairvoyance or give you complete access to her inner life.',
- explanation:'This example helps us keep acts of knowing apart. Its limits matter too: a conversation is not an instance of Steiner’s technical Inspiration. An analogy clarifies a relationship; it does not prove that the proposed spiritual counterpart exists.',
- activity:'Write three sentences about an ordinary object: something observed, something imagined and something inferred. Then define one of the lecture’s technical terms in a separate sentence. Explain why the first three sentences do not demonstrate that spiritual capacity.',
- checks:[['Does a vivid mental image count as evidence about the object?','Vividness describes your experience of the image. Evidence about the object needs a further connection to what can be checked.'],['What improved the understanding in the meeting example?','The friend’s account supplied information that the observer’s first impression lacked. It remains possible to ask further questions.'],['Why keep the analogy separate from the technical term?','Otherwise an accessible illustration can silently become supposed proof of a much larger claim.']],
- takeaway:'Name the kind of knowing involved; vividness alone does not settle truth.',terms:'Supersensible: beyond ordinary sensory access in Steiner’s account. Analogy: a comparison that clarifies a relation without establishing identity.',reading:'Lecture 1, 15 September 1909: distinctions between cognition, clairvoyance and initiation; then the account of sources.'},
- pt:{title:'Ver, compreender e conhecer espiritualmente',goal:'Reconheça a diferença entre termos técnicos e seus usos cotidianos.',
- key:'Steiner distingue Imaginação, Inspiração e Intuição como formas de conhecimento suprassensível. Suas imagens de cores descrevem o que ele afirma ser percepção espiritual; não constituem uma teoria da tinta ou da luz. Também distingue a percepção do clarividente da compreensão do iniciado, embora essas capacidades possam ocorrer juntas.',
- context:'Na palestra 1 fornecida, a Imaginação envolve imagens espirituais; a Inspiração, aquilo que os seres comunicam; a Intuição, a participação no ser deles. Esses são os sentidos técnicos de Steiner. Não transformam uma imagem mental comum, uma ideia criativa ou um palpite em conhecimento espiritual. A referência ao registro akáshico designa uma fonte espiritual alegada, distinta de um documento que outro leitor pode examinar.',
- example:'Uma amiga parece quieta durante uma reunião. Você imagina cansaço, pergunta e descobre que ela está concentrada. A observação, sua interpretação e a explicação dela diferem. Perguntar melhorou sua compreensão cotidiana; não comprovou clarividência nem lhe deu acesso completo à vida interior dela.',
- explanation:'O exemplo ajuda a distinguir atos de conhecimento. Seus limites também importam: uma conversa não é um caso de Inspiração no sentido técnico de Steiner. A analogia esclarece uma relação; não prova que exista o correspondente espiritual proposto.',
- activity:'Escreva três frases sobre um objeto cotidiano: algo observado, algo imaginado e algo inferido. Depois, defina um termo técnico da palestra em outra frase. Explique por que as três primeiras não demonstram essa capacidade espiritual.',
- checks:[['Uma imagem mental vívida constitui evidência sobre o objeto?','A vivacidade descreve sua experiência da imagem. A evidência sobre o objeto exige outra ligação com aquilo que pode ser verificado.'],['O que melhorou a compreensão no exemplo da reunião?','O relato da amiga forneceu uma informação ausente na primeira impressão. Ainda é possível fazer outras perguntas.'],['Por que separar a analogia do termo técnico?','Do contrário, uma ilustração acessível pode se transformar silenciosamente em suposta prova de uma afirmação muito maior.']],
- takeaway:'Identifique a forma de conhecimento envolvida; a vivacidade não decide a verdade.',terms:'Suprassensível: além do acesso sensorial comum, na concepção de Steiner. Analogia: comparação que esclarece uma relação sem estabelecer identidade.',reading:'Palestra 1, 15 de setembro de 1909: distinções entre conhecimento, clarividência e iniciação; depois, a explicação das fontes.'}},
-{id:2,lecture:2,bridge:'higher-worlds/lessons/07.html',
- en:{title:'When compassion becomes your own capacity',goal:'Move from repeating a good principle to understanding a person’s need.',
- key:'Steiner presents Buddha’s achievement as making compassion increasingly accessible from within human beings. He interprets the angelic announcement in Luke through Buddha’s continuing spiritual activity. This is his esoteric connection between traditions, not an identification of Buddha with Jesus.',
- context:'Read the comparison as Steiner’s interpretation. Studying it does not require treating his account as the self-description of Buddhist communities. Our practical question is narrower: what changes when a learner understands the reason for a compassionate response?',
- example:'A volunteer repeats, “Always help.” When a newcomer struggles with a form, she completes it without asking. Another volunteer asks which part is difficult and offers to work through it together. The second response may support the newcomer’s independence; the first may remove a chance to learn.',
- explanation:'A generous intention leaves practical questions unanswered. What does this person want? Which help is useful? Have I confused my wish to feel helpful with their need? Compassion becomes more precise when attention accompanies goodwill.',
- activity:'Use an invented situation where someone needs help. Write an automatic response and an attentive response. Include the question you would ask before acting. Explain how the person could decline your offer without being embarrassed.',
- checks:[['Why is the slogan insufficient in the example?','It does not identify what help is wanted or how to preserve the newcomer’s participation.'],['Must the second volunteer always follow the same procedure?','No. The appropriate response depends on the situation and what the person communicates.'],['Does a useful exercise verify the lecture’s spiritual account?','No. We can evaluate the practical response separately from the larger interpretation.']],
- takeaway:'A caring response begins with attention to this person.',terms:'Principle: a general idea for action. Capacity: something a person can exercise in a concrete situation.',reading:'Lecture 2, 16 September 1909: the Bodhisattva, Buddha and compassion; the interpretation of the shepherds’ announcement.'},
- pt:{title:'Quando a compaixão se torna uma capacidade própria',goal:'Passe de repetir um bom princípio a compreender a necessidade de alguém.',
- key:'Steiner apresenta a realização de Buda como uma abertura para que a compaixão se torne cada vez mais acessível interiormente. Interpreta o anúncio dos anjos em Lucas pela atividade espiritual continuada de Buda. Essa é sua ligação esotérica entre tradições, não uma identificação de Buda com Jesus.',
- context:'Leia a comparação como interpretação de Steiner. Estudá-la não exige tratar seu relato como a maneira pela qual as comunidades budistas descrevem a si mesmas. Nossa pergunta prática é mais delimitada: o que muda quando alguém compreende a razão de uma resposta compassiva?',
- example:'Uma voluntária repete: “Ajude sempre.” Quando uma pessoa recém-chegada encontra dificuldade num formulário, ela o preenche sem perguntar. Outra voluntária pergunta qual parte é difícil e oferece ajuda para preencherem juntas. A segunda resposta pode favorecer a autonomia; a primeira pode retirar uma oportunidade de aprender.',
- explanation:'Uma intenção generosa deixa perguntas práticas em aberto. O que essa pessoa deseja? Qual ajuda é útil? Confundi minha vontade de me sentir prestativo com a necessidade dela? A compaixão se torna mais precisa quando a atenção acompanha a boa vontade.',
- activity:'Invente uma situação em que alguém precise de ajuda. Escreva uma resposta automática e outra atenta. Inclua a pergunta que faria antes de agir. Explique como a pessoa poderia recusar sua oferta sem constrangimento.',
- checks:[['Por que o lema é insuficiente no exemplo?','Ele não identifica a ajuda desejada nem como preservar a participação de quem chegou.'],['A segunda voluntária deve sempre seguir o mesmo procedimento?','Não. A resposta adequada depende da situação e daquilo que a pessoa comunica.'],['Uma atividade útil comprova o relato espiritual da palestra?','Não. Podemos avaliar a resposta prática separadamente da interpretação mais ampla.']],
- takeaway:'Uma resposta cuidadosa começa pela atenção a esta pessoa.',terms:'Princípio: ideia geral para agir. Capacidade: aquilo que alguém consegue exercer numa situação concreta.',reading:'Palestra 2, 16 de setembro de 1909: o Bodhisattva, Buda e a compaixão; a interpretação do anúncio aos pastores.'}},
+{
+  "id": 0,
+  "lecture": null,
+  "bridge": "lessons/00.html",
+  "en": {
+    "title": "McDermott’s introduction and how to read the lectures",
+    "goal": "Understand the editorial introduction, the lectures’ premises and the source coverage.",
+    "key": "Robert A. McDermott introduces lectures originally addressed to listeners familiar with anthroposophy. He explains why their background assumptions, spiritual vocabulary and account of the Gospel writers need attention before the ten lectures can be understood. His introduction is a later editorial contribution; the lectures themselves are Rudolf Steiner’s.",
+    "context": "McDermott recommends sound judgment, humility and reverence, with room to leave a claim open. He also makes a positive case for spiritual Imagination and the Akashic record as sources of knowledge. Read both sides of his proposal: the disposition he recommends and the spiritual premises he defends. The supplied 21-capture PDF contains the complete introduction and the same Lecture 1 text reviewed earlier. Its copyright page identifies Catherine E. Creeger’s 2001 translation.",
+    "example": "A study group records four statements: “Luke narrates the shepherds’ visit”; “Steiner interprets the narrative through spiritual research”; “McDermott explains how to approach that interpretation”; “I find it compelling.” Each statement has a different speaker or function. The group checks the relevant text before deciding which claims it can support.",
+    "explanation": "Use a notebook entry with four labels: Gospel narrative, Steiner’s interpretation, McDermott’s explanation and your assessment. These voices can discuss the same event while making different claims about it. McDermott’s willingness to leave room for judgment belongs alongside his confidence in Steiner’s spiritual research.",
+    "activity": "Read the introduction, PDF capture pages 5–13. Write one sentence each on its intended reader, recommended disposition, claimed source of knowledge and comparison with biblical scholarship. Attribute every sentence to McDermott and cite its capture page. Then compare a short Gospel passage with his account and record one question to carry into Lecture 1.",
+    "checks": [
+      [
+        "Why does McDermott discuss the original lecture audiences?",
+        "Steiner assumed familiarity with anthroposophical accounts of the human being, spiritual cosmos and history. McDermott supplies orientation for readers who lack that background; see PDF capture page 5."
+      ],
+      [
+        "What are the two parts of McDermott’s recommended approach?",
+        "He asks for sound judgment with humility and reverence, without assent based only on authority. He also defends the possibility of spiritual knowledge and the Akashic record. Explain his position before assessing it; see pages 6–9."
+      ],
+      [
+        "Which portions of this uploaded book are available for detailed review?",
+        "The cover, title, copyright page and contents, McDermott’s complete introduction (captures 5–13), and the supplied Lecture 1 text (14–21). Lectures 2–10, the Descriptive Outline, About This Edition and footnote bodies are absent. The final capture ends after the Akashic-record paragraph; it provides no following lecture boundary to confirm whether Lecture 1 is complete."
+      ]
+    ],
+    "takeaway": "Identify the voice, its premises and its reasons before making your assessment.",
+    "terms": "Editorial introduction: McDermott’s later guide to reading Steiner. Exoteric evidence: publicly accessible textual and historical material. Esoteric evidence: the spiritual access claimed in this account. Akashic record: the enduring spiritual record of past events proposed as a source of knowledge.",
+    "reading": "McDermott, “Approaching Rudolf Steiner’s Lectures on the Gospel of Luke,” PDF capture pages 5–13. Capture positions are not printed book page numbers."
+  },
+  "pt": {
+    "title": "A introdução de McDermott e a leitura das palestras",
+    "goal": "Compreenda a introdução editorial, as premissas das palestras e a cobertura das fontes.",
+    "key": "Robert A. McDermott apresenta palestras dirigidas originalmente a ouvintes familiarizados com a antroposofia. Explica por que suas premissas, seu vocabulário espiritual e sua descrição dos evangelistas precisam de atenção para que as dez palestras sejam compreendidas. Sua introdução é uma contribuição editorial posterior; as palestras são de Rudolf Steiner.",
+    "context": "McDermott recomenda discernimento, humildade e reverência, com espaço para deixar uma afirmação em aberto. Também defende a Imaginação espiritual e o registro akáshico como fontes de conhecimento. Leia as duas partes de sua proposta: a disposição que recomenda e as premissas espirituais que defende. O PDF de 21 capturas contém a introdução completa e o mesmo texto da palestra 1 revisto anteriormente. A página de direitos autorais identifica a tradução de Catherine E. Creeger, de 2001.",
+    "example": "Um grupo registra quatro afirmações: “Lucas narra a visita dos pastores”; “Steiner interpreta a narrativa pela pesquisa espiritual”; “McDermott explica como abordar essa interpretação”; “Eu a considero convincente.” Cada afirmação tem um autor ou uma função diferente. O grupo consulta o texto pertinente antes de decidir quais afirmações pode sustentar.",
+    "explanation": "Use quatro rótulos no caderno: narrativa do Evangelho, interpretação de Steiner, explicação de McDermott e sua avaliação. Essas vozes podem tratar do mesmo acontecimento e fazer afirmações diferentes. A abertura de McDermott ao julgamento do leitor aparece junto de sua confiança na pesquisa espiritual de Steiner.",
+    "activity": "Leia a introdução, capturas 5–13 do PDF. Escreva uma frase sobre cada ponto: o leitor a quem se dirige, a disposição recomendada, a fonte de conhecimento alegada e a comparação com a pesquisa bíblica. Atribua cada frase a McDermott e indique a captura. Depois compare uma passagem breve do Evangelho com sua explicação e registre uma pergunta para levar à palestra 1.",
+    "checks": [
+      [
+        "Por que McDermott fala do público original das palestras?",
+        "Steiner pressupunha familiaridade com as descrições antroposóficas do ser humano, do cosmos espiritual e da história. McDermott orienta quem não tem esse conhecimento prévio; veja a captura 5 do PDF."
+      ],
+      [
+        "Quais são as duas partes da abordagem recomendada por McDermott?",
+        "Ele pede discernimento com humildade e reverência, sem aceitação baseada apenas na autoridade. Também defende a possibilidade do conhecimento espiritual e o registro akáshico. Explique sua posição antes de avaliá-la; veja as capturas 6–9."
+      ],
+      [
+        "Quais partes deste livro fornecido estão disponíveis para revisão detalhada?",
+        "A capa, o título, a página de direitos autorais e o sumário, a introdução completa de McDermott (capturas 5–13) e o texto fornecido da palestra 1 (14–21). Faltam as palestras 2–10, o Esboço descritivo, Sobre esta edição e os textos das notas. A última captura termina após o parágrafo sobre o registro akáshico; não traz a passagem à palestra seguinte para confirmar se a palestra 1 está completa."
+      ]
+    ],
+    "takeaway": "Identifique a voz, suas premissas e suas razões antes de fazer sua avaliação.",
+    "terms": "Introdução editorial: orientação posterior de McDermott para a leitura de Steiner. Evidência exotérica: material textual e histórico publicamente acessível. Evidência esotérica: o acesso espiritual alegado nesta descrição. Registro akáshico: registro espiritual duradouro dos acontecimentos passados, proposto como fonte de conhecimento.",
+    "reading": "McDermott, “Approaching Rudolf Steiner’s Lectures on the Gospel of Luke”, capturas 5–13 do PDF. As posições das capturas não são números de páginas impressas do livro."
+  }
+},
+{
+  "id": 1,
+  "lecture": 1,
+  "bridge": "higher-worlds/lessons/10.html",
+  "en": {
+    "title": "The four Gospels and three levels of spiritual cognition",
+    "goal": "Explain how Steiner’s distinctions between spiritual capacities support his reading of Luke.",
+    "key": "Steiner argues that Luke offers a perspective on the Christ event that John’s Gospel does not exhaust. He develops this claim through three levels of supersensible cognition: Imagination perceives spiritual images, Inspiration receives the beings’ inward expression, and Intuition enters their being. The lecture connects Intuition with a love that overcomes the separation between self and other.",
+    "context": "“Clairvoyant” chiefly names access to imaginative perception here; “initiate” names access to Inspiration and Intuition. The capacities can coincide or, in his account of earlier mysteries, belong to different specialists. Steiner reads Luke’s “eyewitnesses” and “servants of the word” through this distinction. His method begins with claimed independent spiritual research and then compares its findings with the Gospel documents.",
+    "example": "A friend looks quiet during a meeting. You picture tiredness, then ask and learn that she is concentrating. Observation, your interpretation and her explanation differ. Asking improved your ordinary understanding; it did not establish clairvoyance or give you complete access to her inner life.",
+    "explanation": "The encounter illustrates Steiner’s comparison between seeing someone from outside and hearing their self-expression. It helps explain a relation between stages. An ordinary conversation supplies ordinary evidence; the technical spiritual capacities remain the lecture’s further claims. Likewise, its plant-colour image introduces Imagination, rather than giving a code for assigning personalities from visible colours.",
+    "activity": "Read PDF capture pages 14–21. Make a three-row chart of Imagination, Inspiration and Intuition, with a sentence and page reference for each. Then explain the difference between a clairvoyant and an initiate, apply it to Steiner’s reading of Luke 1:1–2, and reconstruct the order “spiritual research → comparison with Gospel documents.” Finish by naming one premise your explanation depends on. The upload stops after the Akashic-record paragraph, with no following lecture boundary.",
+    "checks": [
+      [
+        "How do the three levels differ in the supplied lecture text?",
+        "Imagination perceives the spiritual beings’ outward images; Inspiration receives what they communicate from within; in Intuition, the knower becomes one with the beings through developed spiritual love. Steiner presents this as a progression beyond ordinary sensory knowledge; see captures 15–16."
+      ],
+      [
+        "How does Steiner connect the capacities with Luke and John?",
+        "He associates John especially with the initiate’s Inspiration and Intuition. For Luke he interprets “eyewitnesses” as independent imaginative seers and “servants of the word” as people drawing on inspired teachers to express their visions. This is Steiner’s reading of Luke 1:1–2; see captures 18–20."
+      ],
+      [
+        "What comes first in the method Steiner describes?",
+        "Independent spiritual research, attributed to access to the Akashic record, comes first. Gospel documents are compared with its results afterward. The documents therefore function as comparisons in this account, rather than as its originating source; see captures 19–21."
+      ]
+    ],
+    "takeaway": "Follow the distinctions from spiritual capacities to Gospel interpretation and the claimed source of knowledge.",
+    "terms": "Imagination: spiritual perception in images. Inspiration: receiving spiritual beings’ inward expression, also described as the inner word. Intuition: participation in their being. Clairvoyant: an imaginative seer in this lecture. Initiate: someone who reaches Inspiration and Intuition. Logos: the word, associated here with John’s standpoint.",
+    "reading": "Lecture 1, “The Four Gospels in the Light of Anthroposophy”: supplied text, PDF captures 14–21, Anthroposophic Press, 2001, Catherine E. Creeger translation. Parallel lecture: 15 September 1909."
+  },
+  "pt": {
+    "title": "Os quatro Evangelhos e três níveis de conhecimento espiritual",
+    "goal": "Explique como as distinções entre capacidades espirituais sustentam a leitura de Lucas feita por Steiner.",
+    "key": "Steiner argumenta que Lucas oferece uma perspectiva do acontecimento de Cristo que o Evangelho de João não esgota. Desenvolve essa afirmação por três níveis de conhecimento suprassensível: a Imaginação percebe imagens espirituais, a Inspiração recebe a expressão interior dos seres e a Intuição entra no ser deles. A palestra relaciona a Intuição a um amor que supera a separação entre o eu e o outro.",
+    "context": "“Clarividente” designa principalmente o acesso à percepção imaginativa neste contexto; “iniciado” designa o acesso à Inspiração e à Intuição. As capacidades podem coincidir ou, na descrição dos antigos mistérios, pertencer a especialistas diferentes. Steiner lê as expressões “testemunhas oculares” e “servidores da palavra” de Lucas à luz dessa distinção. Seu método começa pela alegada pesquisa espiritual independente e depois compara os resultados com os documentos dos Evangelhos.",
+    "example": "Uma amiga parece quieta durante uma reunião. Você imagina cansaço, pergunta e descobre que ela está concentrada. A observação, sua interpretação e a explicação dela diferem. Perguntar melhorou sua compreensão cotidiana; não comprovou clarividência nem lhe deu acesso completo à vida interior dela.",
+    "explanation": "O encontro ilustra a comparação de Steiner entre ver alguém de fora e ouvir sua expressão interior. Ajuda a explicar uma relação entre etapas. Uma conversa cotidiana fornece evidências cotidianas; as capacidades espirituais técnicas continuam sendo afirmações adicionais da palestra. Da mesma forma, a imagem das cores de uma planta apresenta a Imaginação, em vez de fornecer um código para atribuir personalidades pelas cores visíveis.",
+    "activity": "Leia as capturas 14–21 do PDF. Faça um quadro de três linhas: Imaginação, Inspiração e Intuição, com uma frase e uma referência de captura para cada uma. Depois explique a diferença entre clarividente e iniciado, aplique-a à leitura de Lucas 1:1–2 feita por Steiner e reconstrua a ordem “pesquisa espiritual → comparação com os documentos dos Evangelhos”. Termine indicando uma premissa da qual sua explicação depende. O arquivo termina após o parágrafo sobre o registro akáshico, sem trazer a passagem à palestra seguinte.",
+    "checks": [
+      [
+        "Como se distinguem os três níveis no texto fornecido da palestra?",
+        "A Imaginação percebe as imagens exteriores dos seres espirituais; a Inspiração recebe o que comunicam a partir de seu interior; na Intuição, quem conhece torna-se uno com os seres por meio do amor espiritual desenvolvido. Steiner apresenta isso como uma progressão além do conhecimento sensorial comum; veja as capturas 15–16."
+      ],
+      [
+        "Como Steiner relaciona as capacidades a Lucas e João?",
+        "Associa João especialmente à Inspiração e à Intuição do iniciado. Em Lucas, interpreta “testemunhas oculares” como videntes imaginativos independentes e “servidores da palavra” como pessoas que recorrem a mestres inspirados para expressar suas visões. Essa é a leitura de Lucas 1:1–2 feita por Steiner; veja as capturas 18–20."
+      ],
+      [
+        "O que vem primeiro no método descrito por Steiner?",
+        "A pesquisa espiritual independente, atribuída ao acesso ao registro akáshico, vem primeiro. Os documentos dos Evangelhos são comparados com seus resultados depois. Nessa descrição, os documentos funcionam como comparação, e não como fonte inicial; veja as capturas 19–21."
+      ]
+    ],
+    "takeaway": "Acompanhe as distinções entre capacidades espirituais, interpretação dos Evangelhos e fonte de conhecimento alegada.",
+    "terms": "Imaginação: percepção espiritual em imagens. Inspiração: recepção da expressão interior dos seres espirituais, também descrita como palavra interior. Intuição: participação no ser deles. Clarividente: vidente imaginativo nesta palestra. Iniciado: quem alcança Inspiração e Intuição. Logos: a palavra, associada aqui à perspectiva de João.",
+    "reading": "Palestra 1, “Os quatro Evangelhos à luz da antroposofia”: texto fornecido, capturas 14–21 do PDF, Anthroposophic Press, 2001, tradução de Catherine E. Creeger. Palestra paralela: 15 de setembro de 1909."
+  }
+},
+{
+  "id": 2,
+  "lecture": 2,
+  "bridge": "higher-worlds/lessons/07.html",
+  "en": {
+    "title": "Bodhisattva, Buddha and the teaching of love and compassion",
+    "goal": "Explain the relation between a spiritual teacher and a human capacity in Steiner’s account.",
+    "key": "The selected passage describes Buddha’s earlier Bodhisattva role as a teacher of love and compassion. The lecture’s existing source summary places this teaching within an account of love and compassion becoming a capacity human beings can understand from within. Keep the teacher’s role, what is taught and the capacity being developed distinct.",
+    "context": "Steiner’s connection between Buddha and Luke belongs to his spiritual interpretation of the Gospel. The retained selection supplies one part of that argument: the earlier teaching role. The fuller transition and the interpretation of the shepherds’ announcement need their surrounding lecture text. That text is absent from the supplied PDF captures of the 2001 edition, so this lesson offers a close reading of the available passage and a guide to the questions still open.",
+    "example": "A volunteer repeats, “Always help.” When a newcomer struggles with a form, she completes it without asking. Another volunteer asks which part is difficult and offers to work through it together. The second response may support the newcomer’s independence; the first may remove a chance to learn.",
+    "explanation": "The first volunteer acts on a general instruction; the second tries to understand how help could support this person. The example clarifies the distinction between receiving an instruction and exercising an understood capacity. It illustrates a relation in learning; it does not reproduce the Bodhisattva-to-Buddha transition described by Steiner.",
+    "activity": "Begin with the selected passage. Mark the subject, the temporal word, the teaching role and the contents of the teaching. Paraphrase it without dropping either love or compassion, and cite the German paragraph reference. Then explain the difference between receiving a teaching and exercising an understood capacity, using the volunteer example as an analogy. Finish with two questions for the full lecture: how the Bodhisattva-to-Buddha transition occurs, and how Buddha’s continuing activity is related to the shepherds’ announcement.",
+    "checks": [
+      [
+        "What does “previously” establish in the selected passage?",
+        "Steiner presents Buddha as having previously been the Bodhisattva. The sentence follows the same teacher through an earlier designation and identifies that earlier teaching role; it does not explain how the transition occurred."
+      ],
+      [
+        "What does the retained sentence say the Bodhisattva taught?",
+        "Love, compassion and everything connected with them. Preserve both named subjects. The sentence does not enumerate the additional connected teachings."
+      ],
+      [
+        "How do the earlier notes connect this teaching with human development and Luke? What remains unexplained here?",
+        "The course’s earlier explanation describes love and compassion becoming humanly understood capacities, and connects Buddha’s continuing activity with the announcement to the shepherds. The retained sentence identifies an earlier teacher and the contents of his teaching. It does not explain either transition or the Gospel connection; those require the surrounding Lecture 2 text."
+      ]
+    ],
+    "takeaway": "Trace the earlier teacher, the teaching and the capacity before reconstructing the wider Gospel interpretation.",
+    "terms": "Bodhisattva: the Buddha’s earlier role as a spiritual teacher in this selection. Buddha: the figure whose earlier role the sentence describes; the full lecture is needed for the account of the transition. Teaching: communication of an ideal or understanding. Capacity: an ability that a person can exercise. Compassion: the concern for another’s suffering named in the source, considered alongside love.",
+    "reading": "Lecture 2, 16 September 1909: retained German selection, § 24, with original English and Portuguese study translations. Consult the complete parallel lecture for the transition and shepherds’ announcement. Lecture 2 is absent from the supplied PDF captures of the 2001 Creeger edition."
+  },
+  "pt": {
+    "title": "Bodhisattva, Buda e o ensino do amor e da compaixão",
+    "goal": "Explique a relação entre um mestre espiritual e uma capacidade humana na descrição de Steiner.",
+    "key": "O trecho selecionado descreve a função anterior de Buda como Bodhisattva que ensinava o amor e a compaixão. O resumo já existente da fonte situa esse ensino numa descrição do amor e da compaixão tornando-se capacidades que os seres humanos podem compreender interiormente. Distinga a função do mestre, aquilo que é ensinado e a capacidade em desenvolvimento.",
+    "context": "A ligação entre Buda e Lucas pertence à interpretação espiritual do Evangelho feita por Steiner. O trecho mantido fornece uma parte do argumento: a função anterior de ensino. A transição completa e a interpretação do anúncio aos pastores exigem o texto ao redor. Essa palestra está ausente nas capturas fornecidas da edição de 2001; por isso, a lição apresenta uma leitura atenta do trecho disponível e orienta as perguntas ainda abertas.",
+    "example": "Uma voluntária repete: “Ajude sempre.” Quando uma pessoa recém-chegada encontra dificuldade num formulário, ela o preenche sem perguntar. Outra voluntária pergunta qual parte é difícil e oferece ajuda para preencherem juntas. A segunda resposta pode favorecer a autonomia; a primeira pode retirar uma oportunidade de aprender.",
+    "explanation": "A primeira voluntária age segundo uma instrução geral; a segunda procura compreender como a ajuda pode apoiar esta pessoa. O exemplo esclarece a diferença entre receber uma instrução e exercer uma capacidade compreendida. Ilustra uma relação na aprendizagem; não reproduz a transição de Bodhisattva a Buda descrita por Steiner.",
+    "activity": "Comece pelo trecho selecionado. Marque o sujeito, a expressão temporal, a função de ensino e o conteúdo ensinado. Parafraseie a frase sem omitir o amor nem a compaixão e indique a referência do parágrafo alemão. Depois, explique a diferença entre receber um ensinamento e exercer uma capacidade compreendida, usando o exemplo das voluntárias como analogia. Termine com duas perguntas para a palestra completa: como ocorre a transição de Bodhisattva a Buda e como a atividade continuada de Buda se relaciona ao anúncio aos pastores.",
+    "checks": [
+      [
+        "Que relação “havia sido” estabelece entre Buda e Bodhisattva?",
+        "Steiner apresenta Buda como alguém que anteriormente havia sido o Bodhisattva. A frase acompanha o mesmo mestre numa designação anterior e identifica sua atividade de ensino; não explica como ocorreu a transição."
+      ],
+      [
+        "Segundo a frase mantida, o que o Bodhisattva ensinava?",
+        "O amor, a compaixão e tudo o que se relaciona com eles. Preserve os dois temas nomeados. A frase não enumera os demais ensinamentos relacionados."
+      ],
+      [
+        "Como as notas anteriores relacionam esse ensino ao desenvolvimento humano e a Lucas? O que permanece sem explicação aqui?",
+        "A explicação anterior do curso descreve o amor e a compaixão tornando-se capacidades compreendidas humanamente e relaciona a atividade continuada de Buda ao anúncio aos pastores. A frase mantida identifica um mestre anterior e o conteúdo de seu ensino. Não explica a transição nem a ligação com o Evangelho; essas partes exigem o texto ao redor na palestra 2."
+      ]
+    ],
+    "takeaway": "Acompanhe o mestre anterior, o ensinamento e a capacidade antes de reconstruir a interpretação mais ampla do Evangelho.",
+    "terms": "Bodhisattva (também grafado Bodisatva): a função anterior de Buda como mestre espiritual neste trecho. Buda: a figura cuja função anterior é descrita; a palestra completa é necessária para explicar a transição. Ensinamento: comunicação de um ideal ou compreensão. Capacidade: habilidade que alguém pode exercer. Compaixão: cuidado com o sofrimento alheio nomeado na fonte, considerado junto do amor.",
+    "reading": "Palestra 2, 16 de setembro de 1909: trecho alemão mantido, § 24, com traduções de estudo originais em inglês e português. Consulte a palestra paralela completa para a transição e o anúncio aos pastores. A palestra 2 está ausente nas capturas fornecidas da edição de 2001 traduzida por Creeger."
+  }
+},
 {id:3,lecture:3,bridge:'philosophy-of-freedom/lessons/16.html',
  en:{title:'Give care a practical form',goal:'Examine how thought, speech and action can support one another.',
  key:'Steiner connects his account of suffering with an exposition of the Eightfold Path, then relates Buddha’s Nirmanakaya to the Nathan Jesus. The ethical discussion and the spiritual narrative are different parts of his argument; accepting one does not establish the other.',
@@ -190,28 +310,67 @@ export const lukeLessons=[
  activity:'Use uma divergência fictícia leve. Escreva uma resposta que reconheça o dano, formule um pedido viável e abra espaço para melhora. Preserve a liberdade de quem sofreu o dano para escolher distância. Depois, identifique qual parte expressa esperança.',
  checks:[['O perdão apaga a responsabilidade?','Não precisa apagá-la. Uma resposta pode evitar a humilhação e, ao mesmo tempo, pedir reparação e manter limites.'],['A esperança é uma previsão de que tudo dará certo?','Não. Pode orientar um próximo passo construtivo mesmo com o resultado incerto.'],['Qual é o limite do exemplo cotidiano?','Ele explora uma pequena distinção ética; não explica o acontecimento religioso inteiro nem demonstra a interpretação espiritual da palestra.']],
  takeaway:'Deixe a esperança orientar um próximo passo responsável, sem negar o ocorrido.',terms:'Iniciação: entrada no conhecimento espiritual na explicação da palestra. Reconciliação: reconstrução de uma relação, exigindo mais que a intenção de uma pessoa.',reading:'Palestra 10, 26 de setembro de 1909: Naim, iniciação e a interpretação final do Gólgota.'}},
-{id:11,lecture:null,bridge:'philosophy-of-freedom/lessons/16.html',
- en:{title:'Your synthesis: understanding and compassionate action',goal:'Bring careful reading and a concrete ethical proposal together.',
- key:'This final lesson is an original synthesis activity. Choose one question from the course and explain both what you learned about the text and what you can responsibly apply. Keep your assessment distinct from the account you are assessing.',
- context:'You do not need to resolve every spiritual claim to complete the course. A strong synthesis can name a genuine uncertainty, explain why it remains open and still propose a thoughtful action in an ordinary situation.',
- example:'A group plans to “welcome everyone” but holds its meetings at a time one member cannot attend. A learner proposes asking about availability and trying a different time for two meetings. The proposal gives the ideal a concrete form and includes a way to evaluate it.',
- explanation:'Write a short account another learner could inspect: the situation, your reason, the proposed action, the people to consult and the result to review. Explain which reading prompted the question without claiming that the reading proves your proposed solution.',
- activity:'Prepare a one-page learning portfolio: one accurately attributed passage; one distinction explained in your own words; one question still open; one feasible act of care; and one condition under which you would revise the plan. Add the lecture date and a link or location for the passage.',
- checks:[['What makes the meeting proposal concrete?','It identifies a practical obstacle, consults the people affected, proposes a limited change and names an occasion for review.'],['How can your portfolio show progress without claiming certainty?','It can replace a vague impression with a precise question and a fair account of the reasons on each side.'],['What should you do after trying the action?','Compare the result with the purpose, listen to those affected and decide whether to continue, revise or stop.']],
- takeaway:'Careful understanding and responsible action can develop together.',terms:'Synthesis: an organized account connecting what you have learned. Review: checking a result against the purpose and revising accordingly.',reading:'Return to your chosen lecture. The course index links every source by date.'},
- pt:{title:'Sua síntese: compreensão e ação compassiva',goal:'Una a leitura cuidadosa a uma proposta ética concreta.',
- key:'Esta última lição é uma atividade original de síntese. Escolha uma pergunta do curso e explique tanto o que aprendeu sobre o texto quanto o que pode aplicar com responsabilidade. Separe sua avaliação da explicação que está avaliando.',
- context:'Você não precisa resolver todas as afirmações espirituais para concluir o curso. Uma boa síntese pode identificar uma dúvida real, explicar por que continua aberta e ainda propor uma ação cuidadosa numa situação cotidiana.',
- example:'Um grupo pretende “acolher todos”, mas realiza reuniões num horário em que uma pessoa não pode participar. Uma estudante propõe perguntar pela disponibilidade e experimentar outro horário em duas reuniões. A proposta dá forma concreta ao ideal e inclui uma maneira de avaliá-la.',
- explanation:'Escreva um relato curto que outro estudante possa examinar: situação, razão, ação proposta, pessoas a consultar e resultado a rever. Explique qual leitura motivou a pergunta, sem afirmar que ela comprova a solução proposta.',
- activity:'Prepare um portfólio de uma página: uma passagem corretamente atribuída; uma distinção explicada com suas palavras; uma pergunta em aberto; um ato viável de cuidado; e uma condição que o faria revisar o plano. Acrescente a data da palestra e um link ou localização para a passagem.',
- checks:[['O que torna concreta a proposta sobre as reuniões?','Ela identifica um obstáculo prático, consulta as pessoas afetadas, propõe uma mudança limitada e define um momento de revisão.'],['Como o portfólio pode mostrar progresso sem alegar certeza?','Pode substituir uma impressão vaga por uma pergunta precisa e uma apresentação justa das razões de cada lado.'],['O que fazer depois de experimentar a ação?','Compare o resultado com o propósito, ouça as pessoas afetadas e decida se deve continuar, revisar ou encerrar.']],
- takeaway:'A compreensão cuidadosa e a ação responsável podem se desenvolver juntas.',terms:'Síntese: apresentação organizada que relaciona o aprendido. Revisão: exame do resultado em relação ao propósito e ajuste correspondente.',reading:'Retorne à palestra escolhida. O índice do curso liga todas as fontes por data.'}}
+{
+  "id": 11,
+  "lecture": null,
+  "bridge": "philosophy-of-freedom/lessons/16.html",
+  "en": {
+    "title": "Your synthesis: trace an argument and apply one idea",
+    "goal": "Show what you understand from the sources you actually read, then propose a concrete application.",
+    "key": "A synthesis should reconstruct an argument, not only report a moving passage. Identify its question, premises, distinctions and conclusion. Then make a separate assessment and practical proposal. This final activity is original course work; it is not an additional lecture by Steiner.",
+    "context": "With the present upload, begin with an excerpt portfolio on McDermott’s introduction and the supplied Lecture 1 text. Label its coverage explicitly. A portfolio on the ten-lecture sequence requires the missing source material or complete parallel readings. The retained concluding passage above comes from its separately credited German source; it is a preview beyond the supplied excerpt.",
+    "example": "A group plans to “welcome everyone” but holds its meetings at a time one member cannot attend. A learner proposes asking about availability and trying a different time for two meetings. The proposal gives the ideal a concrete form and includes a way to evaluate it.",
+    "explanation": "Write a short account another learner could inspect: the situation, your reason, the proposed action, the people to consult and the result to review. Explain which reading prompted the question without claiming that the reading proves your proposed solution.",
+    "activity": "Make an excerpt portfolio: explain McDermott’s reading stance with one capture reference; reconstruct Steiner’s supplied argument with two further references; define one technical distinction; record one unresolved question; and propose one feasible application with a condition for revision. When you have read the full source, extend the portfolio with an outline of all ten lectures and three dated references explaining how an opening claim, a middle stage and the conclusion connect. Keep every reference tied to its actual edition.",
+    "checks": [
+      [
+        "What shows that the portfolio understands the text?",
+        "It reconstructs the author’s question and the relations between premises, distinctions and conclusion, supported by identifiable passages. A useful everyday action alone does not demonstrate that understanding."
+      ],
+      [
+        "How should you describe a portfolio based only on the upload?",
+        "As a selective study of McDermott’s introduction and the supplied Lecture 1 text, using PDF captures 5–21. State what is missing. Extend its scope only after reading the additional sources."
+      ],
+      [
+        "What should you review after trying your practical proposal?",
+        "Compare the result with the purpose and listen to the people affected. Decide whether to continue, revise or stop. Keep this practical evaluation separate from establishing the lecture’s spiritual claims."
+      ]
+    ],
+    "takeaway": "Make the scope of your reading and the connections in the argument visible.",
+    "terms": "Synthesis: an organized account connecting what you have learned. Review: checking a result against the purpose and revising accordingly.",
+    "reading": "For the excerpt portfolio: McDermott, PDF captures 5–13, and Steiner, Lecture 1 supplied text, captures 14–21. For the complete portfolio: all ten lectures, aligned by date and edition."
+  },
+  "pt": {
+    "title": "Sua síntese: acompanhe um argumento e aplique uma ideia",
+    "goal": "Mostre o que compreende das fontes que realmente leu e proponha uma aplicação concreta.",
+    "key": "Uma síntese deve reconstruir um argumento, além de comentar uma passagem comovente. Identifique a pergunta, as premissas, as distinções e a conclusão. Depois apresente separadamente sua avaliação e proposta prática. Esta atividade final é um trabalho original do curso; não é uma palestra adicional de Steiner.",
+    "context": "Com o arquivo atual, comece por um portfólio sobre a introdução de McDermott e o texto fornecido da palestra 1. Indique expressamente sua cobertura. Um portfólio sobre a sequência de dez palestras exige o material ausente ou as leituras paralelas completas. O trecho final mantido acima vem de sua fonte alemã indicada separadamente; antecipa conteúdo além do excerto fornecido.",
+    "example": "Um grupo pretende “acolher todos”, mas realiza reuniões num horário em que uma pessoa não pode participar. Uma estudante propõe perguntar pela disponibilidade e experimentar outro horário em duas reuniões. A proposta dá forma concreta ao ideal e inclui uma maneira de avaliá-la.",
+    "explanation": "Escreva um relato curto que outro estudante possa examinar: situação, razão, ação proposta, pessoas a consultar e resultado a rever. Explique qual leitura motivou a pergunta, sem afirmar que ela comprova a solução proposta.",
+    "activity": "Faça um portfólio do excerto: explique a disposição de leitura proposta por McDermott com uma referência de captura; reconstrua o argumento de Steiner no texto fornecido com mais duas referências; defina uma distinção técnica; registre uma pergunta em aberto; e proponha uma aplicação viável com uma condição para revisão. Depois de ler a fonte completa, amplie o portfólio com um esboço das dez palestras e três referências datadas que expliquem a ligação entre uma afirmação inicial, uma etapa intermediária e a conclusão. Vincule cada referência à edição realmente consultada.",
+    "checks": [
+      [
+        "O que demonstra compreensão do texto no portfólio?",
+        "A reconstrução da pergunta do autor e das relações entre premissas, distinções e conclusão, apoiada em passagens identificáveis. Uma ação cotidiana útil, por si só, não demonstra essa compreensão."
+      ],
+      [
+        "Como descrever um portfólio baseado somente no arquivo fornecido?",
+        "Como estudo seletivo da introdução de McDermott e do texto fornecido da palestra 1, usando as capturas 5–21 do PDF. Indique o material ausente. Amplie a cobertura somente depois de ler as fontes adicionais."
+      ],
+      [
+        "O que revisar depois de experimentar sua proposta prática?",
+        "Compare o resultado com a finalidade e ouça as pessoas afetadas. Decida se deve continuar, revisar ou encerrar. Separe essa avaliação prática da comprovação das afirmações espirituais da palestra."
+      ]
+    ],
+    "takeaway": "Torne visíveis a cobertura de sua leitura e as ligações do argumento.",
+    "terms": "Síntese: apresentação organizada que relaciona o aprendido. Revisão: exame do resultado em relação ao propósito e ajuste correspondente.",
+    "reading": "Para o portfólio do excerto: McDermott, capturas 5–13 do PDF, e Steiner, texto fornecido da palestra 1, capturas 14–21. Para o portfólio completo: as dez palestras, identificadas pela data e edição."
+  }
+}
 ];
 
 // One check per lecture tests the source distinction; the others test application.
 const sourceChecks={
- 2:{en:['Does Steiner identify Buddha with Jesus?','No. His account describes a spiritual contribution, not that identity.'],pt:['Steiner identifica Buda com Jesus?','Não. Sua explicação descreve uma contribuição espiritual, não essa identidade.']},
  3:{en:['Does accepting the ethical discussion establish the spiritual narrative?','No. The two require separate assessment.'],pt:['Aceitar a discussão ética comprova a narrativa espiritual?','Não. As duas exigem avaliações separadas.']},
  4:{en:['Whose explanation is the two-child account?','Steiner’s. Do not attribute it directly to the Gospel writers.'],pt:['De quem é a explicação dos dois meninos?','De Steiner. Não a atribua diretamente aos evangelistas.']},
  5:{en:['Why not replace every relationship with “is the same as”?','That would erase the distinctions the account depends on.'],pt:['Por que não substituir toda relação por “é o mesmo que”?','Isso apagaria as distinções das quais a explicação depende.']},

@@ -1,5 +1,7 @@
 # Anthroposophy introduction and lesson connections
 
+Current update (30 September 2026): Theosophy Lesson 0 now begins with the supplied 1971 book's own prefaces and introduction, rather than the later lectures. The later-lecture review below remains a provenance record for supplementary connections. Its description of the former Lesson 0 is historical; see [the Theosophy course review](theosophy-course-review.md) for the current orientation.
+
 Implemented locally: 12 September 2026, following the user's request to implement the useful parts while they seek a more complete Markdown transcription.
 
 **Second transcription reviewed:** the replacement file has now been compared with the first. It recovers substantial passages, and selected additions have been incorporated locally. The original source record and first-pass limitations below are retained for traceability; the replacement review at the end supersedes the instruction to wait for that file.

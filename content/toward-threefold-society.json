@@ -1,0 +1,688 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-10-01",
+  "route": "toward-threefold-society",
+  "titleEn": "Toward a Threefold Society — Introduction and Preface",
+  "titlePt": "Rumo a uma sociedade trimembrada — Introdução e prefácio",
+  "editionEn": "Toward a Threefold Society: Basic Issues of the Social Question, translated by Frank Thomas Smith. Rudolf Steiner Publications, first printing October 2019. Kindle ISBN 9781948302173; paperback ISBN 9781948302166. This review uses the supplied OCR Markdown only; no PDF or printed edition was visually checked.",
+  "editionPt": "Toward a Threefold Society: Basic Issues of the Social Question, traduzido por Frank Thomas Smith. Rudolf Steiner Publications, primeira impressão em outubro de 2019. ISBN Kindle 9781948302173; ISBN da edição em brochura 9781948302166. Esta revisão utiliza somente o Markdown fornecido, extraído por OCR; nenhum PDF ou exemplar impresso foi conferido visualmente.",
+  "scopeEn": "All 14 marked pages of the supplied Markdown were read: front matter on pages 1–5, Smith’s translator’s introduction on pages 6–7, and Steiner’s preface to the fourth German edition, dated 1920, as supplied on pages 8–14. The main chapters are listed in the contents but are not supplied. Page markers identify this Markdown, not printed pagination or exact Kindle locations. Portuguese passages are original study translations of the quoted English.",
+  "scopePt": "Foram lidas todas as 14 páginas marcadas do Markdown fornecido: elementos iniciais nas páginas 1–5, a introdução do tradutor Smith nas páginas 6–7 e o prefácio de Steiner à quarta edição alemã, datado de 1920, tal como fornecido nas páginas 8–14. Os capítulos principais aparecem no sumário, mas não foram fornecidos. Os marcadores identificam este Markdown, não a paginação impressa nem localizações exatas no Kindle. Os trechos em português são traduções de estudo originais das citações em inglês.",
+  "lessons": [
+    {
+      "id": 0,
+      "titleEn": "Three cooperating spheres, two authorial voices",
+      "titlePt": "Três esferas em cooperação, duas vozes autorais",
+      "questionEn": "What does this supplied opening provide, and whose argument are we reading?",
+      "questionPt": "O que a abertura fornecida contém e de quem é o argumento que estamos lendo?",
+      "goalEn": "Identify the edition, separate translator and author, and establish the scope of the introduction and preface.",
+      "goalPt": "Identifique a edição, diferencie tradutor e autor e delimite o estudo da introdução e do prefácio.",
+      "markdownPages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "author": "Rudolf Steiner",
+      "sourceSection": "Title pages, imprint, Steiner epigraph and contents",
+      "en": {
+        "intro": "Begin with the book’s reading map. Its title announces a social proposal; the supplied material gives us an introduction and a preface through which to understand that proposal’s starting questions.",
+        "meaning": [
+          "The title page names Rudolf Steiner as author and Frank Thomas Smith as translator. The imprint identifies Rudolf Steiner Publications and its first printing in October 2019. It also credits Smith with historical footnotes. That publication date belongs to this English edition; it is not the date of every text within it.",
+          "There are two voices to follow. Smith’s introduction, signed October 2019, asks why the book remains relevant. Steiner’s preface addresses the fourth German edition in 1920. We can compare their judgments while keeping the century between them visible. A translator’s historical evaluation is different from Steiner’s own explanation of his proposal.",
+          "The front matter juxtaposes thinking, feeling and willing with freedom, equality and fraternity. The epigraph stresses three systems cooperating and challenges thinking that chooses convenience over life’s requirements. The preface will develop cultural life, economic life and the sphere of rights as distinct but cooperating members. The title’s brief formulas do not themselves supply that argument.",
+          "The contents list later chapters about the social question, social solutions, capitalism and international relations. Their text is absent from this upload. We can study the complete provided introduction and preface, including their promises about the rest of the book, while leaving those promised arguments for a later reading. The 14 page markers are local references in the supplied Markdown."
+        ],
+        "keyConcept": "A proposal for three cooperating social spheres must be read with both its authorial voices and its available source boundaries clear.",
+        "example": "In a reading group, label one notebook entry “Smith, 2019” and another “Steiner, 1920.” Put a question about the contents list in a third entry for future reading. This course activity helps prevent a title, a later commentator and an unread chapter from becoming one undifferentiated argument.",
+        "distinction": "The epigraph is Steiner’s statement as reproduced in the front matter. Using it here does not mean that the main chapter from which it was selected has been supplied or reviewed.",
+        "connection": "With the voices identified, we can ask why Smith believes a proposal written for Central Europe in 1919 still matters to readers in 2019.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "Which description matches the material supplied for this course?",
+            "options": [
+              "The front matter, Smith’s introduction and Steiner’s 1920 preface as supplied",
+              "The complete main text with all chapters about capitalism and international relations",
+              "A 1920 introduction written by Smith and a 2019 preface written by Steiner"
+            ],
+            "answer": 0,
+            "explanation": "The 14 marked pages contain front matter, Smith’s introduction and the fourth-edition preface as supplied. The later chapters are named in the contents but their text is absent."
+          },
+          {
+            "type": "open",
+            "question": "Why should the 2019 publication date and the 1920 preface date remain separate in your notes?",
+            "explanation": "The first identifies this English edition; the second identifies Steiner’s preface. Keeping them separate preserves the historical setting of each authorial layer."
+          },
+          {
+            "type": "reflection",
+            "question": "Which question raised by the contents would you save until its chapter becomes available?",
+            "explanation": "Name the chapter and explain what additional argument you would need. This is a reading plan, without a scored answer; the preface’s promises can guide your question without replacing the absent chapter."
+          }
+        ]
+      },
+      "pt": {
+        "intro": "Comece pelo mapa de leitura do livro. O título anuncia uma proposta social; o material fornecido oferece uma introdução e um prefácio que permitem compreender suas perguntas iniciais.",
+        "meaning": [
+          "A folha de rosto identifica Rudolf Steiner como autor e Frank Thomas Smith como tradutor. O expediente informa a editora Rudolf Steiner Publications e a primeira impressão em outubro de 2019. Também atribui a Smith as notas históricas. Essa data de publicação pertence à edição inglesa, não a todos os textos que ela contém.",
+          "Há duas vozes a acompanhar. A introdução de Smith, assinada em outubro de 2019, pergunta por que o livro continua relevante. O prefácio de Steiner se dirige à quarta edição alemã, em 1920. Podemos comparar seus juízos mantendo visível o século que os separa. A avaliação histórica de um tradutor é diferente da explicação que Steiner oferece de sua própria proposta.",
+          "Os elementos iniciais aproximam pensar, sentir e querer de liberdade, igualdade e fraternidade. A epígrafe destaca três sistemas em cooperação e questiona um pensamento que prefere a comodidade às exigências da vida. O prefácio desenvolverá a vida cultural, a vida econômica e a esfera dos direitos como membros distintos em cooperação. As fórmulas breves do título não fornecem, por si, esse argumento.",
+          "O sumário lista capítulos posteriores sobre a questão social, soluções sociais, capitalismo e relações internacionais. Seus textos não estão neste arquivo. Podemos estudar integralmente a introdução e o prefácio fornecidos, incluindo o que prometem sobre o restante do livro, e deixar os argumentos prometidos para uma leitura posterior. Os 14 marcadores de página são referências locais do Markdown fornecido."
+        ],
+        "keyConcept": "Uma proposta de três esferas sociais em cooperação exige clareza tanto sobre suas vozes autorais quanto sobre os limites da fonte disponível.",
+        "example": "Em um grupo de leitura, identifique uma anotação como “Smith, 2019” e outra como “Steiner, 1920”. Reserve uma terceira para uma pergunta sobre um capítulo do sumário ainda não disponível. Esta atividade do curso ajuda a evitar que um título, um comentarista posterior e um capítulo não lido se confundam num único argumento.",
+        "distinction": "A epígrafe apresenta uma afirmação de Steiner reproduzida nos elementos iniciais. Usá-la aqui não significa que o capítulo principal do qual foi selecionada tenha sido fornecido ou revisado.",
+        "connection": "Identificadas as vozes, podemos perguntar por que Smith considera relevante, para leitores de 2019, uma proposta escrita para a Europa Central em 1919.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "Qual descrição corresponde ao material fornecido para este curso?",
+            "options": [
+              "Os elementos iniciais, a introdução de Smith e o prefácio de Steiner de 1920 tal como fornecido",
+              "O texto principal completo, com todos os capítulos sobre capitalismo e relações internacionais",
+              "Uma introdução de 1920 escrita por Smith e um prefácio de 2019 escrito por Steiner"
+            ],
+            "answer": 0,
+            "explanation": "As 14 páginas marcadas contêm os elementos iniciais, a introdução de Smith e o prefácio à quarta edição tal como fornecido. Os capítulos posteriores são nomeados no sumário, mas seus textos estão ausentes."
+          },
+          {
+            "type": "open",
+            "question": "Por que a data de publicação de 2019 e a data do prefácio de 1920 devem ficar separadas nas suas anotações?",
+            "explanation": "A primeira identifica esta edição inglesa; a segunda identifica o prefácio de Steiner. Separá-las preserva o contexto histórico de cada camada autoral."
+          },
+          {
+            "type": "reflection",
+            "question": "Que pergunta sugerida pelo sumário você guardaria até receber o respectivo capítulo?",
+            "explanation": "Nomeie o capítulo e explique qual argumento adicional seria necessário. Trata-se de um plano de leitura, sem resposta pontuada; as promessas do prefácio podem orientar a pergunta sem substituir o capítulo ausente."
+          }
+        ]
+      },
+      "passage": {
+        "quoteEn": "One can anticipate the experts who object to the complexity of these suggestions and find it uncomfortable even to think about three systems cooperating with each other",
+        "quotePt": "Podemos prever os especialistas que se opõem à complexidade dessas sugestões e consideram incômodo até mesmo pensar em três sistemas cooperando entre si",
+        "pageMarker": 4,
+        "locatorEn": "Marked Markdown page 4, front-matter epigraph, paragraph beginning “One can anticipate the experts”.",
+        "locatorPt": "Página marcada 4 do Markdown, epígrafe dos elementos iniciais, parágrafo iniciado por “One can anticipate the experts”.",
+        "creditEn": "Rudolf Steiner, epigraph reproduced in this English edition, translated by Frank Thomas Smith; short excerpt checked against the supplied Markdown only.",
+        "creditPt": "Rudolf Steiner, epígrafe reproduzida nesta edição inglesa, traduzida por Frank Thomas Smith; excerto breve conferido somente no Markdown fornecido. Tradução de estudo em português feita para este curso."
+      }
+    },
+    {
+      "id": 1,
+      "titleEn": "Smith’s historical question: why read this now?",
+      "titlePt": "A pergunta histórica de Smith: por que ler isto hoje?",
+      "questionEn": "How does Smith connect the book’s 1919 setting with his argument for its relevance in 2019?",
+      "questionPt": "Como Smith relaciona o contexto de 1919 ao seu argumento sobre a relevância do livro em 2019?",
+      "goalEn": "Follow Smith’s historical interpretation and distinguish cultural freedom from free tuition.",
+      "goalPt": "Acompanhe a interpretação histórica de Smith e diferencie liberdade cultural de ensino gratuito.",
+      "markdownPages": [
+        6,
+        7
+      ],
+      "author": "Frank Thomas Smith",
+      "sourceSection": "Translator’s Introduction, October 2019",
+      "en": {
+        "intro": "Smith opens with a practical reading question: can a book addressed to German-speaking Central Europe in 1919 matter to a worldwide readership a century later? His answer rests on a historical interpretation and three continuing concerns.",
+        "meaning": [
+          "Smith identifies the calamity in Steiner’s closing warning as the First World War. He calls the warning prophetic, argues that decision-makers ignored Steiner’s suggestions, and connects subsequent calamities with unresolved social problems. These are the translator’s forceful historical judgments. The introduction offers his case for relevance; it does not demonstrate that Steiner’s proposal would have prevented every later disaster.",
+          "He then asks whether cultural life is free, whether an associative economy functions, and whether the political state confines itself to ensuring human rights. He answers all three questions negatively and says destructive tendencies have intensified. His criticism targets the expectation that the state should solve cultural, economic and political problems through one institutional center.",
+          "For schools, Smith explicitly defines freedom as freedom from state control and economic influence. He is not using “free” to mean tuition-free. This distinction introduces the question of who determines education’s content and administration. It also prevents a discussion of cultural autonomy from slipping unnoticed into a different discussion about who pays fees.",
+          "Smith explains that references to the Austro-Hungarian and German empires were familiar to the original readers but require historical help today. The imprint credits his historical footnotes, and his introduction mentions notes at the end of the book; those notes are not supplied here. His conclusion, signed October 2019, is that the essential principles are even more urgent."
+        ],
+        "keyConcept": "Smith makes a historically situated argument for continuing relevance: distinguish his evaluation from the proposal he is introducing.",
+        "example": "As a course reading exercise, underline Smith’s question about schools and write two headings: “Who controls educational decisions?” and “Who pays for education?” Put his stated definition under the first. The exercise clarifies his wording without deciding which funding arrangement a free school must adopt.",
+        "distinction": "Calling a warning prophetic is Smith’s interpretation of subsequent history. It is different from identifying the First World War as the calamity discussed, and from proving a causal explanation of later events.",
+        "connection": "Steiner’s own preface now takes up a related difficulty: a persuasive social ideal cannot become practical merely because someone announces that it is the right solution.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "What does Smith mean when he asks whether schools are free?",
+            "options": [
+              "That schools charge no tuition",
+              "That schools are free from state control and economic influence",
+              "That schools have no administration or educational commitments"
+            ],
+            "answer": 1,
+            "explanation": "Smith expressly excludes the meaning “free of cost.” His question concerns freedom from political control and economic influence."
+          },
+          {
+            "type": "open",
+            "question": "Which three areas does Smith use to question the continuing concentration of social tasks in the state?",
+            "explanation": "He asks about a free spiritual-cultural life, an associative economy and a political state concerned with ensuring human rights. His negative answers express his assessment of their realization."
+          },
+          {
+            "type": "reflection",
+            "question": "What historical evidence would help you assess Smith’s claim that the warning was prophetic?",
+            "explanation": "Identify an event, a causal question and a source you would examine. Your judgment is not graded for agreeing with Smith; the task is to explain how you would investigate his interpretation."
+          }
+        ]
+      },
+      "pt": {
+        "intro": "Smith começa com uma pergunta prática de leitura: um livro dirigido à Europa Central de língua alemã em 1919 pode importar para leitores do mundo inteiro um século depois? Sua resposta combina uma interpretação histórica e três preocupações persistentes.",
+        "meaning": [
+          "Smith identifica a calamidade mencionada na advertência final de Steiner como a Primeira Guerra Mundial. Considera a advertência profética, afirma que os responsáveis por decisões ignoraram as sugestões de Steiner e relaciona calamidades posteriores a problemas sociais não resolvidos. São juízos históricos enfáticos do tradutor. A introdução apresenta seu argumento de relevância; não demonstra que a proposta de Steiner teria evitado todos os desastres posteriores.",
+          "Ele pergunta, então, se a vida cultural é livre, se existe uma economia associativa e se o Estado político se limita a assegurar os direitos humanos. Responde negativamente às três perguntas e afirma que as tendências destrutivas se intensificaram. Sua crítica se dirige à expectativa de que o Estado resolva problemas culturais, econômicos e políticos a partir de um único centro institucional.",
+          "No caso das escolas, Smith define expressamente liberdade como ausência de controle estatal e de influência econômica. Não emprega “livre” com o sentido de ensino gratuito. Essa distinção introduz a questão de quem determina o conteúdo e a administração da educação. Também impede que a discussão da autonomia cultural se transforme, sem percebermos, numa discussão diferente sobre quem paga as mensalidades.",
+          "Smith explica que as referências aos impérios austro-húngaro e alemão eram familiares aos primeiros leitores, mas hoje precisam de esclarecimento histórico. O expediente lhe atribui as notas históricas, e sua introdução menciona notas no fim do livro; elas não foram fornecidas aqui. Sua conclusão, assinada em outubro de 2019, é que os princípios essenciais se tornaram ainda mais urgentes."
+        ],
+        "keyConcept": "Smith apresenta um argumento situado historicamente sobre a relevância atual: diferencie sua avaliação da proposta que ele está introduzindo.",
+        "example": "Como exercício de leitura do curso, sublinhe a pergunta de Smith sobre as escolas e escreva dois títulos: “Quem controla as decisões educacionais?” e “Quem paga pela educação?”. Coloque a definição expressa por ele sob o primeiro. O exercício esclarece suas palavras sem decidir qual financiamento uma escola livre precisaria adotar.",
+        "distinction": "Chamar uma advertência de profética é a interpretação de Smith sobre a história posterior. Isso difere de identificar a Primeira Guerra Mundial como a calamidade mencionada e de demonstrar uma explicação causal dos acontecimentos seguintes.",
+        "connection": "O prefácio do próprio Steiner aborda agora uma dificuldade relacionada: um ideal social persuasivo não se torna prático apenas porque alguém anuncia que ele é a solução correta.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "O que Smith quer dizer ao perguntar se as escolas são livres?",
+            "options": [
+              "Que as escolas não cobram mensalidades",
+              "Que as escolas estão livres do controle estatal e da influência econômica",
+              "Que as escolas não têm administração nem compromissos educacionais"
+            ],
+            "answer": 1,
+            "explanation": "Smith exclui expressamente o sentido de gratuidade. Sua pergunta trata da liberdade em relação ao controle político e à influência econômica."
+          },
+          {
+            "type": "open",
+            "question": "Quais três áreas Smith utiliza para questionar a concentração persistente das tarefas sociais no Estado?",
+            "explanation": "Ele pergunta sobre uma vida espiritual-cultural livre, uma economia associativa e um Estado político dedicado a assegurar os direitos humanos. Suas respostas negativas expressam sua avaliação da realização dessas condições."
+          },
+          {
+            "type": "reflection",
+            "question": "Que evidências históricas ajudariam você a avaliar a afirmação de Smith de que a advertência foi profética?",
+            "explanation": "Identifique um acontecimento, uma questão causal e uma fonte que examinaria. Seu juízo não recebe nota por concordar com Smith; a tarefa é explicar como investigaria sua interpretação."
+          }
+        ]
+      },
+      "passage": {
+        "quoteEn": "The calamity referred to is the First World War, and since that time history has certainly shown these words to be prophetic.",
+        "quotePt": "A calamidade mencionada é a Primeira Guerra Mundial, e desde então a história certamente mostrou que essas palavras eram proféticas.",
+        "pageMarker": 6,
+        "locatorEn": "Marked Markdown page 6, Translator’s Introduction, paragraph beginning “The calamity referred to is the First World War”.",
+        "locatorPt": "Página marcada 6 do Markdown, Introdução do tradutor, parágrafo iniciado por “The calamity referred to is the First World War”.",
+        "creditEn": "Frank Thomas Smith, Translator’s Introduction, October 2019; his historical interpretation, checked against the supplied Markdown only.",
+        "creditPt": "Frank Thomas Smith, Introdução do tradutor, outubro de 2019; interpretação histórica do tradutor, conferida somente no Markdown fornecido. Tradução de estudo em português feita para este curso."
+      }
+    },
+    {
+      "id": 2,
+      "titleEn": "A practical proposal begins with reality",
+      "titlePt": "Uma proposta prática começa pela realidade",
+      "questionEn": "Why does Steiner reject the idea that a perfect theoretical solution is enough?",
+      "questionPt": "Por que Steiner rejeita a ideia de que uma solução teórica perfeita basta?",
+      "goalEn": "Explain the preface’s criticism of utopian thinking and its demand for judgment connected with social life.",
+      "goalPt": "Explique a crítica do prefácio ao pensamento utópico e sua exigência de um juízo ligado à vida social.",
+      "markdownPages": [
+        8,
+        9
+      ],
+      "author": "Rudolf Steiner",
+      "sourceSection": "Preface to the Fourth German Edition — 1920, opening argument",
+      "en": {
+        "intro": "Steiner begins the preface by questioning how social ideas become effective. His target is the belief that a compelling scheme can transform public life simply because its author persuades others that it is correct.",
+        "meaning": [
+          "He imagines someone possessing a perfect theoretical solution to the social question. Even on that assumption, announcing the solution to the public would depend on an impractical belief: that people will accept another person’s picture of society and act according to it. The difficulty concerns how social action comes about, not just how convincing a theory sounds.",
+          "Steiner rejects the charge that his own book is utopian. He argues that its critics sometimes project their own habits of abstract planning onto it. His language is sharp: he says even the most convincing utopian ideas lead nowhere and that people waste their breath offering propositions others cannot apply. These are his criticisms of the social thinking he encounters.",
+          "The deeper problem, in his account, is a divorce between thought and reality. Contemporary economic notions can fail to engage the relations through which people actually produce, exchange and live. A thought process that remains remote from those relations cannot adequately address their disorder. Recognizing that distance is therefore an uncomfortable but necessary beginning.",
+          "This does not amount to dispensing with thinking. The preface will propose communities in which people acquire insight through participation and shared experience. Its question is how judgment can become responsive to life. At the transition to page 9, Steiner links the problem to the condition of spiritual-cultural life and its dependence on political institutions and economic forces."
+        ],
+        "keyConcept": "For Steiner, practical social thinking must connect judgment with living relationships and people’s participation, rather than rely on an announced blueprint.",
+        "example": "Imagine a course discussion in which one participant designs an ideal neighborhood food system without speaking to growers, distributors or households. Ask which relationships the design leaves unknown and how those participants could contribute judgment. This invented example illustrates the preface’s problem; it is not a historical case from the book.",
+        "distinction": "A plan’s internal consistency and its capacity to become living social practice are different questions. Steiner challenges the leap from one to the other, while continuing to offer ideas about institutions.",
+        "connection": "The next reading follows his first institutional proposal: education and cultural life should generate their own judgments through independent administration.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "What difficulty remains even for Steiner’s hypothetical perfect theoretical solution?",
+            "options": [
+              "Its author must avoid all concepts and discussion",
+              "It must receive approval from an economic planning office",
+              "It assumes people will accept another person’s scheme and act accordingly"
+            ],
+            "answer": 2,
+            "explanation": "The example questions the belief that public life can be changed merely by announcing a theoretically convincing arrangement. People’s social action cannot simply be assumed."
+          },
+          {
+            "type": "open",
+            "question": "What does the preface mean by a divorce between thought and reality?",
+            "explanation": "Steiner describes social and economic thinking that fails to engage actual conditions and relationships. He argues that admitting this distance is necessary before judging what society needs."
+          },
+          {
+            "type": "reflection",
+            "question": "Choose a social proposal you know. What would its authors need to learn from the people whose activities it seeks to organize?",
+            "explanation": "Describe a missing relationship or experience and a way to learn about it. The reflection asks you to apply the reading’s question, without grading whether you accept Steiner’s assessment of his own proposal."
+          }
+        ]
+      },
+      "pt": {
+        "intro": "Steiner começa o prefácio perguntando como as ideias sociais se tornam efetivas. Seu alvo é a crença de que um esquema convincente pode transformar a vida pública apenas porque seu autor persuade os outros de que ele está correto.",
+        "meaning": [
+          "Ele imagina alguém que possui uma solução teórica perfeita para a questão social. Mesmo admitindo essa hipótese, anunciar a solução ao público dependeria de uma crença impraticável: a de que as pessoas aceitarão a imagem de sociedade concebida por outra pessoa e agirão conforme ela. A dificuldade diz respeito a como surge a ação social, não apenas à força persuasiva de uma teoria.",
+          "Steiner rejeita a acusação de que seu próprio livro seja utópico. Afirma que seus críticos às vezes projetam nele os próprios hábitos de planejamento abstrato. Sua linguagem é incisiva: diz que até as ideias utópicas mais convincentes não levam a nada e que as pessoas desperdiçam palavras ao oferecer propostas que os outros não conseguem aplicar. Essas são suas críticas ao pensamento social que encontra.",
+          "O problema mais profundo, em sua interpretação, é um divórcio entre pensamento e realidade. As concepções econômicas contemporâneas podem deixar de alcançar as relações pelas quais as pessoas efetivamente produzem, trocam e vivem. Um pensamento distante dessas relações não pode enfrentar adequadamente sua desordem. Reconhecer essa distância constitui, portanto, um começo incômodo, mas necessário.",
+          "Isso não significa dispensar o pensamento. O prefácio proporá comunidades nas quais as pessoas adquirem discernimento por meio da participação e da experiência comum. Sua pergunta é como o juízo pode responder à vida. Na passagem para a página 9, Steiner relaciona o problema à condição da vida espiritual-cultural e à sua dependência das instituições políticas e das forças econômicas."
+        ],
+        "keyConcept": "Para Steiner, o pensamento social prático deve ligar o juízo às relações vivas e à participação das pessoas, em vez de depender de um modelo simplesmente anunciado.",
+        "example": "Imagine uma discussão do curso em que alguém projeta um sistema alimentar ideal para um bairro sem conversar com produtores, distribuidores ou famílias. Pergunte quais relações o projeto deixa desconhecidas e como esses participantes poderiam contribuir para o juízo. Este exemplo inventado ilustra o problema do prefácio; não é um caso histórico apresentado no livro.",
+        "distinction": "A coerência interna de um plano e sua capacidade de se tornar uma prática social viva são questões diferentes. Steiner questiona a passagem automática de uma à outra, ao mesmo tempo que continua oferecendo ideias sobre instituições.",
+        "connection": "A próxima leitura acompanha sua primeira proposta institucional: a educação e a vida cultural devem formar seus próprios juízos por meio de uma administração independente.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "Que dificuldade permanece mesmo na solução teórica perfeita imaginada por Steiner?",
+            "options": [
+              "Seu autor precisa evitar todos os conceitos e debates",
+              "Ela precisa receber aprovação de um órgão de planejamento econômico",
+              "Ela pressupõe que as pessoas aceitarão o esquema de outra pessoa e agirão conforme ele"
+            ],
+            "answer": 2,
+            "explanation": "O exemplo questiona a crença de que a vida pública pode mudar apenas pelo anúncio de uma organização teoricamente convincente. Não se pode simplesmente pressupor a ação social das pessoas."
+          },
+          {
+            "type": "open",
+            "question": "O que o prefácio entende por divórcio entre pensamento e realidade?",
+            "explanation": "Steiner descreve um pensamento social e econômico que não alcança as condições e relações efetivas. Afirma que reconhecer essa distância é necessário antes de julgar o que a sociedade precisa."
+          },
+          {
+            "type": "reflection",
+            "question": "Escolha uma proposta social que você conhece. O que seus autores precisariam aprender com as pessoas cujas atividades ela pretende organizar?",
+            "explanation": "Descreva uma relação ou experiência desconhecida e um modo de conhecê-la. A reflexão aplica a pergunta da leitura, sem avaliar se você aceita o juízo de Steiner sobre sua própria proposta."
+          }
+        ]
+      },
+      "passage": {
+        "quoteEn": "How can we then hope to cope with the chaotic condition of society if we approach it with a thought process which has no relation to reality?",
+        "quotePt": "Como podemos então esperar enfrentar a condição caótica da sociedade se a abordamos com um processo de pensamento que não tem relação com a realidade?",
+        "pageMarker": 8,
+        "locatorEn": "Marked Markdown page 8, Preface to the Fourth German Edition — 1920, paragraph beginning “The above should be treated as a fact of life”.",
+        "locatorPt": "Página marcada 8 do Markdown, Prefácio à quarta edição alemã — 1920, parágrafo iniciado por “The above should be treated as a fact of life”.",
+        "creditEn": "Rudolf Steiner, 1920 fourth-edition preface, translated by Frank Thomas Smith; excerpt checked against the supplied Markdown only.",
+        "creditPt": "Rudolf Steiner, prefácio à quarta edição, de 1920, traduzido por Frank Thomas Smith; excerto conferido somente no Markdown fornecido. Tradução de estudo em português feita para este curso."
+      }
+    },
+    {
+      "id": 3,
+      "titleEn": "Education and culture govern themselves",
+      "titlePt": "Educação e cultura administram a si mesmas",
+      "questionEn": "Why does Steiner place education’s administration in the hands of active educators?",
+      "questionPt": "Por que Steiner entrega a administração da educação aos educadores em atividade?",
+      "goalEn": "Explain cultural autonomy, the proposed role of practicing educators, and its connection with social sensitivity.",
+      "goalPt": "Explique a autonomia cultural, o papel proposto para os educadores em atividade e sua relação com a sensibilidade social.",
+      "markdownPages": [
+        9,
+        10,
+        11
+      ],
+      "author": "Rudolf Steiner",
+      "sourceSection": "Preface to the Fourth German Edition — 1920, cultural and educational autonomy",
+      "en": {
+        "intro": "For Steiner, education is an essential part of the social question. He argues that cultural life cannot fulfill its contribution while its purposes and administration are dictated by political and economic interests.",
+        "meaning": [
+          "He recognizes that transferring education from earlier controlling circles to the state was once necessary for historical development. His argument is that an arrangement appropriate to an earlier period can become wrong later. Culture, having matured toward freedom within the state, now requires complete autonomy to exercise that freedom. This is a historical claim about a next step, not a claim that the earlier transfer had no value.",
+          "His administrative proposal is demanding: active educators should both teach and administer. Economic and political considerations should be excluded from educational administration. Neither parliament nor someone who merely used to be an educator should direct it. What teachers experience in their present work should flow into decisions about that work. He extends this principle to law schools, trade schools, and agricultural and industrial colleges.",
+          "Steiner rejects the prejudice that teachers require direction from supposedly practical outsiders. He argues that imposed terms of work make teachers remote from reality, while an independently administered education can develop socially sensitive people. Antisocial conditions arise through individual behavior as well as economic structures. Education’s social effects therefore cannot be left out of the social question.",
+          "Autonomy does not mean cultural life stops contributing to society. In his example, free law schools would develop living legal ideas which the state could receive. A free cultural community could also judge creative work according to its own values and shared experience. He does not promise perfection: the aim is the best possible situation, with fuller organizational particulars deferred to the book’s absent chapters."
+        ],
+        "keyConcept": "Cultural autonomy means that educational judgment and administration arise within an active cultural community, which then contributes to the other social spheres.",
+        "example": "Imagine educators reviewing a course after teaching it and collectively changing its content from what they learned. Compare this invented course example with a sponsor setting its content to satisfy a commercial target. The comparison isolates the source of educational judgment; it does not supply a full school constitution.",
+        "distinction": "Steiner’s proposal is stronger than merely consulting teachers: he assigns administration to active educators. His account of social sensitivity is a claimed consequence of that arrangement, rather than a result established by this course.",
+        "connection": "Having proposed one self-governing community, Steiner asks why social problems must be addressed repeatedly rather than settled once and for all.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "Who should administer education in the preface’s proposal?",
+            "options": [
+              "A parliament advised by former teachers",
+              "Active educators who also take part in administration",
+              "Economic representatives who define teachers’ terms of work"
+            ],
+            "answer": 1,
+            "explanation": "Steiner expressly connects teaching and administration, excludes outside political and economic direction, and says decisions should not be made by people outside the active educational process."
+          },
+          {
+            "type": "open",
+            "question": "How does the example of a free law school show that cultural autonomy can contribute to the state?",
+            "explanation": "The law school would develop jurisprudence from free cultural life rather than reproduce the state’s prescribed view. The state would receive and be enriched by those living legal ideas."
+          },
+          {
+            "type": "reflection",
+            "question": "What responsibilities and difficulties would follow if teachers had to combine teaching with administration?",
+            "explanation": "Consider time, experience and collective judgment. Explain a practical question you would need to investigate; no score depends on supporting or rejecting the proposed arrangement."
+          }
+        ]
+      },
+      "pt": {
+        "intro": "Para Steiner, a educação é parte essencial da questão social. Ele afirma que a vida cultural não pode oferecer sua contribuição enquanto suas finalidades e sua administração forem determinadas por interesses políticos e econômicos.",
+        "meaning": [
+          "Ele reconhece que transferir a educação dos antigos círculos que a controlavam para o Estado foi necessário em certo momento histórico. Seu argumento é que uma organização adequada a um período anterior pode se tornar errada depois. A cultura, tendo amadurecido em direção à liberdade dentro do Estado, precisaria agora de autonomia completa para exercer essa liberdade. Trata-se de uma afirmação histórica sobre o passo seguinte, não de negar o valor da transferência anterior.",
+          "Sua proposta administrativa é exigente: os educadores em atividade devem ensinar e administrar. Considerações econômicas e políticas devem ser excluídas da administração educacional. Nem o parlamento nem alguém que apenas foi educador no passado deve dirigi-la. A experiência atual dos professores deve alimentar as decisões sobre seu trabalho. Steiner estende esse princípio às escolas de direito, de ofícios e às instituições de formação agrícola e industrial.",
+          "Steiner rejeita o preconceito de que os professores precisam ser dirigidos por pessoas de fora supostamente práticas. Afirma que condições de trabalho impostas tornam os professores distantes da realidade, enquanto uma educação administrada de forma independente pode desenvolver pessoas socialmente sensíveis. As condições antissociais surgem também do comportamento individual, além das estruturas econômicas. Os efeitos sociais da educação não podem, portanto, ficar fora da questão social.",
+          "Autonomia não significa que a vida cultural deixa de contribuir para a sociedade. Em seu exemplo, escolas de direito livres desenvolveriam ideias jurídicas vivas que o Estado poderia receber. Uma comunidade cultural livre também poderia julgar o trabalho criativo segundo seus próprios valores e sua experiência comum. Steiner não promete perfeição: busca a melhor situação possível e remete os detalhes de organização aos capítulos não fornecidos do livro."
+        ],
+        "keyConcept": "Autonomia cultural significa que o juízo e a administração educacionais surgem numa comunidade cultural em atividade, que então contribui para as outras esferas sociais.",
+        "example": "Imagine educadores que, depois de ministrar um curso, o avaliam e modificam coletivamente seu conteúdo a partir do que aprenderam. Compare este exemplo inventado do curso com um patrocinador que determina o conteúdo para atingir uma meta comercial. A comparação destaca a origem do juízo educacional; não fornece uma organização escolar completa.",
+        "distinction": "A proposta de Steiner é mais forte que simplesmente consultar professores: ele atribui a administração aos educadores em atividade. Sua explicação sobre a sensibilidade social é uma consequência alegada dessa organização, não um resultado demonstrado pelo curso.",
+        "connection": "Depois de propor uma comunidade que administra a si mesma, Steiner pergunta por que os problemas sociais precisam ser enfrentados repetidamente, em vez de resolvidos de uma vez por todas.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "Quem deve administrar a educação na proposta do prefácio?",
+            "options": [
+              "Um parlamento assessorado por antigos professores",
+              "Educadores em atividade que também participem da administração",
+              "Representantes econômicos que definam as condições do trabalho docente"
+            ],
+            "answer": 1,
+            "explanation": "Steiner liga expressamente ensino e administração, exclui a direção política e econômica externa e afirma que as decisões não devem ser tomadas por pessoas fora do processo educacional em atividade."
+          },
+          {
+            "type": "open",
+            "question": "Como o exemplo de uma escola de direito livre mostra que a autonomia cultural pode contribuir para o Estado?",
+            "explanation": "A escola desenvolveria o pensamento jurídico a partir da vida cultural livre, em vez de reproduzir a visão prescrita pelo Estado. O Estado receberia essas ideias jurídicas vivas e seria enriquecido por elas."
+          },
+          {
+            "type": "reflection",
+            "question": "Que responsabilidades e dificuldades surgiriam se os professores precisassem combinar ensino e administração?",
+            "explanation": "Considere o tempo, a experiência e o juízo coletivo. Explique uma questão prática que precisaria investigar; nenhuma pontuação depende de apoiar ou rejeitar a organização proposta."
+          }
+        ]
+      },
+      "passage": {
+        "quoteEn": "The administration of education, from which all culture develops, must be turned over to the educators.",
+        "quotePt": "A administração da educação, da qual toda a cultura se desenvolve, deve ser entregue aos educadores.",
+        "pageMarker": 9,
+        "locatorEn": "Marked Markdown page 9, Preface to the Fourth German Edition — 1920, paragraph beginning “The administration of education”.",
+        "locatorPt": "Página marcada 9 do Markdown, Prefácio à quarta edição alemã — 1920, parágrafo iniciado por “The administration of education”.",
+        "creditEn": "Rudolf Steiner, 1920 fourth-edition preface, translated by Frank Thomas Smith; excerpt checked against the supplied Markdown only.",
+        "creditPt": "Rudolf Steiner, prefácio à quarta edição, de 1920, traduzido por Frank Thomas Smith; excerto conferido somente no Markdown fornecido. Tradução de estudo em português feita para este curso."
+      }
+    },
+    {
+      "id": 4,
+      "titleEn": "The social question returns",
+      "titlePt": "A questão social retorna",
+      "questionEn": "Why does Steiner compare recurring social problems with recurring hunger?",
+      "questionPt": "Por que Steiner compara os problemas sociais recorrentes à fome que retorna?",
+      "goalEn": "Explain the recurring social question and the role of communities that continually renew social activity.",
+      "goalPt": "Explique a questão social recorrente e o papel de comunidades que renovam continuamente a atividade social.",
+      "markdownPages": [
+        11
+      ],
+      "author": "Rudolf Steiner",
+      "sourceSection": "Preface to the Fourth German Edition — 1920, the recurring social question",
+      "en": {
+        "intro": "A social proposal can be misunderstood as a final cure for society. Steiner instead describes the social question as a continuing task: institutions generate difficulties which people must repeatedly recognize and address together.",
+        "meaning": [
+          "He denies that the social question has suddenly appeared and can be settled permanently by a few people or by a parliamentary body. In his account, it belongs to modern civilization and must be resolved anew at each moment of historical development. Social institutions continually produce antisocial tendencies; an initial arrangement does not end the work of responding to them.",
+          "The hunger analogy makes this point concrete. A satiated organism becomes hungry again; no food removes hunger forever. Similarly, social order can move toward disorder, and no universal social panacea settles every future situation. The comparison concerns renewal over time. It does not provide a rule for assigning society’s institutions to anatomical organs.",
+          "His answer is to encourage communities through which people can continuously direct their activities socially. The self-governing spiritual-cultural sphere is one such community. Shared experience and the ability to judge according to its own values matter here: the institution should sustain people’s capacity to meet new situations, rather than merely preserve an initially convincing theory.",
+          "The paragraph then opens the economic question. Steiner distinguishes free self-administration in culture from associative work in economic life. Production, circulation and consumption satisfy needs, but each participant initially sees only part of the process. He separates knowing one’s own needs from judging what one should contribute through insight into the whole. This is why the next reading needs relationships among different economic participants."
+        ],
+        "keyConcept": "The social question is a recurring task of social renewal, not a condition abolished once by a perfect institutional formula.",
+        "example": "Imagine a cultural community that makes a fair arrangement for its members, then welcomes people with different needs several years later. Its members must listen and judge again. This invented example illustrates why continuing participation matters even when the earlier arrangement was thoughtfully made.",
+        "distinction": "Saying that problems return does not mean every arrangement is equally good or that action is futile. In Steiner’s argument it makes communities capable of repeated social judgment especially important.",
+        "connection": "The economic sphere now requires its own form of continuing judgment: associations through which consumers, distributors and producers learn from one another.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "What does the comparison with hunger explain?",
+            "options": [
+              "The need to respond repeatedly to social difficulties",
+              "A permanent cure produced by one ideal institution",
+              "An exact anatomical model for assigning social functions"
+            ],
+            "answer": 0,
+            "explanation": "Hunger returns after eating, just as social order can develop new disorder. Steiner uses this comparison to reject a universal social panacea and explain continuing renewal."
+          },
+          {
+            "type": "open",
+            "question": "What difference does the end of this reading establish between cultural and economic organization?",
+            "explanation": "Steiner assigns free self-administration to spiritual-cultural life and associative work to economic life. Different kinds of activity require different forms of shared judgment."
+          },
+          {
+            "type": "reflection",
+            "question": "When has a once-useful arrangement needed revision because the people or circumstances changed?",
+            "explanation": "Describe the original purpose and the later need for renewed judgment. The reflection invites a concrete comparison; it does not grade your experience as proof of Steiner’s general account."
+          }
+        ]
+      },
+      "pt": {
+        "intro": "Uma proposta social pode ser entendida equivocadamente como uma cura definitiva para a sociedade. Steiner descreve a questão social como tarefa contínua: as instituições geram dificuldades que as pessoas precisam reconhecer e enfrentar repetidamente em conjunto.",
+        "meaning": [
+          "Ele nega que a questão social tenha surgido de repente e possa ser resolvida permanentemente por algumas pessoas ou por um órgão parlamentar. Em sua interpretação, ela pertence à civilização moderna e precisa ser resolvida de novo a cada momento do desenvolvimento histórico. As instituições sociais produzem continuamente tendências antissociais; uma organização inicial não encerra a tarefa de responder a elas.",
+          "A analogia da fome torna esse ponto concreto. Um organismo saciado volta a sentir fome; nenhum alimento elimina a fome para sempre. Da mesma maneira, a ordem social pode passar à desordem, e nenhuma panaceia social universal resolve todas as situações futuras. A comparação trata da renovação ao longo do tempo. Não fornece uma regra para atribuir instituições sociais a órgãos anatômicos.",
+          "Sua resposta é incentivar comunidades pelas quais as pessoas possam orientar continuamente suas atividades numa direção social. A esfera espiritual-cultural que administra a si mesma é uma dessas comunidades. Importam aqui a experiência comum e a capacidade de julgar segundo seus próprios valores: a instituição deve sustentar a capacidade de enfrentar situações novas, em vez de apenas conservar uma teoria inicialmente convincente.",
+          "O parágrafo abre, então, a questão econômica. Steiner distingue a autoadministração livre da cultura do trabalho associativo na vida econômica. Produção, circulação e consumo satisfazem necessidades, mas cada participante enxerga inicialmente apenas parte do processo. Ele diferencia o conhecimento das próprias necessidades do juízo sobre o que contribuir, formado pela compreensão do conjunto. Por isso, a próxima leitura precisa das relações entre diferentes participantes da economia."
+        ],
+        "keyConcept": "A questão social é uma tarefa recorrente de renovação social, não uma condição eliminada de uma vez por uma fórmula institucional perfeita.",
+        "example": "Imagine uma comunidade cultural que estabelece uma organização justa para seus membros e, anos depois, acolhe pessoas com outras necessidades. Seus membros precisam ouvir e julgar novamente. Este exemplo inventado ilustra por que a participação contínua importa mesmo quando a organização anterior foi elaborada com cuidado.",
+        "distinction": "Dizer que os problemas retornam não significa que todas as organizações sejam igualmente boas ou que agir seja inútil. No argumento de Steiner, isso torna especialmente importantes as comunidades capazes de renovar o juízo social.",
+        "connection": "A esfera econômica exige agora sua própria forma de juízo contínuo: associações nas quais consumidores, distribuidores e produtores aprendam uns com os outros.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "O que a comparação com a fome explica?",
+            "options": [
+              "A necessidade de responder repetidamente às dificuldades sociais",
+              "Uma cura permanente produzida por uma instituição ideal",
+              "Um modelo anatômico exato para distribuir as funções sociais"
+            ],
+            "answer": 0,
+            "explanation": "A fome retorna depois da alimentação, assim como a ordem social pode desenvolver nova desordem. Steiner utiliza essa comparação para rejeitar uma panaceia social universal e explicar a renovação contínua."
+          },
+          {
+            "type": "open",
+            "question": "Que diferença o final desta leitura estabelece entre a organização cultural e a econômica?",
+            "explanation": "Steiner atribui autoadministração livre à vida espiritual-cultural e trabalho associativo à vida econômica. Tipos diferentes de atividade exigem formas diferentes de juízo compartilhado."
+          },
+          {
+            "type": "reflection",
+            "question": "Quando uma organização antes útil precisou ser revista porque as pessoas ou as circunstâncias mudaram?",
+            "explanation": "Descreva a finalidade inicial e a necessidade posterior de renovar o juízo. A reflexão convida a uma comparação concreta; não avalia sua experiência como prova da interpretação geral de Steiner."
+          }
+        ]
+      },
+      "passage": {
+        "quoteEn": "A food which permanently stills hunger does not exist; neither does a universal social panacea.",
+        "quotePt": "Não existe alimento que sacie a fome para sempre; tampouco existe uma panaceia social universal.",
+        "pageMarker": 11,
+        "locatorEn": "Marked Markdown page 11, Preface to the Fourth German Edition — 1920, paragraph beginning “Just as a satiated organism experiences hunger again”.",
+        "locatorPt": "Página marcada 11 do Markdown, Prefácio à quarta edição alemã — 1920, parágrafo iniciado por “Just as a satiated organism experiences hunger again”.",
+        "creditEn": "Rudolf Steiner, 1920 fourth-edition preface, translated by Frank Thomas Smith; excerpt checked against the supplied Markdown only.",
+        "creditPt": "Rudolf Steiner, prefácio à quarta edição, de 1920, traduzido por Frank Thomas Smith; excerto conferido somente no Markdown fornecido. Tradução de estudo em português feita para este curso."
+      }
+    },
+    {
+      "id": 5,
+      "titleEn": "Economic judgment through association",
+      "titlePt": "Juízo econômico por meio da associação",
+      "questionEn": "How would consumers, distributors and producers form a shared economic judgment?",
+      "questionPt": "Como consumidores, distribuidores e produtores formariam um juízo econômico compartilhado?",
+      "goalEn": "Explain associations, contracts, price regulation and the preface’s criticism of externally imposed economic planning.",
+      "goalPt": "Explique associações, contratos, regulação de preços e a crítica do prefácio ao planejamento econômico imposto de fora.",
+      "markdownPages": [
+        11,
+        12,
+        13
+      ],
+      "author": "Rudolf Steiner",
+      "sourceSection": "Preface to the Fourth German Edition — 1920, associative economic life",
+      "en": {
+        "intro": "In Steiner’s proposal, economic insight develops through contact among people with different roles. Association should connect production, circulation and consumption so that participants can judge beyond their own fragment of economic life.",
+        "meaning": [
+          "The preface describes an expansion from household through town and national economies toward a global economy. Steiner argues that political states cannot simply be turned into economic communities. Economic life needs organization according to its own activity: associations of consumers, distributors and producers, with size and inter-association relations determined by actual practical conditions.",
+          "Participants acquire insight through their involvement. Their interests are brought into relation through contracts, and goods circulate at appropriate values through this cooperation. Steiner contrasts such activity with economic arrangements imposed from outside. Planning of the whole should arise through individuals’ reasoning and contact, rather than sacrifice their creative initiative to a predetermined scheme.",
+          "His criticism of labor unions is explicit. He calls them politically organized, basically parliamentary bodies, and contrasts collective demands for maximum wages with artisans, management and consumer representatives determining reciprocal outputs through price regulation. Agreements should reflect workers’ insights and consumers’ interests while work continues. This is his institutional criticism; the next reading separately assigns hours and working conditions to the rights-state.",
+          "He also addresses objections about association between owners and non-owners. He claims reciprocal output would develop through association and criticizes class sentiments disconnected from economic experience. Industrial routine can conceal the formative forces of the wider economy; contact with others should enable collective judgment. The preface states these expectations but does not supply the later chapters’ detailed treatment of capital or property."
+        ],
+        "keyConcept": "Associative economic judgment arises through participants’ reciprocal knowledge of needs, activities and outputs, expressed in agreements and prices.",
+        "example": "Imagine a grower, a distributor and households comparing production work, transport requirements and consumption needs before reaching an agreement. This invented course example illustrates the three perspectives. It does not determine a correct price, prescribe a contract or demonstrate that every conflict will be resolved.",
+        "distinction": "An association is more specific than cooperation in general: Steiner names consumers, distributors and producers and their economic relationships. It also differs from a parliament or an externally imposed production plan.",
+        "connection": "Economic participation does not determine every social right. The final reading explains the sphere in which people count equally, independently of cultural ability or economic output.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "Which participants constitute the economic associations proposed here?",
+            "options": [
+              "Only producers deciding consumers’ needs",
+              "Only elected officials directing production",
+              "Consumers, distributors and producers forming economic relationships"
+            ],
+            "answer": 2,
+            "explanation": "Steiner names all three groups. Their participation, contracts and reciprocal insight are meant to connect production, circulation and consumption."
+          },
+          {
+            "type": "open",
+            "question": "Why does Steiner connect economic knowledge with contact among association members?",
+            "explanation": "A person caught in one activity sees only part of the economy. Contact with others brings different experiences together, enabling collective judgment about the whole and what is economically possible."
+          },
+          {
+            "type": "reflection",
+            "question": "What information would a consumer, distributor and producer each need to contribute before negotiating a shared agreement?",
+            "explanation": "Give one relevant contribution from each role and one possible disagreement. This exploratory comparison has no graded price or required endorsement of the proposed economic system."
+          }
+        ]
+      },
+      "pt": {
+        "intro": "Na proposta de Steiner, o discernimento econômico se desenvolve pelo contato entre pessoas com funções diferentes. A associação deve ligar produção, circulação e consumo para que os participantes possam julgar além de seu próprio fragmento da vida econômica.",
+        "meaning": [
+          "O prefácio descreve uma expansão das economias domésticas para as urbanas e nacionais, em direção à economia mundial. Steiner afirma que os Estados políticos não podem simplesmente ser transformados em comunidades econômicas. A vida econômica precisa de uma organização conforme sua própria atividade: associações de consumidores, distribuidores e produtores, cujo tamanho e cujas relações sejam determinados pelas condições práticas efetivas.",
+          "Os participantes adquirem discernimento por meio de seu envolvimento. Seus interesses se relacionam mediante contratos, e os bens circulam com valores adequados por meio dessa cooperação. Steiner contrapõe essa atividade às organizações econômicas impostas de fora. O planejamento do conjunto deve surgir do raciocínio e do contato dos indivíduos, em vez de sacrificar sua iniciativa criativa a um esquema predeterminado.",
+          "Sua crítica aos sindicatos é explícita. Ele os chama de organizações políticas, basicamente órgãos parlamentares, e contrapõe as reivindicações coletivas de salários máximos à determinação das contribuições produtivas recíprocas por artesãos, administração e representantes dos consumidores, mediante a regulação de preços. Os acordos devem refletir o discernimento dos trabalhadores e os interesses dos consumidores enquanto o trabalho prossegue. Essa é sua crítica institucional; a próxima leitura atribui, separadamente, horários e condições de trabalho ao Estado responsável pelos direitos.",
+          "Ele também aborda objeções à associação entre proprietários e não proprietários. Afirma que contribuições produtivas recíprocas se desenvolveriam pela associação e critica sentimentos de classe desligados da experiência econômica. A rotina industrial pode ocultar as forças formadoras da economia mais ampla; o contato com outros deveria possibilitar um juízo coletivo. O prefácio apresenta essas expectativas, mas não fornece o tratamento detalhado do capital ou da propriedade nos capítulos posteriores."
+        ],
+        "keyConcept": "O juízo econômico associativo surge do conhecimento recíproco das necessidades, atividades e contribuições produtivas dos participantes, expresso em acordos e preços.",
+        "example": "Imagine um produtor agrícola, um distribuidor e famílias que comparem o trabalho de produção, as exigências do transporte e as necessidades de consumo antes de chegar a um acordo. Este exemplo inventado do curso ilustra as três perspectivas. Não determina um preço correto, não prescreve um contrato nem demonstra que todo conflito será resolvido.",
+        "distinction": "Uma associação é mais específica que a cooperação em geral: Steiner nomeia consumidores, distribuidores e produtores e suas relações econômicas. Também difere de um parlamento ou de um plano de produção imposto de fora.",
+        "connection": "A participação econômica não determina todos os direitos sociais. A leitura final explica a esfera na qual as pessoas contam igualmente, independentemente da capacidade cultural ou da contribuição econômica.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "Quais participantes constituem as associações econômicas propostas aqui?",
+            "options": [
+              "Somente produtores que decidam as necessidades dos consumidores",
+              "Somente representantes eleitos que dirijam a produção",
+              "Consumidores, distribuidores e produtores que estabeleçam relações econômicas"
+            ],
+            "answer": 2,
+            "explanation": "Steiner nomeia os três grupos. Sua participação, seus contratos e seu discernimento recíproco devem ligar produção, circulação e consumo."
+          },
+          {
+            "type": "open",
+            "question": "Por que Steiner relaciona o conhecimento econômico ao contato entre os membros da associação?",
+            "explanation": "Quem está preso a uma atividade enxerga apenas parte da economia. O contato com outros reúne experiências diferentes, possibilitando um juízo coletivo sobre o conjunto e sobre o que é economicamente possível."
+          },
+          {
+            "type": "reflection",
+            "question": "Que informações um consumidor, um distribuidor e um produtor precisariam oferecer antes de negociar um acordo comum?",
+            "explanation": "Apresente uma contribuição relevante de cada função e uma possível divergência. Esta comparação exploratória não tem preço pontuado nem exige adesão ao sistema econômico proposto."
+          }
+        ]
+      },
+      "passage": {
+        "quoteEn": "When people associate, the planning of the whole originates in the reasoning of the individual.",
+        "quotePt": "Quando as pessoas se associam, o planejamento do conjunto se origina no raciocínio do indivíduo.",
+        "pageMarker": 13,
+        "locatorEn": "Marked Markdown page 13, Preface to the Fourth German Edition — 1920, paragraph beginning “Human nature would see to it that men and women unite”.",
+        "locatorPt": "Página marcada 13 do Markdown, Prefácio à quarta edição alemã — 1920, parágrafo iniciado por “Human nature would see to it that men and women unite”.",
+        "creditEn": "Rudolf Steiner, 1920 fourth-edition preface, translated by Frank Thomas Smith; excerpt checked against the supplied Markdown only.",
+        "creditPt": "Rudolf Steiner, prefácio à quarta edição, de 1920, traduzido por Frank Thomas Smith; excerto conferido somente no Markdown fornecido. Tradução de estudo em português feita para este curso."
+      }
+    },
+    {
+      "id": 6,
+      "titleEn": "Equal rights and the cooperation of three spheres",
+      "titlePt": "Igualdade de direitos e cooperação entre as três esferas",
+      "questionEn": "How can the social spheres remain independent while contributing to a shared whole?",
+      "questionPt": "Como as esferas sociais podem permanecer independentes e contribuir para um conjunto comum?",
+      "goalEn": "Distinguish equal political rights from cultural ability and economic output, and explain the preface’s account of social unity.",
+      "goalPt": "Diferencie a igualdade de direitos políticos da capacidade cultural e da contribuição econômica e explique a unidade social descrita no prefácio.",
+      "markdownPages": [
+        14
+      ],
+      "author": "Rudolf Steiner",
+      "sourceSection": "Preface to the Fourth German Edition — 1920, political rights and the cooperation of the three members",
+      "en": {
+        "intro": "The preface’s third sphere concerns what people share simply as human beings. Steiner locates political rights here and makes cooperation among independent spheres the basis of the social whole.",
+        "meaning": [
+          "After describing cultural autonomy and economic association, Steiner introduces the political state. Every person of age should be able to exercise influence and judgment in this sphere. Cultural life involves particular abilities; economic life involves associative relationships and the value of goods. The rights sphere should address the human element independently of those differences.",
+          "He places hours and conditions of labor within the political rights-state. All count equally here because the questions to be treated are those about which all are equally competent to form an opinion. Human rights and obligations belong to this member of the social organism. Economic contribution therefore cannot serve as the measure of a person’s standing in the rights sphere.",
+          "Unity, in his proposal, originates in the independent development of the three members. Independence enables each to contribute according to its character; it is not separation into unrelated worlds. Free culture can supply living ideas, economic associations can develop practical judgments, and the rights sphere can address common human standing without being reduced to either of those functions.",
+          "The final page also states that a self-structured economy can protect the weak against the strong. Steiner presents this as an expected result, not a result demonstrated here. He explicitly leaves the integration of non-producing people for later in the book and promises to show how capital, means of production and land use can be addressed through cooperation. Those later explanations are absent from the supplied material."
+        ],
+        "keyConcept": "The rights sphere treats people equally as human beings; social unity should emerge through cooperation among independently developed cultural, economic and political spheres.",
+        "example": "Imagine an association discussing the price of a product while a public debate addresses the hours and conditions under which people work. In this invented course comparison, economic knowledge informs one question and equal political standing governs the other. The questions interact, but skill or output does not give someone greater human rights.",
+        "distinction": "Autonomy is not isolation, and equality of rights is not a claim that everyone has identical talents or produces identical goods. Steiner distinguishes the grounds of judgment appropriate to each sphere.",
+        "connection": "This completes the supplied preface. A next source reading should obtain the main chapters and examine whether their detailed arguments fulfill its promises, especially concerning capital, land and non-producing members of society.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "Which matters does Steiner explicitly assign to the political rights-state?",
+            "options": [
+              "The content of education and the judgment of artistic talent",
+              "Hours and conditions of labor, human rights and obligations",
+              "The prices of all goods and each association’s production plan"
+            ],
+            "answer": 1,
+            "explanation": "The final page assigns hours and conditions of labor, rights and obligations to this sphere. It distinguishes equal human standing from cultural abilities and economic values."
+          },
+          {
+            "type": "open",
+            "question": "How does the preface say the unity of the social organism will arise?",
+            "explanation": "Unity should arise from the independent development and cooperation of the three members. Each contributes according to its own nature instead of all functions being absorbed into one institution."
+          },
+          {
+            "type": "reflection",
+            "question": "Choose one social issue and identify which questions concern culture, economic relationships and equal rights.",
+            "explanation": "Explain where the questions overlap and why a single kind of judgment may be insufficient. This is an ungraded application of the distinctions; detailed policy conclusions require arguments beyond this preface."
+          }
+        ]
+      },
+      "pt": {
+        "intro": "A terceira esfera do prefácio trata do que as pessoas compartilham simplesmente como seres humanos. Steiner situa aqui os direitos políticos e faz da cooperação entre esferas independentes a base do conjunto social.",
+        "meaning": [
+          "Depois de descrever a autonomia cultural e a associação econômica, Steiner introduz o Estado político. Toda pessoa maior de idade deve poder exercer influência e juízo nessa esfera. A vida cultural envolve capacidades particulares; a vida econômica envolve relações associativas e o valor dos bens. A esfera dos direitos deve tratar do elemento humano independentemente dessas diferenças.",
+          "Ele situa os horários e as condições de trabalho no Estado responsável pela esfera dos direitos. Todos contam igualmente aqui, pois as questões a serem tratadas são aquelas sobre as quais todos têm igual competência para formar uma opinião. Os direitos e as obrigações humanos pertencem a esse membro do organismo social. A contribuição econômica não pode, portanto, medir a posição de uma pessoa na esfera dos direitos.",
+          "A unidade, em sua proposta, se origina no desenvolvimento independente dos três membros. A independência permite que cada um contribua conforme seu caráter; não significa separar mundos sem relação. A cultura livre pode oferecer ideias vivas, as associações econômicas podem desenvolver juízos práticos e a esfera dos direitos pode tratar da condição humana comum sem ser reduzida a nenhuma dessas funções.",
+          "A página final também afirma que uma economia organizada por si mesma pode proteger os fracos contra os fortes. Steiner apresenta isso como um resultado esperado, não como um resultado demonstrado aqui. Deixa expressamente para depois a integração das pessoas que não produzem e promete mostrar como o capital, os meios de produção e o uso da terra podem ser tratados pela cooperação. Essas explicações posteriores estão ausentes do material fornecido."
+        ],
+        "keyConcept": "A esfera dos direitos trata as pessoas igualmente como seres humanos; a unidade social deve surgir da cooperação entre as esferas cultural, econômica e política desenvolvidas de forma independente.",
+        "example": "Imagine uma associação discutindo o preço de um produto enquanto um debate público trata dos horários e das condições de trabalho. Nesta comparação inventada do curso, o conhecimento econômico informa uma questão e a igualdade política rege a outra. As questões interagem, mas a habilidade ou a produção não conferem mais direitos humanos a alguém.",
+        "distinction": "Autonomia não é isolamento, e igualdade de direitos não significa que todos tenham talentos idênticos ou produzam bens idênticos. Steiner distingue os fundamentos do juízo apropriados a cada esfera.",
+        "connection": "Aqui termina o prefácio fornecido. Uma próxima leitura da fonte deve obter os capítulos principais e examinar se seus argumentos detalhados cumprem as promessas, sobretudo quanto ao capital, à terra e aos membros da sociedade que não produzem.",
+        "checks": [
+          {
+            "type": "choice",
+            "question": "Que assuntos Steiner atribui expressamente ao Estado responsável pela esfera dos direitos?",
+            "options": [
+              "O conteúdo da educação e o julgamento do talento artístico",
+              "Os horários e as condições de trabalho, os direitos e as obrigações humanos",
+              "Os preços de todos os bens e o plano de produção de cada associação"
+            ],
+            "answer": 1,
+            "explanation": "A página final atribui os horários e as condições de trabalho, os direitos e as obrigações a essa esfera. Distingue a igualdade da condição humana das capacidades culturais e dos valores econômicos."
+          },
+          {
+            "type": "open",
+            "question": "Segundo o prefácio, como surgirá a unidade do organismo social?",
+            "explanation": "A unidade deve surgir do desenvolvimento independente e da cooperação entre os três membros. Cada um contribui segundo sua própria natureza, em vez de todas as funções serem absorvidas por uma única instituição."
+          },
+          {
+            "type": "reflection",
+            "question": "Escolha um problema social e identifique quais perguntas dizem respeito à cultura, às relações econômicas e à igualdade de direitos.",
+            "explanation": "Explique onde as perguntas se sobrepõem e por que um único tipo de juízo pode ser insuficiente. Esta aplicação das distinções não recebe nota; conclusões políticas detalhadas exigem argumentos além deste prefácio."
+          }
+        ]
+      },
+      "passage": {
+        "quoteEn": "The unity of the whole social organism will originate in the independent development of its three members.",
+        "quotePt": "A unidade de todo o organismo social se originará no desenvolvimento independente de seus três membros.",
+        "pageMarker": 14,
+        "locatorEn": "Marked Markdown page 14, Preface to the Fourth German Edition — 1920, paragraph beginning “The unity of the whole social organism”.",
+        "locatorPt": "Página marcada 14 do Markdown, Prefácio à quarta edição alemã — 1920, parágrafo iniciado por “The unity of the whole social organism”.",
+        "creditEn": "Rudolf Steiner, 1920 fourth-edition preface, translated by Frank Thomas Smith; excerpt checked against the supplied Markdown only.",
+        "creditPt": "Rudolf Steiner, prefácio à quarta edição, de 1920, traduzido por Frank Thomas Smith; excerto conferido somente no Markdown fornecido. Tradução de estudo em português feita para este curso."
+      }
+    }
+  ]
+}

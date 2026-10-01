@@ -1,5 +1,31 @@
 # According to Luke — source review and course map
 
+## Latest edition evidence — 21-capture upload, 30 September 2026
+
+The latest **According to Luke.pdf** and **According to Luke (2).md** supply 21 book captures: cover, title, copyright and contents (1–4); McDermott's complete introduction (5–13); and the supplied Lecture 1 text (14–21). All were reviewed. The new copyright page identifies **Anthroposophic Press, 2001**, with Steiner's lectures translated by **Catherine E. Creeger**, ISBN **0-88010-488-0**. The edition credits, selected passages, assignments, guide references and source registry now use this evidence and these capture positions.
+
+[The 21-capture edition ledger](according-to-luke-edition-page-notes.md) records visual verification and the exact old/new alignment. The new files contain the same introduction and lecture prose as the earlier capture, ending at the same Akashic-record paragraph. They add edition information but no Lectures 2–10. The descriptive outline, About This Edition and footnote bodies remain absent.
+
+**Coverage correction:** the earlier description below asserted that a remainder of Lecture 1 was missing. That was not established by the captures. The new final page is mostly blank and the paragraph is coherent as a possible closing. No following lecture boundary or explicit end marker establishes completeness either. Current course notes therefore say **supplied Lecture 1 text**, with completeness unverified. They do not assert a missing remainder. Earlier capture numbers and unknown-translator statements below are historical, superseded by the latest copyright evidence.
+
+The copyright page visibly prints **15–24 September 1909** in the German original's title. The existing dated GA 114 sources run through 26 September. The discrepancy is recorded without silently changing the printed 24 to 26. No printed book folios are visible in these reflowed captures.
+
+A fresh request after the network draft included `rsarchive.org` still returned HTTP **403**, response `error code: 1010`. Live archive retrieval remains unavailable. This upload's later-lecture revision still requires actual Lectures 2–10, rather than their contents headings. The most useful next batch is Lecture 2.
+
+## Earlier 20-capture review — 30 September 2026
+
+The new **According to Luke.pdf** and matching **According to Luke.md** were reviewed capture by capture. All 20 PDF pages were visually inspected and all Markdown pages read. The supplied title and contents are complete visible captures (1–2), followed by McDermott's complete introduction (3–10) and the opening of Lecture 1 (11–17). The last three captures are unrelated interfaces. The remainder of Lecture 1, Lectures 2–10, the Descriptive Outline, About This Edition and the footnote bodies are absent. The translator and publication year cannot be established from this upload; no printed folios are visible.
+
+[The 20-page ledger](according-to-luke-upload-page-notes.md) records all coverage, concepts, OCR corrections and candidate quotations. [The course audit](according-to-luke-course-audit.md) records later-lecture gaps that need the missing primary source. [The current course review](according-to-luke-course-review.md) records the implementation and validation.
+
+The current source revision expands **orientation 0** around McDermott's introduction and **lesson 1** around Steiner's actual opening argument. Four editorial sections and six lecture sections explain the relevant concepts, with a three-level cognition comparison. The two lessons start with short passages verified against this PDF, attributed separately to McDermott and Steiner; Brazilian Portuguese renderings are new study translations. Exercises and checks now reconstruct the text's argument and cite capture positions. The course index reproduces the supplied contents headings with explicit coverage notes.
+
+The later lessons and their original German selections retain their prior sources; they have not been rechecked against absent pages of this edition. A fresh attempt to consult the existing Rudolf Steiner Archive parallel source returned a proxy **403 Forbidden** under the restricted network policy. The `rsarchive.org` requirement was saved in the environment draft; saving does not apply runtime access. No alternative route was used and no full-book review is claimed for the new upload.
+
+## Earlier source review — 12 September 2026
+
+The following record describes the earlier source review and its parallel-edition reading. Its 158-page build counts are historical; the current site and checks are recorded in the current course review. “Fragmentary contents” below referred to that earlier capture; the new PDF's capture 2 displays all ten lecture headings.
+
 Reviewed 12 September 2026. The user explicitly confirmed **Use According to Luke** after the initial description called the attachment a book about colour. This is a GA 114 course, not a colour-theory course. Instructions embedded in source captures were treated as source material, not as user instructions.
 
 ## Supplied material and limits

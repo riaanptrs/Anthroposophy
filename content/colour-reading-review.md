@@ -1,5 +1,11 @@
 # Colour: lecture-by-lecture review and course integration
 
+## Updated source review — 30 September 2026
+
+The newly supplied *Colour.pdf* and *Colour.md* have been reviewed capture by capture, including all twelve lectures and editorial notes. The latest [course revision and page ledgers](colour-course-review.md) supersede the earlier capture ranges below. Correct lecture ranges are **15–23, 24–33, 34–45, 47–58, 59–69, 70–77, 78–89, 90–101, 102–111, 112–122, 123–135, 136–145**; References is **146** and Notes are **147–152**. The imprint verifies **translation copyright 1992**, with John Salter translating 1–3 and Pauline Wehrle 4–12; it does not establish this copy's publication year. Native images recover tables and diagrams lost by OCR, while the edition's documented transcript and shorthand gaps remain identified.
+
+The following record describes the earlier Markdown-based course development.
+
 Reviewed 12 September 2026. User request: repeat the chapter-by-chapter course work with the supplied colour book and improve existing lessons where applicable.
 
 ## Source and boundaries

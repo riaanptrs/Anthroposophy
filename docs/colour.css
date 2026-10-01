@@ -15,3 +15,9 @@
 .colour-swatch:is(.weight-a,.weight-b){background:#e4d8a5}
 .colour-swatch:is(.weight-a,.weight-b) i{position:absolute;top:68px;width:35px;height:35px;background:#363653}
 .colour-swatch.weight-a i{left:7%}.colour-swatch.weight-b i{left:45%}
+.colour-study caption{text-align:left;font-size:.9rem;line-height:1.6;color:#29352f;padding:.2rem 0 .8rem}
+.colour-table-scroll{overflow-x:auto}
+.colour-source-guide section{margin-top:1.5rem}
+.colour-source-guide h3{font-size:1.1rem;line-height:1.5}
+
+.colour-table-scroll:focus-visible{outline:3px solid #3569b2;outline-offset:3px}

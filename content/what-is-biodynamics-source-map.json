@@ -1,0 +1,1392 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-10-01",
+  "source": {
+    "title": "What Is Biodynamics? A Way to Heal and Revitalize the Earth",
+    "publisher": "SteinerBooks",
+    "pdfFile": "What is biodinamics.pdf",
+    "markdownFile": "What is biodinamics (2).md",
+    "pdfCaptures": 135,
+    "pdfSha256": "2a46f2eec5d9d6b11cdbc53fad74d8b490bbff125b5bd67ea987f2f3e767400c",
+    "markdownSha256": "0641886646d24c0e32420c24dfea782fd74aec12b3127e6256407bde3880d63a",
+    "electronicEditionDate": null,
+    "introductionAuthor": "Hugh J. Courtney",
+    "introductionCopyright": 2005,
+    "editor": "Marcia Merryman means",
+    "credits": [
+      {
+        "sections": [
+          "spiritual-beings-1",
+          "spiritual-beings-2"
+        ],
+        "sourceTitle": "Spiritual Beings in the Heavenly Bodies and in the Kingdoms of Nature",
+        "publisher": "Anthroposophic Press",
+        "copyright": 1992,
+        "translator": null
+      },
+      {
+        "sections": [
+          "elementals-1",
+          "elementals-2"
+        ],
+        "sourceTitle": "Harmony of the Creative Word",
+        "publisher": "Rudolf Steiner Press",
+        "copyright": 2001,
+        "revisedTranslator": "Matthew Barton"
+      },
+      {
+        "sections": [
+          "agriculture-1",
+          "agriculture-2",
+          "agriculture-3"
+        ],
+        "sourceTitle": "Spiritual Foundations for the Renewal of Agriculture",
+        "publisher": "Bio-Dynamic Farming and Gardening Association",
+        "copyright": 1993,
+        "translators": [
+          "Catherine Creeger",
+          "Malcolm Gardner"
+        ],
+        "editorialNotes": "Malcolm Gardner"
+      }
+    ]
+  },
+  "locatorContract": "135 PDF captures of a Kindle edition; columns read left to right; displayed Kindle locations identify whole screens. No printed pagination supplied or inferred.",
+  "sections": [
+    {
+      "id": "frontmatter",
+      "title": "Cover, title, imprint and contents",
+      "pdfStart": 1,
+      "pdfEnd": 4,
+      "kind": "front-matter"
+    },
+    {
+      "id": "introduction",
+      "title": "Courtney’s introduction and notes",
+      "pdfStart": 5,
+      "pdfEnd": 34,
+      "kind": "introduction",
+      "author": "Hugh J. Courtney",
+      "copyright": 2005
+    },
+    {
+      "id": "spiritual-beings-1",
+      "title": "Spiritual Beings I",
+      "pdfStart": 35,
+      "pdfEnd": 44,
+      "kind": "lecture",
+      "anthologyChapter": 1,
+      "ga": "136",
+      "sourceLecture": 1,
+      "date": "1912-04-03",
+      "author": "Rudolf Steiner",
+      "editorHeadnoteCapture": 35
+    },
+    {
+      "id": "spiritual-beings-2",
+      "title": "Spiritual Beings II",
+      "pdfStart": 45,
+      "pdfEnd": 55,
+      "kind": "lecture",
+      "anthologyChapter": 2,
+      "ga": "136",
+      "sourceLecture": 2,
+      "date": "1912-04-04",
+      "author": "Rudolf Steiner",
+      "editorHeadnoteCapture": 45
+    },
+    {
+      "id": "elementals-1",
+      "title": "Elementals I",
+      "pdfStart": 56,
+      "pdfEnd": 66,
+      "kind": "lecture",
+      "anthologyChapter": 3,
+      "ga": "230",
+      "sourceLecture": 7,
+      "date": "1923-11-02",
+      "author": "Rudolf Steiner",
+      "editorHeadnoteCapture": 56
+    },
+    {
+      "id": "elementals-2",
+      "title": "Elementals II",
+      "pdfStart": 67,
+      "pdfEnd": 76,
+      "kind": "lecture",
+      "anthologyChapter": 4,
+      "ga": "230",
+      "sourceLecture": 8,
+      "date": "1923-11-03",
+      "author": "Rudolf Steiner",
+      "editorHeadnoteCapture": 67
+    },
+    {
+      "id": "agriculture-1",
+      "title": "Agriculture I",
+      "pdfStart": 77,
+      "pdfEnd": 95,
+      "kind": "lecture",
+      "anthologyChapter": 5,
+      "ga": "327",
+      "sourceLecture": 4,
+      "date": "1924-06-12",
+      "author": "Rudolf Steiner",
+      "editorHeadnoteCapture": 77
+    },
+    {
+      "id": "agriculture-2",
+      "title": "Agriculture II",
+      "pdfStart": 96,
+      "pdfEnd": 113,
+      "kind": "lecture",
+      "anthologyChapter": 6,
+      "ga": "327",
+      "sourceLecture": 5,
+      "date": "1924-06-13",
+      "author": "Rudolf Steiner",
+      "editorHeadnoteCapture": 96
+    },
+    {
+      "id": "agriculture-3",
+      "title": "Agriculture III",
+      "pdfStart": 114,
+      "pdfEnd": 130,
+      "kind": "lecture",
+      "anthologyChapter": 7,
+      "ga": "327",
+      "sourceLecture": 6,
+      "date": "1924-06-14",
+      "author": "Rudolf Steiner",
+      "editorHeadnoteCapture": 114
+    },
+    {
+      "id": "further-reading",
+      "title": "Further reading",
+      "pdfStart": 131,
+      "pdfEnd": 135,
+      "kind": "bibliography"
+    }
+  ],
+  "captureLedger": [
+    {
+      "capture": 1,
+      "summary": "Cover: correct title, subtitle, Steiner and Courtney; OCR “Biodvnamics” and “Rupotr” are not reliable title/author readings.",
+      "corrections": []
+    },
+    {
+      "capture": 2,
+      "summary": "Title page, seven lectures, SteinerBooks; displayed Kindle location 8/2871. OCR “Heat” must read **Heal**.",
+      "corrections": []
+    },
+    {
+      "capture": 3,
+      "summary": "Imprint: three different translation sources, introduction copyright, editor/headnote authorship and reproduction notice. Do not infer a translator for the 1912 pair.",
+      "corrections": []
+    },
+    {
+      "capture": 4,
+      "summary": "Contents and seven dated anthology chapters; introduction title differs from its opening heading.",
+      "corrections": []
+    },
+    {
+      "capture": 5,
+      "summary": "Introduction begins, attributed to Courtney. Farm-individuality descriptions leave practical differences unexplained; Steiner’s biography and requests for an agriculture course provide Courtney’s framing.",
+      "corrections": []
+    },
+    {
+      "capture": 6,
+      "summary": "Reported seed, forage and livestock problems; mineral fertilizer criticism; nourishment and Earth healing become spiritual aims. These are Courtney’s account of the background.",
+      "corrections": []
+    },
+    {
+      "capture": 7,
+      "summary": "Three distinguishing features; Figure 1 lists preparations 500–508 and brackets 502–507 as compost preparations. OCR garbles the handwritten list; read it from the image.",
+      "corrections": []
+    },
+    {
+      "capture": 8,
+      "summary": "Two horn preparations, six compost preparations and horsetail introduced. Teach the categories and intended polarity, without turning historical descriptions into a modern application protocol.",
+      "corrections": []
+    },
+    {
+      "capture": 9,
+      "summary": "Disputed status of horsetail; reported results and emphasis on doing; explicit caveats about lost context and compiler standpoint.",
+      "corrections": []
+    },
+    {
+      "capture": 10,
+      "summary": "Courtney declares his emphasis on preparations and the unseen nature kingdom. Explains inclusion of 1912 and 1923 lectures and interprets preparations as nourishment for elementals.",
+      "corrections": []
+    },
+    {
+      "capture": 11,
+      "summary": "Practical and spiritual explanations both requested; concern that presentations omit unusual features; biodynamic/organic distinction and a historical narrative involving Pfeiffer and Rodale.",
+      "corrections": []
+    },
+    {
+      "capture": 12,
+      "summary": "Living Earth/cosmos and farm individuality; planting-calendar claims include an admission that some practitioners cannot reproduce results.",
+      "corrections": []
+    },
+    {
+      "capture": 13,
+      "summary": "Tropical, equal-sector sidereal and astronomical constellation systems distinguished; further research explicitly needed; preparations treated as decisive; Pfeiffer’s practical introduction discussed. OCR “topical” should be **tropical**.",
+      "corrections": []
+    },
+    {
+      "capture": 14,
+      "summary": "Koepf and Wildfeuer used to chart increasingly explicit spiritual presentations. Their words are quotations mediated through Courtney, not newly reviewed complete books.",
+      "corrections": []
+    },
+    {
+      "capture": 15,
+      "summary": "Courtney regards horsetail’s omission and reluctance to speak of spirit as limitations; moves into his personal interpretation, prompted by Pfeiffer’s reported conversations with Steiner.",
+      "corrections": []
+    },
+    {
+      "capture": 16,
+      "summary": "Urgency of Earth healing; inverted human/plant correspondence, three human functional systems, and fourfold constitution. The four plant regions are related to four traditional elements, not identified with measured human organs.",
+      "corrections": []
+    },
+    {
+      "capture": 17,
+      "summary": "Figures 2–3 show plant regions and the inverted human analogy; ninefold humanity and four formative ethers introduced. OCR misses much of the diagrams.",
+      "corrections": []
+    },
+    {
+      "capture": 18,
+      "summary": "Figure 4 maps warmth/light/chemical-or-tone/life ethers to fire/air/water/earth. Figure 5 connects geographic, mineral and preparation polarities. These are Courtney’s interpretive diagrams.",
+      "corrections": []
+    },
+    {
+      "capture": 19,
+      "summary": "Europe, Australia and the Americas used to argue for different preparation emphases; reports of practitioners and disagreement about silica use. Do not generalize this into a verified geographic rule.",
+      "corrections": []
+    },
+    {
+      "capture": 20,
+      "summary": "Horsetail interpreted through comet/Moon symbolism; claims about rain and moisture admitted to be difficult to prove; argues for the nine as a totality.",
+      "corrections": []
+    },
+    {
+      "capture": 21,
+      "summary": "Figure 6 compares horsetail and comet form; geographic Lucifer/Ahriman interpretation, Asuras/Sorath and the number 1998 enter Courtney’s account. These belong in the advanced source explanation.",
+      "corrections": []
+    },
+    {
+      "capture": 22,
+      "summary": "Predicted Earth changes and Courtney’s belief that preparations counter them; Shoreline issue 4 and a projected celestial geography are introduced. The predictions are not evidence of preparation efficacy.",
+      "corrections": []
+    },
+    {
+      "capture": 23,
+      "summary": "Dixon’s mediated Mexican-mysteries narrative; human fear, elementals and nine levels of subnature used to develop the introduction’s theological argument. Keep attribution and avoid presenting it as established cultural history.",
+      "corrections": []
+    },
+    {
+      "capture": 24,
+      "summary": "Vitzliputzli/music narrative; Figure 7’s nine layers and human correspondences; Powell’s astrosophical chronology introduced. The difficult diagram is checked visually, not copied from corrupted OCR.",
+      "corrections": []
+    },
+    {
+      "capture": 25,
+      "summary": "Powell’s twelve-year chronology of etheric Christ/subnature connected to historical events. This is the interpretation presented by Courtney, not an independently verified chronology or an Agriculture Course statement.",
+      "corrections": []
+    },
+    {
+      "capture": 26,
+      "summary": "Radiation, technology and contrails interpreted as cosmic screening; preparations said to heal Earth/atmosphere. Distinguish personal reports and suppositions from demonstrated physical mechanisms.",
+      "corrections": []
+    },
+    {
+      "capture": 27,
+      "summary": "Malsch foundation-stone quotation and Keyserlingk conversation mediated through Powell. Do not silently convert reported speech into a directly consulted Steiner lecture.",
+      "corrections": []
+    },
+    {
+      "capture": 28,
+      "summary": "Courtney connects preparations to subnature; Powell’s technological/cultural history and 2004 chronology continue. Preserve the mediation chain and avoid turning examples into judgments about populations.",
+      "corrections": []
+    },
+    {
+      "capture": 29,
+      "summary": "Mediated At the Gates of Spiritual Science quotations; human development/Earth interior; Beatitudes offered as another counter-image to subnature. These wider works have not been read in full here.",
+      "corrections": []
+    },
+    {
+      "capture": 30,
+      "summary": "Cooperation versus “War of All against All”; Courtney’s imagined nine-preparation channel to the Earth’s core; Michael’s sword interpreted through preparations. His wording explicitly identifies this as the picture in his mind.",
+      "corrections": []
+    },
+    {
+      "capture": 31,
+      "summary": "Novalis/Christ quotation mediated through Steiner; Klett’s account of preparations, new elementals and selfless will. Attribute the long quotation to Klett as quoted by Courtney.",
+      "corrections": []
+    },
+    {
+      "capture": 32,
+      "summary": "Klett quotation closes; Courtney concludes with human responsibility and all nine preparations; notes begin with three Agriculture translations. Source imperatives are studied as book content.",
+      "corrections": []
+    },
+    {
+      "capture": 33,
+      "summary": "Introduction notes 4–27: source editions, tiny-dose claim, context for calendars and the cited practitioners; cross-edition page references are not pages of this screenshot PDF.",
+      "corrections": []
+    },
+    {
+      "capture": 34,
+      "summary": "Introduction notes 28–46: wider spiritual sources, Shoreline, Keyserlingk, Beatitudes, Michael and Klett. OCR “W2” in note 45 is **72**.",
+      "corrections": []
+    },
+    {
+      "capture": 35,
+      "summary": "The first section begins with an editorial synopsis of physical and spiritual participation, the schooling of the soul, and gnomes/undines. Steiner’s lecture begins in column 3 after the dated marker: he presupposes a receptive feeling for spiritual science and proposes differentiated spiritual beings behind sensory nature.",
+      "corrections": "Three columns, read left → middle → right. The synopsis is not Steiner’s lecture speech; imprint 3 attributes the short introductions to Marcia Merryman means. OCR “STEINER!” is STEINER plus footnote 1; date is April 3, 1912. Normalize split words only. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 36,
+      "summary": "Steiner includes sensations, thoughts referring to outer perception, and outward human actions in the physical world; moral spiritual impulses can act within that physical field. He describes spiritual science as soul self-education that changes interests and attention, beyond accumulating knowledge.",
+      "corrections": "Running title and Kindle location occur inside the Markdown flow; omit them from prose. The self-education sentence in column 3 is verified for Lesson 2. Ordinary line-wrap hyphens only; no diagram.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 37,
+      "summary": "A wholehearted link with spiritual science already begins transformation, according to Steiner, before formal occult development. The analogy of newly seeing colours explains a changed world-experience. He rejects mere sentimentality and claims that trained vision encounters distinct beings beyond sensory/intellectual access.",
+      "corrections": "OCR “ina” and “toa” are “in a” and “to a” in native columns 1–2. Retain the distinction between self-education and a claim of occult perception. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 38,
+      "summary": "The human etheric/life body is described as a single connected form; the etheric world of nature is infinitely differentiated. Steiner introduces “moral perception” as the route to that world and begins the example of surrendering attention to a cloudless blue sky.",
+      "corrections": "All three native columns agree with the substantive OCR. The last sky-example sentence continues at 39. “Moral” here includes inward devotion and feeling, not simply approving/disapproving people. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 39,
+      "summary": "The blue impression is said to disappear into devotion to infinity; green plant growth is said to yield an inward understanding of creative thought. Steiner presents these as conditional experiences available to a human soul and as transitions from sensory to moral impressions.",
+      "corrections": "OCR “acommon” is “a common” in column 1. The first sentence completes 38. These are the lecturer’s stated results; they are not reported outcomes of a course experiment. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 40,
+      "summary": "White snow is connected with a feeling for matter; a tone and its octave with the concord of wish and reason. The withdrawal of sensory impressions is then linked to a deeper experience and disclosure of beings behind the mineral kingdom.",
+      "corrections": "Final “The etheric” continues into 41. Sound example is a tone and its octave, not two arbitrary musical notes. Column order is intact apart from headers; no figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 41,
+      "summary": "The elemental world is a plurality. First-class beings have definite outlines; second-class beings continually transform and require mobile receptivity. Underground warmth and temperature differences provide the initial sensory conditions for the first class.",
+      "corrections": "Preserve the two distinct descriptions: definite form versus metamorphosis. Column 3’s final “disre-” continues as “gard” at 42, yielding “disregard.” The native first-column phrase is “self enclosed”; do not claim a missing hyphen is an OCR correction. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 42,
+      "summary": "After setting aside underground sensory impressions, Steiner reports imaginatively perceived, sharply outlined beings active especially in metals. He calls his method empirical in the sense of reporting occult observations before theory, rather than starting from fairy tales. Mist, spray, rain and vapour introduce the transforming second class.",
+      "corrections": "OCR “sketch—-so” contains an extra hyphen; native column 2 has an em dash before “so.” Column 1 completes “disregard.” “Empirically” is Steiner’s characterization of this occult reporting, not evidence of a controlled modern experiment. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 43,
+      "summary": "Transforming beings are associated with spring shoots and are said to descend from above, drawing plants out of the earth, rather than merely rising from below. Steiner contrasts this with what he says physical science recognizes. He promises to describe classes 3/4 next and assemble the theory after the observations.",
+      "corrections": "Keep the historical claim about physical science attributed; it is not a description of present botany. Last sentence ends on 44. “Symbol” in the cloud comparison does not reduce all asserted beings to metaphors. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 44,
+      "summary": "The lecture’s last sentence completes the plan to explain the spiritual foundations of the physical universe. Footnote 1 identifies Lecture 1 of the ten-lecture Helsinki cycle Spiritual Beings in the Heavenly Bodies and in the Kingdoms of Nature, April 3–14, 1912, GA 136.",
+      "corrections": "Native page has only the end of the sentence and the source note in column 1; other columns are blank. The running title and Kindle percentage are interface/parataxt, not lecture content. No missing prose or diagram.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 45,
+      "summary": "Spiritual Beings II opens with the editor’s synopsis: sylphs/air, salamanders/fire, the Earth’s astral rhythms and planetary spirit. Steiner’s dated lecture then resumes the previous two classes and introduces beings encountered through the fading plant world and fruiting.",
+      "corrections": "Steiner begins near the bottom of column 2 after the ornament and marker, then continues in column 3. OCR “STEINERLAPRIL” merges STEINER, superscript footnote 1 and APRIL. Native date is April 4, 1912. Elemental names in the synopsis have the editor’s voice. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 46,
+      "summary": "The third class flashes and vanishes without a stable form, in air as free of moisture as possible, receiving sunlight and warmth and associated with maturation. Earth, water and air are distinguished. The fourth class is introduced as guardians of seeds/germs after fruiting.",
+      "corrections": "The text associates air spirits with ripening as well as fading; avoid assigning all ripening only to fire spirits. The final guardians sentence continues at 47. No substantive OCR uncertainty or figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 47,
+      "summary": "Fire/heat spirits are said to preserve seed continuity and transform environmental warmth into the living heat needed by the germ. Living cooperation among all four classes constitutes the Earth’s etheric body, unlike the individual’s unitary etheric body. Steiner asks whether the Earth also has an astral body.",
+      "corrections": "Retain the causal “lifeless warmth” → “living heat” assertion as the source’s claim. “Four elements” is the occult classification; do not relabel it as modern chemical elements. Final etheric-body clause continues at 48. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 48,
+      "summary": "Deeper exercises, explicitly linked to How To Know Higher Worlds, are said to enable consciousness during sleep beyond the physical and etheric bodies. A higher order directs the nature spirits’ seasonal work, differently in different regions, including north/south.",
+      "corrections": "The lecture’s bodily separation and conscious-sleep account is a spiritual claim, not a sleep-study finding or an instruction to reduce sleep. Preserve the regional qualification; no single seasonal calendar is prescribed here. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 49,
+      "summary": "Directing spirits collectively constitute the Earth’s astral body. Unlike life-giving elementals encountered as surroundings, these spirits are described through immersion and soul-like thought, feeling and will. They organize seasonal, daily and other recurring cycles, and are called spirits of periods or cycles of time.",
+      "corrections": "OCR “asa” is “as a” in column 1. The astronomical/occult comparison at the end continues to 50. The phrase “In English this would be” belongs to the supplied English text and is not a translator credit. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 50,
+      "summary": "Steiner expressly makes these beings bearers of the forces rotating Earth and regulating rhythms. Awakening the astral body while the I remains asleep is said to threaten inner cohesion in a plural spiritual world; properly ordered development must preserve two ordinary capacities.",
+      "corrections": "OCR “acertain” and “Ina” become “a certain” and “In a.” Native column 3 actually prints “Dionysius”; record that spelling rather than silently changing it to Dionysus. Two precautions are named on 51, not absent from the text. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 51,
+      "summary": "Memory means retaining present-life events and estimating one’s spiritual merit only from deeds already accomplished; imagined grand reincarnation identities and hoped-for future acts do not justify extra merit. Conscience is the second capacity: training must not weaken honesty and moral seriousness.",
+      "corrections": "Native text itself prints “one-self”; do not silently treat it as a line-wrap error. Final “con-” completes as “science” at 52: “conscience,” distinct from “consciousness.” No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 52,
+      "summary": "Memory and conscience together are said to keep the I awake with the astral body. The experience then goes beyond particular earthly regions toward the undivided planetary spirit; following the Sun spiritually during bodily sleep illustrates belonging to the whole planet.",
+      "corrections": "First word completes “conscience” from 51. The repeated “I” must not be lost or read as numeral 1. The Sun passage is explicitly an occult-consciousness account, not ordinary nocturnal visual observation. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 53,
+      "summary": "Union with the planetary spirit is described as a beginning, initially as a whole rather than all its differentiated beings. The planetary spirit relates Earth to other heavenly bodies, while rhythm spirits direct internal recurring changes. The order is sense world → nature spirits → cycle spirits → planetary spirit.",
+      "corrections": "Lesson 3 quote is a complete native sentence in column 3. The apparent whole/parts difference is explicit: first whole experience, later detailed differentiation. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 54,
+      "summary": "Nature forces are called imprints of nature spirits, and laws of nature imprints of the directing cycle spirits. Steiner labels these external appearances maya rather than ultimate realities. Poets, artists and some philosophy seek the meaning of nature, associated with the planetary spirit’s imprint.",
+      "corrections": "Do not soften the ontological claim into merely inspirational poetry: the lecturer says forces and laws are maya. Equally, do not present his criticism of contemporary science as an established current scientific verdict. Last sentence continues at 55. No figure.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 55,
+      "summary": "Four outward imprints are distinguished: sense-world appearance, natural forces, natural laws, and nature’s purpose. The final analogy maps sense world/physical body, nature spirits/etheric body, cycle spirits/astral body, and planetary spirit/I. The planetary spirit perceives and adjusts in fellowship with other heavenly spirits. Footnote 1 confirms GA 136 Lecture 2.",
+      "corrections": "OCR “1,” is the native numbered footnote “1.” Native date range is April 3–14, 1912; restore spacing before GA 136. This is a complete ending plus note, not a diagram; column 3 is largely blank after the note.",
+      "nativeInspected": true,
+      "diagram": "None in native capture."
+    },
+    {
+      "capture": 56,
+      "summary": "Chapter 3, Elementals I: the editorial headnote summarizes the four nature-being groups, their animal affinities or aversions, plant growth and return of ideal form. The divider in column 3 introduces Steiner’s lecture dated November 2, 1923; its opening says visible and invisible worlds form a whole.",
+      "corrections": [
+        "Treat all text before the ornamental divider and lecture credit as editorial headnote, not a verbatim Steiner lecture. Restore OCR “Ina” to native “In a”; ordinary line-wrap hyphenation may be joined. The superscript note after Steiner’s credit is omitted in the OCR."
+      ]
+    },
+    {
+      "capture": 57,
+      "summary": "Steiner contrasts animal will with the mystery of plant formation, rejects treating nature beings as merely poetic names, and claims spiritual vision through Imagination and Inspiration discloses root spirits. Gnomes mediate mineral substance to roots and have well-being in rocks and ores.",
+      "corrections": [
+        "Read columns 1→2→3; the running title and Kindle location are interface material. Root spirits’ sense-and-intellect description continues on capture 58."
+      ]
+    },
+    {
+      "capture": 58,
+      "summary": "Gnomes are described as entirely sense and immediate intellect. Light, warmth, air and stars send cosmic ideas through plants into the soil; especially from autumn through winter the gnomes preserve and carry these ideas through rocks and metals. Their immediate understanding is contrasted with human reasoning.",
+      "corrections": [
+        "The page opens with the end of “spirituality” from capture 57. Join that continuation for prose reading; do not quote its isolated fragment."
+      ]
+    },
+    {
+      "capture": 59,
+      "summary": "The gnomes’ ironic speeches dramatize immediate knowledge. Their aversion to becoming frogs or toads preserves their non-earthly nature; this antipathy supplies the thrust that pushes plants upward from the Earth.",
+      "corrections": [
+        "The gnomes’ speeches are reported personified speech within Steiner’s account. They are not course instructions to reject logic or literally put one’s nose in soil."
+      ]
+    },
+    {
+      "capture": 60,
+      "summary": "Undines inhabit moist air and etheric water around leaves. Their changing dreamlike forms avoid permanent fish form; they bind, release, combine and separate substances as the “chemists” of plant life.",
+      "corrections": [
+        "The page is continuous lecture prose in three columns. Preserve the difference between dreamlike consciousness and an account of ordinary human dreaming."
+      ]
+    },
+    {
+      "capture": 61,
+      "summary": "The plant enters the sylphs’ air-and-warmth domain. Bird flight creates spiritual sounding currents and cosmic music; sylphs absorb light and gain an externally kindled ego-consciousness through birds. Jean Paul’s human I-experience is a comparison. Gnome/amphibian and undine/fish aversion contrast with sylph/bird sympathy.",
+      "corrections": [
+        "Normalize native “in a” where OCR joins “ina”. Jean Paul is explicitly named; do not credit his reported statement as Steiner’s original aphorism."
+      ]
+    },
+    {
+      "capture": 62,
+      "summary": "Sylphs convey light into plants and work with undine chemistry to weave ideal or archetypal form. Autumn withering returns this form to the soil for gnome perception. Steiner then states and challenges the botanical account of pollen, stigma, carpel and fertilization in the flower.",
+      "corrections": [
+        "Normalize OCR “aremarkable” to native “a remarkable”. The description of conventional fertilization is the position Steiner goes on to dispute, not his own final account."
+      ]
+    },
+    {
+      "capture": 63,
+      "summary": "Fire spirits gather cosmic warmth and use pollen as “little airships”. Steiner relocates fertilization to the winter soil: a heavenly male seed meets an ideal maternal plant form guarded by gnomes. He calls Earth mother and heavens father literally, describes the maternal form through cambium, and calls gnomes spiritual midwives.",
+      "corrections": [
+        "Preserve this explicit alternative account rather than silently substituting ordinary botany. It is attributed spiritual explanation, not an established botanical mechanism or planting instruction."
+      ]
+    },
+    {
+      "capture": 64,
+      "summary": "The four ether activities are named: gnomes/life, undines/chemical, sylphs/light, fire spirits/warmth. Warmth’s fruit unites with life below ground. Steiner interprets Goethe’s objection to botanical “marriages” as an instinctive anticipation, then relates fire spirits’ ego and warmth-bearing activity to butterflies and insects.",
+      "corrections": [
+        "Goethe’s reaction is reported and interpreted by Steiner; it is not an independently supplied Goethe text. Four ether names are explicit in native column 1."
+      ]
+    },
+    {
+      "capture": 65,
+      "summary": "Fire spirits form the spiritual aura of bees, wish to unite with insects, support the outward radiation of spiritualized substance and the descent of humans into incarnation, and carry warmth downward to awaken ideal plant form. The closing description traces upward gravity and gnome impulse, leaf chemistry, descending sylph light and fire warmth.",
+      "corrections": [
+        "This capture contains a verbal colour-and-force picture, not a printed diagram. The hyphenated “fire spir-” at its end continues as “its” on capture 66; read “fire spirits” across the boundary."
+      ]
+    },
+    {
+      "capture": 66,
+      "summary": "Elementals I concludes with two streams: upward density, gravity and magnetism associated with gnome/undine antipathy, and descending sylph love and fire-spirit sacrifice. Plant life expresses their interworking. Steiner repeats his alternative fertilization claim; note 1 identifies GA 230 lecture 7.",
+      "corrections": [
+        "The opening “its” continues “fire spir-” from capture 65. The chapter ends here; the empty third column is not missing text. Native column 2 provides the selected 19-word passage; Kindle location 1363 of 2871, 47%."
+      ]
+    },
+    {
+      "capture": 67,
+      "summary": "Chapter 4, Elementals II: the editorial headnote summarizes animal complements, sleep/waking encounters and beneficent versus malevolent beings. The divider in column 3 introduces Steiner’s November 3, 1923 lecture, beginning with the invisible companions of visible nature.",
+      "corrections": [
+        "All headnote text before the divider is editorial. Its simplified animal descriptions are not an independent zoological reference. The lecture credit’s superscript note is omitted by OCR."
+      ]
+    },
+    {
+      "capture": 68,
+      "summary": "Steiner says physical and etheric bodies limit ordinary access to elementals. Gnomes complement lower animal forms with clarity, spiritual support and continually renewed bodies fashioned from gravity; antipathy prevents their taking those animal forms. Human head development during ancient Saturn is part of the comparison.",
+      "corrections": [
+        "The categories “lower” and “higher”, skeletal assertions and ancient-Saturn history belong to Steiner’s spiritual-evolutionary account; do not rewrite them as neutral current anatomy."
+      ]
+    },
+    {
+      "capture": 69,
+      "summary": "Gnomes must remain fully attentive to preserve themselves and seek independence. On falling asleep, day memories and organ symbols mask the encounter; unprepared perception would reveal destructive forces as death-like gnome images. Steiner references his Goetheanum essays on dreams.",
+      "corrections": [
+        "The native dream-reference superscript is visible; OCR turns the marker into an asterisk. Preserve attribution to the referenced essays without treating ordinary dream symbols as confirmed elemental sightings."
+      ]
+    },
+    {
+      "capture": 70,
+      "summary": "The gnome entombment image belongs specifically to falling asleep. Undines complement more differentiated animal forms through external armour and scales. Deep sleep, when made transparent through Inspiration and clear consciousness, is described as a sea of changing undine forms.",
+      "corrections": [
+        "Join the opening “as-tral” continuation from capture 69. “Dreamless” sleep is explicitly qualified by the claimed illuminated consciousness; ordinary unconscious sleep is not equated with this perception."
+      ]
+    },
+    {
+      "capture": 71,
+      "summary": "Gnomes and undines complement animals upward toward the head; sylphs supply birds a spiritual metabolic/limb complement. Birds kindle sylph ego-consciousness. Unmasked awakening dreams reveal light-like sylphs; fire spirits complement the tenuous butterfly.",
+      "corrections": [
+        "The page ends mid-“be-” in “before”, completed on capture 72. Preserve the distinction between physical bird form and the spiritual complement rather than claiming actual added physical limbs."
+      ]
+    },
+    {
+      "capture": 72,
+      "summary": "An enlarged butterfly and proportioned fire spirit would resemble a winged human being. Gnome/undine complements move upward, sylph/fire complements downward. Conscious observation of oneself as thinker reveals thoughts as world thoughts, mirrored in the head; Steiner links this perspective to An Outline of Esoteric Science.",
+      "corrections": [
+        "Native notes distinguish the Goetheanum-essay reference marked 2 from An Outline of Esoteric Science marked 3. OCR wrongly renders the latter as 2. This is a prose imaginative construction; no illustration is printed."
+      ]
+    },
+    {
+      "capture": 73,
+      "summary": "Beneficent elementals chiefly serve plants and minerals; malevolent ones transfer their activity into inappropriate realms. Gnomes and undines generate parasites in humans/animals, yet Steiner argues their forces are also necessary for brain formation. He introduces metabolic/limb, rhythmic and nerve/sense systems, then brackets the rhythmic system for the comparison.",
+      "corrections": [
+        "OCR duplicates “the” in “whereas the the former”; native has one “the”. “Malevolent” is not a wholly separate kind of substance: the lecture develops misplaced activity alongside necessary constructive forces."
+      ]
+    },
+    {
+      "capture": 74,
+      "summary": "Steiner describes a spiritual brain below and a physical brain above, calling the brain a higher metamorphosis of elimination. He connects this with intestinal/brain disease while explicitly declining to glorify historical quackery. Gnome/undine destructive forces contrast with sylph/fire regenerative forces; displaced sylph activity introduces belladonna.",
+      "corrections": [
+        "Restore native “and a” and “as a” where OCR joins “anda” and “asa”. These physiological and cure claims are historical attributed content; this review supplies no diagnosis or treatment."
+      ]
+    },
+    {
+      "capture": 75,
+      "summary": "The “displacement of spheres” explains belladonna poison as aerial sylph activity brought too far down; thrushes and blackbirds can assimilate what poisons earthbound beings. Fire-spirit activity produces almond fruit but, if activity meant for the shell penetrates the kernel, produces poisonous almonds. Illness is connected with parasitic and poisonous forces.",
+      "corrections": [
+        "The bird-nourishment contrast is essential to the spatial argument. Neither identification from this prose nor tasting belladonna/almonds is a study exercise or a food-safety procedure."
+      ]
+    },
+    {
+      "capture": 76,
+      "summary": "The conclusion links growth, decay and illness to elemental activity, interprets Brahma/Vishnu/Shiva through overlapping pairs, and returns to interaction across the threshold. Nature’s forms are signs of companions between death and new birth. Notes identify GA 230 lecture 8, On the Life of the Soul and Creeger’s An Outline of Esoteric Science.",
+      "corrections": [
+        "The highlighted native column 3 is legible despite badly corrupted OCR: “new birth. We see of the creatures here on Earth between birth and death only their crude, dense parts. We learn to recognize their supersensible nature only when, with insight and understanding, we enter into this supersensible world.” Restore this from the image rather than guessing from OCR. Selected quote is in clean column 2; Kindle location 1574 of 2871, 55%."
+      ]
+    },
+    {
+      "capture": 77,
+      "summary": "The editorial headnote presents agriculture within material and spiritual relationships, food as vitality supporting human development, and a winter manure/summer quartz polarity. Steiner's lecture then begins in column 3: narrow investigation cannot, he argues, explain the whole activity of living beings. The date is printed here.",
+      "corrections": [
+        "Keep the two-column headnote separate from the lecture. Remove interface text and line-end hyphenation; the screen's location is not a printed page number."
+      ],
+      "kindleLocationDisplayed": 1598,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 78,
+      "summary": "Steiner compares reconstructing a person from a finger and earlobe with explaining agriculture through isolated details. He uses changing protein estimates, alleged toxicity and long-term arteriosclerosis as his illustration of inadequate short-term inquiry. He rejects cheap criticism of either science or spiritual science, then proposes that food chiefly supplies forces rather than deposited bodily substance.",
+      "corrections": [
+        "These are the lecturer's historical nutrition assertions, including the numerical claims; they are not a current dietary standard supplied by this course. The column sequence carries the argument across the screen."
+      ],
+      "kindleLocationDisplayed": 1621,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 79,
+      "summary": "The distinction between forces and substance becomes explicit. Steiner claims that food activates movement and will, while most bodily substance is taken in through respiration, skin and senses and subsequently condensed, with bodily substance said to renew every seven or eight years. He credits experiments as useful, but criticizes the theories drawn from them. Understanding a thing's nature is compared with understanding a comb before using it. The tree comparison begins.",
+      "corrections": [
+        "Preserve the strong claim about bodily substance instead of replacing it with a generic statement about healthy nutrition. The comb is an explanatory analogy; the tree discussion continues on 80."
+      ],
+      "kindleLocationDisplayed": 1644,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 80,
+      "summary": "A humus-rich mound and a tree are compared. Soil containing decomposing organic matter is said to contain living ether and to approach a plant sheathing; bark is a further development of this relation. Life continues from the plant's roots into the soil. Fertilizing therefore means enlivening the soil so the plant can reach fruiting within a living environment; he calls plant growth slightly parasitic on living soil.",
+      "corrections": [
+        "The text says Steiner draws on the blackboard and describes mound-left/tree-right. This capture reproduces the verbal description, not a drawing. OCR `1am` is `I am`; `ther` is `there`."
+      ],
+      "kindleLocationDisplayed": 1665,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 81,
+      "summary": "Black earth is named as a soil requiring less added enlivening. Steiner asks for a personal relation to manure and then distinguishes an organism's outward and inward streams. His odor account says a healthy organism retains its life-associated smell inside its boundary; plants are described as absorbing rather than predisposed to emitting odors, while a fragrant meadow supplies surrounding influences. Nitrogen must permeate soil so life follows particular lines of force.",
+      "corrections": [
+        "The footnote marker after black earth is 2. OCR `Lillustrated` is `I illustrated`. The odor account is the lecture's account of inner/outer activity, not an ordinary definition of organism health."
+      ],
+      "kindleLocationDisplayed": 1687,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 82,
+      "summary": "Mineral fertilizers are said to act on the watery element without enlivening the earthy component. Compost contains weaker but more stable etheric/astral activity than manure. Excess etheric activity can inhibit astrality's relation to nitrogen; lime, including quicklime in the proposed example, is said to take up etheric activity and oxygen, allowing astrality to act directly on earthiness. Steiner connects this to leaf/stem-like processes and energetic animal fodder.",
+      "corrections": [
+        "Retain the distinction between watery and earthy elements, and between etheric and astral activity. The lecture's compost ingredients and lime proposal are source content; these notes do not turn them into a preparation instruction."
+      ],
+      "kindleLocationDisplayed": 1709,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 83,
+      "summary": "Insight should develop the farmer's feeling for individual cases. Layers and covering in compost are explained as retaining nitrogen and astrality rather than letting them escape in odors. The lecture then contrasts horns/hoofs, which turn formative streams inward, with antlers, which discharge streams into an animal's surroundings. The stag is described through this outward sensory relation.",
+      "corrections": [
+        "OCR `stagisa` is `stag is a`. `Hoofs` is the source's spelling. A stream here can mean a stream of force, not a liquid or gas."
+      ],
+      "kindleLocationDisplayed": 1730,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 84,
+      "summary": "Cow horns and hoofs are said to send astral/etheric activity toward digestion; a brief foot-and-mouth-remedy claim belongs to this reasoning. Manure carries the animal's transformed etheric, astral, nitrogen-bearing and oxygen-bearing activity into soil, including its mineral component. Small organisms are treated as signs of manure's condition rather than the fundamental source of its quality.",
+      "corrections": [
+        "The original prints a syntactically irregular passage after `horns and hoofs.` and before `needs to appreciate this relationship`. Do not silently invent a missing subject. The medical mention remains an attributed claim, without a treatment protocol."
+      ],
+      "kindleLocationDisplayed": 1752,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 85,
+      "summary": "Steiner rejects bacterial inoculation as a fundamental improvement of manure. He explains the winter-buried horn as retaining the horn's inward-reflecting function and receiving the Earth's winter etherizing/astralizing activity. Dornach manure is described as initially odorless after retrieval. Dilution and alternating stirring are explained as intimate permeation, joined with the participant's personal relation to nature.",
+      "corrections": [
+        "OCR `1 first look` is `I first look`. The original itself prints `The burden of labor is not be very great`; do not quote a silently repaired version as exact. The local window/footpath quantity is experiential, not a universal area specification."
+      ],
+      "kindleLocationDisplayed": 1773,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 86,
+      "summary": "The manure preparation is directed to soil; a second horn preparation with quartz or orthoclase spends summer underground and is directed to plants. The lecture describes manure pushing from below and the mineral preparation pulling from above. It then rejects crop bulk and profit as sufficient measures of success: the intended standard is nourishment supporting human life.",
+      "corrections": [
+        "Orthoclase's footnote is **3**, not OCR's 2; the grain/preparation reference is **4**. Later labels 500/501 are explained in the editorial notes on 95, not introduced as numbered names in this lecture paragraph."
+      ],
+      "kindleLocationDisplayed": 1795,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 87,
+      "summary": "The lecture concludes by making the whole human being the starting point and standard of its agricultural proposals. A new **Discussion** follows. Dilution across larger areas is explicitly left for further investigation, with varied Dornach examples. Steiner then argues that hand stirring imparts human movement and feeling and compares this with the preparation of Ritter remedies.",
+      "corrections": [
+        "Preserve the lecture/discussion boundary and the anonymous questioner's voice. The Ritter footnote marker is 5; the OCR `>` is not part of the remedy name."
+      ],
+      "kindleLocationDisplayed": 1817,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 88,
+      "summary": "The discussion continues the medicinal analogy: Steiner attributes an effect to the doctor's enthusiasm and predicts weaker effects from machine preparation. The practical mixing question distinguishes intimate permeation from merely adding more water. Asked about particles, Steiner initially answers the biological concern: the proposed effect is dynamic and radiant rather than chiefly substantial.",
+      "corrections": [
+        "Native italics distinguish audience questions from Steiner's replies. The question about spraying hardware has not yet been answered; the clarification comes at 89c1."
+      ],
+      "kindleLocationDisplayed": 1840,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 89,
+      "summary": "A questioner clarifies concern for the sprayer, and Steiner accepts a strainer. He says weights and measures still need working out, and that horn reuse has not been tested. He adds locality and hemisphere claims, prefers local horns, and asks for experiment with cow age. A bracketed report describes a blackboard indication of horn size.",
+      "corrections": [
+        "OCR's `£` after the weights-and-measures sentence is footnote **6**. The bracketed size report is a reported drawing, not an image reproduced on the capture. Native spelling is `Allgäu`; restore the missing spacing in `on a`."
+      ],
+      "kindleLocationDisplayed": 1862,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 90,
+      "summary": "Steiner specifies the female cow in his horn account. He distinguishes sowing dates for reproductive and nutritive tendencies, postpones a fuller account, and treats sand and rainfall effects as untested. His storage reply downplays aggressive cleaning and distinguishes dirt from a preservative influence. Seeds already have the required chaos; manuring needs support.",
+      "corrections": [
+        "OCR `Amore` is `A more` and `reommend` is `recommend`. The cleaning and remedy analogy belongs to the historical discussion; it is not a general hygiene policy for readers."
+      ],
+      "kindleLocationDisplayed": 1885,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 91,
+      "summary": "Silica is connected with receiving cosmic influence, although Steiner says extra intervention is unnecessary here. Wheat and sainfoin/legumes are suggested as comparative research subjects. He distinguishes storing the concentrated horn contents from storing an already diluted mixture. Fine machine spraying is accepted: he says the etheric/astral forces are firmly bound. Mineral-filled summer horns have a different storage account.",
+      "corrections": [
+        "Keep the answer about **machine spraying** distinct from the earlier preference for **hand stirring**. Normalize `a new` spacing and line-end splits only; the source's `silicious` spelling need not be substituted in an exact quote."
+      ],
+      "kindleLocationDisplayed": 1908,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 92,
+      "summary": "Horns need not be buried on every plot later treated. Steiner does not impose a general ban on farm machinery, though he criticizes constant pursuit of newer equipment. He describes excessive manure concentration through rampant potato growth and rank patches, extends his restraint to fodder/spinach, and tentatively proposes investigation of horse manure.",
+      "corrections": [
+        "The horse-mane explanation continues on 93c1. Do not summarize this page as an anti-machinery rule or treat larger growth as the lecture's measure of success."
+      ],
+      "kindleLocationDisplayed": 1930,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 93,
+      "summary": "The horse-mane suggestion is completed. Steiner prefers manuring before sowing but acknowledges a late trial still awaiting results; he limits horn reuse. Asked who should do the work, he makes a stronger claim than personal attentiveness: meditation changes a person's relation to nitrogen's imaginations and plant growth. He also affirms possible parasite control through seasonally timed concentration, while calling the subject delicate.",
+      "corrections": [
+        "Preserve these spiritual causal assertions as Steiner's claims rather than recasting them as ordinary gardening care. The account of midwinter/midsummer concentration continues on 94."
+      ],
+      "kindleLocationDisplayed": 1952,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 94,
+      "summary": "Winter and summer concentration are distinguished. Steiner recalls a lost peasant philosophy, dialects and almanacs as a source of detailed understanding of nature. Asked to scale treatment by feeling alone, he instead calls for rational calculation: experiential results should become figures and usable tables, with respect for others' views. A lime question begins.",
+      "corrections": [
+        "OCR `Iam` is `I am`. The native audience question and answer run across columns 2–3. His appreciation of feeling does not remove the subsequent demand for calculable communication."
+      ],
+      "kindleLocationDisplayed": 1974,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 95,
+      "summary": "Soil differences qualify the lime answer; turning and covering compost and a brief potash-magnesia answer follow. The final reply expressly says horn-manure fertilizing supplements ordinary manuring. Editorial notes identify GA 327 lecture 4, explain black earth and feldspar, name preparations 500/501, distinguish Marie Ritter's photodynamic remedies, and explain the Swiss bucket and regional measures.",
+      "corrections": [
+        "The last answer starts on 95c1 and ends on 95c2, above the rule separating editorial notes. OCR distorts the feldspar formula; use the native image for the formula. The continuation of note 6 in column 3 is not a new lecture paragraph."
+      ],
+      "kindleLocationDisplayed": 1996,
+      "nativeColumnsReviewed": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "capture": 96,
+      "summary": "Chapter 6 headnote introduces soil exhaustion and six compost preparations; its claims about sulfur/potash, calcium, nitrogen/iron, silica and phosphorus precede the lecture. Steiner's June 13 lecture starts in column 3: cow-horn preparations enhance ordinary manuring, and soil around roots is presented as a living continuation of plant growth. The bark/mound comparison recalls the previous lecture.",
+      "corrections": [
+        "Lecture heading superscript is 1, not OCR 4. Columns 1–2 are Marcia Merryman means's headnote, not Steiner's lecture."
+      ]
+    },
+    {
+      "capture": 97,
+      "summary": "Steiner asks spiritual science to acknowledge legitimate modern achievements while opposing materialistic premises. Harvest exports forces needing replenishment. The flies/dirty-room analogy treats microorganisms as consequences or indicators of manure processes rather than their determining cause; he challenges deliberate inoculation and asks for larger living relationships.",
+      "corrections": []
+    },
+    {
+      "capture": 98,
+      "summary": "Criticism should be accompanied by positive proposals. Inorganic additions supposedly enliven the soil's watery component rather than the solid earth; conditioned organic matter is proposed instead. Steiner contrasts conventional essential/stimulant lists and asserts rain brings silicic acid, lead, mercury and arsenic, whereas phosphorus, potash and lime require manuring.",
+      "corrections": []
+    },
+    {
+      "capture": 99,
+      "summary": "Manuring should allow plants to receive tiny cosmic contributions and take up substances, rather than only increase chemical abundance. Living forces take priority over material substances in the argument. Steiner invokes Lili Kolisko's small-quantity investigations as scientific support and says cow-horn preparations supplement normal manure. Further additives should support nitrogen retention and vitality.",
+      "corrections": [
+        "The reference attached to Kolisko is note 2; it belongs to the editorial apparatus, not to the quoted sentence."
+      ]
+    },
+    {
+      "capture": 100,
+      "summary": "Most plants might have substitutes, but one exception is announced. Carbon, hydrogen, oxygen, nitrogen and sulfur should cooperate with potash. Yarrow/Achillea millefolium is interpreted through sulfur, spiritual activity, potash and protein formation; its presence is said to help nearby crops. The lecture begins describing use of its inflorescences.",
+      "corrections": []
+    },
+    {
+      "capture": 101,
+      "summary": "Yarrow in a deer bladder is described as exposed aboveground in summer and belowground in winter, then added to manure with supposedly far-reaching radiation. The reasoning links yarrow's dilute sulfur/potassium relationship with the deer, cosmic surroundings, antlers and kidney-to-bladder processes. The bladder is called almost a replica of the cosmos in its forces.",
+      "corrections": [
+        "OCR loses most of the highlighted third-column paragraph. The original clearly says the deer relates to Earth's cosmic surroundings, connects antlers and kidney/bladder processes, and distinguishes deer forces from the cow's inward forces. All are readable source claims."
+      ]
+    },
+    {
+      "capture": 102,
+      "summary": "The cow/deer contrast concludes. Chamomile is introduced for calcium as well as potash; its sulfur quantity is explained through those tasks. Cattle intestinal walls, rather than a bladder, are made significant in the macrocosmic reasoning. Chamomile enclosed in cattle intestines is described as spending winter in humus-rich earth.",
+      "corrections": [
+        "The missing highlighted passage reads that yarrow concerns potash, while drawing in calcium requires another plant. Native botanical note is 3, not OCR 2.",
+        "The awkward phrase 'is of great significance is.' appears in the native image; do not silently present it as an OCR-only error or select it as a clean quotation."
+      ]
+    },
+    {
+      "capture": 103,
+      "summary": "Chamomile treatment is said to stabilize nitrogen and promote healthier growth through winter/cosmic influences. A railway analogy rebuts anticipated ridicule. Stinging nettle/Urtica dioica is declared irreplaceable; sulfur, potash, calcium and iron radiation are linked with the human heart. Nettles are also said to modify the influence of soil iron locally.",
+      "corrections": []
+    },
+    {
+      "capture": 104,
+      "summary": "Nettle is described as buried without an animal sheath for a full year. Its addition allegedly regulates decomposition, conserves nitrogen, and makes manure/soil sensitive or intelligent enough to meet particular plants' needs. Large appearance is contrasted with nutritive content. Disease description and healing are distinguished, with a demand to understand broad relationships rather than microscopic findings alone.",
+      "corrections": []
+    },
+    {
+      "capture": 105,
+      "summary": "Oak bark's organic calcium is presented as moderating excessive etheric activity and freeing astral influence. Bark is described in a domestic-animal skull in a wet, decaying environment through autumn/winter. The lecture asserts disease prevention, lower cost than laboratory approaches, and the need for another preparation to help silica uptake.",
+      "corrections": [
+        "The calcium percentage reference is note 4. Read it with capture 113: the editor says 77% is evidently based on an ash analysis; it must not be taught as an independently verified percentage of whole bark."
+      ]
+    },
+    {
+      "capture": 106,
+      "summary": "Steiner explicitly claims hidden alchemy: under hydrogen, lime and potash transform into nitrogen; silicon becomes an unnamed substance outside the contemporary element list. The potassium–silicic-acid relationship is distinguished from calcium. Dandelion/Taraxacum is introduced as mediating between cosmic silica and the locality's needs.",
+      "corrections": [
+        "Native wording explicitly says 'potassium (not calcium)'; preserve that distinction. Elemental transmutation is a stated claim, not merely ordinary nutrient recycling."
+      ]
+    },
+    {
+      "capture": 107,
+      "summary": "Dandelion enclosed in bovine mesentery is described through winter exposure and cosmic silica reception. Sensitized plants supposedly draw needs from adjoining meadow or forest as well as their own field. Five named ingredients are supplemented by diluted valerian blossom extract for phosphorus. The lecture ends with six ingredients and a Discussion heading.",
+      "corrections": [
+        "Native superscript after winter burial is 5, not OCR 2; final reference is 6, not OCR ®. Editorial note 5 later leaves the exact mesentery portion uncertain."
+      ]
+    },
+    {
+      "capture": 108,
+      "summary": "Discussion identifies the male red deer and Urtica dioica; manure needs rain but should not be excessively leached. Growth-promoting preparations benefit weeds too and are not weed suppression. Steiner regards ordinary rational methods as a foundation and questions whether Captain Krantz's heating/odorless method will remain effective over time.",
+      "corrections": [
+        "The red-deer reference is note 7, not OCR 2. Keep participants' questions distinct from Steiner's replies."
+      ]
+    },
+    {
+      "capture": 109,
+      "summary": "Steiner reserves judgment about the Krantz method's duration and odorlessness. He describes manure piled from ground level, interacting with unpaved soil, and sandy/clayey bases modified to balance solidity and water. Vineyard and other crop-specific adaptations are deferred; a question about introducing yarrow and dandelion begins.",
+      "corrections": [
+        "The native first line has the awkward wording 'you to do'; this is not newly invented by OCR. Loess reference is note 8."
+      ]
+    },
+    {
+      "capture": 110,
+      "summary": "Keyserlingk and Lerchenfeld report conflicting views of dandelion fodder. Steiner asks that opinions be tested yet asserts animals avoid harmful feed. He distinguishes a substance from its use, comparing yeast and medicines, and says small areas of the preparation plants suffice. These historical feeding assertions do not establish a livestock safety rule.",
+      "corrections": []
+    },
+    {
+      "capture": 111,
+      "summary": "Preparation duration after addition is distinguished from separate burial while developing. Manure is said to need to surround preparations to contain radiations. Side-by-side addition is distinguished from an unconfirmed single-hole combination, which might interfere. Quercus robur is named; a question asks whether bark should come from a live tree.",
+      "corrections": []
+    },
+    {
+      "capture": 112,
+      "summary": "Replies favor live outer oak bark, fertile topsoil and frost interpreted as increased cosmic exposure; quartz grinding is described. An animal-nutrition answer distinguishes food-generated forces from atmospheric absorption, using a tight-glove analogy and warning of excess/hypertrophy. Notes 1–3 identify GA 327 Lecture 5, Lili Kolisko and updated German-chamomile botanical names.",
+      "corrections": [
+        "Note 1 supplies the GA/lecture identity, not a printed page number. Botanical names in note 3 are Matricaria chamomilla and Matricaria recutita."
+      ]
+    },
+    {
+      "capture": 113,
+      "summary": "Editorial notes 4–8 complete the chapter: 77% refers evidently to ash analysis of Quercus robur; the exact mesentery portion is unclear; six compost preparations are numbered 502–507; red deer/wapiti and loess receive explanations. The remaining columns are blank, visibly ending this section's apparatus.",
+      "corrections": [
+        "The original says 'considered', not OCR 'considerd'. Notes are Gardner's editorial explanations, not words from the 1924 lecture."
+      ]
+    },
+    {
+      "capture": 114,
+      "summary": "Chapter 7 headnote contrasts near-planet reproduction with distant-planet fruiting, summarizes ash pest-control claims and horsetail. Steiner's June 14 lecture starts in column 3, promising concrete examples as starting points for experiments and asking how unwanted plants can be removed from particular areas.",
+      "corrections": [
+        "OCR loses the highlighted near/distant-planet paragraph: Mercury, Venus and Moon concern seasonal reproduction/seed; Jupiter, Mars and Saturn concern fruiting. Lecture heading superscript is 1, not OCR 4.",
+        "The headnote's phrase 'distant plants' is printed that way in the original; its context is distant planets. The headnote is by Marcia Merryman means, separate from Steiner."
+      ]
+    },
+    {
+      "capture": 115,
+      "summary": "A weed has the same natural right to grow as a useful plant; the practical question concerns its presence in a specific place. Near planets/Moon act through earth and lime toward successive generations; distant planets through air/periphery and silica toward plant formation. Steiner attributes vineyard phylloxera problems to exhausted traditions and neglected cosmic relations.",
+      "corrections": []
+    },
+    {
+      "capture": 116,
+      "summary": "A reported blackboard scheme contrasts below-upward forces supporting seed/reproduction with distant-planet forces forming fleshy nourishment. Moonlight is asserted to add lunar forces, intensifying Earth after Moon separation. Growth is called weaker reproduction within one organism, reproduction an enhanced growth needing lunar and sometimes Mercury/Venus forces.",
+      "corrections": [
+        "The text mentions a blackboard drawing, but no drawing is reproduced in the original capture. Its prose relations can support an original labelled reading map, not a verified source-diagram reconstruction."
+      ]
+    },
+    {
+      "capture": 117,
+      "summary": "Steiner says the Moon reflects the entire cosmos, not just sunlight, and acknowledges this cannot then be physically proved. Full-moon forces supposedly support seeds and persist; untimely fertility measures are said to wait for the next full moon. Weeds share these benefits, especially with water, motivating soil treatment against their lunar reception.",
+      "corrections": []
+    },
+    {
+      "capture": 118,
+      "summary": "Burnt weed-seed ash is called pepper and asserted to counter reproductive/lunar forces, reducing weeds across a four-year cycle. Dandelion can therefore be valued in one location and suppressed in another. Steiner invokes the Biological Institute, asks outward verification, yet declares spiritual truths inherently true and experimental confirmation an accommodation to contemporaries.",
+      "corrections": [
+        "OCR 'If 1' and 'lam' are ordinary I/am readings; the native text is clear. The tension between experiments and prior certainty is explicit, not an inference added by the course."
+      ]
+    },
+    {
+      "capture": 119,
+      "summary": "The arithmetic/manufacturing analogy defends inner certainty against contrary experiments by reexamining circumstances. Field-mouse control introduces poisons, infected bait and compulsory uniform policy as criticized alternatives. Steiner says his own method also requires a wider neighborhood because mice return from adjoining land.",
+      "corrections": []
+    },
+    {
+      "capture": 120,
+      "summary": "Shared insight and neighbor persuasion are preferred to police-enforced regulation. A historical mouse-skin ash method is tied to Venus in Scorpion. Animals are said to internalize lunar forces and require Venus/zodiac relations beyond the plant account. The ash is claimed to oppose reproduction, and Steiner contrasts renewed spiritual knowledge with superstition.",
+      "corrections": [
+        "The native reference attached to Scorpion is 3, not OCR 2. Do not collapse the later editor's constellation explanation into an unqualified conventional astrological sign."
+      ]
+    },
+    {
+      "capture": 121,
+      "summary": "The mouse method is said not to work for insects. Sugar-beet nematodes are interpreted through air/cosmic influences displaced into roots, producing the conditions the organisms need. Morning wilt and rootlet changes are mentioned as outward indications. A four-year cycle is compared with cockchafer grubs, although not visibly apparent in nematodes.",
+      "corrections": [
+        "The source groups nematodes with the lower/insect examples; do not present that historical grouping as a modern zoological classification. The missing sentence stop after 'roots' occurs in the native text too."
+      ]
+    },
+    {
+      "capture": 122,
+      "summary": "Whole-organism ash rather than skin is described for the lower-animal example, associated with Sun/Bull and a broader Waterman-to-Crab sequence. The Sun is portrayed as qualitatively different through zodiac positions. Four-year suppression is claimed. Water promotes fertility while fire reverses it into destruction in the argument.",
+      "corrections": [
+        "Retain the historical zodiac names as source vocabulary; do not supply operational calendar dates or assume the stated timings were independently tested."
+      ]
+    },
+    {
+      "capture": 123,
+      "summary": "Pepper is a resemblance name for ash carrying allegedly reversed reproductive forces. Plant abnormalities are distinguished from animal/human illness because plants lack an actual astral body. The latter illnesses are described through astral/physical closeness and etheric mediation. Water mediates lunar vitality in soil; a very wet winter/spring supposedly creates excessive enlivening.",
+      "corrections": [
+        "Native wording 'You will have gathered from I have said' is itself awkward; do not silently attribute the missing word to OCR. A blackboard drawing is mentioned at the end but not shown."
+      ]
+    },
+    {
+      "capture": 124,
+      "summary": "The excessive-vitality account claims normal seed-forming forces operate prematurely/lower down, creating an imagined second ground level and conditions for parasites/fungi in upper plant parts. Too much lunar influence, not too little, is blamed. Horsetail/Equisetum arvense is proposed to reduce water's mediation; kidney effects are offered as a cross-domain guide, not experimental results reported here.",
+      "corrections": [
+        "The drawing reference continues from 123, but no figure is reproduced. 'Second ground level' is the lecture's proposed force relation, not a visible second layer of actual soil."
+      ]
+    },
+    {
+      "capture": 125,
+      "summary": "A compass analogy argues that plants require the whole universe for explanation, and microscopy is criticized as isolating nature. Discussion begins in column 3. An audience question raises destructive misuse; Steiner initially invokes agricultural necessity, famine and civilization, while explicitly setting occult ethics aside temporarily.",
+      "corrections": [
+        "The ethics question belongs to the audience; the necessity argument belongs to Steiner. Do not conflate them as a single unqualified endorsement or a resolved empirical finding."
+      ]
+    },
+    {
+      "capture": 126,
+      "summary": "Steiner then acknowledges abuse concerns, invokes destructive Atlantean history, considers restricted knowledge impractical and proposes moral improvement and an agricultural circle. He says beneficial/harmful effects depend on place, including Ahrimanic influence. The reply distinguishes spinal-cord animals' skin from whole lower animals with a ventral cord.",
+      "corrections": []
+    },
+    {
+      "capture": 127,
+      "summary": "Discussion clarifies wild chamomile, nettle plant parts and possible substitute types; expands ash claims to aquatic weeds and underground parasites. Vineyard protection is asserted as conviction but explicitly untested, with little occult research. The wine/abstinence examples argue that practical contradictions should not prompt rigid opposition harmful to anthroposophy.",
+      "corrections": [
+        "Chamomile references are native notes 4 and 5, not unlabelled punctuation. The vineyard qualification is explicit and must accompany broad success claims."
+      ]
+    },
+    {
+      "capture": 128,
+      "summary": "A deer-bladder substitute is left open to experiments; animal bladders are still stipulated. Species-specific insect constellations need tests. Venus is identified as evening star with Scorpion behind it, then said to be behind the Sun. Peritoneum is distinguished from tripe. Fruit-crop details are deferred, and ordinary manuring should continue with supplements.",
+      "corrections": [
+        "Venus reference is note 6. Read the 'behind the Sun' phrase with Gardner's visible clarification at 130, which avoids interpreting it as an invisible spatial conjunction. The peritoneum/mesentery equivalence remains the speaker's wording."
+      ]
+    },
+    {
+      "capture": 129,
+      "summary": "Proven ordinary methods are retained; sheep/pig manure is said to weaken effects. Steiner predicts mineral fertilizers reduce nutritive value, preparations reduce manuring frequency, and artificial fertilizers disappear. A long-term queen-breeding prediction illustrates his time horizon; larval/adult insect timings differ. Notes identify GA 327 Lecture 6 and distinguish visible Scorpion constellation from conventional astrological sign.",
+      "corrections": [
+        "Native notes are 1–4. OCR 'refering' is native 'referring'. The note's printed reference to an earlier page is a source citation; it does not make capture numbers printed folios."
+      ]
+    },
+    {
+      "capture": 130,
+      "summary": "Editorial note 4 finishes with German chamomile's hollow flower-head center. Note 5 tentatively identifies rejected garden species. Note 6 interprets 'behind' temporally: Venus sets after Sun as evening star, and explains an eight-year pattern. Note 7 cites Bees (Anthroposophic Press,1998). The chapter's final note ends visibly; two columns are blank.",
+      "corrections": [
+        "The original species spelling is 'Chrysanthemum parhenium' as printed; do not silently present it as independently verified taxonomy. Note 6 is an editorial interpretation explicitly marked likely, not a clarified sentence directly spoken by Steiner."
+      ]
+    },
+    {
+      "capture": 131,
+      "summary": "Further reading begins: Goethean observation, plants, bees, formative processes and nutrition; the list supplies bibliographic leads, not reviewed coverage.",
+      "corrections": []
+    },
+    {
+      "capture": 132,
+      "summary": "Farming/soil/practitioner studies, Klett, Koepf, nature science and substances; incomplete OCR author continuations resolved by the visible preceding entries.",
+      "corrections": []
+    },
+    {
+      "capture": 133,
+      "summary": "Further reading continues through practice, water, the complete Agriculture Course, autobiography and bees. The bibliography separately names both Adams and Creeger/Gardner Agriculture editions.",
+      "corrections": []
+    },
+    {
+      "capture": 134,
+      "summary": "Wider Steiner books, including Esoteric Science and nutrition; these are future sources, not content now taught from complete local reviews.",
+      "corrections": []
+    },
+    {
+      "capture": 135,
+      "summary": "Final bibliography: calendars, formative forces, flowforms and preparation manuals. Displayed Kindle location 2861/2871 reaches 100%; no text cutoff observed in the final capture.",
+      "corrections": []
+    }
+  ],
+  "lessons": [
+    {
+      "id": 0,
+      "captures": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        10,
+        131,
+        132,
+        133,
+        134,
+        135
+      ],
+      "sourceSection": "Introduction by Hugh J. Courtney",
+      "sourceAuthor": "Hugh J. Courtney"
+    },
+    {
+      "id": 1,
+      "captures": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "sourceSection": "Introduction by Hugh J. Courtney",
+      "sourceAuthor": "Hugh J. Courtney"
+    },
+    {
+      "id": 2,
+      "captures": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "sourceSection": "Introduction by Hugh J. Courtney",
+      "sourceAuthor": "Hugh J. Courtney"
+    },
+    {
+      "id": 3,
+      "captures": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "sourceSection": "Spiritual Beings I; GA 136, Lecture 1, Helsinki, April 3, 1912",
+      "sourceAuthor": "Rudolf Steiner"
+    },
+    {
+      "id": 4,
+      "captures": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "sourceSection": "Spiritual Beings II; GA 136, Lecture 2, Helsinki, April 4, 1912",
+      "sourceAuthor": "Rudolf Steiner"
+    },
+    {
+      "id": 5,
+      "captures": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "sourceSection": "What Is Biodynamics?, Chapter 3, Elementals I; lecture of November 2, 1923, identified by its note as GA 230, lecture 7. Editorial headnote precedes the lecture on capture 56.",
+      "sourceAuthor": "Rudolf Steiner"
+    },
+    {
+      "id": 6,
+      "captures": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "sourceSection": "What Is Biodynamics?, Chapter 4, Elementals II; lecture of November 3, 1923, identified by its note as GA 230, lecture 8. Editorial headnote precedes the lecture on capture 67.",
+      "sourceAuthor": "Rudolf Steiner"
+    },
+    {
+      "id": 7,
+      "captures": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "sourceSection": "Agriculture I: editorial headnote at 77c1–2; Steiner lecture at 77c3–85c3, with the quotation at 80c3. Chapter 5, selection from GA 327 lecture 4.",
+      "sourceAuthor": "Rudolf Steiner"
+    },
+    {
+      "id": 8,
+      "captures": [
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "sourceSection": "Agriculture I: winter manure and summer mineral preparations at 85–86; lecture conclusion and discussion at 87–95; final discussion quotation at 95c2. Chapter 5, selection from GA 327 lecture 4.",
+      "sourceAuthor": "Rudolf Steiner"
+    },
+    {
+      "id": 9,
+      "captures": [
+        96,
+        99,
+        100,
+        106,
+        108,
+        112
+      ],
+      "sourceSection": "Agriculture II, anthology chapter 6; GA 327 Lecture 5, Koberwitz, June 13, 1924; lecture 96–107, discussion 108–112, editorial notes 112–113.",
+      "sourceAuthor": "Rudolf Steiner"
+    },
+    {
+      "id": 10,
+      "captures": [
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113
+      ],
+      "sourceSection": "Agriculture II, anthology chapter 6; GA 327 Lecture 5, June 13, 1924; six preparations 100–107, discussion 108–112, notes 112–113.",
+      "sourceAuthor": "Rudolf Steiner"
+    },
+    {
+      "id": 11,
+      "captures": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "sourceSection": "Agriculture III, anthology chapter 7; GA 327 Lecture 6, Koberwitz, June 14, 1924; opening, weeds and verification 114–119.",
+      "sourceAuthor": "Rudolf Steiner"
+    },
+    {
+      "id": 12,
+      "captures": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "sourceSection": "Agriculture III, anthology chapter 7; GA 327 Lecture 6, June 14, 1924; animal pests 119–122, plant abnormalities 123–125, discussion 125–129, notes 129–130.",
+      "sourceAuthor": "Rudolf Steiner"
+    },
+    {
+      "id": 13,
+      "captures": [
+        9,
+        10,
+        13,
+        95,
+        113,
+        118,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135
+      ],
+      "sourceSection": "Introduction by Hugh J. Courtney",
+      "sourceAuthor": "Hugh J. Courtney"
+    }
+  ],
+  "passageCount": 14,
+  "scopeLimit": "Complete supplied anthology reviewed. It selects GA 327 lectures 4–6; lectures 1–3 and 7–8 are supplied and reviewed in the separate Agriculture companion course. Courtney’s farm-individuality summary remains credited to his introduction."
+}

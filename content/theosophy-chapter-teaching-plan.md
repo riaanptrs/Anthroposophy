@@ -1,12 +1,14 @@
 # Theosophy: chapter-by-chapter teaching plan
 
-Prepared 11 September 2026 from the user's supplied text. Editorial working document, not a published course or an endorsed expert syllabus.
+Prepared 11 September 2026; revised 30 September 2026 after reading the newly supplied 228-page PDF and its page-marked Markdown. The 23 bilingual course lessons now implement this sequence. Editorial working document, not an endorsed expert syllabus.
+
+The new [course revision review](theosophy-course-review.md) records the implemented changes. Page-level source notes cover [frontmatter and all addenda](theosophy-page-notes-front-and-addenda.md), [Chapter I](theosophy-page-notes-chapter-1.md), [Chapter II](theosophy-page-notes-chapter-2.md), [Chapter III](theosophy-page-notes-chapter-3.md), and [Chapter IV](theosophy-page-notes-chapter-4.md). Together they account for every PDF page, including covers and blank versos.
 
 ## 1. Source and scope
 
 **Book:** Rudolf Steiner, *Theosophy: An Introduction to the Supersensible Knowledge of the World and the Destination of Man*, Anthroposophic Press, New York, 1971; GA 9. The copyright page identifies **Henry B. Monges as translator and Gilbert Church as reviser**. The isolated name on the scanned title page is not the translation credit.
 
-**Source read:** a supplied Markdown transcription of the 1971 edition, including the prefaces, introduction, all four chapters, and all thirteen addenda. The full source is retained separately from the public repository.
+**Source read:** the user's 1971 PDF and matching Markdown, page by page, including the prefaces, introduction, all four chapters, all thirteen addenda, and nonsubstantive front/backmatter. Extracted PDF text and the matching Markdown were compared. Selected quotations, damaged passages, bibliographic details and uncertain blank pages were additionally checked against rendered PDF images. This does not claim that the complete OCR transcription has been corrected. The full source is retained outside the public course and identified by filename and SHA-256 in `source-register.json`.
 
 The file contains 228 scan-page markers. It is OCR text, not a visually verified transcription. Page references below are to the **printed book**, not the Markdown line numbers. In the main text, scan page = printed page + 28. For example, printed pp. 1–5 are scan pages 29–33. Sections sometimes start midway through a page, so lesson ranges intentionally overlap at boundaries.
 
@@ -21,13 +23,13 @@ The file contains 228 scan-page markers. It is OCR text, not a visually verified
 | IV. The Path of Knowledge | 154–178 | 182–206 |
 | Addenda 1–13 | 181–195 | 209–223 |
 
-**Text-quality limitations and recovery:** the contents page and several printed page numbers are garbled. Scan page 65 / printed p. 37 loses part of the seven-member list and damages its explanation; p. 36 has damaged list labels; Chapter IV has a damaged opening line. A subsequent comparison with the user's Passerino-labelled EPUB transcription recovered the parallel classification and explanatory content. See the [edition comparison and recovery record](theosophy-edition-comparison.md). It is a different translation, credited to Elizabeth Douglas Shields, so exact 1971 quotations still require checking against its images or a matching reliable transcription. No page images have been visually verified. Keep the 1971 pagination and all thirteen addenda as our main reference.
+**Text-quality limitations and recovery:** OCR still contains damaged headings, page numbers and bleed-through noise. The new PDF images settle the earlier gaps on printed pp. 36–37 (PDF 64–65) and the opening of Chapter IV on p. 154 (PDF 182). These passages are now taught from this 1971 edition rather than through a different translation. The [edition comparison](theosophy-edition-comparison.md) retains the historical recovery record and explains the current verification status. English lesson quotations use the supplied edition, with whitespace and line-end hyphenation normalized; Portuguese quotations are new, labelled study translations.
 
 ## 2. Course design decision
 
-Keep the agreed starting point: **Theosophy itself supplies the sequence**. Use the existing study guide as Lesson 0, then begin with the opening encounter with flowers. Expand outward only as the book introduces its concepts.
+Keep the agreed starting point: **Theosophy itself supplies the sequence**. Use the book's own prefaces and introduction for Lesson 0, then begin Chapter I with the opening encounter with flowers. The general site guide and later-book connections remain supplementary. Expand outward only as the book introduces its concepts.
 
-Recommended structure: **21 book lessons, plus Lesson 0 and a final synthesis (Lesson 22)**. These are proposed teaching units, not a compulsory timetable. Aim for 30–45 minutes per session; split the longer readings into two sessions if beginners cannot explain the central distinction after the first. Each page range is a unit envelope, not a demand to read the whole range aloud at once.
+Recommended structure: **21 book lessons, plus Lesson 0 and a final synthesis (Lesson 22)**. These are implemented teaching units, not a compulsory timetable. Aim for 30–45 minutes per session; split the longer readings into two sessions if beginners cannot explain the central distinction after the first. Each page range is a unit envelope, not a demand to read the whole range aloud at once.
 
 The course must preserve three things together:
 
@@ -120,7 +122,7 @@ This subsection is much longer than the first three and needs four lessons.
 
 - Steiner gives different groupings of the same human constitution, combining closely related members for particular purposes.
 - The ninefold account distinguishes physical body, life body, soul body, sentient soul, intellectual soul, consciousness soul, spirit self, life spirit, and spirit man. Its order and A–I labels are corroborated by the comparison edition; this is not a verified quotation of the 1971 scan.
-- The text then combines soul body with sentient soul and consciousness soul with spirit self. The complete intermediate list recovered from the comparison is: physical body; ether or life body; sentient-soul-body; intellectual soul; spirit-filled consciousness soul; life spirit; spirit man. Attribute the recovery to the comparison edition and distinguish it from the subsequent sevenfold transformation list.
+- The text then combines soul body with sentient soul and consciousness soul with spirit self. The complete intermediate list checked against the 1971 PDF is: physical body; ether or life body; sentient-soul-body; intellectual soul; spirit-filled consciousness soul; life spirit; spirit man. Use the 1971 source reference and distinguish this regrouping from the subsequent sevenfold transformation list.
 - The simplified account uses physical body, life body, astral body, and I; pp. 38–39 relate spiritual transformation to astral, life, and physical constitution.
 - These are intended by Steiner as real distinctions perceived spiritually, not merely a convenient arbitrary taxonomy. Our diagram is a teaching model of his account, not evidence for it.
 
@@ -135,7 +137,7 @@ This subsection is much longer than the first three and needs four lessons.
 | 3. Life, sensation, and formative organization / Vida, sensação e organização formativa | pp. 11–20; Addenda 1–2 | Separate observed growth from Steiner's proposed explanation | Does observing growth alone demonstrate the etheric body? No: growth is the observation; the supersensible formative organization is the further claim. |
 | 4. Three aspects of soul / Três aspectos da alma | pp. 20–26; Addendum 4 | Compare wanting, planning to obtain, and examining a principle | Why is consciousness soul not just being awake? Steiner uses it for a particular relation to truth and goodness, not all awareness. |
 | 5. The I and spiritual individuality / O Eu e a individualidade espiritual | pp. 26–35; Addenda 5–6 | Explain I, consciousness soul, and spirit self without using them as synonyms | Does saying the word I establish the moment self-awareness begins? No: Addendum 5 distinguishes word use from the associated idea. |
-| 6. One human being, several classifications / Um ser humano, diferentes classificações | pp. 35–39; Addendum 3; edition comparison for recovered content | Build and explain a paraphrased grouping diagram, identifying the comparison source | Why do the counts change? Related aspects are grouped differently; the text describes an interpenetrating whole, not unrelated competing sets. |
+| 6. One human being, several classifications / Um ser humano, diferentes classificações | pp. 35–39; Addendum 3; PDF images 64–67 | Build and explain a grouping diagram, identifying which members are combined | Why do the counts change? Related aspects are grouped differently; the text describes an interpenetrating whole, not unrelated competing sets. |
 
 **Chapter checkpoint:** explain a new everyday encounter through the introductory threefold distinction, then identify which later claims cannot be established by that encounter alone. Revisit Lessons 1–3 if the learner treats sensory examples as proof of all later members.
 
@@ -291,7 +293,7 @@ Do not invent detailed independent mechanisms for regions 6 and 7: their initial
 |---|---|---|
 | 10 | The soul world / O mundo anímico | pp. 70–86; first teach interpenetration and relational forces, then the region map. Split into two sessions if needed. |
 | 11 | Attachment and release / Apego e desprendimento | pp. 87–101, stopping before subsection 3; the proposed postmortem purification and its difference from karma. |
-| 12 | Archetypes and spiritland / Arquétipos e mundo espiritual | pp. 101–110, stopping before subsection 4; Addenda 8–11 as relevant. |
+| 12 | Archetypes and spiritland / Arquétipos e mundo espiritual | pp. 101–110, stopping before subsection 4; Addenda 9–11 as relevant. Addendum 8 is primarily read with Lesson 18. |
 | 13 | Experience becoming capacity / Da experiência à capacidade | pp. 110–121; the architect, relationships, and service. |
 | 14 | Individuality, purpose, and return / Individualidade, propósito e retorno | pp. 121–127, stopping before subsection 5; Addendum 12 and limits of a simple progress narrative. |
 | 15 | Nature and the three worlds / A natureza e os três mundos | pp. 127–137; physical manifestation, kingdoms, and formative activity. |
@@ -343,7 +345,7 @@ Do not leave all the qualifications until students have already learned oversimp
 | 5 | 185 | Lesson 5 | The idea of I versus merely learning the word. |
 | 6 | 185–186 | Lesson 5 | Technical intuition and its introductory use here. |
 | 7 | 186–188 | Lessons 8–9 | The explicit limit of the reincarnation/destiny argument as preparation rather than proof. |
-| 8 | 188 | Lessons 12 and 18 | More detailed practices are referred to other books; this course is not an exhaustive training manual. |
+| 8 | 188 | Lesson 18; optional reference in Lesson 12 | More detailed practices are referred to other books; this course is not an exhaustive training manual. |
 | 9 | 188–189 | Lesson 12 | Spiritual mobility can include rest; avoid imagining endless agitation. |
 | 10 | 189 | Lessons 12 and 14 | Purpose language is qualified, not a simple projection of ordinary human planning. |
 | 11 | 189 | Lesson 12 | A reference to further treatment of the Spiritual Word, not extra detail supplied in this book. |
@@ -358,7 +360,7 @@ No course can guarantee understanding by presenting material alone. Build opport
 
 1. **Retrieve:** ask one question about the previous lesson before showing the answer.
 2. **Read:** assign a short passage within the unit's page range, with no more than a few new technical terms at a time.
-3. **Explain:** ask for a two-sentence paraphrase before supplying the teaching explanation.
+3. **Explain:** read the open close-reading explanation and chapter teaching, then ask for a two-sentence paraphrase grounded in the passage.
 4. **Distinguish:** use one example and one misleading example.
 5. **Examine the argument:** identify an observation, inference, analogy, or supersensible claim.
 6. **Apply:** transfer the distinction to a fresh example.
@@ -461,7 +463,7 @@ Keep concept IDs and source ranges the same across both languages. Translate que
 
 ## 12. Decisions before publishing lessons
 
-- Use the documented comparison for the recovered classification content; verify any quotation attributed to 1971 against its source images or a reliable matching transcription.
+- Use the now-verified 1971 PDF for the classification content. All 23 selected English lesson excerpts have been checked against PDF images; retain printed and PDF locators and label Portuguese study translations.
 - Choose the Portuguese source edition or clearly identify our Portuguese text as original explanation of this English edition.
 - Start by fully drafting and reviewing Lesson 1, then test it with beginner explanations before fixing a release timetable for all 21 units.
 - Keep the full supplied book outside `docs/`. This plan uses summaries and reading references; it does not authorize republishing the 1971 translation.

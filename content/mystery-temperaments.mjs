@@ -1,6 +1,10 @@
+import {mysteryTemperamentsLessonRevisions} from './mystery-temperaments-source-guides.mjs';
 export const mysterySource='https://rsarchive.org/Lectures/19090119p01.html';
 export const mysteryTitle={en:'The Mystery of Temperaments',pt:'O mistério dos temperamentos'};
-export const mysteryNote={en:'Reading references use the supplied 32-page capture. Its translator and edition are unidentified; repeated and damaged passages are not reproduced. The linked Dawson translation is a parallel reading, catalogued as Karlsruhe, 19 January 1909, GA 68d, not a verified identification of this edition. Lessons and practical adaptations are original.',pt:'As referências usam a captura fornecida de 32 páginas. Tradutor e edição não foram identificados; trechos repetidos ou danificados não são reproduzidos. A tradução de Dawson no link é uma leitura paralela, catalogada como Karlsruhe, 19 de janeiro de 1909, GA 68d, não uma identificação confirmada desta edição. Lições e adaptações práticas são originais.'};
+export const mysteryNote = {
+  "en": "Page references use the supplied 33-capture English text, reviewed against the native PDF. Title and author are identified; translator, publisher, publication year, lecture date/place and GA volume remain unidentified. The text has genuine repeated blocks, irregular terminology and an incomplete sentence, recorded in the page notes. Selected short passages preserve its wording. The linked Frances E. Dawson translation, The Mystery of the Human Temperaments, is a separately credited parallel catalogued as Karlsruhe, 19 January 1909, GA 68d; those particulars do not identify this upload. Lesson divisions and practical adaptations are original.",
+  "pt": "As referências usam o texto inglês fornecido de 33 capturas, conferido no PDF original. Título e autor estão identificados; tradutor, editora, ano de publicação, data/local da palestra e volume GA permanecem não identificados. O texto contém blocos realmente repetidos, terminologia irregular e uma frase incompleta, registrados nas notas por página. Os trechos curtos selecionados preservam sua redação. A tradução de Frances E. Dawson no link, The Mystery of the Human Temperaments, é um paralelo creditado separadamente, catalogado como Karlsruhe, 19 de janeiro de 1909, GA 68d; esses dados não identificam este arquivo. As divisões didáticas e adaptações práticas são originais."
+};
 // Each row: title, goal, scene, explanation, source discussion, activity, takeaway, terms, question, answer.
 const rows=[
 [['A familiar subject, a new reading','Distinguish a source, a teaching example and a proposed application.',
@@ -246,3 +250,10 @@ const rows=[
 ];
 const spans=['2–30','2–4','4–8','8–9','9–12','12–15','15–18','18–20','20–22','22–23','23–24','25–26','26–28','28–30','2–30'];
 export const mysteryLessons=rows.map((pair,id)=>({id,span:spans[id],...Object.fromEntries(pair.map((r,i)=>[i?'pt':'en',{title:r[0],goal:r[1],example:r[2],explanation:r[3],key:r[4],activity:r[5],takeaway:r[6],terms:r[7],checks:[[r[8],r[9]],[i?'O que o exemplo permite explicar?':'What relationship does the example clarify?',r[3]],[i?'Como demonstrar compreensão na atividade?':'What would show understanding in the activity?',r[6]+' '+(i?'Apoie a explicação num detalhe da cena e num trecho da leitura.':'Support your explanation with a detail from the scene and a passage from the reading.')]]}]))}));
+
+// Retain each established fictional example and explanation while replacing the source teaching.
+for(const revision of mysteryTemperamentsLessonRevisions){
+ const lesson=mysteryLessons[revision.id];
+ lesson.span=revision.span;
+ for(const lang of ['en','pt'])Object.assign(lesson[lang],revision[lang]);
+}

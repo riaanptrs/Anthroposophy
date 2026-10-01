@@ -1,5 +1,15 @@
 # Philosophy of Freedom: reading review and proposed earlier-course improvements
 
+## Current source and revision — 30 September 2026
+
+The current main source is the supplied 166-page PDF and matching Markdown, internally identified as Wilson's translation, Rudolf Steiner Press, 2012, eighth English edition. Both author prefaces, all fourteen chapters and 1918 additions, the conclusion, appendix and edition notes have been reviewed. The filename's third-edition wording does not identify the publication inside it. PDF positions are used without inventing printed folios.
+
+See the [book-based revision and page-by-page records](philosophy-of-freedom-course-review.md). The sixteen core steps and six optional practices keep their existing URLs and notebooks. New Wise Cosmos lecture transcripts will be requested after this book-based revision; none have yet been received or identified as the old Brian material.
+
+The material below is the historical record of earlier sources, plans and limitations. Its 420/147/70-marker references and missing-text findings describe those earlier files, rather than this newly reviewed PDF.
+
+---
+
 Prepared 12 September 2026. **Editorial review only; these proposals have not been added to the published lessons.** See [the separate course plan](philosophy-of-freedom-course-plan.md).
 
 **Replacement-source update:** [The three-text comparison](philosophy-of-freedom-edition-comparison.md) records substantial recoveries from the new 147-marker Wilson companion transcription and the distinct role of Amrine's 70-marker abridgment. The source limitations below describe the first file, not the combined material now available. In particular, the chapter 11 addition and fuller chapter 14 passages are now available in the supplied Basis file at markers 99 and 126–127; the earlier online checks remain a record of the initial review.

@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 
-const expected={'theosophy':23,'higher-worlds':19,'philosophy-of-freedom':22,'practical-thinking':10,'understanding-temperaments':12,'according-to-luke':12,'colour':14,'encountering-the-self':17,'ancient-myths':8,'meditation':9};
+const expected={'theosophy':23,'higher-worlds':19,'philosophy-of-freedom':22,'practical-thinking':10,'understanding-temperaments':12,'according-to-luke':12,'colour':14,'temperaments':11,'understand-temperament':13,'encountering-the-self':17,'ancient-myths':8,'meditation':9,'mystery-temperaments':15};
 const passages=JSON.parse(fs.readFileSync('content/passage-study.json','utf8'));
 const assigned=new Set();
 for(const p of passages){
@@ -38,5 +38,5 @@ for(const [course,total] of Object.entries(expected))for(let id=0;id<total;id++)
   checked++;
  }
 }
-assert.equal(checked,292);
-console.log(`Passed: all ten courses, ${assigned.size} lesson assignments, ${checked} bilingual pages, source credits and reading-before-practice order.`);
+assert.equal(checked,370);
+console.log(`Passed: all thirteen source collections, ${assigned.size} lesson assignments, ${checked} bilingual pages, source credits and reading-before-practice order.`);

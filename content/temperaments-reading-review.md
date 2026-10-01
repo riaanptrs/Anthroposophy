@@ -1,5 +1,9 @@
 # The Four Temperaments: source review and teaching map
 
+## Update: complete supplied edition, 30 September 2026
+
+The newly supplied 23-capture PDF and Markdown contain the complete lecture (captures 6–13), Notes (14), Further Reading (15) and Publisher's Note (16). All pages have been reviewed. The earlier 31-capture ranges and gap statements below are retained as historical records and are superseded for current teaching. All eleven bilingual book lessons and the relevant combined-course lessons now use the complete supplied edition. See the [completed revision, corrected reading map and validation](four-temperaments-course-review.md).
+
 Reviewed 12 September 2026. Request: repeat the preceding bilingual course-development workflow with the supplied book and make relevant existing-course improvements.
 
 ## Source and capture limits

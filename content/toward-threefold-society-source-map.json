@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-10-01",
+  "source": {
+    "title": "Toward a Threefold Society: Basic Issues of the Social Question",
+    "filename": "Toward a threefold society.md",
+    "bytes": 30999,
+    "sha256": "3aed98c1ac9c3c150ea33a1e9cce0ceb5af69ae2548523211ab1eb5c0f16bca8",
+    "format": "OCR Markdown",
+    "markdownPageCount": 14,
+    "sourceLines": 690,
+    "pdfSupplied": false,
+    "pdfDeclaredByMarkdown": "Toward a threefold society.pdf",
+    "author": "Rudolf Steiner",
+    "translator": "Frank Thomas Smith",
+    "introductionAuthor": "Frank Thomas Smith",
+    "publisher": "Rudolf Steiner Publications",
+    "copyrightYear": 2019,
+    "firstPrinting": "October 2019",
+    "paperbackIsbn": "978-1-948302-16-6",
+    "kindleIsbn": "978-1-948302-17-3",
+    "ga": "23",
+    "originalWorkYearReportedByTranslator": 1919,
+    "prefaceYear": 1920,
+    "bibliographicalSurveyReferenceYear": 1961,
+    "historicalFootnotesAuthor": "Frank Thomas Smith",
+    "metadataVerification": "Read from supplied OCR Markdown only; native PDF title/imprint images not supplied."
+  },
+  "scope": {
+    "mainChaptersSupplied": false,
+    "fullBookReviewed": false,
+    "preliminaryRemarksSupplied": false,
+    "closingAppealSupplied": false,
+    "historicalNotesSupplied": false,
+    "nativeImagesReviewed": false,
+    "reviewedExtent": "All fourteen supplied Markdown blocks: front matter 1–5, Smith’s introduction 6–7 and Steiner’s 1920 preface 8–14. The main chapter bodies are absent."
+  },
+  "sections": [
+    {
+      "id": "front-matter",
+      "pageStart": 1,
+      "pageEnd": 5,
+      "kind": "front-matter",
+      "author": "Various credited source voices"
+    },
+    {
+      "id": "translator-introduction",
+      "pageStart": 6,
+      "pageEnd": 7,
+      "kind": "translator-introduction",
+      "author": "Frank Thomas Smith",
+      "date": "October 2019"
+    },
+    {
+      "id": "preface-1920",
+      "pageStart": 8,
+      "pageEnd": 14,
+      "kind": "source-preface",
+      "author": "Rudolf Steiner",
+      "sourceTitle": "Preface to the Fourth German Edition — 1920",
+      "date": "1920"
+    }
+  ],
+  "locatorContract": "Use supplied Markdown page markers and section/paragraph wording. No PDF/printed page or column assignment; no exact quotation word range from Kindle locations; native images absent. Portuguese is original course study translation.",
+  "pageLedger": [
+    {
+      "pageMarker": 1,
+      "sourceAuthor": "Rudolf Steiner (credited author)",
+      "summary": "Cover identifies the work and Steiner. Fragments of the thinking/feeling/willing and freedom/equality/fraternity wording are visible.",
+      "limits": "Cover text and arrangement are damaged; no diagram can be reconstructed from this OCR alone."
+    },
+    {
+      "pageMarker": 2,
+      "sourceAuthor": "Rudolf Steiner (credited author); Frank Thomas Smith (translator)",
+      "summary": "Title page supplies the complete two triads, Steiner's authorship and Smith's translation credit.",
+      "limits": "A title-page triad introduces the subject; it does not prove a mechanical mapping from psychology or anatomy to social institutions."
+    },
+    {
+      "pageMarker": 3,
+      "sourceAuthor": "Publisher imprint as transcribed",
+      "summary": "Imprint, October 2019 printing, publisher, separate paperback/Kindle ISBNs, German title, GA 23 reference and historical-footnote credit.",
+      "limits": "The PDF named in metadata is absent. Edition particulars remain transcribed evidence. Do not infer a 1961 publication or translation date."
+    },
+    {
+      "pageMarker": 4,
+      "sourceAuthor": "Rudolf Steiner (epigraph attribution)",
+      "summary": "An epigraph attributed to Steiner contrasts comfortable abstract thinking with the requirements of social life and warns about renewed calamities.",
+      "limits": "The excerpt is present as an epigraph. Its appearance does not establish that the absent final chapter was reviewed."
+    },
+    {
+      "pageMarker": 5,
+      "sourceAuthor": "Contents as transcribed",
+      "summary": "Contents lists translator's introduction, the 1920 preface, Preliminary Remarks, four main sections, a public appeal and author/translator/end matter.",
+      "limits": "The first main heading is damaged across OCR fragments. A contents entry is not the corresponding chapter text."
+    },
+    {
+      "pageMarker": 6,
+      "sourceAuthor": "Frank Thomas Smith",
+      "summary": "Smith situates the original in German-speaking Central Europe after World War I, quotes Steiner's closing warning, and asks about cultural autonomy, an associative economy and a rights state. He explains the need for historical notes.",
+      "limits": "Smith's 2019 evaluation and causal/prophetic claims require attribution to Smith; they are not Steiner's 1920 preface or independently verified present-day findings."
+    },
+    {
+      "pageMarker": 7,
+      "sourceAuthor": "Frank Thomas Smith",
+      "summary": "Smith concludes that the principles remain relevant and urgent, then signs and dates his introduction.",
+      "limits": "This completes the supplied translator introduction. No historical-note section follows in the upload."
+    },
+    {
+      "pageMarker": 8,
+      "sourceAuthor": "Rudolf Steiner",
+      "summary": "Steiner rejects a theoretically perfect solution offered for others to adopt. He argues that contemporary social thinking, especially about economics, has become remote from lived reality.",
+      "limits": "This is the opening of the 1920 preface. His rejection of utopian thinking is a stated method, not proof that every proposal succeeds."
+    },
+    {
+      "pageMarker": 9,
+      "sourceAuthor": "Rudolf Steiner",
+      "summary": "Dependence of cultural life on political and economic interests is named as a cause of disorder. A once-progressive transfer of education to the state can, he argues, become inappropriate later. Educators should both teach and administer.",
+      "limits": "Preserve the historical argument and its strong institutional proposal. Do not weaken it into generic advice to consult teachers. The final paragraph continues onto marker 10."
+    },
+    {
+      "pageMarker": 10,
+      "sourceAuthor": "Rudolf Steiner",
+      "summary": "Cultural self-administration is presented as a route toward the best attainable situation, not perfection. The proposal includes vocational, agricultural, industrial and law schools. Steiner links externally directed education with social insensitivity.",
+      "limits": "These causal claims and criticisms are Steiner's assertions. The passage does not supply comparative evidence or the absent book's complete institutional details."
+    },
+    {
+      "pageMarker": 11,
+      "sourceAuthor": "Rudolf Steiner",
+      "summary": "A free culture should supply living ideas to society. Communities learn from experience; the social question recurs, like hunger, and cannot be settled permanently by a universal panacea. Economic activity comprises production, circulation and consumption.",
+      "limits": "Distinguish ongoing social judgment from a single final blueprint. The economic discussion continues onto marker 12."
+    },
+    {
+      "pageMarker": 12,
+      "sourceAuthor": "Rudolf Steiner",
+      "summary": "Economic life is considered within an increasingly global economy. Producer–distributor–consumer associations should develop from practical conditions, with manageable size, mobility, contracts and negotiated reciprocal outputs/prices. Steiner criticizes organizing economic relations through political parliamentary or trade-union forms.",
+      "limits": "Retain the criticism and its historical vocabulary as the author's position. Economic coordination through associations does not abolish the distinct rights-state responsibilities stated later."
+    },
+    {
+      "pageMarker": 13,
+      "sourceAuthor": "Rudolf Steiner",
+      "summary": "Associational judgment should draw on workers' insights and consumers' interests. Cooperation and contact with others develop knowledge of the economic whole. Steiner contrasts association with externally imposed organization and discusses owners and non-owners.",
+      "limits": "The text supplies a proposal and reasoning, not a tested organizational protocol. Capital ownership mechanisms and fuller arguments are promised elsewhere and are absent here."
+    },
+    {
+      "pageMarker": 14,
+      "sourceAuthor": "Rudolf Steiner",
+      "summary": "Cultural activity follows capacities; economic participation follows associational relationships; rights concern equal human standing independently of talents or commodity value. Hours and conditions of labor belong to the rights state. Unity should arise through cooperation among autonomous spheres.",
+      "limits": "The preface ends in an intact paragraph. Capital, means of production, land use and integration of non-producing people are referred to as matters treated later; their chapter-level explanations are not supplied."
+    }
+  ],
+  "lessons": [
+    {
+      "id": 0,
+      "markdownPages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceAuthor": "Rudolf Steiner",
+      "sourceSection": "Title pages, imprint, Steiner epigraph and contents"
+    },
+    {
+      "id": 1,
+      "markdownPages": [
+        6,
+        7
+      ],
+      "sourceAuthor": "Frank Thomas Smith",
+      "sourceSection": "Translator’s Introduction, October 2019"
+    },
+    {
+      "id": 2,
+      "markdownPages": [
+        8,
+        9
+      ],
+      "sourceAuthor": "Rudolf Steiner",
+      "sourceSection": "Preface to the Fourth German Edition — 1920, opening argument"
+    },
+    {
+      "id": 3,
+      "markdownPages": [
+        9,
+        10,
+        11
+      ],
+      "sourceAuthor": "Rudolf Steiner",
+      "sourceSection": "Preface to the Fourth German Edition — 1920, cultural and educational autonomy"
+    },
+    {
+      "id": 4,
+      "markdownPages": [
+        11
+      ],
+      "sourceAuthor": "Rudolf Steiner",
+      "sourceSection": "Preface to the Fourth German Edition — 1920, the recurring social question"
+    },
+    {
+      "id": 5,
+      "markdownPages": [
+        11,
+        12,
+        13
+      ],
+      "sourceAuthor": "Rudolf Steiner",
+      "sourceSection": "Preface to the Fourth German Edition — 1920, associative economic life"
+    },
+    {
+      "id": 6,
+      "markdownPages": [
+        14
+      ],
+      "sourceAuthor": "Rudolf Steiner",
+      "sourceSection": "Preface to the Fourth German Edition — 1920, political rights and the cooperation of the three members"
+    }
+  ],
+  "passageCount": 7
+}

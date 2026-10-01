@@ -1,6 +1,9 @@
 # Course outline: studying Rudolf Steiner's Theosophy
 
+Current Agriculture update (1 October 2026): the full eight-lecture GA 327 sequence has eighteen bilingual readings, linked into the biodynamics path. Both supplied Markdown witnesses were reviewed across 370 marked captures; PDF visuals remain unverified. See the [source review and course changes](agriculture-reading-review.md).
+
 Saved: 11 September 2026
+Current revision (30 September 2026): the 23 bilingual Theosophy lessons have been revised against every page of the supplied 1971 PDF and matching Markdown. Lesson 0 now uses this book's prefaces and introduction; all four chapters retain their source sequence, with expanded teaching and one verified passage per lesson. See [the course revision review](theosophy-course-review.md) and the linked page notes. The older planning and source-recovery status below is retained as history and is superseded by this revision.
 Implementation update (12 September 2026): both courses now exist locally in English and Brazilian Portuguese. GA 10 adds orientation and 18 lessons, including synthesis; GA 9 Lessons 2, 17, 19 and 20 include attributed GA 10 clarifications. The site has 88 generated HTML pages. The earlier planning status below is retained as history; current Course 2 content and references are in `higher-worlds.mjs`.
 Current status (12 September 2026): all 21 book lessons and the final synthesis exist in English and Brazilian Portuguese. A new Lesson 0 introduces anthroposophy and maps the course; selected later-lecture connections supplement eight lessons. See [the introduction review](anthroposophy-introduction-review.md) for sources and pending transcription recovery. These changes have been generated locally; this update does not record a deployment.
 

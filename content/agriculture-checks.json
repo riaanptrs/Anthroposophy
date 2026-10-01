@@ -1,0 +1,416 @@
+[
+  {
+    "studyId": "agriculture/00",
+    "en": {
+      "question": "What is the June 20 report in relation to the eight lectures?",
+      "options": [
+        "A report delivered after the June 7–16 course, although placed before it in the 1993 edition.",
+        "The first of the eight lectures.",
+        "A later editorial experiment demonstrating every proposal."
+      ],
+      "answer": 0,
+      "explanation": "The report’s heading dates it June 20. The course itself ran June 7–16; placement in a book does not change the occasion or its evidential status."
+    },
+    "pt": {
+      "question": "Qual é a relação entre o relato de 20 de junho e as oito palestras?",
+      "options": [
+        "É um relato apresentado depois do curso de 7–16 de junho, embora colocado antes dele na edição de 1993.",
+        "É a primeira das oito palestras.",
+        "É um experimento editorial posterior que demonstra todas as propostas."
+      ],
+      "answer": 0,
+      "explanation": "O cabeçalho data o relato em 20 de junho. O curso ocorreu de 7 a 16 de junho; a posição no livro não muda a ocasião nem o tipo de evidência."
+    }
+  },
+  {
+    "studyId": "agriculture/01",
+    "en": {
+      "question": "What does the compass comparison establish?",
+      "options": [
+        "The needle explains itself completely",
+        "An object’s wider relationships can belong to its explanation",
+        "All planetary crop correspondences are proved by magnetism"
+      ],
+      "answer": 1,
+      "explanation": "The comparison widens the field of inquiry; it does not prove every later agricultural correspondence."
+    },
+    "pt": {
+      "question": "O que a comparação com a bússola estabelece?",
+      "options": [
+        "A agulha explica inteiramente a si mesma",
+        "As relações mais amplas de um objeto podem participar de sua explicação",
+        "O magnetismo prova todas as correspondências planetárias dos cultivos"
+      ],
+      "answer": 1,
+      "explanation": "A comparação amplia a investigação; não prova cada correspondência agrícola posterior."
+    }
+  },
+  {
+    "studyId": "agriculture/02",
+    "en": {
+      "question": "Which two currents does Steiner distinguish?",
+      "options": [
+        "Reproduction and becoming nourishment",
+        "Mineral plants and non-mineral plants",
+        "Useful plants and plants without any function"
+      ],
+      "answer": 0,
+      "explanation": "The distinction concerns renewing the plant’s kind and nourishing other beings."
+    },
+    "pt": {
+      "question": "Quais duas correntes Steiner distingue?",
+      "options": [
+        "Reprodução e capacidade de nutrir",
+        "Plantas minerais e plantas não minerais",
+        "Plantas úteis e plantas sem qualquer função"
+      ],
+      "answer": 0,
+      "explanation": "A distinção trata da renovação da espécie vegetal e da nutrição de outros seres."
+    }
+  },
+  {
+    "studyId": "agriculture/03",
+    "en": {
+      "question": "How does Steiner qualify complete self-containment?",
+      "options": [
+        "It is fully attainable on every farm",
+        "It is an ideal to approach, though not completely attainable",
+        "It requires ignoring the farm’s surroundings"
+      ],
+      "answer": 1,
+      "explanation": "Lecture 2 states both the ideal and the impossibility of implementing it completely."
+    },
+    "pt": {
+      "question": "Como Steiner qualifica a autossuficiência completa?",
+      "options": [
+        "É plenamente alcançável em qualquer fazenda",
+        "É um ideal a aproximar, embora não seja inteiramente alcançável",
+        "Exige ignorar o entorno da fazenda"
+      ],
+      "answer": 1,
+      "explanation": "A palestra 2 afirma tanto o ideal quanto a impossibilidade de implementá-lo completamente."
+    }
+  },
+  {
+    "studyId": "agriculture/04",
+    "en": {
+      "question": "What role does clay have in the lecture’s model?",
+      "options": [
+        "Conducting the cosmic influence upward",
+        "Removing all need for humus",
+        "Proving that every soil needs the same addition"
+      ],
+      "answer": 0,
+      "explanation": "Steiner describes clay as supporting the upward stream; this does not prescribe a universal dose."
+    },
+    "pt": {
+      "question": "Qual é o papel da argila no modelo da palestra?",
+      "options": [
+        "Conduzir a influência cósmica para cima",
+        "Eliminar qualquer necessidade de húmus",
+        "Provar que todo solo precisa da mesma aplicação"
+      ],
+      "answer": 0,
+      "explanation": "Steiner descreve a argila como apoio à corrente ascendente; isso não prescreve uma dose universal."
+    }
+  },
+  {
+    "studyId": "agriculture/05",
+    "en": {
+      "question": "Which role is assigned to nitrogen?",
+      "options": [
+        "Mediating between the life in oxygen and the form in carbon",
+        "Replacing all the other substances",
+        "Providing a fixed universal fertilizer dose"
+      ],
+      "answer": 0,
+      "explanation": "Nitrogen is the connecting carrier in the account; it is not treated as self-sufficient."
+    },
+    "pt": {
+      "question": "Que papel é atribuído ao nitrogênio?",
+      "options": [
+        "Mediar a vida no oxigênio e a forma no carbono",
+        "Substituir todas as outras substâncias",
+        "Fornecer uma dose universal fixa de fertilizante"
+      ],
+      "answer": 0,
+      "explanation": "O nitrogênio é o portador da conexão nessa explicação; não é tratado como autossuficiente."
+    }
+  },
+  {
+    "studyId": "agriculture/06",
+    "en": {
+      "question": "What does the legume analogy emphasize?",
+      "options": [
+        "Each species is isolated from the plant community",
+        "A species’ role within the whole",
+        "All legumes supply the same nitrogen amount anywhere"
+      ],
+      "answer": 1,
+      "explanation": "The lecture asks us to see plant species as related organs within a whole."
+    },
+    "pt": {
+      "question": "O que a analogia das leguminosas destaca?",
+      "options": [
+        "Cada espécie é isolada da comunidade vegetal",
+        "O papel de uma espécie no conjunto",
+        "Todas as leguminosas fornecem a mesma quantidade de nitrogênio em qualquer lugar"
+      ],
+      "answer": 1,
+      "explanation": "A palestra pede que vejamos as espécies vegetais como órgãos relacionados em um conjunto."
+    }
+  },
+  {
+    "studyId": "agriculture/07",
+    "en": {
+      "question": "Why does Steiner connect fertilizing with the plant’s surroundings?",
+      "options": [
+        "Because he says life continues from the roots into the soil around them.",
+        "Because he says plant life is completely enclosed by its visible outline.",
+        "Because he describes humus as a wholly lifeless container."
+      ],
+      "answer": 0,
+      "explanation": "The tree/mound argument extends life through the roots into soil. Enlivening that surrounding soil is therefore central to his account of plant development."
+    },
+    "pt": {
+      "question": "Por que Steiner relaciona a adubação ao ambiente da planta?",
+      "options": [
+        "Porque afirma que a vida continua das raízes para o solo que as envolve.",
+        "Porque afirma que a vida da planta fica inteiramente encerrada em seu contorno visível.",
+        "Porque descreve o húmus como um recipiente totalmente sem vida."
+      ],
+      "answer": 0,
+      "explanation": "O argumento da árvore e do monte de terra estende a vida pelas raízes até o solo. Vivificar esse solo circundante torna-se, portanto, central para sua explicação do desenvolvimento vegetal."
+    }
+  },
+  {
+    "studyId": "agriculture/08",
+    "en": {
+      "question": "Which pairing matches the lecture’s two horn preparations?",
+      "options": [
+        "Manure spends winter underground and addresses soil from below; the mineral preparation spends summer underground and addresses the plant from above.",
+        "Both preparations spend summer underground and work only on roots.",
+        "The mineral preparation replaces all ordinary manuring, while manure is applied only to fruit."
+      ],
+      "answer": 0,
+      "explanation": "Creeger/Gardner captures 63–64 connect the substances with opposite seasons and complementary sides of plant development. The final answer at 74 expressly preserves ordinary manuring."
+    },
+    "pt": {
+      "question": "Qual associação corresponde aos dois preparados de chifre da palestra?",
+      "options": [
+        "O esterco passa o inverno sob a terra e se dirige ao solo a partir de baixo; o preparado mineral passa o verão sob a terra e se dirige à planta a partir de cima.",
+        "Ambos passam o verão sob a terra e atuam somente nas raízes.",
+        "O preparado mineral substitui toda adubação habitual, enquanto o esterco é aplicado somente aos frutos."
+      ],
+      "answer": 0,
+      "explanation": "As capturas 63–64 de Creeger/Gardner ligam as substâncias a estações opostas e aspectos complementares do desenvolvimento vegetal. A resposta final em 74 conserva expressamente a adubação habitual."
+    }
+  },
+  {
+    "studyId": "agriculture/09",
+    "en": {
+      "question": "What distinction does the selected passage make?",
+      "options": [
+        "Increasing substances is sufficient regardless of uptake.",
+        "Living forces should enable plants to receive and use what soil offers.",
+        "Preparations eliminate the need for ordinary manuring immediately."
+      ],
+      "answer": 1,
+      "explanation": "Steiner distinguishes abundance from a living capacity to receive and use it; he starts by retaining ordinary manuring."
+    },
+    "pt": {
+      "question": "Que distinção faz o trecho selecionado?",
+      "options": [
+        "Aumentar substâncias basta, independentemente da absorção.",
+        "Forças vivas devem permitir que as plantas recebam e utilizem o que o solo oferece.",
+        "Os preparados eliminam imediatamente a necessidade da adubação comum."
+      ],
+      "answer": 1,
+      "explanation": "Steiner distingue abundância de capacidade viva de recebê-la e utilizá-la; começa mantendo a adubação comum."
+    }
+  },
+  {
+    "studyId": "agriculture/10",
+    "en": {
+      "question": "Which relationship belongs to the nettle preparation in this lecture?",
+      "options": [
+        "An intestinal enclosure chosen for calcium's relation to sulfur.",
+        "A blossom extract completing the preparations through phosphorus.",
+        "Nitrogen retention and regulated decomposition without an animal enclosure."
+      ],
+      "answer": 2,
+      "explanation": "Nettle is linked with regulating decomposition, retaining nitrogen and increasing sensitivity; chamomile and valerian have the other named roles."
+    },
+    "pt": {
+      "question": "Que relação pertence ao preparado de urtiga nesta palestra?",
+      "options": [
+        "Um envoltório intestinal escolhido pela relação entre cálcio e enxofre.",
+        "Um extrato de flores que completa os preparados pelo fósforo.",
+        "Retenção de nitrogênio e decomposição regulada sem envoltório animal."
+      ],
+      "answer": 2,
+      "explanation": "A urtiga é ligada à regulação da decomposição, retenção de nitrogênio e aumento da sensibilidade; camomila e valeriana têm os outros papéis nomeados."
+    }
+  },
+  {
+    "studyId": "agriculture/11",
+    "en": {
+      "question": "Which route is associated with successive plant generations in this lecture?",
+      "options": [
+        "Distant planets acting only through fleshy fruit.",
+        "Microscopic creatures replacing all cosmic forces.",
+        "Moon, Mercury and Venus acting through Earth, with lime involved."
+      ],
+      "answer": 2,
+      "explanation": "Steiner connects the near-planet route through Earth with reproduction, and the distant-planet route through air/silica with fleshy formation."
+    },
+    "pt": {
+      "question": "Que via se associa às gerações vegetais sucessivas nesta palestra?",
+      "options": [
+        "Planetas distantes atuando apenas pelo fruto carnoso.",
+        "Microrganismos substituindo todas as forças cósmicas.",
+        "Lua, Mercúrio e Vênus atuando pela Terra, com participação da cal."
+      ],
+      "answer": 2,
+      "explanation": "Steiner liga a via dos planetas próximos pela Terra à reprodução, e a dos distantes pelo ar/sílica à formação carnosa."
+    }
+  },
+  {
+    "studyId": "agriculture/12",
+    "en": {
+      "question": "Why does Steiner prefer shared insight to police-enforced uniformity in the mouse discussion?",
+      "options": [
+        "He considers adjoining fields irrelevant to pest return.",
+        "Neighboring land matters, so cooperation should arise through understanding and persuasion.",
+        "He says each organism can be controlled by an identical compulsory method."
+      ],
+      "answer": 1,
+      "explanation": "Mice returning from neighboring land motivate the wider cooperation. The selected sentence states his preference for shared insights."
+    },
+    "pt": {
+      "question": "Por que Steiner prefere compreensão compartilhada à uniformidade imposta pela polícia na discussão dos ratos?",
+      "options": [
+        "Ele considera terrenos vizinhos irrelevantes para o retorno das pragas.",
+        "Terrenos vizinhos importam; por isso, a cooperação deve surgir de compreensão e persuasão.",
+        "Ele diz que todo organismo pode ser controlado por um método obrigatório idêntico."
+      ],
+      "answer": 1,
+      "explanation": "O retorno de ratos de terrenos vizinhos motiva a cooperação mais ampla. A frase selecionada declara sua preferência por compreensões compartilhadas."
+    }
+  },
+  {
+    "studyId": "agriculture/13",
+    "en": {
+      "question": "Why does Steiner include insects and birds in Lecture 7?",
+      "options": [
+        "Because only domesticated animals belong to the farm organism",
+        "Because plant and animal life must be understood through their wider interactions",
+        "Because the lecture replaces all crop study with a classification of birds"
+      ],
+      "answer": 1,
+      "explanation": "His opening explicitly includes the creatures around crops and livestock because he is tracing relationships rather than isolated species."
+    },
+    "pt": {
+      "question": "Por que Steiner inclui insetos e aves na palestra 7?",
+      "options": [
+        "Porque somente os animais domesticados pertencem ao organismo agrícola",
+        "Porque a vida vegetal e animal deve ser compreendida por suas interações mais amplas",
+        "Porque a palestra substitui todo estudo de culturas por uma classificação de aves"
+      ],
+      "answer": 1,
+      "explanation": "A abertura inclui expressamente os seres ao redor das culturas e dos animais de criação, pois procura relações em vez de espécies isoladas."
+    }
+  },
+  {
+    "studyId": "agriculture/14",
+    "en": {
+      "question": "What is the economic point of retaining woods, orchards, shrubs and meadows?",
+      "options": [
+        "The largest possible tillable area is always the only measure of success",
+        "These areas must replace all crop production",
+        "Their relationships may improve the whole farm enough to outweigh a smaller cultivated area"
+      ],
+      "answer": 2,
+      "explanation": "The lecture explicitly compares the quality supported by balanced landscape elements with the apparent advantage of increased tillage."
+    },
+    "pt": {
+      "question": "Qual é o argumento econômico para conservar bosques, pomares, arbustos e prados?",
+      "options": [
+        "A maior área arável possível é sempre a única medida do sucesso",
+        "Essas áreas devem substituir toda produção de culturas",
+        "Suas relações podem melhorar a fazenda inteira o suficiente para compensar uma área cultivada menor"
+      ],
+      "answer": 2,
+      "explanation": "A palestra compara expressamente a qualidade sustentada pelos elementos equilibrados da paisagem com a vantagem aparente de ampliar o cultivo."
+    }
+  },
+  {
+    "studyId": "agriculture/15",
+    "en": {
+      "question": "Which pairing matches the animal model stated in Lecture 8?",
+      "options": [
+        "Head: earthly substance and cosmic forces; metabolic-limb pole: cosmic substance and earthly forces",
+        "Head: only earthly forces and no substance; limbs: no relation to gravity",
+        "Both poles: identical substances and forces with no distinction"
+      ],
+      "answer": 0,
+      "explanation": "This reversal of substance and force is explicit in the lecture. The question checks the author’s model, not whether it has been established as physiology."
+    },
+    "pt": {
+      "question": "Qual combinação corresponde ao modelo animal da palestra 8?",
+      "options": [
+        "Cabeça: substância terrestre e forças cósmicas; polo metabólico e dos membros: substância cósmica e forças terrestres",
+        "Cabeça: apenas forças terrestres e nenhuma substância; membros: nenhuma relação com a gravidade",
+        "Ambos os polos: substâncias e forças idênticas sem distinção"
+      ],
+      "answer": 0,
+      "explanation": "Essa inversão entre substância e força é explícita na palestra. A pergunta verifica o modelo do autor, não se foi estabelecido como fisiologia."
+    }
+  },
+  {
+    "studyId": "agriculture/16",
+    "en": {
+      "question": "Which correspondence summarizes the lecture’s feeding model?",
+      "options": [
+        "Root: metabolic-limb only; leaf: head only; flower: no function",
+        "All plant parts are assigned exactly the same function",
+        "Root: head; leaf: middle/rhythmic region; flower/fruit: metabolic-limb system"
+      ],
+      "answer": 2,
+      "explanation": "The lecture summarizes these correspondences and treats salts as acting throughout. This retrieves the author’s model without treating it as a complete ration."
+    },
+    "pt": {
+      "question": "Qual correspondência resume o modelo alimentar da palestra?",
+      "options": [
+        "Raiz: apenas sistema metabólico e dos membros; folha: apenas cabeça; flor: nenhuma função",
+        "Todas as partes vegetais recebem exatamente a mesma função",
+        "Raiz: cabeça; folha: região intermediária/rítmica; flor/fruto: sistema metabólico e dos membros"
+      ],
+      "answer": 2,
+      "explanation": "A palestra resume essas correspondências e trata os sais como atuantes no conjunto. Isso recupera o modelo do autor sem apresentá-lo como ração completa."
+    }
+  },
+  {
+    "studyId": "agriculture/17",
+    "en": {
+      "question": "What role does the Circle address give the farmers?",
+      "options": [
+        "They must only implement fixed instructions sent from Dornach.",
+        "Their farm descriptions and active cooperation provide the basis for the work in Dornach.",
+        "Their local observations are irrelevant because every farm is identical."
+      ],
+      "answer": 1,
+      "explanation": "At capture144 Steiner rejects the merely implementing role and says that the basis of the work in Dornach must first come from the farmers."
+    },
+    "pt": {
+      "question": "Que papel o discurso ao Círculo atribui aos agricultores?",
+      "options": [
+        "Devem apenas executar instruções fixas enviadas de Dornach.",
+        "Suas descrições das propriedades e sua colaboração ativa fornecem a base do trabalho em Dornach.",
+        "Suas observações locais são irrelevantes porque todas as propriedades são iguais."
+      ],
+      "answer": 1,
+      "explanation": "Na captura144 Steiner recusa o papel de mero executor e diz que a base do trabalho de Dornach deve vir primeiro dos agricultores."
+    }
+  }
+]

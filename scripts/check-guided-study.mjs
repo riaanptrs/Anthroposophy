@@ -3,7 +3,9 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 import {guidedCounts} from '../content/guided-prompts.mjs';
 import {mysteryLessons} from '../content/mystery-temperaments.mjs';
-const files=fs.readdirSync('docs',{recursive:true}).filter(f=>/lessons[\\/]\d{2}\.html$/.test(f));
+const catalogue=JSON.parse(fs.readFileSync('content/learning-system-catalogue.json','utf8'));
+// New source readings use the shared learning controls, not the retained notebook format.
+const files=fs.readdirSync('docs',{recursive:true}).filter(f=>/lessons[\\/]\d{2}\.html$/.test(f)&&!/(?:^|[\\/])(?:learn|what-is-biodynamics|toward-threefold-society|agriculture)[\\/]/.test(f));
 assert.equal(files.length,352);
 assert.equal(Object.values(guidedCounts).reduce((a,b)=>a+b,0),131);
 assert.deepEqual(mysteryLessons.map(l=>l.id),Array.from({length:15},(_,i)=>i));
@@ -25,6 +27,13 @@ for(const f of files){
  const ids=[...h.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(new Set(ids).size,ids.length,f+' duplicate id');
 }
 assert.equal(Object.keys(counts).length,176);assert.ok(Object.values(counts).every(c=>c===2));
-for(const p of ['docs/index.html','docs/pt/index.html'])assert.equal((fs.readFileSync(p,'utf8').match(/class="course-card"/g)||[]).length,10,p);
+const companionRoutes=new Set(['temperaments','understand-temperament','mystery-temperaments']);
+assert.equal(catalogue.courses.filter(c=>companionRoutes.has(c.route)).length,3,'Retained temperament source companions');
+const primaryCourses=catalogue.courses.filter(c=>!companionRoutes.has(c.route));
+for(const p of ['docs/books/index.html','docs/pt/books/index.html']){
+ const html=fs.readFileSync(p,'utf8');
+ assert.equal((html.match(/class="course-card"/g)||[]).length,primaryCourses.length,p);
+ for(const course of primaryCourses)assert.equal((html.match(new RegExp(`href="\\.\\./${course.route}/index\\.html"`,'g'))||[]).length,1,p+' primary card '+course.route);
+}
 for(const [file,lab] of [['philosophy-of-freedom/lessons/04.html','arithmetic'],['colour/lessons/02.html','colour'],['encountering-the-self/lessons/03.html','dialogue'],['encountering-the-self/lessons/15.html','reflection'],['lessons/06.html','map'],['according-to-luke/lessons/07.html','map']])for(const p of ['docs/','docs/pt/'])assert.ok(fs.readFileSync(p+file,'utf8').includes(`data-lab="${lab}"`),p+file);
-console.log('Passed: 176 existing bilingual lesson pairs, ten course cards, guided sequence, note controls, lab coverage and static fallback. Meditation sessions have their own checker.');
+console.log(`Passed: 176 retained bilingual notebook pairs, ${primaryCourses.length} primary course cards, guided sequence, note controls, lab coverage and static fallback. Meditation and new source reading controls have separate checks.`);

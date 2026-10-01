@@ -1,3 +1,4 @@
+import {fourTemperamentsLessonRevisions} from './four-temperaments-source-guides.mjs';
 export const temperamentsSource='https://wn.rudolfsteinerelib.org/Lectures/GA057/English/AP1987/19090304p01.html';
 // Original study sections of ONE lecture, Berlin, 4 March 1909 (GA 57).
 // Each language row: title, goal, key, context, example, explanation, activity, takeaway, terms, three question/answer pairs.
@@ -231,3 +232,10 @@ export const temperamentsConnections=[
  {target:'higher-worlds/lessons/07.html',lesson:8,en:['Begin with a capacity already present','The Four Temperaments proposes starting from an existing interest, sensitivity or capacity rather than relying on reproach. Try this as an original application of patient attention: describe a fictional learner’s actual response, offer one fitting invitation and identify what would make you revise it. This adds a practical example; it does not require assigning the learner a fixed temperament.'],pt:['Comece por uma capacidade já presente','Os Quatro Temperamentos propõe partir de um interesse, sensibilidade ou capacidade existente, em vez de depender da censura. Experimente como aplicação original da atenção paciente: descreva a resposta concreta de alguém fictício, ofereça um convite adequado e identifique o que faria você revisá-lo. É um exemplo prático adicional; não exige atribuir um temperamento fixo.']},
  {target:'philosophy-of-freedom/lessons/20.html',lesson:7,en:['A temperament label must leave room for the individual','The Four Temperaments explicitly describes mixtures rather than pure types. Compare that qualification with this chapter’s attention to individuality: “choleric” cannot settle what a particular person understands, values or chooses. Add a counterexample to a general description and ask for the person’s own account. The later lecture’s spiritual physiology is not a premise needed for the argument in The Philosophy of Freedom.'],pt:['Um rótulo de temperamento deve deixar espaço ao indivíduo','Os Quatro Temperamentos descreve explicitamente combinações, não tipos puros. Compare essa ressalva com a atenção deste capítulo à individualidade: “colérico” não decide o que uma pessoa compreende, valoriza ou escolhe. Acrescente um contraexemplo à descrição geral e peça o relato da própria pessoa. A fisiologia espiritual da palestra posterior não é premissa necessária ao argumento de A Filosofia da Liberdade.']}
 ];
+
+// Apply the complete 2026 upload without replacing the existing examples or connections.
+for (const revision of fourTemperamentsLessonRevisions) {
+ const lesson=temperamentsLessons.find(l=>l.id===revision.id);
+ if (!lesson) throw new Error(`Unknown temperament lesson: ${revision.id}`);
+ for (const lang of ['en','pt']) Object.assign(lesson[lang],revision[lang]);
+}

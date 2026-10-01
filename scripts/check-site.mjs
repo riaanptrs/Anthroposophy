@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {esc} from './learning-html.mjs';
 import {higherWorlds} from '../content/higher-worlds.mjs';
 import {freedomConnections} from '../content/philosophy-of-freedom-connections.mjs';
 import {additions} from '../content/philosophy-of-freedom-additions.mjs';
@@ -17,6 +18,9 @@ import {temperamentCourse} from '../content/temperament-course.mjs';
 import {mythsLessons} from '../content/ancient-myths.mjs';
 const root = path.resolve('docs');
 const files = fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.html'));
+const catalogue=JSON.parse(fs.readFileSync('content/learning-system-catalogue.json','utf8'));
+const researchMap=JSON.parse(fs.readFileSync('content/learning-system-research-map.json','utf8'));
+const beginnerSources=JSON.parse(fs.readFileSync('content/learning-system-sources.json','utf8'));
 const errors = [];
 for (const relative of files) {
  const file = path.join(root,relative), html = fs.readFileSync(file,'utf8');
@@ -24,7 +28,7 @@ for (const relative of files) {
  const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
  if(new Set(ids).size!==ids.length) errors.push(`${relative}: duplicate id`);
  if((html.match(/<h1\b/g)||[]).length!==1) errors.push(`${relative}: expected one h1`);
- if(/Awaiting source|Aguardando material|Future subject lessons/.test(html)) errors.push(`${relative}: stale placeholder`);
+ if(!html.includes('data-research-note-body')&&/Awaiting source|Aguardando material|Future subject lessons/.test(html)) errors.push(`${relative}: stale placeholder`);
  for(const match of html.matchAll(/(?:href|src)="([^"]+)"/g)) {
   const href=match[1];
   if(/^(https?:|data:|mailto:)/.test(href)) continue;
@@ -35,7 +39,19 @@ for (const relative of files) {
   if(!fs.existsSync(target)) {errors.push(`${relative}: missing ${href}`);continue;}
   if(anchor&&!fs.readFileSync(target,'utf8').includes(`id="${anchor}"`)) errors.push(`${relative}: missing anchor ${href}`);
  }
- if(relative.includes('lessons')) {
+ if(relative.includes('lessons')&&!/(?:^|[\\/])learn[\\/]/.test(relative)) {
+  const sourceRoute=relative.match(/(?:^|[\\/])(what-is-biodynamics|toward-threefold-society|agriculture)[\\/]/)?.[1];
+  if(sourceRoute) {
+   const lang=relative.startsWith('pt')?'pt':'en',course=catalogue.courses.find(c=>c.route===sourceRoute);
+   const lesson=course?.lessons.find(l=>l.id===Number(path.basename(relative,'.html'))),title=lesson?.[lang==='pt'?'titlePt':'titleEn'];
+   if(!lesson||!html.includes(esc(title)))errors.push(`${relative}: missing source reading or title`);
+   if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong source reading language`);
+   const partner=path.join(root,lang==='pt'?'':'pt',sourceRoute,'lessons',path.basename(relative));
+   const alternate=html.match(/<link rel="alternate"[^>]*href="([^"]+)"/);
+   if(!alternate||path.resolve(path.dirname(file),alternate[1])!==partner)errors.push(`${relative}: incorrect source reading language partner`);
+   if(/Starting in|capture-software|C:\\Users\\|sediment:\/\//.test(html))errors.push(`${relative}: private source capture noise leaked`);
+   continue;
+  }
   if(relative.includes('ancient-myths')) {
    const lang=relative.startsWith('pt')?'pt':'en',l=mythsLessons[Number(path.basename(relative,'.html'))];
    if(!l||!html.includes(l[lang].title)||answerDetails!==3||!html.includes(l.url)||!html.includes(l.span))errors.push(`${relative}: incomplete myth lesson or reading reference`);
@@ -161,7 +177,7 @@ if(freedomLessons.length!==22||new Set(freedomLessons.map(l=>l.id)).size!==22)er
 if(lukeLessons.length!==12||new Set(lukeLessons.map(l=>l.id)).size!==12)errors.push('Expected 12 distinct GA 114 lessons');
 if(lukeLessons.filter(l=>l.lecture).map(l=>l.lecture).join(',')!=='1,2,3,4,5,6,7,8,9,10')errors.push('GA 114 must cover ten lectures in order');
 for(const prefix of ['','pt/']){
- const home=fs.readFileSync(path.join(root,prefix,'index.html'),'utf8');
+ const home=fs.readFileSync(path.join(root,prefix,'books','index.html'),'utf8');
  if((home.match(/<!-- luke-card:start -->/g)||[]).length!==1)errors.push(`${prefix}index.html: expected one GA 114 course card`);
  for(let id=0;id<=11;id++)if(!fs.existsSync(path.join(root,prefix,'according-to-luke','lessons',String(id).padStart(2,'0')+'.html')))errors.push(`Missing GA 114 ${prefix}${id}`);
  for(const c of lukeConnections){
@@ -173,7 +189,7 @@ for(const prefix of ['','pt/']){
 if(colourLessons.length!==14||colourLessons.map(l=>l.id).join(',')!=='0,1,2,3,4,5,6,7,8,9,10,11,12,13')errors.push('Expected fourteen Colour lessons in order');
 if(colourLessons.filter(l=>l.lecture).map(l=>l.lecture).join(',')!=='1,2,3,4,5,6,7,8,9,10,11,12')errors.push('Colour must cover twelve lectures');
 for(const prefix of ['', 'pt/']){
- const home=fs.readFileSync(path.join(root,prefix,'index.html'),'utf8');
+ const home=fs.readFileSync(path.join(root,prefix,'books','index.html'),'utf8');
  if((home.match(/<!-- colour-card:start -->/g)||[]).length!==1)errors.push(prefix+'index.html: missing or repeated Colour card');
  for(const l of colourLessons){
   const p=path.join(root,prefix,'colour','lessons',String(l.id).padStart(2,'0')+'.html');
@@ -188,8 +204,8 @@ for(const prefix of ['', 'pt/']){
 
 if(temperamentsLessons.map(l=>l.id).join(',')!=='0,1,2,3,4,5,6,7,8,9,10')errors.push('Expected eleven Temperaments lessons');
 for(const prefix of ['', 'pt/']){
- const home=fs.readFileSync(path.join(root,prefix,'index.html'),'utf8');
- if((home.match(/<!-- temperaments-card:start -->/g)||[]).length!==1)errors.push(prefix+'index.html: missing or repeated Temperaments card');
+ const home=fs.readFileSync(path.join(root,prefix,'books','index.html'),'utf8');
+ if((home.match(/href="\.\.\/temperaments\/index\.html"/g)||[]).length!==1)errors.push(prefix+'index.html: missing or repeated Temperaments card');
  for(const l of temperamentsLessons){
   const p=path.join(root,prefix,'temperaments','lessons',String(l.id).padStart(2,'0')+'.html');
   if(!fs.existsSync(p)){errors.push('Missing '+p);continue;}
@@ -203,8 +219,8 @@ for(const prefix of ['', 'pt/']){
 if(understandLessons.map(l=>l.id).join(',')!=='0,1,2,3,4,5,6,7,8,9,10,11,12')errors.push('Expected thirteen Understand lessons');
 if(understandLessons.map(l=>l.section).join(',')!=='orientation,chapter-1,chapter-2,chapter-3,chapter-4,chapter-5,chapter-6,chapter-7,chapter-8,chapter-9,appendix-1,appendix-2,synthesis')errors.push('Incorrect Childs chapter/appendix coverage');
 for(const prefix of ['', 'pt/']){
- const home=fs.readFileSync(path.join(root,prefix,'index.html'),'utf8');
- if((home.match(/<!-- understand-card:start -->/g)||[]).length!==1)errors.push(prefix+'index.html: missing or repeated Understand card');
+ const home=fs.readFileSync(path.join(root,prefix,'books','index.html'),'utf8');
+ if((home.match(/href="\.\.\/understand-temperament\/index\.html"/g)||[]).length!==1)errors.push(prefix+'index.html: missing or repeated Understand card');
  for(const l of understandLessons){
   const p=path.join(root,prefix,'understand-temperament','lessons',String(l.id).padStart(2,'0')+'.html');
   if(!fs.existsSync(p)){errors.push('Missing '+p);continue;}
@@ -220,7 +236,7 @@ for(const prefix of ['', 'pt/']){
 if(selfLessons.map(l=>l.id).join(',')!=='0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16')errors.push('Expected seventeen Koepke lessons');
 if(selfLessons.map(l=>l.section).join(',')!=='orientation,peter,monica,dear-parents,biography,second-seven-years,seven-and-twelve,move-within-house,curriculum,disturbances,incarnation,school-doctor,sapling,moon-nodes,teeth,form-drawing,synthesis')errors.push('Incorrect Koepke section coverage');
 for(const prefix of ['', 'pt/']){
- const home=fs.readFileSync(path.join(root,prefix,'index.html'),'utf8');
+ const home=fs.readFileSync(path.join(root,prefix,'books','index.html'),'utf8');
  if((home.match(/<!-- self-card:start -->/g)||[]).length!==1)errors.push(prefix+'index.html: missing or repeated Koepke card');
  for(const l of selfLessons){
   const p=path.join(root,prefix,'encountering-the-self','lessons',String(l.id).padStart(2,'0')+'.html');
@@ -235,7 +251,23 @@ for(const prefix of ['', 'pt/']){
  }
  for(const c of selfConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- self-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Koepke supplement');}
 }
-const courseFiles=files.filter(f=>f!=='learning-review.html');
-if(courseFiles.length!==398) errors.push(`Expected 398 course and reference HTML pages, got ${courseFiles.length}`);
+// Derive an exact route inventory from the publication data. Shared English research
+// notes are published once; Portuguese indexes link those same documents.
+const expectedRoutes=new Set();
+for(const prefix of ['', 'pt/']){
+ for(const route of ['index.html','books/index.html','learn/index.html','themes/index.html','research/index.html','reference/human-constitution.html'])expectedRoutes.add(prefix+route);
+ for(const source of beginnerSources)expectedRoutes.add(prefix+'learn/lessons/'+String(source.id).padStart(2,'0')+'.html');
+ for(const course of catalogue.courses){
+  expectedRoutes.add(prefix+course.route+'/index.html');
+  for(const lesson of course.lessons)expectedRoutes.add(lesson[prefix?'pathPt':'pathEn'].replace(/^docs[\\/]/,''));
+  for(const part of course.parts)for(const group of part.groups)if(group.lessonIds.length>1||group.sourceChapterNumber)expectedRoutes.add(prefix+course.route+'/chapters/'+part.id+'-'+group.id+'.html');
+ }
+}
+for(const document of researchMap.documents)expectedRoutes.add('research/notes/'+document.id+'.html');
+const courseFiles=files.filter(f=>f!=='learning-review.html').map(f=>f.replaceAll(path.sep,'/'));
+if(courseFiles.length!==expectedRoutes.size)errors.push(`Expected ${expectedRoutes.size} learning, book, chapter, research and reference HTML pages, got ${courseFiles.length}`);
+const actualRoutes=new Set(courseFiles);
+for(const route of expectedRoutes)if(!actualRoutes.has(route))errors.push('Missing published route '+route);
+for(const route of actualRoutes)if(!expectedRoutes.has(route))errors.push('Unexpected published route '+route);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
 console.log(`Passed: ${files.length} pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.`);

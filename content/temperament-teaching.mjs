@@ -1,3 +1,6 @@
+import {mysteryTemperamentsCoreAdditions,mysteryTemperamentsCoreChecks} from './mystery-temperaments-core-additions.mjs';
+import {childsTemperamentCoreAdditions,childsTemperamentCoreChecks} from './childs-temperament-core-additions.mjs';
+import {fourTemperamentsCoreAdditions,fourTemperamentsCoreChecks} from './four-temperaments-core-additions.mjs';
 // Original bilingual teaching, grounded in the linked GA 57 and Childs companions.
 // Each pair contains a heading and paragraphs; these are explanations, not quotations.
 const pair=(en,pt)=>({en,pt});
@@ -109,3 +112,31 @@ export const temperamentTeaching=[
   ['Como é uma explicação completa', '“Lea se interessa depressa por ideias novas e às vezes deixa uma tarefa inacabada. Isso se aproxima da mobilidade do interesse no retrato sanguíneo. Seus consertos pacientes mostram outra capacidade. Combinar a conclusão de uma placa pequena relaciona interesse e continuidade; sua resposta mostrará se o arranjo ajuda.”', 'Use a mesma estrutura com outro retrato: defina-o, explique características relevantes, dê exemplo e observação contrastante, e explique por que a resposta proposta se ajusta. Por fim, distinga retrato comportamental, interpretação espiritual de Steiner e adaptação prática escolhida.']
  ])
 ];
+
+// Add only the source distinctions missing from the combined course; retain its original practical teaching.
+for(const addition of fourTemperamentsCoreAdditions)for(const lang of ['en','pt']){
+ const sections=addition[lang].sections.map(s=>[s.title,...s.paragraphs,(lang==='pt'?'Leitura: ':'Reading: ')+s.reading]);
+ temperamentTeaching[addition.id][lang].push(...sections);
+}
+for(const check of fourTemperamentsCoreChecks){
+ if(Object.hasOwn(temperamentConceptChecks,check.id))throw Error(`Concept check already exists: ${check.id}`);
+ temperamentConceptChecks[check.id]={en:check.en,pt:check.pt};
+}
+
+for(const addition of childsTemperamentCoreAdditions)for(const lang of ['en','pt']){
+ const sections=addition[lang].sections.map(s=>[s.title,...s.paragraphs,(lang==='pt'?'Leitura: ':'Reading: ')+s.reading]);
+ temperamentTeaching[addition.id][lang].push(...sections);
+}
+for(const check of childsTemperamentCoreChecks){
+ if(Object.hasOwn(temperamentConceptChecks,check.id))throw Error(`Concept check already exists: ${check.id}`);
+ temperamentConceptChecks[check.id]={en:check.en,pt:check.pt};
+}
+
+for(const addition of mysteryTemperamentsCoreAdditions)for(const lang of ['en','pt']){
+ const sections=addition[lang].sections.map(s=>[s.title,...s.paragraphs,(lang==='pt'?'Leitura: ':'Reading: ')+s.reading]);
+ temperamentTeaching[addition.id][lang].push(...sections);
+}
+for(const check of mysteryTemperamentsCoreChecks){
+ if(Object.hasOwn(temperamentConceptChecks,check.id))throw Error(`Concept check already exists: ${check.id}`);
+ temperamentConceptChecks[check.id]={en:check.en,pt:check.pt};
+}

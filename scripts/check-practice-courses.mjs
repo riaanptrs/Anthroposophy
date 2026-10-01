@@ -4,19 +4,24 @@ import assert from 'node:assert/strict';
 import {thinkingLessons} from '../content/practical-thinking.mjs';
 import {temperamentCourse} from '../content/temperament-course.mjs';
 const routes=[['practical-thinking',thinkingLessons,10],['understanding-temperaments',temperamentCourse,12]];
+const catalogue=JSON.parse(fs.readFileSync('content/learning-system-catalogue.json','utf8'));
+const sourceCompanions=['temperaments','understand-temperament','mystery-temperaments'];
+assert.equal(catalogue.courses.filter(c=>sourceCompanions.includes(c.route)).length,3,'Three retained source companions');
+const primaryRoutes=catalogue.courses.filter(c=>!sourceCompanions.includes(c.route)).map(c=>c.route);
 for(const prefix of ['docs','docs/pt']){
  const lang=prefix.endsWith('/pt')?'pt':'en',other=lang==='en'?'docs/pt':'docs';
- const home=fs.readFileSync(prefix+'/index.html','utf8');
+ const home=fs.readFileSync(prefix+'/books/index.html','utf8');
  const cards=[...home.matchAll(/<a class="course-card" href="([^"]+)"/g)].map(m=>m[1]);
- assert.equal(cards.length,10);assert.equal(new Set(cards).size,10);
- for(const old of ['temperaments','understand-temperament','mystery-temperaments']){
-  assert.ok(!cards.includes(old+'/index.html'),'Duplicate primary temperament route');
-  assert.ok(home.includes(`href="${old}/index.html"`),'Missing source-library access');
+ assert.equal(cards.length,primaryRoutes.length);assert.equal(new Set(cards).size,primaryRoutes.length);
+ assert.deepEqual([...cards].sort(),primaryRoutes.map(route=>'../'+route+'/index.html').sort(),'Primary course cards match the catalogue');
+ for(const old of sourceCompanions){
+  assert.ok(!cards.includes('../'+old+'/index.html'),'Duplicate primary temperament route');
+  assert.ok(home.includes(`href="../${old}/index.html"`),'Missing source-library access');
   assert.ok(fs.readFileSync(prefix+'/'+old+'/index.html','utf8').includes('../understanding-temperaments/index.html'));
  }
  for(const [slug,lessons,total] of routes){
   assert.equal(lessons.length,total);assert.deepEqual(lessons.map(l=>l.id),Array.from({length:total},(_,i)=>i));
-  assert.ok(cards.includes(slug+'/index.html'));const index=fs.readFileSync(prefix+'/'+slug+'/index.html','utf8');
+  assert.ok(cards.includes('../'+slug+'/index.html'));const index=fs.readFileSync(prefix+'/'+slug+'/index.html','utf8');
   assert.equal((index.match(/data-practice-lesson=/g)||[]).length,total);assert.ok(index.includes(`data-course-journal="${slug}"`));
   for(const l of lessons){
    const filename=String(l.id).padStart(2,'0')+'.html',file=prefix+'/'+slug+'/lessons/'+filename,h=fs.readFileSync(file,'utf8'),v=l[lang];

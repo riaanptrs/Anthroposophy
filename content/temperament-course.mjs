@@ -1,3 +1,5 @@
+import {mysteryTemperamentsCoreLinks} from './mystery-temperaments-core-additions.mjs';
+import {childsTemperamentCoreLinks} from './childs-temperament-core-additions.mjs';
 import {temperamentsLessons as steiner} from './temperaments.mjs';
 import {understandLessons as childs} from './understand-temperament.mjs';
 import {mysteryLessons as mystery} from './mystery-temperaments.mjs';
@@ -96,3 +98,16 @@ export const temperamentCourse=map.map(([book,index,extra],id)=>({id,...Object.f
   checks:[...(temperamentConceptChecks[id]?[temperamentConceptChecks[id][lang]]:[]),[e[2],responses[id][i]],[(i?'Nova informação: ':'New information: ')+e[4],revisionAnswers[id][i]]]
  }];
 }))}));
+
+// The opening lesson now links the two-stream argument that is developed in the book companion.
+for(const lang of ['en','pt'])temperamentCourse[0][lang].sources.push({label:books.steiner.label,url:'../../temperaments/lessons/01.html',focus:steiner[1][lang].title});
+
+for(const link of childsTemperamentCoreLinks)for(const lang of ['en','pt']){
+ const book=books[link.book],lesson=temperamentCourse[link.coreId],url='../../'+book.route+'/lessons/'+n(link.lesson)+'.html';
+ if(!lesson[lang].sources.some(s=>s.url===url))lesson[lang].sources.push({label:book.label,url,focus:book.lessons[link.lesson][lang].title});
+}
+
+for(const link of mysteryTemperamentsCoreLinks)for(const lang of ['en','pt']){
+ const book=books[link.book],lesson=temperamentCourse[link.coreId],url='../../'+book.route+'/lessons/'+n(link.lesson)+'.html';
+ if(!lesson[lang].sources.some(s=>s.url===url))lesson[lang].sources.push({label:book.label,url,focus:book.lessons[link.lesson][lang].title});
+}

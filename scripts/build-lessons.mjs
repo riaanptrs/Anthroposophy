@@ -9,6 +9,11 @@ import {introduction, introductionExample, courseMap} from '../content/introduct
 import {connections} from '../content/anthroposophy-connections.mjs';
 import {higherWorldsConnections} from '../content/higher-worlds-connections.mjs';
 import {applyFreedomConnections, freedomSource, introductoryDiagrams, actionQuestions, knowledgeQuestions, thinkingReview, sharedConcept, recognitionComparison, purposeSequence} from '../content/philosophy-of-freedom-connections.mjs';
+// Source-owned seed keeps legacy builders repeatable after the learning homepage is generated.
+for (const [lang, target] of [['en','docs/index.html'],['pt','docs/pt/index.html']]) {
+ fs.mkdirSync(path.dirname(target),{recursive:true});
+ fs.writeFileSync(target,fs.readFileSync(new URL('../content/legacy-home-'+lang+'.html',import.meta.url),'utf8'));
+}
 const lessons = applyFreedomConnections([introduction,...first,...second,...third,...fourth], 'theosophy');
 const companionTitle = 'What Is Anthroposophy? Three Perspectives on Self-Knowledge';
 const esc = s => String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
@@ -41,14 +46,14 @@ for (const lang of ['en','pt']) {
   const companion = connection ? `<section class="companion-reading"><div class="eyebrow">${pt?'Ligação com as palestras posteriores':'Connection with the later lectures'}</div><h2>${esc(connection[lang][0])}</h2>${connection[lang].slice(1).map(p=>`<p>${esc(p)}</p>`).join('')}<p class="closing">${pt?'Fonte complementar':'Companion source'}: Rudolf Steiner, <cite>${companionTitle}</cite> (2002), ${pt?'marcadores de página':'page markers'} ${connection.pages}. ${pt?'A numeração corresponde à primeira transcrição de estudo (191 páginas), não às páginas de Teosofia.':'Numbers refer to the first study transcription (191 pages), not the pages of Theosophy.'}</p>${recoveredSource}</section>` : '';
   const worked = `<section class="worked-example"><h2>${pt?'Comece com um exemplo':'Start with an example'}</h2><p>${esc(scene)}</p><h3>${pt?'O que isso ajuda a entender':'What this helps explain'}</h3><p>${esc(meaning)}</p></section>`;
   const extra = higherWorldsConnections[l.id];
-  const supplement = extra ? `<section class="companion-reading"><div class="eyebrow">${pt?'Ligação com o Curso 2 · GA 10':'Connection with Course 2 · GA 10'}</div><h2>${esc(extra[lang][0])}</h2><p>${esc(extra[lang][1])}</p><p class="closing">${pt?'Fonte: Como conhecer os mundos superiores, marcadores':'Source: How to Know Higher Worlds, markers'} ${extra.pages} ${pt?'da transcrição de 107 páginas.':'in the 107-page transcription.'}</p><p><a href="../higher-worlds/lessons/${n(extra.lesson)}.html">${pt?'Aprofunde no Curso 2':'Explore in Course 2'} →</a></p></section>` : '';
+  const supplement = extra ? `<section class="companion-reading"><div class="eyebrow">${pt?'Ligação com o Curso 2 · GA 10':'Connection with Course 2 · GA 10'}</div><h2>${esc(extra[lang][0])}</h2><p>${esc(extra[lang][1])}</p><p class="closing">${pt?'Fonte: Como conhecer os mundos superiores, páginas PDF':'Source: How to Know Higher Worlds, PDF pages'} ${extra.pages} ${pt?'do arquivo de 108 páginas (Dead Authors Society, 2018).':'in the 108-page capture (Dead Authors Society, 2018).'}</p><p><a href="../higher-worlds/lessons/${n(extra.lesson)}.html">${pt?'Aprofunde no Curso 2':'Explore in Course 2'} →</a></p></section>` : '';
   const chapterUrl = `https://rsarchive.org/Books/GA009/English/AP1971/GA009_c0${Math.min(l.chapter,4)}.html`;
   const sourceLink = !isIntro && l.chapter < 5 ? `<p><a href="${chapterUrl}">${pt?'Ler o capítulo no Rudolf Steiner Archive (inglês)':'Read the chapter at the Rudolf Steiner Archive'} →</a></p>` : '';
 
   const alternate = pt ? `../../lessons/${n(l.id)}.html` : `../pt/lessons/${n(l.id)}.html`;
   const source = pt ? `Leitura: Rudolf Steiner, Teosofia (GA 9), ${l.chapter<5?'capítulo '+['I','II','III','IV'][l.chapter-1]+', ':''}pp. ${l.pages}${l.notes?'; adendo(s) '+l.notes:''}.` : `Reading: Rudolf Steiner, Theosophy (GA 9), ${l.chapter<5?'Chapter '+['I','II','III','IV'][l.chapter-1]+', ':''}pp. ${l.pages}${l.notes?'; addendum/addenda '+l.notes:''}.`;
   const sourceContent = isIntro
-   ? `<p>${pt?'Base desta introdução':'Basis of this introduction'}: <cite>${companionTitle}</cite> (Anthroposophic Press, 2002).</p><p>${pt?'Christopher Bamford apresenta o propósito e o contexto nos marcadores 15–16, 22–24, 30–32 e 46–49. As palestras de Steiner relacionam pensamento e liberdade (151–152), Eu e amor (160–162). Esses números são marcadores da primeira transcrição (191 páginas), não páginas impressas. A comparação da encosta vem dos marcadores 12–13 da segunda transcrição (69 páginas). As explicações e o mapa são originais deste curso.':'Christopher Bamford introduces the purpose and context at markers 15–16, 22–24, 30–32, and 46–49. Steiner’s lectures connect thinking with freedom (151–152), and the I with love (160–162). These numbers are markers in the first transcription (191 pages), not printed pages. The hillside comparison comes from markers 12–13 of the second transcription (69 pages). The explanations and course map are original course material.'}</p>`
+   ? `<p>${pt?'Leitura principal':'Main reading'}: Rudolf Steiner, <cite>Theosophy / Teosofia</cite> (GA 9), Anthroposophic Press, 1971; ${pt?'tradução inglesa de Henry B. Monges, revista por Gilbert Church':'English translation by Henry B. Monges, revised by Gilbert Church'}.</p><p>${pt?'Prefácios, pp. vii–xv; Introdução, pp. xvii–xxiii. Correspondem às páginas 9–17 e 19–25 do PDF fornecido. O texto principal começa na p. 1 impressa / p. 29 do PDF.':'Prefaces, pp. vii–xv; Introduction, pp. xvii–xxiii. These correspond to pages 9–17 and 19–25 of the supplied PDF. The main text begins on printed p. 1 / PDF p. 29.'}</p><p>${pt?'Os trechos selecionados foram conferidos nas imagens do PDF. As traduções de estudo e as explicações em português são originais deste curso. As ligações com outros livros e palestras são complementares; Teosofia orienta a sequência principal.':'Selected excerpts were checked against the PDF images. Portuguese study translations and explanations are original course material. Connections to other books and lectures are supplements; Theosophy guides the main sequence.'}</p>`
    : `<p>${esc(source)}</p><p>${pt?'A paginação é da edição inglesa de 1971 (Monges, revisão de Church); localize o trecho pelo capítulo se usar outra edição. As explicações em português são originais deste curso.':'Page numbers refer to the 1971 English edition (Monges, revised by Church); use the chapter to locate the passage in other editions. Explanations are original course material.'}</p>${sourceLink}`;
   const previous = isIntro ? '../#study-guide' : `${n(l.id-1)}.html`;
   const next = lessons.find(x=>x.id===l.id+1);
@@ -73,6 +78,7 @@ await import('./build-understand-temperament.mjs');
 await import('./build-encountering-the-self.mjs');
 await import('./build-mystery-temperaments.mjs');
 await import('./build-freedom-route.mjs');
+await import('./build-freedom-lecture-guides.mjs');
 await import('./build-practice-courses.mjs');
 await import('./build-ancient-myths.mjs');
 await import('./build-guided-study.mjs');
@@ -80,4 +86,12 @@ await import('./build-meditation.mjs');
 await import('./build-passage-study.mjs');
 await import('./build-human-constitution.mjs');
 const {buildLinks}=await import('./link-constitution.mjs');
+buildLinks();
+
+// The anthology renders its own reviewed passages after the legacy reading transforms.
+await import('./build-what-is-biodynamics.mjs');
+await import('./build-threefold-society.mjs');
+await import('./build-agriculture.mjs');
+await import('./build-learning-system.mjs');
+// New beginner, chapter and research pages use the same illustrated terminology reference.
 buildLinks();

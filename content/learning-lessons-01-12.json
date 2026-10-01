@@ -1,0 +1,1056 @@
+[
+  {
+    "id": 1,
+    "en": {
+      "intro": "We begin by identifying the author whose ideas organize this pathway. Rudolf Steiner (1861–1925) wrote philosophical works, spiritual books and lectures; his educational and artistic proposals also inspired practical movements.",
+      "meaning": [
+        "His writings ask different questions. The Philosophy of Freedom investigates knowing and free action through a philosophical argument. Theosophy presents an account of the human being, destiny, spiritual worlds and a path of knowledge. Reading them together requires noticing both their connections and their different purposes.",
+        "Steiner presents his later descriptions of spiritual beings and processes as results of supersensible investigation. That is a claim made by the author. Understanding what he means comes before examining his reasons; neither his influence nor admiration for his life settles the truth of the claim.",
+        "The site also includes other voices. Translators choose terminology; editors introduce editions; Koepke and Childs develop their own teaching accounts. A passage written by one of them should not become a quotation attributed to Steiner merely because it appears in an anthroposophical book.",
+        "Koepke reproduces an autobiographical account in which Steiner remembers finding happiness in geometry. Steiner distinguishes the childhood feeling from a formulation reached much later. Koepke then interprets a life motif. The recollection, the later interpretation and an independently documented biography are different kinds of evidence."
+      ],
+      "keyConcept": "An author’s life, an autobiographical testimony and the argument of a book are connected sources of understanding, with different evidential roles.",
+      "example": "Imagine reading an admired musician’s childhood memory. It may illuminate a later interest without proving that every statement in the musician’s books is correct. This course example illustrates the distinction, not Steiner’s biography.",
+      "distinction": "This pathway is not a complete chronological biography. It uses the locally reviewed books and clearly identifies historical context, author testimony and course explanation.",
+      "connection": "Knowing whose voice we are reading prepares the next question: what does Steiner’s anthroposophy propose to understand?",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Which comparison preserves the different purposes of the two books?",
+          "options": [
+            "The Philosophy of Freedom studies knowing and free action; Theosophy develops a spiritual account of humanity and its worlds.",
+            "Both books are complete chronological biographies.",
+            "Every claim in Theosophy is already a conclusion of The Philosophy of Freedom."
+          ],
+          "answer": 0,
+          "explanation": "The books have related questions, but their arguments and the kinds of claims they present are not identical."
+        },
+        {
+          "type": "true-false",
+          "question": "Koepke’s interpretation of Steiner’s childhood needs to be distinguished from Steiner’s autobiographical testimony.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "The commentary and the quoted testimony have different voices. Keeping them distinct preserves their different evidential roles."
+        },
+        {
+          "type": "reflection",
+          "question": "Name one kind of information you would seek before writing a complete biography of Steiner.",
+          "explanation": "An independently documented date, event or historical setting would help. Explain why a remembered scene alone would not supply a complete chronology."
+        }
+      ],
+      "coverageNote": "These readings provide bibliographic and autobiographical fragments, not a complete independently checked chronology. A recalled episode can illuminate a life without proving its spiritual claims.",
+      "sourceSection": "Rudolf Steiner, Theosophy, prefaces and Introduction, Monges/Church English edition, 1971; The Philosophy of Freedom, author’s prefaces, Wilson English edition, 2012. Compare Steiner’s autobiography as quoted and interpreted in Hermann Koepke’s Encountering the Self, The Ninth Year in Biography, PDF captures 38–39."
+    },
+    "pt": {
+      "intro": "Começamos identificando o autor cujas ideias organizam este percurso. Rudolf Steiner (1861–1925) escreveu obras filosóficas, livros espirituais e palestras; suas propostas educativas e artísticas também inspiraram movimentos práticos.",
+      "meaning": [
+        "Seus escritos fazem perguntas diferentes. A filosofia da liberdade investiga o conhecer e a ação livre por um argumento filosófico. Teosofia apresenta uma explicação do ser humano, do destino, dos mundos espirituais e de um caminho de conhecimento. Ler os dois livros em conjunto exige perceber suas relações e seus diferentes propósitos.",
+        "Steiner apresenta suas descrições posteriores de seres e processos espirituais como resultados de investigação suprassensível. Essa é uma afirmação do autor. Compreender o que ele quer dizer vem antes de examinar suas razões; nem sua influência nem a admiração por sua vida resolvem a verdade dessa afirmação.",
+        "O site também inclui outras vozes. Tradutores escolhem termos; editores apresentam edições; Koepke e Childs desenvolvem suas próprias explicações educativas. Um trecho escrito por um deles não deve se tornar uma citação atribuída a Steiner apenas porque aparece num livro antroposófico.",
+        "Koepke reproduz um relato autobiográfico no qual Steiner recorda ter encontrado felicidade na geometria. Steiner distingue o sentimento infantil de uma formulação alcançada muito depois. Koepke então interpreta um motivo de vida. A lembrança, a interpretação posterior e uma biografia documentada de modo independente são tipos diferentes de evidência."
+      ],
+      "keyConcept": "A vida de um autor, seu testemunho autobiográfico e o argumento de um livro são fontes relacionadas de compreensão, com diferentes funções como evidência.",
+      "example": "Imagine ler uma lembrança infantil de um músico admirado. Ela pode esclarecer um interesse posterior sem provar que toda afirmação em seus livros esteja correta. Este exemplo do curso ilustra a distinção, não a biografia de Steiner.",
+      "distinction": "Este percurso não é uma biografia cronológica completa. Utiliza os livros revistos localmente e identifica contexto histórico, testemunho do autor e explicação do curso.",
+      "connection": "Saber de quem é a voz que lemos prepara a próxima pergunta: o que a antroposofia de Steiner pretende compreender?",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Que comparação preserva os diferentes propósitos dos dois livros?",
+          "options": [
+            "A filosofia da liberdade estuda conhecer e agir livremente; Teosofia desenvolve uma explicação espiritual da humanidade e de seus mundos.",
+            "Os dois livros são biografias cronológicas completas.",
+            "Toda afirmação de Teosofia já é uma conclusão de A filosofia da liberdade."
+          ],
+          "answer": 0,
+          "explanation": "Os livros têm perguntas relacionadas, mas seus argumentos e os tipos de afirmações apresentados não são idênticos."
+        },
+        {
+          "type": "true-false",
+          "question": "A interpretação de Koepke da infância de Steiner precisa ser distinguida do testemunho autobiográfico de Steiner.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 0,
+          "explanation": "O comentário e o testemunho citado têm vozes diferentes. Distingui-los preserva suas diferentes funções como evidência."
+        },
+        {
+          "type": "reflection",
+          "question": "Nomeie um tipo de informação que procuraria antes de escrever uma biografia completa de Steiner.",
+          "explanation": "Uma data, acontecimento ou contexto histórico documentado de forma independente ajudaria. Explique por que uma cena lembrada não forneceria, sozinha, uma cronologia completa."
+        }
+      ],
+      "coverageNote": "Estas leituras oferecem fragmentos bibliográficos e autobiográficos, não uma cronologia completa conferida de modo independente. Um episódio lembrado esclarece uma vida sem comprovar suas afirmações espirituais.",
+      "sourceSection": "Rudolf Steiner, Teosofia, prefácios e Introdução, edição inglesa Monges/Church, 1971; A filosofia da liberdade, prefácios do autor, edição inglesa Wilson, 2012. Compare a autobiografia de Steiner citada e interpretada em Encountering the Self, de Hermann Koepke, O nono ano na biografia, capturas 38–39 do PDF."
+    }
+  },
+  {
+    "id": 2,
+    "en": {
+      "intro": "Anthroposophy is the larger inquiry we will study, rather than the name of one practical application. Its central concern is how human life belongs to what Steiner regards as a spiritual reality.",
+      "meaning": [
+        "In Theosophy, Steiner introduces spiritual science as investigation of spiritual processes in humanity and the cosmos. The book concentrates on the spiritual core of the human being and its destination. Anthroposophy develops this inquiry through accounts of constitution, consciousness, repeated lives, freedom and relationships with spiritual worlds.",
+        "These descriptions are not presented merely as useful stories. Steiner considers their beings and processes real. The course therefore explains the account in its own terms, while distinguishing a faithfully reconstructed claim from evidence that independently establishes it.",
+        "The later lectures collected as What Is Anthroposophy? approach self-knowledge through bodily and spiritual life, thinking, memory, freedom and love. They add another setting and another development of the inquiry. Their editorial introduction is not the same voice as Steiner’s lectures, and their references do not belong to Theosophy.",
+        "An inquiry can inspire institutions and practices without being identical with any one of them. Waldorf education, artistic work and the study of temperament are places where anthroposophical ideas are applied or developed. To understand an application, first ask which account of the human being it draws upon."
+      ],
+      "keyConcept": "Anthroposophy is Steiner’s proposed inquiry into spiritual dimensions of humanity and the cosmos, with consequences for self-knowledge and practical life.",
+      "example": "A school might organize a painting lesson using ideas about human development. Examining that lesson reveals one application; it does not yet explain the whole account of the human being or demonstrate its spiritual premises.",
+      "distinction": "Anthroposophy is not simply Waldorf schooling or a personality classification. The title Theosophy also does not make this course a survey of every teaching of the historical Theosophical Society.",
+      "connection": "We now know the inquiry’s scope. Next we examine why Steiner calls its proposed way of knowing spiritual science.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Which statement best describes the scope introduced here?",
+          "options": [
+            "Anthroposophy is identical with every classroom practice called Waldorf.",
+            "Anthroposophy investigates humanity and the cosmos through a proposed spiritual account that can inform applications.",
+            "Anthroposophy only sorts people into temperament categories."
+          ],
+          "answer": 1,
+          "explanation": "The proposed inquiry is broader than any educational method or classification. Applications need their own source context."
+        },
+        {
+          "type": "true-false",
+          "question": "Steiner intends the spiritual beings and processes he describes only as metaphors.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "He presents them as realities. Accurate study must retain that claim even while asking what supports it."
+        },
+        {
+          "type": "reflection",
+          "question": "Choose an application and formulate a question about the human being that might underlie it.",
+          "explanation": "Explain the connection as a question to investigate. A plausible connection is a starting point, rather than proof of the application or its premises."
+        }
+      ],
+      "coverageNote": "The introduction supports a faithful paraphrase, not a newly invented definition quotation. The later lectures develop their own context and must keep their separate attribution.",
+      "sourceSection": "Rudolf Steiner, Theosophy, Introduction, printed p. xxii, and prefaces, Monges/Church English edition, 1971. Supplementary context: What Is Anthroposophy? (GA 225), Steiner’s lectures; distinguish Christopher Bamford’s editorial introduction."
+    },
+    "pt": {
+      "intro": "Antroposofia é a investigação mais ampla que estudaremos, não o nome de uma única aplicação prática. Sua preocupação central é como a vida humana pertence àquilo que Steiner considera uma realidade espiritual.",
+      "meaning": [
+        "Em Teosofia, Steiner apresenta a ciência espiritual como investigação dos processos espirituais na humanidade e no cosmos. O livro se concentra no núcleo espiritual do ser humano e em sua destinação. A antroposofia desenvolve essa investigação por explicações da constituição humana, consciência, vidas repetidas, liberdade e relações com mundos espirituais.",
+        "Essas descrições não são apresentadas apenas como histórias úteis. Steiner considera reais seus seres e processos. Por isso, o curso explica a concepção em seus próprios termos, distinguindo uma afirmação reconstruída com fidelidade da evidência que a estabelece de modo independente.",
+        "As palestras posteriores reunidas em O que é antroposofia? abordam o autoconhecimento pela vida corporal e espiritual, pelo pensar, pela memória, liberdade e amor. Acrescentam outro contexto e outro desenvolvimento da investigação. Sua introdução editorial não tem a mesma voz das palestras de Steiner, e suas referências não pertencem a Teosofia.",
+        "Uma investigação pode inspirar instituições e práticas sem ser idêntica a qualquer uma delas. Educação Waldorf, trabalho artístico e estudo dos temperamentos são campos em que ideias antroposóficas são aplicadas ou desenvolvidas. Para compreender uma aplicação, pergunte primeiro de que explicação do ser humano ela parte."
+      ],
+      "keyConcept": "Antroposofia é a investigação proposta por Steiner das dimensões espirituais da humanidade e do cosmos, com consequências para o autoconhecimento e a vida prática.",
+      "example": "Uma escola pode organizar uma aula de pintura com ideias sobre desenvolvimento humano. Examinar essa aula revela uma aplicação; ainda não explica toda a constituição humana nem demonstra suas premissas espirituais.",
+      "distinction": "Antroposofia não é simplesmente ensino Waldorf ou classificação de personalidade. O título Teosofia também não faz deste curso um panorama de todo ensinamento da Sociedade Teosófica histórica.",
+      "connection": "Já conhecemos o alcance da investigação. A seguir examinamos por que Steiner chama seu modo proposto de conhecer de ciência espiritual.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Que afirmação descreve melhor o alcance apresentado aqui?",
+          "options": [
+            "Antroposofia é idêntica a toda prática escolar chamada Waldorf.",
+            "Antroposofia investiga humanidade e cosmos por uma concepção espiritual proposta, que pode orientar aplicações.",
+            "Antroposofia apenas organiza pessoas em categorias de temperamento."
+          ],
+          "answer": 1,
+          "explanation": "A investigação proposta é mais ampla que qualquer método educativo ou classificação. Aplicações exigem seu próprio contexto de origem."
+        },
+        {
+          "type": "true-false",
+          "question": "Steiner pretende que os seres e processos espirituais descritos sejam apenas metáforas.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "Ele os apresenta como realidades. Um estudo fiel deve preservar essa afirmação e perguntar o que a sustenta."
+        },
+        {
+          "type": "reflection",
+          "question": "Escolha uma aplicação e formule uma pergunta sobre o ser humano que possa estar por trás dela.",
+          "explanation": "Explique a relação como pergunta a investigar. Uma ligação plausível é um começo, não prova da aplicação nem de suas premissas."
+        }
+      ],
+      "coverageNote": "A introdução sustenta uma paráfrase fiel, não uma citação de definição inventada. As palestras posteriores desenvolvem seu próprio contexto e precisam manter sua atribuição separada.",
+      "sourceSection": "Rudolf Steiner, Teosofia, Introdução, p. xxii impressa, e prefácios, edição inglesa Monges/Church, 1971. Contexto complementar: O que é antroposofia? (GA 225), palestras de Steiner; distinga a introdução editorial de Christopher Bamford."
+    }
+  },
+  {
+    "id": 3,
+    "en": {
+      "intro": "The word science can suggest an ordinary laboratory investigation. Steiner uses spiritual science for another proposed mode of inquiry, so we must understand his claim before deciding how to assess it.",
+      "meaning": [
+        "He describes supersensible beings and processes: realities he says are not disclosed by ordinary bodily senses. He presents the account as the result of spiritual investigation, rather than belief inherited from a group or an imaginative story chosen for its comfort.",
+        "The investigator’s capacities are central to this proposal. Steiner argues that disciplined thinking, attention, feeling and character can develop the knower required for spiritual perception. A thoughtful reader may understand the relationships in a report before possessing that direct capacity. Understanding, agreement and independent discovery are therefore different achievements.",
+        "The path chapter begins with living thought and receptive attention. Receptivity means allowing a claim to be understood before rejecting it from habit; the book’s own qualifications distinguish it from surrendering judgment to a teacher. The reader still has to reconstruct the claim, its reasons and the questions it leaves.",
+        "Steiner also distinguishes developing a perceptive capacity from commanding a particular spiritual perception at will. His experimental-testing qualification matters when evaluating the proposal. An analogy with ordinary sight explains his intended relationship, but does not supply contemporary empirical verification of spiritual organs or their objects."
+      ],
+      "keyConcept": "Spiritual science names Steiner’s proposed disciplined investigation of supersensible reality; the term states a method and claim, not an automatic certificate of truth.",
+      "example": "You can follow an account of how a painting is composed without being able to paint it. This comparison clarifies understanding versus producing a work. Applying it to spiritual perception adds a further claim that requires examination.",
+      "distinction": "Calling the account science neither proves it nor permits turning its spiritual realities silently into metaphors. Clear understanding can coexist with a reasoned unresolved question.",
+      "connection": "The next reading asks more precisely what Steiner says must develop in a person for direct spiritual knowledge.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Which distinction is essential to the proposed method?",
+          "options": [
+            "Understanding a report is identical with independently perceiving its subject.",
+            "Agreement with a teacher is sufficient evidence of spiritual perception.",
+            "A reader can understand an account while direct discovery requires the capacities Steiner describes."
+          ],
+          "answer": 2,
+          "explanation": "The text distinguishes thoughtful understanding from the investigator’s claimed perception. Agreement is another question."
+        },
+        {
+          "type": "true-false",
+          "question": "Receptive attention can coexist with independent judgment.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "The path chapter distinguishes understanding a claim before judging it from blind faith or shutting out judgment."
+        },
+        {
+          "type": "reflection",
+          "question": "State one question you would ask about the support for a supersensible claim.",
+          "explanation": "Distinguish the proposed method from evidence of its results. Ask how a finding could be distinguished from a self-produced interpretation without pretending the issue is already settled."
+        }
+      ],
+      "coverageNote": "The course reconstructs the proposed method and its forms of support. A definition or ordinary example does not independently establish spiritual perception; the author’s testing qualification remains part of the account.",
+      "sourceSection": "Rudolf Steiner, Theosophy, Introduction, revised-edition prefaces, Chapter IV opening, printed pp. 154–161, and Addendum 13, Monges/Church English edition, 1971. Compare How to Know Higher Worlds, 1918 appendix, PDF captures 106–108 of the reviewed 2018 English edition."
+    },
+    "pt": {
+      "intro": "A palavra ciência pode sugerir uma investigação comum de laboratório. Steiner usa ciência espiritual para outro modo proposto de investigar; precisamos compreender sua afirmação antes de decidir como avaliá-la.",
+      "meaning": [
+        "Ele descreve seres e processos suprassensíveis: realidades que, segundo ele, não se revelam pelos sentidos corporais comuns. Apresenta essa concepção como resultado de investigação espiritual, não como crença herdada de um grupo ou história imaginativa escolhida pelo conforto que oferece.",
+        "As capacidades do investigador são centrais nessa proposta. Steiner afirma que pensar, atenção, sentir e caráter disciplinados podem desenvolver quem conhece para a percepção espiritual. Um leitor atento pode compreender as relações de um relato antes de possuir essa capacidade direta. Compreensão, concordância e descoberta independente são, portanto, realizações diferentes.",
+        "O capítulo do caminho começa com pensamento vivo e atenção receptiva. Receptividade significa permitir que uma afirmação seja compreendida antes de rejeitá-la por hábito; as ressalvas do próprio livro a distinguem de entregar o julgamento a um professor. O leitor ainda precisa reconstruir a afirmação, suas razões e as perguntas que permanecem.",
+        "Steiner também distingue desenvolver uma capacidade perceptiva de comandar uma percepção espiritual específica à vontade. Sua ressalva sobre testes experimentais importa ao avaliar a proposta. A analogia com a visão comum explica a relação pretendida, mas não fornece verificação empírica contemporânea de órgãos espirituais ou de seus objetos."
+      ],
+      "keyConcept": "Ciência espiritual nomeia a investigação disciplinada proposta por Steiner da realidade suprassensível; o termo declara um método e uma afirmação, não um certificado automático de verdade.",
+      "example": "Você pode acompanhar como um quadro foi composto sem saber pintá-lo. A comparação esclarece compreender e produzir uma obra. Aplicá-la à percepção espiritual acrescenta outra afirmação que precisa ser examinada.",
+      "distinction": "Chamar a concepção de ciência não a comprova nem permite transformar silenciosamente suas realidades espirituais em metáforas. Compreensão clara pode coexistir com uma pergunta fundamentada ainda não resolvida.",
+      "connection": "A próxima leitura pergunta com mais precisão o que, segundo Steiner, precisa se desenvolver numa pessoa para o conhecimento espiritual direto.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Que distinção é essencial ao método proposto?",
+          "options": [
+            "Compreender um relato é idêntico a perceber seu objeto de modo independente.",
+            "Concordar com um professor é evidência suficiente de percepção espiritual.",
+            "Um leitor pode compreender uma concepção enquanto a descoberta direta exige as capacidades descritas por Steiner."
+          ],
+          "answer": 2,
+          "explanation": "O texto distingue compreensão atenta da percepção alegada pelo investigador. A concordância é outra questão."
+        },
+        {
+          "type": "true-false",
+          "question": "A atenção receptiva pode coexistir com julgamento independente.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 0,
+          "explanation": "O capítulo do caminho distingue compreender uma afirmação antes de julgá-la da fé cega ou da suspensão do julgamento."
+        },
+        {
+          "type": "reflection",
+          "question": "Formule uma pergunta sobre o apoio dado a uma afirmação suprassensível.",
+          "explanation": "Distinga o método proposto da evidência de seus resultados. Pergunte como uma descoberta poderia diferir de uma interpretação produzida pelo próprio investigador, sem fingir que a questão já foi resolvida."
+        }
+      ],
+      "coverageNote": "O curso reconstrói o método proposto e suas formas de apoio. Uma definição ou exemplo comum não estabelece de modo independente a percepção espiritual; a ressalva do autor sobre testes permanece na concepção.",
+      "sourceSection": "Rudolf Steiner, Teosofia, Introdução, prefácios das edições revistas, abertura do capítulo IV, pp. 154–161 impressas, e Adendo 13, edição inglesa Monges/Church, 1971. Compare Como conhecer os mundos superiores, apêndice de 1918, capturas 106–108 do PDF da edição inglesa de 2018 examinada."
+    }
+  },
+  {
+    "id": 4,
+    "en": {
+      "intro": "Steiner’s account depends on a proposed development of the knower, not just on learning additional information. The eye-and-ear comparison introduces what he calls soul and spiritual organs of perception.",
+      "meaning": [
+        "Bodily senses disclose bodily processes. By analogy, the selected passage says a person can develop capacities through which soul and spiritual worlds become accessible. These organs belong to his supersensible account; the comparison does not describe another physical eye hidden in the head.",
+        "Theosophy’s path begins with thoughtful assimilation of another investigator’s account. Steiner regards thinking as a living force capable of organizing and developing the soul. He distinguishes active understanding from an agreeable stream of inner pictures, and asks for receptive attention that preserves judgment.",
+        "Feeling, will and conduct also enter the proposed preparation. The book connects disciplined attention with selflessness, perseverance, regulated reasoning and the education of impulses. Its aim is a person able to know and remain active in ordinary life, rather than someone defined by an unusual experience.",
+        "How to Know Higher Worlds develops the training account further. Its appendix insists on clear consciousness and distinguishes pure thinking as an activity from perception of further supersensible contents. Completing a schedule, passing a check or having a vivid image cannot establish that the proposed spiritual perception has occurred."
+      ],
+      "keyConcept": "The claimed spiritual organ is a developed capacity of the knower through which Steiner says supersensible reality can be perceived.",
+      "example": "A listener learns to distinguish musical relationships that initially escaped attention. This ordinary learning illustrates a change in a perceiver’s capacity. It does not demonstrate Steiner’s further claim about perception of a spiritual world.",
+      "distinction": "Thoughtful understanding, a strong feeling and direct spiritual discovery are different. The sense-organ comparison clarifies the proposal without proving it or promising attainment.",
+      "connection": "Before examining the wider worlds, we need the human constitution this proposal assumes. The next reading begins with body, soul and spirit.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "What is supposed to develop in the selected comparison?",
+          "options": [
+            "A capacity for soul and spiritual perception within the person.",
+            "A new physical eye that photographs spiritual beings.",
+            "Only a larger memory of spiritual vocabulary."
+          ],
+          "answer": 0,
+          "explanation": "The passage proposes organs of supersensible perception by analogy with bodily senses; it is not a description of extra physical anatomy."
+        },
+        {
+          "type": "true-false",
+          "question": "A vivid inner image by itself establishes the spiritual knowledge Steiner means.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "The path distinguishes clear, active understanding from the flickering of images. An unusual experience does not demonstrate the claimed capacity."
+        },
+        {
+          "type": "reflection",
+          "question": "Give one sentence explaining both the use and the limit of the musical-listener example.",
+          "explanation": "Explain how learning changes attention, then state why that ordinary change does not prove perception of a spiritual world."
+        }
+      ],
+      "coverageNote": "The eye-and-ear comparison explains a proposed capacity. It is not proof of supersensible organs or a promise of attainment; the fuller training account belongs to How to Know Higher Worlds."
+    },
+    "pt": {
+      "intro": "A concepção de Steiner depende de um desenvolvimento proposto de quem conhece, não apenas de aprender novas informações. A comparação com olho e ouvido apresenta o que ele chama de órgãos anímicos e espirituais de percepção.",
+      "meaning": [
+        "Os sentidos corporais revelam processos corporais. Por analogia, o trecho selecionado afirma que uma pessoa pode desenvolver capacidades pelas quais os mundos anímico e espiritual se tornam acessíveis. Esses órgãos pertencem à concepção suprassensível de Steiner; a comparação não descreve outro olho físico escondido na cabeça.",
+        "O caminho de Teosofia começa pela assimilação pensante da exposição de outro investigador. Steiner considera o pensar uma força viva capaz de organizar e desenvolver a alma. Distingue compreensão ativa de uma sequência agradável de imagens interiores e pede atenção receptiva que preserve o julgamento.",
+        "Sentir, querer e conduta também entram na preparação proposta. O livro relaciona atenção disciplinada com desprendimento, perseverança, raciocínio regulado e educação dos impulsos. Seu objetivo é uma pessoa capaz de conhecer e continuar ativa na vida comum, não alguém definido por uma experiência incomum.",
+        "Como conhecer os mundos superiores desenvolve mais amplamente essa preparação. Seu apêndice insiste em consciência clara e distingue o pensar puro como atividade da percepção de outros conteúdos suprassensíveis. Cumprir uma agenda, responder a uma questão ou ter uma imagem vívida não estabelece que a percepção espiritual proposta ocorreu."
+      ],
+      "keyConcept": "O órgão espiritual alegado é uma capacidade desenvolvida de quem conhece, pela qual Steiner afirma que a realidade suprassensível pode ser percebida.",
+      "example": "Uma pessoa aprende a distinguir relações musicais que antes escapavam à atenção. Esse aprendizado comum ilustra uma mudança na capacidade de perceber. Não demonstra a afirmação adicional de Steiner sobre perceber um mundo espiritual.",
+      "distinction": "Compreensão pensante, sentimento intenso e descoberta espiritual direta são diferentes. A comparação com órgãos sensoriais esclarece a proposta sem prová-la nem prometer uma realização.",
+      "connection": "Antes de examinar os mundos mais amplos, precisamos da constituição humana pressuposta por essa proposta. A próxima leitura começa com corpo, alma e espírito.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "O que deve se desenvolver na comparação selecionada?",
+          "options": [
+            "Uma capacidade de percepção anímica e espiritual na pessoa.",
+            "Outro olho físico que fotografa seres espirituais.",
+            "Apenas uma memória maior de vocabulário espiritual."
+          ],
+          "answer": 0,
+          "explanation": "O trecho propõe órgãos de percepção suprassensível por analogia com os sentidos corporais; não descreve anatomia física adicional."
+        },
+        {
+          "type": "true-false",
+          "question": "Uma imagem interior vívida estabelece, por si só, o conhecimento espiritual pretendido por Steiner.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "O caminho distingue compreensão clara e ativa do movimento passageiro de imagens. Uma experiência incomum não demonstra a capacidade alegada."
+        },
+        {
+          "type": "reflection",
+          "question": "Explique numa frase o uso e o limite do exemplo da escuta musical.",
+          "explanation": "Explique como o aprendizado modifica a atenção e por que essa mudança comum não comprova a percepção de um mundo espiritual."
+        }
+      ],
+      "coverageNote": "A comparação com olho e ouvido explica uma capacidade proposta. Não comprova órgãos suprassensíveis nem promete uma realização; a preparação mais ampla pertence a Como conhecer os mundos superiores."
+    }
+  },
+  {
+    "id": 5,
+    "en": {
+      "intro": "One encounter can be described in more than one way. Steiner begins his account of the human being by distinguishing bodily contact, personal inner experience and the understanding of relationships.",
+      "meaning": [
+        "The selected sentence gives three directions. Through the body we enter a temporary connection with things. Through the soul their impressions become part of our inner life. Through spirit something belonging to the things themselves can be understood, beyond our liking or dislike.",
+        "The flower example makes time important. On a return to a meadow, the earlier flowers are gone. The remembered joy belongs to the observer, while a correctly understood relationship of the species can be recognized in new flowers. Passing object, retained experience and intelligible relationship do not have the same dependence on this one encounter.",
+        "Soul here includes more than emotion. Sensation, pleasure and pain, desire and willing make the world inwardly significant and return inner activity to the world. Spirit is also more than having an opinion: Steiner connects knowing with a significance not exhausted by a private response.",
+        "These are related aspects of one human being. Later distinctions make bodily, soul and spiritual life more specific. The opening example prepares that account; it does not independently demonstrate everything Steiner subsequently says about spiritual reality."
+      ],
+      "keyConcept": "Body connects with the world; soul inwardly experiences and retains impressions; spirit participates in understanding what belongs to the things themselves.",
+      "example": "Two friends watch the same stars. Both see the lights, but one feels wonder and the other homesickness. They can nevertheless examine the same explanation of their apparent movement. This course example separates personal response from a shared intelligible relationship.",
+      "distinction": "Body–soul–spirit is not another spelling of physical–etheric–astral or thinking–feeling–willing. Each classification answers a particular question and needs its own context.",
+      "connection": "We first distinguished relationships within an encounter. Next we examine the material organization through which bodily contact becomes possible.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "What belongs to soul in the two visits to the meadow?",
+          "options": [
+            "The unchanged survival of the first flowers.",
+            "The observer’s remembered earlier joy.",
+            "The species relationship considered independently of personal liking."
+          ],
+          "answer": 1,
+          "explanation": "The joy is retained as personal experience. The flowers and the understood relationship have different connections with time and the observer."
+        },
+        {
+          "type": "true-false",
+          "question": "Body, soul and spirit describe connected aspects of one human being in the opening account.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "The three relationships concern one person’s encounter, rather than three independent occupants of a body."
+        },
+        {
+          "type": "reflection",
+          "question": "Describe one encounter through bodily contact, personal experience and a relationship you seek to understand.",
+          "explanation": "Keep an unanswered question as a question. An example illustrates the three directions without establishing the full spiritual account."
+        }
+      ],
+      "coverageNote": "The opening distinction uses ordinary experience as an entry point. Steiner’s complete spiritual account goes further, and its different classifications require their own explanations."
+    },
+    "pt": {
+      "intro": "Um mesmo encontro pode ser descrito de mais de uma maneira. Steiner começa sua explicação do ser humano distinguindo contato corporal, experiência interior pessoal e compreensão de relações.",
+      "meaning": [
+        "A frase selecionada apresenta três direções. Pelo corpo entramos numa relação temporária com as coisas. Pela alma suas impressões passam a fazer parte da vida interior. Pelo espírito algo que pertence às próprias coisas pode ser compreendido, além de gostar ou não gostar.",
+        "O exemplo das flores torna importante o tempo. Ao voltar ao campo, as flores anteriores já desapareceram. A alegria lembrada pertence ao observador, enquanto uma relação corretamente compreendida da espécie pode ser reconhecida em novas flores. Objeto passageiro, experiência conservada e relação compreensível não dependem desse encontro único da mesma maneira.",
+        "Alma aqui inclui mais que emoção. Sensação, prazer e dor, desejo e querer tornam o mundo interiormente significativo e levam a atividade interior de volta ao mundo. Espírito também é mais que ter uma opinião: Steiner relaciona o conhecer a um significado que não se esgota numa resposta privada.",
+        "São aspectos relacionados de um único ser humano. As distinções posteriores tornam mais específicas a vida corporal, anímica e espiritual. O exemplo inicial prepara essa explicação; não demonstra de modo independente tudo o que Steiner afirma depois sobre a realidade espiritual."
+      ],
+      "keyConcept": "O corpo se relaciona com o mundo; a alma vivencia e conserva impressões; o espírito participa da compreensão daquilo que pertence às próprias coisas.",
+      "example": "Duas pessoas observam as mesmas estrelas. Ambas veem as luzes, mas uma sente admiração e a outra saudade de casa. Ainda assim, podem examinar a mesma explicação de seu movimento aparente. Este exemplo do curso separa resposta pessoal de uma relação compreensível compartilhada.",
+      "distinction": "Corpo–alma–espírito não é outra forma de escrever físico–etérico–astral ou pensar–sentir–querer. Cada classificação responde a uma pergunta específica e precisa de seu contexto.",
+      "connection": "Primeiro distinguimos relações num encontro. Agora examinamos a organização material pela qual o contato corporal se torna possível.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "O que pertence à alma nas duas visitas ao campo?",
+          "options": [
+            "A permanência inalterada das primeiras flores.",
+            "A alegria anterior lembrada pelo observador.",
+            "A relação da espécie considerada independentemente de gostar dela."
+          ],
+          "answer": 1,
+          "explanation": "A alegria é conservada como experiência pessoal. As flores e a relação compreendida têm diferentes relações com o tempo e com o observador."
+        },
+        {
+          "type": "true-false",
+          "question": "Corpo, alma e espírito descrevem aspectos relacionados de um único ser humano na explicação inicial.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 0,
+          "explanation": "As três relações tratam do encontro de uma pessoa, não de três ocupantes independentes de um corpo."
+        },
+        {
+          "type": "reflection",
+          "question": "Descreva um encontro pelo contato corporal, pela experiência pessoal e por uma relação que procura compreender.",
+          "explanation": "Mantenha uma pergunta sem resposta como pergunta. O exemplo ilustra as três direções sem estabelecer a explicação espiritual completa."
+        }
+      ],
+      "coverageNote": "A distinção inicial usa a experiência comum como ponto de entrada. A concepção espiritual completa de Steiner vai além disso, e suas diferentes classificações exigem explicações próprias."
+    }
+  },
+  {
+    "id": 6,
+    "en": {
+      "intro": "In ordinary speech, body can mean the entire living organism. Steiner’s technical term physical body is more selective: it concerns material existence within a larger account of the human being.",
+      "meaning": [
+        "Physical body names the bodily substances, forces and structures through which we belong to the material world. The bodily nature of the human being is considered alongside mineral existence, living growth and sentient experience. The comparison asks what each description contributes, rather than making human worth depend on a bodily classification.",
+        "The material member is not limited to bones or skin. A hand, an eye and the bodily instrument of thinking belong to embodiment. But describing an organ’s material constitution is not yet the same task as describing how a living organism maintains itself or how an encounter is inwardly experienced.",
+        "Steiner later distinguishes the etheric, astral and I in cooperation with the physical member. This does not create four independent machines. It proposes different organizations within one living person. A bodily event may therefore involve several members in his explanation; one need not assign every occurrence to exactly one box.",
+        "Theosophy also distinguishes natural bodily processes from reasons acknowledged in thinking. An impulse and a judgment can belong to the same encounter without being interchangeable. The physical member supplies an essential basis in this account, while the later members address further questions."
+      ],
+      "keyConcept": "Physical body names the material organization of the human being considered through bodily substances, structures and physical processes.",
+      "example": "Your hand holds a warm cup. Tissue, the cup’s weight and transfer of heat give a material description. Feeling the warmth as pleasant supplies another aspect of the event. This course example clarifies the different questions, rather than proving the additional members.",
+      "distinction": "Physical does not mean bad, spiritually irrelevant or the whole living and experiencing person in every context. Compare the everyday word body with the technical term before equating them.",
+      "connection": "Material structure is our first question. The next reading asks how Steiner accounts for matter being shaped and sustained as a living organism.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Which description most directly concerns the physical member?",
+          "options": [
+            "The personal pleasure felt when holding a cup.",
+            "The deliberate decision to offer the cup to someone else.",
+            "The hand’s tissues and the physical transfer of heat."
+          ],
+          "answer": 2,
+          "explanation": "The tissues and heat transfer provide the material side. Personal feeling and deliberate response concern further aspects of the same encounter."
+        },
+        {
+          "type": "true-false",
+          "question": "In the fourfold account, physical body is always a complete synonym for the whole living and feeling person.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "The term is selective in this context. Steiner considers the living person through cooperating members."
+        },
+        {
+          "type": "reflection",
+          "question": "Choose an ordinary object you handle and distinguish a material description from your experience of it.",
+          "explanation": "Name one structure or physical process and one inward response. Their difference helps explain the terminology without requiring a claim of spiritual perception."
+        }
+      ],
+      "coverageNote": "The identified section supports this technical meaning. The parallel constitution reference has its own chapter and paragraph locators, which do not supply pagination for Theosophy.",
+      "sourceSection": "Rudolf Steiner, Theosophy, Chapter I, The Bodily Nature of Man, printed pp. 6–7, within the pp. 6–11 reading, Monges/Church English edition, 1971. Parallel reference: GA 13, Chapter II, The Nature of Humanity, paragraphs 1–3."
+    },
+    "pt": {
+      "intro": "Na fala comum, corpo pode significar o organismo vivo inteiro. O termo técnico corpo físico, em Steiner, é mais específico: trata da existência material numa explicação mais ampla do ser humano.",
+      "meaning": [
+        "Corpo físico nomeia substâncias, forças e estruturas corporais pelas quais pertencemos ao mundo material. A natureza corporal humana é considerada junto da existência mineral, do crescimento vivo e da experiência senciente. A comparação pergunta o que cada descrição acrescenta, sem fazer o valor humano depender de uma classificação corporal.",
+        "O membro material não se limita a ossos ou pele. Mão, olho e instrumento corporal do pensar pertencem à vida encarnada. Mas descrever a constituição material de um órgão ainda não é a mesma tarefa que descrever como um organismo vivo se mantém ou como um encontro é vivenciado interiormente.",
+        "Steiner depois distingue etérico, astral e Eu em cooperação com o membro físico. Isso não cria quatro máquinas independentes. Propõe diferentes organizações num único ser humano vivo. Assim, um acontecimento corporal pode envolver vários membros em sua explicação; não é preciso atribuir cada ocorrência a uma única caixa.",
+        "Teosofia também distingue processos corporais naturais de razões reconhecidas pelo pensar. Um impulso e um julgamento podem pertencer ao mesmo encontro sem serem intercambiáveis. O membro físico oferece uma base essencial nessa concepção, enquanto os membros seguintes respondem a outras perguntas."
+      ],
+      "keyConcept": "Corpo físico nomeia a organização material humana considerada por substâncias, estruturas e processos físicos corporais.",
+      "example": "Sua mão segura uma xícara morna. Os tecidos, o peso da xícara e a transferência de calor oferecem uma descrição material. Sentir o calor como agradável acrescenta outro aspecto. Este exemplo do curso esclarece as diferentes perguntas, sem provar os membros adicionais.",
+      "distinction": "Físico não significa ruim, espiritualmente irrelevante ou a pessoa inteira, viva e senciente, em qualquer contexto. Compare o uso cotidiano de corpo com o termo técnico antes de igualá-los.",
+      "connection": "A estrutura material é nossa primeira pergunta. A próxima leitura investiga como Steiner explica a matéria formada e mantida como organismo vivo.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Que descrição trata mais diretamente do membro físico?",
+          "options": [
+            "O prazer pessoal de segurar uma xícara.",
+            "A decisão deliberada de oferecê-la a outra pessoa.",
+            "Os tecidos da mão e a transferência física de calor."
+          ],
+          "answer": 2,
+          "explanation": "Os tecidos e a transferência de calor oferecem o lado material. Sentimento pessoal e resposta deliberada tratam de outros aspectos do mesmo encontro."
+        },
+        {
+          "type": "true-false",
+          "question": "Na explicação quádrupla, corpo físico é sempre sinônimo completo da pessoa inteira, viva e senciente.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "O termo é específico nesse contexto. Steiner considera a pessoa viva por membros em cooperação."
+        },
+        {
+          "type": "reflection",
+          "question": "Escolha um objeto comum que você manuseia e distinga sua descrição material de sua experiência dele.",
+          "explanation": "Nomeie uma estrutura ou processo físico e uma resposta interior. A diferença esclarece o vocabulário sem exigir uma afirmação de percepção espiritual."
+        }
+      ],
+      "coverageNote": "A seção indicada sustenta esse significado técnico. A referência paralela sobre constituição tem suas próprias indicações de capítulo e parágrafo, que não fornecem a paginação de Teosofia.",
+      "sourceSection": "Rudolf Steiner, Teosofia, capítulo I, A natureza corporal do ser humano, pp. 6–7 impressas, na leitura das pp. 6–11, edição inglesa Monges/Church, 1971. Referência paralela: GA 13, capítulo II, A natureza da humanidade, parágrafos 1–3."
+    }
+  },
+  {
+    "id": 7,
+    "en": {
+      "intro": "A stone can become warmer, but a seedling develops and maintains a living form. Steiner introduces etheric or life body to explain living organization rather than material change alone.",
+      "meaning": [
+        "The etheric member is the supersensible formative organization he attributes to living beings. It shapes and sustains the physical body during life. Ether body and life body name the same introductory member here; the word body does not mean an extra material object set beside the organism.",
+        "The selected sentence places life within the physical organization and connects sentient experience with this living bodily basis. Dependence is not identity. Physical body, ether body and sentient soul address related but different functions; the next reading examines the difference between life and inward experience.",
+        "Theosophy’s qualification about inorganic laws is essential. Steiner does not say that ordinary physical and chemical processes stop obeying their laws inside an organism. His proposed formative organization concerns how those processes belong to an ongoing living form.",
+        "He also distinguishes this ether from a hypothetical physical ether. Observing growth is the accessible starting phenomenon; claiming to perceive a supersensible formative member is a further step in his account. A plant’s response to light does not by itself establish an inward experience of pleasure or pain."
+      ],
+      "keyConcept": "Etheric or life body names the supersensible organization Steiner says gives form to and sustains a living organism.",
+      "example": "Compare a seedling producing new leaves with a stone warming in sunlight. Both involve physical processes, but only the seedling shows organized living development in this comparison. This course example makes the question clear without proving an invisible formative member.",
+      "distinction": "Etheric does not mean electricity, chemical ether, vague energy or a measurable container for memories. Living organization is also not identical with sensation.",
+      "connection": "We have distinguished material existence from formative life. Next we ask what Steiner adds when an encounter is also experienced inwardly.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Which difference does the seedling/stone comparison introduce?",
+          "options": [
+            "Both objects undergo identical inward feelings.",
+            "Living formation is distinguished from a physical change alone.",
+            "The seedling stops obeying physical laws."
+          ],
+          "answer": 1,
+          "explanation": "The comparison introduces organized living development. The source’s qualification retains inorganic laws within the organism."
+        },
+        {
+          "type": "true-false",
+          "question": "The source distinguishes the etheric member from the inward experience of pleasure or pain.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "Life and sentient experience are related but distinct. The selected sentence connects them through dependence on the living bodily basis."
+        },
+        {
+          "type": "reflection",
+          "question": "Explain why a record of plant growth is not yet a report of seeing an etheric body.",
+          "explanation": "Distinguish the observable living development from Steiner’s supersensible explanation of it. You can understand the proposal without claiming the further perception."
+        }
+      ],
+      "coverageNote": "The selected sentence gives a relationship of dependence, not the entire definition. The surrounding chapter develops formative life and sentience; observing a plant does not prove the supersensible explanation."
+    },
+    "pt": {
+      "intro": "Uma pedra pode aquecer, mas uma muda desenvolve e mantém uma forma viva. Steiner introduz corpo etérico ou vital para explicar a organização viva, além da mudança material.",
+      "meaning": [
+        "O membro etérico é a organização formativa suprassensível que ele atribui aos seres vivos. Forma e sustenta o corpo físico durante a vida. Corpo etérico e corpo vital nomeiam aqui o mesmo membro introdutório; corpo não significa outro objeto material colocado ao lado do organismo.",
+        "A frase selecionada situa a vida na organização física e relaciona a experiência senciente a essa base corporal viva. Dependência não é identidade. Corpo físico, corpo etérico e alma senciente tratam de funções relacionadas, mas diferentes; a próxima leitura examina a diferença entre vida e experiência interior.",
+        "A ressalva de Teosofia sobre as leis inorgânicas é essencial. Steiner não afirma que processos físicos e químicos comuns deixam de obedecer a suas leis dentro de um organismo. Sua organização formativa proposta trata de como esses processos pertencem a uma forma viva em continuidade.",
+        "Ele também distingue esse éter de um éter físico hipotético. Observar o crescimento oferece o fenômeno inicial acessível; afirmar a percepção de um membro formativo suprassensível é outro passo em sua concepção. A resposta de uma planta à luz não estabelece, por si só, uma experiência interior de prazer ou dor."
+      ],
+      "keyConcept": "Corpo etérico ou vital nomeia a organização suprassensível que, segundo Steiner, dá forma a um organismo vivo e o sustenta.",
+      "example": "Compare uma muda produzindo folhas novas com uma pedra aquecendo ao sol. Ambas envolvem processos físicos, mas só a muda mostra desenvolvimento vivo organizado nessa comparação. O exemplo do curso esclarece a pergunta sem provar um membro formativo invisível.",
+      "distinction": "Etérico não significa eletricidade, éter químico, energia vaga ou recipiente mensurável de lembranças. Organização viva também não é idêntica à sensação.",
+      "connection": "Distinguimos existência material e vida formativa. Agora perguntamos o que Steiner acrescenta quando um encontro também é vivenciado interiormente.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Que diferença a comparação entre muda e pedra apresenta?",
+          "options": [
+            "Os dois objetos passam por sentimentos interiores idênticos.",
+            "A formação viva se distingue de uma mudança física isolada.",
+            "A muda deixa de obedecer às leis físicas."
+          ],
+          "answer": 1,
+          "explanation": "A comparação apresenta desenvolvimento vivo organizado. A ressalva da fonte conserva as leis inorgânicas dentro do organismo."
+        },
+        {
+          "type": "true-false",
+          "question": "A fonte distingue o membro etérico da experiência interior de prazer ou dor.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 0,
+          "explanation": "Vida e experiência senciente são relacionadas, mas distintas. A frase selecionada as liga pela dependência da base corporal viva."
+        },
+        {
+          "type": "reflection",
+          "question": "Explique por que registrar o crescimento de uma planta ainda não é um relato de ver seu corpo etérico.",
+          "explanation": "Distinga o desenvolvimento vivo observável da explicação suprassensível de Steiner. É possível compreender a proposta sem alegar essa percepção adicional."
+        }
+      ],
+      "coverageNote": "A frase selecionada apresenta uma relação de dependência, não a definição inteira. O capítulo ao redor desenvolve vida formativa e senciência; observar uma planta não comprova a explicação suprassensível."
+    }
+  },
+  {
+    "id": 8,
+    "en": {
+      "intro": "Living processes and inward experience are different questions. Steiner uses astral body for the sentient member, through which sensations and responses belong to an experiencing being.",
+      "meaning": [
+        "Sentient means inwardly experiencing an encounter. Pleasure, pain, desire, attraction and aversion are part of this account, alongside sensation and inner images. Emotional body is therefore too narrow as a complete definition: the term does not refer only to moods.",
+        "Theosophy develops several distinctions before using the grouped name astral body. It separates physical organization, formative life, soul body supporting sensation and the sentient soul’s experienced sensation. In the later grouping, soul body and sentient soul are taken together as astral body. Substituting the name for soul body alone loses the stated relationship.",
+        "A physical change is not automatically evidence of an inward feeling. Likewise, living growth alone does not establish pleasure or pain in the author’s account. Steiner attributes human and animal sentience to the astral member; the example of hearing helps us understand the question, not detect the proposed member.",
+        "A particular mental picture is also different from its bearer. Remembering a cloud supplies a content of inner activity. Astral body belongs to Steiner’s account of the being that experiences such contents. A picture, the act of remembering and the proposed sentient organization are connected ideas, not interchangeable names."
+      ],
+      "keyConcept": "Astral body names the sentient member associated with inward experience; in Theosophy’s grouping it unites soul body and sentient soul.",
+      "example": "A bell vibrates, and you hear a tone that you find irritating. The vibration and bodily organs have a material description; hearing and irritation belong to the lived encounter. This course example illustrates the distinction without establishing a supersensible cause.",
+      "distinction": "Astral is not every invisible thing, the whole soul or a remembered picture. An aura illustration or photograph does not define or verify this member.",
+      "connection": "Inner experiences change. The next reading asks how Steiner understands the I that recognizes them as its own and works upon them.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Which terms are joined as astral body in the grouping discussed here?",
+          "options": [
+            "Physical body and etheric body.",
+            "Consciousness soul and spirit self.",
+            "Soul body and sentient soul."
+          ],
+          "answer": 2,
+          "explanation": "The grouping joins the sentient bodily organization with the soul’s experienced sensation. The other pairs answer different questions."
+        },
+        {
+          "type": "true-false",
+          "question": "A remembered picture of a cloud is itself the astral body.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "The picture is a content of inner activity. Astral body names a proposed member of the experiencing being, rather than that particular content."
+        },
+        {
+          "type": "reflection",
+          "question": "Use one sound to distinguish a physical event from its inward experience.",
+          "explanation": "Describe the sound and a possible lived response without inferring that the illustration has proved the astral member."
+        }
+      ],
+      "coverageNote": "The final grouping supplies the astral name through two united terms. Hearing illustrates inward experience without establishing a supersensible member or its appearance.",
+      "sourceSection": "Rudolf Steiner, Theosophy, Chapter I, final grouping, printed pp. 35–39, especially p. 37; connect with life and sensation on pp. 11–20, Monges/Church English edition, 1971. Parallel references: GA 13, Chapter II, paragraphs 10–11; GA 108, paragraphs 17–18."
+    },
+    "pt": {
+      "intro": "Processos vivos e experiência interior são perguntas diferentes. Steiner usa corpo astral para o membro senciente, pelo qual sensações e respostas pertencem a um ser que vivencia.",
+      "meaning": [
+        "Senciente significa vivenciar interiormente um encontro. Prazer, dor, desejo, atração e aversão entram nessa concepção, junto da sensação e das imagens interiores. Corpo emocional é, portanto, estreito demais como definição completa: o termo não se refere apenas a estados de humor.",
+        "Teosofia desenvolve várias distinções antes de usar o nome agrupado corpo astral. Separa organização física, vida formativa, corpo anímico que apoia a sensação e sensação vivenciada pela alma senciente. No agrupamento posterior, corpo anímico e alma senciente são reunidos como corpo astral. Substituir apenas corpo anímico pelo nome perde a relação apresentada.",
+        "Uma mudança física não é automaticamente evidência de sentimento interior. Da mesma forma, crescimento vivo, sozinho, não estabelece prazer ou dor na concepção do autor. Steiner atribui a senciência humana e animal ao membro astral; o exemplo da audição esclarece a pergunta, sem detectar o membro proposto.",
+        "Uma representação mental específica também difere de seu portador. Recordar uma nuvem oferece um conteúdo da atividade interior. Corpo astral pertence à explicação de Steiner sobre o ser que vivencia esses conteúdos. A imagem, o ato de recordar e a organização senciente proposta são ideias relacionadas, não nomes intercambiáveis."
+      ],
+      "keyConcept": "Corpo astral nomeia o membro senciente associado à experiência interior; no agrupamento de Teosofia, reúne corpo anímico e alma senciente.",
+      "example": "Um sino vibra, e você ouve um som que o irrita. A vibração e os órgãos corporais têm uma descrição material; ouvir e sentir irritação pertencem ao encontro vivenciado. Este exemplo do curso ilustra a distinção sem estabelecer uma causa suprassensível.",
+      "distinction": "Astral não é tudo o que é invisível, a alma inteira ou uma imagem lembrada. Uma ilustração ou fotografia de aura não define nem verifica esse membro.",
+      "connection": "As experiências interiores mudam. A próxima leitura pergunta como Steiner entende o Eu que as reconhece como suas e trabalha sobre elas.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Que termos são reunidos como corpo astral no agrupamento estudado aqui?",
+          "options": [
+            "Corpo físico e corpo etérico.",
+            "Alma da consciência e si-mesmo espiritual.",
+            "Corpo anímico e alma senciente."
+          ],
+          "answer": 2,
+          "explanation": "O agrupamento reúne a organização corporal senciente e a sensação vivenciada pela alma. Os outros pares respondem a perguntas diferentes."
+        },
+        {
+          "type": "true-false",
+          "question": "Uma imagem lembrada de uma nuvem é o próprio corpo astral.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "A imagem é conteúdo da atividade interior. Corpo astral nomeia um membro proposto do ser que vivencia, não aquele conteúdo específico."
+        },
+        {
+          "type": "reflection",
+          "question": "Use um som para distinguir acontecimento físico e experiência interior.",
+          "explanation": "Descreva o som e uma possível resposta vivida sem concluir que a ilustração comprovou o membro astral."
+        }
+      ],
+      "coverageNote": "O agrupamento final fornece o nome astral pela união de dois termos. Ouvir ilustra experiência interior sem estabelecer um membro suprassensível nem sua aparência.",
+      "sourceSection": "Rudolf Steiner, Teosofia, capítulo I, agrupamento final, pp. 35–39 impressas, especialmente p. 37; relacione com vida e sensação nas pp. 11–20, edição inglesa Monges/Church, 1971. Referências paralelas: GA 13, capítulo II, parágrafos 10–11; GA 108, parágrafos 17–18."
+    }
+  },
+  {
+    "id": 9,
+    "en": {
+      "intro": "You can experience an impulse and also recognize it as your impulse. Steiner introduces the I to explain self-relation and spiritual individuality within changing bodily and soul experience.",
+      "meaning": [
+        "The word I points to the speaker’s own standpoint: when two people say it, each refers to themselves. Steiner’s qualification distinguishes repeating the word from gradually understanding its idea. The illustration concerns self-awareness, not a test of a child’s spiritual status.",
+        "The I gathers bodily and soul experience and acts through them. At the same time, Steiner says it can receive spiritual content. The selected passage places sensations and spirit self within the I from different directions: bodily experience on one side and spiritual revelation on the other.",
+        "The surrounding discussion makes the relationship more precise. Consciousness soul turns toward truth and goodness with significance beyond private preference. Spirit self names that spiritual content taken into and individualized by the I. Receiving a truth as part of one’s being does not mean making it true merely because one prefers it.",
+        "The I can work upon other members, rather than being a detached supervisor controlling separate bodies. Steiner’s later descriptions of transformation develop this claim. Here the main question is how a changing experience can become consciously related to the one who experiences it."
+      ],
+      "keyConcept": "The I names spiritual individuality in Steiner’s account: the self that recognizes experiences as its own and can work with them while receiving spiritual content.",
+      "example": "A correction first irritates you. You then ask whether it is justified and decide how to respond. This course example illustrates a shift from having a response to examining it; it is not a detection of a spiritual I.",
+      "distinction": "I or Ego does not simply mean selfishness, ordinary personality or every passing thought. The I, consciousness soul and spirit self are related but distinct terms.",
+      "connection": "We have named the experiencing individual. Next we compare thinking, feeling and willing as activities within one person’s life.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "What does the selected spirit-self comparison locate within the I?",
+          "options": [
+            "Both bodily sensation and the proposed spiritual revelation, from different directions.",
+            "Only selfish wishes.",
+            "Three isolated physical organisms."
+          ],
+          "answer": 0,
+          "explanation": "The passage places sensation and spirit self within the I. Its surrounding discussion distinguishes their sources and the individuality receiving them."
+        },
+        {
+          "type": "true-false",
+          "question": "For Steiner, receiving a truth as part of the I makes its validity depend on personal preference.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "Individual appropriation is different from arbitrary private truth. Consciousness soul and spirit self are explained through that distinction."
+        },
+        {
+          "type": "reflection",
+          "question": "Describe a possible shift from experiencing an impulse to examining your response.",
+          "explanation": "Name what changes in the person’s relation to the impulse. Keep the example distinct from a claim that the spiritual I has been independently perceived."
+        }
+      ],
+      "coverageNote": "The excerpt concerns spirit self within the I. Read it with the surrounding distinctions of I and consciousness soul; an ordinary deliberate response does not detect spiritual individuality."
+    },
+    "pt": {
+      "intro": "Você pode vivenciar um impulso e também reconhecê-lo como seu. Steiner introduz o Eu para explicar a relação consigo e a individualidade espiritual entre experiências corporais e anímicas mutáveis.",
+      "meaning": [
+        "A palavra Eu aponta para a perspectiva do falante: quando duas pessoas a dizem, cada uma se refere a si. A ressalva de Steiner distingue repetir a palavra de compreender gradualmente sua ideia. A ilustração trata da consciência de si, não de testar a condição espiritual de uma criança.",
+        "O Eu reúne experiências corporais e anímicas e atua por elas. Ao mesmo tempo, Steiner afirma que pode receber conteúdo espiritual. O trecho selecionado situa sensações e si-mesmo espiritual no Eu por direções diferentes: experiência corporal de um lado e revelação espiritual do outro.",
+        "A discussão ao redor torna essa relação mais precisa. A alma da consciência se volta para verdade e bondade com significado além da preferência privada. Si-mesmo espiritual nomeia esse conteúdo espiritual acolhido e individualizado pelo Eu. Receber uma verdade como parte do próprio ser não significa torná-la verdadeira apenas porque se prefere isso.",
+        "O Eu pode trabalhar sobre os outros membros, sem ser um supervisor separado que controla corpos independentes. As descrições posteriores de transformação desenvolvem essa afirmação. Aqui a pergunta principal é como uma experiência mutável pode se relacionar conscientemente com quem a vivencia."
+      ],
+      "keyConcept": "O Eu nomeia a individualidade espiritual na concepção de Steiner: aquele que reconhece experiências como suas e trabalha com elas, recebendo conteúdo espiritual.",
+      "example": "Uma correção primeiro irrita você. Depois você pergunta se ela é justificada e decide como responder. Este exemplo do curso ilustra a passagem de ter uma resposta a examiná-la; não detecta um Eu espiritual.",
+      "distinction": "Eu ou Ego não significa simplesmente egoísmo, personalidade comum ou todo pensamento passageiro. Eu, alma da consciência e si-mesmo espiritual são termos relacionados, mas distintos.",
+      "connection": "Nomeamos o indivíduo que vivencia. Agora comparamos pensar, sentir e querer como atividades na vida de uma mesma pessoa.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "O que a comparação selecionada do si-mesmo espiritual situa no Eu?",
+          "options": [
+            "A sensação corporal e a revelação espiritual proposta, vindas de direções diferentes.",
+            "Apenas desejos egoístas.",
+            "Três organismos físicos isolados."
+          ],
+          "answer": 0,
+          "explanation": "O trecho situa sensação e si-mesmo espiritual no Eu. A discussão ao redor distingue suas origens e a individualidade que os recebe."
+        },
+        {
+          "type": "true-false",
+          "question": "Para Steiner, receber uma verdade como parte do Eu faz sua validade depender da preferência pessoal.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "A apropriação individual difere da verdade privada arbitrária. Alma da consciência e si-mesmo espiritual são explicados por essa distinção."
+        },
+        {
+          "type": "reflection",
+          "question": "Descreva uma possível passagem de vivenciar um impulso a examinar sua resposta.",
+          "explanation": "Nomeie o que muda na relação da pessoa com o impulso. Distinga o exemplo de uma afirmação de que o Eu espiritual foi percebido de modo independente."
+        }
+      ],
+      "coverageNote": "O trecho trata do si-mesmo espiritual no Eu. Leia-o com as distinções ao redor sobre Eu e alma da consciência; uma resposta deliberada comum não detecta a individualidade espiritual."
+    }
+  },
+  {
+    "id": 10,
+    "en": {
+      "intro": "Thinking, feeling and willing are distinguishable activities within one life. The Philosophy of Freedom asks how they belong together without making one immediate experience the whole explanation of reality.",
+      "meaning": [
+        "Thinking connects what is encountered through concepts. Feeling expresses how an encounter relates to me personally; willing expresses my active relation toward what I encounter. These directions can occur in the same event. A strong feeling or immediate intention still requires understanding if its place in the event is to be explained.",
+        "Steiner criticizes theories that elevate personal feeling or will into a universal principle. His objection does not remove either activity from life. It concerns treating one kind of inward experience as sufficient to explain everything, while overlooking the conceptual relationships needed to understand it.",
+        "The selected addition introduces intuitive thinking. Steiner distinguishes actively experiencing a connection from remembering its finished formulation. He claims that living thinking does justice to feeling and will in their deeper reality, describing love as a power within it. This is stronger than saying that thought merely suppresses emotion.",
+        "The term intuition here belongs to the book’s philosophical argument about conceptual understanding. How to Know Higher Worlds later gives an account of spiritual development and separation of thinking, feeling and willing. That further account needs its own context rather than being read back into this sentence."
+      ],
+      "keyConcept": "Thinking understands relationships; feeling makes an encounter personally significant; willing directs the person toward activity. Their distinction does not divide the person.",
+      "example": "At a concert you recognize a repeating phrase, feel moved and decide to join the singing. This course example names understanding, inward response and intended activity within one encounter; it does not prove the entire philosophical argument.",
+      "distinction": "Thinking, feeling and willing are not a one-to-one translation of physical, etheric and astral members. Intuitive thinking here also does not mean every sudden hunch or the later stage of supersensible Intuition.",
+      "connection": "We have distinguished activities and members. The next reading explains why Steiner can present several classifications of the same human being.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "How do feeling and willing differ in direction in this account?",
+          "options": [
+            "Feeling and willing are only two names for physical movement.",
+            "Feeling concerns an encounter’s relation to me; willing concerns my active relation toward it.",
+            "Feeling supplies a universal proof whenever it is intense."
+          ],
+          "answer": 1,
+          "explanation": "The chapter distinguishes receiving personal significance from directing activity toward the object. Both still require conceptual understanding."
+        },
+        {
+          "type": "true-false",
+          "question": "The selected addition says intuitive thinking can do justice to feeling and will.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "That is its positive claim. It distinguishes living thinking from a remembered abstraction rather than demanding the elimination of feeling."
+        },
+        {
+          "type": "reflection",
+          "question": "Describe one act of understanding and distinguish it from merely repeating its result.",
+          "explanation": "Give the connection you reconstruct, then the finished statement you could remember. This illustrates the reading distinction without proving every claim about intuitive thinking."
+        }
+      ],
+      "coverageNote": "This passage belongs to the philosophical argument about intuitive thinking. It does not establish the later stage of supersensible Intuition or the training account of separated soul activities."
+    },
+    "pt": {
+      "intro": "Pensar, sentir e querer são atividades distinguíveis numa única vida. A filosofia da liberdade pergunta como pertencem umas às outras sem fazer de uma experiência imediata a explicação inteira da realidade.",
+      "meaning": [
+        "O pensar relaciona o que encontramos por conceitos. O sentir expressa como um encontro se relaciona comigo pessoalmente; o querer expressa minha relação ativa com aquilo que encontro. Essas direções podem ocorrer no mesmo acontecimento. Um sentimento intenso ou intenção imediata ainda exige compreensão para explicar seu lugar nesse acontecimento.",
+        "Steiner critica teorias que elevam sentimento ou vontade pessoais a um princípio universal. Sua objeção não retira nenhuma dessas atividades da vida. Trata de considerar suficiente um tipo de experiência interior para explicar tudo, esquecendo as relações conceituais necessárias para compreendê-lo.",
+        "O adendo selecionado apresenta o pensar intuitivo. Steiner distingue vivenciar ativamente uma ligação de lembrar sua formulação pronta. Afirma que o pensar vivo faz justiça ao sentir e ao querer em sua realidade mais profunda, descrevendo o amor como força interior dele. Isso é mais forte que dizer que o pensamento apenas suprime a emoção.",
+        "Intuição aqui pertence ao argumento filosófico do livro sobre compreensão conceitual. Como conhecer os mundos superiores apresenta depois uma explicação do desenvolvimento espiritual e da separação de pensar, sentir e querer. Essa concepção adicional precisa de seu próprio contexto, em vez de ser imposta retrospectivamente a esta frase."
+      ],
+      "keyConcept": "O pensar compreende relações; o sentir torna um encontro pessoalmente significativo; o querer dirige a pessoa à atividade. A distinção não divide a pessoa.",
+      "example": "Num concerto você reconhece uma frase que se repete, se emociona e decide participar do canto. Este exemplo do curso nomeia compreensão, resposta interior e atividade pretendida num encontro; não prova todo o argumento filosófico.",
+      "distinction": "Pensar, sentir e querer não são uma tradução direta dos membros físico, etérico e astral. Pensar intuitivo aqui também não significa qualquer palpite repentino nem a etapa posterior de Intuição suprassensível.",
+      "connection": "Distinguimos atividades e membros. A próxima leitura explica por que Steiner pode apresentar várias classificações do mesmo ser humano.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Como diferem as direções do sentir e do querer nessa concepção?",
+          "options": [
+            "Sentir e querer são apenas dois nomes do movimento físico.",
+            "Sentir trata da relação do encontro comigo; querer, de minha relação ativa com ele.",
+            "Sentir fornece uma prova universal sempre que é intenso."
+          ],
+          "answer": 1,
+          "explanation": "O capítulo distingue receber um significado pessoal de dirigir atividade ao objeto. Ambos ainda exigem compreensão conceitual."
+        },
+        {
+          "type": "true-false",
+          "question": "O adendo selecionado afirma que o pensar intuitivo pode fazer justiça ao sentir e ao querer.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 0,
+          "explanation": "Essa é sua afirmação positiva. Distingue pensar vivo de uma abstração lembrada, em vez de exigir eliminar o sentir."
+        },
+        {
+          "type": "reflection",
+          "question": "Descreva um ato de compreensão e o distinga de apenas repetir seu resultado.",
+          "explanation": "Apresente a ligação reconstruída e depois a formulação pronta que poderia lembrar. Isso ilustra a distinção de leitura sem provar toda afirmação sobre pensar intuitivo."
+        }
+      ],
+      "coverageNote": "O trecho pertence ao argumento filosófico sobre pensar intuitivo. Não estabelece a etapa posterior de Intuição suprassensível nem a preparação que trata da separação das atividades anímicas."
+    }
+  },
+  {
+    "id": 11,
+    "en": {
+      "intro": "The same human being appears in threefold, fourfold, sevenfold and ninefold descriptions. The changing counts follow different relationships and organizing questions, rather than competing material anatomies.",
+      "meaning": [
+        "The ninefold list names physical body, life body, soul body; sentient soul, intellectual soul, consciousness soul; spirit self, life spirit and spirit man. Sentient soul inwardly experiences; intellectual soul brings thought into desire and practical purpose; consciousness soul turns toward truth and goodness beyond personal preference.",
+        "The first sevenfold grouping joins soul body with sentient soul and consciousness soul with spirit self. Its entries are physical body, life body, sentient soul body, intellectual soul, spirit-filled consciousness soul, life spirit and spirit man. Two pairs become unities; their distinctions have not been thrown away.",
+        "The fourfold presentation names physical, life, astral and I. Astral joins the sentient bodily and soul aspects; intellectual and consciousness soul are related to the I. This brings the individuality working within the human being into focus.",
+        "The final sevenfold list adds transformed aspects to that foundation: physical, life, astral, I, spirit self, life spirit and spirit man. Steiner describes the I’s spiritual work transforming astral into spirit self, life into life spirit and physical into spirit man. This is a developmental claim, unlike the earlier grouping operation."
+      ],
+      "keyConcept": "The grouped sevenfold account joins pairs in nine distinctions; the transformation-based sevenfold account adds three transformed aspects to the fourfold foundation.",
+      "example": "Write nine labelled cards and join the two named pairs: seven groups remain without discarding a card. Then use a separate four-member diagram with three transformation arrows. This course reading aid makes two organizing principles visible.",
+      "distinction": "Not every sevenfold list has identical entries. Spirit self, life spirit and spirit man are spiritual terms, not literal material layers expanding around the body. Their transformation is an author claim, not a visible organ exchange.",
+      "connection": "The classifications locate body, soul and spirit within one person. Next we ask what Steiner says changes when physical embodiment ends at death.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Why does the first grouping reduce nine distinctions to seven groups?",
+          "options": [
+            "Two members are declared unreal and removed.",
+            "Every bodily term is replaced by a feeling.",
+            "Soul body/sentient soul and consciousness soul/spirit self are each taken as a unity."
+          ],
+          "answer": 2,
+          "explanation": "Joining two pairs reduces the group count by two while retaining the distinctions within each pair."
+        },
+        {
+          "type": "true-false",
+          "question": "The final sevenfold list uses the same organizing principle as the first grouped list.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "The first joins pairs; the final list relates three transformed aspects to physical, life, astral and I. Their entries and purposes differ."
+        },
+        {
+          "type": "reflection",
+          "question": "Explain one transformation arrow and distinguish it from joining two cards.",
+          "explanation": "Name the I’s proposed spiritual work in the transformation. Joining cards represents grouping; it does not demonstrate the reality or process of spiritual transformation."
+        }
+      ],
+      "coverageNote": "The short unity statement explains one grouping. The complete lists and transformation discussion are needed to distinguish the two sevenfold accounts; diagrams remain reading aids."
+    },
+    "pt": {
+      "intro": "O mesmo ser humano aparece em descrições tríplices, quádruplas, de sete e de nove membros. As contagens acompanham relações e perguntas organizadoras diferentes, não anatomias materiais concorrentes.",
+      "meaning": [
+        "A lista de nove nomeia corpo físico, corpo vital, corpo anímico; alma senciente, alma intelectual, alma da consciência; si-mesmo espiritual, espírito vital e homem-espírito. A alma senciente vivencia interiormente; a intelectual põe o pensar a serviço do desejo e de objetivos práticos; a da consciência se volta para verdade e bondade além da preferência pessoal.",
+        "O primeiro agrupamento de sete reúne corpo anímico com alma senciente e alma da consciência com si-mesmo espiritual. Seus membros são corpo físico, corpo vital, corpo anímico senciente, alma intelectual, alma da consciência preenchida de espírito, espírito vital e homem-espírito. Dois pares se tornam unidades; suas distinções não foram descartadas.",
+        "A apresentação quádrupla nomeia físico, vital, astral e Eu. Astral reúne aspectos corporais e anímicos sencientes; alma intelectual e alma da consciência se relacionam com o Eu. Isso destaca a individualidade que atua no ser humano.",
+        "A lista final de sete acrescenta aspectos transformados a essa base: físico, vital, astral, Eu, si-mesmo espiritual, espírito vital e homem-espírito. Steiner descreve o trabalho espiritual do Eu transformando astral em si-mesmo espiritual, vital em espírito vital e físico em homem-espírito. É uma afirmação sobre desenvolvimento, diferente da operação anterior de agrupamento."
+      ],
+      "keyConcept": "A descrição agrupada de sete reúne pares entre nove distinções; a descrição baseada em transformação acrescenta três aspectos transformados à base quádrupla.",
+      "example": "Escreva nove cartões identificados e reúna os dois pares nomeados: restam sete grupos sem descartar um cartão. Depois use outro diagrama de quatro membros com três setas de transformação. Este auxílio de leitura do curso torna visíveis dois princípios organizadores.",
+      "distinction": "Nem toda lista de sete tem membros idênticos. Si-mesmo espiritual, espírito vital e homem-espírito são termos espirituais, não camadas materiais que se expandem ao redor do corpo. Sua transformação é uma afirmação do autor, não troca visível de órgãos.",
+      "connection": "As classificações situam corpo, alma e espírito numa pessoa. Agora perguntamos o que, segundo Steiner, muda quando a encarnação física termina na morte.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "Por que o primeiro agrupamento reduz nove distinções a sete grupos?",
+          "options": [
+            "Dois membros são declarados irreais e retirados.",
+            "Todo termo corporal é substituído por um sentimento.",
+            "Corpo anímico/alma senciente e alma da consciência/si-mesmo espiritual são tomados, cada par, como uma unidade."
+          ],
+          "answer": 2,
+          "explanation": "Reunir dois pares reduz em dois a quantidade de grupos, mantendo as distinções em cada par."
+        },
+        {
+          "type": "true-false",
+          "question": "A lista final de sete utiliza o mesmo princípio organizador da primeira lista agrupada.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "A primeira reúne pares; a final relaciona três aspectos transformados a físico, vital, astral e Eu. Seus membros e propósitos diferem."
+        },
+        {
+          "type": "reflection",
+          "question": "Explique uma seta de transformação e a distinga de reunir dois cartões.",
+          "explanation": "Nomeie o trabalho espiritual proposto do Eu nessa transformação. Reunir cartões representa agrupamento; não demonstra a realidade nem o processo da transformação espiritual."
+        }
+      ],
+      "coverageNote": "A breve afirmação de unidade explica um agrupamento. As listas completas e a discussão da transformação são necessárias para distinguir as duas descrições de sete; diagramas permanecem auxílios de leitura."
+    }
+  },
+  {
+    "id": 12,
+    "en": {
+      "intro": "After describing the human being, Theosophy asks how soul and spirit relate to the end of bodily life. The selected food example introduces a difference between losing an organ and relinquishing a desire.",
+      "meaning": [
+        "In Steiner’s supersensible account, bodily death releases soul and spirit from physical embodiment. Spirit initially remains connected with a soul still oriented toward earthly experience. Death therefore does not immediately end every relationship formed during bodily life.",
+        "The food example identifies two contributions. Pleasure and longing belong to soul life; the palate and other bodily organs provide means of satisfaction. Steiner says that the desire may remain after those means are gone. Losing the bodily organ and releasing the longing are not the same event in his account.",
+        "Purification names the proposed release of attachments tied to the embodiment just completed. The soul gradually relinquishes bodily dependence while fruits capable of spiritual assimilation remain. The account is not a uniform timetable, and the regions described later are not separate geographical places.",
+        "Keep purification distinct from karma and spiritual assimilation. Karma concerns relationships and consequences across incarnations; assimilation concerns earthly experience becoming spiritual capacities. Relinquishing an appetite does not cancel every consequence of a deed or erase individuality’s entire past."
+      ],
+      "keyConcept": "Steiner describes death as an end of physical embodiment while some soul desires initially persist without the bodily means of satisfying them.",
+      "example": "You put away a favourite mug but still feel an urge to reach for it. This course analogy makes loss of a means and persistence of a longing distinguishable. It is not evidence of what a deceased person experiences.",
+      "distinction": "The after-death account is Steiner’s claimed spiritual knowledge. An ordinary analogy neither verifies it nor permits assigning a particular fate to someone who has died.",
+      "connection": "If bodily means are lost while individuality’s past is not simply erased, we must ask what Steiner says can continue. That is the next reading’s question.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "What persists initially in the selected food example?",
+          "options": [
+            "The bodily palate remains available for eating.",
+            "A desire can remain after its bodily means of satisfaction are gone.",
+            "All past experience is immediately erased."
+          ],
+          "answer": 1,
+          "explanation": "The passage explicitly separates the continuing desire from the lost bodily organ. Purification concerns release from such dependence."
+        },
+        {
+          "type": "true-false",
+          "question": "Purification, karma and spiritual assimilation are interchangeable names for one process.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "They have different roles: release of bodily attachment, consequences across incarnations and transformation of earthly fruits into capacities."
+        },
+        {
+          "type": "reflection",
+          "question": "Explain the favourite-mug analogy and name where it stops.",
+          "explanation": "Identify the missing means and lingering urge, then state that this living experience does not establish an after-death experience. No personal bereavement disclosure is needed."
+        }
+      ],
+      "coverageNote": "This is Steiner’s supersensible account of death. The food example clarifies a relationship, not the experience of a particular deceased person; purification, karma and spiritual assimilation have different roles."
+    },
+    "pt": {
+      "intro": "Depois de descrever o ser humano, Teosofia pergunta como alma e espírito se relacionam com o fim da vida corporal. O exemplo selecionado da alimentação introduz a diferença entre perder um órgão e desprender-se de um desejo.",
+      "meaning": [
+        "Na concepção suprassensível de Steiner, a morte corporal liberta alma e espírito da encarnação física. O espírito inicialmente permanece ligado a uma alma ainda voltada para a experiência terrena. Assim, a morte não encerra imediatamente toda relação formada durante a vida corporal.",
+        "O exemplo da alimentação identifica duas contribuições. Prazer e desejo pertencem à vida da alma; o paladar e outros órgãos corporais oferecem meios de satisfação. Steiner afirma que o desejo pode permanecer depois de perder esses meios. Perder o órgão corporal e liberar o desejo não são o mesmo acontecimento em sua concepção.",
+        "Purificação nomeia a liberação proposta dos apegos ligados à encarnação que terminou. A alma gradualmente abandona a dependência corporal, enquanto permanecem frutos capazes de assimilação espiritual. A descrição não é uma agenda uniforme, e as regiões apresentadas depois não são lugares geográficos separados.",
+        "Distinga purificação, carma e assimilação espiritual. Carma trata de relações e consequências entre encarnações; assimilação trata da experiência terrena transformada em capacidades espirituais. Liberar um apetite não cancela toda consequência de uma ação nem apaga todo o passado da individualidade."
+      ],
+      "keyConcept": "Steiner descreve a morte como fim da encarnação física, enquanto alguns desejos da alma inicialmente permanecem sem seus meios corporais de satisfação.",
+      "example": "Você guarda uma caneca favorita, mas ainda sente o impulso de alcançá-la. Esta analogia do curso distingue perda de um meio e permanência de um desejo. Não é evidência do que uma pessoa falecida vivencia.",
+      "distinction": "A descrição após a morte é o conhecimento espiritual alegado por Steiner. Uma analogia comum não a verifica nem permite atribuir um destino específico a alguém que morreu.",
+      "connection": "Se os meios corporais se perdem e o passado da individualidade não é simplesmente apagado, precisamos perguntar o que, segundo Steiner, pode continuar. Essa é a pergunta da próxima leitura.",
+      "checks": [
+        {
+          "type": "choice",
+          "question": "O que inicialmente permanece no exemplo selecionado da alimentação?",
+          "options": [
+            "O paladar corporal continua disponível para comer.",
+            "Um desejo pode permanecer depois de perder seus meios corporais de satisfação.",
+            "Toda experiência passada é apagada imediatamente."
+          ],
+          "answer": 1,
+          "explanation": "O trecho separa explicitamente o desejo que permanece do órgão corporal perdido. Purificação trata da liberação dessa dependência."
+        },
+        {
+          "type": "true-false",
+          "question": "Purificação, carma e assimilação espiritual são nomes intercambiáveis de um único processo.",
+          "options": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "Têm funções diferentes: liberar apego corporal, consequências entre encarnações e transformar frutos terrenos em capacidades."
+        },
+        {
+          "type": "reflection",
+          "question": "Explique a analogia da caneca favorita e indique seu limite.",
+          "explanation": "Identifique o meio ausente e o impulso que permanece; declare que essa experiência em vida não estabelece uma experiência após a morte. Não é necessário relatar um luto pessoal."
+        }
+      ],
+      "coverageNote": "Esta é a concepção suprassensível de Steiner sobre a morte. O exemplo da alimentação esclarece uma relação, não a experiência de uma pessoa falecida específica; purificação, carma e assimilação espiritual têm funções diferentes."
+    }
+  }
+]

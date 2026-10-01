@@ -1,3 +1,42 @@
+# Philosophy of Freedom: current teaching plan — 30 September 2026
+
+Use the [book-based revision and page notes](philosophy-of-freedom-course-review.md). The primary source is the user's 166-page PDF and matching Markdown, Michael Wilson translation, Rudolf Steiner Press, 2012, eighth English edition. The course retains sixteen core steps and six optional practices, with unchanged IDs and notebook keys.
+
+| Core step | Lesson ID | Book section | PDF reading |
+| --- | --- | --- | --- |
+| 1 | 00 | Two prefaces and orientation | 19–23; terminology10–18 |
+| 2 | 01 | Conscious Human Action | 25–30 |
+| 3 | 02 | Fundamental Desire for Knowledge | 31–35 |
+| 4 | 04 | Thinking in the Service of Knowledge | 36–47 |
+| 5 | 05 | World as Percept | 48–59 |
+| 6 | 07 | Act of Knowing | 60–72 |
+| 7 | 09 | Human Individuality | 73–76 |
+| 8 | 10 | Limits to Knowledge | 77–88 |
+| 9 | 11 | Factors of Life | 90–93 |
+| 10 | 12 | Idea of Freedom | 94–108 |
+| 11 | 14 | Philosophy of Freedom and Monism | 109–114 |
+| 12 | 15 | World Purpose and Life Purpose | 115–118 |
+| 13 | 16 | Moral Imagination | 119–126 |
+| 14 | 18 | Value of Life | 127–143 |
+| 15 | 20 | Individuality and Genus | 144–146; author note162 |
+| 16 | 21 | Consequences of Monism and other-minds appendix | 148–159 |
+
+Optional routes remain03→04,06→05,08→07,13→12,17→16,19→18. They deepen their parent chapter's question rather than adding required chapters. Source notes distinguish author text, Barton foreword, Wilson translation commentary, edition notes and publisher matter.
+
+Every lesson should explain the author's key distinctions and reasons, retain relevant objections and 1918 additions, use a concrete worked scene, provide a study activity and three explained answers, and link the example back to the source. Do not substitute a generic warning or a quotation for the chapter's positive argument. Keep the arithmetic and accessibility/audio examples compatible with their existing interactive study support.
+
+The final portfolio joins Part I's knowing argument with Part II's ethical activity, includes the conclusion's dependence on self-sustaining intuitive thinking, and evaluates an objection. The appendix supplies a further question about understanding another person. The particular contents of later spiritual books remain distinct from what can be logically inferred here.
+
+The [lecture integration](philosophy-of-freedom-lecture-integration-review.md) now adds twenty-one bilingual guides from the seventeen supplied transcripts. Brian Gray is identified by his introduction; fifteen files match earlier sources exactly. Each guide supplies three focused explanations, an original worked example and an explained question, with transcript titles and timestamp ranges. The complete Wilson book retains arguments and qualifications compressed or omitted in a lecture. Chapter 8 now has a new guide at lesson 11, compared with Wilson PDF 90–93 and the 1918 addition. A dedicated conclusion commentary remains unavailable, so lesson 21 retains its complete book teaching. Amrine and historical reviews remain separately attributed aids.
+
+Full source text stays private. Build the whole site, then run every check script, including check-freedom-source.mjs and check-freedom-lectures.mjs, before publishing.
+
+---
+
+## Historical planning record — 12–13 September 2026
+
+The older status statements, planned twenty-three-lesson route, and study-marker references below record the course's development. The current map above supersedes them.
+
 Publication update — 12 September 2026: The separate GA 4 course now includes orientation and 17 bilingual lessons covering Chapters 1–12. Student material is in `philosophy-of-freedom-lessons.json` and `philosophy-of-freedom-additions.mjs`; `scripts/build-freedom.mjs` generates the pages. The Chapter 12 recording review supplies Lessons 16–17, with the omitted Darwinism discussion identified for reading in the book. Chapters 13 onward remain in preparation. Earlier draft statuses below are historical.
 
 Chapter 11 update — 12 September 2026: [Complete review and bilingual Lesson 15 draft](philosophy-of-freedom-brian-chapter-11.md) compare the supplied generic audio transcript (00:09–12:02) with Basis 96–99, including the 1918 addition. GA 9 Lesson 20 adds a present-idea/action/result panel; GA 10 Lesson 4 distinguishes natural development from an anticipated aim. The source filename is recorded exactly in the register. Chapter 12 onward lectures remain pending; the separate GA 4 course remains in preparation. Earlier updates below are historical.

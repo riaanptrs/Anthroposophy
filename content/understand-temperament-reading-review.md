@@ -1,5 +1,9 @@
 # Understand Your Temperament!: source review and course map
 
+## Update: complete supplied book, 30 September 2026
+
+The newly supplied PDF and Markdown contain 97 matching captures with the complete nine chapters, both appendices and references. Every page has been read and inspected. The earlier 239-capture ranges, gap lists and incomplete-figure statements below are historical records, superseded for current teaching. All thirteen bilingual lessons now include verified source passages and full chapter guides; related primary-course teaching has been updated. See the [completed revision and corrected reading map](childs-temperament-course-review.md).
+
 Reviewed 12 September 2026. The user requested the same course-development treatment as the preceding books.
 
 ## Identity and reading coverage

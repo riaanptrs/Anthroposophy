@@ -1,0 +1,3952 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-10-01",
+  "sourceWitnesses": [
+    {
+      "id": "creeger",
+      "filename": "Agriculture.md",
+      "bytes": 569145,
+      "sha256": "8ec1fbf787c122fea7b7ee28ccf520f1a0442e20253bf0329a7f4cfcc01a2d5c",
+      "markdownCaptures": 192,
+      "edition": "Creeger/Gardner, 1993",
+      "pdfFile": "Agriculture.pdf",
+      "pdfStatus": "unavailable-transfer-limit",
+      "pdfVisualVerification": false
+    },
+    {
+      "id": "adams",
+      "filename": "Agriculture course.md",
+      "bytes": 533520,
+      "sha256": "ce60b99e02febcf3ee07f0d7f644936e9b43f0fd0467b09ab1d64a92ec3cd78d",
+      "markdownCaptures": 178,
+      "edition": "Adams, 1958 translation; 2012 reissue",
+      "pdfFile": "Agriculture course.pdf",
+      "pdfStatus": "unavailable-transfer-limit",
+      "pdfVisualVerification": false
+    }
+  ],
+  "locatorContract": "Capture numbers refer to supplied Markdown page blocks, not a claim of visual PDF inspection or inferred printed pagination. Displayed Kindle locations and edition-page tables retain their separate meanings.",
+  "captureLedgers": {
+    "creeger": [
+      {
+        "capture": 1,
+        "summary": "Cover. The title and author are heavily garbled by OCR; SteinerBooks branding remains visible. No locator is legible.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 2,
+        "summary": "Title page: Spiritual Foundations for the Renewal of Agriculture; Koberwitz course, June 7–16, 1924. The 1993 edition credits Creeger and Gardner as translators and Gardner as editor; some names have OCR errors.",
+        "displayedLocators": [
+          "Location 20 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 3,
+        "summary": "Copyright and German source: GA 327, 1984 seventh edition; English copyright 1993. Gardner’s editorial notes have separate copyright. ISBNs and publisher address appear.",
+        "displayedLocators": [
+          "Location 20 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 4,
+        "summary": "Publisher’s note distinguishes written works from uncorrected lecture reports and warns that faulty passages occur. This qualifies the textual witness.",
+        "displayedLocators": [
+          "Location 32 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 5,
+        "summary": "Contents places the June 20 retrospective report before the course. It summarizes lectures 1–5 and the first discussion.",
+        "displayedLocators": [
+          "Location 38 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 6,
+        "summary": "Contents continues lectures 6–8, discussions, the June 11 Experimental Circle address, appendices A–C, editorial notes, bibliography, index and colored drawings.",
+        "displayedLocators": [
+          "Location 67 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 7,
+        "summary": "Roderick Shouldice’s foreword describes the farmers’ concerns, existing farming experience and anthroposophical preparation. It introduces the new translation, notes and handwritten materials. This is editorial writing.",
+        "displayedLocators": [
+          "Location 87 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 8,
+        "summary": "Shouldice’s foreword concludes with drawing and retrospective-report information. Its acknowledgment clearly confirms the translators’ names, Catherine Creeger and Malcolm Gardner.",
+        "displayedLocators": [
+          "Location 108 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 9,
+        "summary": "Steiner’s June 20 report begins after his return from Koberwitz. It describes the farmers’ practical request, hospitality, timetable and the circumstances of promising the course.",
+        "displayedLocators": [
+          "Location 118 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 10,
+        "summary": "The report describes the iron-rich estate, course branches and manuring. It presents crop degeneration and the Kali Yuga transition as Steiner’s historical account, not current agricultural data.",
+        "displayedLocators": [
+          "Location 139 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 11,
+        "summary": "The report explains the Experimental Circle, cooperation with the Natural Science Section, farm-specific information and trials. Some suggestions require four years. Historical distribution restrictions are source content, not website instructions.",
+        "displayedLocators": [
+          "Location 162 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 12,
+        "summary": "The report describes Breslau eurythmy and karma lectures, the Christmas Conference context and the closing social gathering.",
+        "displayedLocators": [
+          "Location 185 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 13,
+        "summary": "The report covers speech, youth and Class Lessons, drama, farm tours, economic difficulties, curative education and Waldorf finances. Historical disability terminology needs critical context.",
+        "displayedLocators": [
+          "Location 207 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 14,
+        "summary": "The report continues the Waldorf financial appeal and sponsorship proposals. Practical organization and demand for anthroposophical activities form the context.",
+        "displayedLocators": [
+          "Location 230 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 15,
+        "summary": "The report connects spiritual and practical activity. It criticizes mineral fertilizers and uses living/dead nitrogen imagery; these are attributed spiritual claims rather than chemical classifications.",
+        "displayedLocators": [
+          "Location 251 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 16,
+        "summary": "The report extends the compass analogy from the whole Earth to the plant’s cosmic surroundings. It begins the unconventional account of nutrition and bodily substance.",
+        "displayedLocators": [
+          "Location 273 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 17,
+        "summary": "The report concludes with the food/head and cosmic/limb account, a seven-year cycle and criticism of physical science. It stresses practical spirituality; the physiology is not modern nutrition guidance.",
+        "displayedLocators": [
+          "Location 295 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 18,
+        "summary": "Lecture 1 begins on June 7 with thanks to the Keyserlingks, the exemplary farm setting and the earlier work of Der Kommende Tag.",
+        "displayedLocators": [
+          "Location 314 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 19,
+        "summary": "Steiner qualifies this first agriculture course as demanding and provisional. Agriculture touches all human life; seemingly remote foundations and economic experience matter.",
+        "displayedLocators": [
+          "Location 336 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 20,
+        "summary": "Practical judgment should arise from field, forest and stable. A beet must be understood through soil and season; the compass needle requires its relation to the Earth.",
+        "displayedLocators": [
+          "Location 357 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 21,
+        "summary": "Older instincts and almanacs preserve wisdom, with humor resisting superstition. Steiner declines a simple return to instincts and begins the Fechner–Schleiden rainfall story.",
+        "displayedLocators": [
+          "Location 379 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 22,
+        "summary": "The rainfall anecdote concludes. Steiner qualifies what anthroposophy can offer and distinguishes human independence from external rhythms through the menstruation example.",
+        "displayedLocators": [
+          "Location 401 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 23,
+        "summary": "Inner periodicity differs from coinciding external phases. Plants remain more embedded in cosmic rhythms. The traditional seven-planet sequence and silicon/quartz account begin.",
+        "displayedLocators": [
+          "Location 423 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 24,
+        "summary": "Silica, medicine and hypothetical plant forms introduce the lime–silica balance. Distant planets work through silica. The unqualified ninety-percent horsetail claim requires caution.",
+        "displayedLocators": [
+          "Location 446 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 25,
+        "summary": "Nearer planets work through lime. Reproduction and nourishment are distinct currents, associated with the two planetary groups. The question becomes how conditions mediate these influences.",
+        "displayedLocators": [
+          "Location 469 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 26,
+        "summary": "Water mediates lunar forces in the rainfall/full-moon example; warmth mediates silica and distant planets. Saturn’s period and a drawing reference follow.",
+        "displayedLocators": [
+          "Location 490 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 27,
+        "summary": "Drawing 1 has unusable OCR fragments. The text connects bark and perennial growth with longer planetary rhythms and gives oak, conifer and firewood examples.",
+        "displayedLocators": [
+          "Location 513 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 28,
+        "summary": "Lecture 1 ends with a recollection of declining potato taste and nutritive quality. Steiner presents questions leading toward practical work, not independently demonstrated results.",
+        "displayedLocators": [
+          "Location 533 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 29,
+        "summary": "Lecture 2 begins June 10. The self-contained farm is an ideal to approach, explicitly not completely attainable. Imported fertilizer is a remedy metaphor; living soil is introduced.",
+        "displayedLocators": [
+          "Location 540 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 30,
+        "summary": "Soil is compared with a diaphragm: head below and belly above. Steiner calls the analogy approximate. Above/below interchange matters; drawing 2 cannot be visually verified.",
+        "displayedLocators": [
+          "Location 561 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 31,
+        "summary": "Nearer planets act above and distant planets below; silica-bearing geology receives influences for roots. The silica percentage differs from Adams capture 32.",
+        "displayedLocators": [
+          "Location 581 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 32,
+        "summary": "Clay conducts the upward cosmic stream; lime draws terrestrial activity down. Leaf/blossom warmth differs from root warmth, described as especially living in winter.",
+        "displayedLocators": [
+          "Location 603 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 33,
+        "summary": "Air and warmth are enlivened below ground; water and earth become more receptive. January–February crystallization and its November–December preparation belong to the Central-European seasonal context.",
+        "displayedLocators": [
+          "Location 625 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 34,
+        "summary": "The farm exists in time and soil life strengthens in winter. The seed account moves from complex protein to chaos and cosmic imprint, rather than molecular preformation alone.",
+        "displayedLocators": [
+          "Location 647 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 35,
+        "summary": "Drawing 3 is not recoverable from OCR. Parent affinity and cosmic imprint are balanced by humus carrying existing earthly life into growth.",
+        "displayedLocators": [
+          "Location 670 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 36,
+        "summary": "Drawing 4’s text distinguishes earthly leaf form and solar greenness from flower colors associated with Mars, Jupiter and Saturn.",
+        "displayedLocators": [
+          "Location 690 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 37,
+        "summary": "Branching roots are read as earthly, unitary roots as cosmic; the Sun mediates. Sainfoin and horsetail examples follow. Drawing 5 is not visually verified.",
+        "displayedLocators": [
+          "Location 709 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 38,
+        "summary": "Sandy soil and potatoes illustrate retention of the cosmic tendency; fruit taste receives planetary interpretation. Earlier breeding instincts and the Kali Yuga account follow.",
+        "displayedLocators": [
+          "Location 731 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 39,
+        "summary": "Siliceous geology and humus are contrasted. Livestock, fodder and manure amounts and mixtures belong together; Steiner expressly invites testing this relationship and repeats self-containment’s limits.",
+        "displayedLocators": [
+          "Location 754 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 40,
+        "summary": "Animal form is interpreted through solar front and lunar rear influences, especially embryonic development. The text returns to fodder, manure and land; drawing 6 has unreliable OCR.",
+        "displayedLocators": [
+          "Location 776 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 41,
+        "summary": "Lecture 2 ends by urging observation of forms and including animals in the farm’s individuality.",
+        "displayedLocators": [
+          "Location 798 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 42,
+        "summary": "Lecture 3 begins June 11 with nitrogen and its four siblings: carbon, oxygen, hydrogen and sulfur. Sulfur mediates physical and spiritual activity in the light-bearer imagery.",
+        "displayedLocators": [
+          "Location 801 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 43,
+        "summary": "Carbon’s coal, graphite and diamond forms lead into the philosopher’s-stone account. Living carbon becomes the formative sculptor.",
+        "displayedLocators": [
+          "Location 822 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 44,
+        "summary": "Carbon and sulfur carry spirit into form, while respiration loosens human form. Ego/blood and universal spirit are linked; the calcareous skeleton provides support. Drawing 7 uses green for carbon.",
+        "displayedLocators": [
+          "Location 844 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 45,
+        "summary": "Etheric life needs a physical carrier; oxygen assisted by sulfur supplies it. Oxygen is blue in drawing 7. Atmospheric oxygen is described as dead; the drawing itself is not verified.",
+        "displayedLocators": [
+          "Location 867 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 46,
+        "summary": "Living oxygen within organisms and soil is contrasted with atmospheric oxygen. Nitrogen mediates oxygen’s life and carbon’s form as carrier of astrality.",
+        "displayedLocators": [
+          "Location 887 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 47,
+        "summary": "Nitrogen is the transporter, colored yellow, and connected with soul and respiration. The suggested sealed-room experiment is historical text, not a learner activity.",
+        "displayedLocators": [
+          "Location 910 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 48,
+        "summary": "Plants have physical and etheric bodies but receive astrality from outside. Nitrogen in soil is portrayed as sensitive to water, plants and cosmic relationships.",
+        "displayedLocators": [
+          "Location 933 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 49,
+        "summary": "Hydrogen releases organized form into cosmic indeterminacy with sulfur’s help. The five roles are related processes, not merely a list of fertilizer nutrients.",
+        "displayedLocators": [
+          "Location 955 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 50,
+        "summary": "Hydrogen’s least-spiritual description leads into meditation, carbon dioxide and nitrogen revelation. Farmers’ winter contemplation illustrates Steiner’s account of knowing.",
+        "displayedLocators": [
+          "Location 977 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 51,
+        "summary": "Farm knowledge arises and is then tried. The coarse conceptual-net image leads to seed/peripheral chaos and carbon’s support from lime and silica.",
+        "displayedLocators": [
+          "Location 998 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 52,
+        "summary": "Legumes are nitrogen collectors and compared with respiratory organs for lime in the soil. Each species has a place within the plant whole; leafy fruiting tendencies are described.",
+        "displayedLocators": [
+          "Location 1020 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 53,
+        "summary": "Legume winter tendencies and seed-viability generalizations lead to lime as desire, silica as undemanding outer perception and clay as mediator. These are personifications, not laboratory definitions.",
+        "displayedLocators": [
+          "Location 1043 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 54,
+        "summary": "Carbon, silica and clay counter lime’s pull; nitrogen orders the relationship. Lecture 3 closes by asking how to introduce nitrogen appropriately, leading into manuring.",
+        "displayedLocators": [
+          "Location 1065 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 55,
+        "summary": "Lecture 4 begins: narrow analysis contrasted with the whole; historical protein example and long-term nourishment claims.",
+        "displayedLocators": [
+          "Location 1077 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 56,
+        "summary": "Steiner distinguishes food as force from retained substance, which he claims is taken mainly through senses, skin and breathing; this is his spiritual account, not dietary guidance.",
+        "displayedLocators": [
+          "Location 1099 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 57,
+        "summary": "Experiments called useful; theorizing criticized. Tree and humus mound introduce continuity of life beyond plant outlines; Drawing 8 is named, OCR art unreadable.",
+        "displayedLocators": [
+          "Location 1121 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 58,
+        "summary": "Raised soil, bark and living root surroundings; fertilizing defined as enlivening soil; black-earth qualification; inside/outside of living entities.",
+        "displayedLocators": [
+          "Location 1142 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 59,
+        "summary": "Odor interpreted as inwardly retained life; nitrogen directed through living soil; mineral fertilizer assigned watery rather than earthy effects; Drawing 9 named.",
+        "displayedLocators": [
+          "Location 1165 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 60,
+        "summary": "Compost retains relatively stable etheric/astral activity; lime, oxygen, nitrogen and pasture/hay linked in the proposed explanation; general insight should inform judgment.",
+        "displayedLocators": [
+          "Location 1187 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 61,
+        "summary": "Thin compost layers and coverings proposed for retaining odor/nitrogen; horn/hoof forces turn inward while antlers discharge outward; Drawing 10 named.",
+        "displayedLocators": [
+          "Location 1210 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 62,
+        "summary": "Horn activity linked with digestion and a historical foot-and-mouth remedy assertion; manure said to carry etheric/astral activity from animal to soil.",
+        "displayedLocators": [
+          "Location 1231 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 63,
+        "summary": "Bacteria treated as indicators, inoculation discounted; winter cow-horn manure; stated burial depth 3/4–1 1/2 m; dilution and alternating hour stirring described; observed odor change interpreted.",
+        "displayedLocators": [
+          "Location 1254 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 64,
+        "summary": "Soil spray supplements normal manure; summer quartz/orthoclase preparation applied to plants; below/above polarity; sizes and profitability contrasted with nourishment.",
+        "displayedLocators": [
+          "Location 1277 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 65,
+        "summary": "Lecture 4 closes with human and animal sustenance as its criterion, rather than large swollen crops alone.",
+        "displayedLocators": [
+          "Location 1300 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 66,
+        "summary": "First Discussion: scaling not settled; Dornach trials; hand stirring, feeling and enthusiasm explained through Ritter-remedy analogy.",
+        "displayedLocators": [
+          "Location 1310 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 67,
+        "summary": "Enthusiasm and hand versus machine continued; dilution may require renewed stirring; sprayer straining permitted; dynamic/radiant effect distinguished from substance.",
+        "displayedLocators": [
+          "Location 1332 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 68,
+        "summary": "Swiss milk bucket; weights/measures still to be worked out; horn reuse explicitly untested; locality/hemisphere claims; age needs trials; horn-size drawing stage direction.",
+        "displayedLocators": [
+          "Location 1355 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 69,
+        "summary": "Female cow versus bull/ox horns; sowing near winter versus nutrition; sand/rain effect untested; cleaning/disinfection claims; seed chaos already maximal.",
+        "displayedLocators": [
+          "Location 1379 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 70,
+        "summary": "Optional silica; comparative wheat/sainfoin plots; plot size to test; preparation storage distinguished from freshly stirred liquid; fine machine spraying accepted.",
+        "displayedLocators": [
+          "Location 1404 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 71,
+        "summary": "Summer mineral horn storage; collective burial in suitable soil; farm machinery practically accepted; novelty buying criticized; excessive dose predicted to cause rank patches.",
+        "displayedLocators": [
+          "Location 1428 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 72,
+        "summary": "Cow manure preferred, horse alternative speculative; before sowing preferred with after-sowing trial ongoing; reuse limit; meditation/nitrogen imaginations and concentration assertions.",
+        "displayedLocators": [
+          "Location 1450 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 73,
+        "summary": "Midwinter concentration claims; remembered peasant philosophy and almanacs; initial feeling followed by numerical tables recommended for communication.",
+        "displayedLocators": [
+          "Location 1474 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 74,
+        "summary": "Calculable quantities and compromise; quicklime adjusted to soil, compost turning/covering, potash-magnesia; ordinary manuring explicitly must continue.",
+        "displayedLocators": [
+          "Location 1496 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 75,
+        "summary": "Lecture 5: preparations are enhancement; living soil and root continuity; modern achievements acknowledged; harvest export requires replenishment.",
+        "displayedLocators": [
+          "Location 1511 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 76,
+        "summary": "Flies/dirty-room analogy for microorganisms as consequence; positive proposals preferred to criticism alone; mineral fertilizer watery versus organic material earthy.",
+        "displayedLocators": [
+          "Location 1532 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 77,
+        "summary": "Macrocosmic inquiry; soil versus supposedly heaven-provided substances (including mercury, arsenic, lead); living forces prioritized over material additions.",
+        "displayedLocators": [
+          "Location 1553 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 78,
+        "summary": "Kolisko small-entity investigations invoked; supplement manure; most plant substitutes possible except one; sulfur/potash and protein formation; yarrow introduced.",
+        "displayedLocators": [
+          "Location 1575 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 79,
+        "summary": "Yarrow sulfur explanation and beneficial presence; flowers in deer bladder, summer sun/winter soil; proposed radiations throughout manure.",
+        "displayedLocators": [
+          "Location 1598 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 80,
+        "summary": "Yarrow/potassium and deer kidney–bladder/cosmos explanation; experimental circle invited; chamomile adds calcium relationship to potassium/sulfur.",
+        "displayedLocators": [
+          "Location 1621 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 81,
+        "summary": "Chamomile flower heads in cattle intestines; winter humus, snow/sun influences; nitrogen stability and healthy plants asserted; mountain-railway analogy answers ridicule.",
+        "displayedLocators": [
+          "Location 1644 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 82,
+        "summary": "Nettle irreplaceability, sulfur/potassium/calcium/iron; local soil iron example; no animal casing, whole-year burial; sensitizing effect begins.",
+        "displayedLocators": [
+          "Location 1666 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 83,
+        "summary": "Nettle manure/soil described as intelligent and adapted to particular plants; nutrition versus swelling; plant healing differentiated from mere description; oak calcium introduced.",
+        "displayedLocators": [
+          "Location 1688 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 84,
+        "summary": "Oak bark organic calcium moderates etheric activity; animal skull in wet decomposing environment through autumn/winter; disease prevention asserted; silica/transmutation introduced.",
+        "displayedLocators": [
+          "Location 1710 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 85,
+        "summary": "Hidden alchemy explicitly asserts potash/lime becoming nitrogen with hydrogen, and silicon becoming an unnamed substance; dandelion mediates silica/potassium, winter bovine mesentery.",
+        "displayedLocators": [
+          "Location 1732 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 86,
+        "summary": "Dandelion makes plants receptive across neighboring land; six named additives completed by diluted valerian blossom extract for phosphorus; solid/liquid manure and compost included.",
+        "displayedLocators": [
+          "Location 1754 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 87,
+        "summary": "Second Discussion: male red deer, Urtica dioica; rain without leaching, roofing questioned; growth measures benefit weeds too; Krantz heating method queried.",
+        "displayedLocators": [
+          "Location 1775 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 88,
+        "summary": "Krantz method long-term qualification; pile height and relation to ground; crop-specific modifications deferred; unpaved manure base, clay/sand balance.",
+        "displayedLocators": [
+          "Location 1798 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 89,
+        "summary": "Contradictory yarrow/dandelion fodder opinions exchanged; testing asked; animal avoidance of harmful food asserted, not established by the exchange.",
+        "displayedLocators": [
+          "Location 1822 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 90,
+        "summary": "Fodder disagreement continued; additives present before manure application; separate preparation burial; manure fully surrounding additions; Drawing 12 radiations.",
+        "displayedLocators": [
+          "Location 1846 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 91,
+        "summary": "Distribute holes; all additives in one hole not confidently settled; Quercus robur outer live bark; fertile soil/frost; quartz grinding; feeding/atmosphere question.",
+        "displayedLocators": [
+          "Location 1869 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 92,
+        "summary": "Food-force theory defended through stretched-glove analogy; excess atmospheric uptake said to shorten life; mean between too much/too little.",
+        "displayedLocators": [
+          "Location 1894 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 93,
+        "summary": "Lecture 6 starts as concrete examples for experiments; weeds have equal natural right; near planet/lime/earth reproduction versus distant planet/silica/periphery distinctions.",
+        "displayedLocators": [
+          "Location 1899 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 94,
+        "summary": "Phylloxera and exhausted tradition used as argument; ground-level reproductive scheme and fleshy-growth scheme; Drawing 13 named.",
+        "displayedLocators": [
+          "Location 1920 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 95,
+        "summary": "Fleshy food assigned distant influences; weeds and lunar activity; growth as weaker reproduction; reflected whole cosmos claim acknowledged physically unproven.",
+        "displayedLocators": [
+          "Location 1940 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 96,
+        "summary": "Full/new Moon retention and waiting qualified; wetness intensifies claimed influence; seed ashes as negative reproductive/lunar force introduced.",
+        "displayedLocators": [
+          "Location 1963 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 97,
+        "summary": "Repeated ash treatment predicted to suppress weeds in four years; selective dandelion locations; trials invited but spiritual truth described as self-certain, verification a compromise.",
+        "displayedLocators": [
+          "Location 1985 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 98,
+        "summary": "Contrary experiment manufacturing analogy; mouse poison/bacilli practices criticized; neighboring cooperation preferred over police uniformity; skin/Venus/Scorpion proposal begins.",
+        "displayedLocators": [
+          "Location 2007 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 99,
+        "summary": "Animal zodiac and retained Moon forces; mouse-skin ash/Venus; untreated areas and neighbors; fresh spiritual knowledge versus superstition; method not transferred to insects.",
+        "displayedLocators": [
+          "Location 2030 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 100,
+        "summary": "Nematode symptom example and cosmic forces supposedly shifted to roots; specific conditions of life; four-year/cockchafer analogy.",
+        "displayedLocators": [
+          "Location 2053 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 101,
+        "summary": "Whole lower-organism ash versus mouse skin; Sun/Taurus and wider zodiac cycle; differentiated Sun beings; four-year nematode prediction; star knowledge.",
+        "displayedLocators": [
+          "Location 2074 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 102,
+        "summary": "Water/fertility versus fire/destruction, pepper as appearance; plants lack actual astral body in this account, so abnormality differs from human/animal illness.",
+        "displayedLocators": [
+          "Location 2097 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 103,
+        "summary": "Wet winter/spring and excessive lunar soil vitality supposedly move seed activity downward, creating a secondary substrate for fungi/blight; Drawing 15 named.",
+        "displayedLocators": [
+          "Location 2119 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 104,
+        "summary": "Equisetum arvense decoction proposed against excess water-mediated lunar influence; kidney analogy; compass analogy requires whole-universe explanation; microscope critique begins.",
+        "displayedLocators": [
+          "Location 2139 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 105,
+        "summary": "Lecture 6 closes with critique of narrowed microscope field and return to macrocosm; Drawing 16 named.",
+        "displayedLocators": [
+          "Location 2162 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 106,
+        "summary": "Third Discussion: audience raises destructive abuse; speaker cites fertility/civilization, recognizes misuse, recounts alleged Atlantis, questions secrecy and stenography.",
+        "displayedLocators": [
+          "Location 2169 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 107,
+        "summary": "Moral betterment and agricultural circle proposed; good/harm depends on sphere; lower versus spinal animals; chamomile species and flowering nettle leaves without roots.",
+        "displayedLocators": [
+          "Location 2192 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 108,
+        "summary": "Aquatic weeds and underground parasites; vineyards explicitly untested; abstinence/vineyard dilemma and practical compromise; deer-bladder substitutes uncertain; species timings need trials.",
+        "displayedLocators": [
+          "Location 2215 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 109,
+        "summary": "Venus visible against Scorpion, behind Sun wording; peritoneum not tripe; ashes and fruit crops; ordinary proven methods retained; mineral fertilizer disappearance strongly predicted.",
+        "displayedLocators": [
+          "Location 2239 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 110,
+        "summary": "Predicted three-/four-to-six-year manuring and disappearance of artificial fertilizer; queen breeding/beekeeping long-term prediction; larvae/adults timing variation.",
+        "displayedLocators": [
+          "Location 2265 of 5282"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 111,
+        "summary": "Opening: animals, fruits and vegetables require insight into relations, not isolated species. Warmth, chemical ether and life ether extend the proposed relations beyond eating and manuring; include insects and birds.",
+        "displayedLocators": [
+          "Location 2279 of 5282 + 53%"
+        ],
+        "qualification": "Subtle forces are Steiner’s spiritual-scientific explanation, not measurements supplied here.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 112,
+        "summary": "Fruit tree as raised living soil: shoots, flowers and fruit are compared with herbaceous plants; hypothetical coalescing roots introduce the cambium image. Drawing 18/plate 7 is named.",
+        "displayedLocators": [
+          "Location 2300 of 5282 + 54%"
+        ],
+        "qualification": "The text explicitly calls the root-mass example hypothetical; do not teach that trees lack actual roots. The drawing itself is not visually verified.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 113,
+        "summary": "Cambium is presented as the substitute root-region of the shoot plants; tree elevates earth and gathers astrality around its crown. Differentiating orchard/woodland/herb scents is proposed as clairsentient cultivation.",
+        "displayedLocators": [
+          "Location 2321 of 5282 + 54%"
+        ],
+        "qualification": "Cambium metaphor and astral interpretation remain attributed; smell differences do not establish astral density.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 114,
+        "summary": "Crown astral richness is paired with internal ether poverty and mineralizing roots. Insects above and larvae below are related to these poles; Drawing 19/plate 7 named.",
+        "displayedLocators": [
+          "Location 2343 of 5282 + 55%"
+        ],
+        "qualification": "Universal claim that without trees there would be no insects is a historical spiritual explanation, not an established evolutionary conclusion.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 115,
+        "summary": "Tree-tendency is extended to other plants. Earthworms are called regulators/safety valves of excess etheric soil vitality; the insects/birds division of work is narrated pictorially.",
+        "displayedLocators": [
+          "Location 2363 of 5282 + 55%"
+        ],
+        "qualification": "Personified insects speaking to birds is expressly a picture, not a biological historical event.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 116,
+        "summary": "Birds/insects, woods, fields and meadows belong together. Preserve naturally wooded areas and consider woodland regulation when crop growth is stunted or too luxuriant; worms/larvae linked with lime.",
+        "displayedLocators": [
+          "Location 2385 of 5282 + 56%"
+        ],
+        "qualification": "Context-sensitive landscape judgment is essential; no universal tree-clearing or planting recipe follows.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 117,
+        "summary": "Conscious wisdom is contrasted with memorized spiritual vocabulary. Conifers/birds, shrubs/mammals, and fungi/bacteria/parasites are paired; wet meadows introduced.",
+        "displayedLocators": [
+          "Location 2408 of 5282 + 56%"
+        ],
+        "qualification": "These proposed affinities are attributed. Mammals’ purported self-dosing of shrubs is not a guarantee of safe fodder choice.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 118,
+        "summary": "Fungi-rich wet meadows are proposed to draw harmful microorganisms away. Balanced woods/orchards/shrubs/meadows may justify less tillage. Animal nerve-senses/breathing relate directly to air/warmth; earth/water require digestion.",
+        "displayedLocators": [
+          "Location 2429 of 5282 + 57%"
+        ],
+        "qualification": "A proposed pest-diversion mechanism is not proven disease control. Economic argument concerns whole-farm quality, not maximum cultivated area alone.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 119,
+        "summary": "Plant has direct earth/water relation; animal has direct air/warmth relation. Assimilation is mainly forces. Plants give off air/warmth, contrary to simple analogical reversal; Drawing 20/plate 7 named.",
+        "displayedLocators": [
+          "Location 2451 of 5282 + 58%"
+        ],
+        "qualification": "Spiritual polarity is not a complete account of plant/animal physiology. The text warns against deriving spiritual truth by analogy alone.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 120,
+        "summary": "Plants give, animals take; Goethe and old instinctive knowledge invoked. Woods/orchards/shrubs regulate aboveground; worms/larvae/lime below. Final lecture will develop practical indications for the Circle.",
+        "displayedLocators": [
+          "Location 2469 of 5282 + 58%"
+        ],
+        "qualification": "Goethe’s saying and Steiner’s interpretation have distinct provenance; no direct Goethe source is supplied on this page.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 121,
+        "summary": "June 16 opening rejects general feeding formulas in favor of individualized judgment. Nutrition is contrasted with simple depositing of swallowed matter; organismic oxidation distinguished from dead combustion.",
+        "displayedLocators": [
+          "Location 2484 of 5282 + 58%"
+        ],
+        "qualification": "Do not convert criticism of a combustion analogy into denial of metabolic oxidation or nutrient requirements.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 122,
+        "summary": "Plants have physical/etheric bodies with surrounding astrality; fruit supports animal/human astrality. Animals’ nerve-sense and metabolic-limb poles interpenetrate through a less independent rhythmic middle.",
+        "displayedLocators": [
+          "Location 2504 of 5282 + 59%"
+        ],
+        "qualification": "These are the author’s organization terms, not contemporary anatomical divisions.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 123,
+        "summary": "Earthly substance/cosmic forces assigned to head; cosmic substance/earthly forces to metabolic-limb system. Pasture and sensory contact preferred over dark confinement; Drawing 21/plate 8 named.",
+        "displayedLocators": [
+          "Location 2526 of 5282 + 59%"
+        ],
+        "qualification": "Cosmic body-substance claim is not established nutrient physiology. Pasture example also supports a concrete attention to animal surroundings.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 124,
+        "summary": "Dark trough feeding contrasted with roaming/smelling/seeking food; inherited cosmic forces claimed to decline over generations. Brain as ego foundation introduced through excretion and intestinal process.",
+        "displayedLocators": [
+          "Location 2549 of 5282 + 60%"
+        ],
+        "qualification": "Ego-stage terminology does not establish absence of animal experience, intelligence or welfare needs. Brain/intestine account is historical spiritual physiology.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 125,
+        "summary": "Animal manure carries ego potential to plant roots; landscape gives astrality above. Farm is a living organism/individuality with fodder–animal–manure–soil–plant loop; appropriate animals and on-farm manure emphasized; Drawing 22/plate 8.",
+        "displayedLocators": [
+          "Location 2571 of 5282 + 60%"
+        ],
+        "qualification": "Do not describe manure as literal neural tissue or consciousness. Self-sustaining cycle is clarified by the following page’s limits.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 126,
+        "summary": "Explicitly rejects fanatic completeness: economic conditions prevent total self-sufficiency, yet pursue it where possible. Root fodder relates to head, with calf/carrot example; complementary force-radiating feed needed.",
+        "displayedLocators": [
+          "Location 2591 of 5282 + 61%"
+        ],
+        "qualification": "No quantities or complete ration supplied; calf carrot indication is a model example, not sufficient modern feeding advice.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 127,
+        "summary": "Carrot plus flaxseed or fresh hay illustrates complementary young-animal feeding; Drawing 23/plate 8. Dairy animal middle region interweaves force/substance streams; milk described as transformed sexual-gland secretion.",
+        "displayedLocators": [
+          "Location 2613 of 5282 + 61%"
+        ],
+        "qualification": "Milk explanation is historical and not established endocrinology; examples are not nutritionally complete rations.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 128,
+        "summary": "Leaf/green fodder assigned to milk production; clover/pulses draw fruiting into foliage, with effect claimed in next generation; Drawing 24/plate 8. Random accumulation of feeds compared with incompatible sore-throat remedies.",
+        "displayedLocators": [
+          "Location 2635 of 5282 + 62%"
+        ],
+        "qualification": "Intergenerational milk claim needs investigation; do not prescribe clover indiscriminately or equate all fodder complexity with bad nutrition.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 129,
+        "summary": "Conscious simplification and comprehensible feed combinations urged. Fruit tendency can occur beyond flowers, as potato eyes show. Drying, sunlight, steaming/cooking interpreted as furthering fruiting processes for metabolic-limb forces.",
+        "displayedLocators": [
+          "Location 2656 of 5282 + 62%"
+        ],
+        "qualification": "Cooking theory and plant-organ correspondences are attributed; feed suitability cannot be inferred from shape alone.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 130,
+        "summary": "Alpine movement and aromatic herbs are related to limb demands. Raw-food/mystic polemic varies effects by constitution and stresses two-sided individual cases.",
+        "displayedLocators": [
+          "Location 2679 of 5282 + 63%"
+        ],
+        "qualification": "Human raw-food/rheumatism/gout assertions are historical medical claims, not dietary guidance or moral evaluation of people.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 131,
+        "summary": "Vegetarianism linked to latent forces and diabetes/gout/rheumatism; fatstock to distributing cosmic substance via fruiting feed, processed feed/oil cakes, with small root component. Root/head, flower/metabolic-limb, leaf/rhythmic summarized; salts affect whole.",
+        "displayedLocators": [
+          "Location 2700 of 5282 + 63%"
+        ],
+        "qualification": "No disease prevention/treatment established; no fattening ration or salt dose should be derived here.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 132,
+        "summary": "Quality can matter in small amounts. Precise tomato experiments requested; supposed organismal independence linked with liver/cancer and raw/self-composted growth preference.",
+        "displayedLocators": [
+          "Location 2722 of 5282 + 64%"
+        ],
+        "qualification": "Cancer tomato prohibition and liver treatment are unsupported medical assertions. Raw compost preference is a historical claim, not food-safety or fertility instruction.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 133,
+        "summary": "Potato independence/materialism claim connects agriculture with social life. Guidelines framed as basis for long experiments; 1924 Circle asked to test before publicizing.",
+        "displayedLocators": [
+          "Location 2744 of 5282 + 65%"
+        ],
+        "qualification": "Potato/materialism causation not established. Historical restriction is content to analyze, not an instruction controlling today’s course work.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 134,
+        "summary": "Farmers’ practical communication contrasted with amateur repetition. Closing thanks to Keyserlingks/household recognizes festive hospitality and conference work.",
+        "displayedLocators": [
+          "Location 2766 of 5282 + 65%"
+        ],
+        "qualification": "Social history and historical audience restriction must retain their date/context.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 135,
+        "summary": "Solid/liquid manure paired as ego/astral; Vreede gives provisional 1924 mouse interval and broad insect interval, not completed calculations. Moon diagram described; stored insects allowed. Drawing 25/plate 8 named.",
+        "displayedLocators": [
+          "Location 2782 of 5282 + 66%"
+        ],
+        "qualification": "Vreede’s answer is not Steiner’s; calendar intervals are provisional/year-specific. Moon description is textually confusing and requires visual/editorial checking.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 136,
+        "summary": "Weed seeds, insect pepper, frost, horseflies and couch grass questions followed by electric fodder preservation. Cosmic interpretation of frost and pepper given.",
+        "displayedLocators": [
+          "Location 2805 of 5282 + 66%"
+        ],
+        "qualification": "Do not issue pepper/frost/couch-grass prescriptions. Couch-grass disappearance assertion is not verified.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 137,
+        "summary": "Electricity said to damage understanding and produce sclerosis; silage answer begins with salt and fodder distribution.",
+        "displayedLocators": [
+          "Location 2829 of 5282 + 66%"
+        ],
+        "qualification": "Broad electricity claims are historical, not contemporary medical/veterinary conclusions.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 138,
+        "summary": "Salt/silage discussed with optimum-not-excess qualification. Protein and warmth said to be transformed by the living organism; wood contrast and Drawing 26/plate 8.",
+        "displayedLocators": [
+          "Location 2851 of 5282 + 67%"
+        ],
+        "qualification": "Do not infer safe salt doses or guarantees from taste rejection. Transformation account is not an accurate complete biochemistry manual.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 139,
+        "summary": "Salt-free ensiling and whiting questioned; some animal tolerance unknown. Ethical attitude/karmic effects of pest control discussed using good intention and reverence; fish/spawn comparison.",
+        "displayedLocators": [
+          "Location 2874 of 5282 + 67%"
+        ],
+        "qualification": "Whiting species uncertainty is explicit. Good intention alone does not establish safety, welfare or ecological acceptability.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 140,
+        "summary": "Different life stages/pepper ethics continued. Human feces limited relative to farm scale; swine erysipelas acknowledged an unconsidered veterinary question with tentative stibnite suggestion. Species-specific pepper/hybrids and green manure.",
+        "displayedLocators": [
+          "Location 2898 of 5282 + 68%"
+        ],
+        "qualification": "No sanitation limits, stibnite remedy or animal treatment endorsed. The author explicitly lacks prior consideration of the disease question.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 141,
+        "summary": "Green manure has case-dependent use to reinforce leafy/shoot growth and may supplement other manure.",
+        "displayedLocators": [
+          "Location 2922 of 5282 + 69%"
+        ],
+        "qualification": "Conditional answer, not a universal rule or fertility prescription.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 142,
+        "summary": "June 11 address: formed Circle will carry experiments so guidelines can be confirmed/demonstrated practically. Anthroposophy central activity vs practical/scientific application introduced.",
+        "displayedLocators": [
+          "Location 2924 of 5282 + 69%"
+        ],
+        "qualification": "Date precedes later lectures despite placement after them; keep separate from Lecture 8.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 143,
+        "summary": "Immediate conversion of specialists/farmers criticized; copying scientific methods without substantive content also criticized.",
+        "displayedLocators": [
+          "Location 2945 of 5282 + 69%"
+        ],
+        "qualification": "Polemical historical judgment of science, not reason to reject agricultural evidence.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 144,
+        "summary": "Dornach Natural Science Section partnership: farmers are full co-workers supplying answers, not mere implementers. Climate and soil establish each farm’s individuality.",
+        "displayedLocators": [
+          "Location 2967 of 5282 + 70%"
+        ],
+        "qualification": "Keep collaborative local information requirement rather than promise uniform general results.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 145,
+        "summary": "Indications likened to alphabet requiring combination; concrete cases, perseverance, limited areas and gradual change preferred. Starting smaller limits damage and makes improvement visible.",
+        "displayedLocators": [
+          "Location 2989 of 5282 + 70%"
+        ],
+        "qualification": "This supports modest trial design but does not replace modern comparison/control methods.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 146,
+        "summary": "Farmer tolerance, reciprocal cooperation and Keyserlingk gratitude; farm descriptions must include above/belowground relations.",
+        "displayedLocators": [
+          "Location 3012 of 5282 + 71%"
+        ],
+        "qualification": "Historical institution/social context; descriptions are evidence supplied by farmers.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 147,
+        "summary": "Requested data: soil structure, woodland extent/type, recent crops, yields, experience. Farmers/scientists should grow together; Steiner explains farm upbringing and limited manure-stirring.",
+        "displayedLocators": [
+          "Location 3033 of 5282 + 71%"
+        ],
+        "qualification": "Direct observational farm history matters; do not inflate the biographical anecdote into extensive field validation.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 148,
+        "summary": "Peasant wisdom opposed to dead methods/statistics; Dornach and Circle compared to twins sharing thought/feeling.",
+        "displayedLocators": [
+          "Location 3055 of 5282 + 72%"
+        ],
+        "qualification": "Historical polemic is attributed; modern evidence does not require dismissing statistics.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 149,
+        "summary": "Editorial introduction identifies notes for the freely spoken lectures and possible reference-source material; handwriting OCR begins with soils/water/nutrients. Average OCR confidence 49: do not reconstruct exact wording or quantities.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 150,
+        "summary": "Highly uncertain handwriting extraction (33 confidence). Legible themes include soil texture/marl, water retention, manure and plant/animal poles; formulae and prescriptions cannot be checked.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 151,
+        "summary": "Very uncertain handwriting extraction (29 confidence). Fragments concern crops, roots, soil/Sun, seasons and winter Earth life. Detailed connections and numeric values remain undecidable from supplied text.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 152,
+        "summary": "Uncertain handwriting extraction (46 confidence). Legible topics: sand/clay/lime, humus, nitrogen/protein, legumes versus other plants, and etheric/astral characterizations. Chemical notation is unreliable.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 153,
+        "summary": "Uncertain handwriting extraction (40 confidence). Fragments on five elements, legumes, manure/artificial fertilizers, nitrogen compounds and losses. Do not use the OCR as an independently verified chemical recipe.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 154,
+        "summary": "Uncertain handwriting extraction (41 confidence). Manure storage/covering, earth/peat, decomposition and odors; relation of woods and cultivated fields. Exact instructions remain unreliable.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 155,
+        "summary": "Uncertain handwriting extraction (35 confidence). Compost/grassland, protein/digestion, preparation plants and mineral nutrients. Numeric intake and dosing material is not reliable.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 156,
+        "summary": "Uncertain handwriting extraction (35 confidence). Liquid-manure losses, mineral/poison references, seed weeds, burning and celestial relationships. Dates, species details, formulae and quantities require images.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 157,
+        "summary": "Uncertain handwriting extraction (43 confidence). Seed degeneration, warm/moist conditions, larva/insect astrality, woods/birds/animals and balancing influences. The handwritten causal diagram cannot be recovered confidently.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 158,
+        "summary": "Uncertain handwriting extraction (66 confidence). Fodder for young, draft and other animals; warmth/air/water/earth relative to physical/etheric/astral/ego above and below ground. A list of hoof/calcium-related fragments ends the notes.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 159,
+        "summary": "Explicit warning: mostly recalled, possibly mistaken, situation-specific indications. Introduces fertilizer conversations; Streicher biography and October 9, 1920 Dornach conversation regarding degraded soils. Not equivalent to lecture stenography.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 160,
+        "summary": "Mineral-salt/unspecified-poison recollection ends. Editorial explanation distinguishes successive probing conversations. Begins separately stenographed Stuttgart discussion on fertilizer industry and acidification.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 161,
+        "summary": "Cattle manure, earthworms, companion plants, sainfoin and farmers’ experience. Claims about sowing gestures and different crop moisture requirements belong to this dated discussion, not universal established agronomy.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 162,
+        "summary": "Stall-feeding, cattle tuberculosis and manure quality; Streicher raises urea feed; Steiner argues for multigenerational investigation. Historical causal claims should not replace veterinary knowledge.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 163,
+        "summary": "Bottomley auximones/Humogen and organic-mercury trials discussed; Steiner speculates about descendants’ hydrocephalus/impotence. These are historical claims, not demonstrated outcomes or safe fertilizer guidance.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 164,
+        "summary": "Streicher’s later conversations concern low-chloride potash-magnesia, Digitalis extract and companion plants; editor dates to 1922. Additional orchard and Guldesmühle reports begin. Poison-extract reference stays archival.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 165,
+        "summary": "Fruit-tree leaves, horn meal, manure/mineral mixing, rejection of night soil and peat, preferred humus, moisture for crop sowing; begins Keyserlingk soil recollection. Keep report authors and differing contexts visible.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 166,
+        "summary": "Roses/iron/dilute lead anecdote; snails and parallel-bed suggestion; weeds, soil environment and plant illness; potato eyes, wireworms, nasturtiums and nettles. Lead is historical source material, not a learner action.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 167,
+        "summary": "Companion planting and additional preparation 500/501 indications. Elemental beings report has two transmission steps: Walther conversation notes, then Voegele report; Voegele was not present.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 168,
+        "summary": "Elemental spirits, farming as priestly task, dew, seasonal embodiment and animal group souls/weakening instincts. Anthroposophical spiritual account, not observational proof or another Koberwitz lecture.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 169,
+        "summary": "Farmers’ concerns about seed degeneration/animal health and formative forces; recollection of first preparation 500 in Arlesheim. Dates in this edition are editorially corrected, as explained at capture 191.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 170,
+        "summary": "First horn excavation and stirring demonstration; concrete situational activity, younger practitioners learning through experience. Distinguish memory narrative from exact authenticated words.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 171,
+        "summary": "Koberwitz organization; Pfeiffer explicitly did not attend. Recalled later instruction prioritizes broad application and says experiments can follow; another conversation links nutrition to thinking/willing. Do not silently merge with June 11 address.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 172,
+        "summary": "Reported Earth-healing aim, open access to methods beyond anthroposophists, creative participation and farmer/Goetheanum exchange. Name biodynamic is attributed to Experimental Circle, not Steiner.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 173,
+        "summary": "Short final paragraph: alternate periods of teaching with practical work to retain contact with real conditions. Capture has much whitespace; not an absent or unreviewed page.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 174,
+        "summary": "Walther shorthand formed German 1925 edition; Kolisko shorthand helped German 1929 edition; both lost. Current translation mainly seventh German 1984 with occasional 1925 variants. Blackboard originals preserved on black paper, first published 1984; older hatched redraws remain.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 175,
+        "summary": "Koberwitz/Kobierzyce and Breslau/Wrocław location history; diversified sugar-factory estate; Society/School/sections and people. Course text internal until 1963. Some meetings have no transcript.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 176,
+        "summary": "Related spiritual-substance passage from 1923; eurythmists, Coming Day company/hyperinflation, Fechner, Schleiden, sunspots, planetary spheres. Other GA quotations are cross-references, not GA 327 lecture continuation.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 177,
+        "summary": "Equisetum 90% and crust silica figures contextualized; ascending planetary arcs. Etheric/physical polarity and research references; clay indication not explicit later in course; season/seed references.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 178,
+        "summary": "Soil and farm individuality references; etheric, astral and nitrogen discussions. Related GA descriptions cited; not independent empirical confirmation of lecture claims.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 179,
+        "summary": "Legume protein and sainfoin seed distinction; nutrition/force references; black earth; drawing order 9/10 revised to match text. Quicklime causticity explicitly mentioned by editor.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 180,
+        "summary": "Horn/silica sprays named 500/501; cited studies and associations; historic 1250 square meter area and Swiss bucket about eight liters. A question absent Walther but present Kolisko was mispositioned in earlier editions.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 181,
+        "summary": "Continuation of mispositioned question; June 8 Breslau meeting has no transcript; potash-magnesia. Compost preparation plant identities; oak 77% means ash analysis; Quercus robur versus rubra; chamomile taxonomy.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 182,
+        "summary": "Mesentery/peritoneum/omentum distinctions and uncertain intended membrane; preparations 502–507 as later labels and research bibliography; red deer/elk and loess; promised topic absent remaining course.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 183,
+        "summary": "Quartz pulverization cross-reference; near/distant planet effects; 1925 passages restored against 1984. Sign-versus-constellation Scorpio distinction begins, useful for avoiding fake precision.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 184,
+        "summary": "Tropical/sidereal distinction continues; sugar-beet pests/cockchafer; pepper technique mixed results; Equisetum also called 508. Chamomile identification uncertainty begins.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 185,
+        "summary": "Possible chamomile species; Elodea/clubroot; Venus behind Sun interpreted temporally and example dates; membrane alternatives. External GA manure/protein quotation starts; not experimental proof.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 186,
+        "summary": "Manure/protein quotation ends; beekeeping references; trees/water/astrality and threefold human organism, substance/activity, intestines/brain and stall-feeding references. No new Koberwitz lecture.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 187,
+        "summary": "Milk/animal-feed references; two words on color plate 8 declared partly illegible. Vreede timing inconsistent with constellation reading; moon-period German ambiguity remains. Historic calendars cited, not current scheduling instructions.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 188,
+        "summary": "External electricity quotation explicitly rejects banning modern achievements. Whiting, historic animal remedy, wild radish correction. June 8 meeting no transcript; Streicher typescript provenance and editorial bracket/ellipsis conventions.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 189,
+        "summary": "December 17, 1921 discussion published 1928 and 1929; Streicher later conversation internally dated Fall 1921 despite saying after December 17, so earliest feasible January 1922. Potash-magnesia mineral identities; poisonous plant/Digitalis context and recollected trial report.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 190,
+        "summary": "Streicher’s reported leaf-color/protein signs and companion plant claims; most indications first appeared 1929. Nettles/dead-nettles may be confused. Appendix C originally commemorative essay 1956 with English 1958 publication.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 191,
+        "summary": "English essay translator unlisted; first preparation dates shifted one year against original Pfeiffer to match Wachsmuth chronology. Approx 60 original Experimental Circle farmers differs from 100+ lecture attendance.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 192,
+        "summary": "Defines GA identifiers and starts Steiner bibliography 1904–1919. Supplied extraction ENDS here at Kindle 88%; complete bibliography, addresses, index and color plates referenced earlier are not present.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      }
+    ],
+    "adams": [
+      {
+        "capture": 1,
+        "summary": "Cover: Agriculture Course (Classic Translation), The Birth of the Biodynamic Method. The title has an OCR error; displayed Kindle location is 1/3441.",
+        "displayedLocators": [
+          "Location 1 of 3441"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 2,
+        "summary": "Title page credits Rudolf Steiner and Rudolf Steiner Press, with eight Koberwitz lectures, June 7–16, 1924. Displayed page indicator is 1/159.",
+        "displayedLocators": [
+          "Pagina 1 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 3,
+        "summary": "George Adams is the translator. Rudolf Steiner Press publication is 2012; first English publication and translation copyright are 1958. GA 327 and ISBN 9781855843530 are identified.",
+        "displayedLocators": [
+          "Pagina 2 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 4,
+        "summary": "Contents lists the preface, lectures 1–3, June 11 address, lectures 4–8 with discussions, supplement and plates. The June 20 report is not listed as an introduction here.",
+        "displayedLocators": [
+          "Pagina 4 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 5,
+        "summary": "Pfeiffer’s preface recalls requests about seeds and animal health in 1922/23, private Steiner advice and the first preparation 500. This is Pfeiffer’s retrospective voice.",
+        "displayedLocators": [
+          "Pagina 5 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 6,
+        "summary": "Pfeiffer recalls digging up horns and Steiner’s stirring demonstration. Concrete work and learning through practice are emphasized; the Keyserlingk request follows.",
+        "displayedLocators": [
+          "Pagina 6 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 7,
+        "summary": "Pfeiffer explicitly says he did not attend Koberwitz. He reports a private conversation preferring broad application before experiments and another linking nutrition with will; these differ in status from course reports.",
+        "displayedLocators": [
+          "Pagina 7 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 8,
+        "summary": "Pfeiffer says the method can serve all farmers, distinguishes application from creative participation and describes Goetheanum feedback. The experimental group introduced the biodynamic name, not Steiner.",
+        "displayedLocators": [
+          "Pagina 8 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 9,
+        "summary": "Pfeiffer describes collaborators and international growth. His criticism of Liebig’s followers is qualified by quotations from Liebig. These are later practitioner interpretations.",
+        "displayedLocators": [
+          "Pagina 9 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 10,
+        "summary": "Pfeiffer describes soil/humus recognition, trace substances, dilutions and photosynthesis, then quotes W. R. Williams’s 1952 work. This does not establish every planet-specific claim as current science.",
+        "displayedLocators": [
+          "Pagina 10 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 11,
+        "summary": "Williams quotations continue. Pfeiffer recalls laboratory and crystallization work, Steiner’s study advice and repeated emphasis on practical activity.",
+        "displayedLocators": [
+          "Pagina 11 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 12,
+        "summary": "Pfeiffer relates economic study, practical farm development and field/laboratory work. Trace-element claims follow; OCR-damaged exponents should not be quoted as verified quantities.",
+        "displayedLocators": [
+          "Pagina 12 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 13,
+        "summary": "Pfeiffer discusses zinc, mushrooms, microbes, trace elements and periodic soil variation. A lecture quotation is embedded in his later account and remains a distinct layer.",
+        "displayedLocators": [
+          "Pagina 13 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 14,
+        "summary": "Pfeiffer reports light-rhythm experiments and interprets them as cosmic activity; earlier traditions and species-forming constellations form the wider discussion.",
+        "displayedLocators": [
+          "Pagina 14 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 15,
+        "summary": "Pfeiffer discusses formative-force tests, breeding, degeneration and century-end predictions. Historical protein percentages and research assertions are not contemporary confirmation.",
+        "displayedLocators": [
+          "Pagina 15 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 16,
+        "summary": "The preface concludes with wheat, potato and pest-balance accounts. Pfeiffer calls it one perspective; the origin is identified in Wir erlebten Rudolf Steiner and the 1958 Golden Blade translation.",
+        "displayedLocators": [
+          "Pagina 16 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 17,
+        "summary": "The footnote credits the 1952 Russian translation of Williams. The repeated 16/159 display shows that capture numbers and displayed pages are not equivalent.",
+        "displayedLocators": [
+          "Pagina 16 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 18,
+        "summary": "Lecture 1 begins June 7 with thanks, the Koberwitz atmosphere and the earlier Der Kommende Tag agricultural work.",
+        "displayedLocators": [
+          "Pagina 17 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 19,
+        "summary": "Steiner qualifies this first course, relates agriculture to all human life and explains why foundations and side paths are needed. Economic ventures supply context.",
+        "displayedLocators": [
+          "Pagina 18 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 20,
+        "summary": "Practical economics requires field, forest and cattle experience. Beet growth involves relationships beyond description; the compass comparison begins. Displayed page 18 repeats.",
+        "displayedLocators": [
+          "Pagina 18 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 21,
+        "summary": "The compass needs the whole Earth. Instincts and farmers’ almanacs preserve wisdom; humor accompanies the wisdom to resist superstition.",
+        "displayedLocators": [
+          "Pagina 19 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 22,
+        "summary": "Steiner calls for a wider cosmic horizon rather than a return to old instincts. The Fechner–Schleiden rainwater story illustrates everyday judgment; his offer remains provisional.",
+        "displayedLocators": [
+          "Pagina 20 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 23,
+        "summary": "Human independence concerns inner periodicity rather than coinciding external phases. Menstruation, sunspots and fever provide his examples.",
+        "displayedLocators": [
+          "Pagina 21 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 24,
+        "summary": "Plants remain embedded in wider rhythms. Traditional planet order, quartz/silicon, crust percentages and the unqualified horsetail figure appear.",
+        "displayedLocators": [
+          "Pagina 22 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 25,
+        "summary": "Silica medicine references and hypothetical plant forms lead into the silica–lime balance and the distant/near planetary mediator groups.",
+        "displayedLocators": [
+          "Pagina 23 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 26,
+        "summary": "Reproduction and nourishment are distinct interests. The non-food-plant sentence’s negative differs from Creeger capture 25 and remains unresolved without the PDF.",
+        "displayedLocators": [
+          "Pagina 24 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 27,
+        "summary": "Water, rain and full moon are linked conditionally; warmth mediates silica and distant planets. Saturn period/visibility claims are source statements, not a modern astronomy lesson.",
+        "displayedLocators": [
+          "Pagina 25 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 28,
+        "summary": "Diagram 1 is referenced, not visually verified. Perennial bark, oak/Mars, conifer/Saturn and firewood warmth complete the model’s examples.",
+        "displayedLocators": [
+          "Pagina 26 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 29,
+        "summary": "Lecture 1 ends with recollected potato quality and questions intended to lead into practice.",
+        "displayedLocators": [
+          "Pagina 27 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 30,
+        "summary": "Lecture 2 begins June 10 with the self-contained farm ideal, explicitly not absolute. Imported fertility is a remedy metaphor; Sun and soil relationships follow.",
+        "displayedLocators": [
+          "Pagina 29 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 31,
+        "summary": "The soil has life, astrality and seasons in this account. Surface as diaphragm, head below and belly above form an approximate analogy; reciprocal exchange and nearer planets follow.",
+        "displayedLocators": [
+          "Pagina 30 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 32,
+        "summary": "Distant activity below and nearer activity above are distinguished. A later direct-radiation sentence conflicts with Creeger capture 31. The silica percentage also differs.",
+        "displayedLocators": [
+          "Pagina 31 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 33,
+        "summary": "Clay conducts cosmic activity upward; lime draws terrestrial activity downward. Leaf/flower warmth and root warmth are distinguished.",
+        "displayedLocators": [
+          "Pagina 32 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 34,
+        "summary": "Underground warmth and air are described as living, while water and earth are more receptive. January 15–February 15 refers to Central-European winter and crystallization.",
+        "displayedLocators": [
+          "Pagina 33 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 35,
+        "summary": "November–December preparation and clay conductivity lead into the farm living in time. Protein complexity begins the seed account. The displayed page 33 repeats.",
+        "displayedLocators": [
+          "Pagina 33 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 36,
+        "summary": "Highest complexity dissolves into seed chaos receptive to cosmic imprint; parent affinity preserves type. Earthly chaos and continued cosmic formation are developed.",
+        "displayedLocators": [
+          "Pagina 34 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 37,
+        "summary": "Humus anchors earthly life and form while the cosmic stream leads to seed. Leaf greenness is solar; flower correspondences begin. Diagram numbering differs from Creeger.",
+        "displayedLocators": [
+          "Pagina 35 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 38,
+        "summary": "Mars/red, Jupiter/white or yellow and Saturn/blue are followed by branching versus unitary roots and the Sun’s mediation. Sainfoin exemplifies form-reading.",
+        "displayedLocators": [
+          "Pagina 36 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 39,
+        "summary": "Horsetail, sandy soil and the potato’s stem formation illustrate cosmic retention. Fruit taste receives planetary interpretation, including apple/Jupiter and plum/Saturn.",
+        "displayedLocators": [
+          "Pagina 37 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 40,
+        "summary": "Earlier breeding, Kali Yuga and degeneration lead into light in siliceous ground versus humus. The local plant–animal balance begins.",
+        "displayedLocators": [
+          "Pagina 38 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 41,
+        "summary": "Livestock, fodder and manure amounts and mixtures are explicitly proposed for testing. Self-containment’s ideal and limitations recur; animal form and planetary groups follow.",
+        "displayedLocators": [
+          "Pagina 39 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 42,
+        "summary": "Solar front and lunar rear influences are considered especially for embryos. The farm/animal inversion and fodder–manure–land relationship close lecture 2.",
+        "displayedLocators": [
+          "Pagina 41 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 43,
+        "summary": "Lecture 3 begins June 11 with nitrogen and its four sister substances. Sulfur mediates spiritual activity; the sibling language differs from Creeger’s translation.",
+        "displayedLocators": [
+          "Pagina 42 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 44,
+        "summary": "Sulfur and phosphorus as light-bearers lead into the snapshot comparison for chemistry. Carbon’s common forms and philosopher’s-stone account follow.",
+        "displayedLocators": [
+          "Pagina 43 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 45,
+        "summary": "Carbon is the living sculptor; respiration counteracts fixed form. Human ego, blood, carbon and universal ego are related; lime’s later support begins.",
+        "displayedLocators": [
+          "Pagina 44 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 46,
+        "summary": "The skeleton supports mobile carbon form. Adams uses blue carbon in diagram 6, whereas Creeger uses green in drawing 7. Etheric life needs a physical carrier.",
+        "displayedLocators": [
+          "Pagina 45 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 47,
+        "summary": "Oxygen carries etheric life and is green here, blue in Creeger. Living/dead oxygen and the soil/organism distinction lead back to carbon’s framework.",
+        "displayedLocators": [
+          "Pagina 46 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 48,
+        "summary": "Nitrogen mediates carbon, oxygen, form and life as astral carrier. The nitrogen-person image and breathing account develop the relationship.",
+        "displayedLocators": [
+          "Pagina 47 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 49,
+        "summary": "The historical air-deprivation suggestion is not a learner activity. External astrality and nitrogen’s portrayed sensitivity to water and plants follow.",
+        "displayedLocators": [
+          "Pagina 48 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 50,
+        "summary": "Nitrogen’s sensitivity and cosmic knowledge lead into exchange between humans and farmland, and between Earth and cosmos. Diagram-color references differ from Creeger.",
+        "displayedLocators": [
+          "Pagina 49 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 51,
+        "summary": "Hydrogen dissolves organized form toward the universe. The five roles and least-spiritual paradox lead into meditation.",
+        "displayedLocators": [
+          "Pagina 50 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 52,
+        "summary": "Meditation is linked with subtle breathing and carbon dioxide in Steiner’s explanation. Nitrogen revelation and farmers’ winter contemplation are described, not assigned as breath-control exercises.",
+        "displayedLocators": [
+          "Pagina 51 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 53,
+        "summary": "Farm knowledge arises and is tested; coarse conceptual nets are criticized. The protein constituent list differs from Creeger capture 51, including an apparent oxygen omission, and should not be silently repaired.",
+        "displayedLocators": [
+          "Pagina 52 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 54,
+        "summary": "Carbon uses calcium and silica support. Legumes collect nitrogen and are compared with respiratory organs; species are parts of the plant whole.",
+        "displayedLocators": [
+          "Pagina 53 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 55,
+        "summary": "Legume leaves, fruiting, winter and viability generalizations lead into lime as desire and the calcium reaction imagery.",
+        "displayedLocators": [
+          "Pagina 54 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 56,
+        "summary": "Silica is undemanding perception and clay mediates. Carbon joins silica/clay against lime; nitrogen orders the relationship among these tendencies.",
+        "displayedLocators": [
+          "Pagina 55 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 57,
+        "summary": "Lecture 3 ends with nitrogen between lime, clay and silica, and the transition to manuring the following day.",
+        "displayedLocators": [
+          "Pagina 56 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 58,
+        "summary": "The June 11 Experimental Circle address begins. Guidelines require practical experiments and cooperation; past movement difficulties are introduced. The address continues beyond this assigned range.",
+        "displayedLocators": [
+          "Pagina 57 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 59,
+        "summary": "Problems with abruptly winning established professionals over and treating life as mere thought; applying anthroposophy to practical/scientific work requires more than immediate conviction.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 60,
+        "summary": "Critique of merely imitating established scientific methods and mixing two approaches without clarity; contrasts reception of conventional methodology with anthroposophical content. Historic rhetorical criticism, not a rejection of observation.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 61,
+        "summary": "Independent collaborators rather than executive organs; research begins from descriptions of actual farms. Farm individuality depends on climate/soil; combine indications like letters into appropriate concrete work; gather existing experience before experiments.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 62,
+        "summary": "Conversion of person does not instantly change farm/supply chain. Perseverance; start on restricted area to limit losses and see results; collegial tolerance and farmer-specific knowledge.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 63,
+        "summary": "Thanks to Keyserlingk household; Dornach needs descriptions of above/below soil, woodland, recent crops and yields. Farmer knowledge is essential to farm-specific research.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 64,
+        "summary": "Scientists and farmers should grow together; science intelligible to practical farmers. Steiner refers to his own rural childhood and farm tasks, valuing peasant experience beyond a single stirring demonstration.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 65,
+        "summary": "Peasant wisdom, living science, complementary feeling/thinking between Dornach and Circle. End of address, not LectureFour.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 66,
+        "summary": "Lecture 4 introduction, whole person/finger analogy, historical protein quantities and arteriosclerosis claim.",
+        "displayedLocators": [
+          "Pagina 65 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 67,
+        "summary": "Correcting science distinguished from cheap criticism; fertilization/nourishment; food-force versus skin/sense/air substance theory.",
+        "displayedLocators": [
+          "Pagina 66 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 68,
+        "summary": "Nourishment theory continued; experiments valued versus theories criticized; comb analogy; tree compared with humus mound.",
+        "displayedLocators": [
+          "Pagina 67 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 69,
+        "summary": "Etheric soil and tree bark; mounding and continuity through roots; fertilizing makes soil alive.",
+        "displayedLocators": [
+          "Pagina 68 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 70,
+        "summary": "Black-earth exception; personal relation to manure; inside/outside, retained smell and aromatic meadow.",
+        "displayedLocators": [
+          "Pagina 69 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 71,
+        "summary": "Nitrogen lines of force; mineral fertilizer affects watery element; compost etheric/astral stability; quicklime moderates etheric.",
+        "displayedLocators": [
+          "Pagina 70 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 72,
+        "summary": "Compost earthy astralization/nitrogen; pasture/hay; odor held by layers and peat; horn question begins.",
+        "displayedLocators": [
+          "Pagina 71 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 73,
+        "summary": "Horns/hoofs turn activity inward, antlers outward; nerves/senses versus digestion; historical foot-and-mouth remedy claim.",
+        "displayedLocators": [
+          "Pagina 72 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 74,
+        "summary": "Manure conveys etheric/astral from digestion into soil; microorganisms indicators; inoculation discounted.",
+        "displayedLocators": [
+          "Pagina 73 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 75,
+        "summary": "Winter horn manure and odor trial; burial stated 18 in.–2 ft.6 in.; area 1200 sqm; dilution and hour alternating stirring.",
+        "displayedLocators": [
+          "Pagina 74 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 76,
+        "summary": "Soil spraying, summer quartz/orthoclase horn, plant spraying; below/above complement; machinery envisaged.",
+        "displayedLocators": [
+          "Pagina 75 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 77,
+        "summary": "Whole human nourishment versus crop size/profit; editor adds 500–507 numbering and says principles, technical details intentionally not inserted.",
+        "displayedLocators": [
+          "Pagina 76 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 78,
+        "summary": "First Discussion begins scaling open; Dornach quantities; hand stirring/feeling and Ritter remedies/enthusiasm analogy.",
+        "displayedLocators": [
+          "Pagina 77 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 79,
+        "summary": "Hand versus machine; extra dilution requires stirring; intimate mixture; sprayer concern and radiant effect.",
+        "displayedLocators": [
+          "Pagina 78 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 80,
+        "summary": "Straining allowed; Swiss bucket and measurable proportions; horn reuse untested; locality and hemispheres.",
+        "displayedLocators": [
+          "Pagina 79 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 81,
+        "summary": "Horn age trials, size stage direction, female cow; sowing near winter; sand/rain untested; purification questioned.",
+        "displayedLocators": [
+          "Pagina 80 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 82,
+        "summary": "Dirt/preservation; maximum seed chaos; silica optional; wheat/sainfoin comparison; plot size experimentation; storage and fresh stirring.",
+        "displayedLocators": [
+          "Pagina 81 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 83,
+        "summary": "Storage through summer; fine spraying accepted; common horn burial; general farm machinery accepted, buying craze criticized.",
+        "displayedLocators": [
+          "Pagina 82 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 84,
+        "summary": "Excess/rank growth; cow and speculative horse manure; before/after sowing trial; reuse; meditative preparation introduced.",
+        "displayedLocators": [
+          "Pagina 83 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 85,
+        "summary": "Meditation/nitrogen imaginations and midwinter concentration effects claimed; lost peasant philosophy recalled.",
+        "displayedLocators": [
+          "Pagina 84 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 86,
+        "summary": "Peasant calendars; translate first feeling into figures/tables; quicklime soil adjustment (oxygen wording conflicts with Creeger acids); turning/covering; Kali magnesia.",
+        "displayedLocators": [
+          "Pagina 85 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 87,
+        "summary": "Ordinary manuring must continue; horn method explicitly an extra, not complete substitute.",
+        "displayedLocators": [
+          "Pagina 86 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 88,
+        "summary": "Lecture 5: enhancement, living soil continuity, modern achievements acknowledged; harvest exports forces needing replenishment.",
+        "displayedLocators": [
+          "Pagina 87 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 89,
+        "summary": "Bacteria/dirty-room flies analogy; positive suggestions required; inorganic manure treatment criticized.",
+        "displayedLocators": [
+          "Pagina 88 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 90,
+        "summary": "Organic material enlivens earthy component; macrocosmic approach; soil and heaven-provided elements; land impoverishment.",
+        "displayedLocators": [
+          "Pagina 89 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 91,
+        "summary": "Fine cosmic substances and carbon form; living forces rather than substances; Kolisko invocation; preparations support manure.",
+        "displayedLocators": [
+          "Pagina 90 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 92,
+        "summary": "General guidelines and substitutes with one exception; sulfur/potash/protein relations; yarrow and nature spirits.",
+        "displayedLocators": [
+          "Pagina 91 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 93,
+        "summary": "Yarrow beneficial presence; flower/deer bladder, summer sun and winter burial; manure-wide radiation assertion.",
+        "displayedLocators": [
+          "Pagina 92 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 94,
+        "summary": "Yarrow experiment invitation; deer bladder cosmic analogy; chamomile introduction for calcium.",
+        "displayedLocators": [
+          "Pagina 93 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 95,
+        "summary": "Chamomile sulfur/calcium and intestine correspondence; winter humus/snow/sun; healthy plants/nitrogen stability.",
+        "displayedLocators": [
+          "Pagina 93 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 96,
+        "summary": "Railway/prejudice analogy; irreplaceable nettle, iron/sulfur/calcium/potassium; local soil iron recommendation.",
+        "displayedLocators": [
+          "Pagina 94 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 97,
+        "summary": "Nettle without casing/year burial; intelligent manure/soil; swelling versus nourishment; healing vs description.",
+        "displayedLocators": [
+          "Pagina 95 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 98,
+        "summary": "Organic calcium,77 percent oak assertion, etheric moderation; skull and wet/slimy winter environment.",
+        "displayedLocators": [
+          "Pagina 96 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 99,
+        "summary": "Disease prevention; silica depletion; hidden alchemy potash/lime into nitrogen under hydrogen.",
+        "displayedLocators": [
+          "Pagina 97 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 100,
+        "summary": "Silicon unnamed transmutation; dandelion silica/potassium; mesentery winter burial; receptive plants.",
+        "displayedLocators": [
+          "Pagina 98 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 101,
+        "summary": "Neighboring meadow/forest interplay; six additives completed by valerian/phosphoric relation; botanical footnotes editorial.",
+        "displayedLocators": [
+          "Pagina 99 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 102,
+        "summary": "Second Discussion: stag, Urtica dioica, rain and roofing; growth methods do not suppress weeds; Krantz method.",
+        "displayedLocators": [
+          "Pagina 101 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 103,
+        "summary": "Long-term qualification to Krantz; heap height, vine modifications deferred, unpaved base; soil texture question.",
+        "displayedLocators": [
+          "Pagina 102 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 104,
+        "summary": "Clay/sand/loess manure site; opposing fodder opinions and testing; animals supposedly avoid harmful food.",
+        "displayedLocators": [
+          "Pagina 103 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 105,
+        "summary": "Dose/process versus substance; fodder disagreement; separate burial; preparations enclosed within manure; radiation scheme.",
+        "displayedLocators": [
+          "Pagina 104 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 106,
+        "summary": "Separate holes and uncertain all-in-one; live outer Quercus bark; fertile layer/frost; quartz grinding.",
+        "displayedLocators": [
+          "Pagina 105 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 107,
+        "summary": "Food force and atmosphere theory defended with glove analogy; mean versus hypertrophy/shorter life.",
+        "displayedLocators": [
+          "Pagina 106 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 108,
+        "summary": "Lecture 6 specific examples/experiments; equal natural right of weeds; near/distant cosmic-force pathways.",
+        "displayedLocators": [
+          "Pagina 107 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 109,
+        "summary": "Chalk and silica pathways, phylloxera anecdote; ground/periphery diagram described; reproduction vs fleshy nourishment.",
+        "displayedLocators": [
+          "Pagina 108 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 110,
+        "summary": "Lunar strengthening, growth weaker reproduction; Moon supposedly reflects whole cosmos, not proven physically.",
+        "displayedLocators": [
+          "Pagina 109 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 111,
+        "summary": "Full/new Moon preservation/waiting qualification; lunar/water weeds; prevent reception to suppress reproduction.",
+        "displayedLocators": [
+          "Pagina 110 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 112,
+        "summary": "Weed seed ash, four-year prediction and selective dandelion; experiments invited but spiritual truth intrinsically certain.",
+        "displayedLocators": [
+          "Pagina 111 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 113,
+        "summary": "External verification compromise; manufacturing counterexample; mouse poison/infected bait/regulation; neighbors matter.",
+        "displayedLocators": [
+          "Pagina 112 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 114,
+        "summary": "Shared insight rather than police; field mouse skin/Venus Scorpio; zodiac, retained animal Moon force.",
+        "displayedLocators": [
+          "Pagina 113 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 115,
+        "summary": "Wide-area effect, superstition distinction; mouse method not for insects; nematode root/lunar/cosmic shift and life conditions.",
+        "displayedLocators": [
+          "Pagina 114 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 116,
+        "summary": "Four-year/cockchafer analogy; whole organism ash and Taurus; zodiac Sun specialization; nematode prediction.",
+        "displayedLocators": [
+          "Pagina 115 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 117,
+        "summary": "Old star knowledge; water/fertility versus fire/destruction; pepper appearance; astral/etheric illness model.",
+        "displayedLocators": [
+          "Pagina 116 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 118,
+        "summary": "Plant lacks real astral body; water Moon earth relationship; excessive vitality creates premature lower seed process.",
+        "displayedLocators": [
+          "Pagina 117 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 119,
+        "summary": "Fungi/blight as secondary substrate; Equisetum decoction and kidney analogy; controlling forces as real science.",
+        "displayedLocators": [
+          "Pagina 118 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 120,
+        "summary": "Compass/whole-universe analogy; microscope critique; botanical pest/Equisetum footnotes.",
+        "displayedLocators": [
+          "Pagina 119 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 121,
+        "summary": "Third Discussion: abuse question, fertility necessity, alleged Atlantis, knowledge circulation/stenography.",
+        "displayedLocators": [
+          "Pagina 120 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 122,
+        "summary": "Moral improvement/circle; sphere-dependent good and harm; lower/spinal organisms; chamomile, nettle, water weeds.",
+        "displayedLocators": [
+          "Pagina 121 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 123,
+        "summary": "Underground parasite called cabbage root-fly (Creeger clubroot); vineyards untested, abstinence conflict; bladder substitute uncertain; timing species-specific.",
+        "displayedLocators": [
+          "Pagina 122 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 124,
+        "summary": "Visible Venus/Scorpio and behind Sun; peritoneum not tripe; proven methods retained; mineral manuring disappearance and interval prediction.",
+        "displayedLocators": [
+          "Pagina 123 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 125,
+        "summary": "Artificial fertilizer/queen-breeding long-term prediction; mineral versus living earth; larvae/adult constellation differences.",
+        "displayedLocators": [
+          "Pagina 124 de 159"
+        ],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 126,
+        "summary": "June 15 opening: animals, orchards, gardening; coarse and fine mutual interactions. Includes warmth, chemical ether, life ether and need to consider birds/insects.",
+        "displayedLocators": [
+          "Pagina 125 de 159 + 75%"
+        ],
+        "qualification": "Crosscheck C111. Spiritual forces remain attributed.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 127,
+        "summary": "Bird loss and macrocosmic understanding; fruit tree as raised earth supporting leaf/flower/fruit shoots. Hypothetical interwoven roots introduced.",
+        "displayedLocators": [
+          "Pagina 126 de 159 + 75%"
+        ],
+        "qualification": "Crosscheck C112. No literal assertion that a tree lacks a root system.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 128,
+        "summary": "Hypothetical common root layer equated to cambium; outward earth and etheric shoot relation. Astrality denser at tree crown. Diagrams 15–16 referenced.",
+        "displayedLocators": [
+          "Pagina 126 de 159 + 76%"
+        ],
+        "qualification": "Crosscheck C113. Diagram numbering differs from C18–19; visuals not checked.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 129,
+        "summary": "Smell cultivation interpreted as clairsentience; crown astrality contrasted with cambium/roots ether poverty.",
+        "displayedLocators": [
+          "Pagina 127 de 159 + 77%"
+        ],
+        "qualification": "Crosscheck C113–114. Differing smells do not prove ether/astral mechanism.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 130,
+        "summary": "Tree/insect dependency, tree-tendency in all plants, larvae/evolved underground creatures and earthworms as etheric safety valves.",
+        "displayedLocators": [
+          "Pagina 129 de 159 + 77%"
+        ],
+        "qualification": "Crosscheck C114–115. Historical spiritual/evolutionary account.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 131,
+        "summary": "Earthworm care; pictorial birds/insects division; woodland influence and preserving naturally forested districts.",
+        "displayedLocators": [
+          "Pagina 130 de 159 + 78%"
+        ],
+        "qualification": "Crosscheck C115–116. Personification not literal animal speech/evolution.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 132,
+        "summary": "Conditional woodland expansion/clearings; lime/larvae relation; wisdom vs memorized body terms; conifers/birds affinity.",
+        "displayedLocators": [
+          "Pagina 131 de 159 + 79%"
+        ],
+        "qualification": "Crosscheck C116–117. Do not prescribe clearing on this account alone.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 133,
+        "summary": "Shrubs/mammals; fungus/parasite relation; meadow fungi draw pests; balance can outweigh greater tillage area.",
+        "displayedLocators": [
+          "Pagina 132 de 159 + 79%"
+        ],
+        "qualification": "Crosscheck C117–118. Adams says meadow; C explicitly says wet meadow. Mechanism not established disease control.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 134,
+        "summary": "Whole animal within environment: direct air/warmth, indirect earth/water through digestion, chiefly forces. Diagram 17 mentioned.",
+        "displayedLocators": [
+          "Pagina 133 de 159 + 80%"
+        ],
+        "qualification": "Crosscheck C118–119. Spiritual physiology attributed.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 135,
+        "summary": "Plant direct earth/water, giving off air/warmth; not infer by analogy. Plants give/animals take; Goethe saying cited.",
+        "displayedLocators": [
+          "Pagina 134 de 159 + 81%"
+        ],
+        "qualification": "Crosscheck C119–120. Polarity not full metabolic description.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 136,
+        "summary": "Closing aboveground landscape and belowground worm/larva/lime regulation; forthcoming Circle applications.",
+        "displayedLocators": [
+          "Pagina 135 de 159 + 81%"
+        ],
+        "qualification": "Crosscheck C120; Lecture 7 ends.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 137,
+        "summary": "June 16 opening: individual intelligence instead of general feeding formulas, nutrition not simple deposition; combustion analogy criticized.",
+        "displayedLocators": [
+          "Pagina 136 de 159 + 81%"
+        ],
+        "qualification": "Crosscheck C121. Do not deny nutrient absorption or biological oxidation.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 138,
+        "summary": "Living/sentient process versus mineral combustion; physical/etheric plant and surrounding astrality. Animal middle less distinct than human threefoldness.",
+        "displayedLocators": [
+          "Pagina 137 de 159 + 82%"
+        ],
+        "qualification": "Crosscheck C122. Organization vocabulary belongs to author’s model.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 139,
+        "summary": "Animal two poles meeting rhythmically; head earthly matter/cosmic forces, limbs cosmic substance/earthly forces. Diagram 18.",
+        "displayedLocators": [
+          "Pagina 138 de 159 + 83%"
+        ],
+        "qualification": "Crosscheck C122–123. Cosmic body matter not established feeding physiology.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 140,
+        "summary": "Draft animal feeding aim, pasture/sense/smell/free food choice instead of dark stable, inherited deficiency assertion; brain/ego begins.",
+        "displayedLocators": [
+          "Pagina 139 de 159 + 83%"
+        ],
+        "qualification": "Crosscheck C123–124. Pasture observation and asserted cosmic mechanism have distinct status.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 141,
+        "summary": "Brain/excretion/intestine and manure ego-potential model; animal manure roots, landscape astrality, living farm. Diagram 19.",
+        "displayedLocators": [
+          "Pagina 139 de 159 + 84%"
+        ],
+        "qualification": "Crosscheck C124–125. Not literal manure-brain identity or exclusion of animal welfare.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 142,
+        "summary": "On-farm animals/fodder/manure individualized cycle, explicitly only as self-contained as possible; economic limits/fanaticism rejected. Root-head/calf-carrot example.",
+        "displayedLocators": [
+          "Pagina 140 de 159 + 85%"
+        ],
+        "qualification": "Crosscheck C125–126; confirms important partial-self-sufficiency qualification.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 143,
+        "summary": "Complementary carrot/linseed or hay, downward astral rays, long-stalk plants; dairy middle region. Diagram 20.",
+        "displayedLocators": [
+          "Pagina 141 de 159 + 85%"
+        ],
+        "qualification": "Crosscheck C126–127; linseed = flaxseed terminology.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 144,
+        "summary": "Force/substance streams in milk; leaf feeding and clover fruiting-in-leaf, next generation dairy claim. Diagram 21.",
+        "displayedLocators": [
+          "Pagina 142 de 159 + 86%"
+        ],
+        "qualification": "Crosscheck C127–128. Not an established intergenerational milk outcome.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 145,
+        "summary": "Random remedy/feed multiplication obscures relations; conscious simplification; some trial-and-error findings acknowledged correct.",
+        "displayedLocators": [
+          "Pagina 143 de 159 + 87%"
+        ],
+        "qualification": "Crosscheck C128–129. Source criticizes muddle, not all experimentation.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 146,
+        "summary": "Fruit potential throughout plant, potato eyes, sunlight/steaming/cooking support metabolic-limb forces; alpine locomotion.",
+        "displayedLocators": [
+          "Pagina 144 de 159 + 87%"
+        ],
+        "qualification": "Crosscheck C129–130. Processing theory attributed.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 147,
+        "summary": "Aromatic alpine plants/cooking; raw food mysticism polemic and constitutional differences; no hard-fast principles.",
+        "displayedLocators": [
+          "Pagina 146 de 159 + 88%"
+        ],
+        "qualification": "Crosscheck C130–131. Historical diet claims not modern advice.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 148,
+        "summary": "Vegetarian disease-force theory; fattening animals distribute cosmic substance, oil cakes/root supplement; plant organ summary begins.",
+        "displayedLocators": [
+          "Pagina 146 de 159 + 89%"
+        ],
+        "qualification": "Crosscheck C131. Not a disease-prevention or ration guide.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 149,
+        "summary": "Root/leaf/flower correspondences, salt throughout, exact tomato trials; independent liver/cancer claims, raw-manure tomato growth.",
+        "displayedLocators": [
+          "Pagina 148 de 159 + 89%"
+        ],
+        "qualification": "Crosscheck C131–132. Medical prohibitions/treatment not endorsed.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 150,
+        "summary": "Self-compost tomato, potato/materialism and social life; long experimentation and 1924 Circle publicity restriction.",
+        "displayedLocators": [
+          "Pagina 149 de 159 + 90%"
+        ],
+        "qualification": "Crosscheck C132–133. Current course does not inherit historical restriction as command.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 151,
+        "summary": "Farmers’ firsthand results versus remote repetition; confidentiality reaffirmed historically; course satisfaction/host appreciation.",
+        "displayedLocators": [
+          "Pagina 150 de 159 + 90%"
+        ],
+        "qualification": "Crosscheck C133–134. Preserve date/audience.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 152,
+        "summary": "Closing festival and gratitude to Keyserlingks and household.",
+        "displayedLocators": [
+          "Pagina 151 de 159 + 91%"
+        ],
+        "qualification": "Crosscheck C134; lecture ends.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 153,
+        "summary": "Solid/liquid manure ego/astral; Vreede provisional dated calendar; Moon phases with Diagram 22; storing insects, weed seed timing, pepper question.",
+        "displayedLocators": [
+          "Pagina 152 de 159 + 91%"
+        ],
+        "qualification": "Crosscheck C135–136. Calendar not universal; phrase/drawing needs verification.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 154,
+        "summary": "Pepper sensitivity, cosmic frost, horsefly ashes, couch grass; electricity question.",
+        "displayedLocators": [
+          "Pagina 153 de 159 + 92%"
+        ],
+        "qualification": "Crosscheck C136. Unproven mechanisms not practical recommendations.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 155,
+        "summary": "Electricity/news/understanding and sclerosis assertions; radiant therapy claimed mere shock.",
+        "displayedLocators": [
+          "Pagina 154 de 159 + 92%"
+        ],
+        "qualification": "Crosscheck C137. Not contemporary electromagnetic or clinical evidence.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 156,
+        "summary": "Silage/salt localization, hair loss, optimum green ensiling, living protein/warmth transformation. Diagram 23.",
+        "displayedLocators": [
+          "Pagina 155 de 159 + 93%"
+        ],
+        "qualification": "Crosscheck C137–138. No safe dose determined.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 157,
+        "summary": "Living warmth/dead wood; salt amounts and taste, salt-free silage/whiting; attitude/reverence in pest control.",
+        "displayedLocators": [
+          "Pagina 156 de 159 + 94%"
+        ],
+        "qualification": "Crosscheck C138–139. Species uncertainty for whiting explicit.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 158,
+        "summary": "Good intention, mechanical/cosmic destruction, fish/spawn/pepper life-stage ethics; human manure scale restriction begins.",
+        "displayedLocators": [
+          "Pagina 157 de 159 + 94%"
+        ],
+        "qualification": "Crosscheck C139–140. Intentions do not establish welfare/ecological consequences.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 159,
+        "summary": "Human manure criticism; tentative grey antimony ore for swine erysipelas, hybrid-specific pepper, green manure conditional.",
+        "displayedLocators": [
+          "Pagina 158 de 159 + 95%"
+        ],
+        "qualification": "Crosscheck C140–141. Veterinary question explicitly not considered before; no treatment offered by course.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 160,
+        "summary": "Supplement preface: remembered verbal indications to individuals, local problems, some pre-course; fragmentary and not necessarily universal.",
+        "displayedLocators": [
+          "Pagina 159 de 159 + 95%"
+        ],
+        "qualification": "These are not lecture transcripts or general validated rules.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 161,
+        "summary": "Maier report mineral manure concerns and horn manure/horn meal; Streicher conversation begins with Liebig/acidifying fertilizers.",
+        "displayedLocators": [
+          "Pagina 159 de 159 + 96%"
+        ],
+        "qualification": "Remembered testimony; meal/manure terms need source-specific distinction. No universal nutrient chemistry claimed.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 162,
+        "summary": "Cattle manure, earthworms, neighbor plants/sainfoin/horseradish/cornflowers, personal sowing relation and peasant calendars.",
+        "displayedLocators": [
+          "Pagina 159 de 159 + 96%"
+        ],
+        "qualification": "Explicitly says soil earthworm principle not fully known. Local remembered indications, not planting recipes.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 163,
+        "summary": "Stable feeding/disease/generational decline and breathing-space assertions; Streicher describes urea/bacteria-protein experiments; delayed effects theory.",
+        "displayedLocators": [
+          "Pagina 159 de 159 + 97%"
+        ],
+        "qualification": "Historical nutritional/veterinary claims, not conclusion that approved modern feeding methods necessarily cause these diseases.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 164,
+        "summary": "Multi-generation vitality assertions; Bottomley Humogen/auxines discussion and speculation on hydrocephalus; mercury fertilization/impotence speculation.",
+        "displayedLocators": [
+          "Pagina 159 de 159 + 97%"
+        ],
+        "qualification": "Unestablished disease/offspring predictions; mercury fertilizer not endorsed. No controlled evidence supplied.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 165,
+        "summary": "Further Stegemann/Keyserlingk remembered local sowing/neighbor-plant/wireworm/potato/nettle/Kali magnesia indications; finely divided lead for roses; horn-count and sainfoin remarks.",
+        "displayedLocators": [
+          "Pagina 159 de 159 + 98%"
+        ],
+        "qualification": "Lead application must not become course instruction; toxic metal historical report. These local reports are fragmentary, with no verified quantities or efficacy.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 166,
+        "summary": "Pfeiffer report: experimental pine-seed slug dilution, added fruit decoction/500, tree trench, bean-size quartz/501, borders, soil/environment disease statement; fresh earth/weeds/night-soil/peat.",
+        "displayedLocators": [
+          "Pagina 159 de 159 + 99%"
+        ],
+        "qualification": "Numbering 500/501 is reported supplementary practice, not lecture numbering. Explicit \"try\" language and parallel experiments retained; no preparation/trench/food-safety recipes.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 167,
+        "summary": "Michels humus/compost; Ganz mixing mineral manure/rejecting lavatory fluid; Lippert nasturtiums under aphid-affected trees.",
+        "displayedLocators": [
+          "Pagina 159 de 159 + 99%"
+        ],
+        "qualification": "Named remembered sources kept distinct; not experimentally established treatments.",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 168,
+        "summary": "Lecture and discussion dates cross-referenced to printed page ranges of 1958 edition and 1929 translation. June 11 Address is separate item, not a numbered lecture; numbering remains eight lectures/four discussions.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 169,
+        "summary": "Publisher account of Steiner, anthroposophy and initiatives; not a final ninth Agriculture lecture or a cited scientific assessment.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 170,
+        "summary": "Repeated Kindle navigation and 159-of 159/100% readout; no substantive book text.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 171,
+        "summary": "Repeated Kindle navigation and 159-of 159/100% readout; no substantive book text.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 172,
+        "summary": "Repeated Kindle navigation and 159-of 159/100% readout; no substantive book text.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 173,
+        "summary": "Repeated Kindle navigation and 159-of 159/100% readout; no substantive book text.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 174,
+        "summary": "Repeated Kindle navigation and 159-of 159/100% readout; no substantive book text.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 175,
+        "summary": "Repeated Kindle navigation and 159-of 159/100% readout; no substantive book text.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 176,
+        "summary": "Repeated Kindle navigation and 159-of 159/100% readout; no substantive book text.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 177,
+        "summary": "Repeated Kindle navigation and 159-of 159/100% readout; no substantive book text.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      },
+      {
+        "capture": 178,
+        "summary": "Advertisement for Steiner Happiness booklet, ISBN 9781855844919, 72 pages, with Buy now/read prompts. Separate book marketing; excluded from Agriculture teaching content.",
+        "displayedLocators": [],
+        "qualification": "",
+        "reviewBasis": "Supplied OCR Markdown page block; no visual PDF verification."
+      }
+    ]
+  },
+  "lectures": [
+    {
+      "number": 1,
+      "date": "1924-06-07",
+      "author": "Rudolf Steiner",
+      "creeger": {
+        "first": 18,
+        "last": 28
+      },
+      "adams": {
+        "first": 18,
+        "last": 29
+      },
+      "lessonIds": [
+        1,
+        2
+      ]
+    },
+    {
+      "number": 2,
+      "date": "1924-06-10",
+      "author": "Rudolf Steiner",
+      "creeger": {
+        "first": 29,
+        "last": 41
+      },
+      "adams": {
+        "first": 30,
+        "last": 42
+      },
+      "lessonIds": [
+        3,
+        4
+      ]
+    },
+    {
+      "number": 3,
+      "date": "1924-06-11",
+      "author": "Rudolf Steiner",
+      "creeger": {
+        "first": 42,
+        "last": 54
+      },
+      "adams": {
+        "first": 43,
+        "last": 57
+      },
+      "lessonIds": [
+        5,
+        6
+      ]
+    },
+    {
+      "number": 4,
+      "date": "1924-06-12",
+      "author": "Rudolf Steiner",
+      "creeger": {
+        "first": 55,
+        "last": 65
+      },
+      "adams": {
+        "first": 66,
+        "last": 77
+      },
+      "lessonIds": [
+        7,
+        8
+      ]
+    },
+    {
+      "number": 5,
+      "date": "1924-06-13",
+      "author": "Rudolf Steiner",
+      "creeger": {
+        "first": 75,
+        "last": 86
+      },
+      "adams": {
+        "first": 88,
+        "last": 101
+      },
+      "lessonIds": [
+        9,
+        10
+      ]
+    },
+    {
+      "number": 6,
+      "date": "1924-06-14",
+      "author": "Rudolf Steiner",
+      "creeger": {
+        "first": 93,
+        "last": 105
+      },
+      "adams": {
+        "first": 108,
+        "last": 120
+      },
+      "lessonIds": [
+        11,
+        12
+      ]
+    },
+    {
+      "number": 7,
+      "date": "1924-06-15",
+      "author": "Rudolf Steiner",
+      "creeger": {
+        "first": 111,
+        "last": 120
+      },
+      "adams": {
+        "first": 126,
+        "last": 136
+      },
+      "lessonIds": [
+        13,
+        14
+      ]
+    },
+    {
+      "number": 8,
+      "date": "1924-06-16",
+      "author": "Rudolf Steiner",
+      "creeger": {
+        "first": 121,
+        "last": 134
+      },
+      "adams": {
+        "first": 137,
+        "last": 152
+      },
+      "lessonIds": [
+        15,
+        16
+      ]
+    }
+  ],
+  "discussions": [
+    {
+      "number": 1,
+      "date": "1924-06-12",
+      "creeger": {
+        "first": 66,
+        "last": 74
+      },
+      "adams": {
+        "first": 78,
+        "last": 87
+      }
+    },
+    {
+      "number": 2,
+      "date": "1924-06-13",
+      "creeger": {
+        "first": 87,
+        "last": 92
+      },
+      "adams": {
+        "first": 102,
+        "last": 107
+      }
+    },
+    {
+      "number": 3,
+      "date": "1924-06-14",
+      "creeger": {
+        "first": 106,
+        "last": 110
+      },
+      "adams": {
+        "first": 121,
+        "last": 125
+      }
+    },
+    {
+      "number": 4,
+      "date": "1924-06-16",
+      "creeger": {
+        "first": 135,
+        "last": 141
+      },
+      "adams": {
+        "first": 153,
+        "last": 159
+      }
+    }
+  ],
+  "address": {
+    "date": "1924-06-11",
+    "creeger": {
+      "first": 142,
+      "last": 148
+    },
+    "adams": {
+      "first": 58,
+      "last": 65
+    }
+  },
+  "report": {
+    "date": "1924-06-20",
+    "creeger": {
+      "first": 9,
+      "last": 17
+    },
+    "adams": null
+  },
+  "lessons": [
+    {
+      "id": 0,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "sourceSection": "Front matter, Shouldice foreword and Steiner’s report to Society members, Dornach, June 20, 1924; Creeger/Gardner captures 1–17."
+    },
+    {
+      "id": 1,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "sourceSection": "Agriculture Course, lecture 1"
+    },
+    {
+      "id": 2,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "sourceSection": "Agriculture Course, lecture 1"
+    },
+    {
+      "id": 3,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        29,
+        30,
+        39,
+        40,
+        41
+      ],
+      "sourceSection": "Agriculture Course, lecture 2"
+    },
+    {
+      "id": 4,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "sourceSection": "Agriculture Course, lecture 2"
+    },
+    {
+      "id": 5,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "sourceSection": "Agriculture Course, lecture 3"
+    },
+    {
+      "id": 6,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "sourceSection": "Agriculture Course, lecture 3"
+    },
+    {
+      "id": 7,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "sourceSection": "Lecture 4, 12 June 1924: whole-life approach, nourishment, living soil, compost and manure. Primary supplied Markdown: Agriculture.md, Creeger/Gardner 1993; comparison Agriculture course.md, Adams 2012/classic 1958."
+    },
+    {
+      "id": 8,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "sourceSection": "Lecture 4, 12 June 1924: horn preparations and conclusion; First Discussion, same date. Primary supplied Markdown: Agriculture.md, Creeger/Gardner 1993; comparison Agriculture course.md, Adams 2012/classic 1958."
+    },
+    {
+      "id": 9,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        75,
+        76,
+        77,
+        78,
+        85
+      ],
+      "sourceSection": "Lecture 5, 13 June 1924: replenishment, living forces and substances; hidden-alchemy argument revisited at capture85. Primary supplied Markdown: Agriculture.md, Creeger/Gardner 1993; comparison Agriculture course.md, Adams 2012/classic 1958."
+    },
+    {
+      "id": 10,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        107,
+        109
+      ],
+      "sourceSection": "Lecture 5, 13 June 1924: six manure additions; Second Discussion, same date; botanical/peritoneum clarifications in Third Discussion at107 and109. Primary supplied Markdown: Agriculture.md, Creeger/Gardner 1993; comparison Agriculture course.md, Adams 2012/classic 1958."
+    },
+    {
+      "id": 11,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98
+      ],
+      "sourceSection": "Lecture 6, 14 June 1924: weed/reproduction account and the relation of experiment to spiritual certainty. Primary supplied Markdown: Agriculture.md, Creeger/Gardner 1993; comparison Agriculture course.md, Adams 2012/classic 1958."
+    },
+    {
+      "id": 12,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "sourceSection": "Lecture 6, 14 June 1924: animal pests, plant abnormalities, whole-nature conclusion; Third Discussion, same date. Primary supplied Markdown: Agriculture.md, Creeger/Gardner 1993; comparison Agriculture course.md, Adams 2012/classic 1958."
+    },
+    {
+      "id": 13,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "sourceSection": "GA 327 · Lecture 7 · June 15, 1924 · mutual interaction, tree image, earthworms and winged creatures"
+    },
+    {
+      "id": 14,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "sourceSection": "GA 327 · Lecture 7 · June 15, 1924 · landscape balance and plant–animal polarity"
+    },
+    {
+      "id": 15,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ],
+      "sourceSection": "GA 327 · Lecture 8 · June 16, 1924 · animal organization, outdoor activity and farm individuality"
+    },
+    {
+      "id": 16,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148
+      ],
+      "sourceSection": "GA 327 · Lecture 8 and fourth discussion · June 16, 1924; comparison with the Experimental Circle address · June 11, 1924"
+    },
+    {
+      "id": 17,
+      "sourceFile": "Agriculture.md",
+      "markdownCaptures": [
+        11,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        159,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        191,
+        192
+      ],
+      "sourceSection": "Experimental Circle address of June 11, placed after the fourth discussion in Creeger/Gardner captures142–148; appendices and editorial apparatus159,169–174,191–192."
+    }
+  ],
+  "reviewedExcerpts": [
+    {
+      "id": 0,
+      "capture": 11,
+      "sourceFile": "Agriculture.md",
+      "sha256": "46b91db5867a5c128402bcaa98223079db11007d63e86db4d5ebab89218cfdc0"
+    },
+    {
+      "id": 1,
+      "capture": 20,
+      "sourceFile": "Agriculture.md",
+      "sha256": "a3c9d0d24424df267ddfe242d5b0092d92cc661e5baf1718c01785098ef38812"
+    },
+    {
+      "id": 2,
+      "capture": 25,
+      "sourceFile": "Agriculture.md",
+      "sha256": "046b0f1019807cf45471d2a815d885fb589abd0c7409a7cfe10257ccb8643194"
+    },
+    {
+      "id": 3,
+      "capture": 29,
+      "sourceFile": "Agriculture.md",
+      "sha256": "999d5849518548c477ef9bc34a6a54cd9eb734b54172350f8a832d172d357f8a"
+    },
+    {
+      "id": 4,
+      "capture": 32,
+      "sourceFile": "Agriculture.md",
+      "sha256": "6e655520d29f3520c59f2cf2c4042c6e57992bc79e7739d97216d18d2f785e13"
+    },
+    {
+      "id": 5,
+      "capture": 46,
+      "sourceFile": "Agriculture.md",
+      "sha256": "87c07cce9125dba4adf0b5c30af22aafb1136b0701cf5b75d17429693300746b"
+    },
+    {
+      "id": 6,
+      "capture": 52,
+      "sourceFile": "Agriculture.md",
+      "sha256": "7f88616999474b2be40fe7fcef8f3da8e8006628b268639cd917aff32aa53961"
+    },
+    {
+      "id": 7,
+      "capture": 58,
+      "sourceFile": "Agriculture.md",
+      "sha256": "d3f68c5183d6529f662b6f9b02a9445812aeda0421e13b71bf160a3df0248513"
+    },
+    {
+      "id": 8,
+      "capture": 74,
+      "sourceFile": "Agriculture.md",
+      "sha256": "d4a8388589287a883ed98c0c09ce07b281f3bb80682dc7619e222180826264fd"
+    },
+    {
+      "id": 9,
+      "capture": 78,
+      "sourceFile": "Agriculture.md",
+      "sha256": "919ff2cc22260972fad2f47fc2d0631c53d64088856dae3adb4959c7ea166018"
+    },
+    {
+      "id": 10,
+      "capture": 83,
+      "sourceFile": "Agriculture.md",
+      "sha256": "deffe6a4ccfbf98c0640d6c87f22c23ea1ec60037f1926f454accc7ea98012f6"
+    },
+    {
+      "id": 11,
+      "capture": 97,
+      "sourceFile": "Agriculture.md",
+      "sha256": "3d9677bc492550088ba13fe94e39ead4036799189400dd5a06c555638cd9b993"
+    },
+    {
+      "id": 12,
+      "capture": 98,
+      "sourceFile": "Agriculture.md",
+      "sha256": "e3f7855d6f63a8bfd2573dbec0e46b37829b0c1328cf6f7bd24de63369faf71d"
+    },
+    {
+      "id": 13,
+      "capture": 111,
+      "sourceFile": "Agriculture.md",
+      "sha256": "eec03855599c605c88dc64ed29b3e6b1b84c95d8c3a6fde1fd8581c4b5037773"
+    },
+    {
+      "id": 14,
+      "capture": 120,
+      "sourceFile": "Agriculture.md",
+      "sha256": "18aac14ff841363d56484f4c3df4372edd707019d93b717ee41caccde4b762ce"
+    },
+    {
+      "id": 15,
+      "capture": 125,
+      "sourceFile": "Agriculture.md",
+      "sha256": "db0d02240c11c0a3326ee65d6ad7d5fa34aa78d61ef8b1038fe0f86d338193c5"
+    },
+    {
+      "id": 16,
+      "capture": 129,
+      "sourceFile": "Agriculture.md",
+      "sha256": "4893371fa134a67e2eca0608ba1bfc0658d62e4f7d4761598c73c72120facfe5"
+    },
+    {
+      "id": 17,
+      "capture": 144,
+      "sourceFile": "Agriculture.md",
+      "sha256": "6fdee6b4d38312947b07eae798e75ade9a8cabf892846670e05172bd6f66ce09"
+    }
+  ],
+  "comparisonFindings": [
+    {
+      "topic": "Full coverage",
+      "finding": "The anthology already teaches GA 327 lectures 4–6 extensively. The full books add a continuous lecture/discussion sequence and fresh source locators; these six lessons need source remapping and stronger full-discussion integration, not an invented replacement doctrine."
+    },
+    {
+      "topic": "Ordinary manure",
+      "finding": "Creeger 74 and 75; Adams 87 and 88 repeatedly say the preparations enhance ordinary manuring. This must remain prominent."
+    },
+    {
+      "topic": "Trial and quantity",
+      "finding": "Creeger 68,73 and Adams 80,86 explicitly leave measures to investigation and request figures/tables. Preserve the difference between confident spiritual claims and unfinished technical quantities."
+    },
+    {
+      "topic": "Machine distinction",
+      "finding": "Hand stirring favored spiritually (Creeger 66–67/Adams 78–79), fine mechanical spraying accepted (70/83), farm machinery generally accepted (71/83). No general machine ban."
+    },
+    {
+      "topic": "Numerical conflict",
+      "finding": "Horn burial: Creeger 63 says 3/4–1 1/2 m [2 1/2–5 feet]; Adams 75 says 18 in.–2 ft.6 in. Preserve difference and avoid a course recipe. No PDF image check available."
+    },
+    {
+      "topic": "Editorial numbering",
+      "finding": "Adams 77 labels 500/501 and 502–507 as editorial/current terminology and declines adding later technicalities to the lecture. These numbers are useful but not Steiner’s spoken numbering."
+    },
+    {
+      "topic": "Quicklime wording",
+      "finding": "Creeger 74 says acids in moorland; Adams 86 says oxygen. Record OCR/translation discrepancy without silently correcting quoted source."
+    },
+    {
+      "topic": "Six distinct treatments",
+      "finding": "Teach plants, animal enclosure where named, seasonal exposure and attributed relationship. Nettle has no animal casing and whole-year burial; valerian is flower extract. Full Q&As distinguish separate burial from later addition to manure."
+    },
+    {
+      "topic": "Q&A corrections",
+      "finding": "Quercus robur, outer living bark, Urtica dioica, nettle aerial flowering parts without roots; mesentery/peritoneum is not tripe; botanical substitution replies are tentative."
+    },
+    {
+      "topic": "Agronomy boundary",
+      "finding": "Food-substance through senses, microbes as only indicators, potash/lime to nitrogen alchemy, silicon unnamed element, metallic cosmic substances, disease prevention and insect/star effects are Steiner’s assertions. Do not present as established mechanisms or field prescriptions."
+    },
+    {
+      "topic": "Weeds and evidence",
+      "finding": "Growth preparations also support weeds (Creeger 87/Adams 102). Lecture 6 treats suppression separately and asserts four-year effects. Experiments invited but spiritual truth viewed as intrinsically certain (97/112–113), not left wholly conditional."
+    },
+    {
+      "topic": "Animal classification",
+      "finding": "Nematodes are put with insects/lower animals by the speaker; this is historical grouping, not current zoology. Species and larval/adult timing still require testing."
+    },
+    {
+      "topic": "Clubroot translation",
+      "finding": "Creeger 108 uses cabbage clubroot; Adams 123 cabbage root-fly. Distinct conditions; do not merge the translation into a single modern diagnosis."
+    },
+    {
+      "topic": "Ethics/cooperation",
+      "finding": "Creeger 98 favors shared understanding with neighbors;106–107 audience misuse question and moral improvement circle are substantive. Vineyards explicitly untested(108/Adams 123), and ordinary proven methods retained(109/124)."
+    },
+    {
+      "topic": "Source attribution and scope",
+      "finding": "The two translations witness the same 1924 GA 327 lecture sequence, not separate Agriculture courses."
+    },
+    {
+      "topic": "Source attribution and scope",
+      "finding": "Appendix A is preparatory handwriting; low-confidence OCR cannot authenticate diagrams/numbers."
+    },
+    {
+      "topic": "Source attribution and scope",
+      "finding": "Appendix B is mostly individual recollection, with one expressly stenographically reported December 17, 1921 group conversation; witnesses and contexts vary."
+    },
+    {
+      "topic": "Source attribution and scope",
+      "finding": "Appendix C is Pfeiffer 1956 commemorative account, not a Koberwitz transcript; he did not attend."
+    },
+    {
+      "topic": "Source attribution and scope",
+      "finding": "Gardner editorial notes are 1993 commentary and external cross-references, not additional Steiner lectures."
+    },
+    {
+      "topic": "Source attribution and scope",
+      "finding": "Supplement remembered indications are fragmentary and not universally applicable."
+    },
+    {
+      "topic": "Foundations and diagram differences",
+      "finding": "The editions differ in a sentence about above/below activity, silica percentage figures, carbon/oxygen drawing colours and diagram numbers. The foundation notes record the unresolved witnesses; no PDF adjudication was possible."
+    }
+  ],
+  "limitations": [
+    "Both supplied PDFs exceed the executor transfer limit of 32 MiB; no visual PDF page, drawing or plate verification was performed.",
+    "The Creeger/Gardner export ends during Literature Cited at capture192, displayed88%; bibliography is partial, and the remaining index and colour plates are absent.",
+    "Appendix A handwritten material has poor OCR; illegible details have not been reconstructed.",
+    "Some wording, numerical and botanical details disagree between the translations and remain unresolved.",
+    "Source study does not independently validate the proposed spiritual, agronomic or health mechanisms.",
+    "Full uploaded files remain private; public output contains original explanations, concise excerpts and authored notes."
+  ]
+}

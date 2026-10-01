@@ -68,12 +68,7 @@ export function applyFreedomConnections(lessons, course) {
    if(course==='theosophy' && lesson.id===19) lesson[lang][2].push(lang==='en'
     ? 'Chapter 1 of GA 4 helps explain this connection: how I understand a situation can awaken a feeling and shape a response. A classmate closes their book. I imagine that they are discouraged and feel concern; asking them may reveal that they have simply finished. Thought can support care, while the picture I form of another person still needs checking.'
     : 'O capítulo 1 da GA 4 ajuda a explicar essa relação: minha compreensão de uma situação pode despertar um sentimento e orientar uma resposta. Uma colega fecha o livro. Imagino que esteja desanimada e sinto preocupação; ao perguntar, posso descobrir que ela apenas terminou a leitura. O pensar pode apoiar o cuidado, mas a representação que formo de outra pessoa ainda precisa ser verificada.');
-   if(course==='theosophy' && lesson.id===21) lesson[lang][3]=lang==='en'
-    ? 'Choose an ordinary decision, such as attending a study group. Separate the options available, your ability to carry out the choice, and how your motive arose. Name one possible influence and one reason you have examined. What remains uncertain? Keep a practical responsibility in view; this exercise does not certify that an action is free.'
-    : 'Escolha uma decisão cotidiana, como participar de um grupo de estudo. Separe as opções disponíveis, sua possibilidade de realizar a escolha e como surgiu seu motivo. Nomeie uma possível influência e uma razão que examinou. O que permanece incerto? Considere uma responsabilidade prática; este exercício não certifica que uma ação seja livre.';
-   if(course==='theosophy' && lesson.id===18) lesson[lang][3]=lang==='en'
-    ? 'Choose a short argument from this lesson’s reading. Close the text and explain three connected steps in your own words. Reopen it, check the connections, and correct anything missing. Then distinguish one question about meaning from one about justification.'
-    : 'Escolha um argumento curto da leitura desta lição. Feche o texto e explique três etapas relacionadas com suas próprias palavras. Abra-o novamente, confira as relações e corrija o que faltou. Depois distinga uma pergunta sobre significado de outra sobre justificação.';
+   // Keep the main book’s exercise; GA 4 connections supplement its explanation.
   }
   return lesson;
  });

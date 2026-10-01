@@ -1,4 +1,45 @@
-# Course 2 plan: How to Know Higher Worlds
+# Course 2: How to Know Higher Worlds — current teaching plan
+
+## Implemented revision, 30 September 2026
+
+The current source is the user's 108-page `How to know Higher Worlds2.pdf`, Dead Authors Society, 2018. The smaller PDF and both duplicate Markdown uploads contain a different work and are excluded from GA 10. See the [course revision](higher-worlds-course-review.md) and [source review](higher-worlds-reading-review.md). Nineteen lessons per language retain IDs 0–18 and existing notebooks.
+
+| Lesson | PDF pages | Essential content and assessment |
+| --- | --- | --- |
+| 0 | 1; 3–9; 103–108 | Edition and editorial voice; GA 9 → GA 10; understanding a path and claiming attainment; book as instruction. |
+| 1 | 5–11 | Dormant capacities, reverence for truth, inner life, enjoyment, knowledge and service; explain the idea–ideal relationship. |
+| 2 | 11–18 | Distinguishing essential/incidental; retrospective distance; higher human being; meditation, clear thought and the eternal being. |
+| 3 | 18–24 | Overlapping stages; growth/decay; thoughts and feelings as realities; listening and the inner word; source study. |
+| 4 | 24–31 | Mineral/plant/animal contrasts; seed and growing-plant exercises; claimed spiritual light and the difference from fantasy. |
+| 5 | 31–34 | Desire and fulfilment; three character-development steps for each knowledge step; dignity, silence, courage and moral preparation. |
+| 6 | 34–42 | Fire/water/air trials; spiritual script; self-control, sound judgment and presence of mind; oath and symbolic drinks. |
+| 7 | 42–48 | Patience, self-knowledge, desire educated by knowledge, gentleness, tact and daily work. |
+| 8 | 48–51 | Conditions 1–3: conscientious health care, responsibility, thoughts/feelings; effort versus perfection. |
+| 9 | 51–55 | Conditions 4–7: inward spiritual being and duty, resolve and revisability, gratitude and harmonious practice; connect all seven. |
+| 10 | 55–67 | Lotus organs, colour-language, eight functions and six qualities; sixteen/twelve/ten/six-petalled distinctions. |
+| 11 | 67–77 | Etheric currents, four attributes, self-image, higher self and karma; distinguish connected classifications. |
+| 12 | 77–82 | Changes in dreams, symbolism, clearer waking perception and why dreams alone are not authoritative knowledge. |
+| 13 | 82–86 | Dreamless sleep and continuity of consciousness; transition from images to experience and the role of spiritual study. |
+| 14 | 86–92 | Separation of thinking, feeling and willing; deliberate coordination; dangers of imbalance and the author's bodily claims. |
+| 15 | 92–98 | Lesser Guardian as an asserted real being; self-knowledge, karma, responsibility and collective spirits. |
+| 16 | 98–103 | Greater Guardian, earthly life and service; explicit critical discussion of the racial/national hierarchy on PDF 101. |
+| 17 | 103–108 | Appendix: pure thought, mediumism, language, book as personal instruction, and continued ordinary-life competence. |
+| 18 | Selected pages 5–108 and GA 9 | Explain the complete progression and compare concepts, practices and responsibility with Theosophy using source evidence. |
+
+Shared boundary pages contain the end of one section and beginning of another. Detailed assignments in `higher-worlds.mjs` identify the relevant section. These numbers are PDF capture pages, not printed folios or historical internal references.
+
+Each lesson provides fuller bilingual teaching, a short source passage (thirteen image-verified English PDF excerpts and six retained German parallel readings with study translations), a worked example, an original study activity, three questions with explained answers and a glossary. Keep author content, editorial comment, quotations and teaching adaptations visibly distinct. Assess accurate explanation and supported reasoning; do not grade alleged spiritual attainment, agreement, personal health or private experience.
+
+The final portfolio should trace preparation → initiation → the described capacities → the Guardians → the appendix, make two grounded connections to GA 9, and distinguish author claims from the limits of an everyday example. Existing GA 4 and other course connections remain supplementary to this route. All four GA 10 supplements in GA 9 now use the current PDF locators.
+
+Full source text stays private. The selected passages avoid locally damaged wording; uncertainties in the capture are recorded in page notes. Run the full build and all check scripts, including `check-higher-worlds.mjs`, before publication.
+
+---
+
+## Historical planning record — 12 September 2026
+
+The material below records earlier 294-marker and 107-page transcriptions, proposed work and their then-known limitations. It is retained as editorial history. Its status statements, page numbers and missing-passage warnings do not describe the current 108-page PDF revision above.
+
 
 ## Implemented version, 12 September 2026
 
