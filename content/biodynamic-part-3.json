@@ -1,0 +1,1083 @@
+{
+  "id": 3,
+  "en": {
+    "question": "How do plants, animals, landscape, manure and compost participate in the fertility of a particular farm?",
+    "sources": "GA 327 Lecture 2, 10 June 1924; Lecture 4, 12 June 1924; Lecture 5, 13 June 1924; Lecture 7, 15 June 1924; Lecture 8 and fourth discussion, 16 June 1924. Canonical source wording: Creeger/Gardner 1993 Markdown captures.",
+    "outcomes": [
+      "Trace the reciprocal relationships of crops, feed, animals and manure without turning self-sufficiency into an absolute rule.",
+      "Explain the roles Steiner assigns to woods, shrubs, meadows and different animals, separating his interpretation from observable habitat relationships.",
+      "Distinguish the agricultural return of manure and compost from Steiner’s additional etheric, astral and ego account.",
+      "Explain why ordinary fertility management remains the basis for later preparation use."
+    ],
+    "synthesis": {
+      "summary": [
+        "The farm organism is a set of reciprocal relationships, not merely a property boundary. Plant growth supports animals; animal metabolism returns manure; compost provides another route for organic material to return to soil. Woods, shrubs, meadows and their animals widen the account beyond domesticated livestock. Following the routes makes dependencies visible, including products leaving the holding and inputs arriving from elsewhere. Lecture 8’s economic qualification prevents this picture from becoming an absolute demand for closure.",
+        "Steiner interprets the relationships through etheric life, astral activity and, in Lecture 8, ego-potential at roots. Manure and compost belong to a living root–soil field, while landscape features mediate different above- and below-ground activities. These claims connect his system but remain distinct from observations of materials, habitats and crop changes. Ordinary fertility work continues; the next part investigates why he proposes preparations to enhance it."
+      ],
+      "steps": [
+        "The living root–soil field supports plant growth",
+        "Plants provide animal feed as well as products and residues",
+        "Animals transform feed through their living organization",
+        "Animal manure carries material back toward the soil",
+        "Compost is an optional return branch for residues and some manure, where documented",
+        "Manure and compost return by their actual routes to the soil",
+        "Renewed plant growth reconnects fertility with the next feed supply and harvest"
+      ],
+      "question": "How can a fertility-cycle diagram show a coherent farm organism without claiming a sealed loop or proving Steiner’s spiritual explanation?",
+      "answer": [
+        "Show several real routes rather than one compulsory processing sequence. Include plants feeding animals, manure returning toward soil, a compost branch where documented, and the next crop. Add surrounding habitats, outside inputs and products leaving the holding. Unknown destinations should remain unknown instead of completing the circle by assumption.",
+        "A second layer can state Steiner’s etheric, astral and ego interpretation, with its source locators. Material records establish routes and possible questions for investigation; they do not measure these proposed activities. A coherent diagram therefore supports understanding while retaining both the qualification on self-sufficiency and the difference between observed outcome and attributed mechanism."
+      ],
+      "tables": [
+        {
+          "caption": "Relationships in the fertility cycle: original conceptual comparison",
+          "headers": [
+            "Relationship",
+            "What can be recorded",
+            "Steiner’s additional interpretation"
+          ],
+          "rows": [
+            [
+              "Soil and habitat → plants",
+              "Location, conditions and observed growth",
+              "A living root–soil field within a wider landscape"
+            ],
+            [
+              "Plants → animals",
+              "Feed origin and documented consumption",
+              "Animal life transforms the plant contribution"
+            ],
+            [
+              "Animals → manure",
+              "Animal/feed context, material origin and destination",
+              "Etheric and astral activity; ego-potential added in Lecture 8"
+            ],
+            [
+              "Residues or manure → compost, where documented",
+              "Actual materials, process and return route",
+              "Relatively stable etheric and especially astral activity"
+            ],
+            [
+              "Manure or compost → soil",
+              "Documented application destination and later observations",
+              "Enlivening the earthy environment around roots"
+            ],
+            [
+              "Landscape ↔ farm",
+              "Woods, shrubs, wet meadows and organisms observed",
+              "Different roles in above-ground astrality and below-ground etheric relationships"
+            ]
+          ],
+          "credit": "Original course table, not a historical drawing or a compulsory handling sequence. GA 327, canonical Creeger/Gardner Markdown: Lecture 4, 12 June 1924, captures 57–62; Lecture 5, 13 June, capture 75; Lecture 7, 15 June, captures 115–118; Lecture 8, 16 June, captures 125–126. Manure need not all pass through compost; the diagram is not a nutrient balance."
+        }
+      ],
+      "cycle": {
+        "caption": "The farm organism: distinct fertility return paths",
+        "start": [
+          "Soil and its surroundings",
+          "Growing plants"
+        ],
+        "paths": [
+          {
+            "title": "Animal route",
+            "steps": [
+              "Plant feed",
+              "Animals transform feed",
+              "Manure"
+            ],
+            "returns": [
+              "Manure → soil through its documented return route",
+              "Manure → compost → soil where composting is part of the actual practice"
+            ]
+          },
+          {
+            "title": "Plant-residue route",
+            "steps": [
+              "Plant residues",
+              "Compost where documented"
+            ],
+            "returns": [
+              "Compost → soil through its documented return route"
+            ]
+          }
+        ],
+        "end": "Soil supports renewed plant growth, feed and harvest",
+        "note": "This original conceptual diagram shows alternative routes. Composting is not a compulsory step for all manure. Outside inputs, outgoing products and losses remain part of the farm record; the diagram is not a closed nutrient balance.",
+        "credit": "Original course diagram, not a reconstruction of an unseen historical drawing. GA 327, Creeger/Gardner canonical Markdown: Lecture 4, 12 June 1924, captures 60–62; Lecture 5, 13 June, capture 75; Lecture 8, 16 June, captures 125–126."
+      }
+    }
+  },
+  "pt": {
+    "question": "Como plantas, animais, paisagem, esterco e composto participam da fertilidade de uma fazenda particular?",
+    "sources": "GA 327, Palestra 2, 10 de junho de 1924; Palestra 4, 12 de junho de 1924; Palestra 5, 13 de junho de 1924; Palestra 7, 15 de junho de 1924; Palestra 8 e quarta discussão, 16 de junho de 1924. Redação da fonte canônica: capturas do Markdown Creeger/Gardner 1993.",
+    "outcomes": [
+      "Acompanhar as relações recíprocas entre culturas, alimento, animais e esterco sem transformar a autossuficiência em regra absoluta.",
+      "Explicar os papéis que Steiner atribui a bosques, arbustos, prados e diferentes animais, distinguindo sua interpretação das relações observáveis entre habitats.",
+      "Distinguir o retorno agrícola do esterco e do composto da interpretação adicional de Steiner sobre o etérico, o astral e o eu.",
+      "Explicar por que o manejo comum da fertilidade continua sendo a base para o uso posterior dos preparados."
+    ],
+    "synthesis": {
+      "summary": [
+        "O organismo agrícola é um conjunto de relações recíprocas, não apenas o limite de uma propriedade. O crescimento vegetal sustenta animais; o metabolismo animal devolve esterco; o composto oferece outro caminho de retorno de material orgânico ao solo. Bosques, arbustos, prados e seus animais ampliam a explicação para além da criação doméstica. Acompanhar os caminhos torna visíveis as dependências, inclusive produtos que saem e insumos que chegam de fora. A ressalva econômica da Palestra 8 impede que esse quadro se torne uma exigência absoluta de fechamento.",
+        "Steiner interpreta as relações por meio de vida etérica, atividade astral e, na Palestra 8, potencial do eu nas raízes. Esterco e composto integram um campo vivo entre raízes e solo, enquanto elementos da paisagem mediam atividades distintas acima e abaixo da terra. As afirmações conectam seu sistema, mas permanecem distintas de observações sobre materiais, habitats e mudanças nas culturas. O trabalho comum de fertilidade continua; a próxima parte investiga por que ele propõe preparados para aprimorá-lo."
+      ],
+      "steps": [
+        "O campo vivo entre raízes e solo sustenta o crescimento vegetal",
+        "As plantas fornecem alimento animal, além de produtos e resíduos",
+        "Os animais transformam o alimento por sua organização viva",
+        "O esterco animal leva material de volta em direção ao solo",
+        "O composto é uma ramificação opcional de retorno para resíduos e parte do esterco, quando documentada",
+        "Esterco e composto retornam ao solo por seus caminhos reais",
+        "O novo crescimento vegetal reconecta fertilidade ao próximo abastecimento de alimento e à colheita"
+      ],
+      "question": "Como um diagrama do ciclo de fertilidade pode mostrar um organismo agrícola coerente sem afirmar um circuito fechado ou provar a explicação espiritual de Steiner?",
+      "answer": [
+        "Mostre vários caminhos reais, em vez de uma única sequência obrigatória de processamento. Inclua plantas alimentando animais, esterco retornando ao solo, uma ramificação de composto quando documentada e a próxima cultura. Acrescente habitats do entorno, entradas externas e produtos que saem. Destinos desconhecidos devem continuar desconhecidos, em vez de completar o círculo por suposição.",
+        "Uma segunda camada pode apresentar a interpretação etérica, astral e do eu de Steiner, com os localizadores da fonte. Registros materiais estabelecem caminhos e possíveis perguntas de investigação; não medem essas atividades propostas. Assim, um diagrama coerente apoia a compreensão, conservando tanto a ressalva sobre autossuficiência quanto a diferença entre resultado observado e mecanismo atribuído."
+      ],
+      "tables": [
+        {
+          "caption": "Relações no ciclo de fertilidade: comparação conceitual original",
+          "headers": [
+            "Relação",
+            "O que pode ser registrado",
+            "Interpretação adicional de Steiner"
+          ],
+          "rows": [
+            [
+              "Solo e habitat → plantas",
+              "Local, condições e crescimento observado",
+              "Um campo vivo entre raízes e solo em uma paisagem maior"
+            ],
+            [
+              "Plantas → animais",
+              "Origem do alimento e consumo documentado",
+              "A vida animal transforma a contribuição vegetal"
+            ],
+            [
+              "Animais → esterco",
+              "Contexto animal/alimentar, origem e destino do material",
+              "Atividade etérica e astral; potencial do eu acrescentado na Palestra 8"
+            ],
+            [
+              "Resíduos ou esterco → composto, quando documentado",
+              "Materiais, processo e caminho de retorno reais",
+              "Atividade etérica e, sobretudo, astral relativamente estável"
+            ],
+            [
+              "Esterco ou composto → solo",
+              "Destino documentado da aplicação e observações posteriores",
+              "Vivificação do ambiente terroso ao redor das raízes"
+            ],
+            [
+              "Paisagem ↔ fazenda",
+              "Bosques, arbustos, prados úmidos e organismos observados",
+              "Papéis distintos na astralidade acima e nas relações etéricas abaixo do solo"
+            ]
+          ],
+          "credit": "Tabela original do curso, não um desenho histórico nem uma sequência obrigatória de manejo. GA 327, Markdown canônico Creeger/Gardner: Palestra 4, 12 de junho de 1924, capturas 57–62; Palestra 5, 13 de junho, captura 75; Palestra 7, 15 de junho, capturas 115–118; Palestra 8, 16 de junho, capturas 125–126. Nem todo esterco precisa passar pelo composto; o diagrama não é um balanço de nutrientes."
+        }
+      ],
+      "cycle": {
+        "caption": "O organismo da fazenda: caminhos distintos de retorno da fertilidade",
+        "start": [
+          "Solo e seu entorno",
+          "Plantas em crescimento"
+        ],
+        "paths": [
+          {
+            "title": "Caminho animal",
+            "steps": [
+              "Alimento vegetal",
+              "Animais transformam o alimento",
+              "Esterco"
+            ],
+            "returns": [
+              "Esterco → solo pelo caminho de retorno documentado",
+              "Esterco → composto → solo quando a compostagem faz parte da prática real"
+            ]
+          },
+          {
+            "title": "Caminho dos resíduos vegetais",
+            "steps": [
+              "Resíduos vegetais",
+              "Composto quando documentado"
+            ],
+            "returns": [
+              "Composto → solo pelo caminho de retorno documentado"
+            ]
+          }
+        ],
+        "end": "O solo sustenta novo crescimento vegetal, alimento animal e colheita",
+        "note": "Este diagrama conceitual original mostra caminhos alternativos. A compostagem não é uma etapa obrigatória para todo esterco. Insumos externos, produtos que saem e perdas continuam fazendo parte do registro da fazenda; o diagrama não é um balanço fechado de nutrientes.",
+        "credit": "Diagrama original do curso, não uma reconstrução de um desenho histórico ainda não visto. GA 327, Markdown canônico de Creeger/Gardner: Palestra 4, 12 de junho de 1924, capturas 60–62; Palestra 5, 13 de junho, captura 75; Palestra 8, 16 de junho, capturas 125–126."
+      }
+    }
+  },
+  "lessons": [
+    {
+      "id": 8,
+      "titleEn": "Plants, Animals and the Whole Farm",
+      "titlePt": "Plantas, animais e a fazenda inteira",
+      "source": {
+        "lecture": 8,
+        "date": "1924-06-16",
+        "captures": [
+          123,
+          124,
+          125,
+          126
+        ],
+        "quoteCapture": 125,
+        "quoteEn": "A farm of this kind is truly a living organism.",
+        "quotePt": "Uma fazenda desse tipo é realmente um organismo vivo.",
+        "pdfVerified": false,
+        "printedPages": null,
+        "additional": [
+          {
+            "labelEn": "Lecture 2: fodder, animal numbers and manure; the ideal and its qualification",
+            "labelPt": "Palestra 2: forragem, número de animais e esterco; o ideal e sua ressalva",
+            "date": "1924-06-10",
+            "captures": [
+              39
+            ]
+          },
+          {
+            "labelEn": "Lecture 7: the plant–animal relationship preceding the feeding account",
+            "labelPt": "Palestra 7: a relação entre plantas e animais que antecede a explicação da alimentação",
+            "date": "1924-06-15",
+            "captures": [
+              118,
+              119,
+              120
+            ]
+          }
+        ],
+        "markdownVerified": true
+      },
+      "en": {
+        "question": "Why does Steiner connect the animals a farm keeps with the plants it grows and the manure its soil receives?",
+        "intro": [
+          "A livestock decision is also a crop and fertility decision. More animals need more feed and produce more manure; their presence changes work, land use and where materials move. Steiner makes this reciprocity central to the farm organism. The question is how activities support one another in this particular place, rather than how to add animals to a list of otherwise independent enterprises."
+        ],
+        "proposal": [
+          "Lecture 2 links the kinds and number of animals with the fodder available and manure required. Steiner expects the appropriate combination to produce both a suitable amount and mixture of manure. He invites practical testing, but supplies no universal stocking formula. “Right number” names a relationship still to be worked out for a farm; it is not a hidden numerical rule that the learner should infer from the lecture.",
+          "Lecture 8 develops the connection into a cycle. Plants growing above ground nourish animals; their digestive activity produces manure; manure returns to soil and roots, supporting subsequent plants. Forestry and orchards also belong in the picture. Steiner describes astrality developing above through this landscape, while properly fed animals bring ego-forces into manure below. Calling the farm a living organism refers to these interacting processes, not merely to putting several activities inside one boundary.",
+          "The qualification immediately following this account matters. At capture 126, Steiner says complete self-sustaining closure is impossible under present economic conditions and rejects fanaticism. The aim is to approach internal support as far as possible. A missing feed supply or an outside manure source therefore raises questions about the farm’s relationships; it does not automatically prove failure. The earlier ideal and the later economic limit must be read together."
+        ],
+        "model": [
+          "The farm’s plants supply fodder suited to its animals",
+          "Animals transform that fodder through their own living activity",
+          "Their manure returns material and, in Steiner’s interpretation, formative forces to soil and roots",
+          "Soil, plants and surrounding landscape participate in the next growth cycle",
+          "The farm approaches internal support within its actual conditions"
+        ],
+        "example": [
+          "Consider the fictional Riverside Farm, with vegetable beds, a hay meadow, a small cattle herd and an orchard. A dry summer forces it to buy some hay. Its diagram still shows crops feeding animals and manure returning to cultivated land, but also an outside input. The grower records the shortfall before considering any change in herd size. This illustrates qualified farm individuality. It does not calculate an ideal herd or demonstrate that local manure carries exactly the spiritual qualities Steiner assigns to it. Keeping the same herd while changing feed supply may alter both the manure available and the land needed for fodder. The case asks us to track those linked consequences before treating one enterprise as a separate choice."
+        ],
+        "anthroposophy": [
+          "Etheric refers to formative life; astral refers to the sensitivity-related organization Steiner attributes to animals and to surrounding influences. In Lecture 8 he adds ego-potential: animal manure is said to retain forces that enter the plant through its roots. He distinguishes animal organization from the human ego stage. This spiritual distinction neither establishes absence of animal experience nor reduces responsibilities for animal welfare. These terms explain why he regards the animal’s passage through the cycle as significant. Plants receive this potentiality at their roots; Steiner does not thereby give them the internally developed human ego."
+        ],
+        "modernContext": [
+          "A farm-system description can record feed origin, crop areas, animal needs, manure destination and sales leaving the holding. Those are useful relationships even when the spiritual account is kept separate. Internal supply is one management question among others, including adequate feed, available land, workload and welfare. A garden without livestock can still map its actual organic inputs and suppliers; understanding Steiner’s preferred farm arrangement does not require the learner to acquire animals."
+        ],
+        "limits": [
+          "The visible feed–manure relationship does not establish the claimed transfer of astral or ego forces. Nor does a diagram determine safe stocking or feeding. Suitable decisions require information about the actual animals, land and management; the source gives a guiding relationship and an unfinished task of investigation."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "How should the self-sustaining farm ideal be read in Lecture 8?",
+            "options": [
+              "As an immediate prohibition on every outside input",
+              "As a direction to approach as far as possible, with economic limits explicitly acknowledged",
+              "As a claim that animals and crops can be planned independently"
+            ],
+            "answer": 1,
+            "explanation": "The cycle is followed by a qualification: complete closure is impossible under present economic conditions. The ideal organizes relationships without becoming an absolute rule."
+          },
+          {
+            "question": "What does Steiner’s “right number and kinds of animals” supply?",
+            "options": [
+              "A fixed stocking rate valid for every farm",
+              "A guarantee that any herd will supply exactly enough manure",
+              "A relationship between available fodder, animals and manure needs that must be worked out locally"
+            ],
+            "answer": 2,
+            "explanation": "The lecture names an appropriate relationship and invites investigation. It does not give a universal numerical stocking formula."
+          },
+          {
+            "type": "reflection",
+            "question": "Explain why importing hay on the fictional farm need not invalidate the idea of farm individuality.",
+            "explanation": "Identify the crop–animal–manure connections that remain, then the shortfall and outside input. The farm can investigate its particular degree of internal support while retaining Steiner’s explicit economic qualification."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Use an accessible farm description, garden record or public example to draw an input-and-return map on three occasions. Include outside feed or organic inputs rather than hiding them."
+          ],
+          "record": [
+            "Plants grown and what leaves as a product",
+            "Animals present, if any, and documented feed origin",
+            "Where manure or other organic material goes",
+            "A separate note identifying Steiner’s proposed spiritual interpretation"
+          ],
+          "interpretation": "The map documents relationships and gaps in available information. It cannot determine an ideal stocking rate or measure ego-potential."
+        },
+        "connection": [
+          "Animal Life and Landscape widens the cycle beyond domesticated animals. The next lesson asks why trees, shrubs, worms, insects and birds belong in Steiner’s agricultural account."
+        ],
+        "optional": [],
+        "tables": []
+      },
+      "pt": {
+        "question": "Por que Steiner relaciona os animais de uma fazenda às plantas que ela cultiva e ao esterco que seu solo recebe?",
+        "intro": [
+          "Uma decisão sobre a criação também é uma decisão sobre culturas e fertilidade. Mais animais precisam de mais alimento e produzem mais esterco; sua presença altera o trabalho, o uso da terra e os caminhos dos materiais. Steiner torna essa reciprocidade central no organismo agrícola. A questão é como as atividades se sustentam nesse lugar particular, em vez de apenas acrescentar animais a uma lista de empreendimentos independentes."
+        ],
+        "proposal": [
+          "A Palestra 2 relaciona os tipos e o número de animais à forragem disponível e ao esterco necessário. Steiner espera que uma composição adequada produza tanto a quantidade quanto a mistura conveniente de esterco. Ele convida a testar essa relação, mas não apresenta uma fórmula universal de lotação. “Número adequado” nomeia uma relação que ainda precisa ser estabelecida para cada fazenda; não é uma regra numérica oculta a ser deduzida da palestra.",
+          "A Palestra 8 desenvolve essa relação como um ciclo. As plantas que crescem acima do solo alimentam animais; sua atividade digestiva produz esterco; o esterco retorna ao solo e às raízes, sustentando novas plantas. Bosques e pomares também integram o quadro. Steiner descreve a formação de astralidade acima do solo por meio dessa paisagem, enquanto animais bem alimentados levariam forças do eu ao esterco abaixo. Chamar a fazenda de organismo vivo se refere a esses processos interativos, não apenas a reunir atividades dentro de um limite.",
+          "A ressalva que vem logo depois dessa descrição é essencial. Na captura 126, Steiner diz que a sustentação inteiramente interna é impossível nas condições econômicas presentes e rejeita o fanatismo. O objetivo é aproximar-se desse ideal tanto quanto possível. Assim, uma insuficiência de alimento ou uma fonte externa de esterco levanta perguntas sobre as relações da fazenda; não prova automaticamente seu fracasso. O ideal anterior e o limite econômico posterior precisam ser lidos juntos."
+        ],
+        "model": [
+          "As plantas da fazenda fornecem forragem adequada a seus animais",
+          "Os animais transformam a forragem por meio de sua própria atividade viva",
+          "Seu esterco devolve material e, na interpretação de Steiner, forças formativas ao solo e às raízes",
+          "Solo, plantas e paisagem participam do próximo ciclo de crescimento",
+          "A fazenda se aproxima da sustentação interna dentro de suas condições reais"
+        ],
+        "example": [
+          "Considere a fictícia Fazenda Ribeirinha, com canteiros de hortaliças, um prado para feno, um pequeno rebanho bovino e um pomar. Um verão seco exige a compra de parte do feno. Seu diagrama continua mostrando plantas alimentando animais e esterco retornando à terra cultivada, mas registra também uma entrada externa. O agricultor documenta a insuficiência antes de considerar qualquer alteração no rebanho. O caso ilustra a individualidade agrícola qualificada. Não calcula um rebanho ideal nem demonstra que o esterco local contenha exatamente as qualidades espirituais que Steiner lhe atribui. Manter o mesmo rebanho e alterar o abastecimento de alimento pode mudar tanto o esterco disponível quanto a terra necessária para forragem. O caso pede que se acompanhem essas consequências interligadas antes de tratar uma atividade como escolha isolada."
+        ],
+        "anthroposophy": [
+          "Etérico se refere à vida formativa; astral, à organização ligada à sensibilidade que Steiner atribui aos animais e a influências do entorno. Na Palestra 8, ele acrescenta o potencial do eu: o esterco animal conteria forças que entram na planta pelas raízes. Ele distingue a organização animal do estágio humano de desenvolvimento do eu. Essa distinção espiritual não estabelece ausência de experiência nos animais nem diminui as responsabilidades com seu bem-estar. Os termos explicam por que ele considera significativa a passagem do material pelo animal. As plantas receberiam esse potencial pelas raízes; com isso, Steiner não lhes atribui o eu humano desenvolvido internamente."
+        ],
+        "modernContext": [
+          "Uma descrição do sistema agrícola pode registrar origem do alimento, áreas cultivadas, necessidades dos animais, destino do esterco e produtos vendidos. Essas relações são úteis mesmo quando a explicação espiritual permanece separada. O abastecimento interno é uma questão de manejo entre outras, incluindo alimentação adequada, terra disponível, trabalho e bem-estar. Uma horta sem criação também pode mapear suas entradas orgânicas e fornecedores; compreender o arranjo agrícola preferido por Steiner não exige que o estudante adquira animais."
+        ],
+        "limits": [
+          "A relação visível entre alimento e esterco não estabelece a transferência alegada de forças astrais ou do eu. Um diagrama tampouco determina lotação ou alimentação seguras. Decisões adequadas exigem informações sobre animais, terra e manejo reais; a fonte oferece uma relação orientadora e uma tarefa de investigação ainda incompleta."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "Como deve ser lido o ideal de uma fazenda que se sustenta internamente na Palestra 8?",
+            "options": [
+              "Como uma proibição imediata de toda entrada externa",
+              "Como uma direção da qual se aproximar tanto quanto possível, reconhecendo explicitamente limites econômicos",
+              "Como a afirmação de que animais e culturas podem ser planejados de forma independente"
+            ],
+            "answer": 1,
+            "explanation": "O ciclo é seguido por uma ressalva: a sustentação inteiramente interna é impossível nas condições econômicas presentes. O ideal organiza relações sem tornar-se regra absoluta."
+          },
+          {
+            "question": "O que Steiner oferece ao falar do “número e tipos adequados de animais”?",
+            "options": [
+              "Uma taxa fixa de lotação válida para qualquer fazenda",
+              "A garantia de que todo rebanho fornecerá exatamente o esterco necessário",
+              "Uma relação entre forragem disponível, animais e necessidade de esterco que precisa ser estabelecida localmente"
+            ],
+            "answer": 2,
+            "explanation": "A palestra nomeia uma relação adequada e convida a investigá-la. Não fornece uma fórmula numérica universal de lotação."
+          },
+          {
+            "type": "reflection",
+            "question": "Explique por que comprar feno na fazenda fictícia não precisa invalidar a ideia de individualidade agrícola.",
+            "explanation": "Identifique as relações entre culturas, animais e esterco que permanecem, depois a insuficiência e a entrada externa. A fazenda pode investigar seu grau particular de sustentação interna preservando a ressalva econômica explícita de Steiner."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Use uma descrição acessível de fazenda, um registro de horta ou um exemplo público para desenhar um mapa de entradas e retornos em três ocasiões. Inclua alimento ou insumos orgânicos externos, sem ocultá-los."
+          ],
+          "record": [
+            "Plantas cultivadas e o que sai como produto",
+            "Animais presentes, se houver, e origem documentada do alimento",
+            "Destino do esterco ou de outros materiais orgânicos",
+            "Uma nota separada identificando a interpretação espiritual proposta por Steiner"
+          ],
+          "interpretation": "O mapa documenta relações e lacunas nas informações disponíveis. Não determina uma lotação ideal nem mede o potencial do eu."
+        },
+        "connection": [
+          "Vida Animal e Paisagem amplia o ciclo para além dos animais domésticos. A próxima lição pergunta por que árvores, arbustos, minhocas, insetos e aves integram a explicação agrícola de Steiner."
+        ],
+        "optional": [],
+        "tables": []
+      }
+    },
+    {
+      "id": 9,
+      "titleEn": "Animal Life and Landscape",
+      "titlePt": "Vida animal e paisagem",
+      "source": {
+        "lecture": 7,
+        "date": "1924-06-15",
+        "captures": [
+          115,
+          116,
+          117,
+          118
+        ],
+        "quoteCapture": 116,
+        "quoteEn": "The effect of a forest is felt over a very large area, and in areas with no woods, this function must be performed by something else.",
+        "quotePt": "O efeito de um bosque é sentido em uma área muito extensa, e, em regiões sem bosques, essa função precisa ser desempenhada por outra coisa.",
+        "pdfVerified": false,
+        "printedPages": null,
+        "additional": [
+          {
+            "labelEn": "Lecture 7: the tree, cambium and crown/root image",
+            "labelPt": "Palestra 7: árvore, câmbio e imagem da copa e das raízes",
+            "date": "1924-06-15",
+            "captures": [
+              112,
+              113,
+              114
+            ]
+          },
+          {
+            "labelEn": "Lecture 8: sensory surroundings, pasture and feeding",
+            "labelPt": "Palestra 8: entorno sensorial, pastagem e alimentação",
+            "date": "1924-06-16",
+            "captures": [
+              123,
+              124
+            ]
+          }
+        ],
+        "markdownVerified": true
+      },
+      "en": {
+        "question": "Why does Steiner ask farmers to consider woods, shrubs, meadows, worms, insects and birds alongside their crops and livestock?",
+        "intro": [
+          "A field boundary is a working edge, not the end of everything affecting the field. Birds cross it; shade, air and animal movement vary around it. In Lecture 7, Steiner widens the farm organism to include this surrounding life. He asks how woodland, orchard, shrubs and meadows participate in agricultural relationships, even when some of that land produces no saleable crop."
+        ],
+        "proposal": [
+          "His argument begins with a tree image. The tree is compared with raised living earth carrying leafy and flowering shoots. Cambium serves as the conceptual root region of those shoots; the example does not deny the tree’s actual roots. Steiner assigns dense astrality to the crown and describes the roots as drawing etheric activity out of soil. Mature insects above and larvae below enter this polarity. Earthworms are described as safety valves releasing excessive etheric vitality, with lime and belowground organisms participating together.",
+          "Flying creatures, especially insects and birds, are said to distribute astrality, while woods direct its operation over a wider area. Shrubs are related to mammals, through their presence and as food. Fungi-bearing wet meadows are assigned a stronger relationship to bacteria and parasites, supposedly attracting harmful microorganisms away from the farm. These are different proposed functions, not a single statement that every kind of biodiversity produces the same result. The text’s insect-and-bird conversation is expressly a picture, not literal animal speech.",
+          "This account leads to a whole-farm economic judgment: retaining a balance of woods, orchards, bushes and meadows can outweigh the advantage of cultivating every available patch. Steiner recommends preserving naturally present woodland, while describing possible expansion for stunted vegetation or partial clearing where growth is rampant but seed formation weak. These contrasting cases require judgment. They are not a universal clearing or planting instruction, and his fungal diversion claim is not established disease control."
+        ],
+        "model": [
+          "Different habitats support distinct plant and animal relationships",
+          "Steiner assigns aerial astrality to tree crowns and flying creatures",
+          "Roots, worms, larvae and lime participate in belowground etheric regulation",
+          "These proposed influences interact with crop growth and animal life",
+          "Landscape balance is assessed as part of farm quality rather than by cropped acreage alone"
+        ],
+        "example": [
+          "At the fictional Riverside Farm, a wooded edge, hazel shrubs, an orchard and a damp meadow lie beside cultivated ground. The farmer draws these into the system map instead of labeling them unused land. Separate observations record birds, flowering shrubs, shade and soil conditions. A second layer explains the roles Steiner assigns to flying creatures, shrubs and meadow fungi. Finding birds at the edge illustrates a relationship to investigate; it does not reveal an astral stream or show that the damp meadow removes crop pathogens."
+        ],
+        "anthroposophy": [
+          "Astral and etheric distinguish the kinds of activity Steiner places above and below, rather than naming visible groups of organisms. Worm movement and bird flight are visible; etheric discharge and aerial astralization are his interpretation. Lecture 8 then connects the animal with its sensory surroundings: roaming, smelling and seeking food are contrasted with dark confinement. Within that account, feed is inseparable from how the animal meets its environment. This does not establish that instinctive browsing always supplies safe or adequate nutrition."
+        ],
+        "modernContext": [
+          "An ecological description can identify habitats, water, shade, feeding opportunities and animal presence without adopting the spiritual mechanism. Conditions and species vary, so repeated records are more useful than a general verdict of good biodiversity. More woodland, more moisture or more animals is not automatically appropriate. Management must consider the actual site and animal needs. The historical landscape account supplies questions to examine; observations and suitable comparisons must supply evidence for particular ecological effects."
+        ],
+        "limits": [
+          "The proposed dependence of insect life on tree astrality is not a modern evolutionary explanation. Habitat observations also cannot establish the claimed diversion of microorganisms by fungi. Retain the distinction between an organism being present, an ecological effect being measured and a spiritual cause being asserted."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "Why can less tillable acreage be acceptable in Steiner’s landscape account?",
+            "options": [
+              "Because uncropped land never requires management",
+              "Because the proposed quality of the whole farm can depend on woods, orchards, bushes and meadows",
+              "Because the lecture requires every farm to abandon cropping"
+            ],
+            "answer": 1,
+            "explanation": "Steiner treats these landscape elements as functions of the farm. His argument weighs whole-farm quality against the gain from cultivating every patch."
+          },
+          {
+            "question": "What does observing birds and worms establish directly?",
+            "options": [
+              "That astrality and etheric forces have been measured",
+              "That every crop disease will be prevented",
+              "That these organisms are present under the recorded conditions, while their proposed spiritual roles remain a separate interpretation"
+            ],
+            "answer": 2,
+            "explanation": "Presence and activity can be described. Those observations do not by themselves measure Steiner’s astral or etheric processes or establish a disease-control effect."
+          },
+          {
+            "type": "reflection",
+            "question": "Compare two layers of the fictional farm map: the observed habitats and Steiner’s interpretation of their roles. What belongs in each?",
+            "explanation": "The first layer names wooded edge, shrubs, meadow, species seen and conditions. The second assigns astral/etheric regulation or microbial diversion to those elements, clearly attributing the mechanism rather than presenting the sketch as its measurement."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Revisit a publicly accessible landscape edge or existing image record on three occasions. Observe from an appropriate distance without feeding animals, disturbing habitat or changing water conditions."
+          ],
+          "record": [
+            "Date, weather and observation position",
+            "Trees, shrubs, meadow, cultivated ground and shade",
+            "Animals actually seen; distinguish an absence of sightings from proven absence",
+            "Observed conditions first, then separately attributed interpretation"
+          ],
+          "interpretation": "The record describes a place and its changes. It does not measure spiritual forces or establish that an organism controls pests or disease."
+        },
+        "connection": [
+          "Manure and Fertility follows one of these animal relationships back to soil. The next lesson asks what Steiner believes is carried through digestion and why he treats manure as more than an isolated input."
+        ],
+        "optional": [
+          {
+            "route": "agriculture/chapters/lectures-lecture-7.html",
+            "title": "Lecture 7: landscape relationships",
+            "label": "Optional complete-lecture reading companion; the landscape argument in its source sequence."
+          }
+        ],
+        "tables": []
+      },
+      "pt": {
+        "question": "Por que Steiner pede aos agricultores que considerem bosques, arbustos, prados, minhocas, insetos e aves junto às culturas e à criação?",
+        "intro": [
+          "O limite de um campo é uma margem em atividade, não o fim de tudo o que o afeta. Aves o atravessam; sombra, ar e movimento animal variam ao seu redor. Na Palestra 7, Steiner amplia o organismo agrícola para incluir essa vida do entorno. Pergunta como bosques, pomares, arbustos e prados participam das relações agrícolas, mesmo quando parte dessa terra não produz uma cultura comercial."
+        ],
+        "proposal": [
+          "Seu argumento começa com uma imagem da árvore. Ela é comparada à terra viva elevada, que sustenta brotos com folhas e flores. O câmbio funciona como a região conceitual das raízes desses brotos; o exemplo não nega as raízes reais da árvore. Steiner atribui astralidade densa à copa e descreve as raízes como retirando atividade etérica do solo. Insetos adultos acima e larvas abaixo entram nessa polaridade. As minhocas são descritas como válvulas de segurança que liberam vitalidade etérica excessiva, com a cal e os organismos subterrâneos participando juntos.",
+          "Os seres que voam, especialmente insetos e aves, distribuiriam astralidade, enquanto os bosques orientariam sua atuação em uma área maior. Arbustos são relacionados aos mamíferos, tanto por sua presença quanto como alimento. Aos prados úmidos com fungos é atribuída uma relação mais forte com bactérias e parasitas, que supostamente atrairia microrganismos prejudiciais para longe da fazenda. São funções propostas distintas, não uma única afirmação de que qualquer biodiversidade produz o mesmo resultado. A conversa entre insetos e aves é apresentada expressamente como uma imagem, não como fala animal literal.",
+          "Essa descrição leva a um julgamento econômico sobre a fazenda inteira: manter um equilíbrio de bosques, pomares, arbustos e prados pode superar a vantagem de cultivar cada pedaço disponível. Steiner recomenda preservar os bosques naturalmente presentes, mas descreve uma possível ampliação diante de vegetação atrofiada ou desmatamento parcial onde o crescimento é exuberante e a formação de sementes é fraca. Esses casos contrastantes exigem julgamento. Não constituem instrução universal para cortar ou plantar árvores, e a alegação de que fungos desviam microrganismos não é controle de doenças estabelecido."
+        ],
+        "model": [
+          "Habitats diferentes sustentam relações distintas entre plantas e animais",
+          "Steiner atribui astralidade aérea às copas e aos seres que voam",
+          "Raízes, minhocas, larvas e cal participariam da regulação etérica subterrânea",
+          "Essas influências propostas interagem com o crescimento das culturas e a vida animal",
+          "O equilíbrio da paisagem é avaliado como parte da qualidade agrícola, não apenas pela área cultivada"
+        ],
+        "example": [
+          "Na fictícia Fazenda Ribeirinha, uma margem arborizada, arbustos de aveleira, um pomar e um prado úmido ficam ao lado da terra cultivada. O agricultor os inclui no mapa do sistema, em vez de chamá-los de terra sem uso. Observações separadas registram aves, arbustos floridos, sombra e condições do solo. Uma segunda camada explica os papéis que Steiner atribui aos seres que voam, aos arbustos e aos fungos do prado. Encontrar aves na margem ilustra uma relação a investigar; não revela uma corrente astral nem demonstra que o prado úmido elimina patógenos das culturas."
+        ],
+        "anthroposophy": [
+          "Astral e etérico distinguem os tipos de atividade que Steiner situa acima e abaixo do solo, em vez de nomear grupos visíveis de organismos. Movimento de minhocas e voo de aves são visíveis; descarga etérica e astralização do ar são sua interpretação. A Palestra 8 relaciona depois o animal a seu entorno sensorial: deslocar-se, cheirar e procurar alimento são contrastados com confinamento escuro. Nessa descrição, o alimento é inseparável da maneira como o animal encontra seu ambiente. Isso não estabelece que a escolha instintiva sempre forneça alimentação segura ou suficiente."
+        ],
+        "modernContext": [
+          "Uma descrição ecológica pode identificar habitats, água, sombra, oportunidades de alimentação e presença animal sem adotar o mecanismo espiritual. Condições e espécies variam; por isso, registros repetidos são mais úteis que um veredicto geral de boa biodiversidade. Mais bosque, umidade ou animais não é automaticamente adequado. O manejo precisa considerar o lugar real e as necessidades dos animais. A descrição histórica da paisagem oferece perguntas a examinar; observações e comparações apropriadas devem fornecer evidências de efeitos ecológicos particulares."
+        ],
+        "limits": [
+          "A dependência proposta entre vida dos insetos e astralidade das árvores não é uma explicação evolutiva moderna. Observar habitats também não estabelece o alegado desvio de microrganismos pelos fungos. Preserve a diferença entre a presença de um organismo, a medição de um efeito ecológico e a afirmação de uma causa espiritual."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "Por que uma área cultivável menor pode ser aceitável na explicação da paisagem de Steiner?",
+            "options": [
+              "Porque terras não cultivadas nunca exigem manejo",
+              "Porque a qualidade proposta para a fazenda inteira pode depender de bosques, pomares, arbustos e prados",
+              "Porque a palestra exige que toda fazenda abandone o cultivo"
+            ],
+            "answer": 1,
+            "explanation": "Steiner trata esses elementos da paisagem como funções da fazenda. Seu argumento compara a qualidade do todo com o ganho de cultivar cada pedaço."
+          },
+          {
+            "question": "O que observar aves e minhocas estabelece diretamente?",
+            "options": [
+              "Que astralidade e forças etéricas foram medidas",
+              "Que todas as doenças das culturas serão evitadas",
+              "Que esses organismos estão presentes nas condições registradas, enquanto seus papéis espirituais propostos continuam sendo uma interpretação separada"
+            ],
+            "answer": 2,
+            "explanation": "Presença e atividade podem ser descritas. Essas observações não medem, por si só, os processos astrais ou etéricos de Steiner nem estabelecem um efeito de controle de doenças."
+          },
+          {
+            "type": "reflection",
+            "question": "Compare duas camadas do mapa da fazenda fictícia: os habitats observados e a interpretação de Steiner sobre seus papéis. O que pertence a cada uma?",
+            "explanation": "A primeira camada nomeia margem arborizada, arbustos, prado, espécies vistas e condições. A segunda atribui regulação astral/etérica ou desvio de microrganismos a esses elementos, identificando claramente o mecanismo como interpretação, não como algo medido pelo desenho."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Retorne a uma margem de paisagem acessível ao público ou a registros de imagens em três ocasiões. Observe de uma distância apropriada, sem alimentar animais, perturbar habitats ou alterar condições da água."
+          ],
+          "record": [
+            "Data, tempo e posição de observação",
+            "Árvores, arbustos, prado, terra cultivada e sombra",
+            "Animais efetivamente vistos; diferencie falta de avistamentos de ausência comprovada",
+            "Primeiro condições observadas; depois interpretação atribuída em separado"
+          ],
+          "interpretation": "O registro descreve um lugar e suas mudanças. Não mede forças espirituais nem estabelece que um organismo controle pragas ou doenças."
+        },
+        "connection": [
+          "Esterco e Fertilidade acompanha uma dessas relações animais de volta ao solo. A próxima lição pergunta o que Steiner acredita ser levado pela digestão e por que trata o esterco como algo além de um insumo isolado."
+        ],
+        "optional": [
+          {
+            "route": "agriculture/chapters/lectures-lecture-7.html",
+            "title": "Palestra 7: relações da paisagem",
+            "label": "Curso complementar opcional de leitura integral; o argumento sobre a paisagem em sua sequência de origem."
+          }
+        ],
+        "tables": []
+      }
+    },
+    {
+      "id": 10,
+      "titleEn": "Manure and Fertility",
+      "titlePt": "Esterco e fertilidade",
+      "source": {
+        "lecture": 4,
+        "date": "1924-06-12",
+        "captures": [
+          57,
+          58,
+          59,
+          60,
+          61,
+          62
+        ],
+        "quoteCapture": 62,
+        "quoteEn": "In passing through the organism, however, it has become pervaded with astral and etheric activity.",
+        "quotePt": "Ao passar pelo organismo, porém, ele foi permeado por atividade astral e etérica.",
+        "pdfVerified": false,
+        "printedPages": null,
+        "additional": [
+          {
+            "labelEn": "Lecture 5: ordinary manuring remains necessary and exported farm products require replenishment",
+            "labelPt": "Palestra 5: a adubação comum continua necessária e os produtos que saem da fazenda exigem reposição",
+            "date": "1924-06-13",
+            "captures": [
+              75
+            ]
+          },
+          {
+            "labelEn": "Lecture 8: manure, root ego-potential and the qualified farm cycle",
+            "labelPt": "Palestra 8: esterco, potencial do eu nas raízes e ciclo agrícola qualificado",
+            "date": "1924-06-16",
+            "captures": [
+              125,
+              126
+            ]
+          },
+          {
+            "labelEn": "Fourth discussion: solid and liquid manure in an ego/astral relationship",
+            "labelPt": "Quarta discussão: relação entre esterco sólido e líquido segundo o eu e o astral",
+            "date": "1924-06-16",
+            "captures": [
+              135
+            ]
+          }
+        ],
+        "markdownVerified": true
+      },
+      "en": {
+        "question": "What does Steiner think manure returns to the soil beyond its material constituents?",
+        "intro": [
+          "The feed–animal–manure cycle gives a familiar substance a particular history. Manure has passed through an animal rather than arriving as an unrelated material. In Lecture 4, Steiner makes that passage the reason for its agricultural importance. To understand his argument, distinguish what manure materially returns from the additional living activities he believes it carries into the soil."
+        ],
+        "proposal": [
+          "He describes manure as nourishment that entered the animal, underwent its metabolic processes and emerged after supporting the development of forces. It no longer has the original fodder’s form. The return to land is therefore a transformed animal process, not a simple relocation of the same plant material. This account belongs to his wider distinction between nourishment as forces and deposited substance; it should not be mistaken for a complete modern description of digestion.",
+          "What is carried outward is described as etheric and astral activity, with nitrogen-bearing and oxygen-bearing forces. Fertilizing should preserve these activities so that they enliven the soil’s earthy, mineral component, not merely its water. This builds on the earlier root–soil continuity: roots participate in surrounding life, so manure works on a larger living environment rather than feeding an isolated plant. The spiritual account explains why Steiner values the animal’s involvement in fertility.",
+          "Manure management consequently becomes a question of retention as well as supply. In the surrounding Lecture 4 discussion of living boundaries and odors, Steiner interprets escaping smell as loss of living activity and nitrogen. An observer can record odor or storage conditions, but his interpretation makes a further claim about what is retained. It does not provide a reliable smell-based test of nutrient content, spiritual activity or suitability for use.",
+          "Lecture 8 adds another layer: animal manure retains ego-potential that is brought to plant roots. The fourth discussion pairs solid manure’s stronger ego role with liquid manure’s stronger astral role and stresses their cooperation. These are source distinctions within his model, not chemical categories. Meanwhile, Lecture 5 explicitly says ordinary manuring must continue. The later preparations are supposed to enhance this relationship; they do not make the practical supply of manure unnecessary."
+        ],
+        "model": [
+          "Plants provide fodder within a particular farm relationship",
+          "Animal metabolism transforms that fodder before manure leaves the body",
+          "Steiner assigns etheric and astral activity to the resulting manure",
+          "Retention and return are intended to enliven the earthy soil around roots",
+          "The next plant growth reconnects fertility with the farm’s feed supply"
+        ],
+        "example": [
+          "The fictional Riverside Farm records where its cattle feed originates, where manure is stored and which fields receive it. One plot later grows differently after several management changes. The farmer can document the return of material and investigate soil, weather and handling differences. Steiner would also interpret manure as returning animal living activity to the root environment. That explanation makes the cycle coherent within his account, but the plot’s appearance cannot isolate manure’s effect or identify an etheric, astral or ego mechanism."
+        ],
+        "anthroposophy": [
+          "Etheric activity is the proposed formative life already introduced through plants and soil. Astral activity is related to animal sensitivity and organization. Steiner treats them as active relationships carried through physical substances, not alternative names for measured organic matter. His later ego-potential claim similarly does not mean that manure is conscious or literally made of brain tissue. Keeping the terms distinct allows the learner to reconstruct the explanation without turning the spiritual account into ordinary chemistry."
+        ],
+        "modernContext": [
+          "A material investigation can examine manure composition, organic matter, handling, soil conditions and crop response. These questions concern actual contributions and outcomes. They do not become irrelevant because Steiner asks a wider question; nor can one chemical measurement describe every consequence of a farm’s management. A useful comparison identifies what changed and what was measured, while recording feed or other inputs from outside. Returning material also does not guarantee that every loss or exported product has been replaced."
+        ],
+        "limits": [
+          "The lecture’s oxygen, nitrogen, etheric and astral relationships are historical explanatory claims. Observed growth, decomposition or odor does not establish those mechanisms. Source understanding also does not supply a fertilizer rate or a complete manure-management protocol; those require information appropriate to the actual material and place."
+        ],
+        "modernReferences": [
+          "usda-soil"
+        ],
+        "checks": [
+          {
+            "question": "Why is manure’s passage through the animal important in Steiner’s account?",
+            "options": [
+              "Because he attributes transformed etheric and astral activity to what returns to the soil",
+              "Because he says the original fodder leaves the animal unchanged",
+              "Because the passage guarantees a measured crop improvement"
+            ],
+            "answer": 0,
+            "explanation": "Manure is presented as carrying activity from the animal’s internal processes into the root–soil environment. This is his additional interpretation, not a guaranteed experimental outcome."
+          },
+          {
+            "question": "How do later preparations relate to ordinary manure in the source?",
+            "options": [
+              "They eliminate the need for normal manuring",
+              "They are intended to improve and enhance ordinary manuring, which must continue",
+              "They make livestock number and feed supply irrelevant"
+            ],
+            "answer": 1,
+            "explanation": "Lecture 5 explicitly retains ordinary manuring. Preparations are proposed enhancements within the fertility relationship, not replacements for its material basis."
+          },
+          {
+            "type": "reflection",
+            "question": "Describe a manure observation that could be recorded, then state a different claim Steiner would make about the same material.",
+            "explanation": "A record might describe feed origin, storage, odor, destination or soil response. Steiner adds etheric/astral activity and, in Lecture 8, ego-potential at roots. Explain his claim while identifying what the observation has not measured."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Using an existing farm record or published description, follow one documented organic input from its origin to its destination on three dates. A record-based activity needs no contact with manure."
+          ],
+          "record": [
+            "Material origin and animal/feed context, if documented",
+            "Storage or handling described in the record",
+            "Destination and any measured or clearly described outcome",
+            "Which variables changed and which claims remain interpretations"
+          ],
+          "interpretation": "The record can establish a material route and reported changes. It cannot measure etheric/astral activity or establish causation from an uncontrolled outcome."
+        },
+        "connection": [
+          "Compost and the Fertility Cycle examines another return route. The next lesson compares manure and compost, then asks why Steiner retains ordinary fertility work before introducing special treatments."
+        ],
+        "optional": [],
+        "tables": []
+      },
+      "pt": {
+        "question": "O que Steiner considera que o esterco devolve ao solo além de seus constituintes materiais?",
+        "intro": [
+          "O ciclo entre alimento, animal e esterco dá a uma substância familiar uma história particular. O esterco passou por um animal, em vez de chegar como material sem relação com ele. Na Palestra 4, Steiner faz dessa passagem a razão de sua importância agrícola. Para compreender o argumento, distinga o retorno material do esterco das atividades vivas adicionais que ele acredita serem levadas ao solo."
+        ],
+        "proposal": [
+          "Ele descreve o esterco como alimento que entrou no animal, passou por seus processos metabólicos e saiu depois de contribuir para o desenvolvimento de forças. Já não conserva a forma original da forragem. O retorno à terra é, assim, um processo animal transformado, não o simples deslocamento do mesmo material vegetal. Essa descrição pertence à distinção mais ampla de Steiner entre alimento como forças e substância depositada; não deve ser confundida com uma explicação moderna completa da digestão.",
+          "O que é levado para fora é descrito como atividade etérica e astral, com forças portadoras de nitrogênio e oxigênio. Adubar deveria conservar essas atividades para que vivifiquem o componente terroso e mineral do solo, não apenas sua água. Isso desenvolve a continuidade anterior entre raiz e solo: raízes participam da vida do entorno, de modo que o esterco atua em um ambiente vivo maior, em vez de alimentar uma planta isolada. A descrição espiritual explica por que Steiner valoriza a participação do animal na fertilidade.",
+          "O manejo do esterco torna-se, portanto, uma questão de retenção e de abastecimento. Na discussão da Palestra 4 sobre limites vivos e odores, Steiner interpreta o cheiro que escapa como perda de atividade viva e nitrogênio. Um observador pode registrar odor ou condições de armazenamento, mas essa interpretação acrescenta uma afirmação sobre o que é conservado. Não oferece um teste confiável, baseado no cheiro, de nutrientes, atividade espiritual ou adequação para uso.",
+          "A Palestra 8 acrescenta outra camada: o esterco animal conservaria um potencial do eu levado às raízes. A quarta discussão relaciona o papel mais forte do eu no esterco sólido à atuação astral mais forte no esterco líquido e enfatiza sua cooperação. São distinções da fonte dentro desse modelo, não categorias químicas. Ao mesmo tempo, a Palestra 5 diz explicitamente que a adubação comum precisa continuar. Os preparados posteriores deveriam melhorar essa relação; não tornam desnecessário o abastecimento prático de esterco."
+        ],
+        "model": [
+          "As plantas fornecem forragem dentro das relações de uma fazenda particular",
+          "O metabolismo animal transforma a forragem antes que o esterco saia do corpo",
+          "Steiner atribui atividade etérica e astral ao esterco resultante",
+          "Retenção e retorno deveriam vivificar o solo terroso ao redor das raízes",
+          "O novo crescimento vegetal reconecta fertilidade e abastecimento de alimento"
+        ],
+        "example": [
+          "A fictícia Fazenda Ribeirinha registra a origem do alimento do gado, o local de armazenamento do esterco e os campos que o recebem. Mais tarde, uma parcela cresce de forma diferente após várias alterações de manejo. O agricultor pode documentar o retorno do material e investigar diferenças de solo, tempo e armazenamento. Steiner também interpretaria o esterco como retorno da atividade viva animal ao ambiente das raízes. Essa explicação torna o ciclo coerente em sua concepção, mas a aparência da parcela não isola o efeito do esterco nem identifica um mecanismo etérico, astral ou do eu."
+        ],
+        "anthroposophy": [
+          "A atividade etérica é a vida formativa proposta, já introduzida pelas plantas e pelo solo. A atividade astral está ligada à sensibilidade e à organização animal. Steiner as trata como relações ativas levadas por substâncias físicas, não como nomes alternativos para a matéria orgânica medida. Sua afirmação posterior sobre o potencial do eu também não significa que o esterco seja consciente ou literalmente feito de tecido cerebral. Distinguir os termos permite reconstruir a explicação sem transformar a descrição espiritual em química comum."
+        ],
+        "modernContext": [
+          "Uma investigação material pode examinar composição do esterco, matéria orgânica, manejo, condições do solo e resposta das culturas. Essas perguntas tratam de contribuições e resultados reais. Não perdem importância porque Steiner faz uma pergunta mais ampla; uma única medição química tampouco descreve todas as consequências do manejo agrícola. Uma comparação útil identifica o que mudou e o que foi medido, registrando também alimento ou outros insumos externos. Devolver material também não garante que todas as perdas ou todos os produtos vendidos tenham sido repostos."
+        ],
+        "limits": [
+          "As relações entre oxigênio, nitrogênio, etérico e astral na palestra são afirmações explicativas históricas. Crescimento, decomposição ou odor observados não estabelecem esses mecanismos. Compreender a fonte também não fornece uma dose de adubo ou um protocolo completo de manejo do esterco; isso exige informações adequadas ao material e ao lugar reais."
+        ],
+        "modernReferences": [
+          "usda-soil"
+        ],
+        "checks": [
+          {
+            "question": "Por que a passagem do esterco pelo animal é importante na explicação de Steiner?",
+            "options": [
+              "Porque ele atribui atividade etérica e astral transformada ao que retorna ao solo",
+              "Porque ele diz que a forragem original sai do animal sem alteração",
+              "Porque a passagem garante uma melhora medida da cultura"
+            ],
+            "answer": 0,
+            "explanation": "O esterco é apresentado como portador de atividade dos processos internos do animal para o ambiente das raízes e do solo. Essa é a interpretação adicional de Steiner, não um resultado experimental garantido."
+          },
+          {
+            "question": "Como os preparados posteriores se relacionam com o esterco comum na fonte?",
+            "options": [
+              "Eliminam a necessidade da adubação normal",
+              "Deveriam melhorar e intensificar a adubação comum, que precisa continuar",
+              "Tornam irrelevantes o número de animais e o abastecimento de alimento"
+            ],
+            "answer": 1,
+            "explanation": "A Palestra 5 mantém explicitamente a adubação comum. Os preparados são melhorias propostas dentro da relação de fertilidade, não substitutos de sua base material."
+          },
+          {
+            "type": "reflection",
+            "question": "Descreva uma observação sobre esterco que possa ser registrada e, depois, uma afirmação diferente que Steiner faria sobre o mesmo material.",
+            "explanation": "Um registro pode descrever origem do alimento, armazenamento, odor, destino ou resposta do solo. Steiner acrescenta atividade etérica/astral e, na Palestra 8, potencial do eu nas raízes. Explique a afirmação identificando o que a observação não mediu."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Use um registro agrícola existente ou uma descrição publicada para acompanhar um insumo orgânico documentado, da origem ao destino, em três datas. A atividade documental não exige contato com esterco."
+          ],
+          "record": [
+            "Origem do material e contexto animal/alimentar, quando documentados",
+            "Armazenamento ou manejo descritos no registro",
+            "Destino e algum resultado medido ou claramente descrito",
+            "Variáveis que mudaram e afirmações que permanecem interpretações"
+          ],
+          "interpretation": "O registro pode estabelecer um percurso material e mudanças relatadas. Não mede atividade etérica/astral nem estabelece causalidade a partir de um resultado sem controle."
+        },
+        "connection": [
+          "Composto e o Ciclo da Fertilidade examina outro caminho de retorno. A próxima lição compara esterco e composto e pergunta por que Steiner mantém o trabalho comum de fertilidade antes de introduzir tratamentos especiais."
+        ],
+        "optional": [],
+        "tables": []
+      }
+    },
+    {
+      "id": 11,
+      "titleEn": "Compost and the Fertility Cycle",
+      "titlePt": "Composto e o ciclo da fertilidade",
+      "source": {
+        "lecture": 4,
+        "date": "1924-06-12",
+        "captures": [
+          60,
+          61
+        ],
+        "quoteCapture": 60,
+        "quoteEn": "In compost we have a means for enlivening the soil",
+        "quotePt": "No composto temos um meio de vivificar o solo",
+        "pdfVerified": false,
+        "printedPages": null,
+        "additional": [
+          {
+            "labelEn": "Lecture 5: ordinary fertility methods, exported products and later enhancements",
+            "labelPt": "Palestra 5: métodos comuns de fertilidade, produtos exportados e melhorias posteriores",
+            "date": "1924-06-13",
+            "captures": [
+              75,
+              86
+            ]
+          },
+          {
+            "labelEn": "Lecture 8: the farm cycle and the limits of complete internal support",
+            "labelPt": "Palestra 8: o ciclo agrícola e os limites da sustentação inteiramente interna",
+            "date": "1924-06-16",
+            "captures": [
+              125,
+              126
+            ]
+          }
+        ],
+        "markdownVerified": true
+      },
+      "en": {
+        "question": "How does compost belong to a fertility cycle that also includes crops, animals, manure and products leaving the farm?",
+        "intro": [
+          "Plants do not all take the same route after growth. Some become animal feed, some leave as products, and some remain as residues. Compost offers another return path to soil alongside manure. Following these branches makes the fertility cycle more useful than a closed circle that conceals exports or assumes every farm processes every material identically. Steiner discusses compost before the special treatments; its place in ordinary fertility must therefore be understood first."
+        ],
+        "proposal": [
+          "In Lecture 4, Steiner presents compost made from organic farm or garden material as a means of enlivening soil. He attributes etheric and astral forces to it. These are described as less strong than those in solid or liquid manure but, in a certain sense, more stable, especially the astrality. The contrast is within his spiritual account of fertility. It is not a measured ranking that makes compost universally better or worse than manure, nor an instruction to include every material mentioned in the historical lecture.",
+          "His proposed balance also matters. Etheric activity that becomes too rampant would, he says, interfere with the astrality’s influence on nitrogen. His discussion of lime belongs to this attempt to order the activities, not simply to add more life without limit. Retention is another concern: he interprets escaping odors as dispersal of astrality and nitrogen. These claims explain why he attends to the compost’s condition; they do not supply a reliable spiritual test by smell or a present-day treatment protocol.",
+          "Lecture 5 explicitly preserves the achievements of ordinary manure, liquid-manure and compost management. The later treatments are intended to enhance that work, not replace it. Steiner also acknowledges depletion: products sent away remove forces from soil and even air that need replenishment. The preparations introduced later therefore enter an existing agricultural relationship. Understanding compost’s role is different from learning their materials or deciding whether a particular preparation changes a measured outcome.",
+          "The whole cycle has several possible branches: plants nourish animals, animals produce manure, plant residues may enter compost, and appropriate organic returns support the next crop. Some manure may join a composting process; other documented return routes need not pass through the same pile. Surrounding landscape and outside inputs also remain relevant. Read with Lecture 8’s economic qualification, this is a pattern of reciprocal support to investigate, not a promise of perpetual fertility without losses or replenishment."
+        ],
+        "model": [
+          "Plants produce food, feed and residues with different destinations",
+          "Animals transform feed, while some plant residues follow a composting route",
+          "Manure and compost return through the documented practices of a particular holding",
+          "Steiner interprets these returns as sustaining the living root–soil relationship",
+          "The next crop reconnects fertility, feed and products, with outside flows kept visible"
+        ],
+        "example": [
+          "On the fictional Riverside Farm, the grower draws two documented return paths: a plant-residue compost process and a manure route already used on the holding. Some material enters both; not all does. Vegetables sold off the farm form an outward arrow, and purchased hay an inward one. Records show origins and destinations before anyone claims the loop is complete. The drawing explains how compost belongs to the farm, but does not prescribe handling, demonstrate a nutrient balance or show that Steiner’s proposed forces have been retained."
+        ],
+        "anthroposophy": [
+          "“More stable” describes the proposed persistence of etheric and astral activity, not a laboratory measurement of compost maturity. In the account, returned material helps sustain a living field around roots rather than merely depositing isolated substances. Etheric should not be renamed “microbes,” nor astral simply renamed “nitrogen”: Steiner connects these domains while retaining distinct meanings. Keeping the relationship intact explains his fertility model without presenting spiritual terms as verified components of a material analysis."
+        ],
+        "modernContext": [
+          "An ordinary material account can investigate decomposition, the origins and destinations of residues, and changes recorded in soil or plants. A useful record also keeps sales, outside inputs and losses visible. Repeated observations can describe a process; they do not by themselves isolate what caused a later crop response. Actual compost suitability and fertility decisions require evidence about the materials, process and destination."
+        ],
+        "limits": [
+          "The cycle diagram is conceptual, not a complete mass balance. Neither composting nor returning manure guarantees replacement of every exported nutrient or continuous fertility. The source’s etheric–astral explanation remains a distinct claim. The historical lime discussion and later preparations are not instructions supplied here for making or treating compost."
+        ],
+        "modernReferences": [
+          "usda-soil"
+        ],
+        "checks": [
+          {
+            "question": "What does Steiner mean when he calls compost’s astrality more stable?",
+            "options": [
+              "He offers a measured rule that compost always outperforms manure",
+              "He distinguishes qualities within his attributed spiritual fertility model",
+              "He says decomposition and nutrient losses cannot occur"
+            ],
+            "answer": 1,
+            "explanation": "The stability claim compares proposed etheric and astral activity. It is not a universal experimental ranking or a guarantee against losses."
+          },
+          {
+            "question": "Where do the later preparations fit in the fertility cycle?",
+            "options": [
+              "They are proposed enhancements to ordinary fertility work that must continue",
+              "They replace feed, manure and compost with a self-sufficient treatment",
+              "They prove that every material must pass through one compost pile"
+            ],
+            "answer": 0,
+            "explanation": "Lecture 5 retains ordinary manuring and acknowledges material taken away in products. Preparations enter that relationship rather than removing its practical basis."
+          },
+          {
+            "type": "reflection",
+            "question": "Draw a fertility map with at least two return paths and one outside flow. What belongs in an observation column, and what belongs in Steiner’s interpretation?",
+            "explanation": "Record known material origins, destinations and outward or inward flows. Then separately explain his attribution of living activity to manure and compost. Keep unknowns visible; a conceptual cycle does not demonstrate closure or a spiritual mechanism."
+          }
+        ],
+        "observe": {
+          "task": [
+            "On three occasions, use an existing garden or farm description to follow one documented compost or organic-return route. Work from accessible records or observation; creating or handling a pile is not required."
+          ],
+          "record": [
+            "Date and the source of each recorded observation",
+            "Material origin, documented process and eventual destination",
+            "Other return paths and products or inputs crossing the boundary",
+            "What is directly recorded, what is missing, and what is interpreted"
+          ],
+          "interpretation": "The record can describe an actual route and changes over time. It does not establish a complete fertility balance, a preparation-specific effect or the proposed etheric–astral mechanism."
+        },
+        "connection": [
+          "Why Preparations? follows once ordinary manure and compost have a clear place. Part IV asks why Steiner proposes special enhancements, while keeping the underlying soil–plant–animal cycle in view."
+        ],
+        "optional": [],
+        "tables": [],
+        "cycle": {
+          "caption": "The farm organism: distinct fertility return paths",
+          "start": [
+            "Soil and its surroundings",
+            "Growing plants"
+          ],
+          "paths": [
+            {
+              "title": "Animal route",
+              "steps": [
+                "Plant feed",
+                "Animals transform feed",
+                "Manure"
+              ],
+              "returns": [
+                "Manure → soil through its documented return route",
+                "Manure → compost → soil where composting is part of the actual practice"
+              ]
+            },
+            {
+              "title": "Plant-residue route",
+              "steps": [
+                "Plant residues",
+                "Compost where documented"
+              ],
+              "returns": [
+                "Compost → soil through its documented return route"
+              ]
+            }
+          ],
+          "end": "Soil supports renewed plant growth, feed and harvest",
+          "note": "This original conceptual diagram shows alternative routes. Composting is not a compulsory step for all manure. Outside inputs, outgoing products and losses remain part of the farm record; the diagram is not a closed nutrient balance.",
+          "credit": "Original course diagram, not a reconstruction of an unseen historical drawing. GA 327, Creeger/Gardner canonical Markdown: Lecture 4, 12 June 1924, captures 60–62; Lecture 5, 13 June, capture 75; Lecture 8, 16 June, captures 125–126."
+        }
+      },
+      "pt": {
+        "question": "Como o composto participa de um ciclo de fertilidade que também inclui culturas, animais, esterco e produtos que saem da fazenda?",
+        "intro": [
+          "As plantas não seguem todas o mesmo caminho depois de crescer. Algumas viram alimento animal, outras saem como produtos e outras permanecem como resíduos. O composto oferece outro caminho de retorno ao solo, ao lado do esterco. Acompanhar essas ramificações torna o ciclo de fertilidade mais útil que um círculo fechado que oculta saídas ou presume que toda fazenda processe todos os materiais da mesma forma. Steiner discute o composto antes dos tratamentos especiais; por isso, é preciso primeiro compreender seu lugar na fertilidade comum."
+        ],
+        "proposal": [
+          "Na Palestra 4, Steiner apresenta o composto de material orgânico da fazenda ou do jardim como meio de vivificar o solo. Atribui a ele forças etéricas e astrais. Elas seriam menos fortes que as do esterco sólido ou líquido, mas, em certo sentido, mais estáveis, especialmente a astralidade. A comparação pertence à sua explicação espiritual da fertilidade. Não é uma classificação medida que torne o composto universalmente melhor ou pior que o esterco, nem uma instrução para incluir todos os materiais mencionados na palestra histórica.",
+          "O equilíbrio proposto também importa. Uma atividade etérica excessiva, segundo ele, prejudicaria a influência da astralidade sobre o nitrogênio. Sua discussão sobre a cal integra essa tentativa de ordenar as atividades, em vez de simplesmente acrescentar mais vida sem limite. A retenção é outra preocupação: ele interpreta odores que escapam como dispersão de astralidade e nitrogênio. Essas afirmações explicam sua atenção ao estado do composto; não fornecem um teste espiritual confiável pelo cheiro nem um protocolo atual de tratamento.",
+          "A Palestra 5 preserva explicitamente as conquistas do manejo comum de esterco, esterco líquido e composto. Os tratamentos posteriores deveriam aprimorar esse trabalho, não substituí-lo. Steiner também reconhece o empobrecimento: produtos enviados para fora retiram forças do solo e até do ar que precisam ser repostas. Os preparados introduzidos depois entram, portanto, em uma relação agrícola existente. Compreender o papel do composto é diferente de aprender seus materiais ou decidir se um preparado particular altera um resultado medido.",
+          "O ciclo inteiro tem várias ramificações possíveis: plantas alimentam animais, animais produzem esterco, resíduos vegetais podem entrar no composto e retornos orgânicos adequados sustentam a próxima cultura. Parte do esterco pode integrar a compostagem; outros caminhos de retorno documentados não precisam passar pela mesma pilha. Paisagem e insumos externos também continuam relevantes. Lido com a ressalva econômica da Palestra 8, esse é um padrão de sustentação recíproca a investigar, não uma promessa de fertilidade perpétua sem perdas ou reposição."
+        ],
+        "model": [
+          "As plantas produzem comida, alimento animal e resíduos com destinos diferentes",
+          "Os animais transformam o alimento, enquanto alguns resíduos vegetais seguem a compostagem",
+          "Esterco e composto retornam pelas práticas documentadas de uma propriedade particular",
+          "Steiner interpreta esses retornos como sustentação da relação viva entre raízes e solo",
+          "A próxima cultura reconecta fertilidade, alimento e produtos, mantendo visíveis os fluxos externos"
+        ],
+        "example": [
+          "Na fictícia Fazenda Ribeirinha, o agricultor desenha dois caminhos documentados de retorno: uma compostagem de resíduos vegetais e um caminho de esterco já usado na propriedade. Parte do material participa de ambos; nem todo participa. Hortaliças vendidas formam uma seta para fora, e o feno comprado, uma seta para dentro. Os registros mostram origens e destinos antes de se afirmar que o circuito está completo. O desenho explica como o composto integra a fazenda, mas não prescreve manejo, demonstra um balanço de nutrientes nem mostra que as forças propostas por Steiner foram conservadas."
+        ],
+        "anthroposophy": [
+          "“Mais estável” descreve a persistência proposta da atividade etérica e astral, não uma medição laboratorial da maturidade do composto. Nessa explicação, o material devolvido ajuda a sustentar um campo vivo ao redor das raízes, em vez de apenas depositar substâncias isoladas. Etérico não deve ser renomeado “microrganismos”, nem astral simplesmente “nitrogênio”: Steiner relaciona esses domínios mantendo significados distintos. Conservar a relação explica seu modelo de fertilidade sem apresentar termos espirituais como componentes verificados de uma análise material."
+        ],
+        "modernContext": [
+          "Uma explicação material comum pode investigar decomposição, origens e destinos de resíduos e mudanças registradas no solo ou nas plantas. Um registro útil também mantém visíveis vendas, entradas externas e perdas. Observações repetidas podem descrever um processo; sozinhas, não isolam o que causou uma resposta posterior da cultura. Decisões reais sobre adequação do composto e fertilidade exigem evidências sobre materiais, processo e destino."
+        ],
+        "limits": [
+          "O diagrama do ciclo é conceitual, não um balanço material completo. Nem compostar nem devolver esterco garante a reposição de todos os nutrientes exportados ou a fertilidade contínua. A explicação etérica–astral da fonte permanece uma afirmação distinta. A discussão histórica da cal e os preparados posteriores não são instruções fornecidas aqui para produzir ou tratar composto."
+        ],
+        "modernReferences": [
+          "usda-soil"
+        ],
+        "checks": [
+          {
+            "question": "O que Steiner quer dizer ao chamar a astralidade do composto de mais estável?",
+            "options": [
+              "Oferece uma regra medida de que o composto sempre supera o esterco",
+              "Distingue qualidades dentro de seu modelo espiritual de fertilidade",
+              "Diz que decomposição e perdas de nutrientes não podem ocorrer"
+            ],
+            "answer": 1,
+            "explanation": "A afirmação de estabilidade compara atividades etérica e astral propostas. Não é uma classificação experimental universal nem garantia contra perdas."
+          },
+          {
+            "question": "Onde os preparados posteriores entram no ciclo de fertilidade?",
+            "options": [
+              "São melhorias propostas para o trabalho comum de fertilidade, que precisa continuar",
+              "Substituem alimento, esterco e composto por um tratamento autossuficiente",
+              "Provam que todo material deve passar por uma única pilha de composto"
+            ],
+            "answer": 0,
+            "explanation": "A Palestra 5 mantém a adubação comum e reconhece a retirada de material nos produtos. Os preparados entram nessa relação, sem eliminar sua base prática."
+          },
+          {
+            "type": "reflection",
+            "question": "Desenhe um mapa de fertilidade com pelo menos dois caminhos de retorno e um fluxo externo. O que pertence à coluna de observações e o que pertence à interpretação de Steiner?",
+            "explanation": "Registre origens e destinos materiais conhecidos e fluxos de entrada ou saída. Depois, explique separadamente sua atribuição de atividade viva ao esterco e ao composto. Mantenha as lacunas visíveis; um ciclo conceitual não demonstra fechamento nem mecanismo espiritual."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Em três ocasiões, use uma descrição existente de horta ou fazenda para acompanhar um caminho documentado de composto ou retorno orgânico. Trabalhe com registros acessíveis ou observação; não é necessário criar ou manusear uma pilha."
+          ],
+          "record": [
+            "Data e fonte de cada observação registrada",
+            "Origem do material, processo documentado e destino final",
+            "Outros caminhos de retorno e produtos ou insumos que cruzam o limite",
+            "O que está diretamente registrado, o que falta e o que é interpretado"
+          ],
+          "interpretation": "O registro pode descrever um percurso real e mudanças ao longo do tempo. Não estabelece um balanço completo da fertilidade, um efeito específico de preparado ou o mecanismo etérico–astral proposto."
+        },
+        "connection": [
+          "Por que Preparados? vem depois que esterco e composto comuns têm um lugar claro. A Parte IV pergunta por que Steiner propõe melhorias especiais, mantendo em vista o ciclo fundamental entre solo, plantas e animais."
+        ],
+        "optional": [],
+        "tables": [],
+        "cycle": {
+          "caption": "O organismo da fazenda: caminhos distintos de retorno da fertilidade",
+          "start": [
+            "Solo e seu entorno",
+            "Plantas em crescimento"
+          ],
+          "paths": [
+            {
+              "title": "Caminho animal",
+              "steps": [
+                "Alimento vegetal",
+                "Animais transformam o alimento",
+                "Esterco"
+              ],
+              "returns": [
+                "Esterco → solo pelo caminho de retorno documentado",
+                "Esterco → composto → solo quando a compostagem faz parte da prática real"
+              ]
+            },
+            {
+              "title": "Caminho dos resíduos vegetais",
+              "steps": [
+                "Resíduos vegetais",
+                "Composto quando documentado"
+              ],
+              "returns": [
+                "Composto → solo pelo caminho de retorno documentado"
+              ]
+            }
+          ],
+          "end": "O solo sustenta novo crescimento vegetal, alimento animal e colheita",
+          "note": "Este diagrama conceitual original mostra caminhos alternativos. A compostagem não é uma etapa obrigatória para todo esterco. Insumos externos, produtos que saem e perdas continuam fazendo parte do registro da fazenda; o diagrama não é um balanço fechado de nutrientes.",
+          "credit": "Diagrama original do curso, não uma reconstrução de um desenho histórico ainda não visto. GA 327, Markdown canônico de Creeger/Gardner: Palestra 4, 12 de junho de 1924, capturas 60–62; Palestra 5, 13 de junho, captura 75; Palestra 8, 16 de junho, capturas 125–126."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,5917 @@
+{
+  "schemaVersion": 1,
+  "status": "complete-master-source-map-before-lesson-authoring",
+  "reviewed": "2026-10-02",
+  "gaNumber": 327,
+  "course": {
+    "title": "Biodynamic Agriculture",
+    "subtitle": "Soil, Farm, Cosmos and the Living Organism",
+    "route": "biodynamics",
+    "manifest": "content/biodynamic-agriculture-course.json",
+    "lessonCount": 24,
+    "parts": [
+      {
+        "id": 1,
+        "slug": "agricultural-question",
+        "titleEn": "The Agricultural Question",
+        "titlePt": "A questão agrícola",
+        "lessonIds": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "id": 2,
+        "slug": "earth-soil-plant",
+        "titleEn": "Earth, Soil and Plant",
+        "titlePt": "Terra, solo e planta",
+        "lessonIds": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "id": 3,
+        "slug": "farm-organism",
+        "titleEn": "The Farm Organism",
+        "titlePt": "O organismo da fazenda",
+        "lessonIds": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "id": 4,
+        "slug": "preparations",
+        "titleEn": "The Biodynamic Preparations",
+        "titlePt": "Os preparados biodinâmicos",
+        "lessonIds": [
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "id": 5,
+        "slug": "challenges-rhythms",
+        "titleEn": "Weeds, Pests, Disease and Rhythms",
+        "titlePt": "Plantas espontâneas, pragas, doenças e ritmos",
+        "lessonIds": [
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "id": 6,
+        "slug": "biodynamics-today",
+        "titleEn": "Biodynamics Today",
+        "titlePt": "A biodinâmica hoje",
+        "lessonIds": [
+          21,
+          22,
+          23,
+          24
+        ]
+      }
+    ],
+    "authoringOrder": "Complete the master map, then author and review Parts I–VIsequentially."
+  },
+  "taskFingerprint": {
+    "file": "/workspace/attachments/a2b37cd3-3214-4cb3-bf05-69ee3b3b56e6/Pasted text.txt",
+    "bytes": 28387,
+    "sha256": "897b80bbef6a997c23ddf2a1ac327a69c00e0674a3f885a45b3b6675ac60e40c",
+    "governingSections": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      16,
+      33
+    ]
+  },
+  "canonicalEdition": {
+    "id": "creeger",
+    "title": "Spiritual Foundations for the Renewal of Agriculture",
+    "ga": 327,
+    "translators": [
+      "Catherine E. Creeger",
+      "Malcolm Gardner"
+    ],
+    "editor": "Malcolm Gardner",
+    "publisher": "Bio-Dynamic Farming and Gardening Association, Inc.",
+    "year": 1993,
+    "sourceFile": "Agriculture.md",
+    "sha256": "8ec1fbf787c122fea7b7ee28ccf520f1a0442e20253bf0329a7f4cfcc01a2d5c",
+    "captureCount": 192,
+    "pdfVerified": false,
+    "printedPaginationVerified": false
+  },
+  "comparisonEdition": {
+    "id": "adams",
+    "title": "Agriculture Course: The Birth of the Biodynamic Method",
+    "ga": 327,
+    "translator": "George Adams",
+    "publisher": "Rudolf Steiner Press",
+    "year": 2012,
+    "translationYear": 1958,
+    "sourceFile": "Agriculture course.md",
+    "sha256": "ce60b99e02febcf3ee07f0d7f644936e9b43f0fd0467b09ab1d64a92ec3cd78d",
+    "captureCount": 178,
+    "pdfVerified": false
+  },
+  "sourceWitnesses": [
+    {
+      "id": "creeger",
+      "filename": "Agriculture.md",
+      "bytes": 569145,
+      "sha256": "8ec1fbf787c122fea7b7ee28ccf520f1a0442e20253bf0329a7f4cfcc01a2d5c",
+      "markdownCaptures": 192,
+      "edition": "Creeger/Gardner, 1993",
+      "pdfFile": "Agriculture.pdf",
+      "pdfStatus": "unavailable-transfer-limit",
+      "pdfVisualVerification": false,
+      "sourcePath": "/workspace/attachments/be19ef4a-98de-4156-ab90-6d1646331553/Agriculture.md",
+      "sha256IndependentlyRechecked": true
+    },
+    {
+      "id": "adams",
+      "filename": "Agriculture course.md",
+      "bytes": 533520,
+      "sha256": "ce60b99e02febcf3ee07f0d7f644936e9b43f0fd0467b09ab1d64a92ec3cd78d",
+      "markdownCaptures": 178,
+      "edition": "Adams, 1958 translation; 2012 reissue",
+      "pdfFile": "Agriculture course.pdf",
+      "pdfStatus": "unavailable-transfer-limit",
+      "pdfVisualVerification": false,
+      "sourcePath": "/workspace/attachments/e2f3c0bb-2e8c-4a90-a9ab-d493d9da6e87/Agriculture course.md",
+      "sha256IndependentlyRechecked": true
+    }
+  ],
+  "sourceMapInputs": [
+    {
+      "file": "content/biodynamic-map-foundations.json",
+      "bytes": 55499,
+      "sha256": "14fb9be57df2a861952a2115f1c474229a9a6d993f0080fea2dc894cd3ca67a9"
+    },
+    {
+      "file": "content/biodynamic-map-preparations.json",
+      "bytes": 211555,
+      "sha256": "dcd51d0e4f9f6d6eed4f7fed9307f417a24b223b2f98e9b47c277112e89ec21c"
+    },
+    {
+      "file": "content/biodynamic-map-farm.json",
+      "bytes": 216799,
+      "sha256": "1db6ddf1e4f8c34b9479cfd686774c973be7a40282fe5afe6cce40e5eca8f942"
+    },
+    {
+      "file": "content/agriculture-source-map.json",
+      "bytes": 178517,
+      "sha256": "96b5270d97659b2b0d76c13ed5ee8eb234b0380855607b52cae350419fbb8674"
+    },
+    {
+      "file": "content/biodynamic-agriculture-course.json",
+      "bytes": 2653,
+      "sha256": "bb34505d61ce17ebfc998ae0865d6696658edee3a4f4d00ccebc59cab72a4d19"
+    }
+  ],
+  "sourceHierarchy": [
+    {
+      "level": 1,
+      "kind": "Primary source",
+      "source": "Rudolf Steiner, Agriculture Course, GA 327(1924)",
+      "canonicalWitness": "creeger",
+      "comparisonWitness": "adams",
+      "role": "Drives the agricultural questions and course sequence. Keep eight lectures, four discussions and separately dated texts distinct."
+    },
+    {
+      "level": 2,
+      "kind": "Supporting anthroposophical sources",
+      "sources": [
+        "GA230",
+        "GA136"
+      ],
+      "role": "Optional background only where it clarifies a concept already introduced through GA 327. It does not determine the beginner sequence.",
+      "existingMaps": [
+        "content/what-is-biodynamics-source-map.json",
+        "content/what-is-biodynamics-source-map.md"
+      ],
+      "verificationRule": "Use the reviewed legacy source guides and audit; verify any newly used quotation/range separately."
+    },
+    {
+      "level": 3,
+      "kind": "Secondary commentary and source apparatus",
+      "sources": [
+        "Hugh Courtney / What Is Biodynamics?",
+        "Roderick Shouldice foreword",
+        "Pfeiffer preface/retrospective essay",
+        "Gardner editorial notes"
+      ],
+      "role": "Historical orientation, interpretation and source clarification, attributed to the actual author. Preserve recollection limits and disclosed editorial corrections."
+    },
+    {
+      "level": 4,
+      "kind": "Later practice and certification",
+      "sources": [
+        "Separately dated practitioner traditions",
+        "Current official Demeter standards"
+      ],
+      "role": "Differentiate later preparation labels, standardized methods and certification requirements from 1924 indications.",
+      "verificationRule": "This map does not establish current standards or the origin/date of each later number; use separate authoritative sources."
+    },
+    {
+      "level": 5,
+      "kind": "Modern agricultural evidence",
+      "sources": [
+        "Peer-reviewed research",
+        "University/agricultural research institutes",
+        "Systematic reviews",
+        "Official certification sources for standards"
+      ],
+      "role": "Distinguish measured farm outcomes, whole-system comparisons, preparation-specific effects and proposed spiritual causes.",
+      "existingResearchMap": "content/biodynamic-modern-evidence.json",
+      "verificationRule": "Whole-system confounding does not isolate preparation effects. Modern source verification remains in its separate research phase."
+    }
+  ],
+  "locatorContract": {
+    "canonicalWitness": "creeger",
+    "unit": "Supplied Markdowncaptureblocks, notprintedpages or PDFimages",
+    "canonicalPrintedPageRanges": null,
+    "printedPaginationVerified": false,
+    "pdfVisualVerification": false,
+    "diagramVerification": false,
+    "authorityLimit": "Both supplied PDFs exceed the 32 Mi Btransfer limit. No PDF page, drawing or plate was visually verified. Never quote one translation and cite the other’s capture locators.",
+    "firstIntroductionMeaning": "Earliest conceptual/agricultural treatment recorded in verified maps, not an exhaustive literal-word occurrence search. Broad grouped plant-organ introductions are qualified; later numbered labels get separate editorial-first records.",
+    "firstChronology": "Numbered lectures are indexed in lecture sequence. The earlier-dated address and later report remain separate and do not shift first-introduction records.",
+    "sparseLocatorLists": "Lists denote actual mapped captures. A sparse list does not imply that intervening captures carry the same passage.",
+    "inheritance": "Consolidates three directly read source maps and the complete prior capture ledger; this step does not claim a new full-source rereading."
+  },
+  "coverage": {
+    "lectures": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "discussions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allLectureAndDiscussionMapsPresent": true,
+    "fullWitnessCaptureCounts": {
+      "creeger": 192,
+      "adams": 178
+    },
+    "completeSuppliedCaptureLedger": {
+      "source": {
+        "file": "content/agriculture-source-map.json",
+        "bytes": 178517,
+        "sha256": "96 b 5270 d 97659 b 2 b 0 d 76 c 13 ed 5 ee 8 eb 234 b 0380855607 b 52 cae 350419 fbb 8674"
+      },
+      "jsonPointer": "/captureLedgers",
+      "capturesIndexed": 370,
+      "scope": "All supplied Markdown captures, including front matter and apparatus; not full physical-book completeness."
+    }
+  },
+  "lectures": [
+    {
+      "number": 1,
+      "date": "1924-06-07",
+      "author": "Rudolf Steiner",
+      "place": "Koberwitz, Silesia",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-foundations.json",
+        "jsonPointer": "/lectures/0"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 18,
+          "last": 28
+        },
+        "adams": {
+          "first": 18,
+          "last": 29
+        }
+      },
+      "subject": "Why agricultural judgment must consider a plant's earthly and cosmic surroundings; silica and lime as proposed mediators of plant reproduction and food quality.",
+      "centralAgriculturalQuestion": "What determines a crop's growth, ability to reproduce, and value as food or fodder when the plant is considered within its whole environment?",
+      "canonicalPrintedPages": null,
+      "recordAuthority": "Numbered 1924 GA 327 lecture report; unavailable PDF not visually verified."
+    },
+    {
+      "number": 2,
+      "date": "1924-06-10",
+      "author": "Rudolf Steiner",
+      "place": "Koberwitz, Silesia",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-foundations.json",
+        "jsonPointer": "/lectures/1"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 29,
+          "last": 41
+        },
+        "adams": {
+          "first": 30,
+          "last": 42
+        }
+      },
+      "subject": "The farm individuality, the living soil boundary, above/below relationships, seed formation and the reciprocal place of plants and animals.",
+      "centralAgriculturalQuestion": "How can soil, crops, fodder, livestock and fertility be understood and managed as interdependent parts of one farm?",
+      "canonicalPrintedPages": null,
+      "recordAuthority": "Numbered 1924 GA 327 lecture report; unavailable PDF not visually verified."
+    },
+    {
+      "number": 3,
+      "date": "1924-06-11",
+      "author": "Rudolf Steiner",
+      "place": "Koberwitz, Silesia",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-foundations.json",
+        "jsonPointer": "/lectures/2"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 42,
+          "last": 54
+        },
+        "adams": {
+          "first": 43,
+          "last": 57
+        }
+      },
+      "subject": "Nitrogen in relation to carbon, oxygen, hydrogen and sulfur; physical/etheric/astral functions, legumes, lime, silica and the transition to manuring.",
+      "centralAgriculturalQuestion": "What significance does nitrogen have for plant growth and fertility when it is understood through the other substances and the whole soil–plant environment?",
+      "canonicalPrintedPages": null,
+      "recordAuthority": "Numbered 1924 GA 327 lecture report; unavailable PDF not visually verified."
+    },
+    {
+      "number": 4,
+      "date": "1924-06-12",
+      "author": "Rudolf Steiner",
+      "place": "Koberwitz",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/lectures/0"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 55,
+          "last": 65
+        },
+        "adams": {
+          "first": 66,
+          "last": 77
+        }
+      },
+      "subject": "Enlivening soil, manure and compost; paired horn treatments",
+      "centralAgriculturalQuestion": "How can manuring support a living soil–plant relationship and nourishment, rather than merely supply plant substances or produce conspicuously large crops?",
+      "canonicalPrintedPages": null,
+      "recordAuthority": "Numbered 1924 GA 327 lecture report; unavailable PDF not visually verified."
+    },
+    {
+      "number": 5,
+      "date": "1924-06-13",
+      "author": "Rudolf Steiner",
+      "place": "Koberwitz",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/lectures/1"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 75,
+          "last": 86
+        },
+        "adams": {
+          "first": 88,
+          "last": 101
+        }
+      },
+      "subject": "Treating manure with six botanical ingredients while retaining the living sphere",
+      "centralAgriculturalQuestion": "How can manure regain the capacity to enliven exploited soil, retain what is needed and help plants receive influences from their wider surroundings?",
+      "canonicalPrintedPages": null,
+      "recordAuthority": "Numbered 1924 GA 327 lecture report; unavailable PDF not visually verified."
+    },
+    {
+      "number": 6,
+      "date": "1924-06-14",
+      "author": "Rudolf Steiner",
+      "place": "Koberwitz",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/lectures/2"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 93,
+          "last": 105
+        },
+        "adams": {
+          "first": 108,
+          "last": 120
+        }
+      },
+      "subject": "Weed and animal-pest suppression; abnormal plant processes and horsetail",
+      "centralAgriculturalQuestion": "How can unwanted plants, animal pests and abnormal plant growth be redirected within the same earthly/cosmic model that explains fertility?",
+      "canonicalPrintedPages": null,
+      "recordAuthority": "Numbered 1924 GA 327 lecture report; unavailable PDF not visually verified."
+    },
+    {
+      "number": 7,
+      "date": "1924-06-15",
+      "author": "Rudolf Steiner",
+      "place": "Koberwitz",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/lectures/0"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 111,
+          "last": 120
+        },
+        "adams": {
+          "first": 126,
+          "last": 136
+        }
+      },
+      "subject": "How do woods, orchards, shrubs, meadows, soil animals, insects and birds participate in a farm, beyond directly supplying crop or livestock products?",
+      "centralAgriculturalQuestion": "How do woods, orchards, shrubs, meadows, soil animals, insects and birds participate in a farm, beyond directly supplying crop or livestock products?",
+      "canonicalPrintedPages": null,
+      "recordAuthority": "Numbered 1924 GA 327 lecture report; unavailable PDF not visually verified."
+    },
+    {
+      "number": 8,
+      "date": "1924-06-16",
+      "author": "Rudolf Steiner",
+      "place": "Koberwitz",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/lectures/1"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 121,
+          "last": 134
+        },
+        "adams": {
+          "first": 137,
+          "last": 152
+        }
+      },
+      "subject": "How should fodder, animal activity, manure and crop choices be related to the particular farm, rather than determined by a universal feeding formula?",
+      "centralAgriculturalQuestion": "How should fodder, animal activity, manure and crop choices be related to the particular farm, rather than determined by a universal feeding formula?",
+      "canonicalPrintedPages": null,
+      "recordAuthority": "Numbered 1924 GA 327 lecture report; unavailable PDF not visually verified."
+    }
+  ],
+  "discussions": [
+    {
+      "number": 1,
+      "date": "1924-06-12",
+      "place": "Koberwitz",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/discussions/0"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 66,
+          "last": 74
+        },
+        "adams": {
+          "first": 78,
+          "last": 87
+        }
+      },
+      "subject": "Horn-treatment scale, operations, materials and experimental qualifications; ordinary manuring remains necessary",
+      "questionGroupCount": 33,
+      "recordAuthority": "Separate discussion/Q&A; speaker identity and uncertain replies remain in the detailed map.",
+      "canonicalPrintedPages": null
+    },
+    {
+      "number": 2,
+      "date": "1924-06-13",
+      "place": "Koberwitz",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/discussions/1"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 87,
+          "last": 92
+        },
+        "adams": {
+          "first": 102,
+          "last": 107
+        }
+      },
+      "subject": "Botanical identification, manure conditions and placement; growth preparations are not weed suppression",
+      "questionGroupCount": 28,
+      "recordAuthority": "Separate discussion/Q&A; speaker identity and uncertain replies remain in the detailed map.",
+      "canonicalPrintedPages": null
+    },
+    {
+      "number": 3,
+      "date": "1924-06-14",
+      "place": "Koberwitz",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/discussions/2"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 106,
+          "last": 110
+        },
+        "adams": {
+          "first": 121,
+          "last": 125
+        }
+      },
+      "subject": "Applicability, ethics and botanical/material clarification; unresolved pest timing and vineyard trials",
+      "questionGroupCount": 22,
+      "recordAuthority": "Separate discussion/Q&A; speaker identity and uncertain replies remain in the detailed map.",
+      "canonicalPrintedPages": null
+    },
+    {
+      "number": 4,
+      "date": "1924-06-16",
+      "place": "Koberwitz",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/discussions/0"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 135,
+          "last": 141
+        },
+        "adams": {
+          "first": 153,
+          "last": 159
+        }
+      },
+      "subject": "What qualifications and unresolved practical questions arise when the indications are applied to manure, pests, fodder preservation, animal health and green manure?",
+      "questionGroupCount": 19,
+      "recordAuthority": "Separate discussion/Q&A; speaker identity and uncertain replies remain in the detailed map.",
+      "canonicalPrintedPages": null
+    }
+  ],
+  "separateRecords": [
+    {
+      "id": "experimental-circle-address",
+      "date": "1924-06-11",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/address"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 142,
+          "last": 148
+        },
+        "adams": {
+          "first": 58,
+          "last": 65
+        }
+      },
+      "authority": "Separate Steiner address, not a numbered lecture."
+    },
+    {
+      "id": "dornach-report",
+      "date": "1924-06-20",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/report"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 9,
+          "last": 17
+        }
+      },
+      "authority": "Retrospective Steiner report to Society members, not Lecture 1."
+    },
+    {
+      "id": "appendix-a",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/editorialRecords/0"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 149,
+          "last": 158
+        }
+      },
+      "authority": "Preparatory handwriting with low-confidence OCR, not reliable recipes or visually verified diagrams."
+    },
+    {
+      "id": "appendix-b-and-adams-supplement",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/editorialRecords/1"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 159,
+          "last": 168
+        },
+        "adams": {
+          "first": 160,
+          "last": 167
+        }
+      },
+      "authority": "Mostly remembered individual indications; December 17, 1921 Stuttgart conversation has separate stenographic provenance. Named authors/transmission retained."
+    },
+    {
+      "id": "pfeiffer-retrospective-essay",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/editorialRecords/10"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 169,
+          "last": 173
+        }
+      },
+      "authority": "Pfeiffer 1956/1958 retrospective, not Koberwitz eyewitness. Editor date corrections at 191 disclosed."
+    },
+    {
+      "id": "gardner-editorial-notes",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/editorialRecords"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 174,
+          "last": 191
+        }
+      },
+      "authority": "1993 editorial commentary and other-GA cross-references; not additional course lectures."
+    },
+    {
+      "id": "bibliography-partial",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/editorialRecords/17"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 192,
+          "last": 192
+        }
+      },
+      "authority": "Supplied Creeger export ends during bibliography at 88%; no remaining index/plates."
+    },
+    {
+      "id": "adams-end-apparatus",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/editorialRecords"
+      },
+      "captureLocators": {
+        "adams": {
+          "first": 168,
+          "last": 178
+        }
+      },
+      "authority": "Concordance, publisher biography, empty Kindle end screens and unrelated advertisement, not lecture material."
+    }
+  ],
+  "concepts": [
+    {
+      "id": "farm-individuality",
+      "term": "Farm individuality",
+      "firstIntroduced": {
+        "lecture": 2,
+        "captureLocators": {
+          "creeger": {
+            "first": 29,
+            "last": 29
+          },
+          "adams": {
+            "first": 30,
+            "last": 30
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 39,
+              "last": 41
+            },
+            "adams": {
+              "first": 40,
+              "last": 42
+            }
+          },
+          "summary": "Fodder, livestock number/kinds and manure reciprocity."
+        },
+        {
+          "lecture": 7,
+          "captureLocators": {
+            "creeger": {
+              "first": 116,
+              "last": 120
+            },
+            "adams": {
+              "first": 132,
+              "last": 136
+            }
+          },
+          "summary": "Landscape and above/below regulation."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 125,
+              "last": 126
+            },
+            "adams": {
+              "first": 141,
+              "last": 143
+            }
+          },
+          "summary": "Fodder–animal–manure–plant cycle, explicitly incomplete under economic conditions."
+        }
+      ],
+      "meaningWithinSteinersModel": "The farm approaches an internally self-supporting individuality: soil, crops, animals, manure and landscape cohere. Complete closure is explicitly unattainable, not a categorical input prohibition.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "farm-3"
+        ]
+      },
+      "laterLessonIds": [
+        3,
+        8,
+        9,
+        10,
+        11,
+        21,
+        24
+      ],
+      "evidenceBoundary": "Preserve the explicit qualified ideal in Lectures 2 and 8; farm-system outcomes do not establish astral/ego mechanisms.",
+      "aliases": [
+        "Farm organism",
+        "Self-contained farm"
+      ]
+    },
+    {
+      "id": "soil",
+      "term": "Soil",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 20,
+            "last": 20
+          },
+          "adams": {
+            "first": 20,
+            "last": 20
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 29,
+              "last": 34
+            },
+            "adams": {
+              "first": 30,
+              "last": 35
+            }
+          },
+          "summary": "Living boundary/diaphragm analogy, regions and seasons."
+        },
+        {
+          "lecture": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 51,
+              "last": 54
+            },
+            "adams": {
+              "first": 53,
+              "last": 57
+            }
+          },
+          "summary": "Nitrogen, lime/silica and clay interactions."
+        },
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 57,
+              "last": 60
+            },
+            "adams": {
+              "first": 68,
+              "last": 72
+            }
+          },
+          "summary": "Roots continue into surrounding living soil; manuring enlivens earthy soil."
+        }
+      ],
+      "meaningWithinSteinersModel": "A living member of the farm, not inert root support: it receives, mediates and transforms earthly/cosmic, mineral and living relationships.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-direct-radiation-location",
+          "foundations-soil-soul-astral"
+        ]
+      },
+      "laterLessonIds": [
+        3,
+        4,
+        5,
+        7,
+        10,
+        11,
+        12,
+        22,
+        24
+      ]
+    },
+    {
+      "id": "humus",
+      "term": "Humus",
+      "firstIntroduced": {
+        "lecture": 2,
+        "captureLocators": {
+          "creeger": {
+            "first": 35,
+            "last": 36
+          },
+          "adams": {
+            "first": 36,
+            "last": 37
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 57,
+              "last": 60
+            },
+            "adams": {
+              "first": 68,
+              "last": 72
+            }
+          },
+          "summary": "Humus mound/tree-bark analogy and stable compost activity."
+        },
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 75,
+              "last": 78
+            },
+            "adams": {
+              "first": 88,
+              "last": 92
+            }
+          },
+          "summary": "Root–soil–manure life and replenishment."
+        }
+      ],
+      "meaningWithinSteinersModel": "Existing earthly living activity supports vegetative growth; humus illustrates life reaching beyond a plant’s visible outline.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": []
+      },
+      "laterLessonIds": [
+        4,
+        6,
+        7,
+        10,
+        11,
+        21,
+        24
+      ]
+    },
+    {
+      "id": "plant",
+      "term": "Plant",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 20,
+            "last": 25
+          },
+          "adams": {
+            "first": 20,
+            "last": 26
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 34,
+              "last": 39
+            },
+            "adams": {
+              "first": 35,
+              "last": 40
+            }
+          },
+          "summary": "Seed, humus, root/leaf/flower/fruit morphology."
+        },
+        {
+          "lecture": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 47,
+              "last": 48
+            },
+            "adams": {
+              "first": 49,
+              "last": 50
+            }
+          },
+          "summary": "Physical/etheric organization with external astrality."
+        },
+        {
+          "lecture": 7,
+          "captureLocators": {
+            "creeger": {
+              "first": 118,
+              "last": 120
+            },
+            "adams": {
+              "first": 134,
+              "last": 136
+            }
+          },
+          "summary": "Giving/taking and elemental relationship with animals."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 126,
+              "last": 131
+            },
+            "adams": {
+              "first": 143,
+              "last": 149
+            }
+          },
+          "summary": "Plant organs/tendencies as fodder."
+        }
+      ],
+      "meaningWithinSteinersModel": "Plant development is placed in wider soil and cosmic relations. Plants have physical/etheric organization, with astrality approaching externally rather than an animal-like internal astral body.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-near-planet-parenthesis"
+        ]
+      },
+      "laterLessonIds": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        19,
+        24
+      ]
+    },
+    {
+      "id": "root",
+      "term": "Root",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 25,
+            "last": 26
+          },
+          "adams": {
+            "first": 26,
+            "last": 27
+          }
+        },
+        "qualification": "The foundational map records the root/leaf/flower/seed cluster here through reproduction versus nourishment; the distinct organ morphology is developed in Lecture 2."
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 36,
+              "last": 38
+            },
+            "adams": {
+              "first": 37,
+              "last": 39
+            }
+          },
+          "summary": "Branching versus unitary roots and potato stem distinction."
+        },
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 57,
+              "last": 58
+            },
+            "adams": {
+              "first": 68,
+              "last": 70
+            }
+          },
+          "summary": "Living root–soil continuum."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 125,
+              "last": 127
+            },
+            "adams": {
+              "first": 141,
+              "last": 144
+            }
+          },
+          "summary": "Root/incidental ego forces and calf/carrot head-food example."
+        }
+      ],
+      "meaningWithinSteinersModel": "Roots receive soil-linked influences; their form is read through earthly/cosmic tendencies, and root fodder relates to head substance in the later animal model.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-potato-underground-stem"
+        ]
+      },
+      "laterLessonIds": [
+        4,
+        5,
+        6,
+        10,
+        13,
+        24
+      ]
+    },
+    {
+      "id": "leaf",
+      "term": "Leaf",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 25,
+            "last": 26
+          },
+          "adams": {
+            "first": 26,
+            "last": 27
+          }
+        },
+        "qualification": "The foundational map records the root/leaf/flower/seed cluster here through reproduction versus nourishment; the distinct organ morphology is developed in Lecture 2."
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 35,
+              "last": 36
+            },
+            "adams": {
+              "first": 36,
+              "last": 37
+            }
+          },
+          "summary": "Earthly leaf shape and solar greenness."
+        },
+        {
+          "lecture": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 52,
+              "last": 52
+            },
+            "adams": {
+              "first": 54,
+              "last": 55
+            }
+          },
+          "summary": "Legume fruiting brought into leafy growth."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 127,
+              "last": 128
+            },
+            "adams": {
+              "first": 144,
+              "last": 145
+            }
+          },
+          "summary": "Leafy/clover-like dairy feed and rhythmic middle."
+        }
+      ],
+      "meaningWithinSteinersModel": "Leaf growth is linked to earthly/etheric unfolding; later leaf fodder corresponds to the rhythmic/middle organization.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": []
+      },
+      "laterLessonIds": [
+        6,
+        7,
+        8,
+        9,
+        24
+      ]
+    },
+    {
+      "id": "flower",
+      "term": "Flower",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 25,
+            "last": 26
+          },
+          "adams": {
+            "first": 26,
+            "last": 27
+          }
+        },
+        "qualification": "The foundational map records the root/leaf/flower/seed cluster here through reproduction versus nourishment; the distinct organ morphology is developed in Lecture 2."
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 36,
+              "last": 38
+            },
+            "adams": {
+              "first": 37,
+              "last": 39
+            }
+          },
+          "summary": "Colours and planetary/fruit-quality interpretation."
+        },
+        {
+          "lecture": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 47,
+              "last": 48
+            },
+            "adams": {
+              "first": 49,
+              "last": 50
+            }
+          },
+          "summary": "External astrality approaches flowering."
+        },
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 79,
+              "last": 86
+            },
+            "adams": {
+              "first": 93,
+              "last": 101
+            }
+          },
+          "summary": "Botanical flowers and distinct preparation roles."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 129,
+              "last": 131
+            },
+            "adams": {
+              "first": 146,
+              "last": 149
+            }
+          },
+          "summary": "Flowering/fruiting tendencies and metabolic-limb feed."
+        }
+      ],
+      "meaningWithinSteinersModel": "Flowering differentiates the plant’s relation to external astrality and planetary form/colour; its tendencies are interpreted in feed and preparation materials.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": []
+      },
+      "laterLessonIds": [
+        5,
+        6,
+        7,
+        14,
+        15,
+        24
+      ]
+    },
+    {
+      "id": "seed",
+      "term": "Seed",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 25,
+            "last": 26
+          },
+          "adams": {
+            "first": 26,
+            "last": 27
+          }
+        },
+        "qualification": "Reproduction/nourishment distinction; a detailed seed-chaos account comes in Lecture 2."
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 34,
+              "last": 36
+            },
+            "adams": {
+              "first": 35,
+              "last": 37
+            }
+          },
+          "summary": "Complex organization, chaos, cosmic imprint and parent affinity."
+        },
+        {
+          "lecture": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 49,
+              "last": 52
+            },
+            "adams": {
+              "first": 50,
+              "last": 55
+            }
+          },
+          "summary": "Hydrogen releasing form and peripheral seed chaos."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 95,
+              "last": 97
+            },
+            "adams": {
+              "first": 110,
+              "last": 113
+            }
+          },
+          "summary": "Lunar reproduction and seed-ash opposite."
+        }
+      ],
+      "meaningWithinSteinersModel": "Seed formation is described as an opening of highly complex organization into chaos receiving cosmic form, while inherited affinity is retained. Reproduction later underlies the weed-pepper account.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": []
+      },
+      "laterLessonIds": [
+        5,
+        6,
+        7,
+        17,
+        20,
+        24
+      ]
+    },
+    {
+      "id": "animal",
+      "term": "Animal",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 22,
+            "last": 23
+          },
+          "adams": {
+            "first": 22,
+            "last": 24
+          }
+        },
+        "qualification": "Degree of independence from cosmic rhythms; the first systematic farm role follows in Lecture 2."
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 29,
+              "last": 29
+            },
+            "adams": {
+              "first": 30,
+              "last": 30
+            }
+          },
+          "summary": "Animal/manure/fodder reciprocity."
+        },
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 39,
+              "last": 41
+            },
+            "adams": {
+              "first": 40,
+              "last": 42
+            }
+          },
+          "summary": "Appropriate kinds/numbers and proposed planetary form."
+        },
+        {
+          "lecture": 7,
+          "captureLocators": {
+            "creeger": {
+              "first": 111,
+              "last": 120
+            },
+            "adams": {
+              "first": 126,
+              "last": 136
+            }
+          },
+          "summary": "Landscape organisms and elemental assimilation."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 121,
+              "last": 131
+            },
+            "adams": {
+              "first": 137,
+              "last": 149
+            }
+          },
+          "summary": "Sensory activity, organization, feeding and manure."
+        }
+      ],
+      "meaningWithinSteinersModel": "Animals mediate plant fodder, digestion, manure and surrounding air/warmth; individual function and farm conditions matter.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T07"
+        ]
+      },
+      "laterLessonIds": [
+        3,
+        8,
+        9,
+        10,
+        11,
+        18,
+        24
+      ]
+    },
+    {
+      "id": "manure",
+      "term": "Manure",
+      "firstIntroduced": {
+        "lecture": 2,
+        "captureLocators": {
+          "creeger": {
+            "first": 29,
+            "last": 29
+          },
+          "adams": {
+            "first": 30,
+            "last": 30
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 39,
+              "last": 41
+            },
+            "adams": {
+              "first": 40,
+              "last": 42
+            }
+          },
+          "summary": "Match fodder/animals with manure need."
+        },
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 59,
+              "last": 64
+            },
+            "adams": {
+              "first": 71,
+              "last": 76
+            }
+          },
+          "summary": "Animal etheric/astral digestive activity returned to soil."
+        },
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 75,
+              "last": 86
+            },
+            "adams": {
+              "first": 88,
+              "last": 101
+            }
+          },
+          "summary": "Six ingredients enhance ordinary manuring."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 125,
+              "last": 126
+            },
+            "adams": {
+              "first": 141,
+              "last": 143
+            }
+          },
+          "summary": "Ego-potential at roots in farm cycle."
+        },
+        {
+          "discussion": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 135,
+              "last": 135
+            },
+            "adams": {
+              "first": 153,
+              "last": 153
+            }
+          },
+          "summary": "Solid/liquid ego/astral complement."
+        }
+      ],
+      "meaningWithinSteinersModel": "Manure carries animal living activity back to soil, not merely chemicals; its etheric/astral and later ego roles are Steiner’s extra interpretation. Ordinary manuring remains necessary.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T11",
+          "preparations-T17"
+        ]
+      },
+      "laterLessonIds": [
+        3,
+        8,
+        10,
+        11,
+        12,
+        13,
+        15,
+        21,
+        24
+      ]
+    },
+    {
+      "id": "compost",
+      "term": "Compost",
+      "firstIntroduced": {
+        "lecture": 4,
+        "captureLocators": {
+          "creeger": {
+            "first": 60,
+            "last": 61
+          },
+          "adams": {
+            "first": 71,
+            "last": 72
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 75,
+              "last": 86
+            },
+            "adams": {
+              "first": 88,
+              "last": 101
+            }
+          },
+          "summary": "Six plant preparations for solid/liquid manure or compost."
+        },
+        {
+          "discussion": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 87,
+              "last": 91
+            },
+            "adams": {
+              "first": 102,
+              "last": 106
+            }
+          },
+          "summary": "Manure conditions, placement and distinct burial of materials."
+        }
+      ],
+      "meaningWithinSteinersModel": "Decomposing organic material has relatively stable etheric/astral activity; management and treatments are intended to preserve and order life returning to soil.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T03",
+          "preparations-T17"
+        ]
+      },
+      "laterLessonIds": [
+        10,
+        11,
+        12,
+        15,
+        21,
+        22,
+        24
+      ]
+    },
+    {
+      "id": "calcium",
+      "term": "Calcium / lime",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 24,
+            "last": 25
+          },
+          "adams": {
+            "first": 25,
+            "last": 26
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 31,
+              "last": 33
+            },
+            "adams": {
+              "first": 32,
+              "last": 35
+            }
+          },
+          "summary": "Draws upper earthly influence downward."
+        },
+        {
+          "lecture": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 51,
+              "last": 54
+            },
+            "adams": {
+              "first": 53,
+              "last": 57
+            }
+          },
+          "summary": "Earthward tendency in relation to legumes, clay and silica."
+        },
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 80,
+              "last": 84
+            },
+            "adams": {
+              "first": 94,
+              "last": 99
+            }
+          },
+          "summary": "Chamomile/calcium and oak etheric regulation."
+        },
+        {
+          "lecture": 7,
+          "captureLocators": {
+            "creeger": {
+              "first": 115,
+              "last": 116
+            },
+            "adams": {
+              "first": 130,
+              "last": 132
+            }
+          },
+          "summary": "Lime and subterranean organisms."
+        }
+      ],
+      "meaningWithinSteinersModel": "Lime/calcium mediates nearer-planet/earthly activity and earthward form; specific compounds and modeled activities must be distinguished rather than treated as one interchangeable nutrient.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T03",
+          "preparations-T11"
+        ]
+      },
+      "laterLessonIds": [
+        4,
+        5,
+        7,
+        11,
+        15,
+        24
+      ],
+      "aliases": [
+        "Lime",
+        "Chalk/limestone element"
+      ]
+    },
+    {
+      "id": "silica",
+      "term": "Silica",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 23,
+            "last": 25
+          },
+          "adams": {
+            "first": 24,
+            "last": 26
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 31,
+              "last": 33
+            },
+            "adams": {
+              "first": 32,
+              "last": 35
+            }
+          },
+          "summary": "Reception of cosmic influences and clay mediation upward."
+        },
+        {
+          "lecture": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 51,
+              "last": 54
+            },
+            "adams": {
+              "first": 53,
+              "last": 57
+            }
+          },
+          "summary": "Receptive upward tendency against lime."
+        },
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 64,
+              "last": 64
+            },
+            "adams": {
+              "first": 76,
+              "last": 76
+            }
+          },
+          "summary": "Summer horn mineral treatment."
+        },
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 85,
+              "last": 86
+            },
+            "adams": {
+              "first": 99,
+              "last": 101
+            }
+          },
+          "summary": "Dandelion and hidden-alchemy claim."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 104,
+              "last": 104
+            },
+            "adams": {
+              "first": 119,
+              "last": 119
+            }
+          },
+          "summary": "Siliceous horsetail treatment."
+        }
+      ],
+      "meaningWithinSteinersModel": "Silica is described as a receiver/mediator of distant cosmic influences; its agricultural concept precedes the specific horn-silica preparation.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-silicon-silica-percentage",
+          "preparations-T10",
+          "preparations-T11"
+        ]
+      },
+      "laterLessonIds": [
+        5,
+        7,
+        14,
+        15,
+        16,
+        20,
+        24
+      ],
+      "aliases": [
+        "Silicic acid",
+        "Quartz"
+      ]
+    },
+    {
+      "id": "earthly-forces",
+      "term": "Earthly forces",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 20,
+            "last": 25
+          },
+          "adams": {
+            "first": 20,
+            "last": 26
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 30,
+              "last": 39
+            },
+            "adams": {
+              "first": 31,
+              "last": 40
+            }
+          },
+          "summary": "Near influences above/received downward, humus and morphology."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 93,
+              "last": 95
+            },
+            "adams": {
+              "first": 108,
+              "last": 110
+            }
+          },
+          "summary": "Reproductive pathways through lime and Earth."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 123,
+              "last": 126
+            },
+            "adams": {
+              "first": 139,
+              "last": 143
+            }
+          },
+          "summary": "Earthly substance versus earthly forces, including gravity."
+        }
+      ],
+      "meaningWithinSteinersModel": "A differentiated activity within the model, often nearer planetary influences mediated by Earth/lime. It is not a simple synonym for belowground location or all measurable terrestrial causes.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-direct-radiation-location",
+          "foundations-near-planet-parenthesis"
+        ]
+      },
+      "laterLessonIds": [
+        5,
+        6,
+        7,
+        8,
+        12,
+        20,
+        24
+      ]
+    },
+    {
+      "id": "cosmic-forces",
+      "term": "Cosmic forces",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 20,
+            "last": 25
+          },
+          "adams": {
+            "first": 20,
+            "last": 26
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 30,
+              "last": 39
+            },
+            "adams": {
+              "first": 31,
+              "last": 40
+            }
+          },
+          "summary": "Distant activity received below and mediated upward; colours/qualities."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 93,
+              "last": 95
+            },
+            "adams": {
+              "first": 108,
+              "last": 110
+            }
+          },
+          "summary": "Silica/periphery and nutritive growth."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 123,
+              "last": 124
+            },
+            "adams": {
+              "first": 139,
+              "last": 141
+            }
+          },
+          "summary": "Cosmic forces in head contrasted with cosmic substance in limbs."
+        }
+      ],
+      "meaningWithinSteinersModel": "Wider formative activity assigned to Sun, Moon, planets and cosmic surroundings, transmitted through particular substances and conditions. Not an undifferentiated claim that all planets directly affect every organ.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-direct-radiation-location",
+          "foundations-near-planet-parenthesis"
+        ]
+      },
+      "laterLessonIds": [
+        5,
+        6,
+        7,
+        8,
+        12,
+        14,
+        20,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "etheric",
+      "term": "Etheric",
+      "firstIntroduced": {
+        "lecture": 2,
+        "captureLocators": {
+          "creeger": {
+            "first": 31,
+            "last": 31
+          },
+          "adams": {
+            "first": 32,
+            "last": 32
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 45,
+              "last": 48
+            },
+            "adams": {
+              "first": 47,
+              "last": 50
+            }
+          },
+          "summary": "Oxygen as physical carrier and plant organization."
+        },
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 57,
+              "last": 63
+            },
+            "adams": {
+              "first": 68,
+              "last": 75
+            }
+          },
+          "summary": "Living soil, compost, horn and manure."
+        },
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 83,
+              "last": 84
+            },
+            "adams": {
+              "first": 98,
+              "last": 99
+            }
+          },
+          "summary": "Oak moderates excessive etheric activity."
+        },
+        {
+          "lecture": 7,
+          "captureLocators": {
+            "creeger": {
+              "first": 113,
+              "last": 116
+            },
+            "adams": {
+              "first": 129,
+              "last": 132
+            }
+          },
+          "summary": "Roots, larvae/worms and etheric regulation."
+        }
+      ],
+      "meaningWithinSteinersModel": "The nonphysical life/formative organization invoked to explain growth and living processes; carried by physical substances in the model but not identical with a modern measured vitality variable.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-historical-chemical-vocabulary",
+          "preparations-T11"
+        ]
+      },
+      "laterLessonIds": [
+        4,
+        7,
+        8,
+        10,
+        12,
+        15,
+        19,
+        23,
+        24
+      ],
+      "aliases": [
+        "Etheric life",
+        "Ethereal"
+      ]
+    },
+    {
+      "id": "astral",
+      "term": "Astral",
+      "firstIntroduced": {
+        "lecture": 2,
+        "captureLocators": {
+          "creeger": {
+            "first": 30,
+            "last": 30
+          },
+          "adams": {
+            "first": 31,
+            "last": 31
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 46,
+              "last": 49
+            },
+            "adams": {
+              "first": 48,
+              "last": 51
+            }
+          },
+          "summary": "Nitrogen carrier, sensitivity and external plant astrality."
+        },
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 60,
+              "last": 63
+            },
+            "adams": {
+              "first": 71,
+              "last": 75
+            }
+          },
+          "summary": "Compost and animal/manure activity."
+        },
+        {
+          "lecture": 7,
+          "captureLocators": {
+            "creeger": {
+              "first": 113,
+              "last": 118
+            },
+            "adams": {
+              "first": 129,
+              "last": 134
+            }
+          },
+          "summary": "Tree crown, flying animals and landscape."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 125,
+              "last": 125
+            },
+            "adams": {
+              "first": 141,
+              "last": 142
+            }
+          },
+          "summary": "Astrality above in the farm individuality."
+        }
+      ],
+      "meaningWithinSteinersModel": "Soul/sensitivity-related formative activity: internal astral organization is assigned to animals, while plant astrality approaches from outside. Landscape, nitrogen and manure are linked with its mediation.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-soil-soul-astral",
+          "preparations-T11"
+        ]
+      },
+      "laterLessonIds": [
+        7,
+        8,
+        9,
+        10,
+        12,
+        15,
+        19,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "planetary-influence",
+      "term": "Planetary influence",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 22,
+            "last": 27
+          },
+          "adams": {
+            "first": 22,
+            "last": 28
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 30,
+              "last": 41
+            },
+            "adams": {
+              "first": 31,
+              "last": 42
+            }
+          },
+          "summary": "Modified solar activity, soil regions, morphology and animal form."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 93,
+              "last": 101
+            },
+            "adams": {
+              "first": 108,
+              "last": 116
+            }
+          },
+          "summary": "Near/distant pathways, zodiac and pest examples."
+        },
+        {
+          "discussion": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 135,
+              "last": 135
+            },
+            "adams": {
+              "first": 153,
+              "last": 153
+            }
+          },
+          "summary": "Provisional calendars and separately attributed calculation."
+        }
+      ],
+      "meaningWithinSteinersModel": "Different planets/groupings have particular alleged roles mediated by silica/lime, warmth/water and plant/animal processes; the original indications do not contain every later planting-calendar practice.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-near-planet-parenthesis",
+          "preparations-T08",
+          "preparations-T09",
+          "farm-5",
+          "farm-6"
+        ]
+      },
+      "laterLessonIds": [
+        5,
+        6,
+        14,
+        16,
+        17,
+        18,
+        19,
+        20,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "moon",
+      "term": "Moon",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 22,
+            "last": 27
+          },
+          "adams": {
+            "first": 22,
+            "last": 28
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 95,
+              "last": 97
+            },
+            "adams": {
+              "first": 110,
+              "last": 113
+            }
+          },
+          "summary": "Growth/reproduction, water and weed fertility."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 102,
+              "last": 104
+            },
+            "adams": {
+              "first": 117,
+              "last": 119
+            }
+          },
+          "summary": "Excess lunar soil influence and fungal substrate."
+        },
+        {
+          "lecture": 7,
+          "captureLocators": {
+            "creeger": {
+              "first": 118,
+              "last": 119
+            },
+            "adams": {
+              "first": 134,
+              "last": 135
+            }
+          },
+          "summary": "Bone/muscle formation through warmth/air."
+        },
+        {
+          "discussion": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 135,
+              "last": 135
+            },
+            "adams": {
+              "first": 153,
+              "last": 153
+            }
+          },
+          "summary": "New/full Moon 12–14 day wording ambiguous."
+        }
+      ],
+      "meaningWithinSteinersModel": "Moon influence is associated with water-mediated reproduction and growth, retained influences and excessive soil vitality; it also appears in the animal elemental account.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "farm-6"
+        ]
+      },
+      "laterLessonIds": [
+        5,
+        6,
+        16,
+        17,
+        19,
+        20,
+        24
+      ]
+    },
+    {
+      "id": "sun",
+      "term": "Sun",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 22,
+            "last": 27
+          },
+          "adams": {
+            "first": 22,
+            "last": 28
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 30,
+              "last": 37
+            },
+            "adams": {
+              "first": 31,
+              "last": 38
+            }
+          },
+          "summary": "Solar mediation and leaf greenness."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 101,
+              "last": 101
+            },
+            "adams": {
+              "first": 116,
+              "last": 116
+            }
+          },
+          "summary": "Differentiated zodiac Sun and insect-ash example."
+        },
+        {
+          "lecture": 7,
+          "captureLocators": {
+            "creeger": {
+              "first": 118,
+              "last": 119
+            },
+            "adams": {
+              "first": 134,
+              "last": 135
+            }
+          },
+          "summary": "Animal formation via warmth/air."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 129,
+              "last": 130
+            },
+            "adams": {
+              "first": 146,
+              "last": 147
+            }
+          },
+          "summary": "Sunlight drying and aromatic/fruiting feed tendencies."
+        }
+      ],
+      "meaningWithinSteinersModel": "The Sun’s activity is modified by the planetary groupings and conditions; greenness, heat, daily/yearly variation and feed processing are distinct uses within the account.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T09"
+        ]
+      },
+      "laterLessonIds": [
+        5,
+        6,
+        9,
+        14,
+        18,
+        20,
+        24
+      ]
+    },
+    {
+      "id": "planets",
+      "term": "Planets",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 23,
+            "last": 25
+          },
+          "adams": {
+            "first": 24,
+            "last": 26
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 36,
+              "last": 41
+            },
+            "adams": {
+              "first": 37,
+              "last": 42
+            }
+          },
+          "summary": "Colours, fruit qualities and animal morphology."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 98,
+              "last": 101
+            },
+            "adams": {
+              "first": 113,
+              "last": 116
+            }
+          },
+          "summary": "Venus/Scorpio, Taurus and wider zodiac."
+        }
+      ],
+      "meaningWithinSteinersModel": "The historical seven-planet ordering includes Sun and Moon: Moon/Mercury/Venus are grouped nearer, Mars/Jupiter/Saturn more distant, with the Sun mediating. This historical scheme is not modern astronomical planet classification.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-near-planet-parenthesis",
+          "preparations-T08",
+          "preparations-T09"
+        ]
+      },
+      "laterLessonIds": [
+        5,
+        6,
+        18,
+        20,
+        24
+      ]
+    },
+    {
+      "id": "horn-manure",
+      "term": "Horn manure",
+      "firstIntroduced": {
+        "lecture": 4,
+        "captureLocators": {
+          "creeger": {
+            "first": 63,
+            "last": 63
+          },
+          "adams": {
+            "first": 75,
+            "last": 75
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 62,
+              "last": 64
+            },
+            "adams": {
+              "first": 74,
+              "last": 76
+            }
+          },
+          "summary": "Full indicated material, process and proposed function; detailed source map retains uncertainty."
+        }
+      ],
+      "meaningWithinSteinersModel": "Enhance usual manuring and enliven the solid soil rather than merely stimulate watery growth. Manure carries animal etheric/astral digestive activity. The horn retains/reflects life and attracts Earth radiations in winter; stirring produces intimate permeation and the claimed dynamic effect.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T01",
+          "preparations-T02",
+          "preparations-T15",
+          "preparations-T16"
+        ]
+      },
+      "laterLessonIds": [
+        12,
+        13,
+        14,
+        24
+      ],
+      "evidenceBoundary": "Material and preparation context in Steiner’s model, not independent efficacy or a standardized modern recipe. Numbering is later/editorial, not spoken in 1924.",
+      "verifiedPreparationRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/0"
+      },
+      "originalTreatmentFirstIntroduced": {
+        "lecture": 4,
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/lectures/0"
+        },
+        "captureLocators": {
+          "creeger": {
+            "first": 63,
+            "last": 63
+          },
+          "adams": {
+            "first": 75,
+            "last": 75
+          }
+        },
+        "criterion": "Earliest mapped agricultural/conceptual treatment in the numbered lecture sequence."
+      },
+      "laterNumber": 500,
+      "laterLabelFirstMappedRecord": {
+        "recordType": "Later/editorial numbering in the supplied witness",
+        "captureLocators": {
+          "adams": {
+            "first": 77,
+            "last": 77
+          }
+        },
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/preparationNumbering"
+        },
+        "originalLectureNumbering": false,
+        "qualification": "Adams editorial note explicitly identifies current 500/501 and 502–507 collective labels; individual 502–507 plant association follows later convention/order, not separately spoken numbers."
+      }
+    },
+    {
+      "id": "horn-silica",
+      "term": "Horn silica",
+      "firstIntroduced": {
+        "lecture": 4,
+        "captureLocators": {
+          "creeger": {
+            "first": 64,
+            "last": 64
+          },
+          "adams": {
+            "first": 76,
+            "last": 76
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 64,
+              "last": 64
+            },
+            "adams": {
+              "first": 76,
+              "last": 76
+            }
+          },
+          "summary": "Full indicated material, process and proposed function; detailed source map retains uncertainty."
+        }
+      ],
+      "meaningWithinSteinersModel": "Complement the upward effect attributed to horn manure with an influence drawing from above on plant development. The summer Earth exposure is paired with the winter horn-manure process and applied on the opposite side of the plant/soil relationship.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T10",
+          "preparations-T16"
+        ]
+      },
+      "laterLessonIds": [
+        12,
+        13,
+        14,
+        24
+      ],
+      "evidenceBoundary": "Material and preparation context in Steiner’s model, not independent efficacy or a standardized modern recipe. Numbering is later/editorial, not spoken in 1924.",
+      "verifiedPreparationRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/1"
+      },
+      "originalTreatmentFirstIntroduced": {
+        "lecture": 4,
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/lectures/0"
+        },
+        "captureLocators": {
+          "creeger": {
+            "first": 64,
+            "last": 64
+          },
+          "adams": {
+            "first": 76,
+            "last": 76
+          }
+        },
+        "criterion": "Earliest mapped agricultural/conceptual treatment in the numbered lecture sequence."
+      },
+      "laterNumber": 501,
+      "laterLabelFirstMappedRecord": {
+        "recordType": "Later/editorial numbering in the supplied witness",
+        "captureLocators": {
+          "adams": {
+            "first": 77,
+            "last": 77
+          }
+        },
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/preparationNumbering"
+        },
+        "originalLectureNumbering": false,
+        "qualification": "Adams editorial note explicitly identifies current 500/501 and 502–507 collective labels; individual 502–507 plant association follows later convention/order, not separately spoken numbers."
+      }
+    },
+    {
+      "id": "yarrow",
+      "term": "Yarrow",
+      "firstIntroduced": {
+        "lecture": 5,
+        "captureLocators": {
+          "creeger": {
+            "first": 78,
+            "last": 79
+          },
+          "adams": {
+            "first": 92,
+            "last": 93
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 78,
+              "last": 80
+            },
+            "adams": {
+              "first": 92,
+              "last": 94
+            }
+          },
+          "summary": "Full indicated material, process and proposed function; detailed source map retains uncertainty."
+        }
+      ],
+      "meaningWithinSteinersModel": "Enable manure to enliven depleted soil and receive/retain the claimed fine cosmic substances, with a particular sulfur–potassium relationship. Yarrow allegedly combines sulfur with organic substances especially well. The deer’s kidney–bladder process and cosmic-facing constitution are said to preserve and enhance this property, whose radiation penetrates large manure masses.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T14",
+          "preparations-T16"
+        ]
+      },
+      "laterLessonIds": [
+        12,
+        15,
+        24
+      ],
+      "evidenceBoundary": "Material and preparation context in Steiner’s model, not independent efficacy or a standardized modern recipe. Numbering is later/editorial, not spoken in 1924.",
+      "verifiedPreparationRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/2"
+      },
+      "originalTreatmentFirstIntroduced": {
+        "lecture": 5,
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/lectures/1"
+        },
+        "captureLocators": {
+          "creeger": {
+            "first": 78,
+            "last": 79
+          },
+          "adams": {
+            "first": 92,
+            "last": 93
+          }
+        },
+        "criterion": "Earliest mapped agricultural/conceptual treatment in the numbered lecture sequence."
+      },
+      "laterNumber": 502,
+      "laterLabelFirstMappedRecord": {
+        "recordType": "Later/editorial numbering in the supplied witness",
+        "captureLocators": {
+          "adams": {
+            "first": 77,
+            "last": 77
+          }
+        },
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/preparationNumbering"
+        },
+        "originalLectureNumbering": false,
+        "qualification": "Adams editorial note explicitly identifies current 500/501 and 502–507 collective labels; individual 502–507 plant association follows later convention/order, not separately spoken numbers."
+      }
+    },
+    {
+      "id": "chamomile",
+      "term": "Chamomile",
+      "firstIntroduced": {
+        "lecture": 5,
+        "captureLocators": {
+          "creeger": {
+            "first": 80,
+            "last": 81
+          },
+          "adams": {
+            "first": 94,
+            "last": 95
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 80,
+              "last": 81
+            },
+            "adams": {
+              "first": 94,
+              "last": 96
+            }
+          },
+          "summary": "Full indicated material, process and proposed function; detailed source map retains uncertainty."
+        }
+      ],
+      "meaningWithinSteinersModel": "Give manure a more stable nitrogen content, enliven soil and promote healthier plant growth through calcium as well as potassium relationships. Chamomile’s sulfur is said to organize calcium as well as potash. Its relationship to intestinal walls is used to select the casing; winter exposure is intended to combine earthy vitality and cosmic-astral influence.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T06",
+          "preparations-T11",
+          "preparations-T14",
+          "preparations-T16"
+        ]
+      },
+      "laterLessonIds": [
+        12,
+        15,
+        24
+      ],
+      "evidenceBoundary": "Material and preparation context in Steiner’s model, not independent efficacy or a standardized modern recipe. Numbering is later/editorial, not spoken in 1924.",
+      "verifiedPreparationRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/3"
+      },
+      "originalTreatmentFirstIntroduced": {
+        "lecture": 5,
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/lectures/1"
+        },
+        "captureLocators": {
+          "creeger": {
+            "first": 80,
+            "last": 81
+          },
+          "adams": {
+            "first": 94,
+            "last": 95
+          }
+        },
+        "criterion": "Earliest mapped agricultural/conceptual treatment in the numbered lecture sequence."
+      },
+      "laterNumber": 503,
+      "laterLabelFirstMappedRecord": {
+        "recordType": "Later/editorial numbering in the supplied witness",
+        "captureLocators": {
+          "adams": {
+            "first": 77,
+            "last": 77
+          }
+        },
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/preparationNumbering"
+        },
+        "originalLectureNumbering": false,
+        "qualification": "Adams editorial note explicitly identifies current 500/501 and 502–507 collective labels; individual 502–507 plant association follows later convention/order, not separately spoken numbers."
+      }
+    },
+    {
+      "id": "nettle",
+      "term": "Nettle",
+      "firstIntroduced": {
+        "lecture": 5,
+        "captureLocators": {
+          "creeger": {
+            "first": 82,
+            "last": 82
+          },
+          "adams": {
+            "first": 96,
+            "last": 97
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 82,
+              "last": 83
+            },
+            "adams": {
+              "first": 96,
+              "last": 97
+            }
+          },
+          "summary": "Full indicated material, process and proposed function; detailed source map retains uncertainty."
+        }
+      ],
+      "meaningWithinSteinersModel": "Make manure and soil sensitive/intelligent, govern decomposition and nitrogen retention, and adapt the soil to the particular plant. Nettle is assigned sulfur, potassium, calcium and iron radiations. Its ordering activity is said to individualize manure/soil; the heart and blood are used as analogies.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T14",
+          "preparations-T16"
+        ]
+      },
+      "laterLessonIds": [
+        12,
+        15,
+        24
+      ],
+      "evidenceBoundary": "Material and preparation context in Steiner’s model, not independent efficacy or a standardized modern recipe. Numbering is later/editorial, not spoken in 1924.",
+      "verifiedPreparationRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/4"
+      },
+      "originalTreatmentFirstIntroduced": {
+        "lecture": 5,
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/lectures/1"
+        },
+        "captureLocators": {
+          "creeger": {
+            "first": 82,
+            "last": 82
+          },
+          "adams": {
+            "first": 96,
+            "last": 97
+          }
+        },
+        "criterion": "Earliest mapped agricultural/conceptual treatment in the numbered lecture sequence."
+      },
+      "laterNumber": 504,
+      "laterLabelFirstMappedRecord": {
+        "recordType": "Later/editorial numbering in the supplied witness",
+        "captureLocators": {
+          "adams": {
+            "first": 77,
+            "last": 77
+          }
+        },
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/preparationNumbering"
+        },
+        "originalLectureNumbering": false,
+        "qualification": "Adams editorial note explicitly identifies current 500/501 and 502–507 collective labels; individual 502–507 plant association follows later convention/order, not separately spoken numbers."
+      }
+    },
+    {
+      "id": "oak-bark",
+      "term": "Oak bark",
+      "firstIntroduced": {
+        "lecture": 5,
+        "captureLocators": {
+          "creeger": {
+            "first": 83,
+            "last": 84
+          },
+          "adams": {
+            "first": 98,
+            "last": 98
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 83,
+              "last": 84
+            },
+            "adams": {
+              "first": 98,
+              "last": 99
+            }
+          },
+          "summary": "Full indicated material, process and proposed function; detailed source map retains uncertainty."
+        }
+      ],
+      "meaningWithinSteinersModel": "Prevent or arrest harmful plant abnormalities by supplying calcium retained within the living realm. Living oak-bark calcium allegedly moderates excessive etheric activity in an orderly way, freeing astral influence. Bark is already related to living earth in the Lecture 4 analogy.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T11",
+          "preparations-T16"
+        ]
+      },
+      "laterLessonIds": [
+        12,
+        15,
+        19,
+        24
+      ],
+      "evidenceBoundary": "Material and preparation context in Steiner’s model, not independent efficacy or a standardized modern recipe. Numbering is later/editorial, not spoken in 1924.",
+      "verifiedPreparationRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/5"
+      },
+      "originalTreatmentFirstIntroduced": {
+        "lecture": 5,
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/lectures/1"
+        },
+        "captureLocators": {
+          "creeger": {
+            "first": 83,
+            "last": 84
+          },
+          "adams": {
+            "first": 98,
+            "last": 98
+          }
+        },
+        "criterion": "Earliest mapped agricultural/conceptual treatment in the numbered lecture sequence."
+      },
+      "laterNumber": 505,
+      "laterLabelFirstMappedRecord": {
+        "recordType": "Later/editorial numbering in the supplied witness",
+        "captureLocators": {
+          "adams": {
+            "first": 77,
+            "last": 77
+          }
+        },
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/preparationNumbering"
+        },
+        "originalLectureNumbering": false,
+        "qualification": "Adams editorial note explicitly identifies current 500/501 and 502–507 collective labels; individual 502–507 plant association follows later convention/order, not separately spoken numbers."
+      }
+    },
+    {
+      "id": "dandelion",
+      "term": "Dandelion",
+      "firstIntroduced": {
+        "lecture": 5,
+        "captureLocators": {
+          "creeger": {
+            "first": 85,
+            "last": 85
+          },
+          "adams": {
+            "first": 100,
+            "last": 100
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 85,
+              "last": 86
+            },
+            "adams": {
+              "first": 100,
+              "last": 101
+            }
+          },
+          "summary": "Full indicated material, process and proposed function; detailed source map retains uncertainty."
+        }
+      ],
+      "meaningWithinSteinersModel": "Mediate silicic acid and potassium so plants can receive what they need from a wider farm/landscape environment. Dandelion is called a messenger between cosmic silica and local use. Conditioned material allegedly sensitizes soil/plants, allowing uptake from adjacent meadow and forest, within the hidden-alchemy account.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T05",
+          "preparations-T11",
+          "preparations-T16"
+        ]
+      },
+      "laterLessonIds": [
+        12,
+        15,
+        24
+      ],
+      "evidenceBoundary": "Material and preparation context in Steiner’s model, not independent efficacy or a standardized modern recipe. Numbering is later/editorial, not spoken in 1924.",
+      "verifiedPreparationRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/6"
+      },
+      "originalTreatmentFirstIntroduced": {
+        "lecture": 5,
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/lectures/1"
+        },
+        "captureLocators": {
+          "creeger": {
+            "first": 85,
+            "last": 85
+          },
+          "adams": {
+            "first": 100,
+            "last": 100
+          }
+        },
+        "criterion": "Earliest mapped agricultural/conceptual treatment in the numbered lecture sequence."
+      },
+      "laterNumber": 506,
+      "laterLabelFirstMappedRecord": {
+        "recordType": "Later/editorial numbering in the supplied witness",
+        "captureLocators": {
+          "adams": {
+            "first": 77,
+            "last": 77
+          }
+        },
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/preparationNumbering"
+        },
+        "originalLectureNumbering": false,
+        "qualification": "Adams editorial note explicitly identifies current 500/501 and 502–507 collective labels; individual 502–507 plant association follows later convention/order, not separately spoken numbers."
+      }
+    },
+    {
+      "id": "valerian",
+      "term": "Valerian",
+      "firstIntroduced": {
+        "lecture": 5,
+        "captureLocators": {
+          "creeger": {
+            "first": 86,
+            "last": 86
+          },
+          "adams": {
+            "first": 101,
+            "last": 101
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 86,
+              "last": 86
+            },
+            "adams": {
+              "first": 101,
+              "last": 101
+            }
+          },
+          "summary": "Full indicated material, process and proposed function; detailed source map retains uncertainty."
+        }
+      ],
+      "meaningWithinSteinersModel": "Stimulate manure to relate correctly to phosphorus/the phosphoric substance. Valerian completes the five preceding solid ingredients by establishing the claimed phosphorus relation.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T12",
+          "preparations-T16"
+        ]
+      },
+      "laterLessonIds": [
+        12,
+        15,
+        24
+      ],
+      "evidenceBoundary": "Material and preparation context in Steiner’s model, not independent efficacy or a standardized modern recipe. Numbering is later/editorial, not spoken in 1924.",
+      "verifiedPreparationRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/7"
+      },
+      "originalTreatmentFirstIntroduced": {
+        "lecture": 5,
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/lectures/1"
+        },
+        "captureLocators": {
+          "creeger": {
+            "first": 86,
+            "last": 86
+          },
+          "adams": {
+            "first": 101,
+            "last": 101
+          }
+        },
+        "criterion": "Earliest mapped agricultural/conceptual treatment in the numbered lecture sequence."
+      },
+      "laterNumber": 507,
+      "laterLabelFirstMappedRecord": {
+        "recordType": "Later/editorial numbering in the supplied witness",
+        "captureLocators": {
+          "adams": {
+            "first": 77,
+            "last": 77
+          }
+        },
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/preparationNumbering"
+        },
+        "originalLectureNumbering": false,
+        "qualification": "Adams editorial note explicitly identifies current 500/501 and 502–507 collective labels; individual 502–507 plant association follows later convention/order, not separately spoken numbers."
+      }
+    },
+    {
+      "id": "horsetail",
+      "term": "Horsetail",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 24,
+            "last": 24
+          },
+          "adams": {
+            "first": 24,
+            "last": 24
+          }
+        },
+        "qualification": "This is horsetail as a silica-bearing plant only. The tea/decoction disease-treatment indication appears in Lecture 6; 508 is later numbering."
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 37,
+              "last": 37
+            },
+            "adams": {
+              "first": 38,
+              "last": 38
+            }
+          },
+          "summary": "Horsetail in the plant-form/silica argument."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 102,
+              "last": 104
+            },
+            "adams": {
+              "first": 117,
+              "last": 119
+            }
+          },
+          "summary": "Full indicated material, process and proposed function; detailed source map retains uncertainty."
+        }
+      ],
+      "meaningWithinSteinersModel": "Reduce the excessive water-mediated Moon influence that, in Steiner’s explanation, makes upper plant regions a ground for fungi. The treatment is said to lend soil more earthiness and diminish water’s mediating capacity without necessarily changing outward conditions. Human kidney effects of Equisetum provide the stated analogy.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T16"
+        ]
+      },
+      "laterLessonIds": [
+        14,
+        16,
+        19,
+        20,
+        24
+      ],
+      "evidenceBoundary": "Material and preparation context in Steiner’s model, not independent efficacy or a standardized modern recipe. Numbering is later/editorial, not spoken in 1924.",
+      "verifiedPreparationRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/8"
+      },
+      "originalTreatmentFirstIntroduced": {
+        "lecture": 6,
+        "sourceRecord": {
+          "file": "content/biodynamic-map-preparations.json",
+          "jsonPointer": "/lectures/2"
+        },
+        "captureLocators": {
+          "creeger": {
+            "first": 104,
+            "last": 104
+          },
+          "adams": {
+            "first": 119,
+            "last": 119
+          }
+        },
+        "criterion": "Earliest mapped agricultural/conceptual treatment in the numbered lecture sequence."
+      },
+      "laterNumber": 508,
+      "laterLabelFirstMappedRecord": {
+        "recordType": "Later/editorial numbering in the supplied witness",
+        "captureLocators": {
+          "creeger": {
+            "first": 184,
+            "last": 184
+          }
+        },
+        "sourceRecord": {
+          "file": "content/biodynamic-map-farm.json",
+          "jsonPointer": "/editorialRecords/13"
+        },
+        "originalLectureNumbering": false,
+        "qualification": "Gardner 1993 editorialnote at Creeger 184 says horsetail tea is sometimes called 508. Neither mapped lecture nor Adamsnumberingnote establishes who assigned 508 or when."
+      }
+    },
+    {
+      "id": "weeds",
+      "term": "Weeds",
+      "firstIntroduced": {
+        "lecture": null,
+        "captureLocators": {
+          "creeger": {
+            "first": 87,
+            "last": 87
+          },
+          "adams": {
+            "first": 102,
+            "last": 102
+          }
+        },
+        "qualification": "First mapped practical distinction is in Discussion 2 after Lecture 5: growth preparations also support weeds; systematic suppression follows in Lecture 6.",
+        "discussion": 2
+      },
+      "expandedAt": [
+        {
+          "discussion": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 87,
+              "last": 87
+            },
+            "adams": {
+              "first": 102,
+              "last": 102
+            }
+          },
+          "summary": "Growth preparations do not distinguish crop from weed."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 93,
+              "last": 97
+            },
+            "adams": {
+              "first": 108,
+              "last": 113
+            }
+          },
+          "summary": "Equal natural right, place-relative unwantedness, lunar fertility and seed pepper."
+        },
+        {
+          "discussion": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 136,
+              "last": 136
+            },
+            "adams": {
+              "first": 153,
+              "last": 154
+            }
+          },
+          "summary": "Timing and couchgrass replies."
+        }
+      ],
+      "meaningWithinSteinersModel": "A plant is a weed relative to agricultural place/purpose, not a different ontological plant class. Suppression is treated separately from fertility through a proposed reproductive/lunar opposite.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T14"
+        ]
+      },
+      "laterLessonIds": [
+        12,
+        17,
+        20,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "pests",
+      "term": "Pests",
+      "firstIntroduced": {
+        "lecture": 6,
+        "captureLocators": {
+          "creeger": {
+            "first": 93,
+            "last": 94
+          },
+          "adams": {
+            "first": 108,
+            "last": 109
+          }
+        },
+        "qualification": "The dedicated agricultural problem starts Lecture 6; later examples supply the specific animal methods."
+      },
+      "expandedAt": [
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 98,
+              "last": 101
+            },
+            "adams": {
+              "first": 113,
+              "last": 116
+            }
+          },
+          "summary": "Mouse skin, insect/lower-animal whole organism, life stage and zodiac distinctions."
+        },
+        {
+          "discussion": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 106,
+              "last": 110
+            },
+            "adams": {
+              "first": 121,
+              "last": 125
+            }
+          },
+          "summary": "Ethics, applicability, timing and trial uncertainties."
+        },
+        {
+          "discussion": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 135,
+              "last": 140
+            },
+            "adams": {
+              "first": 153,
+              "last": 158
+            }
+          },
+          "summary": "Provisional calendars, storage, field location and ethical questions."
+        }
+      ],
+      "meaningWithinSteinersModel": "Unwanted animal activity is approached through species/life-stage-specific alleged relationships, with different mouse/insect methods and attributed cosmic/ash efficacy.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T07",
+          "preparations-T08",
+          "preparations-T09",
+          "preparations-T14",
+          "farm-5",
+          "farm-6"
+        ]
+      },
+      "laterLessonIds": [
+        18,
+        20,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "plant-disease",
+      "term": "Plant disease",
+      "firstIntroduced": {
+        "lecture": 5,
+        "captureLocators": {
+          "creeger": {
+            "first": 83,
+            "last": 84
+          },
+          "adams": {
+            "first": 98,
+            "last": 99
+          }
+        },
+        "qualification": "Oak preparation introduces plant healing/prevention; the systematic abnormal-process account comes in Lecture 6."
+      },
+      "expandedAt": [
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 102,
+              "last": 104
+            },
+            "adams": {
+              "first": 117,
+              "last": 119
+            }
+          },
+          "summary": "Plants lack an individual astral body; excess lunar soil life/fungi and horsetail."
+        },
+        {
+          "discussion": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 108,
+              "last": 108
+            },
+            "adams": {
+              "first": 123,
+              "last": 123
+            }
+          },
+          "summary": "Cabbage example and untested vineyards."
+        },
+        {
+          "lecture": 7,
+          "captureLocators": {
+            "creeger": {
+              "first": 117,
+              "last": 118
+            },
+            "adams": {
+              "first": 133,
+              "last": 133
+            }
+          },
+          "summary": "Fungi-rich wet-meadow landscape assertion."
+        }
+      ],
+      "meaningWithinSteinersModel": "Steiner differentiates plant abnormality from animal/human illness and treats fungi as secondary to a larger soil/cosmic imbalance. This does not replace modern pathogen/host/environment analysis.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T04",
+          "preparations-T06",
+          "farm-1"
+        ]
+      },
+      "laterLessonIds": [
+        15,
+        16,
+        19,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "nitrogen",
+      "term": "Nitrogen",
+      "firstIntroduced": {
+        "lecture": 3,
+        "captureLocators": {
+          "creeger": {
+            "first": 42,
+            "last": 42
+          },
+          "adams": {
+            "first": 43,
+            "last": 43
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 46,
+              "last": 54
+            },
+            "adams": {
+              "first": 48,
+              "last": 57
+            }
+          },
+          "summary": "Astral mediator, sensitivity and legumes."
+        },
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 59,
+              "last": 62
+            },
+            "adams": {
+              "first": 71,
+              "last": 74
+            }
+          },
+          "summary": "Retained life and manure handling."
+        },
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 81,
+              "last": 85
+            },
+            "adams": {
+              "first": 95,
+              "last": 100
+            }
+          },
+          "summary": "Chamomile/nettle retention and explicit transmutation claims."
+        }
+      ],
+      "meaningWithinSteinersModel": "The nitrogen account links it to carbon, oxygen, hydrogen and sulfur, as carrier/mediator of astral sensitivity and living organization; this is additional to its material nutrient identity.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-oxygen-omission",
+          "preparations-T18"
+        ]
+      },
+      "laterLessonIds": [
+        7,
+        8,
+        10,
+        11,
+        15,
+        22,
+        24
+      ]
+    },
+    {
+      "id": "clay",
+      "term": "Clay",
+      "firstIntroduced": {
+        "lecture": 2,
+        "captureLocators": {
+          "creeger": {
+            "first": 31,
+            "last": 33
+          },
+          "adams": {
+            "first": 32,
+            "last": 35
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 3,
+          "captureLocators": {
+            "creeger": {
+              "first": 51,
+              "last": 54
+            },
+            "adams": {
+              "first": 53,
+              "last": 57
+            }
+          },
+          "summary": "Coordinatedlime/silica/nitrogen/carbon relationships."
+        }
+      ],
+      "meaningWithinSteinersModel": "Clay is the proposed mediator carrying belowground cosmic activity upward, differentiated from silica reception and lime’s downward pull. A promised later clay indication is editorially noted as absent.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "foundations-direct-radiation-location"
+        ]
+      },
+      "laterLessonIds": [
+        4,
+        5,
+        7,
+        24
+      ]
+    },
+    {
+      "id": "landscape",
+      "term": "Landscape",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 20,
+            "last": 20
+          },
+          "adams": {
+            "first": 20,
+            "last": 20
+          }
+        },
+        "qualification": "Field/forest/stable as practical surroundings; systematic habitat roles appear in Lecture 7."
+      },
+      "expandedAt": [
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 85,
+              "last": 86
+            },
+            "adams": {
+              "first": 100,
+              "last": 101
+            }
+          },
+          "summary": "Dandelion-mediated uptake from nearby meadow/forest."
+        },
+        {
+          "lecture": 7,
+          "captureLocators": {
+            "creeger": {
+              "first": 111,
+              "last": 120
+            },
+            "adams": {
+              "first": 126,
+              "last": 136
+            }
+          },
+          "summary": "Woods/orchards/shrubs/wet meadows and animal life."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 123,
+              "last": 126
+            },
+            "adams": {
+              "first": 139,
+              "last": 143
+            }
+          },
+          "summary": "Animal surroundings and integrated manure cycle."
+        }
+      ],
+      "meaningWithinSteinersModel": "Uncropped habitats and surrounding organisms participate in the farm individuality; farm quality can justify some reduction in tilled acreage.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "farm-1"
+        ]
+      },
+      "laterLessonIds": [
+        3,
+        8,
+        9,
+        11,
+        15,
+        21,
+        22,
+        24
+      ]
+    },
+    {
+      "id": "fertility",
+      "term": "Fertility",
+      "firstIntroduced": {
+        "lecture": 2,
+        "captureLocators": {
+          "creeger": {
+            "first": 29,
+            "last": 29
+          },
+          "adams": {
+            "first": 30,
+            "last": 30
+          }
+        },
+        "qualification": "Farm self-support/manure connection, expanded as enlivening soil in Lecture 4."
+      },
+      "expandedAt": [
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 57,
+              "last": 64
+            },
+            "adams": {
+              "first": 68,
+              "last": 76
+            }
+          },
+          "summary": "Manuring and paired horn treatments."
+        },
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 75,
+              "last": 86
+            },
+            "adams": {
+              "first": 88,
+              "last": 101
+            }
+          },
+          "summary": "Enhance ordinary manuring with six preparations."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 125,
+              "last": 126
+            },
+            "adams": {
+              "first": 141,
+              "last": 143
+            }
+          },
+          "summary": "Animals/fodder/manure/root cycle."
+        }
+      ],
+      "meaningWithinSteinersModel": "Fertility includes life, form and reception of influences, extending beyond adding chemical substances; ordinary manuring and farm organization remain foundational.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": []
+      },
+      "laterLessonIds": [
+        3,
+        4,
+        10,
+        11,
+        12,
+        13,
+        15,
+        21,
+        24
+      ]
+    },
+    {
+      "id": "compost-preparations",
+      "term": "Compost preparations",
+      "firstIntroduced": {
+        "lecture": 5,
+        "captureLocators": {
+          "creeger": {
+            "first": 75,
+            "last": 78
+          },
+          "adams": {
+            "first": 88,
+            "last": 92
+          }
+        },
+        "qualification": "The six materials are introduced successively in Lecture 5; 502–507 are later catalog labels."
+      },
+      "expandedAt": [
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 78,
+              "last": 86
+            },
+            "adams": {
+              "first": 92,
+              "last": 101
+            }
+          },
+          "summary": "Six differentiated botanical/material relationships."
+        },
+        {
+          "discussion": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 87,
+              "last": 91
+            },
+            "adams": {
+              "first": 102,
+              "last": 106
+            }
+          },
+          "summary": "Identities, placement, separate burial and application clarifications."
+        }
+      ],
+      "meaningWithinSteinersModel": "Yarrow, chamomile, nettle, oak bark, dandelion and valerian are intended to enhance ordinary manure/compost by living forces, not supply bulk nutrients. Their mechanisms/casings/seasons differ.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T05",
+          "preparations-T06",
+          "preparations-T14",
+          "preparations-T16"
+        ]
+      },
+      "laterLessonIds": [
+        12,
+        15,
+        24
+      ]
+    },
+    {
+      "id": "ego-potential",
+      "term": "Ego-potential",
+      "firstIntroduced": {
+        "lecture": 8,
+        "captureLocators": {
+          "creeger": {
+            "first": 124,
+            "last": 126
+          },
+          "adams": {
+            "first": 141,
+            "last": 143
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "discussion": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 135,
+              "last": 135
+            },
+            "adams": {
+              "first": 153,
+              "last": 153
+            }
+          },
+          "summary": "Solid manure contrasted with liquid manure’s astral force."
+        }
+      ],
+      "meaningWithinSteinersModel": "Animal manure allegedly retains potential ego-forces supplied to roots, while upper plant astrality relates to air/trees. This is not literal neural tissue or a finding about animal consciousness.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "farm-3"
+        ]
+      },
+      "laterLessonIds": [
+        8,
+        10,
+        11,
+        24
+      ]
+    },
+    {
+      "id": "cosmic-substance",
+      "term": "Cosmic substance",
+      "firstIntroduced": {
+        "lecture": 4,
+        "captureLocators": {
+          "creeger": {
+            "first": 55,
+            "last": 57
+          },
+          "adams": {
+            "first": 66,
+            "last": 68
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 123,
+              "last": 124
+            },
+            "adams": {
+              "first": 139,
+              "last": 141
+            }
+          },
+          "summary": "Head earthly substance/cosmic forces versuslimb cosmic substance/earthly forces."
+        }
+      ],
+      "meaningWithinSteinersModel": "Steiner assigns body substance chiefly to senses/breathing and food chiefly to forces, then distinguishes bodily poles. Cosmic substance must not be collapsed into cosmic force or modern nutrient assimilation.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T18"
+        ]
+      },
+      "laterLessonIds": [
+        8,
+        9,
+        10,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "seasonal-rhythms",
+      "term": "Seasonal rhythms",
+      "firstIntroduced": {
+        "lecture": 1,
+        "captureLocators": {
+          "creeger": {
+            "first": 22,
+            "last": 28
+          },
+          "adams": {
+            "first": 22,
+            "last": 29
+          }
+        }
+      },
+      "expandedAt": [
+        {
+          "lecture": 2,
+          "captureLocators": {
+            "creeger": {
+              "first": 33,
+              "last": 34
+            },
+            "adams": {
+              "first": 34,
+              "last": 35
+            }
+          },
+          "summary": "Midwinter soil receptivity in Central Europeancontext."
+        },
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 63,
+              "last": 64
+            },
+            "adams": {
+              "first": 75,
+              "last": 76
+            }
+          },
+          "summary": "Winter horn manure andsummer horn mineral."
+        },
+        {
+          "lecture": 5,
+          "captureLocators": {
+            "creeger": {
+              "first": 79,
+              "last": 85
+            },
+            "adams": {
+              "first": 93,
+              "last": 100
+            }
+          },
+          "summary": "Different preparation exposure seasons."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 95,
+              "last": 104
+            },
+            "adams": {
+              "first": 110,
+              "last": 119
+            }
+          },
+          "summary": "Moon, water, zodiac andweather examples."
+        }
+      ],
+      "meaningWithinSteinersModel": "Season, water, warmth andplanetaryperiods condition the stated processes. Specific 1924 indications do not establish every later sowingcalendar or global seasonaladaptation.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T08",
+          "preparations-T09",
+          "farm-5",
+          "farm-6"
+        ]
+      },
+      "laterLessonIds": [
+        5,
+        13,
+        14,
+        15,
+        16,
+        20,
+        24
+      ]
+    },
+    {
+      "id": "research-cooperation",
+      "term": "Farmer–researcher cooperation",
+      "firstIntroduced": {
+        "lecture": 2,
+        "captureLocators": {
+          "creeger": {
+            "first": 39,
+            "last": 41
+          },
+          "adams": {
+            "first": 40,
+            "last": 42
+          }
+        },
+        "qualification": "The livestock/fodder/manure relation is offered for practical testing; fuller institutional directions are in the separate June 11 address."
+      },
+      "expandedAt": [
+        {
+          "lecture": 4,
+          "captureLocators": {
+            "creeger": {
+              "first": 55,
+              "last": 57
+            },
+            "adams": {
+              "first": 66,
+              "last": 68
+            }
+          },
+          "summary": "Long time horizon and experiments."
+        },
+        {
+          "lecture": 6,
+          "captureLocators": {
+            "creeger": {
+              "first": 93,
+              "last": 98
+            },
+            "adams": {
+              "first": 108,
+              "last": 113
+            }
+          },
+          "summary": "Concrete examples invite experiments alongside asserted spiritual certainty."
+        },
+        {
+          "lecture": 8,
+          "captureLocators": {
+            "creeger": {
+              "first": 125,
+              "last": 126
+            },
+            "adams": {
+              "first": 141,
+              "last": 143
+            }
+          },
+          "summary": "Individualized experiments andderived rules."
+        }
+      ],
+      "meaningWithinSteinersModel": "Farmers contribute local soil, climate, woodland, crop andyield experience; the June 11 address treats them as active co-workers and advises small starts. Empirical testing and asserted spiritual certainty remain distinct.",
+      "materialTranslationDifference": {
+        "comparisonIssueIds": [
+          "preparations-T14",
+          "farm-10"
+        ]
+      },
+      "laterLessonIds": [
+        1,
+        2,
+        3,
+        12,
+        20,
+        22,
+        23,
+        24
+      ],
+      "separateRecordExpansion": {
+        "recordType": "ExperimentalCircleaddress",
+        "date": "1924-06-11",
+        "sourceRecord": {
+          "file": "content/biodynamic-map-farm.json",
+          "jsonPointer": "/address"
+        },
+        "captureLocators": {
+          "creeger": {
+            "first": 144,
+            "last": 147
+          },
+          "adams": {
+            "first": 61,
+            "last": 64
+          }
+        },
+        "summary": "Active co-workers, farm descriptions, gradual change andlimited acreage."
+      }
+    }
+  ],
+  "requiredConceptCoverage": {
+    "taskSection8Terms": [
+      "farm-individuality",
+      "soil",
+      "humus",
+      "plant",
+      "root",
+      "leaf",
+      "flower",
+      "seed",
+      "animal",
+      "manure",
+      "compost",
+      "calcium",
+      "silica",
+      "earthly-forces",
+      "cosmic-forces",
+      "etheric",
+      "astral",
+      "planetary-influence",
+      "moon",
+      "sun",
+      "planets",
+      "horn-manure",
+      "horn-silica",
+      "yarrow",
+      "chamomile",
+      "nettle",
+      "oak-bark",
+      "dandelion",
+      "valerian",
+      "horsetail",
+      "weeds",
+      "pests",
+      "plant-disease"
+    ],
+    "allPresent": true,
+    "minimum36ConceptsSatisfied": true,
+    "conceptCount": 42,
+    "numberedPreparationLabels": [
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508
+    ]
+  },
+  "preparationNumbering": {
+    "originalLectureSpeech": "The mapped 1924 lectures name materials and operations. They do not speak the later preparation numbers 500–508.",
+    "verifiedEditorialEvidence": {
+      "title": "Later numbering explicitly identified",
+      "description": "Adams’s parenthetical editorial note calls the two Lecture 4 preparations 500 and 501 and the Lecture 5 preparations 502–507 in current literature. It says making/application methods had developed over thirty-four years and intentionally declines adding technicalities to a course intended to give principles.",
+      "locators": {
+        "canonical": {
+          "witnessId": "creeger",
+          "captures": [
+            63,
+            64
+          ]
+        },
+        "comparison": {
+          "witnessId": "adams",
+          "captures": [
+            77
+          ]
+        }
+      },
+      "attribution": "Adams edition editorial note, not Rudolf Steiner’s lecture speech"
+    },
+    "individual502to507Associations": "The familiar six botanical labels below follow the later numbering convention and the Lecture 5 order. Adams capture 77 establishes the collective 502–507 range, not a separately numbered spoken identification of each plant.",
+    "preparation508": "508 is retained as the later/course index requested for horsetail. The mapped Lecture 6 calls the material Equisetum arvense tea/liquid manure, and the Adams numbering note does not mention 508. These witnesses do not establish who assigned 508 or when.",
+    "historicalBoundary": "Later production standards, storage rules, application calendars, certification requirements and safe modern field instructions require distinct later sources. This map does not supply them."
+  },
+  "preparationIndex": [
+    {
+      "laterNumber": 500,
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/0"
+      },
+      "originalLecture": 4,
+      "originalCaptureLocators": {
+        "creeger": [
+          63
+        ],
+        "adams": [
+          75
+        ]
+      },
+      "lessonIds": [
+        12,
+        13,
+        14,
+        24
+      ],
+      "laterLabelCaptureLocators": {
+        "adams": [
+          77
+        ]
+      },
+      "numberingStatus": "Later/editorial label, not 1924 lecture speech.",
+      "conceptId": "horn-manure"
+    },
+    {
+      "laterNumber": 501,
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/1"
+      },
+      "originalLecture": 4,
+      "originalCaptureLocators": {
+        "creeger": [
+          64
+        ],
+        "adams": [
+          76
+        ]
+      },
+      "lessonIds": [
+        12,
+        13,
+        14,
+        24
+      ],
+      "laterLabelCaptureLocators": {
+        "adams": [
+          77
+        ]
+      },
+      "numberingStatus": "Later/editorial label, not 1924 lecture speech.",
+      "conceptId": "horn-silica"
+    },
+    {
+      "laterNumber": 502,
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/2"
+      },
+      "originalLecture": 5,
+      "originalCaptureLocators": {
+        "creeger": [
+          78,
+          79
+        ],
+        "adams": [
+          92,
+          93
+        ]
+      },
+      "lessonIds": [
+        12,
+        15,
+        24
+      ],
+      "laterLabelCaptureLocators": {
+        "adams": [
+          77
+        ]
+      },
+      "numberingStatus": "Later/editorial label, not 1924 lecture speech.",
+      "conceptId": "yarrow"
+    },
+    {
+      "laterNumber": 503,
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/3"
+      },
+      "originalLecture": 5,
+      "originalCaptureLocators": {
+        "creeger": [
+          80,
+          81
+        ],
+        "adams": [
+          94,
+          95
+        ]
+      },
+      "lessonIds": [
+        12,
+        15,
+        24
+      ],
+      "laterLabelCaptureLocators": {
+        "adams": [
+          77
+        ]
+      },
+      "numberingStatus": "Later/editorial label, not 1924 lecture speech.",
+      "conceptId": "chamomile"
+    },
+    {
+      "laterNumber": 504,
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/4"
+      },
+      "originalLecture": 5,
+      "originalCaptureLocators": {
+        "creeger": [
+          82
+        ],
+        "adams": [
+          96,
+          97
+        ]
+      },
+      "lessonIds": [
+        12,
+        15,
+        24
+      ],
+      "laterLabelCaptureLocators": {
+        "adams": [
+          77
+        ]
+      },
+      "numberingStatus": "Later/editorial label, not 1924 lecture speech.",
+      "conceptId": "nettle"
+    },
+    {
+      "laterNumber": 505,
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/5"
+      },
+      "originalLecture": 5,
+      "originalCaptureLocators": {
+        "creeger": [
+          83,
+          84
+        ],
+        "adams": [
+          98
+        ]
+      },
+      "lessonIds": [
+        12,
+        15,
+        19,
+        24
+      ],
+      "laterLabelCaptureLocators": {
+        "adams": [
+          77
+        ]
+      },
+      "numberingStatus": "Later/editorial label, not 1924 lecture speech.",
+      "conceptId": "oak-bark"
+    },
+    {
+      "laterNumber": 506,
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/6"
+      },
+      "originalLecture": 5,
+      "originalCaptureLocators": {
+        "creeger": [
+          85
+        ],
+        "adams": [
+          100
+        ]
+      },
+      "lessonIds": [
+        12,
+        15,
+        24
+      ],
+      "laterLabelCaptureLocators": {
+        "adams": [
+          77
+        ]
+      },
+      "numberingStatus": "Later/editorial label, not 1924 lecture speech.",
+      "conceptId": "dandelion"
+    },
+    {
+      "laterNumber": 507,
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/7"
+      },
+      "originalLecture": 5,
+      "originalCaptureLocators": {
+        "creeger": [
+          86
+        ],
+        "adams": [
+          101
+        ]
+      },
+      "lessonIds": [
+        12,
+        15,
+        24
+      ],
+      "laterLabelCaptureLocators": {
+        "adams": [
+          77
+        ]
+      },
+      "numberingStatus": "Later/editorial label, not 1924 lecture speech.",
+      "conceptId": "valerian"
+    },
+    {
+      "laterNumber": 508,
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/preparations/8"
+      },
+      "originalLecture": 6,
+      "originalCaptureLocators": {
+        "creeger": [
+          104
+        ],
+        "adams": [
+          119
+        ]
+      },
+      "lessonIds": [
+        14,
+        16,
+        19,
+        20,
+        24
+      ],
+      "laterLabelCaptureLocators": {
+        "creeger": [
+          184
+        ]
+      },
+      "numberingStatus": "Later/editorial label, not 1924 lecture speech.",
+      "conceptId": "horsetail"
+    }
+  ],
+  "internalTranslationComparisonTable": [
+    {
+      "id": "foundations-near-planet-parenthesis",
+      "topic": "near-planet-parenthesis",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-foundations.json",
+        "jsonPointer": "/translationAndExtractionIssues/0"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 25,
+          "last": 25
+        },
+        "adams": {
+          "first": 26,
+          "last": 26
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "The parenthetical stance toward Venus/Mercury/Moon differs in wording/direction between OCR witnesses.",
+      "handling": "Explain the surrounding reproduction/nourishment distinction; do not adjudicate or quote the disputed parenthesis before PDF inspection."
+    },
+    {
+      "id": "foundations-silicon-silica-percentage",
+      "topic": "silicon-silica-percentage",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-foundations.json",
+        "jsonPointer": "/translationAndExtractionIssues/1"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 23,
+          "last": 24
+        },
+        "adams": {
+          "first": 24,
+          "last": 24
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Lecture 1 distinguishes silicon and oxygen percentages, while Lecture 2 gives differing percentages for silica (Creeger 47–48; Adams 27–28). Terminology and numerical basis cannot safely be harmonized.",
+      "handling": "Map silica's proposed role without a settled numerical abundance claim. Native check and modern compositional source needed if a number is taught."
+    },
+    {
+      "id": "foundations-direct-radiation-location",
+      "topic": "direct-radiation-location",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-foundations.json",
+        "jsonPointer": "/translationAndExtractionIssues/2"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 31,
+          "last": 31
+        },
+        "adams": {
+          "first": 32,
+          "last": 32
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "An individual sentence locates directly radiating cosmic activity differently above/below in the two witnesses, despite the larger shared account of distant forces received below and nearer influences above.",
+      "handling": "Mark the sentence unresolved; explain the shared larger structure without pretending the textual discrepancy has been repaired."
+    },
+    {
+      "id": "foundations-soil-soul-astral",
+      "topic": "soil-soul-astral",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-foundations.json",
+        "jsonPointer": "/translationAndExtractionIssues/3"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 30,
+          "last": 30
+        },
+        "adams": {
+          "first": 31,
+          "last": 31
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Creeger's soul-quality wording corresponds to Adams's explicit astral principle.",
+      "handling": "Make the spiritual status of the claim clear; do not invent a substantive doctrinal disagreement from translation vocabulary."
+    },
+    {
+      "id": "foundations-potato-underground-stem",
+      "topic": "potato-underground-stem",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-foundations.json",
+        "jsonPointer": "/translationAndExtractionIssues/4"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 38,
+          "last": 38
+        },
+        "adams": {
+          "first": 39,
+          "last": 39
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Creeger uses rhizome wording; Adams says stem formation. Both distinguish the potato formation from a root.",
+      "handling": "When teaching, separate exact historical wording from modern botanical explanation of a stem tuber."
+    },
+    {
+      "id": "foundations-element-diagram-colours",
+      "topic": "element-diagram-colours",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-foundations.json",
+        "jsonPointer": "/translationAndExtractionIssues/5"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 44,
+          "last": 49
+        },
+        "adams": {
+          "first": 46,
+          "last": 51
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Carbon/oxygen colours in the accompanying prose are reversed across the two witnesses.",
+      "handling": "No exact drawing colours are certified until the native drawings/plates are checked."
+    },
+    {
+      "id": "foundations-oxygen-omission",
+      "topic": "oxygen-omission",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-foundations.json",
+        "jsonPointer": "/translationAndExtractionIssues/6"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 51,
+          "last": 51
+        },
+        "adams": {
+          "first": 53,
+          "last": 53
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "A late Adams list omits oxygen, and a following triad differs from Creeger, although both openings establish five constituents including oxygen.",
+      "handling": "Preserve the discrepancy in the source map. Use the explicit opening five-element list for a paraphrase; do not silently repair a quoted Adams sentence."
+    },
+    {
+      "id": "foundations-historical-chemical-vocabulary",
+      "topic": "historical-chemical-vocabulary",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-foundations.json",
+        "jsonPointer": "/translationAndExtractionIssues/7"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 46,
+          "last": 50
+        },
+        "adams": {
+          "first": 48,
+          "last": 52
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Carbonic-acid/carbon-dioxide and etheric/ethereal wording reflect translation and historical terminology.",
+      "handling": "Explain terms in context and avoid treating the spiritual functions as modern chemical identities."
+    },
+    {
+      "id": "preparations-T01",
+      "topic": "Horn manure burial depth",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/0"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 63,
+          "last": 63
+        },
+        "adams": {
+          "first": 75,
+          "last": 75
+        }
+      },
+      "canonicalWording": "between 3/4 and 1 1/2 meters [2 1/2 to 5 feet]",
+      "comparisonWording": "about 18 in. to 2 ft. 6 in.",
+      "finding": "Material numerical discrepancy in supplied OCR witnesses; unresolved without PDF/German verification.",
+      "handling": "Retain both as historical readings, never average or silently convert into a course recipe."
+    },
+    {
+      "id": "preparations-T02",
+      "topic": "Horn demonstration area",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/1"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 63,
+          "last": 63
+        },
+        "adams": {
+          "first": 75,
+          "last": 75
+        }
+      },
+      "canonicalWording": "the third window here to the first footpath",
+      "comparisonWording": "the third window here to the first foot-path, about 1, 200 square metres (between a quarter- and third-acre)",
+      "finding": "Adams includes an area figure absent from the corresponding Creeger lecture capture; discussion then refers to about one-fifth acre.",
+      "handling": "Keep demonstration and discussion separate, with bucket/scaling still unsettled; do not manufacture a precise universal ratio."
+    },
+    {
+      "id": "preparations-T03",
+      "topic": "Quicklime and moor/marsh soil",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/2"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 74,
+          "last": 74
+        },
+        "adams": {
+          "first": 86,
+          "last": 86
+        }
+      },
+      "canonicalWording": "on account of the acids that are formed",
+      "comparisonWording": "on account of the formation of oxygen",
+      "finding": "Substantive wording discrepancy in supplied OCR; neither image nor German verified.",
+      "handling": "Use canonical draft paraphrase with an unresolved comparison note; no quotation that silently substitutes the other wording."
+    },
+    {
+      "id": "preparations-T04",
+      "topic": "Underground cabbage example",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/3"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 108,
+          "last": 108
+        },
+        "adams": {
+          "first": 123,
+          "last": 123
+        }
+      },
+      "canonicalWording": "cabbage clubroot",
+      "comparisonWording": "the cabbage root-fly",
+      "finding": "Different named agricultural conditions, not interchangeable translations for a verified modern diagnosis.",
+      "handling": "Map the same Q&A location with separate wording; do not turn the answer into a confirmed treatment for either condition."
+    },
+    {
+      "id": "preparations-T05",
+      "topic": "Dandelion enclosure and cross-reference",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/4"
+      },
+      "captureLocators": {
+        "creeger": [
+          85,
+          109
+        ],
+        "adams": [
+          100,
+          124
+        ]
+      },
+      "canonicalWording": "mesentery; answer clarifies peritoneum, not tripe",
+      "comparisonWording": "Rindergekrose (bovine mesentery in Lecture 4); answer clarifies peritoneum, not tripe",
+      "finding": "Both retain imprecise anatomical wording; Adams’s parenthetical lecture cross-reference conflicts with the mapped Lecture 5 occurrence.",
+      "handling": "Cite Lecture 5 for the indication and Discussion 3 for clarification. Preserve the source terminology without inventing anatomical equivalence or a Lecture 4 passage."
+    },
+    {
+      "id": "preparations-T06",
+      "topic": "Wild chamomile and dog chamomile",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/5"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 107,
+          "last": 107
+        },
+        "adams": {
+          "first": 122,
+          "last": 122
+        }
+      },
+      "canonicalWording": "Chamomilla officinalis; dog chamomile is closer than the rejected garden specimen and could be used",
+      "comparisonWording": "Chamomiilla officinalis in OCR; dog camomile may be used if need be",
+      "finding": "Botanical name/OCR and specimen-based reply do not establish modern species equivalence.",
+      "handling": "Retain the specified wild plant and qualify the substitute as tentative; obtain independent botanical verification for any practical course."
+    },
+    {
+      "id": "preparations-T07",
+      "topic": "Nematode grouping",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/6"
+      },
+      "captureLocators": {
+        "creeger": [
+          100,
+          101,
+          107
+        ],
+        "adams": [
+          115,
+          116,
+          122
+        ]
+      },
+      "canonicalWording": "sugar-beet nematode; whole insect; ventral nerve-cord versus spinal cord",
+      "comparisonWording": "nematode of the root crops; entire insect; abdominal marrow versus spinal marrow",
+      "finding": "The historical animal grouping and Adams marrow wording should not become a modern taxonomic/anatomical claim.",
+      "handling": "Teach the source’s lower/higher-animal distinction with attribution and retain Creeger terminology in the draft."
+    },
+    {
+      "id": "preparations-T08",
+      "topic": "Venus/Scorpion observational wording",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/7"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 109,
+          "last": 109
+        },
+        "adams": {
+          "first": 124,
+          "last": 124
+        }
+      },
+      "canonicalWording": "Venus visible with constellation of the Scorpion in the background; Venus has to be behind the sun",
+      "comparisonWording": "Venus visible with Scorpio constellation in the background; Venus must be behind the Sun",
+      "finding": "Both witnesses retain an unresolved observational/geometrical ambiguity.",
+      "handling": "Do not infer calendar dates, replace constellation with a later zodiac calendar or manufacture a verified astronomical instruction."
+    },
+    {
+      "id": "preparations-T09",
+      "topic": "Zodiac list and inserted Taurus",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/8"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 101,
+          "last": 101
+        },
+        "adams": {
+          "first": 116,
+          "last": 116
+        }
+      },
+      "canonicalWording": "Waterman, Fishes, Ram, [Bull], Twins, Crab",
+      "comparisonWording": "Aquarius, Pisces, Aries and Gemini and on to Cancer; Sun in Taurus specified separately",
+      "finding": "Creeger brackets Bull in the sequence; Adams omits it from that particular list while giving Taurus as the example.",
+      "handling": "Distinguish editorial bracket from lecture wording; preserve the Aquarius–Cancer range and trial qualification."
+    },
+    {
+      "id": "preparations-T10",
+      "topic": "Mineral horn alternative",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/9"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 64,
+          "last": 64
+        },
+        "adams": {
+          "first": 76,
+          "last": 76
+        }
+      },
+      "canonicalWording": "quartz; orthoclase, feldspar",
+      "comparisonWording": "quartz or silica or even orthorclase or felspar in OCR",
+      "finding": "Minor wording/spelling difference with materially broad original choice.",
+      "handling": "Keep the original offered alternative rather than impose a quartz-only later standard."
+    },
+    {
+      "id": "preparations-T11",
+      "topic": "Etheric/ethereal and potash/calcium vocabulary",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/10"
+      },
+      "captureLocators": {
+        "creeger": [
+          59,
+          60,
+          80,
+          84,
+          85
+        ],
+        "adams": [
+          71,
+          94,
+          98,
+          99,
+          100
+        ]
+      },
+      "canonicalWording": "etheric; lime/quicklime; potash; potassium",
+      "comparisonWording": "ethereal; chalky or limestone element; potash; potassium",
+      "finding": "Different English vocabulary and variable substance/element usage; not evidence that modern nutrient categories and spiritual roles are identical.",
+      "handling": "Use canonical terminology and explain the material versus modeled activity in the relevant passage."
+    },
+    {
+      "id": "preparations-T12",
+      "topic": "Valerian phosphorus",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/11"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 86,
+          "last": 86
+        },
+        "adams": {
+          "first": 101,
+          "last": 101
+        }
+      },
+      "canonicalWording": "substance we call phosphorus",
+      "comparisonWording": "the phosphoric substance",
+      "finding": "Terminology difference; neither gives a quantified phosphorus addition or an independently demonstrated mechanism.",
+      "handling": "Explain the attributed phosphorus relation without claiming conventional bulk phosphorus fertilization."
+    },
+    {
+      "id": "preparations-T13",
+      "topic": "Drawings and plates",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/12"
+      },
+      "captureLocators": {
+        "creeger": [
+          57,
+          59,
+          61,
+          68,
+          90,
+          94,
+          100,
+          103,
+          105,
+          107
+        ],
+        "adams": [
+          68,
+          70,
+          73,
+          81,
+          105,
+          109,
+          115,
+          118,
+          120,
+          122
+        ]
+      },
+      "canonicalWording": "Drawings 8–17 with Color Plate references in these captures",
+      "comparisonWording": "Diagrams 7–14 and differing numbering",
+      "finding": "Image OCR is not a usable visual witness; not every reference has a matching visible designation.",
+      "handling": "Maintain edition-specific verbal references and label any later explanatory diagram original."
+    },
+    {
+      "id": "preparations-T14",
+      "topic": "Substitution and trial certainty",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/13"
+      },
+      "captureLocators": {
+        "creeger": [
+          78,
+          82,
+          108,
+          110
+        ],
+        "adams": [
+          92,
+          96,
+          123,
+          125
+        ]
+      },
+      "canonicalWording": "substitution generally possible except nettle; stag bladder alternative uncertain; insect timing to be tried",
+      "comparisonWording": "same distinctions in the corresponding lecture and discussions",
+      "finding": "Technical incompleteness coexists with confident spiritual efficacy assertions.",
+      "handling": "Keep uncertainty at the specific question rather than pretending either universal doubt or complete tested instructions."
+    },
+    {
+      "id": "preparations-T15",
+      "topic": "Mechanical operations",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/14"
+      },
+      "captureLocators": {
+        "creeger": [
+          66,
+          67,
+          70,
+          71
+        ],
+        "adams": [
+          78,
+          79,
+          83
+        ]
+      },
+      "canonicalWording": "hand stirring favored; fine machine spray accepted; farming without machines impractical",
+      "comparisonWording": "same operational distinctions",
+      "finding": "A general machine prohibition is not supported.",
+      "handling": "Compare the different processes instead of collapsing them into a machine-free farming rule."
+    },
+    {
+      "id": "preparations-T16",
+      "topic": "Numbering 500–508",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/15"
+      },
+      "captureLocators": {
+        "creeger": [
+          63,
+          64,
+          79,
+          81,
+          82,
+          84,
+          85,
+          86,
+          104
+        ],
+        "adams": [
+          75,
+          76,
+          77,
+          93,
+          95,
+          97,
+          98,
+          100,
+          101,
+          119
+        ]
+      },
+      "canonicalWording": "Original named materials, no spoken numbering in mapped captures",
+      "comparisonWording": "Editorial note identifies current 500/501 and 502–507, but not 508",
+      "finding": "Modern labels require explicit later/editorial attribution.",
+      "handling": "Use the catalog for orientation while marking 508’s numbering origin unestablished and avoiding an invented 1924 numbering scheme."
+    },
+    {
+      "id": "preparations-T17",
+      "topic": "Krantz manure heating",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/16"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 87,
+          "last": 88
+        },
+        "adams": {
+          "first": 102,
+          "last": 103
+        }
+      },
+      "canonicalWording": "Advantages of spontaneous heating; loose piling and long-term usefulness questioned",
+      "comparisonWording": "same cautious assessment",
+      "finding": "Neither a blanket endorsement nor a blanket rejection.",
+      "handling": "Retain the competing considerations and short-term versus long-term distinction."
+    },
+    {
+      "id": "preparations-T18",
+      "topic": "Claims of chemistry and nourishment",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-preparations.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/17"
+      },
+      "captureLocators": {
+        "creeger": [
+          56,
+          85,
+          92
+        ],
+        "adams": [
+          67,
+          68,
+          99,
+          100,
+          107
+        ]
+      },
+      "canonicalWording": "potash/lime transmute into nitrogen; silicon into an unnamed element; food primarily supplies forces",
+      "comparisonWording": "same explicit substantive claims",
+      "finding": "Not merely alternative words for measured nutrient cycling or conventional dietary uptake.",
+      "handling": "Preserve the claims with attribution and a separate evidence boundary."
+    },
+    {
+      "id": "farm-1",
+      "topic": "Wet meadows",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/0"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 117,
+          "last": 118
+        },
+        "adams": {
+          "first": 133,
+          "last": 133
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Canonical Creeger explicitly says wet meadows in the fungal/microbial discussion; Adams says meadows without this adjective. Retain canonical qualification and do not generalize to any meadow.",
+      "handling": "Use only if material to understanding; preserve canonical wording and explicit uncertainty."
+    },
+    {
+      "id": "farm-2",
+      "topic": "Flaxseed/linseed",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/1"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 127,
+          "last": 127
+        },
+        "adams": {
+          "first": 143,
+          "last": 144
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Flaxseed in Creeger and linseed in Adams name the complementary feed alongside carrots; the model and need for a second feed agree.",
+      "handling": "Use only if material to understanding; preserve canonical wording and explicit uncertainty."
+    },
+    {
+      "id": "farm-3",
+      "topic": "Qualified farm closure",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/2"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 125,
+          "last": 126
+        },
+        "adams": {
+          "first": 141,
+          "last": 143
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Both witnesses pair the farm cycle with a qualification that complete self-sufficiency is impossible under present economic conditions. The qualification must accompany the cycle.",
+      "handling": "Use only if material to understanding; preserve canonical wording and explicit uncertainty."
+    },
+    {
+      "id": "farm-4",
+      "topic": "Drawing numbering",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/3"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 112,
+          "last": 138
+        },
+        "adams": {
+          "first": 127,
+          "last": 156
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Lecture 7 drawings 18–20 correspond textually to Adamsdiagrams 15–17; Lecture 8 drawings 21–24 to 18–21; Discussion 4 drawings 25–26 to 22–23. This is a numbering correspondence, not visual image verification.",
+      "handling": "Use only if material to understanding; preserve canonical wording and explicit uncertainty."
+    },
+    {
+      "id": "farm-5",
+      "topic": "Calendar speaker",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/4"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 135,
+          "last": 135
+        },
+        "adams": {
+          "first": 153,
+          "last": 153
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Both records identify Dr. Vreede for provisional calendar calculations and Steiner for the calendar-development remark. Do not attribute Vreede’s year-specific interval solely to Steiner.",
+      "handling": "Use only if material to understanding; preserve canonical wording and explicit uncertainty."
+    },
+    {
+      "id": "farm-6",
+      "topic": "Moon/calendar uncertainty",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/5"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 135,
+          "last": 135
+        },
+        "adams": {
+          "first": 153,
+          "last": 153
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Both contain the 12–14 day Moon-period formulation; Gardner separately marks German ambiguity and tropical/sidereal tension. Preserve uncertainty rather than deriving precise scheduling.",
+      "handling": "Use only if material to understanding; preserve canonical wording and explicit uncertainty."
+    },
+    {
+      "id": "farm-7",
+      "topic": "Appendices are not identical",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/6"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 159,
+          "last": 173
+        },
+        "adams": {
+          "first": 160,
+          "last": 167
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Adams Supplement overlaps remembered indications in Creeger Appendix B; it is not Creeger Appendix C/Pfeiffer commemorative essay. Creeger Appendix A handwriting and Gardner notes likewise lack matching sections in the assigned Adams end matter.",
+      "handling": "Use only if material to understanding; preserve canonical wording and explicit uncertainty."
+    },
+    {
+      "id": "farm-8",
+      "topic": "Fertilizer report vocabulary",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/7"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 163,
+          "last": 163
+        },
+        "adams": {
+          "first": 164,
+          "last": 164
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Creeger names Bottomley’s auximones; Adams renders the reported substances as auxines. Do not conflate either historical report term with a current established fertilizer mechanism.",
+      "handling": "Use only if material to understanding; preserve canonical wording and explicit uncertainty."
+    },
+    {
+      "id": "farm-9",
+      "topic": "Additional Supplement items",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/8"
+      },
+      "captureLocators": {
+        "adams": {
+          "first": 165,
+          "last": 166
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Adams Supplement includes recalled 150 horns for 18500 acres and a sainfoin seed amount. These are supplementary local testimony, not lecture formulas or canonical Creeger quantities inferred from this map.",
+      "handling": "Use only if material to understanding; preserve canonical wording and explicit uncertainty."
+    },
+    {
+      "id": "farm-10",
+      "topic": "Research policy depends on record",
+      "sourceRecord": {
+        "file": "content/biodynamic-map-farm.json",
+        "jsonPointer": "/translationAndInterpretiveIssues/9"
+      },
+      "captureLocators": {
+        "creeger": {
+          "first": 145,
+          "last": 145
+        },
+        "adams": {
+          "first": 62,
+          "last": 62
+        }
+      },
+      "canonicalWording": null,
+      "comparisonWording": null,
+      "finding": "Direct June 11 address advises experiments and limited acreage; Pfeiffer later recalls broad application with experiments coming later. These are different dated/transmitted records, not an identical statement to harmonize.",
+      "handling": "Use only if material to understanding; preserve canonical wording and explicit uncertainty."
+    }
+  ],
+  "studentTranslationNoteRule": "Show a translation note only when it materially improves understanding. Preserve unresolved numerical, botanical, diagram and calendar wording; do not silently harmonize it into a recipe.",
+  "lessonManifest": [
+    {
+      "id": 1,
+      "title": "Why Was the Agriculture Course Given?",
+      "partId": 1,
+      "partSlug": "agricultural-question",
+      "partTitle": "The Agricultural Question",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 2,
+      "title": "What Is Biodynamic Agriculture?",
+      "partId": 1,
+      "partSlug": "agricultural-question",
+      "partTitle": "The Agricultural Question",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 3,
+      "title": "The Farm as an Individuality",
+      "partId": 1,
+      "partSlug": "agricultural-question",
+      "partTitle": "The Agricultural Question",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 4,
+      "title": "What Is Soil?",
+      "partId": 2,
+      "partSlug": "earth-soil-plant",
+      "partTitle": "Earth, Soil and Plant",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 5,
+      "title": "Earthly and Cosmic Forces",
+      "partId": 2,
+      "partSlug": "earth-soil-plant",
+      "partTitle": "Earth, Soil and Plant",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 6,
+      "title": "Root, Leaf, Flower and Seed",
+      "partId": 2,
+      "partSlug": "earth-soil-plant",
+      "partTitle": "Earth, Soil and Plant",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 7,
+      "title": "Etheric Life and Plant Development",
+      "partId": 2,
+      "partSlug": "earth-soil-plant",
+      "partTitle": "Earth, Soil and Plant",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 8,
+      "title": "Plants, Animals and the Whole Farm",
+      "partId": 3,
+      "partSlug": "farm-organism",
+      "partTitle": "The Farm Organism",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 9,
+      "title": "Animal Life and Landscape",
+      "partId": 3,
+      "partSlug": "farm-organism",
+      "partTitle": "The Farm Organism",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 10,
+      "title": "Manure and Fertility",
+      "partId": 3,
+      "partSlug": "farm-organism",
+      "partTitle": "The Farm Organism",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 11,
+      "title": "Compost and the Fertility Cycle",
+      "partId": 3,
+      "partSlug": "farm-organism",
+      "partTitle": "The Farm Organism",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 12,
+      "title": "Why Preparations?",
+      "partId": 4,
+      "partSlug": "preparations",
+      "partTitle": "The Biodynamic Preparations",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 13,
+      "title": "Horn Manure: Preparation 500",
+      "partId": 4,
+      "partSlug": "preparations",
+      "partTitle": "The Biodynamic Preparations",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 14,
+      "title": "Horn Silica: Preparation 501",
+      "partId": 4,
+      "partSlug": "preparations",
+      "partTitle": "The Biodynamic Preparations",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 15,
+      "title": "Compost Preparations 502–507",
+      "partId": 4,
+      "partSlug": "preparations",
+      "partTitle": "The Biodynamic Preparations",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 16,
+      "title": "Horsetail / Preparation 508",
+      "partId": 4,
+      "partSlug": "preparations",
+      "partTitle": "The Biodynamic Preparations",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 17,
+      "title": "Weeds",
+      "partId": 5,
+      "partSlug": "challenges-rhythms",
+      "partTitle": "Weeds, Pests, Disease and Rhythms",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 18,
+      "title": "Animal Pests",
+      "partId": 5,
+      "partSlug": "challenges-rhythms",
+      "partTitle": "Weeds, Pests, Disease and Rhythms",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 19,
+      "title": "Plant Disease",
+      "partId": 5,
+      "partSlug": "challenges-rhythms",
+      "partTitle": "Weeds, Pests, Disease and Rhythms",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 20,
+      "title": "Moon, Sun, Planets and Agricultural Rhythms",
+      "partId": 5,
+      "partSlug": "challenges-rhythms",
+      "partTitle": "Weeds, Pests, Disease and Rhythms",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 21,
+      "title": "Biodynamics and Organic Agriculture",
+      "partId": 6,
+      "partSlug": "biodynamics-today",
+      "partTitle": "Biodynamics Today",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 22,
+      "title": "What Does Modern Research Study?",
+      "partId": 6,
+      "partSlug": "biodynamics-today",
+      "partTitle": "Biodynamics Today",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 23,
+      "title": "What Evidence Does and Does Not Establish",
+      "partId": 6,
+      "partSlug": "biodynamics-today",
+      "partTitle": "Biodynamics Today",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    },
+    {
+      "id": 24,
+      "title": "Biodynamics as a Whole",
+      "partId": 6,
+      "partSlug": "biodynamics-today",
+      "partTitle": "Biodynamics Today",
+      "titleProvenance": "User task section 9/11/12; ids and part membership from content/biodynamic-agriculture-course.json."
+    }
+  ],
+  "lessonConceptIndex": [
+    {
+      "lessonId": 1,
+      "title": "Why Was the Agriculture Course Given?",
+      "conceptIds": [
+        "research-cooperation"
+      ]
+    },
+    {
+      "lessonId": 2,
+      "title": "What Is Biodynamic Agriculture?",
+      "conceptIds": [
+        "research-cooperation"
+      ]
+    },
+    {
+      "lessonId": 3,
+      "title": "The Farm as an Individuality",
+      "conceptIds": [
+        "farm-individuality",
+        "soil",
+        "animal",
+        "manure",
+        "landscape",
+        "fertility",
+        "research-cooperation"
+      ]
+    },
+    {
+      "lessonId": 4,
+      "title": "What Is Soil?",
+      "conceptIds": [
+        "soil",
+        "humus",
+        "plant",
+        "root",
+        "calcium",
+        "etheric",
+        "clay",
+        "fertility"
+      ]
+    },
+    {
+      "lessonId": 5,
+      "title": "Earthly and Cosmic Forces",
+      "conceptIds": [
+        "soil",
+        "plant",
+        "root",
+        "flower",
+        "seed",
+        "calcium",
+        "silica",
+        "earthly-forces",
+        "cosmic-forces",
+        "planetary-influence",
+        "moon",
+        "sun",
+        "planets",
+        "clay",
+        "seasonal-rhythms"
+      ]
+    },
+    {
+      "lessonId": 6,
+      "title": "Root, Leaf, Flower and Seed",
+      "conceptIds": [
+        "humus",
+        "plant",
+        "root",
+        "leaf",
+        "flower",
+        "seed",
+        "earthly-forces",
+        "cosmic-forces",
+        "planetary-influence",
+        "moon",
+        "sun",
+        "planets"
+      ]
+    },
+    {
+      "lessonId": 7,
+      "title": "Etheric Life and Plant Development",
+      "conceptIds": [
+        "soil",
+        "humus",
+        "plant",
+        "leaf",
+        "flower",
+        "seed",
+        "calcium",
+        "silica",
+        "earthly-forces",
+        "cosmic-forces",
+        "etheric",
+        "astral",
+        "nitrogen",
+        "clay"
+      ]
+    },
+    {
+      "lessonId": 8,
+      "title": "Plants, Animals and the Whole Farm",
+      "conceptIds": [
+        "farm-individuality",
+        "plant",
+        "leaf",
+        "animal",
+        "manure",
+        "earthly-forces",
+        "cosmic-forces",
+        "etheric",
+        "astral",
+        "nitrogen",
+        "landscape",
+        "ego-potential",
+        "cosmic-substance"
+      ]
+    },
+    {
+      "lessonId": 9,
+      "title": "Animal Life and Landscape",
+      "conceptIds": [
+        "farm-individuality",
+        "plant",
+        "leaf",
+        "animal",
+        "astral",
+        "sun",
+        "landscape",
+        "cosmic-substance"
+      ]
+    },
+    {
+      "lessonId": 10,
+      "title": "Manure and Fertility",
+      "conceptIds": [
+        "farm-individuality",
+        "soil",
+        "humus",
+        "root",
+        "animal",
+        "manure",
+        "compost",
+        "etheric",
+        "astral",
+        "nitrogen",
+        "fertility",
+        "ego-potential",
+        "cosmic-substance"
+      ]
+    },
+    {
+      "lessonId": 11,
+      "title": "Compost and the Fertility Cycle",
+      "conceptIds": [
+        "farm-individuality",
+        "soil",
+        "humus",
+        "animal",
+        "manure",
+        "compost",
+        "calcium",
+        "nitrogen",
+        "landscape",
+        "fertility",
+        "ego-potential"
+      ]
+    },
+    {
+      "lessonId": 12,
+      "title": "Why Preparations?",
+      "conceptIds": [
+        "soil",
+        "plant",
+        "manure",
+        "compost",
+        "earthly-forces",
+        "cosmic-forces",
+        "etheric",
+        "astral",
+        "horn-manure",
+        "horn-silica",
+        "yarrow",
+        "chamomile",
+        "nettle",
+        "oak-bark",
+        "dandelion",
+        "valerian",
+        "weeds",
+        "fertility",
+        "compost-preparations",
+        "research-cooperation"
+      ]
+    },
+    {
+      "lessonId": 13,
+      "title": "Horn Manure: Preparation 500",
+      "conceptIds": [
+        "root",
+        "manure",
+        "horn-manure",
+        "horn-silica",
+        "fertility",
+        "seasonal-rhythms"
+      ]
+    },
+    {
+      "lessonId": 14,
+      "title": "Horn Silica: Preparation 501",
+      "conceptIds": [
+        "flower",
+        "silica",
+        "cosmic-forces",
+        "planetary-influence",
+        "sun",
+        "horn-manure",
+        "horn-silica",
+        "horsetail",
+        "seasonal-rhythms"
+      ]
+    },
+    {
+      "lessonId": 15,
+      "title": "Compost Preparations 502–507",
+      "conceptIds": [
+        "flower",
+        "manure",
+        "compost",
+        "calcium",
+        "silica",
+        "etheric",
+        "astral",
+        "yarrow",
+        "chamomile",
+        "nettle",
+        "oak-bark",
+        "dandelion",
+        "valerian",
+        "plant-disease",
+        "nitrogen",
+        "landscape",
+        "fertility",
+        "compost-preparations",
+        "seasonal-rhythms"
+      ]
+    },
+    {
+      "lessonId": 16,
+      "title": "Horsetail / Preparation 508",
+      "conceptIds": [
+        "silica",
+        "planetary-influence",
+        "moon",
+        "horsetail",
+        "plant-disease",
+        "seasonal-rhythms"
+      ]
+    },
+    {
+      "lessonId": 17,
+      "title": "Weeds",
+      "conceptIds": [
+        "seed",
+        "planetary-influence",
+        "moon",
+        "weeds"
+      ]
+    },
+    {
+      "lessonId": 18,
+      "title": "Animal Pests",
+      "conceptIds": [
+        "animal",
+        "planetary-influence",
+        "sun",
+        "planets",
+        "pests"
+      ]
+    },
+    {
+      "lessonId": 19,
+      "title": "Plant Disease",
+      "conceptIds": [
+        "plant",
+        "etheric",
+        "astral",
+        "planetary-influence",
+        "moon",
+        "oak-bark",
+        "horsetail",
+        "plant-disease"
+      ]
+    },
+    {
+      "lessonId": 20,
+      "title": "Moon, Sun, Planets and Agricultural Rhythms",
+      "conceptIds": [
+        "seed",
+        "silica",
+        "earthly-forces",
+        "cosmic-forces",
+        "planetary-influence",
+        "moon",
+        "sun",
+        "planets",
+        "horsetail",
+        "weeds",
+        "pests",
+        "seasonal-rhythms",
+        "research-cooperation"
+      ]
+    },
+    {
+      "lessonId": 21,
+      "title": "Biodynamics and Organic Agriculture",
+      "conceptIds": [
+        "farm-individuality",
+        "humus",
+        "manure",
+        "compost",
+        "landscape",
+        "fertility"
+      ]
+    },
+    {
+      "lessonId": 22,
+      "title": "What Does Modern Research Study?",
+      "conceptIds": [
+        "soil",
+        "compost",
+        "plant-disease",
+        "nitrogen",
+        "landscape",
+        "research-cooperation"
+      ]
+    },
+    {
+      "lessonId": 23,
+      "title": "What Evidence Does and Does Not Establish",
+      "conceptIds": [
+        "cosmic-forces",
+        "etheric",
+        "astral",
+        "planetary-influence",
+        "weeds",
+        "pests",
+        "plant-disease",
+        "cosmic-substance",
+        "research-cooperation"
+      ]
+    },
+    {
+      "lessonId": 24,
+      "title": "Biodynamics as a Whole",
+      "conceptIds": [
+        "farm-individuality",
+        "soil",
+        "humus",
+        "plant",
+        "root",
+        "leaf",
+        "flower",
+        "seed",
+        "animal",
+        "manure",
+        "compost",
+        "calcium",
+        "silica",
+        "earthly-forces",
+        "cosmic-forces",
+        "etheric",
+        "astral",
+        "planetary-influence",
+        "moon",
+        "sun",
+        "planets",
+        "horn-manure",
+        "horn-silica",
+        "yarrow",
+        "chamomile",
+        "nettle",
+        "oak-bark",
+        "dandelion",
+        "valerian",
+        "horsetail",
+        "weeds",
+        "pests",
+        "plant-disease",
+        "nitrogen",
+        "clay",
+        "landscape",
+        "fertility",
+        "compost-preparations",
+        "ego-potential",
+        "cosmic-substance",
+        "seasonal-rhythms",
+        "research-cooperation"
+      ]
+    }
+  ],
+  "conceptualTeachingOrder": [
+    "Agricultural problem and history",
+    "Farm individuality as a qualified organizing principle",
+    "Soil and plant phenomena",
+    "Earthly/cosmic pathways and etheric/astral concepts",
+    "Animal/manure/compost fertility cycle",
+    "Preparation rationale before materials and numbers",
+    "Weeds, pests, disease and rhythms",
+    "Later practice, certification and modern evidence",
+    "Whole-farm synthesis; observation separated from interpretation"
+  ],
+  "legacyAudit": {
+    "file": "content/biodynamic-legacy-audit.md",
+    "role": "Use the migration classification to preserve useful GA 230, GA 136, Courtney, observation and research material as background/optional study before removing obsolete pages."
+  },
+  "evidenceBoundaries": [
+    "Keep 1924 indications, later practice, current Demeter requirements and modern evidence separate.",
+    "Observed soil, habitat or feeding outcomes do not establish etheric, astral or cosmic causes.",
+    "Whole-farm differences do not isolate preparation effects.",
+    "Preserve uncertain quantities, substitutions, calendar interpretation and historical health assertions without operative learner instructions.",
+    "Retain both confident spiritual assertions and specific technical uncertainty in the source."
+  ],
+  "limitations": [
+    "Both supplied PDFs exceed the executor transfer limit of 32 Mi B; no visual PDF page, drawing or plate verification was performed.",
+    "The Creeger/Gardner export ends during Literature Cited at capture 192, displayed 88%; bibliography is partial, and the remaining index and colour plates are absent.",
+    "Appendix A handwritten material has poor OCR; illegible details have not been reconstructed.",
+    "Some wording, numerical and botanical details disagree between the translations and remain unresolved.",
+    "Source study does not independently validate the proposed spiritual, agronomic or health mechanisms.",
+    "Full uploaded files remain private; public output contains original explanations, concise excerpts and authored notes.",
+    "First-introduction entries describe verified conceptual map loci; they do not certify earliest every-word occurrence.",
+    "Supporting GA 230/GA 136, new modern sources and current standards require their separate source checks before publishing claims."
+  ],
+  "conceptRecordContract": {
+    "firstIntroduced": "Earliest mapped conceptual treatment; reference its numbered lecture/discussion in the global source index. This is not a literal-word-first-occurrence claim.",
+    "materialTranslationDifference": "Issue ids resolve to the internal comparison table. An empty list means no separate material difference was established in the reviewed maps.",
+    "sourceAuthority": "Attributed 1924 Steiner model unless the record explicitly identifies later/editorial or recalled material.",
+    "evidenceBoundary": "No spiritual/medical mechanism or practical efficacy is established by this consolidation; modern evidence and current requirements need their separate sources."
+  }
+}

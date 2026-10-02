@@ -3,6 +3,8 @@ import path from 'node:path';
 import {esc} from './learning-html.mjs';
 import {isIntroductionOwned} from './link-constitution.mjs';
 import {isPracticalThinkingOwned,partSlugs} from './practical-thinking-owned.mjs';
+import {isBiodynamicOwned,biodynamicLessonIds,biodynamicStudyId} from './biodynamic-owned.mjs';
+import {biodynamicCourseData} from './biodynamic-course-data.mjs';
 import {thoughtInventory} from '../content/practical-thinking-revised.mjs';
 import {higherWorlds} from '../content/higher-worlds.mjs';
 import {freedomConnections} from '../content/philosophy-of-freedom-connections.mjs';
@@ -18,7 +20,9 @@ import {mysteryLessons,mysterySource} from '../content/mystery-temperaments.mjs'
 import {freedomConsolidated as freedomLessons} from '../content/philosophy-of-freedom-consolidated.mjs';
 import {temperamentCourse} from '../content/temperament-course.mjs';
 import {mythsLessons} from '../content/ancient-myths.mjs';
-const root = path.resolve('docs');
+const docsOption = process.argv.indexOf('--docs-dir');
+if (docsOption >= 0 && !process.argv[docsOption+1]) throw new Error('--docs-dir requires a docs directory.');
+const root = path.resolve(docsOption >= 0 ? process.argv[docsOption+1] : 'docs');
 const files = fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.html'));
 const catalogue=JSON.parse(fs.readFileSync('content/learning-system-catalogue.json','utf8'));
 const researchMap=JSON.parse(fs.readFileSync('content/learning-system-research-map.json','utf8'));
@@ -26,6 +30,12 @@ const beginnerSources=JSON.parse(fs.readFileSync('content/learning-system-source
 const introductionCourse=fs.existsSync('content/introduction-anthroposophy-course.json')?JSON.parse(fs.readFileSync('content/introduction-anthroposophy-course.json','utf8')):null;
 const introductionSourceMap=introductionCourse?JSON.parse(fs.readFileSync('content/introduction-anthroposophy-source-map.json','utf8')):null;
 const errors = [];
+const nativeBiodynamicFiles = files.filter(relative=>isBiodynamicOwned(relative,fs.readFileSync(path.join(root,relative),'utf8')));
+let nativeBiodynamicData = null;
+if (nativeBiodynamicFiles.length) {
+ try { nativeBiodynamicData = biodynamicCourseData(); }
+ catch (error) { errors.push('Native biodynamics course data: '+error.message); }
+}
 const guidedTheosophy=(relative,html)=>/^(?:pt\/)?(?:lessons\/\d{2}\.html|theosophy\/)/.test(relative.replaceAll('\\','/'))&&html.includes('data-theosophy-owned="true"');
 for (const relative of files) {
  const file = path.join(root,relative), html = fs.readFileSync(file,'utf8');
@@ -45,6 +55,21 @@ for (const relative of files) {
   if(anchor&&!fs.readFileSync(target,'utf8').includes(`id="${anchor}"`)) errors.push(`${relative}: missing anchor ${href}`);
  }
  if(relative.includes('lessons')&&!/(?:^|[\\/])learn[\\/]/.test(relative)) {
+  if(isBiodynamicOwned(relative,html)&&/\/lessons\/\d{2}\.html$/.test(relative.replaceAll('\\','/'))){
+   const lang=relative.replaceAll('\\','/').startsWith('pt/')?'pt':'en',id=Number(path.basename(relative,'.html'));
+   const lesson=nativeBiodynamicData?.lessons.find(l=>l.id===id),title=lesson?.[lang==='pt'?'titlePt':'titleEn'];
+   if(!lesson||!html.includes(`<h1>${esc(title)}</h1>`))errors.push(`${relative}: missing native Biodynamic lesson or actual title`);
+   if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong native Biodynamic language`);
+   const partner=path.join(root,lang==='pt'?'':'pt','biodynamics','lessons',path.basename(relative)),alternate=html.match(/<link rel="alternate"[^>]*href="([^"]+)"/);
+   if(!alternate||path.resolve(path.dirname(file),alternate[1])!==partner)errors.push(`${relative}: incorrect native Biodynamic language partner`);
+   const source=html.indexOf('data-biodynamic-source'),proposal=html.indexOf('class="bio-proposal"');
+   if(source<0||proposal<=source)errors.push(`${relative}: native Biodynamic source must precede its explanation`);
+   if(!html.includes('Agriculture Course — GA 327')||!html.includes(esc(nativeBiodynamicData?.course.canonical.title||'')))errors.push(`${relative}: missing native Biodynamic source title`);
+   if(lesson?.source&&!html.includes(esc(lesson.source[lang==='pt'?'quotePt':'quoteEn'])))errors.push(`${relative}: native Biodynamic canonical excerpt missing`);
+   if(!html.includes(`data-study-id="${biodynamicStudyId(id)}"`))errors.push(`${relative}: incorrect native Biodynamic notebook identity`);
+   if(/Starting in|capture-software|C:\\Users\\|sediment:\/\/|\/workspace\/attachments\//.test(html))errors.push(`${relative}: private Biodynamic source noise leaked`);
+   continue;
+  }
   if(isPracticalThinkingOwned(relative,html)&&/\/lessons\/\d{2}\.html$/.test(relative.replaceAll('\\','/'))){
    const lang=relative.startsWith('pt/')?'pt':'en',id=Number(path.basename(relative,'.html'));
    const lesson=thoughtInventory.find(l=>l.routeId===id),title=lesson?.[lang]?.title;
@@ -190,6 +215,29 @@ for (const relative of files) {
   if(!html.includes(`<html lang="${expected}">`)) errors.push(`${relative}: language mismatch`);
  }
 }
+if(nativeBiodynamicData){
+ for(const prefix of ['', 'pt/']){
+  const lessonRoutes=nativeBiodynamicFiles.filter(f=>new RegExp(`^${prefix}biodynamics/lessons/\\d{2}\\.html$`).test(f.replaceAll('\\','/')));
+  if(lessonRoutes.length!==24)errors.push(`${prefix}biodynamics: expected exactly 24 owned native lessons`);
+  for(const id of biodynamicLessonIds){
+   const relative=prefix+'biodynamics/lessons/'+String(id).padStart(2,'0')+'.html';
+   if(!lessonRoutes.includes(relative))errors.push('Missing owned native lesson '+relative);
+  }
+ }
+ for(const relative of nativeBiodynamicFiles){
+  const file=path.join(root,relative),html=fs.readFileSync(file,'utf8'),prefix=relative.replaceAll('\\','/').startsWith('pt/')?'pt/':'';
+  const navs=[...html.matchAll(/<nav\b[^>]*class="system-nav"[^>]*>[\s\S]*?<\/nav>/g)];
+  if(navs.length!==1){errors.push(`${relative}: expected one native system navigation`);continue;}
+  const links=[...navs[0][0].matchAll(/href="([^"]+)"/g)];
+  if(links.length!==4)errors.push(`${relative}: expected four native system destinations`);
+  for(const destination of ['learn','books','themes','research']){
+   const target=path.join(root,prefix,destination,'index.html');
+   if(!links.some(link=>path.resolve(path.dirname(file),link[1])===target))errors.push(`${relative}: missing native ${destination} destination`);
+  }
+  const books=path.relative(path.dirname(file),path.join(root,prefix,'books/index.html')).replaceAll('\\','/');
+  if(!navs[0][0].includes(`aria-current="true" href="${books}"`))errors.push(`${relative}: native book layer must be current`);
+ }
+}
 for(const [course,entries] of Object.entries(freedomConnections)) for(const [id,entry] of Object.entries(entries)) {
  for(const [lang,index] of [['en',2],['pt',3]]) {
   const relative=`${lang==='pt'?'pt/':''}${course==='higherWorlds'?'higher-worlds/':''}lessons/${String(id).padStart(2,'0')}.html`;
@@ -314,6 +362,18 @@ if(introductionCourse)for(const prefix of ['', 'pt/']){
  for(const route of ['index.html','source-notes.html'])expectedRoutes.add(prefix+'introduction-to-anthroposophy/'+route);
  for(const part of introductionCourse.parts)expectedRoutes.add(prefix+'introduction-to-anthroposophy/parts/'+part.slug+'.html');
  for(const id of introductionCourse.availableLessonIds)expectedRoutes.add(prefix+'introduction-to-anthroposophy/lessons/'+String(id).padStart(2,'0')+'.html');
+}
+if(nativeBiodynamicData)for(const prefix of ['', 'pt/']){
+ const nativeRoutes=[
+  'index.html','sources.html','background.html','practice/index.html',
+  ...nativeBiodynamicData.parts.map(part=>'parts/'+part.slug+'.html'),
+  ...biodynamicLessonIds.map(id=>'lessons/'+String(id).padStart(2,'0')+'.html')
+ ];
+ for(const route of nativeRoutes){
+  const relative=prefix+'biodynamics/'+route,file=path.join(root,relative);
+  expectedRoutes.add(relative);
+  if(fs.existsSync(file)&&!isBiodynamicOwned(relative,fs.readFileSync(file,'utf8')))errors.push(`${relative}: native course ownership missing`);
+ }
 }
 const courseFiles=files.filter(f=>f!=='learning-review.html').map(f=>f.replaceAll(path.sep,'/'));
 if(courseFiles.length!==expectedRoutes.size)errors.push(`Expected ${expectedRoutes.size} learning, book, chapter, research and reference HTML pages, got ${courseFiles.length}`);

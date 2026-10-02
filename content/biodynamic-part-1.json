@@ -1,0 +1,735 @@
+{
+  "id": 1,
+  "en": {
+    "question": "Why did agricultural difficulties lead Steiner to consider the relationships of an entire farm?",
+    "sources": "GA 327 Lecture 1, 7 June 1924; Lecture 2, 10 June 1924; report to Society members, 20 June 1924. Later context: Roderick Shouldice's 1993 foreword.",
+    "outcomes": [
+      "Explain who requested the 1924 course, what agricultural concerns motivated it, and why its indications were intended for practical trials.",
+      "Distinguish Steiner's original agricultural model, later biodynamic development, and questions that contemporary research can examine.",
+      "Explain farm individuality through soil, plants, animals and manure while retaining Steiner's qualification about self-sufficiency."
+    ],
+    "synthesis": {
+      "summary": [
+        "The course begins with a practical difficulty: farmers want their land, crops and animals to thrive. Steiner proposes that the answer requires relationships rather than isolated treatments. His later report connects the indications to farm information and trials; Lecture 2 gives the relationships an organizing centre in the farm individuality.",
+        "The fertility circuit makes that centre concrete. Soil supports crops; crops feed animals; animals provide manure that returns to the land. Steiner gives this circuit an additional spiritual interpretation and an ideal of internal support. Neither the visible circuit nor the later biodynamic name establishes every mechanism he proposes."
+      ],
+      "steps": [
+        "Reported difficulties in crop and animal vitality prompt an agricultural question",
+        "Steiner considers the relationships of soil, plants, animals and their surroundings",
+        "The farm individuality organizes feed and fertility as reciprocal processes",
+        "Practical indications are connected to local information and trials",
+        "Observed results and the proposed spiritual explanation remain distinct"
+      ],
+      "question": "Why does manure help explain farm individuality, and why would observing a manure cycle leave some of Steiner's claims untested?",
+      "answer": [
+        "Manure joins activities that can otherwise look separate. A farm's plants provide fodder; its animals transform that fodder; their manure returns material to the soil supporting later crops. For Steiner, an appropriate animal complement helps the farm approach internal self-support, although he explicitly says this ideal cannot be fully implemented.",
+        "Records can establish where fodder comes from, how much manure is available, and where it goes. Those observations do not by themselves establish his further claim that particular cosmic qualities pass through plant, animal and manure in a way especially suited to that farm. Testing outcomes and assessing the proposed explanation are different tasks."
+      ]
+    }
+  },
+  "pt": {
+    "question": "Por que dificuldades agrícolas levaram Steiner a considerar as relações de uma fazenda inteira?",
+    "sources": "GA 327, Palestra 1, 7 de junho de 1924; Palestra 2, 10 de junho de 1924; relato aos membros da Sociedade, 20 de junho de 1924. Contexto posterior: prefácio de Roderick Shouldice de 1993.",
+    "outcomes": [
+      "Explicar quem solicitou o curso de 1924, quais preocupações agrícolas o motivaram e por que suas indicações deveriam ser experimentadas na prática.",
+      "Distinguir o modelo agrícola original de Steiner, o desenvolvimento posterior da biodinâmica e as questões que a pesquisa contemporânea pode examinar.",
+      "Explicar a individualidade agrícola pelas relações entre solo, plantas, animais e esterco, preservando a ressalva de Steiner sobre a autossuficiência."
+    ],
+    "synthesis": {
+      "summary": [
+        "O curso começa com uma dificuldade prática: agricultores querem que suas terras, culturas e animais prosperem. Steiner propõe que a resposta exige compreender relações, em vez de tratamentos isolados. Seu relato posterior vincula as indicações a informações sobre as fazendas e a experimentos; a Palestra 2 organiza essas relações em torno da individualidade agrícola.",
+        "O circuito da fertilidade torna essa ideia concreta. O solo sustenta culturas; as culturas alimentam animais; os animais fornecem esterco que retorna à terra. Steiner acrescenta uma interpretação espiritual desse circuito e um ideal de sustentação interna. Nem o circuito visível nem o nome biodinâmica, adotado posteriormente, estabelecem todos os mecanismos que ele propõe."
+      ],
+      "steps": [
+        "Dificuldades relatadas na vitalidade de culturas e animais motivam uma questão agrícola",
+        "Steiner considera as relações entre solo, plantas, animais e seu entorno",
+        "A individualidade agrícola organiza alimentação e fertilidade como processos recíprocos",
+        "As indicações práticas são relacionadas a informações locais e a experimentos",
+        "Os resultados observados e a explicação espiritual proposta permanecem distintos"
+      ],
+      "question": "Por que o esterco ajuda a explicar a individualidade agrícola, e por que observar seu ciclo deixaria algumas afirmações de Steiner sem teste?",
+      "answer": [
+        "O esterco une atividades que podem parecer separadas. As plantas da fazenda fornecem forragem; seus animais transformam essa forragem; o esterco devolve material ao solo que sustentará novas culturas. Para Steiner, uma composição adequada de animais ajuda a fazenda a se aproximar da sustentação interna, embora ele diga explicitamente que esse ideal não pode ser implementado por completo.",
+        "Registros podem estabelecer de onde vem a forragem, quanto esterco está disponível e para onde ele vai. Essas observações não estabelecem, por si só, a afirmação adicional de que qualidades cósmicas específicas passam por planta, animal e esterco de modo especialmente adequado àquela fazenda. Testar resultados e avaliar a explicação proposta são tarefas distintas."
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "id": 1,
+      "titleEn": "Why Was the Agriculture Course Given?",
+      "titlePt": "Por que o Curso de Agricultura foi dado?",
+      "source": {
+        "sectionEn": "Report to members of the Anthroposophical Society after the Agriculture Course",
+        "sectionPt": "Relato aos membros da Sociedade Antroposófica após o Curso de Agricultura",
+        "date": "1924-06-20",
+        "captures": [
+          9,
+          10,
+          11
+        ],
+        "quoteCapture": 11,
+        "quoteEn": "These things are meant to enter right into practical life, so it does no good just to talk about them.",
+        "quotePt": "Essas coisas devem entrar diretamente na vida prática; por isso, não adianta apenas falar sobre elas.",
+        "pdfVerified": false,
+        "printedPages": null,
+        "additional": [
+          {
+            "labelEn": "Lecture 1: Koberwitz setting, practical judgment and the food-quality concern",
+            "labelPt": "Palestra 1: contexto de Koberwitz, julgamento prático e preocupação com a qualidade dos alimentos",
+            "date": "1924-06-07",
+            "captures": [
+              18,
+              19,
+              20,
+              28
+            ]
+          },
+          {
+            "labelEn": "Roderick Shouldice's foreword: later account of farmers' concerns; not Steiner's words",
+            "labelPt": "Prefácio de Roderick Shouldice: relato posterior das preocupações dos agricultores; não são palavras de Steiner",
+            "date": "1993",
+            "captures": [
+              7,
+              8
+            ]
+          }
+        ],
+        "markdownVerified": true
+      },
+      "en": {
+        "question": "What were the farmers asking Steiner to help them understand and improve?",
+        "intro": [
+          "A crop can look adequate at harvest while a farmer worries about its seeds, feeding value or performance in later seasons. Animals can raise related questions about health and feed. The Agriculture Course arose from such concerns about the continuing vitality of farming, rather than from a request for an abstract account of the universe."
+        ],
+        "proposal": [
+          "Steiner gave eight lectures at Koberwitz, Silesia, between 7 and 16 June 1924, with agricultural discussions as part of the gathering. Count and Countess Keyserlingk hosted it on their estate. In his report at Dornach on 20 June, Steiner says farmers in the Anthroposophical Society had requested the course and expected perspectives applicable to their work. His report includes forestry and gardening as well as crop and animal work. The report is a separate, subsequent text, not an additional Koberwitz lecture.",
+          "The concerns need careful attribution. Writing in the 1993 foreword, Roderick Shouldice describes farmers who had noticed declining plant and animal health and associated it with chemical fertilization. This is his later account of the setting. In Lecture 1, Steiner himself recalls potatoes tasting better in his childhood and claims that food's nutritive value has deteriorated. These accounts identify what troubled the speakers; they do not supply a controlled diagnosis of the causes.",
+          "Steiner's response was to widen the explanation. He would consider plant growth, animals, soil, manuring, weeds, pests and disease through relationships he believed material descriptions alone missed. In the June report, he connects practical indications with an Experimental Circle of farmers working with the Goetheanum's Natural Science Section. Information about soil, fodder, manure, climate and nearby forest was to guide further trials. He expressed confidence in the indications while also describing work still to be done, sometimes over several years."
+        ],
+        "model": [
+          "Farmers report difficulties in the vitality of crops and animals",
+          "Steiner proposes a broader account of their agricultural relationships",
+          "The course offers principles and practical indications",
+          "Farm information helps organize trials by practicing farmers",
+          "The intended outcome is knowledge that can enter agricultural work"
+        ],
+        "example": [
+          "Consider an invented farm whose saved seed germinates unevenly and whose owner worries about declining fodder quality. A useful first record separates these concerns: seed source and storage, germination observations, weather, crop handling and animal feed. Steiner's course asks the farmer to consider a larger network of relationships. The record gives that question a concrete setting; it does not identify a cause merely because several difficulties occur together."
+        ],
+        "anthroposophy": [
+          "Anthroposophy is the spiritual approach from which Steiner speaks. He calls for knowledge of dimensions of life and nature that he regards as more than physical matter. In this opening lesson, understand the role of that claim: it motivates his search for additional relationships. The course will introduce those concepts through soil, plants and farm processes, so prior mastery of his cosmology is unnecessary."
+        ],
+        "modernContext": [
+          "A contemporary investigation also needs a clearly described problem. Poor germination, low yield and perceived taste changes are different outcomes and require different records. Comparing seasons can help define a question, while a claim about cause requires attention to other changes and suitable comparisons. Steiner's call for practical trials is historically significant, but the proposed trials are not automatically equivalent to a modern controlled study."
+        ],
+        "limits": [
+          "A report of decline establishes a historical concern, not its magnitude or cause. Steiner's confidence that trials would succeed records his expectation, not completed results. Keep three statements separate: what farmers reported, what he proposed, and what a later investigation actually observed."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "What best describes the course's practical starting point?",
+            "options": [
+              "A request to replace agricultural experience with a complete planetary calendar",
+              "Farmers' concerns about agricultural vitality and a request for guidance applicable to their work",
+              "A completed comparison proving every later biodynamic practice"
+            ],
+            "answer": 1,
+            "explanation": "Steiner's June report identifies requests from farmers and an expectation of practical perspectives. It also describes further trials rather than presenting all outcomes as already established."
+          },
+          {
+            "question": "How should the 1993 foreword's account of chemical fertilization be used?",
+            "options": [
+              "As a sentence spoken by Steiner at Koberwitz",
+              "As independent proof of the cause of every reported difficulty",
+              "As Shouldice's later account of the concerns motivating the course"
+            ],
+            "answer": 2,
+            "explanation": "The foreword has its own author and date. It provides historical context, while its causal account requires evidence beyond the fact that it appears in the edition."
+          },
+          {
+            "type": "reflection",
+            "question": "Choose one agricultural concern and distinguish its observation, possible causes and a question suitable for investigation.",
+            "explanation": "For example, record uneven germination as the observation; list seed age, storage and growing conditions as possibilities; then ask how comparable seed samples perform under the same conditions. A proposed explanation remains a proposal until evidence addresses it."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Choose an accessible garden, farm record or account from a grower. Identify one concern and return to it on three occasions or compare three dated records. Describe the concern before assigning a cause."
+          ],
+          "record": [
+            "Date and available weather or management information",
+            "The specific observation, such as uneven emergence or a reported feeding concern",
+            "Who made the report and what information is missing",
+            "A separate proposed explanation and the evidence it would require"
+          ],
+          "interpretation": "Repeated observations can clarify a problem and its timing. They do not automatically distinguish among possible causes or establish Steiner's additional spiritual explanation."
+        },
+        "connection": [
+          "The next lesson, What Is Biodynamic Agriculture?, distinguishes the 1924 course from the name, practices and interpretations that developed around it. This keeps the historical event separate from the later movement."
+        ],
+        "optional": [
+          {
+            "route": "agriculture/index.html",
+            "title": "Agriculture Course reading companion",
+            "label": "Read the June report and opening lecture in their wider source context."
+          }
+        ],
+        "tables": []
+      },
+      "pt": {
+        "question": "O que os agricultores pediam que Steiner os ajudasse a compreender e melhorar?",
+        "intro": [
+          "Uma cultura pode parecer adequada na colheita, enquanto o agricultor se preocupa com suas sementes, seu valor alimentar ou seu desempenho nas safras seguintes. Os animais podem suscitar questões relacionadas à saúde e à alimentação. O Curso de Agricultura surgiu dessas preocupações com a continuidade da vitalidade agrícola, em vez de um pedido por uma descrição abstrata do universo."
+        ],
+        "proposal": [
+          "Steiner deu oito palestras em Koberwitz, na Silésia, entre 7 e 16 de junho de 1924, com discussões agrícolas durante o encontro. O conde e a condessa Keyserlingk o receberam em sua propriedade. No relato feito em Dornach em 20 de junho, Steiner diz que agricultores da Sociedade Antroposófica haviam solicitado o curso e esperavam perspectivas aplicáveis ao trabalho. Seu relato inclui o trabalho com florestas e hortas, além de culturas e animais. Esse relato é um texto posterior e separado, não uma palestra adicional de Koberwitz.",
+          "As preocupações exigem atribuição cuidadosa. No prefácio de 1993, Roderick Shouldice descreve agricultores que haviam percebido uma piora na saúde de plantas e animais e a associavam à adubação química. Esse é seu relato posterior do contexto. Na Palestra 1, o próprio Steiner recorda que as batatas tinham sabor melhor em sua infância e afirma que o valor nutritivo dos alimentos se deteriorou. Esses relatos identificam o que preocupava seus autores; não fornecem um diagnóstico controlado das causas.",
+          "A resposta de Steiner foi ampliar a explicação. Ele examinaria crescimento vegetal, animais, solo, adubação, plantas espontâneas, pragas e doenças por meio de relações que, a seu ver, as descrições materiais isoladas não captavam. No relato de junho, vincula as indicações práticas a um Círculo Experimental de agricultores em colaboração com a Seção de Ciências Naturais do Goetheanum. Informações sobre solo, forragem, esterco, clima e florestas próximas deveriam orientar novos experimentos. Ele expressava confiança nas indicações e também descrevia trabalho ainda por fazer, às vezes durante vários anos."
+        ],
+        "model": [
+          "Agricultores relatam dificuldades na vitalidade de culturas e animais",
+          "Steiner propõe uma descrição mais ampla de suas relações agrícolas",
+          "O curso oferece princípios e indicações práticas",
+          "Informações sobre as fazendas ajudam agricultores a organizar experimentos",
+          "O resultado pretendido é um conhecimento que possa entrar no trabalho agrícola"
+        ],
+        "example": [
+          "Considere uma fazenda fictícia cujas sementes guardadas germinam de maneira desigual e cujo responsável teme uma queda na qualidade da forragem. Um primeiro registro útil separa essas preocupações: origem e armazenamento das sementes, observações de germinação, clima, manejo das culturas e alimentação dos animais. O curso de Steiner pede que o agricultor considere uma rede maior de relações. O registro dá um contexto concreto à questão; não identifica uma causa apenas porque várias dificuldades aparecem juntas."
+        ],
+        "anthroposophy": [
+          "A antroposofia é a abordagem espiritual a partir da qual Steiner fala. Ele propõe conhecer dimensões da vida e da natureza que considera mais do que matéria física. Nesta lição inicial, compreenda a função dessa afirmação: ela motiva a busca de relações adicionais. O curso apresentará esses conceitos por meio do solo, das plantas e dos processos da fazenda, de modo que não é necessário dominar previamente sua cosmologia."
+        ],
+        "modernContext": [
+          "Uma investigação contemporânea também precisa de um problema claramente descrito. Germinação deficiente, baixa produtividade e mudanças percebidas no sabor são resultados diferentes e exigem registros distintos. Comparar safras pode ajudar a definir uma pergunta, enquanto uma afirmação causal exige atenção a outras mudanças e comparações adequadas. O chamado de Steiner a experimentar na prática tem importância histórica, mas os experimentos propostos não equivalem automaticamente a um estudo controlado moderno."
+        ],
+        "limits": [
+          "Um relato de declínio estabelece uma preocupação histórica, não sua dimensão ou causa. A confiança de Steiner no sucesso dos experimentos registra sua expectativa, não resultados concluídos. Mantenha separadas três afirmações: o que os agricultores relataram, o que ele propôs e o que uma investigação posterior de fato observou."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "O que melhor descreve o ponto de partida prático do curso?",
+            "options": [
+              "Um pedido para substituir a experiência agrícola por um calendário planetário completo",
+              "Preocupações dos agricultores com a vitalidade agrícola e um pedido de orientação aplicável ao trabalho",
+              "Uma comparação concluída que comprovava todas as práticas biodinâmicas posteriores"
+            ],
+            "answer": 1,
+            "explanation": "O relato de junho identifica solicitações de agricultores e a expectativa de perspectivas práticas. Também descreve novos experimentos, em vez de apresentar todos os resultados como já estabelecidos."
+          },
+          {
+            "question": "Como usar o relato do prefácio de 1993 sobre a adubação química?",
+            "options": [
+              "Como uma frase dita por Steiner em Koberwitz",
+              "Como prova independente da causa de todas as dificuldades relatadas",
+              "Como o relato posterior de Shouldice sobre as preocupações que motivaram o curso"
+            ],
+            "answer": 2,
+            "explanation": "O prefácio tem autor e data próprios. Fornece contexto histórico, mas sua explicação causal exige evidência além do fato de aparecer na edição."
+          },
+          {
+            "type": "reflection",
+            "question": "Escolha uma preocupação agrícola e distinga sua observação, possíveis causas e uma pergunta adequada à investigação.",
+            "explanation": "Por exemplo, registre a germinação desigual como observação; liste idade das sementes, armazenamento e condições de cultivo como possibilidades; depois pergunte como amostras comparáveis germinam nas mesmas condições. Uma explicação proposta continua sendo uma proposta até que a evidência a examine."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Escolha uma horta acessível, um registro de fazenda ou um relato de alguém que cultiva. Identifique uma preocupação e retorne a ela em três ocasiões ou compare três registros datados. Descreva a preocupação antes de atribuir uma causa."
+          ],
+          "record": [
+            "Data e informações disponíveis sobre clima ou manejo",
+            "A observação específica, como emergência desigual ou uma preocupação relatada com a alimentação",
+            "Quem fez o relato e quais informações faltam",
+            "Uma explicação proposta, separada da observação, e a evidência que ela exigiria"
+          ],
+          "interpretation": "Observações repetidas podem esclarecer um problema e sua cronologia. Elas não distinguem automaticamente entre causas possíveis nem estabelecem a explicação espiritual adicional de Steiner."
+        },
+        "connection": [
+          "A próxima lição, O que é agricultura biodinâmica?, distingue o curso de 1924 do nome, das práticas e das interpretações que se desenvolveram em torno dele. Isso separa o acontecimento histórico do movimento posterior."
+        ],
+        "optional": [
+          {
+            "route": "agriculture/index.html",
+            "title": "Curso complementar de leitura de Agricultura",
+            "label": "Leia o relato de junho e a palestra inicial em seu contexto mais amplo."
+          }
+        ],
+        "tables": []
+      }
+    },
+    {
+      "id": 2,
+      "titleEn": "What Is Biodynamic Agriculture?",
+      "titlePt": "O que é agricultura biodinâmica?",
+      "source": {
+        "lecture": 1,
+        "date": "1924-06-07",
+        "captures": [
+          20,
+          21,
+          23,
+          24,
+          25,
+          26
+        ],
+        "quoteCapture": 21,
+        "quoteEn": "We must widen our outlook to include the cosmos.",
+        "quotePt": "Precisamos ampliar nossa perspectiva para incluir o cosmos.",
+        "pdfVerified": false,
+        "printedPages": null,
+        "additional": [
+          {
+            "labelEn": "Lecture 2: the farm individuality and plants–animals–manure relationship",
+            "labelPt": "Palestra 2: individualidade agrícola e relação entre plantas, animais e esterco",
+            "date": "1924-06-10",
+            "captures": [
+              29,
+              30,
+              39,
+              40,
+              41
+            ]
+          },
+          {
+            "labelEn": "Roderick Shouldice's foreword: the course as a foundation for later biodynamic development",
+            "labelPt": "Prefácio de Roderick Shouldice: o curso como fundamento do desenvolvimento biodinâmico posterior",
+            "date": "1993",
+            "captures": [
+              7,
+              8
+            ]
+          },
+          {
+            "labelEn": "Ehrenfried E. Pfeiffer, Appendix C: later naming history; original essay date in the editorial notes, not Steiner's words",
+            "labelPt": "Ehrenfried E. Pfeiffer, Apêndice C: história posterior do nome; data do ensaio original nas notas editoriais, não são palavras de Steiner",
+            "date": "1956 (reprinted in this edition in 1993)",
+            "captures": [
+              169,
+              172,
+              190,
+              191
+            ]
+          }
+        ],
+        "markdownVerified": true
+      },
+      "en": {
+        "question": "What makes biodynamics an agricultural approach rather than a collection of preparations?",
+        "intro": [
+          "Imagine being shown a compost heap, a cow horn and a planting calendar. The objects do not yet explain how a farmer understands the place or why those particular practices belong together. To understand biodynamics, begin with its organizing agricultural questions: how life develops, how fertility circulates, and how a farm relates to its surroundings."
+        ],
+        "proposal": [
+          "Here, biodynamic agriculture means the agricultural approach developed from Steiner's 1924 indications and their later interpretation and practice. The word points to life and active processes or forces; that is an orientation, not a definition of every procedure. In Appendix C, Ehrenfried E. Pfeiffer attributes the name Biodynamic Agricultural Method to the Experimental Circle, rather than to Steiner. This is a later historical account, not wording from a 1924 lecture. The name and preparation labels should not be projected back as though they were the titles and vocabulary of every Koberwitz lecture. GA 327 identifies the collected Agriculture Course material, not a contemporary farming standard.",
+          "Steiner's opening move is relational. In Lecture 1, he argues that a beet cannot be understood adequately by listing its constituents: soil, season and surroundings matter. He uses the compass needle, whose direction requires reference to the Earth, as an analogy for looking beyond an isolated object. He then extends the agricultural surroundings to the cosmos. The analogy explains his reasoning; it does not demonstrate that every proposed planetary influence exists.",
+          "The approach has several connected elements. Lecture 2 organizes soil, crops, livestock and manure around a farm individuality. Later lectures address manuring, preparations, weeds, pests, plant disease and animal feeding. The preparations are intended to act within this account of farm life. Learning only their materials or numbers would leave unanswered why Steiner introduces them and what relations he thinks they influence. Roderick Shouldice's 1993 foreword accordingly presents the course as a foundation for the later method, while describing an audience of experienced farmers."
+        ],
+        "model": [
+          "Begin with a crop or farm process that needs explanation",
+          "Consider its relationships with soil, plants, animals and surroundings",
+          "Steiner adds proposed cosmic and spiritual dimensions to those relationships",
+          "Practical indications are intended to support the farm's connected life processes"
+        ],
+        "example": [
+          "In an invented mixed farm, a gardener notices that the vegetable plots, fodder fields and livestock yard are managed as separate jobs. Mapping the links changes the questions: Which crops feed animals? Where does their manure go? What returns to the vegetable soil? This makes the whole-farm approach intelligible before any preparation is discussed. A later choice of preparation would need its own source explanation and evidence; the map alone supplies neither."
+        ],
+        "anthroposophy": [
+          "Within Steiner's account, cosmic means more than ordinary sunlight or weather. He proposes differentiated influences from the Sun, Moon and planets, mediated through substances and living processes. Etheric and astral are further terms for life-forming activity and sensitivity in this spiritual model. They will be explained where the agricultural processes require them. These terms are not alternative names for already measured soil properties."
+        ],
+        "modernContext": [
+          "Biodynamic and organic farming share concerns such as soil care, organic matter and fertility management. The specific inheritance from GA 327 includes an anthroposophical interpretation, preparations and attention to rhythms. Shared practices do not show that every organic farmer accepts that interpretation, or that those practices originated exclusively with biodynamics. Today's labels and standards also have a later history; they cannot be read directly off the 1924 lectures. When comparing farms, ask which practices and outcomes are actually being compared."
+        ],
+        "limits": [
+          "Distinguish the original teaching, later practical development and modern evaluation. A practice can be historically derived from Steiner without its proposed mechanism having been demonstrated. Likewise, observing a useful compost or soil outcome does not identify which part of a whole management system caused it."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "Why does this course introduce the farm relationships before preparation numbers?",
+            "options": [
+              "Because the preparations have no place in Steiner's teaching",
+              "Because all later farming practices were already fixed in 1924",
+              "Because the intended role of a preparation depends on the farm processes it is meant to influence"
+            ],
+            "answer": 2,
+            "explanation": "Steiner develops relationships before giving practical indications. Materials and numbers alone do not explain the agricultural problem or proposed function."
+          },
+          {
+            "question": "What does the compass analogy establish in this lesson?",
+            "options": [
+              "How Steiner argues for considering an organism's wider surroundings",
+              "That each planetary claim has been experimentally demonstrated",
+              "That local soil and weather observations can be omitted"
+            ],
+            "answer": 0,
+            "explanation": "The compass provides an analogy for relational explanation. Extending that reasoning to particular planetary mechanisms adds claims that require their own assessment."
+          },
+          {
+            "type": "reflection",
+            "question": "Explain biodynamics to a beginner without beginning with a list of preparations.",
+            "explanation": "Start with a farm understood through its soil, crops, animals and fertility relationships. Then identify Steiner's additional spiritual interpretation and the later practical development from his course. Explain that preparations belong within this system rather than defining the entire approach."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Use an accessible place or an existing farm plan. On three visits or dated records, trace one relationship between two activities, such as harvested plants becoming compost or fodder becoming part of animal feeding."
+          ],
+          "record": [
+            "The two activities and the material or action linking them",
+            "What you can directly observe or verify in a record",
+            "An unanswered question about the relationship",
+            "Any anthroposophical interpretation in a separate paragraph"
+          ],
+          "interpretation": "A documented connection can support a description of the farming system. It does not turn an additional spiritual interpretation into an observed fact."
+        },
+        "connection": [
+          "The Farm as an Individuality gives these relationships a central organizing idea. The next lesson asks how a farm might support more of its own needs while acknowledging the limits of that ideal."
+        ],
+        "optional": [
+          {
+            "route": "what-is-biodynamics/lessons/01.html",
+            "title": "Hugh Courtney's introduction",
+            "label": "Secondary commentary: compare its explanation with GA 327 without attributing Courtney's wording to Steiner."
+          }
+        ],
+        "tables": [
+          {
+            "caption": "Three layers to keep distinct",
+            "headers": [
+              "Layer",
+              "What to identify",
+              "Question to ask"
+            ],
+            "rows": [
+              [
+                "Steiner's 1924 teaching",
+                "The agricultural problem and the relationship or mechanism he proposes",
+                "What does the source actually say?"
+              ],
+              [
+                "Later biodynamic development",
+                "Names, practical conventions and interpretations added in subsequent work",
+                "Who introduced this formulation or practice?"
+              ],
+              [
+                "Modern evaluation",
+                "A defined outcome, comparison and basis for causal inference",
+                "What was measured, and which explanation was tested?"
+              ]
+            ],
+            "credit": "Original course comparison, anchored in GA 327 Lecture 1 (Creeger/Gardner 1993 Markdown captures 20–21), Lecture 2 (29, 39), the June 20 report (11), and Shouldice's separately authored foreword (7–8). This table does not certify current farming standards or research findings."
+          }
+        ]
+      },
+      "pt": {
+        "question": "O que faz da biodinâmica uma abordagem agrícola, em vez de uma coleção de preparados?",
+        "intro": [
+          "Imagine que alguém lhe mostre uma pilha de composto, um chifre bovino e um calendário de plantio. Os objetos ainda não explicam como um agricultor compreende o lugar nem por que aquelas práticas pertencem ao mesmo conjunto. Para compreender a biodinâmica, comece por suas questões agrícolas organizadoras: como a vida se desenvolve, como a fertilidade circula e como uma fazenda se relaciona com seu entorno."
+        ],
+        "proposal": [
+          "Aqui, agricultura biodinâmica significa a abordagem agrícola desenvolvida a partir das indicações de Steiner de 1924 e de sua interpretação e prática posteriores. A palavra aponta para a vida e para processos ou forças atuantes; essa é uma orientação, não uma definição de todos os procedimentos. No Apêndice C, Ehrenfried E. Pfeiffer atribui o nome Método Agrícola Biodinâmico ao Círculo Experimental, e não a Steiner. Esse é um relato histórico posterior, não a redação de uma palestra de 1924. O nome e os rótulos dos preparados não devem ser projetados para trás, como se fossem os títulos e o vocabulário de cada palestra de Koberwitz. GA 327 identifica o conjunto do Curso de Agricultura, não uma norma agrícola contemporânea.",
+          "O movimento inicial de Steiner é relacional. Na Palestra 1, argumenta que uma beterraba não pode ser compreendida adequadamente pela lista de seus componentes: solo, época do ano e entorno importam. Usa a agulha da bússola, cuja direção exige referência à Terra, como analogia para olhar além de um objeto isolado. Depois amplia o entorno agrícola para incluir o cosmos. A analogia explica seu raciocínio; não demonstra que exista cada influência planetária proposta.",
+          "A abordagem tem vários elementos conectados. A Palestra 2 organiza solo, culturas, criação animal e esterco em torno de uma individualidade agrícola. As palestras seguintes abordam adubação, preparados, plantas espontâneas, pragas, doenças vegetais e alimentação animal. Os preparados devem atuar dentro dessa descrição da vida da fazenda. Aprender apenas seus materiais ou números deixaria sem resposta por que Steiner os introduz e quais relações acredita que eles influenciam. Assim, o prefácio de Roderick Shouldice de 1993 apresenta o curso como fundamento do método posterior e descreve um público de agricultores experientes."
+        ],
+        "model": [
+          "Comece por uma cultura ou um processo agrícola que precise de explicação",
+          "Considere suas relações com solo, plantas, animais e entorno",
+          "Steiner acrescenta dimensões cósmicas e espirituais propostas a essas relações",
+          "As indicações práticas pretendem apoiar os processos vitais conectados da fazenda"
+        ],
+        "example": [
+          "Em uma fazenda mista fictícia, uma pessoa percebe que canteiros de hortaliças, campos de forragem e instalações de criação são administrados como trabalhos separados. Mapear os vínculos muda as perguntas: quais culturas alimentam os animais? Para onde vai o esterco? O que retorna ao solo das hortaliças? Isso torna compreensível a abordagem da fazenda inteira antes de discutir qualquer preparado. Uma escolha posterior de preparado precisaria de sua própria explicação nas fontes e de evidência; o mapa, por si só, não fornece nenhuma das duas."
+        ],
+        "anthroposophy": [
+          "Na descrição de Steiner, cósmico significa mais do que luz solar ou clima comuns. Ele propõe influências diferenciadas do Sol, da Lua e dos planetas, mediadas por substâncias e processos vivos. Etérico e astral são outros termos para atividade formadora da vida e sensibilidade nesse modelo espiritual. Serão explicados onde os processos agrícolas os exigirem. Esses termos não são outros nomes para propriedades do solo já medidas."
+        ],
+        "modernContext": [
+          "A agricultura biodinâmica e a orgânica compartilham preocupações como cuidado com o solo, matéria orgânica e manejo da fertilidade. A herança específica de GA 327 inclui uma interpretação antroposófica, preparados e atenção aos ritmos. Práticas compartilhadas não mostram que todo agricultor orgânico aceite essa interpretação, nem que tais práticas tenham surgido exclusivamente com a biodinâmica. Os rótulos e as normas de hoje também têm uma história posterior; não podem ser extraídos diretamente das palestras de 1924. Ao comparar fazendas, pergunte quais práticas e resultados estão sendo efetivamente comparados."
+        ],
+        "limits": [
+          "Distinga o ensinamento original, o desenvolvimento prático posterior e a avaliação moderna. Uma prática pode derivar historicamente de Steiner sem que seu mecanismo proposto tenha sido demonstrado. Da mesma forma, observar um resultado útil no composto ou no solo não identifica qual parte de um sistema completo de manejo o causou."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "Por que este curso apresenta as relações da fazenda antes dos números dos preparados?",
+            "options": [
+              "Porque os preparados não têm lugar no ensinamento de Steiner",
+              "Porque todas as práticas agrícolas posteriores já estavam fixadas em 1924",
+              "Porque a função pretendida de um preparado depende dos processos da fazenda que ele deve influenciar"
+            ],
+            "answer": 2,
+            "explanation": "Steiner desenvolve relações antes de apresentar indicações práticas. Materiais e números, isoladamente, não explicam o problema agrícola nem a função proposta."
+          },
+          {
+            "question": "O que a analogia da bússola estabelece nesta lição?",
+            "options": [
+              "Como Steiner argumenta a favor de considerar o entorno mais amplo de um organismo",
+              "Que cada afirmação planetária foi demonstrada experimentalmente",
+              "Que as observações locais de solo e clima podem ser dispensadas"
+            ],
+            "answer": 0,
+            "explanation": "A bússola fornece uma analogia para a explicação relacional. Estender esse raciocínio a mecanismos planetários específicos acrescenta afirmações que exigem avaliação própria."
+          },
+          {
+            "type": "reflection",
+            "question": "Explique a biodinâmica a uma pessoa iniciante sem começar por uma lista de preparados.",
+            "explanation": "Comece por uma fazenda compreendida pelas relações entre solo, culturas, animais e fertilidade. Depois identifique a interpretação espiritual adicional de Steiner e o desenvolvimento prático posterior a partir de seu curso. Explique que os preparados pertencem a esse sistema, em vez de definirem toda a abordagem."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Use um lugar acessível ou um plano de fazenda existente. Em três visitas ou registros datados, acompanhe uma relação entre duas atividades, como plantas colhidas tornando-se composto ou forragem participando da alimentação animal."
+          ],
+          "record": [
+            "As duas atividades e o material ou a ação que as conecta",
+            "O que você pode observar diretamente ou verificar em um registro",
+            "Uma pergunta ainda sem resposta sobre a relação",
+            "Qualquer interpretação antroposófica em um parágrafo separado"
+          ],
+          "interpretation": "Uma conexão documentada pode apoiar a descrição do sistema agrícola. Ela não transforma uma interpretação espiritual adicional em fato observado."
+        },
+        "connection": [
+          "A fazenda como individualidade dá a essas relações uma ideia organizadora central. A próxima lição pergunta como uma fazenda poderia atender a uma parcela maior de suas próprias necessidades, reconhecendo os limites desse ideal."
+        ],
+        "optional": [
+          {
+            "route": "what-is-biodynamics/lessons/01.html",
+            "title": "Introdução de Hugh Courtney",
+            "label": "Comentário secundário: compare sua explicação com GA 327 sem atribuir a redação de Courtney a Steiner."
+          }
+        ],
+        "tables": [
+          {
+            "caption": "Três camadas que devem permanecer distintas",
+            "headers": [
+              "Camada",
+              "O que identificar",
+              "Pergunta orientadora"
+            ],
+            "rows": [
+              [
+                "Ensinamento de Steiner de 1924",
+                "O problema agrícola e a relação ou o mecanismo que ele propõe",
+                "O que a fonte realmente diz?"
+              ],
+              [
+                "Desenvolvimento biodinâmico posterior",
+                "Nomes, convenções práticas e interpretações acrescentadas no trabalho subsequente",
+                "Quem introduziu essa formulação ou prática?"
+              ],
+              [
+                "Avaliação moderna",
+                "Um resultado definido, uma comparação e uma base para inferência causal",
+                "O que foi medido, e qual explicação foi testada?"
+              ]
+            ],
+            "credit": "Comparação original do curso, apoiada em GA 327, Palestra 1 (Creeger/Gardner 1993, capturas 20–21 do Markdown), Palestra 2 (29, 39), relato de 20 de junho (11) e prefácio de autoria separada de Shouldice (7–8). Esta tabela não certifica normas agrícolas atuais nem resultados de pesquisa."
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "titleEn": "The Farm as an Individuality",
+      "titlePt": "A fazenda como individualidade",
+      "source": {
+        "lecture": 2,
+        "date": "1924-06-10",
+        "captures": [
+          29,
+          30,
+          31,
+          39,
+          40,
+          41
+        ],
+        "quoteCapture": 29,
+        "quoteEn": "As I said, these things cannot be strictly implemented, but if we want to organize things appropriately, we must still realize how necessary it is for a farm to be self-contained.",
+        "quotePt": "Como eu disse, essas coisas não podem ser implementadas rigorosamente; mas, se quisermos organizá-las de maneira adequada, ainda precisamos reconhecer quanto é necessário que uma fazenda se sustente por si mesma.",
+        "pdfVerified": false,
+        "printedPages": null,
+        "additional": [
+          {
+            "labelEn": "Lecture 1: the crop's relationships with soil, season and wider surroundings",
+            "labelPt": "Palestra 1: relações da cultura com solo, época do ano e entorno mais amplo",
+            "date": "1924-06-07",
+            "captures": [
+              20,
+              21
+            ]
+          }
+        ],
+        "markdownVerified": true
+      },
+      "en": {
+        "question": "What does Steiner mean by a farm approaching a self-contained individuality?",
+        "intro": [
+          "A farm produces some things, buys others and sends products away. It also has internal connections: crops supply fodder, animals produce manure, and manure returns to land. Steiner asks how these activities might fit together so that the farm supports more of its own agricultural needs. His answer is an ideal to approach, with an explicit limit."
+        ],
+        "proposal": [
+          "At the opening of Lecture 2, Steiner calls the farm a kind of independent individuality. He immediately says that complete self-containment cannot be achieved, although it should be approached. Within this ideal, the farm would produce what it needs, including an appropriate animal complement. External fertilizers are compared to remedies for a sickened farm. That comparison expresses his ideal of health; it must be read alongside his repeated qualification, rather than turned into an absolute ban on outside materials.",
+          "Individuality is more specific than a collection of useful components. A particular farm has its own soil, underlying geology, plants and animal relationships. Steiner wants the parts to be organized in relation to that whole. He treats the soil as an organ rather than an inert floor and offers an approximate analogy with a diaphragm: the agricultural individuality's head is below ground and its belly above. This unusual image will be unpacked through soil processes in Part II; it is not a literal claim that the farm has human anatomy.",
+          "The feed–manure relationship makes the ideal practical. Later in Lecture 2, Steiner proposes that the right number and mixture of animals would consume the plants the land supplies and produce the manure the land needs. He invites this assertion to be tested and predicts confirmation. He gives no universal stocking formula there. The important relationship is reciprocal: the choice of animals depends on the land's plants, while the land's fertility is related to what those animals return."
+        ],
+        "model": [
+          "A particular soil and landscape support agricultural plants",
+          "Some plants provide fodder for the farm's animals",
+          "An appropriate animal complement consumes that fodder",
+          "Animal digestion produces manure",
+          "Manure returns to the land within the farm's fertility management",
+          "The soil supports subsequent plant growth",
+          "The farmer reviews the whole and its continuing external needs"
+        ],
+        "example": [
+          "Imagine a fictional farm with vegetables, a fodder field and a small cattle herd. Its map shows hay arriving from another holding, manure leaving one yard for a compost area, and purchased material entering the vegetable plots. These arrows reveal questions rather than automatic defects: how much feed can the available land provide, where are fertility materials needed, and which outside supplies remain necessary? Applying Steiner's ideal means considering these links together. It does not mean assuming the map already proves a suitable herd size."
+        ],
+        "anthroposophy": [
+          "Steiner also gives individuality an interpretation beyond material circulation. He says the cosmic qualities expressed in a plant pass through animal digestion, making the resulting manure appropriate for the soil where that plant grew. This explains why, in his model, manure from one's own animals has a significance not exhausted by its chemical constituents. The observable feeding and manure circuit and this additional account must remain distinguishable."
+        ],
+        "modernContext": [
+          "A contemporary farm map can describe inputs, outputs, feed availability and the destination of manure or plant residues. Landscape belongs in that map through conditions such as water, shade, neighbouring vegetation and the location of fields. A map is a starting description, not a complete nutrient budget: crops sold off the farm and other losses also matter. The extent of internal support must be examined for a particular holding rather than inferred from the presence of livestock alone."
+        ],
+        "limits": [
+          "The source proposes correspondence between an appropriate animal complement and manure needs; it does not report a measured rule that fits every farm. Internal recycling can be documented while external needs remain. Steiner's qualification and his invitation to trials should both accompany the ideal of farm individuality."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "Which explanation preserves Steiner's qualification?",
+            "options": [
+              "A farm should approach internal self-support, although complete self-containment cannot be achieved",
+              "Any outside material automatically disproves farm individuality",
+              "The farm's needs are independent of its animal complement"
+            ],
+            "answer": 0,
+            "explanation": "Lecture 2 presents self-containment as a direction to approach and expressly limits its full implementation. Appropriate livestock is part of the ideal, not a substitute for examining the whole."
+          },
+          {
+            "question": "What would a map of fodder and manure movements establish most directly?",
+            "options": [
+              "The precise planetary qualities transmitted through animal digestion",
+              "The documented connections, sources and destinations within the farm's management",
+              "A universal number of animals required for every soil"
+            ],
+            "answer": 1,
+            "explanation": "A map can show recorded material relationships. Steiner's proposed cosmic interpretation and a general stocking rule require further kinds of evidence; neither follows simply from drawing the arrows."
+          },
+          {
+            "type": "reflection",
+            "question": "How could a garden without livestock use the farm-individuality question, and where would the analogy need qualification?",
+            "explanation": "Map its plants, residues, compost, water, supplies and harvested outputs to ask how the parts support one another. State explicitly that this adapts the whole-place question; it does not reproduce Steiner's proposed farm relationship among fodder, livestock and manure."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Draw a map of a farm, garden or documented holding. Revisit it three times, adding an input, an output or an internal connection at each visit. Include the surrounding landscape and mark unknown connections as questions."
+          ],
+          "record": [
+            "Soil areas, crops and any animals actually present",
+            "Fodder, plant residues, manure or compost movements that can be observed or documented",
+            "Materials entering and products leaving the place",
+            "A separate note explaining which part of Steiner's model you are applying"
+          ],
+          "interpretation": "Your map can describe connections and continuing dependence on outside supplies. It cannot by itself establish a balanced nutrient budget or demonstrate the proposed cosmic qualities of manure."
+        },
+        "connection": [
+          "Part II begins with What Is Soil? The whole-farm question now leads to its foundation: why Steiner treats the ground as an active participant in growth, and how that account differs from a modern description of soil."
+        ],
+        "optional": [
+          {
+            "route": "agriculture/index.html",
+            "title": "Read Lecture 2 in the full reading companion",
+            "label": "Follow the qualified self-support ideal through soil, plant form and the animal–manure relationship."
+          }
+        ],
+        "tables": []
+      },
+      "pt": {
+        "question": "O que Steiner quer dizer com uma fazenda que se aproxima de uma individualidade autossustentada?",
+        "intro": [
+          "Uma fazenda produz algumas coisas, compra outras e envia produtos para fora. Também tem conexões internas: culturas fornecem forragem, animais produzem esterco e o esterco retorna à terra. Steiner pergunta como essas atividades poderiam se ajustar para que a fazenda atendesse a uma parcela maior de suas próprias necessidades agrícolas. Sua resposta é um ideal do qual se aproximar, com um limite explícito."
+        ],
+        "proposal": [
+          "No início da Palestra 2, Steiner chama a fazenda de uma espécie de individualidade independente. Diz imediatamente que a autossustentação completa não pode ser alcançada, embora se deva aproximar dela. Nesse ideal, a fazenda produziria aquilo de que precisa, incluindo uma composição adequada de animais. Adubos externos são comparados a remédios para uma fazenda adoecida. Essa comparação expressa seu ideal de saúde; deve ser lida junto à ressalva repetida, em vez de ser transformada em proibição absoluta de materiais externos.",
+          "Individualidade é algo mais específico do que uma coleção de componentes úteis. Uma fazenda particular tem seu próprio solo, sua geologia subjacente, suas plantas e suas relações com animais. Steiner quer organizar as partes em relação a esse todo. Trata o solo como órgão, em vez de piso inerte, e oferece uma analogia aproximada com o diafragma: a cabeça da individualidade agrícola fica abaixo do solo, e seu ventre, acima. Essa imagem incomum será examinada pelos processos do solo na Parte II; não é uma afirmação literal de que a fazenda tenha anatomia humana.",
+          "A relação entre alimentação e esterco torna o ideal prático. Mais adiante na Palestra 2, Steiner propõe que a quantidade e a combinação adequadas de animais consumiriam as plantas fornecidas pela terra e produziriam o esterco de que ela precisa. Convida a testar essa afirmação e prevê sua confirmação. Não oferece ali uma fórmula universal de lotação animal. A relação importante é recíproca: a escolha dos animais depende das plantas da terra, enquanto sua fertilidade se relaciona com o que esses animais devolvem."
+        ],
+        "model": [
+          "Um solo e uma paisagem particulares sustentam plantas agrícolas",
+          "Algumas plantas fornecem forragem aos animais da fazenda",
+          "Uma composição adequada de animais consome essa forragem",
+          "A digestão animal produz esterco",
+          "O esterco retorna à terra no manejo da fertilidade da fazenda",
+          "O solo sustenta o crescimento vegetal seguinte",
+          "O agricultor revê o conjunto e suas necessidades externas persistentes"
+        ],
+        "example": [
+          "Imagine uma fazenda fictícia com hortaliças, um campo de forragem e um pequeno rebanho bovino. Seu mapa mostra feno chegando de outra propriedade, esterco saindo de uma instalação para uma área de compostagem e material comprado entrando nos canteiros. Essas setas revelam perguntas, em vez de defeitos automáticos: quanto alimento a terra disponível pode fornecer, onde são necessários materiais de fertilidade e quais suprimentos externos continuam necessários? Aplicar o ideal de Steiner significa considerar esses vínculos em conjunto. Não significa supor que o mapa já comprove um tamanho adequado de rebanho."
+        ],
+        "anthroposophy": [
+          "Steiner também dá à individualidade uma interpretação que vai além da circulação material. Diz que as qualidades cósmicas expressas em uma planta passam pela digestão animal, tornando o esterco resultante adequado ao solo onde aquela planta cresceu. Isso explica por que, em seu modelo, o esterco dos próprios animais tem um significado que não se esgota em seus componentes químicos. O circuito observável de alimentação e esterco e essa explicação adicional devem permanecer distinguíveis."
+        ],
+        "modernContext": [
+          "Um mapa contemporâneo de fazenda pode descrever entradas, saídas, disponibilidade de alimento animal e destino de esterco ou resíduos vegetais. A paisagem participa desse mapa por condições como água, sombra, vegetação vizinha e localização dos campos. Um mapa é uma descrição inicial, não um balanço completo de nutrientes: culturas vendidas para fora e outras perdas também importam. O grau de sustentação interna precisa ser examinado para uma propriedade particular, em vez de ser deduzido apenas da presença de animais."
+        ],
+        "limits": [
+          "A fonte propõe uma correspondência entre uma composição adequada de animais e as necessidades de esterco; não apresenta uma regra medida que sirva para toda fazenda. A reciclagem interna pode ser documentada enquanto necessidades externas persistem. Tanto a ressalva de Steiner quanto seu convite a experimentar devem acompanhar o ideal de individualidade agrícola."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "Qual explicação preserva a ressalva de Steiner?",
+            "options": [
+              "Uma fazenda deve se aproximar da sustentação interna, embora a autossustentação completa não possa ser alcançada",
+              "Qualquer material externo automaticamente refuta a individualidade agrícola",
+              "As necessidades da fazenda independem de sua composição de animais"
+            ],
+            "answer": 0,
+            "explanation": "A Palestra 2 apresenta a autossustentação como uma direção da qual se aproximar e limita expressamente sua implementação completa. A criação adequada faz parte do ideal, sem substituir o exame do todo."
+          },
+          {
+            "question": "O que um mapa dos movimentos de forragem e esterco estabeleceria mais diretamente?",
+            "options": [
+              "As qualidades planetárias precisas transmitidas pela digestão animal",
+              "As conexões, origens e destinos documentados no manejo da fazenda",
+              "Uma quantidade universal de animais necessária para todo solo"
+            ],
+            "answer": 1,
+            "explanation": "Um mapa pode mostrar relações materiais registradas. A interpretação cósmica proposta por Steiner e uma regra geral de lotação exigem outros tipos de evidência; nenhuma decorre apenas de desenhar as setas."
+          },
+          {
+            "type": "reflection",
+            "question": "Como uma horta sem criação animal poderia usar a questão da individualidade agrícola, e onde a analogia precisaria de ressalvas?",
+            "explanation": "Mapeie plantas, resíduos, composto, água, suprimentos e produtos colhidos para perguntar como as partes se apoiam mutuamente. Declare que isso adapta a questão do lugar como um todo; não reproduz a relação proposta por Steiner entre forragem, criação animal e esterco."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Desenhe um mapa de uma fazenda, horta ou propriedade documentada. Retorne a ele três vezes, acrescentando uma entrada, uma saída ou uma conexão interna a cada visita. Inclua a paisagem ao redor e marque conexões desconhecidas como perguntas."
+          ],
+          "record": [
+            "Áreas de solo, culturas e animais que estejam de fato presentes",
+            "Movimentos de forragem, resíduos vegetais, esterco ou composto que possam ser observados ou documentados",
+            "Materiais que entram e produtos que saem do lugar",
+            "Uma nota separada explicando qual parte do modelo de Steiner está sendo aplicada"
+          ],
+          "interpretation": "Seu mapa pode descrever conexões e a dependência persistente de suprimentos externos. Não pode, por si só, estabelecer um balanço equilibrado de nutrientes nem demonstrar as qualidades cósmicas propostas para o esterco."
+        },
+        "connection": [
+          "A Parte II começa com O que é solo? A questão da fazenda inteira agora leva à sua base: por que Steiner trata o solo como participante ativo do crescimento e como essa descrição difere de uma descrição moderna do solo."
+        ],
+        "optional": [
+          {
+            "route": "agriculture/index.html",
+            "title": "Leia a Palestra 2 no curso complementar de leitura integral",
+            "label": "Acompanhe o ideal qualificado de sustentação interna pelo solo, pela forma vegetal e pela relação entre animais e esterco."
+          }
+        ],
+        "tables": []
+      }
+    }
+  ]
+}

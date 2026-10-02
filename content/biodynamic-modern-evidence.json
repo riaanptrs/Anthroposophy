@@ -1,0 +1,467 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-10-02",
+  "reviewPolicy": "sources contains reviewed material usable for teaching claims with precise extent and locators; optionalReadings contains corrected but unread papers and supports no teaching findings. PDF positions refer only to the actual downloaded modern documents. No external PDF is copied into the public site.",
+  "sources": [
+    {
+      "id": "demeter-standard",
+      "title": "International Demeter Biodynamic Standard",
+      "organization": "Biodynamic Federation Demeter International",
+      "url": "https://demeter.net/certification/standard/",
+      "kind": "official-standard",
+      "lessons": [
+        13,
+        14,
+        15,
+        16,
+        20,
+        21
+      ],
+      "plannedUse": "Teach the distinction between the 1924 course, a current certification standard, and evidence about outcomes. Use only the verified clauses below, with current version and applicable exemptions stated.",
+      "verificationStatus": "verified",
+      "accessChecked": "2026-10-02",
+      "fullTextReviewed": false,
+      "reviewedForTeaching": true,
+      "version": "English Version – 2026, linked by the official standard page; PDF cover says as of September 2025. Individual chapters retain their own revision dates.",
+      "reviewExtent": "Official standard landing page read in full. The 192-page English PDF was downloaded; the applicable introduction, certification, fertilisation, plant-care, biodiversity, preparation and livestock sections listed below were read. This is section-level review, not a claim that every processing or product chapter was read.",
+      "documents": [
+        {
+          "id": "demeter-standard-page",
+          "title": "The Demeter Standard",
+          "url": "https://demeter.net/certification/standard/",
+          "retrieved": "2026-10-02",
+          "sha256": "8f6ba2e6ccc77e91fbd8b5d09c9f55a18483dda0956fe78582f0fe2a3cc674d5",
+          "bytes": 128354,
+          "reviewExtent": "Full official page, including version links and certification explanation."
+        },
+        {
+          "id": "demeter-standard-2026",
+          "title": "Production, Processing and Labelling: International Standard for the use and certification of Demeter, Biodynamic and related trademarks",
+          "url": "https://demeter.net/wp-content/uploads/2025/11/2026_Int_Dem_bio_Standard_eng.pdf",
+          "retrieved": "2026-10-02",
+          "sha256": "4faed5c00d4717abc55313086b649d0214e1ad3e1819560148abf8debeec07f4",
+          "bytes": 2002080,
+          "reviewExtent": "PDF cover p.1; introduction and production principles pp.9–11; legal/certification context pp.15–19; fertilisation pp.51–55; biodiversity/environment pp.64–66; preparations pp.69–70; livestock/cooperation pp.70–72; feeding pp.77–79; Appendix 8 pp.122–124. Page locators are one-based positions in the downloaded PDF, not its occasionally inconsistent contents-page references.",
+          "pdfPages": 192
+        }
+      ],
+      "findings": [
+        {
+          "id": "demeter-certification-scope",
+          "kind": "standard-status",
+          "fact": "The official page describes the standard as minimum requirements for Demeter recognition, with annual compliance inspection in addition to organic inspection. It identifies the English version as decisive in cases of uncertainty and says member countries may impose additional requirements.",
+          "sourceDocument": "demeter-standard-page",
+          "locator": "The Demeter Standard; Biodynamic agriculture ensures high organic standards; version-language notice",
+          "teachingBoundary": "Certification establishes compliance with a specified standard. It is not an experiment establishing the effectiveness or spiritual mechanism of a preparation."
+        },
+        {
+          "id": "demeter-law-and-documentation",
+          "kind": "standard-requirement",
+          "fact": "National and international law takes precedence when it conflicts with the standard. Product history must be transparent and documented; the international standard is a baseline, with national details and documented exemption procedures.",
+          "sourceDocument": "demeter-standard-2026",
+          "locator": "Sections 2.5.1, 2.6.4–2.6.5 and summary, PDF pp.15–19",
+          "teachingBoundary": "Do not present a historical indication as present-day permission or replace the current local certifier’s applicable requirements with this course."
+        },
+        {
+          "id": "demeter-ordinary-fertility",
+          "kind": "standard-requirement",
+          "fact": "Fertilisation includes maintaining or increasing humus through cultivation, rotation, animal husbandry and fertilisation. Section 6.1.3 identifies composting and stable manure treated with compost preparations as the basis; extensive pastoral farms can have an approved alternative carrying compost preparations to the land annually. Nutrient input/output is to be balanced and fertilisation adapted to site, climate and farm type.",
+          "sourceDocument": "demeter-standard-2026",
+          "locator": "Sections 6.1.3–6.1.3.1, PDF pp.51–54",
+          "teachingBoundary": "This current normative framework supplements the lesson’s ordinary manure/compost relationship. It does not demonstrate etheric or astral activity, and its farm-type limits are not universal stocking formulas from Steiner."
+        },
+        {
+          "id": "demeter-preparations-required",
+          "kind": "standard-requirement",
+          "fact": "Section 6.2 requires the spray preparations across productive areas annually, with crop-stage and specified exemption provisions, and treatment of organic manures with compost preparations or an approved composite return where no prepared manure reaches an area. Stirring equipment or a contracted service is part of annual inspection.",
+          "sourceDocument": "demeter-standard-2026",
+          "locator": "Section 6.2, PDF pp.69–70",
+          "teachingBoundary": "State this as the reviewed international certification requirement, with exemptions and the 2026 version. It is not a measured result, nor a claim that every farm must use an identical compost-handling sequence."
+        },
+        {
+          "id": "demeter-appendix-status",
+          "kind": "standard-status",
+          "fact": "Appendix 8 explicitly calls its preparation-production and use guidance a recommendation only and directs readers to section 6.2 for the measures required for certification.",
+          "sourceDocument": "demeter-standard-2026",
+          "locator": "Appendix 8 opening, PDF p.122",
+          "teachingBoundary": "Do not elevate every suggested production detail in Appendix 8 into a mandatory certification clause, or use its claimed effects as independent research evidence."
+        },
+        {
+          "id": "demeter-livestock-cooperation",
+          "kind": "standard-requirement",
+          "fact": "The livestock section prefers ruminants on the holding or cooperation exchanging fodder and manure, and distinguishes perennial enterprises and market gardens. Cooperation can meet livestock requirements under documented conditions; stocking relates to fodder production, climate, local conditions and farm type.",
+          "sourceDocument": "demeter-standard-2026",
+          "locator": "Sections 6.3.2–6.3.4, PDF pp.70–72",
+          "teachingBoundary": "The current certification distinctions should not be flattened into a demand that every learner’s garden acquire animals. They also do not supply a universal herd size from the 1924 lectures."
+        },
+        {
+          "id": "demeter-biodiversity-plan",
+          "kind": "standard-requirement",
+          "fact": "Section 6.1.9.3 requires commitment to biodiversity. If the reserve on the farm and directly adjacent areas is below 10% of total farm area, an approved plan with a clear time frame is required, with specific glasshouse provisions and a note about member-country implementation. The listed qualifying areas include habitats such as woodland, hedges, wetland and undisturbed grassland.",
+          "sourceDocument": "demeter-standard-2026",
+          "locator": "Section 6.1.9.3, PDF pp.65–66",
+          "teachingBoundary": "The plan clause and scope matter; do not call this a universally identical 10% land prescription or scientific confirmation of Lecture 7’s attributed landscape mechanism."
+        },
+        {
+          "id": "demeter-plant-protection",
+          "kind": "standard-requirement",
+          "fact": "Plant-protection materials must be listed in Appendix 5 and bought-in products must avoid prohibited constituents; use of a non-permitted material can result in decertification under the applicable rules.",
+          "sourceDocument": "demeter-standard-2026",
+          "locator": "Section 6.1.4, PDF p.55",
+          "teachingBoundary": "Only this verified general requirement is used here. Appendix 5 was not fully reviewed and this register supplies no current pest-treatment protocol."
+        }
+      ],
+      "limitations": [
+        "Only the listed relevant PDF sections were reviewed; the complete 192-page corpus was not read.",
+        "Current requirements can be stricter nationally, and applicable exemptions and law matter.",
+        "Principles and asserted preparation effects within the standard are normative or attributed statements, not independent causal evidence."
+      ],
+      "verificationDetail": "verified-applicable-official-text"
+    },
+    {
+      "id": "dok-fibl",
+      "title": "DOK trial: long-term farming-system comparison; verified FiBL design and 2024 summaries",
+      "organization": "Research Institute of Organic Agriculture (FiBL)",
+      "url": "https://www.fibl.org/en/locations/switzerland/departments/soil-sciences/bw-projekte/dok-trial",
+      "kind": "research-institute",
+      "lessons": [
+        21,
+        22,
+        23
+      ],
+      "plannedUse": "Use FiBL’s actual design and explicitly attributed summary findings to explain whole-system evidence, defined outcomes, timescales and the limits of inferring preparation-specific causation.",
+      "verificationStatus": "verified",
+      "accessChecked": "2026-10-02",
+      "fullTextReviewed": false,
+      "reviewedForTeaching": true,
+      "bibliographicCorrection": "The proposed project/533 URL resolves to Group suckling of sows as a production system on organic farms. Correct FiBL DOK project is project/404; the linked trial page and publications below were inspected.",
+      "reviewExtent": "Official DOK trial and project pages read in full. Complete eight-page 2024 fact sheet read. Selected sections of the 52-page 2024 dossier were read for design, soil measurements, biodiversity scope and climate boundaries; this does not claim full-paper reading of the studies cited by FiBL.",
+      "documents": [
+        {
+          "id": "fibl-dok-trial",
+          "title": "DOK trial",
+          "url": "https://www.fibl.org/en/locations/switzerland/departments/soil-sciences/bw-projekte/dok-trial",
+          "retrieved": "2026-10-02",
+          "sha256": "1c1c5e0ad16375c31f87847455e5080311ffb6704156e9d3196958a81b22567c",
+          "bytes": 862921,
+          "reviewExtent": "Complete official page: Trial setup; Publications; selected-result summaries; project context."
+        },
+        {
+          "id": "fibl-dok-project",
+          "title": "DOK Experiment: Long-term study on bio-dynamic, bio-organic and conventional farming systems",
+          "url": "https://www.fibl.org/en/themes/projectdatabase/projectitem/project/404",
+          "retrieved": "2026-10-02",
+          "sha256": "706d24bddd647ed41c643085d90293eb807ab7f567107d31ab0fe36d0c645987",
+          "bytes": 647981,
+          "reviewExtent": "Complete official project page; modified 26 June 2026."
+        },
+        {
+          "id": "fibl-dok-dossier-2024",
+          "title": "The DOK Trial: A 45-year comparative study of organic and conventional cropping systems",
+          "url": "https://www.fibl.org/fileadmin/documents/shop/1741-dok-dossier-en.pdf",
+          "retrieved": "2026-10-02",
+          "sha256": "2f98337847cc0687332cdf1cfd1f9cab2e992b3893eb80cca85a4d1b0b66004f",
+          "bytes": 6867587,
+          "reviewExtent": "PDF pp.1–5, 9–17, 31–37, 43–44 and 52 reviewed; these include The trial, experimental design, fertilisation, rotation, plant protection, soil measurements, biodiversity scope, climate boundaries and imprint. Some adjacent yield text was consulted without treating the full chapter as reviewed.",
+          "pdfPages": 52
+        },
+        {
+          "id": "fibl-dok-factsheet-2024",
+          "title": "Organic farming in comparison: Results from 45 years of the DOK trial",
+          "url": "https://www.fibl.org/fileadmin/documents/shop/1787-dok-factsheet.pdf",
+          "retrieved": "2026-10-02",
+          "sha256": "5669d0f6b06dbbe2bca0f3af4ef1ebda9f85c77d4bc14e9d1883bf4a817dcc5b",
+          "bytes": 1278834,
+          "reviewExtent": "Complete fact sheet, PDF pp.1–8.",
+          "pdfPages": 8
+        }
+      ],
+      "dossierBibliography": {
+        "authors": "Andreas Fliessbach, Hans-Martin Krause, Klaus Jarosch, Jochen Mayer, Astrid Oberson, Paul Mäder",
+        "year": 2024,
+        "publisher": "Research Institute of Organic Agriculture FiBL, Frick; in collaboration with Agroscope and ETH Zurich",
+        "itemNumber": 1741,
+        "doi": "10.5281/zenodo.10568719",
+        "locator": "Dossier imprint, PDF p.52; official FiBL publication page https://www.fibl.org/en/shop-en/1741-dok-dossier-en"
+      },
+      "factSheetBibliography": {
+        "authors": "Vanessa Gabel, Andreas Fliessbach, Hans-Martin Krause, Paul Mäder",
+        "year": 2024,
+        "publisher": "Research Institute of Organic Agriculture FiBL, Frick",
+        "itemNumber": 1787,
+        "locator": "Fact sheet imprint, PDF p.8; official FiBL publication page https://www.fibl.org/en/shop-en/1787-dok-factsheet"
+      },
+      "findings": [
+        {
+          "id": "dok-setting-and-systems",
+          "kind": "research-design",
+          "fact": "DOK has run since 1978 at Therwil southwest of Basel on loess soils, comparing biodynamic, bio-organic and conventional cropping systems jointly managed by FiBL and Agroscope. It simulates arable/livestock systems; a conventional mineral-only system was introduced in 1985.",
+          "sourceDocument": "fibl-dok-trial",
+          "locator": "Introduction and Trial setup; dossier PDF p.9",
+          "teachingBoundary": "One long-term site supports defined comparisons; its location, crop rotation and changing management limit automatic transfer to every farm or climate."
+        },
+        {
+          "id": "dok-replication",
+          "kind": "research-design",
+          "fact": "The dossier describes 96 plots of 5 × 20 m: eight treatment combinations represented in four replicates and three staggered crop-rotation subplots. It calls the layout a randomised block design and accounts for subplot and plot clay content in soil-quality evaluation.",
+          "sourceDocument": "fibl-dok-dossier-2024",
+          "locator": "Experimental design, PDF p.10, Figure 4 and accompanying text",
+          "teachingBoundary": "Repeated dates, plots and subplots are different parts of the design. Do not call every repeated observation an independent replicate or confuse the treated systems with whole farms individually randomised across countries."
+        },
+        {
+          "id": "dok-co-varying-management",
+          "kind": "research-design",
+          "fact": "BIODYN uses manure compost, BIOORG rotted manure and CONFYM stacked manure. Nutrient quantities are explicitly not equivalent across the systems; mineral additions, seed treatment and plant protection also differ. The shared seven-year rotation has changed over the trial.",
+          "sourceDocument": "fibl-dok-dossier-2024",
+          "locator": "Fertilisation, PDF p.11; Crop rotation p.14; Plant protection p.15; Table 3 p.16",
+          "teachingBoundary": "A BIODYN–BIOORG or organic–conventional difference includes multiple management differences. It cannot be assigned to preparations alone from this comparison."
+        },
+        {
+          "id": "dok-unfertilized-treatment",
+          "kind": "research-design",
+          "fact": "The NOFERT system has received no fertiliser since the start, but has received biodynamic field preparations 500 and 501 since 1978, with plant protection corresponding to BIODYN.",
+          "sourceDocument": "fibl-dok-dossier-2024",
+          "locator": "The trial, PDF p.9; Table 3 p.16",
+          "teachingBoundary": "NOFERT must not be described as an untreated or preparation-free control. It does not by itself isolate preparation effects."
+        },
+        {
+          "id": "dok-sampling-and-standardization",
+          "kind": "measurement-design",
+          "fact": "For the long-term carbon analysis, annual soil samples from 0–20 cm after harvest were archived and most were analysed uniformly at the end of the sixth rotation period, to reduce changes due to personnel, equipment and methods. Crop-yield tables use dry matter and three harvests with four field replicates (n=12).",
+          "sourceDocument": "fibl-dok-dossier-2024",
+          "locator": "Soil carbon, PDF p.32; Crop yield opening, PDF p.17",
+          "teachingBoundary": "Defined depth, sampling time, consistent methods and units are part of evidence. Fresh-weight yields and dry-matter yields are not directly interchangeable."
+        },
+        {
+          "id": "dok-yield-tradeoff",
+          "kind": "reported-system-outcome",
+          "fact": "FiBL’s 2024 fact sheet reports average organic yield reductions of 20% over the first three rotation periods and 15% over six, with large crop differences: organic soybean yields were equally high, whereas the reported potato gap was much larger. It describes reduced inputs alongside these yield differences.",
+          "sourceDocument": "fibl-dok-factsheet-2024",
+          "locator": "Organic yields remain stable in the long term, PDF p.3; rotation periods defined in dossier Table 2, PDF p.14",
+          "teachingBoundary": "Attribute these figures to FiBL’s synthesis and its trial periods. They are not a universal yield response, not direct proof of preparation effects, and not a claim that this register reviewed Mäder 2002 or the later original yield paper. Stable yield levels over time do not mean equal statistical yield variability."
+        },
+        {
+          "id": "dok-carbon-and-biological-outcomes",
+          "kind": "reported-system-outcome",
+          "fact": "FiBL reports a significant 12% increase in top-20-cm organic-carbon stocks in BIODYN 2 between the first and sixth rotation periods, while BIOORG 2 and CONFYM 2 remained unchanged in that comparison. Reduced-fertilisation variants and CONMIN lost stocks. BIODYN had the highest microbial biomass at both fertilisation levels in the reported analyses.",
+          "sourceDocument": "fibl-dok-dossier-2024",
+          "locator": "Changes in carbon stock, PDF p.33; Microbial biomass, PDF p.34",
+          "teachingBoundary": "These are measured outcomes in specified systems, depth and periods. Dossier processing and input differences remain relevant; neither the result nor the microbial measure identifies an etheric, astral or preparation-specific cause."
+        },
+        {
+          "id": "dok-biodiversity-scale",
+          "kind": "research-scope",
+          "fact": "The dossier notes that 100 m² plots constrain biodiversity statements to frequency/activity at that scale, with movement and seed dispersal across plots. The work emphasises microorganisms, earthworms, weeds and some surface-active arthropods.",
+          "sourceDocument": "fibl-dok-dossier-2024",
+          "locator": "Biodiversity opening and Weed seed bank, PDF p.37",
+          "teachingBoundary": "Do not turn these plot observations into an unqualified statement about all landscape biodiversity or confirmation of Lecture 7’s claimed spiritual processes."
+        },
+        {
+          "id": "dok-climate-boundary",
+          "kind": "measurement-scope",
+          "fact": "The climate comparison combines soil-carbon changes over 42 years with nitrous-oxide and methane measurements during a 571-day campaign under grass clover, maize and green manure beginning in 2012. FiBL describes the comparison per unit area and within the field-trial boundary.",
+          "sourceDocument": "fibl-dok-dossier-2024",
+          "locator": "Climate change, PDF pp.43–44, Figure 38 caption; fact sheet p.5",
+          "teachingBoundary": "A field-soil, per-area result is not a complete farm life-cycle assessment, a per-kilogram-product result or evidence about every livestock emission. The time windows for stored carbon and gas measurements differ."
+        }
+      ],
+      "limitations": [
+        "Reviewed evidence here is FiBL’s official trial description and attributed 2024 summaries, not a claim of reading every underlying peer-reviewed paper.",
+        "Whole systems, processing and inputs co-vary; preparation-specific effects need an appropriately matched design.",
+        "The fact sheet is fully read; the longer dossier was reviewed only in the recorded sections.",
+        "Some dossier and fact-sheet summaries use different time periods and comparison groups. Preserve the stated units, depth, duration and systems when quoting results."
+      ],
+      "verificationDetail": "verified-official-page-and-dossier-sections"
+    },
+    {
+      "id": "usda-soil",
+      "title": "Soil Health",
+      "organization": "USDA Natural Resources Conservation Service",
+      "url": "https://www.nrcs.usda.gov/conservation-basics/soil/soil-health",
+      "kind": "official-agronomy",
+      "lessons": [
+        4,
+        6,
+        10,
+        11,
+        21,
+        22
+      ],
+      "plannedUse": "Teach the modern functional definition of soil health, physical/chemical/biological assessment and the need for baseline records and time, without equating these with Steiner’s spiritual activities.",
+      "verificationStatus": "verified",
+      "accessChecked": "2026-10-02",
+      "fullTextReviewed": true,
+      "reviewedForTeaching": true,
+      "reviewExtent": "Main content of the official Soil Health page and its linked Soil Health Testing page read in full. Linked laboratory technical notes and methods were not downloaded or claimed as reviewed.",
+      "documents": [
+        {
+          "id": "nrcs-soil-health",
+          "title": "Soil Health",
+          "url": "https://www.nrcs.usda.gov/conservation-basics/soil/soil-health",
+          "retrieved": "2026-10-02",
+          "sha256": "0cd4a38d73f46c7a2c959a565c73425a79d5c19a276e73aef4a54bc3843a661a",
+          "bytes": 256795,
+          "reviewExtent": "Complete main page content; original proposed URL redirects here."
+        },
+        {
+          "id": "nrcs-soil-health-testing",
+          "title": "Soil Health Testing",
+          "url": "https://www.nrcs.usda.gov/conservation-basics/soil/soil-health/soil-health-testing",
+          "retrieved": "2026-10-02",
+          "sha256": "8cb496d360dc2e67ccc81676c880fbaf12c1db5cbaf33e7546487c25e45bd21f",
+          "bytes": 235111,
+          "reviewExtent": "Complete main page content, including definitions, sampling/results links and CEMA descriptions."
+        }
+      ],
+      "findings": [
+        {
+          "id": "nrcs-functional-definition",
+          "kind": "modern-definition",
+          "fact": "NRCS defines soil health as the continued capacity of soil to function as a vital living ecosystem sustaining plants, animals and humans, and identifies water regulation, filtering, nutrient cycling, habitat and plant growth as functions.",
+          "sourceDocument": "nrcs-soil-health",
+          "locator": "What is Soil Health?",
+          "teachingBoundary": "Living ecosystem here is a functional biological description, not an assertion about etheric or astral activity."
+        },
+        {
+          "id": "nrcs-management-relations",
+          "kind": "modern-agronomic-context",
+          "fact": "The official page identifies reduced disturbance, soil cover, biodiversity and living roots as soil-health management principles and discusses soil health in cropland, forestland, pastureland and rangeland contexts.",
+          "sourceDocument": "nrcs-soil-health",
+          "locator": "Why is Soil Health Important?; Improving Soil Health on Your Land",
+          "teachingBoundary": "General principles are not a diagnosis or a guaranteed response in every location, and do not establish the additional mechanisms in Steiner’s account."
+        },
+        {
+          "id": "nrcs-tests-and-methods",
+          "kind": "measurement-context",
+          "fact": "NRCS describes soil-health testing as examination of biological, physical and chemical properties in field and laboratory settings. It distinguishes laboratory choice, sampling and interpreting results, and links guidance on accepted indicators and methods.",
+          "sourceDocument": "nrcs-soil-health-testing",
+          "locator": "What is a Soil Health Test?; How to Find a Laboratory; How to Sample; How to Use Results",
+          "teachingBoundary": "The linked detailed technical methods were not reviewed. Do not invent thresholds, protocols or treat a single favourable measurement as proof of a causal explanation."
+        },
+        {
+          "id": "nrcs-carbon-timescale",
+          "kind": "measurement-context",
+          "fact": "The CEMA 221 description calls for soil-carbon assessment before and after a new practice and says changes usually need observation over several years, often more than five.",
+          "sourceDocument": "nrcs-soil-health-testing",
+          "locator": "Conservation Evaluation and Monitoring Activities (CEMAs), CEMA 221 paragraph",
+          "teachingBoundary": "A learner’s three observation visits can build a record; they do not establish long-term carbon-stock change. The NRCS wording is qualified, not a fixed universal detection time."
+        }
+      ],
+      "limitations": [
+        "Only the two named official pages were read; their linked technical notes and research literature remain unreviewed.",
+        "Functional definitions and assessment categories support observation and research design, without verifying spiritual mechanisms or a preparation-specific result."
+      ],
+      "verificationDetail": "verified-official-pages"
+    }
+  ],
+  "optionalReadings": [
+    {
+      "id": "mader-2002",
+      "title": "Soil Fertility and Biodiversity in Organic Farming",
+      "authors": "P. Mäder, A. Fliessbach, D. Dubois, L. Gunst, P. Fried, U. Niggli",
+      "year": 2002,
+      "journal": "Science",
+      "doi": "10.1126/science.1071148",
+      "url": "https://www.science.org/doi/10.1126/science.1071148",
+      "kind": "peer-reviewed-research",
+      "lessons": [
+        22,
+        23
+      ],
+      "plannedUse": "Optional original-paper reading. No reported results are attributed to direct reading of this paper in the course. FiBL summary findings must cite the reviewed FiBL source instead.",
+      "verificationStatus": "bibliography-corroborated-full-text-unreviewed",
+      "accessChecked": "2026-10-02",
+      "fullTextReviewed": false,
+      "volume": 296,
+      "pages": "1694–1697",
+      "reviewedForTeaching": false,
+      "role": "optional-reading-proposal; not a source backing teaching claims",
+      "bibliographicVerification": {
+        "status": "corroborated in reviewed official/institute secondary bibliographies",
+        "locators": [
+          "FiBL 2024 DOK fact sheet, Literature item 1, PDF p.8: full author list, year, title, journal, volume and pages.",
+          "Demeter research booklet Facts on biodynamic agriculture, References, PDF position 12: matching title/year/volume/pages and DOI (the booklet footer uses its own pagination)."
+        ],
+        "directPaperReviewed": false
+      },
+      "accessResult": "Original Science DOI URL reaches the publisher but returns HTTP 403 with a Cloudflare access challenge. The configured proxy also denies the attempted PubMed and Organic Eprints destinations. No publisher or author-copy full text was obtained.",
+      "findings": []
+    },
+    {
+      "id": "brock-review-2019",
+      "title": "Research in biodynamic food and farming – a review",
+      "authors": "C. Brock, U. Geier, R. Greiner, M. Olbrich-Majer, J. Fritz",
+      "year": 2019,
+      "journal": "Open Agriculture",
+      "doi": "10.1515/opag-2019-0064",
+      "url": "https://doi.org/10.1515/opag-2019-0064",
+      "kind": "peer-reviewed-review",
+      "lessons": [
+        21,
+        22,
+        23
+      ],
+      "plannedUse": "Optional review-paper reading; coverage, included-study quality and results have not been checked from the full article and may not support course assertions yet.",
+      "verificationStatus": "bibliography-corroborated-full-text-unreviewed",
+      "accessChecked": "2026-10-02",
+      "fullTextReviewed": false,
+      "volume": 4,
+      "issue": 1,
+      "pages": "743–757",
+      "reviewedForTeaching": false,
+      "role": "optional-reading-proposal; not a source backing teaching claims",
+      "bibliographicCorrection": "The proposed journal Organic Agriculture and DOI 10.1007/s13165-019-00256-1 were wrong; that DOI returned 404. The reviewed bibliography identifies Open Agriculture and DOI 10.1515/opag-2019-0064.",
+      "bibliographicVerification": {
+        "status": "corroborated in reviewed official secondary bibliography and resolving DOI redirect",
+        "locators": [
+          "Demeter research booklet Facts on biodynamic agriculture, References, PDF position 11: author initials, title, journal, volume, issue, year, pages and correct DOI (the booklet footer uses its own pagination).",
+          "Correct DOI resolves to https://www.degruyter.com/document/doi/10.1515/opag-2019-0064/html before the configured proxy denies that publisher destination."
+        ],
+        "directPaperReviewed": false
+      },
+      "accessResult": "Correct DOI redirects to the De Gruyter publisher, where the configured proxy returns CONNECT 403. No full article was retrieved or reviewed.",
+      "findings": []
+    }
+  ],
+  "bibliographyVerificationDocuments": [
+    {
+      "id": "demeter-research-bibliography",
+      "title": "Facts on biodynamic agriculture: References",
+      "url": "https://demeter.net/wp-content/uploads/2024/05/EN_Booklet_BD.pdf",
+      "retrieved": "2026-10-02",
+      "sha256": "c2798c6180d002081732e24096b6c53d216be933c4caf6735def53a5800aa1fb",
+      "bytes": 10600212,
+      "reviewExtent": "Officially linked booklet consulted for bibliography: Brock reference at one-based PDF position 11, Mäder reference at position 12. Footer numbers are distinct. It is not used to substitute its summary for unread Mäder/Brock full articles.",
+      "pdfPages": 13
+    }
+  ],
+  "runtimeObservation": {
+    "checked": "2026-10-02",
+    "observationsCurrent": true,
+    "httpMode": "restricted",
+    "reportedPolicyState": "unknown",
+    "reportedAllowedHosts": [
+      "rsarchive.org",
+      "wn.rudolfsteinerelib.org"
+    ],
+    "note": "The status tool and startup policy snapshot do not establish enforcement of the latest draft. Actual requests through the inherited session proxy independently succeeded for the official Demeter, FiBL and USDA destinations. Shell sandbox initially could not connect to the proxy; the authorised read-only checks outside that shell sandbox retained the configured proxy and TLS verification."
+  },
+  "networkTests": {
+    "demeter.net": "HTTP 200: official page, 2026 standard PDF, research page and bibliography booklet.",
+    "www.fibl.org": "HTTP 200: original project URL was unrelated; corrected DOK pages, official dossier and fact sheet retrieved.",
+    "www.science.org": "Proxy tunnel established; publisher HTTP 403 Cloudflare challenge.",
+    "www.nrcs.usda.gov": "Original URL redirects to current Soil Health path; both health and linked testing pages HTTP 200.",
+    "doi.org": "Proposed Brock DOI HTTP 404; corrected DOI resolves to publisher.",
+    "www.degruyter.com": "Configured proxy CONNECT denied, HTTP 403.",
+    "api.crossref.org": "Configured proxy CONNECT denied, HTTP 403.",
+    "orgprints.org": "Configured proxy CONNECT denied, HTTP 403.",
+    "pubmed.ncbi.nlm.nih.gov": "Configured proxy CONNECT denied, HTTP 403.",
+    "idp.springer.com": "Publisher search redirect reaches configured proxy CONNECT denial, HTTP 403."
+  },
+  "limitations": [
+    "Modern teaching can use the three reviewed official/institute sources within their declared review extents. The two optional papers remain unread and back no teaching claims.",
+    "FiBL-reported DOK outcomes are attributed to FiBL’s reviewed synthesis, not to a claimed reading of each cited original paper.",
+    "Certification standards state requirements; whole-system trial outcomes and spiritual causal explanations are distinct kinds of claim.",
+    "No unreviewed current clauses, numerical original-paper findings, detailed laboratory protocols or universally effective preparation claims have been added."
+  ]
+}

@@ -1,0 +1,936 @@
+{
+  "id": 2,
+  "en": {
+    "question": "How does Steiner connect soil conditions with the forms and changing life of a plant?",
+    "sources": "GA 327 Lecture 1, 7 June 1924; Lecture 2, 10 June 1924; Lecture 3, 11 June 1924. Canonical source wording: Creeger/Gardner 1993 Markdown captures.",
+    "outcomes": [
+      "Explain soil's role as an organ in Steiner's farm model and distinguish it from a modern account of soil biology.",
+      "Trace the proposed distant-planet/silica/clay and nearer-planet/lime pathways without equating cosmic with above-ground.",
+      "Describe root, leaf, flower and seed observations before applying Steiner's interpretations of form and development.",
+      "Explain etheric life and external plant astrality through their proposed agricultural roles rather than as unexplained names."
+    ],
+    "synthesis": {
+      "summary": [
+        "Steiner treats soil and plant as participants in one process. The soil receives and mediates influences; the plant unfolds a particular form through roots, leaves, flowers and seeds. His cosmic/earthly distinction crosses the soil boundary: distant activity is received below and conducted upward, while upper earthly activity is drawn down through lime.",
+        "The etheric account adds a further distinction between a formed framework and the life continually working through it. Physical observations can describe structure, moisture, emergence and flowering. They help us understand the agricultural question but do not by themselves establish planetary mediation, seed chaos or etheric organization."
+      ],
+      "steps": [
+        "A particular soil places the plant within an environment of materials and processes",
+        "Steiner proposes an interchange of earthly and cosmic activity across the soil boundary",
+        "Plant form and development express different combinations of those activities",
+        "Etheric life is proposed to animate the physical framework, with astrality approaching the plant externally",
+        "The developing plant joins the wider farm through fodder, animals and returning fertility"
+      ],
+      "question": "A plant grows more vigorously after its soil management changes. How can you describe the observation, explain Steiner's interpretation, and avoid claiming more than the observation establishes?",
+      "answer": [
+        "Describe the management change and a defined outcome, such as emergence, leaf number or flowering dates, together with conditions and comparable records. In Steiner's interpretation, soil is an active organ mediating earthly/cosmic relationships, and humus supports earthly growth while etheric activity brings life through the plant's physical organization.",
+        "That interpretation explains how he places the observation in his system. The result alone does not determine which management change caused the difference, especially when several conditions changed together. Nor does visible growth establish the additional planetary or etheric mechanism. A measured outcome, a causal comparison and an anthroposophical interpretation remain separate layers."
+      ]
+    }
+  },
+  "pt": {
+    "question": "Como Steiner conecta as condições do solo às formas e à vida em transformação de uma planta?",
+    "sources": "GA 327, Palestra 1, 7 de junho de 1924; Palestra 2, 10 de junho de 1924; Palestra 3, 11 de junho de 1924. Redação da fonte canônica: capturas do Markdown Creeger/Gardner 1993.",
+    "outcomes": [
+      "Explicar o papel do solo como órgão no modelo agrícola de Steiner e distingui-lo de uma descrição moderna da biologia do solo.",
+      "Acompanhar as vias propostas entre planetas distantes, sílica e argila e entre planetas próximos e cal, sem equiparar cósmico ao que está acima do solo.",
+      "Descrever observações de raiz, folha, flor e semente antes de aplicar as interpretações de Steiner sobre forma e desenvolvimento.",
+      "Explicar vida etérica e astralidade externa à planta por suas funções agrícolas propostas, em vez de usar nomes sem explicação."
+    ],
+    "synthesis": {
+      "summary": [
+        "Steiner trata solo e planta como participantes de um único processo. O solo recebe e medeia influências; a planta desenvolve uma forma particular por raízes, folhas, flores e sementes. Sua distinção entre cósmico e terrestre atravessa a superfície do solo: a atividade distante é recebida abaixo e conduzida para cima, enquanto a atividade terrestre superior é puxada para baixo pela cal.",
+        "A descrição etérica acrescenta outra distinção, entre uma estrutura formada e a vida que atua continuamente nela. Observações físicas podem descrever estrutura, umidade, emergência e floração. Ajudam a compreender a questão agrícola, mas não estabelecem, por si só, mediação planetária, caos da semente ou organização etérica."
+      ],
+      "steps": [
+        "Um solo particular situa a planta em um ambiente de materiais e processos",
+        "Steiner propõe um intercâmbio de atividade terrestre e cósmica através da superfície do solo",
+        "Forma e desenvolvimento vegetais expressam combinações distintas dessas atividades",
+        "A vida etérica deve animar a estrutura física, enquanto a astralidade se aproxima da planta externamente",
+        "A planta em desenvolvimento se une à fazenda mais ampla por forragem, animais e fertilidade que retorna"
+      ],
+      "question": "Uma planta cresce com mais vigor depois de uma mudança no manejo do solo. Como descrever a observação, explicar a interpretação de Steiner e evitar afirmar mais do que a observação estabelece?",
+      "answer": [
+        "Descreva a mudança de manejo e um resultado definido, como emergência, número de folhas ou datas de floração, junto às condições e a registros comparáveis. Na interpretação de Steiner, o solo é um órgão ativo que medeia relações terrestres e cósmicas, e o húmus apoia o crescimento terrestre enquanto a atividade etérica traz vida à organização física da planta.",
+        "Essa interpretação explica como ele situa a observação em seu sistema. O resultado isolado não determina qual mudança de manejo causou a diferença, sobretudo quando várias condições mudaram juntas. O crescimento visível tampouco estabelece o mecanismo planetário ou etérico adicional. Um resultado medido, uma comparação causal e uma interpretação antroposófica permanecem camadas separadas."
+      ]
+    }
+  },
+  "lessons": [
+    {
+      "id": 4,
+      "titleEn": "What Is Soil?",
+      "titlePt": "O que é solo?",
+      "source": {
+        "lecture": 2,
+        "date": "1924-06-10",
+        "captures": [
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "quoteCapture": 30,
+        "quoteEn": "The soil is a real organ, an organ we might want to compare to the human diaphragm.",
+        "quotePt": "O solo é um órgão real, um órgão que poderíamos querer comparar ao diafragma humano.",
+        "pdfVerified": false,
+        "printedPages": null,
+        "additional": [],
+        "markdownVerified": true
+      },
+      "en": {
+        "question": "Why does Steiner treat soil as an active participant in growth rather than an inert support for roots?",
+        "intro": [
+          "After rain, two nearby beds can hold water differently. Plants may also grow differently even when the same crop was sown. These differences invite questions about what happens in the ground: how water moves, what roots encounter and how organic material returns. Steiner begins his soil account by asking us to consider that ground within the whole agricultural individuality."
+        ],
+        "proposal": [
+          "In Lecture 2, Steiner challenges a picture of soil as mineral matter with life added only through manure or humus. He attributes an inherent plant-like vitality and even soul-like qualities to it. Calling soil an organ means that its significance lies in what it does within the larger organism of growth. In his model, it receives, mediates and transforms relationships; it is more than the location in which a plant happens to stand.",
+          "His comparison with the human diaphragm places a boundary within that whole. Below-ground processes are pictured as the agricultural head, while plants, animals and the surrounding air occupy its upper belly. He explicitly says the analogy is not exact. Its purpose is to make an interchange intelligible, not to assign human anatomy to a field. Air, water, warmth, minerals and plant growth are considered through their different relations above and below the surface.",
+          "The account is also seasonal. Steiner calls below-ground warmth living and distinguishes it from above-ground warmth; he describes winter conditions as especially important for the soil's formative activity. These are claims within his spiritual account, not a synonym for a thermometer reading. His calendar descriptions arise in a Central European setting. Later in the lecture, humus supports the earthly unfolding of plants, linking organic matter with the soil's role in growth."
+        ],
+        "model": [
+          "Soil belongs to the farm's whole organization of growth",
+          "It receives materials and proposed earthly/cosmic influences",
+          "Its below-ground processes interact with air, water, warmth and plants above",
+          "That interchange supports the plant's continuing development in Steiner's model"
+        ],
+        "example": [
+          "Imagine two fictional garden beds, one left bare and one with plant residues on its surface. After rain, the gardener records visible water, surface condition and plant growth over several visits. The example helps ask what soil conditions contribute to growth. It does not isolate a cause if shade, texture and watering also differ. Steiner's organ picture invites attention to the connected processes, while its additional spiritual explanation remains a separate interpretation."
+        ],
+        "anthroposophy": [
+          "Living soil has a stronger meaning here than soil containing living organisms. Steiner proposes a formative life activity within the ground itself, related to what he calls etheric processes. His soul-quality language also goes beyond a physical description. We can understand the role these claims play without treating vitality as an unspecified measurement. Lesson 7 will explain etheric life through the plant's changing organization."
+        ],
+        "modernContext": [
+          "A modern soil account describes mineral particles, organic matter, water, air and organisms in interaction. Roots and organisms participate in processes such as decomposition and nutrient cycling; pores and structure influence air and water movement. These are biological and physical explanations with observable components and defined measurements. Describing a soil as biologically active therefore does not make microbial activity identical to Steiner's etheric activity. The two accounts should be compared through what each claims to explain."
+        ],
+        "limits": [
+          "Observations can document moisture, structure, roots or organisms and help define a soil-management question. They do not establish the diaphragm analogy as literal anatomy or prove soul-like qualities in soil. The source's living/dead warmth distinction also cannot be inferred simply from a seasonal temperature difference."
+        ],
+        "modernReferences": [
+          "usda-soil"
+        ],
+        "checks": [
+          {
+            "question": "What is the purpose of the soil–diaphragm comparison?",
+            "options": [
+              "To claim that soil contains human organs",
+              "To illustrate the relation and interchange of regions within the agricultural whole",
+              "To replace soil observation with an anatomical label"
+            ],
+            "answer": 1,
+            "explanation": "Steiner explicitly qualifies the analogy. It organizes relationships above and below the soil rather than describing literal human anatomy."
+          },
+          {
+            "question": "Which distinction should a comparison with soil biology preserve?",
+            "options": [
+              "Microbial and physical processes are defined differently from Steiner's proposed etheric activity",
+              "Every soil organism is direct proof of etheric forces",
+              "Biologically active soil and etheric soil are interchangeable scientific terms"
+            ],
+            "answer": 0,
+            "explanation": "The presence and activity of organisms can be investigated through biological methods. That does not by itself establish the additional spiritual organization claimed in the source."
+          },
+          {
+            "type": "reflection",
+            "question": "Describe one soil observation, then explain what Steiner's organ picture would add to it.",
+            "explanation": "For example, record water remaining on a surface after rain. The organ picture places that ground within exchanges involving plants and surroundings. Separate that organizing interpretation and any spiritual claim from the observation and its possible physical causes."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Observe the surface of an accessible soil area on three occasions. Use existing beds or paths and record changes after weather events; use photographs or dated records if direct access is unavailable."
+          ],
+          "record": [
+            "Date, recent weather and visible management",
+            "Surface cover, visible water and apparent drying",
+            "Plant condition and any organisms actually seen",
+            "A separate question about the processes or interpretation involved"
+          ],
+          "interpretation": "These records describe a changing soil environment. Further evidence is needed to distinguish physical causes; the records alone do not demonstrate etheric or soul-like activity."
+        },
+        "connection": [
+          "Earthly and Cosmic Forces examines the particular relationships Steiner says the soil mediates. The next lesson traces the pathways and substances, so cosmic influence becomes a differentiated proposal rather than a vague phrase."
+        ],
+        "optional": [],
+        "tables": []
+      },
+      "pt": {
+        "question": "Por que Steiner trata o solo como participante ativo do crescimento, em vez de suporte inerte para raízes?",
+        "intro": [
+          "Depois da chuva, dois canteiros próximos podem reter água de maneiras diferentes. As plantas também podem crescer de modo distinto, mesmo quando se semeou a mesma cultura. Essas diferenças convidam a perguntar o que acontece no solo: como a água se move, o que as raízes encontram e como o material orgânico retorna. Steiner começa sua descrição do solo pedindo que o consideremos dentro da individualidade agrícola inteira."
+        ],
+        "proposal": [
+          "Na Palestra 2, Steiner contesta a imagem do solo como matéria mineral à qual a vida seria acrescentada apenas pelo esterco ou húmus. Atribui-lhe uma vitalidade vegetal inerente e até qualidades semelhantes às da alma. Chamar o solo de órgão significa que sua importância está no que faz dentro do organismo maior do crescimento. Em seu modelo, recebe, medeia e transforma relações; é mais do que o local onde uma planta se encontra.",
+          "Sua comparação com o diafragma humano situa uma divisão dentro desse todo. Os processos subterrâneos são representados como a cabeça agrícola, enquanto plantas, animais e o ar ao redor ocupam seu ventre superior. Ele diz explicitamente que a analogia não é exata. Seu propósito é tornar compreensível um intercâmbio, não atribuir anatomia humana a um campo. Ar, água, calor, minerais e crescimento vegetal são considerados por suas relações distintas acima e abaixo da superfície.",
+          "A descrição também é sazonal. Steiner chama de vivo o calor subterrâneo e o distingue do calor acima do solo; descreve as condições de inverno como especialmente importantes para a atividade formadora do solo. São afirmações dentro de sua descrição espiritual, não um sinônimo de leitura do termômetro. Suas descrições de calendário surgem em um contexto centro-europeu. Mais adiante na palestra, o húmus apoia o desenvolvimento terrestre das plantas, vinculando a matéria orgânica ao papel do solo no crescimento."
+        ],
+        "model": [
+          "O solo pertence à organização inteira do crescimento na fazenda",
+          "Recebe materiais e influências terrestres e cósmicas propostas",
+          "Seus processos subterrâneos interagem com ar, água, calor e plantas acima",
+          "Esse intercâmbio apoia o desenvolvimento contínuo da planta no modelo de Steiner"
+        ],
+        "example": [
+          "Imagine dois canteiros fictícios, um mantido descoberto e outro com resíduos vegetais na superfície. Depois da chuva, a pessoa que cultiva registra água visível, condição da superfície e crescimento vegetal em várias visitas. O exemplo ajuda a perguntar quais condições do solo contribuem para o crescimento. Não isola uma causa se sombra, textura e irrigação também diferirem. A imagem do órgão convida a observar os processos conectados, enquanto a explicação espiritual adicional permanece uma interpretação separada."
+        ],
+        "anthroposophy": [
+          "Solo vivo tem aqui um significado mais forte do que solo contendo organismos vivos. Steiner propõe uma atividade vital formadora no próprio solo, relacionada ao que chama de processos etéricos. Sua linguagem sobre qualidades da alma também vai além de uma descrição física. Podemos compreender a função dessas afirmações sem tratar vitalidade como uma medida indefinida. A Lição 7 explicará a vida etérica pela organização em transformação da planta."
+        ],
+        "modernContext": [
+          "Uma descrição moderna do solo apresenta partículas minerais, matéria orgânica, água, ar e organismos em interação. Raízes e organismos participam de processos como decomposição e ciclagem de nutrientes; poros e estrutura influenciam o movimento de ar e água. São explicações biológicas e físicas com componentes observáveis e medidas definidas. Descrever um solo como biologicamente ativo não torna, portanto, a atividade microbiana idêntica à atividade etérica de Steiner. As duas descrições devem ser comparadas pelo que cada uma afirma explicar."
+        ],
+        "limits": [
+          "Observações podem documentar umidade, estrutura, raízes ou organismos e ajudar a definir uma questão de manejo. Não estabelecem a analogia do diafragma como anatomia literal nem comprovam qualidades da alma no solo. A distinção da fonte entre calor vivo e morto também não pode ser deduzida apenas de uma diferença sazonal de temperatura."
+        ],
+        "modernReferences": [
+          "usda-soil"
+        ],
+        "checks": [
+          {
+            "question": "Qual é o propósito da comparação entre solo e diafragma?",
+            "options": [
+              "Afirmar que o solo contém órgãos humanos",
+              "Ilustrar a relação e o intercâmbio entre regiões do conjunto agrícola",
+              "Substituir a observação do solo por um rótulo anatômico"
+            ],
+            "answer": 1,
+            "explanation": "Steiner ressalva explicitamente a analogia. Ela organiza relações acima e abaixo do solo, em vez de descrever anatomia humana literal."
+          },
+          {
+            "question": "Qual distinção uma comparação com a biologia do solo deve preservar?",
+            "options": [
+              "Processos microbianos e físicos são definidos de modo diferente da atividade etérica proposta por Steiner",
+              "Todo organismo do solo é prova direta de forças etéricas",
+              "Solo biologicamente ativo e solo etérico são termos científicos intercambiáveis"
+            ],
+            "answer": 0,
+            "explanation": "A presença e a atividade de organismos podem ser investigadas por métodos biológicos. Isso não estabelece, por si só, a organização espiritual adicional afirmada na fonte."
+          },
+          {
+            "type": "reflection",
+            "question": "Descreva uma observação do solo e explique o que a imagem do órgão, de Steiner, acrescentaria a ela.",
+            "explanation": "Por exemplo, registre água que permanece na superfície depois da chuva. A imagem do órgão situa esse solo em intercâmbios com plantas e entorno. Separe essa interpretação organizadora e qualquer afirmação espiritual da observação e de suas possíveis causas físicas."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Observe a superfície de uma área de solo acessível em três ocasiões. Use canteiros ou caminhos existentes e registre mudanças após acontecimentos climáticos; use fotografias ou registros datados se não houver acesso direto."
+          ],
+          "record": [
+            "Data, clima recente e manejo visível",
+            "Cobertura da superfície, água visível e secagem aparente",
+            "Condição das plantas e organismos efetivamente vistos",
+            "Uma pergunta separada sobre os processos ou a interpretação envolvidos"
+          ],
+          "interpretation": "Esses registros descrevem um ambiente de solo em transformação. Mais evidência é necessária para distinguir causas físicas; os registros isolados não demonstram atividade etérica nem qualidades da alma."
+        },
+        "connection": [
+          "Forças terrestres e cósmicas examina as relações particulares que, segundo Steiner, o solo medeia. A próxima lição acompanha vias e substâncias, para que influência cósmica se torne uma proposta diferenciada, em vez de expressão vaga."
+        ],
+        "optional": [],
+        "tables": []
+      }
+    },
+    {
+      "id": 5,
+      "titleEn": "Earthly and Cosmic Forces",
+      "titlePt": "Forças terrestres e cósmicas",
+      "source": {
+        "lecture": 2,
+        "date": "1924-06-10",
+        "captures": [
+          30,
+          31,
+          32,
+          33,
+          37
+        ],
+        "quoteCapture": 32,
+        "quoteEn": "Substances like clay support the upward flow of the effects of the cosmic entities in the ground.",
+        "quotePt": "Substâncias como a argila apoiam o fluxo ascendente dos efeitos das entidades cósmicas presentes no solo.",
+        "pdfVerified": false,
+        "printedPages": null,
+        "additional": [
+          {
+            "labelEn": "Lecture 1: planetary groups, silica/lime, reproduction/nourishment, water and warmth",
+            "labelPt": "Palestra 1: grupos planetários, sílica e cal, reprodução e nutrição, água e calor",
+            "date": "1924-06-07",
+            "captures": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ],
+        "markdownVerified": true
+      },
+      "en": {
+        "question": "Through which pathways does Steiner propose that earthly and cosmic activity enter plant growth?",
+        "intro": [
+          "A statement such as planets affect plants leaves the agricultural question unexplained. Which part of growth, through which material, under which conditions? Steiner offers particular routes. Understanding them matters because his model does not put every cosmic influence directly above the plant or assign every process below ground to the earthly side."
+        ],
+        "proposal": [
+          "Lecture 1 distinguishes two groupings. Moon, Mercury and Venus are associated with lime and with reproduction or regeneration. Mars, Jupiter and Saturn are associated with silica and with qualities of nourishment. Water is said to mediate lunar activity, and warmth to mediate the distant planets. This is the course's historical planetary scheme, which includes the Sun and Moon; it is not the classification used in contemporary astronomy.",
+          "Lecture 2 locates the pathways more closely. The nearer group supports or modifies solar activity above the soil. Distant activity is received below, through silica-bearing sand and rock, and radiates upward. Clay is said to conduct that upward stream toward the plant. Meanwhile, the activity Steiner calls terrestrial or earthly develops in air and water above ground and is drawn down through lime. The important picture is an interchange across the boundary, not two sealed regions.",
+          "Thus cosmic and earthly name attributed processes rather than simple positions. A cosmic influence can work from within the Earth into the flower; an earthly influence can work downward into root branching. The Sun is central to the interplay and is also associated with green leaves. These distinctions prepare Steiner's account of plant form. They remain his proposed explanation, not a conclusion reached merely by seeing a plant grow in a mineral soil."
+        ],
+        "model": [
+          "Distant planetary activity is proposed to be received below ground through silica",
+          "Clay conducts this cosmic activity upward toward the plant",
+          "Upper earthly activity is drawn downward through lime",
+          "The crossing streams interact in plant development and form"
+        ],
+        "example": [
+          "Imagine a fictional grower comparing a sandy bed with a clay-rich bed. Steiner's account suggests questions about reception and upward mediation of cosmic activity. An observational record instead begins with texture, water, crop identity and growth. If one crop differs, the grower must examine physical conditions and other management differences before claiming a cause. Neither the soil label nor the plant's appearance identifies the proposed planetary pathway by itself."
+        ],
+        "anthroposophy": [
+          "Cosmic forces here are differentiated formative activities that Steiner attributes to the wider universe. Silica, lime and clay are their proposed mediators, not merely symbols. Calling this a proposed account does not mean Steiner himself presented it tentatively; it identifies how the course distinguishes his assertion from an independently established mechanism. Later preparations are intended to work within these relationships, so their rationale depends on understanding the pathways first."
+        ],
+        "modernContext": [
+          "Modern agronomy can investigate soil texture, water movement, nutrient availability and the response to a defined amendment. Lime materials, silica-bearing minerals and clay are not interchangeable, and their physical or chemical roles require their own descriptions. A beneficial response to an amendment would not by itself show that it mediated a planetary influence. Keep the measured material effect separate from the additional causal interpretation."
+        ],
+        "limits": [
+          "The two translations disagree about the location of direct radiation in an individual sentence. That sentence remains unresolved between the supplied texts. This explanation uses the larger shared pattern of distant activity received below and nearer/earthly activity above, with upward and downward mediation; it does not silently repair the disputed wording. Nor does the model supply a universal amendment dose or modern planting calendar."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "Which pathway matches the main account developed in Lecture 2?",
+            "options": [
+              "Every cosmic influence works only from above directly into flowers",
+              "Clay draws all earthly activity down while silica acts only above ground",
+              "Distant activity is received below through silica, while clay supports its upward mediation"
+            ],
+            "answer": 2,
+            "explanation": "The proposed distant pathway begins below ground and moves upward. Lime draws the upper earthly factor down, so cosmic/earthly cannot simply mean above/below."
+          },
+          {
+            "question": "Why can a plant response to a lime amendment leave the planetary claim untested?",
+            "options": [
+              "Because a visible response automatically identifies a cosmic cause",
+              "Because the response can be measured without distinguishing its physical causes or demonstrating the proposed planetary mediation",
+              "Because material amendments cannot affect agricultural conditions"
+            ],
+            "answer": 1,
+            "explanation": "An outcome and a mechanism are different claims. Comparisons must address material and management explanations; the additional spiritual pathway does not follow from the response alone."
+          },
+          {
+            "type": "reflection",
+            "question": "Explain why cosmic below and earthly above are useful starting locations in the source, but not rigid labels for every plant part.",
+            "explanation": "Trace the movement: silica receives below and clay conducts upward; lime draws upper earthly activity down. Their proposed effects therefore cross regions, reaching flower colour and root form respectively."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Compare two existing soil or crop records, or two accessible beds, on three dates. First describe their material conditions and growth; then draw a separate sketch of the source's proposed pathways."
+          ],
+          "record": [
+            "Crop identity, date and available weather or management information",
+            "Observed soil texture or a documented soil description",
+            "A defined plant difference rather than a general verdict of vitality",
+            "Which arrows belong to Steiner's model and which relationships are directly documented"
+          ],
+          "interpretation": "The records can identify differences worth investigating. The separate model sketch explains Steiner's claim; its arrows are not measurements of planetary forces."
+        },
+        "connection": [
+          "Root, Leaf, Flower and Seed follows these pathways into the plant. The next lesson begins with visible organs and development, then explains how Steiner reads form, colour and reproduction within his model."
+        ],
+        "optional": [],
+        "tables": [
+          {
+            "caption": "Two pathways and their mediation in Steiner's account",
+            "headers": [
+              "Relationship",
+              "Starting region and mediator",
+              "Proposed direction or role"
+            ],
+            "rows": [
+              [
+                "Distant grouping: Mars, Jupiter, Saturn",
+                "Below ground; silica-bearing sand and rock",
+                "Received in the Earth, then conducted upward with clay"
+              ],
+              [
+                "Nearer grouping: Moon, Mercury, Venus, modifying Sun activity",
+                "Above-ground air and water; lime draws the earthly factor down",
+                "Upper activity participates in a downward stream"
+              ],
+              [
+                "Plant development",
+                "The interchange across soil and plant regions",
+                "Different combinations express form, growth and qualities; each part is not exclusive to one stream"
+              ]
+            ],
+            "credit": "Original course table of the attributed model: GA 327 Lecture 1, Creeger/Gardner 1993 Markdown captures 23–27; Lecture 2, captures 30–32 and 37. It is not a verified historical drawing or a resolution of the disputed direct-radiation sentence."
+          }
+        ]
+      },
+      "pt": {
+        "question": "Por quais vias Steiner propõe que a atividade terrestre e a cósmica entrem no crescimento vegetal?",
+        "intro": [
+          "Uma afirmação como os planetas afetam as plantas deixa a questão agrícola sem explicação. Qual parte do crescimento, por qual material, em quais condições? Steiner oferece vias particulares. Compreendê-las importa porque seu modelo não coloca toda influência cósmica diretamente acima da planta nem atribui todo processo subterrâneo ao lado terrestre."
+        ],
+        "proposal": [
+          "A Palestra 1 distingue dois grupos. Lua, Mercúrio e Vênus são associados à cal e à reprodução ou regeneração. Marte, Júpiter e Saturno são associados à sílica e às qualidades de nutrição. A água deve mediar a atividade lunar, e o calor, a dos planetas distantes. Esse é o esquema planetário histórico do curso, que inclui Sol e Lua; não é a classificação usada na astronomia contemporânea.",
+          "A Palestra 2 situa as vias de modo mais preciso. O grupo próximo apoia ou modifica a atividade solar acima do solo. A atividade distante é recebida abaixo, por areia e rocha contendo sílica, e irradia para cima. A argila deve conduzir essa corrente ascendente em direção à planta. Enquanto isso, a atividade que Steiner chama de terrestre se desenvolve no ar e na água acima do solo e é puxada para baixo pela cal. A imagem importante é um intercâmbio através da superfície, não duas regiões fechadas.",
+          "Portanto, cósmico e terrestre nomeiam processos atribuídos, em vez de posições simples. Uma influência cósmica pode atuar do interior da Terra para a flor; uma influência terrestre pode atuar para baixo, na ramificação da raiz. O Sol ocupa uma posição central no intercâmbio e também é associado às folhas verdes. Essas distinções preparam a descrição da forma vegetal. Permanecem a explicação proposta por Steiner, não uma conclusão alcançada apenas por ver uma planta crescer em solo mineral."
+        ],
+        "model": [
+          "A atividade planetária distante deve ser recebida abaixo do solo pela sílica",
+          "A argila conduz essa atividade cósmica para cima, em direção à planta",
+          "A atividade terrestre superior é puxada para baixo pela cal",
+          "As correntes que se cruzam interagem no desenvolvimento e na forma vegetal"
+        ],
+        "example": [
+          "Imagine uma pessoa que cultiva comparando um canteiro arenoso e outro rico em argila, em um caso fictício. A descrição de Steiner sugere perguntas sobre recepção e mediação ascendente da atividade cósmica. Um registro observacional começa, em vez disso, por textura, água, identidade da cultura e crescimento. Se uma cultura diferir, é preciso examinar condições físicas e outras diferenças de manejo antes de afirmar uma causa. Nem o rótulo do solo nem a aparência da planta identificam, por si sós, a via planetária proposta."
+        ],
+        "anthroposophy": [
+          "Forças cósmicas são aqui atividades formadoras diferenciadas que Steiner atribui ao universo mais amplo. Sílica, cal e argila são seus mediadores propostos, não apenas símbolos. Chamar isso de descrição proposta não significa que o próprio Steiner a tenha apresentado de modo hesitante; identifica como o curso distingue sua afirmação de um mecanismo estabelecido independentemente. Os preparados posteriores devem atuar nessas relações, de modo que sua justificativa depende de compreender primeiro as vias."
+        ],
+        "modernContext": [
+          "A agronomia moderna pode investigar textura do solo, movimento da água, disponibilidade de nutrientes e resposta a uma alteração definida. Materiais calcários, minerais contendo sílica e argila não são intercambiáveis, e suas funções físicas ou químicas exigem descrições próprias. Uma resposta benéfica a um material acrescentado não mostraria, por si só, que ele mediou uma influência planetária. Mantenha o efeito material medido separado da interpretação causal adicional."
+        ],
+        "limits": [
+          "As duas traduções discordam sobre a localização da radiação direta em uma frase específica. Essa frase permanece sem resolução entre os textos fornecidos. Esta explicação usa o padrão mais amplo compartilhado: atividade distante recebida abaixo e atividade próxima ou terrestre acima, com mediação ascendente e descendente; não corrige silenciosamente a redação contestada. O modelo tampouco fornece uma dose universal de material para o solo ou um calendário moderno de plantio."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "Qual via corresponde à descrição principal desenvolvida na Palestra 2?",
+            "options": [
+              "Toda influência cósmica atua apenas de cima diretamente nas flores",
+              "A argila puxa toda atividade terrestre para baixo, enquanto a sílica atua apenas acima do solo",
+              "A atividade distante é recebida abaixo pela sílica, enquanto a argila apoia sua mediação ascendente"
+            ],
+            "answer": 2,
+            "explanation": "A via distante proposta começa abaixo do solo e se move para cima. A cal puxa o fator terrestre superior para baixo, de modo que cósmico e terrestre não podem significar simplesmente acima e abaixo."
+          },
+          {
+            "question": "Por que uma resposta vegetal à aplicação de material calcário pode deixar a afirmação planetária sem teste?",
+            "options": [
+              "Porque uma resposta visível identifica automaticamente uma causa cósmica",
+              "Porque a resposta pode ser medida sem distinguir suas causas físicas nem demonstrar a mediação planetária proposta",
+              "Porque materiais acrescentados não podem afetar condições agrícolas"
+            ],
+            "answer": 1,
+            "explanation": "Um resultado e um mecanismo são afirmações distintas. As comparações precisam examinar explicações materiais e de manejo; a via espiritual adicional não decorre apenas da resposta."
+          },
+          {
+            "type": "reflection",
+            "question": "Explique por que cósmico abaixo e terrestre acima são localizações iniciais úteis na fonte, mas não rótulos rígidos para cada parte da planta.",
+            "explanation": "Acompanhe o movimento: a sílica recebe abaixo, e a argila conduz para cima; a cal puxa a atividade terrestre superior para baixo. Seus efeitos propostos atravessam regiões, alcançando respectivamente a cor da flor e a forma da raiz."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Compare dois registros existentes de solo ou cultura, ou dois canteiros acessíveis, em três datas. Primeiro descreva condições materiais e crescimento; depois desenhe um esquema separado das vias propostas na fonte."
+          ],
+          "record": [
+            "Identidade da cultura, data e informações disponíveis sobre clima ou manejo",
+            "Textura observada ou descrição documentada do solo",
+            "Uma diferença vegetal definida, em vez de um julgamento geral de vitalidade",
+            "Quais setas pertencem ao modelo de Steiner e quais relações estão diretamente documentadas"
+          ],
+          "interpretation": "Os registros podem identificar diferenças que merecem investigação. O esquema separado explica a afirmação de Steiner; suas setas não são medidas de forças planetárias."
+        },
+        "connection": [
+          "Raiz, folha, flor e semente acompanha essas vias dentro da planta. A próxima lição começa pelos órgãos e pelo desenvolvimento visíveis, depois explica como Steiner interpreta forma, cor e reprodução em seu modelo."
+        ],
+        "optional": [],
+        "tables": [
+          {
+            "caption": "Duas vias e sua mediação na descrição de Steiner",
+            "headers": [
+              "Relação",
+              "Região inicial e mediador",
+              "Direção ou função proposta"
+            ],
+            "rows": [
+              [
+                "Grupo distante: Marte, Júpiter, Saturno",
+                "Abaixo do solo; areia e rocha contendo sílica",
+                "Recebido na Terra, depois conduzido para cima com a argila"
+              ],
+              [
+                "Grupo próximo: Lua, Mercúrio, Vênus, modificando a atividade solar",
+                "Ar e água acima do solo; a cal puxa o fator terrestre para baixo",
+                "A atividade superior participa de uma corrente descendente"
+              ],
+              [
+                "Desenvolvimento vegetal",
+                "O intercâmbio através das regiões do solo e da planta",
+                "Combinações distintas expressam forma, crescimento e qualidades; cada parte não pertence exclusivamente a uma corrente"
+              ]
+            ],
+            "credit": "Tabela original do curso sobre o modelo atribuído: GA 327, Palestra 1, Creeger/Gardner 1993, capturas 23–27 do Markdown; Palestra 2, capturas 30–32 e 37. Não é um desenho histórico verificado nem uma resolução da frase contestada sobre radiação direta."
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "titleEn": "Root, Leaf, Flower and Seed",
+      "titlePt": "Raiz, folha, flor e semente",
+      "source": {
+        "lecture": 2,
+        "date": "1924-06-10",
+        "captures": [
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "quoteCapture": 36,
+        "quoteEn": "Now, what is earthly in the leaves and the flowers is their shape, and also the earthly matter that fills them out.",
+        "quotePt": "Ora, o que é terrestre nas folhas e nas flores é sua forma, e também a matéria terrestre que as preenche.",
+        "pdfVerified": false,
+        "printedPages": null,
+        "additional": [
+          {
+            "labelEn": "Lecture 1: reproduction distinguished from nourishment",
+            "labelPt": "Palestra 1: reprodução distinguida da nutrição",
+            "date": "1924-06-07",
+            "captures": [
+              25,
+              26
+            ]
+          }
+        ],
+        "markdownVerified": true
+      },
+      "en": {
+        "question": "How do the plant's different regions and stages change what the farmer is trying to understand?",
+        "intro": [
+          "A leafy crop, a flowering plant and a seed crop may be the same species at different moments, yet the farmer's purpose changes. Begin by identifying what is present: roots, leaves, flowers, fruits or seeds. Then follow their development over time. A snapshot describes form; a dated sequence begins to describe the process by which that form changes."
+        ],
+        "proposal": [
+          "Steiner reads the plant through interacting tendencies. In Lecture 2, earthly activity supplies the spreading form and material fullness of leaves and flowers. Humus supports this earthly unfolding. The cosmic tendency is linked to the plant's formative organization and the upward continuation toward seed formation. He also places solar activity in leaf greenness and distant planetary activity in flower colour. These influences overlap; root cannot simply mean cosmic and flower cannot simply mean earthly.",
+          "The source interprets branching roots as earthly activity working downward, while a unitary root expresses the cosmic tendency more strongly. It associates red flowers with Mars, yellow or white with Jupiter, and blue with Saturn, supporting the Sun. These are Steiner's readings of visible features. Seeing the feature and assigning its cause are different acts: a root drawing or a blue flower does not independently identify the planetary activity he proposes.",
+          "Seed formation adds a distinction between continuing growth and the coming of a new organism. Steiner proposes that matter reaches extreme complexity, passes into miniature chaos and becomes receptive to a cosmic imprint. The parent's affinity guides the form, so a dandelion gives rise to a dandelion rather than a different species. Humus, by contrast, contributes life not driven to that seed-chaos stage, anchoring earthly growth. This is his alternative account of formative continuity, not a description of modern genetic inheritance."
+        ],
+        "model": [
+          "A seed bears a proposed formative cosmic imprint",
+          "Earthly conditions and humus support the plant's material unfolding",
+          "Root, leaf and flower develop through interacting earthly/cosmic tendencies",
+          "Seed formation is proposed to reopen matter to cosmic formative activity"
+        ],
+        "example": [
+          "In an invented bean patch, the grower records emergence, new leaves, first flowers and later pods. Those observations separate the plant's regions from its changing stages. A second sketch can show how Steiner interprets form and seed formation. Do not assume every plant follows the same timetable or organ shape. His potato example also needs botanical care: the edible potato is a stem tuber, while the canonical translation uses rhizome wording. Historical wording and present botanical description should remain explicit."
+        ],
+        "anthroposophy": [
+          "Formative here means activity proposed to organize a characteristic plant, not merely the outline seen in a photograph. Seed chaos names Steiner's claimed opening to a new cosmic organization. It should not be confused with a seed becoming visibly disordered or losing viability. His account also gives colours and flavours cosmic significance beyond their physical appearance or composition."
+        ],
+        "modernContext": [
+          "Modern botany distinguishes organs and investigates development through cellular processes, environmental conditions and inherited information. Roots, leaves, flowers, fruits and seeds have different functions, while some structures require careful identification: an edible underground part is not automatically a root. Descriptions of pigments, growth or inheritance answer defined biological questions. They are not translations of the source's planetary colours or seed-chaos claim into scientific vocabulary."
+        ],
+        "limits": [
+          "Repeated observations can establish which structures appeared and when. They do not establish that a colour came from a particular planet or that seed matter entered the proposed cosmic chaos. Steiner presents these interpretations confidently; the learner's task is to explain them accurately while keeping observation and causal attribution separate."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "Which reading preserves the interplay described in Lecture 2?",
+            "options": [
+              "Earthly and cosmic tendencies can act in the same plant region, with different roles",
+              "Every root feature is exclusively cosmic and every flower feature exclusively earthly",
+              "Flower colour and flower shape are assigned exactly the same role"
+            ],
+            "answer": 0,
+            "explanation": "The source distinguishes form/fullness from colour and describes earthly activity descending into roots and cosmic activity ascending into flowers. Its account cannot be reduced to fixed organ labels."
+          },
+          {
+            "question": "What would a dated record of bean flowering and pod formation establish?",
+            "options": [
+              "That the seed-chaos mechanism has been observed directly",
+              "That flower colour proves a particular planetary influence",
+              "The observed sequence of development under the recorded conditions"
+            ],
+            "answer": 2,
+            "explanation": "The record describes a process over time. Steiner's additional account of its formative cause remains an interpretation requiring separate assessment."
+          },
+          {
+            "type": "reflection",
+            "question": "Choose one plant feature and separate its form, its change over time and Steiner's proposed interpretation.",
+            "explanation": "For example, describe a leaf's outline and colour, record how leaves appear and expand, then explain the source's earthly fullness and solar greenness associations. The first two are descriptive records; the third is an attributed explanation."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Follow an existing flowering plant or a dated photographic sequence on three occasions. Sketch visible organs and record one change. Use existing root photographs or an already visible root system rather than disturbing the plant."
+          ],
+          "record": [
+            "Date, species if known and growing conditions",
+            "Which organs are visible and how you identified them",
+            "A specific change since the previous record",
+            "A separate interpretation drawn from the source, with its capture reference"
+          ],
+          "interpretation": "The sequence can document morphology and development. A feature's planetary attribution or the seed-chaos mechanism is not directly observed merely because the feature is present."
+        },
+        "connection": [
+          "Etheric Life and Plant Development asks what Steiner adds when he explains how a formed plant remains alive and growing. The next lesson connects that question to physical carriers and the plant's relation to astrality."
+        ],
+        "optional": [],
+        "tables": []
+      },
+      "pt": {
+        "question": "Como as regiões e etapas distintas da planta mudam o que o agricultor procura compreender?",
+        "intro": [
+          "Uma cultura folhosa, uma planta florida e uma cultura para sementes podem ser a mesma espécie em momentos diferentes, mas o propósito agrícola muda. Comece identificando o que está presente: raízes, folhas, flores, frutos ou sementes. Depois acompanhe seu desenvolvimento no tempo. Uma imagem descreve a forma; uma sequência datada começa a descrever o processo pelo qual essa forma muda."
+        ],
+        "proposal": [
+          "Steiner interpreta a planta por tendências em interação. Na Palestra 2, a atividade terrestre fornece a forma que se expande e o preenchimento material de folhas e flores. O húmus apoia esse desenvolvimento terrestre. A tendência cósmica é ligada à organização formadora da planta e à continuidade ascendente em direção à formação de sementes. Ele também situa a atividade solar no verde das folhas e a atividade planetária distante na cor das flores. Essas influências se sobrepõem; raiz não pode significar simplesmente cósmico, nem flor simplesmente terrestre.",
+          "A fonte interpreta raízes ramificadas como atividade terrestre atuando para baixo, enquanto uma raiz unitária expressa mais fortemente a tendência cósmica. Associa flores vermelhas a Marte, amarelas ou brancas a Júpiter e azuis a Saturno, apoiando o Sol. São interpretações de Steiner sobre características visíveis. Ver a característica e atribuir sua causa são atos distintos: um desenho de raiz ou uma flor azul não identifica independentemente a atividade planetária proposta.",
+          "A formação da semente acrescenta uma distinção entre o crescimento contínuo e o surgimento de um novo organismo. Steiner propõe que a matéria chega a uma complexidade extrema, passa a um caos em miniatura e se torna receptiva a uma impressão cósmica. A afinidade da planta-mãe orienta a forma, de modo que um dente-de-leão origina outro dente-de-leão, não outra espécie. O húmus, em contraste, contribui com vida não levada à etapa de caos da semente, ancorando o crescimento terrestre. Essa é sua descrição alternativa da continuidade formadora, não uma descrição da herança genética moderna."
+        ],
+        "model": [
+          "Uma semente traz uma impressão cósmica formadora proposta",
+          "Condições terrestres e húmus apoiam o desenvolvimento material da planta",
+          "Raiz, folha e flor se desenvolvem por tendências terrestres e cósmicas em interação",
+          "A formação da semente deve reabrir a matéria à atividade cósmica formadora"
+        ],
+        "example": [
+          "Em um canteiro fictício de feijão, a pessoa que cultiva registra emergência, novas folhas, primeiras flores e vagens posteriores. Essas observações separam as regiões da planta de suas etapas em transformação. Um segundo esquema pode mostrar como Steiner interpreta forma e formação de sementes. Não suponha que toda planta siga o mesmo calendário ou formato de órgãos. Seu exemplo da batata também exige cuidado botânico: a parte comestível é um tubérculo caulinar, enquanto a tradução canônica usa a palavra rizoma. A redação histórica e a descrição botânica atual devem permanecer explícitas."
+        ],
+        "anthroposophy": [
+          "Formadora significa aqui uma atividade proposta para organizar uma planta característica, não apenas o contorno visto em uma fotografia. Caos da semente nomeia a abertura afirmada por Steiner a uma nova organização cósmica. Não deve ser confundido com uma semente tornar-se visivelmente desordenada ou perder viabilidade. Sua descrição também dá a cores e sabores um significado cósmico que vai além da aparência ou composição física."
+        ],
+        "modernContext": [
+          "A botânica moderna distingue órgãos e investiga o desenvolvimento por processos celulares, condições ambientais e informação herdada. Raízes, folhas, flores, frutos e sementes têm funções diferentes, enquanto algumas estruturas exigem identificação cuidadosa: uma parte subterrânea comestível não é automaticamente uma raiz. Descrições de pigmentos, crescimento ou herança respondem a questões biológicas definidas. Não são traduções das cores planetárias ou da afirmação sobre caos da semente para o vocabulário científico."
+        ],
+        "limits": [
+          "Observações repetidas podem estabelecer quais estruturas apareceram e quando. Não estabelecem que uma cor veio de um planeta particular nem que a matéria da semente entrou no caos cósmico proposto. Steiner apresenta essas interpretações com confiança; a tarefa de quem estuda é explicá-las fielmente, mantendo separadas observação e atribuição causal."
+        ],
+        "modernReferences": [],
+        "checks": [
+          {
+            "question": "Qual leitura preserva a interação descrita na Palestra 2?",
+            "options": [
+              "Tendências terrestres e cósmicas podem atuar na mesma região vegetal, com funções distintas",
+              "Toda característica da raiz é exclusivamente cósmica, e toda característica da flor exclusivamente terrestre",
+              "Cor e forma da flor recebem exatamente a mesma função"
+            ],
+            "answer": 0,
+            "explanation": "A fonte distingue forma e preenchimento de cor, e descreve atividade terrestre descendo às raízes e atividade cósmica subindo às flores. Sua descrição não pode ser reduzida a rótulos fixos de órgãos."
+          },
+          {
+            "question": "O que um registro datado da floração e formação de vagens do feijão estabeleceria?",
+            "options": [
+              "Que o mecanismo do caos da semente foi observado diretamente",
+              "Que a cor da flor comprova uma influência planetária específica",
+              "A sequência observada de desenvolvimento nas condições registradas"
+            ],
+            "answer": 2,
+            "explanation": "O registro descreve um processo no tempo. A descrição adicional de Steiner sobre sua causa formadora permanece uma interpretação que exige avaliação separada."
+          },
+          {
+            "type": "reflection",
+            "question": "Escolha uma característica vegetal e separe sua forma, sua mudança no tempo e a interpretação proposta por Steiner.",
+            "explanation": "Por exemplo, descreva contorno e cor de uma folha, registre como as folhas aparecem e se expandem, depois explique as associações da fonte entre preenchimento terrestre e verde solar. As duas primeiras são registros descritivos; a terceira é uma explicação atribuída."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Acompanhe uma planta florida existente ou uma sequência fotográfica datada em três ocasiões. Desenhe os órgãos visíveis e registre uma mudança. Use fotografias existentes de raízes ou um sistema radicular já visível, em vez de perturbar a planta."
+          ],
+          "record": [
+            "Data, espécie se conhecida e condições de crescimento",
+            "Quais órgãos estão visíveis e como foram identificados",
+            "Uma mudança específica desde o registro anterior",
+            "Uma interpretação separada baseada na fonte, com referência à captura"
+          ],
+          "interpretation": "A sequência pode documentar morfologia e desenvolvimento. A atribuição planetária de uma característica ou o mecanismo do caos da semente não são observados diretamente apenas porque a característica está presente."
+        },
+        "connection": [
+          "Vida etérica e desenvolvimento vegetal pergunta o que Steiner acrescenta ao explicar como uma planta formada continua viva e crescendo. A próxima lição conecta essa questão a portadores físicos e à relação da planta com a astralidade."
+        ],
+        "optional": [],
+        "tables": []
+      }
+    },
+    {
+      "id": 7,
+      "titleEn": "Etheric Life and Plant Development",
+      "titlePt": "Vida etérica e desenvolvimento vegetal",
+      "source": {
+        "lecture": 3,
+        "date": "1924-06-11",
+        "captures": [
+          42,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          51,
+          52,
+          54
+        ],
+        "quoteCapture": 45,
+        "quoteEn": "But the etheric principle must extend just as far as the framework does.",
+        "quotePt": "Mas o princípio etérico deve se estender por toda a extensão da estrutura.",
+        "pdfVerified": false,
+        "printedPages": null,
+        "additional": [
+          {
+            "labelEn": "Lecture 2: seed formation and humus-supported growth",
+            "labelPt": "Palestra 2: formação da semente e crescimento apoiado pelo húmus",
+            "date": "1924-06-10",
+            "captures": [
+              34,
+              35,
+              36
+            ]
+          }
+        ],
+        "markdownVerified": true
+      },
+      "en": {
+        "question": "What does Steiner mean by life working through a plant's physical form?",
+        "intro": [
+          "A drawing can show a stem and leaves, but it cannot show their continuing growth, renewal and eventual transformation. The living plant has both a form and processes occurring through that form. Lecture 3 asks how these belong together, using substances familiar to agriculture to explain a spiritual organization that Steiner regards as additional to the physical framework."
+        ],
+        "proposal": [
+          "Steiner calls carbon the bearer of formative organization, comparing its work to a sculptor's. A carbon framework alone does not explain a living plant in his account. Etheric activity must permeate it, bringing continuing life and movement. Etheric therefore names a proposed nonphysical life-forming organization; it is not simply the visible plant, a nutrient concentration or a general word for healthy growth.",
+          "He says spiritual activity requires physical carriers. Oxygen carries etheric life, with sulfur mediating spiritual activity into physical processes. Nitrogen, carrying what he calls astrality, brings that life into relation with the carbon framework. For the agricultural question, the point is coordination: material form and ongoing life should not be considered separately. These assigned spiritual functions are Steiner's account of the substances, rather than the definitions those elements have in modern chemistry.",
+          "The plant is described as having physical and etheric organization, without the internal astral body assigned to animals. Astrality approaches it from outside, especially in the flowering account. Here astral concerns sensitivity and soul-related activity, not a claim that plants have an animal nervous system. Hydrogen's proposed release of formed organization returns the discussion to cosmic chaos and seed formation. Later in the lecture, legumes are pictured as the plant community's in-breathing organs; the closing question asks how nitrogen should enter the plant world through manuring."
+        ],
+        "model": [
+          "Carbon bears a proposed formative framework",
+          "Oxygen carries etheric life into physical activity with sulfur's mediation",
+          "Nitrogen/astrality coordinates life with that framework",
+          "The plant develops with physical and etheric organization and external astral influence",
+          "Form can be released toward the renewed organization proposed in seed formation"
+        ],
+        "example": [
+          "Consider an invented record of two potted plants over three weeks. New leaves appear, older structures change, and one plant begins to flower. The record makes form and continuing development distinct. Steiner interprets that development through etheric activity working within a physical organization and astrality approaching externally. The visible changes provide the phenomenon he wants to explain; they do not reveal the proposed carrier relationships merely by being photographed."
+        ],
+        "anthroposophy": [
+          "The vocabulary names relationships within a model. Physical refers to the material organization; etheric to life-forming activity; astral to sensitivity-related activity. In the plant, etheric organization is internal while astrality is external. The five substances help Steiner describe formation, animation, coordination and release. They should serve those processes rather than become a list of correspondences to memorize without an agricultural question."
+        ],
+        "modernContext": [
+          "Modern plant biology investigates growth through cells, metabolism, inherited information and environmental responses. Soil biology investigates organisms and material transformations around roots. Oxygen and nitrogen have defined roles in these accounts, but those roles do not establish that oxygen carries etheric life or nitrogen astrality. Likewise, recognizing legumes' agricultural importance does not demonstrate the source's soil-lung analogy. Each framework needs its own explanation and appropriate evidence."
+        ],
+        "limits": [
+          "Leaf emergence and flowering can be recorded; etheric organization is not measured by counting leaves. Comparing growth under defined conditions can test a material outcome without testing every proposed spiritual carrier. Understanding the terms also does not require adopting the source's physiological or meditative claims as experimental findings."
+        ],
+        "modernReferences": [
+          "usda-soil"
+        ],
+        "checks": [
+          {
+            "question": "How does Lecture 3 distinguish the plant from the animal in this framework?",
+            "options": [
+              "The plant has the same internal astral organization as an animal",
+              "The plant has physical and etheric organization, while astrality approaches it from outside",
+              "The plant has no relation to astrality in flowering"
+            ],
+            "answer": 1,
+            "explanation": "Captures 47–48 explicitly distinguish the plant's physical/etheric organization from an animal's internal astral body, while retaining an external relation to astrality."
+          },
+          {
+            "question": "What is nitrogen's assigned role in the proposed carrier model?",
+            "options": [
+              "Mediating etheric life with carbon's formative framework through astral activity",
+              "Serving only as a label for visible leaf colour",
+              "Proving that modern chemistry and etheric theory are identical"
+            ],
+            "answer": 0,
+            "explanation": "Steiner uses nitrogen as a mediator or transporter between life and form. This explains the source's model; it does not turn its spiritual assignment into a modern chemical definition."
+          },
+          {
+            "type": "reflection",
+            "question": "Explain growing leaves once as an observation and once through Steiner's etheric vocabulary.",
+            "explanation": "First describe dated changes such as leaf number and expansion. Then explain that Steiner attributes continued life through the material framework to etheric activity with physical carriers. State which part is recorded and which belongs to his proposed explanation."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Revisit a growing plant or use a dated image sequence three times. Record a visible structural change and a developmental change, keeping the description separate from the source vocabulary."
+          ],
+          "record": [
+            "Date and available light, water or management conditions",
+            "A visible structure, such as a leaf or stem segment",
+            "Its change, new growth or flowering since the previous record",
+            "A separate explanation using physical, etheric and external astral in their source meanings"
+          ],
+          "interpretation": "The record can establish that development occurred under the described conditions. It does not identify an etheric carrier or establish astrality by observing flowering."
+        },
+        "connection": [
+          "Part III begins with Plants, Animals and the Whole Farm. The plant's role now expands from growth to fodder, animal digestion and returning fertility, while Steiner's distinction between plant and animal organization becomes agriculturally significant."
+        ],
+        "optional": [
+          {
+            "route": "what-is-biodynamics/lessons/05.html",
+            "title": "GA 230: elemental beings and plant growth",
+            "label": "Optional anthroposophical background after the agricultural question; its spiritual interpretation remains distinct from field observation."
+          }
+        ],
+        "tables": [
+          {
+            "caption": "The five substances as roles in Steiner's proposed process",
+            "headers": [
+              "Substance",
+              "Attributed role",
+              "Connection to the plant question"
+            ],
+            "rows": [
+              [
+                "Carbon",
+                "Bearer of formative organization",
+                "A framework through which living activity must work"
+              ],
+              [
+                "Oxygen",
+                "Physical carrier of etheric life",
+                "Life and movement within the formed plant"
+              ],
+              [
+                "Nitrogen",
+                "Carrier of astrality and mediator between life and form",
+                "Coordination and proposed sensitivity within the soil–plant relationship"
+              ],
+              [
+                "Sulfur",
+                "Mediator of spiritual activity into physical substance",
+                "Assists the carrier relationships rather than supplying a separate organ label"
+              ],
+              [
+                "Hydrogen",
+                "Release of formed organization toward cosmic chaos",
+                "Connects dissolution and renewal with the seed-forming account"
+              ]
+            ],
+            "credit": "Original course explanation of attributed functions, not modern chemical definitions: GA 327 Lecture 3, Creeger/Gardner 1993 Markdown captures 42, 44–49 and 51. No colours or geometry of the historical drawing are certified here."
+          }
+        ]
+      },
+      "pt": {
+        "question": "O que Steiner quer dizer com a vida atuando na forma física de uma planta?",
+        "intro": [
+          "Um desenho pode mostrar caule e folhas, mas não seu crescimento contínuo, sua renovação e transformação posterior. A planta viva tem uma forma e processos que acontecem nessa forma. A Palestra 3 pergunta como isso se articula, usando substâncias familiares à agricultura para explicar uma organização espiritual que Steiner considera adicional à estrutura física."
+        ],
+        "proposal": [
+          "Steiner chama o carbono de portador da organização formadora, comparando seu trabalho ao de um escultor. Uma estrutura de carbono, isoladamente, não explica uma planta viva em sua descrição. A atividade etérica precisa permeá-la, trazendo vida e movimento contínuos. Etérico nomeia, portanto, uma organização vital formadora não física proposta; não é simplesmente a planta visível, uma concentração de nutrientes ou uma palavra geral para crescimento saudável.",
+          "Ele diz que a atividade espiritual exige portadores físicos. O oxigênio carrega a vida etérica, enquanto o enxofre medeia a atividade espiritual nos processos físicos. O nitrogênio, carregando o que ele chama de astralidade, relaciona essa vida à estrutura de carbono. Para a questão agrícola, o ponto é a coordenação: forma material e vida contínua não devem ser consideradas separadamente. Essas funções espirituais atribuídas são a descrição de Steiner sobre as substâncias, não as definições dos elementos na química moderna.",
+          "A planta é descrita como tendo organização física e etérica, sem o corpo astral interno atribuído aos animais. A astralidade se aproxima dela externamente, sobretudo na descrição da floração. Aqui, astral diz respeito à sensibilidade e à atividade relacionada à alma, não à afirmação de que plantas tenham sistema nervoso animal. A liberação da organização formada, proposta para o hidrogênio, retoma o caos cósmico e a formação da semente. Mais adiante, as leguminosas são representadas como órgãos de inspiração da comunidade vegetal; a pergunta final indaga como o nitrogênio deve entrar no mundo vegetal por meio da adubação."
+        ],
+        "model": [
+          "O carbono porta uma estrutura formadora proposta",
+          "O oxigênio carrega vida etérica para a atividade física com a mediação do enxofre",
+          "Nitrogênio e astralidade coordenam a vida com essa estrutura",
+          "A planta se desenvolve com organização física e etérica e influência astral externa",
+          "A forma pode ser liberada em direção à organização renovada proposta na formação da semente"
+        ],
+        "example": [
+          "Considere um registro fictício de duas plantas em vasos durante três semanas. Novas folhas aparecem, estruturas antigas mudam e uma planta começa a florescer. O registro distingue forma de desenvolvimento contínuo. Steiner interpreta esse desenvolvimento pela atividade etérica dentro de uma organização física e pela astralidade que se aproxima externamente. As mudanças visíveis fornecem o fenômeno que ele deseja explicar; não revelam as relações propostas entre portadores apenas por serem fotografadas."
+        ],
+        "anthroposophy": [
+          "O vocabulário nomeia relações dentro de um modelo. Físico refere-se à organização material; etérico, à atividade vital formadora; astral, à atividade ligada à sensibilidade. Na planta, a organização etérica é interna, enquanto a astralidade é externa. As cinco substâncias ajudam Steiner a descrever formação, vivificação, coordenação e liberação. Devem servir a esses processos, em vez de se tornarem uma lista de correspondências para memorizar sem uma questão agrícola."
+        ],
+        "modernContext": [
+          "A biologia vegetal moderna investiga o crescimento por células, metabolismo, informação herdada e respostas ambientais. A biologia do solo investiga organismos e transformações materiais ao redor das raízes. Oxigênio e nitrogênio têm funções definidas nessas descrições, mas essas funções não estabelecem que o oxigênio carregue vida etérica ou o nitrogênio astralidade. Reconhecer a importância agrícola das leguminosas tampouco demonstra a analogia do solo com pulmões. Cada abordagem precisa de explicação própria e evidência adequada."
+        ],
+        "limits": [
+          "O surgimento de folhas e a floração podem ser registrados; organização etérica não é medida contando folhas. Comparar crescimento em condições definidas pode testar um resultado material sem testar todos os portadores espirituais propostos. Compreender os termos também não exige adotar as afirmações fisiológicas ou meditativas da fonte como resultados experimentais."
+        ],
+        "modernReferences": [
+          "usda-soil"
+        ],
+        "checks": [
+          {
+            "question": "Como a Palestra 3 distingue planta e animal nessa abordagem?",
+            "options": [
+              "A planta tem a mesma organização astral interna que um animal",
+              "A planta tem organização física e etérica, enquanto a astralidade se aproxima externamente",
+              "A planta não tem relação com a astralidade na floração"
+            ],
+            "answer": 1,
+            "explanation": "As capturas 47–48 distinguem explicitamente a organização física e etérica da planta do corpo astral interno do animal, preservando uma relação externa com a astralidade."
+          },
+          {
+            "question": "Qual função é atribuída ao nitrogênio no modelo proposto de portadores?",
+            "options": [
+              "Mediar a vida etérica com a estrutura formadora do carbono por atividade astral",
+              "Servir apenas como rótulo para a cor visível das folhas",
+              "Comprovar que química moderna e teoria etérica são idênticas"
+            ],
+            "answer": 0,
+            "explanation": "Steiner usa o nitrogênio como mediador ou transportador entre vida e forma. Isso explica o modelo da fonte; não transforma a atribuição espiritual em definição química moderna."
+          },
+          {
+            "type": "reflection",
+            "question": "Explique folhas em crescimento primeiro como observação, depois pelo vocabulário etérico de Steiner.",
+            "explanation": "Primeiro descreva mudanças datadas, como número e expansão de folhas. Depois explique que Steiner atribui a vida contínua na estrutura material à atividade etérica com portadores físicos. Declare qual parte é registrada e qual pertence à explicação proposta."
+          }
+        ],
+        "observe": {
+          "task": [
+            "Retorne três vezes a uma planta em crescimento ou use uma sequência de imagens datadas. Registre uma mudança estrutural visível e uma mudança de desenvolvimento, mantendo a descrição separada do vocabulário da fonte."
+          ],
+          "record": [
+            "Data e condições disponíveis de luz, água ou manejo",
+            "Uma estrutura visível, como folha ou trecho de caule",
+            "Sua mudança, novo crescimento ou floração desde o registro anterior",
+            "Uma explicação separada usando físico, etérico e astral externo nos sentidos da fonte"
+          ],
+          "interpretation": "O registro pode estabelecer que houve desenvolvimento nas condições descritas. Não identifica um portador etérico nem estabelece astralidade pela observação da floração."
+        },
+        "connection": [
+          "A Parte III começa com Plantas, animais e a fazenda inteira. O papel da planta agora se amplia do crescimento para forragem, digestão animal e fertilidade que retorna, enquanto a distinção de Steiner entre organização vegetal e animal ganha importância agrícola."
+        ],
+        "optional": [
+          {
+            "route": "what-is-biodynamics/lessons/05.html",
+            "title": "GA 230: seres elementais e crescimento vegetal",
+            "label": "Contexto antroposófico opcional depois da questão agrícola; sua interpretação espiritual permanece distinta da observação de campo."
+          }
+        ],
+        "tables": [
+          {
+            "caption": "As cinco substâncias como funções no processo proposto por Steiner",
+            "headers": [
+              "Substância",
+              "Função atribuída",
+              "Conexão com a questão vegetal"
+            ],
+            "rows": [
+              [
+                "Carbono",
+                "Portador da organização formadora",
+                "Uma estrutura na qual a atividade viva precisa atuar"
+              ],
+              [
+                "Oxigênio",
+                "Portador físico da vida etérica",
+                "Vida e movimento na planta formada"
+              ],
+              [
+                "Nitrogênio",
+                "Portador da astralidade e mediador entre vida e forma",
+                "Coordenação e sensibilidade proposta na relação entre solo e planta"
+              ],
+              [
+                "Enxofre",
+                "Mediador da atividade espiritual na substância física",
+                "Auxilia as relações entre portadores, em vez de fornecer um rótulo separado de órgão"
+              ],
+              [
+                "Hidrogênio",
+                "Liberação da organização formada em direção ao caos cósmico",
+                "Conecta dissolução e renovação à descrição da formação de sementes"
+              ]
+            ],
+            "credit": "Explicação original do curso sobre funções atribuídas, não definições químicas modernas: GA 327, Palestra 3, Creeger/Gardner 1993, capturas 42, 44–49 e 51 do Markdown. Não se certificam aqui cores nem geometria do desenho histórico."
+          }
+        ]
+      }
+    }
+  ]
+}

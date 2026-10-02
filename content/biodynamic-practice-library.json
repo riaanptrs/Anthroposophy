@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "farm-observation",
+      "titleEn": "Farm observation",
+      "titlePt": "Observação da fazenda",
+      "entries": [
+        {
+          "id": "soil-observation",
+          "titleEn": "Compare two soils",
+          "titlePt": "Compare dois solos",
+          "lessonId": 4,
+          "en": {
+            "observation": [
+              "Choose two accessible soil surfaces and record the date, recent weather, moisture, visible aggregates, roots and organisms. Use comparable viewpoints or documented samples. Describe what you see before explaining it; appearance alone does not give organic-matter content. Revisit after a change in weather or management."
+            ],
+            "steiner": "Lecture 2 treats soil as an organ within a living agricultural individuality and attributes formative activity to its relationships. This explanation goes beyond visible structure.",
+            "later": "Contemporary assessments choose physical, chemical and biological indicators for a particular question. Their methods and sampling conditions must be recorded separately from the historical interpretation.",
+            "evidence": "NRCS soil-health guidance supports functional assessment and appropriate sampling. A visual comparison does not measure etheric activity, establish carbon stocks or identify the cause of a difference."
+          },
+          "pt": {
+            "observation": [
+              "Escolha duas superfícies de solo acessíveis e registre data, tempo recente, umidade, agregados visíveis, raízes e organismos. Use pontos comparáveis ou amostras documentadas. Descreva o que vê antes de explicar; a aparência não fornece o teor de matéria orgânica. Retorne depois de uma mudança no tempo ou manejo."
+            ],
+            "steiner": "A Palestra 2 trata o solo como órgão de uma individualidade agrícola viva e atribui atividade formativa às suas relações. Essa explicação vai além da estrutura visível.",
+            "later": "Avaliações contemporâneas escolhem indicadores físicos, químicos e biológicos para uma pergunta específica. Métodos e condições de amostragem precisam de registro separado da interpretação histórica.",
+            "evidence": "As orientações de saúde do solo do NRCS apoiam a avaliação funcional e a amostragem adequada. Uma comparação visual não mede atividade etérica, estabelece estoques de carbono nem identifica a causa de uma diferença."
+          }
+        },
+        {
+          "id": "plant-observation",
+          "titleEn": "Follow plant development",
+          "titlePt": "Acompanhe o desenvolvimento vegetal",
+          "lessonId": 6,
+          "en": {
+            "observation": [
+              "Follow one identified plant or a clearly marked patch. Make dated sketches of leaves, stems, flowers and seeds as they appear. Record whether roots were actually visible or remain unknown. Note light, moisture and human work; keep a description of form separate from a proposed explanation."
+            ],
+            "steiner": "Lectures 1–3 relate plant development, reproduction and nourishment to differently mediated earthly and cosmic processes. The account is more specific than assigning every root to earth and every flower to cosmos.",
+            "later": "Later observation journals can track growth stages and conditions. A calendar category is an additional interpretive system and needs its own attribution.",
+            "evidence": "Repeated records can establish a sequence of visible development. They do not isolate a planetary cause when weather, variety, soil and management also vary."
+          },
+          "pt": {
+            "observation": [
+              "Acompanhe uma planta identificada ou uma área marcada. Faça desenhos datados de folhas, caules, flores e sementes conforme apareçam. Registre se as raízes estavam visíveis ou continuam desconhecidas. Anote luz, umidade e trabalho humano; separe a descrição da forma de uma explicação proposta."
+            ],
+            "steiner": "As Palestras 1–3 relacionam desenvolvimento, reprodução e nutrição vegetal a processos terrestres e cósmicos mediados de modos diferentes. A explicação é mais específica do que atribuir toda raiz à terra e toda flor ao cosmos.",
+            "later": "Diários posteriores podem acompanhar fases de crescimento e condições. Uma categoria de calendário é um sistema interpretativo adicional que precisa de atribuição própria.",
+            "evidence": "Registros repetidos podem estabelecer uma sequência de desenvolvimento visível. Não isolam uma causa planetária quando tempo, variedade, solo e manejo também variam."
+          }
+        },
+        {
+          "id": "farm-map",
+          "titleEn": "Map the farm individuality",
+          "titlePt": "Mapeie a individualidade da fazenda",
+          "lessonId": 3,
+          "en": {
+            "observation": [
+              "Draw a boundary and locate crops, water, animals, hedges, woods, compost and human activities. Add incoming feed, fertiliser or organic material and outgoing products. Use a different mark for observed flows, reported flows and unknown quantities. Revisit the map as the place changes."
+            ],
+            "steiner": "Lecture 2 proposes an agricultural individuality with reciprocal internal support; Lecture 8 explicitly qualifies self-support under economic conditions. It is an organizing ideal rather than an unconditional ban on inputs.",
+            "later": "The Demeter 2026 standard has present requirements for fertility, livestock or documented cooperation within specified scopes. These institutional arrangements are later developments.",
+            "evidence": "A flow map makes dependencies visible. Without quantities, boundaries and a defined accounting period, it is not a nutrient budget or evidence of ecological self-sufficiency."
+          },
+          "pt": {
+            "observation": [
+              "Desenhe um limite e localize culturas, água, animais, sebes, matas, composto e atividades humanas. Acrescente entradas de alimento animal, adubo ou material orgânico e saídas de produtos. Diferencie fluxos observados, relatados e quantidades desconhecidas. Retome o mapa conforme o lugar mude."
+            ],
+            "steiner": "A Palestra 2 propõe uma individualidade agrícola com sustentação interna recíproca; a Palestra 8 ressalva essa sustentação diante das condições econômicas. É um ideal organizador, não uma proibição incondicional de insumos.",
+            "later": "A norma Demeter 2026 tem requisitos atuais para fertilidade, criação ou cooperação documentada dentro de escopos específicos. Esses arranjos institucionais são desenvolvimentos posteriores.",
+            "evidence": "Um mapa de fluxos mostra dependências. Sem quantidades, limites e período definido, não é um balanço de nutrientes nem evidência de autossuficiência ecológica."
+          }
+        },
+        {
+          "id": "animal-landscape",
+          "titleEn": "Observe animals and landscape",
+          "titlePt": "Observe animais e paisagem",
+          "lessonId": 9,
+          "en": {
+            "observation": [
+              "Record animals actually seen, their activity and the habitat used. Map trees, shrubs, wet areas and cultivated ground. Use dated observations rather than an assumed species inventory. Add documented feed and manure routes where available; mark animals or destinations that could not be identified."
+            ],
+            "steiner": "Lecture 7 differentiates trees, shrubs, damp areas and animal groups within attributed etheric and astral relationships. It does not give one universal stocking formula for every place.",
+            "later": "Later habitat planning and livestock arrangements require local information. Present certification provisions should be read in their actual scope rather than inferred from the lecture.",
+            "evidence": "DOK biodiversity summaries concern defined groups, plots and sampling periods. Visible animals in one visit neither measure astrality nor establish the biodiversity of an entire landscape."
+          },
+          "pt": {
+            "observation": [
+              "Registre animais vistos, sua atividade e o habitat utilizado. Mapeie árvores, arbustos, áreas úmidas e terreno cultivado. Use observações datadas, não um inventário presumido de espécies. Acrescente caminhos documentados de alimento e esterco; marque animais ou destinos não identificados."
+            ],
+            "steiner": "A Palestra 7 diferencia árvores, arbustos, áreas úmidas e grupos animais dentro de relações etéricas e astrais atribuídas. Não fornece uma fórmula universal de lotação para todo lugar.",
+            "later": "O planejamento posterior de habitats e criação exige informações locais. Disposições atuais de certificação devem ser lidas em seu escopo, não deduzidas da palestra.",
+            "evidence": "As sínteses de biodiversidade do DOK tratam de grupos, parcelas e períodos definidos. Animais visíveis numa visita não medem astralidade nem estabelecem a biodiversidade de uma paisagem inteira."
+          }
+        }
+      ]
+    },
+    {
+      "id": "fertility",
+      "titleEn": "Fertility",
+      "titlePt": "Fertilidade",
+      "entries": [
+        {
+          "id": "manure-return",
+          "titleEn": "Trace the manure return",
+          "titlePt": "Acompanhe o retorno do esterco",
+          "lessonId": 10,
+          "en": {
+            "observation": [
+              "Use a farm record to trace feed origin, animal group, manure handling and destination. Distinguish direct return to soil from a compost route where it occurs. Record storage and application dates if documented. Leave missing quantities and undocumented handling visible."
+            ],
+            "steiner": "Lectures 4 and 8 connect manure with continued fertility and attribute living formative activity and root ego-potential to it. That potential is distinguished from a human ego.",
+            "later": "Current standards describe permitted fertility inputs and preparation treatment. The Demeter 2026 requirements and exceptions are separate from Steiner’s words and from any recipe inferred from them.",
+            "evidence": "NRCS assesses biological, physical and chemical soil functions. A manure record documents material management; it does not measure root ego-potential or isolate the cause of a crop response."
+          },
+          "pt": {
+            "observation": [
+              "Use um registro da fazenda para acompanhar origem do alimento, grupo animal, manejo do esterco e destino. Diferencie retorno direto ao solo de um caminho pelo composto quando houver. Registre datas de armazenamento e aplicação documentadas. Mantenha visíveis quantidades e manejos desconhecidos."
+            ],
+            "steiner": "As Palestras 4 e 8 conectam esterco à continuidade da fertilidade e lhe atribuem atividade formativa viva e potencial do eu nas raízes. Esse potencial se distingue de um eu humano.",
+            "later": "Normas atuais descrevem insumos de fertilidade permitidos e tratamento com preparados. Os requisitos e exceções da Demeter 2026 são separados das palavras de Steiner e de receitas deduzidas delas.",
+            "evidence": "O NRCS avalia funções biológicas, físicas e químicas do solo. Um registro de esterco documenta manejo material; não mede potencial do eu nas raízes nem isola a causa da resposta de uma cultura."
+          }
+        },
+        {
+          "id": "compost-cycle",
+          "titleEn": "Follow the compost cycle",
+          "titlePt": "Acompanhe o ciclo do composto",
+          "lessonId": 11,
+          "en": {
+            "observation": [
+              "Map plant residues entering compost and any manure that actually follows that route. Keep direct manure-to-soil returns separate. From existing records, note feedstocks, turning, moisture observations, dates and destination. Follow the two return paths in the lesson diagram rather than forcing all organic material through compost."
+            ],
+            "steiner": "Lecture 4 differentiates manure and plant-residue compost; Lecture 5 retains ordinary fertility work while proposing enhancements. Compost belongs to the farm relationship but is not a compulsory intermediate for every manure return.",
+            "later": "Later compost practice and current preparation-treatment requirements need their own sources. Demeter section 6.2 states mandatory measures; Appendix 8 supplies recommendations, not an identical set of obligations.",
+            "evidence": "FiBL reports differently processed manure among DOK systems. A whole-system result therefore cannot be read as a preparation-only result without an appropriate matched comparison."
+          },
+          "pt": {
+            "observation": [
+              "Mapeie resíduos vegetais que entram no composto e o esterco que segue esse caminho. Mantenha separados retornos diretos do esterco ao solo. Em registros existentes, anote materiais, revolvimento, observações de umidade, datas e destino. Siga os dois retornos do diagrama sem forçar todo material orgânico a passar pelo composto."
+            ],
+            "steiner": "A Palestra 4 diferencia esterco e composto de resíduos vegetais; a Palestra 5 mantém o trabalho comum de fertilidade e propõe melhorias. O composto pertence à relação da fazenda, mas não é etapa obrigatória de todo retorno do esterco.",
+            "later": "Práticas posteriores de compostagem e requisitos atuais de tratamento precisam de fontes próprias. A seção 6.2 da Demeter declara medidas obrigatórias; o Apêndice 8 fornece recomendações, não um conjunto idêntico de obrigações.",
+            "evidence": "A FiBL relata processamentos diferentes do esterco entre os sistemas DOK. Um resultado de sistema completo não pode ser lido como efeito apenas de preparado sem comparação adequada."
+          }
+        }
+      ]
+    },
+    {
+      "id": "preparations",
+      "titleEn": "Preparations",
+      "titlePt": "Preparados",
+      "entries": [
+        {
+          "id": "horn-manure",
+          "titleEn": "Horn manure — 500",
+          "titlePt": "Esterco de chifre — 500",
+          "lessonId": 13,
+          "en": {
+            "observation": [
+              "Read an existing preparation record alongside Lesson 13. Identify the material, enclosure, season, destination and claimed role. Mark which details come from the 1924 account and which belong to a later protocol. This is a provenance exercise, not an instruction to make or apply a preparation."
+            ],
+            "steiner": "Lecture 4 describes cow manure in a cow horn exposed below ground through winter, then a stirred water preparation directed toward land. Steiner attributes concentration of etheric and astral activity to the horn and a relation to soil and root processes.",
+            "later": "500 is a later designation. Present preparation use falls under Demeter 2026 section 6.2 with its scope and exemptions; Appendix 8 recommendations are separately identified. Current operating protocols require their own verification.",
+            "evidence": "DOK includes 500/501 even in NOFERT. That treatment is not a preparation-free control; the reviewed whole-system summaries do not isolate the effect of 500 or verify its proposed spiritual mechanism."
+          },
+          "pt": {
+            "observation": [
+              "Leia um registro de preparado junto com a Lição 13. Identifique material, envoltório, estação, destino e função atribuída. Marque quais detalhes vêm de 1924 e quais pertencem a um protocolo posterior. É um exercício de proveniência, não uma instrução para produzir ou aplicar um preparado."
+            ],
+            "steiner": "A Palestra 4 descreve esterco bovino em chifre de vaca exposto sob a terra durante o inverno, seguido de um preparado em água agitada dirigido à terra. Steiner atribui concentração de atividade etérica e astral ao chifre e relação com solo e raízes.",
+            "later": "500 é uma designação posterior. O uso atual de preparados pertence à seção 6.2 da Demeter 2026, com seu escopo e exceções; recomendações do Apêndice 8 são identificadas separadamente. Protocolos operacionais atuais precisam de verificação própria.",
+            "evidence": "O DOK inclui 500/501 até em NOFERT. Esse tratamento não é controle sem preparados; as sínteses de sistemas revisadas não isolam o efeito de 500 nem verificam seu mecanismo espiritual proposto."
+          }
+        },
+        {
+          "id": "horn-silica",
+          "titleEn": "Horn silica — 501",
+          "titlePt": "Sílica de chifre — 501",
+          "lessonId": 14,
+          "en": {
+            "observation": [
+              "Compare a documented silica preparation with the horn-manure record. Use the lesson table to distinguish material, seasonal exposure, application destination and intended function. Do not turn their contrasting roles into a rule that more of one automatically replaces the other."
+            ],
+            "steiner": "Lecture 4 describes finely ground quartz in a horn through summer and allows orthoclase/feldspar as an alternative in the passage. The plant-facing treatment complements horn manure within his account of growth and formative relationships.",
+            "later": "501 and standardised application conventions are later developments. Current certification requirements are not a reason to attribute every modern dose or regional schedule to the 1924 lecture.",
+            "evidence": "The reviewed FiBL summaries compare specified management systems with several differences. They do not establish a universal 501 response or identify cosmic mediation as the cause of an observed result."
+          },
+          "pt": {
+            "observation": [
+              "Compare um preparado de sílica documentado com o registro de esterco de chifre. Use a tabela da lição para diferenciar material, exposição sazonal, destino e função pretendida. Não transforme os contrastes numa regra de substituição automática entre preparados."
+            ],
+            "steiner": "A Palestra 4 descreve quartzo finamente moído num chifre durante o verão e admite ortoclásio/feldspato como alternativa. O tratamento dirigido à planta complementa o esterco de chifre em sua explicação do crescimento e das relações formativas.",
+            "later": "501 e convenções padronizadas de aplicação são desenvolvimentos posteriores. Requisitos atuais de certificação não autorizam atribuir toda dose moderna ou calendário regional à palestra de 1924.",
+            "evidence": "As sínteses FiBL revisadas comparam sistemas definidos com várias diferenças. Não estabelecem resposta universal a 501 nem identificam mediação cósmica como causa de um resultado observado."
+          }
+        },
+        {
+          "id": "compost-preparations",
+          "titleEn": "Compost preparations — 502–507",
+          "titlePt": "Preparados de composto — 502–507",
+          "lessonId": 15,
+          "en": {
+            "observation": [
+              "Use Lesson 15’s six-row table to annotate a written preparation list. Add botanical material, enclosure or absence of enclosure, exposure, manure/compost destination and attributed role. An ingredient name alone does not document the historical method. Keep unresolved translation and identification details visible."
+            ],
+            "steiner": "Lecture 5 differentiates yarrow, chamomile, nettle, oak bark, dandelion and valerian within continued manuring. Their forms and claimed roles differ; nettle has no animal enclosure, and valerian is an extract rather than another buried enclosure.",
+            "later": "502–507 are later numbers. The current Demeter standard has manure/compost treatment requirements and approved alternative routes; its recommended production guidance does not make every historical detail mandatory.",
+            "evidence": "Compost handling and feedstocks are important co-varying features in a system comparison. The reviewed evidence does not isolate six ingredient effects or establish Steiner’s exceptional material-transformation claim."
+          },
+          "pt": {
+            "observation": [
+              "Use a tabela de seis linhas da Lição 15 para anotar uma lista escrita de preparados. Acrescente material botânico, envoltório ou sua ausência, exposição, destino no esterco/composto e função atribuída. Um nome de ingrediente não documenta o método histórico. Mantenha visíveis questões de tradução e identificação."
+            ],
+            "steiner": "A Palestra 5 diferencia mil-folhas, camomila, urtiga, casca de carvalho, dente-de-leão e valeriana dentro da adubação contínua. Formas e funções atribuídas diferem; urtiga não tem envoltório animal e valeriana é extrato, não outro envoltório enterrado.",
+            "later": "502–507 são números posteriores. A norma Demeter atual tem requisitos de tratamento do esterco/composto e caminhos alternativos aprovados; suas orientações recomendadas não tornam obrigatório todo detalhe histórico.",
+            "evidence": "Manejo do composto e materiais de base são características que variam conjuntamente numa comparação de sistemas. A evidência revisada não isola efeitos dos seis ingredientes nem estabelece a afirmação excepcional de transformação material de Steiner."
+          }
+        },
+        {
+          "id": "horsetail",
+          "titleEn": "Horsetail and the later 508 label",
+          "titlePt": "Cavalinha e a designação posterior 508",
+          "lessonId": 16,
+          "en": {
+            "observation": [
+              "Locate horsetail in the preparation map and explain why it sits in a different group. In an existing record, separate the plant identification, historical indication, later name and any current treatment claim. Connect the entry to the disease lesson rather than assuming another compost additive."
+            ],
+            "steiner": "Lecture 6 places horsetail tea in the account of excessive lunar activity mediated by water and abnormal plant growth. It has a different role from the six manure/compost ingredients.",
+            "later": "Gardner’s editorial note at canonical capture 184 says the tea is sometimes called preparation 508. That is separately attributed editorial evidence for later usage, not a number spoken by Steiner in 1924 or a universal treatment requirement.",
+            "evidence": "A symptom observation does not establish its cause or the efficacy of a treatment. The reviewed modern sources supply no isolated horsetail-efficacy result; diagnosis and an appropriate comparison remain separate questions."
+          },
+          "pt": {
+            "observation": [
+              "Localize a cavalinha no mapa e explique por que pertence a outro grupo. Num registro existente, separe identificação vegetal, indicação histórica, nome posterior e alegação atual de tratamento. Relacione o verbete à lição de doenças, sem presumir outro aditivo do composto."
+            ],
+            "steiner": "A Palestra 6 situa o chá de cavalinha na explicação de atividade lunar excessiva mediada pela água e crescimento vegetal anormal. Sua função difere dos seis ingredientes de esterco/composto.",
+            "later": "A nota editorial de Gardner na captura canônica 184 diz que o chá às vezes é chamado de preparado 508. É evidência editorial atribuída separadamente para uso posterior, não um número dito por Steiner em 1924 nem requisito universal de tratamento.",
+            "evidence": "Observar um sintoma não estabelece sua causa nem a eficácia de um tratamento. As fontes modernas revisadas não fornecem resultado isolado de eficácia da cavalinha; diagnóstico e comparação adequada continuam perguntas separadas."
+          }
+        }
+      ]
+    },
+    {
+      "id": "farm-challenges",
+      "titleEn": "Farm challenges",
+      "titlePt": "Desafios da fazenda",
+      "entries": [
+        {
+          "id": "weed-record",
+          "titleEn": "Record spontaneous plants",
+          "titlePt": "Registre plantas espontâneas",
+          "lessonId": 17,
+          "en": {
+            "observation": [
+              "Map one patch and record date, plant identity if known, growth stage, ground cover and recent disturbance. Describe abundance in the same area at later visits. Keep an unidentified plant unidentified and document management changes rather than calling every spontaneous plant a problem."
+            ],
+            "steiner": "Lecture 6 proposes a seed-ash indication to work against reproductive activity within the earthly–cosmic model. Steiner’s explanation and confidence are historical claims, not established efficacy.",
+            "later": "Later management choices require plant identification, local conditions and their own practical sources. This library provides observation and source study, not an operational ash-treatment protocol.",
+            "evidence": "Changing cover across visits can be recorded, but disturbance, moisture, seed supply and other care can change together. A repeated count alone cannot isolate a treatment or celestial cause."
+          },
+          "pt": {
+            "observation": [
+              "Mapeie uma área e registre data, identidade vegetal conhecida, fase de crescimento, cobertura e perturbação recente. Descreva abundância na mesma área nas visitas seguintes. Mantenha não identificada uma planta desconhecida e documente mudanças de manejo, sem tratar toda planta espontânea como problema."
+            ],
+            "steiner": "A Palestra 6 propõe uma indicação com cinzas de sementes para agir contra atividade reprodutiva no modelo terrestre–cósmico. A explicação e a confiança de Steiner são afirmações históricas, não eficácia estabelecida.",
+            "later": "Escolhas posteriores de manejo exigem identificação vegetal, condições locais e fontes práticas próprias. Esta biblioteca oferece observação e estudo da fonte, não protocolo operacional com cinzas.",
+            "evidence": "Mudanças de cobertura entre visitas podem ser registradas, mas perturbação, umidade, sementes e manejo podem variar juntos. Uma contagem repetida não isola tratamento nem causa celeste."
+          }
+        },
+        {
+          "id": "pest-observation",
+          "titleEn": "Distinguish animals from damage",
+          "titlePt": "Diferencie animais e danos",
+          "lessonId": 18,
+          "en": {
+            "observation": [
+              "Record the crop, damage location, date and organisms actually observed. Sketch the affected and unaffected areas. Mark whether the organism was seen causing the damage or merely nearby. Use existing management records; this exercise does not involve killing animals or making ash preparations."
+            ],
+            "steiner": "Lecture 6 gives different accounts for mammals and invertebrate pests, including animal-derived ash indications and particular timing assumptions. The organism-specific distinctions belong to the historical explanation.",
+            "later": "Present pest management needs appropriate identification and lawful, humane methods. Later biodynamic descriptions require separate provenance; they do not turn the lecture into a verified contemporary protocol.",
+            "evidence": "An animal’s presence does not identify a damage cause, and less visible damage after changed management does not isolate one treatment. None of the reviewed modern summaries verifies these historical pest methods."
+          },
+          "pt": {
+            "observation": [
+              "Registre cultura, localização do dano, data e organismos observados. Desenhe áreas afetadas e não afetadas. Marque se o organismo foi visto causando o dano ou apenas estava próximo. Use registros de manejo; este exercício não envolve matar animais nem produzir preparados de cinzas."
+            ],
+            "steiner": "A Palestra 6 fornece explicações diferentes para mamíferos e pragas invertebradas, incluindo indicações com cinzas de origem animal e pressupostos de tempo específicos. As distinções por organismo pertencem à explicação histórica.",
+            "later": "O manejo atual de pragas exige identificação adequada e métodos legais e humanitários. Descrições biodinâmicas posteriores precisam de proveniência própria; não tornam a palestra um protocolo contemporâneo verificado.",
+            "evidence": "A presença de um animal não identifica a causa do dano, e menos dano visível após mudanças de manejo não isola um tratamento. Nenhuma síntese moderna revisada verifica esses métodos históricos."
+          }
+        },
+        {
+          "id": "disease-record",
+          "titleEn": "Describe plant symptoms",
+          "titlePt": "Descreva sintomas vegetais",
+          "lessonId": 19,
+          "en": {
+            "observation": [
+              "Make a dated record of affected plant parts, visible changes, wetness, weather and surrounding conditions. Record the same plant area again, noting any documented work. Separate a visible symptom, an identified organism and a proposed diagnosis. Ask a qualified local adviser for a practical diagnosis when needed."
+            ],
+            "steiner": "Lecture 6 interprets certain abnormal growth through excessive water-mediated lunar activity and a figurative second ground-level. This is a particular account, not the claim that every disease has one cause.",
+            "later": "Plant pathology and current field management use different questions and diagnostic methods. A later treatment claim must be sourced separately from the 1924 explanation.",
+            "evidence": "Symptoms and wet conditions can be observed together without showing that one proposed mechanism caused the other. The course’s reviewed evidence does not supply a pathogen diagnosis for an observed plant."
+          },
+          "pt": {
+            "observation": [
+              "Faça um registro datado de partes afetadas, mudanças visíveis, umidade, tempo e condições ao redor. Retome a mesma área vegetal, anotando trabalho documentado. Separe sintoma visível, organismo identificado e diagnóstico proposto. Procure orientação local qualificada quando precisar de diagnóstico prático."
+            ],
+            "steiner": "A Palestra 6 interpreta certos crescimentos anormais por atividade lunar excessiva mediada pela água e um segundo nível de solo figurativo. É uma explicação específica, não a afirmação de que toda doença tem uma causa.",
+            "later": "A fitopatologia e o manejo atual usam perguntas e métodos diagnósticos diferentes. Uma alegação posterior de tratamento precisa de fonte separada da explicação de 1924.",
+            "evidence": "Sintomas e condições úmidas podem ser observados juntos sem demonstrar que um mecanismo proposto causou o outro. A evidência revisada do curso não fornece diagnóstico de patógeno para uma planta observada."
+          }
+        }
+      ]
+    },
+    {
+      "id": "rhythms",
+      "titleEn": "Rhythms",
+      "titlePt": "Ritmos",
+      "entries": [
+        {
+          "id": "rhythm-journal",
+          "titleEn": "Keep a seasonal observation journal",
+          "titlePt": "Mantenha um diário sazonal",
+          "lessonId": 20,
+          "en": {
+            "observation": [
+              "Revisit a fixed viewpoint and record date, time, daylight, shade, weather, soil surface and plant stage. Add documented watering, sowing or harvesting. If you record a calendar category, name its source and keep it in a separate interpretation column. Three entries begin a journal; they do not establish a timing effect."
+            ],
+            "steiner": "GA 327 connects particular seasons, lunar relationships and planetary conditions with particular agricultural processes. The indications differ by context and do not constitute every contemporary planting-calendar rule.",
+            "later": "Vreede’s provisional guidance, Gardner’s editorial discussion and later calendars have separate attribution. Record which system is being used instead of treating all timing guidance as Steiner’s own words.",
+            "evidence": "Seasonal records reveal change but weather, development and management also change with time. A timing-effect claim needs a defined comparison and repeated measurements; a dated diary does not demonstrate planetary causation."
+          },
+          "pt": {
+            "observation": [
+              "Retorne a um ponto fixo e registre data, horário, luz, sombra, tempo, superfície do solo e fase vegetal. Acrescente rega, semeadura ou colheita documentadas. Se registrar uma categoria de calendário, nomeie a fonte e use coluna interpretativa separada. Três entradas iniciam um diário; não estabelecem efeito do momento escolhido."
+            ],
+            "steiner": "GA 327 conecta estações, relações lunares e condições planetárias específicas a processos agrícolas específicos. As indicações variam por contexto e não constituem toda regra de calendário contemporâneo.",
+            "later": "As orientações provisórias de Vreede, a discussão editorial de Gardner e calendários posteriores têm atribuições separadas. Registre qual sistema está sendo usado, sem tratar toda orientação de tempo como palavras de Steiner.",
+            "evidence": "Registros sazonais mostram mudanças, mas tempo, desenvolvimento e manejo também variam. Uma alegação de efeito do momento exige comparação definida e medições repetidas; um diário datado não demonstra causalidade planetária."
+          }
+        }
+      ]
+    }
+  ]
+}

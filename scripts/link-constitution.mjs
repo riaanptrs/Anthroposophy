@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {isPracticalThinkingOwned} from './practical-thinking-owned.mjs';
+import {isBiodynamicOwned} from './biodynamic-owned.mjs';
 // Work only on rendered text, never attributes, code, form fields or existing links.
 const excluded=new Set(['a','script','style','textarea','title','code','pre','svg','button','select']);
 const voids=new Set(['area','base','br','col','embed','hr','img','input','link','meta','param','source','track','wbr']);
@@ -37,6 +38,8 @@ export function buildLinks(){
   if(/^(?:pt\/)?(?:lessons\/\d{2}\.html|theosophy\/)/.test(normalized)&&html.includes('data-theosophy-owned="true"'))continue;
   if(isIntroductionOwned(normalized,html))continue;
   if(isPracticalThinkingOwned(normalized,html))continue;
+  // Agricultural uses of etheric/astral activity select their own contextual links.
+  if(isBiodynamicOwned(normalized,html))continue;
   const pt=html.includes('<html lang="pt-BR"'),base=pt?'docs/pt':'docs';
   const url=path.relative(path.dirname(file),`${base}/reference/human-constitution.html`).replaceAll('\\','/');
   if(/^(?:pt\/)?(?:index\.html|lessons\/(?:00|03|06)\.html)$/.test(normalized)&&!html.includes('class="constitution-entry"')){

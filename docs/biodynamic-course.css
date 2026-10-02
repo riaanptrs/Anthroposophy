@@ -1,0 +1,52 @@
+.biodynamic-course{max-width:1040px;margin-inline:auto;padding-inline:clamp(16px,4vw,40px);overflow-wrap:anywhere}
+.biodynamic-course p,.biodynamic-course li{line-height:1.65}
+.biodynamic-course h1{font-size:clamp(2rem,5vw,3.15rem);line-height:1.12}
+.biodynamic-course h2{margin-top:1.5rem}
+.biodynamic-course textarea{box-sizing:border-box;max-width:100%;width:100%}
+.bio-subtitle{font-size:clamp(1.15rem,3vw,1.7rem);color:#46594b}
+.bio-actions{display:flex;flex-wrap:wrap;gap:12px;margin-block:24px}
+.bio-button{display:inline-block;border:1px solid #52654f;border-radius:9px;padding:11px 16px;text-decoration:none;background:#f4f7ed;color:#273f32}
+.bio-button:hover{background:#e7efda}
+.bio-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.bio-card{border:1px solid #cbd5c0;border-radius:14px;padding:22px;background:#f6f7ef}
+.bio-card h3{margin-top:8px}
+.bio-development{display:flex;flex-wrap:wrap;gap:8px 30px;padding-left:24px}
+.bio-development li{flex:1 1 210px;padding:8px}
+.bio-draft{border:2px solid #ba9557;background:#fff8e7;padding:18px;border-radius:10px;margin-bottom:24px}
+.bio-draft p{margin-bottom:0}
+.bio-breadcrumb{margin-bottom:22px;font-size:.95rem}
+.bio-header{flex-wrap:wrap;gap:16px}
+.bio-header [data-biodynamic-nav]{display:flex;flex-wrap:wrap;flex-basis:100%;gap:10px 20px;font-size:.95rem}
+.bio-source blockquote{margin:18px 0;border-left:4px solid #809a67;padding:12px 20px;background:#f3f5ea}
+.bio-credit{font-size:.9rem;color:#4d594b}
+.bio-process{margin:24px 0;padding:20px;border:1px solid #cad7be;border-radius:12px;background:#f1f5ec}
+.bio-process figcaption{font-weight:700}
+.bio-process>ol,.bio-cycle-steps{list-style:none;padding:0;display:grid;gap:0;margin-bottom:0}
+.bio-process>ol>li,.bio-cycle-steps>li{position:relative;border:1px solid #adc09c;border-radius:8px;background:#fff;padding:12px 16px;margin:0 0 29px}
+.bio-process>ol>li:not(:last-child)::after,.bio-cycle-steps>li:not(:last-child)::after{content:'↓';position:absolute;left:50%;bottom:-30px;color:#466b40;font-size:1.4rem}
+.bio-process>ol>li:last-child,.bio-cycle-steps>li:last-child{margin-bottom:0}
+.bio-cycle-paths{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin-top:24px}
+.bio-cycle-paths>section{border:1px dashed #99af89;border-radius:10px;padding:16px}
+.bio-cycle-paths h3{margin-top:0}
+.bio-cycle-returns{padding-left:20px}
+.bio-cycle-returns>li{margin-bottom:12px}
+.bio-cycle-rejoin{border:1px solid #adc09c;border-radius:8px;background:#fff;padding:12px 16px;font-weight:600}
+.bio-table{overflow-x:auto;max-width:100%;margin-block:20px;border:1px solid #c6d2c0;border-radius:8px}
+.bio-table table{border-collapse:collapse;min-width:660px;width:100%;margin:0}
+.bio-table caption{text-align:left;padding:14px;font-weight:700;background:#edf2e5}
+.bio-table th,.bio-table td{vertical-align:top;text-align:left;padding:13px;border-bottom:1px solid #dbe2d1;border-right:1px solid #dbe2d1;line-height:1.55}
+.bio-table th{background:#f0f3e9}
+.bio-table tr:last-child>*{border-bottom:0}
+.bio-table tr>*:last-child{border-right:0}
+.bio-table:focus-visible,.bio-button:focus-visible{outline:3px solid #496c8b;outline-offset:3px}
+.bio-observe,.bio-library-entry,.bio-synthesis{border-top:1px solid #c9d1c0;margin-top:32px;padding-top:20px}
+.bio-observe label,.biodynamic-course .study-attempt>label,.biodynamic-course .study-return label,.biodynamic-course .study-notebook>label{display:block;margin-top:18px;font-weight:600}
+.bio-library-entry dt{font-weight:700;margin-top:14px}
+.bio-library-entry dd{margin:4px 0 10px}
+.bio-lesson-list li{padding:12px 0}
+.bio-lesson-list h3{margin:0}
+.bio-lesson-list [data-biodynamic-study-label]{font-size:.95rem;color:#385c39}
+.bio-optional,.bio-references{margin-block:18px}
+.biodynamic-course .lesson-navigation{display:flex;flex-wrap:wrap;gap:16px;justify-content:space-between;margin-top:32px}
+@media(max-width:650px){.bio-grid,.bio-cycle-paths{grid-template-columns:1fr}.bio-card{padding:17px}.bio-actions{flex-direction:column}.bio-button{text-align:center}.bio-process{padding:14px}.biodynamic-course .learning-quiz{min-width:0}}
+@media print{.bio-actions,.study-actions{display:none}.bio-table{overflow:visible}.bio-table table{min-width:0}details{display:block}}

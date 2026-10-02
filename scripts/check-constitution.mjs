@@ -3,6 +3,7 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 import {linkTerms,targetFor,isIntroductionOwned} from './link-constitution.mjs';
 import {isPracticalThinkingOwned} from './practical-thinking-owned.mjs';
+import {isBiodynamicOwned} from './biodynamic-owned.mjs';
 const strip=h=>h.replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');
 const fixture='<html><head><title>Astral body</title></head><body><p title="etheric body">Physical body, astral body, etheric body; astral body again.</p><a href="source.html">astral body</a><textarea>etheric body</textarea><script>if (a < b) { text = "astral body"; }</script><svg><text>physical body</text></svg><!-- astral body --></body></html>';
 const result=linkTerms(fixture,'reference/human-constitution.html');
@@ -27,7 +28,7 @@ for(const rel of fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('.
  }
  if(rel==='learning-review.html')continue;
  const guidedTheosophy=/^(?:pt\/)?(?:lessons\/\d{2}\.html|theosophy\/)/.test(rel.replaceAll('\\','/'))&&h.includes('data-theosophy-owned="true"');
- if(!guidedTheosophy&&!isIntroductionOwned(rel,h)&&!isPracticalThinkingOwned(rel,h))assert.equal(linkTerms(h,'unused').count,0,file+' has unlinked terminology');
+ if(!guidedTheosophy&&!isIntroductionOwned(rel,h)&&!isPracticalThinkingOwned(rel,h)&&!isBiodynamicOwned(rel,h))assert.equal(linkTerms(h,'unused').count,0,file+' has unlinked terminology');
  const refs=[...h.matchAll(/<a class="constitution-ref" href="([^"]+)"/g)];
  if(refs.length)pages++;
  for(const [,href] of refs){

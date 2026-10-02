@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "status": "ready",
+  "reviewed": "2026-10-02",
+  "route": "biodynamics",
+  "titleEn": "Biodynamic Agriculture",
+  "titlePt": "Agricultura biodinâmica",
+  "subtitleEn": "Soil, Farm, Cosmos and the Living Organism",
+  "subtitlePt": "Solo, fazenda, cosmos e o organismo vivo",
+  "descriptionEn": "A guided study of Rudolf Steiner’s 1924 Agriculture Course and the foundations of biodynamic farming.",
+  "descriptionPt": "Um estudo guiado do Curso de Agricultura de Rudolf Steiner de 1924 e dos fundamentos da agricultura biodinâmica.",
+  "canonical": {
+    "id": "creeger",
+    "title": "Spiritual Foundations for the Renewal of Agriculture",
+    "ga": 327,
+    "translators": [
+      "Catherine E. Creeger",
+      "Malcolm Gardner"
+    ],
+    "editor": "Malcolm Gardner",
+    "publisher": "Bio-Dynamic Farming and Gardening Association, Inc.",
+    "year": 1993,
+    "sourceFile": "Agriculture.md",
+    "sha256": "8ec1fbf787c122fea7b7ee28ccf520f1a0442e20253bf0329a7f4cfcc01a2d5c",
+    "captureCount": 192,
+    "pdfVerified": false,
+    "paginationVerified": true,
+    "paginationKind": "markdown-capture",
+    "printedPaginationVerified": false,
+    "markdownVerified": true
+  },
+  "comparison": {
+    "id": "adams",
+    "title": "Agriculture Course: The Birth of the Biodynamic Method",
+    "ga": 327,
+    "translator": "George Adams",
+    "publisher": "Rudolf Steiner Press",
+    "year": 2012,
+    "translationYear": 1958,
+    "sourceFile": "Agriculture course.md",
+    "sha256": "ce60b99e02febcf3ee07f0d7f644936e9b43f0fd0467b09ab1d64a92ec3cd78d",
+    "captureCount": 178,
+    "pdfVerified": false,
+    "markdownVerified": true
+  },
+  "parts": [
+    {
+      "id": 1,
+      "slug": "agricultural-question",
+      "titleEn": "The Agricultural Question",
+      "titlePt": "A questão agrícola",
+      "lessonIds": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "earth-soil-plant",
+      "titleEn": "Earth, Soil and Plant",
+      "titlePt": "Terra, solo e planta",
+      "lessonIds": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "farm-organism",
+      "titleEn": "The Farm Organism",
+      "titlePt": "O organismo da fazenda",
+      "lessonIds": [
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "preparations",
+      "titleEn": "The Biodynamic Preparations",
+      "titlePt": "Os preparados biodinâmicos",
+      "lessonIds": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "challenges-rhythms",
+      "titleEn": "Weeds, Pests, Disease and Rhythms",
+      "titlePt": "Plantas espontâneas, pragas, doenças e ritmos",
+      "lessonIds": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "biodynamics-today",
+      "titleEn": "Biodynamics Today",
+      "titlePt": "A biodinâmica hoje",
+      "lessonIds": [
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "publicationChecks": {
+    "pdfPassagesAndPagesVerified": false,
+    "pdfDrawingsInspected": false,
+    "modernSourcesVerified": true,
+    "legacyMigrationVerified": true,
+    "browserChecksPassed": true,
+    "sourcePassagesAndLocatorsVerified": true,
+    "diagramProvenanceVerified": true
+  },
+  "sourceAuthority": "supplied-markdown",
+  "sourceDecision": {
+    "date": "2026-10-02",
+    "instruction": "use the markdown files",
+    "locators": "supplied Markdown capture markers, not printed book pages or PDF page positions"
+  },
+  "diagramPolicy": "original-teaching-diagrams"
+}

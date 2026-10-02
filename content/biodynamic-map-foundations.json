@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "mapId": "ga327-foundations",
+  "status": "private-source-map; Markdown review complete in the declared scope; native PDF verification pending",
+  "reviewed": "2026-10-02",
+  "scope": {
+    "lectures": [1, 2, 3],
+    "sequentialReading": [
+      {"witness": "creeger", "frontMatterCaptures": [1, 17], "lectureCaptures": [18, 54], "completeWithinDeclaredScope": true},
+      {"witness": "adams", "frontMatterCaptures": [1, 17], "lectureCaptures": [18, 57], "completeWithinDeclaredScope": true}
+    ],
+    "method": "Read the supplied Markdown paragraphs sequentially, including introductory material and all three lecture bodies. Cross-check capture numbers against content/agriculture-source-map.json. Later-lecture references below are inherited from that previously reviewed map, not a claim of newly reading Lectures 4–8 in this mapping task.",
+    "excluded": ["Lesson authoring", "Native PDF or printed-page verification", "Visual verification of drawings or plates", "Modern evidence review", "Publication"]
+  },
+  "canonicalDraftPreference": {
+    "witness": "creeger",
+    "edition": "Creeger/Gardner 1993",
+    "reason": "The edition supplies named translators and editor, extensive editorial notes, and a detailed account of the textual witness. It provides the draft wording; Adams is the comparison witness.",
+    "qualification": "Provisional until the corresponding PDFs can be inspected. No disputed wording or drawing is adjudicated from OCR alone.",
+    "publicationGate": "Confirm any published quotation, native page reference and drawing against the chosen edition's accessible PDF. Verify modern references separately. The present map uses capture locators only."
+  },
+  "locatorContract": {
+    "capture": "Numbers identify the supplied Markdown <!-- page: N --> blocks. They are export captures, not verified PDF or printed pages.",
+    "sourceRefs": "Each creeger or adams pair is an inclusive Markdown capture range; a repeated number identifies one capture.",
+    "displayedLocators": "Kindle locations and displayed Pagina labels are transcribed screen readouts. They are not a uniform conversion to printed pagination.",
+    "canonicalPrintedPageRange": null,
+    "nativePdfPagesVerified": false,
+    "drawingStatus": "Textual references and OCR captions can be mapped. Shape, placement, colour and completeness of the actual artwork remain unverified."
+  },
+  "editions": [
+    {
+      "id": "creeger",
+      "suppliedFile": "/workspace/attachments/be19ef4a-98de-4156-ab90-6d1646331553/Agriculture.md",
+      "originalFilename": "Agriculture.md",
+      "bytes": 569145,
+      "sha256": "8ec1fbf787c122fea7b7ee28ccf520f1a0442e20253bf0329a7f4cfcc01a2d5c",
+      "matchesPreviousReviewedWitness": true,
+      "captureCount": 192,
+      "fullTitle": "Spiritual Foundations for the Renewal of Agriculture",
+      "coverAndExportTitle": "Agriculture",
+      "author": "Rudolf Steiner",
+      "translators": ["Catherine E. Creeger", "Malcolm Gardner"],
+      "editor": "Malcolm Gardner",
+      "publicationYear": 1993,
+      "publisher": "Bio-Dynamic Farming and Gardening Association, Inc.",
+      "publicationPlace": "Junction City, Oregon, USA",
+      "germanSource": {"title": "Geisteswissenschaftliche Grundlagen zum Gedeihen der Landwirtschaft", "ga": 327, "publisher": "Rudolf Steiner Verlag", "place": "Dornach, Switzerland", "year": 1984, "edition": "7th"},
+      "identitySourceRefs": {"creeger": [2, 8]},
+      "identityQualification": "The title-page OCR garbles Creeger/Gardner and publisher spellings. The foreword and copyright text support the normalized names recorded here; native-page confirmation remains pending.",
+      "frontMatter": [
+        {"captures": [1, 3], "kind": "Cover, title and publication information", "voice": "Publisher/editorial"},
+        {"captures": [4, 4], "kind": "Publisher's note", "voice": "Publisher", "significance": "Distinguishes written works from uncorrected lecture reports and warns of faulty passages; this is not a written agricultural textbook revised by Steiner."},
+        {"captures": [5, 6], "kind": "Contents", "voice": "Editor", "significance": "Eight lectures, four discussions, the separate June 11 address, the June 20 report, appendices and editorial apparatus."},
+        {"captures": [7, 8], "kind": "Foreword", "author": "Roderick Shouldice", "voice": "Later commentary", "significance": "Describes the farmers' concerns and assumed anthroposophical familiarity. Do not turn its recommended preliminary reading into a beginner-course requirement."},
+        {"captures": [9, 17], "kind": "Report to members after the Agriculture Course", "author": "Rudolf Steiner", "date": "1924-06-20", "place": "Dornach, Switzerland", "voice": "Steiner's subsequent report", "significance": "Retrospective context, the Experimental Circle and the relation of indications to practical trials. Not Lecture 1 or an additional Koberwitz lecture."}
+      ],
+      "pagination": {
+        "kind": "192 OCR Markdown captures of Kindle screen material",
+        "displayedKindleTotalLocations": 5282,
+        "printedPaginationVerified": false,
+        "exportCompleteness": "Incomplete book export: capture 192 ends during Literature Cited at a displayed 88%. The bibliography is partial; the remaining useful addresses, index and colour plates listed in the contents are not present. Appendix A handwriting has poor OCR.",
+        "lectureBodyCompleteness": "The existing complete capture ledger maps all eight lectures and four discussions; the current task rereads only the declared front matter and Lectures 1–3."
+      },
+      "pdf": {"filename": "Agriculture.pdf", "status": "unavailable: file exceeds 32 MiB transfer limit", "downloaded": false, "visuallyVerified": false}
+    },
+    {
+      "id": "adams",
+      "suppliedFile": "/workspace/attachments/e2f3c0bb-2e8c-4a90-a9ab-d493d9da6e87/Agriculture course.md",
+      "originalFilename": "Agriculture course.md",
+      "bytes": 533520,
+      "sha256": "ce60b99e02febcf3ee07f0d7f644936e9b43f0fd0467b09ab1d64a92ec3cd78d",
+      "matchesPreviousReviewedWitness": true,
+      "captureCount": 178,
+      "fullTitle": "Agriculture Course: The Birth of the Biodynamic Method",
+      "seriesOrCoverLabel": "Classic Translation",
+      "author": "Rudolf Steiner",
+      "translators": ["George Adams"],
+      "editor": null,
+      "editorQualification": "No named volume editor established in the supplied front matter.",
+      "firstEnglishPublicationYear": 1958,
+      "publicationYear": 2012,
+      "publisher": "Rudolf Steiner Press",
+      "publicationPlace": "Forest Row, East Sussex, United Kingdom",
+      "germanSource": {"title": "Geisteswissenschaftliche Grundlagen zum Gedeihen der Landwirtschaft", "ga": 327, "publisher": "Rudolf Steiner Verlag", "place": "Dornach, Switzerland", "editionAndYear": "Not established in the supplied front matter"},
+      "identitySourceRefs": {"adams": [1, 4]},
+      "frontMatter": [
+        {"captures": [1, 4], "kind": "Cover, title, publication information and contents", "voice": "Publisher", "significance": "2012 publication of George Adams's 1958 English translation; eight lectures and four discussions, with the separate June 11 address placed between Lectures 3 and 4."},
+        {"captures": [5, 16], "kind": "Preface", "author": "Ehrenfried Pfeiffer, M.D. (Hon.)", "voice": "Later recollection and commentary", "significance": "Pfeiffer explicitly says he did not attend the Koberwitz course. His accounts of earlier conversations, preparation making and subsequent experiments are mediated recollections, not the lecture transcript."},
+        {"captures": [17, 17], "kind": "Preface publication note", "voice": "Publisher/editorial", "significance": "The essay was originally published in the German symposium Wir erlebten Rudolf Steiner, translated as Rudolf Steiner by his pupils, and printed in The Golden Blade 1958; permission to reprint is acknowledged."}
+      ],
+      "pagination": {
+        "kind": "178 OCR Markdown captures of Kindle screen material",
+        "displayedKindleTotalLocations": 3441,
+        "displayedPageTotal": 159,
+        "printedPaginationVerified": false,
+        "exportCompleteness": "The prior ledger reaches the supplement and publisher account, followed by repeated 159-of-159/100% navigation screens and an unrelated book advertisement. Reaching 100% does not establish visual capture of the plates listed in the contents; their completeness is unverified.",
+        "printedPageTable": "Capture 168 contains a historical lecture/discussion page concordance. Its page numbers must not be treated as the supplied capture numbers or silently assigned to the 2012 reissue."
+      },
+      "pdf": {"filename": "Agriculture course.pdf", "status": "unavailable: file exceeds 32 MiB transfer limit", "downloaded": false, "visuallyVerified": false}
+    }
+  ],
+  "lectures": [
+    {
+      "lectureNumber": 1,
+      "date": "1924-06-07",
+      "place": "Koberwitz, Silesia",
+      "canonicalCaptureRange": [18, 28],
+      "comparatorCaptureRange": [18, 29],
+      "canonicalPrintedPageRange": null,
+      "displayedLocators": {"creegerStart": "Location 314 of 5282", "creegerEnd": "Location 533 of 5282", "adamsStart": "Pagina 17 de 159", "adamsEnd": "Pagina 27 de 159"},
+      "subject": "Why agricultural judgment must consider a plant's earthly and cosmic surroundings; silica and lime as proposed mediators of plant reproduction and food quality.",
+      "centralAgriculturalQuestion": "What determines a crop's growth, ability to reproduce, and value as food or fodder when the plant is considered within its whole environment?",
+      "majorConcepts": [
+        {"concept": "Agriculture as a practical and consequential task", "sourceRefs": {"creeger": [18, 20], "adams": [18, 20]}, "account": "The opening thanks the Keyserlingks and presents the farm setting, prior agricultural efforts and the need for indications useful to practice."},
+        {"concept": "Environmental causation beyond the isolated organism", "sourceRefs": {"creeger": [20, 22], "adams": [20, 22]}, "account": "Field, forest, stable, soil and season provide context; the compass analogy is then used to argue for considering the wider cosmos."},
+        {"concept": "Rhythm and degrees of emancipation from cosmic surroundings", "sourceRefs": {"creeger": [22, 23], "adams": [22, 24]}, "account": "Humans, animals and plants are placed at differing degrees of independence from cosmic rhythms, with plants treated as most embedded."},
+        {"concept": "Two planetary groupings mediated by substances", "sourceRefs": {"creeger": [23, 25], "adams": [24, 26]}, "account": "Mars, Jupiter and Saturn are associated with silica; Moon, Venus and Mercury with lime. The historical seven-planet scheme includes the Sun and Moon."},
+        {"concept": "Reproduction and nourishment as different plant tendencies", "sourceRefs": {"creeger": [25, 26], "adams": [26, 27]}, "account": "Nearer planetary influences are associated with reproduction or regeneration; distant influences with food and fodder qualities. These are Steiner's proposed functions, not established causal measurements."},
+        {"concept": "Water, warmth and plant life span", "sourceRefs": {"creeger": [26, 28], "adams": [27, 29]}, "account": "Water is said to mediate lunar influence and warmth distant planetary influence; slower planetary periods are linked to perennial and woody growth."}
+      ],
+      "importantPassages": [
+        {"sourceRefs": {"creeger": [20, 21], "adams": [20, 21]}, "paraphrase": "The compass needle cannot be understood by considering the needle alone; Steiner uses this analogy to extend agricultural explanation from local surroundings to cosmic relationships.", "whyImportant": "Defines the course's explanatory move; an analogy must not be presented as experimental demonstration."},
+        {"sourceRefs": {"creeger": [25, 26], "adams": [26, 27]}, "paraphrase": "Producing a new generation and producing substances valuable for nourishment are distinguished, despite occurring in the same plant.", "whyImportant": "An accessible agricultural question before the planetary mechanism is explained."},
+        {"sourceRefs": {"creeger": [26, 27], "adams": [27, 28]}, "paraphrase": "Rain before a full Moon and the mediation of warmth are proposed as conditions modifying particular cosmic influences.", "whyImportant": "Introduces timing as part of the model without supplying a general contemporary sowing calendar."},
+        {"sourceRefs": {"creeger": [28, 28], "adams": [29, 29]}, "paraphrase": "The closing concern is deteriorating food quality, exemplified by the speaker's remembered potato taste.", "whyImportant": "Records a historical perception motivating the course, not a measured time series."}
+      ],
+      "examples": [
+        {"example": "Beetroot, soil and the time of year", "sourceRefs": {"creeger": [20, 20], "adams": [20, 20]}, "role": "A crop situated in an environment rather than explained in isolation."},
+        {"example": "Old farming calendars and the Fechner/Schleiden rain-bucket anecdote", "sourceRefs": {"creeger": [21, 22], "adams": [21, 22]}, "role": "Historical illustration of instinctive judgment and dispute about lunar effects; not a modern controlled test."},
+        {"example": "Horsetail as a silica-rich plant", "sourceRefs": {"creeger": [24, 24], "adams": [24, 24]}, "role": "Material example; no horsetail preparation is prescribed in this lecture."},
+        {"example": "Oak, conifer, bark and firewood", "sourceRefs": {"creeger": [27, 28], "adams": [28, 29]}, "role": "Planetary-period and plant-longevity claims, extending into assertions about wood quality and human well-being."}
+      ],
+      "agriculturalPractices": [
+        {"practice": "Observe soil, season, water, warmth and crop purpose together", "status": "General observational orientation in the lecture", "sourceRefs": {"creeger": [20, 28], "adams": [20, 29]}},
+        {"practice": "Consider lunar conditions when sowing and slower rhythms when planting trees", "status": "Historical indication within Steiner's model; no validated universal calendar, exact modern dates or operational protocol supplied here", "sourceRefs": {"creeger": [26, 28], "adams": [27, 29]}}
+      ],
+      "anthroposophicalClaims": [
+        "Planetary influences shape plant reproduction, nutritive quality and life span through material mediators.",
+        "Humans retain rhythms while being relatively emancipated from their original cosmic phase relationships; plants remain more directly dependent.",
+        "Wood and food qualities can carry consequences for human health that the lecture does not independently demonstrate."
+      ],
+      "preparationsDiscussed": {"recipes": [], "numbers": [], "qualification": "No 500–508 preparation recipe or number in Lecture 1. Silica and horsetail are conceptual/material antecedents; their later preparation use belongs to other lectures."},
+      "plantsAnimalsMaterials": {"plants": ["Beet", "Potato", "Cereals", "Horsetail", "Oak", "Conifers"], "animals": ["Animals as a general comparison with humans and plants"], "materials": ["Silica/quartz", "Silicon", "Oxygen", "Lime/limestone", "Potash", "Sodium", "Water", "Air", "Warmth", "Bark", "Firewood"]},
+      "cosmicRelationships": [
+        {"relationship": "Silica with Mars, Jupiter and Saturn; lime with Moon, Venus and Mercury", "sourceRefs": {"creeger": [23, 25], "adams": [24, 26]}},
+        {"relationship": "Water mediates Moon influence; warmth mediates the distant planets", "sourceRefs": {"creeger": [26, 27], "adams": [27, 28]}},
+        {"relationship": "Saturn's approximately thirty-year period and Jupiter's approximately twelve-year period are linked to long-lived plant development", "sourceRefs": {"creeger": [27, 28], "adams": [28, 29]}}
+      ],
+      "questionsRaised": ["How does a crop's intended use change which qualities deserve attention?", "What is observed locally, and what additional cosmic mechanism does Steiner propose?", "Which environmental conditions are said to permit or restrain an influence?", "How could an agricultural timing or quality claim be tested without treating the planetary mechanism as already proved?"],
+      "connectionsToOtherLectures": [
+        {"lecture": 2, "connection": "Locates the two planetary groups above and below the soil and integrates them into farm individuality and plant form.", "sourceRefs": {"creeger": [29, 41], "adams": [30, 42]}, "basis": "Current sequential reading"},
+        {"lecture": 4, "connection": "Silica becomes part of the horn-silica indication; manure and soil life acquire practical treatment.", "basis": "Existing complete agriculture-source-map.json ledger"},
+        {"lecture": 6, "connection": "Moon/water relationships and horsetail recur in the plant-disease account.", "basis": "Existing complete agriculture-source-map.json ledger"}
+      ],
+      "diagramIds": ["foundations-saturn"],
+      "teachingGuardrails": ["Attribute the proposed mechanisms to Steiner.", "Explain the seven-planet historical terminology before using near/distant groupings.", "Do not convert the rain anecdote, taste recollection, silica percentages or health assertions into verified agronomy.", "Distinguish historical indications from later biodynamic calendars and current practice."]
+    },
+    {
+      "lectureNumber": 2,
+      "date": "1924-06-10",
+      "place": "Koberwitz, Silesia",
+      "canonicalCaptureRange": [29, 41],
+      "comparatorCaptureRange": [30, 42],
+      "canonicalPrintedPageRange": null,
+      "displayedLocators": {"creegerStart": "Location 540 of 5282", "creegerEnd": "Location 798 of 5282", "adamsStart": "Pagina 29 de 159", "adamsEnd": "Pagina 41 de 159"},
+      "subject": "The farm individuality, the living soil boundary, above/below relationships, seed formation and the reciprocal place of plants and animals.",
+      "centralAgriculturalQuestion": "How can soil, crops, fodder, livestock and fertility be understood and managed as interdependent parts of one farm?",
+      "majorConcepts": [
+        {"concept": "Farm individuality as an attainable direction rather than absolute isolation", "sourceRefs": {"creeger": [29, 29], "adams": [30, 30]}, "account": "The farm should approach internal self-support, while the text explicitly says this cannot be achieved completely. Imported fertilizers are compared with remedies in this idealized model."},
+        {"concept": "Living soil as a boundary organ", "sourceRefs": {"creeger": [29, 31], "adams": [30, 32]}, "account": "The soil is likened approximately to a diaphragm: the agricultural head is below ground and belly above. The analogy is explicitly not exact."},
+        {"concept": "Earthly/cosmic and above/below are related but not synonymous", "sourceRefs": {"creeger": [30, 33], "adams": [31, 34]}, "account": "Distant planetary influences are received below and radiate upward; nearer influences work above and are drawn down. Sun activity is modified by both groups."},
+        {"concept": "Silica, clay and lime have different proposed mediating roles", "sourceRefs": {"creeger": [31, 33], "adams": [32, 35]}, "account": "Silica receives cosmic activity, clay carries it upward, and lime draws upper earthly activity downward. Above- and below-ground warmth and water are treated differently."},
+        {"concept": "Seasonal soil receptivity", "sourceRefs": {"creeger": [33, 34], "adams": [34, 35]}, "account": "Midwinter crystallinity and November/December form-building activity are discussed in the course's Central European setting."},
+        {"concept": "Seed chaos and humus-supported growth", "sourceRefs": {"creeger": [34, 36], "adams": [35, 37]}, "account": "Highly complex seed organization is said to become chaos and receive a cosmic imprint. Humus supports the earthly unfolding of leaf and flower while inherited affinities guide the new species form."},
+        {"concept": "Plant morphology and quality as signs within the model", "sourceRefs": {"creeger": [36, 39], "adams": [37, 40]}, "account": "Root branching, green leaves, flower colour, fruit taste and potato underground stem formation are interpreted through differentiated earthly/cosmic activity."},
+        {"concept": "Animal complement and fertility reciprocity", "sourceRefs": {"creeger": [39, 41], "adams": [40, 42]}, "account": "The right mix and number of animals should fit available fodder and manure needs. Planetary influences are also used to interpret animal form."}
+      ],
+      "importantPassages": [
+        {"sourceRefs": {"creeger": [29, 29], "adams": [30, 30]}, "paraphrase": "A farm should approach a self-contained individuality, but complete realization is acknowledged to be impossible.", "whyImportant": "Preserves both the farm-organism ideal and its explicit qualification; prevents teaching a blanket prohibition on external inputs."},
+        {"sourceRefs": {"creeger": [30, 32], "adams": [31, 33]}, "paraphrase": "The soil/diaphragm analogy distinguishes the above- and below-ground regions and the way each participates in the whole.", "whyImportant": "Gives an organizing image while requiring a clear separation between analogy and measured anatomy."},
+        {"sourceRefs": {"creeger": [34, 36], "adams": [35, 37]}, "paraphrase": "Seed formation and humus-supported vegetative growth involve different relations to form and chaos in the proposed model.", "whyImportant": "Connects the mineral/cosmic account to a recognizable plant cycle without claiming a modern genetic mechanism."},
+        {"sourceRefs": {"creeger": [39, 41], "adams": [40, 42]}, "paraphrase": "A correspondence is proposed between farm fodder, livestock and the quantity of manure the farm requires; its correctness is offered for practical confirmation rather than supplied as a numerical rule.", "whyImportant": "A central agricultural reciprocity with no invented livestock stocking formula."}
+      ],
+      "examples": [
+        {"example": "Sandy/rocky soil, clay and lime", "sourceRefs": {"creeger": [31, 33], "adams": [32, 35]}, "role": "Contrasting mediators of below/above processes; the text raises clay addition but does not supply a dosage here."},
+        {"example": "Rose, sunflower and chicory colours", "sourceRefs": {"creeger": [36, 37], "adams": [37, 38]}, "role": "Mars/red, Jupiter/yellow-white and Saturn/blue associations are attributed interpretations, not botanical colour diagnostics."},
+        {"example": "Sainfoin, beet/turnip, horsetail and potato", "sourceRefs": {"creeger": [37, 38], "adams": [38, 39]}, "role": "Root branching and retention of activity lower in the plant. Both translations distinguish potato underground stem formation from a root; their wording should not replace modern botanical terminology."},
+        {"example": "Apple and plum flavours", "sourceRefs": {"creeger": [38, 38], "adams": [39, 40]}, "role": "Specific planetary/taste interpretations within Steiner's account."},
+        {"example": "Horse, cow, pig and lion/horse skeletal comparison", "sourceRefs": {"creeger": [39, 41], "adams": [41, 42]}, "role": "Livestock/fodder/manure relationships and the separate planetary interpretation of animal shape."}
+      ],
+      "agriculturalPractices": [
+        {"practice": "Relate fodder availability, animal complement and manure demand", "status": "Farm-organization principle; no quantitative stocking prescription supplied", "sourceRefs": {"creeger": [29, 29], "adams": [30, 30]}},
+        {"practice": "Attend to humus and the mediation of soil types", "status": "Conceptual soil-management direction; a clay amendment is suggested for insufficient upward activity without a dose here", "sourceRefs": {"creeger": [31, 36], "adams": [32, 37]}},
+        {"practice": "Observe seasonal conditions and plant form together", "status": "Historical observational approach; Central European calendar descriptions cannot be universalized across hemispheres", "sourceRefs": {"creeger": [33, 39], "adams": [34, 40]}}
+      ],
+      "anthroposophicalClaims": [
+        "Soil has life and soul-like qualities; Adams explicitly uses an astral characterization where Creeger uses soul qualities.",
+        "Silica, clay and lime mediate differentiated cosmic/earthly influences across the soil boundary.",
+        "A seed receives a formative cosmic imprint through chaos rather than being explained only by parental continuity.",
+        "Root form, flower colour, fruit flavour and animal shape express specific planetary activities.",
+        "The Kali Yuga transition is invoked to explain the diminishing adequacy of older instinctive breeding judgment."
+      ],
+      "preparationsDiscussed": {"recipes": [], "numbers": [], "qualification": "Manure, humus and silica prepare the argument for subsequent practical indications. No 500–508 preparation is prescribed here."},
+      "plantsAnimalsMaterials": {"plants": ["Humus-forming plant matter", "Seed-bearing plants", "Rose", "Sunflower", "Chicory", "Sainfoin", "Beet/turnip", "Horsetail", "Potato", "Apple", "Plum"], "animals": ["Horse", "Cow", "Pig", "Lion"], "materials": ["Living soil", "Humus", "Manure", "Fodder", "Silica", "Sand/rock", "Clay", "Lime", "Water", "Air", "Warmth", "Light"]},
+      "cosmicRelationships": [
+        {"relationship": "Sun modified by Moon/Mercury/Venus above the soil and by Mars/Jupiter/Saturn below", "sourceRefs": {"creeger": [30, 32], "adams": [31, 33]}},
+        {"relationship": "Seed chaos receives the cosmic configuration; parental affinities constrain the resulting form", "sourceRefs": {"creeger": [34, 35], "adams": [35, 37]}},
+        {"relationship": "Green leaves with Sun; differentiated flower colours and fruit qualities with distant planets", "sourceRefs": {"creeger": [36, 38], "adams": [37, 40]}},
+        {"relationship": "Animal front with Sun/distant planets; hind region with reflected Moon/Mercury/Venus influences", "sourceRefs": {"creeger": [40, 41], "adams": [41, 42]}}
+      ],
+      "questionsRaised": ["What makes farm individuality a direction for management rather than complete material isolation?", "Which parts of the above/below picture are analogy and which are proposed mechanisms?", "How do seed formation and vegetative growth differ in this account?", "What farm observations could document fodder and manure reciprocity, and what would those observations leave untested?"],
+      "connectionsToOtherLectures": [
+        {"lecture": 1, "connection": "Expands the two planetary/material groupings into soil location and plant form.", "basis": "Current sequential reading"},
+        {"lecture": 3, "connection": "Develops the relationships among carbon, oxygen, nitrogen, sulfur, hydrogen, lime, silica and clay; connects seed chaos to the element account.", "basis": "Current sequential reading"},
+        {"lecture": 4, "connection": "Moves from living soil and manure reciprocity to compost and horn preparations.", "basis": "Existing complete agriculture-source-map.json ledger"},
+        {"lecture": 7, "connection": "Develops plant, animal and landscape relationships beyond this introductory farm picture.", "basis": "Existing complete agriculture-source-map.json ledger"},
+        {"lecture": 8, "connection": "Returns to animal feeding and manure as parts of the farm's fertility circuit.", "basis": "Existing complete agriculture-source-map.json ledger"}
+      ],
+      "diagramIds": ["foundations-soil-boundary", "foundations-seed-chaos", "foundations-plant-organization", "foundations-flower-colours", "foundations-animal-form"],
+      "teachingGuardrails": ["Retain the explicit incompleteness of the self-supporting farm ideal.", "Do not identify cosmic simply with above-ground or earthly simply with below-ground.", "Separate plant observation from the proposed planetary attribution.", "Do not teach disputed silica percentages or the unresolved direct-radiation sentence as settled facts.", "Use modern botanical terminology alongside, rather than silently rewriting, historical potato wording."]
+    },
+    {
+      "lectureNumber": 3,
+      "date": "1924-06-11",
+      "place": "Koberwitz, Silesia",
+      "canonicalCaptureRange": [42, 54],
+      "comparatorCaptureRange": [43, 57],
+      "canonicalPrintedPageRange": null,
+      "displayedLocators": {"creegerStart": "Location 801 of 5282", "creegerEnd": "Location 1065 of 5282", "adamsStart": "Pagina 42 de 159", "adamsEnd": "Pagina 56 de 159"},
+      "subject": "Nitrogen in relation to carbon, oxygen, hydrogen and sulfur; physical/etheric/astral functions, legumes, lime, silica and the transition to manuring.",
+      "centralAgriculturalQuestion": "What significance does nitrogen have for plant growth and fertility when it is understood through the other substances and the whole soil–plant environment?",
+      "majorConcepts": [
+        {"concept": "Five interdependent constituents of protein", "sourceRefs": {"creeger": [42, 43], "adams": [43, 44]}, "account": "Nitrogen is introduced with carbon, oxygen, hydrogen and sulfur. Their activities are explained through spiritual as well as material relationships."},
+        {"concept": "Sulfur as mediator; carbon as bearer of formative organization", "sourceRefs": {"creeger": [42, 45], "adams": [43, 47]}, "account": "Sulfur is cast as a light-bearing mediator of spiritual activity in physical substance. Carbon is described as a sculptor or bearer of form, contrasted with inert-looking coal."},
+        {"concept": "Oxygen as physical carrier of etheric life", "sourceRefs": {"creeger": [45, 46], "adams": [47, 48]}, "account": "Etheric activity is said to require an oxygen carrier; the text distinguishes living oxygen in organisms/soil from dead oxygen in surrounding air."},
+        {"concept": "Nitrogen as carrier and mediator of astral sensitivity", "sourceRefs": {"creeger": [46, 49], "adams": [48, 51]}, "account": "Nitrogen is said to carry astral activity and mediate oxygen's living activity into carbon's organization. Soil sensitivity and respiration examples elaborate this model."},
+        {"concept": "Plants' external relation to astrality", "sourceRefs": {"creeger": [47, 48], "adams": [49, 50]}, "account": "Plants are assigned physical and etheric organization; astrality approaches from outside rather than forming the internal astral body attributed to animals."},
+        {"concept": "Hydrogen and the release of organized form", "sourceRefs": {"creeger": [49, 50], "adams": [50, 52]}, "account": "Hydrogen, with sulfur's mediation, dissolves formed organization into the cosmic realm, connecting this element account with Lecture 2's seed chaos."},
+        {"concept": "Agricultural attention and meditation", "sourceRefs": {"creeger": [50, 51], "adams": [52, 53]}, "account": "Meditation and farmers' winter experience are described as ways of knowing the processes. These are claims about the speaker's method of knowledge, not empirical confirmation or learner breathing instructions."},
+        {"concept": "Legumes and lime/silica polarity", "sourceRefs": {"creeger": [51, 54], "adams": [53, 57]}, "account": "Legumes are called nitrogen collectors and pictured as the soil's in-breathing organs. Lime's earthward pull and silica's receptive, upward tendency are coordinated through carbon, clay and nitrogen."}
+      ],
+      "importantPassages": [
+        {"sourceRefs": {"creeger": [42, 42], "adams": [43, 43]}, "paraphrase": "Nitrogen's agricultural role is introduced through its four companion elements rather than as an isolated substance.", "whyImportant": "The central question precedes the spiritual vocabulary; neither translation justifies replacing soil nitrogen science with this scheme."},
+        {"sourceRefs": {"creeger": [46, 48], "adams": [48, 50]}, "paraphrase": "Nitrogen carries astral activity, while plants are related to astrality externally rather than through an internal astral body.", "whyImportant": "Prevents the beginner explanation from assigning plants the same constitution as animals."},
+        {"sourceRefs": {"creeger": [51, 52], "adams": [53, 55]}, "paraphrase": "Legumes are pictured as a kind of lung within the plant community, collecting nitrogen in a soil in-breathing process.", "whyImportant": "Makes the agricultural focus clear while separating the analogy and spiritual account from modern nitrogen fixation mechanisms."},
+        {"sourceRefs": {"creeger": [54, 54], "adams": [57, 57]}, "paraphrase": "The lecture closes by asking how nitrogen can be brought appropriately into the plant world, leading to manuring the next day.", "whyImportant": "Provides the argument's practical handoff to Lecture 4 rather than ending with elemental terminology alone."}
+      ],
+      "examples": [
+        {"example": "Coal versus carbon's formative activity; calcium skeleton and silica support", "sourceRefs": {"creeger": [43, 45], "adams": [44, 47]}, "role": "Examples used to distinguish physical residues or structures from proposed living/spiritual activities."},
+        {"example": "Respiration and nitrogen in the surrounding atmosphere", "sourceRefs": {"creeger": [46, 48], "adams": [48, 50]}, "role": "Historical physiological interpretation. The enclosed nitrogen-deprivation scenario must remain a source example and must not become a learner experiment."},
+        {"example": "Legumes/Papilionaceae and the plant community as organs", "sourceRefs": {"creeger": [51, 53], "adams": [53, 55]}, "role": "Connects nitrogen with an agricultural plant group; specific morphology/generalizations remain attributed historical claims."},
+        {"example": "Quicklime's reactions and silica's dispersed, fibrous plant forms", "sourceRefs": {"creeger": [52, 54], "adams": [55, 57]}, "role": "Material phenomena interpreted as contrasting tendencies; does not supply an amendment recipe."}
+      ],
+      "agriculturalPractices": [
+        {"practice": "Recognize legumes' distinct place in the farm's plant community", "status": "Agricultural relationship and interpretive analogy; no rotation, inoculation or nitrogen-budget protocol is given here", "sourceRefs": {"creeger": [51, 53], "adams": [53, 55]}},
+        {"practice": "Consider nitrogen together with soil materials and organic organization", "status": "Conceptual orientation that motivates the following manuring lecture; no rate or preparation recipe in Lecture 3", "sourceRefs": {"creeger": [51, 54], "adams": [53, 57]}}
+      ],
+      "anthroposophicalClaims": [
+        "Sulfur mediates spiritual formative activity in physical matter; carbon carries form or organization.",
+        "Oxygen carries etheric life and nitrogen carries astral activity or sensitivity.",
+        "Hydrogen releases organized earthly form into cosmic processes.",
+        "Soil and nitrogen possess forms of sensitivity described through sympathy and antipathy.",
+        "Meditative attention can disclose these processes; the account includes physiological claims not established by the source itself.",
+        "Lime, silica, clay, carbon and nitrogen coordinate downward earthly and upward cosmic tendencies in plant development."
+      ],
+      "preparationsDiscussed": {"recipes": [], "numbers": [], "qualification": "The argument ends at the need for appropriate manuring. Horn and compost preparation indications occur later; no 500–508 recipe should be backfilled into this lecture."},
+      "plantsAnimalsMaterials": {"plants": ["Plants generally", "Legumes/Papilionaceae", "Seed", "Dark-green legume foliage as a historical example"], "animals": ["Animals in the constitutional comparison", "Human organisms in the respiration/skeleton examples"], "materials": ["Nitrogen", "Carbon", "Oxygen", "Hydrogen", "Sulfur", "Protein", "Carbon dioxide/carbonic acid in historical terminology", "Coal", "Calcium/lime", "Quicklime", "Silica", "Clay", "Water", "Air", "Acids", "Bituminous matter"]},
+      "cosmicRelationships": [
+        {"relationship": "Carbon-form and oxygen-life are mediated through nitrogen/astral activity and sulfur", "sourceRefs": {"creeger": [43, 49], "adams": [44, 51]}},
+        {"relationship": "Hydrogen releases form toward cosmic chaos, connecting to seed formation", "sourceRefs": {"creeger": [49, 50], "adams": [50, 52]}},
+        {"relationship": "Silica's cosmic receptivity and lime's earthward tendency are balanced through clay, carbon and nitrogen", "sourceRefs": {"creeger": [51, 54], "adams": [53, 57]}}
+      ],
+      "questionsRaised": ["Why does Steiner discuss five substances when the agricultural question begins with nitrogen?", "What distinguishes etheric life from astral sensitivity in the source's vocabulary?", "How are plants related to astrality differently from animals?", "Which parts of the legume account are an agricultural observation, an analogy, and a proposed mechanism?", "How does the closing question prepare for the manure indications rather than provide a fertilizer rate?"],
+      "connectionsToOtherLectures": [
+        {"lecture": 2, "connection": "Revisits seed chaos and develops lime/silica/clay relationships through the five-element account.", "basis": "Current sequential reading"},
+        {"lecture": 4, "connection": "The closing question hands directly to manuring, soil enlivening, compost and horns.", "basis": "Existing complete agriculture-source-map.json ledger"},
+        {"lecture": 5, "connection": "Soil forces and material relationships frame the later compost-plant preparations.", "basis": "Existing complete agriculture-source-map.json ledger"},
+        {"lecture": 8, "connection": "Nutrition, animal organization and manure return in the animal-feeding account.", "basis": "Existing complete agriculture-source-map.json ledger"}
+      ],
+      "diagramIds": ["foundations-elements"],
+      "teachingGuardrails": ["Treat elemental spiritual functions as Steiner's account, distinct from modern chemical definitions.", "Retain the source distinction between plant physical/etheric organization and externally approaching astrality.", "Never convert nitrogen deprivation or the source's breathing discussion into an activity.", "Do not imply that modern legume nitrogen fixation independently demonstrates the astral-carrier claim.", "Flag the omitted oxygen in a late Adams list instead of silently correcting a source quotation."]
+    }
+  ],
+  "diagrams": [
+    {"id": "foundations-saturn", "lecture": 1, "subject": "Saturn's period and radiation/path around the Earth", "creeger": {"number": 1, "caption": "Drawing 1 (Color Plate 1)", "referenceCaptures": [26, 27]}, "adams": {"number": 1, "referenceCaptures": [28, 28]}, "identifiedBy": "Prose references and Creeger caption", "visualVerified": false, "reconstructionStatus": "Requires native image inspection before a faithful redraw"},
+    {"id": "foundations-soil-boundary", "lecture": 2, "subject": "Farm individuality above and below the soil/diaphragm", "creeger": {"number": 2, "caption": "Drawing 2 (Color Plate 2)", "referenceCaptures": [29, 32]}, "adams": {"number": 2, "referenceCaptures": [30, 30]}, "identifiedBy": "Prose references and Creeger caption", "visualVerified": false, "reconstructionStatus": "Teaching schematic may be authored and labelled as adaptation; original placement and geometry unverified"},
+    {"id": "foundations-seed-chaos", "lecture": 2, "subject": "Seed complexity/chaos and cosmic formative imprint", "creeger": {"number": 3, "caption": "Drawing 3 (Color Plate 2)", "referenceCaptures": [34, 35]}, "adams": {"number": 4, "referenceCaptures": [36, 36]}, "identifiedBy": "Prose references; numbering differs between witnesses", "visualVerified": false, "reconstructionStatus": "Do not assume the same diagram number across editions"},
+    {"id": "foundations-plant-organization", "lecture": 2, "subject": "Root, stem/leaf, flower and seed in earthly/cosmic organization", "creeger": {"number": 4, "caption": "Drawing 4 (Color Plate 2)", "referenceCaptures": [36, 36]}, "adams": {"number": 3, "referenceCaptures": [37, 37]}, "identifiedBy": "Prose references; numbering differs between witnesses", "visualVerified": false, "reconstructionStatus": "Original form unverified; root–leaf–flower–seed overview can be a clearly labelled course adaptation"},
+    {"id": "foundations-flower-colours", "lecture": 2, "subject": "Distant planetary influences and differentiated flower colour", "creeger": {"number": 5, "caption": "Drawing 5 (Color Plate 2)", "referenceCaptures": [36, 37]}, "adams": {"number": null, "referenceCaptures": [37, 38], "qualification": "The prose comparison is present, but no independent matching diagram number is established here."}, "identifiedBy": "Creeger reference/caption and matching subject in Adams prose", "visualVerified": false, "reconstructionStatus": "Do not infer a missing Adams figure or recover colours from OCR alone"},
+    {"id": "foundations-animal-form", "lecture": 2, "subject": "Animal front/hind form and the planetary groupings", "creeger": {"number": 6, "caption": "Drawing 6 (Color Plate 2)", "referenceCaptures": [40, 40]}, "adams": {"number": 5, "referenceCaptures": [41, 41]}, "identifiedBy": "Prose references and Creeger caption", "visualVerified": false, "reconstructionStatus": "An adaptation must attribute the interpretation and avoid implying shape proves a planetary constitution"},
+    {"id": "foundations-elements", "lecture": 3, "subject": "Carbon's formative framework, oxygen/etheric activity and nitrogen mediation", "creeger": {"number": 7, "caption": "Drawing 7 (Color Plate 3)", "referenceCaptures": [44, 49], "proseColourClaims": "Carbon/framework green; oxygen/etheric blue; nitrogen yellow"}, "adams": {"number": 6, "referenceCaptures": [46, 51], "proseColourClaims": "Carbon blue; oxygen green"}, "identifiedBy": "Prose references and Creeger caption", "visualVerified": false, "reconstructionStatus": "The prose colours differ; inspect each original rather than harmonizing them into a claimed exact redraw"}
+  ],
+  "translationAndExtractionIssues": [
+    {"id": "near-planet-parenthesis", "lecture": 1, "sourceRefs": {"creeger": [25, 25], "adams": [26, 26]}, "issue": "The parenthetical stance toward Venus/Mercury/Moon differs in wording/direction between OCR witnesses.", "handling": "Explain the surrounding reproduction/nourishment distinction; do not adjudicate or quote the disputed parenthesis before PDF inspection."},
+    {"id": "silicon-silica-percentage", "lectures": [1, 2], "sourceRefs": {"creeger": [23, 24], "adams": [24, 24]}, "additionalSourceRefs": {"creeger": [31, 31], "adams": [32, 32]}, "issue": "Lecture 1 distinguishes silicon and oxygen percentages, while Lecture 2 gives differing percentages for silica (Creeger 47–48; Adams 27–28). Terminology and numerical basis cannot safely be harmonized.", "handling": "Map silica's proposed role without a settled numerical abundance claim. Native check and modern compositional source needed if a number is taught."},
+    {"id": "direct-radiation-location", "lecture": 2, "sourceRefs": {"creeger": [31, 31], "adams": [32, 32]}, "issue": "An individual sentence locates directly radiating cosmic activity differently above/below in the two witnesses, despite the larger shared account of distant forces received below and nearer influences above.", "handling": "Mark the sentence unresolved; explain the shared larger structure without pretending the textual discrepancy has been repaired."},
+    {"id": "soil-soul-astral", "lecture": 2, "sourceRefs": {"creeger": [30, 30], "adams": [31, 31]}, "issue": "Creeger's soul-quality wording corresponds to Adams's explicit astral principle.", "handling": "Make the spiritual status of the claim clear; do not invent a substantive doctrinal disagreement from translation vocabulary."},
+    {"id": "potato-underground-stem", "lecture": 2, "sourceRefs": {"creeger": [38, 38], "adams": [39, 39]}, "issue": "Creeger uses rhizome wording; Adams says stem formation. Both distinguish the potato formation from a root.", "handling": "When teaching, separate exact historical wording from modern botanical explanation of a stem tuber."},
+    {"id": "element-diagram-colours", "lecture": 3, "sourceRefs": {"creeger": [44, 49], "adams": [46, 51]}, "issue": "Carbon/oxygen colours in the accompanying prose are reversed across the two witnesses.", "handling": "No exact drawing colours are certified until the native drawings/plates are checked."},
+    {"id": "oxygen-omission", "lecture": 3, "sourceRefs": {"creeger": [51, 51], "adams": [53, 53]}, "issue": "A late Adams list omits oxygen, and a following triad differs from Creeger, although both openings establish five constituents including oxygen.", "handling": "Preserve the discrepancy in the source map. Use the explicit opening five-element list for a paraphrase; do not silently repair a quoted Adams sentence."},
+    {"id": "historical-chemical-vocabulary", "lecture": 3, "sourceRefs": {"creeger": [46, 50], "adams": [48, 52]}, "issue": "Carbonic-acid/carbon-dioxide and etheric/ethereal wording reflect translation and historical terminology.", "handling": "Explain terms in context and avoid treating the spiritual functions as modern chemical identities."}
+  ],
+  "conceptMap": [
+    {"id": "farm-individuality", "firstAppearanceWithinLectures": {"lecture": 2, "sourceRefs": {"creeger": [29, 29], "adams": [30, 30]}}, "expansionsWithinScope": ["Lecture 2: soil boundary, fodder–animals–manure reciprocity"], "laterConnections": [4, 7, 8], "proposedLessonUses": [3, 8, 10, 11, 24], "qualification": "Self-support is an explicitly qualified ideal, not absolute closure."},
+    {"id": "soil", "firstAppearanceWithinLectures": {"lecture": 1, "sourceRefs": {"creeger": [20, 20], "adams": [20, 20]}}, "expansionsWithinScope": ["Lecture 2: living boundary organ, above/below and seasons", "Lecture 3: lime/silica/clay/nitrogen relationships"], "laterConnections": [4, 5, 6], "proposedLessonUses": [4, 5, 10, 11]},
+    {"id": "humus", "firstAppearanceWithinLectures": {"lecture": 2, "sourceRefs": {"creeger": [35, 36], "adams": [36, 37]}}, "expansionsWithinScope": ["Lecture 2: earthly vegetative growth and contrast with light/silica"], "laterConnections": [4], "proposedLessonUses": [4, 6, 11]},
+    {"id": "root-leaf-flower-seed", "firstAppearanceWithinLectures": {"lecture": 1, "sourceRefs": {"creeger": [25, 26], "adams": [26, 27]}}, "expansionsWithinScope": ["Lecture 2: seed chaos, humus, branching, leaf/flower colour and fruit quality", "Lecture 3: external astrality approaching flowering and hydrogen/seed chaos"], "laterConnections": [5, 6, 8], "proposedLessonUses": [5, 6, 7]},
+    {"id": "animal-manure-fodder", "firstAppearanceWithinLectures": {"lecture": 2, "sourceRefs": {"creeger": [29, 29], "adams": [30, 30]}}, "expansionsWithinScope": ["Lecture 2: right animals, fodder quantity and manure reciprocity", "Lecture 3: transition to appropriate manuring"], "laterConnections": [4, 7, 8], "proposedLessonUses": [8, 9, 10, 11]},
+    {"id": "compost", "firstAppearanceWithinLectures": null, "laterConnections": [4, 5], "proposedLessonUses": [10, 11, 15], "qualification": "Foundations establish humus, soil life and internal fertility relationships. The distinct compost treatment and preparation indications require the later lecture mapping; none is prescribed here."},
+    {"id": "lime-calcium", "firstAppearanceWithinLectures": {"lecture": 1, "sourceRefs": {"creeger": [24, 25], "adams": [25, 26]}}, "expansionsWithinScope": ["Lecture 2: draws upper earthly influences downward", "Lecture 3: earthward craving and relations to legumes/carbon/nitrogen"], "laterConnections": [5], "proposedLessonUses": [4, 5, 7, 15]},
+    {"id": "silica", "firstAppearanceWithinLectures": {"lecture": 1, "sourceRefs": {"creeger": [23, 25], "adams": [24, 26]}}, "expansionsWithinScope": ["Lecture 2: below-ground reception and upward mediation by clay", "Lecture 3: receptive/upward tendency and polarity with lime"], "laterConnections": [4, 5, 6], "proposedLessonUses": [5, 7, 14, 16], "qualification": "Composition percentages and exact diagram colours remain unresolved."},
+    {"id": "earthly-cosmic", "firstAppearanceWithinLectures": {"lecture": 1, "sourceRefs": {"creeger": [20, 25], "adams": [20, 26]}}, "expansionsWithinScope": ["Lecture 2: above/below interchange, seed imprint and plant/animal form", "Lecture 3: elemental carriers and release of form"], "laterConnections": [4, 5, 6, 7, 8], "proposedLessonUses": [5, 6, 7, 20, 24]},
+    {"id": "etheric-life", "firstAppearanceWithinLectures": {"lecture": 2, "sourceRefs": {"creeger": [31, 31], "adams": [32, 32]}}, "expansionsWithinScope": ["Lecture 3: oxygen as physical carrier and plants' etheric organization"], "laterConnections": [4, 5, 7, 8], "proposedLessonUses": [4, 7, 10, 12]},
+    {"id": "astral", "firstAppearanceWithinLectures": {"lecture": 2, "sourceRefs": {"creeger": [30, 30], "adams": [31, 31]}}, "expansionsWithinScope": ["Lecture 2: Creeger uses soul qualities where Adams is explicitly astral", "Lecture 3: nitrogen carrier, plant external astrality, sensitivity"], "laterConnections": [4, 5, 7, 8], "proposedLessonUses": [7, 8, 9, 12], "qualification": "Explicit terminology differs by translation; plants are not assigned an animal-like internal astral body."},
+    {"id": "moon-sun-planets", "firstAppearanceWithinLectures": {"lecture": 1, "sourceRefs": {"creeger": [22, 27], "adams": [22, 28]}}, "expansionsWithinScope": ["Lecture 2: modified Sun activity, soil regions, colours and animal form", "Lecture 3: substances as mediators of wider forces"], "laterConnections": [4, 6], "proposedLessonUses": [5, 6, 20]},
+    {"id": "nitrogen-five-elements", "firstAppearanceWithinLectures": {"lecture": 3, "sourceRefs": {"creeger": [42, 42], "adams": [43, 43]}}, "expansionsWithinScope": ["Lecture 3: carbon form, oxygen life, sulfur mediation, nitrogen sensitivity, hydrogen release; legumes and soil"], "laterConnections": [4, 5, 8], "proposedLessonUses": [7, 8, 10, 15]},
+    {"id": "horn-manure-500", "firstAppearanceWithinLectures": null, "laterConnections": [4], "proposedLessonUses": [12, 13], "qualification": "Not introduced in Lectures 1–3. Later numbering must be distinguished from the original spoken indication."},
+    {"id": "horn-silica-501", "firstAppearanceWithinLectures": null, "laterConnections": [4], "proposedLessonUses": [12, 14], "qualification": "Silica's conceptual role starts in Lecture 1; the horn preparation does not."},
+    {"id": "compost-preparations-yarrow-chamomile-nettle-oak-dandelion-valerian", "firstAppearanceWithinLectures": null, "laterConnections": [5], "proposedLessonUses": [12, 15], "qualification": "The six preparation indications belong to Lecture 5; do not backfill recipes or 502–507 labels into foundations."},
+    {"id": "horsetail-508", "firstAppearanceWithinLectures": {"lecture": 1, "sourceRefs": {"creeger": [24, 24], "adams": [24, 24]}}, "expansionsWithinScope": ["Lecture 2: silica retained in lower plant growth"], "laterConnections": [6], "proposedLessonUses": [14, 16, 19], "qualification": "This first appearance is the plant/material only. The disease-treatment indication and later 508 label belong to later material."},
+    {"id": "weeds-pests-disease", "firstAppearanceWithinLectures": null, "laterConnections": [6], "proposedLessonUses": [17, 18, 19], "qualification": "Front-matter commentary describes historical disease concerns, but Lectures 1–3 do not prescribe the later weed, pest or disease treatments."}
+  ],
+  "discussionAndSeparateTextCrossReferences": {
+    "discussionsWithinCurrentReadingScope": [],
+    "qualification": "No Koberwitz Q&A falls inside the current foundations reading ranges. The following records locate separately mapped material; they are not substitutes for reading the discussion texts.",
+    "discussionRangesFromExistingMap": [
+      {"discussion": 1, "date": "1924-06-12", "sourceRefs": {"creeger": [66, 74], "adams": [78, 87]}},
+      {"discussion": 2, "date": "1924-06-13", "sourceRefs": {"creeger": [87, 92], "adams": [102, 107]}},
+      {"discussion": 3, "date": "1924-06-14", "sourceRefs": {"creeger": [106, 110], "adams": [121, 125]}},
+      {"discussion": 4, "date": "1924-06-16", "sourceRefs": {"creeger": [135, 141], "adams": [153, 159]}}
+    ],
+    "experimentalCircleAddress": {"date": "1924-06-11", "sourceRefs": {"creeger": [142, 148], "adams": [58, 65]}, "status": "Separate address, not a ninth lecture; outside the current sequential reading scope"},
+    "june20Report": {"date": "1924-06-20", "sourceRefs": {"creeger": [9, 17]}, "status": "Read in the current front-matter scope; retrospective report, not a numbered Koberwitz lecture"}
+  },
+  "crossReferenceRangesFromExistingMap": [
+    {"lecture": 4, "date": "1924-06-12", "sourceRefs": {"creeger": [55, 65], "adams": [66, 77]}},
+    {"lecture": 5, "date": "1924-06-13", "sourceRefs": {"creeger": [75, 86], "adams": [88, 101]}},
+    {"lecture": 6, "date": "1924-06-14", "sourceRefs": {"creeger": [93, 105], "adams": [108, 120]}},
+    {"lecture": 7, "date": "1924-06-15", "sourceRefs": {"creeger": [111, 120], "adams": [126, 136]}},
+    {"lecture": 8, "date": "1924-06-16", "sourceRefs": {"creeger": [121, 134], "adams": [137, 152]}}
+  ],
+  "courseUse": {
+    "partIInputs": ["Opening context from Lecture 1, the June 20 report and clearly labelled later prefaces", "Agricultural question before cosmic terminology", "Farm individuality from Lecture 2 with its explicit qualification"],
+    "partIIInputs": ["Soil boundary and humus", "Earthly/cosmic mediation rather than a simple above/below equation", "Root–leaf–flower–seed cycle", "Etheric life and external plant astrality explained as terms in the model"],
+    "supportingSourceHierarchy": "GA 327 is primary. GA 230 and GA 136 can be optional anthroposophical background after the agricultural question is clear. Hugh Courtney is secondary commentary. Later practice and modern research require their own citations.",
+    "observationInterpretationBoundary": "A learner may observe soil, crop form, fodder and manure flows without claiming those observations prove the additional planetary, etheric or astral explanation.",
+    "draftOnly": true,
+    "lessonWritingStarted": false
+  },
+  "limitations": [
+    "Both PDFs again exceed the 32 MiB transfer limit. Neither PDF was downloaded or visually checked; no printed pages or exact drawings are certified.",
+    "Both Markdown inputs are byte/hash matches of the previously reviewed witnesses; repeated upload does not improve their OCR or native verification status.",
+    "The Creeger export is incomplete after its partial bibliography; handwritten appendix content and absent colour plates cannot be reconstructed from the supplied prose.",
+    "The Adams export reaches end-of-book screens, but this does not verify the listed plates or establish printed pagination.",
+    "Textual, numerical, botanical and colour discrepancies remain explicit pending native checks.",
+    "Reading and mapping the historical source does not independently validate its spiritual, physiological or agronomic claims.",
+    "No modern references have been verified in this foundations mapping task. Research and modern practice must remain separate from the 1924 account.",
+    "Only this new foundations map is authored in this task. No existing files, generated course pages, builds, commits or online publication are part of this handoff."
+  ]
+}

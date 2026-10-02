@@ -95,3 +95,9 @@ await import('./build-agriculture.mjs');
 await import('./build-learning-system.mjs');
 // New beginner, chapter and research pages use the same illustrated terminology reference.
 buildLinks();
+// An unverified private draft must never be emitted by the public build chain.
+const biodynamicMetadataFile = new URL('../content/biodynamic-agriculture-course.json', import.meta.url);
+if (fs.existsSync(biodynamicMetadataFile)) {
+ const biodynamicMetadata = JSON.parse(fs.readFileSync(biodynamicMetadataFile, 'utf8'));
+ if (biodynamicMetadata.status === 'ready') await import('./build-biodynamic-agriculture.mjs');
+}
