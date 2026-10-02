@@ -3,6 +3,7 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 import {esc,n,wholeElement} from './learning-html.mjs';
 import {isPracticalThinkingOwned,coreRouteIds,optionalRouteIds,partSlugs} from './practical-thinking-owned.mjs';
+import {temperamentComparativeChecks} from '../content/temperament-comparison-practice.mjs';
 const json=name=>JSON.parse(fs.readFileSync('content/'+name,'utf8'));
 const catalogue=json('learning-system-catalogue.json'),sources=json('learning-system-sources.json'),passages=json('passage-study.json');
 const biodynamics=json('what-is-biodynamics.json'),biodynamicsPassages=json('what-is-biodynamics-passages.json');
@@ -121,7 +122,10 @@ for(const lang of ['en','pt']) {
      assert.ok(html.includes('data-theosophy-owned="true"'),file+' missing scoped guided-course marker');
      assert.equal((html.match(/class="learning-quiz"/g)||[]).length,id===22?0:2,file+' guided comprehension count');
      assert.ok(!html.includes('data-note-field=')&&!html.includes('data-study-id='),file+' legacy notebook returned');
-    }else assert.equal((html.match(/class="learning-quiz"/g)||[]).length,1,file+' choice missing/duplicated');
+    }else {
+     const comparison=course.route==='understanding-temperaments'&&Object.hasOwn(temperamentComparativeChecks,id)?1:0;
+     assert.equal((html.match(/class="learning-quiz"/g)||[]).length,1+comparison,file+' choice missing/duplicated');
+    }
     readings++;
     if(sourceCourses[course.route]) {
      const sourceCourse=sourceCourses[course.route],source=sourceCourse.lessons.find(l=>l.id===id),v=source[lang];

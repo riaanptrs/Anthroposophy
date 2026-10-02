@@ -39,7 +39,9 @@ for(const prefix of ['docs','docs/pt']){
   }
  }
  const map=fs.readFileSync(prefix+'/understanding-temperaments/lessons/01.html','utf8');
- assert.equal((map.match(/<th scope="row">/g)||[]).length,4);
+ const memberTable=map.match(/<table class="practice-map">[\s\S]*?<\/table>/)?.[0];
+ assert.ok(memberTable,'Steiner member map remains available');
+ assert.equal((memberTable.match(/<th scope="row">/g)||[]).length,4);
  for(const id of ['04','05','16','20'])assert.match(fs.readFileSync(prefix+'/philosophy-of-freedom/lessons/'+id+'.html','utf8'),/href="\.\.\/\.\.\/(practical-thinking|understanding-temperaments)\/lessons\//);
 }
 console.log('Passed: 12 source-first Practical Thinking core lessons plus its retained optional forecast, 12 bilingual temperament practice lessons, distinct source library, preserved temperament notebooks, source links, table and Philosophy of Freedom bridges.');

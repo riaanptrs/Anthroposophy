@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import {createHash} from 'node:crypto';
 import path from 'node:path';
 import {guidedPrompt} from '../content/guided-prompts.mjs';
 import {guidedLab} from '../content/guided-labs.mjs';
@@ -7,6 +8,7 @@ import {thinkingLessons} from '../content/practical-thinking.mjs';
 import {temperamentCourse} from '../content/temperament-course.mjs';
 import {mythsLessons} from '../content/ancient-myths.mjs';
 const root=path.resolve('docs'),esc=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('"','&quot;');
+const notebookVersion=createHash('sha256').update(fs.readFileSync(path.join(root,'guided-study.v1.js'))).digest('hex').slice(0,12);
 let count=0;
 const mysteryQuestions=[
  [
@@ -75,7 +77,7 @@ for(const file of fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.h
  if(h.includes('guided-study.v1.js')||h.includes('data-learning-owned='))continue;
  const pt=h.includes('<html lang="pt-BR"'),lang=pt?'pt':'en',t=(en,br)=>pt?br:en;
  const asset=name=>path.relative(path.dirname(full),path.join(root,name)).replaceAll('\\','/');
- h=h.replace('</head>',`<link rel="stylesheet" href="${asset('guided-study.v1.css')}?v=practice-1"><script defer src="${asset('guided-study.v1.js')}?v=practice-1"></script></head>`);
+ h=h.replace('</head>',`<link rel="stylesheet" href="${asset('guided-study.v1.css')}?v=practice-1"><script defer src="${asset('guided-study.v1.js')}?v=${notebookVersion}"></script></head>`);
  if(!file.includes('lessons')){h=h.replace(/(<main\b[^>]*>)/,`$1<div class="study-resume" data-study-resume hidden></div>`);fs.writeFileSync(full,h);continue;}
  const parts=file.replaceAll('\\','/').replace(/^pt\//,'').split('/'),course=parts.length===2?'theosophy':parts[0],id=Number(path.basename(file,'.html'));
  const practiceLesson=(course==='practical-thinking'?thinkingLessons:course==='understanding-temperaments'?temperamentCourse:course==='ancient-myths'?mythsLessons:null)?.[id]?.[lang];

@@ -1,0 +1,22 @@
+/* Scoped presentation for the combined temperament course. */
+.temperament-concept + .temperament-concept { margin-top: 24px; }
+.temperament-overview { max-width: 100%; margin: 28px 0; }
+.temperament-overview > h2 { margin-bottom: 14px; }
+.temperament-table-scroll { max-width: 100%; overflow-x: auto; overscroll-behavior-x: contain; border: 1px solid #cbd6c5; border-radius: 6px; background: #fffdf8; }
+.temperament-table-scroll:focus-visible { outline: 3px solid #95472f; outline-offset: 3px; }
+.temperament-table-scroll table { border-collapse: collapse; width: 100%; min-width: 700px; margin: 0; font-size: 15px; line-height: 1.6; }
+.temperament-table-scroll caption { padding: 16px; font-weight: 700; text-align: left; color: #2d463d; }
+.temperament-table-scroll th, .temperament-table-scroll td { min-width: 125px; padding: 13px; border-bottom: 1px solid #d9dfd1; vertical-align: top; text-align: left; }
+.temperament-table-scroll thead th { background: #e9efe2; color: #2d463d; }
+.temperament-table-scroll tbody th { background: #f0f3e9; color: #2d463d; }
+.temperament-table-scroll tr:last-child > * { border-bottom: 0; }
+.temperament-chart-source, .temperament-scroll-hint { color: #4e6057; font-size: 14px; line-height: 1.65; }
+.temperament-chart-source { margin-top: 14px; }
+.temperament-details { margin: 26px 0 18px; }
+.temperament-details > summary { min-height: 44px; padding-block: 10px; cursor: pointer; }
+.temperament-details .temperament-concept { padding-top: 14px; }
+.temperament-comparison-check { margin-top: 28px; }
+.temperament-final-model { margin: 28px 0; padding: 22px; border-left: 3px solid #7b9270; background: #eef2e7; border-radius: 0 8px 8px 0; }
+.temperament-final-model p { line-height: 1.75; }
+@media (min-width: 1050px) { .temperament-scroll-hint { display: none; } }
+@media (max-width: 640px) { .temperament-final-model { padding: 16px; } }
