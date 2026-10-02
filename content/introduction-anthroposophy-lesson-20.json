@@ -1,0 +1,193 @@
+{
+  "id": 20,
+  "part": 6,
+  "titleEn": "Spiritual Beings and Hierarchies",
+  "titlePt": "Seres e hierarquias espirituais",
+  "sourceGaps": [
+    "The inspected text supports named groups and their roles. It does not require an invented formal heading called “The Nine Hierarchies.”",
+    "The body text generally says orders of beings and names their groups; “spiritual hierarchy” is a course umbrella term here, not an invented quotation or formal heading. The exact phrase Spiritual Hierarchies appears only in a title in the Further Reading bibliography."
+  ],
+  "dependencies": [
+    5,
+    19
+  ],
+  "termsIntroduced": [
+    "spiritual-hierarchy",
+    "spiritual-being"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 4: Cosmic Evolution and the Human Being — Saturn",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          135,
+          135
+        ],
+        "pdfPages": [
+          148,
+          148
+        ],
+        "markdownMarkers": null,
+        "anchor": "Spiritual agents beyond the physical kingdoms.",
+        "authorParagraphs": [
+          17
+        ]
+      },
+      "readingInstruction": "Read Saturn, paragraph 17, printed p. 135 (PDF p. 148): the participation of beings without physical bodies in later human development.",
+      "selectedExcerpt": "There are also other beings that do not reveal themselves in physical bodies.",
+      "excerptStatus": "Selected brief conceptual-centre passage, verified against the actual supplied PDF page.",
+      "readingEn": "Read Saturn, paragraph 17, printed p. 135 (PDF p. 148): the participation of beings without physical bodies in later human development.",
+      "excerptEn": "There are also other beings that do not reveal themselves in physical bodies.",
+      "excerptVerification": {
+        "sourceId": "ga13",
+        "pdfSha256": "823538ffb48a143fd92cd359d9536d8630009edfe6933fd06a18abc8d930be03",
+        "printedPage": 135,
+        "pdfPage": 148,
+        "authorParagraph": 17,
+        "imageInspected": true,
+        "method": "Exact English sentence checked against PDF text after whitespace joining only, and visually compared with the original full PDF page.",
+        "reviewer": "intro_ga13_foundations",
+        "imageReview": "Private review artifact: intro-anthroposophy/phase-f-inspection/148-full.png",
+        "portuguese": "Original course study translation of the verified Creeger English excerpt, not a published Portuguese translation."
+      },
+      "readingPt": "Leia Saturn, parágrafo 17, p. impressa 135 (p. 148 do PDF): a participação de seres sem corpos físicos no desenvolvimento humano posterior.",
+      "excerptPt": "Há também outros seres que não se manifestam em corpos físicos.",
+      "courseTranslation": true
+    },
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 4 — Saturn",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          140,
+          142
+        ],
+        "pdfPages": [
+          153,
+          155
+        ],
+        "markdownMarkers": null,
+        "anchor": "Functional names and differentiated formative activities.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read printed pp. 140–142 (PDF pp. 153–155) for names connected to different formative activities. For overlapping activity and the beings’ own development, consult the brief same-book context on printed pp. 150–151 (PDF pp. 163–164).",
+      "selectedExcerpt": null,
+      "excerptStatus": "No further excerpt selected; precise same-book reading assignment.",
+      "readingEn": "Read printed pp. 140–142 (PDF pp. 153–155) for names connected to different formative activities. For overlapping activity and the beings’ own development, consult the brief same-book context on printed pp. 150–151 (PDF pp. 163–164).",
+      "assignmentVerification": {
+        "sourceId": "ga13",
+        "printedPages": [
+          140,
+          142
+        ],
+        "pdfPagesInspected": [
+          153,
+          154,
+          155
+        ],
+        "contextPrintedPages": [
+          150,
+          151
+        ],
+        "contextPdfPagesRead": [
+          163,
+          164
+        ],
+        "contextPdfPagesInspected": [
+          164
+        ],
+        "imageInspected": true,
+        "method": "Read and visually checked the differentiated-role passage. Read the same-book overlap/development context and visually checked its decisive continuation on printed 151.",
+        "reviewer": "intro_ga13_foundations"
+      },
+      "readingPt": "Leia as pp. impressas 140–142 (pp. 153–155 do PDF) para os nomes relacionados a diferentes atividades formativas. Para a sobreposição das atividades e o desenvolvimento dos próprios seres, consulte o breve contexto do mesmo livro nas pp. impressas 150–151 (pp. 163–164 do PDF)."
+    }
+  ],
+  "en": {
+    "question": "What role do spiritual beings play in that cosmological account?",
+    "matters": "The preceding lesson introduced a history of the human constitution. This lesson explains why Steiner describes differentiated spiritual activities within that history.",
+    "explanation": [
+      "Steiner’s cosmological account includes beings with different capacities. The assigned passage describes some that do not reveal themselves in physical bodies, whose activity helps prepare later human development.",
+      "Names identify formative tasks. Spirits of Wisdom prepare the reflection of life; Spirits of Motion impart general expressions of sensation; Spirits of Form differentiate these expressions into individual reflected forms. These examples show why the account distinguishes groups.",
+      "The groups’ activities overlap. A group is especially evident in the period when its activity takes the leading role, while continuing to act in other periods. The beings themselves also develop through their activity.",
+      "Here “hierarchy” is a course term for this ordering of capacities and tasks. Its purpose is to make the different activities intelligible, without turning the lesson into a catalogue of names."
+    ],
+    "keyConcept": {
+      "term": "Spiritual hierarchy",
+      "definition": "An ordering of spiritual beings by their capacities and formative activities in Steiner’s cosmological account."
+    },
+    "example": null,
+    "distinction": "These groups are distinguished by activities that overlap and develop. They do not form a ranking of human worth or a set of completely separate, fixed tasks.",
+    "checks": [
+      {
+        "question": "What makes the different groups meaningful in this account?",
+        "options": [
+          "Their different capacities and formative activities.",
+          "A ranking of people by social importance."
+        ],
+        "answer": 0,
+        "reason": "The source connects names with activities in the development it describes."
+      },
+      {
+        "question": "Does a group act only during the period in which it is most prominent?",
+        "options": [
+          "Yes; every group has a completely isolated period.",
+          "No; the activities overlap and the beings themselves develop."
+        ],
+        "answer": 1,
+        "reason": "The same-book context explicitly rejects fixed dividing lines between their activities."
+      }
+    ],
+    "connection": "Lesson 21 distinguishes two particular influences, Luciferic and Ahrimanic, within this account of human development.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Que papel os seres espirituais desempenham nessa descrição cosmológica?",
+    "matters": "A lição anterior apresentou uma história da constituição humana. Esta lição explica por que Steiner descreve atividades espirituais diferenciadas dentro dessa história.",
+    "explanation": [
+      "A descrição cosmológica de Steiner inclui seres com capacidades diferentes. O trecho indicado descreve alguns que não se manifestam em corpos físicos e cuja atividade ajuda a preparar o desenvolvimento humano posterior.",
+      "Os nomes identificam tarefas formativas. Os Espíritos da Sabedoria preparam o reflexo da vida; os Espíritos do Movimento conferem expressões gerais de sensação; os Espíritos da Forma diferenciam essas expressões em formas individuais refletidas. Esses exemplos mostram por que a descrição distingue grupos.",
+      "As atividades dos grupos se sobrepõem. Um grupo se torna especialmente evidente no período em que sua atividade assume o papel principal, enquanto continua a atuar em outros períodos. Os próprios seres também se desenvolvem por meio de sua atividade.",
+      "Aqui, “hierarquia” é um termo do curso para essa organização de capacidades e tarefas. Seu propósito é tornar as diferentes atividades compreensíveis, sem transformar a lição em um catálogo de nomes."
+    ],
+    "keyConcept": {
+      "term": "Hierarquia espiritual",
+      "definition": "Uma organização de seres espirituais segundo suas capacidades e atividades formativas na descrição cosmológica de Steiner."
+    },
+    "example": null,
+    "distinction": "Esses grupos são diferenciados por atividades que se sobrepõem e se desenvolvem. Não formam uma classificação do valor humano nem um conjunto de tarefas completamente separadas e fixas.",
+    "checks": [
+      {
+        "question": "O que dá sentido aos diferentes grupos nessa descrição?",
+        "options": [
+          "Suas diferentes capacidades e atividades formativas.",
+          "Uma classificação das pessoas por importância social."
+        ],
+        "answer": 0,
+        "reason": "A fonte relaciona os nomes com atividades no desenvolvimento que descreve."
+      },
+      {
+        "question": "Um grupo atua apenas durante o período em que é mais evidente?",
+        "options": [
+          "Sim; cada grupo tem um período completamente isolado.",
+          "Não; as atividades se sobrepõem e os próprios seres se desenvolvem."
+        ],
+        "answer": 1,
+        "reason": "O contexto do mesmo livro rejeita explicitamente divisões fixas entre suas atividades."
+      }
+    ],
+    "connection": "A Lição 21 distingue duas influências específicas, a luciférica e a ahrimânica, dentro dessa descrição do desenvolvimento humano.",
+    "deeperStudy": []
+  }
+}

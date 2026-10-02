@@ -1,0 +1,180 @@
+{
+  "id": 6,
+  "part": 2,
+  "titleEn": "Thinking, Feeling and Willing",
+  "titlePt": "Pensar, sentir e querer",
+  "dependencies": [
+    4,
+    5
+  ],
+  "termsIntroduced": [
+    "thinking",
+    "feeling",
+    "willing"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 1. The Constitution Of The Human Being — 2. THE SOUL BEING OF MAN",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          16,
+          17
+        ],
+        "markdownMarkers": null,
+        "anchor": "§2 starts at the heading in 16 middle; 16 right introduces personal response; 17 left, above §3, completes the outward expression of willing.",
+        "authorParagraphs": null,
+        "focusCaptures": [
+          16,
+          17
+        ]
+      },
+      "readingInstruction": "Read §2 from the heading in 16 middle through 17 left, stopping before §3. Follow sensation, personal feeling and willing’s expression in action.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation.",
+      "readingEn": "Read §2 from the heading in 16 middle through 17 left, stopping before §3. Follow sensation, personal feeling and willing’s expression in action.",
+      "sourceScopeLimit": "§2 only; ends before §3 in capture 17’s left column.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          16,
+          17
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read complete Chapter I opening and sections 1–4 in the supplied Markdown; visually checked every native PDF capture 13–31 in three-column reading order. Refined the assigned conceptual centre and section boundaries without selecting an excerpt.",
+        "reviewer": "intro_site_audit"
+      },
+      "readingPt": "Leia a seção 2, do título na coluna central de 16 até a esquerda de 17, parando antes da seção 3. Acompanhe sensação, sentimento pessoal e expressão do querer na ação."
+    },
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 1. The Constitution Of The Human Being — 3. THE SPIRITUAL BEING OF MAN; adjoining opening of 4. BODY, SOUL, AND SPIRIT",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          17,
+          18
+        ],
+        "markdownMarkers": null,
+        "anchor": "§3 occupies 17 left/middle/right and ends before §4 at the bottom of the right column. The clear-thinking/feeling discussion in 18 left/middle is the adjoining opening of §4.",
+        "authorParagraphs": null,
+        "focusCaptures": [
+          17,
+          18
+        ]
+      },
+      "readingInstruction": "Read §3 in capture 17 for thinking about perceptions and acts. Continue into §4’s adjoining opening in 18 left/middle for clear thinking and feeling; this continuation belongs to a different numbered section.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation.",
+      "readingEn": "Read §3 in capture 17 for thinking about perceptions and acts. Continue into §4’s adjoining opening in 18 left/middle for clear thinking and feeling; this continuation belongs to a different numbered section.",
+      "sourceScopeLimit": "§3 in capture 17 plus the adjoining §4 opening in capture 18; no later GA4 moral-intuition or free-action analysis.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          17,
+          18
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read complete Chapter I opening and sections 1–4 in the supplied Markdown; visually checked every native PDF capture 13–31 in three-column reading order. Refined the assigned conceptual centre and section boundaries without selecting an excerpt.",
+        "reviewer": "intro_site_audit"
+      },
+      "readingPt": "Leia a seção 3 na captura 17 para o pensar sobre percepções e ações. Continue pela abertura próxima da seção 4 nas colunas esquerda e central de 18 para o pensar claro e o sentir; essa continuação pertence a outra seção numerada."
+    }
+  ],
+  "sourceGaps": [],
+  "en": {
+    "question": "How do understanding, personal response and intentional action differ while belonging to one life?",
+    "matters": "Steiner’s account of soul life includes more than feeling. Distinguishing its activities helps us understand how a person responds to the world.",
+    "explanation": [
+      "An impression can awaken pleasure or displeasure. Feeling makes an encounter personally significant. Willing carries inner life outward into action: the person responds rather than only receiving an impression.",
+      "Thinking considers perceptions and actions, seeking understanding and coherence. It can change how a situation is judged and how someone chooses to respond. It is more than a collection of impressions.",
+      "These activities can belong to one episode. Clear thinking need not extinguish feeling: Steiner also describes understanding that deepens warmth and enthusiasm. His distinction concerns their contributions, not three fixed types of people."
+    ],
+    "keyConcept": {
+      "term": "Thinking, feeling and willing",
+      "definition": "Understanding relations, experiencing personal significance, and directing intention toward action."
+    },
+    "example": {
+      "text": "A friend asks for help. You understand the request, feel concern and offer assistance. Thinking through what is needed may change the assistance you offer."
+    },
+    "distinction": "A feeling is real as personal experience; it does not establish what everyone must feel or what the situation requires.",
+    "checks": [
+      {
+        "question": "You reconsider the request and change your offer. Which activity clarifies the needed response?",
+        "options": [
+          "Thinking about the situation.",
+          "Feeling concern alone."
+        ],
+        "answer": 0,
+        "reason": "Thinking seeks reasons and relationships that can guide action."
+      },
+      {
+        "question": "Which statement distinguishes feeling from willing?",
+        "options": [
+          "They are always identical.",
+          "Feeling is concern; willing directs a response into action.",
+          "Only willing belongs to soul life."
+        ],
+        "answer": 1,
+        "reason": "An inward response and its outward expression are distinguishable."
+      }
+    ],
+    "connection": "Lesson 07 asks how the I develops its relationship to impulses, understanding and what it recognizes as true or right.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Como compreensão, resposta pessoal e ação intencional diferem, embora pertençam a uma mesma vida?",
+    "matters": "A descrição da vida anímica de Steiner inclui mais do que o sentir. Distinguir suas atividades ajuda a compreender como uma pessoa responde ao mundo.",
+    "explanation": [
+      "Uma impressão pode despertar prazer ou desprazer. O sentir torna um encontro pessoalmente significativo. O querer leva a vida interior para fora, em uma ação: a pessoa responde, em vez de apenas receber uma impressão.",
+      "O pensar considera percepções e ações, buscando compreensão e coerência. Pode mudar a maneira de julgar uma situação e de escolher uma resposta. É mais do que uma coleção de impressões.",
+      "Essas atividades podem pertencer ao mesmo episódio. O pensar claro não precisa extinguir o sentir: Steiner também descreve uma compreensão que aprofunda o calor interior e o entusiasmo. Sua distinção diz respeito às contribuições dessas atividades, não a três tipos fixos de pessoas."
+    ],
+    "keyConcept": {
+      "term": "Pensar, sentir e querer",
+      "definition": "Compreender relações, experimentar significado pessoal e orientar a intenção para a ação."
+    },
+    "example": {
+      "text": "Uma pessoa amiga pede ajuda. Você compreende o pedido, sente preocupação e oferece assistência. Pensar sobre o que é necessário pode mudar a ajuda oferecida."
+    },
+    "distinction": "Um sentimento é real como experiência pessoal; ele não estabelece o que todos devem sentir nem o que a situação exige.",
+    "checks": [
+      {
+        "question": "Você reconsidera o pedido e muda sua oferta. Qual atividade esclarece a resposta necessária?",
+        "options": [
+          "Pensar sobre a situação.",
+          "Apenas sentir preocupação."
+        ],
+        "answer": 0,
+        "reason": "O pensar busca razões e relações que podem orientar a ação."
+      },
+      {
+        "question": "Qual afirmação distingue sentir de querer?",
+        "options": [
+          "São sempre idênticos.",
+          "O sentir é a preocupação; o querer direciona uma resposta para a ação.",
+          "Apenas o querer pertence à vida anímica."
+        ],
+        "answer": 1,
+        "reason": "Uma resposta interior e sua expressão exterior são distinguíveis."
+      }
+    ],
+    "connection": "A Lição 07 pergunta como o Eu desenvolve sua relação com os impulsos, a compreensão e aquilo que reconhece como verdadeiro ou correto.",
+    "deeperStudy": []
+  }
+}

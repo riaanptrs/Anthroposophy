@@ -1,0 +1,297 @@
+{
+  "id": 5,
+  "part": 2,
+  "titleEn": "Physical Body, Etheric Body, Astral Body and I",
+  "titlePt": "Corpo físico, corpo etérico, corpo astral e Eu",
+  "dependencies": [
+    4
+  ],
+  "termsIntroduced": [
+    "physical-body",
+    "etheric-body",
+    "astral-body",
+    "I"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 1. The Constitution Of The Human Being — 4. BODY, SOUL, AND SPIRIT",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          18,
+          22
+        ],
+        "markdownMarkers": null,
+        "anchor": "Physical organization: capture 18 middle/right. Life-body: 19 right and 20 left. Sensation and mediation: 20 middle/right, 21 all columns and 22 left.",
+        "authorParagraphs": null,
+        "focusCaptures": [
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      "readingInstruction": "Within §4, read physical organization in 18 middle/right, life-body in 19 right and 20 left, then sensation and its mediation in 20–22. Distinguish these questions; ordinary growth is not direct perception of the proposed ether body.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation.",
+      "readingEn": "Within §4, read physical organization in 18 middle/right, life-body in 19 right and 20 left, then sensation and its mediation in 20–22. Distinguish these questions; ordinary growth is not direct perception of the proposed ether body.",
+      "sourceScopeLimit": "Uses the distinctions among material organization, living form and inward sensation; historical anatomical assertions are not taught as current biology.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read complete Chapter I opening and sections 1–4 in the supplied Markdown; visually checked every native PDF capture 13–31 in three-column reading order. Refined the assigned conceptual centre and section boundaries without selecting an excerpt.",
+        "reviewer": "intro_site_audit"
+      },
+      "readingPt": "Na seção 4, leia a organização física nas colunas central e direita de 18, o corpo vital na direita de 19 e na esquerda de 20, depois a sensação e sua mediação em 20–22. Distinga essas questões; o crescimento comum não é percepção direta do corpo etérico proposto."
+    },
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 1. The Constitution Of The Human Being — 4. BODY, SOUL, AND SPIRIT",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          24,
+          26
+        ],
+        "markdownMarkers": null,
+        "anchor": "Childhood illustration: 25 left. Gathering experience: 25 middle. Self-reference: 25 right. I/body/soul/spirit relationships: 26 left/middle; stop before spirit-self in 26 right.",
+        "authorParagraphs": null,
+        "focusCaptures": [
+          25,
+          26
+        ]
+      },
+      "readingInstruction": "Focus on 25 middle/right and 26 left/middle for the self-referential I and its relation to bodily and soul life. The preceding childhood illustration gives no universal exact-age rule. Stop before the spiritual-member exposition in 26 right.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation.",
+      "readingEn": "Focus on 25 middle/right and 26 left/middle for the self-referential I and its relation to bodily and soul life. The preceding childhood illustration gives no universal exact-age rule. Stop before the spiritual-member exposition in 26 right.",
+      "sourceScopeLimit": "Ends before spirit-self in capture 26’s right column. The childhood illustration is not a universal exact-age milestone.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          24,
+          25,
+          26
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read complete Chapter I opening and sections 1–4 in the supplied Markdown; visually checked every native PDF capture 13–31 in three-column reading order. Refined the assigned conceptual centre and section boundaries without selecting an excerpt.",
+        "reviewer": "intro_site_audit"
+      },
+      "readingPt": "Concentre-se nas colunas central e direita de 25 e esquerda e central de 26 para o Eu que se refere a si mesmo e sua relação com a vida corporal e anímica. A ilustração anterior da infância não estabelece uma idade exata universal. Pare antes da exposição dos membros espirituais na direita de 26."
+    },
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 1. The Constitution Of The Human Being — 4. BODY, SOUL, AND SPIRIT",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          29,
+          31
+        ],
+        "markdownMarkers": null,
+        "anchor": "Fourfold regrouping: 30 middle, continuing to the top of the right column. Four baseline members: first four entries of 31 middle; exclude the remaining spiritual members.",
+        "authorParagraphs": null,
+        "focusCaptures": [
+          30,
+          31
+        ]
+      },
+      "readingInstruction": "Focus on the fourfold regrouping in 30 middle and the top of its right column. In 31 middle, use the first four members only. Astral body here joins soul-body and sentient-soul; the surrounding nine/seven-member lists are context.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation.",
+      "readingEn": "Focus on the fourfold regrouping in 30 middle and the top of its right column. In 31 middle, use the first four members only. Astral body here joins soul-body and sentient-soul; the surrounding nine/seven-member lists are context.",
+      "sourceScopeLimit": "Uses the fourfold scheme only. The ninefold and both sevenfold arrangements and the full transformed spiritual triad are reserved for deeper study.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          29,
+          30,
+          31
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read complete Chapter I opening and sections 1–4 in the supplied Markdown; visually checked every native PDF capture 13–31 in three-column reading order. Refined the assigned conceptual centre and section boundaries without selecting an excerpt.",
+        "reviewer": "intro_site_audit"
+      },
+      "readingPt": "Concentre-se no agrupamento em quatro membros na coluna central de 30 e no início da direita. Na coluna central de 31, use apenas os quatro primeiros membros. Corpo astral reúne aqui corpo anímico e alma sensitiva; as listas próximas de nove e sete membros são contexto."
+    }
+  ],
+  "sourceGaps": [],
+  "en": {
+    "question": "What different explanatory tasks do Steiner’s four human members perform?",
+    "matters": "Body, soul and spirit describe broad relationships. Steiner’s fourfold account asks more specifically about material organization, life, inward experience and self-reference.",
+    "explanation": [
+      "Steiner distinguishes the material organization of the physical body from the sustaining organization of a living being. His ether-body or life-body names the latter; observing growth illustrates the question, rather than directly perceiving this proposed member.",
+      "Life is then distinguished from experiencing sensation and desire. In the fourfold regrouping, astral body joins the bodily mediation of sensation, called soul-body, with the inward sentient soul. It does not include all soul life.",
+      "The I gathers bodily and soul experience as one’s own and can work upon it. Steiner illustrates self-reference through childhood experience, without giving a universal exact-age rule. The cards separate each member’s conceptual task."
+    ],
+    "keyConcept": {
+      "term": "Fourfold human constitution",
+      "definition": "Steiner’s differentiation of physical body, etheric body, astral body and I within one human being."
+    },
+    "memberCards": [
+      {
+        "term": "Physical body",
+        "meaning": "Material bodily organization subject to physical processes.",
+        "problem": "What gives embodiment its material structure?",
+        "difference": "The first member specifies the material aspect of Lesson 04’s broader body relation.",
+        "example": "The bodily organization involved in holding a bowl.",
+        "misconception": "Physical body exhausts the whole person in Steiner’s account."
+      },
+      {
+        "term": "Etheric body",
+        "meaning": "The life-body: formative organization sustaining living form, growth and reproduction.",
+        "problem": "How is living organization maintained as materials change?",
+        "difference": "Living form is distinguished from material composition alone.",
+        "example": "The growth of the person holding the bowl.",
+        "misconception": "Ether means physical ether, a measurable fluid or simply finer matter."
+      },
+      {
+        "term": "Astral body",
+        "meaning": "In this fourfold scheme, soul-body and sentient soul joined: sensation’s mediation and inward experience.",
+        "problem": "How does a living being experience sensations, desires and impulses?",
+        "difference": "Experiencing hunger differs from the life processes accompanying it.",
+        "example": "The person feels hungry while holding the bowl.",
+        "misconception": "Astral body means all soul life, only emotion or a star-based personality."
+      },
+      {
+        "term": "I",
+        "meaning": "The self-referential centre gathering experience and capable of working upon it.",
+        "problem": "How does someone recognize experience as their own and consider a response?",
+        "difference": "The I is not another desire alongside hunger.",
+        "example": "The person recognizes their hunger and considers waiting for a guest.",
+        "misconception": "I means selfishness, assertiveness or automatically acting freely."
+      }
+    ],
+    "example": {
+      "text": "One person holds a bowl, grows, feels hunger and considers waiting for a guest. The cards distinguish four aspects of this one event; they illustrate Steiner’s concepts rather than proving them."
+    },
+    "distinction": "Fourfold members are not four separate people. Etheric body is the course label for this edition’s ether-body or life-body.",
+    "checks": [
+      {
+        "question": "Which contrast distinguishes etheric and astral body here?",
+        "options": [
+          "Growth versus inwardly experiencing hunger.",
+          "Two different kinds of selfishness.",
+          "Two physical fluids."
+        ],
+        "answer": 0,
+        "reason": "The distinction concerns living organization and sentient experience."
+      },
+      {
+        "question": "What does the I add to the hunger example?",
+        "options": [
+          "A stronger appetite.",
+          "Recognition of the experience as one’s own and consideration of a response."
+        ],
+        "answer": 1,
+        "reason": "Self-reference is distinguished from the desire itself."
+      }
+    ],
+    "connection": "Lesson 06 moves from these members to thinking, feeling and willing as distinguishable activities of soul life.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Que tarefas explicativas diferentes os quatro membros humanos de Steiner desempenham?",
+    "matters": "Corpo, alma e espírito descrevem relações amplas. A descrição em quatro membros de Steiner examina mais especificamente a organização material, a vida, a experiência interior e a referência a si mesmo.",
+    "explanation": [
+      "Steiner distingue a organização material do corpo físico da organização que sustenta um ser vivo. Seus termos ether-body ou life-body nomeiam esta última; observar o crescimento ilustra a questão, em vez de perceber diretamente esse membro proposto.",
+      "A vida é então distinguida da experiência de sensações e desejos. No agrupamento em quatro membros, o corpo astral reúne a mediação corporal da sensação, chamada corpo anímico, e a alma sensitiva interior. Ele não abrange toda a vida anímica.",
+      "O Eu reúne as experiências corporais e anímicas como suas e pode trabalhar sobre elas. Steiner ilustra a referência a si mesmo por meio de uma experiência da infância, sem estabelecer uma idade exata universal. Os quadros distinguem a tarefa conceitual de cada membro."
+    ],
+    "keyConcept": {
+      "term": "Constituição humana em quatro membros",
+      "definition": "A diferenciação de Steiner entre corpo físico, corpo etérico, corpo astral e Eu dentro de um mesmo ser humano."
+    },
+    "memberCards": [
+      {
+        "term": "Corpo físico",
+        "meaning": "Organização corporal material sujeita a processos físicos.",
+        "problem": "O que dá à existência corporal sua estrutura material?",
+        "difference": "O primeiro membro especifica o aspecto material da relação corporal mais ampla da Lição 04.",
+        "example": "A organização corporal envolvida em segurar uma tigela.",
+        "misconception": "O corpo físico esgota a pessoa inteira na descrição de Steiner."
+      },
+      {
+        "term": "Corpo etérico",
+        "meaning": "O corpo vital: organização formativa que sustenta a forma viva, o crescimento e a reprodução.",
+        "problem": "Como a organização viva é mantida enquanto seus materiais mudam?",
+        "difference": "A forma viva é distinguida da composição material por si só.",
+        "example": "O crescimento da pessoa que segura a tigela.",
+        "misconception": "Éter significa éter físico, um fluido mensurável ou simplesmente matéria mais sutil."
+      },
+      {
+        "term": "Corpo astral",
+        "meaning": "Neste esquema de quatro membros, corpo anímico e alma sensitiva reunidos: mediação da sensação e experiência interior.",
+        "problem": "Como um ser vivo experimenta sensações, desejos e impulsos?",
+        "difference": "Sentir fome difere dos processos vitais que acompanham essa experiência.",
+        "example": "A pessoa sente fome enquanto segura a tigela.",
+        "misconception": "Corpo astral significa toda a vida anímica, apenas emoção ou uma personalidade baseada nos astros."
+      },
+      {
+        "term": "Eu",
+        "meaning": "O centro que se refere a si mesmo, reúne experiências e é capaz de trabalhar sobre elas.",
+        "problem": "Como alguém reconhece uma experiência como sua e considera uma resposta?",
+        "difference": "O Eu não é mais um desejo ao lado da fome.",
+        "example": "A pessoa reconhece sua fome e considera esperar por uma visita.",
+        "misconception": "Eu significa egoísmo, assertividade ou agir automaticamente de maneira livre."
+      }
+    ],
+    "example": {
+      "text": "Uma pessoa segura uma tigela, cresce, sente fome e considera esperar por uma visita. Os quadros distinguem quatro aspectos desse mesmo acontecimento; ilustram os conceitos de Steiner, em vez de comprová-los."
+    },
+    "distinction": "Quatro membros não são quatro pessoas separadas. Corpo etérico é a denominação do curso para ether-body ou life-body nesta edição.",
+    "checks": [
+      {
+        "question": "Qual contraste distingue aqui o corpo etérico do corpo astral?",
+        "options": [
+          "Crescer e experimentar interiormente a fome.",
+          "Dois tipos diferentes de egoísmo.",
+          "Dois fluidos físicos."
+        ],
+        "answer": 0,
+        "reason": "A distinção diz respeito à organização viva e à experiência sensitiva."
+      },
+      {
+        "question": "O que o Eu acrescenta ao exemplo da fome?",
+        "options": [
+          "Um apetite mais forte.",
+          "O reconhecimento da experiência como sua e a consideração de uma resposta."
+        ],
+        "answer": 1,
+        "reason": "A referência a si mesmo é distinguida do próprio desejo."
+      }
+    ],
+    "connection": "A Lição 06 passa desses membros ao pensar, sentir e querer como atividades distinguíveis da vida anímica.",
+    "deeperStudy": []
+  }
+}

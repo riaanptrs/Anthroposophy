@@ -1,0 +1,160 @@
+{
+  "id": 3,
+  "part": 1,
+  "titleEn": "What Does Steiner Mean by Spiritual Science?",
+  "titlePt": "O que Steiner entende por ciência espiritual?",
+  "dependencies": [
+    1,
+    2
+  ],
+  "termsIntroduced": [
+    "spiritual-science"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 1 — The Character of Esoteric Science",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          13,
+          15
+        ],
+        "pdfPages": [
+          26,
+          28
+        ],
+        "markdownMarkers": null,
+        "anchor": "The scientific attitude and the proposed supersensible field. Includes the end of author paragraph2, paragraph3 and the opening of paragraph4; not the full paragraphs2–4.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": null,
+      "selectedExcerpt": "Spiritual science attempts to speak about non-sensory things in the same way that the natural sciences speak about sense-perceptible things.",
+      "excerptStatus": "Selected short conceptual-centre passage; checked against the supplied PDF.",
+      "excerptEn": "Spiritual science attempts to speak about non-sensory things in the same way that the natural sciences speak about sense-perceptible things.",
+      "excerptPt": "A ciência espiritual procura falar de coisas não sensíveis da mesma maneira que as ciências naturais falam de coisas perceptíveis pelos sentidos.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "ga13",
+        "printedPage": 14,
+        "pdfPage": 27,
+        "method": "Compared exact English wording with the supplied PDF text and its rendered original page. Whitespace is normalized and the line break inside non-sensory is joined without changing the hyphen.",
+        "imageReview": "Private review artifact: intro-anthroposophy/ga13-inspection/027-full.png",
+        "portuguese": "Original course study translation of the verified English excerpt."
+      }
+    },
+    {
+      "sourceId": "ga10-modern",
+      "ga": 10,
+      "role": "secondary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Preface to the Third Edition",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          1,
+          2
+        ],
+        "pdfPages": [
+          10,
+          11
+        ],
+        "markdownMarkers": null,
+        "anchor": "Distinguishing firsthand investigation from understanding communicated findings.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": null,
+      "selectedExcerpt": null,
+      "excerptStatus": "Not selected; recheck a short conceptual-centre passage against the PDF during authoring."
+    }
+  ],
+  "en": {
+    "question": "Why did Steiner think spiritual knowledge could be systematic rather than merely a matter of faith?",
+    "matters": "Anthroposophy includes claims about realities that ordinary senses do not disclose. To understand why Steiner calls these knowledge rather than belief, we need to examine the method he proposes. This clarifies the difference between learning what he argues and claiming to have investigated the spiritual world ourselves.",
+    "explanation": [
+      "In An Outline of Esoteric Science, Steiner asks what makes an inquiry scientific: its subject alone, or also the activity of the person investigating it? He emphasizes disciplined attention, careful thinking and a willingness to let the subject guide understanding. He argues that these qualities can be learned through studying nature and then developed for a different field of inquiry.",
+      "That different field is what he calls supersensible reality: reality not disclosed by ordinary sensory perception. His proposed instrument is a developed human capacity, rather than an additional physical sense. Because sensory objects no longer provide their familiar guidance, he thinks the investigator must become more exacting about inner activity. Personal preference or an attractive image is not enough.",
+      "The supporting preface to How to Know Higher Worlds distinguishes investigating from understanding. Steiner says that firsthand research requires the relevant developed faculty, while a reader can consider a communicated account through careful judgment. Studying an explanation therefore has a different role from claiming to have observed what it describes.",
+      "This is why inner development belongs to his idea of spiritual science: changing how one knows is part of the proposed inquiry. The name expresses his claim to a disciplined path of knowledge; it does not make his reports conventional natural-scientific findings. For this introduction, the task is to understand the method and its distinctions before evaluating its claims."
+    ],
+    "keyConcept": {
+      "term": "Spiritual science",
+      "definition": "Steiner’s proposed systematic investigation of supersensible reality through developed human faculties and disciplined thinking and judgment."
+    },
+    "example": {
+      "text": "One student follows a botanist’s explanation of plant growth; another learns to carry out the observations underlying it. Understanding the explanation and making the observations are different achievements. This comparison illustrates the distinction between reader and investigator; it does not establish that spiritual observation works like botanical observation."
+    },
+    "distinction": "Understanding a report, accepting its conclusions and investigating its subject firsthand are different things. A reader’s ability to follow Steiner’s account should not be mistaken for personal observation of a spiritual world.",
+    "checks": [
+      {
+        "question": "Why does Steiner use the word science for the inquiry he proposes?",
+        "options": [
+          "Because any sincere spiritual feeling counts as knowledge.",
+          "Because he seeks disciplined inquiry into a field beyond ordinary sensory perception.",
+          "Because memorizing a teacher’s statements replaces investigation."
+        ],
+        "answer": 1,
+        "reason": "He emphasizes the activity and attitude of the investigator, proposing that disciplined capacities can be developed for a supersensible field."
+      },
+      {
+        "question": "Which statement preserves Steiner’s distinction between a reader and an investigator?",
+        "options": [
+          "A reader can seek to understand an account without claiming firsthand spiritual observation.",
+          "Understanding an explanation automatically gives the reader the investigator’s perceptive faculty.",
+          "An account has no value until every reader has had the same experience."
+        ],
+        "answer": 0,
+        "reason": "In the GA10 preface, Steiner separates the faculty needed for firsthand research from the judgment used to consider communicated findings."
+      }
+    ],
+    "connection": "The next part turns from how Steiner proposes to seek knowledge to what he describes: the human being. Lesson 04 introduces the broad distinction among body, soul and spirit.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Por que Steiner considera que o conhecimento espiritual pode ser sistemático, em vez de depender apenas da fé?",
+    "matters": "A antroposofia inclui afirmações sobre realidades que os sentidos comuns não revelam. Para entender por que Steiner fala a esse respeito de conhecimento, e não apenas de crença, precisamos examinar o método que ele propõe. Isso esclarece a diferença entre compreender seus argumentos e afirmar que nós mesmos investigamos o mundo espiritual.",
+    "explanation": [
+      "Em An Outline of Esoteric Science, Steiner pergunta o que torna uma investigação científica: apenas seu objeto ou também a atividade de quem investiga? Ele dá importância à atenção disciplinada, ao pensamento cuidadoso e à disposição de deixar o objeto de estudo orientar a compreensão. Argumenta que essas qualidades podem ser aprendidas no estudo da natureza e depois desenvolvidas para outro campo de investigação.",
+      "Esse outro campo é o que ele chama de realidade supersensível: uma realidade que a percepção sensorial comum não revela. O instrumento proposto é uma capacidade humana desenvolvida, em vez de um sentido físico adicional. Como os objetos sensoriais já não oferecem sua orientação habitual, ele considera que o investigador precisa ser mais rigoroso com a própria atividade interior. Uma preferência pessoal ou uma imagem atraente não basta.",
+      "O prefácio de apoio de How to Know Higher Worlds distingue investigar de compreender. Steiner afirma que a pesquisa direta exige a faculdade desenvolvida correspondente, enquanto um leitor pode examinar um relato por meio de um julgamento cuidadoso. Estudar uma explicação tem, portanto, um papel diferente de afirmar que se observou o que ela descreve.",
+      "É por isso que o desenvolvimento interior pertence à sua ideia de ciência espiritual: transformar a maneira de conhecer faz parte da investigação proposta. O nome expressa sua pretensão de seguir um caminho disciplinado de conhecimento; não transforma seus relatos em resultados convencionais das ciências naturais. Nesta introdução, a tarefa é compreender o método e suas distinções antes de avaliar suas afirmações."
+    ],
+    "keyConcept": {
+      "term": "Ciência espiritual",
+      "definition": "A proposta de Steiner de investigar sistematicamente a realidade supersensível por meio de faculdades humanas desenvolvidas, pensamento disciplinado e julgamento."
+    },
+    "example": {
+      "text": "Uma estudante acompanha a explicação de uma botânica sobre o crescimento das plantas; outra aprende a realizar as observações que fundamentam essa explicação. Compreender a explicação e fazer as observações são realizações diferentes. A comparação ilustra a distinção entre leitor e investigador; não estabelece que a observação espiritual funcione como a observação botânica."
+    },
+    "distinction": "Compreender um relato, aceitar suas conclusões e investigar diretamente seu objeto são coisas diferentes. A capacidade de acompanhar a explicação de Steiner não deve ser confundida com a observação pessoal de um mundo espiritual.",
+    "checks": [
+      {
+        "question": "Por que Steiner usa a palavra ciência para a investigação que propõe?",
+        "options": [
+          "Porque qualquer sentimento espiritual sincero conta como conhecimento.",
+          "Porque busca uma investigação disciplinada de um campo além da percepção sensorial comum.",
+          "Porque memorizar as afirmações de um professor substitui a investigação."
+        ],
+        "answer": 1,
+        "reason": "Ele destaca a atividade e a atitude do investigador, propondo que capacidades disciplinadas podem ser desenvolvidas para um campo supersensível."
+      },
+      {
+        "question": "Qual afirmação preserva a distinção de Steiner entre leitor e investigador?",
+        "options": [
+          "Um leitor pode procurar compreender um relato sem afirmar que realizou uma observação espiritual direta.",
+          "Compreender uma explicação dá automaticamente ao leitor a faculdade perceptiva do investigador.",
+          "Um relato não tem valor até que todos os leitores tenham vivido a mesma experiência."
+        ],
+        "answer": 0,
+        "reason": "No prefácio de GA 10, Steiner distingue a faculdade necessária à pesquisa direta do julgamento usado para examinar os resultados comunicados."
+      }
+    ],
+    "connection": "A próxima parte passa da maneira como Steiner propõe buscar conhecimento para aquilo que ele descreve: o ser humano. A Lição 04 apresenta a distinção ampla entre corpo, alma e espírito.",
+    "deeperStudy": []
+  }
+}

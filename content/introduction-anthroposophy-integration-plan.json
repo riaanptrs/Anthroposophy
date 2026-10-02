@@ -1,0 +1,902 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "status": "All phases A–H complete: 28 bilingual lessons reviewed and tested locally.",
+  "currentUserScope": "Create and test the new 28-lesson course in the user’s controlled phases A–H; six-source planning precedes each authored batch.",
+  "requestFile": "Pasted text.txt",
+  "contractFile": "content/introduction-anthroposophy-lesson-contract.md",
+  "auditFile": "content/introduction-anthroposophy-source-notes.md",
+  "preservationEvidenceFile": "Private task audit: all existing content/docs/scripts/README hashes captured before work.",
+  "course": {
+    "route": "introduction-to-anthroposophy",
+    "titleEn": "Introduction to Anthroposophy",
+    "titlePt": "Introdução à antroposofia",
+    "lessonCount": 28,
+    "partCount": 7,
+    "lessonIds": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "partIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "indexEn": "docs/introduction-to-anthroposophy/index.html",
+    "indexPt": "docs/pt/introduction-to-anthroposophy/index.html",
+    "parts": [
+      {
+        "id": 1,
+        "slug": "orientation",
+        "titleEn": "Orientation",
+        "titlePt": "Orientação",
+        "lessonIds": [
+          "01",
+          "02",
+          "03"
+        ],
+        "landingEn": "docs/introduction-to-anthroposophy/parts/orientation.html",
+        "landingPt": "docs/pt/introduction-to-anthroposophy/parts/orientation.html",
+        "synthesis": {
+          "required": true,
+          "fields": [
+            "keyIdeas",
+            "relationships",
+            "optionalExplainItYourselfQuestion",
+            "optionalModelAnswer"
+          ],
+          "extraLessonRequired": false,
+          "modelInitiallyClosed": true
+        }
+      },
+      {
+        "id": 2,
+        "slug": "human-being",
+        "titleEn": "The Human Being",
+        "titlePt": "O ser humano",
+        "lessonIds": [
+          "04",
+          "05",
+          "06",
+          "07"
+        ],
+        "landingEn": "docs/introduction-to-anthroposophy/parts/human-being.html",
+        "landingPt": "docs/pt/introduction-to-anthroposophy/parts/human-being.html",
+        "synthesis": {
+          "required": true,
+          "fields": [
+            "keyIdeas",
+            "relationships",
+            "optionalExplainItYourselfQuestion",
+            "optionalModelAnswer"
+          ],
+          "extraLessonRequired": false,
+          "modelInitiallyClosed": true
+        }
+      },
+      {
+        "id": 3,
+        "slug": "human-destiny",
+        "titleEn": "Human Destiny",
+        "titlePt": "O destino humano",
+        "lessonIds": [
+          "08",
+          "09",
+          "10"
+        ],
+        "landingEn": "docs/introduction-to-anthroposophy/parts/human-destiny.html",
+        "landingPt": "docs/pt/introduction-to-anthroposophy/parts/human-destiny.html",
+        "synthesis": {
+          "required": true,
+          "fields": [
+            "keyIdeas",
+            "relationships",
+            "optionalExplainItYourselfQuestion",
+            "optionalModelAnswer"
+          ],
+          "extraLessonRequired": false,
+          "modelInitiallyClosed": true
+        }
+      },
+      {
+        "id": 4,
+        "slug": "three-worlds",
+        "titleEn": "The Three Worlds",
+        "titlePt": "Os três mundos",
+        "lessonIds": [
+          "11",
+          "12",
+          "13",
+          "14"
+        ],
+        "landingEn": "docs/introduction-to-anthroposophy/parts/three-worlds.html",
+        "landingPt": "docs/pt/introduction-to-anthroposophy/parts/three-worlds.html",
+        "synthesis": {
+          "required": true,
+          "fields": [
+            "keyIdeas",
+            "relationships",
+            "optionalExplainItYourselfQuestion",
+            "optionalModelAnswer"
+          ],
+          "extraLessonRequired": false,
+          "modelInitiallyClosed": true
+        }
+      },
+      {
+        "id": 5,
+        "slug": "knowledge-freedom",
+        "titleEn": "Knowledge and Freedom",
+        "titlePt": "Conhecimento e liberdade",
+        "lessonIds": [
+          "15",
+          "16",
+          "17",
+          "18"
+        ],
+        "landingEn": "docs/introduction-to-anthroposophy/parts/knowledge-freedom.html",
+        "landingPt": "docs/pt/introduction-to-anthroposophy/parts/knowledge-freedom.html",
+        "synthesis": {
+          "required": true,
+          "fields": [
+            "keyIdeas",
+            "relationships",
+            "optionalExplainItYourselfQuestion",
+            "optionalModelAnswer"
+          ],
+          "extraLessonRequired": false,
+          "modelInitiallyClosed": true
+        }
+      },
+      {
+        "id": 6,
+        "slug": "larger-worldview",
+        "titleEn": "The Larger Anthroposophical Worldview",
+        "titlePt": "A visão de mundo antroposófica mais ampla",
+        "lessonIds": [
+          "19",
+          "20",
+          "21",
+          "22"
+        ],
+        "landingEn": "docs/introduction-to-anthroposophy/parts/larger-worldview.html",
+        "landingPt": "docs/pt/introduction-to-anthroposophy/parts/larger-worldview.html",
+        "synthesis": {
+          "required": true,
+          "fields": [
+            "keyIdeas",
+            "relationships",
+            "optionalExplainItYourselfQuestion",
+            "optionalModelAnswer"
+          ],
+          "extraLessonRequired": false,
+          "modelInitiallyClosed": true
+        }
+      },
+      {
+        "id": 7,
+        "slug": "applications",
+        "titleEn": "Anthroposophy in Practice",
+        "titlePt": "A antroposofia na prática",
+        "lessonIds": [
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28"
+        ],
+        "landingEn": "docs/introduction-to-anthroposophy/parts/applications.html",
+        "landingPt": "docs/pt/introduction-to-anthroposophy/parts/applications.html",
+        "synthesis": {
+          "required": true,
+          "fields": [
+            "keyIdeas",
+            "relationships",
+            "optionalExplainItYourselfQuestion",
+            "optionalModelAnswer"
+          ],
+          "extraLessonRequired": false,
+          "modelInitiallyClosed": true
+        }
+      }
+    ],
+    "lessons": [
+      {
+        "id": "01",
+        "part": 1,
+        "titleEn": "What Is Anthroposophy?",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/01.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/01.html"
+      },
+      {
+        "id": "02",
+        "part": 1,
+        "titleEn": "Who Was Rudolf Steiner?",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/02.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/02.html"
+      },
+      {
+        "id": "03",
+        "part": 1,
+        "titleEn": "What Does Steiner Mean by Spiritual Science?",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/03.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/03.html"
+      },
+      {
+        "id": "04",
+        "part": 2,
+        "titleEn": "Body, Soul and Spirit",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/04.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/04.html"
+      },
+      {
+        "id": "05",
+        "part": 2,
+        "titleEn": "Physical Body, Etheric Body, Astral Body and I",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/05.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/05.html"
+      },
+      {
+        "id": "06",
+        "part": 2,
+        "titleEn": "Thinking, Feeling and Willing",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/06.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/06.html"
+      },
+      {
+        "id": "07",
+        "part": 2,
+        "titleEn": "Soul Development and Individuality",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/07.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/07.html"
+      },
+      {
+        "id": "08",
+        "part": 3,
+        "titleEn": "Reincarnation",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/08.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/08.html"
+      },
+      {
+        "id": "09",
+        "part": 3,
+        "titleEn": "Karma",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/09.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/09.html"
+      },
+      {
+        "id": "10",
+        "part": 3,
+        "titleEn": "Death and Life Beyond the Physical Body",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/10.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/10.html"
+      },
+      {
+        "id": "11",
+        "part": 4,
+        "titleEn": "The Physical World",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/11.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/11.html"
+      },
+      {
+        "id": "12",
+        "part": 4,
+        "titleEn": "The Soul World",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/12.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/12.html"
+      },
+      {
+        "id": "13",
+        "part": 4,
+        "titleEn": "The Spiritual World",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/13.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/13.html"
+      },
+      {
+        "id": "14",
+        "part": 4,
+        "titleEn": "How the Three Worlds Relate",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/14.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/14.html"
+      },
+      {
+        "id": "15",
+        "part": 5,
+        "titleEn": "Why Thinking Matters",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/15.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/15.html"
+      },
+      {
+        "id": "16",
+        "part": 5,
+        "titleEn": "Freedom and Moral Intuition",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/16.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/16.html"
+      },
+      {
+        "id": "17",
+        "part": 5,
+        "titleEn": "How Steiner Says Spiritual Knowledge Can Be Developed",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/17.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/17.html"
+      },
+      {
+        "id": "18",
+        "part": 5,
+        "titleEn": "Imagination, Inspiration and Intuition",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/18.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/18.html"
+      },
+      {
+        "id": "19",
+        "part": 6,
+        "titleEn": "Human and Cosmic Evolution",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/19.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/19.html"
+      },
+      {
+        "id": "20",
+        "part": 6,
+        "titleEn": "Spiritual Beings and Hierarchies",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/20.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/20.html"
+      },
+      {
+        "id": "21",
+        "part": 6,
+        "titleEn": "Lucifer and Ahriman",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/21.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/21.html"
+      },
+      {
+        "id": "22",
+        "part": 6,
+        "titleEn": "Anthroposophy and Christianity",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/22.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/22.html"
+      },
+      {
+        "id": "23",
+        "part": 7,
+        "titleEn": "Human Development and Education",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/23.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/23.html"
+      },
+      {
+        "id": "24",
+        "part": 7,
+        "titleEn": "Waldorf Education",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/24.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/24.html"
+      },
+      {
+        "id": "25",
+        "part": 7,
+        "titleEn": "Biodynamic Agriculture",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/25.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/25.html"
+      },
+      {
+        "id": "26",
+        "part": 7,
+        "titleEn": "Medicine, Art and Eurythmy",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/26.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/26.html"
+      },
+      {
+        "id": "27",
+        "part": 7,
+        "titleEn": "Social Threefolding and Cultural Life",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/27.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/27.html"
+      },
+      {
+        "id": "28",
+        "part": 7,
+        "titleEn": "How the Anthroposophical Worldview Fits Together",
+        "pathEn": "docs/introduction-to-anthroposophy/lessons/28.html",
+        "pathPt": "docs/pt/introduction-to-anthroposophy/lessons/28.html"
+      }
+    ],
+    "notReplacementForTheosophy": true,
+    "notReplacementForExistingLearn36": true,
+    "languageWorkflow": [
+      "draft source-based English",
+      "review English reasoning / terminology / provenance",
+      "draft Brazilian Portuguese using controlled terms",
+      "review conceptual equivalence and identical navigation/check structure"
+    ]
+  },
+  "proposedNewFiles": {
+    "metadata": "content/introduction-anthroposophy-course.json",
+    "sourceMap": "content/introduction-anthroposophy-source-map.json",
+    "terminology": "content/introduction-anthroposophy-terminology.json",
+    "dependencies": "content/introduction-anthroposophy-dependencies.json",
+    "lessonData": "content/introduction-anthroposophy-lesson-*.json",
+    "builder": "scripts/build-introduction-anthroposophy.mjs",
+    "validator": "scripts/check-introduction-anthroposophy.mjs",
+    "css": "docs/introduction-anthroposophy.css",
+    "js": "docs/introduction-anthroposophy.js"
+  },
+  "sourceContract": {
+    "authority": [
+      "PDF for wording, headings, edition, terminology and reliable pagination where available",
+      "Supplied GA26 EPUB XHTML/imprint and numbered Leading Thoughts for its authoritative wording and locators",
+      "Markdown for search/comparison; explicitly labelled working reading assignments for GA327 Lecture2 and the supplied GA23 preface where native PDFs are unavailable"
+    ],
+    "requiredAssignmentFields": [
+      "sourceId",
+      "role",
+      "voice",
+      "bookTitle",
+      "GA",
+      "author",
+      "verifiedEdition",
+      "exactSection",
+      "witnessFingerprint",
+      "locatorKind",
+      "readRange",
+      "readingInstruction",
+      "selectedExcerptOrNull",
+      "verification",
+      "scopeLimitIfMaterial"
+    ],
+    "normalSourceLimit": {
+      "primary": 1,
+      "secondary": 1
+    },
+    "locatorKinds": [
+      "printed-page",
+      "PDF-capture",
+      "PDF-page",
+      "Markdown-marker",
+      "EPUB-section"
+    ],
+    "printedAndPDFReferencesStoredSeparately": true,
+    "unreliablePrintedReference": null,
+    "noInventedQuotationsHeadingsPagesChronology": true,
+    "courseExplanationDistinctFromSource": true,
+    "autobiographyTreatedAsSelfAccount": true,
+    "secondaryOrEditorialVoiceNamed": true,
+    "portugueseQuotesLabelledCourseStudyTranslation": true,
+    "blockedOrUnselectedExcerptFallback": "Precise identified source assignment plus original explanation; never a paraphrase in quotation marks.",
+    "epubAuthority": "Explicitly supplied GA26 EPUB is the authoritative text witness, with numbered Leading Thoughts; no fixed print/PDF pagination."
+  },
+  "lessonContract": {
+    "oneCentralQuestion": true,
+    "mattersSentences": [
+      2,
+      4
+    ],
+    "reasoningParagraphs": [
+      2,
+      5
+    ],
+    "keyConceptDefinitions": 1,
+    "exampleLabel": "Course example",
+    "importantDistinction": 1,
+    "meaningfulUnscoredChecks": [
+      2,
+      4
+    ],
+    "preferredChecks": "two straightforward multiple-choice questions with reasons and retry",
+    "checksTest": "source comprehension, not belief or reported spiritual attainment",
+    "explanationsReadableWithoutJavaScript": true,
+    "requiredConnection": "conceptual reason next lesson follows",
+    "optionalDeeperStudy": "only useful limited links / closed note",
+    "compulsoryJournal": false,
+    "visiblePosition": [
+      "course title",
+      "Part X of VII",
+      "Lesson X of 28",
+      "current title"
+    ],
+    "navigation": [
+      "previous with title",
+      "course contents",
+      "next with number and title"
+    ]
+  },
+  "specialCases": {
+    "05": {
+      "primaryGA": 9,
+      "cards": [
+        "physical body",
+        "etheric body",
+        "astral body",
+        "I"
+      ],
+      "requiredFieldsPerCard": [
+        "meaning",
+        "conceptual problem",
+        "difference from previous member",
+        "simple course example",
+        "likely misconception"
+      ],
+      "compact": true,
+      "preserveThreefoldFourfoldDistinction": true
+    },
+    "14": {
+      "diagram": "three parallel labelled world domains plus separately labelled post-death relationship transition",
+      "domains": [
+        "physical",
+        "soul",
+        "spiritual"
+      ],
+      "literalStackedPhysicalPlaces": false,
+      "arrowsMeaningMustBeLabelled": true,
+      "accessibleTextEquivalent": true
+    },
+    "18": {
+      "primaryGA": 13,
+      "supportGA": 10,
+      "technicalTerms": [
+        "Imagination",
+        "Inspiration",
+        "Intuition"
+      ],
+      "distinguishOrdinaryMeanings": true,
+      "distinguishGA4ConceptualMoralIntuition": true
+    },
+    "23-27": {
+      "applicationOrientationOnly": true,
+      "doNotFabricateMissingPrimarySupport": true,
+      "sourceNeededNotes": true,
+      "noMedicalEfficacyOrTreatmentProtocol": true,
+      "noDetailedCurriculumOrPreparationRecipes": true
+    },
+    "28": {
+      "architectureRatherThanRecap": true,
+      "explainConceptDependencies": true,
+      "existingLocalPathways": [
+        "theosophy",
+        "philosophy-of-freedom",
+        "higher-worlds"
+      ],
+      "GA13Pathway": "identified book recommendation",
+      "GA13LocalCourseAvailable": false,
+      "noDeadOccultScienceCourseLink": true
+    }
+  },
+  "integration": {
+    "executeDuringPlanning": false,
+    "newCourseOutsideBookCatalogue": true,
+    "sharedHelpers": "scripts/learning-html.mjs escaping,relative links,shell and quiz helper",
+    "lateHook": {
+      "file": "scripts/build-learning-system.mjs",
+      "after": "buildTheosophy()",
+      "before": "shared site-navigation pass"
+    },
+    "activeNavigation": "learn",
+    "ownershipMarker": "data-introduction-owned",
+    "lessonRootMarker": "data-intro-study-id",
+    "progressMarker": "data-intro-progress",
+    "avoidOldControllerRoots": [
+      "data-learning-id",
+      "data-study-id"
+    ],
+    "scopedChangesOnly": [
+      "late builder hook",
+      "newroute Learn active detection",
+      "automaticconstitutionlinker ownership exclusion",
+      "check-site exact route / ownership branch",
+      "check-constitution scoped exception"
+    ],
+    "noNeedToWeakenOld36Or185Assertions": true,
+    "phaseIndexMustNotLinkToUnbuiltLessons": true,
+    "genericBookAugmentationMustNotTargetNewCourse": true
+  },
+  "optionalStorage": {
+    "prefix": "anthro-introduction-v1:",
+    "independentOf": [
+      "anthro-learning-v1:",
+      "anthro-study-v1:"
+    ],
+    "optInRequired": true,
+    "completionSharedBetweenLanguages": true,
+    "notesSeparateByLanguage": true,
+    "notesOptional": true,
+    "neverMigrateOrOverwriteExistingRecords": true,
+    "resumeValidation": [
+      "same origin",
+      "exact new route",
+      "lesson IDs 01–28",
+      "normalize current language",
+      "strip query / hash"
+    ],
+    "malformedOrBlockedStorageMustNotBlockReading": true
+  },
+  "preservation": {
+    "existingLearnLessons": "docs/(pt/)?learn/lessons/01–36.html",
+    "existingTheosophyLessons": "docs/(pt/)?lessons/00–27.html",
+    "existingTheosophyCourse": "docs/(pt/)?theosophy/",
+    "oldContentBanks": [
+      "content/learning-lessons-01-12.json",
+      "content/learning-lessons-13-24.json",
+      "content/learning-lessons-25-36.json",
+      "content/learning-system-sources.json",
+      "content/passage-study.json",
+      "content/learning-book-checks.json",
+      "content/theosophy-guided-*.json"
+    ],
+    "URLsNumberingNotebookKeysPreserved": true,
+    "baselineHashes": "site-evidence.json protectedFileSnapshot",
+    "fullUploadedBooksNeverPublished": true
+  },
+  "gaps": [
+    "Expansion: GA34 and a Waldorf-specific educational lecture series for curriculum, artistic teaching, rhythm and chronology.",
+    "Expansion: GA27 by Rudolf Steiner and Ita Wegman for medicine.",
+    "Expansion: GA279 for speech eurythmy; GA278 if musical eurythmy is included.",
+    "Expansion: complete GA23 main chapters and native PDF; supplied witness contains the 1920 preface only.",
+    "Verification: smaller/split native GA327 PDFs; full Markdown is supplied, while the smaller anthology PDF verifies selected lectures only."
+  ],
+  "phases": [
+    {
+      "id": "A",
+      "status": "reviewed-and-tested",
+      "lessonIds": [],
+      "deliverables": [
+        "six-source witness inventory",
+        "28-row concept-source map",
+        "controlled terminology dictionary",
+        "concept dependencies",
+        "course index/part plan",
+        "reusable lesson contract",
+        "scoped integration plan"
+      ],
+      "gate": [
+        "all witness identities and honest locator types recorded",
+        "support or gap identified for all 28 lessons",
+        "planning deliverables reviewed before implementation"
+      ],
+      "blockers": [],
+      "deliverablesCompleted": [
+        "six-source witness inventory, including verified GA26 EPUB",
+        "28-row concept-source map",
+        "controlled terminology dictionary",
+        "concept dependencies",
+        "course index/part design",
+        "reusable lesson contract",
+        "scoped integration design",
+        "course index renderer and generated bilingual pages",
+        "reusable lesson renderer"
+      ],
+      "deliverablesPending": []
+    },
+    {
+      "id": "B",
+      "status": "reviewed-and-tested",
+      "lessonIds": [
+        "01",
+        "02",
+        "03"
+      ],
+      "englishFirst": true,
+      "thenPortuguese": true,
+      "gate": [
+        "GA 26 supplied or identifiable primary edition obtained and verified before Lesson 01",
+        "GA 28 actual narrative extent checked for concise biography",
+        "orientation source method/provenance reviewed",
+        "pilot browser/keyboard/quiz/no-JavaScript/progress checks passed"
+      ],
+      "cannotCommitCompletedPilotUntil": [],
+      "requiredSourceResolved": "User-supplied GA26 EPUB + Markdown, verified section/Thought numbering.",
+      "validationEvidence": {
+        "static": "New source/navigation/lesson validator and full existing check suite passed.",
+        "browser": "24 paired-course pages,120 responsive/no-JS layouts,14 comprehension questions;827 assertions passed;zero browser errors or failed requests.",
+        "preservation": "155 protected existing-course files match their prior hashes; existing records and quiz controls passed browser regression checks."
+      }
+    },
+    {
+      "id": "C",
+      "status": "reviewed-and-tested",
+      "lessonIds": [
+        "04",
+        "05",
+        "06",
+        "07"
+      ],
+      "englishFirst": true,
+      "thenPortuguese": true,
+      "gate": [
+        "GA 9 terminology and threefold/fourfold/activity distinctions reviewed",
+        "Lesson 05 compact member cards complete",
+        "part flow and questions tested"
+      ],
+      "validationEvidence": {
+        "source": "GA9 captures13–31; refinedsection6cross-heading scope; ENreviewthenPTreview.",
+        "static": "32coursepages;30questioninstances;site835pagespasses.",
+        "browser": "550assertions,16newquestioninstances;layouts,05cards,01–07navigation,storageisolation;noerrors."
+      }
+    },
+    {
+      "id": "D",
+      "status": "reviewed-and-tested",
+      "lessonIds": [
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "englishFirst": true,
+      "thenPortuguese": true,
+      "gate": [
+        "reincarnation/karma/death sequence faithful to the source",
+        "karma distinguished from punishment and fatalism",
+        "Lesson 14 parallel world diagram and post-death transition faithful to the source",
+        "part flow and questions tested"
+      ],
+      "browserEvidence": "Private review artifact: intro-course-browser/phase-d-2026-10-02T12-22-30-365Z/results.json",
+      "browserAssertions": 998
+    },
+    {
+      "id": "E",
+      "status": "reviewed-and-tested",
+      "lessonIds": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "englishFirst": true,
+      "thenPortuguese": true,
+      "gate": [
+        "GA 4 perception/concept/thinking/freedom distinctions precise",
+        "GA 13 technical triad primary source verified",
+        "no claim GA 4 logically proves later spiritual teachings",
+        "part flow and questions tested"
+      ],
+      "browserEvidence": "Private review artifact: intro-course-browser/phase-e-2026-10-02T12-27-30-017Z/results.json",
+      "browserAssertions": 840
+    },
+    {
+      "id": "F",
+      "status": "reviewed-and-tested",
+      "lessonIds": [
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "englishFirst": true,
+      "thenPortuguese": true,
+      "gate": [
+        "cosmology and Christianity claims directly supported",
+        "introductory depth maintained",
+        "no invented chronology/hierarchy/polarity details",
+        "part flow and questions tested"
+      ],
+      "browserEvidence": "Private review artifact: intro-course-browser/phase-f-2026-10-02T12-29-50-162Z/results.json",
+      "browserAssertions": 778
+    },
+    {
+      "id": "G",
+      "status": "reviewed-and-tested",
+      "lessonIds": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "englishFirst": true,
+      "thenPortuguese": true,
+      "gate": [
+        "bounded application orientation source-supported",
+        "source-needed notes identify actual specialist gaps",
+        "primary/secondary voices explicit",
+        "no efficacy/treatment/curriculum/preparation protocol fabricated",
+        "part flow and questions tested"
+      ],
+      "browserEvidence": "Private review artifact: intro-course-browser/phase-g-2026-10-02T12-35-31-988Z/results.json",
+      "browserAssertions": 1034
+    },
+    {
+      "id": "H",
+      "status": "reviewed-and-tested",
+      "lessonIds": [
+        "28"
+      ],
+      "englishFirst": true,
+      "thenPortuguese": true,
+      "gate": [
+        "conceptarchitecture explains dependencies",
+        "Theosophy / Freedom / Higher Worlds links resolve",
+        "GA 13 offered as book recommendation because local course absent",
+        "all 28 lessons / seven parts satisfy contract",
+        "all existing and new validators pass",
+        "full browser/keyboard/no-JS/progress/language review passed",
+        "old 36 / Theosophy pages,data,storage preserved",
+        "no full source publication"
+      ],
+      "validationEvidence": {
+        "browser": "Private review artifact: intro-course-browser/phase-h-2026-10-02T12-42-28-748Z/results.json",
+        "assertions": 3866,
+        "finalDiagramRegression": "Private review artifact: intro-course-browser/phase-h-map-final-2026-10-02T12-50-06-284Z/results.json",
+        "finalDiagramAssertions": 636,
+        "static": "All 24 check-*.mjs validators passed; 74 new course pages, 132 bilingual question instances.",
+        "preservation": "155 protected existing-course files byte-identical; all 1137 pre-existing files retained with only 16 intended integration/planning changes.",
+        "contentReview": "Independent bilingual consistency review; Lesson03 transition corrected before full validation."
+      }
+    }
+  ],
+  "finalValidation": {
+    "structural": [
+      "exact 28 paired lesson paths",
+      "exact seven paired part landing pages",
+      "sourceprovenance and locator contract",
+      "2–4 meaningful checks with reasons",
+      "parallel language membership/navigation/answers",
+      "all active local links/anchors resolve"
+    ],
+    "browser": [
+      "all published EN/PT pages mobile and desktop",
+      "keyboard focus and quiz retry",
+      "Begin/Continue and language partner flows",
+      "no-JavaScript reading/answers/navigation",
+      "opt-in / blocked / malformed storage",
+      "old 36 / Theosophy records unchanged"
+    ],
+    "repository": [
+      "full existing check suite plus new scoped validator",
+      "full build repeatability",
+      "protected file hash comparison",
+      "no uploaded books / private capture data in public output"
+    ],
+    "validationNotYetPerformed": false,
+    "status": "passed",
+    "browserEvidence": "Private review artifact: intro-course-browser/phase-h-2026-10-02T12-42-28-748Z/results.json",
+    "browserAssertions": 3866,
+    "validatorCount": 24,
+    "coursePageCount": 74,
+    "bilingualQuestionInstances": 132,
+    "protectedFilesUnchanged": 155,
+    "buildRepeatable": true,
+    "publication": "Local files only; not committed, pushed or deployed in this turn.",
+    "finalDiagramBrowserEvidence": "Private review artifact: intro-course-browser/phase-h-map-final-2026-10-02T12-50-06-284Z/results.json",
+    "finalDiagramBrowserAssertions": 636,
+    "repeatedBuildFiles": 900
+  },
+  "sourceMapFile": "content/introduction-anthroposophy-source-map.json",
+  "dictionaryFile": "content/introduction-anthroposophy-terminology.json",
+  "dependencyFile": "content/introduction-anthroposophy-dependencies.json",
+  "preservationBaseline": {
+    "file": "Private review artifact: intro-pilot-before.json",
+    "scope": "1137 pre-existing files captured before implementation; 155 separately protected existing-course/data files unchanged.",
+    "secondaryAudit": "Private review artifact: intro-anthroposophy/site-evidence.json contains 155 specifically protected course files."
+  }
+}

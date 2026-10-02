@@ -1,0 +1,169 @@
+/* Theosophy-only reading layout; shared site/course styles remain unchanged. */
+.theosophy-study {
+  max-width: 940px;
+  padding-top: 12px;
+  color: #283e38;
+  overflow-wrap: anywhere;
+}
+.theosophy-study > article,
+.theosophy-study .theosophy-reading,
+.theosophy-study .theosophy-synthesis { max-width: 790px; margin-inline: auto; }
+.theosophy-study h1 { font-size: clamp(34px, 4.8vw, 52px); line-height: 1.15; letter-spacing: -.025em; }
+.theosophy-study h2 { font-size: clamp(25px, 3.5vw, 31px); line-height: 1.25; }
+.theosophy-study h3 { font-size: 23px; line-height: 1.35; }
+.theosophy-study p { line-height: 1.75; }
+.theosophy-study .lead { max-width: 760px; color: #40584e; }
+.theosophy-study .theosophy-start-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 18px; margin: 20px 0; }
+.theosophy-study .theosophy-start-actions a { display: inline-flex; align-items: center; min-height: 44px; max-width: 100%; margin: 0; }
+.theosophy-study .theosophy-begin { padding: 11px 17px; border: 1px solid #718869; border-radius: 4px 12px; background: #fffdf8; color: #2f503f; font-size: 16px; line-height: 1.4; text-decoration: none; }
+.theosophy-study .theosophy-begin:hover { background: #eaf0e3; }
+.theosophy-study .theosophy-small,
+.theosophy-study .theosophy-edition,
+.theosophy-study .theosophy-reading-source,
+.theosophy-study .source-locator { font-size: 14px; line-height: 1.6; color: #51645e; }
+.theosophy-study .learning-context { padding: 13px 18px; margin-bottom: 22px; background: #f0edf4; }
+.theosophy-study .learning-position { font-size: 14px; }
+.theosophy-study .learning-question { font-size: 22px; margin-bottom: 22px; max-width: 780px; }
+.theosophy-study .theosophy-header { padding-bottom: 12px; }
+.theosophy-study .theosophy-contents { margin: 15px 0 20px; }
+.theosophy-study .theosophy-contents > summary { width: fit-content; min-height: 44px; padding: 8px 0; }
+.theosophy-study .theosophy-contents nav { display: block; }
+.theosophy-study .theosophy-contents li { margin-block: 8px; }
+.theosophy-study .theosophy-contents a { display: inline-block; min-height: 36px; padding-block: 5px; }
+.theosophy-study .theosophy-before { margin: 20px 0 27px; }
+.theosophy-study .theosophy-source { padding: 23px 25px; border-left: 4px solid #9f6a4c; background: #fff9ed; }
+.theosophy-study .theosophy-source h2 { margin-bottom: 12px; }
+.theosophy-study .theosophy-source blockquote { margin: 18px 0; padding: 0; border: 0; font-size: 22px; line-height: 1.65; }
+.theosophy-study .theosophy-source blockquote p:last-child { margin: 0; }
+.theosophy-study .theosophy-source .passage-credit,
+.theosophy-study .theosophy-source .source-credit,
+.theosophy-study .theosophy-source .passage-context { font-size: 14px; line-height: 1.6; color: #536054; }
+.theosophy-study .theosophy-source cite { font-style: normal; font-weight: 700; }
+.theosophy-study .theosophy-explanation,
+.theosophy-study .theosophy-meaning,
+.theosophy-study .theosophy-matters { margin: 28px 0; }
+.theosophy-study .theosophy-explanation p,
+.theosophy-study .theosophy-meaning p { max-width: 760px; }
+.theosophy-study .learning-key,
+.theosophy-study .learning-example,
+.theosophy-study .learning-distinction { margin: 22px 0; padding: 18px 22px; }
+.theosophy-study .learning-key h2,
+.theosophy-study .learning-example h2,
+.theosophy-study .learning-distinction h2 { font: 700 14px/1.6 Arial, Helvetica, sans-serif; letter-spacing: .04em; }
+.theosophy-study .learning-key p,
+.theosophy-study .learning-example p,
+.theosophy-study .learning-distinction p { line-height: 1.65; }
+.theosophy-study .learning-checks { margin: 30px 0; }
+.theosophy-study .learning-checks > p { font-size: 15px; }
+.theosophy-study .learning-quiz { padding: 19px 21px; }
+.theosophy-study .learning-quiz legend { font-size: 16px; }
+.theosophy-study .learning-quiz label { min-height: 44px; font-size: 16px; }
+.theosophy-study .learning-quiz details p { color: #283e38; }
+.theosophy-study .theosophy-book-map,
+.theosophy-study .theosophy-concept-map { margin: 25px 0 35px; padding: 22px; border: 1px solid #cfd8cb; border-radius: 4px 18px; background: #eff3e9; }
+.theosophy-study ol.theosophy-book-map { display: grid; gap: 18px; list-style: none; }
+.theosophy-study .theosophy-book-map > li > span { display: block; margin-top: 6px; font-size: 16px; line-height: 1.65; }
+.theosophy-study .theosophy-book-map ol,
+.theosophy-study .theosophy-concept-map ol { list-style: none; padding: 0; margin: 0; display: grid; gap: 16px; }
+.theosophy-study .theosophy-book-map li,
+.theosophy-study .theosophy-concept-map li { padding-left: 14px; border-left: 3px solid #7a9273; }
+.theosophy-study .theosophy-book-map li + li::before { content: '↓'; display: block; margin: -4px 0 8px; color: #567049; font-size: 21px; }
+.theosophy-study .theosophy-book-map h3 { margin-bottom: 6px; font-size: 23px; }
+.theosophy-study .theosophy-book-map p:last-child,
+.theosophy-study .theosophy-concept-map p:last-child { margin-bottom: 0; font-size: 16px; }
+.theosophy-study .theosophy-chain { display: flex; flex-wrap: wrap; align-items: center; gap: 9px 16px; list-style: none; padding: 0; margin: 20px 0; }
+.theosophy-study .theosophy-chain li { max-width: 100%; padding: 9px 13px; background: #eff3e9; border: 1px solid #cfd8cb; border-radius: 4px; font-size: 16px; }
+.theosophy-study .theosophy-chain li + li::before { content: '→'; margin-right: 9px; color: #35594a; }
+.theosophy-study .theosophy-relations { display: grid; gap: 10px; list-style: none; padding: 0; margin: 20px 0; }
+.theosophy-study .theosophy-relations li { padding: 12px 16px; border-left: 3px solid #7a9273; background: #eff3e9; font-size: 16px; }
+.theosophy-study .theosophy-chapter { margin: 34px 0; padding: 28px 0; border-top: 1px solid #ccd6c8; }
+.theosophy-study .theosophy-source-sections { font-size: 15px; }
+.theosophy-study .theosophy-source-sections li { margin-block: 8px; }
+.theosophy-study .theosophy-original-sections,
+.theosophy-study .theosophy-source-notes { margin: 20px 0; padding: 12px 0; font-size: 15px; }
+.theosophy-study .theosophy-original-sections > summary,
+.theosophy-study .theosophy-source-notes > summary,
+.theosophy-study .theosophy-deeper-task > details > summary { min-height: 44px; padding-block: 10px; line-height: 1.5; }
+.theosophy-study .theosophy-original-sections ul { padding-left: 23px; }
+.theosophy-study .theosophy-original-sections li { margin: 12px 0; line-height: 1.65; }
+.theosophy-study .theosophy-original-sections small { font-size: 13px; color: #51645e; }
+.theosophy-study .theosophy-source-notes p,
+.theosophy-study .theosophy-original-sections p,
+.theosophy-study .theosophy-deeper-task details p { color: #283e38; }
+.theosophy-study .chapter-readings { list-style: none; padding: 0; }
+.theosophy-study .chapter-readings > li,
+.theosophy-study .theosophy-reading-card { margin: 14px 0; padding: 18px 20px; border: 1px solid #d4dbcd; border-left: 3px solid #849778; border-radius: 4px 13px; background: #fffdf8; }
+.theosophy-study .chapter-readings h3,
+.theosophy-study .theosophy-reading-card h3 { font-size: 23px; margin-bottom: 8px; }
+.theosophy-study .chapter-readings p,
+.theosophy-study .theosophy-reading-card p { margin-bottom: 8px; font-size: 16px; }
+.theosophy-study [data-theosophy-progress-label] { display: inline-block; margin: 5px 0; font-size: 13px; font-weight: 700; color: #4b6253; }
+.theosophy-study [data-theosophy-progress].is-studied { border-left-color: #476c43; }
+.theosophy-study [data-theosophy-progress].is-current { border-left-color: #7c5c91; }
+.theosophy-study [data-theosophy-progress-summary] { margin: 12px 0; font-size: 14px; color: #51645e; }
+.theosophy-study .theosophy-progress,
+.theosophy-study .theosophy-progress-controls { margin: 24px 0; padding: 15px 0; border-top: 1px solid #d9ddd1; font-size: 14px; }
+.theosophy-study .theosophy-progress label,
+.theosophy-study .theosophy-progress-controls label,
+.theosophy-study label:has([data-theosophy-save]) { display: flex; gap: 9px; align-items: flex-start; max-width: 700px; margin-block: 12px; min-height: 44px; }
+.theosophy-study [data-theosophy-save] { flex: none; margin-top: 6px; }
+.theosophy-study [data-theosophy-status] { margin: 10px 0 0; min-height: 1.6em; font-size: 14px; color: #51645e; }
+.theosophy-study button[data-theosophy-complete],
+.theosophy-study button[data-theosophy-export] { min-height: 44px; padding: 9px 15px; border: 1px solid #718869; border-radius: 4px 12px; background: #fffdf8; color: #2f503f; font: inherit; font-size: 15px; line-height: 1.5; cursor: pointer; }
+.theosophy-study button[data-theosophy-complete]:hover,
+.theosophy-study button[data-theosophy-export]:hover { background: #eaf0e3; }
+.theosophy-study button:disabled { opacity: .65; cursor: default; }
+.theosophy-study input:focus-visible,
+.theosophy-study a:focus-visible,
+.theosophy-study button:focus-visible,
+.theosophy-study textarea:focus-visible,
+.theosophy-study summary:focus-visible { outline: 3px solid #95472f; outline-offset: 4px; }
+.theosophy-study .theosophy-optional,
+.theosophy-study .theosophy-note { margin: 24px 0; padding: 16px 20px; border: 1px solid #d4cbdc; border-radius: 4px 14px; background: #f5f1f6; }
+.theosophy-study .theosophy-optional > summary,
+.theosophy-study .theosophy-note > summary { min-height: 44px; padding-block: 8px; }
+.theosophy-study .theosophy-optional p,
+.theosophy-study .theosophy-note p { color: #283e38; }
+.theosophy-study .theosophy-note label { display: block; margin: 16px 0 8px; font-size: 15px; }
+.theosophy-study [data-theosophy-note] { display: block; width: 100%; max-width: 100%; min-height: 100px; padding: 12px; resize: vertical; border: 1px solid #9eac98; border-radius: 4px; background: #fffefa; color: #283e38; font: inherit; font-size: 16px; line-height: 1.65; margin-bottom: 14px; }
+.theosophy-study .theosophy-saved-text { white-space: pre-wrap; }
+.theosophy-study .theosophy-synthesis { margin-block: 30px; }
+.theosophy-study .theosophy-synthesis ul { padding-left: 23px; }
+.theosophy-study .theosophy-model-response { margin-top: 16px; }
+.theosophy-study .theosophy-model-response p { color: #283e38; }
+.theosophy-study .lesson-navigation,
+.theosophy-study .theosophy-navigation { display: flex; flex-wrap: wrap; gap: 12px 22px; align-items: flex-start; margin-top: 30px; padding: 22px 0 32px; border-top: 1px solid #d9ddd1; }
+.theosophy-study .lesson-navigation a,
+.theosophy-study .theosophy-navigation a { flex: 1 1 180px; max-width: 100%; min-height: 44px; padding-block: 8px; font-size: 15px; line-height: 1.55; }
+.theosophy-study [hidden] { display: none !important; }
+@media (max-width: 640px) {
+  .theosophy-study { width: calc(100% - 32px); }
+  .theosophy-study h1 { font-size: 35px; }
+  .theosophy-study .learning-context,
+  .theosophy-study .theosophy-source,
+  .theosophy-study .learning-key,
+  .theosophy-study .learning-example,
+  .theosophy-study .learning-distinction,
+  .theosophy-study .learning-quiz,
+  .theosophy-study .theosophy-book-map,
+  .theosophy-study .theosophy-concept-map,
+  .theosophy-study .theosophy-optional,
+  .theosophy-study .theosophy-note { padding: 16px; }
+  .theosophy-study .theosophy-source blockquote { font-size: 21px; }
+  .theosophy-study .theosophy-chain { display: grid; gap: 10px; }
+  .theosophy-study .theosophy-chain li + li::before { content: '↓'; }
+  .theosophy-study .chapter-readings > li,
+  .theosophy-study .theosophy-reading-card { padding: 16px; }
+  .theosophy-study .lesson-navigation,
+  .theosophy-study .theosophy-navigation { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; }
+}
+@media print {
+  .theosophy-study .theosophy-progress-controls,
+  .theosophy-study .theosophy-progress,
+  .theosophy-study .theosophy-note,
+  .theosophy-study .quiz-actions { display: none; }
+  .theosophy-study .theosophy-source,
+  .theosophy-study .learning-key,
+  .theosophy-study .learning-example,
+  .theosophy-study .learning-distinction { background: white; }
+}

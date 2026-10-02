@@ -1,0 +1,32 @@
+.thought-course { max-width: 48rem; }
+.thought-course section, .thought-course aside { margin-block: 1.5rem; }
+.thought-course p, .thought-course li { overflow-wrap: anywhere; }
+.thought-source { padding: 1.25rem; background: #f5f1e9; border-inline-start: 4px solid #647774; border-radius: .4rem; }
+.thought-source blockquote { margin: 1rem 0; padding-inline-start: 1rem; border-inline-start: 2px solid #b4a27d; font-size: 1.1rem; }
+.thought-credit { font-size: .88rem; }
+.thought-exercise { padding: 1rem; background: #eef3ef; border-inline-start: 3px solid #758a77; }
+.thought-application { padding: 1rem; background: #f4eef5; }
+.thought-practice { padding: 1rem; border: 1px solid #b6ada0; border-radius: .4rem; }
+.thought-part { padding-block: 1rem; border-block-start: 1px solid #cdc4b5; }
+.thought-part ol { padding-inline-start: 1.7rem; }
+.thought-part li { margin-block: 1rem; }
+.thought-part li p { margin-block: .3rem; }
+.thought-development ol { display: flex; flex-wrap: wrap; gap: .5rem 1.4rem; padding-inline-start: 1.4rem; }
+.thought-development li { max-width: 13rem; }
+.thought-tools { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%,18rem),1fr)); gap: 1rem; }
+.thought-tools article { padding: 1rem; border: 1px solid #d1c8b9; border-radius: .4rem; }
+.thought-further, .thought-notes { margin-block: 1.5rem; padding: 1rem; border: 1px solid #c7bdae; border-radius: .4rem; }
+.thought-course summary { cursor: pointer; padding-block: .4rem; font-weight: 600; }
+.thought-notes label { display: block; margin-block: .8rem .3rem; }
+.thought-course textarea { width: 100%; max-width: 100%; min-height: 2.7rem; font: inherit; border: 1px solid #958879; border-radius: .3rem; padding: .6rem; }
+.thought-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .7rem; margin-block: .8rem; }
+.thought-course button { min-height: 2.75rem; padding: .6rem .9rem; font: inherit; }
+.thought-course button:not(:disabled) { cursor: pointer; }
+.thought-course .lesson-navigation { flex-wrap: wrap; gap: 1rem; }
+.thought-save { display: block; margin-block: .8rem; }
+.thought-save input { margin-inline-end: .4rem; }
+.thought-next-title { padding-block: .7rem; }
+.thought-anchor-aliases { height: 0; overflow: hidden; }
+.thought-course [hidden] { display: none !important; }
+.thought-course :focus-visible { outline: 3px solid #6d527e; outline-offset: 3px; }
+@media(max-width: 480px) { .thought-source, .thought-exercise, .thought-application, .thought-practice, .thought-further, .thought-notes { padding: .85rem; } .thought-actions { align-items: stretch; } }

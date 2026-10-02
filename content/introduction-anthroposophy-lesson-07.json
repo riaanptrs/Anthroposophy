@@ -1,0 +1,187 @@
+{
+  "id": 7,
+  "part": 2,
+  "titleEn": "Soul Development and Individuality",
+  "titlePt": "Desenvolvimento anímico e individualidade",
+  "dependencies": [
+    5,
+    6
+  ],
+  "termsIntroduced": [
+    "sentient-soul",
+    "intellectual-soul",
+    "consciousness-soul",
+    "individuality"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 1. The Constitution Of The Human Being — 4. BODY, SOUL, AND SPIRIT",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          22,
+          26
+        ],
+        "markdownMarkers": null,
+        "anchor": "Sentient life and thought serving needs: 22 left/middle; intellectual-soul definition: 22 right. Truth/goodness: 23 all columns. Consciousness-soul versus ordinary consciousness: 24 left/upper middle. I: 25 middle/right and 26 left/middle; stop before 26 right’s spirit-self exposition.",
+        "authorParagraphs": null,
+        "focusCaptures": [
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "readingInstruction": "Read thought serving needs in 22, truth and goodness in 23, and consciousness-soul in 24 left/upper middle. Then follow the I in 25 middle/right and 26 left/middle. Stop before 26 right’s spiritual-member exposition.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation.",
+      "readingEn": "Read thought serving needs in 22, truth and goodness in 23, and consciousness-soul in 24 left/upper middle. Then follow the I in 25 middle/right and 26 left/middle. Stop before 26 right’s spiritual-member exposition.",
+      "sourceScopeLimit": "Ends before the spirit-self exposition in capture 26’s right column; soul capacities are not rankings of people.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read complete Chapter I opening and sections 1–4 in the supplied Markdown; visually checked every native PDF capture 13–31 in three-column reading order. Refined the assigned conceptual centre and section boundaries without selecting an excerpt.",
+        "reviewer": "intro_site_audit"
+      },
+      "readingPt": "Leia o pensar a serviço das necessidades em 22, a verdade e a bondade em 23 e a alma da consciência nas colunas esquerda e central superior de 24. Depois acompanhe o Eu na central e direita de 25 e na esquerda e central de 26. Pare antes da exposição dos membros espirituais na direita de 26."
+    },
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 1. The Constitution Of The Human Being — 4. BODY, SOUL, AND SPIRIT",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          30,
+          31
+        ],
+        "markdownMarkers": null,
+        "anchor": "The I permeating soul life and its work of transformation: 30 middle/right. Parallel relationships in 31 are context; do not teach the complete transformed-member triad here.",
+        "authorParagraphs": null,
+        "focusCaptures": [
+          30,
+          31
+        ]
+      },
+      "readingInstruction": "Focus on the I’s relation to soul life and transformation in 30 middle/right. Capture 31 gives related context. Ordinary reflection illustrates development; it is not evidence of completing the technical spiritual transformations described here.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation.",
+      "readingEn": "Focus on the I’s relation to soul life and transformation in 30 middle/right. Capture 31 gives related context. Ordinary reflection illustrates development; it is not evidence of completing the technical spiritual transformations described here.",
+      "sourceScopeLimit": "Transformation relationships are bounded context. This lesson does not teach the spiritual triad or derive reincarnation from everyday reflection.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          30,
+          31
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read complete Chapter I opening and sections 1–4 in the supplied Markdown; visually checked every native PDF capture 13–31 in three-column reading order. Refined the assigned conceptual centre and section boundaries without selecting an excerpt.",
+        "reviewer": "intro_site_audit"
+      },
+      "readingPt": "Concentre-se na relação do Eu com a vida anímica e a transformação nas colunas central e direita de 30. A captura 31 oferece contexto relacionado. A reflexão comum ilustra o desenvolvimento; não é evidência de completar as transformações espirituais técnicas descritas aqui."
+    }
+  ],
+  "sourceGaps": [],
+  "en": {
+    "question": "What changes when a person examines impulses and asks what is true or right?",
+    "matters": "Steiner distinguishes capacities within soul life to explain development. These distinctions prepare his account of a developing individuality.",
+    "explanation": [
+      "The sentient soul includes inward sensations, desires and impulses. When thinking works with this life, organizing experience and finding ways to meet needs, Steiner speaks of the intellectual soul.",
+      "Thinking can also ask whether something is true or good even when the answer displeases us. Consciousness soul names this orientation beyond personal preference; it does not mean every ordinary conscious experience.",
+      "The I gathers these connected capacities and can work upon them. Development concerns their changing relationship within one person. Here individuality means this developing inward centre; the next part examines Steiner’s further claim about its continuity."
+    ],
+    "keyConcept": {
+      "term": "Soul development",
+      "definition": "The I’s developing work with impulses and thought, including orientation toward truth and goodness beyond preference."
+    },
+    "example": {
+      "text": "You feel irritated, reconsider what happened and discover your accusation was mistaken. Correcting it despite reluctance distinguishes the feeling, reflection and a standard beyond your preference."
+    },
+    "distinction": "Intellectual soul is not an IQ category. Consciousness soul is not all awareness, and development does not eliminate sentient life.",
+    "checks": [
+      {
+        "question": "Does correcting an unwelcome mistake make the earlier feeling unreal?",
+        "options": [
+          "Yes; true judgments erase feelings.",
+          "No; feeling and the truth of a judgment are distinguishable."
+        ],
+        "answer": 1,
+        "reason": "A real personal response does not settle whether the accusation was correct."
+      },
+      {
+        "question": "What distinguishes consciousness soul in this account?",
+        "options": [
+          "Having any sensation.",
+          "Possessing a higher IQ.",
+          "Seeking truth and goodness beyond personal liking."
+        ],
+        "answer": 2,
+        "reason": "The term names a particular orientation, not consciousness in general."
+      }
+    ],
+    "connection": "Lesson 08 asks why Steiner relates a developing individuality to reincarnation; this learning sequence does not itself prove that claim.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "O que muda quando uma pessoa examina seus impulsos e pergunta o que é verdadeiro ou correto?",
+    "matters": "Steiner distingue capacidades dentro da vida anímica para explicar o desenvolvimento. Essas distinções preparam sua descrição de uma individualidade em desenvolvimento.",
+    "explanation": [
+      "A alma sensitiva inclui sensações interiores, desejos e impulsos. Quando o pensar trabalha com essa vida, organizando experiências e encontrando maneiras de atender às necessidades, Steiner fala da alma intelectual.",
+      "O pensar também pode perguntar se algo é verdadeiro ou bom, mesmo quando a resposta nos desagrada. Alma da consciência nomeia essa orientação para além das preferências pessoais; não significa toda experiência consciente comum.",
+      "O Eu reúne essas capacidades conectadas e pode trabalhar sobre elas. O desenvolvimento diz respeito à mudança de suas relações dentro de uma pessoa. Aqui, individualidade significa esse centro interior em desenvolvimento; a próxima parte examina a afirmação adicional de Steiner sobre sua continuidade."
+    ],
+    "keyConcept": {
+      "term": "Desenvolvimento anímico",
+      "definition": "O trabalho de desenvolvimento do Eu com os impulsos e o pensar, incluindo a orientação para a verdade e a bondade além das preferências."
+    },
+    "example": {
+      "text": "Você sente irritação, reconsidera o que aconteceu e descobre que sua acusação estava equivocada. Corrigi-la apesar da relutância distingue o sentimento, a reflexão e um critério além de sua preferência."
+    },
+    "distinction": "Alma intelectual não é uma categoria de QI. Alma da consciência não é toda consciência, e o desenvolvimento não elimina a vida sensitiva.",
+    "checks": [
+      {
+        "question": "Corrigir um erro desagradável torna irreal o sentimento anterior?",
+        "options": [
+          "Sim; julgamentos verdadeiros apagam sentimentos.",
+          "Não; o sentimento e a verdade de um julgamento são distinguíveis."
+        ],
+        "answer": 1,
+        "reason": "Uma resposta pessoal real não determina se a acusação estava correta."
+      },
+      {
+        "question": "O que distingue a alma da consciência nesta descrição?",
+        "options": [
+          "Ter qualquer sensação.",
+          "Possuir um QI mais alto.",
+          "Buscar a verdade e a bondade além das preferências pessoais."
+        ],
+        "answer": 2,
+        "reason": "O termo nomeia uma orientação específica, não a consciência em geral."
+      }
+    ],
+    "connection": "A Lição 08 pergunta por que Steiner relaciona uma individualidade em desenvolvimento à reencarnação; essa sequência de estudo não comprova, por si só, a afirmação.",
+    "deeperStudy": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": 13,
+  "part": 4,
+  "titleEn": "The Spiritual World",
+  "titlePt": "O mundo espiritual",
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "CHAPTER 3. THE THREE WORLDS — 3. THE SPIRIT LAND",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          57,
+          61
+        ],
+        "markdownMarkers": null,
+        "anchor": "Thought-shadow analogy, creative archetypes, spiritual hearing and interpenetrating regions; stop before subsection 4. Focus captures: 58, 59.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read creative archetypes and the painter analogy in 58, then spiritual hearing and interpenetrating regions in 59. The section continues to 61; stop before section 4.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation. No new excerpt reproduction.",
+      "readingEn": "Read creative archetypes and the painter analogy in 58, then spiritual hearing and interpenetrating regions in 59. The section continues to 61; stop before section 4.",
+      "sourceScopeLimit": "The conceptual centre defines living formative realities; the detailed region and spiritual-music accounts are not required.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          58,
+          59
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read the relevant source ranges in the matching Markdown and visually checked the listed native PDF captures in column reading order. Exact source assignments and original explanation are used for ranges whose quotation reproduction was previously blocked.",
+        "reviewer": "intro_ga28_biography"
+      },
+      "readingPt": "Leia os arquétipos criadores e a analogia do pintor em 58, depois a audição espiritual e as regiões que se interpenetram em 59. A seção continua até 61; pare antes da seção 4."
+    }
+  ],
+  "sourceGaps": [],
+  "dependencies": [
+    7,
+    10,
+    12
+  ],
+  "termsIntroduced": [
+    "spiritual-world",
+    "archetype"
+  ],
+  "en": {
+    "question": "How does Steiner distinguish formative spiritual reality from desire and feeling?",
+    "matters": "The spiritual world gives the three-world account another kind of relationship. Its creative archetypes are meant to explain formative meaning, rather than attraction and aversion alone.",
+    "explanation": [
+      "Steiner describes Spirit-land as a world of living, creative archetypes. These are formative realities of physical and soul existence, rather than ordinary remembered pictures. He presents thoughts grasped during earthly life as reflections of that reality, not as its complete content.",
+      "An archetype in this account is active and capable of many expressions. Archetypes can work together in bringing forms into being. They are therefore not fixed moulds stored somewhere, nor merely abstract similarities noticed by comparing existing objects. The source claims a creative reality beyond those comparisons.",
+      "The painter analogy helps introduce this distinction. A conceived form can be related to its visible realization, although Steiner acknowledges that a painter may develop the form while painting. The comparison explains the proposed relationship; it does not prove the independent existence of spiritual archetypes.",
+      "His language of spiritual hearing concerns another mode of knowing relationships, not sounds heard through bodily ears. Likewise, Spirit-land’s regions are described as interpenetrating rather than stacked layers. The introductory point is their formative activity and relationship to embodied life, without requiring a catalogue of regions."
+    ],
+    "keyConcept": {
+      "term": "Archetype",
+      "definition": "A living, creative formative reality described by Steiner as an origin of manifestations in physical and soul existence."
+    },
+    "example": {
+      "text": "Course adaptation of the painter analogy: a composition takes visible shape as the artist works. Conceived form and painted realization are distinguishable; the plan need not be complete beforehand. This illustrates formative meaning, not evidence of Spirit-land."
+    },
+    "distinction": "An archetype is not a private remembered picture or a static mould. The source describes an active spiritual reality, distinguished from the soul world’s affinity.",
+    "checks": [
+      {
+        "question": "What characterizes an archetype in this account?",
+        "options": [
+          "A personal memory stored unchanged.",
+          "A fixed physical mould.",
+          "Living creative activity with different possible expressions."
+        ],
+        "answer": 2,
+        "reason": "Steiner describes archetypes as formative and mobile, able to cooperate in creating forms."
+      },
+      {
+        "question": "Which distinction separates the soul and spiritual worlds here?",
+        "options": [
+          "Desire-affinity and creative formative meaning.",
+          "Two places at different physical heights.",
+          "Two types of bodily sound."
+        ],
+        "answer": 0,
+        "reason": "The distinction concerns kinds of relationship and reality, not physical geography or ordinary hearing."
+      }
+    ],
+    "connection": "Lesson 14 brings sensory encounter, soul response and spiritual participation into one relationship map.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Como Steiner distingue a realidade espiritual formativa do desejo e do sentimento?",
+    "matters": "O mundo espiritual oferece outro tipo de relação à descrição dos três mundos. Seus arquétipos criadores pretendem explicar o significado formativo, em vez de apenas a atração e a aversão.",
+    "explanation": [
+      "Steiner descreve o mundo espiritual como um mundo de arquétipos vivos e criadores. São realidades formativas da existência física e anímica, em vez de imagens lembradas comuns. Ele apresenta os pensamentos compreendidos durante a vida terrena como reflexos dessa realidade, não como seu conteúdo completo.",
+      "Um arquétipo nessa concepção é ativo e capaz de muitas expressões. Arquétipos podem trabalhar juntos para dar origem a formas. Portanto, não são moldes fixos armazenados em algum lugar, nem apenas semelhanças abstratas percebidas ao comparar objetos existentes. A fonte afirma uma realidade criadora além dessas comparações.",
+      "A analogia do pintor ajuda a apresentar essa distinção. Uma forma concebida pode ser relacionada à sua realização visível, embora Steiner reconheça que um pintor pode desenvolver a forma enquanto pinta. A comparação explica a relação proposta; não comprova a existência independente de arquétipos espirituais.",
+      "Sua linguagem da audição espiritual diz respeito a outro modo de conhecer relações, não a sons ouvidos pelos ouvidos corporais. Do mesmo modo, as regiões do mundo espiritual são descritas como se interpenetrando, em vez de camadas empilhadas. O ponto introdutório é sua atividade formativa e sua relação com a vida encarnada, sem exigir um catálogo de regiões."
+    ],
+    "keyConcept": {
+      "term": "Arquétipo",
+      "definition": "Uma realidade formativa viva e criadora, descrita por Steiner como origem de manifestações na existência física e anímica."
+    },
+    "example": {
+      "text": "Adaptação da analogia do pintor: uma composição ganha forma visível enquanto o artista trabalha. A forma concebida e a realização pintada são distinguíveis; o plano não precisa estar completo antes. Isso ilustra o significado formativo, não constitui evidência do mundo espiritual."
+    },
+    "distinction": "Um arquétipo não é uma imagem privada lembrada nem um molde estático. A fonte descreve uma realidade espiritual ativa, distinta da afinidade do mundo anímico.",
+    "checks": [
+      {
+        "question": "O que caracteriza um arquétipo nesta concepção?",
+        "options": [
+          "Uma memória pessoal armazenada sem mudança.",
+          "Um molde físico fixo.",
+          "Atividade criadora viva com diferentes expressões possíveis."
+        ],
+        "answer": 2,
+        "reason": "Steiner descreve arquétipos como formativos e móveis, capazes de cooperar na criação de formas."
+      },
+      {
+        "question": "Qual distinção separa os mundos anímico e espiritual aqui?",
+        "options": [
+          "Desejo e afinidade, de um lado; significado formativo criador, de outro.",
+          "Dois lugares em alturas físicas diferentes.",
+          "Dois tipos de som corporal."
+        ],
+        "answer": 0,
+        "reason": "A distinção diz respeito a tipos de relação e realidade, não à geografia física nem à audição comum."
+      }
+    ],
+    "connection": "A Lição 14 reúne o encontro sensorial, a resposta anímica e a participação espiritual em um mapa de relações.",
+    "deeperStudy": []
+  }
+}

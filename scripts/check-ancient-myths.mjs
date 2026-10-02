@@ -16,7 +16,13 @@ for(const base of ['docs','docs/pt']){
   for(const k of ['example','explanation','key','activity','question'])assert.ok(l[lang][k].length>30);
  }
  for(const [target,id] of [['lessons/08.html','01'],['higher-worlds/lessons/04.html','03'],['philosophy-of-freedom/lessons/20.html','04'],['encountering-the-self/lessons/12.html','07']]){
-  const h=fs.readFileSync(base+'/'+target,'utf8');assert.equal((h.match(/<!-- myths-connection:start -->/g)||[]).length,1);assert.ok(h.includes(`ancient-myths/lessons/${id}.html`));
+  const h=fs.readFileSync(base+'/'+target,'utf8');
+  if(target==='lessons/08.html'&&h.includes('data-theosophy-owned="true"')){
+   const source=mythsLessons.find(lesson=>lesson.id===Number(id));
+   assert.ok(source?.url&&source?.span,'Retained mythology comparison source missing');
+   continue;
+  }
+  assert.equal((h.match(/<!-- myths-connection:start -->/g)||[]).length,1);assert.ok(h.includes(`ancient-myths/lessons/${id}.html`));
  }
 }
 console.log('Passed: all seven lectures in eight bilingual lessons, preserved study tools, reading assignments, language partners and four paired course connections.');

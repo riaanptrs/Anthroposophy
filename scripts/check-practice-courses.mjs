@@ -1,9 +1,10 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
-import {thinkingLessons} from '../content/practical-thinking.mjs';
+import {validatePracticalThinking} from './check-practical-thinking.mjs';
 import {temperamentCourse} from '../content/temperament-course.mjs';
-const routes=[['practical-thinking',thinkingLessons,10],['understanding-temperaments',temperamentCourse,12]];
+const routes=[['understanding-temperaments',temperamentCourse,12]];
+validatePracticalThinking();
 const catalogue=JSON.parse(fs.readFileSync('content/learning-system-catalogue.json','utf8'));
 const sourceCompanions=['temperaments','understand-temperament','mystery-temperaments'];
 assert.equal(catalogue.courses.filter(c=>sourceCompanions.includes(c.route)).length,3,'Three retained source companions');
@@ -41,4 +42,4 @@ for(const prefix of ['docs','docs/pt']){
  assert.equal((map.match(/<th scope="row">/g)||[]).length,4);
  for(const id of ['04','05','16','20'])assert.match(fs.readFileSync(prefix+'/philosophy-of-freedom/lessons/'+id+'.html','utf8'),/href="\.\.\/\.\.\/(practical-thinking|understanding-temperaments)\/lessons\//);
 }
-console.log('Passed: 22 bilingual practice lessons, distinct source library, six notebook fields, sequential routes, source links, table and Philosophy of Freedom bridges.');
+console.log('Passed: 12 source-first Practical Thinking core lessons plus its retained optional forecast, 12 bilingual temperament practice lessons, distinct source library, preserved temperament notebooks, source links, table and Philosophy of Freedom bridges.');

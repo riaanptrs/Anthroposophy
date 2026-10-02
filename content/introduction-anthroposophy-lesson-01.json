@@ -1,0 +1,136 @@
+{
+  "id": 1,
+  "part": 1,
+  "titleEn": "What Is Anthroposophy?",
+  "titlePt": "O que é antroposofia?",
+  "dependencies": [],
+  "termsIntroduced": [
+    "anthroposophy",
+    "path-of-knowledge"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga26",
+      "ga": 26,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Anthroposophical Leading Thoughts",
+      "locator": {
+        "kind": "EPUB-section",
+        "printedPages": null,
+        "pdfPages": null,
+        "markdownMarkers": null,
+        "leadingThoughts": [
+          1,
+          3
+        ],
+        "epubDocument": "GA026_a01.html",
+        "epubHeadingFragment": "calibre_pb_0",
+        "individualThoughtFragment": null,
+        "markdownChapter": "chapter-6",
+        "anchor": "Find the numbered paragraphs; Thought1 follows the unnumbered introductory remarks.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read Thought1, then Thoughts2–3 for the proposed relation between sensory limits and spiritual knowledge.",
+      "selectedExcerpt": "Anthroposophy is a path of knowledge, to guide the Spiritual in the human being to the Spiritual in the universe.",
+      "excerptStatus": "Source centre verified in the supplied EPUB; exact Thought-number citations, no original print-page claim.",
+      "excerptEn": "Anthroposophy is a path of knowledge, to guide the Spiritual in the human being to the Spiritual in the universe.",
+      "excerptPt": "A antroposofia é um caminho de conhecimento que conduz o espiritual no ser humano ao espiritual no universo.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "ga26",
+        "epubSha256": "0af128f430e7d4ecbb051e98ab676e65640043335dee5bdbc956e4c30dcc1d64",
+        "epubDocument": "GA026_a01.html",
+        "leadingThought": 1,
+        "paragraphOrdinalAllP": 19,
+        "method": "Verified exact sentence in EPUB XHTML and checked the matching Markdown paragraph.",
+        "portuguese": "Original course study translation of the verified English sentence."
+      }
+    }
+  ],
+  "en": {
+    "question": "What does Steiner mean when he calls Anthroposophy a path of knowledge?",
+    "matters": "Before learning particular anthroposophical ideas, we need to understand what Steiner says his project is. His opening definition places the activity of knowing at its centre. That gives us a question to carry through the course: what kind of knowledge does he think can connect a person with the wider world?",
+    "explanation": [
+      "Steiner begins with a path, rather than a catalogue of teachings. A path of knowledge involves seeking, understanding and developing a way of knowing. The definition gives it a direction: from the spiritual in the human being toward the spiritual in the universe. Later lessons will ask what these terms mean within his account.",
+      "The two sides of the definition belong together. Steiner wants questions about our own being to lead toward understanding a reality wider than ourselves. His proposed spiritual knowledge is therefore more than a description of private feelings, even though personal experience supplies the questions that motivate it.",
+      "In Thought 1, he describes those questions as an inner need, comparable to hunger and thirst. This explains why someone might undertake the path. It does not mean that finding an answer comforting makes the answer true. The need to understand and the work of knowing have different roles.",
+      "Thoughts 2–3 then state the possibility on which the path depends: Steiner argues that the limits of knowledge gained through the senses need not be the limits of all insight. He believes further capacities can arise within human soul life. That is his starting claim, whose proposed method we will examine in Lesson 3; this definition alone does not demonstrate the spiritual realities he describes."
+    ],
+    "keyConcept": {
+      "term": "Anthroposophy",
+      "definition": "Steiner’s proposed path of knowledge relating the spiritual dimension of the human being to the spiritual dimension of the universe."
+    },
+    "example": {
+      "text": "A person knows many facts about a landscape but still asks what their own experience of it means and how they belong within nature. The question can motivate further inquiry; the strength of the question does not settle which answer is correct. This illustrates the role of an inner need in starting a search."
+    },
+    "distinction": "An inner need can motivate a search for knowledge. It is different from evidence that a particular answer is true. Keep the question that starts the path distinct from the knowledge Steiner claims the path can yield.",
+    "checks": [
+      {
+        "question": "What is the central direction of Steiner’s opening definition?",
+        "options": [
+          "Collecting as many spiritual terms as possible.",
+          "Relating the spiritual in the human being to the spiritual in the universe through a path of knowledge.",
+          "Replacing every question with a prescribed belief."
+        ],
+        "answer": 1,
+        "reason": "Thought 1 defines Anthroposophy by this relation and calls the activity a path of knowledge."
+      },
+      {
+        "question": "What role does an inner need have in Thought 1?",
+        "options": [
+          "It can motivate questions and the wish to pursue the path.",
+          "It proves every answer that feels satisfying.",
+          "It makes careful understanding unnecessary."
+        ],
+        "answer": 0,
+        "reason": "Steiner connects the path with questions felt as a need of life. Motivation to inquire and the truth of an answer remain distinct."
+      }
+    ],
+    "connection": "We now have Steiner’s definition of the project. The next lesson follows the questions and work through which he describes arriving at it: his intellectual biography.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "O que Steiner quer dizer ao chamar a antroposofia de caminho de conhecimento?",
+    "matters": "Antes de aprender ideias antroposóficas específicas, precisamos compreender como Steiner define seu projeto. A definição inicial coloca a atividade de conhecer no centro. Ela nos oferece uma pergunta para acompanhar o curso: que tipo de conhecimento ele considera capaz de relacionar uma pessoa com uma realidade mais ampla?",
+    "explanation": [
+      "Steiner começa com um caminho, em vez de um catálogo de ensinamentos. Um caminho de conhecimento envolve buscar, compreender e desenvolver uma maneira de conhecer. A definição lhe dá uma direção: do espiritual no ser humano ao espiritual no universo. As lições seguintes perguntarão o que esses termos significam em sua concepção.",
+      "Os dois lados da definição pertencem um ao outro. Steiner quer que as perguntas sobre nosso próprio ser conduzam à compreensão de uma realidade mais ampla que nós mesmos. Por isso, o conhecimento espiritual que propõe vai além de uma descrição de sentimentos privados, embora a experiência pessoal forneça as perguntas que o motivam.",
+      "No Pensamento 1, ele descreve essas perguntas como uma necessidade interior, comparável à fome e à sede. Isso explica por que alguém pode iniciar o caminho. Não significa que uma resposta seja verdadeira por trazer conforto. A necessidade de compreender e o trabalho de conhecer têm papéis diferentes.",
+      "Os Pensamentos 2–3 apresentam então a possibilidade da qual o caminho depende: Steiner argumenta que os limites do conhecimento obtido pelos sentidos não precisam ser os limites de toda compreensão. Ele considera que outras capacidades podem surgir na vida da alma humana. Essa é sua afirmação inicial, cujo método proposto examinaremos na Lição 3; a definição, por si só, não demonstra as realidades espirituais que descreve."
+    ],
+    "keyConcept": {
+      "term": "Antroposofia",
+      "definition": "O caminho de conhecimento proposto por Steiner que relaciona a dimensão espiritual do ser humano com a dimensão espiritual do universo."
+    },
+    "example": {
+      "text": "Uma pessoa conhece muitos fatos sobre uma paisagem, mas ainda pergunta o que sua experiência significa e como ela se situa na natureza. A pergunta pode motivar uma investigação; sua intensidade não determina qual resposta é correta. Isso ilustra o papel de uma necessidade interior no início de uma busca."
+    },
+    "distinction": "Uma necessidade interior pode motivar a busca de conhecimento. Ela é diferente de uma evidência de que determinada resposta é verdadeira. Distinga a pergunta que inicia o caminho do conhecimento que Steiner afirma que esse caminho pode proporcionar.",
+    "checks": [
+      {
+        "question": "Qual é a direção central da definição inicial de Steiner?",
+        "options": [
+          "Reunir o maior número possível de termos espirituais.",
+          "Relacionar o espiritual no ser humano com o espiritual no universo por meio de um caminho de conhecimento.",
+          "Substituir todas as perguntas por uma crença prescrita."
+        ],
+        "answer": 1,
+        "reason": "O Pensamento 1 define a antroposofia por essa relação e chama a atividade de caminho de conhecimento."
+      },
+      {
+        "question": "Que papel tem uma necessidade interior no Pensamento 1?",
+        "options": [
+          "Ela pode motivar perguntas e o desejo de seguir o caminho.",
+          "Ela comprova todas as respostas que trazem satisfação.",
+          "Ela torna desnecessária a compreensão cuidadosa."
+        ],
+        "answer": 0,
+        "reason": "Steiner relaciona o caminho com perguntas sentidas como uma necessidade de vida. A motivação para investigar e a verdade de uma resposta permanecem distintas."
+      }
+    ],
+    "connection": "Já conhecemos a definição do projeto de Steiner. A próxima lição acompanha as perguntas e os trabalhos pelos quais ele descreve ter chegado a esse projeto: sua biografia intelectual.",
+    "deeperStudy": []
+  }
+}

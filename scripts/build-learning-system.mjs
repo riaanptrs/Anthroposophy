@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {esc,n,relative,wholeElement,quiz,shell,write} from './learning-html.mjs';
+import {isPracticalThinkingOwned} from './practical-thinking-owned.mjs';
 
 const readJSON=name=>JSON.parse(fs.readFileSync('content/'+name,'utf8'));
 const catalogue=readJSON('learning-system-catalogue.json');
@@ -76,11 +77,14 @@ for(const lang of ['en','pt']) {
   write(file,shell(file,title(plan,lang),body,lang,{partner:beginnerPath(plan.id,pt?'en':'pt'),description:v.intro}).replace('class="learning-course"','class="learning-course" data-learning-id="'+n(plan.id)+'"'));
  }
 
- const primaryCards=mainCourses.map(route=>{const c=catalogue.courses.find(c=>c.route===route),marker=cardMarkers[route];return `${marker?`<!-- ${marker}-card:start -->`:''}<a class="course-card" href="../${route}/index.html"><h2>${esc(title(c,lang))}</h2><p>${esc(pt?c.authorPt||c.author:c.author)} · ${c.lessons.length} ${t('readings','leituras')}</p></a>${marker?`<!-- ${marker}-card:end -->`:''}`;}).join('');
+ const primaryCards=mainCourses.map(route=>{const c=catalogue.courses.find(c=>c.route===route),marker=cardMarkers[route];return `${marker?`<!-- ${marker}-card:start -->`:''}<a class="course-card" href="../${route}/index.html"><h2>${esc(title(c,lang))}</h2><p>${esc(pt?c.authorPt||c.author:c.author)} · ${route==='practical-thinking'?t('12 lessons + optional forecasting','12 lições + previsão opcional'):`${c.lessons.length} ${t('readings','leituras')}`}</p></a>${marker?`<!-- ${marker}-card:end -->`:''}`;}).join('');
  const companionCards=catalogue.courses.filter(c=>!mainCourses.includes(c.route)).map(c=>`<li><a href="../${c.route}/index.html">${esc(title(c,lang))}</a> · ${esc(pt?c.authorPt||c.author:c.author)}</li>`).join('');
  write(books,shell(books,t('Study the Books','Estude os livros'),`<div class="eyebrow">${t(`Deeper study · ${catalogue.courses.length} collections`,`Estudo aprofundado · ${catalogue.courses.length} coletâneas`)}</div><h1>${t('Study the Books','Estude os livros')}</h1><p class="lead">${t('Keep the author’s sequence in view. Each course now shows its parts, source chapters or lectures, and individual readings.','Mantenha a sequência do autor em vista. Cada curso agora apresenta suas partes, capítulos ou palestras da fonte e leituras individuais.')}</p><p>${t('New to this material?','Está começando?')} <a href="../learn/index.html">${t('Follow the beginner learning path first','Siga primeiro o percurso inicial')} →</a></p><div class="study-resume" data-study-resume hidden></div><section class="learning-grid">${primaryCards}</section><section><h2>${t('Temperament source companions','Fontes complementares dos temperamentos')}</h2><p>${t('The combined temperament course links these distinct sources. Their complete book courses remain available.','O curso integrado dos temperamentos relaciona estas fontes distintas. Seus cursos completos continuam disponíveis.')}</p><ul>${companionCards}</ul></section>`,lang,{partner:other+'/books/index.html'}));
 
  for(const course of catalogue.courses) {
+  // Theosophy has its own PDF-led reading structure and calm study controls.
+  // Its builder runs below before the shared site-navigation pass.
+  if(course.route==='theosophy'||course.route==='practical-thinking')continue;
   const file=courseIndex(course,lang),oldFile=course.route==='theosophy'?home:course[pt?'indexPathPt':'indexPathEn'];
   // The original indexes contain edition evidence, journals and specialist links. Retain them as a deeper layer.
   const oldHTML=course.route==='theosophy'?fs.readFileSync(`content/legacy-home-${lang}.html`,'utf8'):fs.readFileSync(oldFile,'utf8');
@@ -140,15 +144,23 @@ for(const lang of ['en','pt']) {
 const {buildResearch}=await import('./learning-research.mjs');
 await buildResearch({docsDir:'docs'});
 
+const {buildTheosophy}=await import('./build-theosophy-guided.mjs');
+buildTheosophy();
+const {buildIntroductionAnthroposophy}=await import('./build-introduction-anthroposophy.mjs');
+buildIntroductionAnthroposophy();
+const {buildPracticalThinking}=await import('./build-practical-thinking.mjs');
+buildPracticalThinking();
+
 // Apply the four destinations to every retained and newly generated page.
 for(const name of fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('.html'))) {
  const file='docs/'+name,pt=name.startsWith('pt/'),base=pt?'docs/pt':'docs',t=(a,b)=>pt?b:a;
  let html=fs.readFileSync(file,'utf8');
  const localName=name.replace(/^pt\//,''),courseRoutes=catalogue.courses.map(c=>c.route);
- const active=localName.startsWith('learn/')?'learn':localName.startsWith('themes/')?'themes':/^(research|reference)\//.test(localName)?'research':localName.startsWith('books/')||localName.startsWith('lessons/')||courseRoutes.some(route=>localName.startsWith(route+'/'))?'books':null;
+ const active=localName.startsWith('learn/')||localName.startsWith('introduction-to-anthroposophy/')?'learn':localName.startsWith('themes/')?'themes':/^(research|reference)\//.test(localName)?'research':localName.startsWith('books/')||localName.startsWith('lessons/')||courseRoutes.some(route=>localName.startsWith(route+'/'))?'books':null;
  const destinations=[['learn',t('Learn Anthroposophy','Aprenda antroposofia')],['books',t('Study the Books','Estude os livros')],['themes',t('Themes and Applications','Temas e aplicações')],['research',t('Research Library','Biblioteca de pesquisa')]];
  const nav=`<nav class="system-nav" aria-label="${t('Main navigation','Navegação principal')}">${destinations.map(([route,label])=>`<a${active===route?' aria-current="true"':''} href="${relative(file,base+'/'+route+'/index.html')}">${label}</a>`).join('')}</nav>`;
- html=html.replace('</header>',nav+'</header>');
+ if(localName.startsWith('introduction-to-anthroposophy/')&&html.includes('data-introduction-owned="true"'))html=html.replace(/<nav class="system-nav"[\s\S]*?<\/nav>/,nav);
+ else html=html.replace('</header>',nav+'</header>');
  // Retained reading controls now return to the visible hierarchy. Original anchors remain for old bookmarks.
  const indexes=new Set(catalogue.courses.map(c=>path.resolve(courseIndex(c,pt?'pt':'en'))));
  html=html.replace(/href="([^"#]*)#(lessons|sessions)"/g,(all,url)=>{
@@ -158,7 +170,7 @@ for(const name of fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('
   return all;
  });
  for(const [tag,asset] of [['css','learning-system.css'],['js','learning-system.js']])if(!html.includes(asset))html=html.replace('</head>',tag==='css'?`<link rel="stylesheet" href="${relative(file,'docs/'+asset)}"></head>`:`<script defer src="${relative(file,'docs/'+asset)}"></script></head>`);
- if(localName==='books/index.html'||indexes.has(path.resolve(file))) {
+ if((localName==='books/index.html'||indexes.has(path.resolve(file)))&&!isPracticalThinkingOwned(name,html)) {
   if(!html.includes('guided-study.v1.css'))html=html.replace('</head>',`<link rel="stylesheet" href="${relative(file,'docs/guided-study.v1.css')}"></head>`);
   if(!html.includes('guided-study.v1.js'))html=html.replace('</head>',`<script defer src="${relative(file,'docs/guided-study.v1.js')}"></script></head>`);
  }

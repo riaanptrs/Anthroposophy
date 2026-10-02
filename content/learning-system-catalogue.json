@@ -18,14 +18,19 @@
         1,
         2,
         3,
+        23,
         4,
         5,
+        24,
         6,
         7,
         8,
+        27,
         9,
         10,
+        25,
         11,
+        26,
         12,
         13,
         14,
@@ -49,8 +54,8 @@
           "groups": [
             {
               "id": "orientation",
-              "titleEn": "Prefaces and introduction",
-              "titlePt": "Prefácios e introdução",
+              "titleEn": "Prefaces and Introduction",
+              "titlePt": "Prefácios e Introdução",
               "lessonIds": [
                 0
               ],
@@ -59,11 +64,11 @@
               "kind": "source-frontmatter",
               "sourceChapterNumber": null,
               "sourceLectureNumber": null,
-              "questionEn": "How does Theosophy distinguish understanding a spiritual account from discovering spiritual knowledge?",
-              "questionPt": "Como Teosofia distingue compreender uma explicação espiritual de descobrir conhecimento espiritual?",
+              "questionEn": "What does Steiner ask of a reader who has not undertaken spiritual investigation?",
+              "questionPt": "O que Steiner pede a um leitor que ainda não realizou investigação espiritual?",
               "questionSource": "Authored chapter question based on the existing source teaching and learning aim.",
-              "outcomeEn": "Explain the book’s purpose, its four-chapter sequence, and the difference between understanding and discovering spiritual knowledge.",
-              "outcomePt": "Explicar o propósito do livro, a sequência de seus quatro capítulos e a diferença entre compreender e descobrir conhecimento espiritual."
+              "outcomeEn": "Distinguish understanding the communicated account from investigating its objects.",
+              "outcomePt": "Distinguir compreender o relato comunicado de investigar seus objetos."
             }
           ]
         },
@@ -77,40 +82,43 @@
           "groups": [
             {
               "id": "human-being",
-              "titleEn": "The Essential Nature of the Human Being",
-              "titlePt": "A natureza essencial do ser humano",
+              "titleEn": "The Constitution Of The Human Being",
+              "titlePt": "A constituição do ser humano",
               "lessonIds": [
                 1,
                 2,
                 3,
+                23,
                 4,
                 5,
+                24,
                 6
               ],
-              "sourceSection": "I. The Essential Nature of Man",
+              "sourceSection": "Chapter 1. The Constitution Of The Human Being",
               "chapterIsOriginal": true,
               "kind": "source-chapter",
               "sourceChapterNumber": 1,
               "sourceLectureNumber": null,
-              "questionEn": "What distinctions are needed to understand the human being?",
-              "questionPt": "Que distinções ajudam a compreender o ser humano?"
+              "questionEn": "How does Steiner relate bodily organization, inward life and spiritual individuality within one human being?",
+              "questionPt": "Como Steiner relaciona organização corporal, vida interior e individualidade espiritual num mesmo ser humano?"
             },
             {
               "id": "destiny",
-              "titleEn": "Re-embodiment of the Spirit and Destiny",
+              "titleEn": "Re-Embodiment Of The Spirit And Destiny",
               "titlePt": "Reencarnação do espírito e destino",
               "lessonIds": [
                 7,
                 8,
+                27,
                 9
               ],
-              "sourceSection": "II. Re-embodiment of the Spirit and Destiny",
+              "sourceSection": "Chapter 2. Re-Embodiment Of The Spirit And Destiny",
               "chapterIsOriginal": true,
               "kind": "source-chapter",
               "sourceChapterNumber": 2,
               "sourceLectureNumber": null,
-              "questionEn": "How does Steiner relate lasting capacity, repeated lives and destiny?",
-              "questionPt": "Como Steiner relaciona capacidade duradoura, vidas sucessivas e destino?"
+              "questionEn": "How does Steiner argue that human individuality continues beyond a single earthly life?",
+              "questionPt": "Como Steiner argumenta que a individualidade humana continua além de uma única vida terrestre?"
             },
             {
               "id": "three-worlds",
@@ -118,7 +126,9 @@
               "titlePt": "Os três mundos",
               "lessonIds": [
                 10,
+                25,
                 11,
+                26,
                 12,
                 13,
                 14,
@@ -126,17 +136,17 @@
                 16,
                 17
               ],
-              "sourceSection": "III. The Three Worlds",
+              "sourceSection": "CHAPTER 3. THE THREE WORLDS",
               "chapterIsOriginal": true,
               "kind": "source-chapter",
               "sourceChapterNumber": 3,
               "sourceLectureNumber": null,
-              "questionEn": "What relationships distinguish the sensory, soul and spiritual worlds?",
-              "questionPt": "Que relações distinguem os mundos sensorial, anímico e espiritual?"
+              "questionEn": "How does Steiner relate embodied existence, the soul world and Spirit-land within the life of one individuality?",
+              "questionPt": "Como Steiner relaciona existência corporal, mundo anímico e mundo espiritual na vida de uma individualidade?"
             },
             {
               "id": "knowledge",
-              "titleEn": "The Path of Knowledge",
+              "titleEn": "The Path Of Knowledge",
               "titlePt": "O caminho do conhecimento",
               "lessonIds": [
                 18,
@@ -144,13 +154,13 @@
                 20,
                 21
               ],
-              "sourceSection": "IV. The Path of Knowledge",
+              "sourceSection": "Chapter 4. The Path Of Knowledge",
               "chapterIsOriginal": true,
               "kind": "source-chapter",
               "sourceChapterNumber": 4,
               "sourceLectureNumber": null,
-              "questionEn": "What development does Steiner ask of thinking, feeling and willing?",
-              "questionPt": "Que desenvolvimento Steiner propõe ao pensar, sentir e querer?"
+              "questionEn": "How does Steiner connect the cultivation of thinking, feeling and willing with knowledge of the higher worlds?",
+              "questionPt": "Como Steiner relaciona o cultivo do pensar, do sentir e do querer ao conhecimento dos mundos superiores?"
             }
           ]
         },
@@ -164,8 +174,8 @@
           "groups": [
             {
               "id": "synthesis",
-              "titleEn": "Original course synthesis",
-              "titlePt": "Síntese original do curso",
+              "titleEn": "Book synthesis",
+              "titlePt": "Síntese do livro",
               "lessonIds": [
                 22
               ],
@@ -174,459 +184,554 @@
               "kind": "course-group",
               "sourceChapterNumber": null,
               "sourceLectureNumber": null,
-              "questionEn": "How do the four chapters connect the human being, destiny, spiritual worlds and the path of knowledge?",
-              "questionPt": "Como os quatro capítulos relacionam ser humano, destino, mundos espirituais e caminho do conhecimento?",
+              "questionEn": "Why does Theosophy move from the human being to repeated lives, three worlds and a path of knowledge?",
+              "questionPt": "Por que Teosofia passa do ser humano às vidas sucessivas, aos três mundos e a um caminho do conhecimento?",
               "questionSource": "Authored chapter question based on the existing source teaching and learning aim.",
-              "outcomeEn": "Build a source-supported account of the four chapters and distinguish their claims, arguments, analogies, and qualifications.",
-              "outcomePt": "Construir uma interpretação dos quatro capítulos apoiada na fonte, distinguindo afirmações, argumentos, analogias e ressalvas."
+              "outcomeEn": "Reconstruct the architecture of the four chapters and the distinct roles of examples, reasoning and spiritual descriptions.",
+              "outcomePt": "Reconstruir a arquitetura dos quatro capítulos e as funções distintas dos exemplos, dos argumentos e das descrições espirituais."
             }
           ]
         }
       ],
       "author": "Rudolf Steiner",
-      "sourceScope": "GA 9; four chapters, prefaces, introduction and thirteen addenda, with addenda already integrated into relevant readings.",
-      "indexPathEn": "docs/index.html#lessons",
-      "indexPathPt": "docs/pt/index.html#lessons",
+      "sourceScope": "GA 9; Elizabeth Douglas Shields’s 1910 translation in the supplied Delhi Open Books PDF: prefaces, introduction, four chapters and nine Notes and Amplifications. The 1971 Monges/Church edition remains a separately identified parallel source.",
+      "indexPathEn": "docs/theosophy/index.html",
+      "indexPathPt": "docs/pt/theosophy/index.html",
       "lessons": [
         {
           "id": 0,
           "pathEn": "docs/lessons/00.html",
           "pathPt": "docs/pt/lessons/00.html",
-          "titleEn": "Reading Theosophy: purpose and method",
-          "titlePt": "Ler Teosofia: propósito e método",
-          "goalEn": "Explain the book’s purpose, its four-chapter sequence, and the difference between understanding and discovering spiritual knowledge.",
-          "goalPt": "Explicar o propósito do livro, a sequência de seus quatro capítulos e a diferença entre compreender e descobrir conhecimento espiritual.",
+          "titleEn": "Reading Theosophy: purpose and approach",
+          "titlePt": "Ler Teosofia: propósito e abordagem",
+          "goalEn": "What does Steiner ask of a reader who has not undertaken spiritual investigation?",
+          "goalPt": "O que Steiner pede a um leitor que ainda não realizou investigação espiritual?",
           "studyId": "theosophy/00",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "Preface To The First Edition · Preface To The Third Edition · Introduction",
           "sourceChapterMarker": 0,
           "sourceLecture": null,
-          "sourceSpan": "vii–xv, xvii–xxiii"
+          "sourceSpan": "PDF captures 6–12",
+          "readingNumber": "Introduction"
         },
         {
           "id": 1,
           "pathEn": "docs/lessons/01.html",
           "pathPt": "docs/pt/lessons/01.html",
-          "titleEn": "Encountering the world",
-          "titlePt": "Nosso encontro com o mundo",
-          "goalEn": "Explain the flower example through sensory encounter, personal response, and knowledge of enduring relationships.",
-          "goalPt": "Explicar o exemplo das flores por meio do encontro sensorial, da resposta pessoal e do conhecimento de relações duradouras.",
+          "titleEn": "Encounter, personal response and understanding",
+          "titlePt": "Encontro, resposta pessoal e compreensão",
+          "goalEn": "Why does Steiner introduce body, soul and spirit through one experience?",
+          "goalPt": "Por que Steiner introduz corpo, alma e espírito por meio de uma mesma experiência?",
           "studyId": "theosophy/01",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
+          "optionalNotes": true,
           "originalSection": null,
           "sourceChapterMarker": 1,
           "sourceLecture": null,
-          "sourceSpan": "1–5"
+          "sourceSpan": "PDF captures 13–15",
+          "readingNumber": "1.1"
         },
         {
           "id": 2,
           "pathEn": "docs/lessons/02.html",
           "pathPt": "docs/pt/lessons/02.html",
-          "titleEn": "Embodiment and inner experience",
-          "titlePt": "Corpo e experiência interior",
-          "goalEn": "Trace the relationships among bodily organization, sensation, feeling, willing, and thinking in Steiner’s account.",
-          "goalPt": "Acompanhar as relações entre organização corporal, sensação, sentir, querer e pensar na concepção de Steiner.",
+          "titleEn": "Bodily foundation and inward activity",
+          "titlePt": "Base corporal e atividade interior",
+          "goalEn": "How does Steiner connect embodiment with sensation, willing and reflective action?",
+          "goalPt": "Como Steiner relaciona corporeidade com sensação, querer e ação refletida?",
           "studyId": "theosophy/02",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "1. THE CORPOREAL BEING OF MAN · 2. THE SOUL BEING OF MAN · 3. THE SPIRITUAL BEING OF MAN · 4. BODY, SOUL, AND SPIRIT",
           "sourceChapterMarker": 1,
           "sourceLecture": null,
-          "sourceSpan": "6–11"
+          "sourceSpan": "PDF captures 15–18",
+          "readingNumber": "1.2"
         },
         {
           "id": 3,
           "pathEn": "docs/lessons/03.html",
           "pathPt": "docs/pt/lessons/03.html",
-          "titleEn": "Life, sensation, and formative organization",
-          "titlePt": "Vida, sensação e organização formativa",
-          "goalEn": "Distinguish physical body, ether or life body, soul body, and sentient soul, explaining how the chapter connects them.",
-          "goalPt": "Distinguir corpo físico, corpo etérico ou vital, corpo anímico e alma senciente, explicando como o capítulo os relaciona.",
+          "titleEn": "Material organization and living form",
+          "titlePt": "Organização material e forma viva",
+          "goalEn": "Why does Steiner distinguish ether-body from physical body?",
+          "goalPt": "Por que Steiner distingue corpo etérico e corpo físico?",
           "studyId": "theosophy/03",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "4. BODY, SOUL, AND SPIRIT",
           "sourceChapterMarker": 1,
           "sourceLecture": null,
-          "sourceSpan": "11–20"
+          "sourceSpan": "PDF captures 18–20",
+          "readingNumber": "1.3"
+        },
+        {
+          "id": 23,
+          "pathEn": "docs/lessons/23.html",
+          "pathPt": "docs/pt/lessons/23.html",
+          "titleEn": "Sensation and its bodily mediation",
+          "titlePt": "Sensação e sua mediação corporal",
+          "goalEn": "What distinguishes sentient-soul from the organization supporting sensation?",
+          "goalPt": "O que distingue a alma senciente da organização que sustenta a sensação?",
+          "studyId": "theosophy/23",
+          "noteFields": [
+            "after"
+          ],
+          "optionalNotes": true,
+          "originalSection": "4. BODY, SOUL, AND SPIRIT",
+          "sourceChapterMarker": 1,
+          "sourceLecture": null,
+          "sourceSpan": "PDF captures 20–22",
+          "readingNumber": "1.4"
         },
         {
           "id": 4,
           "pathEn": "docs/lessons/04.html",
           "pathPt": "docs/pt/lessons/04.html",
-          "titleEn": "Three aspects of soul",
-          "titlePt": "Três aspectos da alma",
-          "goalEn": "Explain how thinking serves desire and how orientation toward truth and goodness differentiates the three soul members.",
-          "goalPt": "Explicar como o pensar serve ao desejo e como a orientação para a verdade e o bem diferencia os três membros da alma.",
+          "titleEn": "Thinking, truth and the three soul members",
+          "titlePt": "Pensar, verdade e os três membros anímicos",
+          "goalEn": "What changes when thought seeks truth rather than only serving a desire?",
+          "goalPt": "O que muda quando o pensar busca a verdade em vez de apenas servir a um desejo?",
           "studyId": "theosophy/04",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "4. BODY, SOUL, AND SPIRIT",
           "sourceChapterMarker": 1,
           "sourceLecture": null,
-          "sourceSpan": "20–26"
+          "sourceSpan": "PDF captures 22–24",
+          "readingNumber": "1.5"
         },
         {
           "id": 5,
           "pathEn": "docs/lessons/05.html",
           "pathPt": "docs/pt/lessons/05.html",
-          "titleEn": "The I and spiritual individuality",
-          "titlePt": "O Eu e a individualidade espiritual",
-          "goalEn": "Explain the I as the mediator of body, soul, and spirit, and distinguish spirit self, life spirit, and spirit man.",
-          "goalPt": "Explicar o Eu como mediador de corpo, alma e espírito e distinguir si-mesmo espiritual, espírito vital e homem-espírito.",
+          "titleEn": "The I: inward centre and spiritual openness",
+          "titlePt": "O Eu: centro interior e abertura espiritual",
+          "goalEn": "How does Steiner distinguish the I from the experiences it gathers?",
+          "goalPt": "Como Steiner distingue o Eu das experiências que ele reúne?",
           "studyId": "theosophy/05",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "4. BODY, SOUL, AND SPIRIT",
           "sourceChapterMarker": 1,
           "sourceLecture": null,
-          "sourceSpan": "26–35"
+          "sourceSpan": "PDF captures 24–26",
+          "readingNumber": "1.6"
+        },
+        {
+          "id": 24,
+          "pathEn": "docs/lessons/24.html",
+          "pathPt": "docs/pt/lessons/24.html",
+          "titleEn": "Spiritual content and spiritual individuality",
+          "titlePt": "Conteúdo espiritual e individualidade espiritual",
+          "goalEn": "How does Steiner relate spirit-self, life-spirit and spirit-man?",
+          "goalPt": "Como Steiner relaciona si-mesmo espiritual, espírito vital e homem-espírito?",
+          "studyId": "theosophy/24",
+          "noteFields": [
+            "after"
+          ],
+          "optionalNotes": true,
+          "originalSection": "4. BODY, SOUL, AND SPIRIT",
+          "sourceChapterMarker": 1,
+          "sourceLecture": null,
+          "sourceSpan": "PDF captures 26–29",
+          "readingNumber": "1.7"
         },
         {
           "id": 6,
           "pathEn": "docs/lessons/06.html",
           "pathPt": "docs/pt/lessons/06.html",
-          "titleEn": "One human being, several classifications",
-          "titlePt": "Um ser humano, diferentes classificações",
-          "goalEn": "Reconstruct the ninefold, grouped sevenfold, fourfold, and transformation-based sevenfold accounts, explaining their connections.",
-          "goalPt": "Reconstruir os esquemas de nove, sete por agrupamento, quatro e sete por transformação, explicando suas relações.",
+          "titleEn": "One human being, related classifications",
+          "titlePt": "Um ser humano, classificações relacionadas",
+          "goalEn": "Why does the chapter present different lists of human members?",
+          "goalPt": "Por que o capítulo apresenta listas diferentes dos membros humanos?",
           "studyId": "theosophy/06",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "4. BODY, SOUL, AND SPIRIT",
           "sourceChapterMarker": 1,
           "sourceLecture": null,
-          "sourceSpan": "35–39"
+          "sourceSpan": "PDF captures 29–31",
+          "readingNumber": "1.8"
         },
         {
           "id": 7,
           "pathEn": "docs/lessons/07.html",
           "pathPt": "docs/pt/lessons/07.html",
-          "titleEn": "Memory, learning, and lasting effects",
-          "titlePt": "Memória, aprendizagem e efeitos duradouros",
-          "goalEn": "Explain how Steiner connects perception, recollection, acquired capacity, and the continuing effects of action.",
-          "goalPt": "Explicar como Steiner relaciona percepção, recordação, capacidade adquirida e efeitos continuados da ação.",
+          "titleEn": "Memory and the fruits of experience",
+          "titlePt": "Memória e frutos da experiência",
+          "goalEn": "What remains from an experience when its immediate perception has passed?",
+          "goalPt": "O que permanece de uma experiência quando sua percepção imediata passou?",
           "studyId": "theosophy/07",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "Chapter 2. Re-Embodiment Of The Spirit And Destiny",
           "sourceChapterMarker": 2,
           "sourceLecture": null,
-          "sourceSpan": "40–47"
+          "sourceSpan": "PDF captures 32–34",
+          "readingNumber": "2.1"
         },
         {
           "id": 8,
           "pathEn": "docs/lessons/08.html",
           "pathPt": "docs/pt/lessons/08.html",
-          "titleEn": "Individuality and repeated lives",
-          "titlePt": "Individualidade e vidas sucessivas",
-          "goalEn": "Reconstruct the argument from spiritual biography to repeated lives, distinguishing inherited traits from individuality.",
-          "goalPt": "Reconstruir o argumento que liga biografia espiritual e vidas sucessivas, distinguindo características herdadas e individualidade.",
+          "titleEn": "Biography and spiritual individuality",
+          "titlePt": "Biografia e individualidade espiritual",
+          "goalEn": "Why does Steiner argue that individuality calls for a spiritual history before birth?",
+          "goalPt": "Por que Steiner argumenta que a individualidade exige uma história espiritual anterior ao nascimento?",
           "studyId": "theosophy/08",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "Chapter 2. Re-Embodiment Of The Spirit And Destiny",
           "sourceChapterMarker": 2,
           "sourceLecture": null,
-          "sourceSpan": "47–60"
+          "sourceSpan": "PDF captures 34–36",
+          "readingNumber": "2.2"
+        },
+        {
+          "id": 27,
+          "pathEn": "docs/lessons/27.html",
+          "pathPt": "docs/pt/lessons/27.html",
+          "titleEn": "Inherited traits and capacities carried forward",
+          "titlePt": "Traços herdados e capacidades levadas adiante",
+          "goalEn": "How does Steiner distinguish inherited tendencies from an individuality’s acquired spiritual capacities?",
+          "goalPt": "Como Steiner distingue tendências herdadas das capacidades espirituais adquiridas por uma individualidade?",
+          "studyId": "theosophy/27",
+          "noteFields": [
+            "after"
+          ],
+          "optionalNotes": true,
+          "originalSection": "Chapter 2. Re-Embodiment Of The Spirit And Destiny",
+          "sourceChapterMarker": 2,
+          "sourceLecture": null,
+          "sourceSpan": "PDF captures 36–38",
+          "readingNumber": "2.3"
         },
         {
           "id": 9,
           "pathEn": "docs/lessons/09.html",
           "pathPt": "docs/pt/lessons/09.html",
-          "titleEn": "Action and destiny",
-          "titlePt": "Ação e destino",
-          "goalEn": "Explain karma through the inner and outer consequences of deeds and relate destiny to repeated lives and present action.",
-          "goalPt": "Explicar o carma pelos efeitos interiores e exteriores dos atos e relacionar destino, vidas sucessivas e ação presente.",
+          "titleEn": "Deeds, destiny and karma",
+          "titlePt": "Atos, destino e carma",
+          "goalEn": "How does Steiner connect the continuing effects of deeds with destiny across repeated lives?",
+          "goalPt": "Como Steiner relaciona os efeitos continuados dos atos com o destino através de vidas sucessivas?",
           "studyId": "theosophy/09",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "Chapter 2. Re-Embodiment Of The Spirit And Destiny",
           "sourceChapterMarker": 2,
           "sourceLecture": null,
-          "sourceSpan": "60–69"
+          "sourceSpan": "PDF captures 39–41",
+          "readingNumber": "2.4"
         },
         {
           "id": 10,
           "pathEn": "docs/lessons/10.html",
           "pathPt": "docs/pt/lessons/10.html",
-          "titleEn": "The soul world: seven relationships",
-          "titlePt": "O mundo anímico: sete relações",
-          "goalEn": "Explain sympathy, antipathy, and the seven interpenetrating soul regions in the order of the text.",
-          "goalPt": "Explicar simpatia, antipatia e as sete regiões anímicas interpenetrantes na ordem do texto.",
+          "titleEn": "Three worlds and their organs of perception",
+          "titlePt": "Três mundos e seus órgãos de percepção",
+          "goalEn": "Why does Steiner distinguish worlds by the organs through which they are known?",
+          "goalPt": "Por que Steiner distingue os mundos pelos órgãos através dos quais são conhecidos?",
           "studyId": "theosophy/10",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "1. THE SOUL WORLD",
           "sourceChapterMarker": 3,
           "sourceLecture": null,
-          "sourceSpan": "70–86"
+          "sourceSpan": "PDF captures 42–47",
+          "readingNumber": "3.1"
+        },
+        {
+          "id": 25,
+          "pathEn": "docs/lessons/25.html",
+          "pathPt": "docs/pt/lessons/25.html",
+          "titleEn": "Sympathy, antipathy and the seven soul regions",
+          "titlePt": "Simpatia, antipatia e as sete regiões anímicas",
+          "goalEn": "How do attraction and exclusion organize Steiner’s seven soul regions?",
+          "goalPt": "Como atração e exclusão organizam as sete regiões anímicas de Steiner?",
+          "studyId": "theosophy/25",
+          "noteFields": [
+            "after"
+          ],
+          "optionalNotes": true,
+          "originalSection": "1. THE SOUL WORLD",
+          "sourceChapterMarker": 3,
+          "sourceLecture": null,
+          "sourceSpan": "PDF captures 47–50",
+          "readingNumber": "3.2"
         },
         {
           "id": 11,
           "pathEn": "docs/lessons/11.html",
           "pathPt": "docs/pt/lessons/11.html",
-          "titleEn": "After death: what is released, what remains",
-          "titlePt": "Após a morte: o que se desprende, o que permanece",
-          "goalEn": "Trace purification through the seven soul regions and distinguish it from karma and spiritual assimilation.",
-          "goalPt": "Acompanhar a purificação pelas sete regiões anímicas e distingui-la do carma e da assimilação espiritual.",
+          "titleEn": "After death: desire, bodily organs and release",
+          "titlePt": "Após a morte: desejo, órgãos corporais e desprendimento",
+          "goalEn": "What happens when desire persists but its bodily means of satisfaction are gone?",
+          "goalPt": "O que acontece quando o desejo persiste, mas seus meios corporais de satisfação desapareceram?",
           "studyId": "theosophy/11",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "2. THE SOUL IN THE SOUL WORLD AFTER DEATH",
           "sourceChapterMarker": 3,
           "sourceLecture": null,
-          "sourceSpan": "87–101"
+          "sourceSpan": "PDF captures 50–53",
+          "readingNumber": "3.3"
+        },
+        {
+          "id": 26,
+          "pathEn": "docs/lessons/26.html",
+          "pathPt": "docs/pt/lessons/26.html",
+          "titleEn": "Purification through the seven soul regions",
+          "titlePt": "Purificação pelas sete regiões anímicas",
+          "goalEn": "How does each soul region release a different kind of attachment?",
+          "goalPt": "Como cada região anímica desprende um tipo diferente de apego?",
+          "studyId": "theosophy/26",
+          "noteFields": [
+            "after"
+          ],
+          "optionalNotes": true,
+          "originalSection": "2. THE SOUL IN THE SOUL WORLD AFTER DEATH",
+          "sourceChapterMarker": 3,
+          "sourceLecture": null,
+          "sourceSpan": "PDF captures 54–57",
+          "readingNumber": "3.4"
         },
         {
           "id": 12,
           "pathEn": "docs/lessons/12.html",
           "pathPt": "docs/pt/lessons/12.html",
-          "titleEn": "Spiritland: living archetypes and seven regions",
-          "titlePt": "Mundo espiritual: arquétipos vivos e sete regiões",
-          "goalEn": "Distinguish physical form, life, soul, coordination, and creative impulses in the sevenfold spiritual account.",
-          "goalPt": "Distinguir forma física, vida, alma, coordenação e impulsos criadores na concepção espiritual de sete regiões.",
+          "titleEn": "Spirit-land: creative archetypes and their regions",
+          "titlePt": "Mundo espiritual: arquétipos criadores e suas regiões",
+          "goalEn": "How does Steiner distinguish living archetypes from ordinary abstract thoughts?",
+          "goalPt": "Como Steiner distingue arquétipos vivos de pensamentos abstratos comuns?",
           "studyId": "theosophy/12",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "3. THE SPIRIT LAND",
           "sourceChapterMarker": 3,
           "sourceLecture": null,
-          "sourceSpan": "101–110"
+          "sourceSpan": "PDF captures 57–61",
+          "readingNumber": "3.5"
         },
         {
           "id": 13,
           "pathEn": "docs/lessons/13.html",
           "pathPt": "docs/pt/lessons/13.html",
-          "titleEn": "Earthly experience becomes spiritual capacity",
+          "titleEn": "Earthly experience becomes spiritual faculty",
           "titlePt": "A experiência terrestre torna-se capacidade espiritual",
-          "goalEn": "Explain the architect analogy and the fruits of relationships, reverence, and service in the first three spiritual regions.",
-          "goalPt": "Explicar a analogia do arquiteto e os frutos de relações, reverência e serviço nas três primeiras regiões espirituais.",
+          "goalEn": "Why are earthly action and the spiritual interval mutually necessary in Steiner’s account?",
+          "goalPt": "Por que ação terrestre e intervalo espiritual são mutuamente necessários na concepção de Steiner?",
           "studyId": "theosophy/13",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "4. THE SPIRIT IN SPIRIT-LAND AFTER DEATH",
           "sourceChapterMarker": 3,
           "sourceLecture": null,
-          "sourceSpan": "110–121"
+          "sourceSpan": "PDF captures 61–66",
+          "readingNumber": "3.6"
         },
         {
           "id": 14,
           "pathEn": "docs/lessons/14.html",
           "pathPt": "docs/pt/lessons/14.html",
-          "titleEn": "Culture, enduring self, and spiritual purposes",
-          "titlePt": "Cultura, eu duradouro e propósitos espirituais",
-          "goalEn": "Trace the fourth through seventh spiritual regions and explain the qualified relationship between purpose and destiny.",
-          "goalPt": "Acompanhar a quarta à sétima regiões espirituais e explicar a relação qualificada entre propósito e destino.",
+          "titleEn": "Culture, enduring Self and spiritual purposes",
+          "titlePt": "Cultura, si-mesmo duradouro e propósitos espirituais",
+          "goalEn": "What carries experience across incarnations and relates it to spiritual aims?",
+          "goalPt": "O que leva a experiência entre encarnações e a relaciona aos propósitos espirituais?",
           "studyId": "theosophy/14",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "4. THE SPIRIT IN SPIRIT-LAND AFTER DEATH",
           "sourceChapterMarker": 3,
           "sourceLecture": null,
-          "sourceSpan": "121–127"
+          "sourceSpan": "PDF captures 66–69",
+          "readingNumber": "3.7"
         },
         {
           "id": 15,
           "pathEn": "docs/lessons/15.html",
           "pathPt": "docs/pt/lessons/15.html",
-          "titleEn": "Nature, formative beings, and human thinking",
-          "titlePt": "Natureza, seres formativos e pensamento humano",
-          "goalEn": "Connect the three worlds with form, life, sensation, and thought, including the three elementary kingdoms.",
-          "goalPt": "Relacionar os três mundos à forma, vida, sensação e pensamento, incluindo os três reinos elementares.",
+          "titleEn": "The three worlds at work in nature and thinking",
+          "titlePt": "Os três mundos na natureza e no pensar",
+          "goalEn": "How does Steiner relate physical form, life, sensation and thought to spiritual formative activity?",
+          "goalPt": "Como Steiner relaciona forma física, vida, sensação e pensamento à atividade formativa espiritual?",
           "studyId": "theosophy/15",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "5. THE PHYSICAL WORLD AND ITS CONNECTION WITH THE SOUL AND SPIRIT LANDS",
           "sourceChapterMarker": 3,
           "sourceLecture": null,
-          "sourceSpan": "127–137"
+          "sourceSpan": "PDF captures 69–74",
+          "readingNumber": "3.8"
         },
         {
           "id": 16,
           "pathEn": "docs/lessons/16.html",
           "pathPt": "docs/pt/lessons/16.html",
-          "titleEn": "Collective spirits and elemental beings",
-          "titlePt": "Espíritos coletivos e seres elementais",
-          "goalEn": "Explain the different forms of embodiment the text assigns to human, collective, and elemental beings.",
-          "goalPt": "Explicar as diferentes formas de corporificação atribuídas pelo texto a seres humanos, coletivos e elementais.",
+          "titleEn": "Collective spirits and other forms of embodiment",
+          "titlePt": "Espíritos coletivos e outras formas de corporificação",
+          "goalEn": "What forms of embodiment does Steiner assign to beings beyond visible nature?",
+          "goalPt": "Que formas de corporificação Steiner atribui a seres além da natureza visível?",
           "studyId": "theosophy/16",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "5. THE PHYSICAL WORLD AND ITS CONNECTION WITH THE SOUL AND SPIRIT LANDS",
           "sourceChapterMarker": 3,
           "sourceLecture": null,
-          "sourceSpan": "137–140"
+          "sourceSpan": "PDF captures 74–75",
+          "readingNumber": "3.9"
         },
         {
           "id": 17,
           "pathEn": "docs/lessons/17.html",
           "pathPt": "docs/pt/lessons/17.html",
-          "titleEn": "Thought forms, colour language, and the threefold aura",
-          "titlePt": "Formas-pensamento, linguagem da cor e aura tríplice",
-          "goalEn": "Explain the claimed forms and three aura aspects while distinguishing spiritual colour experience from physical seeing.",
-          "goalPt": "Explicar as formas alegadas e os três aspectos da aura, distinguindo experiência espiritual da cor e visão física.",
+          "titleEn": "Thought-forms and the threefold human aura",
+          "titlePt": "Formas-pensamento e aura humana tríplice",
+          "goalEn": "How does Steiner’s aura account reconnect thought and soul activity with body, soul and spirit?",
+          "goalPt": "Como a concepção da aura reconecta pensamento e atividade anímica com corpo, alma e espírito?",
           "studyId": "theosophy/17",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "6. THOUGHT-FORMS AND THE HUMAN AURA",
           "sourceChapterMarker": 3,
           "sourceLecture": null,
-          "sourceSpan": "140–153"
+          "sourceSpan": "PDF captures 75–81",
+          "readingNumber": "3.10"
         },
         {
           "id": 18,
           "pathEn": "docs/lessons/18.html",
           "pathPt": "docs/pt/lessons/18.html",
-          "titleEn": "Thinking as the beginning of knowledge",
-          "titlePt": "O pensamento como início do conhecimento",
-          "goalEn": "Explain why Steiner begins with living thought, and distinguish receptivity from blind faith.",
-          "goalPt": "Explicar por que Steiner começa pelo pensamento vivo e distinguir receptividade de fé cega.",
+          "titleEn": "Thinking and receiving communicated knowledge",
+          "titlePt": "Pensar e receber um conhecimento comunicado",
+          "goalEn": "Why does Steiner begin personal knowledge with thoughtful reception of an account communicated by another?",
+          "goalPt": "Por que Steiner inicia o conhecimento pessoal pela recepção pensada de um relato comunicado por outra pessoa?",
           "studyId": "theosophy/18",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "Chapter 4. The Path Of Knowledge",
           "sourceChapterMarker": 4,
           "sourceLecture": null,
-          "sourceSpan": "154–161"
+          "sourceSpan": "PDF captures 82–85",
+          "readingNumber": "4.1"
         },
         {
           "id": 19,
           "pathEn": "docs/lessons/19.html",
           "pathPt": "docs/pt/lessons/19.html",
-          "titleEn": "Feeling as an instrument of understanding",
-          "titlePt": "O sentimento como instrumento de compreensão",
-          "goalEn": "Explain the transformation of sympathy, antipathy, pleasure, and pain without confusing it with emotional numbness.",
-          "goalPt": "Explicar a transformação de simpatia, antipatia, prazer e dor sem confundi-la com insensibilidade emocional.",
+          "titleEn": "Feeling and equanimity",
+          "titlePt": "Sentimento e equanimidade",
+          "goalEn": "How does Steiner propose changing the relation between feeling and action?",
+          "goalPt": "Como Steiner propõe modificar a relação entre sentimento e ação?",
           "studyId": "theosophy/19",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "Chapter 4. The Path Of Knowledge",
           "sourceChapterMarker": 4,
           "sourceLecture": null,
-          "sourceSpan": "161–165"
+          "sourceSpan": "PDF captures 85–86",
+          "readingNumber": "4.2"
         },
         {
           "id": 20,
           "pathEn": "docs/lessons/20.html",
           "pathPt": "docs/pt/lessons/20.html",
-          "titleEn": "Ordered thought and the education of will",
-          "titlePt": "Pensamento ordenado e educação da vontade",
-          "goalEn": "Connect disciplined reasoning and action guided by the good within Steiner’s account of spiritual development.",
-          "goalPt": "Relacionar raciocínio disciplinado e ação orientada pelo bem na concepção de desenvolvimento espiritual de Steiner.",
+          "titleEn": "Ordered thinking and educated will",
+          "titlePt": "Pensamento ordenado e vontade educada",
+          "goalEn": "What must guide thinking and action when ordinary sensory facts no longer supply correction?",
+          "goalPt": "O que deve orientar pensamento e ação quando os fatos sensoriais comuns já não fornecem correção?",
           "studyId": "theosophy/20",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "Chapter 4. The Path Of Knowledge",
           "sourceChapterMarker": 4,
           "sourceLecture": null,
-          "sourceSpan": "165–171"
+          "sourceSpan": "PDF captures 87–89",
+          "readingNumber": "4.3"
         },
         {
           "id": 21,
           "pathEn": "docs/lessons/21.html",
           "pathPt": "docs/pt/lessons/21.html",
-          "titleEn": "The eternal, freedom, and initiation",
+          "titleEn": "The eternal, freedom and initiation",
           "titlePt": "O eterno, a liberdade e a iniciação",
-          "goalEn": "Trace the closing progression from transformed feeling to freedom and initiation while preserving individuality and ordinary life.",
-          "goalPt": "Acompanhar a progressão final do sentimento transformado à liberdade e à iniciação, preservando individualidade e vida cotidiana.",
+          "goalEn": "How does knowledge of the eternal become a path toward freedom and initiation without erasing individuality?",
+          "goalPt": "Como o conhecimento do eterno se torna um caminho para liberdade e iniciação sem apagar a individualidade?",
           "studyId": "theosophy/21",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "Chapter 4. The Path Of Knowledge",
           "sourceChapterMarker": 4,
           "sourceLecture": null,
-          "sourceSpan": "171–178"
+          "sourceSpan": "PDF captures 89–92",
+          "readingNumber": "4.4"
         },
         {
           "id": 22,
           "pathEn": "docs/lessons/22.html",
           "pathPt": "docs/pt/lessons/22.html",
-          "titleEn": "Synthesis: the human being, biography, worlds, and knowledge",
-          "titlePt": "Síntese: ser humano, biografia, mundos e conhecimento",
-          "goalEn": "Build a source-supported account of the four chapters and distinguish their claims, arguments, analogies, and qualifications.",
-          "goalPt": "Construir uma interpretação dos quatro capítulos apoiada na fonte, distinguindo afirmações, argumentos, analogias e ressalvas.",
+          "titleEn": "How the four chapters fit together",
+          "titlePt": "Como os quatro capítulos se relacionam",
+          "goalEn": "Why does Theosophy move from the human being to repeated lives, three worlds and a path of knowledge?",
+          "goalPt": "Por que Teosofia passa do ser humano às vidas sucessivas, aos três mundos e a um caminho do conhecimento?",
           "studyId": "theosophy/22",
           "noteFields": [
-            "first",
-            "source",
             "after"
           ],
-          "originalSection": null,
+          "optionalNotes": true,
+          "originalSection": "Chapter 1. The Constitution Of The Human Being · Chapter 2. Re-Embodiment Of The Spirit And Destiny · Chapter 3. The Three Worlds · Chapter 4. The Path Of Knowledge",
           "sourceChapterMarker": 5,
           "sourceLecture": null,
-          "sourceSpan": "1–178"
+          "sourceSpan": "PDF captures 13–92",
+          "readingNumber": "Book synthesis"
         }
       ],
-      "sourceScopePt": "GA 9: quatro capítulos, prefácios, introdução e treze adendos, já integrados às leituras pertinentes."
+      "sourceScopePt": "GA 9: tradução de Elizabeth Douglas Shields de 1910, no PDF Delhi Open Books fornecido: prefácios, introdução, quatro capítulos e nove Notas e Amplificações. A edição Monges/Church de 1971 permanece uma fonte paralela identificada separadamente."
     },
     {
       "route": "philosophy-of-freedom",
@@ -6021,234 +6126,138 @@
     },
     {
       "route": "practical-thinking",
-      "titleEn": "Practical Thinking",
-      "titlePt": "Pensamento prático",
+      "titleEn": "Practical Training in Thought",
+      "titlePt": "Treinamento Prático do Pensar",
       "lessonIds": [
         0,
         1,
+        10,
         2,
         3,
-        4,
         5,
         6,
         7,
         8,
+        11,
+        12,
         9
       ],
       "parts": [
         {
-          "id": "observe",
-          "titleEn": "Observation and inquiry",
-          "titlePt": "Observação e investigação",
-          "questionEn": "How can we distinguish what happened from an explanation?",
-          "questionPt": "Como distinguir o acontecimento de sua explicação?",
+          "id": "practical",
+          "titleEn": "What Makes Thinking Practical?",
+          "titlePt": "O que torna o pensar prático?",
+          "questionEn": "What makes thinking practical for Steiner?",
+          "questionPt": "O que torna o pensar prático para Steiner?",
           "kind": "editorial-part",
           "groups": [
             {
-              "id": "reading-0",
-              "titleEn": "Habit or a reason?",
-              "titlePt": "Hábito ou razão?",
+              "id": "course-part",
+              "titleEn": "What Makes Thinking Practical?",
+              "titlePt": "O que torna o pensar prático?",
               "lessonIds": [
-                0
+                0,
+                1,
+                10
               ],
-              "sourceSection": "Practical Training in Thought, GA108; source sections cited in existing reading",
+              "sourceSection": "Course teaching division of one continuous GA108 lecture, not an original source chapter.",
               "chapterIsOriginal": false,
               "kind": "course-group",
               "sourceChapterNumber": null,
               "sourceLectureNumber": null,
-              "questionEn": "What distinguishes following a familiar routine from acting for a reason that can be examined?",
-              "questionPt": "O que distingue seguir uma rotina familiar de agir por uma razão que pode ser examinada?",
-              "outcomeEn": "Distinguish a familiar routine from a reason that can be examined.",
-              "outcomePt": "Distinga uma rotina familiar de uma razão que pode ser examinada.",
-              "questionSource": "Authored chapter question based on the existing source teaching and learning aim."
-            },
-            {
-              "id": "reading-1",
-              "titleEn": "An attitude of inquiry",
-              "titlePt": "Uma atitude de investigação",
-              "lessonIds": [
-                1
-              ],
-              "sourceSection": "Practical Training in Thought, GA108; source sections cited in existing reading",
-              "chapterIsOriginal": false,
-              "kind": "course-group",
-              "sourceChapterNumber": null,
-              "sourceLectureNumber": null,
-              "questionEn": "How does Steiner’s account of thinking support an attitude of careful inquiry into the world?",
-              "questionPt": "Como a explicação de Steiner sobre o pensar sustenta uma atitude de investigação cuidadosa do mundo?",
-              "outcomeEn": "Distinguish spiritual creative activity from the human thinking that understands it, and connect this idea to careful observation.",
-              "outcomePt": "Distinga a atividade espiritual criadora do pensar humano que a compreende, e relacione essa ideia à observação atenta.",
-              "questionSource": "Authored chapter question based on the existing source teaching and learning aim."
-            },
-            {
-              "id": "reading-2",
-              "titleEn": "Observe before explaining",
-              "titlePt": "Observar antes de explicar",
-              "lessonIds": [
-                2
-              ],
-              "sourceSection": "Practical Training in Thought, GA108; source sections cited in existing reading",
-              "chapterIsOriginal": false,
-              "kind": "course-group",
-              "sourceChapterNumber": null,
-              "sourceLectureNumber": null,
-              "questionEn": "How can we distinguish what was perceived, what is remembered and what is conceptually explained?",
-              "questionPt": "Como distinguir o que foi percebido, o que é lembrado e o que é explicado conceitualmente?",
-              "outcomeEn": "Distinguish percept, mental picture and concept; understand where the astral body enters Steiner’s interpretation.",
-              "outcomePt": "Distinga percepto, representação mental e conceito; compreenda onde o corpo astral entra na interpretação de Steiner.",
-              "questionSource": "Authored chapter question based on the existing source teaching and learning aim."
-            },
-            {
-              "id": "reading-3",
-              "titleEn": "Follow a change",
-              "titlePt": "Acompanhar uma mudança",
-              "lessonIds": [
-                3
-              ],
-              "sourceSection": "Practical Training in Thought, GA108; source sections cited in existing reading",
-              "chapterIsOriginal": false,
-              "kind": "course-group",
-              "sourceChapterNumber": null,
-              "sourceLectureNumber": null,
-              "questionEn": "How can successive observations reveal a change without filling gaps with certainty?",
-              "questionPt": "Como observações sucessivas podem revelar uma mudança sem preencher lacunas com certezas?",
-              "outcomeEn": "Compare successive observations without filling gaps with certainty.",
-              "outcomePt": "Compare observações sucessivas sem preencher lacunas com certezas.",
-              "questionSource": "Authored chapter question based on the existing source teaching and learning aim."
+              "questionEn": "What makes thinking practical for Steiner?",
+              "questionPt": "O que torna o pensar prático para Steiner?",
+              "questionSource": "Course-authored central question grounded in mapped Adams paragraphs."
             }
           ]
         },
         {
-          "id": "think",
-          "titleEn": "Prediction, reconstruction and sustained attention",
-          "titlePt": "Previsão, reconstrução e atenção sustentada",
-          "questionEn": "How do we make reasoning explicit and testable?",
-          "questionPt": "Como tornar o raciocínio explícito e verificável?",
+          "id": "observation",
+          "titleEn": "Learning to Observe",
+          "titlePt": "Aprender a observar",
+          "questionEn": "Why does Steiner begin with observation rather than an immediate explanation?",
+          "questionPt": "Por que Steiner começa pela observação, em vez de explicar imediatamente?",
           "kind": "editorial-part",
           "groups": [
             {
-              "id": "reading-4",
-              "titleEn": "Make a prediction you can check",
-              "titlePt": "Fazer uma previsão verificável",
+              "id": "course-part",
+              "titleEn": "Learning to Observe",
+              "titlePt": "Aprender a observar",
               "lessonIds": [
-                4
-              ],
-              "sourceSection": "Same source lecture; original exercise sequence",
-              "chapterIsOriginal": false,
-              "kind": "course-group",
-              "sourceChapterNumber": null,
-              "sourceLectureNumber": null,
-              "questionEn": "How can a prediction become an expectation that its outcome allows us to revise?",
-              "questionPt": "Como uma previsão pode tornar-se uma expectativa que seu resultado nos permite revisar?",
-              "outcomeEn": "Use an outcome to revise an expectation.",
-              "outcomePt": "Use um resultado para revisar uma expectativa.",
-              "questionSource": "Authored chapter question based on the existing source teaching and learning aim."
-            },
-            {
-              "id": "reading-5",
-              "titleEn": "Investigate how something happened",
-              "titlePt": "Investigar como algo aconteceu",
-              "lessonIds": [
+                2,
+                3,
                 5
               ],
-              "sourceSection": "Same source lecture; original exercise sequence",
+              "sourceSection": "Course teaching division of one continuous GA108 lecture, not an original source chapter.",
               "chapterIsOriginal": false,
               "kind": "course-group",
               "sourceChapterNumber": null,
               "sourceLectureNumber": null,
-              "questionEn": "How can evidence distinguish a proposed earlier cause from an assumed explanation?",
-              "questionPt": "Como as evidências podem distinguir uma causa anterior proposta de uma explicação presumida?",
-              "outcomeEn": "Propose an earlier cause, seek evidence and revise your explanation.",
-              "outcomePt": "Proponha uma causa anterior, procure evidência e revise sua explicação.",
-              "questionSource": "Authored chapter question based on the existing source teaching and learning aim."
-            },
-            {
-              "id": "reading-6",
-              "titleEn": "Choose and sustain a line of thought",
-              "titlePt": "Escolher e sustentar uma linha de pensamento",
-              "lessonIds": [
-                6
-              ],
-              "sourceSection": "Same source lecture; original exercise sequence",
-              "chapterIsOriginal": false,
-              "kind": "course-group",
-              "sourceChapterNumber": null,
-              "sourceLectureNumber": null,
-              "questionEn": "How does choosing and sustaining a subject differ from following habitual concerns or recalling an encounter?",
-              "questionPt": "Como escolher e sustentar um tema se distingue de seguir preocupações habituais ou recordar um encontro?",
-              "outcomeEn": "Deliberately choose a subject outside habitual concerns; distinguish this exercise from detailed recollection.",
-              "outcomePt": "Escolha deliberadamente um assunto fora das preocupações habituais; distinga esse exercício da recordação detalhada.",
-              "questionSource": "Authored chapter question based on the existing source teaching and learning aim."
-            },
-            {
-              "id": "reading-7",
-              "titleEn": "Build and check a mental picture",
-              "titlePt": "Construir e verificar uma imagem mental",
-              "lessonIds": [
-                7
-              ],
-              "sourceSection": "Same source lecture; original exercise sequence",
-              "chapterIsOriginal": false,
-              "kind": "course-group",
-              "sourceChapterNumber": null,
-              "sourceLectureNumber": null,
-              "questionEn": "How can we reconstruct a mental picture while distinguishing memory, uncertainty and imagination?",
-              "questionPt": "Como reconstruir uma representação mental, distinguindo memória, incerteza e imaginação?",
-              "outcomeEn": "Reconstruct details of an encounter and distinguish what you remember, do not know and imagine.",
-              "outcomePt": "Reconstrua detalhes de um encontro e distinga o que lembra, o que não sabe e o que imagina.",
-              "questionSource": "Authored chapter question based on the existing source teaching and learning aim."
+              "questionEn": "Why does Steiner begin with observation rather than an immediate explanation?",
+              "questionPt": "Por que Steiner começa pela observação, em vez de explicar imediatamente?",
+              "questionSource": "Course-authored central question grounded in mapped Adams paragraphs."
             }
           ]
         },
         {
-          "id": "review",
-          "titleEn": "Compare, decide and review",
-          "titlePt": "Comparar, decidir e rever",
-          "questionEn": "What changed after practice?",
-          "questionPt": "O que mudou após a prática?",
+          "id": "training",
+          "titleEn": "Training Thought",
+          "titlePt": "Treinar o pensamento",
+          "questionEn": "What changes when you choose your subject instead of following whatever enters your mind?",
+          "questionPt": "O que muda quando você escolhe o assunto em vez de seguir o que aparece na mente?",
           "kind": "editorial-part",
           "groups": [
             {
-              "id": "reading-8",
-              "titleEn": "Compare, pause and decide",
-              "titlePt": "Comparar, pausar e decidir",
+              "id": "course-part",
+              "titleEn": "Training Thought",
+              "titlePt": "Treinar o pensamento",
               "lessonIds": [
+                6,
+                7,
                 8
               ],
-              "sourceSection": "Same source lecture; original course application",
+              "sourceSection": "Course teaching division of one continuous GA108 lecture, not an original source chapter.",
               "chapterIsOriginal": false,
               "kind": "course-group",
               "sourceChapterNumber": null,
               "sourceLectureNumber": null,
-              "questionEn": "How can comparing alternatives and pausing improve the reasons for a provisional decision?",
-              "questionPt": "Como comparar alternativas e fazer uma pausa pode melhorar as razões para uma decisão provisória?",
-              "outcomeEn": "Examine alternative actions, set the question aside and return with reasons for a provisional choice.",
-              "outcomePt": "Examine ações alternativas, deixe a questão repousar e retome-a com razões para uma escolha provisória.",
-              "questionSource": "Authored chapter question based on the existing source teaching and learning aim."
-            },
+              "questionEn": "What changes when you choose your subject instead of following whatever enters your mind?",
+              "questionPt": "O que muda quando você escolhe o assunto em vez de seguir o que aparece na mente?",
+              "questionSource": "Course-authored central question grounded in mapped Adams paragraphs."
+            }
+          ]
+        },
+        {
+          "id": "judgment",
+          "titleEn": "Practical Judgment",
+          "titlePt": "Juízo Prático",
+          "questionEn": "Why does Steiner ask us to pause after examining the possibilities?",
+          "questionPt": "Por que Steiner pede uma pausa depois do exame das possibilidades?",
+          "kind": "editorial-part",
+          "groups": [
             {
-              "id": "reading-9",
-              "titleEn": "Review how your thinking changed",
-              "titlePt": "Revisar mudanças no pensar",
+              "id": "course-part",
+              "titleEn": "Practical Judgment",
+              "titlePt": "Juízo Prático",
               "lessonIds": [
+                11,
+                12,
                 9
               ],
-              "sourceSection": "Same source lecture; original course application",
+              "sourceSection": "Course teaching division of one continuous GA108 lecture, not an original source chapter.",
               "chapterIsOriginal": false,
               "kind": "course-group",
               "sourceChapterNumber": null,
               "sourceLectureNumber": null,
-              "questionEn": "What can earlier notes reveal about a specific change in thinking and the practice still needed?",
-              "questionPt": "O que as notas anteriores podem revelar sobre uma mudança específica no pensar e sobre a prática ainda necessária?",
-              "outcomeEn": "Use earlier notes to assess a specific change and choose further practice.",
-              "outcomePt": "Use anotações anteriores para avaliar uma mudança específica e escolher uma prática futura.",
-              "questionSource": "Authored chapter question based on the existing source teaching and learning aim."
+              "questionEn": "Why does Steiner ask us to pause after examining the possibilities?",
+              "questionPt": "Por que Steiner pede uma pausa depois do exame das possibilidades?",
+              "questionSource": "Course-authored central question grounded in mapped Adams paragraphs."
             }
           ]
         }
       ],
       "author": "Rudolf Steiner source; original course sequence",
-      "sourceScope": "One lecture, Karlsruhe18January1909, GA108; ten authored practice units, not source chapters. Cloud, watchmaker and questioning guides already provide deep-study supplements.",
+      "sourceScope": "GA 108, Carlsruhe, 18 January 1909; complete available Adams translation, paragraphs 1–48. Four course parts and twelve source-led lessons, plus one retained optional forecast. Paragraph 49 is untranslated; no reliable print pagination.",
       "indexPathEn": "docs/practical-thinking/index.html",
       "indexPathPt": "docs/pt/practical-thinking/index.html",
       "lessons": [
@@ -6256,225 +6265,437 @@
           "id": 0,
           "pathEn": "docs/practical-thinking/lessons/00.html",
           "pathPt": "docs/pt/practical-thinking/lessons/00.html",
-          "titleEn": "Habit or a reason?",
-          "titlePt": "Hábito ou razão?",
-          "goalEn": "Distinguish a familiar routine from a reason that can be examined.",
-          "goalPt": "Distinga uma rotina familiar de uma razão que pode ser examinada.",
+          "titleEn": "Practical and Impractical Thinking",
+          "titlePt": "Pensar prático e pensar pouco prático",
+          "goalEn": "Distinguish inherited habits and clever plans from thinking that can meet real circumstances.",
+          "goalPt": "Distinga hábitos herdados e planos engenhosos do pensar capaz de responder às circunstâncias reais.",
           "studyId": "practical-thinking/00",
           "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
             "first",
             "source",
+            "after",
             "session1",
             "session2",
-            "session3",
-            "after"
+            "session3"
           ],
-          "originalSection": null,
-          "sourceChapterMarker": null,
-          "sourceLecture": null,
-          "sourceSpan": null
+          "sequence": 1,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              1,
+              8
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
         },
         {
           "id": 1,
           "pathEn": "docs/practical-thinking/lessons/01.html",
           "pathPt": "docs/pt/practical-thinking/lessons/01.html",
-          "titleEn": "An attitude of inquiry",
-          "titlePt": "Uma atitude de investigação",
-          "goalEn": "Distinguish spiritual creative activity from the human thinking that understands it, and connect this idea to careful observation.",
-          "goalPt": "Distinga a atividade espiritual criadora do pensar humano que a compreende, e relacione essa ideia à observação atenta.",
+          "titleEn": "The Attitude Needed for Thinking",
+          "titlePt": "A atitude necessária ao pensar",
+          "goalEn": "Understand Steiner’s spiritual account of thought in the world and the receptive attitude he connects with it.",
+          "goalPt": "Compreenda a concepção espiritual de Steiner sobre o pensamento no mundo e a atitude receptiva que ele relaciona a ela.",
           "studyId": "practical-thinking/01",
           "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
             "first",
             "source",
+            "after",
             "session1",
             "session2",
-            "session3",
-            "after"
+            "session3"
           ],
-          "originalSection": null,
-          "sourceChapterMarker": null,
-          "sourceLecture": null,
-          "sourceSpan": null
+          "sequence": 2,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              9,
+              12
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
+        },
+        {
+          "id": 10,
+          "pathEn": "docs/practical-thinking/lessons/10.html",
+          "pathPt": "docs/pt/practical-thinking/lessons/10.html",
+          "titleEn": "Thinking Must Meet Reality",
+          "titlePt": "O pensar precisa encontrar a realidade",
+          "goalEn": "Examine the real conditions an explanation depends on rather than trusting its internal neatness.",
+          "goalPt": "Examine as condições reais de que uma explicação depende, em vez de confiar apenas em sua organização interna.",
+          "studyId": "practical-thinking/10",
+          "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
+            "first",
+            "source",
+            "after",
+            "session1",
+            "session2",
+            "session3"
+          ],
+          "sequence": 3,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              7,
+              13
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
         },
         {
           "id": 2,
           "pathEn": "docs/practical-thinking/lessons/02.html",
           "pathPt": "docs/pt/practical-thinking/lessons/02.html",
-          "titleEn": "Observe before explaining",
+          "titleEn": "Observe Before Explaining",
           "titlePt": "Observar antes de explicar",
-          "goalEn": "Distinguish percept, mental picture and concept; understand where the astral body enters Steiner’s interpretation.",
-          "goalPt": "Distinga percepto, representação mental e conceito; compreenda onde o corpo astral entra na interpretação de Steiner.",
+          "goalEn": "Form a faithful picture before imposing an explanation on an unfamiliar process.",
+          "goalPt": "Forme uma imagem fiel antes de impor uma explicação a um processo pouco conhecido.",
           "studyId": "practical-thinking/02",
           "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
             "first",
             "source",
+            "after",
             "session1",
             "session2",
-            "session3",
-            "after"
+            "session3"
           ],
-          "originalSection": null,
-          "sourceChapterMarker": null,
-          "sourceLecture": null,
-          "sourceSpan": null
+          "sequence": 4,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              14,
+              18
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
         },
         {
           "id": 3,
           "pathEn": "docs/practical-thinking/lessons/03.html",
           "pathPt": "docs/pt/practical-thinking/lessons/03.html",
-          "titleEn": "Follow a change",
-          "titlePt": "Acompanhar uma mudança",
-          "goalEn": "Compare successive observations without filling gaps with certainty.",
-          "goalPt": "Compare observações sucessivas sem preencher lacunas com certezas.",
+          "titleEn": "Follow Change Through Time",
+          "titlePt": "Acompanhar mudanças ao longo do tempo",
+          "goalEn": "Relate successive pictures while keeping observed states distinct from an imagined transition.",
+          "goalPt": "Relacione imagens sucessivas, distinguindo os estados observados de uma transição imaginada.",
           "studyId": "practical-thinking/03",
           "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
             "first",
             "source",
+            "after",
             "session1",
             "session2",
-            "session3",
-            "after"
+            "session3"
           ],
-          "originalSection": null,
-          "sourceChapterMarker": null,
-          "sourceLecture": null,
-          "sourceSpan": null
-        },
-        {
-          "id": 4,
-          "pathEn": "docs/practical-thinking/lessons/04.html",
-          "pathPt": "docs/pt/practical-thinking/lessons/04.html",
-          "titleEn": "Make a prediction you can check",
-          "titlePt": "Fazer uma previsão verificável",
-          "goalEn": "Use an outcome to revise an expectation.",
-          "goalPt": "Use um resultado para revisar uma expectativa.",
-          "studyId": "practical-thinking/04",
-          "noteFields": [
-            "first",
-            "source",
-            "session1",
-            "session2",
-            "session3",
-            "after"
-          ],
-          "originalSection": null,
-          "sourceChapterMarker": null,
-          "sourceLecture": null,
-          "sourceSpan": null
+          "sequence": 5,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              14,
+              21
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
         },
         {
           "id": 5,
           "pathEn": "docs/practical-thinking/lessons/05.html",
           "pathPt": "docs/pt/practical-thinking/lessons/05.html",
-          "titleEn": "Investigate how something happened",
-          "titlePt": "Investigar como algo aconteceu",
-          "goalEn": "Propose an earlier cause, seek evidence and revise your explanation.",
-          "goalPt": "Proponha uma causa anterior, procure evidência e revise sua explicação.",
+          "titleEn": "Investigate Causes Without Guessing",
+          "titlePt": "Investigar causas sem adivinhar",
+          "goalEn": "Construct a possible earlier cause, inquire into the facts and correct the account.",
+          "goalPt": "Formule uma possível causa anterior, investigue os fatos e corrija o relato.",
           "studyId": "practical-thinking/05",
           "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
             "first",
             "source",
+            "after",
             "session1",
             "session2",
-            "session3",
-            "after"
+            "session3"
           ],
-          "originalSection": null,
-          "sourceChapterMarker": null,
-          "sourceLecture": null,
-          "sourceSpan": null
+          "sequence": 6,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              22,
+              24
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
         },
         {
           "id": 6,
           "pathEn": "docs/practical-thinking/lessons/06.html",
           "pathPt": "docs/pt/practical-thinking/lessons/06.html",
-          "titleEn": "Choose and sustain a line of thought",
-          "titlePt": "Escolher e sustentar uma linha de pensamento",
-          "goalEn": "Deliberately choose a subject outside habitual concerns; distinguish this exercise from detailed recollection.",
-          "goalPt": "Escolha deliberadamente um assunto fora das preocupações habituais; distinga esse exercício da recordação detalhada.",
+          "titleEn": "Sustain a Chosen Thought",
+          "titlePt": "Sustentar um pensamento escolhido",
+          "goalEn": "Deliberately choose and sustain a subject outside your habitual concerns.",
+          "goalPt": "Escolha e sustente deliberadamente um assunto fora das preocupações habituais.",
           "studyId": "practical-thinking/06",
           "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
             "first",
             "source",
+            "after",
             "session1",
             "session2",
-            "session3",
-            "after"
+            "session3"
           ],
-          "originalSection": null,
-          "sourceChapterMarker": null,
-          "sourceLecture": null,
-          "sourceSpan": null
+          "sequence": 7,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              28,
+              28
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
         },
         {
           "id": 7,
           "pathEn": "docs/practical-thinking/lessons/07.html",
           "pathPt": "docs/pt/practical-thinking/lessons/07.html",
-          "titleEn": "Build and check a mental picture",
-          "titlePt": "Construir e verificar uma imagem mental",
-          "goalEn": "Reconstruct details of an encounter and distinguish what you remember, do not know and imagine.",
-          "goalPt": "Reconstrua detalhes de um encontro e distinga o que lembra, o que não sabe e o que imagina.",
+          "titleEn": "Build an Accurate Mental Picture",
+          "titlePt": "Construir uma imagem mental precisa",
+          "goalEn": "Reconstruct details and distinguish remembered material from deliberate invention.",
+          "goalPt": "Reconstrua detalhes e distinga o material lembrado da invenção deliberada.",
           "studyId": "practical-thinking/07",
           "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
             "first",
             "source",
+            "after",
             "session1",
             "session2",
-            "session3",
-            "after"
+            "session3"
           ],
-          "originalSection": null,
-          "sourceChapterMarker": null,
-          "sourceLecture": null,
-          "sourceSpan": null
+          "sequence": 8,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              28,
+              32
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
         },
         {
           "id": 8,
           "pathEn": "docs/practical-thinking/lessons/08.html",
           "pathPt": "docs/pt/practical-thinking/lessons/08.html",
-          "titleEn": "Compare, pause and decide",
-          "titlePt": "Comparar, pausar e decidir",
-          "goalEn": "Examine alternative actions, set the question aside and return with reasons for a provisional choice.",
-          "goalPt": "Examine ações alternativas, deixe a questão repousar e retome-a com razões para uma escolha provisória.",
+          "titleEn": "Compare Possibilities",
+          "titlePt": "Comparar possibilidades",
+          "goalEn": "Picture alternative actions before committing to a decision.",
+          "goalPt": "Imagine ações alternativas antes de assumir uma decisão.",
           "studyId": "practical-thinking/08",
           "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
             "first",
             "source",
+            "after",
             "session1",
             "session2",
-            "session3",
-            "after"
+            "session3"
           ],
-          "originalSection": null,
-          "sourceChapterMarker": null,
-          "sourceLecture": null,
-          "sourceSpan": null
+          "sequence": 9,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              33,
+              34
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
+        },
+        {
+          "id": 11,
+          "pathEn": "docs/practical-thinking/lessons/11.html",
+          "pathPt": "docs/pt/practical-thinking/lessons/11.html",
+          "titleEn": "Pause Before Judgment",
+          "titlePt": "Faça uma Pausa Antes de Julgar",
+          "goalEn": "Set a prepared question aside when circumstances allow, then return to the alternatives before deciding.",
+          "goalPt": "Deixe uma questão já preparada repousar quando as circunstâncias permitirem e retome as alternativas antes de decidir.",
+          "studyId": "practical-thinking/11",
+          "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
+            "first",
+            "source",
+            "after",
+            "session1",
+            "session2",
+            "session3"
+          ],
+          "sequence": 10,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              35,
+              36
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
+        },
+        {
+          "id": 12,
+          "pathEn": "docs/practical-thinking/lessons/12.html",
+          "pathPt": "docs/pt/practical-thinking/lessons/12.html",
+          "titleEn": "Arrive at Conclusions",
+          "titlePt": "Chegue a Conclusões",
+          "goalEn": "Return to the alternatives and form a judgment that follows the circumstances, while checking the direction of cause and effect.",
+          "goalPt": "Retome as alternativas e forme um juízo que acompanhe as circunstâncias, verificando a direção entre causa e efeito.",
+          "studyId": "practical-thinking/12",
+          "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
+            "first",
+            "source",
+            "after",
+            "session1",
+            "session2",
+            "session3"
+          ],
+          "sequence": 11,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              35,
+              38
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
         },
         {
           "id": 9,
           "pathEn": "docs/practical-thinking/lessons/09.html",
           "pathPt": "docs/pt/practical-thinking/lessons/09.html",
-          "titleEn": "Review how your thinking changed",
-          "titlePt": "Revisar mudanças no pensar",
-          "goalEn": "Use earlier notes to assess a specific change and choose further practice.",
-          "goalPt": "Use anotações anteriores para avaliar uma mudança específica e escolher uma prática futura.",
+          "titleEn": "How Thinking Changes Through Practice",
+          "titlePt": "Como o Pensar Muda com a Prática",
+          "goalEn": "Recognize one specific change in your thinking and choose further practice that stays attentive to the things themselves.",
+          "goalPt": "Reconheça uma mudança específica em seu pensar e escolha uma prática futura que continue atenta às próprias coisas.",
           "studyId": "practical-thinking/09",
           "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
             "first",
             "source",
+            "after",
             "session1",
             "session2",
-            "session3",
-            "after"
+            "session3"
           ],
-          "originalSection": null,
-          "sourceChapterMarker": null,
-          "sourceLecture": null,
-          "sourceSpan": null
+          "sequence": 12,
+          "optional": false,
+          "sourceSpan": {
+            "paragraphs": [
+              42,
+              48
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
+        },
+        {
+          "id": 4,
+          "pathEn": "docs/practical-thinking/lessons/04.html",
+          "pathPt": "docs/pt/practical-thinking/lessons/04.html",
+          "titleEn": "Make a Prediction You Can Check",
+          "titlePt": "Fazer uma previsão verificável",
+          "goalEn": "Use an outcome to examine and correct a prepared expectation.",
+          "goalPt": "Use um resultado para examinar e corrigir uma expectativa preparada.",
+          "studyId": "practical-thinking/04",
+          "noteFields": [
+            "date",
+            "exercise",
+            "noticed",
+            "changed"
+          ],
+          "preservedLegacyNoteFields": [
+            "first",
+            "source",
+            "after",
+            "session1",
+            "session2",
+            "session3"
+          ],
+          "sequence": null,
+          "optional": true,
+          "sourceSpan": {
+            "paragraphs": [
+              19,
+              21
+            ],
+            "witness": "GA108 Adams Archive numbered web paragraphs"
+          }
         }
       ],
-      "sourceScopePt": "Uma palestra, Karlsruhe, 18 de janeiro de 1909, GA 108. Dez unidades práticas do curso; os guias da nuvem, do relojoeiro e das perguntas são aprofundamentos.",
-      "authorPt": "Fonte de Rudolf Steiner; sequência original do curso"
+      "sourceScopePt": "GA 108, Carlsruhe, 18 de janeiro de 1909; tradução disponível de Adams completa, parágrafos 1–48. Quatro partes do curso e doze lições baseadas na fonte, além de uma previsão opcional preservada. O parágrafo 49 não foi traduzido; não há paginação impressa confiável.",
+      "authorPt": "Fonte de Rudolf Steiner; sequência original do curso",
+      "optionalLessonIds": [
+        4
+      ]
     },
     {
       "route": "ancient-myths",

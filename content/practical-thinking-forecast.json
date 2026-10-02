@@ -1,0 +1,90 @@
+{
+  "sequence": null,
+  "routeId": 4,
+  "part": null,
+  "paragraphs": [
+    19,
+    21
+  ],
+  "quote": {
+    "paragraph": 20,
+    "en": "Where we feel that we understand a thing, we try to form a picture of what, in our opinion, will take place.",
+    "pt": "Quando sentimos que compreendemos uma coisa, procuramos formar uma imagem do que, em nossa opinião, acontecerá.",
+    "verification": "Exact contiguous wording checked in the numbered Adams Archive paragraph; Portuguese is a new course study translation.",
+    "paragraphSha256": "1b2fa833c443453a7d9e10edf2ab4e29a7cc73bc2a7aea1097b119d407db0a53"
+  },
+  "en": {
+    "title": "Make a Prediction You Can Check",
+    "goal": "Use an outcome to examine and correct a prepared expectation.",
+    "question": "When does Steiner ask us to picture a future event and check it?",
+    "meaning": [
+      "After observing processes whose connection is unclear, Steiner turns to events we believe we understand sufficiently. His neighbour example starts with an action today, imagines what it may lead to tomorrow, and then waits to see what happens. The expectation is definite enough to compare with an event, rather than an indefinite hope that things will somehow improve.",
+      "If the outcome differs, Steiner asks where the mistake lay and why the event developed as it did. If the expectation matches, he warns against self-congratulation. The faculty being trained is thought that can follow and learn from a process. Getting one result right is not the whole purpose; a mismatch provides something definite to examine and correct.",
+      "Steiner connects this method with the inner necessity and thought-forces he says work within things. The ordinary course practice lets you observe your own expectation and revision without treating a result as proof of that wider account. We also distinguish a matching outcome from proof of a unique cause: different circumstances can sometimes produce the same result."
+    ],
+    "key": "Forecast where you have a basis, then let the actual event correct the picture. Neither a confident guess nor a boast completes the practice.",
+    "exercise": "Select an event you believe you understand. Picture what may follow, then wait and observe what actually follows. Compare the event with the expectation. If you were mistaken, examine the error and correct the thought; if you were right, avoid boasting. This is Steiner’s forward-looking exercise, separate from the earlier instruction not to forecast an unfamiliar natural connection.",
+    "application": "You move the workshop sign beside the tool shelf and expect fewer visitors to ask where things belong. This retained modern course example gives the expectation a visible outcome. Visitor numbers, prior experience and help from volunteers also matter. If questions decrease, consider those conditions before deciding what the sign contributed. The additional check of comparable conditions is a course application.",
+    "tryIt": "For one low-stakes event in your own routine, state the expected result and its reason before it happens. Afterwards compare the actual result and identify one condition or mistaken assumption that matters. Keep the earlier expectation unchanged so the revision remains visible. This concise record is the course’s aid; repeat the exercise on another occasion if useful.",
+    "checks": [
+      {
+        "question": "Which starting condition belongs to this forecasting exercise?",
+        "options": [
+          "An event we believe we understand sufficiently to prepare an expectation.",
+          "A completely unknown connection for which every guess is equally suitable.",
+          "A future result that must already be guaranteed."
+        ],
+        "answer": 0,
+        "explanation": "The lecture separates forecasting understood events from its first exercise with unfamiliar connections. The forecast remains open to correction."
+      },
+      {
+        "question": "What does Steiner ask when the result differs from the expectation?",
+        "options": [
+          "Rewrite the original expectation to make it appear correct.",
+          "Examine where the mistake lay and correct the thought.",
+          "Treat the mismatch as proof that observation is useless."
+        ],
+        "answer": 1,
+        "explanation": "The mismatch helps expose how the thought departed from the event. Inquiry and correction serve the practice more than defending the prediction."
+      }
+    ],
+    "connection": "Return to Investigate Causes Without Guessing to work in the other direction: from an event now to a possible earlier cause, followed by inquiry and comparison."
+  },
+  "pt": {
+    "title": "Fazer uma previsão verificável",
+    "goal": "Use um resultado para examinar e corrigir uma expectativa preparada.",
+    "question": "Quando Steiner pede que imaginemos um acontecimento futuro e o verifiquemos?",
+    "meaning": [
+      "Depois de observar processos cuja relação não está clara, Steiner passa a acontecimentos que acreditamos compreender suficientemente. Seu exemplo com um vizinho começa por uma ação de hoje, imagina o que poderá ocorrer amanhã e depois espera para ver o resultado. A expectativa é definida o bastante para ser comparada com um acontecimento, em vez de uma esperança vaga de que tudo melhore de algum modo.",
+      "Se o resultado for diferente, Steiner pede que examinemos onde esteve o erro e por que o acontecimento se desenvolveu daquela maneira. Se a expectativa corresponder, ele alerta contra a vanglória. A capacidade desenvolvida é a de um pensar que acompanha um processo e aprende com ele. Acertar um resultado não é todo o objetivo; uma divergência fornece algo definido para examinar e corrigir.",
+      "Steiner relaciona esse método à necessidade interna e às forças do pensar que, segundo ele, atuam nas coisas. A prática cotidiana do curso permite observar sua expectativa e sua revisão sem tratar um resultado como prova dessa descrição mais ampla. Também distinguimos um resultado correspondente da prova de uma causa única: circunstâncias diferentes às vezes produzem o mesmo resultado."
+    ],
+    "key": "Faça uma previsão quando houver fundamento e depois deixe o acontecimento real corrigir a imagem. Nem uma suposição confiante nem a vanglória completam a prática.",
+    "exercise": "Escolha um acontecimento que acredita compreender. Imagine o que poderá ocorrer depois, espere e observe o que de fato ocorre. Compare o acontecimento com a expectativa. Se houver erro, examine-o e corrija o pensamento; se houver acerto, evite vangloriar-se. Este é o exercício de previsão de Steiner, distinto da instrução anterior de não prever uma relação natural pouco conhecida.",
+    "application": "Você muda a placa da oficina para perto da prateleira de ferramentas e espera que menos visitantes perguntem onde guardar os objetos. Este exemplo moderno preservado do curso dá à expectativa um resultado visível. Quantidade de visitantes, experiência anterior e ajuda de voluntários também importam. Se as perguntas diminuírem, considere essas condições antes de decidir qual foi a contribuição da placa. O cuidado adicional de comparar condições semelhantes é uma aplicação do curso.",
+    "tryIt": "Para um acontecimento simples de sua rotina, diga qual resultado espera e por quê antes que ele ocorra. Depois, compare o resultado real e identifique uma condição ou suposição equivocada relevante. Mantenha a expectativa anterior sem alterações para que a revisão continue visível. Este registro breve é um apoio do curso; repita o exercício em outra ocasião se for útil.",
+    "checks": [
+      {
+        "question": "Qual condição inicial pertence a este exercício de previsão?",
+        "options": [
+          "Um acontecimento que acreditamos compreender suficientemente para preparar uma expectativa.",
+          "Uma relação totalmente desconhecida para a qual toda suposição é igualmente adequada.",
+          "Um resultado futuro que já precisa estar garantido."
+        ],
+        "answer": 0,
+        "explanation": "A palestra distingue a previsão de acontecimentos compreendidos do primeiro exercício com relações pouco conhecidas. A previsão continua aberta à correção."
+      },
+      {
+        "question": "O que Steiner pede quando o resultado difere da expectativa?",
+        "options": [
+          "Reescrever a expectativa inicial para fazê-la parecer correta.",
+          "Examinar onde esteve o erro e corrigir o pensamento.",
+          "Tratar a divergência como prova de que observar é inútil."
+        ],
+        "answer": 1,
+        "explanation": "A divergência ajuda a revelar como o pensamento se afastou do acontecimento. Investigar e corrigir servem mais à prática que defender a previsão."
+      }
+    ],
+    "connection": "Volte a Investigar causas sem adivinhar para trabalhar na direção oposta: de um acontecimento atual a uma possível causa anterior, seguida de investigação e comparação."
+  }
+}

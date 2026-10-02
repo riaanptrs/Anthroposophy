@@ -66,6 +66,13 @@
     });
   }
 
+  // This course shares only the unscored quiz behavior above. Its optional
+  // progress controller owns a separate record and never reads legacy records.
+  if (/\/introduction-to-anthroposophy\//.test(location.pathname)
+    && document.querySelector('main[data-introduction-owned="true"]')) return;
+  if (/^\/(?:Anthroposophy\/)?(?:pt\/)?practical-thinking\/(?:index\.html|tools\.html|source-notes\.html|lessons\/(?:0[0-9]|1[0-2])\.html|parts\/(?:practical|observation|training|judgment)\.html)$/.test(location.pathname)
+    && document.querySelector('main[data-practical-thinking-owned="true"]')) return;
+
   function safeResume(last) {
     if (!last || !validId(String(last.id))) return null;
     try {

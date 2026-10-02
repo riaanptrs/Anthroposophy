@@ -1,25 +1,30 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {thinkingDepth,thinkingRoute} from '../content/thinking-depth.mjs';
-const source='https://rsarchive.org/Lectures/GA108/English/Singles/19090118p02.html';
+import {cloudGuide} from '../content/thinking-cloud-guide.mjs';
+import {esc} from './learning-html.mjs';
+import {validatePracticalThinking} from './check-practical-thinking.mjs';
+// The original depth bank remains available. Concise source-first lessons now
+// have their own fidelity contract; useful introductions and cloud study are
+// rendered as optional study instead of ten mandatory repeated walkthroughs.
+validatePracticalThinking();
+assert.deepEqual(thinkingDepth.map(l=>l.id),Array.from({length:10},(_,i)=>i));
 let steps=0;
 for(const lang of ['en','pt']){
  const base=lang==='pt'?'docs/pt':'docs';
- const index=fs.readFileSync(`${base}/practical-thinking/index.html`,'utf8');
- assert.equal((index.match(/id="exercise-map"/g)||[]).length,1);
- for(const [, ,id] of thinkingRoute[lang])assert.ok(index.includes(`href="lessons/${String(id).padStart(2,'0')}.html"`));
+ const tools=fs.readFileSync(`${base}/practical-thinking/tools.html`,'utf8');
+ assert.equal((tools.match(/id="exercise-map"/g)||[]).length,1);
+ for(const [difficulty,instruction,id] of thinkingRoute[lang]){
+  assert.ok(difficulty.trim()&&instruction.trim()&&Number.isInteger(id)&&id>=0&&id<10,'Preserve original exercise-selection source data');
+  assert.ok(fs.existsSync(`${base}/practical-thinking/lessons/${String(id).padStart(2,'0')}.html`),'Original exercise destination remains accessible');
+ }
  for(const entry of thinkingDepth){
-  const file=`${base}/practical-thinking/lessons/${String(entry.id).padStart(2,'0')}.html`,h=fs.readFileSync(file,'utf8');
-  const core=h.indexOf('id="study-explanation"'),depth=h.indexOf('id="thinking-depth"'),practice=h.indexOf('class="practice"');
-  assert.ok(core>=0&&core<depth&&depth<practice,file+' must teach before independent practice');
-  assert.match(h,/<details class="guided-reveal" open/);
-  assert.equal((h.match(/class="guided-depth-answer"/g)||[]).length,entry[lang].length);
-  assert.ok(h.includes(source)&&h.includes('thinking-depth.css'));
-  for(const step of entry[lang])assert.ok(step.length===6&&step.every(t=>typeof t==='string'&&t.trim()));
-  for(const field of ['first','session1','session2','session3'])assert.ok(h.includes(`data-note-field="${field}"`),file+' missing preserved note field');
+  for(const step of entry[lang])assert.ok(step.length===6&&step.every(t=>typeof t==='string'&&t.trim()),'Retained depth data '+entry.id);
+  if(entry.id<2)for(const [heading,meaning,example] of entry[lang])for(const text of [heading,meaning,example])assert.ok(tools.includes(esc(text)),'Retained optional introduction '+entry.id);
   steps+=entry[lang].length;
  }
- const last=fs.readFileSync(`${base}/practical-thinking/lessons/09.html`,'utf8');
- assert.ok(last.includes('38–48')&&last.includes('§ 48'),'Conclusion assignment must include the quoted passage');
+ const cloud=cloudGuide[lang];
+ assert.ok(tools.includes('id="cloud-guide"')&&tools.includes(esc(cloud.title)));
+ for(const [heading,meaning] of cloud.steps)for(const text of [heading,meaning])assert.ok(tools.includes(esc(text)),'Retained cloud-study explanation');
 }
-console.log(`Passed: 20 bilingual lessons, ${steps} guided explanation/answer blocks, teaching before practice, source coverage and preserved notes.`);
+console.log(`Passed: 12 revised bilingual core lessons plus forecasting, ${steps} retained bilingual depth-data blocks, optional introductory examples and cloud study, source-first teaching and stable exercise destinations.`);

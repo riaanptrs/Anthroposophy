@@ -1,0 +1,197 @@
+{
+  "id": 17,
+  "part": 5,
+  "titleEn": "How Steiner Says Spiritual Knowledge Can Be Developed",
+  "titlePt": "Como Steiner afirma que o conhecimento espiritual pode ser desenvolvido",
+  "dependencies": [
+    3,
+    15,
+    16
+  ],
+  "termsIntroduced": [],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga10-modern",
+      "ga": 10,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 1 — Inner Peace",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          34,
+          34
+        ],
+        "pdfPages": [
+          43,
+          43
+        ],
+        "markdownMarkers": null,
+        "anchor": "Paragraph 30: meditation as contemplative reflection, with clear and precise thoughts rather than vague feeling.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read paragraph 30 for the meaning Steiner gives to meditation; the lesson explains his proposed conditions without prescribing a training exercise.",
+      "selectedExcerpt": "Our thoughts should be clear, sharp, precise.",
+      "excerptStatus": "Exact short English source centre independently verified in the supplied original PDF; Portuguese is a course study translation.",
+      "excerptEn": "Our thoughts should be clear, sharp, precise.",
+      "excerptPt": "Nossos pensamentos devem ser claros, nítidos e precisos.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "ga10-modern",
+        "printedPage": 34,
+        "pdfPage": 43,
+        "authorParagraph": 30,
+        "pdfSha256": "971bc0da17486f0e5aeef65e4b9761af2cfed320c4f71b38aa5710ddecddfa8c",
+        "imageInspected": true,
+        "imageReview": "Private review artifact: intro-phase-e-images/ga10-modern-043.png",
+        "method": "Independently compared the exact sentence with the original full-page render and embedded PDF text.",
+        "portuguese": "Original course study translation of the verified Christopher Bamford English sentence."
+      }
+    },
+    {
+      "sourceId": "ga10-modern",
+      "ga": 10,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 5 — Requirements for Esoteric Training",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          98,
+          99
+        ],
+        "pdfPages": [
+          107,
+          108
+        ],
+        "markdownMarkers": null,
+        "anchor": "Clear, proportionate judgment and recognition of common humanity.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read the discussion of clear judgment on page 98 and the opening examples of common humanity on page 99.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Short author-section reading retained without an additional quotation."
+    }
+  ],
+  "sourceGaps": [
+    "Introductory explanation of attention, meditation and moral conditions only; no advanced training exercises."
+  ],
+  "en": {
+    "question": "What conditions does Steiner set for developing spiritual knowledge?",
+    "matters": "Lesson 3 introduced spiritual science as Steiner’s proposed disciplined inquiry. Here we ask what development he thinks the investigator requires. The focus is on the relationship among attention, judgment and ethical life.",
+    "explanation": [
+      "In How to Know Higher Worlds, Steiner treats the knower’s habits of soul as part of the proposed instrument of knowledge. Attention must become deliberate, rather than following every passing impression or wish. His discussion of inner peace asks for an ability to distinguish what is essential from what merely occupies us.",
+      "The selected paragraph calls meditation contemplative reflection: a sustained life in definite thoughts that he says can develop toward spiritual knowledge. It asks for clarity and precision rather than vague feeling. We are examining the role he gives this activity, without adding a procedure for acquiring special perceptual organs.",
+      "Discernment belongs to the same path. On page 98, Steiner distinguishes calm, proportionate judgment from exaggeration, private fantasy and attachment to one’s own opinions. An impressive image or a powerful feeling is not sufficient, in his account, to establish higher knowledge.",
+      "Moral cultivation also affects how we judge. Page 99 asks for recognition of common humanity and illustrates a teacher examining their own conduct before simply blaming a pupil. Steiner links concern for others and honesty about oneself with the effort to know more clearly, rather than treating ethics as an unrelated addition.",
+      "Patience and conscious independence give the development its character. The surrounding pages connect contemplation with greater responsibility in ordinary life. They describe an experienced guide as a friend, rather than someone seeking domination; undertaking the path must be freely chosen. The requirements call for striving toward them, not complete perfection before one can begin."
+    ],
+    "keyConcept": {
+      "term": "Inner development",
+      "definition": "Steiner’s proposed cultivation of clear attention, discernment, patience and moral responsibility while retaining conscious independence."
+    },
+    "example": {
+      "text": "Before answering a difficult message, someone notices an immediate judgment, attends to what was actually said and considers the other person’s circumstances. This illustrates attention and restraint in ordinary life. It does not establish that the person has attained supersensible cognition."
+    },
+    "distinction": "Learning Steiner’s stated conditions differs from personally undertaking spiritual training. Within his proposal, clear contemplation and independent judgment differ from vague feeling, unusual sensations or submission to a teacher’s personality.",
+    "checks": [
+      {
+        "question": "Which quality fits the selected meditation passage?",
+        "options": [
+          "A surrender of conscious judgment.",
+          "Clear, definite and precise thought.",
+          "The belief that every striking image must be spiritual knowledge."
+        ],
+        "answer": 1,
+        "reason": "Paragraph 30 describes contemplative reflection and explicitly asks for clarity rather than vague feeling."
+      },
+      {
+        "question": "Why are moral habits relevant to Steiner’s proposed method?",
+        "options": [
+          "They can help address distortions such as prejudice and self-interest in judging.",
+          "They automatically give every person spiritual perception.",
+          "They remove the need to understand an experience."
+        ],
+        "answer": 0,
+        "reason": "He connects cultivation of the whole knower with the effort to know clearly; moral improvement is not an automatic certificate of higher perception."
+      },
+      {
+        "question": "How does the surrounding text describe guidance?",
+        "options": [
+          "As replacing the learner’s judgment with the teacher’s authority.",
+          "As requiring complete perfection before any beginning.",
+          "As advice that supports a freely chosen path and preserves independence."
+        ],
+        "answer": 2,
+        "reason": "The guide is described as a friend rather than a dominating personality, and the conditions require striving rather than prior perfection."
+      }
+    ],
+    "connection": "The next lesson distinguishes the forms of cognition Steiner says inner development can make possible: Imagination, Inspiration and Intuition.",
+    "deeperStudy": [
+      {
+        "title": "Continue with How to Know Higher Worlds",
+        "route": "/higher-worlds/index.html"
+      }
+    ]
+  },
+  "pt": {
+    "question": "Que condições Steiner estabelece para desenvolver o conhecimento espiritual?",
+    "matters": "A Lição 3 apresentou a ciência espiritual como a investigação disciplinada proposta por Steiner. Aqui perguntamos que desenvolvimento ele considera necessário para quem investiga. O foco está na relação entre atenção, julgamento e vida ética.",
+    "explanation": [
+      "Em Como conhecer os mundos superiores, Steiner considera os hábitos da alma de quem conhece como parte do instrumento de conhecimento proposto. A atenção deve se tornar deliberada, em vez de acompanhar toda impressão ou desejo passageiro. Sua discussão da paz interior pede a capacidade de distinguir o essencial daquilo que apenas nos ocupa.",
+      "O parágrafo selecionado chama a meditação de reflexão contemplativa: uma vida sustentada em pensamentos definidos que, segundo ele, pode se desenvolver em direção ao conhecimento espiritual. O trecho pede clareza e precisão, em vez de sentimentos vagos. Examinamos o papel que ele atribui a essa atividade, sem acrescentar um procedimento para adquirir órgãos especiais de percepção.",
+      "O discernimento pertence ao mesmo caminho. Na página 98, Steiner distingue um julgamento calmo e proporcional do exagero, da fantasia privada e do apego às próprias opiniões. Em sua concepção, uma imagem impressionante ou um sentimento intenso não basta para estabelecer um conhecimento superior.",
+      "O cultivo moral também afeta a maneira como julgamos. A página 99 pede o reconhecimento da humanidade comum e apresenta um professor que examina a própria conduta antes de simplesmente culpar um aluno. Steiner relaciona a consideração pelos outros e a honestidade consigo mesmo ao esforço de conhecer com mais clareza, em vez de tratar a ética como um acréscimo sem relação com esse esforço.",
+      "A paciência e a independência consciente dão caráter a esse desenvolvimento. As páginas ao redor relacionam a contemplação a uma responsabilidade maior na vida cotidiana. Descrevem um orientador experiente como amigo, em vez de alguém que busca dominar; a escolha de seguir o caminho deve ser livre. As condições pedem um esforço para realizá-las, não uma perfeição completa antes de começar."
+    ],
+    "keyConcept": {
+      "term": "Desenvolvimento interior",
+      "definition": "O cultivo da atenção clara, do discernimento, da paciência e da responsabilidade moral proposto por Steiner, mantendo a independência consciente."
+    },
+    "example": {
+      "text": "Antes de responder a uma mensagem difícil, uma pessoa percebe um julgamento imediato, presta atenção ao que de fato foi dito e considera as circunstâncias da outra pessoa. Isso ilustra atenção e contenção na vida cotidiana. Não estabelece que a pessoa tenha alcançado a cognição supersensível."
+    },
+    "distinction": "Aprender as condições apresentadas por Steiner é diferente de realizar pessoalmente um treinamento espiritual. Dentro de sua proposta, a contemplação clara e o julgamento independente diferem de sentimentos vagos, sensações incomuns ou submissão à personalidade de um professor.",
+    "checks": [
+      {
+        "question": "Que qualidade corresponde ao trecho selecionado sobre a meditação?",
+        "options": [
+          "A entrega do julgamento consciente.",
+          "Um pensamento claro, definido e preciso.",
+          "A crença de que toda imagem marcante seja necessariamente conhecimento espiritual."
+        ],
+        "answer": 1,
+        "reason": "O parágrafo 30 descreve a reflexão contemplativa e pede explicitamente clareza, em vez de sentimentos vagos."
+      },
+      {
+        "question": "Por que os hábitos morais são relevantes para o método proposto por Steiner?",
+        "options": [
+          "Eles podem ajudar a enfrentar distorções no julgamento, como o preconceito e o interesse próprio.",
+          "Eles dão automaticamente percepção espiritual a todas as pessoas.",
+          "Eles eliminam a necessidade de compreender uma experiência."
+        ],
+        "answer": 0,
+        "reason": "Ele relaciona o cultivo de quem conhece, como um todo, ao esforço de conhecer claramente; a melhora moral não é um certificado automático de percepção superior."
+      },
+      {
+        "question": "Como o texto ao redor descreve a orientação?",
+        "options": [
+          "Como a substituição do julgamento do estudante pela autoridade do professor.",
+          "Como uma exigência de perfeição completa antes de qualquer começo.",
+          "Como um conselho que apoia um caminho escolhido livremente e preserva a independência."
+        ],
+        "answer": 2,
+        "reason": "O orientador é descrito como amigo, em vez de uma personalidade dominante, e as condições pedem esforço, não perfeição prévia."
+      }
+    ],
+    "connection": "A próxima lição distingue as formas de cognição que, segundo Steiner, o desenvolvimento interior pode tornar possíveis: Imaginação, Inspiração e Intuição.",
+    "deeperStudy": [
+      {
+        "title": "Continue com Como conhecer os mundos superiores",
+        "route": "/pt/higher-worlds/index.html"
+      }
+    ]
+  }
+}

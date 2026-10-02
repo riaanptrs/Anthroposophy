@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "route": "introduction-to-anthroposophy",
+  "titleEn": "Introduction to Anthroposophy",
+  "titlePt": "Introdução à Antroposofia",
+  "lessonCount": 28,
+  "partCount": 7,
+  "phase": "H",
+  "availableLessonIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "parts": [
+    {
+      "number": 1,
+      "roman": "I",
+      "slug": "orientation",
+      "titleEn": "Orientation",
+      "titlePt": "Orientação",
+      "lessonIds": [
+        1,
+        2,
+        3
+      ],
+      "questionEn": "What does Anthroposophy claim to be, and how did Steiner approach knowledge?",
+      "en": {
+        "question": "What does Anthroposophy claim to be, and how did Steiner approach knowledge?",
+        "introduction": "Begin with Steiner’s definition, follow the development of his questions and examine the method he proposes.",
+        "outcomes": [
+          "Anthroposophy as a path of knowledge",
+          "Steiner’s intellectual development",
+          "Investigation and understanding of spiritual claims"
+        ],
+        "synthesis": "Steiner’s definition names a path of knowledge. His autobiography explains how he understands its development, while spiritual science names the disciplined investigation he proposes. Learning to follow these accounts is different from claiming to have carried out their investigations.",
+        "synthesisQuestion": "Why is understanding Steiner’s definition different from possessing the spiritual knowledge he describes?",
+        "synthesisAnswer": "The definition tells us the path’s aim. Understanding his account requires following its ideas and distinctions; firsthand investigation, in his view, requires developed capacities. Neither memorizing the definition nor finding it satisfying supplies those capacities."
+      },
+      "pt": {
+        "question": "O que a antroposofia afirma ser e como Steiner aborda o conhecimento?",
+        "introduction": "Comece pela definição de Steiner, acompanhe o desenvolvimento de suas perguntas e examine o método que ele propõe.",
+        "outcomes": [
+          "Antroposofia como caminho de conhecimento",
+          "O desenvolvimento intelectual de Steiner",
+          "Investigação e compreensão das afirmações espirituais"
+        ],
+        "synthesis": "A definição de Steiner apresenta um caminho de conhecimento. Sua autobiografia explica como ele entende o desenvolvimento desse caminho, enquanto ciência espiritual nomeia a investigação disciplinada que propõe. Aprender a acompanhar esses relatos é diferente de afirmar que se realizou sua investigação.",
+        "synthesisQuestion": "Por que compreender a definição de Steiner é diferente de possuir o conhecimento espiritual que ele descreve?",
+        "synthesisAnswer": "A definição indica o objetivo do caminho. Compreender seu relato exige acompanhar as ideias e distinções; a investigação direta, em sua concepção, exige capacidades desenvolvidas. Nem memorizar a definição nem considerá-la satisfatória proporciona essas capacidades."
+      }
+    },
+    {
+      "number": 2,
+      "roman": "II",
+      "slug": "human-being",
+      "titleEn": "The Human Being",
+      "titlePt": "O ser humano",
+      "lessonIds": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "questionEn": "What distinctions make Steiner’s account of the human being intelligible?",
+      "en": {
+        "question": "What distinctions make Steiner’s account of the human being intelligible?",
+        "introduction": "Move from the broad body/soul/spirit distinction toward differentiated members, soul activities and the developing I.",
+        "outcomes": [
+          "Body, soul and spirit",
+          "Physical, etheric, astral and I",
+          "Thinking, feeling, willing and soul development"
+        ],
+        "synthesis": "Body, soul and spirit describe broad relationships to the world. The fourfold members distinguish material organization, living form, sentient experience and the I. Thinking, feeling and willing describe activities within that life. Soul development concerns how the I works with these capacities, including an orientation to truth and goodness beyond preference. The descriptions illuminate one human being at different levels.",
+        "synthesisQuestion": "How do the fourfold members differ from thinking, feeling and willing?",
+        "synthesisAnswer": "The members distinguish aspects of human constitution: physical body, etheric body, astral body and I. Thinking, feeling and willing distinguish activities, such as understanding a request, feeling concern and helping. They are not alternative names for the same four members. The I can gather and work with this life; its development does not eliminate feeling or sensation."
+      },
+      "pt": {
+        "question": "Que distinções tornam compreensível a concepção do ser humano de Steiner?",
+        "introduction": "Passe da distinção ampla entre corpo, alma e espírito para os membros diferenciados, as atividades anímicas e o Eu em desenvolvimento.",
+        "outcomes": [
+          "Corpo, alma e espírito",
+          "Físico, etérico, astral e Eu",
+          "Pensar, sentir, querer e desenvolvimento anímico"
+        ],
+        "synthesis": "Corpo, alma e espírito descrevem relações amplas com o mundo. Os quatro membros distinguem organização material, forma viva, experiência sensitiva e Eu. Pensar, sentir e querer descrevem atividades dentro dessa vida. O desenvolvimento anímico diz respeito à maneira como o Eu trabalha com essas capacidades, incluindo uma orientação para a verdade e a bondade além das preferências. As descrições esclarecem um mesmo ser humano em níveis diferentes.",
+        "synthesisQuestion": "Como os quatro membros diferem do pensar, sentir e querer?",
+        "synthesisAnswer": "Os membros distinguem aspectos da constituição humana: corpo físico, corpo etérico, corpo astral e Eu. Pensar, sentir e querer distinguem atividades, como compreender um pedido, sentir preocupação e ajudar. Não são nomes alternativos para os mesmos quatro membros. O Eu pode reunir essa vida e trabalhar com ela; seu desenvolvimento não elimina sentimentos nem sensações."
+      }
+    },
+    {
+      "number": 3,
+      "roman": "III",
+      "slug": "human-destiny",
+      "titleEn": "Human Destiny",
+      "titlePt": "Destino humano",
+      "lessonIds": [
+        8,
+        9,
+        10
+      ],
+      "questionEn": "How does Steiner understand an individuality’s development beyond one earthly life?",
+      "en": {
+        "question": "How does Steiner understand an individuality’s development beyond one earthly life?",
+        "introduction": "Ask what continues through earthly lives, how actions have consequences and what changes when physical embodiment ends.",
+        "outcomes": [
+          "Individuality and reincarnation",
+          "Karma as continuing consequences and development",
+          "Death and the changing relation to embodiment"
+        ],
+        "synthesis": "Steiner describes spiritual individuality carrying fruits of experience into renewed embodiment. Karma concerns deeds that continue in the person and in the world; post-death purification concerns relinquishing attachment to the preceding bodily life. Retaining development is different from keeping an unchanged personality, body or memory of every episode. These are related claims in his account, not interchangeable names for one process.",
+        "synthesisQuestion": "How do reincarnation, karma and purification answer different questions?",
+        "synthesisAnswer": "Reincarnation concerns the spiritual individuality’s repeated embodiment. Karma concerns the continuing relation of deeds to soul-life and later circumstances. Purification concerns releasing longings tied to the preceding body. In the account, this release does not erase spiritually assimilable fruits of experience. Understanding these distinctions does not identify another person’s supposed previous life or explain a particular misfortune."
+      },
+      "pt": {
+        "question": "Como Steiner entende o desenvolvimento de uma individualidade além de uma vida terrena?",
+        "introduction": "Pergunte o que continua ao longo das vidas terrenas, como as ações têm consequências e o que muda quando termina a encarnação física.",
+        "outcomes": [
+          "Individualidade e reencarnação",
+          "Carma como continuidade de consequências e desenvolvimento",
+          "Morte e mudança na relação com a encarnação"
+        ],
+        "synthesis": "Steiner descreve a individualidade espiritual trazendo frutos da experiência para uma nova encarnação. O carma diz respeito a atos que continuam na pessoa e no mundo; a purificação após a morte diz respeito à liberação do apego à vida corporal anterior. Preservar desenvolvimento é diferente de conservar uma personalidade, um corpo ou uma memória de todos os episódios sem mudança. São afirmações relacionadas em sua concepção, não nomes intercambiáveis de um único processo.",
+        "synthesisQuestion": "Como reencarnação, carma e purificação respondem a perguntas diferentes?",
+        "synthesisAnswer": "A reencarnação diz respeito às encarnações sucessivas da individualidade espiritual. O carma diz respeito à relação que continua entre os atos, a vida anímica e circunstâncias posteriores. A purificação diz respeito a liberar anseios ligados ao corpo anterior. Nessa descrição, a liberação não apaga os frutos da experiência que podem ser assimilados espiritualmente. Compreender essas distinções não identifica uma suposta vida anterior de outra pessoa nem explica um infortúnio específico."
+      }
+    },
+    {
+      "number": 4,
+      "roman": "IV",
+      "slug": "three-worlds",
+      "titleEn": "The Three Worlds",
+      "titlePt": "Os três mundos",
+      "lessonIds": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "questionEn": "How do physical, soul and spiritual existence differ and relate?",
+      "en": {
+        "question": "How do physical, soul and spiritual existence differ and relate?",
+        "introduction": "Distinguish the three worlds and their relationships with one human being, without treating them as separate physical places.",
+        "outcomes": [
+          "The physical field of sensory encounter",
+          "Soul relations of sympathy and antipathy",
+          "Spiritual archetypes and how the worlds connect"
+        ],
+        "synthesis": "Bodily senses encounter physical forms; soul life responds through feeling and affinity; spirit participates through understanding and formative meaning. Steiner connects these relationships with wider, interpenetrating realities, including a spiritual formative origin of sensible things. One person participates in all three during earthly life. The separate death account changes the bodily instrument and attachment while retaining spiritual fruits; it is not the geography of the parallel-world map.",
+        "synthesisQuestion": "Why does the diagram show three parallel relationships around one human being?",
+        "synthesisAnswer": "The relationships coexist during embodied life: sensory encounter, inward response and spiritual understanding. The fields distinguish kinds of reality in Steiner’s account, not three physical places or merely private viewpoints. He also describes formative realities underlying sensible forms. The separate death panel explains a change in embodiment rather than a route from one box to another."
+      },
+      "pt": {
+        "question": "Como a existência física, anímica e espiritual se diferencia e se relaciona?",
+        "introduction": "Distinga os três mundos e suas relações com um mesmo ser humano, sem tratá-los como lugares físicos separados.",
+        "outcomes": [
+          "O campo físico da experiência sensorial",
+          "Relações anímicas de simpatia e antipatia",
+          "Arquétipos espirituais e as conexões entre os mundos"
+        ],
+        "synthesis": "Os sentidos corporais encontram formas físicas; a vida anímica responde pelo sentimento e pela afinidade; o espírito participa pela compreensão e pelo significado formativo. Steiner relaciona essas relações a realidades mais amplas que se interpenetram, incluindo uma origem espiritual formativa das coisas perceptíveis. Uma mesma pessoa participa das três durante a vida terrena. A descrição separada da morte modifica o instrumento corporal e o apego, preservando frutos espirituais; ela não é a geografia do mapa dos mundos paralelos.",
+        "synthesisQuestion": "Por que o diagrama mostra três relações paralelas em torno de um mesmo ser humano?",
+        "synthesisAnswer": "As relações coexistem durante a vida encarnada: encontro sensorial, resposta interior e compreensão espiritual. Os campos distinguem tipos de realidade na concepção de Steiner, não três lugares físicos nem apenas pontos de vista privados. Ele também descreve realidades formativas que fundamentam as formas perceptíveis. O quadro separado sobre a morte explica uma mudança na encarnação, em vez de um trajeto de um quadro a outro."
+      }
+    },
+    {
+      "number": 5,
+      "roman": "V",
+      "slug": "knowledge-freedom",
+      "titleEn": "Knowledge and Freedom",
+      "titlePt": "Conhecimento e liberdade",
+      "lessonIds": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "questionEn": "How are thinking, free action and spiritual investigation related and distinguished?",
+      "en": {
+        "question": "How are thinking, free action and spiritual investigation related and distinguished?",
+        "introduction": "Examine cognition and freedom before introducing inner development and the source-specific higher modes of cognition.",
+        "outcomes": [
+          "Percept, concept and thinking",
+          "Moral intuition and free action",
+          "Inner development; Imagination, Inspiration and Intuition"
+        ],
+        "synthesis": "This part connects understanding with action and the development of the knower. In GA 4, thinking joins percept and concept, while a free deed arises from an ethical idea individually apprehended and given a concrete form. GA 10 then presents clear attention and moral cultivation as conditions of spiritual inquiry; GA 13 distinguishes Imagination, Inspiration and Intuition as proposed modes of higher cognition. These connections describe Steiner’s framework, without turning ethical imagination or philosophical understanding into proof of every spiritual claim.",
+        "synthesisQuestion": "How does this part distinguish understanding, free action and spiritual investigation?",
+        "synthesisAnswer": "Understanding joins what is observed with intelligible conceptual content. A free deed, in Steiner’s account, has an individually apprehended ethical motive; moral imagination and technique give it a concrete, practicable form. Spiritual investigation adds a proposed development of the knower and distinct modes of higher cognition. Understanding these relationships does not itself amount to firsthand spiritual observation."
+      },
+      "pt": {
+        "question": "Como o pensar, a ação livre e a investigação espiritual se relacionam e se distinguem?",
+        "introduction": "Examine a cognição e a liberdade antes de apresentar o desenvolvimento interior e os modos superiores de cognição próprios das fontes.",
+        "outcomes": [
+          "Percepto, conceito e pensar",
+          "Intuição moral e ação livre",
+          "Desenvolvimento interior; Imaginação, Inspiração e Intuição"
+        ],
+        "synthesis": "Esta parte relaciona a compreensão com a ação e com o desenvolvimento de quem conhece. Em GA 4, o pensar une percepto e conceito, enquanto uma ação livre nasce de uma ideia ética compreendida individualmente e recebe uma forma concreta. GA 10 apresenta a atenção clara e o cultivo moral como condições da investigação espiritual; GA 13 distingue Imaginação, Inspiração e Intuição como modos propostos de cognição superior. Essas relações descrevem a concepção de Steiner, sem transformar a imaginação ética ou a compreensão filosófica em prova de toda afirmação espiritual.",
+        "synthesisQuestion": "Como esta parte distingue compreensão, ação livre e investigação espiritual?",
+        "synthesisAnswer": "Compreender une o que é observado a um conteúdo conceitual inteligível. Na concepção de Steiner, uma ação livre tem um motivo ético compreendido individualmente; a imaginação moral e a técnica lhe dão uma forma concreta e realizável. A investigação espiritual acrescenta um desenvolvimento proposto de quem conhece e modos distintos de cognição superior. Compreender essas relações não equivale, por si só, à observação espiritual direta."
+      }
+    },
+    {
+      "number": 6,
+      "roman": "VI",
+      "slug": "larger-worldview",
+      "titleEn": "The Larger Anthroposophical Worldview",
+      "titlePt": "A cosmovisão antroposófica mais ampla",
+      "lessonIds": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "questionEn": "How does Steiner situate human development within a spiritual cosmic history?",
+      "en": {
+        "question": "How does Steiner situate human development within a spiritual cosmic history?",
+        "introduction": "Learn the role of cosmic development, spiritual beings and the Christ event at introductory depth.",
+        "outcomes": [
+          "Human and cosmic development",
+          "Spiritual beings and differentiated influences",
+          "Lucifer, Ahriman and Christianity in Steiner’s account"
+        ],
+        "synthesis": "Steiner places the development of the human constitution within a spiritual cosmic history. Differentiated beings participate through activities that overlap and develop. Luciferic influence opens independence together with the possibility of error; Ahrimanic influence makes sensory existence appear exhaustive. The Christ event is interpreted as changing humanity’s relationship to spiritual isolation. These connections explain the larger account; they do not turn its claims into conclusions of ordinary astronomy or establish the effects of practical disciplines.",
+        "synthesisQuestion": "How do the cosmic history, differentiated spiritual beings and the Christ event relate in this part?",
+        "synthesisAnswer": "The cosmic history provides a setting for the development of the human constitution. Spiritual beings have different formative activities within it. Luciferic and Ahrimanic influences affect independence and the view into spiritual reality in distinct ways. Steiner places the Christ event at the centre of a change in humanity’s relationship to that reality, including life after death."
+      },
+      "pt": {
+        "question": "Como Steiner situa o desenvolvimento humano em uma história cósmica espiritual?",
+        "introduction": "Compreenda o papel do desenvolvimento cósmico, dos seres espirituais e do acontecimento do Cristo em nível introdutório.",
+        "outcomes": [
+          "Desenvolvimento humano e cósmico",
+          "Seres espirituais e influências diferenciadas",
+          "Lúcifer, Ahriman e cristianismo na concepção de Steiner"
+        ],
+        "synthesis": "Steiner situa o desenvolvimento da constituição humana dentro de uma história cósmica espiritual. Seres diferenciados participam por meio de atividades que se sobrepõem e se desenvolvem. A influência luciférica abre a independência junto com a possibilidade de erro; a influência ahrimânica faz a existência sensorial parecer abranger toda a realidade. O evento do Cristo é interpretado como uma mudança na relação da humanidade com o isolamento espiritual. Essas relações explicam a descrição mais ampla; não transformam suas afirmações em conclusões da astronomia comum nem estabelecem os efeitos das disciplinas práticas.",
+        "synthesisQuestion": "Como a história cósmica, os seres espirituais diferenciados e o evento do Cristo se relacionam nesta parte?",
+        "synthesisAnswer": "A história cósmica oferece um contexto para o desenvolvimento da constituição humana. Os seres espirituais têm diferentes atividades formativas dentro dela. As influências luciférica e ahrimânica afetam de maneiras distintas a independência e a visão da realidade espiritual. Steiner situa o evento do Cristo no centro de uma mudança na relação da humanidade com essa realidade, incluindo a vida após a morte."
+      }
+    },
+    {
+      "number": 7,
+      "roman": "VII",
+      "slug": "applications",
+      "titleEn": "Anthroposophy in Practice",
+      "titlePt": "Antroposofia na prática",
+      "lessonIds": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "questionEn": "How does the conception of the human being lead toward practical work and further study?",
+      "en": {
+        "question": "How does the conception of the human being lead toward practical work and further study?",
+        "introduction": "Connect the worldview with practical questions, identify specialist source needs and choose a deeper book study.",
+        "outcomes": [
+          "Developmental education and Waldorf questions",
+          "Agriculture, art, medicine and eurythmy as bounded orientations",
+          "Social threefolding and the conceptual architecture"
+        ],
+        "synthesis": "The applications ask how a conception of the human being and world enters practical activity. Education considers development and individual differences; agriculture considers relationships within a living farm; artistic work connects experience, thought and created form. Social threefolding distinguishes the conditions of cultural initiative, equal rights and economic cooperation. The final conceptual map gathers these connections with the earlier human, spiritual and philosophical questions, then points toward primary book study. Each specialist application retains its own source needs.",
+        "synthesisQuestion": "How can a shared worldview connect different practical fields without making one field’s source sufficient for all the others?",
+        "synthesisAnswer": "A shared view of development, individuality and living relationships can shape the questions asked in education, agriculture, art and social life. Each field still has a different practical task and requires its own primary account. The course’s conceptual map explains these learning connections; it does not deduce every application from one book or prove all its claims. The next study should follow the primary source for the field you want to understand."
+      },
+      "pt": {
+        "question": "Como a concepção do ser humano conduz ao trabalho prático e a estudos posteriores?",
+        "introduction": "Relacione a cosmovisão com perguntas práticas, identifique as fontes especializadas necessárias e escolha um estudo de livro mais aprofundado.",
+        "outcomes": [
+          "Educação voltada ao desenvolvimento e questões Waldorf",
+          "Agricultura, arte, medicina e euritmia em orientações delimitadas",
+          "Trimembração social e arquitetura conceitual"
+        ],
+        "synthesis": "As aplicações perguntam como uma concepção do ser humano e do mundo entra na atividade prática. A educação considera o desenvolvimento e as diferenças individuais; a agricultura considera as relações dentro de uma propriedade viva; o trabalho artístico conecta experiência, pensamento e forma criada. A trimembração social distingue as condições da iniciativa cultural, da igualdade de direitos e da cooperação econômica. O mapa conceitual final reúne essas conexões com as questões humanas, espirituais e filosóficas anteriores e aponta para o estudo de livros primários. Cada aplicação especializada conserva suas próprias necessidades de fontes.",
+        "synthesisQuestion": "Como uma cosmovisão compartilhada pode conectar diferentes campos práticos sem tornar a fonte de um campo suficiente para todos os outros?",
+        "synthesisAnswer": "Uma visão compartilhada do desenvolvimento, da individualidade e das relações vivas pode orientar as perguntas feitas na educação, na agricultura, na arte e na vida social. Cada campo ainda tem uma tarefa prática diferente e exige sua própria descrição primária. O mapa conceitual do curso explica essas conexões de aprendizagem; não deduz toda aplicação de um livro nem comprova todas as suas afirmações. O próximo estudo deve seguir a fonte primária do campo que você deseja compreender."
+      }
+    }
+  ],
+  "en": {
+    "description": "A guided introduction to Rudolf Steiner’s worldview.",
+    "introduction": "Explore Steiner’s account of the human being, reincarnation, karma, spiritual worlds, thinking, freedom and spiritual knowledge before moving into his major books. Seven parts build a conceptual map through 28 short lessons.",
+    "sourceNotes": {
+      "ga26": "The supplied EPUB credits George and Mary Adams, first English edition 1973, reprinted 1985. It has no fixed printed page list. References use the numbered Leading Thoughts; the opening lesson reads Thoughts 1–3. The unsigned edition introduction is separate from Steiner’s text.",
+      "ga28": "The supplied file is a digital reflow of the 1928 authorized English edition edited by H. Collison. References name its digital PDF positions, not the original printed pages. The main unfinished narrative reaches 1907, with later retrospective references; it does not supply a complete history of later practical movements.",
+      "ga13": "The supplied Creeger translation carries copyright 1997. Its printed page numbers are preserved: add 13 to locate a body page in the PDF. Clopper Almon’s introductory discussion is editorial, while the selected chapters and author preface are Steiner’s.",
+      "ga10-modern": "The chosen supplied edition is Christopher Bamford’s 1994 translation. Add 9 to a printed body page to locate it in the PDF. A second upload labelled 2003 actually carries a 1944 Metaxa imprint and different digital pagination; it is a comparison witness, not the source of this course’s references.",
+      "ga9": "The constitution, destiny and three-world lessons use Elizabeth Douglas Shields’s 1910 translation. The supplied PDF has 94 captures but no reliable original printed folios. These references are labelled PDF captures, separately from the 1971 Monges/Church edition.",
+      "ga4": "The thinking and freedom lessons use Michael Wilson’s 2012 eighth English edition. The 166 PDF captures do not establish printed pagination. Its philosophical argument and moral intuition remain distinct from the later higher-cognition teaching.",
+      "ga327": "The working source is Creeger and Gardner’s 1993 Spiritual Foundations for the Renewal of Agriculture, supplied in Markdown. Lecture 2 is cited by its actual Markdown markers. A parallel Adams translation was checked separately. Full native PDF pages and drawings remain unverified.",
+      "biodynamics-anthology": "This mixed collection distinguishes Steiner’s lectures from Courtney’s introduction and the editor’s summaries. The inspected Agriculture I passage is GA 327 Lecture 4 in the Creeger/Gardner translation; it does not verify Lecture 2 or the full Agriculture PDF.",
+      "colour": "Colour gathers lectures from several cycles. The selected Lecture 4 is GA 286, Dornach, 26 July 1914, translated by Pauline Wehrle. PDF captures are reading-screen positions, not established printed pages; the entire volume is not GA 291.",
+      "four-temperaments": "The 2012 Sophia Books edition credits B. Kelly’s translation, revised by Matthew Barton. The source is Steiner’s Berlin lecture of 4 March 1909, GA 57. Its educational suggestions are supporting historical context; later Waldorf-specific texts are needed for a full programme.",
+      "ga23-opening": "Only the front matter, Smith’s introduction and Steiner’s 1920 preface are supplied. The lesson uses the preface and cites actual Markdown markers; it does not treat contents-page titles as available chapters or invent PDF/printed pages."
+    }
+  },
+  "pt": {
+    "description": "Uma introdução guiada à cosmovisão de Rudolf Steiner.",
+    "introduction": "Explore a concepção de Steiner sobre o ser humano, reencarnação, carma, mundos espirituais, pensar, liberdade e conhecimento espiritual antes de passar aos seus principais livros. Sete partes constroem um mapa conceitual por meio de 28 lições curtas.",
+    "sourceNotes": {
+      "ga26": "O EPUB fornecido credita George e Mary Adams, primeira edição inglesa 1973, reimpressão 1985. Não apresenta uma lista fixa de páginas impressas. As referências usam os Pensamentos-guia numerados; a lição inicial lê os Pensamentos 1–3. A introdução editorial não assinada é separada do texto de Steiner.",
+      "ga28": "O arquivo fornecido é uma versão digital recomposta da edição inglesa autorizada de 1928, editada por H. Collison. As referências indicam posições no PDF digital, não as páginas impressas originais. A narrativa principal, inacabada, chega a 1907, com referências retrospectivas posteriores; não fornece a história completa dos movimentos práticos posteriores.",
+      "ga13": "A tradução de Creeger fornecida traz copyright 1997. As páginas impressas foram preservadas: some 13 para localizar uma página do corpo do livro no PDF. A discussão introdutória de Clopper Almon é editorial; os capítulos escolhidos e o prefácio do autor são de Steiner.",
+      "ga10-modern": "A edição fornecida escolhida é a tradução de Christopher Bamford de 1994. Some 9 a uma página impressa do corpo do livro para localizá-la no PDF. Outro arquivo identificado como 2003 traz, na verdade, dados editoriais de Metaxa de 1944 e outra paginação digital; é uma fonte de comparação, não a fonte das referências deste conjunto inicial.",
+      "ga9": "As lições sobre constituição humana, destino e três mundos usam a tradução de Elizabeth Douglas Shields de 1910. O PDF fornecido tem 94 capturas, mas não apresenta páginas impressas originais confiáveis. As referências são identificadas como capturas do PDF, separadas da edição Monges/Church de 1971.",
+      "ga4": "As lições sobre pensar e liberdade usam a oitava edição inglesa de Michael Wilson, de 2012. As 166 capturas do PDF não estabelecem a paginação impressa. Seu argumento filosófico e a intuição moral permanecem distintos do ensinamento posterior sobre cognição superior.",
+      "ga327": "A fonte de trabalho é Spiritual Foundations for the Renewal of Agriculture, de 1993, na tradução de Creeger e Gardner, fornecida em Markdown. A segunda conferência é citada pelos marcadores reais do Markdown. Uma tradução paralela de Adams foi conferida separadamente. As páginas e os desenhos do PDF completo permanecem sem verificação.",
+      "biodynamics-anthology": "Esta coletânea distingue as conferências de Steiner da introdução de Courtney e dos resumos da editora. O trecho conferido de Agriculture I corresponde à quarta conferência de GA 327 na tradução de Creeger e Gardner; não verifica a segunda conferência nem o PDF completo de Agricultura.",
+      "colour": "Colour reúne conferências de vários ciclos. A quarta conferência selecionada pertence a GA 286, Dornach, 26 de julho de 1914, traduzida por Pauline Wehrle. As capturas do PDF indicam posições da tela de leitura, não páginas impressas verificadas; o volume inteiro não corresponde a GA 291.",
+      "four-temperaments": "A edição da Sophia Books de 2012 credita a tradução de B. Kelly, revisada por Matthew Barton. A fonte é a conferência de Steiner em Berlim de 4 de março de 1909, GA 57. Suas sugestões educacionais oferecem contexto histórico de apoio; textos posteriores específicos da pedagogia Waldorf são necessários para um programa completo.",
+      "ga23-opening": "Foram fornecidos apenas os elementos iniciais, a introdução de Smith e o prefácio de Steiner de 1920. A lição usa o prefácio e cita os marcadores reais do Markdown; não trata os títulos do sumário como capítulos disponíveis nem inventa páginas impressas ou do PDF."
+    }
+  }
+}

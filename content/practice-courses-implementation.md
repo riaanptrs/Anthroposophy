@@ -2,6 +2,8 @@
 
 13 September 2026
 
+Current Practical Training in Thought revision, 2 October 2026: see [the source-led revision review](practical-thinking-review.md). It supersedes this note’s ten-lesson architecture and mandatory multi-session notebook description for that course. The temperament implementation and its existing notebooks remain unchanged. Earlier source banks and lesson IDs are retained for their existing consumers.
+
 ## Published architecture
 
 Eight primary bilingual courses. Practical Training in Thought adds ten lessons; Understanding Temperaments provides one twelve-lesson path drawing on the three existing companions. The 39 earlier temperament lessons remain at their original URLs in an optional source library. Existing notebook identities remain intact and are not automatically converted into completion of new lessons.

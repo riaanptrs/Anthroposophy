@@ -1,0 +1,141 @@
+{
+  "id": 12,
+  "part": 4,
+  "titleEn": "The Soul World",
+  "titlePt": "O mundo anímico",
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "CHAPTER 3. THE THREE WORLDS — 1. THE SOUL WORLD",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          42,
+          50
+        ],
+        "markdownMarkers": null,
+        "anchor": "Non-spatial relation of worlds; soul formations; sympathy and antipathy; regions' interpenetration. Teach the two forces and their qualitative roles rather than the complete seven-region list. Focus captures: 44, 47, 48, 49, 50.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read non-spatial relations in 44 left/centre, sympathy and antipathy in 47 left, self-directed attraction in 48 centre, and interpenetration in 50 left before section 2.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation. No new excerpt reproduction.",
+      "readingEn": "Read non-spatial relations in 44 left/centre, sympathy and antipathy in 47 left, self-directed attraction in 48 centre, and interpenetration in 50 left before section 2.",
+      "sourceScopeLimit": "Teach the two tendencies and their qualitative relationship, without requiring the full seven-region catalogue.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          44,
+          47,
+          48,
+          49,
+          50
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read the relevant source ranges in the matching Markdown and visually checked the listed native PDF captures in column reading order. Exact source assignments and original explanation are used for ranges whose quotation reproduction was previously blocked.",
+        "reviewer": "intro_ga28_biography"
+      },
+      "readingPt": "Leia as relações não espaciais nas colunas esquerda e central de 44, simpatia e antipatia na esquerda de 47, a atração voltada para si na central de 48 e a interpenetração na esquerda de 50, antes da seção 2."
+    }
+  ],
+  "sourceGaps": [],
+  "dependencies": [
+    6,
+    10,
+    11
+  ],
+  "termsIntroduced": [
+    "soul-world",
+    "sympathy",
+    "antipathy"
+  ],
+  "en": {
+    "question": "What does Steiner mean by a world related through inward affinity?",
+    "matters": "Feelings and desires have already appeared in the account of soul life. Steiner connects them with a wider soul world, whose relationships he distinguishes from physical distance and impact.",
+    "explanation": [
+      "Steiner describes the soul world as a reality connected with desires, feelings and inward responses. It is wider than one person’s private experience or remembered pictures. Its formations relate through affinity, rather than being ordinary physical objects whose interaction is described only by position and bodily impact.",
+      "He calls the attractive, connective tendency sympathy. Antipathy names the tendency to exclude and maintain separation. A formation’s relation to its surroundings depends on how these forces interact. Here the words identify directions of relationship; their everyday social meanings are too narrow.",
+      "Attraction can remain directed toward one’s own satisfaction. Sympathy therefore does not automatically mean kindness, just as antipathy is not simply a verdict of moral evil. The source differentiates their combinations and development, but learning the two tendencies is sufficient for this introductory map.",
+      "The soul world is not placed outside the physical world as a distant destination. Steiner says the worlds are not spatially separated and their different regions interpenetrate. Adding this world means proposing a different kind of reality and relationship, rather than adding rarefied physical matter to a map."
+    ],
+    "keyConcept": {
+      "term": "Soul world",
+      "definition": "In Steiner’s account, a wider reality related to soul experience, organized through connective sympathy and separating antipathy."
+    },
+    "example": {
+      "text": "Course illustration: attraction draws you toward an experience; aversion turns you away. These directions help explain the technical words. The familiar feelings illustrate their meaning without establishing the independent soul world Steiner describes."
+    },
+    "distinction": "Technical sympathy is broader than friendliness, and technical antipathy broader than hostility. They describe relationships rather than sorting people into good and bad categories.",
+    "checks": [
+      {
+        "question": "What does sympathy mean in this source account?",
+        "options": [
+          "Always being socially pleasant.",
+          "Attraction and a tendency toward connection.",
+          "Physical closeness measured in metres."
+        ],
+        "answer": 1,
+        "reason": "The word names a connective soul tendency, which can also serve self-directed desires."
+      },
+      {
+        "question": "Is the soul world a distant region of physical space?",
+        "options": [
+          "No; the source describes a different kind of reality that is not spatially separate.",
+          "Yes; travelling farther must eventually reach it."
+        ],
+        "answer": 0,
+        "reason": "Steiner distinguishes worlds by their kind of reality and relationship, not by ordinary physical distance."
+      }
+    ],
+    "connection": "Lesson 13 distinguishes formative spiritual meaning from the soul world’s relations of desire and affinity.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "O que Steiner entende por um mundo relacionado pela afinidade interior?",
+    "matters": "Sentimentos e desejos já apareceram na descrição da vida anímica. Steiner os relaciona a um mundo anímico mais amplo, cujas relações distingue da distância e do impacto físicos.",
+    "explanation": [
+      "Steiner descreve o mundo anímico como uma realidade relacionada a desejos, sentimentos e respostas interiores. Ele é mais amplo que a experiência privada ou as imagens lembradas de uma pessoa. Suas formações se relacionam pela afinidade, em vez de serem objetos físicos comuns cuja interação se descreve apenas pela posição e pelo impacto corporal.",
+      "Ele chama a tendência de atração e conexão de simpatia. Antipatia nomeia a tendência de excluir e manter a separação. A relação de uma formação com o ambiente depende de como essas forças interagem. Aqui, as palavras identificam direções de relacionamento; seus significados sociais cotidianos são estreitos demais.",
+      "A atração pode continuar dirigida à própria satisfação. Simpatia, portanto, não significa automaticamente bondade, assim como antipatia não é simplesmente um veredito de maldade moral. A fonte diferencia suas combinações e seu desenvolvimento, mas aprender as duas tendências é suficiente para este mapa introdutório.",
+      "O mundo anímico não é situado fora do mundo físico como um destino distante. Steiner diz que os mundos não são separados espacialmente e que suas diferentes regiões se interpenetram. Acrescentar esse mundo significa propor outro tipo de realidade e relação, em vez de adicionar matéria física rarefeita a um mapa."
+    ],
+    "keyConcept": {
+      "term": "Mundo anímico",
+      "definition": "Na concepção de Steiner, uma realidade mais ampla relacionada à experiência anímica, organizada pela simpatia que conecta e pela antipatia que separa."
+    },
+    "example": {
+      "text": "Ilustração do curso: a atração aproxima você de uma experiência; a aversão afasta. Essas direções ajudam a explicar as palavras técnicas. Os sentimentos familiares ilustram seu significado sem comprovar o mundo anímico independente descrito por Steiner."
+    },
+    "distinction": "A simpatia técnica é mais ampla que a cordialidade, e a antipatia técnica é mais ampla que a hostilidade. Elas descrevem relações, em vez de classificar pessoas como boas ou más.",
+    "checks": [
+      {
+        "question": "O que simpatia significa na descrição desta fonte?",
+        "options": [
+          "Ser sempre agradável no convívio social.",
+          "Atração e uma tendência à conexão.",
+          "Proximidade física medida em metros."
+        ],
+        "answer": 1,
+        "reason": "A palavra nomeia uma tendência anímica de conexão, que também pode servir a desejos voltados para si mesmo."
+      },
+      {
+        "question": "O mundo anímico é uma região distante do espaço físico?",
+        "options": [
+          "Não; a fonte descreve outro tipo de realidade, que não é espacialmente separado.",
+          "Sim; viajar mais longe permite alcançá-lo."
+        ],
+        "answer": 0,
+        "reason": "Steiner distingue os mundos pelo tipo de realidade e relação, não pela distância física comum."
+      }
+    ],
+    "connection": "A Lição 13 distingue o significado espiritual formativo das relações de desejo e afinidade do mundo anímico.",
+    "deeperStudy": []
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": 14,
+  "part": 4,
+  "titleEn": "How the Three Worlds Relate",
+  "titlePt": "Como os três mundos se relacionam",
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "CHAPTER 3. THE THREE WORLDS — 5. THE PHYSICAL WORLD AND ITS CONNECTION WITH THE SOUL AND SPIRIT LANDS",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          69,
+          74
+        ],
+        "markdownMarkers": null,
+        "anchor": "Simultaneous three-world life, sense encounter, soul response and thought; nature and human constitution are related to the worlds. Focus captures: 69, 70, 71.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Begin at section 5 in capture 69 centre for simultaneous participation. Continue through 69 right and 70 left/centre for the claimed formative origins of sensible forms; 71 supplies the plant illustration.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation. No new excerpt reproduction.",
+      "readingEn": "Begin at section 5 in capture 69 centre for simultaneous participation. Continue through 69 right and 70 left/centre for the claimed formative origins of sensible forms; 71 supplies the plant illustration.",
+      "sourceScopeLimit": "The relationship map is an original course diagram of coexistence, not source geography or a reconstruction of an identified Steiner drawing.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          69,
+          70,
+          71
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read the relevant source ranges in the matching Markdown and visually checked the listed native PDF captures in column reading order. Exact source assignments and original explanation are used for ranges whose quotation reproduction was previously blocked.",
+        "reviewer": "intro_ga28_biography"
+      },
+      "readingPt": "Comece pela seção 5 na coluna central de 69 para a participação simultânea. Continue pela direita de 69 e pelas colunas esquerda e central de 70 para as origens formativas afirmadas das formas perceptíveis; 71 oferece a ilustração da planta."
+    }
+  ],
+  "sourceGaps": [],
+  "dependencies": [
+    4,
+    10,
+    11,
+    12,
+    13
+  ],
+  "termsIntroduced": [],
+  "en": {
+    "question": "How does one human being participate in all three worlds during earthly life?",
+    "matters": "The previous lessons distinguished the worlds. Bringing their relationships together explains why Steiner describes simultaneous participation and why death changes embodiment rather than simply replacing one world with another.",
+    "explanation": [
+      "Steiner says a human being participates in the three worlds simultaneously. Through the body, a person encounters sensible forms and acts upon them. Through the soul, that encounter has a personal response involving feeling, desire and affinity. Through the spirit, understanding opens a relation to meaning and formative reality.",
+      "The soul mediates between bodily encounter and spiritual understanding, and between an intended idea and bodily action. These relationships belong to one human life; distinguishing them does not divide the person into three separate physical objects. The different descriptions make their connections easier to examine.",
+      "The account also makes a claim about the world beyond personal responses: Steiner presents sensible forms as expressions of soul and spiritual formative realities. The three worlds therefore do not mean only three subjective viewpoints on a material object. He describes interpenetrating kinds of reality.",
+      "The parallel fields below are an original teaching arrangement created for this course. They show coexistence and distinct relationships. The separate death panel concerns a change in bodily participation and attachment, preserving the distinction between a simultaneous-life map and the claimed transition beyond physical life."
+    ],
+    "keyConcept": {
+      "term": "Simultaneous participation",
+      "definition": "One human being’s related bodily, soul and spiritual life within the three interpenetrating worlds described by Steiner."
+    },
+    "worldRelationships": [
+      {
+        "domain": "Physical world",
+        "relationship": "Through the body, one encounters sensible forms and acts in earthly surroundings."
+      },
+      {
+        "domain": "Soul world",
+        "relationship": "Through the soul, one responds with feeling, desire, attraction and aversion, participating in a wider world of affinities."
+      },
+      {
+        "domain": "Spiritual world",
+        "relationship": "Through the spirit, one understands meaning and participates, in Steiner’s account, in creative formative realities."
+      }
+    ],
+    "deathTransition": {
+      "text": "In Steiner’s account, bodily death ends the instrument of sensory perception and earthly action. Longings dependent on bodily organs are gradually relinquished, while spiritually assimilable fruits of experience remain and develop as faculties. This release of bodily attachment is distinguished from karma."
+    },
+    "example": {
+      "text": "Course adaptation of the source’s meadow example: you see a flower’s colours, feel joy, and understand relationships in its form and growth. Sensory encounter, personal response and understanding are distinguishable within one experience; this illustrates the relationships without proving the whole world-description."
+    },
+    "distinction": "The diagram’s parallel boxes organize the lesson; they do not indicate three destinations, physical distances or levels of a person’s worth.",
+    "checks": [
+      {
+        "question": "When does the source say a person participates in the three worlds?",
+        "options": [
+          "Only after leaving the body.",
+          "Simultaneously during earthly life.",
+          "In three separate locations at different times."
+        ],
+        "answer": 1,
+        "reason": "The body, soul and spirit relationships coexist in the source’s account of embodied life."
+      },
+      {
+        "question": "What does the separate death panel distinguish?",
+        "options": [
+          "The end of bodily instruments and the claimed retention of spiritually assimilable fruits.",
+          "A route through three stacked physical places.",
+          "A fixed time for every person’s next birth."
+        ],
+        "answer": 0,
+        "reason": "It concerns changing embodiment and attachment, not geography or a uniform timetable."
+      }
+    ],
+    "connection": "Lesson 15 asks how thinking contributes to knowledge, developing the role of understanding shown in this map.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Como um mesmo ser humano participa dos três mundos durante a vida terrena?",
+    "matters": "As lições anteriores distinguiram os mundos. Reunir suas relações explica por que Steiner descreve uma participação simultânea e por que a morte modifica a encarnação, em vez de simplesmente substituir um mundo por outro.",
+    "explanation": [
+      "Steiner diz que um ser humano participa dos três mundos simultaneamente. Pelo corpo, a pessoa encontra formas perceptíveis e age sobre elas. Pela alma, esse encontro tem uma resposta pessoal que envolve sentimento, desejo e afinidade. Pelo espírito, a compreensão abre uma relação com o significado e a realidade formativa.",
+      "A alma faz a mediação entre o encontro corporal e a compreensão espiritual, e entre uma ideia que se pretende realizar e a ação corporal. Essas relações pertencem a uma mesma vida humana; distingui-las não divide a pessoa em três objetos físicos separados. As descrições diferentes tornam suas conexões mais fáceis de examinar.",
+      "A concepção também afirma algo sobre o mundo além das respostas pessoais: Steiner apresenta formas perceptíveis como expressões de realidades formativas anímicas e espirituais. Os três mundos, portanto, não significam apenas três pontos de vista subjetivos sobre um objeto material. Ele descreve tipos de realidade que se interpenetram.",
+      "Os campos paralelos abaixo são uma disposição didática original criada para este curso. Eles mostram coexistência e relações distintas. O quadro separado sobre a morte diz respeito a uma mudança na participação corporal e no apego, preservando a distinção entre um mapa da vida simultânea e a transição afirmada além da vida física."
+    ],
+    "keyConcept": {
+      "term": "Participação simultânea",
+      "definition": "A vida corporal, anímica e espiritual relacionada de um mesmo ser humano nos três mundos que se interpenetram, descritos por Steiner."
+    },
+    "worldRelationships": [
+      {
+        "domain": "Mundo físico",
+        "relationship": "Pelo corpo, encontramos formas perceptíveis e agimos no ambiente terreno."
+      },
+      {
+        "domain": "Mundo anímico",
+        "relationship": "Pela alma, respondemos com sentimento, desejo, atração e aversão, participando de um mundo mais amplo de afinidades."
+      },
+      {
+        "domain": "Mundo espiritual",
+        "relationship": "Pelo espírito, compreendemos o significado e participamos, na concepção de Steiner, de realidades formativas criadoras."
+      }
+    ],
+    "deathTransition": {
+      "text": "Na concepção de Steiner, a morte corporal encerra o instrumento de percepção sensorial e ação terrena. Anseios que dependem de órgãos corporais são gradualmente liberados, enquanto frutos da experiência que podem ser assimilados espiritualmente permanecem e se desenvolvem como capacidades. Essa liberação do apego corporal é distinta do carma."
+    },
+    "example": {
+      "text": "Adaptação do exemplo do prado na fonte: você vê as cores de uma flor, sente alegria e compreende relações em sua forma e seu crescimento. Encontro sensorial, resposta pessoal e compreensão são distinguíveis em uma mesma experiência; isso ilustra as relações sem comprovar toda a descrição dos mundos."
+    },
+    "distinction": "Os quadros paralelos do diagrama organizam a lição; eles não indicam três destinos, distâncias físicas nem níveis de valor de uma pessoa.",
+    "checks": [
+      {
+        "question": "Quando a fonte diz que uma pessoa participa dos três mundos?",
+        "options": [
+          "Somente depois de deixar o corpo.",
+          "Simultaneamente durante a vida terrena.",
+          "Em três lugares separados, em momentos diferentes."
+        ],
+        "answer": 1,
+        "reason": "As relações do corpo, da alma e do espírito coexistem na descrição da vida encarnada apresentada pela fonte."
+      },
+      {
+        "question": "O que o quadro separado sobre a morte distingue?",
+        "options": [
+          "O fim dos instrumentos corporais e a preservação afirmada de frutos que podem ser assimilados espiritualmente.",
+          "Um trajeto por três lugares físicos empilhados.",
+          "Um prazo fixo para o próximo nascimento de cada pessoa."
+        ],
+        "answer": 0,
+        "reason": "Ele diz respeito à mudança de encarnação e apego, não à geografia nem a um calendário uniforme."
+      }
+    ],
+    "connection": "A Lição 15 pergunta como o pensar contribui para o conhecimento, desenvolvendo o papel da compreensão mostrado neste mapa.",
+    "deeperStudy": []
+  }
+}

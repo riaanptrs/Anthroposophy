@@ -1,0 +1,173 @@
+{
+  "id": 11,
+  "part": 4,
+  "titleEn": "The Physical World",
+  "titlePt": "O mundo físico",
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 1. The Constitution Of The Human Being — 1. THE CORPOREAL BEING OF MAN",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          15,
+          16
+        ],
+        "markdownMarkers": null,
+        "anchor": "Human bodily existence belongs to the observable world of mineral, plant and animal existence.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read section 1 in capture 15 centre/right for bodily sensory observation; stop before the Carus quotation. Its concluding paragraph in 16 centre ends before section 2.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation. No new excerpt reproduction.",
+      "readingEn": "Read section 1 in capture 15 centre/right for bodily sensory observation; stop before the Carus quotation. Its concluding paragraph in 16 centre ends before section 2.",
+      "sourceScopeLimit": "The sensory-body definition is assigned; the historically specific Carus medical discussion is outside the conceptual centre.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          15,
+          16
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read the relevant source ranges in the matching Markdown and visually checked the listed native PDF captures in column reading order. Exact source assignments and original explanation are used for ranges whose quotation reproduction was previously blocked.",
+        "reviewer": "intro_ga28_biography"
+      },
+      "readingPt": "Leia a seção 1 nas colunas central e direita de 15 para a observação sensorial do corpo; pare antes da citação de Carus. Seu parágrafo de conclusão na coluna central de 16 termina antes da seção 2."
+    },
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "CHAPTER 3. THE THREE WORLDS — 5. THE PHYSICAL WORLD AND ITS CONNECTION WITH THE SOUL AND SPIRIT LANDS",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          69,
+          71
+        ],
+        "markdownMarkers": null,
+        "anchor": "Ordinary senses encounter forms; thinking explores lawfulness; mineral form and growing plant distinguish completed shape from ongoing formation. Focus captures: 69, 70, 71.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Begin at section 5 in capture 69 centre column. Follow sensory forms and thought in 70, then visible plant growth and the further formative account in 71.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation. No new excerpt reproduction.",
+      "readingEn": "Begin at section 5 in capture 69 centre column. Follow sensory forms and thought in 70, then visible plant growth and the further formative account in 71.",
+      "sourceScopeLimit": "Observable plant growth and the source’s invisible formative interpretation are distinguished; the elemental-kingdom catalogue is not required.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          69,
+          70,
+          71
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read the relevant source ranges in the matching Markdown and visually checked the listed native PDF captures in column reading order. Exact source assignments and original explanation are used for ranges whose quotation reproduction was previously blocked.",
+        "reviewer": "intro_ga28_biography"
+      },
+      "readingPt": "Comece pela seção 5 na coluna central de 69. Acompanhe as formas perceptíveis e o pensar em 70, depois o crescimento visível das plantas e a descrição formativa adicional em 71."
+    }
+  ],
+  "sourceGaps": [],
+  "dependencies": [
+    4,
+    10
+  ],
+  "termsIntroduced": [],
+  "en": {
+    "question": "Why does sensory experience remain necessary in Steiner’s account?",
+    "matters": "The three-world account begins with bodily life and the world encountered through the senses. Keeping that starting point clear prevents spiritual terminology from obscuring ordinary observation and action.",
+    "explanation": [
+      "Through bodily senses, we encounter the forms and processes around us, including our own bodily existence. Steiner places the body within this observable world: its materials, growth and bodily organization belong to nature. Physical life supplies the means through which we perceive surroundings and act upon them.",
+      "Observation and understanding make distinguishable contributions. Looking at a plant shows its current visible form; following its changes raises questions about relations across time. Thinking can seek those relations without making the sensory encounter unreal. A later understanding does not replace the earlier observation.",
+      "In Theosophy, Steiner connects sensible forms with soul and spiritual formative realities. That is a further claim about how the world is constituted, beyond describing what bodily senses encounter. Ordinary observation remains the starting point, rather than becoming proof of every formative being described by the account.",
+      "The physical world also remains a field of learning and work. In the preceding lesson’s account, the spirit acquires experience through earthly embodiment. Consequently, a spiritual interpretation does not make bodily perception or practical action dispensable. It asks how this activity belongs within wider relationships."
+    ],
+    "keyConcept": {
+      "term": "Physical world",
+      "definition": "The sensible world of bodily existence, observable forms and processes, and earthly action."
+    },
+    "example": {
+      "text": "Course adaptation of the source’s plant illustration: observe a plant on two different days. Each observation presents a visible form; comparing them invites understanding of growth. The comparison illustrates a process without proving Steiner’s invisible formative realities."
+    },
+    "distinction": "Distinguishing a visible form from an intelligible relationship does not make the form worthless or unreal.",
+    "checks": [
+      {
+        "question": "What role does the physical world retain?",
+        "options": [
+          "It becomes irrelevant once spiritual terms are introduced.",
+          "It supplies bodily encounter, learning and earthly action.",
+          "It is only an individual’s remembered picture."
+        ],
+        "answer": 1,
+        "reason": "The source retains bodily perception and work as necessary aspects of earthly life."
+      },
+      {
+        "question": "What does comparing a plant on different days add?",
+        "options": [
+          "A question about a process relating its visible forms.",
+          "Proof of a particular invisible being.",
+          "Evidence that the first observation was unreal."
+        ],
+        "answer": 0,
+        "reason": "Understanding a process relates observations; it does not erase them or establish every further spiritual claim."
+      }
+    ],
+    "connection": "Lesson 12 asks how inward response and affinity differ from another physical object or process.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Por que a experiência sensorial continua necessária na concepção de Steiner?",
+    "matters": "A descrição dos três mundos começa com a vida corporal e o mundo encontrado pelos sentidos. Manter claro esse ponto de partida evita que a terminologia espiritual obscureça a observação e a ação comuns.",
+    "explanation": [
+      "Pelos sentidos corporais, encontramos as formas e os processos ao nosso redor, incluindo nossa própria existência corporal. Steiner situa o corpo nesse mundo observável: seus materiais, seu crescimento e sua organização corporal pertencem à natureza. A vida física fornece os meios pelos quais percebemos o ambiente e agimos sobre ele.",
+      "A observação e a compreensão fazem contribuições distintas. Olhar uma planta mostra sua forma visível atual; acompanhar suas mudanças suscita perguntas sobre relações ao longo do tempo. O pensar pode buscar essas relações sem tornar irreal o encontro sensorial. Uma compreensão posterior não substitui a observação anterior.",
+      "Em Teosofia, Steiner relaciona formas perceptíveis a realidades formativas anímicas e espirituais. Essa é uma afirmação adicional sobre a constituição do mundo, além de descrever o que os sentidos corporais encontram. A observação comum continua sendo o ponto de partida, em vez de se tornar prova de cada ser formativo descrito.",
+      "O mundo físico também continua sendo um campo de aprendizado e trabalho. Na concepção da lição anterior, o espírito adquire experiência por meio da encarnação terrena. Assim, uma interpretação espiritual não torna dispensáveis a percepção corporal nem a ação prática. Ela pergunta como essa atividade se insere em relações mais amplas."
+    ],
+    "keyConcept": {
+      "term": "Mundo físico",
+      "definition": "O mundo perceptível da existência corporal, das formas e dos processos observáveis e da ação terrena."
+    },
+    "example": {
+      "text": "Adaptação do exemplo da planta na fonte: observe uma planta em dois dias diferentes. Cada observação apresenta uma forma visível; compará-las convida à compreensão do crescimento. A comparação ilustra um processo sem comprovar as realidades formativas invisíveis de Steiner."
+    },
+    "distinction": "Distinguir uma forma visível de uma relação compreensível não torna a forma sem valor nem irreal.",
+    "checks": [
+      {
+        "question": "Que papel o mundo físico conserva?",
+        "options": [
+          "Ele se torna irrelevante quando termos espirituais são apresentados.",
+          "Ele fornece encontro corporal, aprendizado e ação terrena.",
+          "Ele é apenas uma imagem lembrada por uma pessoa."
+        ],
+        "answer": 1,
+        "reason": "A fonte conserva a percepção corporal e o trabalho como aspectos necessários da vida terrena."
+      },
+      {
+        "question": "O que comparar uma planta em dias diferentes acrescenta?",
+        "options": [
+          "Uma pergunta sobre um processo que relaciona suas formas visíveis.",
+          "A comprovação de um ser invisível específico.",
+          "A evidência de que a primeira observação era irreal."
+        ],
+        "answer": 0,
+        "reason": "Compreender um processo relaciona observações; não as apaga nem estabelece todas as afirmações espirituais adicionais."
+      }
+    ],
+    "connection": "A Lição 12 pergunta como a resposta interior e a afinidade diferem de outro objeto ou processo físico.",
+    "deeperStudy": []
+  }
+}

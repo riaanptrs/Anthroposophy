@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
+import {isPracticalThinkingOwned} from './practical-thinking-owned.mjs';
 
 const expected={'theosophy':23,'higher-worlds':19,'philosophy-of-freedom':22,'practical-thinking':10,'understanding-temperaments':12,'according-to-luke':12,'colour':14,'temperaments':11,'understand-temperament':13,'encountering-the-self':17,'ancient-myths':8,'meditation':9,'mystery-temperaments':15};
 const passages=JSON.parse(fs.readFileSync('content/passage-study.json','utf8'));
@@ -26,6 +27,21 @@ for(const [course,total] of Object.entries(expected))for(let id=0;id<total;id++)
   const base=lang==='en'?'docs':'docs/pt',number=String(id).padStart(2,'0');
   const file=course==='theosophy'?`${base}/lessons/${number}.html`:course==='meditation'?`${base}/meditation/${number}.html`:`${base}/${course}/lessons/${number}.html`;
   const h=fs.readFileSync(file,'utf8');
+  // The historical bank remains authoritative for its beginner-course consumers.
+  // Revised Theosophy uses a separately verified primary-edition passage bank.
+  if(course==='theosophy'){
+   assert.ok(h.includes('data-theosophy-owned="true"'),file+' missing guided Theosophy reading');
+   checked++;
+   continue;
+  }
+  // All ten historical assignments remain registered. The revised course has
+  // its own verified Adams excerpts; do not reapply the older German translations.
+  if(course==='practical-thinking'){
+   assert.ok(isPracticalThinkingOwned(file.slice(5),h),file+' missing scoped Practical source reading');
+   assert.ok(h.includes('data-thought-source')&&h.includes('19090118p02.html'),file+' missing revised source assignment');
+   checked++;
+   continue;
+  }
   assert.equal((h.match(/id="book-passage"/g)||[]).length,1,file);
   const passage=h.indexOf('id="book-passage"'),meaning=h.indexOf('class="passage-explanation"');
   assert.ok(passage<meaning&&meaning>0,file+' missing close reading');
@@ -39,4 +55,4 @@ for(const [course,total] of Object.entries(expected))for(let id=0;id<total;id++)
  }
 }
 assert.equal(checked,370);
-console.log(`Passed: all thirteen source collections, ${assigned.size} lesson assignments, ${checked} bilingual pages, source credits and reading-before-practice order.`);
+console.log(`Passed: all thirteen historical source collections, ${assigned.size} retained assignments and ${checked} bilingual routes; legacy source credits and reading-before-practice order. Revised Theosophy and Practical Thinking have separate primary-source checks.`);

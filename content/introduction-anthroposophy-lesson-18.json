@@ -1,0 +1,166 @@
+{
+  "id": 18,
+  "part": 5,
+  "titleEn": "Imagination, Inspiration and Intuition",
+  "titlePt": "Imaginação, inspiração e intuição",
+  "dependencies": [
+    15,
+    16,
+    17
+  ],
+  "termsIntroduced": [
+    "Imagination",
+    "Inspiration",
+    "Intuition-higher"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 5 — Knowledge of Higher Worlds—Initiation",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          337,
+          338
+        ],
+        "pdfPages": [
+          350,
+          351
+        ],
+        "markdownMarkers": null,
+        "anchor": "Paragraph 41: the contrast among Inspiration, intuitive cognition and the concise three-mode comparison.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read paragraph 41, beginning on page 337 and continuing on page 338. It identifies differences among the modes; it is not an exercise for acquiring them.",
+      "selectedExcerpt": "Imagination brings us to the point where we no longer feel that perceptions are external qualities of beings; instead, we recognize in them the emanations of something that is soul-spiritual in character. Inspiration leads us still further into the inner nature of beings and teaches us to understand what these beings are for each other. In intuition, we penetrate into the beings themselves.",
+      "excerptStatus": "Exact short English source centre independently verified in the supplied original PDF; Portuguese is a course study translation.",
+      "excerptEn": "Imagination brings us to the point where we no longer feel that perceptions are external qualities of beings; instead, we recognize in them the emanations of something that is soul-spiritual in character. Inspiration leads us still further into the inner nature of beings and teaches us to understand what these beings are for each other. In intuition, we penetrate into the beings themselves.",
+      "excerptPt": "A imaginação nos leva ao ponto em que já não sentimos as percepções como qualidades externas dos seres; em vez disso, reconhecemos nelas as emanações de algo de natureza anímico-espiritual. A inspiração nos conduz ainda mais à natureza interior dos seres e nos ensina a compreender o que esses seres são uns para os outros. Na intuição, penetramos nos próprios seres.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "ga13",
+        "printedPage": 338,
+        "pdfPage": 351,
+        "authorParagraph": 41,
+        "pdfSha256": "823538ffb48a143fd92cd359d9536d8630009edfe6933fd06a18abc8d930be03",
+        "imageInspected": true,
+        "imageReview": "Private review artifact: intro-phase-e-images/ga13-351.png",
+        "method": "Independently checked the contiguous three-sentence passage in the original PDF page and embedded text; retained source spelling, punctuation and sentence case.",
+        "portuguese": "Original course study translation of the verified Catherine E. Creeger English passage."
+      }
+    }
+  ],
+  "sourceGaps": [
+    "GA 10’s Preparation/Illumination/Initiation are training stages, not interchangeable names for GA 13’s cognition triad."
+  ],
+  "en": {
+    "question": "How does GA 13 distinguish Imagination, Inspiration and Intuition?",
+    "matters": "These names recur in Steiner’s account of spiritual knowledge. Their everyday meanings can obscure his technical use of them. We need a compact distinction before approaching his larger worldview.",
+    "explanation": [
+      "In An Outline of Esoteric Science, Imagination means a proposed supersensible perception of soul-spiritual expressions and transformations. Steiner speaks of impressions resembling warmth, sound and light as well as images, so the term is broader than visual pictures alone. He distinguishes such claimed perceptions from simply inventing a pleasing mental image.",
+      "Inspiration supplies orientation within those expressions. Steiner associates it with knowing spiritual beings’ inner qualities and relationships: what they are for one another. He compares this with reading. Perceiving individual letters is different from understanding how they belong together in a meaningful whole.",
+      "Intuition, in this technical account, means conscious participation in a spiritual being’s inner nature. The passage explicitly distinguishes it from an indefinite hunch. These three modes can be summarized as soul-spiritual expressions, their relationships and the inner nature of the beings themselves; the labels summarize his distinctions rather than prove that the faculties have been acquired.",
+      "The names describe differences in cognition, rather than a rigid schedule of accomplishments. Steiner allows development toward Imagination and Inspiration to occur in parallel. GA 10’s Preparation, Illumination and Initiation describe training stages and are not interchangeable names for this triad. Likewise, GA 4’s moral intuition and moral imagination retain their ethical context.",
+      "A further boundary concerns what is perceived. Steiner distinguishes images deliberately created in training, initially reflecting the developing soul itself, from the claimed observation of an independent spiritual reality. He also calls the experience of pure thinking an intermediate bridge that is not yet spiritual research. Understanding these distinctions therefore does not mean we have personally investigated the realities described."
+    ],
+    "keyConcept": {
+      "term": "Imagination, Inspiration and Intuition",
+      "definition": "In GA 13, Imagination concerns soul-spiritual expressions, Inspiration their meaningful relationships, and Intuition participation in a spiritual being’s inner nature."
+    },
+    "example": {
+      "text": "A written word contains perceptible letters, but seeing each letter differs from reading their relation as a whole. This comparison helps illustrate the first two distinctions. It does not demonstrate supersensible cognition or provide an equivalent of the higher Intuition Steiner describes."
+    },
+    "distinction": "Higher Imagination is not moral imagination, and higher Intuition is not a lucky guess or automatically acquired by understanding an ethical idea. A deliberately created training image also cannot simply be identified with a discovered spiritual being.",
+    "checks": [
+      {
+        "question": "Which mode does GA 13 associate with recognizing relationships among spiritual beings?",
+        "options": [
+          "Moral technique.",
+          "Inspiration.",
+          "An ordinary hunch."
+        ],
+        "answer": 1,
+        "reason": "Inspiration supplies orientation and understanding of what the beings are for one another."
+      },
+      {
+        "question": "What does higher Intuition mean in the selected account?",
+        "options": [
+          "Conscious participation in a spiritual being’s inner nature.",
+          "Any sudden feeling that seems convincing.",
+          "The ability to devise a practical ethical plan."
+        ],
+        "answer": 0,
+        "reason": "Steiner distinguishes this technical cognition both from an indefinite hunch and from the ethical terms used in GA 4."
+      },
+      {
+        "question": "Why should a created training image not immediately count as a discovered spiritual being?",
+        "options": [
+          "Because every image is necessarily worthless.",
+          "Because seeing an image always proves an independent being exists.",
+          "Because the source distinguishes training and self-perception from the claimed observation of an independent spiritual reality."
+        ],
+        "answer": 2,
+        "reason": "The role of an image in developing a faculty differs from a claim about what that faculty has discovered."
+      }
+    ],
+    "connection": "The next part asks how Steiner uses this account of knowledge to describe the relationship between human development and cosmic development.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Como GA 13 distingue Imaginação, Inspiração e Intuição?",
+    "matters": "Esses nomes reaparecem na concepção de Steiner do conhecimento espiritual. Seus significados cotidianos podem ocultar o uso técnico que ele faz deles. Precisamos de uma distinção breve antes de abordar sua visão de mundo mais ampla.",
+    "explanation": [
+      "Em An Outline of Esoteric Science, Imaginação significa uma percepção supersensível proposta de expressões e transformações anímico-espirituais. Steiner fala de impressões semelhantes ao calor, ao som e à luz, além de imagens, de modo que o termo vai além de imagens apenas visuais. Ele distingue essas percepções que afirma serem possíveis de simplesmente inventar uma imagem mental agradável.",
+      "A Inspiração oferece orientação dentro dessas expressões. Steiner a relaciona ao conhecimento das qualidades interiores e das relações dos seres espirituais: o que eles são uns para os outros. Ele compara isso à leitura. Perceber letras isoladas é diferente de compreender como elas pertencem a um todo significativo.",
+      "Nessa concepção técnica, Intuição significa a participação consciente na natureza interior de um ser espiritual. O trecho a distingue explicitamente de um palpite indefinido. Os três modos podem ser resumidos como expressões anímico-espirituais, suas relações e a natureza interior dos próprios seres; esses termos resumem suas distinções, em vez de provar que as faculdades foram adquiridas.",
+      "Os nomes descrevem diferenças na cognição, em vez de um cronograma rígido de conquistas. Steiner permite que o desenvolvimento da Imaginação e da Inspiração ocorra em paralelo. Preparação, Iluminação e Iniciação, em GA 10, descrevem etapas de treinamento e não são nomes intercambiáveis para essa tríade. Da mesma forma, a intuição moral e a imaginação moral de GA 4 mantêm seu contexto ético.",
+      "Outra distinção diz respeito ao que é percebido. Steiner distingue as imagens criadas deliberadamente no treinamento, que inicialmente refletem a própria alma em desenvolvimento, da observação que afirma ser possível de uma realidade espiritual independente. Também chama a experiência do pensar puro de uma ponte intermediária que ainda não é investigação espiritual. Compreender essas distinções não significa, portanto, que tenhamos investigado pessoalmente as realidades descritas."
+    ],
+    "keyConcept": {
+      "term": "Imaginação, Inspiração e Intuição",
+      "definition": "Em GA 13, a Imaginação diz respeito a expressões anímico-espirituais, a Inspiração às relações significativas entre elas e a Intuição à participação na natureza interior de um ser espiritual."
+    },
+    "example": {
+      "text": "Uma palavra escrita contém letras perceptíveis, mas ver cada letra é diferente de ler sua relação como um todo. Essa comparação ajuda a ilustrar as duas primeiras distinções. Não demonstra a cognição supersensível nem oferece um equivalente da Intuição superior descrita por Steiner."
+    },
+    "distinction": "A Imaginação superior não é a imaginação moral, e a Intuição superior não é um palpite feliz nem é adquirida automaticamente ao compreender uma ideia ética. Da mesma forma, uma imagem criada deliberadamente no treinamento não pode ser simplesmente identificada com um ser espiritual descoberto.",
+    "checks": [
+      {
+        "question": "Que modo GA 13 relaciona ao reconhecimento das relações entre seres espirituais?",
+        "options": [
+          "Técnica moral.",
+          "Inspiração.",
+          "Um palpite comum."
+        ],
+        "answer": 1,
+        "reason": "A Inspiração oferece orientação e compreensão do que os seres são uns para os outros."
+      },
+      {
+        "question": "O que a Intuição superior significa na concepção selecionada?",
+        "options": [
+          "Participação consciente na natureza interior de um ser espiritual.",
+          "Qualquer sentimento repentino que pareça convincente.",
+          "A capacidade de elaborar um plano ético prático."
+        ],
+        "answer": 0,
+        "reason": "Steiner distingue essa cognição técnica tanto de um palpite indefinido quanto dos termos éticos usados em GA 4."
+      },
+      {
+        "question": "Por que uma imagem criada no treinamento não deve contar imediatamente como um ser espiritual descoberto?",
+        "options": [
+          "Porque toda imagem é necessariamente sem valor.",
+          "Porque ver uma imagem sempre prova a existência de um ser independente.",
+          "Porque a fonte distingue treinamento e autopercepção da observação que afirma ser possível de uma realidade espiritual independente."
+        ],
+        "answer": 2,
+        "reason": "O papel de uma imagem no desenvolvimento de uma faculdade é diferente de uma afirmação sobre o que essa faculdade descobriu."
+      }
+    ],
+    "connection": "A próxima parte pergunta como Steiner usa essa concepção do conhecimento para descrever a relação entre o desenvolvimento humano e o desenvolvimento cósmico.",
+    "deeperStudy": []
+  }
+}

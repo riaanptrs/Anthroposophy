@@ -1,0 +1,166 @@
+{
+  "id": 27,
+  "part": 7,
+  "titleEn": "Social Threefolding and Cultural Life",
+  "titlePt": "Trimembração social e vida cultural",
+  "dependencies": [
+    16,
+    23
+  ],
+  "termsIntroduced": [
+    "social-threefolding",
+    "cultural-life",
+    "rights",
+    "economic-association"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga23-opening",
+      "ga": 23,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Preface to the Fourth German Edition — 1920",
+      "locator": {
+        "kind": "Markdown-marker",
+        "printedPages": null,
+        "pdfPages": null,
+        "markdownMarkers": [
+          9,
+          14
+        ],
+        "anchor": "Culture/education autonomy 9–11; economic associations 11–13; equal rights and cooperation among domains 14. Only the supplied preface, not absent main chapters.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read Steiner’s 1920 preface in Markdown markers 9–14. Distinguish his preface from Frank Thomas Smith’s 2019 introduction in 6–7. These are working Markdown locators; no supplied PDF or reliable printed pages are available.",
+      "readingEn": "Read Steiner’s 1920 preface in Markdown markers 9–14. Distinguish his preface from Frank Thomas Smith’s 2019 introduction in 6–7. These are working Markdown locators; no supplied PDF or reliable printed pages are available.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Verified against the supplied Markdown only; native PDF layout and printed pagination are not verified. No direct excerpt selected.",
+      "assignmentVerification": {
+        "sourceId": "ga23-opening",
+        "markdownMarkers": [
+          9,
+          14
+        ],
+        "markdownSha256": "3aed98c1ac9c3c150ea33a1e9cce0ceb5af69ae2548523211ab1eb5c0f16bca8",
+        "imageInspected": false,
+        "method": "Re-read the actual supplied Markdown blocks. No available full PDF witness or inferred print/PDF pages.",
+        "reviewer": "agriculture_appendices"
+      },
+      "readingPt": "Leia o prefácio de Steiner de 1920 nos marcadores 9–14 do Markdown. Distinga seu prefácio da introdução de Frank Thomas Smith de 2019, nos marcadores 6–7. Estes são localizadores de trabalho do Markdown; não há PDF fornecido nem páginas impressas confiáveis disponíveis."
+    }
+  ],
+  "sourceGaps": [
+    "Only the supplied GA 23 opening/prelude and 1920 preface are available as Markdown; complete main chapters and the PDF are missing."
+  ],
+  "en": {
+    "question": "What does the supplied GA 23 preface say about cultural, legal and economic life?",
+    "matters": "Social activities pose different kinds of questions. Steiner’s preface asks how cultural initiative, equal rights and economic cooperation can each develop appropriately. This introduces social threefolding through the actual supplied text.",
+    "explanation": [
+      "The 1920 preface distinguishes three domains within one social organism. Steiner argues for free self-administration in spiritual and cultural life, including education. People responsible for this activity should be able to develop it through their own judgment and initiative.",
+      "In the domain of rights, people meet on an equal basis. The preface distinguishes decisions that concern human standing and shared conditions from judgments based on particular talents or economic output. It places working conditions and working hours within this rights question.",
+      "Economic life has a different task: relating production, distribution and consumption. Steiner proposes associations in which the people involved learn from one another’s practical experience and coordinate their work. He opposes imposing a complete economic scheme from outside those relationships.",
+      "The three domains belong together through cooperation. Their independence is intended to let each develop according to its own task, while contributing to the whole. The preface presents this as an ongoing social question, not a permanent solution contained in a ready-made plan."
+    ],
+    "keyConcept": {
+      "term": "Social threefolding",
+      "definition": "Steiner’s distinction between freely developing cultural life, a domain of equal rights and associative economic life, cooperating within one social organism."
+    },
+    "example": {
+      "text": "Consider a community school: choosing an educational approach is a cultural question; equal legal standing and working conditions are rights questions; coordinating resources and provision raises economic questions. This course example distinguishes tasks. It does not prescribe a complete school governance system."
+    },
+    "distinction": "Independent social domains are not isolated communities. The preface asks for cooperation among activities with different tasks and criteria.",
+    "checks": [
+      {
+        "question": "Which distinction best follows the preface?",
+        "options": [
+          "Cultural initiative, equal rights and economic association address different social tasks.",
+          "One economic plan should settle every educational and legal question.",
+          "The three domains should have no relationship."
+        ],
+        "answer": 0,
+        "reason": "The preface distinguishes their conditions while seeking cooperation within a whole social organism."
+      },
+      {
+        "question": "Why do economic associations matter in this account?",
+        "options": [
+          "They remove the need to understand production or consumption.",
+          "They bring practical experience from producers, distributors and consumers into coordination.",
+          "They give economic output the final say over a person’s legal standing."
+        ],
+        "answer": 1,
+        "reason": "The preface emphasizes judgment developed among people actually involved in economic relationships."
+      },
+      {
+        "question": "What holds the three domains together?",
+        "options": [
+          "A permanent separation of their members.",
+          "The replacement of equal rights with individual talent.",
+          "Cooperation among domains that develop according to their distinct tasks."
+        ],
+        "answer": 2,
+        "reason": "Their independent development is intended to contribute to the unity of the social organism."
+      }
+    ],
+    "sourceNeeded": [
+      "The complete GA 23 text and its PDF are needed for main-chapter institutional details and reliable PDF pagination. The supplied witness contains front matter, Smith’s introduction and Steiner’s 1920 preface only."
+    ],
+    "connection": "Lesson 28 gathers the conceptual connections of the whole course and helps you choose the next primary book to study.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "O que o prefácio fornecido da GA 23 diz sobre a vida cultural, jurídica e econômica?",
+    "matters": "As atividades sociais apresentam diferentes tipos de questões. O prefácio de Steiner pergunta como a iniciativa cultural, a igualdade de direitos e a cooperação econômica podem se desenvolver de modo apropriado. Isso introduz a trimembração social por meio do texto realmente fornecido.",
+    "explanation": [
+      "O prefácio de 1920 distingue três âmbitos dentro de um organismo social. Steiner defende a autoadministração livre na vida espiritual e cultural, incluindo a educação. As pessoas responsáveis por essa atividade devem poder desenvolvê-la por meio de seu próprio julgamento e iniciativa.",
+      "No âmbito dos direitos, as pessoas se encontram em igualdade. O prefácio distingue decisões relativas à condição humana e a condições compartilhadas de julgamentos baseados em talentos particulares ou produção econômica. Ele situa as condições e as horas de trabalho nessa questão dos direitos.",
+      "A vida econômica tem uma tarefa diferente: relacionar produção, distribuição e consumo. Steiner propõe associações nas quais as pessoas envolvidas aprendam com a experiência prática umas das outras e coordenem seu trabalho. Ele se opõe à imposição de um esquema econômico completo de fora dessas relações.",
+      "Os três âmbitos pertencem uns aos outros por meio da cooperação. Sua independência busca permitir que cada um se desenvolva segundo sua própria tarefa, contribuindo para o todo. O prefácio apresenta isso como uma questão social contínua, não como uma solução permanente contida em um plano pronto."
+    ],
+    "keyConcept": {
+      "term": "Trimembração social",
+      "definition": "A distinção de Steiner entre uma vida cultural que se desenvolve livremente, um âmbito de igualdade de direitos e uma vida econômica associativa, cooperando dentro de um organismo social."
+    },
+    "example": {
+      "text": "Considere uma escola comunitária: escolher uma abordagem educacional é uma questão cultural; a igualdade jurídica e as condições de trabalho são questões de direitos; coordenar recursos e abastecimento levanta questões econômicas. Este exemplo do curso distingue tarefas. Ele não prescreve um sistema completo de gestão escolar."
+    },
+    "distinction": "Âmbitos sociais independentes não são comunidades isoladas. O prefácio pede cooperação entre atividades com diferentes tarefas e critérios.",
+    "checks": [
+      {
+        "question": "Qual distinção melhor corresponde ao prefácio?",
+        "options": [
+          "A iniciativa cultural, a igualdade de direitos e a associação econômica abordam tarefas sociais diferentes.",
+          "Um plano econômico deve resolver toda questão educacional e jurídica.",
+          "Os três âmbitos não devem ter relação alguma."
+        ],
+        "answer": 0,
+        "reason": "O prefácio distingue suas condições ao buscar cooperação dentro de um organismo social inteiro."
+      },
+      {
+        "question": "Por que as associações econômicas importam nessa descrição?",
+        "options": [
+          "Elas eliminam a necessidade de compreender a produção ou o consumo.",
+          "Elas trazem a experiência prática de produtores, distribuidores e consumidores para a coordenação.",
+          "Elas dão à produção econômica a decisão final sobre a condição jurídica de uma pessoa."
+        ],
+        "answer": 1,
+        "reason": "O prefácio enfatiza o julgamento desenvolvido entre pessoas realmente envolvidas nas relações econômicas."
+      },
+      {
+        "question": "O que mantém os três âmbitos unidos?",
+        "options": [
+          "Uma separação permanente de seus membros.",
+          "A substituição da igualdade de direitos pelo talento individual.",
+          "A cooperação entre âmbitos que se desenvolvem segundo suas tarefas distintas."
+        ],
+        "answer": 2,
+        "reason": "Seu desenvolvimento independente busca contribuir para a unidade do organismo social."
+      }
+    ],
+    "sourceNeeded": [
+      "O texto completo da GA 23 e seu PDF são necessários para os detalhes institucionais dos capítulos principais e para uma paginação confiável do PDF. A fonte fornecida contém apenas materiais iniciais, a introdução de Smith e o prefácio de Steiner de 1920."
+    ],
+    "connection": "A Lição 28 reúne as conexões conceituais de todo o curso e ajuda você a escolher o próximo livro primário para estudar.",
+    "deeperStudy": []
+  }
+}

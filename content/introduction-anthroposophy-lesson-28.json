@@ -1,0 +1,422 @@
+{
+  "id": 28,
+  "part": 7,
+  "titleEn": "How the Anthroposophical Worldview Fits Together",
+  "titlePt": "Como a cosmovisão antroposófica se articula",
+  "dependencies": [
+    14,
+    16,
+    18,
+    19,
+    22,
+    24,
+    25,
+    26,
+    27
+  ],
+  "termsIntroduced": [
+    "conceptual-dependency",
+    "further-study"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 3 — 5. THE PHYSICAL WORLD AND ITS CONNECTION WITH THE SOUL AND SPIRIT LANDS",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          69,
+          71
+        ],
+        "markdownMarkers": null,
+        "anchor": "Return to the relationships among the worlds as the primary synthesis anchor.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": null,
+      "selectedExcerpt": null,
+      "excerptStatus": "Verified bounded assignment; original course synthesis.",
+      "readingEn": "Focus on capture 69’s account of simultaneous participation and captures 69–70’s soul and spiritual formative relationships. These are PDF capture positions, not printed pages.",
+      "assignmentVerification": {
+        "method": "Phase D complete section reading and native capture69–71 inspection; course synthesis checked against this source centre.",
+        "pdfCapturesInspected": [
+          69,
+          70,
+          71
+        ],
+        "printedPages": null
+      },
+      "readingPt": "Concentre-se na participação simultânea da captura 69 e nas relações formativas anímicas e espirituais das capturas 69–70. São posições de captura do PDF, não páginas impressas."
+    },
+    {
+      "sourceId": "ga4",
+      "ga": 4,
+      "role": "secondary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "The Consequences of Monism: Addition 2, 1918",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          153,
+          154
+        ],
+        "markdownMarkers": null,
+        "anchor": "Philosophical foundation and explicit limit: later book contents cannot be deduced from GA 4.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": null,
+      "selectedExcerpt": null,
+      "excerptStatus": "Verified bounded assignment; original explanation.",
+      "readingEn": "Read the 1918 addition on captures 153–154, especially the statement that later books cannot be deduced from this one.",
+      "assignmentVerification": {
+        "method": "Original capture154 inspected; complete earlier page notes and source plan reviewed.",
+        "pdfCapturesInspected": [
+          154
+        ],
+        "printedPages": null
+      },
+      "readingPt": "Leia o adendo de 1918 nas capturas 153–154, especialmente a afirmação de que os livros posteriores não podem ser deduzidos deste."
+    }
+  ],
+  "sourceGaps": [
+    "GA 13 has no existing local book course. Offer it as an identified next book, not a fabricated course link."
+  ],
+  "en": {
+    "question": "Which conceptual dependencies make the Anthroposophical worldview intelligible, and what should be studied next?",
+    "matters": "The course has introduced several connected accounts of the human being and the world. This map shows why their distinctions matter and helps you choose a deeper book study.",
+    "explanation": [
+      "Begin with human constitution. Body, soul and spirit distinguish broad relationships; the four members differentiate material organization, living form, sentient experience and the I. Individuality concerns the developing I and the spiritual capacities formed through experience. Those distinctions make Steiner’s question about continuity across lives intelligible.",
+      "Reincarnation and karma address different sides of that continuity: renewed embodiment and the continuing consequences of deeds. Death changes the bodily means of participation. The three-world account then distinguishes sensory existence, soul affinity and spiritual formative reality while describing their interpenetration.",
+      "The knowledge question crosses these accounts: how can they be understood or investigated? Thinking connects percept and concept; the freedom argument asks how an ethical idea becomes an individual motive. Steiner presents this philosophy as a foundation for his later work, while explicitly saying that its later contents cannot be deduced from it. His proposed spiritual investigation needs its own account of development and discernment.",
+      "Cosmology places the human members within a wider history of transformation. Applications ask what such a view of the human being might mean for teaching, farming, art or social life. The links below are the course’s learning architecture. Each practice also needs its own sources and examination; an introductory conceptual connection does not supply a complete discipline."
+    ],
+    "keyConcept": {
+      "term": "Conceptual dependency",
+      "definition": "A distinction that helps another question become intelligible. The map explains the learning relationships among the accounts, rather than turning their order into a proof."
+    },
+    "example": null,
+    "distinction": "A philosophical foundation is not a deduction of every spiritual teaching. Steiner’s 1918 addition to The Philosophy of Freedom makes this limit explicit; the course preserves it when connecting knowledge, spiritual investigation and cosmology.",
+    "checks": [
+      {
+        "question": "Why study human constitution before the educational orientation?",
+        "options": [
+          "It clarifies which developing capacities an educational proposal addresses.",
+          "It proves that every proposed school method is effective.",
+          "It replaces the need for educational sources."
+        ],
+        "answer": 0,
+        "reason": "The connection helps frame the educational question. Specific teaching approaches still require their own sources and examination."
+      },
+      {
+        "question": "What do the arrows in this map mean?",
+        "options": [
+          "Each later teaching is logically proven by the earlier one.",
+          "An earlier distinction helps prepare a later question."
+        ],
+        "answer": 1,
+        "reason": "These are learning dependencies. They do not replace the distinct arguments and investigations claimed in the different books."
+      }
+    ],
+    "connection": "Choose the book that develops the question you want to pursue. Theosophy expands the human being and worlds; The Philosophy of Freedom examines thinking and free action; Higher Worlds develops the proposed path of inner work; Esoteric Science expands the wider framework.",
+    "deeperStudy": [],
+    "architectureNodes": [
+      {
+        "label": "Human constitution",
+        "lines": [
+          "Human",
+          "constitution"
+        ]
+      },
+      {
+        "label": "Individuality",
+        "lines": [
+          "Individuality"
+        ]
+      },
+      {
+        "label": "Reincarnation and karma",
+        "lines": [
+          "Reincarnation",
+          "and karma"
+        ]
+      },
+      {
+        "label": "Death and three worlds",
+        "lines": [
+          "Death and",
+          "three worlds"
+        ]
+      },
+      {
+        "label": "Thinking and freedom",
+        "lines": [
+          "Thinking",
+          "and freedom"
+        ]
+      },
+      {
+        "label": "Spiritual investigation",
+        "lines": [
+          "Spiritual",
+          "investigation"
+        ]
+      },
+      {
+        "label": "Cosmic framework",
+        "lines": [
+          "Cosmic",
+          "framework"
+        ]
+      },
+      {
+        "label": "Applications",
+        "lines": [
+          "Applications"
+        ]
+      },
+      {
+        "label": "Further study",
+        "lines": [
+          "Further study"
+        ]
+      }
+    ],
+    "conceptConnections": [
+      {
+        "from": "Human constitution",
+        "to": "Individuality",
+        "reason": "Distinguishing the human members clarifies the developing I and its relationship to experience."
+      },
+      {
+        "from": "Individuality",
+        "to": "Reincarnation and karma",
+        "reason": "A developing individuality raises the source’s questions about continuing capacities and consequences across lives."
+      },
+      {
+        "from": "Reincarnation and karma",
+        "to": "Death and three worlds",
+        "reason": "The continuity account requires distinctions between bodily embodiment and claimed soul and spiritual participation."
+      },
+      {
+        "from": "Thinking and freedom",
+        "to": "Spiritual investigation",
+        "reason": "Self-directed understanding provides a philosophical bridge; higher investigation is a further proposed development, with its own conditions."
+      },
+      {
+        "from": "Spiritual investigation",
+        "to": "Cosmic framework",
+        "reason": "Steiner attributes his cosmic history to spiritual research, rather than deriving it from ordinary astronomy."
+      },
+      {
+        "from": "Cosmic framework",
+        "to": "Applications",
+        "reason": "The wider account informs practical questions, while each application requires its own evidence and specialist sources."
+      },
+      {
+        "from": "Death and three worlds",
+        "to": "Spiritual investigation",
+        "reason": "Claims beyond bodily observation raise the question of what kind of knowledge could support them."
+      },
+      {
+        "from": "Human constitution",
+        "to": "Applications",
+        "reason": "Education can begin with questions about developing human capacities; it need not start with a complete cosmological catalogue."
+      },
+      {
+        "from": "Applications",
+        "to": "Further study",
+        "reason": "A bounded orientation helps identify which foundational book or specialist primary text should be studied next."
+      }
+    ],
+    "pathways": [
+      {
+        "title": "Theosophy — human constitution, destiny and worlds",
+        "route": "theosophy"
+      },
+      {
+        "title": "The Philosophy of Freedom — thinking and free action",
+        "route": "philosophy-of-freedom"
+      },
+      {
+        "title": "How to Know Higher Worlds — the proposed path of inner development",
+        "route": "higher-worlds"
+      },
+      {
+        "title": "An Outline of Esoteric Science (GA 13)",
+        "note": "Book study in the identified Catherine E. Creeger translation: a fuller account of human and cosmic development and spiritual cognition."
+      }
+    ]
+  },
+  "pt": {
+    "question": "Que dependências conceituais tornam compreensível a cosmovisão antroposófica, e o que estudar em seguida?",
+    "matters": "O curso apresentou várias descrições conectadas do ser humano e do mundo. Este mapa mostra por que suas distinções importam e ajuda a escolher um estudo mais aprofundado de um livro.",
+    "explanation": [
+      "Comece pela constituição humana. Corpo, alma e espírito distinguem relações amplas; os quatro membros diferenciam organização material, forma viva, experiência sensitiva e Eu. A individualidade diz respeito ao Eu em desenvolvimento e às capacidades espirituais formadas por meio da experiência. Essas distinções tornam compreensível a questão de Steiner sobre a continuidade entre vidas.",
+      "Reencarnação e carma abordam lados diferentes dessa continuidade: novas encarnações e as consequências duradouras das ações. A morte modifica os meios corporais de participação. A descrição dos três mundos distingue então existência sensorial, afinidade anímica e realidade formativa espiritual, descrevendo também sua interpenetração.",
+      "A questão do conhecimento atravessa essas descrições: como compreendê-las ou investigá-las? O pensar relaciona o percepto — aquilo que é dado à observação — ao conceito; o argumento sobre a liberdade pergunta como uma ideia ética se torna um motivo individual. Steiner apresenta essa filosofia como fundamento de sua obra posterior, mas afirma expressamente que os conteúdos posteriores não podem ser deduzidos dela. A investigação espiritual que propõe precisa de uma descrição própria do desenvolvimento e do discernimento.",
+      "A cosmologia situa os membros humanos em uma história mais ampla de transformação. As aplicações perguntam o que essa visão do ser humano pode significar para o ensino, a agricultura, a arte ou a vida social. As conexões abaixo constituem a arquitetura de aprendizagem do curso. Cada prática também precisa de suas próprias fontes e de exame; uma conexão conceitual introdutória não fornece uma disciplina completa."
+    ],
+    "keyConcept": {
+      "term": "Dependência conceitual",
+      "definition": "Uma distinção que ajuda outra questão a se tornar compreensível. O mapa explica as relações de aprendizagem entre as descrições, sem transformar sua ordem em uma prova."
+    },
+    "example": null,
+    "distinction": "Um fundamento filosófico não é uma dedução de todos os ensinamentos espirituais. O adendo de 1918 de Steiner a A filosofia da liberdade explicita esse limite; o curso o preserva ao conectar conhecimento, investigação espiritual e cosmologia.",
+    "checks": [
+      {
+        "question": "Por que estudar a constituição humana antes da orientação educacional?",
+        "options": [
+          "Isso esclarece quais capacidades em desenvolvimento uma proposta educacional aborda.",
+          "Isso comprova que todo método escolar proposto é eficaz.",
+          "Isso substitui a necessidade de fontes educacionais."
+        ],
+        "answer": 0,
+        "reason": "A conexão ajuda a formular a questão educacional. Abordagens específicas de ensino ainda precisam de suas próprias fontes e de exame."
+      },
+      {
+        "question": "O que significam as setas deste mapa?",
+        "options": [
+          "Cada ensinamento posterior é comprovado logicamente pelo anterior.",
+          "Uma distinção anterior ajuda a preparar uma questão posterior."
+        ],
+        "answer": 1,
+        "reason": "São dependências de aprendizagem. Não substituem os argumentos e as investigações distintos apresentados nos diferentes livros."
+      }
+    ],
+    "connection": "Escolha o livro que desenvolve a questão que deseja aprofundar. Teosofia amplia o estudo do ser humano e dos mundos; A filosofia da liberdade examina o pensar e a ação livre; O conhecimento dos mundos superiores desenvolve o caminho proposto de trabalho interior; A ciência oculta amplia o quadro geral.",
+    "deeperStudy": [],
+    "architectureNodes": [
+      {
+        "label": "Constituição humana",
+        "lines": [
+          "Constituição",
+          "humana"
+        ]
+      },
+      {
+        "label": "Individualidade",
+        "lines": [
+          "Individualidade"
+        ]
+      },
+      {
+        "label": "Reencarnação e carma",
+        "lines": [
+          "Reencarnação",
+          "e carma"
+        ]
+      },
+      {
+        "label": "Morte e três mundos",
+        "lines": [
+          "Morte e",
+          "três mundos"
+        ]
+      },
+      {
+        "label": "Pensar e liberdade",
+        "lines": [
+          "Pensar",
+          "e liberdade"
+        ]
+      },
+      {
+        "label": "Investigação espiritual",
+        "lines": [
+          "Investigação",
+          "espiritual"
+        ]
+      },
+      {
+        "label": "Quadro cósmico",
+        "lines": [
+          "Quadro",
+          "cósmico"
+        ]
+      },
+      {
+        "label": "Aplicações",
+        "lines": [
+          "Aplicações"
+        ]
+      },
+      {
+        "label": "Estudo posterior",
+        "lines": [
+          "Estudo posterior"
+        ]
+      }
+    ],
+    "conceptConnections": [
+      {
+        "from": "Constituição humana",
+        "to": "Individualidade",
+        "reason": "Distinguir os membros humanos esclarece o Eu em desenvolvimento e sua relação com a experiência."
+      },
+      {
+        "from": "Individualidade",
+        "to": "Reencarnação e carma",
+        "reason": "Uma individualidade em desenvolvimento suscita as questões da fonte sobre a continuidade de capacidades e consequências entre vidas."
+      },
+      {
+        "from": "Reencarnação e carma",
+        "to": "Morte e três mundos",
+        "reason": "A descrição da continuidade exige distinguir a existência corporal da participação anímica e espiritual afirmada pela fonte."
+      },
+      {
+        "from": "Pensar e liberdade",
+        "to": "Investigação espiritual",
+        "reason": "A compreensão autônoma oferece uma ponte filosófica; a investigação superior é outro desenvolvimento proposto, com condições próprias."
+      },
+      {
+        "from": "Investigação espiritual",
+        "to": "Quadro cósmico",
+        "reason": "Steiner atribui sua história cósmica à pesquisa espiritual, em vez de deduzi-la da astronomia comum."
+      },
+      {
+        "from": "Quadro cósmico",
+        "to": "Aplicações",
+        "reason": "A descrição mais ampla informa questões práticas, enquanto cada aplicação exige suas próprias evidências e fontes especializadas."
+      },
+      {
+        "from": "Morte e três mundos",
+        "to": "Investigação espiritual",
+        "reason": "Afirmações além da observação corporal suscitam a questão sobre que tipo de conhecimento poderia sustentá-las."
+      },
+      {
+        "from": "Constituição humana",
+        "to": "Aplicações",
+        "reason": "A educação pode começar com perguntas sobre capacidades humanas em desenvolvimento; não precisa começar por um catálogo cosmológico completo."
+      },
+      {
+        "from": "Aplicações",
+        "to": "Estudo posterior",
+        "reason": "Uma orientação delimitada ajuda a identificar qual livro fundamental ou texto primário especializado deve ser estudado em seguida."
+      }
+    ],
+    "pathways": [
+      {
+        "title": "Teosofia — constituição humana, destino e mundos",
+        "route": "theosophy"
+      },
+      {
+        "title": "A filosofia da liberdade — pensar e ação livre",
+        "route": "philosophy-of-freedom"
+      },
+      {
+        "title": "O conhecimento dos mundos superiores — o caminho proposto de desenvolvimento interior",
+        "route": "higher-worlds"
+      },
+      {
+        "title": "An Outline of Esoteric Science / A ciência oculta (GA 13)",
+        "note": "Estudo do livro na tradução identificada de Catherine E. Creeger: uma descrição mais ampla do desenvolvimento humano e cósmico e da cognição espiritual."
+      }
+    ]
+  }
+}

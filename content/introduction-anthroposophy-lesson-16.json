@@ -1,0 +1,192 @@
+{
+  "id": 16,
+  "part": 5,
+  "titleEn": "Freedom and Moral Intuition",
+  "titlePt": "Liberdade e intuição moral",
+  "dependencies": [
+    7,
+    15
+  ],
+  "termsIntroduced": [
+    "freedom",
+    "moral-intuition",
+    "moral-imagination",
+    "moral-technique"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga4",
+      "ga": 4,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "9. The Idea of Freedom",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          101,
+          101
+        ],
+        "markdownMarkers": null,
+        "anchor": "Left column: an action determined purely by ideal content and the immediately following sentence about moral intuitions.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read the preceding paragraph to identify what \"such an action\" means: its motive is ideal content, rather than an external rule or impulse.",
+      "selectedExcerpt": "Such an action presupposes the capacity for moral intuitions.",
+      "excerptStatus": "Exact short English source centre independently verified in the supplied original PDF; Portuguese is a course study translation.",
+      "excerptEn": "Such an action presupposes the capacity for moral intuitions.",
+      "excerptPt": "Uma ação desse tipo pressupõe a capacidade de ter intuições morais.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "ga4",
+        "pdfCapture": 101,
+        "originalPrintedPages": null,
+        "pdfSha256": "2ab71f61fac26589da4bad23139310ff7ffc735e15122e4247ee41551faaa3ff",
+        "imageInspected": true,
+        "imageReview": "Private review artifact: intro-anthroposophy/ga4-images/phase-e-101.png",
+        "method": "Independently checked exact wording in the original left-column paragraph, including the antecedent in the preceding paragraph; line-break whitespace normalized.",
+        "portuguese": "Original course study translation of the verified Michael Wilson English sentence."
+      }
+    },
+    {
+      "sourceId": "ga4",
+      "ga": 4,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "12. Moral Imagination (Darwinism and Morality)",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          120,
+          120
+        ],
+        "markdownMarkers": null,
+        "anchor": "The concrete expression of a moral idea and practical knowledge of the circumstances needed to realize it.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Use the distinction among moral intuition, moral imagination and moral technique as a second short window in the same book.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Short author-section reading retained without an additional quotation."
+    }
+  ],
+  "sourceGaps": [],
+  "en": {
+    "question": "When is an action one’s own in Steiner’s sense, rather than the execution of an impulse or command?",
+    "matters": "Understanding a situation does not yet tell us what to do in it. Steiner connects freedom with the origin of an ethical motive. We also need to distinguish choosing an aim from imagining and carrying out its particular form.",
+    "explanation": [
+      "In the passage surrounding the quotation, “such an action” is determined by ideal content rather than by an external rule or an unexamined impulse. Steiner asks whether the individual actively apprehends the ethical idea that becomes the deed’s motive. He calls this apprehension moral intuition. It gives the action a consciously understood source within the individual.",
+      "This does not mean that any personal preference becomes right merely because it is mine. Steiner distinguishes an ethical idea apprehended in thinking from blind instinct. He treats freedom as a developing capacity: actual deeds can contain mixed motives, and an action is free to the extent that intuitive ethical content determines it.",
+      "Moral intuition does not automatically supply every detail of a deed. Moral imagination gives the ethical idea a concrete possible expression in a particular situation. Understanding an aim and finding an action that expresses it are related but different achievements.",
+      "Moral technique concerns practical realization. To change a situation, we need to understand its actual conditions and what can be done within them. A person may imagine a worthwhile action yet need someone else’s practical skill to carry it out. Conversely, being able to execute a plan does not by itself establish that its ethical motive was freely apprehended.",
+      "These terms belong to GA 4’s account of ethical action. Moral imagination means finding a concrete ethical possibility; it is not the supersensible Imagination discussed in Lesson 18. Moral intuition likewise should not be treated as an ordinary hunch or as proof that someone already possesses higher Intuition."
+    ],
+    "keyConcept": {
+      "term": "Freedom and moral intuition",
+      "definition": "Steiner calls a deed free to the extent that its motive arises from an ethical idea individually apprehended through intuition, rather than merely from an imposed command or blind impulse."
+    },
+    "example": {
+      "text": "Someone understands inclusion as an ethical aim, imagines an accessible meeting arrangement and checks participants’ actual needs and the available resources. These illustrate ethical idea, concrete form and practical realization. The illustration does not certify every proposed arrangement as morally right or every deed of its organizer as free."
+    },
+    "distinction": "Having an ethical idea, imagining its concrete expression and knowing how to realize it have different roles. Doing whatever one wants, or successfully carrying out someone else’s plan, is not by itself Steiner’s definition of freedom.",
+    "checks": [
+      {
+        "question": "Which source of action best fits Steiner’s idea of a free deed?",
+        "options": [
+          "Obedience alone, without understanding the motive.",
+          "An ethical idea actively apprehended by the individual.",
+          "Any impulse that feels strong."
+        ],
+        "answer": 1,
+        "reason": "He locates freedom in the source of the ethical motive, distinguishing intuitive content from a command or blind impulse."
+      },
+      {
+        "question": "What is the role of moral imagination?",
+        "options": [
+          "Giving an ethical idea a concrete possible expression in a situation.",
+          "Proving that every personal wish is morally right.",
+          "Perceiving spiritual beings through the higher Imagination of GA 13."
+        ],
+        "answer": 0,
+        "reason": "Moral imagination in GA 4 concerns finding a particular action through which an ethical idea can become effective."
+      },
+      {
+        "question": "Which task belongs to moral technique in the meeting example?",
+        "options": [
+          "Naming the ethical aim of inclusion.",
+          "Having a strong wish that the meeting go well.",
+          "Understanding actual needs, resources and changes required to realize the arrangement."
+        ],
+        "answer": 2,
+        "reason": "Practical realization needs knowledge of the circumstances, in addition to an ethical idea and a concrete plan."
+      }
+    ],
+    "connection": "The next lesson turns to Steiner’s proposed development of the knower, retaining the concern for ethical cultivation and conscious independence.",
+    "deeperStudy": [
+      {
+        "title": "Study ethical individualism in The Philosophy of Freedom",
+        "route": "/philosophy-of-freedom/index.html"
+      }
+    ]
+  },
+  "pt": {
+    "question": "Quando uma ação é própria do indivíduo, no sentido de Steiner, em vez de ser a execução de um impulso ou de uma ordem?",
+    "matters": "Compreender uma situação ainda não nos diz o que fazer nela. Steiner relaciona a liberdade à origem de um motivo ético. Também precisamos distinguir a escolha de um objetivo da imaginação e da realização de sua forma particular.",
+    "explanation": [
+      "No trecho que cerca a citação, uma “ação desse tipo” é determinada por um conteúdo ideal, em vez de uma regra externa ou de um impulso não examinado. Steiner pergunta se o indivíduo compreende ativamente a ideia ética que se torna o motivo da ação. Ele chama essa compreensão de intuição moral. Ela dá à ação uma origem conscientemente compreendida no próprio indivíduo.",
+      "Isso não significa que qualquer preferência pessoal se torne correta apenas por ser minha. Steiner distingue uma ideia ética compreendida no pensar de um instinto cego. Ele considera a liberdade uma capacidade em desenvolvimento: ações efetivas podem conter motivos mistos, e uma ação é livre na medida em que o conteúdo ético intuitivo a determina.",
+      "A intuição moral não fornece automaticamente todos os detalhes de uma ação. A imaginação moral dá à ideia ética uma expressão concreta possível em uma situação particular. Compreender um objetivo e encontrar uma ação que o expresse são realizações relacionadas, mas diferentes.",
+      "A técnica moral diz respeito à realização prática. Para transformar uma situação, precisamos compreender suas condições efetivas e o que pode ser feito dentro delas. Uma pessoa pode imaginar uma ação valiosa e, ainda assim, precisar da habilidade prática de outra para realizá-la. Por outro lado, ser capaz de executar um plano não estabelece, por si só, que seu motivo ético tenha sido compreendido livremente.",
+      "Esses termos pertencem à concepção de ação ética de GA 4. Imaginação moral significa encontrar uma possibilidade ética concreta; não é a Imaginação supersensível discutida na Lição 18. Da mesma forma, a intuição moral não deve ser tratada como um palpite comum nem como prova de que alguém já possui a Intuição superior."
+    ],
+    "keyConcept": {
+      "term": "Liberdade e intuição moral",
+      "definition": "Steiner chama uma ação de livre na medida em que seu motivo nasce de uma ideia ética compreendida individualmente pela intuição, em vez de apenas uma ordem imposta ou um impulso cego."
+    },
+    "example": {
+      "text": "Uma pessoa compreende a inclusão como objetivo ético, imagina uma organização acessível para uma reunião e verifica as necessidades efetivas dos participantes e os recursos disponíveis. Isso ilustra ideia ética, forma concreta e realização prática. A ilustração não certifica toda organização proposta como moralmente correta nem toda ação de quem a organiza como livre."
+    },
+    "distinction": "Ter uma ideia ética, imaginar sua expressão concreta e saber como realizá-la têm papéis diferentes. Fazer tudo o que se quer, ou executar com sucesso o plano de outra pessoa, não é, por si só, a definição de liberdade de Steiner.",
+    "checks": [
+      {
+        "question": "Qual origem da ação corresponde melhor à ideia de Steiner de uma ação livre?",
+        "options": [
+          "Apenas a obediência, sem compreender o motivo.",
+          "Uma ideia ética compreendida ativamente pelo indivíduo.",
+          "Qualquer impulso que seja intenso."
+        ],
+        "answer": 1,
+        "reason": "Ele situa a liberdade na origem do motivo ético, distinguindo o conteúdo intuitivo de uma ordem ou de um impulso cego."
+      },
+      {
+        "question": "Qual é o papel da imaginação moral?",
+        "options": [
+          "Dar a uma ideia ética uma expressão concreta possível em uma situação.",
+          "Provar que todo desejo pessoal é moralmente correto.",
+          "Perceber seres espirituais pela Imaginação superior de GA 13."
+        ],
+        "answer": 0,
+        "reason": "Em GA 4, a imaginação moral diz respeito a encontrar uma ação particular pela qual uma ideia ética possa se tornar efetiva."
+      },
+      {
+        "question": "Que tarefa pertence à técnica moral no exemplo da reunião?",
+        "options": [
+          "Nomear o objetivo ético da inclusão.",
+          "Ter um desejo intenso de que a reunião dê certo.",
+          "Compreender as necessidades, os recursos e as mudanças necessárias para realizar a organização proposta."
+        ],
+        "answer": 2,
+        "reason": "A realização prática exige conhecimento das circunstâncias, além de uma ideia ética e de um plano concreto."
+      }
+    ],
+    "connection": "A próxima lição se volta ao desenvolvimento de quem conhece, proposto por Steiner, mantendo a atenção ao cultivo ético e à independência consciente.",
+    "deeperStudy": [
+      {
+        "title": "Estude o individualismo ético em A filosofia da liberdade",
+        "route": "/pt/philosophy-of-freedom/index.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+/* Course-scoped reading layout; existing courses keep their presentation. */
+.intro-course {
+  max-width: 980px;
+  padding-top: 12px;
+  padding-bottom: 36px;
+  color: #283e38;
+  overflow-wrap: anywhere;
+}
+.intro-course *, .intro-course *::before, .intro-course *::after { box-sizing: border-box; }
+.intro-course .intro-reading { max-width: 790px; margin-inline: auto; }
+.intro-course h1 { font-size: clamp(34px, 4.8vw, 52px); line-height: 1.15; letter-spacing: -.025em; }
+.intro-course h2 { font-size: clamp(25px, 3.5vw, 31px); line-height: 1.25; }
+.intro-course h3 { font-size: 23px; line-height: 1.35; }
+.intro-course p, .intro-course li { line-height: 1.75; }
+.intro-course p { max-width: 790px; }
+.intro-course a { text-underline-offset: 4px; }
+.intro-course .lead { color: #40584e; max-width: 760px; }
+.intro-course .intro-hero {
+  margin: 10px 0 32px;
+  padding: clamp(22px, 4vw, 38px);
+  border: 1px solid #d9decf;
+  border-radius: 4px 24px;
+  background: linear-gradient(125deg, #fbf7ed, #eef2e8);
+}
+.intro-course .intro-hero h1 { margin-top: 8px; }
+.intro-course .intro-hero p:last-child { margin-bottom: 0; }
+.intro-course .intro-lesson-position { margin: 12px 0 20px; color: #51645e; font-size: 14px; line-height: 1.6; }
+.intro-course .intro-lesson-position a { display: inline-block; min-height: 36px; padding-block: 5px; }
+.intro-course .intro-parts { display: grid; gap: 18px; margin: 28px 0; }
+.intro-course .intro-part-card {
+  min-width: 0;
+  padding: 23px 25px;
+  border: 1px solid #d1d9cc;
+  border-left: 3px solid #7a9273;
+  border-radius: 4px 16px;
+  background: #fffdf8;
+}
+.intro-course .intro-part-card h2 { margin-top: 0; }
+.intro-course .intro-part-card h3 { margin: 8px 0 12px; }
+.intro-course .intro-part-card p, .intro-course .intro-part-card li { font-size: 16px; }
+.intro-course .intro-part-card p:last-child { margin-bottom: 0; }
+.intro-course .intro-part-card ul, .intro-course .intro-part-card ol { padding-left: 23px; margin-bottom: 0; }
+.intro-course .intro-part-card li { padding-block: 5px; }
+.intro-course .intro-part-card a { display: inline-block; min-height: 36px; padding-block: 4px; }
+.intro-course .intro-reading > section { margin-block: 28px; }
+.intro-course .intro-source {
+  padding: 23px 25px;
+  border: 1px solid #ded5c7;
+  border-left: 4px solid #9f6a4c;
+  border-radius: 3px 16px;
+  background: #fff9ed;
+}
+.intro-course .intro-source h2 { margin-top: 0; }
+.intro-course .intro-source h3 { margin-block: 16px 8px; font-size: 22px; }
+.intro-course .intro-source blockquote { margin: 18px 0; padding: 0; border: 0; font-size: 22px; line-height: 1.65; }
+.intro-course .intro-source blockquote p { font-size: inherit; }
+.intro-course .intro-source cite { font-style: normal; font-weight: 700; }
+.intro-course .intro-source-meta { color: #51645e; font-size: 14px; line-height: 1.6; }
+.intro-course .intro-source .intro-source-meta p { font-size: 14px; }
+.intro-course .intro-source > :last-child { margin-bottom: 0; }
+.intro-course .intro-concept, .intro-course .intro-example, .intro-course .intro-distinction {
+  margin-block: 22px;
+  padding: 19px 23px;
+  border-radius: 3px 14px;
+}
+.intro-course .intro-concept { border-left: 3px solid #78906c; background: #edf1e7; }
+.intro-course .intro-example { border-left: 3px solid #b0884d; background: #f5f0e7; }
+.intro-course .intro-distinction { border-left: 3px solid #9880a7; background: #f0edf4; }
+.intro-course .intro-concept h2, .intro-course .intro-example h2, .intro-course .intro-distinction h2 {
+  margin: 0 0 10px;
+  font: 700 14px/1.6 Arial, Helvetica, sans-serif;
+  letter-spacing: .025em;
+}
+.intro-course .intro-concept p, .intro-course .intro-example p, .intro-course .intro-distinction p { line-height: 1.65; }
+.intro-course .intro-concept p:last-child, .intro-course .intro-example p:last-child, .intro-course .intro-distinction p:last-child { margin-bottom: 0; }
+.intro-course .intro-checks { margin-block: 32px; }
+.intro-course .intro-checks > p { font-size: 15px; }
+.intro-course .learning-quiz { min-width: 0; padding: 19px 21px; }
+.intro-course .learning-quiz legend { max-width: 100%; font-size: 16px; line-height: 1.6; }
+.intro-course .learning-quiz label { min-height: 44px; font-size: 16px; }
+.intro-course .learning-quiz label span { min-width: 0; }
+.intro-course .learning-quiz details p { color: #283e38; }
+.intro-course .intro-flow {
+  display: grid;
+  gap: 14px;
+  list-style: none;
+  padding: 20px;
+  margin: 24px 0;
+  border: 1px solid #cfd8cb;
+  border-radius: 4px 16px;
+  background: #eff3e9;
+}
+.intro-course .intro-flow li { padding-left: 14px; border-left: 3px solid #7a9273; font-size: 16px; }
+.intro-course .intro-flow li p:last-child { margin-bottom: 0; }
+.intro-course .intro-flow li + li::before { content: '↓'; display: block; margin: -2px 0 8px; color: #35594a; font-size: 21px; }
+.intro-course .intro-flow svg { display: block; max-width: 100%; height: auto; }
+.intro-course table { width: 100%; max-width: 100%; border-collapse: collapse; table-layout: fixed; }
+.intro-course th, .intro-course td { padding: 12px; text-align: left; vertical-align: top; overflow-wrap: anywhere; font-size: 15px; line-height: 1.6; }
+.intro-course caption { padding-bottom: 12px; text-align: left; font-weight: 700; }
+.intro-course .learning-table-scroll { max-width: 100%; margin-block: 22px; }
+.intro-course .intro-diagram { margin: 20px 0; color: #40584e; }
+.intro-course .intro-diagram svg { display: block; width: 100%; height: auto; }
+.intro-course .intro-architecture svg { max-width: 500px; margin-inline: auto; }
+.intro-course .intro-diagram figcaption { margin-top: 8px; font-size: 14px; line-height: 1.6; }
+.intro-course .intro-table th, .intro-course .intro-table td { border: 1px solid #d1d9cc; }
+.intro-course .intro-member-cards { display: grid; gap: 14px; }
+.intro-course .intro-member-cards .intro-concept { margin: 0; }
+.intro-course .intro-connections { padding-left: 24px; }
+.intro-course .intro-connections li { padding-block: 8px; }
+.intro-course .intro-connections h3 { font-size: 20px; margin-bottom: 8px; }
+.intro-course details { max-width: 100%; margin-block: 18px; }
+.intro-course summary { min-height: 44px; padding-block: 9px; line-height: 1.6; cursor: pointer; }
+.intro-course details p { color: #283e38; }
+.intro-course .intro-nav { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 12px 22px; margin-top: 30px; padding: 22px 0 30px; border-top: 1px solid #d9ddd1; }
+.intro-course .intro-nav a { flex: 1 1 180px; max-width: 100%; min-height: 44px; padding-block: 8px; font-size: 15px; line-height: 1.55; }
+.intro-course [data-intro-continue], .intro-course button[data-intro-complete] {
+  display: inline-flex;
+  align-items: center;
+  max-width: 100%;
+  min-height: 44px;
+  padding: 10px 16px;
+  border: 1px solid #718869;
+  border-radius: 4px 12px;
+  background: #fffdf8;
+  color: #2f503f;
+  font: inherit;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+}
+.intro-course [data-intro-continue]:hover, .intro-course button[data-intro-complete]:hover { background: #eaf0e3; }
+.intro-course button[data-intro-complete]:disabled { opacity: .65; cursor: default; }
+.intro-course .intro-status, .intro-course [data-intro-status], .intro-course [data-intro-progress] { margin-block: 12px; color: #51645e; font-size: 14px; line-height: 1.6; }
+.intro-course [data-intro-status] { min-height: 1.6em; }
+.intro-course a:focus-visible, .intro-course button:focus-visible, .intro-course input:focus-visible,
+.intro-course summary:focus-visible, .intro-course [tabindex]:focus-visible { outline: 3px solid #95472f; outline-offset: 4px; }
+.intro-course [hidden] { display: none !important; }
+@media (max-width: 640px) {
+  .intro-course { width: calc(100% - 32px); }
+  .intro-course h1 { font-size: 35px; }
+  .intro-course .intro-hero, .intro-course .intro-part-card, .intro-course .intro-source,
+  .intro-course .intro-concept, .intro-course .intro-example, .intro-course .intro-distinction,
+  .intro-course .learning-quiz, .intro-course .intro-flow { padding: 16px; }
+  .intro-course .intro-source blockquote { font-size: 21px; }
+  .intro-course .intro-nav { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; }
+  .intro-course th, .intro-course td { padding: 8px; font-size: 14px; hyphens: auto; }
+}
+@media print {
+  .intro-course [data-intro-complete], .intro-course [data-intro-status], .intro-course [data-intro-progress], .intro-course .quiz-actions { display: none; }
+  .intro-course .intro-hero, .intro-course .intro-source, .intro-course .intro-concept,
+  .intro-course .intro-example, .intro-course .intro-distinction, .intro-course .intro-flow { background: white; }
+  .intro-course .intro-part-card { break-inside: avoid; }
+}

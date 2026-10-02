@@ -85,7 +85,15 @@ for(const lang of ['en','pt']){
   const index=plain(fs.readFileSync(`${base}/higher-worlds/index.html`,'utf8'));
   assert.ok(index.includes('108')&&index.includes('2018')&&index.includes('Dead Authors Society'),'Course index lacks the current source');
   for(const id of [2,17,19,20]){
-    const html=plain(fs.readFileSync(`${base}/lessons/${String(id).padStart(2,'0')}.html`,'utf8'));
+    const rendered=fs.readFileSync(`${base}/lessons/${String(id).padStart(2,'0')}.html`,'utf8'),html=plain(rendered);
+    if(rendered.includes('data-theosophy-owned="true"')){
+      // Keep the parallel-source material, without requiring it in every reading.
+      const connection=higherWorldsConnections[id];
+      assert.equal(connection.pages,({2:'21–23',17:'56; 106–108',19:'43–44',20:'22–23; 39; 46'})[id]);
+      assert.ok(connection[lang].every(text=>typeof text==='string'&&text.trim()),'Retained GA 10 comparison is incomplete');
+      assert.ok(higherWorlds.some(lesson=>lesson.id===connection.lesson),'Retained GA 10 comparison has no source reading');
+      continue;
+    }
     assert.ok(html.includes(higherWorldsConnections[id].pages),'Theosophy supplement lost current GA 10 locator');
     assert.ok(!/107-page transcription|transcrição de 107 páginas/.test(html),'Theosophy supplement has obsolete source credit');
   }
@@ -94,4 +102,4 @@ const registry=JSON.parse(fs.readFileSync('content/source-register.json','utf8')
 assert.ok(registry.some(s=>s.sha256==='c07bf68bdf7c99135b17a0e9bf1173cbd3a7a6a99da01ddab6b1172a57313238'&&s.pdf_pages===108&&s.contents_in_repository===false),'Primary PDF provenance missing');
 assert.ok(registry.some(s=>s.sha256==='24bc2070f4cb9ef8557cb1a4f2345a1f1085b7d8a09228dd43bbee0a069d6c2c'&&s.use.startsWith('Excluded')),'Mislabelled alternate PDF must remain excluded');
 assert.ok(registry.some(s=>s.sha256==='a2d5c1a64f2c654b08e784181f4f3c02f6185db704098ca2d51d767c9172670d'&&s.upload_count===2),'Duplicate Markdown diagnosis missing');
-console.log(`Passed: 108 page records, nineteen source selections, ${checked} bilingual lessons, current PDF credits and four updated Theosophy connections.`);
+console.log(`Passed: 108 page records, nineteen source selections, ${checked} bilingual lessons, current PDF credits and four retained Theosophy comparison records.`);

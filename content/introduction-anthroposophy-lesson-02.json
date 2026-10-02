@@ -1,0 +1,169 @@
+{
+  "id": 2,
+  "part": 1,
+  "titleEn": "Who Was Rudolf Steiner?",
+  "titlePt": "Quem foi Rudolf Steiner?",
+  "dependencies": [
+    1
+  ],
+  "termsIntroduced": [],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga28",
+      "ga": 28,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "XXXI",
+      "locator": {
+        "kind": "PDF-page",
+        "printedPages": null,
+        "pdfPages": [
+          171,
+          171
+        ],
+        "markdownMarkers": null,
+        "anchor": "Steiner describes his aim for Anthroposophy as a continuation of science.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Use the short statement of his aim as the conceptual centre; a concise course account draws on the bounded teacher context below.",
+      "selectedExcerpt": "Therefore that for which I strove was to set forth in anthroposophy the objective continuation of science, not to set by the side of science something subjective.",
+      "excerptStatus": "Verified against the supplied PDF; Portuguese is a course study translation of the English excerpt.",
+      "excerptEn": "Therefore that for which I strove was to set forth in anthroposophy the objective continuation of science, not to set by the side of science something subjective.",
+      "excerptPt": "Portanto, o que eu buscava era apresentar na antroposofia a continuação objetiva da ciência, e não colocar ao lado da ciência algo subjetivo.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "ga28",
+        "section": "XXXI",
+        "pdfPages": [
+          171,
+          171
+        ],
+        "originalPrintedPages": null,
+        "pdfSha256": "416c783a15ef69b62927809b284f1c8d941fb104c5adeb2c7a340dcd88aa2d49",
+        "imageInspected": true,
+        "method": "Visually checked page 171 and confirmed exact wording in its embedded PDF text; line-break whitespace normalized.",
+        "reviewer": "intro_ga28_biography"
+      }
+    }
+  ],
+  "sourceGaps": [
+    "Date of The Philosophy of Freedom publication must be checked in GA 4 or separate history.",
+    "Exact date and broader history of independent Society formation are not provided.",
+    "Goetheanum architecture is mentioned, but founding date/location/building chronology need separate verification.",
+    "Waldorf, biodynamics, medical movement, eurythmy and social-threefolding histories are not supplied by this book.",
+    "The narrative mainly reaches 1907, with later retrospective references. Specialist-source or explicitly verified historical context is needed for later practical movements; do not silently construct their chronology."
+  ],
+  "en": {
+    "question": "How did Steiner’s questions about nature and thinking develop into Anthroposophy?",
+    "matters": "Steiner presents Anthroposophy as developing through questions about nature, knowledge and human freedom. Following those questions gives his later spiritual teaching an intellectual setting. It also helps us distinguish his account of his development from an independent history of his life.",
+    "explanation": [
+      "Rudolf Steiner grew up in a railway household, where machinery and the surrounding natural landscape both attracted him. In his autobiography, he recalls geometry as a turning point: forms could be grasped inwardly, yet seemed to him to have a significance beyond personal feeling. His scientific education and philosophical reading continued this question about knowledge. In Vienna, he studied mathematics, natural history and chemistry, while Karl Julius Schröer introduced him more deeply to Goethe’s writing.",
+      "Editing Goethe’s scientific writings required Steiner to explain how thinking could follow living processes. He contrasts fixed concepts used to explain relationships in nonliving nature with concepts able to change as a plant’s forms change. The editorial work made Goethe’s account of nature a discipline for Steiner’s own thinking. It required him to clarify his theory of knowledge: what must thinking do if it is to understand a living reality?",
+      "His philosophical work connects that question with human freedom. The autobiography calls The Philosophy of Freedom by its alternative English title, Philosophy of Spiritual Activity. Steiner describes seeking a form of thinking through which a person can understand reality and act from individually understood moral ideas. This is a philosophical foundation for his later development; it should not be read as a proof of every spiritual teaching he subsequently presented.",
+      "The Theosophical Society then provided an audience for more explicit spiritual teaching. Steiner describes taking up the leadership of its German section with Marie von Sievers in 1902, while insisting that the content he taught came from his own investigations. His account distinguishes an institutional setting from the origin he claims for his ideas. He later describes the emergence of an independent Anthroposophical Society through differences in spiritual approach, without giving us a complete institutional history here.",
+      "The autobiography also points toward educational and artistic work. Steiner recalls a tutoring experience that led him to adapt teaching to the child’s bodily and mental condition; with Marie von Sievers, he cultivated recitation and drama. He connects his study of architectural form with the Goetheanum building. The book supplies these links with education and art; specific accounts of Waldorf education, biodynamics, anthroposophical medicine and eurythmy need additional primary sources."
+    ],
+    "keyConcept": {
+      "term": "Intellectual biography",
+      "definition": "An account of how a person’s questions, encounters and work shape the development of their ideas."
+    },
+    "example": null,
+    "distinction": "An autobiography is a primary source for how its author understands his own life. Steiner’s descriptions of continuity and independent research remain his retrospective interpretation; they are not an outside historian’s neutral verdict.",
+    "checks": [
+      {
+        "question": "Why does Goethe’s scientific work matter in Steiner’s account?",
+        "options": [
+          "It prompts him to ask how thinking can understand living forms and processes.",
+          "It leads him to abandon every question about nature.",
+          "It matters only because Goethe wrote poetry."
+        ],
+        "answer": 0,
+        "reason": "Steiner connects the editorial work with living concepts, metamorphosis and the development of his own theory of knowledge."
+      },
+      {
+        "question": "How does Steiner describe his relationship with the Theosophical Society?",
+        "options": [
+          "As the source from which he received all his philosophical ideas.",
+          "As an audience and institutional setting for teaching he claims to have developed through his own investigations.",
+          "As an institution that prevented him from giving spiritual lectures."
+        ],
+        "answer": 1,
+        "reason": "His account distinguishes the Society’s role in making public teaching possible from his claim about the independent origin of its content."
+      },
+      {
+        "question": "What kind of evidence does The Story of My Life provide here?",
+        "options": [
+          "A complete independent history of every anthroposophical movement.",
+          "Scientific proof of the effectiveness of practical anthroposophical methods.",
+          "Steiner’s own retrospective account of his intellectual development."
+        ],
+        "answer": 2,
+        "reason": "The autobiography is valuable primary evidence for his self-understanding, while its perspective and unfinished scope still matter."
+      }
+    ],
+    "connection": "Steiner wanted his spiritual investigation to continue disciplined knowing. The next lesson asks what he means by spiritual science and why he thought it could be pursued systematically.",
+    "deeperStudy": [
+      {
+        "title": "Study thinking and freedom in The Philosophy of Freedom",
+        "route": "/philosophy-of-freedom/index.html"
+      }
+    ]
+  },
+  "pt": {
+    "question": "Como as perguntas de Steiner sobre a natureza e o pensar se desenvolveram até a antroposofia?",
+    "matters": "Steiner apresenta a antroposofia como um desenvolvimento de perguntas sobre a natureza, o conhecimento e a liberdade humana. Acompanhar essas perguntas situa intelectualmente seu ensino espiritual posterior. Também nos ajuda a distinguir seu relato de desenvolvimento de uma história independente de sua vida.",
+    "explanation": [
+      "Rudolf Steiner cresceu em uma família ligada à ferrovia, onde tanto as máquinas quanto a paisagem natural ao redor despertavam seu interesse. Na autobiografia, ele recorda a geometria como um momento decisivo: as formas podiam ser compreendidas interiormente e, ainda assim, pareciam ter um significado que ultrapassava o sentimento pessoal. Sua educação científica e suas leituras filosóficas deram continuidade a essa pergunta sobre o conhecimento. Em Viena, estudou matemática, história natural e química, enquanto Karl Julius Schröer o aproximava mais profundamente da obra de Goethe.",
+      "Editar os escritos científicos de Goethe exigiu que Steiner explicasse como o pensar poderia acompanhar os processos vivos. Ele distingue conceitos fixos, usados para explicar relações na natureza sem vida, de conceitos capazes de se transformar conforme as formas de uma planta se transformam. O trabalho editorial fez da visão de Goethe sobre a natureza uma disciplina para o próprio pensar de Steiner. Ele precisou esclarecer sua teoria do conhecimento: o que o pensar deve fazer para compreender uma realidade viva?",
+      "Seu trabalho filosófico relaciona essa pergunta à liberdade humana. A autobiografia se refere a A filosofia da liberdade com outro título inglês, Philosophy of Spiritual Activity, ou Filosofia da atividade espiritual. Steiner descreve a busca de um pensar pelo qual a pessoa possa compreender a realidade e agir a partir de ideias morais que ela mesma compreende. Esse trabalho oferece uma base filosófica para seu desenvolvimento posterior; não deve ser tomado como uma demonstração de todos os ensinamentos espirituais que apresentou mais tarde.",
+      "A Sociedade Teosófica passou a oferecer um público para um ensino espiritual mais explícito. Steiner descreve como assumiu a direção da seção alemã com Marie von Sievers em 1902, insistindo que o conteúdo de seu ensino vinha de suas próprias investigações. Seu relato distingue o espaço institucional da origem que atribui às próprias ideias. Mais adiante, ele descreve o surgimento de uma Sociedade Antroposófica independente a partir de diferenças de abordagem espiritual, sem apresentar aqui uma história institucional completa.",
+      "A autobiografia também aponta para o trabalho educativo e artístico. Steiner recorda uma experiência como professor particular que o levou a adaptar o ensino às condições físicas e mentais da criança; com Marie von Sievers, cultivou a recitação e o teatro. Ele relaciona seu estudo das formas arquitetônicas ao edifício do Goetheanum. A obra oferece essas ligações com a educação e a arte; relatos específicos sobre educação Waldorf, biodinâmica, medicina antroposófica e euritmia exigem outras fontes primárias."
+    ],
+    "keyConcept": {
+      "term": "Biografia intelectual",
+      "definition": "Um relato de como as perguntas, os encontros e o trabalho de uma pessoa contribuem para o desenvolvimento de suas ideias."
+    },
+    "example": null,
+    "distinction": "Uma autobiografia é uma fonte primária para compreender como seu autor interpreta a própria vida. As descrições de continuidade e de investigação independente feitas por Steiner são sua interpretação retrospectiva; não constituem o julgamento neutro de um historiador externo.",
+    "checks": [
+      {
+        "question": "Por que o trabalho científico de Goethe é importante no relato de Steiner?",
+        "options": [
+          "Ele o leva a perguntar como o pensar pode compreender formas e processos vivos.",
+          "Ele o leva a abandonar todas as perguntas sobre a natureza.",
+          "Ele importa apenas porque Goethe escreveu poesia."
+        ],
+        "answer": 0,
+        "reason": "Steiner relaciona o trabalho editorial a conceitos vivos, à metamorfose e ao desenvolvimento de sua própria teoria do conhecimento."
+      },
+      {
+        "question": "Como Steiner descreve sua relação com a Sociedade Teosófica?",
+        "options": [
+          "Como a fonte da qual recebeu todas as suas ideias filosóficas.",
+          "Como um público e um espaço institucional para o ensino que afirma ter desenvolvido por meio de suas próprias investigações.",
+          "Como uma instituição que o impedia de dar palestras espirituais."
+        ],
+        "answer": 1,
+        "reason": "Seu relato distingue o papel da Sociedade em tornar possível o ensino público de sua afirmação sobre a origem independente do conteúdo."
+      },
+      {
+        "question": "Que tipo de evidência A história da minha vida oferece nesta lição?",
+        "options": [
+          "Uma história independente e completa de todos os movimentos antroposóficos.",
+          "Uma prova científica da eficácia dos métodos antroposóficos práticos.",
+          "O relato retrospectivo do próprio Steiner sobre seu desenvolvimento intelectual."
+        ],
+        "answer": 2,
+        "reason": "A autobiografia é uma fonte primária valiosa para compreender como ele via a si mesmo, levando em conta sua perspectiva e o alcance inacabado da obra."
+      }
+    ],
+    "connection": "Steiner queria que sua investigação espiritual desse continuidade a um conhecimento disciplinado. A próxima lição pergunta o que ele entende por ciência espiritual e por que acreditava que ela poderia ser desenvolvida de maneira sistemática.",
+    "deeperStudy": [
+      {
+        "title": "Estude o pensar e a liberdade em A filosofia da liberdade",
+        "route": "/pt/philosophy-of-freedom/index.html"
+      }
+    ]
+  }
+}

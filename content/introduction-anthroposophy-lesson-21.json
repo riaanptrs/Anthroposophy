@@ -1,0 +1,187 @@
+{
+  "id": 21,
+  "part": 6,
+  "titleEn": "Lucifer and Ahriman",
+  "titlePt": "Lúcifer e Ahriman",
+  "sourceGaps": [
+    "The familiar slogan “Lucifer = escape from matter, Ahriman = materialism” is not adequate as a substitute for the inspected argument. Do not fill the gap with later lectures from memory.",
+    "No inspected passage establishes a contemporary date for the physical incarnation of Ahriman, or applies either name to a present public figure."
+  ],
+  "dependencies": [
+    16,
+    19,
+    20
+  ],
+  "termsIntroduced": [
+    "Lucifer",
+    "Ahriman"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 4: Cosmic Evolution and the Human Being — Earth",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          227,
+          229
+        ],
+        "pdfPages": [
+          240,
+          242
+        ],
+        "markdownMarkers": null,
+        "anchor": "Luciferic independence and the possibility of error.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read Earth, printed pp. 227–229 (PDF pp. 240–242). The selected sentence is in paragraph 80 on printed p. 229; “They” refers to the Luciferic spirits named immediately beforehand.",
+      "selectedExcerpt": "They gave human beings the possibility of unfolding free activity in their consciousness, but at the same time they gave them the possibility of error and of evil.",
+      "excerptStatus": "Selected brief conceptual-centre passage, verified against the actual supplied PDF page.",
+      "readingEn": "Read Earth, printed pp. 227–229 (PDF pp. 240–242). The selected sentence is in paragraph 80 on printed p. 229; “They” refers to the Luciferic spirits named immediately beforehand.",
+      "excerptEn": "They gave human beings the possibility of unfolding free activity in their consciousness, but at the same time they gave them the possibility of error and of evil.",
+      "excerptVerification": {
+        "sourceId": "ga13",
+        "pdfSha256": "823538ffb48a143fd92cd359d9536d8630009edfe6933fd06a18abc8d930be03",
+        "printedPage": 229,
+        "pdfPage": 242,
+        "authorParagraph": 80,
+        "imageInspected": true,
+        "method": "Exact English sentence checked against PDF text after whitespace joining only, and visually compared with the original full PDF page.",
+        "reviewer": "intro_ga13_foundations",
+        "imageReview": "Private review artifact: intro-anthroposophy/phase-f-inspection/242-full.png",
+        "portuguese": "Original course study translation of the verified Creeger English excerpt, not a published Portuguese translation."
+      },
+      "readingPt": "Leia Earth, pp. impressas 227–229 (pp. 240–242 do PDF). A frase selecionada está no parágrafo 80 da p. impressa 229; “Eles” se refere aos espíritos luciféricos nomeados logo antes.",
+      "excerptPt": "Eles deram aos seres humanos a possibilidade de desenvolver uma atividade livre em sua consciência, mas, ao mesmo tempo, deram-lhes a possibilidade de erro e de mal.",
+      "courseTranslation": true
+    },
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 4 — The Coming of the Christian Era",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          268,
+          271
+        ],
+        "pdfPages": [
+          281,
+          284
+        ],
+        "markdownMarkers": null,
+        "anchor": "Ahrimanic veiling of spiritual reality; conceptual centre p268.",
+        "authorParagraphs": [
+          106
+        ]
+      },
+      "readingInstruction": "Read The Coming of the Christian Era, printed pp. 268–271 (PDF pp. 281–284), with paragraph 106 on printed p. 268 as the centre. The following pages add the distinction between the Luciferic and Ahrimanic veilings; the entire page interval is not paragraph 106 alone.",
+      "selectedExcerpt": "During life on Earth, Ahriman’s power makes us see physical, sense-perceptible existence as the only one and thus blocks our view into the spiritual world.",
+      "excerptStatus": "Selected brief conceptual-centre passage, verified against the actual supplied PDF page.",
+      "readingEn": "Read The Coming of the Christian Era, printed pp. 268–271 (PDF pp. 281–284), with paragraph 106 on printed p. 268 as the centre. The following pages add the distinction between the Luciferic and Ahrimanic veilings; the entire page interval is not paragraph 106 alone.",
+      "excerptEn": "During life on Earth, Ahriman’s power makes us see physical, sense-perceptible existence as the only one and thus blocks our view into the spiritual world.",
+      "excerptVerification": {
+        "sourceId": "ga13",
+        "pdfSha256": "823538ffb48a143fd92cd359d9536d8630009edfe6933fd06a18abc8d930be03",
+        "printedPage": 268,
+        "pdfPage": 281,
+        "authorParagraph": 106,
+        "imageInspected": true,
+        "method": "Exact English sentence checked against PDF text after whitespace joining only, and visually compared with the original full PDF page.",
+        "reviewer": "intro_ga13_foundations",
+        "imageReview": "Private review artifact: intro-anthroposophy/phase-f-inspection/281-full.png",
+        "portuguese": "Original course study translation of the verified Creeger English excerpt, not a published Portuguese translation."
+      },
+      "readingPt": "Leia The Coming of the Christian Era, pp. impressas 268–271 (pp. 281–284 do PDF), com o parágrafo 106 da p. impressa 268 como centro. As páginas seguintes acrescentam a distinção entre os encobrimentos luciférico e ahrimânico; o intervalo inteiro de páginas não corresponde apenas ao parágrafo 106.",
+      "excerptPt": "Durante a vida na Terra, o poder de Ahriman nos faz ver a existência física, perceptível pelos sentidos, como a única e, assim, bloqueia nossa visão do mundo espiritual.",
+      "courseTranslation": true
+    }
+  ],
+  "en": {
+    "question": "How do the Luciferic and Ahrimanic influences differ in GA 13?",
+    "matters": "Steiner relates independence in consciousness to the possibility of error. He distinguishes this from an influence that makes physical existence appear to exhaust reality.",
+    "explanation": [
+      "In the first excerpt, “They” refers to the Luciferic spirits named just beforehand. Steiner describes their influence as opening independent activity in consciousness. Human beings cease merely to mirror the cosmos, gaining a possibility of free activity together with the possibility of error and evil.",
+      "The Ahrimanic influence has a different emphasis. Physical, sense-perceptible existence appears to be the whole of reality, closing the view into its spiritual background. The passage extends this restriction to isolation in the life after death.",
+      "The contrast concerns different relationships: independence in consciousness, and openness to the spiritual significance of perceptions. It explains why freedom can involve risk without making every encounter with material things a loss of freedom.",
+      "These are spiritual influences within Steiner’s account of development. His discussion treats descriptions such as seduction as symbolic language, whose meaning must be understood in that spiritual context."
+    ],
+    "keyConcept": {
+      "term": "Luciferic and Ahrimanic influences",
+      "definition": "Luciferic influence opens independence together with error; Ahrimanic influence makes sensory existence appear to be the only reality in GA 13."
+    },
+    "example": {
+      "text": "Two people examine a stone carefully. One then concludes that nothing beyond what the senses register can exist. The additional conclusion, rather than the observation, illustrates the narrowing described here."
+    },
+    "distinction": "Ahrimanic influence here means treating sense-perceptible existence as exhaustive. Careful sensory observation alone does not fit that definition.",
+    "checks": [
+      {
+        "question": "Does the Luciferic possibility of independence guarantee good action?",
+        "options": [
+          "Yes; independence removes the possibility of error.",
+          "No; the source connects it with the possibility of error and evil."
+        ],
+        "answer": 1,
+        "reason": "The two possibilities appear together in the first excerpt."
+      },
+      {
+        "question": "Which claim matches the Ahrimanic restriction described here?",
+        "options": [
+          "Physical, sense-perceptible existence is the only reality.",
+          "Physical things deserve careful observation."
+        ],
+        "answer": 0,
+        "reason": "The restriction is the claim that sensory existence exhausts reality, not attention to sensory experience."
+      }
+    ],
+    "connection": "Lesson 22 examines why Steiner places the Christ event at the centre of his account of humanity’s relation to the spiritual world.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Como as influências luciférica e ahrimânica diferem no GA 13?",
+    "matters": "Steiner relaciona a independência na consciência com a possibilidade de erro. Ele a distingue de uma influência que faz a existência física parecer abranger toda a realidade.",
+    "explanation": [
+      "No primeiro trecho, “Eles” se refere aos espíritos luciféricos nomeados logo antes. Steiner descreve sua influência como uma abertura para a atividade independente na consciência. Os seres humanos deixam de apenas espelhar o cosmos, ganhando a possibilidade de atividade livre junto com a possibilidade de erro e de mal.",
+      "A influência ahrimânica tem uma ênfase diferente. A existência física, perceptível pelos sentidos, parece constituir toda a realidade, fechando a visão de seu fundamento espiritual. O trecho estende essa restrição ao isolamento na vida após a morte.",
+      "O contraste diz respeito a relações diferentes: a independência na consciência e a abertura para o significado espiritual das percepções. Ele explica por que a liberdade pode envolver risco sem fazer de todo encontro com coisas materiais uma perda de liberdade.",
+      "Essas são influências espirituais dentro da descrição do desenvolvimento feita por Steiner. Sua discussão trata expressões como sedução como linguagem simbólica, cujo sentido deve ser compreendido nesse contexto espiritual."
+    ],
+    "keyConcept": {
+      "term": "Influências luciférica e ahrimânica",
+      "definition": "A influência luciférica abre a independência junto com o erro; a influência ahrimânica faz a existência sensorial parecer a única realidade no GA 13."
+    },
+    "example": {
+      "text": "Duas pessoas examinam uma pedra com atenção. Uma delas então conclui que nada além do que os sentidos registram pode existir. A conclusão adicional, e não a observação, ilustra a restrição descrita aqui."
+    },
+    "distinction": "A influência ahrimânica aqui significa tratar a existência perceptível pelos sentidos como a totalidade da realidade. A observação sensorial cuidadosa, por si só, não corresponde a essa definição.",
+    "checks": [
+      {
+        "question": "A possibilidade luciférica de independência garante uma ação boa?",
+        "options": [
+          "Sim; a independência elimina a possibilidade de erro.",
+          "Não; a fonte a relaciona com a possibilidade de erro e de mal."
+        ],
+        "answer": 1,
+        "reason": "As duas possibilidades aparecem juntas no primeiro trecho."
+      },
+      {
+        "question": "Qual afirmação corresponde à restrição ahrimânica descrita aqui?",
+        "options": [
+          "A existência física, perceptível pelos sentidos, é a única realidade.",
+          "As coisas físicas merecem uma observação cuidadosa."
+        ],
+        "answer": 0,
+        "reason": "A restrição é a afirmação de que a existência sensorial abrange toda a realidade, não a atenção à experiência sensorial."
+      }
+    ],
+    "connection": "A Lição 22 examina por que Steiner situa o evento do Cristo no centro de sua descrição da relação da humanidade com o mundo espiritual.",
+    "deeperStudy": []
+  }
+}

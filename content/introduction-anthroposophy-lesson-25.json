@@ -1,0 +1,250 @@
+{
+  "id": 25,
+  "part": 7,
+  "titleEn": "Biodynamic Agriculture",
+  "titlePt": "Agricultura biodinâmica",
+  "dependencies": [
+    5,
+    22
+  ],
+  "termsIntroduced": [
+    "farm-organism",
+    "soil",
+    "living-process",
+    "preparations"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga327",
+      "ga": 327,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Lecture 2 — Koberwitz, 10 June 1924",
+      "locator": {
+        "kind": "Markdown-marker",
+        "printedPages": null,
+        "pdfPages": null,
+        "markdownMarkers": [
+          29,
+          31
+        ],
+        "anchor": "Creeger/Gardner 1993 working witness: farm individuality 29; soil-organ comparison 30; attributed cosmic relationships 31. These markers are not verified PDF or print pages.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read the opening of Lecture 2 in the Creeger/Gardner Markdown, markers 29–31. Notice that self-containment is an ideal to approach, and that Steiner calls the soil-organ comparison approximate. Native PDF layout is not verified.",
+      "readingEn": "Read the opening of Lecture 2 in the Creeger/Gardner Markdown, markers 29–31. Notice that self-containment is an ideal to approach, and that Steiner calls the soil-organ comparison approximate. Native PDF layout is not verified.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Verified against the supplied Markdown only; native PDF layout and printed pagination are not verified. No direct excerpt selected.",
+      "bookTitle": "Spiritual Foundations for the Renewal of Agriculture",
+      "assignmentVerification": {
+        "sourceId": "ga327",
+        "markdownMarkers": [
+          29,
+          31
+        ],
+        "markdownSha256": "8ec1fbf787c122fea7b7ee28ccf520f1a0442e20253bf0329a7f4cfcc01a2d5c",
+        "imageInspected": false,
+        "method": "Re-read the actual supplied Markdown blocks. No available full PDF witness or inferred print/PDF pages.",
+        "reviewer": "agriculture_appendices"
+      },
+      "readingPt": "Leia a abertura da Palestra 2 no Markdown de Creeger/Gardner, marcadores 29–31. Observe que a autossuficiência é um ideal a ser aproximado e que Steiner chama a comparação do solo com um órgão de aproximada. A diagramação original do PDF não foi verificada."
+    },
+    {
+      "sourceId": "biodynamics-anthology",
+      "ga": 327,
+      "role": "secondary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Agriculture I — GA 327 Lecture 4, Koberwitz, 12 June 1924",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          80,
+          80
+        ],
+        "markdownMarkers": null,
+        "anchor": "Right column: plant life continuing into surrounding soil. Steiner’s lecture body, not the editor’s introductory summary.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read capture 80, especially the right column on roots, surrounding soil and fertilizing as enlivening. The selected words are Steiner’s lecture text; the anthology’s editorial introduction is a different voice.",
+      "readingEn": "Read capture 80, especially the right column on roots, surrounding soil and fertilizing as enlivening. The selected words are Steiner’s lecture text; the anthology’s editorial introduction is a different voice.",
+      "selectedExcerpt": "It is not at all true that life stops at the plant’s perimeter.",
+      "excerptStatus": "Exact short English passage verified against the supplied PDF image; Portuguese is an identified course study translation.",
+      "bookTitle": "What Is Biodynamics? — Agriculture I",
+      "excerptEn": "It is not at all true that life stops at the plant’s perimeter.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "biodynamics-anthology",
+        "pdfPages": [
+          80,
+          80
+        ],
+        "originalPrintedPages": null,
+        "pdfSha256": "2a46f2eec5d9d6b11cdbc53fad74d8b490bbff125b5bd67ea987f2f3e767400c",
+        "imageInspected": true,
+        "method": "Read contextual section and visually checked exact words on the actual PDF image. Only line-wrap/whitespace normalized.",
+        "reviewer": "agriculture_appendices",
+        "portuguese": "Original course study translation of the verified English passage."
+      },
+      "readingPt": "Leia a captura 80, especialmente a coluna direita sobre raízes, solo ao redor e adubação como vivificação. As palavras selecionadas pertencem à palestra de Steiner; a introdução editorial da antologia é outra voz.",
+      "excerptPt": "Não é de modo algum verdade que a vida termine no contorno da planta."
+    }
+  ],
+  "sourceGaps": [
+    "The full GA 327 PDFs exceed the transfer limit; Lecture 2 is supported by Markdown only. The anthology PDF verifies selected Lecture 4 text."
+  ],
+  "en": {
+    "question": "How does Steiner’s agriculture account relate the farm to wider living processes?",
+    "matters": "Steiner’s agricultural account begins with relationships among the parts of a farm. This helps explain why soil, crops, animals and cultivation appear together in his indications. The central question is how a particular farm participates in wider life.",
+    "explanation": [
+      "In Lecture 2, Steiner proposes thinking of a farm as a self-contained individuality. Its production, soil and livestock should be understood in relation to one another. He expressly says complete self-containment cannot be achieved: it is an organizing ideal that a farm should approach.",
+      "He then describes soil as an organ within this agricultural individuality. The comparison with a human body is approximate and is meant to help the listener picture relationships above and below ground. He extends this account to the Sun and planetary influences within his spiritual view of nature.",
+      "Lecture 4 gives a more focused plant–soil picture. Steiner says the plant’s life continues through its roots into the surroundings, and describes fertilizing as enlivening the soil. His explanation includes etheric vitality, connecting the agricultural discussion with his wider account of formative living processes.",
+      "The preparations in the later agricultural indications belong to this attempt to work with living relationships. In Lecture 4 he describes complementary treatment of soil and plants. Here the aim is to understand their place in the account; practical procedures belong to the dedicated agricultural study."
+    ],
+    "keyConcept": {
+      "term": "Farm individuality",
+      "definition": "Steiner’s organizing ideal of a particular farm whose soil, crops, animals and productive activities form interrelated living relationships."
+    },
+    "example": {
+      "text": "Imagine a farm diagram with soil, crops, livestock and manure linked by arrows. Changing the number of animals changes questions about feed, manure and crops. This course example illustrates relationships within a farm; it does not verify the supersensible influences Steiner attributes to them."
+    },
+    "distinction": "Farm individuality is an organizing ideal, and the body comparison is approximate. The picture of connected parts does not by itself verify Steiner’s etheric or planetary explanations.",
+    "checks": [
+      {
+        "question": "How does Steiner qualify the self-contained farm ideal?",
+        "options": [
+          "Every outside input must disappear immediately.",
+          "It should be approached, although complete self-containment cannot be achieved.",
+          "Animals have no place in the idea."
+        ],
+        "answer": 1,
+        "reason": "Lecture 2 expressly acknowledges the practical limit while retaining the ideal as a guide to organizing relationships."
+      },
+      {
+        "question": "What does the plant–soil passage change in the picture of a crop?",
+        "options": [
+          "It draws attention to life in relation to the surrounding soil.",
+          "It isolates the plant from its environment.",
+          "It provides proof that every preparation improves yield."
+        ],
+        "answer": 0,
+        "reason": "The passage states that life does not stop at the plant’s perimeter and relates fertilizing to the soil’s life."
+      },
+      {
+        "question": "What role do preparations have in the orientation here?",
+        "options": [
+          "They replace understanding the farm with a recipe.",
+          "They prove the whole agricultural account.",
+          "They are proposed ways of working with the living relationships described."
+        ],
+        "answer": 2,
+        "reason": "Their conceptual role belongs to the wider picture of cultivation; this introduction does not prescribe procedures or establish results."
+      }
+    ],
+    "sourceNeeded": [
+      "A transferable full GA 327 PDF is needed to verify the Creeger/Gardner Lecture 2 layout and pagination. The supplied smaller anthology PDF verifies selected Lecture 4 text, not Lecture 2 or the complete book."
+    ],
+    "connection": "The next lesson turns from cultivation to artistic work, asking how a view of the human being and world can take practical form.",
+    "deeperStudy": []
+  },
+  "teacherContext": [
+    {
+      "sourceId": "biodynamics-anthology",
+      "ga": 327,
+      "role": "secondary",
+      "purpose": "teacher-context",
+      "voice": "Rudolf Steiner",
+      "section": "Agriculture I — GA 327 Lecture 4: preparations context",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          85,
+          86
+        ],
+        "markdownMarkers": null,
+        "anchor": "Conceptual context only: two preparations described as complementary work with soil and plant. No recipe or claimed therapeutic effect taught.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Teacher context only: use the complementary soil/plant relationship in 85–86 to support the brief orientation. Do not reproduce quantities, burial, dilution, stirring or the later medical discussion.",
+      "readingEn": "Teacher context only: use the complementary soil/plant relationship in 85–86 to support the brief orientation. Do not reproduce quantities, burial, dilution, stirring or the later medical discussion.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Verified reading assignment with original course explanation.",
+      "assignmentVerification": {
+        "sourceId": "biodynamics-anthology",
+        "pdfCapturesRead": [
+          85,
+          86,
+          87,
+          88
+        ],
+        "pdfCapturesInspected": [
+          86
+        ],
+        "imageInspected": true,
+        "pdfSha256": "2a46f2eec5d9d6b11cdbc53fad74d8b490bbff125b5bd67ea987f2f3e767400c",
+        "method": "Read the supplied context 85–88, then inspected native PDF 86. Selected conceptual complementary relationship only; source recipes and medical speculation excluded.",
+        "reviewer": "agriculture_appendices"
+      },
+      "readingPt": "Contexto apenas para o professor: use a relação complementar entre solo e planta nas capturas 85–86 para apoiar a breve orientação. Não reproduza quantidades, enterramento, diluição, agitação ou a discussão médica posterior."
+    }
+  ],
+  "pt": {
+    "question": "Como a descrição agrícola de Steiner relaciona a propriedade rural a processos vivos mais amplos?",
+    "matters": "A descrição agrícola de Steiner começa pelas relações entre as partes de uma propriedade rural. Isso ajuda a explicar por que solo, cultivos, animais e cultivo aparecem juntos em suas indicações. A questão central é como uma propriedade específica participa de uma vida mais ampla.",
+    "explanation": [
+      "Na Palestra 2, Steiner propõe pensar a propriedade rural como uma individualidade autossuficiente. Sua produção, seu solo e seus animais devem ser compreendidos em relação uns aos outros. Ele afirma expressamente que a autossuficiência completa não pode ser alcançada: trata-se de um ideal organizador do qual a propriedade deve se aproximar.",
+      "Em seguida, ele descreve o solo como um órgão nessa individualidade agrícola. A comparação com um corpo humano é aproximada e busca ajudar o ouvinte a imaginar relações acima e abaixo do solo. Ele amplia essa descrição para o Sol e as influências planetárias em sua visão espiritual da natureza.",
+      "A Palestra 4 oferece uma imagem mais específica da relação entre planta e solo. Steiner afirma que a vida da planta continua por suas raízes até o ambiente e descreve a adubação como vivificação do solo. Sua explicação inclui vitalidade etérica, conectando a discussão agrícola à sua descrição mais ampla dos processos formativos da vida.",
+      "Os preparados das indicações agrícolas posteriores pertencem a essa tentativa de trabalhar com relações vivas. Na Palestra 4, ele descreve um tratamento complementar do solo e das plantas. Aqui, o objetivo é compreender o lugar dos preparados nessa descrição; os procedimentos práticos pertencem ao estudo agrícola específico."
+    ],
+    "keyConcept": {
+      "term": "Individualidade agrícola",
+      "definition": "O ideal organizador de Steiner de uma propriedade rural específica cujo solo, cultivos, animais e atividades produtivas constituem relações vivas interligadas."
+    },
+    "example": {
+      "text": "Imagine um diagrama de uma propriedade rural com solo, cultivos, animais e esterco ligados por setas. Alterar o número de animais modifica as questões sobre alimentação, esterco e cultivos. Este exemplo do curso ilustra relações dentro de uma propriedade; não verifica as influências supersensíveis que Steiner lhes atribui."
+    },
+    "distinction": "A individualidade agrícola é um ideal organizador, e a comparação com o corpo é aproximada. A imagem de partes conectadas não verifica, por si só, as explicações etéricas ou planetárias de Steiner.",
+    "checks": [
+      {
+        "question": "Como Steiner qualifica o ideal de uma propriedade autossuficiente?",
+        "options": [
+          "Todo insumo externo deve desaparecer imediatamente.",
+          "É preciso aproximar-se dele, embora a autossuficiência completa não possa ser alcançada.",
+          "Os animais não têm lugar nessa ideia."
+        ],
+        "answer": 1,
+        "reason": "A Palestra 2 reconhece expressamente o limite prático, mantendo o ideal como orientação para organizar as relações."
+      },
+      {
+        "question": "O que a passagem sobre planta e solo modifica na imagem de um cultivo?",
+        "options": [
+          "Ela dirige a atenção à vida em relação ao solo ao redor.",
+          "Ela isola a planta de seu ambiente.",
+          "Ela oferece prova de que todo preparado aumenta a produtividade."
+        ],
+        "answer": 0,
+        "reason": "A passagem afirma que a vida não termina no contorno da planta e relaciona a adubação à vida do solo."
+      },
+      {
+        "question": "Qual é o papel dos preparados nesta orientação?",
+        "options": [
+          "Eles substituem a compreensão da propriedade por uma receita.",
+          "Eles comprovam toda a descrição agrícola.",
+          "São maneiras propostas de trabalhar com as relações vivas descritas."
+        ],
+        "answer": 2,
+        "reason": "Seu papel conceitual pertence à imagem mais ampla do cultivo; esta introdução não prescreve procedimentos nem estabelece resultados."
+      }
+    ],
+    "sourceNeeded": [
+      "Um PDF completo e transferível da GA 327 é necessário para verificar a diagramação e a paginação da Palestra 2 na tradução de Creeger/Gardner. O PDF menor da antologia fornecida verifica texto selecionado da Palestra 4, não a Palestra 2 nem o livro completo."
+    ],
+    "connection": "A próxima lição passa do cultivo ao trabalho artístico e pergunta como uma visão do ser humano e do mundo pode adquirir forma prática.",
+    "deeperStudy": []
+  }
+}

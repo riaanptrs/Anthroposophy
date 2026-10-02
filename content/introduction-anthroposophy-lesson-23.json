@@ -1,0 +1,199 @@
+{
+  "id": 23,
+  "part": 7,
+  "titleEn": "Human Development and Education",
+  "titlePt": "Desenvolvimento humano e educação",
+  "dependencies": [
+    5,
+    7
+  ],
+  "termsIntroduced": [
+    "development",
+    "education"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 7 — Details from the Field of Spiritual Science: The Course of a Human Life",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          406,
+          408
+        ],
+        "pdfPages": [
+          419,
+          421
+        ],
+        "markdownMarkers": null,
+        "anchor": "Birth, change of teeth, puberty and developing I. The educational pointer is printed 407 / PDF 420.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read the named subsection, from its heading partway through 406 to its conclusion partway through 408. Focus on changing capacities and the educational question; the explicit reference to The Education of the Child is on 407.",
+      "readingEn": "Read the named subsection, from its heading partway through 406 to its conclusion partway through 408. Focus on changing capacities and the educational question; the explicit reference to The Education of the Child is on 407.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Verified reading assignment with original course explanation.",
+      "assignmentVerification": {
+        "sourceId": "ga13",
+        "printedPages": [
+          406,
+          408
+        ],
+        "pdfPages": [
+          419,
+          421
+        ],
+        "pdfSha256": "823538ffb48a143fd92cd359d9536d8630009edfe6933fd06a18abc8d930be03",
+        "pdfPagesRead": [
+          419,
+          420,
+          421
+        ],
+        "pdfImagesInspected": [
+          420
+        ],
+        "imageInspected": true,
+        "method": "Read subsection from actual PDF text 419–421; inspected full PDF 420 with printed folio 407 and the educational pointer. Prior foundation review inspected 419–420.",
+        "reviewer": "agriculture_appendices"
+      },
+      "readingPt": "Leia a subseção nomeada, desde seu título no decorrer da página 406 até sua conclusão no decorrer da 408. Concentre-se nas capacidades que se modificam e na questão educacional; a referência explícita a A educação da criança está na 407."
+    },
+    {
+      "sourceId": "ga28",
+      "ga": 28,
+      "role": "secondary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "VI",
+      "locator": {
+        "kind": "PDF-page",
+        "printedPages": null,
+        "pdfPages": [
+          43,
+          44
+        ],
+        "markdownMarkers": null,
+        "anchor": "Full tutoring episode; selected sentence crosses the bottom of 43 and top of 44.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read the tutoring episode on 43–44, especially how preparation, lesson duration, subject order and daily periods are adapted to one pupil. These are digital PDF pages.",
+      "readingEn": "Read the tutoring episode on 43–44, especially how preparation, lesson duration, subject order and daily periods are adapted to one pupil. These are digital PDF pages.",
+      "selectedExcerpt": "I became aware that teaching and instructing must become an art having its foundation in a genuine understanding of man.",
+      "excerptStatus": "Exact short English passage verified against the supplied PDF image; Portuguese is an identified course study translation.",
+      "excerptEn": "I became aware that teaching and instructing must become an art having its foundation in a genuine understanding of man.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "ga28",
+        "pdfPages": [
+          43,
+          44
+        ],
+        "originalPrintedPages": null,
+        "pdfSha256": "416c783a15ef69b62927809b284f1c8d941fb104c5adeb2c7a340dcd88aa2d49",
+        "imageInspected": true,
+        "method": "Visually inspected PDF43 and44 to verify the full sentence crossing the page break. Compared embedded text with page footer43 excluded and line-break whitespace normalized.",
+        "reviewer": "agriculture_appendices",
+        "portuguese": "Original course study translation of the verified English passage."
+      },
+      "readingPt": "Leia o episódio de orientação nas páginas 43–44, especialmente como a preparação, a duração das aulas, a ordem dos assuntos e os períodos do dia são adaptados a um aluno. Estas são páginas do PDF digital.",
+      "excerptPt": "Tomei consciência de que ensinar e instruir devem se tornar uma arte fundamentada em uma compreensão genuína do ser humano."
+    }
+  ],
+  "sourceGaps": [
+    "GA 34 and later educational lectures are needed for pedagogical expansion and school-specific methods."
+  ],
+  "en": {
+    "question": "How does Steiner connect bodily development with the question of education?",
+    "matters": "A view of the human being influences what a teacher notices and asks. Steiner connects changes in human constitution with developing capacities. This gives an entry into his educational thought before studying particular teaching methods.",
+    "explanation": [
+      "In The Course of a Human Life, Steiner relates development to the constitution introduced earlier. Physical birth is followed by changes he associates with the change of teeth and puberty. He describes these as later releases of etheric and astral organization, with the I developing further.",
+      "The educational question follows from this sequence: which capacities are becoming available, and what can teaching address at this stage? Steiner explicitly points to The Education of the Child for the fuller pedagogical account. This subsection supplies the developmental starting point.",
+      "His autobiography offers a concrete educational experience. Tutoring one pupil led him to adjust preparation, lesson duration, subject order and daily periods to the child’s condition. He describes teaching as an art grounded in understanding the human being.",
+      "The connection is between an account of development and attentive decisions in teaching. The theoretical framework and the particular tutoring experience have different roles: one describes the human being, while the other shows how Steiner says he learned to respond to a pupil."
+    ],
+    "keyConcept": {
+      "term": "Developmental education",
+      "definition": "The educational question of how teaching relates to capacities developing within the human being, understood through Steiner’s account of human constitution."
+    },
+    "example": {
+      "text": "Imagine a teacher preparing the same topic for two age groups. The teacher changes the complexity, length and presentation to fit what each group can work with. This course example illustrates the developmental question; it does not establish Steiner’s supersensible account."
+    },
+    "distinction": "A developmental account gives reasons for asking how teaching should change. It is different from a tested teaching method or a complete school curriculum.",
+    "checks": [
+      {
+        "question": "What question follows from Steiner’s developmental account?",
+        "options": [
+          "How much information can be presented without regard to the learner?",
+          "Which capacities are developing, and how might teaching address them?",
+          "Which single lesson format suits every age?"
+        ],
+        "answer": 1,
+        "reason": "The account directs attention to changing capacities within the developing human being."
+      },
+      {
+        "question": "How does the autobiographical episode contribute?",
+        "options": [
+          "It describes Steiner adapting teaching to one pupil and learning from that work.",
+          "It establishes that all pupils should receive identical schedules.",
+          "It proves a general medical treatment."
+        ],
+        "answer": 0,
+        "reason": "The episode concerns preparation, timing and individual circumstances. It is Steiner’s account of a particular educational experience."
+      }
+    ],
+    "sourceNeeded": [
+      "The Education of the Child from the Viewpoint of Spiritual Science (GA 34) and later educational lectures are needed for the fuller pedagogy; these present sources do not establish educational effectiveness."
+    ],
+    "connection": "The next lesson takes this developmental question toward Waldorf education and adds Steiner’s attention to differences between learners.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Como Steiner relaciona o desenvolvimento corporal à questão da educação?",
+    "matters": "Uma visão do ser humano influencia aquilo que um professor observa e pergunta. Steiner relaciona mudanças na constituição humana ao desenvolvimento de capacidades. Isso oferece uma entrada em seu pensamento educacional antes do estudo de métodos específicos de ensino.",
+    "explanation": [
+      "Em O curso de uma vida humana, Steiner relaciona o desenvolvimento à constituição apresentada anteriormente. Ao nascimento físico seguem-se mudanças que ele associa à troca dos dentes e à puberdade. Ele as descreve como liberações posteriores da organização etérica e astral, com o desenvolvimento subsequente do Eu.",
+      "A questão educacional decorre dessa sequência: quais capacidades estão se tornando disponíveis e o que o ensino pode abordar nessa etapa? Steiner remete expressamente a A educação da criança para uma exposição pedagógica mais completa. Esta subseção fornece o ponto de partida sobre o desenvolvimento.",
+      "Sua autobiografia oferece uma experiência educacional concreta. Ao orientar um aluno, ele passou a adaptar a preparação, a duração das aulas, a ordem dos assuntos e os períodos do dia à condição da criança. Ele descreve o ensino como uma arte fundamentada na compreensão do ser humano.",
+      "A conexão se dá entre uma descrição do desenvolvimento e decisões atentas no ensino. A estrutura teórica e a experiência particular de orientação têm papéis diferentes: uma descreve o ser humano, enquanto a outra mostra como Steiner afirma ter aprendido a responder às necessidades de um aluno."
+    ],
+    "keyConcept": {
+      "term": "Educação voltada ao desenvolvimento",
+      "definition": "A questão educacional de como o ensino se relaciona às capacidades que se desenvolvem no ser humano, compreendidas por meio da descrição de Steiner sobre a constituição humana."
+    },
+    "example": {
+      "text": "Imagine um professor preparando o mesmo assunto para duas faixas etárias. Ele modifica a complexidade, a duração e a apresentação para adequá-las àquilo com que cada grupo consegue trabalhar. Este exemplo do curso ilustra a questão do desenvolvimento; não estabelece a descrição supersensível de Steiner."
+    },
+    "distinction": "Uma descrição do desenvolvimento fornece razões para perguntar como o ensino deve mudar. Ela é diferente de um método de ensino testado ou de um currículo escolar completo.",
+    "checks": [
+      {
+        "question": "Qual questão decorre da descrição de Steiner sobre o desenvolvimento?",
+        "options": [
+          "Quanta informação pode ser apresentada sem considerar o aluno?",
+          "Quais capacidades estão se desenvolvendo e como o ensino pode abordá-las?",
+          "Qual formato único de aula serve para todas as idades?"
+        ],
+        "answer": 1,
+        "reason": "A descrição dirige a atenção às capacidades que se modificam no ser humano em desenvolvimento."
+      },
+      {
+        "question": "Como o episódio autobiográfico contribui?",
+        "options": [
+          "Ele descreve Steiner adaptando o ensino a um aluno e aprendendo com esse trabalho.",
+          "Ele estabelece que todos os alunos devem receber horários idênticos.",
+          "Ele comprova um tratamento médico geral."
+        ],
+        "answer": 0,
+        "reason": "O episódio trata de preparação, tempo e circunstâncias individuais. É o relato de Steiner sobre uma experiência educacional particular."
+      }
+    ],
+    "sourceNeeded": [
+      "A educação da criança do ponto de vista da ciência espiritual (GA 34) e palestras educacionais posteriores são necessárias para a pedagogia mais completa; as fontes atuais não estabelecem a eficácia educacional."
+    ],
+    "connection": "A próxima lição conduz essa questão do desenvolvimento à educação Waldorf e acrescenta a atenção de Steiner às diferenças entre os alunos.",
+    "deeperStudy": []
+  }
+}

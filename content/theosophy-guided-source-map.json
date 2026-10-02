@@ -1,0 +1,1089 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-10-02",
+  "title": "Theosophy: An Introduction to the Supersensible Knowledge of the World and the Destination of Man",
+  "author": "Rudolf Steiner",
+  "translator": "Elizabeth Douglas Shields",
+  "translationYear": 1910,
+  "germanEdition": "third",
+  "reissuePublisher": "Delhi Open Books",
+  "reissuePublicationYear": null,
+  "pdfFile": "Teosophy new.pdf",
+  "markdownFile": "Teosophy new (2).md",
+  "pdfCaptureCount": 94,
+  "sha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+  "markdownSha256": "fdf9ed1e350cb1080d59de2b99f913b4a0cc5351c487fc954eb18e2615f8ec6a",
+  "locatorKind": "one-based-pdf-capture",
+  "printedPaginationEstablished": false,
+  "primaryAuthority": "PDF for source architecture, headings, source wording and order. Markdown is a search aid.",
+  "frontMatter": [
+    {
+      "heading": "Translator’s Foreword",
+      "captures": [
+        5
+      ],
+      "voice": "translator",
+      "function": "Terminology retained; knowledge-language refers to reported supersensible experience."
+    },
+    {
+      "heading": "Preface To The First Edition",
+      "captures": [
+        6,
+        7
+      ],
+      "voice": "author",
+      "function": "Experiential authority, practical value and active foundational reading."
+    },
+    {
+      "heading": "Preface To The Third Edition",
+      "captures": [
+        8,
+        9
+      ],
+      "voice": "author",
+      "function": "Clarifications and repeated second-edition remarks; assumptions in demands for proof."
+    },
+    {
+      "heading": "Introduction",
+      "captures": [
+        10,
+        11,
+        12
+      ],
+      "voice": "author",
+      "function": "Investigation differs from understanding; higher seeing differs from informed teaching."
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "titleEn": "The Constitution Of The Human Being",
+      "titlePt": "A constituição do ser humano",
+      "sourceHeading": "Chapter 1. The Constitution Of The Human Being",
+      "captures": [
+        13,
+        31
+      ],
+      "sourceSections": [
+        {
+          "heading": null,
+          "captures": [
+            13,
+            15
+          ]
+        },
+        {
+          "heading": "1. THE CORPOREAL BEING OF MAN",
+          "captures": [
+            15,
+            16
+          ]
+        },
+        {
+          "heading": "2. THE SOUL BEING OF MAN",
+          "captures": [
+            16,
+            17
+          ]
+        },
+        {
+          "heading": "3. THE SPIRITUAL BEING OF MAN",
+          "captures": [
+            17,
+            17
+          ]
+        },
+        {
+          "heading": "4. BODY, SOUL, AND SPIRIT",
+          "captures": [
+            17,
+            31
+          ]
+        }
+      ],
+      "plannedIds": [
+        1,
+        2,
+        3,
+        23,
+        4,
+        5,
+        24,
+        6
+      ],
+      "slug": "human-being"
+    },
+    {
+      "number": 2,
+      "titleEn": "Re-Embodiment Of The Spirit And Destiny",
+      "titlePt": "Reencarnação do espírito e destino",
+      "sourceHeading": "Chapter 2. Re-Embodiment Of The Spirit And Destiny",
+      "subtitle": "REINCARNATION AND KARMA",
+      "captures": [
+        32,
+        41
+      ],
+      "sourceSections": [],
+      "plannedIds": [
+        7,
+        8,
+        27,
+        9
+      ],
+      "slug": "destiny"
+    },
+    {
+      "number": 3,
+      "titleEn": "The Three Worlds",
+      "titlePt": "Os três mundos",
+      "sourceHeading": "CHAPTER 3. THE THREE WORLDS",
+      "captures": [
+        42,
+        81
+      ],
+      "sourceSections": [
+        {
+          "heading": "1. THE SOUL WORLD",
+          "captures": [
+            42,
+            50
+          ]
+        },
+        {
+          "heading": "2. THE SOUL IN THE SOUL WORLD AFTER DEATH",
+          "captures": [
+            50,
+            57
+          ]
+        },
+        {
+          "heading": "3. THE SPIRIT LAND",
+          "captures": [
+            57,
+            61
+          ]
+        },
+        {
+          "heading": "4. THE SPIRIT IN SPIRIT-LAND AFTER DEATH",
+          "captures": [
+            61,
+            69
+          ]
+        },
+        {
+          "heading": "5. THE PHYSICAL WORLD AND ITS CONNECTION WITH THE SOUL AND SPIRIT LANDS",
+          "captures": [
+            69,
+            75
+          ]
+        },
+        {
+          "heading": "6. THOUGHT-FORMS AND THE HUMAN AURA",
+          "captures": [
+            75,
+            81
+          ]
+        }
+      ],
+      "plannedIds": [
+        10,
+        25,
+        11,
+        26,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "slug": "three-worlds"
+    },
+    {
+      "number": 4,
+      "titleEn": "The Path Of Knowledge",
+      "titlePt": "O caminho do conhecimento",
+      "sourceHeading": "Chapter 4. The Path Of Knowledge",
+      "captures": [
+        82,
+        92
+      ],
+      "sourceSections": [],
+      "plannedIds": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "slug": "knowledge"
+    }
+  ],
+  "notes": {
+    "heading": "Notes And Amplifications",
+    "captures": [
+      93,
+      94
+    ],
+    "count": 9,
+    "date": "1910-08-28",
+    "equivalent1971Addenda": {
+      "1": 1,
+      "2": 2,
+      "4": 3,
+      "5": 4,
+      "6": 5,
+      "8": 6,
+      "9": 7,
+      "10": 8,
+      "11": 9
+    },
+    "1971OnlyAddenda": [
+      3,
+      7,
+      12,
+      13
+    ]
+  },
+  "parallelEdition": {
+    "year": 1971,
+    "translator": "Henry B. Monges, revised by Gilbert Church",
+    "publisher": "Anthroposophic Press",
+    "role": "Separately identified later witness; historical passages and beginner-course consumers are preserved.",
+    "markdownSha256": "545bc08a1b4d67e16933af836c5723bfa7394dc77adfc02789e1ab6981937070"
+  },
+  "reviewedCaptureLedger": [
+    {
+      "capture": 1,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Cover",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 2,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Title and translation metadata",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 3,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Digital-reissue statement",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 4,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Contents including all four chapters",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 5,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Translator on terminology and supersensible knowledge",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 6,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Author’s first-preface reading stance",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 7,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Foundational questions and further work",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 8,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Third-preface clarifications and supersensible inquiry",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 9,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Proof requirements and completion of third preface",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 10,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Fichte analogy and communicated findings",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 11,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Developed capacities versus understanding",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 12,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Teacher’s responsibility and theosophy’s subject",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 13,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Goethe opening and three relationships",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 14,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Meadow across two years; introductory body/soul/spirit",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 15,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Three modes of inquiry; corporeal subsection begins",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 16,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Corporeal conclusion; soul subsection and sensation",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 17,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Willing; spiritual subsection and thinking; section4 heading",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 18,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Thinking/feeling and physical organization; quartz/oak",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 19,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Life organization; access through a developed faculty",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 20,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Ether-body and terminology; sensation transition",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 21,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Sentient-soul, its proposed perception and bodily mediation",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 22,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Soul-body relation; thinking serves sentient life",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 23,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Truth and goodness independent of preference",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 24,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Consciousness-soul; aura; transition to self-awareness",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 25,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Jean Paul; I as unifier and inward reference",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 26,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "I’s bodily/spiritual directions; spirit-self",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 27,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Intuition; literal-spirit-body qualification",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 28,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Spirit-man, spirit-sheath, life-spirit and spiritual nourishment",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 29,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Comprehensive reconstruction; ninefold list and first pairings",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 30,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "First sevenfold list; fourfold organization; astral transformation",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 31,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "front-and-chapter-i",
+      "note": "Life/physical transformation and final sevenfold list",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 32,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-ii",
+      "note": "Bodily perception, truth, memory, and action",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 33,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-ii",
+      "note": "Memory and acquired fruits",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 34,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-ii",
+      "note": "End of learning; beginning of pre-birth history",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 35,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-ii",
+      "note": "Biography and spiritual continuity",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 36,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-ii",
+      "note": "Reincarnation conclusion and return to constitution",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 37,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-ii",
+      "note": "Hereditary tendencies and bodily renewal",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 38,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-ii",
+      "note": "Learning capacities extended across lives",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 39,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-ii",
+      "note": "From inward fruits to outward deeds",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 40,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-ii",
+      "note": "Two sides of action and changed surroundings",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 41,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-ii",
+      "note": "Threefold summary and transition",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 42,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Physical senses and proposed spiritual organs; Lotze and Goethe begin the manifestation argument.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 43,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Goethe: a being reveals itself in effects; higher organs require personal development.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 44,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Worlds are not spatially separated; astral/mental names; reject rarefied-physical interpretation.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 45,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Language works through comparison; soul desires/feelings derive from a wider soul world.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 46,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Astral/kama terminology; body/spirit influences distinguished from soul laws; inner affinity versus impact/perspective.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 47,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Sympathy/antipathy definitions; Burning Desire with dominant antipathy; balanced region2 begins.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 48,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Flowing Excitability and neutral colour sensation; wish substance; inward fourth-region feelings.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 49,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Outward enlivening sympathy in higher three; exact seven-region list; fourth links lower/higher.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 50,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Regions interpenetrate; subsection2 begins: soul links bodily impressions and spiritual understanding/deeds.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 51,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Physical death and limits of physical observation; spirit remains linked to soul oriented to bodily life.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 52,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Soul relinquishes bodily-only experience, retains spiritual fruits; karma distinction; food example begins.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 53,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Food desire without palate illustrates privation; Kamaloca is not locality; sympathy purification.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 54,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Regions1–3 applied to selfish appetite, sensory glitter and lingering wishes; affinity differs.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 55,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Region4 bodily self; historical suicide assertion; region5 nature enjoyment distinction begins.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 56,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Region5 comfort/reward;6 pleasure in activity;7 final materialistic orientation; spirit released.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 57,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Affinity/duration qualification and limits of book; subsection3 opens Spirit Land and thought-shadow analogy.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 58,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Lion/thought, painter/archetype, creative cooperating thought-beings; spiritual hearing begins.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 59,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Music of spheres is spiritual perception; interpenetrating regions;1 physical forms without life.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 60,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Hollow-space analogy;2 unified life;3 soul-archetype atmosphere;4 coordination;5–7 impulses begin.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 61,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Higher creative impulses, Rupa/Arupa, Spiritual Word and Life kernel; subsection4 starts.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 62,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Earthly incarnation enables spiritual work; architect workshop analogy; experience becomes faculties.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 63,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Architect learns and redesigns; next-life perfection not uniform;1 spiritual experience of earthly archetypes.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 64,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Own body within unified world; Vedanta; earthly relationships experienced from their active spiritual side.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 65,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Family/friend love strengthened;2 unity/reverence;3 shared feelings without self-seeking.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 66,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Community-service fruits;4 original cultural creation and continued historical conditioning; higher aims begin.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 67,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "5 enduring Self, Bearer of Causes/Causal Body, transformed fruits and aims across lives.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 68,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Spirit self develops; future aims;6 spiritual mission rather than transient interests.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 69,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "7 Life kernels; subsection5 begins simultaneous three-world life and half-metaphorical condensation.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 70,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Thought/object correspondence and Kepler; shared archetypes; mineral external lawfulness.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 71,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Plant versus crystal formative power; growing lily; First/Second Elementary Kingdoms.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 72,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Animal sensations/impulses and Third Elementary Kingdom; human thinking and impulse regulation.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 73,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Self-feeling versus self-consciousness; seven kingdoms; physical/ether/sentient/intellectual constitution mapping.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 74,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Intellectual soul works on itself; worlds combine; Folk Spirit, Zeitgeist and elementary beings.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 75,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Spirit-only vestments; subsection6 starts thought-forms/aura and corresponding perception organs.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 76,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Thought effects and form definiteness; aura and colour; transient and lasting qualities.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 77,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Passion, reflection, devotion and inventiveness; motive changes interpretation of similar capacity.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 78,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Transient moods and sensory response; mist-like/illuminating/sparkling species, interpenetration.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 79,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Attention to aura aspects; threefold expression of body/soul/spirit; description only stimulus to thought.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 80,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Developed third aspect; naturally selfless mother-love in first; second-aura descriptions.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 81,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iii",
+      "note": "Third aura thinking/love/selfless action; colours differ from sensory shades; closes ChapterIII.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 82,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "The chapter opens by treating thoughtful study of communicated spiritual knowledge as a formative activity that can precede personal perception. The dialogue with an independently minded learner distinguishes considering another investigator’s report from accepting it through blind authority.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 83,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "Steiner requires vigorous, trained thinking rather than a gratifying succession of images, and connects that discipline with firmness and a healthy soul life. His proposed teacher supplies a stimulus whose eventual recognition is meant to arise within the learner.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 84,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "The discussion moves from receiving a communicated account to receiving people and events without allowing familiar verdicts to determine the encounter in advance. Learning from a child and attending to someone one dislikes illustrate the selfless receptivity that Steiner regards as a condition of knowledge.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 85,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "Receptivity is joined to a valuation that does not make personal liking the measure of everything. Sympathy and antipathy are retained, but restraint of immediate judgments and reactions is expected to disclose previously overlooked qualities and refine sensitivity.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 86,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "Equanimity changes the purpose of pleasure and pain: the learner attends to what they disclose instead of becoming absorbed in the personal response. The comparison of receiving an impression with carrying out an action develops into Steiner’s stronger claim that transformed feelings become organs of soul-world perception.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 87,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "The road and workshop examples show how ordinary facts correct inaccurate thinking even before a person has disciplined its inner sequence. Steiner contrasts this corrective with spiritual inquiry, which he says requires regulated thinking before entry because the relevant laws do not compel the learner through sensory facts.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 88,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "Thought connections are to follow their content rather than a favorite conclusion or distracting emotion; mathematics illustrates this requirement but is explicitly not made compulsory. The same inner discipline is then extended to action, with the recognized good taking precedence over personal reward or immediate enjoyment.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 89,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "Steiner attributes a corrective power to sincere striving for truth even when a seeker is mistaken, and joins the government of thought with the government of will. The latter part returns to the earlier feeling discussion, presenting steadiness and transformed joy and pain as conditions for receiving spiritual impressions.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 90,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "The enduring part of the I is to meet what Steiner regards as eternal in things, while sensory details remain vividly observed rather than neglected. Capacities, patient work and waiting qualify this development; the source presents an orientation to cultivate rather than a result to demand on schedule.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 91,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "Acting from within becomes freedom when its motives accord with the eternal order Steiner describes, rather than with changing impressions or arbitrary wishes; attainment is explicitly a distant ideal. A typographic break then introduces personal confirmation of spiritual descriptions and the final passage toward initiation.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 92,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "Initiation is described as conscious participation in the shaping spirit, while the comparison of differently colored circles insists that the individual remains within the wider whole. This edition concludes by referring to further study and by situating patient development in a succession of incarnations.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 93,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "The first three notes distinguish spiritual-science life-force language from ordinary nature-force explanations, qualify touch as general responsiveness, and correct an interpretation that would deny thought in animal experience. The animal discussion attributes its thought content to a group ego rather than a human-style independent I.",
+      "reliablePrintedPage": null
+    },
+    {
+      "capture": 94,
+      "pdfImageInspected": true,
+      "markdownRead": true,
+      "reviewGroup": "chapter-iv-and-notes",
+      "note": "Notes4–9 distinguish the I-concept from repeating its word, connect the introductory account of intuition with fuller treatment elsewhere, and refer the spiritual organs to additional books. They also qualify spiritual rest and cosmic-purpose language and direct the spiritual-word discussion to further study; the page visibly concludes the nine-note sequence with the author’s dated signature.",
+      "reliablePrintedPage": null
+    }
+  ],
+  "sourceCorrections": [
+    {
+      "capture": 4,
+      "issue": "Markdown omits contents entries for chapters1/2."
+    },
+    {
+      "capture": 13,
+      "issue": "Markdown omits highlighted opening Goethe passage."
+    },
+    {
+      "capture": 38,
+      "ocr": "roan as a physical being",
+      "pdf": "man as a physical being"
+    }
+  ],
+  "bookMapCompleteBeforeLessonEditing": true,
+  "contentsInRepository": false,
+  "verifiedLessonPassages": [
+    {
+      "id": 0,
+      "capture": 12,
+      "quoteEn": "“Higher seeing” alone makes a “knower” in the spiritual just as little as healthy sense organs make a “scholar” in regard to the sensible realities.",
+      "verification": "Root visually checked source capture12 and compared exact wording with the source image; line wrapping normalized."
+    },
+    {
+      "id": 7,
+      "capture": 34,
+      "quoteEn": "The human spirit grows through assimilated experiences.",
+      "verification": "Root independently inspected PDF capture image on 2 October 2026; selected sentence matches the visible primary source, with line-wrap whitespace normalized."
+    },
+    {
+      "id": 8,
+      "capture": 35,
+      "quoteEn": "As physical man, I repeat the shape of my forefathers. What do I repeat as spiritual man?",
+      "verification": "Root independently inspected PDF capture image on 2 October 2026; selected sentence matches the visible primary source, with line-wrap whitespace normalized."
+    },
+    {
+      "id": 27,
+      "capture": 38,
+      "quoteEn": "These experiences themselves pass away, but their fruits remain.",
+      "verification": "Root independently inspected PDF capture image on 2 October 2026; selected sentence matches the visible primary source, with line-wrap whitespace normalized."
+    },
+    {
+      "id": 9,
+      "capture": 40,
+      "quoteEn": "For only the one part of my deed is in the outer world; the other is in myself.",
+      "verification": "Root independently inspected PDF capture image on 2 October 2026; selected sentence matches the visible primary source, with line-wrap whitespace normalized."
+    }
+  ],
+  "pilotReview": {
+    "completed": "2026-10-02",
+    "layoutChecks": 44,
+    "quizFlows": 4,
+    "keyboardFlows": 4,
+    "progressPersistenceFlows": 5,
+    "noJavaScriptChecks": 3,
+    "browserErrors": 0,
+    "sourceReasoningReviewed": true,
+    "corrections": [
+      "Display the three transformations as parallel relationships rather than a causal chain.",
+      "Use clean Portuguese chapter titles while retaining exact English source headings."
+    ]
+  },
+  "finalReview": {
+    "reviewed": "2026-10-02",
+    "fullBuild": "passed",
+    "repositoryValidators": 23,
+    "layoutChecks": 136,
+    "quizFlows": 108,
+    "navigationChecks": 112,
+    "localLinkChecks": 82,
+    "keyboardFlows": 8,
+    "storageFlows": 11,
+    "noJavaScriptChecks": 12,
+    "browserErrors": 0,
+    "failedRequests": 0,
+    "httpErrors": 0,
+    "otherCourseCatalogueEntriesUnchanged": true,
+    "otherCourseGeneratedPagesUnchanged": true,
+    "publicationStatus": "local-workspace-not-pushed-or-deployed"
+  }
+}

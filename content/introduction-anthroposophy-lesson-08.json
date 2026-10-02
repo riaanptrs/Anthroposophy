@@ -1,0 +1,160 @@
+{
+  "id": 8,
+  "part": 3,
+  "titleEn": "Reincarnation",
+  "titlePt": "Reencarnação",
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 2. Re-Embodiment Of The Spirit And Destiny — Continuous chapter; no author subsections",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          33,
+          38
+        ],
+        "markdownMarkers": null,
+        "anchor": "Learning leaves capacities even when episodes fade; spiritual individuality has a history; later capacities are interpreted as fruits carried forward. Focus captures: 33, 34, 35, 38.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read the learning example in capture 33, then the retained fruits in 38 left column. Captures 34–35 develop the individuality argument; 37 qualifies heredity. The short excerpt is from 38.",
+      "selectedExcerpt": "These experiences themselves pass away, but their fruits remain.",
+      "excerptStatus": "Already accepted Chapter II excerpt independently reverified against the supplied PDF; Portuguese is a labelled course study translation.",
+      "readingEn": "Read the learning example in capture 33, then the retained fruits in 38 left column. Captures 34–35 develop the individuality argument; 37 qualifies heredity. The short excerpt is from 38.",
+      "sourceScopeLimit": "Learning retained within one life is the starting analogy; the further claim concerns continuity across lives.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read the relevant source ranges in the matching Markdown and visually checked the listed native PDF captures in column reading order. Exact source assignments and original explanation are used for ranges whose quotation reproduction was previously blocked.",
+        "reviewer": "intro_ga28_biography"
+      },
+      "excerptEn": "These experiences themselves pass away, but their fruits remain.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "ga9",
+        "section": "Chapter 2. Re-Embodiment Of The Spirit And Destiny — Continuous chapter; no author subsections",
+        "pdfCaptures": [
+          38,
+          38
+        ],
+        "originalPrintedPages": null,
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "imageInspected": true,
+        "column": "left, middle paragraph",
+        "method": "Reused accepted passage from content/theosophy-guided-source-map.json and checked exact wording in the authoritative PDF’s original embedded image.",
+        "acceptedLedgerPassageId": 27,
+        "reviewer": "intro_ga28_biography"
+      },
+      "readingPt": "Leia o exemplo de aprendizado na captura 33 e, depois, os frutos preservados na coluna esquerda de 38. As capturas 34–35 desenvolvem a argumentação sobre a individualidade; 37 traz uma ressalva sobre a hereditariedade. O trecho curto vem de 38.",
+      "excerptPt": "Essas experiências em si passam, mas seus frutos permanecem."
+    }
+  ],
+  "sourceGaps": [],
+  "dependencies": [
+    7
+  ],
+  "termsIntroduced": [
+    "reincarnation",
+    "personality",
+    "fruits-of-experience"
+  ],
+  "en": {
+    "question": "What does Steiner say continues from one earthly life into another?",
+    "matters": "The preceding lessons described a developing individuality. Reincarnation extends that account beyond one earthly life and prepares the question of how deeds continue to matter.",
+    "explanation": [
+      "Steiner begins with something familiar: learning leaves capacities that outlast particular experiences. Someone can read without remembering every lesson through which reading was learned. The experiences have been assimilated into an ability, rather than preserved only as scenes in memory.",
+      "He then extends this relationship beyond one life. Spiritual individuality, he argues, brings fruits of earlier development into a new embodiment. Capacities present at the beginning of a life are interpreted through an earlier history of that individuality. This is his further argument, beyond the ordinary learning example.",
+      "The continuing subject is therefore spiritual individuality. Personality means the particular configuration of an earthly life: its circumstances, habits and personal expression. The account does not require an unchanged personality or conscious recollection of every earlier experience. Retained development and episodic memory are different kinds of continuity.",
+      "Steiner also distinguishes spiritual continuity from bodily heredity, while allowing some personal tendencies to be inherited. The distinction is not that everything inward must come from a previous life. His argument concerns the individuality and the development he attributes to it."
+    ],
+    "keyConcept": {
+      "term": "Reincarnation",
+      "definition": "In Steiner’s account, repeated earthly embodiment of a spiritual individuality carrying fruits of earlier development."
+    },
+    "example": {
+      "text": "Adaptation of the source’s learning example: you retain the ability to read although many practice sessions have faded from memory. This illustrates capacity versus recall; Steiner’s extension to earlier lives is a separate claim."
+    },
+    "distinction": "The learning analogy makes Steiner’s proposed continuity intelligible. It does not independently establish a particular previous life or make reincarnation an observed consequence of learning to read.",
+    "checks": [
+      {
+        "question": "What are “fruits of experience” in this account?",
+        "options": [
+          "Every scene remembered without change.",
+          "Development retained as capacity.",
+          "An unchanged physical body."
+        ],
+        "answer": 1,
+        "reason": "An acquired ability can remain even when particular experiences are no longer recalled."
+      },
+      {
+        "question": "What does Steiner describe as reincarnating?",
+        "options": [
+          "The same everyday personality in every detail.",
+          "The previous physical body.",
+          "A spiritual individuality with a history of development."
+        ],
+        "answer": 2,
+        "reason": "He distinguishes continuing individuality from the particular personality and body of one earthly life."
+      }
+    ],
+    "connection": "Lesson 09 asks how deeds leave continuing effects both within a person and in the surrounding world.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "O que Steiner diz que continua de uma vida terrena para outra?",
+    "matters": "As lições anteriores descreveram uma individualidade em desenvolvimento. A reencarnação estende essa descrição para além de uma única vida terrena e prepara a pergunta sobre como os atos continuam a importar.",
+    "explanation": [
+      "Steiner começa com algo familiar: o aprendizado deixa capacidades que perduram além das experiências específicas. Uma pessoa pode ler sem lembrar cada aula em que aprendeu a leitura. As experiências foram assimiladas como uma capacidade, em vez de preservadas apenas como cenas na memória.",
+      "Ele então estende essa relação para além de uma vida. A individualidade espiritual, argumenta, traz frutos de um desenvolvimento anterior para uma nova encarnação. Capacidades presentes no início de uma vida são interpretadas a partir de uma história anterior dessa individualidade. Essa é sua argumentação adicional, além do exemplo comum de aprendizado.",
+      "O sujeito que continua é, portanto, a individualidade espiritual. Personalidade significa a configuração particular de uma vida terrena: suas circunstâncias, seus hábitos e sua expressão pessoal. A descrição não exige uma personalidade inalterada nem a recordação consciente de todas as experiências anteriores. Desenvolvimento preservado e memória de episódios são formas diferentes de continuidade.",
+      "Steiner também distingue a continuidade espiritual da hereditariedade corporal, admitindo que algumas tendências pessoais podem ser herdadas. A distinção não é que tudo o que é interior deva vir de uma vida anterior. Sua argumentação diz respeito à individualidade e ao desenvolvimento que lhe atribui."
+    ],
+    "keyConcept": {
+      "term": "Reencarnação",
+      "definition": "Na concepção de Steiner, encarnações terrenas sucessivas de uma individualidade espiritual que traz frutos de um desenvolvimento anterior."
+    },
+    "example": {
+      "text": "Adaptação do exemplo de aprendizado da fonte: você conserva a capacidade de ler, embora muitas sessões de prática tenham desaparecido da memória. Isso ilustra capacidade e recordação; a extensão de Steiner para vidas anteriores é uma afirmação distinta."
+    },
+    "distinction": "A analogia do aprendizado torna compreensível a continuidade proposta por Steiner. Ela não comprova, por si só, uma vida anterior específica nem faz da reencarnação uma consequência observada do aprendizado da leitura.",
+    "checks": [
+      {
+        "question": "O que são os “frutos da experiência” nesta descrição?",
+        "options": [
+          "Todas as cenas lembradas sem mudança.",
+          "Desenvolvimento preservado como capacidade.",
+          "Um corpo físico inalterado."
+        ],
+        "answer": 1,
+        "reason": "Uma capacidade adquirida pode permanecer mesmo quando experiências específicas já não são lembradas."
+      },
+      {
+        "question": "O que Steiner descreve como sujeito da reencarnação?",
+        "options": [
+          "A mesma personalidade cotidiana em todos os detalhes.",
+          "O corpo físico anterior.",
+          "Uma individualidade espiritual com uma história de desenvolvimento."
+        ],
+        "answer": 2,
+        "reason": "Ele distingue a individualidade que continua da personalidade e do corpo particulares de uma vida terrena."
+      }
+    ],
+    "connection": "A Lição 09 pergunta como os atos deixam efeitos que continuam tanto dentro da pessoa quanto no mundo ao seu redor.",
+    "deeperStudy": []
+  }
+}

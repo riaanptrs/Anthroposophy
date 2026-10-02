@@ -1,6 +1,9 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {esc} from './learning-html.mjs';
+import {isIntroductionOwned} from './link-constitution.mjs';
+import {isPracticalThinkingOwned,partSlugs} from './practical-thinking-owned.mjs';
+import {thoughtInventory} from '../content/practical-thinking-revised.mjs';
 import {higherWorlds} from '../content/higher-worlds.mjs';
 import {freedomConnections} from '../content/philosophy-of-freedom-connections.mjs';
 import {additions} from '../content/philosophy-of-freedom-additions.mjs';
@@ -13,7 +16,6 @@ import {understandLessons,understandSource,understandConnections} from '../conte
 import {selfLessons,selfSource,selfConnections} from '../content/encountering-the-self.mjs';
 import {mysteryLessons,mysterySource} from '../content/mystery-temperaments.mjs';
 import {freedomConsolidated as freedomLessons} from '../content/philosophy-of-freedom-consolidated.mjs';
-import {thinkingLessons} from '../content/practical-thinking.mjs';
 import {temperamentCourse} from '../content/temperament-course.mjs';
 import {mythsLessons} from '../content/ancient-myths.mjs';
 const root = path.resolve('docs');
@@ -21,11 +23,14 @@ const files = fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.html'
 const catalogue=JSON.parse(fs.readFileSync('content/learning-system-catalogue.json','utf8'));
 const researchMap=JSON.parse(fs.readFileSync('content/learning-system-research-map.json','utf8'));
 const beginnerSources=JSON.parse(fs.readFileSync('content/learning-system-sources.json','utf8'));
+const introductionCourse=fs.existsSync('content/introduction-anthroposophy-course.json')?JSON.parse(fs.readFileSync('content/introduction-anthroposophy-course.json','utf8')):null;
+const introductionSourceMap=introductionCourse?JSON.parse(fs.readFileSync('content/introduction-anthroposophy-source-map.json','utf8')):null;
 const errors = [];
+const guidedTheosophy=(relative,html)=>/^(?:pt\/)?(?:lessons\/\d{2}\.html|theosophy\/)/.test(relative.replaceAll('\\','/'))&&html.includes('data-theosophy-owned="true"');
 for (const relative of files) {
  const file = path.join(root,relative), html = fs.readFileSync(file,'utf8');
  const answerDetails=(html.match(/<details(?! class="guided-)\b/g)||[]).length;
- const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
+ const ids = [...html.matchAll(/\sid="([^"]+)"/g)].map(m=>m[1]);
  if(new Set(ids).size!==ids.length) errors.push(`${relative}: duplicate id`);
  if((html.match(/<h1\b/g)||[]).length!==1) errors.push(`${relative}: expected one h1`);
  if(!html.includes('data-research-note-body')&&/Awaiting source|Aguardando material|Future subject lessons/.test(html)) errors.push(`${relative}: stale placeholder`);
@@ -40,6 +45,38 @@ for (const relative of files) {
   if(anchor&&!fs.readFileSync(target,'utf8').includes(`id="${anchor}"`)) errors.push(`${relative}: missing anchor ${href}`);
  }
  if(relative.includes('lessons')&&!/(?:^|[\\/])learn[\\/]/.test(relative)) {
+  if(isPracticalThinkingOwned(relative,html)&&/\/lessons\/\d{2}\.html$/.test(relative.replaceAll('\\','/'))){
+   const lang=relative.startsWith('pt/')?'pt':'en',id=Number(path.basename(relative,'.html'));
+   const lesson=thoughtInventory.find(l=>l.routeId===id),title=lesson?.[lang]?.title;
+   if(!lesson||!html.includes(esc(title)))errors.push(`${relative}: missing revised Practical lesson or title`);
+   if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong Practical language`);
+   const partner=path.join(root,lang==='pt'?'':'pt','practical-thinking','lessons',path.basename(relative)),alternate=html.match(/<link rel="alternate"[^>]*href="([^"]+)"/);
+   if(!alternate||path.resolve(path.dirname(file),alternate[1])!==partner)errors.push(`${relative}: incorrect Practical language partner`);
+   const source=html.indexOf('data-thought-source'),application=html.indexOf('data-thought-application'),practice=html.indexOf('data-thought-practice');
+   if(source<0||application<=source||practice<=application)errors.push(`${relative}: source-first Practical sequence missing`);
+   if(/Starting in|capture-software|C:\\Users\\|sediment:\/\/|\/workspace\/attachments\//.test(html))errors.push(`${relative}: private Practical source noise leaked`);
+   continue;
+  }
+  if(isIntroductionOwned(relative,html)&&/\/lessons\/\d{2}\.html$/.test(relative.replaceAll('\\','/'))){
+   const lang=relative.startsWith('pt/')?'pt':'en',id=Number(path.basename(relative,'.html'));
+   const lesson=introductionSourceMap?.lessons.find(l=>l.id===id),title=lesson?.[lang==='pt'?'titlePt':'titleEn'];
+   if(!introductionCourse?.availableLessonIds.includes(id)||!lesson||!html.includes(esc(title)))errors.push(`${relative}: unavailable Introduction lesson or missing title`);
+   if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong Introduction language`);
+   const partner=path.join(root,lang==='pt'?'':'pt','introduction-to-anthroposophy','lessons',path.basename(relative)),alternate=html.match(/<link rel="alternate"[^>]*href="([^"]+)"/);
+   if(!alternate||path.resolve(path.dirname(file),alternate[1])!==partner)errors.push(`${relative}: incorrect Introduction language partner`);
+   if(/Starting in|capture-software|C:\\Users\\|sediment:\/\/|\/workspace\/attachments\//.test(html))errors.push(`${relative}: private Introduction source noise leaked`);
+   continue;
+  }
+  if(guidedTheosophy(relative,html)){
+   const lang=relative.startsWith('pt/')?'pt':'en',course=catalogue.courses.find(c=>c.route==='theosophy');
+   const lesson=course?.lessons.find(l=>l.id===Number(path.basename(relative,'.html'))),title=lesson?.[lang==='pt'?'titlePt':'titleEn'];
+   if(!lesson||!html.includes(esc(title)))errors.push(`${relative}: missing guided Theosophy reading or title`);
+   if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong Theosophy reading language`);
+   const partner=path.join(root,lang==='pt'?'':'pt','lessons',path.basename(relative)),alternate=html.match(/<link rel="alternate"[^>]*href="([^"]+)"/);
+   if(!alternate||path.resolve(path.dirname(file),alternate[1])!==partner)errors.push(`${relative}: incorrect guided Theosophy language partner`);
+   if(/Starting in|capture-software|C:\\Users\\|sediment:\/\//.test(html))errors.push(`${relative}: private source capture noise leaked`);
+   continue;
+  }
   const sourceRoute=relative.match(/(?:^|[\\/])(what-is-biodynamics|toward-threefold-society|agriculture)[\\/]/)?.[1];
   if(sourceRoute) {
    const lang=relative.startsWith('pt')?'pt':'en',course=catalogue.courses.find(c=>c.route===sourceRoute);
@@ -57,8 +94,8 @@ for (const relative of files) {
    if(!l||!html.includes(l[lang].title)||answerDetails!==3||!html.includes(l.url)||!html.includes(l.span))errors.push(`${relative}: incomplete myth lesson or reading reference`);
    continue;
   }
-  if(/practical-thinking|understanding-temperaments/.test(relative)) {
-   const lang=relative.startsWith('pt')?'pt':'en',lessons=relative.includes('practical-thinking')?thinkingLessons:temperamentCourse;
+  if(relative.includes('understanding-temperaments')) {
+   const lang=relative.startsWith('pt')?'pt':'en',lessons=temperamentCourse;
    const l=lessons[Number(path.basename(relative,'.html'))],v=l?.[lang];
    if(!v||!html.includes(v.title)||answerDetails!==v.checks.length+1)errors.push(`${relative}: incomplete practice lesson`);
    for(const field of ['session1','session2','session3'])if(!html.includes(`data-note-field="${field}"`))errors.push(`${relative}: missing journal field ${field}`);
@@ -157,6 +194,10 @@ for(const [course,entries] of Object.entries(freedomConnections)) for(const [id,
  for(const [lang,index] of [['en',2],['pt',3]]) {
   const relative=`${lang==='pt'?'pt/':''}${course==='higherWorlds'?'higher-worlds/':''}lessons/${String(id).padStart(2,'0')}.html`;
   const html=fs.readFileSync(path.join(root,relative),'utf8');
+  if(course==='theosophy'&&guidedTheosophy(relative,html)){
+   if(!entry[index])errors.push(`${relative}: retained GA 4 comparison data missing`);
+   continue;
+  }
   if(!entry[index]||!html.includes(entry[index])||!html.includes('freedom-source')) errors.push(`${relative}: missing bilingual GA 4 explanation or source`);
  }
 }
@@ -199,7 +240,7 @@ for(const prefix of ['', 'pt/']){
   if([2,4,9,11].includes(l.id)&&!h.includes('class="colour-swatch'))errors.push(p+': missing labelled colour studies');
   if(l.id===8&&(!h.includes('spaceplace.nasa.gov')||!h.includes('nei.nih.gov')))errors.push(p+': missing scientific context sources');
  }
- for(const c of colourConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- colour-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Colour supplement');}
+ for(const c of colourConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if(guidedTheosophy(prefix+c.target,h)){if(!c[prefix?'pt':'en']?.[1]||!colourLessons.some(l=>l.id===c.lesson))errors.push(prefix+c.target+': retained Colour comparison data missing');continue;}if((h.match(/<!-- colour-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Colour supplement');}
 }
 
 if(temperamentsLessons.map(l=>l.id).join(',')!=='0,1,2,3,4,5,6,7,8,9,10')errors.push('Expected eleven Temperaments lessons');
@@ -213,7 +254,7 @@ for(const prefix of ['', 'pt/']){
   if(!h.includes(v.reading))errors.push(p+': missing source assignment');
   if([2,8].includes(l.id)&&!h.includes('class="temperaments-map"'))errors.push(p+': missing comparison table');
  }
- for(const c of temperamentsConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8').replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');if((h.match(/<!-- temperaments-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Temperaments supplement');}
+ for(const c of temperamentsConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8').replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');if(guidedTheosophy(prefix+c.target,h)){if(!c[prefix?'pt':'en']?.[1]||!temperamentsLessons.some(l=>l.id===c.lesson))errors.push(prefix+c.target+': retained Temperaments comparison data missing');continue;}if((h.match(/<!-- temperaments-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Temperaments supplement');}
 }
 
 if(understandLessons.map(l=>l.id).join(',')!=='0,1,2,3,4,5,6,7,8,9,10,11,12')errors.push('Expected thirteen Understand lessons');
@@ -259,11 +300,21 @@ for(const prefix of ['', 'pt/']){
  for(const source of beginnerSources)expectedRoutes.add(prefix+'learn/lessons/'+String(source.id).padStart(2,'0')+'.html');
  for(const course of catalogue.courses){
   expectedRoutes.add(prefix+course.route+'/index.html');
+  if(course.route==='theosophy')expectedRoutes.add(prefix+'theosophy/source-notes.html');
   for(const lesson of course.lessons)expectedRoutes.add(lesson[prefix?'pathPt':'pathEn'].replace(/^docs[\\/]/,''));
+  if(course.route==='practical-thinking'){
+   for(const route of ['tools.html','source-notes.html',...partSlugs.map(slug=>'parts/'+slug+'.html')])expectedRoutes.add(prefix+'practical-thinking/'+route);
+   continue;
+  }
   for(const part of course.parts)for(const group of part.groups)if(group.lessonIds.length>1||group.sourceChapterNumber)expectedRoutes.add(prefix+course.route+'/chapters/'+part.id+'-'+group.id+'.html');
  }
 }
 for(const document of researchMap.documents)expectedRoutes.add('research/notes/'+document.id+'.html');
+if(introductionCourse)for(const prefix of ['', 'pt/']){
+ for(const route of ['index.html','source-notes.html'])expectedRoutes.add(prefix+'introduction-to-anthroposophy/'+route);
+ for(const part of introductionCourse.parts)expectedRoutes.add(prefix+'introduction-to-anthroposophy/parts/'+part.slug+'.html');
+ for(const id of introductionCourse.availableLessonIds)expectedRoutes.add(prefix+'introduction-to-anthroposophy/lessons/'+String(id).padStart(2,'0')+'.html');
+}
 const courseFiles=files.filter(f=>f!=='learning-review.html').map(f=>f.replaceAll(path.sep,'/'));
 if(courseFiles.length!==expectedRoutes.size)errors.push(`Expected ${expectedRoutes.size} learning, book, chapter, research and reference HTML pages, got ${courseFiles.length}`);
 const actualRoutes=new Set(courseFiles);

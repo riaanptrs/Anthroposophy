@@ -1,0 +1,136 @@
+{
+  "id": 10,
+  "part": 3,
+  "titleEn": "Death and Life Beyond the Physical Body",
+  "titlePt": "Morte e vida além do corpo físico",
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "CHAPTER 3. THE THREE WORLDS — 2. THE SOUL IN THE SOUL WORLD AFTER DEATH",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          50,
+          53
+        ],
+        "markdownMarkers": null,
+        "anchor": "Body as instrument; physical death and the limit of physical observation; attachment requiring bodily organs; release of spirit. Focus captures: 51, 52, 53.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read the bodily instrument and physical death in 51 left/centre, retained fruits in 52 left, and desire versus bodily organ in 53 left. Capture 52 centre/right distinguishes purification from karma.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation. No new excerpt reproduction.",
+      "readingEn": "Read the bodily instrument and physical death in 51 left/centre, retained fruits in 52 left, and desire versus bodily organ in 53 left. Capture 52 centre/right distinguishes purification from karma.",
+      "sourceScopeLimit": "A bounded introduction to the source’s claimed transition; no region itinerary or fixed duration is assigned.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          50,
+          51,
+          52,
+          53
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read the relevant source ranges in the matching Markdown and visually checked the listed native PDF captures in column reading order. Exact source assignments and original explanation are used for ranges whose quotation reproduction was previously blocked.",
+        "reviewer": "intro_ga28_biography"
+      },
+      "readingPt": "Leia sobre o instrumento corporal e a morte física nas colunas esquerda e central de 51, os frutos preservados na esquerda de 52 e o desejo em relação ao órgão corporal na esquerda de 53. As colunas central e direita de 52 distinguem purificação e carma."
+    }
+  ],
+  "sourceGaps": [],
+  "dependencies": [
+    5,
+    8,
+    9
+  ],
+  "termsIntroduced": [],
+  "en": {
+    "question": "What changes in Steiner’s account when the body can no longer serve soul and spirit?",
+    "matters": "Reincarnation and karma presuppose continuity beyond bodily life. This lesson explains the transition described in Theosophy before examining the worlds involved.",
+    "explanation": [
+      "Steiner first defines physical death through the body: its organization ceases to provide the instrument for sensory perception and earthly action. Physical observation encounters the bodily changes. The claimed continuing life of soul and spirit belongs, in his account, to higher knowledge.",
+      "He then distinguishes a bodily organ from the desire that has been satisfied through it. A longing may remain although the organ needed for its satisfaction is unavailable. His account of purification describes the soul relinquishing these embodiment-dependent attachments, freeing the spirit from that particular relation to bodily life.",
+      "This release is not the loss of everything gained through earthly experience. Steiner distinguishes what can be satisfied only through bodily organs from spiritually assimilable fruits of life. Those fruits are retained, he says, and developed into capacities in the spiritual world before renewed earthly embodiment.",
+      "His architect analogy connects the two settings: experiences gained while a building is carried out can affect the next plan. Earthly work supplies experience; the intervening development concerns faculties and aims. The analogy clarifies the proposed relationship, without independently establishing the claimed continuation."
+    ],
+    "keyConcept": {
+      "term": "Release of bodily attachment",
+      "definition": "In this account, relinquishing longings dependent on bodily organs while retaining spiritually assimilable fruits of experience."
+    },
+    "example": {
+      "text": "Simplification of the source’s food example: a desire for a particular taste is distinct from the palate through which it is satisfied. Steiner uses that distinction to explain a longing persisting when its bodily means are unavailable."
+    },
+    "distinction": "Post-death purification concerns attachment to the preceding embodiment. Karma concerns consequences related to later lives; the two processes are expressly distinguished in the source.",
+    "checks": [
+      {
+        "question": "What belongs to the physical account of death here?",
+        "options": [
+          "Proof of every subsequent spiritual event.",
+          "The bodily instrument ceasing to function.",
+          "An unchanged continuation of bodily sensation."
+        ],
+        "answer": 1,
+        "reason": "The source distinguishes observable bodily changes from the continued soul and spirit it attributes to higher knowledge."
+      },
+      {
+        "question": "Does relinquishing bodily attachment mean erasing all earthly development?",
+        "options": [
+          "Yes; nothing learned can remain.",
+          "No; the account distinguishes bodily-dependent longing from retained fruits of experience."
+        ],
+        "answer": 1,
+        "reason": "Steiner describes retained development becoming capacity, rather than all experience simply disappearing."
+      }
+    ],
+    "connection": "Lessons 11–14 clarify the physical, soul and spiritual worlds presupposed by this account.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "O que muda na concepção de Steiner quando o corpo já não pode servir à alma e ao espírito?",
+    "matters": "A reencarnação e o carma pressupõem uma continuidade além da vida corporal. Esta lição explica a transição descrita em Teosofia antes de examinar os mundos envolvidos.",
+    "explanation": [
+      "Steiner primeiro define a morte física a partir do corpo: sua organização deixa de fornecer o instrumento para a percepção sensorial e a ação terrena. A observação física encontra as mudanças corporais. A continuidade afirmada da vida da alma e do espírito pertence, em sua concepção, ao conhecimento superior.",
+      "Ele então distingue um órgão corporal do desejo que era satisfeito por meio dele. Um anseio pode permanecer embora o órgão necessário à sua satisfação já não esteja disponível. Sua descrição da purificação apresenta a alma liberando esses apegos dependentes da encarnação, deixando o espírito livre dessa relação particular com a vida corporal.",
+      "Essa liberação não é a perda de tudo o que foi adquirido na experiência terrena. Steiner distingue o que só pode ser satisfeito por órgãos corporais dos frutos da vida que podem ser assimilados espiritualmente. Esses frutos são preservados, diz ele, e desenvolvidos como capacidades no mundo espiritual antes de uma nova encarnação terrena.",
+      "Sua analogia do arquiteto relaciona os dois contextos: experiências adquiridas durante a execução de uma construção podem influenciar o próximo projeto. O trabalho terreno fornece experiência; o desenvolvimento entre as vidas diz respeito a capacidades e objetivos. A analogia esclarece a relação proposta, sem comprovar, por si só, a continuidade afirmada."
+    ],
+    "keyConcept": {
+      "term": "Liberação do apego corporal",
+      "definition": "Nesta descrição, liberar anseios que dependem de órgãos corporais, preservando frutos da experiência que podem ser assimilados espiritualmente."
+    },
+    "example": {
+      "text": "Simplificação do exemplo alimentar da fonte: desejar um sabor específico é diferente do paladar pelo qual ele é satisfeito. Steiner usa essa distinção para explicar um anseio que persiste quando seu meio corporal já não está disponível."
+    },
+    "distinction": "A purificação após a morte diz respeito ao apego à encarnação anterior. O carma diz respeito a consequências relacionadas a vidas posteriores; a fonte distingue expressamente os dois processos.",
+    "checks": [
+      {
+        "question": "O que pertence à descrição física da morte apresentada aqui?",
+        "options": [
+          "A comprovação de todos os eventos espirituais posteriores.",
+          "O instrumento corporal deixar de funcionar.",
+          "A continuidade inalterada das sensações corporais."
+        ],
+        "answer": 1,
+        "reason": "A fonte distingue mudanças corporais observáveis da continuidade da alma e do espírito que atribui ao conhecimento superior."
+      },
+      {
+        "question": "Liberar o apego corporal significa apagar todo o desenvolvimento terreno?",
+        "options": [
+          "Sim; nada do que foi aprendido pode permanecer.",
+          "Não; a descrição distingue anseios dependentes do corpo de frutos preservados da experiência."
+        ],
+        "answer": 1,
+        "reason": "Steiner descreve o desenvolvimento preservado tornando-se capacidade, em vez de toda experiência simplesmente desaparecer."
+      }
+    ],
+    "connection": "As Lições 11–14 esclarecem os mundos físico, anímico e espiritual pressupostos por essa descrição.",
+    "deeperStudy": []
+  }
+}

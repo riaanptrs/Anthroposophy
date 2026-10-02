@@ -1,0 +1,139 @@
+{
+  "id": 4,
+  "part": 2,
+  "titleEn": "Body, Soul and Spirit",
+  "titlePt": "Corpo, alma e espírito",
+  "dependencies": [
+    3
+  ],
+  "termsIntroduced": [
+    "body",
+    "soul",
+    "spirit"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 1. The Constitution Of The Human Being — Unnumbered chapter opening",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          13,
+          15
+        ],
+        "markdownMarkers": null,
+        "anchor": "Capture 14 left: meadow revisited; middle/right: comparison and definitions. Capture 15 left and upper middle: three relations; stop before §1 in the middle column.",
+        "authorParagraphs": null,
+        "focusCaptures": [
+          14,
+          15
+        ]
+      },
+      "readingInstruction": "Read the Chapter I opening, focusing on capture 14’s meadow comparison and definitions, then capture 15’s left and upper middle columns. Stop before §1.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation.",
+      "readingEn": "Read the Chapter I opening, focusing on capture 14’s meadow comparison and definitions, then capture 15’s left and upper middle columns. Stop before §1.",
+      "sourceScopeLimit": "Chapter I unnumbered opening only; the numbered corporeal account and later member schemes are outside this lesson.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          13,
+          14,
+          15
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read complete Chapter I opening and sections 1–4 in the supplied Markdown; visually checked every native PDF capture 13–31 in three-column reading order. Refined the assigned conceptual centre and section boundaries without selecting an excerpt.",
+        "reviewer": "intro_site_audit"
+      },
+      "readingPt": "Leia a abertura do Capítulo I, concentrando-se na comparação do prado e nas definições da captura 14, depois nas colunas esquerda e central superior da captura 15. Pare antes da seção 1."
+    }
+  ],
+  "sourceGaps": [],
+  "en": {
+    "question": "How can one encounter involve sensory presence, a personal response and an understood relationship?",
+    "matters": "Steiner begins his account of the human being with three relationships to the world. Understanding them prepares us for his more detailed distinctions.",
+    "explanation": [
+      "Consider Steiner’s meadow example. The eye encounters flower colours; their beauty gives someone joy; thinking discovers relationships in their growth. These concern the same flowers, but contribute differently to the encounter.",
+      "He calls sensory access body, personal inward experience soul, and understanding beyond personal liking spirit. A flower’s relationship to its surroundings does not depend on whether I enjoy it.",
+      "When the meadow is revisited, the old flowers have gone and the earlier joy remains in memory. The relationships understood can be recognized again. This contrast explains why Steiner distinguishes the three."
+    ],
+    "keyConcept": {
+      "term": "Body, soul and spirit",
+      "definition": "Three relationships: sensory encounter, personal inward experience and understanding whose significance goes beyond personal liking."
+    },
+    "example": {
+      "text": "You hear a warning bell, feel startled and understand that it signals danger. Another listener can understand the warning while feeling differently."
+    },
+    "distinction": "The three terms distinguish relationships within one human life; they do not name three separate physical objects inside us.",
+    "checks": [
+      {
+        "question": "Which relation does feeling startled illustrate?",
+        "options": [
+          "Sensory access alone.",
+          "Personal inward experience.",
+          "An explanation of the bell’s mechanism."
+        ],
+        "answer": 1,
+        "reason": "The feeling gives the encounter personal significance: the soul relation."
+      },
+      {
+        "question": "Two listeners feel differently about the bell. Can they understand the same warning?",
+        "options": [
+          "Yes; understanding is distinguishable from personal feeling.",
+          "No; every feeling determines a different warning."
+        ],
+        "answer": 0,
+        "reason": "The warning’s meaning is not decided by either listener’s liking."
+      }
+    ],
+    "connection": "Lesson 05 asks what further distinctions Steiner makes between material organization, living form, inward experience and the I.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Como um mesmo encontro pode envolver presença sensorial, uma resposta pessoal e uma relação compreendida?",
+    "matters": "Steiner começa sua descrição do ser humano com três relações com o mundo. Compreendê-las prepara o estudo de suas distinções mais detalhadas.",
+    "explanation": [
+      "Considere o exemplo do prado apresentado por Steiner. Os olhos encontram as cores das flores; sua beleza dá alegria a alguém; o pensar descobre relações em seu crescimento. Tudo isso diz respeito às mesmas flores, mas contribui de maneiras diferentes para o encontro.",
+      "Ele chama de corpo o acesso sensorial, de alma a experiência interior pessoal e de espírito a compreensão que vai além das preferências pessoais. A relação de uma flor com seu ambiente não depende de eu gostar dela.",
+      "Ao voltar ao prado, as flores anteriores desapareceram, e a alegria vivida permanece na memória. As relações compreendidas podem ser reconhecidas novamente. Esse contraste explica por que Steiner distingue os três."
+    ],
+    "keyConcept": {
+      "term": "Corpo, alma e espírito",
+      "definition": "Três relações: encontro sensorial, experiência interior pessoal e compreensão cujo significado ultrapassa as preferências pessoais."
+    },
+    "example": {
+      "text": "Você ouve uma campainha de alerta, sente um susto e entende que ela indica perigo. Outra pessoa pode compreender o aviso e sentir algo diferente."
+    },
+    "distinction": "Os três termos distinguem relações dentro de uma vida humana; não nomeiam três objetos físicos separados dentro de nós.",
+    "checks": [
+      {
+        "question": "Qual relação é ilustrada pelo susto?",
+        "options": [
+          "Apenas o acesso sensorial.",
+          "A experiência interior pessoal.",
+          "Uma explicação do mecanismo da campainha."
+        ],
+        "answer": 1,
+        "reason": "O sentimento dá significado pessoal ao encontro: é a relação anímica."
+      },
+      {
+        "question": "Duas pessoas sentem coisas diferentes ao ouvir a campainha. Podem compreender o mesmo aviso?",
+        "options": [
+          "Sim; a compreensão é distinguível do sentimento pessoal.",
+          "Não; cada sentimento determina um aviso diferente."
+        ],
+        "answer": 0,
+        "reason": "O significado do aviso não é decidido pelas preferências de quem o ouve."
+      }
+    ],
+    "connection": "A Lição 05 pergunta que outras distinções Steiner faz entre organização material, forma viva, experiência interior e Eu.",
+    "deeperStudy": []
+  }
+}

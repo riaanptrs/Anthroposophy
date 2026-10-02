@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 import {esc,n,wholeElement} from './learning-html.mjs';
+import {isPracticalThinkingOwned,coreRouteIds,optionalRouteIds,partSlugs} from './practical-thinking-owned.mjs';
 const json=name=>JSON.parse(fs.readFileSync('content/'+name,'utf8'));
 const catalogue=json('learning-system-catalogue.json'),sources=json('learning-system-sources.json'),passages=json('passage-study.json');
 const biodynamics=json('what-is-biodynamics.json'),biodynamicsPassages=json('what-is-biodynamics-passages.json');
@@ -36,9 +37,15 @@ for(const check of checks) {
 assert.deepEqual(newChecks.map(c=>c.studyId).sort(),biodynamics.lessons.map(l=>'what-is-biodynamics/'+n(l.id)).sort());
 assert.deepEqual(threefoldChecks.map(c=>c.studyId).sort(),threefold.lessons.map(l=>'toward-threefold-society/'+n(l.id)).sort());
 assert.deepEqual(agricultureChecks.map(c=>c.studyId).sort(),agriculture.lessons.map(l=>'agriculture/'+n(l.id)).sort());
-const expectedChapterPairs=2*catalogue.courses.reduce((total,c)=>total+c.parts.reduce((sum,p)=>sum+p.groups.filter(g=>g.lessonIds.length>1||g.sourceChapterNumber).length,0),0);
+const expectedChapterPairs=2*catalogue.courses.reduce((total,c)=>total+(c.route==='practical-thinking'?c.parts.length:c.parts.reduce((sum,p)=>sum+p.groups.filter(g=>g.lessonIds.length>1||g.sourceChapterNumber).length,0)),0);
 const expectedReadings=2*catalogue.courses.reduce((total,c)=>total+c.lessons.length,0);
-assert.equal(expectedReadings,2*(185+biodynamics.lessons.length+threefold.lessons.length+agriculture.lessons.length));
+const theosophy=catalogue.courses.find(c=>c.route==='theosophy');
+const practicalThinking=catalogue.courses.find(c=>c.route==='practical-thinking');
+assert.equal(theosophy.lessons.length,28,'Theosophy guided reading inventory');
+assert.equal(practicalThinking.lessons.length,13,'Twelve Practical core readings and retained optional forecast');
+assert.deepEqual(practicalThinking.lessonIds,coreRouteIds,'Practical sequence follows source order while preserving old routes');
+assert.deepEqual(practicalThinking.optionalLessonIds,optionalRouteIds,'Retain forecasting as an optional source exercise');
+assert.equal(expectedReadings,2*(185-23-10+theosophy.lessons.length+practicalThinking.lessons.length+biodynamics.lessons.length+threefold.lessons.length+agriculture.lessons.length));
 let chapterPairs=0,readings=0;
 for(const lang of ['en','pt']) {
  const base=lang==='pt'?'docs/pt':'docs';
@@ -78,6 +85,26 @@ for(const lang of ['en','pt']) {
  }
  for(const course of catalogue.courses) {
   const courseFile=base+'/'+course.route+'/index.html',h=fs.readFileSync(courseFile,'utf8');
+  if(course.route==='practical-thinking'){
+   assert.ok(isPracticalThinkingOwned(courseFile.slice(5),h),courseFile+' missing exact Practical ownership');
+   assert.deepEqual(course.parts.map(p=>p.id),partSlugs,'Four Practical teaching parts');
+   assert.deepEqual(course.parts.flatMap(p=>p.groups.flatMap(g=>g.lessonIds)),coreRouteIds,'Practical catalogue includes every core reading exactly once');
+   for(const part of course.parts){
+    assert.ok(h.includes('id="part-'+part.id+'"'),courseFile+' missing part');
+    const landing=base+'/practical-thinking/parts/'+part.id+'.html',ch=fs.readFileSync(landing,'utf8');
+    assert.ok(isPracticalThinkingOwned(landing.slice(5),ch),landing+' missing Practical synthesis');
+    chapterPairs++;
+   }
+   for(const item of course.lessons){
+    const file=item[lang==='pt'?'pathPt':'pathEn'],html=fs.readFileSync(file,'utf8');
+    assert.ok(isPracticalThinkingOwned(file.slice(5),html),file+' missing Practical reading');
+    assert.equal((html.match(/class="learning-quiz"/g)||[]).length,2,file+' Practical comprehension count');
+    assert.ok(html.includes('data-thought-source')&&html.includes('data-thought-practice'),file+' missing source or practice');
+    assert.ok(!html.includes('guided-study.v1.js')&&!html.includes('class="learning-context"'),file+' legacy Practical wrapper returned');
+    readings++;
+   }
+   continue;
+  }
   assert.ok(h.includes('id="structured-readings"'));
   for(const part of course.parts)for(const group of part.groups) {
    assert.ok(h.includes('id="chapter-'+part.id+'-'+group.id+'"'));
@@ -90,7 +117,12 @@ for(const lang of ['en','pt']) {
     assert.ok(html.includes('class="learning-context"')&&html.includes('class="learning-position"'));
     assert.ok(html.indexOf('class="learning-question"')<html.indexOf('id="book-passage"'),file+' question follows source');
     assert.ok(!html.includes('What is the author saying in this passage?')&&!html.includes('O que o autor está dizendo neste trecho?'));
-    assert.equal((html.match(/class="learning-quiz"/g)||[]).length,1,file+' choice missing/duplicated');readings++;
+    if(course.route==='theosophy'){
+     assert.ok(html.includes('data-theosophy-owned="true"'),file+' missing scoped guided-course marker');
+     assert.equal((html.match(/class="learning-quiz"/g)||[]).length,id===22?0:2,file+' guided comprehension count');
+     assert.ok(!html.includes('data-note-field=')&&!html.includes('data-study-id='),file+' legacy notebook returned');
+    }else assert.equal((html.match(/class="learning-quiz"/g)||[]).length,1,file+' choice missing/duplicated');
+    readings++;
     if(sourceCourses[course.route]) {
      const sourceCourse=sourceCourses[course.route],source=sourceCourse.lessons.find(l=>l.id===id),v=source[lang];
      const clean=html.replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');

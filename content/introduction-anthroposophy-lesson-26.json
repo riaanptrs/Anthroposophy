@@ -1,0 +1,215 @@
+{
+  "id": 26,
+  "part": 7,
+  "titleEn": "Medicine, Art and Eurythmy",
+  "titlePt": "Medicina, arte e euritmia",
+  "dependencies": [
+    2,
+    15
+  ],
+  "termsIntroduced": [
+    "art"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga28",
+      "ga": 28,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "XXXVII",
+      "locator": {
+        "kind": "PDF-page",
+        "printedPages": null,
+        "pdfPages": [
+          188,
+          190
+        ],
+        "markdownMarkers": null,
+        "anchor": "Artistic work with Marie von Sievers; architectural studies and Goetheanum forms; mobility of ideas. Selected sentence at bottom of 189.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read XXXVII on digital PDF pages 188–190, focusing on 189. Follow how Steiner relates artistic experience, the shaping of ideas and the life of the movement.",
+      "readingEn": "Read XXXVII on digital PDF pages 188–190, focusing on 189. Follow how Steiner relates artistic experience, the shaping of ideas and the life of the movement.",
+      "selectedExcerpt": "Filling the mind with the artistic gives this mobility.",
+      "excerptStatus": "Exact short English passage verified against the supplied PDF image; Portuguese is an identified course study translation.",
+      "excerptEn": "Filling the mind with the artistic gives this mobility.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "ga28",
+        "pdfPages": [
+          189,
+          189
+        ],
+        "originalPrintedPages": null,
+        "pdfSha256": "416c783a15ef69b62927809b284f1c8d941fb104c5adeb2c7a340dcd88aa2d49",
+        "imageInspected": true,
+        "method": "Read contextual section and visually checked exact words on the actual PDF image. Only line-wrap/whitespace normalized.",
+        "reviewer": "agriculture_appendices",
+        "portuguese": "Original course study translation of the verified English passage.",
+        "excerptPdfPages": [
+          189,
+          189
+        ]
+      },
+      "readingPt": "Leia XXXVII nas páginas 188–190 do PDF digital, concentrando-se na 189. Acompanhe como Steiner relaciona a experiência artística, a formação de ideias e a vida do movimento.",
+      "excerptPt": "Preencher a mente com o artístico proporciona essa mobilidade."
+    },
+    {
+      "sourceId": "colour",
+      "ga": 286,
+      "role": "secondary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Lecture 4 — The Creative World of Colour, Dornach, 26 July 1914",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          55,
+          55
+        ],
+        "markdownMarkers": null,
+        "anchor": "First column: spiritual ideas and artistic creation. Lecture 4 is GA 286 within a mixed lecture collection.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read capture 55, first column, with Lecture 4’s account of art as lived expression. The related qualification on capture 50 rejects reducing art to empty allegory or formal symbolism.",
+      "readingEn": "Read capture 55, first column, with Lecture 4’s account of art as lived expression. The related qualification on capture 50 rejects reducing art to empty allegory or formal symbolism.",
+      "selectedExcerpt": "Bridges must be built between what are still abstract ideas of spiritual science and what flows from our hands, our chisel or our brush.",
+      "excerptStatus": "Exact short English passage verified against the supplied PDF image; Portuguese is an identified course study translation.",
+      "excerptEn": "Bridges must be built between what are still abstract ideas of spiritual science and what flows from our hands, our chisel or our brush.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "colour",
+        "pdfPages": [
+          55,
+          55
+        ],
+        "originalPrintedPages": null,
+        "pdfSha256": "3c2ae7c5222ebcf34c6b23f3e4f952cbc49a3dc5f3c9720e708b293db77120bd",
+        "imageInspected": true,
+        "method": "Read contextual section and visually checked exact words on the actual PDF image. Only line-wrap/whitespace normalized.",
+        "reviewer": "agriculture_appendices",
+        "portuguese": "Original course study translation of the verified English passage."
+      },
+      "sourceScopeLimit": "Lecture 4 art centre only; excludes historical complexion, physiological and medical claims.",
+      "readingPt": "Leia a captura 55, primeira coluna, com a descrição da Palestra 4 sobre a arte como expressão vivida. A ressalva relacionada na captura 50 rejeita reduzir a arte a alegoria vazia ou simbolismo formal.",
+      "excerptPt": "Devem ser construídas pontes entre o que ainda são ideias abstratas da ciência espiritual e o que flui de nossas mãos, de nosso cinzel ou de nosso pincel."
+    }
+  ],
+  "sourceGaps": [
+    "Medical primary source GA 27 and eurythmy primary source GA 279 are absent; GA 278 is additionally needed for musical eurythmy."
+  ],
+  "en": {
+    "question": "How are medicine, art and eurythmy situated within Anthroposophy’s practical work?",
+    "matters": "Practical work asks how ideas enter a human activity. The verified sources here give a direct account of artistic work in the movement. They provide a clear centre from which to distinguish the specialist questions of medicine and eurythmy.",
+    "explanation": [
+      "In his autobiography, Steiner describes artistic work with Marie von Sievers as a living part of the movement. Recitation and dramatic art appear alongside architecture, sculpture and painting. He connects direct experience of artworks with the movement of ideas in his lectures.",
+      "The mobility in the selected sentence concerns the activity of forming ideas. Artistic experience could, in Steiner’s account, help thought remain alive and responsive. His architectural studies also contributed to the forms he gave the Goetheanum.",
+      "The Colour lecture develops the connection between inner experience and created form. Steiner wants spiritual ideas to become living artistic expression through colour, carving or painting. He cautions against reducing art to abstract concepts, empty allegory or fixed symbolic codes.",
+      "Medicine and eurythmy raise further specialist questions about the human being and practical activity. The art passages supply an orientation to creation and expression; their methods require the distinct primary works listed below. This lesson therefore keeps its developed account centred on the verified art sources."
+    ],
+    "keyConcept": {
+      "term": "Artistic expression",
+      "definition": "The relation between lived experience, mobile thought and created form in Steiner’s account of artistic work."
+    },
+    "example": {
+      "text": "Imagine painting the same shape with two different colour arrangements, then describing how each arrangement is experienced. This course example directs attention to artistic experience and form. It does not assign a hidden spiritual code or a therapeutic effect to the colours."
+    },
+    "distinction": "An artistic form can express an experience without becoming a diagram of a doctrine. An account of art does not supply a medical or eurythmy method.",
+    "checks": [
+      {
+        "question": "What does “mobility” refer to in the autobiographical passage?",
+        "options": [
+          "The activity of forming ideas, enlivened through artistic experience.",
+          "A measured medical improvement.",
+          "A rule for interpreting every colour as a code."
+        ],
+        "answer": 0,
+        "reason": "The preceding sentence concerns shaping ideas about spiritual beings; Steiner connects that ideal activity with artistic experience."
+      },
+      {
+        "question": "How should the bridge from ideas to art be understood?",
+        "options": [
+          "As replacing every artwork with an explanatory slogan.",
+          "As giving lived experience artistic form rather than merely encoding abstract concepts.",
+          "As proof of a treatment’s effectiveness."
+        ],
+        "answer": 1,
+        "reason": "The Colour lecture calls for living artistic expression and expressly resists empty allegory and formal symbolism."
+      },
+      {
+        "question": "What is the appropriate next source for a medical method?",
+        "options": [
+          "Another reading of the same art paragraph.",
+          "The title of an autobiography chapter alone.",
+          "A medical primary work such as Steiner and Wegman’s Fundamentals of Therapy."
+        ],
+        "answer": 2,
+        "reason": "A specialist method needs its own primary account; the inspected passages concern artistic work."
+      }
+    ],
+    "sourceNeeded": [
+      "Fundamentals of Therapy (GA 27), by Rudolf Steiner and Ita Wegman, is needed for medicine; the art passages do not establish medical methods or efficacy.",
+      "Eurythmy as Visible Speech (GA 279) is needed for speech eurythmy; add GA 278 if musical eurythmy is included. These art passages do not establish technique or complete chronology."
+    ],
+    "connection": "The next lesson asks how Steiner distinguishes the conditions of cultural, legal and economic life within society.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Como a medicina, a arte e a euritmia se situam no trabalho prático da antroposofia?",
+    "matters": "O trabalho prático pergunta como as ideias entram em uma atividade humana. As fontes verificadas aqui oferecem uma descrição direta do trabalho artístico no movimento. Elas fornecem um centro claro a partir do qual distinguir as questões especializadas da medicina e da euritmia.",
+    "explanation": [
+      "Em sua autobiografia, Steiner descreve o trabalho artístico com Marie von Sievers como uma parte viva do movimento. A recitação e a arte dramática aparecem ao lado da arquitetura, da escultura e da pintura. Ele relaciona a experiência direta de obras de arte ao movimento das ideias em suas palestras.",
+      "A mobilidade na frase selecionada diz respeito à atividade de formar ideias. A experiência artística poderia, na descrição de Steiner, ajudar o pensamento a permanecer vivo e atento. Seus estudos de arquitetura também contribuíram para as formas que ele deu ao Goetheanum.",
+      "A palestra de Colour desenvolve a conexão entre a experiência interior e a forma criada. Steiner deseja que ideias espirituais se tornem expressão artística viva por meio da cor, da escultura ou da pintura. Ele adverte contra reduzir a arte a conceitos abstratos, alegoria vazia ou códigos simbólicos fixos.",
+      "A medicina e a euritmia levantam outras questões especializadas sobre o ser humano e a atividade prática. As passagens sobre arte fornecem uma orientação sobre criação e expressão; os métodos dessas áreas exigem as obras primárias distintas indicadas abaixo. Por isso, esta lição mantém sua exposição centrada nas fontes artísticas verificadas."
+    ],
+    "keyConcept": {
+      "term": "Expressão artística",
+      "definition": "A relação entre experiência vivida, pensamento móvel e forma criada na descrição de Steiner sobre o trabalho artístico."
+    },
+    "example": {
+      "text": "Imagine pintar a mesma forma com dois arranjos diferentes de cores e depois descrever como cada arranjo é vivenciado. Este exemplo do curso dirige a atenção à experiência artística e à forma. Ele não atribui um código espiritual oculto ou um efeito terapêutico às cores."
+    },
+    "distinction": "Uma forma artística pode expressar uma experiência sem se tornar um diagrama de uma doutrina. Uma descrição da arte não fornece um método médico ou de euritmia.",
+    "checks": [
+      {
+        "question": "A que se refere a “mobilidade” na passagem autobiográfica?",
+        "options": [
+          "À atividade de formar ideias, vivificada pela experiência artística.",
+          "A uma melhora médica mensurada.",
+          "A uma regra para interpretar toda cor como um código."
+        ],
+        "answer": 0,
+        "reason": "A frase anterior trata de formar ideias sobre seres espirituais; Steiner relaciona essa atividade à experiência artística."
+      },
+      {
+        "question": "Como deve ser compreendida a ponte entre ideias e arte?",
+        "options": [
+          "Como a substituição de toda obra por um slogan explicativo.",
+          "Como dar forma artística à experiência vivida, em vez de apenas codificar conceitos abstratos.",
+          "Como prova da eficácia de um tratamento."
+        ],
+        "answer": 1,
+        "reason": "A palestra de Colour pede expressão artística viva e rejeita expressamente a alegoria vazia e o simbolismo formal."
+      },
+      {
+        "question": "Qual é a próxima fonte apropriada para um método médico?",
+        "options": [
+          "Outra leitura do mesmo parágrafo sobre arte.",
+          "Somente o título de um capítulo da autobiografia.",
+          "Uma obra médica primária, como Fundamentos da terapia, de Steiner e Wegman."
+        ],
+        "answer": 2,
+        "reason": "Um método especializado precisa de sua própria descrição primária; as passagens inspecionadas tratam do trabalho artístico."
+      }
+    ],
+    "sourceNeeded": [
+      "Fundamentos da terapia (GA 27), de Rudolf Steiner e Ita Wegman, é necessário para a medicina; as passagens sobre arte não estabelecem métodos médicos ou eficácia.",
+      "Euritmia como fala visível (GA 279) é necessária para a euritmia da fala; acrescente a GA 278 se a euritmia musical for incluída. Estas passagens sobre arte não estabelecem a técnica ou a cronologia completa."
+    ],
+    "connection": "A próxima lição pergunta como Steiner distingue as condições da vida cultural, jurídica e econômica na sociedade.",
+    "deeperStudy": []
+  }
+}

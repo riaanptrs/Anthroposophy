@@ -1,0 +1,142 @@
+{
+  "id": 22,
+  "part": 6,
+  "titleEn": "Anthroposophy and Christianity",
+  "titlePt": "Antroposofia e cristianismo",
+  "sourceGaps": [
+    "This book supports the cosmic Christ, the Mystery of Golgotha and the relation to post-death life. It does not justify adding a detailed two-Jesus account, sacramental prescriptions, church history, or later Christological lectures.",
+    "Clopper Almon’s introductory interpretation must be identified as editorial if used; it is not a passage by Steiner."
+  ],
+  "dependencies": [
+    14,
+    19,
+    21
+  ],
+  "termsIntroduced": [
+    "Christ",
+    "Mystery-of-Golgotha"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 4: Cosmic Evolution and the Human Being — The Coming of the Christian Era",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          272,
+          274
+        ],
+        "pdfPages": [
+          285,
+          287
+        ],
+        "markdownMarkers": null,
+        "anchor": "Golgotha and its claimed physical/spiritual-world effects.",
+        "authorParagraphs": [
+          110,
+          111
+        ]
+      },
+      "readingInstruction": "Read The Coming of the Christian Era, printed pp. 272–274 (PDF pp. 285–287), focusing on paragraphs 110–111 and the continuation of 111 on printed p. 274. The page interval also touches the adjoining paragraphs. Optional: printed p. 276 (PDF p. 289) gives the same-book context for the ideal of human fellowship.",
+      "selectedExcerpt": "What was accomplished on behalf of the physical world through the Mystery of Golgotha cast its light into the spiritual world.",
+      "excerptStatus": "Selected brief conceptual-centre passage, verified against the actual supplied PDF page.",
+      "readingEn": "Read The Coming of the Christian Era, printed pp. 272–274 (PDF pp. 285–287), focusing on paragraphs 110–111 and the continuation of 111 on printed p. 274. The page interval also touches the adjoining paragraphs. Optional: printed p. 276 (PDF p. 289) gives the same-book context for the ideal of human fellowship.",
+      "excerptEn": "What was accomplished on behalf of the physical world through the Mystery of Golgotha cast its light into the spiritual world.",
+      "excerptVerification": {
+        "sourceId": "ga13",
+        "pdfSha256": "823538ffb48a143fd92cd359d9536d8630009edfe6933fd06a18abc8d930be03",
+        "printedPage": 274,
+        "pdfPage": 287,
+        "authorParagraph": 111,
+        "imageInspected": true,
+        "method": "Exact English sentence checked against PDF text after whitespace joining only, and visually compared with the original full PDF page.",
+        "reviewer": "intro_ga13_foundations",
+        "imageReview": "Private review artifact: intro-anthroposophy/phase-f-inspection/287-full.png",
+        "portuguese": "Original course study translation of the verified Creeger English excerpt, not a published Portuguese translation."
+      },
+      "readingPt": "Leia The Coming of the Christian Era, pp. impressas 272–274 (pp. 285–287 do PDF), concentrando-se nos parágrafos 110–111 e na continuação do 111 na p. impressa 274. O intervalo de páginas também alcança os parágrafos vizinhos. Opcional: a p. impressa 276 (p. 289 do PDF) oferece o contexto do mesmo livro para o ideal de fraternidade humana.",
+      "excerptPt": "O que foi realizado em benefício do mundo físico por meio do Mistério do Gólgota lançou sua luz no mundo espiritual.",
+      "courseTranslation": true
+    }
+  ],
+  "en": {
+    "question": "What role does the Christ event play in Steiner’s account of human development?",
+    "matters": "Christianity occupies a central place in Steiner’s larger account. Understanding that place requires distinguishing the physical event from the spiritual significance he assigns to it.",
+    "explanation": [
+      "In GA 13, Steiner presents the Christ as a cosmic being connected with the Sun, who appears in human form. This role reaches beyond moral teaching into the relationship between humanity and the cosmos.",
+      "The Mystery of Golgotha names Christ’s death on the cross as interpreted within this account. Steiner places its effects in both the physical and spiritual worlds: it illuminates the realm encountered after death and limits the Ahrimanic power associated with spiritual isolation.",
+      "This interpretation also connects with reincarnation. People carry spiritual fruits from earthly life into the spiritual world, and the Christ impulse is described as returning with them into further earthly development.",
+      "The wider passage associates this impulse with an all-embracing human fellowship. This is a direction for development in the account, rather than a claim that historical Christian institutions have already fulfilled it."
+    ],
+    "keyConcept": {
+      "term": "Mystery of Golgotha",
+      "definition": "Steiner’s interpretation of Christ’s death on the cross as an event affecting both physical and spiritual existence and humanity’s further development."
+    },
+    "example": null,
+    "distinction": "The physical event and Steiner’s interpretation of its spiritual effects are distinguishable. The latter belongs to his esoteric account and is not a definition shared by every form of Christianity.",
+    "checks": [
+      {
+        "question": "Is the Christ only a moral teacher in the assigned account?",
+        "options": [
+          "Yes; the account gives no cosmic role.",
+          "No; Steiner describes a cosmic being acting within human development."
+        ],
+        "answer": 1,
+        "reason": "The passage connects the Christ with both the cosmos and human spiritual development."
+      },
+      {
+        "question": "Where does Steiner place the effects of the Mystery of Golgotha?",
+        "options": [
+          "In both physical and spiritual existence.",
+          "Only in physical history."
+        ],
+        "answer": 0,
+        "reason": "The selected sentence explicitly connects the physical world with the spiritual world."
+      }
+    ],
+    "connection": "The next part turns toward practical questions. Lesson 23 begins with the relationship between human development and education.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Que papel o evento do Cristo desempenha na descrição de Steiner do desenvolvimento humano?",
+    "matters": "O cristianismo ocupa um lugar central na descrição mais ampla de Steiner. Compreender esse lugar exige distinguir o evento físico do significado espiritual que ele lhe atribui.",
+    "explanation": [
+      "No GA 13, Steiner apresenta o Cristo como um ser cósmico ligado ao Sol, que aparece em forma humana. Esse papel vai além do ensino moral e alcança a relação entre a humanidade e o cosmos.",
+      "O Mistério do Gólgota nomeia a morte do Cristo na cruz conforme interpretada nessa descrição. Steiner situa seus efeitos nos mundos físico e espiritual: ele ilumina o âmbito encontrado após a morte e limita o poder ahrimânico associado ao isolamento espiritual.",
+      "Essa interpretação também se relaciona com a reencarnação. As pessoas levam frutos espirituais da vida terrestre para o mundo espiritual, e o impulso do Cristo é descrito como retornando com elas ao desenvolvimento terrestre posterior.",
+      "O trecho mais amplo associa esse impulso a uma fraternidade humana que abrange todos. Essa é uma direção de desenvolvimento nessa descrição, em vez de uma afirmação de que as instituições cristãs históricas já a realizaram."
+    ],
+    "keyConcept": {
+      "term": "Mistério do Gólgota",
+      "definition": "A interpretação de Steiner da morte do Cristo na cruz como um evento que afeta a existência física e espiritual e o desenvolvimento posterior da humanidade."
+    },
+    "example": null,
+    "distinction": "O evento físico e a interpretação de Steiner de seus efeitos espirituais são distinguíveis. Essa interpretação pertence à sua descrição esotérica e não é uma definição compartilhada por todas as formas de cristianismo.",
+    "checks": [
+      {
+        "question": "O Cristo é apenas um mestre moral na descrição indicada?",
+        "options": [
+          "Sim; a descrição não lhe atribui um papel cósmico.",
+          "Não; Steiner descreve um ser cósmico que atua no desenvolvimento humano."
+        ],
+        "answer": 1,
+        "reason": "O trecho relaciona o Cristo tanto com o cosmos quanto com o desenvolvimento espiritual humano."
+      },
+      {
+        "question": "Onde Steiner situa os efeitos do Mistério do Gólgota?",
+        "options": [
+          "Na existência física e na espiritual.",
+          "Somente na história física."
+        ],
+        "answer": 0,
+        "reason": "A frase selecionada relaciona explicitamente o mundo físico com o mundo espiritual."
+      }
+    ],
+    "connection": "A próxima parte se volta para questões práticas. A Lição 23 começa com a relação entre o desenvolvimento humano e a educação.",
+    "deeperStudy": []
+  }
+}

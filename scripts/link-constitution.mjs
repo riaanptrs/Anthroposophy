@@ -1,8 +1,11 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {isPracticalThinkingOwned} from './practical-thinking-owned.mjs';
 // Work only on rendered text, never attributes, code, form fields or existing links.
 const excluded=new Set(['a','script','style','textarea','title','code','pre','svg','button','select']);
 const voids=new Set(['area','base','br','col','embed','hr','img','input','link','meta','param','source','track','wbr']);
+// Only this course's exact published page families opt out of automatic links.
+export const isIntroductionOwned=(relative,html)=>/^(?:pt\/)?introduction-to-anthroposophy\/(?:index\.html|source-notes\.html|lessons\/\d{2}\.html|parts\/(?:orientation|human-being|human-destiny|three-worlds|knowledge-freedom|larger-worldview|applications)\.html)$/.test(relative.replaceAll('\\','/'))&&html.includes('data-introduction-owned="true"');
 export const worldTerms=/\b(?:(?:mineral|plant|vegetable|animal) (?:world|kingdom)s?|(?:mundo|reino) (?:mineral|vegetal|animal|das plantas|dos animais|dos minerais))\b/giu;
 export const terms=/\b(?:(?:mineral|plant|vegetable|animal) (?:world|kingdom)s?|(?:mundo|reino) (?:mineral|vegetal|animal|das plantas|dos animais|dos minerais)|physical (?:bod(?:y|ies)|organi[sz]ation|member)s?|etheric(?: or life)?(?: (?:bod(?:y|ies)|organi[sz]ation|member)s?)?|ether bod(?:y|ies)|life[- ]bod(?:y|ies)|astral(?: (?:bod(?:y|ies)|organi[sz]ation|member)s?)?|corpos? (?:físicos?|etéricos?|astrais|astral|vitais|vital|de (?:éter|vida))|organizaç(?:ão|ões) (?:física|físicas|etérica|etéricas|astral|astrais)|etéric[oa]s?|astral|astrais)\b/giu;
 export function targetFor(term){
@@ -28,9 +31,14 @@ export function buildLinks(){
  for(const relative of fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('.html'))){
   if(relative.replaceAll('\\','/').includes('reference/human-constitution.html')||relative==='learning-review.html')continue;
   const file=path.join('docs',relative);let html=fs.readFileSync(file,'utf8');
+  // The guided Theosophy reading selects its own occasional reference links.
+  // Keep the automatic linker unchanged for every other published course.
+  const normalized=relative.replaceAll('\\','/');
+  if(/^(?:pt\/)?(?:lessons\/\d{2}\.html|theosophy\/)/.test(normalized)&&html.includes('data-theosophy-owned="true"'))continue;
+  if(isIntroductionOwned(normalized,html))continue;
+  if(isPracticalThinkingOwned(normalized,html))continue;
   const pt=html.includes('<html lang="pt-BR"'),base=pt?'docs/pt':'docs';
   const url=path.relative(path.dirname(file),`${base}/reference/human-constitution.html`).replaceAll('\\','/');
-  const normalized=relative.replaceAll('\\','/');
   if(/^(?:pt\/)?(?:index\.html|lessons\/(?:00|03|06)\.html)$/.test(normalized)&&!html.includes('class="constitution-entry"')){
    const entry=`<aside class="constitution-entry"><p><a href="${url}"><strong>${pt?'Entenda os corpos físico, etérico e astral':'Understand the physical, etheric and astral bodies'} →</strong></a></p><p>${pt?'Referência ilustrada para todos os cursos. Comece pela comparação e retome cada termo quando precisar.':'An illustrated reference for every course. Begin with the comparison and revisit each term when needed.'}</p></aside>`;
    html=html.replace(/(<main\b[^>]*>)/,`$1${entry}`);

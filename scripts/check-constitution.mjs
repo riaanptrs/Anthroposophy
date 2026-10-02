@@ -1,7 +1,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
-import {linkTerms,targetFor} from './link-constitution.mjs';
+import {linkTerms,targetFor,isIntroductionOwned} from './link-constitution.mjs';
+import {isPracticalThinkingOwned} from './practical-thinking-owned.mjs';
 const strip=h=>h.replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');
 const fixture='<html><head><title>Astral body</title></head><body><p title="etheric body">Physical body, astral body, etheric body; astral body again.</p><a href="source.html">astral body</a><textarea>etheric body</textarea><script>if (a < b) { text = "astral body"; }</script><svg><text>physical body</text></svg><!-- astral body --></body></html>';
 const result=linkTerms(fixture,'reference/human-constitution.html');
@@ -25,7 +26,8 @@ for(const rel of fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('.
   continue;
  }
  if(rel==='learning-review.html')continue;
- assert.equal(linkTerms(h,'unused').count,0,file+' has unlinked terminology');
+ const guidedTheosophy=/^(?:pt\/)?(?:lessons\/\d{2}\.html|theosophy\/)/.test(rel.replaceAll('\\','/'))&&h.includes('data-theosophy-owned="true"');
+ if(!guidedTheosophy&&!isIntroductionOwned(rel,h)&&!isPracticalThinkingOwned(rel,h))assert.equal(linkTerms(h,'unused').count,0,file+' has unlinked terminology');
  const refs=[...h.matchAll(/<a class="constitution-ref" href="([^"]+)"/g)];
  if(refs.length)pages++;
  for(const [,href] of refs){
@@ -37,5 +39,9 @@ for(const rel of fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('.
  assert.ok(!/<a\b[^>]*>[^<]*<a\b/.test(h),'Nested anchors: '+file);
 }
 assert.ok(links>200&&pages>40,'Expected course-wide coverage');
-for(const base of ['docs','docs/pt'])for(const suffix of ['index.html','lessons/00.html','lessons/03.html','lessons/06.html'])assert.ok(fs.readFileSync(`${base}/${suffix}`,'utf8').includes('class="constitution-entry"'));
+for(const base of ['docs','docs/pt'])for(const suffix of ['index.html','lessons/00.html','lessons/03.html','lessons/06.html']){
+ const h=fs.readFileSync(`${base}/${suffix}`,'utf8');
+ if(suffix.startsWith('lessons/')&&h.includes('data-theosophy-owned="true"'))assert.ok(!h.includes('class="constitution-entry"'),base+'/'+suffix+' automatic reference panel returned');
+ else assert.ok(h.includes('class="constitution-entry"'));
+}
 console.log(`Passed: ${links} terminology links on ${pages} pages; bilingual targets, anchors, teaching diagrams, text preservation and idempotence.`);

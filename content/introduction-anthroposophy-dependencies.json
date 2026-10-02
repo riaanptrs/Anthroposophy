@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 1,
+  "status": "authoring-guide",
+  "relation": "learning-prerequisite; not proof, causation or necessary metaphysical entailment",
+  "lessonNodes": [
+    {
+      "lesson": 1,
+      "title": "What Is Anthroposophy?",
+      "requires": []
+    },
+    {
+      "lesson": 2,
+      "title": "Who Was Rudolf Steiner?",
+      "requires": [
+        1
+      ]
+    },
+    {
+      "lesson": 3,
+      "title": "What Does Steiner Mean by Spiritual Science?",
+      "requires": [
+        1,
+        2
+      ]
+    },
+    {
+      "lesson": 4,
+      "title": "Body, Soul and Spirit",
+      "requires": [
+        3
+      ]
+    },
+    {
+      "lesson": 5,
+      "title": "Physical Body, Etheric Body, Astral Body and I",
+      "requires": [
+        4
+      ]
+    },
+    {
+      "lesson": 6,
+      "title": "Thinking, Feeling and Willing",
+      "requires": [
+        4,
+        5
+      ]
+    },
+    {
+      "lesson": 7,
+      "title": "Soul Development and Individuality",
+      "requires": [
+        5,
+        6
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "Reincarnation",
+      "requires": [
+        7
+      ]
+    },
+    {
+      "lesson": 9,
+      "title": "Karma",
+      "requires": [
+        8
+      ]
+    },
+    {
+      "lesson": 10,
+      "title": "Death and Life Beyond the Physical Body",
+      "requires": [
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "lesson": 11,
+      "title": "The Physical World",
+      "requires": [
+        4,
+        10
+      ]
+    },
+    {
+      "lesson": 12,
+      "title": "The Soul World",
+      "requires": [
+        6,
+        10,
+        11
+      ]
+    },
+    {
+      "lesson": 13,
+      "title": "The Spiritual World",
+      "requires": [
+        7,
+        10,
+        12
+      ]
+    },
+    {
+      "lesson": 14,
+      "title": "How the Three Worlds Relate",
+      "requires": [
+        4,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "lesson": 15,
+      "title": "Why Thinking Matters",
+      "requires": [
+        6,
+        14
+      ]
+    },
+    {
+      "lesson": 16,
+      "title": "Freedom and Moral Intuition",
+      "requires": [
+        7,
+        15
+      ]
+    },
+    {
+      "lesson": 17,
+      "title": "How Steiner Says Spiritual Knowledge Can Be Developed",
+      "requires": [
+        3,
+        15,
+        16
+      ]
+    },
+    {
+      "lesson": 18,
+      "title": "Imagination, Inspiration and Intuition",
+      "requires": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "lesson": 19,
+      "title": "Human and Cosmic Evolution",
+      "requires": [
+        3,
+        5,
+        14,
+        18
+      ]
+    },
+    {
+      "lesson": 20,
+      "title": "Spiritual Beings and Hierarchies",
+      "requires": [
+        5,
+        19
+      ]
+    },
+    {
+      "lesson": 21,
+      "title": "Lucifer and Ahriman",
+      "requires": [
+        16,
+        19,
+        20
+      ]
+    },
+    {
+      "lesson": 22,
+      "title": "Anthroposophy and Christianity",
+      "requires": [
+        14,
+        19,
+        21
+      ]
+    },
+    {
+      "lesson": 23,
+      "title": "Human Development and Education",
+      "requires": [
+        5,
+        7,
+        22
+      ]
+    },
+    {
+      "lesson": 24,
+      "title": "Waldorf Education",
+      "requires": [
+        23
+      ]
+    },
+    {
+      "lesson": 25,
+      "title": "Biodynamic Agriculture",
+      "requires": [
+        5,
+        19,
+        23
+      ]
+    },
+    {
+      "lesson": 26,
+      "title": "Medicine, Art and Eurythmy",
+      "requires": [
+        4,
+        16,
+        23
+      ]
+    },
+    {
+      "lesson": 27,
+      "title": "Social Threefolding and Cultural Life",
+      "requires": [
+        16,
+        23
+      ]
+    },
+    {
+      "lesson": 28,
+      "title": "How the Anthroposophical Worldview Fits Together",
+      "requires": [
+        14,
+        16,
+        18,
+        19,
+        22,
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  ],
+  "criticalDistinctions": [
+    "Body/soul/spirit are broad relations; the fourfold members are a different level of differentiation.",
+    "The astral body in GA9’s regrouped account includes soul-body and sentient-soul, not the whole soul.",
+    "Individuality and fruits of experience prepare reincarnation; everyday personality is not an unchanged repeating self.",
+    "Karma, bodily attachment after death and spiritual assimilation are distinct concepts.",
+    "Physical, soul and spiritual worlds are related kinds of reality, not three adjacent physical locations.",
+    "GA4 conceptual/moral intuition, moral imagination and GA13 higher Intuition/Imagination retain source-specific meanings.",
+    "GA4 supplies a philosophical foundation, while its closing addition explicitly prevents deduction of all later doctrines.",
+    "GA10 training stages are not synonyms for the GA13 higher-cognition modes.",
+    "GA13’s cosmology is presented as Steiner’s supersensible investigation; learning sequence does not turn it into a scientific derivation.",
+    "Practical disciplines require specialist sources; conceptual connections do not establish medical, educational or agricultural efficacy."
+  ],
+  "diagramPlan": [
+    {
+      "lesson": 14,
+      "kind": "original course diagram",
+      "relationships": "One human being related to physical sensory encounter, soul response/affinity and spiritual meaning/formative reality. Use connecting or overlapping fields.",
+      "separatePanel": "Changes of bodily instrument, attachment and retained spiritual fruits at death.",
+      "caption": "Relationships in Steiner’s account; page order is a teaching sequence, not physical geography."
+    },
+    {
+      "lesson": 28,
+      "kind": "original course dependency diagram",
+      "relationships": "Human constitution → individuality/development → destiny/world relationships; thinking/freedom → spiritual-investigation account → cosmology; human-development framework → practical questions.",
+      "caption": "Conceptual learning architecture; these arrows do not claim logical proof of later spiritual doctrines."
+    }
+  ]
+}

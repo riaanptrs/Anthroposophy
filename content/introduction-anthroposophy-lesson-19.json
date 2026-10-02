@@ -1,0 +1,183 @@
+{
+  "id": 19,
+  "part": 6,
+  "titleEn": "Human and Cosmic Evolution",
+  "titlePt": "Evolução humana e cósmica",
+  "sourceGaps": [],
+  "dependencies": [
+    3,
+    5,
+    14,
+    18
+  ],
+  "termsIntroduced": [
+    "cosmic-evolution",
+    "human-development"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 4: Cosmic Evolution and the Human Being — Introductory Thoughts",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          117,
+          120
+        ],
+        "pdfPages": [
+          130,
+          133
+        ],
+        "markdownMarkers": null,
+        "anchor": "p117 is the conceptual centre; no extended planetary catalogue.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read the opening of Introductory Thoughts, printed pp. 117–120 (PDF pp. 130–133), with paragraph 1 on printed p. 117 as the centre. This page interval ends during paragraph 7; it is a bounded introduction, not the entire subsection.",
+      "selectedExcerpt": "By considering cosmic evolution, we gain insight into the deeper secrets of our human makeup.",
+      "excerptStatus": "Selected brief conceptual-centre passage, verified against the actual supplied PDF page.",
+      "readingEn": "Read the opening of Introductory Thoughts, printed pp. 117–120 (PDF pp. 130–133), with paragraph 1 on printed p. 117 as the centre. This page interval ends during paragraph 7; it is a bounded introduction, not the entire subsection.",
+      "excerptEn": "By considering cosmic evolution, we gain insight into the deeper secrets of our human makeup.",
+      "excerptVerification": {
+        "sourceId": "ga13",
+        "pdfSha256": "823538ffb48a143fd92cd359d9536d8630009edfe6933fd06a18abc8d930be03",
+        "printedPage": 117,
+        "pdfPage": 130,
+        "authorParagraph": 1,
+        "imageInspected": true,
+        "method": "Exact English sentence checked against PDF text after whitespace joining only, and visually compared with the original full PDF page.",
+        "reviewer": "intro_ga13_foundations",
+        "imageReview": "Private review artifact: intro-anthroposophy/phase-f-inspection/130-full.png",
+        "portuguese": "Original course study translation of the verified Creeger English excerpt, not a published Portuguese translation."
+      },
+      "readingPt": "Leia a abertura de Introductory Thoughts, pp. impressas 117–120 (pp. 130–133 do PDF), com o parágrafo 1 da p. impressa 117 como centro. Esse intervalo de páginas termina durante o parágrafo 7; é uma introdução delimitada, não toda a subseção.",
+      "excerptPt": "Ao considerar a evolução cósmica, obtemos uma compreensão dos segredos mais profundos de nossa constituição humana.",
+      "courseTranslation": true
+    },
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "primary",
+      "purpose": "optional-context",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 4 — An Overview of Planetary Incarnations",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          128,
+          128
+        ],
+        "pdfPages": [
+          141,
+          141
+        ],
+        "markdownMarkers": null,
+        "anchor": "These names do not simply mean the present astronomical bodies.",
+        "authorParagraphs": [
+          12
+        ]
+      },
+      "readingInstruction": "Optional: read paragraph 12 on printed p. 128 (PDF p. 141), especially the distinction between evolutionary names and present astronomical bodies.",
+      "selectedExcerpt": null,
+      "excerptStatus": "No further excerpt selected; precise same-book reading assignment.",
+      "readingEn": "Optional: read paragraph 12 on printed p. 128 (PDF p. 141), especially the distinction between evolutionary names and present astronomical bodies.",
+      "assignmentVerification": {
+        "sourceId": "ga13",
+        "printedPages": [
+          128,
+          128
+        ],
+        "pdfPagesInspected": [
+          141
+        ],
+        "imageInspected": true,
+        "method": "Read paragraph 12 and visually checked the original full PDF page, including the distinction between evolutionary names and present astronomical bodies.",
+        "reviewer": "intro_ga13_foundations"
+      },
+      "readingPt": "Opcional: leia o parágrafo 12 da p. impressa 128 (p. 141 do PDF), especialmente a distinção entre os nomes evolutivos e os corpos astronômicos atuais."
+    }
+  ],
+  "en": {
+    "question": "Why does Steiner place human development within a larger cosmic history?",
+    "matters": "Earlier lessons distinguished the members of the human being. Steiner now asks how this constitution came into being and how its development belongs to a larger whole.",
+    "explanation": [
+      "Steiner connects the human constitution with the development of the Earth and cosmos. The physical, etheric and astral members have a history; the I works within them and transforms them. Understanding the human being therefore includes asking about the conditions that made this work possible.",
+      "His starting question is how the three bodily members became capable of receiving the I. He describes earlier cosmic states as preparing these members, with the Earth stage allowing the I to work within them and carry the fruits of that work through successive lives.",
+      "This history is presented as a result of spiritual investigation. It extends the earlier account of spiritual cognition; it is not a reconstruction derived from ordinary astronomical observations.",
+      "Names such as Saturn, Sun and Moon designate earlier evolutionary forms of the Earth in this account. They must be understood in that special sense, rather than simply identified with the astronomical bodies bearing those names today."
+    ],
+    "keyConcept": {
+      "term": "Cosmic evolution",
+      "definition": "The linked development of cosmic conditions and the human constitution in Steiner’s spiritual-scientific account."
+    },
+    "example": {
+      "text": "A person raises a hand to ask a question. Describing the muscles explains the bodily process; attending to the intention answers a different question. This illustrates the kind of distinction Steiner draws between physical processes and a search for their spiritual background."
+    },
+    "distinction": "Ancient Saturn, Sun and Moon are names for evolutionary states in this account. Reading them as present astronomical bodies would change the meaning of the source.",
+    "checks": [
+      {
+        "question": "Why does the chapter turn from human constitution to cosmic evolution?",
+        "options": [
+          "To ask how the human members and their conditions developed.",
+          "To replace the I with a mechanical model."
+        ],
+        "answer": 0,
+        "reason": "The opening connects the origin and transformation of the human constitution with the larger history."
+      },
+      {
+        "question": "What does “Saturn” name in the assigned context?",
+        "options": [
+          "Simply the present astronomical planet.",
+          "An earlier evolutionary form of the Earth."
+        ],
+        "answer": 1,
+        "reason": "Steiner explicitly distinguishes his evolutionary names from their present astronomical use."
+      }
+    ],
+    "connection": "Lesson 20 asks what roles spiritual beings play within this larger developmental account.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Por que Steiner situa o desenvolvimento humano dentro de uma história cósmica mais ampla?",
+    "matters": "As lições anteriores distinguiram os membros do ser humano. Steiner agora pergunta como essa constituição surgiu e como seu desenvolvimento pertence a um todo mais amplo.",
+    "explanation": [
+      "Steiner relaciona a constituição humana com o desenvolvimento da Terra e do cosmos. Os membros físico, etérico e astral têm uma história; o Eu trabalha neles e os transforma. Compreender o ser humano inclui, portanto, perguntar pelas condições que tornaram esse trabalho possível.",
+      "Sua pergunta inicial é como os três membros corporais se tornaram capazes de receber o Eu. Ele descreve estados cósmicos anteriores como uma preparação desses membros, com o estágio terrestre permitindo que o Eu trabalhe neles e leve os frutos desse trabalho através de vidas sucessivas.",
+      "Essa história é apresentada como resultado da investigação espiritual. Ela amplia a descrição anterior da cognição espiritual; não é uma reconstrução derivada de observações astronômicas comuns.",
+      "Nomes como Saturno, Sol e Lua designam formas evolutivas anteriores da Terra nessa descrição. Devem ser compreendidos nesse sentido especial, em vez de serem simplesmente identificados com os corpos astronômicos que hoje têm esses nomes."
+    ],
+    "keyConcept": {
+      "term": "Evolução cósmica",
+      "definition": "O desenvolvimento relacionado das condições cósmicas e da constituição humana na descrição da ciência espiritual de Steiner."
+    },
+    "example": {
+      "text": "Uma pessoa levanta a mão para fazer uma pergunta. Descrever os músculos explica o processo corporal; observar a intenção responde a uma pergunta diferente. Isso ilustra o tipo de distinção que Steiner faz entre os processos físicos e a busca de seu fundamento espiritual."
+    },
+    "distinction": "Saturno, Sol e Lua antigos são nomes de estados evolutivos nessa descrição. Lê-los como corpos astronômicos atuais mudaria o sentido da fonte.",
+    "checks": [
+      {
+        "question": "Por que o capítulo passa da constituição humana à evolução cósmica?",
+        "options": [
+          "Para perguntar como os membros humanos e suas condições se desenvolveram.",
+          "Para substituir o Eu por um modelo mecânico."
+        ],
+        "answer": 0,
+        "reason": "A abertura relaciona a origem e a transformação da constituição humana com uma história mais ampla."
+      },
+      {
+        "question": "O que “Saturno” nomeia no contexto indicado?",
+        "options": [
+          "Simplesmente o planeta astronômico atual.",
+          "Uma forma evolutiva anterior da Terra."
+        ],
+        "answer": 1,
+        "reason": "Steiner distingue explicitamente seus nomes evolutivos do uso astronômico atual."
+      }
+    ],
+    "connection": "A Lição 20 pergunta quais papéis os seres espirituais desempenham nessa descrição mais ampla do desenvolvimento.",
+    "deeperStudy": []
+  }
+}

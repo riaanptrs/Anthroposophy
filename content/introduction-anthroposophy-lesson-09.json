@@ -1,0 +1,218 @@
+{
+  "id": 9,
+  "part": 3,
+  "titleEn": "Karma",
+  "titlePt": "Carma",
+  "sourceAssignments": [
+    {
+      "sourceId": "ga9",
+      "ga": 9,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 2. Re-Embodiment Of The Spirit And Destiny — Continuous chapter; no author subsections",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          39,
+          41
+        ],
+        "markdownMarkers": null,
+        "anchor": "A deed's inward and outward continuations, migration and changed surroundings, then the final threefold account of heredity, karma and reincarnation. Focus captures: 40, 41.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read the two effects of a deed in capture 40 left column, its migration analogy in the remaining columns, and the threefold summary in 41 centre column.",
+      "selectedExcerpt": "For only the one part of my deed is in the outer world; the other is in myself.",
+      "excerptStatus": "Already accepted Chapter II excerpt independently reverified against the supplied PDF; Portuguese is a labelled course study translation.",
+      "readingEn": "Read the two effects of a deed in capture 40 left column, its migration analogy in the remaining columns, and the threefold summary in 41 centre column.",
+      "sourceScopeLimit": "The chapter makes a strong general claim about destiny; it supplies no method to identify a person’s earlier deed from present suffering.",
+      "assignmentVerification": {
+        "sourceId": "ga9",
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "pdfCapturesInspected": [
+          39,
+          40,
+          41
+        ],
+        "printedPages": null,
+        "imageInspected": true,
+        "method": "Read the relevant source ranges in the matching Markdown and visually checked the listed native PDF captures in column reading order. Exact source assignments and original explanation are used for ranges whose quotation reproduction was previously blocked.",
+        "reviewer": "intro_ga28_biography"
+      },
+      "excerptEn": "For only the one part of my deed is in the outer world; the other is in myself.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "ga9",
+        "section": "Chapter 2. Re-Embodiment Of The Spirit And Destiny — Continuous chapter; no author subsections",
+        "pdfCaptures": [
+          40,
+          40
+        ],
+        "originalPrintedPages": null,
+        "pdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+        "imageInspected": true,
+        "column": "left, upper paragraph",
+        "method": "Reused accepted passage from content/theosophy-guided-source-map.json and checked exact wording in the authoritative PDF’s original embedded image.",
+        "acceptedLedgerPassageId": 9,
+        "reviewer": "intro_ga28_biography"
+      },
+      "readingPt": "Leia os dois efeitos de um ato na coluna esquerda de 40, a analogia da mudança de país nas demais colunas e a síntese tríplice na coluna central de 41.",
+      "excerptPt": "Pois só uma das partes do meu ato está no mundo exterior; a outra está em mim."
+    },
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "secondary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 3 — Sleep and Death",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          100,
+          100
+        ],
+        "pdfPages": [
+          113,
+          113
+        ],
+        "markdownMarkers": null,
+        "anchor": "Continuing love/friendship and renewed encounters; GA 13 expands the brief Shields account.",
+        "authorParagraphs": [
+          22
+        ],
+        "pageLabelEvidence": "The supplied PDF maps position 113 to page label 100; no printed folio is visible on the rendered page."
+      },
+      "readingInstruction": "Read author paragraph 22 on PDF page 113, about love, friendship and renewed encounters. The PDF labels this page 100, although no printed folio is visible on it.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Precise reading assignment verified against the supplied PDF; accompanied by original course explanation. No new excerpt reproduction.",
+      "readingEn": "Read author paragraph 22 on PDF page 113, about love, friendship and renewed encounters. The PDF labels this page 100, although no printed folio is visible on it.",
+      "sourceScopeLimit": "This separately attributed GA 13 passage expands the account of relationships. Page 100 is verified from the PDF page-label metadata, not a visible printed folio.",
+      "assignmentVerification": {
+        "sourceId": "ga13",
+        "pdfSha256": "823538ffb48a143fd92cd359d9536d8630009edfe6933fd06a18abc8d930be03",
+        "pdfPagesInspected": [
+          113
+        ],
+        "printedPages": [
+          100,
+          100
+        ],
+        "imageInspected": true,
+        "method": "Read PDF 111–114 in full; visually checked PDF 113, paragraph 22, and verified page-label metadata 100. No printed folio is visible on PDF 113.",
+        "reviewer": "intro_ga28_biography"
+      },
+      "readingPt": "Leia o parágrafo 22 do autor na página 113 do PDF, sobre amor, amizade e reencontros. O PDF identifica essa página como 100, embora ela não apresente um número de página impresso visível."
+    }
+  ],
+  "sourceGaps": [],
+  "dependencies": [
+    8
+  ],
+  "termsIntroduced": [
+    "karma"
+  ],
+  "en": {
+    "question": "How does Steiner connect deeds with the circumstances of renewed lives?",
+    "matters": "Reincarnation concerns continuing individuality. Karma asks how its actions and relationships enter the field of a later life. Keeping these questions distinct makes the account easier to follow.",
+    "explanation": [
+      "A deed has two continuations in Steiner’s argument. It changes the surrounding world, and it also changes the person who acts. What one has learned and what one has brought about can remain significant after the original situation has passed.",
+      "He extends this relation across earthly lives. Karma names the soul’s self-created relation to destiny, while reincarnation names the spirit’s repeated embodiment. The supplied chapter makes a strong claim that later circumstances, joys and sorrows depend on earlier deeds. This is Steiner’s account, not a diagnosis of someone’s life.",
+      "Present action still matters: people continue acting within relationships and creating new consequences. As a course distinction, we should not treat suffering as evidence of deserved punishment or as a reason to withhold help. The selected passage supplies no method for identifying a person’s supposed earlier wrongdoing from a present misfortune.",
+      "The supporting passage in Esoteric Science develops the interpersonal aspect. Steiner describes love and friendship acquiring a spiritual bond that can continue after death and bring people together again. This is separately identified support, not an expanded quotation from the supplied Theosophy chapter."
+    ],
+    "keyConcept": {
+      "term": "Karma",
+      "definition": "Steiner’s account of the continuing relation between deeds, soul-life and the circumstances of renewed embodiment."
+    },
+    "example": {
+      "text": "The source compares a mechanic and a bank clerk moving to another country. Changed surroundings do not erase their different acquired capacities. Steiner uses this ordinary continuity as an analogy for his further cross-life account."
+    },
+    "distinction": "Karma concerns continuing consequences across lives. It differs from reincarnation itself and from the post-death release of desires dependent on bodily organs.",
+    "checks": [
+      {
+        "question": "What two effects of a deed does the chapter distinguish?",
+        "options": [
+          "A change in the actor and a change in the surrounding world.",
+          "A reward and a punishment.",
+          "A new body and an unchanged memory."
+        ],
+        "answer": 0,
+        "reason": "The deed has an inward continuation as well as effects beyond the actor."
+      },
+      {
+        "question": "Does this lesson give a method for identifying someone’s earlier wrongdoing from present suffering?",
+        "options": [
+          "Yes; any misfortune identifies a particular deed.",
+          "No; it explains Steiner’s general relation without providing that diagnosis."
+        ],
+        "answer": 1,
+        "reason": "The general account does not identify a specific earlier cause of another person’s circumstances."
+      },
+      {
+        "question": "Why does present action still matter in the account?",
+        "options": [
+          "People only wait for what is already fixed.",
+          "Actions continue creating relationships and consequences.",
+          "Every present deed has no effect."
+        ],
+        "answer": 1,
+        "reason": "The account concerns continuing effects of deeds; it does not make action irrelevant or prescribe passive waiting."
+      }
+    ],
+    "connection": "Lesson 10 examines what Steiner says changes when the bodily instrument of perception and action ceases functioning.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Como Steiner relaciona os atos às circunstâncias de vidas futuras?",
+    "matters": "A reencarnação diz respeito à individualidade que continua. O carma pergunta como suas ações e relações entram no campo de uma vida posterior. Distinguir essas perguntas torna a descrição mais fácil de acompanhar.",
+    "explanation": [
+      "Na argumentação de Steiner, um ato tem dois efeitos que continuam. Ele modifica o mundo ao redor e também modifica a pessoa que age. O que alguém aprendeu e o que realizou podem continuar significativos depois que a situação original passou.",
+      "Ele estende essa relação entre as vidas terrenas. Carma nomeia a relação da alma com o destino criado por seus próprios atos, enquanto reencarnação nomeia as encarnações sucessivas do espírito. O capítulo fornecido afirma de modo enfático que circunstâncias, alegrias e tristezas posteriores dependem de atos anteriores. Essa é a concepção de Steiner, não um diagnóstico da vida de alguém.",
+      "A ação presente continua a importar: as pessoas seguem agindo dentro de relações e criando novas consequências. Como distinção do curso, não devemos tratar o sofrimento como evidência de castigo merecido nem como motivo para negar ajuda. O trecho escolhido não fornece um método para identificar uma suposta falta anterior a partir de um infortúnio presente.",
+      "A passagem de apoio em Ciência esotérica desenvolve o aspecto interpessoal. Steiner descreve o amor e a amizade adquirindo um vínculo espiritual que pode continuar após a morte e reunir pessoas novamente. Esse apoio é identificado separadamente; não é uma citação ampliada do capítulo de Teosofia fornecido."
+    ],
+    "keyConcept": {
+      "term": "Carma",
+      "definition": "A concepção de Steiner sobre a relação que continua entre os atos, a vida anímica e as circunstâncias de uma nova encarnação."
+    },
+    "example": {
+      "text": "A fonte compara um mecânico e um funcionário de banco que se mudam para outro país. Circunstâncias diferentes não apagam suas distintas capacidades adquiridas. Steiner usa essa continuidade comum como analogia para sua descrição adicional entre vidas."
+    },
+    "distinction": "O carma diz respeito a consequências que continuam entre as vidas. Ele difere da própria reencarnação e da liberação, após a morte, de desejos que dependem de órgãos corporais.",
+    "checks": [
+      {
+        "question": "Quais são os dois efeitos de um ato distinguidos pelo capítulo?",
+        "options": [
+          "Uma mudança na pessoa que age e uma mudança no mundo ao redor.",
+          "Uma recompensa e um castigo.",
+          "Um novo corpo e uma memória inalterada."
+        ],
+        "answer": 0,
+        "reason": "O ato tem uma continuidade interior e também efeitos além da pessoa que o realiza."
+      },
+      {
+        "question": "Esta lição fornece um método para identificar uma falta anterior de alguém a partir de seu sofrimento presente?",
+        "options": [
+          "Sim; qualquer infortúnio identifica um ato específico.",
+          "Não; ela explica a relação geral de Steiner sem fornecer esse diagnóstico."
+        ],
+        "answer": 1,
+        "reason": "A descrição geral não identifica uma causa anterior específica para as circunstâncias de outra pessoa."
+      },
+      {
+        "question": "Por que a ação presente continua a importar nessa concepção?",
+        "options": [
+          "As pessoas apenas esperam o que já está determinado.",
+          "As ações continuam a criar relações e consequências.",
+          "Nenhum ato presente produz efeitos."
+        ],
+        "answer": 1,
+        "reason": "A descrição diz respeito a efeitos dos atos que continuam; ela não torna a ação irrelevante nem prescreve uma espera passiva."
+      }
+    ],
+    "connection": "A Lição 10 examina o que Steiner diz que muda quando o instrumento corporal de percepção e ação deixa de funcionar.",
+    "deeperStudy": []
+  }
+}

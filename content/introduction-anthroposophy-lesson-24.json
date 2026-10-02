@@ -1,0 +1,218 @@
+{
+  "id": 24,
+  "part": 7,
+  "titleEn": "Waldorf Education",
+  "titlePt": "Educação Waldorf",
+  "dependencies": [
+    23
+  ],
+  "termsIntroduced": [
+    "Waldorf-education",
+    "individual-differences"
+  ],
+  "sourceAssignments": [
+    {
+      "sourceId": "ga13",
+      "ga": 13,
+      "role": "primary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Chapter 7 — Details from the Field of Spiritual Science: The Course of a Human Life",
+      "locator": {
+        "kind": "printed-page",
+        "printedPages": [
+          406,
+          408
+        ],
+        "pdfPages": [
+          419,
+          421
+        ],
+        "markdownMarkers": null,
+        "anchor": "Developmental anthropology only; a source for the question of education, not a Waldorf curriculum.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Return to the developmental sequence on 406–408 and the educational pointer on 407. Use it as the background question for further study of Waldorf education.",
+      "readingEn": "Return to the developmental sequence on 406–408 and the educational pointer on 407. Use it as the background question for further study of Waldorf education.",
+      "selectedExcerpt": null,
+      "excerptStatus": "Verified reading assignment with original course explanation.",
+      "assignmentVerification": {
+        "sourceId": "ga13",
+        "printedPages": [
+          406,
+          408
+        ],
+        "pdfPages": [
+          419,
+          421
+        ],
+        "pdfSha256": "823538ffb48a143fd92cd359d9536d8630009edfe6933fd06a18abc8d930be03",
+        "pdfPagesRead": [
+          419,
+          420,
+          421
+        ],
+        "pdfImagesInspected": [
+          420
+        ],
+        "imageInspected": true,
+        "method": "Read subsection from actual PDF text 419–421; inspected full PDF 420 with printed folio 407 and the educational pointer. Prior foundation review inspected 419–420.",
+        "reviewer": "agriculture_appendices"
+      },
+      "readingPt": "Retorne à sequência do desenvolvimento nas páginas 406–408 e à referência educacional na 407. Use-a como questão de fundo para aprofundar o estudo da educação Waldorf."
+    },
+    {
+      "sourceId": "four-temperaments",
+      "ga": 57,
+      "role": "secondary",
+      "purpose": "learner-reading",
+      "voice": "Rudolf Steiner",
+      "section": "Berlin, 4 March 1909 — educational discussion",
+      "locator": {
+        "kind": "PDF-capture",
+        "printedPages": null,
+        "pdfPages": [
+          11,
+          11
+        ],
+        "markdownMarkers": null,
+        "anchor": "Middle column: work with existing capacities. Left/middle columns: diversity and individual educational approach. Screen capture, no reliable printed folio.",
+        "authorParagraphs": null
+      },
+      "readingInstruction": "Read capture 11 in left-to-right column order, focusing on the principle of working with what is present. The 1909 lecture supplies educational context; it does not describe a complete Waldorf school programme.",
+      "readingEn": "Read capture 11 in left-to-right column order, focusing on the principle of working with what is present. The 1909 lecture supplies educational context; it does not describe a complete Waldorf school programme.",
+      "selectedExcerpt": "But to carry this out properly we need to observe one basic principle: always to work with what is there, not with what is not.",
+      "excerptStatus": "Exact short English passage verified against the supplied PDF image; Portuguese is an identified course study translation.",
+      "excerptEn": "But to carry this out properly we need to observe one basic principle: always to work with what is there, not with what is not.",
+      "courseTranslation": true,
+      "excerptVerification": {
+        "sourceId": "four-temperaments",
+        "pdfPages": [
+          11,
+          11
+        ],
+        "originalPrintedPages": null,
+        "pdfSha256": "00d19b636ee1fc2dbce4603f6a578822222d9b0bf1ce62772b0ba5e64c57762c",
+        "imageInspected": true,
+        "method": "Read contextual section and visually checked exact words on the actual PDF image. Only line-wrap/whitespace normalized.",
+        "reviewer": "agriculture_appendices",
+        "portuguese": "Original course study translation of the verified English passage."
+      },
+      "readingPt": "Leia a captura 11 na ordem das colunas, da esquerda para a direita, concentrando-se no princípio de trabalhar com o que está presente. A palestra de 1909 fornece contexto educacional; não descreve um programa escolar Waldorf completo.",
+      "excerptPt": "Mas, para realizar isso de modo adequado, precisamos observar um princípio básico: trabalhar sempre com o que está presente, não com o que não está."
+    }
+  ],
+  "sourceGaps": [
+    "The assigned sources support bounded developmental and individual educational orientation; a Waldorf-specific primary text is still needed for school methods and chronology."
+  ],
+  "en": {
+    "question": "How does Waldorf education draw on a developmental account of the human being?",
+    "matters": "Understanding an educational approach begins with its view of the learner. The preceding lesson introduced development; this lesson adds the question of individual differences. These questions prepare a focused study of Waldorf teaching.",
+    "explanation": [
+      "The developmental account in GA 13 asks what capacities are emerging in a human life. For the question of Waldorf education, this supplies an anthropological background: teaching is considered in relation to the growing human being, rather than only to the material to be learned.",
+      "In his 1909 temperament lecture, Steiner adds a further educational question. Learners of a similar age can differ in their interests and responses. He argues against trying to homogenize these differences and proposes working with capacities already present.",
+      "His examples give relationships a role in education: affection, confidence in a teacher’s competence, compassion and the interests of other children can help engage different learners. These are proposals in this particular lecture, not instructions to classify a child by appearance or assign a fixed personality label.",
+      "Development and individual responsiveness are therefore two useful starting questions for further Waldorf study. The concrete account of artistic teaching, classroom rhythm and curriculum belongs in the specialist educational sources identified below."
+    ],
+    "keyConcept": {
+      "term": "Responsiveness to the learner",
+      "definition": "Considering both developing capacities and individual interests when asking how teaching can engage a learner."
+    },
+    "example": {
+      "text": "A pupil repeatedly loses interest. Instead of only repeating “pay attention,” a teacher asks which existing interest or trusted relationship could provide a starting point for the subject. This course example illustrates the lecture’s principle without assigning the pupil a temperament."
+    },
+    "distinction": "A shared developmental stage does not make learners identical. The 1909 temperament lecture gives educational context; a Waldorf-specific primary text is needed to explain a school programme.",
+    "checks": [
+      {
+        "question": "Why consider individual differences as well as development?",
+        "options": [
+          "Children of a similar age can have different interests and responses.",
+          "Every learner should be given a permanent temperament label.",
+          "Individual differences make development irrelevant."
+        ],
+        "answer": 0,
+        "reason": "The two questions address different aspects of the learner: changing capacities and an individual way of engaging."
+      },
+      {
+        "question": "Which response best illustrates working with what is present?",
+        "options": [
+          "Require the child to display a capacity before considering how it might develop.",
+          "Observe an existing interest and use it as a starting point.",
+          "Choose an approach solely from the child’s appearance."
+        ],
+        "answer": 1,
+        "reason": "The selected principle starts from an existing capacity or interest, rather than merely demanding what is absent."
+      },
+      {
+        "question": "What can the two assigned sources establish for this orientation?",
+        "options": [
+          "Every detail of Waldorf curriculum and its effectiveness.",
+          "The founding date and complete history of the school movement.",
+          "Developmental and individual questions in Steiner’s educational outlook."
+        ],
+        "answer": 2,
+        "reason": "GA 13 provides developmental background and the 1909 lecture adds individual educational proposals. A specialist Waldorf witness remains necessary."
+      }
+    ],
+    "sourceNeeded": [
+      "The Education of the Child (GA 34) and a Waldorf-specific primary educational lecture series are needed for artistic and imaginative teaching, classroom rhythm, curriculum and school chronology. Educational effectiveness requires separate evidence."
+    ],
+    "connection": "The next lesson asks how a related concern with living relationships enters Steiner’s agricultural account.",
+    "deeperStudy": []
+  },
+  "pt": {
+    "question": "Como a educação Waldorf se apoia em uma descrição do desenvolvimento do ser humano?",
+    "matters": "Compreender uma abordagem educacional começa por sua visão do aluno. A lição anterior apresentou o desenvolvimento; esta acrescenta a questão das diferenças individuais. Essas perguntas preparam um estudo direcionado do ensino Waldorf.",
+    "explanation": [
+      "A descrição do desenvolvimento na GA 13 pergunta quais capacidades estão surgindo em uma vida humana. Para a questão da educação Waldorf, isso oferece uma base antropológica: o ensino é considerado em relação ao ser humano em crescimento, além do conteúdo a ser aprendido.",
+      "Em sua palestra de 1909 sobre temperamentos, Steiner acrescenta outra questão educacional. Alunos de idade semelhante podem diferir em seus interesses e respostas. Ele argumenta contra a tentativa de uniformizar essas diferenças e propõe trabalhar com capacidades já presentes.",
+      "Seus exemplos atribuem um papel às relações na educação: afeto, confiança na competência do professor, compaixão e os interesses de outras crianças podem ajudar a envolver diferentes alunos. São propostas desta palestra específica, não instruções para classificar uma criança pela aparência ou atribuir-lhe um rótulo fixo de personalidade.",
+      "O desenvolvimento e a atenção às particularidades de cada aluno são, portanto, duas questões iniciais úteis para aprofundar o estudo Waldorf. A descrição concreta do ensino artístico, do ritmo em sala de aula e do currículo pertence às fontes educacionais especializadas indicadas abaixo."
+    ],
+    "keyConcept": {
+      "term": "Atenção às particularidades do aluno",
+      "definition": "Considerar tanto as capacidades em desenvolvimento quanto os interesses individuais ao perguntar como o ensino pode envolver um aluno."
+    },
+    "example": {
+      "text": "Um aluno perde o interesse repetidamente. Em vez de apenas repetir “preste atenção”, um professor pergunta qual interesse existente ou relação de confiança poderia oferecer um ponto de partida para o assunto. Este exemplo do curso ilustra o princípio da palestra sem atribuir um temperamento ao aluno."
+    },
+    "distinction": "Uma etapa de desenvolvimento compartilhada não torna os alunos idênticos. A palestra de 1909 sobre temperamentos oferece contexto educacional; uma fonte primária específica sobre Waldorf é necessária para explicar um programa escolar.",
+    "checks": [
+      {
+        "question": "Por que considerar as diferenças individuais além do desenvolvimento?",
+        "options": [
+          "Crianças de idade semelhante podem ter interesses e respostas diferentes.",
+          "Todo aluno deve receber um rótulo permanente de temperamento.",
+          "As diferenças individuais tornam o desenvolvimento irrelevante."
+        ],
+        "answer": 0,
+        "reason": "As duas perguntas abordam aspectos diferentes do aluno: capacidades que se modificam e uma maneira individual de se envolver."
+      },
+      {
+        "question": "Qual resposta melhor ilustra trabalhar com o que está presente?",
+        "options": [
+          "Exigir que a criança demonstre uma capacidade antes de considerar como ela pode se desenvolver.",
+          "Observar um interesse existente e usá-lo como ponto de partida.",
+          "Escolher uma abordagem exclusivamente pela aparência da criança."
+        ],
+        "answer": 1,
+        "reason": "O princípio selecionado parte de uma capacidade ou interesse existente, em vez de apenas exigir aquilo que está ausente."
+      },
+      {
+        "question": "O que as duas fontes indicadas podem estabelecer para esta orientação?",
+        "options": [
+          "Todos os detalhes do currículo Waldorf e sua eficácia.",
+          "A data de fundação e a história completa do movimento escolar.",
+          "Questões de desenvolvimento e diferenças individuais no pensamento educacional de Steiner."
+        ],
+        "answer": 2,
+        "reason": "A GA 13 fornece a base sobre o desenvolvimento, e a palestra de 1909 acrescenta propostas educacionais voltadas ao indivíduo. Uma fonte específica sobre Waldorf continua necessária."
+      }
+    ],
+    "sourceNeeded": [
+      "A educação da criança (GA 34) e uma série de palestras educacionais primárias específicas sobre Waldorf são necessárias para o ensino artístico e imaginativo, o ritmo em sala de aula, o currículo e a cronologia escolar. A eficácia educacional requer evidências separadas."
+    ],
+    "connection": "A próxima lição pergunta como uma preocupação relacionada com as relações vivas entra na descrição agrícola de Steiner.",
+    "deeperStudy": []
+  }
+}
