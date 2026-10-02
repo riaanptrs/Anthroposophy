@@ -1,6 +1,8 @@
 # Theosophy: course revision against the supplied 1971 book
 
-Revised 30 September 2026. The course now follows the supplied *Theosophy* PDF and its matching Markdown page by page. It retains the existing 23-lesson route: orientation, 21 book lessons, and final synthesis, with matching English and Brazilian Portuguese pages.
+**Historical course revision — 1971 Monges/Church edition.** This record describes the revision completed 30 September 2026, when the course had 23 lessons: orientation, 21 book lessons, and final synthesis, with matching English and Brazilian Portuguese pages.
+
+The [published English course](../docs/theosophy/index.html) and [Portuguese course](../docs/pt/theosophy/index.html) now contain 28 readings based on the supplied Elizabeth Douglas Shields translation (1910). The [current course review](theosophy-guided-review.md) explains that sequence and its source references. The 1971 source analysis below remains available for comparison; its page numbers and lesson mapping describe the earlier revision.
 
 ## Source and reading record
 

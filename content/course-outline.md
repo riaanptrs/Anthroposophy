@@ -1,5 +1,7 @@
 # Course outline: studying Rudolf Steiner's Theosophy
 
+**Current Theosophy course — 2 October 2026:** the [published English course](../docs/theosophy/index.html) and [Portuguese course](../docs/pt/theosophy/index.html) contain 28 readings based on the supplied Elizabeth Douglas Shields translation (1910). See the [current course review](theosophy-guided-review.md). The September planning, 23-lesson counts and 1971 source assignments below describe the earlier course revision and remain historical.
+
 Current Agriculture update (1 October 2026): the full eight-lecture GA 327 sequence has eighteen bilingual readings, linked into the biodynamics path. Both supplied Markdown witnesses were reviewed across 370 marked captures; PDF visuals remain unverified. See the [source review and course changes](agriculture-reading-review.md).
 
 Saved: 11 September 2026

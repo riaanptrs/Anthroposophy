@@ -2,6 +2,10 @@
 
 Completed 2 October 2026. Scope: the existing Theosophy book course in English and Brazilian Portuguese. No other course teaching or shared design was revised within this course revision. The files are prepared for the repository’s GitHub Pages publication workflow.
 
+**Published course:** [Theosophy in English](../docs/theosophy/index.html) · [Teosofia em português](../docs/pt/theosophy/index.html). These 28 readings use the supplied Shields translation (1910). The [1971 chapter teaching plan](theosophy-chapter-teaching-plan.md) and [September course revision](theosophy-course-review.md) are historical records of the earlier 23-lesson course, with separate edition-specific page references.
+
+The course's source map is also available [in English](../docs/theosophy/source-notes.html) and [in Portuguese](../docs/pt/theosophy/source-notes.html).
+
 ## Source review
 
 All 94 images in the supplied `Teosophy new.pdf` were visually reviewed alongside the corresponding Markdown blocks before lesson editing. The PDF establishes Elizabeth Douglas Shields’s translation from the third German edition, 1910, in a Delhi Open Books digital reissue with no stated reissue date. Kindle footer positions do not establish printed pagination, so the course cites one-based **PDF captures**.

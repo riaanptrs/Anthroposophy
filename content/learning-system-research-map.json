@@ -2,9 +2,9 @@
   "auditDate": "2026-10-01",
   "scope": "Read-only inventory and source/theme research audit before full-site restructuring. Existing authored Markdown was scanned in full for structure, dates, links, source references and topic patterns; relevant current source audits and teaching records were read closely. This does not claim a fresh audit of every private PDF.",
   "summary": {
-    "markdownDocuments": 121,
-    "markdownWords": 245373,
-    "markdownBytes": 1687134,
+    "markdownDocuments": 122,
+    "markdownWords": 246551,
+    "markdownBytes": 1696297,
     "registeredSourceRecords": 57,
     "registeredFullSourcesPrivate": 57,
     "exactDuplicateMarkdownGroups": [],
@@ -13,12 +13,12 @@
     "explicitRepositoryLicenseLocated": false,
     "statusGroups": {
       "before-revision-audit": 2,
-      "current-header-with-historical-sections": 15,
+      "current-header-with-historical-sections": 14,
       "current-source-record": 79,
-      "historical-editorial-record": 8,
-      "original-adaptation-provenance": 1,
       "historical-draft": 15,
-      "mixed-chronological-history": 1
+      "historical-editorial-record": 10,
+      "mixed-chronological-history": 1,
+      "original-adaptation-provenance": 1
     },
     "availableThemes": 7,
     "limitedThemes": 4,
@@ -829,15 +829,16 @@
       "kind": "editorial-plan",
       "status": "current-header-with-historical-sections",
       "defaultVisible": true,
-      "statusExplanation": "Use the latest revision banner and section headings; do not promote old source gaps, draft lesson numbers or past implementation counts as current.",
+      "statusExplanation": "The opening Theosophy update identifies the current published 28-reading course. The September planning, 23-lesson counts and 1971 source references below it remain historical.",
       "language": "English",
       "recordedDates": [
+        "2 October 2026",
         "11 September 2026",
         "30 September 2026",
         "12 September 2026"
       ],
-      "wordCount": 1148,
-      "sha256": "79069445ea5503b2ce207b75cf87bfd68468486e35296b49672b7eb49761b229",
+      "wordCount": 1197,
+      "sha256": "9afc41aa31ec8286507872c6896b088f77299a3fbf54f1347a032907d698f645",
       "headings": [
         "Course outline: studying Rudolf Steiner's Theosophy",
         "Detailed plan",
@@ -852,9 +853,14 @@
         "References used in the planning discussion",
         "Project state"
       ],
-      "summary": "Saved: 11 September 2026 Current revision (30 September 2026): the 23 bilingual Theosophy lessons have been revised against every page of the supplied 1971 PDF and matching Markdown. Lesson 0 now uses this book's prefaces and introduction; all four chapters retain their source sequence, with expanded teaching and one v",
-      "relatedExistingHtmlLinks": [],
+      "summary": "The current published Theosophy course contains 28 bilingual readings based on the supplied Shields translation (1910). This outline retains the earlier 1971 planning as history and opens with links to the current course and revision review.",
+      "relatedExistingHtmlLinks": [
+        "../docs/theosophy/index.html",
+        "../docs/pt/theosophy/index.html"
+      ],
       "relatedMarkdownLinks": [
+        "theosophy-guided-review.md",
+        "agriculture-reading-review.md",
         "theosophy-course-review.md",
         "anthroposophy-introduction-review.md",
         "higher-worlds-course-plan.md",
@@ -3855,21 +3861,72 @@
       "publicationStatus": "current"
     },
     {
+      "id": "theosophy-guided-review",
+      "sourcePath": "content/theosophy-guided-review.md",
+      "title": "Theosophy: current 28-reading course and source review",
+      "book": "theosophy",
+      "kind": "source-and-course-review",
+      "status": "current-source-record",
+      "defaultVisible": true,
+      "statusExplanation": "Current published course: 28 bilingual readings based on the supplied Elizabeth Douglas Shields translation (1910), with capture references distinct from the historical 1971 edition.",
+      "language": "English",
+      "recordedDates": [
+        "2 October 2026"
+      ],
+      "wordCount": 1026,
+      "sha256": "23bcfbf99e6f2b8877bb8ebcb4c62da9475e1d34407ef0579160ebe576f85c85",
+      "headings": [
+        "Theosophy guided-course revision",
+        "Source review",
+        "Course structure",
+        "Teaching and study controls",
+        "Validation",
+        "Editing and publication"
+      ],
+      "summary": "The published Theosophy course has 28 readings in English and Brazilian Portuguese, following the supplied Shields translation (1910). This note records its four-chapter sequence, source review and study controls, and links directly to both course indexes.",
+      "relatedExistingHtmlLinks": [
+        "../docs/theosophy/index.html",
+        "../docs/pt/theosophy/index.html",
+        "../docs/theosophy/source-notes.html",
+        "../docs/pt/theosophy/source-notes.html"
+      ],
+      "relatedMarkdownLinks": [
+        "theosophy-chapter-teaching-plan.md",
+        "theosophy-course-review.md",
+        "theosophy-guided-map-front-chapter-1.md",
+        "theosophy-guided-map-chapter-2.md",
+        "theosophy-guided-map-chapter-3.md",
+        "theosophy-guided-map-chapter-4-notes.md"
+      ],
+      "otherLocalLinks": [
+        "theosophy-guided-source-map.json"
+      ],
+      "publicNoteContent": true,
+      "fullUploadedSource": false,
+      "topics": [
+        "human-being",
+        "destiny",
+        "spiritual-worlds"
+      ],
+      "publicationStatus": "current"
+    },
+    {
       "id": "theosophy-chapter-teaching-plan",
       "sourcePath": "content/theosophy-chapter-teaching-plan.md",
-      "title": "Theosophy: chapter-by-chapter teaching plan",
+      "title": "Theosophy: chapter-by-chapter teaching plan (1971 edition)",
       "book": "theosophy",
       "kind": "editorial-plan",
-      "status": "current-header-with-historical-sections",
-      "defaultVisible": true,
-      "statusExplanation": "Use the latest revision banner and section headings; do not promote old source gaps, draft lesson numbers or past implementation counts as current.",
+      "status": "historical-editorial-record",
+      "defaultVisible": false,
+      "statusExplanation": "Historical 1971 Monges/Church edition record. Its 23-lesson mapping and printed-page references describe the September revision. The published course now has 28 readings based on the supplied Shields translation (1910).",
       "language": "English",
       "recordedDates": [
         "11 September 2026",
-        "30 September 2026"
+        "30 September 2026",
+        "2 October 2026"
       ],
-      "wordCount": 6894,
-      "sha256": "8f819a3d74b9d4c669df1943dbc420d3985b3414d6ca40ae42fe732d8e2b39ec",
+      "wordCount": 6950,
+      "sha256": "d14919930dacb9b3d4180c7ad036a54ddb7209e32f5ead1968e97f1d44cbe381",
       "headings": [
         "Theosophy: chapter-by-chapter teaching plan",
         "1. Source and scope",
@@ -3906,9 +3963,13 @@
         "11. English–Portuguese terminology decisions",
         "12. Decisions before publishing lessons"
       ],
-      "summary": "Prepared 11 September 2026; revised 30 September 2026 after reading the newly supplied 228-page PDF and its page-marked Markdown. The 23 bilingual course lessons now implement this sequence. Editorial working document, not an endorsed expert syllabus.",
-      "relatedExistingHtmlLinks": [],
+      "summary": "Historical 1971 teaching plan for the earlier 23-lesson course. The published Theosophy course now contains 28 readings based on the supplied Shields translation (1910); current course links appear at the beginning of this note.",
+      "relatedExistingHtmlLinks": [
+        "../docs/theosophy/index.html",
+        "../docs/pt/theosophy/index.html"
+      ],
       "relatedMarkdownLinks": [
+        "theosophy-guided-review.md",
         "theosophy-course-review.md",
         "theosophy-page-notes-front-and-addenda.md",
         "theosophy-page-notes-chapter-1.md",
@@ -3925,23 +3986,24 @@
         "destiny",
         "spiritual-worlds"
       ],
-      "publicationStatus": "current"
+      "publicationStatus": "archive"
     },
     {
       "id": "theosophy-course-review",
       "sourcePath": "content/theosophy-course-review.md",
-      "title": "Theosophy: course revision against the supplied 1971 book",
+      "title": "Theosophy: historical course revision against the supplied 1971 book",
       "book": "theosophy",
       "kind": "source-and-course-review",
-      "status": "current-source-record",
-      "defaultVisible": true,
-      "statusExplanation": "",
+      "status": "historical-editorial-record",
+      "defaultVisible": false,
+      "statusExplanation": "Historical 1971 Monges/Church edition record. Its 23-lesson mapping and printed-page references describe the September revision. The published course now has 28 readings based on the supplied Shields translation (1910).",
       "language": "English",
       "recordedDates": [
-        "30 September 2026"
+        "30 September 2026",
+        "2 October 2026"
       ],
-      "wordCount": 988,
-      "sha256": "a1d911d9c8151622b8ce4b791dce9c6d500b350226b5115f4633132af0fc999c",
+      "wordCount": 1035,
+      "sha256": "7324c0abde5103bac0c29808e188ddfa8db9b90b139bc664b1ad38419641988e",
       "headings": [
         "Theosophy: course revision against the supplied 1971 book",
         "Source and reading record",
@@ -3949,9 +4011,13 @@
         "Passage and lesson design",
         "Validation"
       ],
-      "summary": "Revised 30 September 2026. The course now follows the supplied *Theosophy* PDF and its matching Markdown page by page. It retains the existing 23-lesson route: orientation, 21 book lessons, and final synthesis, with matching English and Brazilian Portuguese pages.",
-      "relatedExistingHtmlLinks": [],
+      "summary": "Historical record of the 30 September revision using the 1971 Monges/Church edition. The current course uses the supplied Shields translation (1910) and contains 28 readings.",
+      "relatedExistingHtmlLinks": [
+        "../docs/theosophy/index.html",
+        "../docs/pt/theosophy/index.html"
+      ],
       "relatedMarkdownLinks": [
+        "theosophy-guided-review.md",
         "theosophy-page-notes-front-and-addenda.md",
         "theosophy-page-notes-chapter-1.md",
         "theosophy-page-notes-chapter-2.md",
@@ -3968,7 +4034,7 @@
         "destiny",
         "spiritual-worlds"
       ],
-      "publicationStatus": "current"
+      "publicationStatus": "archive"
     },
     {
       "id": "theosophy-edition-comparison",
@@ -3978,7 +4044,7 @@
       "kind": "edition-comparison",
       "status": "current-header-with-historical-sections",
       "defaultVisible": true,
-      "statusExplanation": "Use the latest revision banner and section headings; do not promote old source gaps, draft lesson numbers or past implementation counts as current.",
+      "statusExplanation": "Parallel-source record for the 1971 Monges/Church edition. The published course uses the supplied Shields translation (1910); keep these editions and their page references distinct.",
       "language": "English",
       "recordedDates": [
         "11 September 2026",
@@ -4019,7 +4085,7 @@
       "kind": "page-ledger",
       "status": "current-source-record",
       "defaultVisible": true,
-      "statusExplanation": "",
+      "statusExplanation": "Parallel-source record for the 1971 Monges/Church edition. The published course uses the supplied Shields translation (1910); keep these editions and their page references distinct.",
       "language": "English",
       "recordedDates": [
         "30 September 2026"
@@ -4053,7 +4119,7 @@
       "kind": "page-ledger",
       "status": "current-source-record",
       "defaultVisible": true,
-      "statusExplanation": "",
+      "statusExplanation": "Parallel-source record for the 1971 Monges/Church edition. The published course uses the supplied Shields translation (1910); keep these editions and their page references distinct.",
       "language": "English",
       "recordedDates": [
         "30 September 2026"
@@ -4086,7 +4152,7 @@
       "kind": "page-ledger",
       "status": "current-source-record",
       "defaultVisible": true,
-      "statusExplanation": "",
+      "statusExplanation": "Parallel-source record for the 1971 Monges/Church edition. The published course uses the supplied Shields translation (1910); keep these editions and their page references distinct.",
       "language": "English",
       "recordedDates": [],
       "wordCount": 3836,
@@ -4116,7 +4182,7 @@
       "kind": "page-ledger",
       "status": "current-source-record",
       "defaultVisible": true,
-      "statusExplanation": "",
+      "statusExplanation": "Parallel-source record for the 1971 Monges/Church edition. The published course uses the supplied Shields translation (1910); keep these editions and their page references distinct.",
       "language": "English",
       "recordedDates": [],
       "wordCount": 2090,
@@ -4148,7 +4214,7 @@
       "kind": "page-ledger",
       "status": "current-source-record",
       "defaultVisible": true,
-      "statusExplanation": "",
+      "statusExplanation": "Parallel-source record for the 1971 Monges/Church edition. The published course uses the supplied Shields translation (1910); keep these editions and their page references distinct.",
       "language": "English",
       "recordedDates": [
         "30 September 2026"
@@ -4817,13 +4883,15 @@
       "title": "Theosophy",
       "author": "Rudolf Steiner",
       "ga": "9",
-      "edition": "Anthroposophic Press 1971; Henry B. Monges, revised Gilbert Church",
-      "registered": true,
-      "reviewedSourceExtent": "228 PDF positions and matching Markdown; full supplied capture read",
-      "researchEntry": "content/theosophy-course-review.md",
-      "courseEntry": "lessons/00.html",
+      "edition": "Elizabeth Douglas Shields translation, 1910; Delhi Open Books digital reissue, publication date unstated. The 1971 Monges/Church edition is a separate parallel source.",
+      "registered": false,
+      "reviewedSourceExtent": "94 supplied PDF captures and matching Markdown; the current source ledger records review of every capture.",
+      "researchEntry": "content/theosophy-guided-review.md",
+      "courseEntry": "theosophy/index.html",
       "limitations": [
-        "Edition-specific print/PDF locators must not be relabelled to another edition.",
+        "Current lesson references identify PDF captures, not established printed pagination.",
+        "The 1971 Monges/Church edition has separate printed-page references and thirteen addenda; these are historical or parallel material.",
+        "Primary witness fingerprints are recorded in the course source map; the registered 1971 witness is distinct.",
         "Brazilian Portuguese is original course study translation."
       ]
     },

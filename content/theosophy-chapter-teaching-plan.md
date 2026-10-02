@@ -1,6 +1,8 @@
 # Theosophy: chapter-by-chapter teaching plan
 
-Prepared 11 September 2026; revised 30 September 2026 after reading the newly supplied 228-page PDF and its page-marked Markdown. The 23 bilingual course lessons now implement this sequence. Editorial working document, not an endorsed expert syllabus.
+**Historical teaching plan — 1971 Monges/Church edition.** Prepared 11 September 2026; revised 30 September 2026 from the supplied 228-page PDF and its page-marked Markdown. This plan records the earlier 23-lesson course.
+
+**The published course is available here:** [Theosophy in English](../docs/theosophy/index.html) · [Teosofia em português](../docs/pt/theosophy/index.html). It now has 28 readings based on the supplied Elizabeth Douglas Shields translation (1910). See the [current course review](theosophy-guided-review.md) for its chapter sequence. This historical plan's printed-page references and thirteen addenda belong to the 1971 edition; they do not identify the primary source assignments in the current lessons.
 
 The new [course revision review](theosophy-course-review.md) records the implemented changes. Page-level source notes cover [frontmatter and all addenda](theosophy-page-notes-front-and-addenda.md), [Chapter I](theosophy-page-notes-chapter-1.md), [Chapter II](theosophy-page-notes-chapter-2.md), [Chapter III](theosophy-page-notes-chapter-3.md), and [Chapter IV](theosophy-page-notes-chapter-4.md). Together they account for every PDF page, including covers and blank versos.
 
