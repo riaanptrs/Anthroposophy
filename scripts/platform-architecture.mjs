@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {esc, shell, wholeElement} from './learning-html.mjs';
+import {renderCourseArtwork, renderIdentityHero} from './visual-identity.mjs';
 
 export const platformSite = JSON.parse(fs.readFileSync(new URL('../content/platform-site.json', import.meta.url), 'utf8'));
 const areas = new Set(platformSite.destinations.map(item => item.id));
@@ -84,14 +85,45 @@ function rebase(html, from, to) {
     return `${attribute}="${esc(path.posix.relative(path.posix.dirname(to), target) || path.posix.basename(target))}${suffix}"`;
   });
 }
-function card(file, item, lang, route = item.route) {
-  const title = localized(item, lang, 'title', item.id);
-  return `<article class="platform-card learning-card"><h3>${link(file, route, title, lang)}</h3><p class="platform-credit">${esc(localized(item, lang, 'credit'))}</p><p>${esc(localized(item, lang, 'description'))}</p></article>`;
+// These labels describe subjects, not spiritual correspondences assigned to
+// the decorative colours and symbols. The source credits stay on every entry.
+const courseThemes = {
+  foundations: ['Foundations', 'Fundamentos'],
+  'introduction-to-anthroposophy': ['Foundations', 'Fundamentos'],
+  theosophy: ['The human being', 'O ser humano'],
+  'philosophy-of-freedom': ['Thinking and freedom', 'Pensar e liberdade'],
+  'higher-worlds': ['Inner development', 'Desenvolvimento interior'],
+  'according-to-luke': ['Christianity', 'Cristianismo'],
+  colour: ['Colour and art', 'Cor e arte'],
+  temperaments: ['Human relationships', 'Relações humanas'],
+  'mystery-temperaments': ['Human relationships', 'Relações humanas'],
+  'understand-temperament': ['Human relationships', 'Relações humanas'],
+  'understanding-temperaments': ['Human relationships', 'Relações humanas'],
+  'ancient-myths': ['Myth and consciousness', 'Mito e consciência'],
+  agriculture: ['Nature and agriculture', 'Natureza e agricultura'],
+  'what-is-biodynamics': ['Nature and agriculture', 'Natureza e agricultura'],
+  biodynamics: ['Nature and agriculture', 'Natureza e agricultura'],
+  'toward-threefold-society': ['Society', 'Sociedade'],
+  'encountering-the-self': ['Education', 'Educação'],
+  'practical-thinking': ['Thinking practice', 'Prática do pensar'],
+  meditation: ['Inner development', 'Desenvolvimento interior']
+};
+function courseTheme(item, lang) {
+  const theme = courseThemes[item.id];
+  return theme ? `<p class="identity-course-theme">${esc(copy(lang, ...theme))}</p>` : '';
 }
-function cardSection(file, id, title, entries, lang, routeFor = item => item.route) {
+function card(file, item, lang, route = item.route, {artwork = true} = {}) {
+  const title = localized(item, lang, 'title', item.id);
+  const text = `${artwork ? courseTheme(item, lang) : ''}<h3>${link(file, route, title, lang)}</h3><p>${esc(localized(item, lang, 'description'))}</p><p class="platform-credit">${esc(localized(item, lang, 'credit'))}</p>`;
+  return `<article class="platform-card learning-card${artwork ? ' identity-course-card' : ''}">${artwork ? renderCourseArtwork(file, item.id) + `<div class="identity-course-copy">${text}</div>` : text}</article>`;
+}
+function cardSection(file, id, title, entries, lang, routeFor = item => item.route, {artwork = true} = {}) {
   const contents = entries.length <= 3
-    ? `<div class="platform-grid learning-grid">${entries.map(item => card(file, item, lang, routeFor(item))).join('')}</div>`
-    : `<ul class="platform-directory">${entries.map(item => `<li${item.id === 'agriculture' ? ' id="biodynamic-source-companions"' : ''}><h3>${link(file, routeFor(item), localized(item, lang, 'title', item.id), lang)}</h3><p class="platform-credit">${esc(localized(item, lang, 'credit'))}</p><p>${esc(localized(item, lang, 'description'))}</p></li>`).join('')}</ul>`;
+    ? `<div class="platform-grid learning-grid">${entries.map(item => card(file, item, lang, routeFor(item), {artwork})).join('')}</div>`
+    : `<ul class="platform-directory">${entries.map(item => {
+      const text = `${artwork ? courseTheme(item, lang) : ''}<h3>${link(file, routeFor(item), localized(item, lang, 'title', item.id), lang)}</h3><p>${esc(localized(item, lang, 'description'))}</p><p class="platform-credit">${esc(localized(item, lang, 'credit'))}</p>`;
+      return `<li${item.id === 'agriculture' ? ' id="biodynamic-source-companions"' : ''}${artwork ? ' class="identity-directory-course"' : ''}>${artwork ? renderCourseArtwork(file, item.id) + `<div class="identity-directory-copy">${text}</div>` : text}</li>`;
+    }).join('')}</ul>`;
   return `<section id="${esc(id)}" aria-labelledby="${esc(id)}-heading"><h2 id="${esc(id)}-heading">${esc(title)}</h2>${contents}</section>`;
 }
 function indexedSection(file, id, title, entries, lang, prefix, field) {
@@ -152,13 +184,36 @@ export function buildPlatformArchitecture({course = {}, lessons = [], concepts =
   for (const lang of platformSite.languages) {
     const t = (en, pt) => copy(lang, en, pt), home = logical('index.html', lang), learn = logical('learn/index.html', lang);
     const conceptsFile = logical('concepts/index.html', lang), practice = logical('practice/index.html', lang), read = logical('read/index.html', lang);
-    const intro = t('Explore Rudolf Steiner’s ideas through clear explanations, ordinary experience and thoughtful practice. Follow a course, return to a question, or study the source in its own context.', 'Explore as ideias de Rudolf Steiner com explicações claras, experiências comuns e prática atenta. Siga um curso, retome uma pergunta ou estude a fonte em seu próprio contexto.');
+    const intro = t('Understand Rudolf Steiner’s ideas through clear courses, thoughtful observation and everyday practice.', 'Compreenda as ideias de Rudolf Steiner por meio de cursos claros, observação atenta e prática cotidiana.');
     const entries = [
-      {route:platformSite.foundations.route, title:t('New to Anthroposophy?', 'Está começando na antroposofia?'), text:t('Begin with Foundations: a connected introduction to its central questions.', 'Comece pelos Fundamentos: uma introdução conectada às suas questões centrais.')},
-      {route:'learn/index.html', title:t('Learn through Steiner’s works', 'Aprenda a partir das obras de Steiner'), text:t('Choose a course and develop its ideas step by step.', 'Escolha um curso e desenvolva suas ideias passo a passo.')},
-      {route:'concepts/index.html', title:t('Explore a concept', 'Explore um conceito'), text:t('Follow a question and see how related ideas fit together.', 'Acompanhe uma pergunta e veja como as ideias se relacionam.')}
+      {route:platformSite.foundations.route, title:t('New to Anthroposophy', 'Começando na antroposofia'), text:t('Follow a guided introduction to the central questions.', 'Siga uma introdução guiada às questões centrais.')},
+      {route:'learn/index.html', title:t('Choose a course', 'Escolha um curso'), text:t('Develop one subject through connected lessons.', 'Desenvolva um tema por meio de lições relacionadas.')},
+      {route:'concepts/index.html', title:t('Explore a concept', 'Explore um conceito'), text:t('Find a clear explanation and follow its relationships.', 'Encontre uma explicação clara e acompanhe suas relações.')}
     ];
-    const hero = `<section class="platform-hero learning-hero" id="intro"><h1>${t('Learn Anthroposophy', 'Aprenda antroposofia')}</h1><p class="lead">${esc(intro)}</p></section><section id="path" aria-labelledby="entry-heading"><h2 id="entry-heading">${t('Where would you like to begin?', 'Por onde você gostaria de começar?')}</h2><div class="platform-grid learning-grid">${entries.map(item => `<article class="platform-card learning-card"><h3>${link(home, item.route, item.title, lang)}</h3><p>${esc(item.text)}</p></article>`).join('')}</div></section><section id="study-guide" class="learning-method"><h2>${t('Understand an idea, then work with it', 'Compreenda uma ideia e depois trabalhe com ela')}</h2><p>${t('Begin with a familiar experience. Build the concept, keep its important distinctions, and try an appropriate exercise. The source references are there when you want to read further.', 'Comece por uma experiência familiar. Desenvolva o conceito, conserve suas distinções importantes e experimente um exercício adequado. As referências às fontes estão disponíveis quando você quiser aprofundar a leitura.')}</p><p>${link(home, 'practice/index.html', t('Find a practice', 'Encontre uma prática'), lang)} · ${link(home, 'read/index.html', t('Read Steiner with commentary', 'Leia Steiner com comentários'), lang)}</p></section><section id="courses"><h2>${t('A course to explore', 'Um curso para explorar')}</h2>${card(home, theosophy, lang)}</section><section id="lessons"><p>${link(home, 'read/theosophy/index.html', t('Read Theosophy in its source sequence', 'Leia Teosofia na sequência da fonte'), lang)}</p></section>`;
+    const featured = [theosophy, ...['philosophy-of-freedom', 'higher-worlds'].map(id => collections.find(item => item.id === id))];
+    const hero = `<section class="platform-hero learning-hero identity-home-hero" id="intro">
+      <div class="identity-hero-copy">
+        <p class="identity-eyebrow">${t('Ideas · Observation · Practice', 'Ideias · Observação · Prática')}</p>
+        <h1>${t('Learn <span>Anthroposophy</span>', 'Aprenda <span>antroposofia</span>')}</h1>
+        <p class="lead">${esc(intro)}</p>
+        <div class="identity-hero-actions">${link(home, platformSite.foundations.route, t('Start here', 'Comece aqui'), lang, 'class="identity-primary-action"')}${link(home, 'learn/index.html', t('Explore courses', 'Explore os cursos'), lang)}</div>
+      </div>
+      ${renderIdentityHero(home)}
+    </section>
+    <section id="path" aria-labelledby="entry-heading">
+      <h2 id="entry-heading">${t('Where would you like to begin?', 'Por onde você gostaria de começar?')}</h2>
+      <div class="identity-entry-paths">${entries.map(item => `<article class="identity-entry-path"><h3>${link(home, item.route, item.title, lang)}</h3><p>${esc(item.text)}</p></article>`).join('')}</div>
+    </section>
+    <section id="courses">
+      <div class="identity-section-heading"><h2>${t('Explore the ideas', 'Explore as ideias')}</h2>${link(home, 'learn/index.html', t('All courses', 'Todos os cursos'), lang)}</div>
+      <div class="platform-grid learning-grid identity-featured-courses">${featured.map(item => card(home, item, lang)).join('')}</div>
+    </section>
+    <section id="study-guide" class="learning-method identity-study-method">
+      <h2>${t('Understand an idea, then work with it', 'Compreenda uma ideia e depois trabalhe com ela')}</h2>
+      <p>${t('Begin with a familiar experience. Build the concept, keep its important distinctions, and try an appropriate exercise. The source references are there when you want to read further.', 'Comece por uma experiência familiar. Desenvolva o conceito, conserve suas distinções importantes e experimente um exercício adequado. As referências às fontes estão disponíveis quando você quiser aprofundar a leitura.')}</p>
+      <p>${link(home, 'practice/index.html', t('Find a practice', 'Encontre uma prática'), lang)} · ${link(home, 'read/index.html', t('Read Steiner with commentary', 'Leia Steiner com comentários'), lang)}</p>
+    </section>
+    <section id="lessons"><p>${link(home, 'read/theosophy/index.html', t('Read Theosophy in its source sequence', 'Leia Teosofia na sequência da fonte'), lang)}</p></section>`;
     const introductionLink = `<p id="introduction-course">${link(home, 'introduction-to-anthroposophy/index.html', t('Explore the Introduction to Anthroposophy', 'Conheça a Introdução à Antroposofia'), lang)}</p>`;
     emit(home, t('Learn Anthroposophy', 'Aprenda antroposofia'), hero + introductionLink, lang, 'home', intro);
 
@@ -173,7 +228,7 @@ export function buildPlatformArchitecture({course = {}, lessons = [], concepts =
     const practiceBody = `<h1>${t('Practice', 'Praticar')}</h1><p class="lead">${t('Work with an idea through attention, observation or a considered action. Choose an exercise that fits your question and return to its course context.', 'Trabalhe com uma ideia por meio da atenção, da observação ou de uma ação refletida. Escolha um exercício adequado à sua pergunta e retorne ao contexto do curso.')}</p><p>${t('Practices are voluntary. You can reflect aloud, use your own notebook or keep a local note where a course offers that option.', 'As práticas são voluntárias. Você pode refletir em voz alta, usar seu próprio caderno ou guardar uma nota local quando o curso oferece essa opção.')}</p>${indexedSection(practice, 'theosophy-practices', t('Practices connected to Theosophy', 'Práticas relacionadas à Teosofia'), practices, lang, 'practice', 'title')}${cardSection(practice, 'practice-courses', t('Courses with ongoing practice', 'Cursos com prática contínua'), collections.filter(item => item.group === 'applied'), lang)}<section><h2>${t('Observation and artistic work', 'Observação e trabalho artístico')}</h2><ul><li>${link(practice, 'colour/lessons/01.html', t('Observe colour and compare what you remember', 'Observe a cor e compare o que você lembra'), lang)}</li><li>${link(practice, 'encountering-the-self/lessons/15.html', t('Explore form drawing in its educational source context', 'Explore o desenho de formas em seu contexto educacional na fonte'), lang)}</li><li>${link(practice, 'biodynamics/practice/index.html', t('Use the biodynamic observation library', 'Use a biblioteca de observação biodinâmica'), lang)}</li></ul></section>`;
     emit(practice, t('Practice', 'Praticar'), practiceBody, lang, 'hub');
 
-    const readBody = file => `<h1>${t('Read Steiner', 'Ler Steiner')}</h1><p class="lead">${t('Follow a source argument in its original sequence, with selected passages, reading assignments and detailed commentary.', 'Acompanhe um argumento na sequência da fonte, com trechos selecionados, indicações de leitura e comentários detalhados.')}</p><p>${t('Each guide identifies its edition and the material it covers. Translators, introductions and later interpretations keep their own credits.', 'Cada guia identifica sua edição e o material estudado. Tradutores, introduções e interpretações posteriores conservam suas próprias atribuições.')}</p>${cardSection(file, 'steiner-reading', t('Books and lectures by Rudolf Steiner', 'Livros e palestras de Rudolf Steiner'), collections.filter(item => item.group === 'steiner'), lang, item => item.readingRoute || item.route)}${cardSection(file, 'related-authors', t('Related authors and anthologies', 'Autores relacionados e antologias'), collections.filter(item => item.group === 'related'), lang)}${cardSection(file, 'applied-reading', t('Sources and study within practical courses', 'Fontes e estudo em cursos práticos'), collections.filter(item => item.group === 'applied'), lang)}<p>${link(file, 'research/index.html', t('Consult source notes and edition records', 'Consulte notas de fontes e registros das edições'), lang)}</p>`;
+    const readBody = file => `<h1>${t('Read Steiner', 'Ler Steiner')}</h1><p class="lead">${t('Follow a source argument in its original sequence, with selected passages, reading assignments and detailed commentary.', 'Acompanhe um argumento na sequência da fonte, com trechos selecionados, indicações de leitura e comentários detalhados.')}</p><p>${t('Each guide identifies its edition and the material it covers. Translators, introductions and later interpretations keep their own credits.', 'Cada guia identifica sua edição e o material estudado. Tradutores, introduções e interpretações posteriores conservam suas próprias atribuições.')}</p>${cardSection(file, 'steiner-reading', t('Books and lectures by Rudolf Steiner', 'Livros e palestras de Rudolf Steiner'), collections.filter(item => item.group === 'steiner'), lang, item => item.readingRoute || item.route, {artwork:false})}${cardSection(file, 'related-authors', t('Related authors and anthologies', 'Autores relacionados e antologias'), collections.filter(item => item.group === 'related'), lang, item => item.route, {artwork:false})}${cardSection(file, 'applied-reading', t('Sources and study within practical courses', 'Fontes e estudo em cursos práticos'), collections.filter(item => item.group === 'applied'), lang, item => item.route, {artwork:false})}<p>${link(file, 'research/index.html', t('Consult source notes and edition records', 'Consulte notas de fontes e registros das edições'), lang)}</p>`;
     emit(read, t('Read Steiner', 'Ler Steiner'), readBody(read), lang, 'hub');
     const books = logical('books/index.html', lang);
     emit(books, t('Read Steiner', 'Ler Steiner'), readBody(books), lang, 'hub');

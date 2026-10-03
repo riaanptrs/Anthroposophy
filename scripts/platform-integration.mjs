@@ -1,7 +1,9 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {createHash} from 'node:crypto';
 import {esc, wholeElement} from './learning-html.mjs';
 import {platformArea, platformNav, platformSupportNav} from './platform-architecture.mjs';
+import {renderIdentityMark, visualThemeFor} from './visual-identity.mjs';
 
 const attribute = (tag, name) => tag.match(new RegExp(`\\b${name}\\s*=\\s*(["'])([\\s\\S]*?)\\1`, 'i'))?.[2];
 const hasClass = (tag, name) => (attribute(tag, 'class') || '').split(/\s+/).includes(name);
@@ -50,12 +52,41 @@ function sharedNavigationStyles(html, logicalFile) {
   return html;
 }
 
-/** Apply after every content generator; this pass changes navigation only. */
+function sharedVisualIdentity(html, logicalFile, route, version) {
+  const asset = 'docs/visual-identity.css';
+  // Keep this shared identity layer last, after retained course-specific styles.
+  html = html.replace(/<link\b[^>]*>/gi, tag => {
+    if ((attribute(tag, 'rel') || '').toLowerCase() !== 'stylesheet') return tag;
+    const url = attribute(tag, 'href');
+    if (!url || /^(?:[a-z][a-z0-9+.-]*:|\/\/|\/)/i.test(url)) return tag;
+    return path.posix.normalize(path.posix.join(path.posix.dirname(logicalFile), url.split(/[?#]/)[0])) === asset ? '' : tag;
+  });
+  const href = path.posix.relative(path.posix.dirname(logicalFile), asset);
+  html = html.replace(/<\/head>/i, `<link rel="stylesheet" href="${esc(href)}?v=${version}"></head>`);
+  html = html.replace(/<body\b[^>]*>/i, tag => {
+    const clean = tag.replace(/\sdata-(?:visual-identity|identity-theme)\s*=\s*(["'])[\s\S]*?\1/gi, '');
+    return clean.replace(/>$/, ` data-visual-identity="2026-10" data-identity-theme="${esc(visualThemeFor(route))}">`);
+  });
+  const opening = /<header\b[^>]*>/i.exec(html);
+  if (opening) {
+    const header = wholeElement(html.slice(opening.index), opening[0]);
+    let updated = header.replace(/<span\b[^>]*\bclass=["'][^"']*\bmark\b[^"']*["'][^>]*>[\s\S]*?<\/span>/gi, renderIdentityMark());
+    updated = updated.replace(/<a\b[^>]*\bclass=["'][^"']*\bbrand\b[^"']*["'][^>]*>[\s\S]*?<\/a>/gi, brand => {
+      if (brand.includes('identity-mark')) return brand;
+      return brand.replace(/^(<a\b[^>]*>)\s*(?:✳\s*)?/, `$1${renderIdentityMark()}`);
+    });
+    html = html.slice(0, opening.index) + updated + html.slice(opening.index + header.length);
+  }
+  return html;
+}
+
+/** Apply after every content generator; retain teaching and storage contracts. */
 export function applyPlatformNavigation(docsDir = 'docs') {
   const root = path.resolve(docsDir);
   if (!fs.existsSync(root) || !fs.statSync(root).isDirectory()) throw new Error('Platform navigation requires an existing docs tree');
   const routes = fs.readdirSync(root, {recursive:true}).filter(name => name.endsWith('.html')).map(name => name.split(path.sep).join('/')).sort();
   const writes = [];
+  const identityVersion = createHash('sha256').update(fs.readFileSync(new URL('./assets/visual-identity.css', import.meta.url))).digest('hex').slice(0,12);
   let foundationLessons = 0;
   for (const route of routes) {
     const file = path.join(root, route);
@@ -72,6 +103,7 @@ export function applyPlatformNavigation(docsDir = 'docs') {
       ? after.replace(/<\/footer>/i, `${support}</footer>`)
       : after.replace(/<\/body>/i, `<footer class="platform-footer">${support}</footer></body>`);
     after = sharedNavigationStyles(after, logicalFile);
+    after = sharedVisualIdentity(after, logicalFile, route, identityVersion);
     if (/^(?:pt\/)?learn\/lessons\/(?:0[1-9]|[12]\d|3[0-6])\.html$/.test(route)) {
       after = foundationReturns(after);
       foundationLessons += 1;

@@ -5,6 +5,7 @@ import {loadConceptCourse} from '../content/theosophy-concept-course.mjs';
 import {esc, relative} from './learning-html.mjs';
 import {buildPlatformArchitecture} from './platform-architecture.mjs';
 import {applyPlatformNavigation} from './platform-integration.mjs';
+import {copyVisualAssets} from './visual-identity.mjs';
 import {renderPlatformPage, renderCourseLanding, renderConceptLesson, renderConceptPage, renderPracticePage, renderCourseSynthesis} from './platform-components.mjs';
 
 function readingShortcuts(course, file, lang) {
@@ -31,7 +32,8 @@ export function buildConceptPlatform({docsDir = 'docs', model = loadConceptCours
     fs.writeFileSync(target, renderPlatformPage(file, title, body, lang, {partner, description, role}));
     rendered.push(local);
   };
-  for (const name of ['concept-platform.css', 'concept-platform.js']) fs.copyFileSync(new URL(`./assets/${name}`, import.meta.url), path.join(output, name));
+  for (const name of ['concept-platform.css', 'concept-platform.js', 'visual-identity.css']) fs.copyFileSync(new URL(`./assets/${name}`, import.meta.url), path.join(output, name));
+  copyVisualAssets(docsDir);
   const architecture = buildPlatformArchitecture({course, lessons, concepts, practices, renderPage:renderPlatformPage, docsDir});
   for (const lang of ['en', 'pt']) {
     const local = route => `docs/${lang === 'pt' ? 'pt/' : ''}${route}`;

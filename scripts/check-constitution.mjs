@@ -5,6 +5,7 @@ import {linkTerms,targetFor,isIntroductionOwned} from './link-constitution.mjs';
 import {isPracticalThinkingOwned} from './practical-thinking-owned.mjs';
 import {isBiodynamicOwned} from './biodynamic-owned.mjs';
 import {isConceptPlatformOwned} from './concept-platform-owned.mjs';
+import {wholeElement} from './learning-html.mjs';
 const strip=h=>h.replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');
 const fixture='<html><head><title>Astral body</title></head><body><p title="etheric body">Physical body, astral body, etheric body; astral body again.</p><a href="source.html">astral body</a><textarea>etheric body</textarea><script>if (a < b) { text = "astral body"; }</script><svg><text>physical body</text></svg><!-- astral body --></body></html>';
 const result=linkTerms(fixture,'reference/human-constitution.html');
@@ -25,7 +26,7 @@ for(const rel of fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('.
  const file=path.join('docs',rel),h=fs.readFileSync(file,'utf8');
  if(rel.replaceAll('\\','/').includes('reference/human-constitution.html')){
   for(const id of ['physical-body','etheric-body','astral-body','i','terminology','sleep','sources','natural-worlds','mineral-world','plant-world','animal-world'])assert.ok(h.includes(`id="${id}"`),file+' missing '+id);
-  assert.equal((h.match(/<svg\b/g)||[]).length,2);
+  assert.equal((wholeElement(h,'<main').match(/<svg\b/g)||[]).length,2,'The two teaching diagrams are preserved independently of the shared brand mark');
   assert.equal((h.match(/<details>/g)||[]).length,11);
   for(const id of ['mineral-world','plant-world','animal-world'])assert.ok(h.includes(`href="human-constitution.html#${id}"`));
   assert.ok(h.includes('GA013_c02.html')&&h.includes('GA009_c01.html'));

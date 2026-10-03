@@ -54,7 +54,7 @@ for(const lang of ['en','pt']) {
  const base=lang==='pt'?'docs/pt':'docs';
  const home=fs.readFileSync(base+'/index.html','utf8');
  assert.equal((home.match(/<h1\b[^>]*>/g)||[]).length,1,'One platform identity');
- assert.ok(home.includes('<h1>'+(lang==='pt'?'Aprenda antroposofia':'Learn Anthroposophy')+'</h1>'),'Homepage identity');
+ assert.equal(wholeElement(home,'<h1').replace(/<[^>]*>/g,'').replace(/\s+/g,' ').trim(),lang==='pt'?'Aprenda antroposofia':'Learn Anthroposophy','Homepage identity text survives decorative emphasis');
  const entryPaths=wholeElement(home,'<section id="path"');
  assert.ok(entryPaths,base+' homepage entry paths');
  for(const route of ['learn/foundations/index.html','learn/index.html','concepts/index.html'])assert.equal((entryPaths.match(new RegExp('href="'+route.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'"','g'))||[]).length,1,base+' homepage entry '+route);

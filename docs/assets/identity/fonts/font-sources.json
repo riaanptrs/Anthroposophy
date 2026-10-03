@@ -1,0 +1,61 @@
+{
+  "prepared": "2026-10-03",
+  "license": "SIL Open Font License 1.1",
+  "selfHosted": true,
+  "fonts": [
+    {
+      "file": "Fraunces-Latin.woff2",
+      "family": "Fraunces",
+      "authors": "Undercase Type; Phaedra Charles; Flavia Zimbardi",
+      "canonicalSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/fraunces/Fraunces%5BSOFT,WONK,opsz,wght%5D.ttf",
+      "originalSha256": "177ff6c0f14e5550a3c624247cd1189611d4eb65d000b14944c63d967958abbb",
+      "bundledSha256": "9fe2d60a45498addc227083f89e550779d0245421a9d85225495c9a80250a29b",
+      "bytes": 88852,
+      "glyphCount": 426,
+      "missingOptionalSymbols": [
+        "→"
+      ],
+      "axes": [
+        {
+          "tag": "opsz",
+          "minimum": 9.0,
+          "default": 9.0,
+          "maximum": 144.0
+        },
+        {
+          "tag": "wght",
+          "minimum": 400.0,
+          "default": 700.0,
+          "maximum": 700.0
+        }
+      ],
+      "portugueseAccentsVerified": true
+    },
+    {
+      "file": "AlegreyaSans-Regular-Latin.woff2",
+      "family": "Alegreya Sans",
+      "authors": "Juan Pablo del Peral; Huerta Tipográfica",
+      "canonicalSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/alegreyasans/AlegreyaSans-Regular.ttf",
+      "originalSha256": "8fab634196007afca839f1e5a6fb300976daff55d8528b590ef032f01b14ea10",
+      "bundledSha256": "4406cda64f6b9bf16241e18caa159083d1d91666b32d4f34420e285fd51430f2",
+      "bytes": 48504,
+      "glyphCount": 560,
+      "missingOptionalSymbols": [],
+      "axes": [],
+      "portugueseAccentsVerified": true
+    },
+    {
+      "file": "AlegreyaSans-Bold-Latin.woff2",
+      "family": "Alegreya Sans",
+      "authors": "Juan Pablo del Peral; Huerta Tipográfica",
+      "canonicalSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/alegreyasans/AlegreyaSans-Bold.ttf",
+      "originalSha256": "a3055a1893759bdbd7504bb22abc583769e7974c49353176eac0b03792c9fb8e",
+      "bundledSha256": "1203cdc9fe85f543effa15e5120748d0fc9ac4ae790b06ab8024f35f2a0e1888",
+      "bytes": 48804,
+      "glyphCount": 560,
+      "missingOptionalSymbols": [],
+      "axes": [],
+      "portugueseAccentsVerified": true
+    }
+  ]
+}

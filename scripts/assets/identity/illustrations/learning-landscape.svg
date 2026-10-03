@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 410" fill="none">
+ <defs><radialGradient id="identity-light"><stop stop-color="#F4D58C"/><stop offset="1" stop-color="#E5CFA4" stop-opacity="0"/></radialGradient></defs>
+ <rect width="560" height="410" fill="#EEE5D5"/>
+ <ellipse cx="397" cy="90" rx="165" ry="137" fill="url(#identity-light)"/>
+ <path d="M0 96C135 8 190 24 248 120C306 216 447 86 560 52V410H0Z" fill="#C5B8D2" opacity=".82"/>
+ <path d="M0 228C117 55 220 119 304 243C388 367 480 170 560 125V410H0Z" fill="#8DAAA2" opacity=".79"/>
+ <path d="M0 272C134 186 198 206 256 293C314 380 455 286 560 220V410H0Z" fill="#667F7D" opacity=".83"/>
+ <path d="M0 349C128 256 266 290 344 328C422 366 496 312 560 294V410H0Z" fill="#A76D58" opacity=".89"/>
+ <path d="M0 399C121 316 267 344 347 384C427 424 499 385 560 364V410H0Z" fill="#684F78" opacity=".94"/>
+ <g stroke="#FBF8F2" stroke-width="3" stroke-linecap="round" opacity=".96">
+ <path d="M267 364C278 288 298 220 325 164"/>
+ <path d="M282 298C244 289 225 265 224 227C259 230 278 253 282 298M297 249C336 248 359 229 367 193C331 193 308 212 297 249M312 205C280 185 268 160 275 129C306 143 318 168 312 205"/>
+ <path d="M325 164C346 142 354 117 349 89C324 106 316 131 325 164"/>
+ </g>
+ <g stroke="#F9ECC3" stroke-width="2" stroke-linecap="round" opacity=".92">
+ <circle cx="429" cy="89" r="31"/>
+ <path d="M429 43V29M461 57L472 45M475 89H490M461 121L471 133M397 121L385 134M383 89H369M397 57L386 45"/>
+ </g>
+</svg>
