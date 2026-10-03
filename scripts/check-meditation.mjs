@@ -22,6 +22,7 @@ for(const lang of ['en','pt']){
   assert.ok(!h.includes('data-note-field=')&&!h.includes('localStorage'));
   assert.ok(l[lang].steps.length>=3&&l[lang].explain.length>=2);
  }
- const home=fs.readFileSync(base+'/books/index.html','utf8');assert.equal((home.match(/<!-- meditation-card:start -->/g)||[]).length,1);
+ const home=fs.readFileSync(base+'/books/index.html','utf8');
+ assert.equal((home.match(/href="\.\.\/meditation\/index\.html"/g)||[]).length,1,'One Meditation source collection in Read Steiner');
 }
 console.log('Passed: 18 meditation sessions, two indexes, six complete selected texts per language, Foundation Stone ending, source attribution, navigation and reflection controls.');

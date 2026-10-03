@@ -4,6 +4,7 @@ import assert from 'node:assert/strict';
 import {validatePracticalThinking} from './check-practical-thinking.mjs';
 import {temperamentCourse} from '../content/temperament-course.mjs';
 import {assertBiodynamicPublicationReady} from './biodynamic-course-data.mjs';
+import {platformSite} from './platform-architecture.mjs';
 const routes=[['understanding-temperaments',temperamentCourse,12]];
 validatePracticalThinking();
 const catalogue=JSON.parse(fs.readFileSync('content/learning-system-catalogue.json','utf8'));
@@ -20,17 +21,18 @@ if(nativeBiodynamics)primaryRoutes.push('biodynamics');
 for(const prefix of ['docs','docs/pt']){
  const lang=prefix.endsWith('/pt')?'pt':'en',other=lang==='en'?'docs/pt':'docs';
  const home=fs.readFileSync(prefix+'/books/index.html','utf8');
- const cards=[...home.matchAll(/<a class="course-card" href="([^"]+)"/g)].map(m=>m[1]);
- assert.equal(cards.length,primaryRoutes.length);assert.equal(new Set(cards).size,primaryRoutes.length);
- assert.deepEqual([...cards].sort(),primaryRoutes.map(route=>'../'+route+'/index.html').sort(),'Primary course cards match the catalogue');
+ const learn=fs.readFileSync(prefix+'/learn/index.html','utf8');
+ const collectionRoutes=new Set(platformSite.collections.map(item=>path.relative(path.join(prefix,'learn'),path.join(prefix,item.route)).replaceAll('\\','/')));
+ const cards=[...learn.matchAll(/href="([^"]+)"/g)].map(m=>m[1]).filter(href=>collectionRoutes.has(href));
+ assert.equal(cards.length,collectionRoutes.size);assert.equal(new Set(cards).size,collectionRoutes.size);
+ assert.deepEqual([...cards].sort(),[...collectionRoutes].sort(),'Learn discovers every platform collection once');
+ for(const route of primaryRoutes)assert.ok(cards.includes('../'+route+'/index.html'),'Retained primary practice course '+route);
  for(const old of temperamentCompanions){
-  assert.ok(!cards.includes('../'+old+'/index.html'),'Duplicate primary temperament route');
-  assert.ok(home.includes(`href="../${old}/index.html"`),'Missing source-library access');
+  assert.equal((home.match(new RegExp(`href="\\.\\./${old}/index\\.html"`,'g'))||[]).length,1,'One retained temperament source collection');
   assert.ok(fs.readFileSync(prefix+'/'+old+'/index.html','utf8').includes('../understanding-temperaments/index.html'));
  }
  for(const old of agriculturalCompanions){
-  assert.ok(!cards.includes('../'+old+'/index.html'),'Agricultural reading companion is not a duplicate primary course');
-  assert.ok(home.includes(`href="../${old}/index.html"`),'Retained agricultural source-library access');
+  assert.equal((home.match(new RegExp(`href="\\.\\./${old}/index\\.html"`,'g'))||[]).length,1,'One retained agricultural source collection');
   assert.ok(fs.readFileSync(prefix+'/'+old+'/index.html','utf8').includes('../biodynamics/index.html'),'Agricultural companion links to the primary course');
  }
  for(const [slug,lessons,total] of routes){

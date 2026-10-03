@@ -222,7 +222,7 @@ for(const lesson of course.lessons){
  }
 }
 for(const lang of ['en','pt']){
- const base=lang==='en'?'docs':'docs/pt',index=fs.readFileSync(base+'/theosophy/index.html','utf8');
+ const base=lang==='en'?'docs':'docs/pt',index=fs.readFileSync(base+'/read/theosophy/index.html','utf8');
  assert.ok(index.includes('data-theosophy-owned="true"')&&index.includes('id="structured-readings"'),'Canonical Theosophy index');
  assert.equal((index.match(/data-theosophy-progress="theosophy\/\d{2}"/g)||[]).length,28,'One canonical reading map');
  assert.ok(index.includes('data-theosophy-resume'),'Course-scoped continue control');

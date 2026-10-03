@@ -9,6 +9,10 @@ import {introduction, introductionExample, courseMap} from '../content/introduct
 import {connections} from '../content/anthroposophy-connections.mjs';
 import {higherWorldsConnections} from '../content/higher-worlds-connections.mjs';
 import {applyFreedomConnections, freedomSource, introductoryDiagrams, actionQuestions, knowledgeQuestions, thinkingReview, sharedConcept, recognitionComparison, purposeSequence} from '../content/philosophy-of-freedom-connections.mjs';
+import {loadConceptCourse} from '../content/theosophy-concept-course.mjs';
+// Validate the complete teaching graph before a legacy generator writes public files.
+const conceptualCourse = loadConceptCourse();
+if (conceptualCourse.course.status !== 'ready') throw new Error('The concept-led Theosophy course is still being authored; the public build requires a reviewed, ready course.');
 // Source-owned seed keeps legacy builders repeatable after the learning homepage is generated.
 for (const [lang, target] of [['en','docs/index.html'],['pt','docs/pt/index.html']]) {
  fs.mkdirSync(path.dirname(target),{recursive:true});
@@ -101,3 +105,6 @@ if (fs.existsSync(biodynamicMetadataFile)) {
  const biodynamicMetadata = JSON.parse(fs.readFileSync(biodynamicMetadataFile, 'utf8'));
  if (biodynamicMetadata.status === 'ready') await import('./build-biodynamic-agriculture.mjs');
 }
+// The prototype owns the teaching routes and applies global navigation last.
+const {buildConceptPlatform} = await import('./build-concept-platform.mjs');
+buildConceptPlatform({model:conceptualCourse});

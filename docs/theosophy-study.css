@@ -167,3 +167,5 @@
   .theosophy-study .learning-example,
   .theosophy-study .learning-distinction { background: white; }
 }
+.theosophy-study .theosophy-reading-layer { border-left:3px solid #7c916c; padding:10px 16px; margin:0 0 24px; font-size:16px; }
+.theosophy-study .theosophy-reading-layer p { margin:6px 0 0; }

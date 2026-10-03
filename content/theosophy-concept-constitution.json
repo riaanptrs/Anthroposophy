@@ -1,0 +1,2779 @@
+{
+  "moduleIds": [
+    "human-being",
+    "soul-life"
+  ],
+  "lessons": [
+    {
+      "id": "body-soul-spirit",
+      "moduleId": "human-being",
+      "primaryConceptId": "body-soul-spirit",
+      "termIds": [
+        "body",
+        "soul",
+        "spirit"
+      ],
+      "conceptIds": [
+        "body-soul-spirit",
+        "body",
+        "soul",
+        "spirit",
+        "human-i"
+      ],
+      "connections": [
+        {
+          "id": "body",
+          "en": "The body gives the person access to the surrounding world.",
+          "pt": "O corpo dá à pessoa acesso ao mundo ao redor."
+        },
+        {
+          "id": "soul",
+          "en": "The soul makes an encounter part of a person’s inward life.",
+          "pt": "A alma torna um encontro parte da vida interior de uma pessoa."
+        },
+        {
+          "id": "spirit",
+          "en": "Through spirit, understanding seeks what holds beyond personal preference.",
+          "pt": "Por meio do espírito, a compreensão busca o que vale além da preferência pessoal."
+        },
+        {
+          "id": "human-i",
+          "en": "The I gathers these different relationships in one person.",
+          "pt": "O Eu reúne essas diferentes relações em uma pessoa."
+        }
+      ],
+      "practiceId": "distinguish-an-encounter",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            13,
+            15
+          ],
+          "readingIds": [
+            1
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            15,
+            17
+          ],
+          "readingIds": [
+            2
+          ]
+        }
+      ],
+      "en": {
+        "title": "Body, soul and spirit",
+        "question": "How can one encounter belong to us in three different ways?",
+        "experience": [
+          "You hear a melody, enjoy it and recognize a rhythm. Hearing, enjoyment and recognition occur together, yet they answer different questions. What reached your senses? What did it mean to you? What relationship did you understand?"
+        ],
+        "centralIdea": "Steiner introduces body, soul and spirit as three ways one human being relates to the world: bodily access, inward experience and understanding that reaches beyond personal liking.",
+        "explanation": [
+          "The bodily side concerns our contact with things. Eyes, ears and the rest of our organization make an encounter possible. In Steiner’s meadow example, the flowers reveal their colours through the eyes. The body also belongs to the world we encounter: it has a material constitution and can itself be observed. Body initially names this relationship, before the course introduces its more differentiated members.",
+          "The soul concerns the encounter as lived from within. A sound may comfort one listener and irritate another. The event becomes significant through sensation, pleasure, aversion, desire or sorrow. My experience can remain in memory after its occasion has gone. Another person can observe my expression and hear my account, but that differs from directly having my enjoyment. Steiner uses this contrast to establish the soul’s inward character.",
+          "Spirit enters when we ask what is true of the thing, beyond whether it pleases us. Someone who dislikes the melody may still recognize the same repeated rhythm. The act of understanding happens within a person, but the relationship understood is not made true by that person’s delight. Steiner’s further spiritual account develops from this distinction. At this opening stage, spirit does not mean a ghost, a mood or a religious affiliation; it names our participation in intelligible relationships.",
+          "These are three aspects of one person, rather than three people or isolated compartments. Bodily conditions affect inward experience; inward interests can guide inquiry; understanding can change how we feel and act. Distinguishing the aspects helps us ask a more exact question. A loudness measurement describes a sound; a report of distress describes its personal significance; an explanation of its pattern addresses its organization. None of these questions becomes unnecessary because the others are answered."
+        ],
+        "distinction": "A thought occurring in me is an inward event; its content is not therefore true. The spiritual relationship concerns understanding what is valid, while the soul relationship includes how that thought affects me.",
+        "reflection": {
+          "question": "How would you distinguish hearing a melody, enjoying it and recognizing its rhythm?",
+          "notes": [
+            "Hearing involves bodily access; enjoyment is personal inward experience; recognizing a rhythm concerns a relationship in the music. The three can occur in the same encounter.",
+            "The recognition still needs to be correct. Calling it spiritual understanding does not make a mistaken description true."
+          ]
+        },
+        "takeaways": [
+          "Body, soul and spirit first name relationships, not a list to memorize.",
+          "Personal significance differs from what can be understood about the thing.",
+          "One encounter can involve all three aspects together.",
+          "The initial threefold view prepares the more differentiated human constitution."
+        ],
+        "deeper": [
+          {
+            "title": "Why begin with an encounter?",
+            "paragraphs": [
+              "Steiner initially asks the reader to suspend preconceived definitions of the three words. His returning visitor finds new flowers, a remembered joy and the same species relationships. This distinguishes a changing object, a person’s retained experience and an intelligible relation. The illustration prepares the constitution account; it is not itself an observation of supersensible members."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Corpo, alma e espírito",
+        "question": "Como um mesmo encontro pode nos pertencer de três maneiras diferentes?",
+        "experience": [
+          "Você ouve uma melodia, gosta dela e reconhece um ritmo. Audição, prazer e reconhecimento acontecem juntos, mas respondem a perguntas diferentes. O que chegou aos seus sentidos? O que isso significou para você? Que relação você compreendeu?"
+        ],
+        "centralIdea": "Steiner apresenta corpo, alma e espírito como três maneiras pelas quais um mesmo ser humano se relaciona com o mundo: acesso corporal, experiência interior e compreensão que vai além do gosto pessoal.",
+        "explanation": [
+          "O aspecto corporal diz respeito ao nosso contato com as coisas. Olhos, ouvidos e o restante de nossa organização tornam possível um encontro. No exemplo do prado de Steiner, as flores revelam suas cores por meio dos olhos. O corpo também pertence ao mundo que encontramos: tem uma constituição material e pode ser observado. Corpo inicialmente nomeia essa relação, antes de o curso apresentar seus membros mais diferenciados.",
+          "A alma diz respeito ao encontro vivido interiormente. Um som pode confortar uma pessoa e irritar outra. O acontecimento ganha significado por meio da sensação, do prazer, da aversão, do desejo ou da tristeza. Minha experiência pode permanecer na memória depois que a ocasião passou. Outra pessoa pode observar minha expressão e ouvir meu relato, mas isso difere de ter diretamente meu prazer. Steiner usa esse contraste para estabelecer o caráter interior da alma.",
+          "O espírito aparece quando perguntamos o que é verdadeiro sobre a coisa, além de ela nos agradar. Quem não gosta da melodia ainda pode reconhecer o mesmo ritmo repetido. O ato de compreender acontece em uma pessoa, mas a relação compreendida não se torna verdadeira por causa de seu prazer. A concepção espiritual mais ampla de Steiner se desenvolve a partir dessa distinção. Neste início, espírito não significa fantasma, estado de ânimo ou filiação religiosa; nomeia nossa participação em relações compreensíveis.",
+          "São três aspectos de uma pessoa, e não três pessoas ou compartimentos isolados. Condições corporais afetam a experiência interior; interesses interiores podem orientar a investigação; compreender pode mudar como sentimos e agimos. Distinguir os aspectos ajuda a formular uma pergunta mais precisa. Uma medida de intensidade descreve um som; um relato de sofrimento descreve seu significado pessoal; uma explicação de seu padrão trata de sua organização. Nenhuma dessas perguntas se torna desnecessária porque as outras foram respondidas."
+        ],
+        "distinction": "Um pensamento que ocorre em mim é um acontecimento interior; seu conteúdo não é verdadeiro só por isso. A relação espiritual diz respeito a compreender o que é válido, enquanto a relação anímica inclui como esse pensamento me afeta.",
+        "reflection": {
+          "question": "Como você distinguiria ouvir uma melodia, gostar dela e reconhecer seu ritmo?",
+          "notes": [
+            "Ouvir envolve acesso corporal; gostar é uma experiência interior pessoal; reconhecer um ritmo diz respeito a uma relação na música. Os três podem ocorrer no mesmo encontro.",
+            "O reconhecimento ainda precisa ser correto. Chamá-lo de compreensão espiritual não torna verdadeira uma descrição equivocada."
+          ]
+        },
+        "takeaways": [
+          "Corpo, alma e espírito inicialmente nomeiam relações, e não uma lista para memorizar.",
+          "O significado pessoal difere do que pode ser compreendido sobre a coisa.",
+          "Um encontro pode envolver os três aspectos juntos.",
+          "A visão tríplice inicial prepara a constituição humana mais diferenciada."
+        ],
+        "deeper": [
+          {
+            "title": "Por que começar por um encontro?",
+            "paragraphs": [
+              "Steiner inicialmente pede que o leitor suspenda definições preconcebidas das três palavras. Quem volta ao prado encontra novas flores, uma alegria lembrada e as mesmas relações entre espécies. Isso distingue um objeto que muda, a experiência retida por uma pessoa e uma relação compreensível. A ilustração prepara a concepção da constituição humana; não é, por si, uma observação de membros suprassensíveis."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "physical-body",
+      "moduleId": "human-being",
+      "primaryConceptId": "physical-body",
+      "termIds": [
+        "physical-body",
+        "body"
+      ],
+      "conceptIds": [
+        "physical-body",
+        "body",
+        "etheric-body",
+        "thinking"
+      ],
+      "connections": [
+        {
+          "id": "body",
+          "en": "Physical body specifies the material aspect of the broader bodily relationship.",
+          "pt": "Corpo físico especifica o aspecto material da relação corporal mais ampla."
+        },
+        {
+          "id": "etheric-body",
+          "en": "Living organization is a further question, beyond material constituents alone.",
+          "pt": "A organização viva é uma pergunta adicional, além dos constituintes materiais considerados isoladamente."
+        },
+        {
+          "id": "thinking",
+          "en": "Steiner understands bodily organization as an instrument for human thinking.",
+          "pt": "Steiner compreende a organização corporal como instrumento para o pensar humano."
+        }
+      ],
+      "practiceId": null,
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            15,
+            18
+          ],
+          "readingIds": [
+            2
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            18,
+            19
+          ],
+          "readingIds": [
+            3
+          ]
+        }
+      ],
+      "en": {
+        "title": "The physical body",
+        "question": "What are we explaining when we describe a person’s material body?",
+        "experience": [
+          "A hand has weight, shape and structure. It also moves while someone writes a note. Describing its tissues and movement tells us something real; explaining what the note means asks another question. Start by keeping both questions clear."
+        ],
+        "centralIdea": "Steiner calls the organized material constitution of the human being the physical body. It shares materials and physical forces with the mineral world and serves as an instrument for bodily and human activity.",
+        "explanation": [
+          "Physical body does not mean an unorganized pile of substances. The same materials can enter different structures, and their arrangement matters. A hand’s shape and organization enable movements that a loose collection of its materials cannot perform. Steiner therefore includes organization in this concept. Mineral names a relationship to the materials and forces of the surrounding world, not a claim that the person is literally a stone.",
+          "A living human body also grows, maintains itself and participates in the succession of generations. These facts introduce another question: how is a living organization sustained while its materials change? Steiner gives this question a further answer through the life or etheric body. The distinction does not remove life from the actual body we see. It separates material constitution from the principle of living organization proposed in his account.",
+          "Steiner describes the brain as an instrument of thinking, as the eye is an instrument of seeing. In his argument, identifying the bodily instrument does not settle the nature of what is experienced or understood through it. A description of activity in the body and an explanation of why a mathematical inference is valid address different aspects of the event. Steiner uses this instrument relationship to connect embodiment with thinking rather than identifying the meaning of a thought with the material description of its instrument.",
+          "The distinction helps us avoid two shortcuts. We need not dismiss bodily study because the course also discusses soul and spirit. We also need not assume that naming material components explains inward experience or the content of a reason. Within Steiner’s picture, physical embodiment provides a real foundation. Later concepts add relationships to that foundation instead of making the material body unreal or dispensable."
+        ],
+        "distinction": "Physical body and the whole human being are different scopes of explanation. Material constitution is real, but Steiner does not use it as a complete definition of sensation, selfhood or understanding.",
+        "reflection": {
+          "question": "What would a material description of a written note explain, and what would remain to be understood?",
+          "notes": [
+            "It could describe paper, marks, hand movements and bodily conditions. The meaning of the message and the reasons for writing it require further questions.",
+            "This distinction identifies different explanatory tasks; it does not independently demonstrate the supersensible members Steiner subsequently introduces."
+          ]
+        },
+        "takeaways": [
+          "The physical body is an organized material constitution.",
+          "Its mineral relationship concerns materials and physical forces.",
+          "Steiner treats embodiment as a foundation, not an irrelevant shell.",
+          "Material, living, inward and intelligible aspects require distinguishable questions."
+        ],
+        "deeper": [
+          {
+            "title": "Historical bodily comparisons",
+            "paragraphs": [
+              "Chapter I uses nineteenth-century anatomical comparisons and a passage by Carus containing outdated and demeaning disability language. Those arguments are part of the source’s history. This course does not turn brain size, disability or bodily appearance into a contemporary measure of intelligence, spiritual development or human worth. The concept taught here is organized material embodiment and its stated relation to activity."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "O corpo físico",
+        "question": "O que estamos explicando quando descrevemos o corpo material de uma pessoa?",
+        "experience": [
+          "Uma mão tem peso, forma e estrutura. Ela também se move quando alguém escreve um bilhete. Descrever seus tecidos e movimentos nos diz algo real; explicar o significado do bilhete faz outra pergunta. Comece mantendo claras as duas perguntas."
+        ],
+        "centralIdea": "Steiner chama de corpo físico a constituição material organizada do ser humano. Ela compartilha materiais e forças físicas com o mundo mineral e serve como instrumento para atividades corporais e humanas.",
+        "explanation": [
+          "Corpo físico não significa um amontoado desorganizado de substâncias. Os mesmos materiais podem integrar estruturas diferentes, e sua disposição importa. A forma e a organização de uma mão permitem movimentos que uma coleção solta de seus materiais não pode realizar. Por isso, Steiner inclui a organização nesse conceito. Mineral nomeia uma relação com os materiais e as forças do mundo ao redor, e não a afirmação de que a pessoa seja literalmente uma pedra.",
+          "Um corpo humano vivo também cresce, se mantém e participa da sucessão de gerações. Esses fatos introduzem outra pergunta: como uma organização viva se sustenta enquanto seus materiais mudam? Steiner dá a essa pergunta uma resposta adicional por meio do corpo vital ou etérico. A distinção não retira a vida do corpo real que vemos. Separa a constituição material do princípio de organização viva proposto em sua concepção.",
+          "Steiner descreve o cérebro como instrumento do pensar, assim como o olho é instrumento da visão. Em seu argumento, identificar o instrumento corporal não resolve a natureza do que é vivenciado ou compreendido por meio dele. Uma descrição da atividade no corpo e uma explicação de por que uma inferência matemática é válida tratam de aspectos diferentes do acontecimento. Steiner usa essa relação instrumental para ligar a existência corporal ao pensar, em vez de identificar o significado de um pensamento com a descrição material de seu instrumento.",
+          "A distinção ajuda a evitar dois atalhos. Não precisamos desprezar o estudo corporal porque o curso também trata de alma e espírito. Também não precisamos supor que nomear componentes materiais explica a experiência interior ou o conteúdo de uma razão. Na visão de Steiner, a existência física fornece uma base real. Conceitos posteriores acrescentam relações a essa base, em vez de tornar o corpo material irreal ou dispensável."
+        ],
+        "distinction": "Corpo físico e ser humano inteiro têm alcances explicativos diferentes. A constituição material é real, mas Steiner não a usa como definição completa de sensação, identidade pessoal ou compreensão.",
+        "reflection": {
+          "question": "O que uma descrição material de um bilhete explicaria, e o que ainda precisaria ser compreendido?",
+          "notes": [
+            "Ela poderia descrever papel, marcas, movimentos da mão e condições corporais. O significado da mensagem e as razões para escrevê-la exigem outras perguntas.",
+            "Essa distinção identifica tarefas explicativas diferentes; não demonstra de maneira independente os membros suprassensíveis que Steiner apresenta depois."
+          ]
+        },
+        "takeaways": [
+          "O corpo físico é uma constituição material organizada.",
+          "Sua relação mineral diz respeito a materiais e forças físicas.",
+          "Steiner trata a existência corporal como uma base, e não como invólucro irrelevante.",
+          "Aspectos materiais, vivos, interiores e compreensíveis exigem perguntas que possam ser distinguidas."
+        ],
+        "deeper": [
+          {
+            "title": "Comparações corporais históricas",
+            "paragraphs": [
+              "O capítulo I usa comparações anatômicas do século XIX e uma passagem de Carus com linguagem desatualizada e depreciativa sobre deficiência. Esses argumentos fazem parte da história da fonte. Este curso não transforma tamanho do cérebro, deficiência ou aparência corporal em medida contemporânea de inteligência, desenvolvimento espiritual ou valor humano. O conceito ensinado aqui é a existência material organizada e sua relação declarada com a atividade."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "life-and-etheric-body",
+      "moduleId": "human-being",
+      "primaryConceptId": "etheric-body",
+      "termIds": [
+        "etheric-body",
+        "physical-body"
+      ],
+      "conceptIds": [
+        "etheric-body",
+        "physical-body",
+        "body",
+        "spiritual-transformation"
+      ],
+      "connections": [
+        {
+          "id": "physical-body",
+          "en": "The etheric body is said to sustain the living physical organization.",
+          "pt": "O corpo etérico é descrito como sustentação da organização física viva."
+        },
+        {
+          "id": "body",
+          "en": "Body here can mean an organization giving form, rather than an additional visible organ.",
+          "pt": "Corpo aqui pode significar uma organização que dá forma, em vez de um órgão visível adicional."
+        },
+        {
+          "id": "spiritual-transformation",
+          "en": "Steiner later relates the transformation of the life body to life-spirit.",
+          "pt": "Steiner posteriormente relaciona a transformação do corpo vital ao espírito vital."
+        }
+      ],
+      "practiceId": "observe-living-form",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            18,
+            20
+          ],
+          "readingIds": [
+            3
+          ],
+          "noteIds": [
+            1
+          ]
+        }
+      ],
+      "en": {
+        "title": "Life and the etheric body",
+        "question": "What distinguishes a living form from its changing materials?",
+        "experience": [
+          "Compare a growing plant with a stone. Both have material structure. The plant develops new leaves and maintains a recognizable living form while its materials change. Observing that difference raises a question about life before we choose an explanation."
+        ],
+        "centralIdea": "Steiner proposes an etheric or life body: an independent supersensible organization that shapes and sustains a living physical body. Growth introduces the question; his account of this organizing member adds a spiritual explanation.",
+        "explanation": [
+          "A quartz crystal and an oak both have form, but their ways of forming differ in Steiner’s opening comparison. The oak arises within a living succession and develops its characteristic organization from that succession. Its materials are continually involved in change, yet a living pattern is maintained. He calls the species-forming activity life-force and introduces the life body as the organization through which life becomes effective. These are his explanatory terms, not measurements made by the comparison itself.",
+          "The etheric body is more than the visible outline of a plant. In Steiner’s account it is a real, independent member that brings physical materials into living organization and preserves that organization during life. When life ceases, the physical body becomes subject to dissolution. Body here means something that gives form; it need not mean another object occupying a separate anatomical compartment. The physical and etheric members concern the same living being in different respects.",
+          "Why does he call this member supersensible? Ordinary sight and touch give access to the visible plant and its changes. Steiner says direct perception of its life body requires a developed spiritual organ. His comparison with a person gaining access to colour explains the claimed difference of access. It does not convert ordinary observation into that perception, or establish the entity through analogy alone. Understanding his proposal and claiming to have perceived it are therefore different acts.",
+          "Etheric does not mean the hypothetical ether of older physics, an electromagnetic field or a measured reserve of energy. The term names the particular life-organizing reality Steiner describes. Modern biology studies growth and maintenance through its own methods and explanations; noticing that both address living phenomena does not make their concepts identical. A useful first step is to record what the organism does, then separately state the explanation being considered."
+        ],
+        "distinction": "A visible change in a plant is an observation; an etheric body sustaining that change is Steiner’s supersensible explanation. The explanation is stronger than a metaphor and is not proved by noticing growth.",
+        "reflection": {
+          "question": "How would you distinguish a plant’s visible development from Steiner’s account of its life body?",
+          "notes": [
+            "New leaves, dimensions or changing colour can be observed and described. The life body is the independent supersensible organization he proposes to explain living form.",
+            "Keeping the distinction lets us understand his claim without treating an ordinary record as spiritual perception."
+          ]
+        },
+        "takeaways": [
+          "Etheric body and life body name the same member in this account.",
+          "The member is described as an independent life-organizing reality.",
+          "Body can mean formative organization rather than a visible anatomical object.",
+          "Observation of growth and the proposed explanation have different evidential roles."
+        ],
+        "deeper": [
+          {
+            "title": "A human life body",
+            "paragraphs": [
+              "Steiner does not treat the human etheric body as a plant merely inserted into a person. He says it is organized in relation to the human thinking spirit. The shared life relationship and the specifically human organization belong together. This is part of the source’s account, not a botanical observation establishing human spiritual capacities."
+            ]
+          },
+          {
+            "title": "Life-force and natural forces",
+            "paragraphs": [
+              "The supplied 1910 Note 1 expressly distinguishes life-force from the forces described by natural science and places the concept within spiritual science’s mode of thought. It therefore does not support presenting the life body as a force already measured by physics or as a conclusion of contemporary biology."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Vida e corpo etérico",
+        "question": "O que distingue uma forma viva de seus materiais em transformação?",
+        "experience": [
+          "Compare uma planta em crescimento com uma pedra. Ambas têm estrutura material. A planta desenvolve novas folhas e mantém uma forma viva reconhecível enquanto seus materiais mudam. Observar essa diferença levanta uma pergunta sobre a vida antes de escolhermos uma explicação."
+        ],
+        "centralIdea": "Steiner propõe um corpo etérico ou vital: uma organização suprassensível independente que forma e sustenta um corpo físico vivo. O crescimento introduz a pergunta; sua concepção desse membro organizador acrescenta uma explicação espiritual.",
+        "explanation": [
+          "Um cristal de quartzo e um carvalho têm forma, mas suas maneiras de se formar diferem na comparação inicial de Steiner. O carvalho surge em uma sucessão viva e desenvolve sua organização característica a partir dela. Seus materiais estão continuamente envolvidos em mudanças, mas um padrão vivo é mantido. Ele chama a atividade formadora da espécie de força vital e apresenta o corpo vital como a organização pela qual a vida atua. Esses são seus termos explicativos, e não medidas obtidas pela própria comparação.",
+          "O corpo etérico é mais do que o contorno visível de uma planta. Na concepção de Steiner, é um membro real e independente que organiza os materiais físicos de maneira viva e preserva essa organização durante a vida. Quando a vida cessa, o corpo físico fica sujeito à decomposição. Corpo aqui significa algo que dá forma; não precisa significar outro objeto em um compartimento anatômico separado. Os membros físico e etérico dizem respeito ao mesmo ser vivo sob aspectos diferentes.",
+          "Por que ele chama esse membro de suprassensível? A visão e o tato comuns dão acesso à planta visível e às suas mudanças. Steiner afirma que perceber diretamente seu corpo vital exige um órgão espiritual desenvolvido. Sua comparação com uma pessoa que passa a ter acesso à cor explica a diferença de acesso alegada. Ela não transforma a observação comum nessa percepção nem estabelece a entidade apenas por analogia. Compreender sua proposta e afirmar que a percebeu são, portanto, atos diferentes.",
+          "Etérico não significa o éter hipotético da física antiga, um campo eletromagnético ou uma reserva medida de energia. O termo nomeia a realidade organizadora da vida que Steiner descreve. A biologia moderna estuda crescimento e manutenção com seus próprios métodos e explicações; perceber que ambos tratam de fenômenos vivos não torna seus conceitos idênticos. Um primeiro passo útil é registrar o que o organismo faz e depois enunciar separadamente a explicação considerada."
+        ],
+        "distinction": "Uma mudança visível em uma planta é uma observação; um corpo etérico sustentando essa mudança é a explicação suprassensível de Steiner. A explicação é mais forte do que uma metáfora e não é comprovada pela constatação do crescimento.",
+        "reflection": {
+          "question": "Como você distinguiria o desenvolvimento visível de uma planta da concepção de Steiner sobre seu corpo vital?",
+          "notes": [
+            "Folhas novas, dimensões ou mudança de cor podem ser observadas e descritas. O corpo vital é a organização suprassensível independente que ele propõe para explicar a forma viva.",
+            "Manter a distinção permite compreender sua afirmação sem tratar um registro comum como percepção espiritual."
+          ]
+        },
+        "takeaways": [
+          "Corpo etérico e corpo vital nomeiam o mesmo membro nessa concepção.",
+          "O membro é descrito como realidade independente que organiza a vida.",
+          "Corpo pode significar organização formadora, em vez de objeto anatômico visível.",
+          "A observação do crescimento e a explicação proposta têm papéis diferentes como evidência."
+        ],
+        "deeper": [
+          {
+            "title": "Um corpo vital humano",
+            "paragraphs": [
+              "Steiner não trata o corpo etérico humano como uma planta simplesmente inserida em uma pessoa. Afirma que ele se organiza em relação ao espírito pensante humano. A relação compartilhada com a vida e a organização especificamente humana pertencem ao mesmo quadro. Isso faz parte da concepção da fonte, e não de uma observação botânica que estabeleça capacidades espirituais humanas."
+            ]
+          },
+          {
+            "title": "Força vital e forças naturais",
+            "paragraphs": [
+              "A Nota 1 de 1910 fornecida distingue expressamente força vital das forças descritas pelas ciências naturais e situa o conceito no modo de pensar da ciência espiritual. Por isso, ela não sustenta apresentar o corpo vital como força já medida pela física ou como conclusão da biologia contemporânea."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sentience-and-astral-body",
+      "moduleId": "human-being",
+      "primaryConceptId": "astral-body",
+      "termIds": [
+        "sentient-body",
+        "astral-body",
+        "sentient-soul"
+      ],
+      "conceptIds": [
+        "sentient-body",
+        "astral-body",
+        "sentient-soul",
+        "physical-body",
+        "etheric-body",
+        "human-i"
+      ],
+      "connections": [
+        {
+          "id": "sentient-body",
+          "en": "The sentient body mediates the bodily basis of sensation.",
+          "pt": "O corpo senciente medeia a base corporal da sensação."
+        },
+        {
+          "id": "sentient-soul",
+          "en": "The sentient soul is the inward experience, not its bodily organization.",
+          "pt": "A alma senciente é a experiência interior, e não sua organização corporal."
+        },
+        {
+          "id": "physical-body",
+          "en": "Physical sensory processes belong to the bodily basis.",
+          "pt": "Processos sensoriais físicos pertencem à base corporal."
+        },
+        {
+          "id": "etheric-body",
+          "en": "The living sensory organization also involves the life body in Steiner’s account.",
+          "pt": "Na concepção de Steiner, a organização sensorial viva também envolve o corpo vital."
+        },
+        {
+          "id": "human-i",
+          "en": "The fourfold account distinguishes the I from the astral member.",
+          "pt": "A concepção quádrupla distingue o Eu do membro astral."
+        }
+      ],
+      "practiceId": null,
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            20,
+            22
+          ],
+          "readingIds": [
+            23
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            29,
+            31
+          ],
+          "readingIds": [
+            6
+          ]
+        }
+      ],
+      "en": {
+        "title": "Sentience and the astral body",
+        "question": "How does bodily sensation differ from inwardly experiencing it?",
+        "experience": [
+          "Two people look at a blue cup. Their eyes are involved in the encounter, and each has an experience of blue. Describing the eye’s activity and describing what blue is like for the person are related tasks, but they are not the same description."
+        ],
+        "centralIdea": "Steiner distinguishes the sentient body, which mediates bodily sentience, from the sentient soul, which inwardly experiences sensation. In his fourfold constitution, astral body names these two members considered together.",
+        "explanation": [
+          "Begin with the path from an object to a sensory organ. Light reaches the eye and bodily processes occur. Steiner’s argument is that tracing those processes gives further bodily processes, rather than the inwardly experienced blue as such. The living organization also belongs to this bodily side in his account. He introduces sentient soul for the activity through which an inward experience comes about. The distinction is between the conditions of experience and experience as lived.",
+          "Those sides must nevertheless relate. The kind and condition of the sensory organization affect what can be experienced. Steiner names the mediating member soul-body or sentient body. It belongs on the bodily side of the relationship, while the sentient soul concerns inward sensation, desire and impulse. Calling both sentient does not make them synonyms. The shared word identifies their close connection; the different nouns preserve the distinction between an organization and the inward activity related to it.",
+          "Astral body is introduced in the chapter’s compact fourfold picture: physical body, life body, astral body and I. Here the astral member joins sentient body and sentient soul. The compact view helps relate physical existence, living organization, sentience and selfhood without listing every later distinction. It does not mean that astral body is the whole soul, the I or a personality type. Nor does astral mean an astronomical body; the term belongs to Steiner’s constitution vocabulary.",
+          "A person can know their own sensation ordinarily and hear another person describe theirs. Steiner goes further by claiming that a developed spiritual organ can perceive another’s sensation-world. That is a separate claimed mode of access, not an ability established by observing expressions or confidently interpreting a mood. The ordinary example helps us understand the difference between bodily mediation and inward experience. It provides no warrant for diagnosing someone’s astral constitution."
+        ],
+        "distinction": "Sentient body and sentient soul are related members, while astral body groups them in this particular account. Changing the scale of the description does not erase the finer distinction.",
+        "reflection": {
+          "question": "Why can astral body include two members without making sentient body and sentient soul identical?",
+          "notes": [
+            "The sentient body concerns mediation through bodily organization; the sentient soul concerns inward experience. The fourfold account treats their close relationship as one member.",
+            "A grouping describes a relationship at a broader scale. It does not supply evidence of another person’s inner life."
+          ]
+        },
+        "takeaways": [
+          "The sensory event and its inward experience should be distinguished.",
+          "Sentient body is also called soul-body.",
+          "Astral body here joins sentient body and sentient soul.",
+          "The fourfold view keeps the I distinct.",
+          "Experiencing your own sensation differs from receiving another person’s account of theirs."
+        ],
+        "deeper": [
+          {
+            "title": "Why terms change with the account",
+            "paragraphs": [
+              "Chapter I first differentiates nine members, then joins two pairs for one sevenfold presentation. The sentient body/sentient soul pair is one of those joins. It later uses the same pair as the astral member in the fourfold account. Read the function of the grouping before transferring a term from another work or school of terminology. The transformation lesson will compare these schemes explicitly."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sensibilidade e corpo astral",
+        "question": "Como a base corporal da sensação difere de vivenciá-la interiormente?",
+        "experience": [
+          "Duas pessoas olham uma xícara azul. Seus olhos participam do encontro, e cada uma tem uma experiência do azul. Descrever a atividade do olho e descrever como o azul é vivenciado pela pessoa são tarefas relacionadas, mas não são a mesma descrição."
+        ],
+        "centralIdea": "Steiner distingue o corpo senciente, que medeia a sensibilidade corporal, da alma senciente, que vivencia interiormente a sensação. Em sua constituição quádrupla, corpo astral nomeia esses dois membros considerados em conjunto.",
+        "explanation": [
+          "Comece pelo percurso de um objeto até um órgão sensorial. A luz chega ao olho e ocorrem processos corporais. O argumento de Steiner é que acompanhar esses processos revela outros processos corporais, em vez do azul vivenciado interiormente enquanto tal. A organização viva também pertence a esse aspecto corporal em sua concepção. Ele apresenta a alma senciente para a atividade pela qual surge uma experiência interior. A distinção é entre as condições da experiência e a experiência vivida.",
+          "Esses aspectos, porém, precisam se relacionar. O tipo e a condição da organização sensorial afetam o que pode ser vivenciado. Steiner chama o membro mediador de corpo anímico ou corpo senciente. Ele pertence ao aspecto corporal da relação, enquanto a alma senciente diz respeito à sensação interior, ao desejo e ao impulso. Chamar ambos de sencientes não os torna sinônimos. A palavra compartilhada identifica sua ligação próxima; os substantivos diferentes preservam a distinção entre uma organização e a atividade interior relacionada a ela.",
+          "Corpo astral aparece na visão quádrupla resumida do capítulo: corpo físico, corpo vital, corpo astral e Eu. Aqui o membro astral reúne corpo senciente e alma senciente. A visão resumida ajuda a relacionar existência física, organização viva, sensibilidade e identidade pessoal sem listar todas as distinções posteriores. Isso não significa que corpo astral seja a alma inteira, o Eu ou um tipo de personalidade. Astral também não significa um corpo astronômico; o termo pertence ao vocabulário de Steiner sobre a constituição humana.",
+          "Uma pessoa pode conhecer sua própria sensação de maneira comum e ouvir outra descrever a dela. Steiner vai além ao afirmar que um órgão espiritual desenvolvido pode perceber o mundo de sensações de outra pessoa. Esse é um modo de acesso alegado e distinto, e não uma capacidade estabelecida pela observação de expressões ou pela interpretação confiante de um estado de ânimo. O exemplo comum ajuda a compreender a diferença entre mediação corporal e experiência interior. Não oferece fundamento para diagnosticar a constituição astral de alguém."
+        ],
+        "distinction": "Corpo senciente e alma senciente são membros relacionados, enquanto corpo astral os agrupa nessa concepção específica. Mudar a escala da descrição não apaga a distinção mais detalhada.",
+        "reflection": {
+          "question": "Por que corpo astral pode incluir dois membros sem tornar idênticos corpo senciente e alma senciente?",
+          "notes": [
+            "O corpo senciente diz respeito à mediação por meio da organização corporal; a alma senciente diz respeito à experiência interior. A concepção quádrupla trata sua relação próxima como um membro.",
+            "Um agrupamento descreve uma relação em escala mais ampla. Ele não fornece evidência da vida interior de outra pessoa."
+          ]
+        },
+        "takeaways": [
+          "O acontecimento sensorial e sua experiência interior devem ser distinguidos.",
+          "O corpo senciente também é chamado de corpo anímico.",
+          "Corpo astral aqui reúne corpo senciente e alma senciente.",
+          "A visão quádrupla mantém o Eu distinto.",
+          "Vivenciar sua própria sensação difere de receber o relato de outra pessoa sobre a dela."
+        ],
+        "deeper": [
+          {
+            "title": "Por que os termos mudam conforme a apresentação",
+            "paragraphs": [
+              "O capítulo I primeiro diferencia nove membros e depois reúne dois pares em uma apresentação de sete membros. O par corpo senciente/alma senciente é uma dessas uniões. Mais adiante, usa o mesmo par como membro astral na concepção quádrupla. Compreenda a função do agrupamento antes de transferir um termo de outra obra ou escola de terminologia. A lição sobre transformação comparará explicitamente essas apresentações."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "human-i",
+      "moduleId": "human-being",
+      "primaryConceptId": "human-i",
+      "termIds": [
+        "human-i",
+        "soul",
+        "spirit-self"
+      ],
+      "conceptIds": [
+        "human-i",
+        "body",
+        "soul",
+        "spirit",
+        "spirit-self",
+        "intuition"
+      ],
+      "connections": [
+        {
+          "id": "body",
+          "en": "The I acts through bodily organization without being defined by bodily appearance.",
+          "pt": "O Eu atua por meio da organização corporal sem ser definido pela aparência corporal."
+        },
+        {
+          "id": "soul",
+          "en": "The I gathers experiences and works within soul life.",
+          "pt": "O Eu reúne experiências e atua na vida anímica."
+        },
+        {
+          "id": "spirit",
+          "en": "The I can receive content whose significance exceeds personal preference.",
+          "pt": "O Eu pode receber conteúdo cujo significado ultrapassa a preferência pessoal."
+        },
+        {
+          "id": "spirit-self",
+          "en": "Spirit-self names spiritual content received and individualized through the I.",
+          "pt": "Si-mesmo espiritual nomeia conteúdo espiritual recebido e individualizado pelo Eu."
+        },
+        {
+          "id": "intuition",
+          "en": "Steiner uses intuition for spiritual revelation to the I, not a casual hunch.",
+          "pt": "Steiner usa intuição para a revelação espiritual ao Eu, e não para um palpite casual."
+        }
+      ],
+      "practiceId": null,
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            24,
+            26
+          ],
+          "readingIds": [
+            5
+          ],
+          "noteIds": [
+            4
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            26,
+            29
+          ],
+          "readingIds": [
+            24
+          ],
+          "noteIds": [
+            5
+          ]
+        }
+      ],
+      "en": {
+        "title": "The human I",
+        "question": "What does it mean to speak from an inward centre?",
+        "experience": [
+          "When you say “I heard the music,” another listener can repeat the same words, but their I refers to them. You also distinguish yourself from a passing feeling: I was irritated, then I reconsidered. This familiar difference opens the question of a centre that lives through changing experiences."
+        ],
+        "centralIdea": "Steiner describes the I as the inward centre that gathers bodily and soul experience, acts through them and opens to spiritual content. Self-reference and selfishness are different ideas.",
+        "explanation": [
+          "An object’s name can be used by anyone who points to it. I is different: used as self-reference, it names the speaker from within. Steiner uses this linguistic contrast to draw attention to an inward standpoint, not simply to a word. A person’s name, appearance, role or latest mood can describe something about them without exhausting the centre from which they experience and act. Learning to pronounce I and developing the corresponding awareness should not be confused.",
+          "The I receives the world through body and soul and can also work upon what it receives. A person may notice an impulse, consider its meaning and decide how to act. These acts remain connected with embodiment and feeling; the I is not a separate observer sitting inside the head. In Steiner’s account it is the unifying centre of the person, rather than another bodily organ. Its manifestations can change without being identical to the centre they express.",
+          "Spiritual openness gives this centre another direction. A person can recognize a reason or principle whose validity is not created by their preference, then make it part of their own life. Steiner calls spiritual content received and individualized through the I spirit-self. The content can be shared in significance while becoming individually lived. Consciousness-soul, treated later, concerns the soul’s bearing of truth; spirit-self concerns this spiritual content in its relation to the I. Their close connection does not make the terms identical.",
+          "Receiving a shared spiritual content does not erase individuality. Two people may recognize the same reason and give it different, thoughtful expression in their lives. In Steiner’s picture, the I connects receptivity with individual activity: it receives rather than invents truth, yet can make that content its own life. The spiritual transformation lesson develops the fuller spiritual constitution and the I’s work upon its members."
+        ],
+        "distinction": "I does not mean egoism. A self-conscious person can place their own advantage first or recognize a reason to act for someone else. The centre of experience and the motive of an action answer different questions.",
+        "reflection": {
+          "question": "Why does an unselfish action still involve an I?",
+          "notes": [
+            "Someone must experience, understand and act. Acting for another person can express a reason recognized by that same inward centre.",
+            "Selfhood concerns who experiences and acts; selfishness concerns giving one’s own advantage priority. Neither the word I nor an isolated action proves spiritual development."
+          ]
+        },
+        "takeaways": [
+          "The I names an inward centre, not merely a spoken word.",
+          "It gathers experience and can work within bodily and soul life.",
+          "Self-reference differs from selfish motivation.",
+          "Spirit-self concerns spiritual content individualized through the I.",
+          "Shared truth can become individually lived without becoming private opinion."
+        ],
+        "deeper": [
+          {
+            "title": "Awakening self-awareness",
+            "paragraphs": [
+              "Steiner uses Jean Paul’s remembered childhood experience to illustrate becoming aware of oneself. A recollection from one biography is not an exact universal age for this event. The source’s note distinguishes saying I from possessing the corresponding conception. Attention to that distinction avoids treating vocabulary or a particular childhood timetable as a test of someone’s I."
+            ]
+          },
+          {
+            "title": "Individualizing a shared content",
+            "paragraphs": [
+              "Understanding a principle and expressing it through one’s own life can illustrate how common significance and individuality coexist. Steiner’s spirit-self is a stronger spiritual claim than this illustration: he describes spiritual revelation to the I. The example clarifies the relationship without claiming that following a useful principle establishes spiritual perception."
+            ]
+          },
+          {
+            "title": "Intuition and the differentiated spirit",
+            "paragraphs": [
+              "Steiner uses intuition for spiritual revelation to the I, contrasted with sensory revelation, rather than an everyday hunch. The supplied Note 5 relates its lowest manifestation to spirit-self and its fuller meaning to supersensible knowledge. He further names life-spirit and spirit-man through spiritual life, nourishment and independent spiritual being; these relationships are taught in the transformation lesson."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "O Eu humano",
+        "question": "O que significa falar a partir de um centro interior?",
+        "experience": [
+          "Quando você diz “eu ouvi a música”, outra pessoa pode repetir as mesmas palavras, mas seu eu se refere a ela. Você também se distingue de um sentimento passageiro: eu estava irritado, depois reconsiderei. Essa diferença familiar abre a pergunta sobre um centro que vive através de experiências em transformação."
+        ],
+        "centralIdea": "Steiner descreve o Eu como o centro interior que reúne experiências corporais e anímicas, atua por meio delas e se abre ao conteúdo espiritual. Referência a si e egoísmo são ideias diferentes.",
+        "explanation": [
+          "O nome de um objeto pode ser usado por qualquer pessoa que aponte para ele. Eu é diferente: usado como referência a si, nomeia quem fala a partir de dentro. Steiner usa esse contraste linguístico para chamar atenção a um ponto de vista interior, e não apenas a uma palavra. Nome, aparência, papel social ou estado de ânimo recente podem descrever algo sobre uma pessoa sem esgotar o centro a partir do qual ela vivencia e age. Aprender a pronunciar eu e desenvolver a consciência correspondente não devem ser confundidos.",
+          "O Eu recebe o mundo por meio do corpo e da alma e também pode atuar sobre o que recebe. Uma pessoa pode perceber um impulso, considerar seu significado e decidir como agir. Esses atos continuam ligados à existência corporal e ao sentimento; o Eu não é um observador separado sentado dentro da cabeça. Na concepção de Steiner, é o centro unificador da pessoa, e não outro órgão corporal. Suas manifestações podem mudar sem serem idênticas ao centro que expressam.",
+          "A abertura espiritual dá outra direção a esse centro. Uma pessoa pode reconhecer uma razão ou um princípio cuja validade não é criada por sua preferência e depois torná-lo parte de sua própria vida. Steiner chama de si-mesmo espiritual o conteúdo espiritual recebido e individualizado pelo Eu. O conteúdo pode ter significado compartilhável e ser vivido individualmente. A alma da consciência, tratada adiante, diz respeito à alma que porta a verdade; si-mesmo espiritual diz respeito a esse conteúdo espiritual em sua relação com o Eu. Sua ligação próxima não torna os termos idênticos.",
+          "Receber um conteúdo espiritual compartilhado não apaga a individualidade. Duas pessoas podem reconhecer a mesma razão e lhe dar expressões diferentes e refletidas em suas vidas. Na visão de Steiner, o Eu liga receptividade e atividade individual: recebe, em vez de inventar, a verdade, mas pode tornar esse conteúdo sua própria vida. A lição sobre transformação espiritual desenvolve a constituição espiritual mais ampla e o trabalho do Eu sobre seus membros."
+        ],
+        "distinction": "Eu não significa egoísmo. Uma pessoa consciente de si pode colocar a própria vantagem em primeiro lugar ou reconhecer uma razão para agir em favor de outra. O centro da experiência e o motivo de uma ação respondem a perguntas diferentes.",
+        "reflection": {
+          "question": "Por que uma ação sem egoísmo ainda envolve um Eu?",
+          "notes": [
+            "Alguém precisa vivenciar, compreender e agir. Agir em favor de outra pessoa pode expressar uma razão reconhecida por esse mesmo centro interior.",
+            "Identidade pessoal diz respeito a quem vivencia e age; egoísmo diz respeito a priorizar a própria vantagem. Nem a palavra eu nem um ato isolado comprovam desenvolvimento espiritual."
+          ]
+        },
+        "takeaways": [
+          "O Eu nomeia um centro interior, e não apenas uma palavra pronunciada.",
+          "Ele reúne experiências e pode atuar na vida corporal e anímica.",
+          "Referência a si difere de motivação egoísta.",
+          "Si-mesmo espiritual diz respeito a conteúdo espiritual individualizado pelo Eu.",
+          "Uma verdade compartilhada pode ser vivida individualmente sem se tornar uma opinião privada."
+        ],
+        "deeper": [
+          {
+            "title": "Despertar da consciência de si",
+            "paragraphs": [
+              "Steiner usa uma experiência infantil lembrada por Jean Paul para ilustrar a tomada de consciência de si. Uma recordação de uma biografia não é uma idade universal exata para esse acontecimento. A nota da fonte distingue dizer eu de possuir a concepção correspondente. Atentar a essa distinção evita tratar vocabulário ou um cronograma infantil específico como teste do Eu de alguém."
+            ]
+          },
+          {
+            "title": "Individualizar um conteúdo compartilhado",
+            "paragraphs": [
+              "Compreender um princípio e expressá-lo na própria vida pode ilustrar como significado comum e individualidade coexistem. O si-mesmo espiritual de Steiner é uma afirmação espiritual mais forte do que essa ilustração: ele descreve revelação espiritual ao Eu. O exemplo esclarece a relação sem afirmar que seguir um princípio útil estabelece percepção espiritual."
+            ]
+          },
+          {
+            "title": "Intuição e espírito diferenciado",
+            "paragraphs": [
+              "Steiner usa intuição para a revelação espiritual ao Eu, em contraste com a revelação sensorial, e não para um palpite cotidiano. A Nota 5 fornecida relaciona sua manifestação mais elementar ao si-mesmo espiritual e seu sentido mais pleno ao conhecimento suprassensível. Ele também nomeia espírito vital e homem-espírito por meio de vida espiritual, nutrição e ser espiritual independente; essas relações são ensinadas na lição sobre transformação."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "sentient-soul",
+      "moduleId": "soul-life",
+      "primaryConceptId": "sentient-soul",
+      "termIds": [
+        "sentient-soul",
+        "sentient-body",
+        "soul"
+      ],
+      "conceptIds": [
+        "sentient-soul",
+        "sentient-body",
+        "soul",
+        "astral-body",
+        "feeling",
+        "willing",
+        "mind-soul"
+      ],
+      "connections": [
+        {
+          "id": "sentient-body",
+          "en": "The sentient soul’s activity depends on bodily mediation.",
+          "pt": "A atividade da alma senciente depende da mediação corporal."
+        },
+        {
+          "id": "soul",
+          "en": "Sentient soul differentiates the inward life already introduced as soul.",
+          "pt": "Alma senciente diferencia a vida interior já apresentada como alma."
+        },
+        {
+          "id": "astral-body",
+          "en": "The fourfold astral member joins sentient soul with sentient body.",
+          "pt": "O membro astral da visão quádrupla reúne alma senciente e corpo senciente."
+        },
+        {
+          "id": "feeling",
+          "en": "Pleasure and aversion give sensation personal significance.",
+          "pt": "Prazer e aversão dão significado pessoal à sensação."
+        },
+        {
+          "id": "willing",
+          "en": "An inward impulse can find expression in action.",
+          "pt": "Um impulso interior pode encontrar expressão na ação."
+        },
+        {
+          "id": "mind-soul",
+          "en": "Thinking can enter this life and organize its responses.",
+          "pt": "O pensar pode entrar nessa vida e organizar suas respostas."
+        }
+      ],
+      "practiceId": "sensation-and-response",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            16,
+            17
+          ],
+          "readingIds": [
+            2
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            20,
+            22
+          ],
+          "readingIds": [
+            23
+          ]
+        }
+      ],
+      "en": {
+        "title": "The sentient soul",
+        "question": "How does a sensation become part of your inward life?",
+        "experience": [
+          "You enter a bakery, notice the smell of bread and feel a desire to eat. Another person may find the same smell unappealing. The surroundings supply an occasion; sensation, pleasure and desire make it an individually lived encounter."
+        ],
+        "centralIdea": "Steiner calls the inward activity of sensation and its related pleasures, aversions, desires and impulses sentient soul. It is connected with the body, yet names experience as lived rather than bodily organization.",
+        "explanation": [
+          "Sensation is already an inward event in this account. The smell of bread is not just material moving through the air; it is also something experienced by someone. Pleasure can follow, and desire can turn attention toward a possible action. Steiner includes these connected stirrings under sentient soul. Sentient therefore means more than detecting a stimulus. It includes the personal life that awakens in response to the world.",
+          "This inward life depends on bodily conditions. A different sensory capacity or physical condition can change the encounter. Steiner relates the sentient soul to the physical and life bodies through the sentient body. Dependence is not identity: the organization through which an experience is possible and the experience itself remain distinguishable. The term sentient soul answers what is inwardly lived, while sentient body answers how this life is connected with embodiment.",
+          "Feeling and willing extend the response. Pleasure gives the smell a significance for me; reaching for bread may express the desire outwardly. Yet experiencing a desire does not make its fulfillment inevitable. Thought can enter, compare possibilities and give a reason to act or wait. The following soul lessons examine this development. They do not divide people into those who merely feel and those who think: several functions can be active in one encounter.",
+          "Steiner treats the sentient soul as a real member of the human being, not simply a convenient name for a report. He also claims a supersensible observer can perceive another’s sensation-world. Our ordinary access is different: we experience our own responses and learn about another’s through communication and context. This encourages careful listening rather than certainty that an expression reveals everything someone feels. The everyday example clarifies the concept without establishing the claimed spiritual mode of access."
+        ],
+        "distinction": "Sentient soul is not a temperament label or a judgment that emotion is inferior. It names a necessary dimension of inward experience that can be permeated by thought and spiritual content.",
+        "reflection": {
+          "question": "How do smell, pleasure, desire and action differ in the bakery example?",
+          "notes": [
+            "The smell is experienced; pleasure gives it personal significance; desire inclines toward an outcome; action expresses an impulse outwardly. These aspects can be closely connected without being identical.",
+            "A reason to wait shows how thinking can enter the response. No diagnosis of a soul member follows from a single observed action."
+          ]
+        },
+        "takeaways": [
+          "Sentient soul includes sensation and related inward stirrings.",
+          "Bodily dependence does not erase the distinction from sentient body.",
+          "Desire and the action that may express it are different.",
+          "The three soul functions can work within one person and encounter."
+        ],
+        "deeper": [
+          {
+            "title": "An inward world and another person",
+            "paragraphs": [
+              "Steiner distinguishes having one’s own sensations from spiritually seeing another’s. Ordinary conversation can improve an interpretation, but it is not the higher organ he describes. A careful course response leaves room for correction: an apparent dislike may concern an association or circumstance that the observer has not understood."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "A alma senciente",
+        "question": "Como uma sensação se torna parte de sua vida interior?",
+        "experience": [
+          "Você entra em uma padaria, percebe o cheiro de pão e sente vontade de comer. Outra pessoa pode achar o mesmo cheiro desagradável. O ambiente oferece uma ocasião; sensação, prazer e desejo tornam o encontro individualmente vivido."
+        ],
+        "centralIdea": "Steiner chama de alma senciente a atividade interior da sensação e dos prazeres, aversões, desejos e impulsos relacionados a ela. Ela se liga ao corpo, mas nomeia a experiência vivida, e não a organização corporal.",
+        "explanation": [
+          "A sensação já é um acontecimento interior nessa concepção. O cheiro de pão não é apenas matéria que se move pelo ar; é também algo vivenciado por alguém. O prazer pode surgir, e o desejo pode dirigir a atenção para uma possível ação. Steiner inclui esses movimentos relacionados na alma senciente. Senciente, portanto, significa mais do que detectar um estímulo. Inclui a vida pessoal que desperta em resposta ao mundo.",
+          "Essa vida interior depende de condições corporais. Uma capacidade sensorial ou condição física diferente pode mudar o encontro. Steiner relaciona a alma senciente aos corpos físico e vital por meio do corpo senciente. Dependência não é identidade: a organização pela qual uma experiência se torna possível e a própria experiência continuam distinguíveis. O termo alma senciente responde ao que é vivido interiormente, enquanto corpo senciente responde a como essa vida se liga à existência corporal.",
+          "O sentir e o querer ampliam a resposta. O prazer dá ao cheiro um significado para mim; estender a mão para pegar o pão pode expressar o desejo exteriormente. Contudo, vivenciar um desejo não torna inevitável satisfazê-lo. O pensar pode entrar, comparar possibilidades e oferecer uma razão para agir ou esperar. As próximas lições sobre a alma examinam esse desenvolvimento. Elas não dividem as pessoas entre as que apenas sentem e as que pensam: várias funções podem atuar em um mesmo encontro.",
+          "Steiner trata a alma senciente como um membro real do ser humano, e não simplesmente como nome conveniente para um relato. Também afirma que um observador suprassensível pode perceber o mundo de sensações de outra pessoa. Nosso acesso comum é diferente: vivenciamos nossas respostas e aprendemos sobre as de outra pessoa pela comunicação e pelo contexto. Isso favorece uma escuta cuidadosa, em vez da certeza de que uma expressão revela tudo o que alguém sente. O exemplo cotidiano esclarece o conceito sem estabelecer o modo espiritual de acesso alegado."
+        ],
+        "distinction": "Alma senciente não é um rótulo de temperamento nem um julgamento de que a emoção seja inferior. Nomeia uma dimensão necessária da experiência interior que pode ser permeada pelo pensar e pelo conteúdo espiritual.",
+        "reflection": {
+          "question": "Como cheiro, prazer, desejo e ação diferem no exemplo da padaria?",
+          "notes": [
+            "O cheiro é vivenciado; o prazer lhe dá significado pessoal; o desejo inclina para um resultado; a ação expressa exteriormente um impulso. Esses aspectos podem estar intimamente ligados sem serem idênticos.",
+            "Uma razão para esperar mostra como o pensar pode entrar na resposta. Nenhum diagnóstico de um membro da alma decorre de um único ato observado."
+          ]
+        },
+        "takeaways": [
+          "A alma senciente inclui sensação e movimentos interiores relacionados.",
+          "A dependência corporal não apaga a distinção em relação ao corpo senciente.",
+          "O desejo e a ação que pode expressá-lo são diferentes.",
+          "As três funções da alma podem atuar em uma mesma pessoa e encontro."
+        ],
+        "deeper": [
+          {
+            "title": "Um mundo interior e outra pessoa",
+            "paragraphs": [
+              "Steiner distingue ter as próprias sensações de ver espiritualmente as de outra pessoa. Uma conversa comum pode melhorar uma interpretação, mas não é o órgão superior que ele descreve. Uma resposta cuidadosa no curso deixa espaço para correção: uma aparente aversão pode dizer respeito a uma associação ou circunstância que o observador não compreendeu."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "mind-soul",
+      "moduleId": "soul-life",
+      "primaryConceptId": "mind-soul",
+      "termIds": [
+        "mind-soul",
+        "sentient-soul",
+        "consciousness-soul"
+      ],
+      "conceptIds": [
+        "mind-soul",
+        "sentient-soul",
+        "consciousness-soul",
+        "thinking",
+        "human-i"
+      ],
+      "connections": [
+        {
+          "id": "sentient-soul",
+          "en": "The mind-soul brings thought into sensation, desire and personal concerns.",
+          "pt": "A alma intelectual traz o pensar para a sensação, o desejo e as questões pessoais."
+        },
+        {
+          "id": "consciousness-soul",
+          "en": "Thinking can seek a criterion beyond the preferred outcome.",
+          "pt": "O pensar pode buscar um critério além do resultado preferido."
+        },
+        {
+          "id": "thinking",
+          "en": "Ordered thought gives experiences and actions a reasoned connection.",
+          "pt": "O pensar ordenado dá às experiências e às ações uma conexão fundamentada."
+        },
+        {
+          "id": "human-i",
+          "en": "Mind-soul and consciousness-soul jointly bear the I in the compact constitution.",
+          "pt": "Alma intelectual e alma da consciência conjuntamente portam o Eu na constituição resumida."
+        }
+      ],
+      "practiceId": "reasons-and-preferences",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            22,
+            24
+          ],
+          "readingIds": [
+            4
+          ],
+          "noteIds": [
+            3
+          ]
+        }
+      ],
+      "en": {
+        "title": "The intellectual or mind soul",
+        "question": "How does thinking change the way we meet our needs?",
+        "experience": [
+          "You want to visit a friend. You compare travel times, cost and a promise to arrive before dinner. Thinking connects your wish with circumstances and a possible plan. It may also ask whether your preferred plan is actually reasonable."
+        ],
+        "centralIdea": "Steiner’s intellectual-soul brings thinking into the life of sensation and desire. It gives personal experience coherence and organizes action, while opening the possibility of understanding beyond immediate preference.",
+        "explanation": [
+          "A desire by itself does not contain a workable route to its fulfillment. Thought compares a situation, remembers what happened before and relates means to an end. The visit may require leaving earlier or choosing a different route. Steiner points to everyday inventions and practical arrangements as thought serving personal needs. This service is not trivial: it changes an immediate response into a more connected way of living.",
+          "Intellectual here names a function of soul life, not a level of schooling or a person who prefers abstract debate. The thinking may concern something quite practical. It permeates the sentient soul, rather than replacing sensation and feeling. A person can still care warmly about the visit while reasoning about it. Clear thinking and feeling need not be enemies; an understanding can give feeling a more exact relation to its situation.",
+          "Thinking can also remain entangled with what we want. We may select convenient facts or defend the first plan simply because it is ours. A well-organized argument can serve a preferred outcome while leaving its assumptions unexamined. This is why the next distinction matters: does thought merely help me get what I want, or does it allow what is true and good to revise what I want? Steiner develops that second direction through consciousness-soul.",
+          "These functions are interpenetrating relationships, not sealed containers. The same travel question can involve desire, calculation, consideration for another and recognition of a valid reason. Steiner differentiates the functions to explain what thought is doing. The I lives through the soul as a whole; in his compact account, intellectual-soul and consciousness-soul together bear it. Describing a function therefore does not define the entire person or establish a spiritual rank."
+        ],
+        "distinction": "A clever plan and a true judgment are different achievements. Thought can organize means effectively while the aim or assumptions still need examination.",
+        "reflection": {
+          "question": "Can a carefully reasoned plan still be guided by an unexamined preference?",
+          "notes": [
+            "Yes. A person may compare routes accurately while refusing to reconsider a selfish or impractical aim. Effective organization does not settle the value of the aim.",
+            "Steiner’s distinction asks how thought relates to desire and to independent criteria. It is not a classification of educated and uneducated people."
+          ]
+        },
+        "takeaways": [
+          "The intellectual-soul brings thought into personal life.",
+          "Practical reasoning is a genuine instance of this function.",
+          "Thought can serve a wish while leaving its aim unexamined.",
+          "The next question is what can justify changing the wish or judgment."
+        ],
+        "deeper": [
+          {
+            "title": "Source terminology and animals",
+            "paragraphs": [
+              "The Shields translation calls this member intellectual-soul and also emotional thought-soul. Mind-soul is a familiar course label for the same member here, not an extra fourth soul. The source’s Note 3 also qualifies its animal comparison: Steiner does not deny thought within animal experience, but attributes it to a group ego rather than an independently living human-style I. That is his spiritual account, not a modern finding established by observing animal behaviour."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "A alma intelectual ou da razão",
+        "question": "Como o pensar muda a maneira de atender às nossas necessidades?",
+        "experience": [
+          "Você quer visitar uma pessoa amiga. Compara tempo de viagem, custo e uma promessa de chegar antes do jantar. O pensar liga seu desejo às circunstâncias e a um plano possível. Ele também pode perguntar se o plano preferido é realmente razoável."
+        ],
+        "centralIdea": "A alma intelectual de Steiner traz o pensar para a vida de sensação e desejo. Dá coerência à experiência pessoal e organiza a ação, abrindo a possibilidade de compreender além da preferência imediata.",
+        "explanation": [
+          "Um desejo, por si só, não contém um caminho viável para sua realização. O pensar compara uma situação, lembra o que aconteceu antes e relaciona meios a um fim. A visita pode exigir sair mais cedo ou escolher outro trajeto. Steiner aponta invenções cotidianas e arranjos práticos como o pensar a serviço das necessidades pessoais. Esse serviço não é trivial: transforma uma resposta imediata em um modo de viver mais conectado.",
+          "Intelectual aqui nomeia uma função da vida anímica, e não um nível de escolaridade ou uma pessoa que prefere debates abstratos. O pensar pode tratar de algo bastante prático. Ele permeia a alma senciente, em vez de substituir sensação e sentimento. Uma pessoa pode continuar a sentir afeto pela visita enquanto raciocina sobre ela. Pensar claro e sentimento não precisam ser inimigos; uma compreensão pode dar ao sentimento uma relação mais precisa com sua situação.",
+          "O pensar também pode continuar envolvido com o que desejamos. Podemos selecionar fatos convenientes ou defender o primeiro plano simplesmente porque é nosso. Um argumento bem organizado pode servir a um resultado preferido e deixar suas suposições sem exame. Por isso a próxima distinção importa: o pensar apenas me ajuda a obter o que quero ou permite que o verdadeiro e o bom revisem o que quero? Steiner desenvolve essa segunda direção por meio da alma da consciência.",
+          "Essas funções são relações que se interpenetram, e não recipientes fechados. A mesma questão de viagem pode envolver desejo, cálculo, consideração por outra pessoa e reconhecimento de uma razão válida. Steiner diferencia as funções para explicar o que o pensar está fazendo. O Eu vive na alma inteira; em sua apresentação resumida, alma intelectual e alma da consciência conjuntamente o portam. Descrever uma função, portanto, não define a pessoa inteira nem estabelece uma posição espiritual."
+        ],
+        "distinction": "Um plano engenhoso e um julgamento verdadeiro são realizações diferentes. O pensar pode organizar meios de maneira eficaz enquanto o objetivo ou as suposições ainda precisam de exame.",
+        "reflection": {
+          "question": "Um plano cuidadosamente fundamentado ainda pode ser guiado por uma preferência não examinada?",
+          "notes": [
+            "Sim. Uma pessoa pode comparar trajetos corretamente e recusar reconsiderar um objetivo egoísta ou impraticável. A organização eficaz não resolve o valor do objetivo.",
+            "A distinção de Steiner pergunta como o pensar se relaciona ao desejo e a critérios independentes. Não é uma classificação de pessoas escolarizadas e não escolarizadas."
+          ]
+        },
+        "takeaways": [
+          "A alma intelectual traz o pensar para a vida pessoal.",
+          "O raciocínio prático é um exemplo real dessa função.",
+          "O pensar pode servir a um desejo e deixar seu objetivo sem exame.",
+          "A pergunta seguinte é o que pode justificar mudar o desejo ou o julgamento."
+        ],
+        "deeper": [
+          {
+            "title": "Terminologia da fonte e animais",
+            "paragraphs": [
+              "A tradução de Shields chama esse membro de alma intelectual e também usa uma expressão que reúne emoção e pensamento. Alma da razão é um rótulo conhecido usado no curso para o mesmo membro, e não uma quarta alma adicional. A Nota 3 da fonte também qualifica a comparação com animais: Steiner não nega pensamento na experiência animal, mas o atribui a um Eu de grupo, e não a um Eu independente do tipo humano. Essa é sua concepção espiritual, e não uma conclusão moderna estabelecida pela observação do comportamento animal."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "consciousness-soul",
+      "moduleId": "soul-life",
+      "primaryConceptId": "consciousness-soul",
+      "termIds": [
+        "consciousness-soul",
+        "mind-soul",
+        "spirit-self"
+      ],
+      "conceptIds": [
+        "consciousness-soul",
+        "mind-soul",
+        "sentient-soul",
+        "spirit",
+        "spirit-self",
+        "human-i",
+        "thinking",
+        "freedom"
+      ],
+      "connections": [
+        {
+          "id": "mind-soul",
+          "en": "The consciousness-soul differentiates the search for truth from thought serving preference.",
+          "pt": "A alma da consciência diferencia a busca da verdade do pensar a serviço da preferência."
+        },
+        {
+          "id": "sentient-soul",
+          "en": "Feeling can accompany understanding without deciding whether it is true.",
+          "pt": "O sentimento pode acompanhar a compreensão sem decidir se ela é verdadeira."
+        },
+        {
+          "id": "spirit",
+          "en": "Truth and goodness connect soul life with spiritual significance in Steiner’s account.",
+          "pt": "Na concepção de Steiner, verdade e bem ligam a vida anímica ao significado espiritual."
+        },
+        {
+          "id": "spirit-self",
+          "en": "Consciousness-soul bears truth; spirit-self concerns that same truth individualized through the I.",
+          "pt": "A alma da consciência porta a verdade; o si-mesmo espiritual diz respeito a essa mesma verdade individualizada pelo Eu."
+        },
+        {
+          "id": "human-i",
+          "en": "Steiner places the I’s highest soul manifestation in consciousness-soul.",
+          "pt": "Steiner situa na alma da consciência a manifestação mais elevada do Eu na alma."
+        },
+        {
+          "id": "thinking",
+          "en": "A claim must be examined rather than made true by conviction.",
+          "pt": "Uma afirmação precisa ser examinada, em vez de se tornar verdadeira pela convicção."
+        },
+        {
+          "id": "freedom",
+          "en": "Recognizing a reason differs from acting under an imposed opinion.",
+          "pt": "Reconhecer uma razão difere de agir sob uma opinião imposta."
+        }
+      ],
+      "practiceId": "reasons-and-preferences",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            23,
+            24
+          ],
+          "readingIds": [
+            4
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            26,
+            26
+          ],
+          "readingIds": [
+            5,
+            24
+          ]
+        }
+      ],
+      "en": {
+        "title": "The consciousness-soul",
+        "question": "What can make a judgment valid when you would prefer something else?",
+        "experience": [
+          "You are pleased with a calculation until someone points out an error. Disappointment is real, yet it does not make the old answer correct. Acknowledging the correction distinguishes your response to a result from the reasons that support it."
+        ],
+        "centralIdea": "Steiner calls the soul’s bearing of truth and goodness with significance independent of personal liking consciousness-soul. It is a particular function of the soul, not merely being awake or aware.",
+        "explanation": [
+          "A thought can delight us, disappoint us or leave us indifferent. Those responses belong to our inward life. Whether its content is true requires a different criterion. Steiner argues that truth concerns the thing understood and retains its significance beyond the pleasure of the person thinking it. Changing a mistaken conception does not mean that truth itself was created by our earlier satisfaction or destroyed by our disappointment.",
+          "He applies a related distinction to goodness. A reason to keep a promise or treat another fairly may oppose a present inclination. In his account, the morally good has significance that is not commanded by liking or aversion. This does not make any opinion called duty automatically right. A person still needs to understand what is being recognized. The ordinary example illustrates a question about motives and justification; Steiner’s claim about the eternal significance of truth and goodness goes further.",
+          "Consciousness-soul names this spiritual significance becoming alive within the soul. It does not name all consciousness: Steiner explicitly includes ordinary sensation and animal consciousness in a broader use of that word. Nor is the function a demand to eliminate feeling. A person can feel joy in a correct understanding, and an inclination can become consonant with a recognized good. The important distinction is that feeling does not create the criterion of truth or goodness.",
+          "Consciousness-soul and spirit-self are closely related but have different explanatory roles. The first bears truth with significance independent of sympathy and antipathy. The second concerns the same spiritual content received and individualized through the I. Individualization means becoming the spiritual life of this person, not changing truth into a private opinion. Steiner joins the two in one sevenfold grouping while preserving their distinction in the finer account. The transformation lesson will show why both descriptions are useful."
+        ],
+        "distinction": "Consciousness-soul is not ordinary consciousness, emotional numbness or certainty that one is right. Its defining relationship is to truth and goodness beyond personal preference.",
+        "reflection": {
+          "question": "What remains different between feeling certain, understanding a reason and being correct?",
+          "notes": [
+            "Certainty is an experienced state. Understanding follows a reason. Correctness concerns whether the reason and judgment hold. The three can coincide, but one does not guarantee the others.",
+            "The source’s consciousness-soul concerns truth becoming alive in soul life, not a license to declare personal conviction spiritually authoritative."
+          ]
+        },
+        "takeaways": [
+          "Consciousness-soul has a more specific meaning than ordinary awareness.",
+          "A response to a claim differs from the reasons for accepting it.",
+          "Steiner attributes independent significance to truth and goodness.",
+          "Feeling can accompany understanding without determining validity.",
+          "Consciousness-soul and spirit-self relate to the same truth in different ways."
+        ],
+        "deeper": [
+          {
+            "title": "The three soul functions together",
+            "paragraphs": [
+              "An unpleasant message can evoke a response, provoke a plan and lead to reconsideration in light of a sound reason. Sentient-soul, intellectual-soul and consciousness-soul distinguish these functions without dividing the person. Steiner describes them as interpenetrating; the distinctions are not rigid personality types, anatomical layers or a timetable by which to judge another person."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "A alma da consciência",
+        "question": "O que pode tornar válido um julgamento quando você preferiria outra coisa?",
+        "experience": [
+          "Você está satisfeito com um cálculo até alguém apontar um erro. A decepção é real, mas não torna correta a resposta antiga. Reconhecer a correção distingue sua reação ao resultado das razões que o sustentam."
+        ],
+        "centralIdea": "Steiner chama de alma da consciência a função da alma que porta verdade e bem com significado independente do gosto pessoal. É uma função específica da alma, e não simplesmente estar acordado ou consciente.",
+        "explanation": [
+          "Um pensamento pode nos alegrar, decepcionar ou deixar indiferentes. Essas respostas pertencem à nossa vida interior. Determinar se seu conteúdo é verdadeiro exige outro critério. Steiner argumenta que a verdade diz respeito à coisa compreendida e conserva seu significado além do prazer de quem a pensa. Mudar uma concepção equivocada não significa que a própria verdade tenha sido criada por nossa satisfação anterior ou destruída por nossa decepção.",
+          "Ele aplica uma distinção relacionada ao bem. Uma razão para cumprir uma promessa ou tratar outra pessoa com justiça pode contrariar uma inclinação presente. Em sua concepção, o moralmente bom tem significado que não é comandado pelo gosto ou pela aversão. Isso não torna automaticamente correta qualquer opinião chamada de dever. A pessoa ainda precisa compreender o que está reconhecendo. O exemplo comum ilustra uma questão de motivos e justificação; a afirmação de Steiner sobre o significado eterno da verdade e do bem vai além.",
+          "Alma da consciência nomeia esse significado espiritual tornando-se vivo na alma. Não nomeia toda consciência: Steiner inclui explicitamente a sensação comum e a consciência animal em um uso mais amplo dessa palavra. A função também não exige eliminar o sentimento. Uma pessoa pode sentir alegria em uma compreensão correta, e uma inclinação pode entrar em harmonia com um bem reconhecido. A distinção importante é que o sentimento não cria o critério da verdade ou do bem.",
+          "Alma da consciência e si-mesmo espiritual estão intimamente relacionados, mas têm papéis explicativos diferentes. A primeira porta a verdade com significado independente de simpatia e antipatia. O segundo diz respeito ao mesmo conteúdo espiritual recebido e individualizado pelo Eu. Individualização significa tornar-se a vida espiritual desta pessoa, e não transformar a verdade em opinião privada. Steiner reúne os dois em um agrupamento de sete membros e preserva sua distinção na apresentação mais detalhada. A lição sobre transformação mostrará por que ambas as descrições são úteis."
+        ],
+        "distinction": "Alma da consciência não é consciência comum, insensibilidade emocional ou certeza de estar certo. Sua relação definidora é com verdade e bem além da preferência pessoal.",
+        "reflection": {
+          "question": "O que continua diferente entre sentir certeza, compreender uma razão e estar correto?",
+          "notes": [
+            "Certeza é um estado vivenciado. Compreender é acompanhar uma razão. A correção depende de a razão e o julgamento se sustentarem. Os três podem coincidir, mas um não garante os outros.",
+            "A alma da consciência da fonte diz respeito à verdade tornando-se viva na vida anímica, e não a uma licença para declarar que uma convicção pessoal tem autoridade espiritual."
+          ]
+        },
+        "takeaways": [
+          "Alma da consciência tem um significado mais específico do que consciência comum.",
+          "Uma reação a uma afirmação difere das razões para aceitá-la.",
+          "Steiner atribui significado independente à verdade e ao bem.",
+          "O sentimento pode acompanhar a compreensão sem determinar a validade.",
+          "Alma da consciência e si-mesmo espiritual se relacionam à mesma verdade de maneiras diferentes."
+        ],
+        "deeper": [
+          {
+            "title": "As três funções da alma em conjunto",
+            "paragraphs": [
+              "Uma mensagem desagradável pode despertar uma reação, provocar um plano e levar à reconsideração diante de uma razão válida. Alma senciente, alma intelectual e alma da consciência distinguem essas funções sem dividir a pessoa. Steiner as descreve como interpenetrantes; as distinções não são tipos rígidos de personalidade, camadas anatômicas ou um cronograma para julgar outra pessoa."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "spiritual-transformation",
+      "moduleId": "soul-life",
+      "primaryConceptId": "spiritual-transformation",
+      "termIds": [
+        "spiritual-transformation",
+        "spirit-self",
+        "life-spirit",
+        "spirit-man",
+        "human-i"
+      ],
+      "conceptIds": [
+        "spiritual-transformation",
+        "human-i",
+        "physical-body",
+        "etheric-body",
+        "sentient-body",
+        "astral-body",
+        "sentient-soul",
+        "mind-soul",
+        "consciousness-soul",
+        "spirit-self",
+        "life-spirit",
+        "spirit-man"
+      ],
+      "connections": [
+        {
+          "id": "human-i",
+          "en": "The I receives spiritual content and works through the constitution.",
+          "pt": "O Eu recebe conteúdo espiritual e atua através da constituição."
+        },
+        {
+          "id": "astral-body",
+          "en": "Spirit-self is described as the transformed astral aspect.",
+          "pt": "O si-mesmo espiritual é descrito como o aspecto astral transformado."
+        },
+        {
+          "id": "etheric-body",
+          "en": "Life-spirit is described as the transformed life-body aspect.",
+          "pt": "O espírito vital é descrito como o aspecto transformado do corpo vital."
+        },
+        {
+          "id": "physical-body",
+          "en": "Spirit-man is described as the spiritually transformed physical aspect.",
+          "pt": "O homem-espírito é descrito como o aspecto físico transformado espiritualmente."
+        },
+        {
+          "id": "sentient-body",
+          "en": "The first sevenfold scheme joins sentient body with sentient soul.",
+          "pt": "A primeira apresentação de sete membros reúne corpo senciente e alma senciente."
+        },
+        {
+          "id": "sentient-soul",
+          "en": "Inward impulses can be illuminated by spiritual content through the I.",
+          "pt": "Impulsos interiores podem ser iluminados por conteúdo espiritual através do Eu."
+        },
+        {
+          "id": "mind-soul",
+          "en": "Mind-soul remains explicit in the first sevenfold grouping.",
+          "pt": "A alma intelectual permanece explícita no primeiro agrupamento de sete membros."
+        },
+        {
+          "id": "consciousness-soul",
+          "en": "The first grouping joins consciousness-soul with spirit-self.",
+          "pt": "O primeiro agrupamento reúne alma da consciência e si-mesmo espiritual."
+        },
+        {
+          "id": "spirit-self",
+          "en": "Spirit-self concerns spiritual content individualized in the I.",
+          "pt": "O si-mesmo espiritual diz respeito a conteúdo espiritual individualizado no Eu."
+        },
+        {
+          "id": "life-spirit",
+          "en": "Life-spirit concerns the life of the independent spiritual being.",
+          "pt": "O espírito vital diz respeito à vida do ser espiritual independente."
+        },
+        {
+          "id": "spirit-man",
+          "en": "Spirit-man concerns independent spiritual being within its spiritual sheath.",
+          "pt": "O homem-espírito diz respeito ao ser espiritual independente em seu envoltório espiritual."
+        }
+      ],
+      "practiceId": null,
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            26,
+            29
+          ],
+          "readingIds": [
+            24
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            29,
+            31
+          ],
+          "readingIds": [
+            6
+          ]
+        }
+      ],
+      "en": {
+        "title": "Spiritual transformation",
+        "question": "How does development change the relationship between the I and its constitution?",
+        "experience": [
+          "Someone notices a familiar impulse to answer sharply, understands a reason to listen and gradually changes the response. An impulse remains something experienced, while its relation to understanding changes. This can introduce transformation as a question; it does not establish the spiritual transformations Steiner describes."
+        ],
+        "centralIdea": "Steiner describes spiritual transformation through the I’s reception of spirit: astral body relates to spirit-self, life body to life-spirit and physical body to spirit-man. This developmental presentation differs from simply grouping existing distinctions.",
+        "explanation": [
+          "The three spiritual members require their own meanings. Spirit-self is spiritual content received and individualized within the I. Spirit-man is the independent spiritual being, described through a spiritual sheath and its relation to the surrounding spiritual world. Life-spirit names the spiritual life through which this being is sustained and formed. Steiner introduces nourishment and embodiment correspondences to explain these relationships. They are asserted spiritual realities, not merely three admirable habits or ordinary physical vitality.",
+          "In the developmental account, the I receives spirit and works upon its constitution. Spiritual content illuminates impulses, desires and passions: the transformed astral aspect is called spirit-self. Steiner explicitly retains transformed and untransformed aspects together, so development is not an all-or-nothing replacement. He likewise describes life-spirit as transformed life body and spirit-man as transformed physical body. These are three correspondences through the I, not a chain in which one body mechanically causes the next.",
+          "This also changes how we read the constitution lists. The fine account differentiates nine members: three bodily, three soul and three spiritual members. A first sevenfold presentation joins sentient body with sentient soul and consciousness-soul with spirit-self. It still names intellectual-soul; it does not substitute the I for every soul function. A compact fourfold presentation instead gives physical body, life body, astral body and I, with astral here grouping sentient body and sentient soul. Each arrangement answers a particular explanatory question.",
+          "The final sevenfold presentation extends that fourfold view with the three transformed counterparts. It differs from the earlier sevenfold grouping even though both contain seven entries. One groups closely united members; the other makes the I and transformation explicit. The tables preserve both lists. Their numbering does not describe seven floors, seven age periods or a spiritual score. The members interpenetrate and belong to one human being.",
+          "Spiritualizing the physical body does not mean producing a visibly different material organ. Steiner states that the spiritually transformed aspect is unavailable to physical senses; to those senses the physical still appears physical. An ordinary change in conduct can illustrate how understanding changes a response, but it cannot measure life-spirit or spirit-man. Understanding the model means explaining these precise relationships, while leaving the source’s claimed mode of spiritual perception distinct."
+        ],
+        "distinction": "Grouping and transformation are different operations. Joining two related members does not mean one has developed into the other, and a spiritual counterpart is not a new physical organ.",
+        "reflection": {
+          "question": "Why are the chapter’s two sevenfold lists not interchangeable?",
+          "notes": [
+            "The first joins two pairs within a ninefold constitution. The second starts from physical, life and astral bodies plus I, then adds their three spiritualized counterparts. The shared number does not give them the same organizing principle.",
+            "Astral/ spirit-self, life/ life-spirit and physical/ spirit-man are parallel transformation relationships through the I, not a single causal ladder."
+          ]
+        },
+        "takeaways": [
+          "Spirit-self, life-spirit and spirit-man have distinct spiritual meanings.",
+          "The I is central to the transformation account.",
+          "The first sevenfold scheme joins two pairs of the ninefold scheme.",
+          "The final sevenfold scheme makes fourfold constitution and transformation explicit.",
+          "A transformed aspect can coexist with an untransformed aspect.",
+          "Spiritual transformation concerns interpenetrating aspects of one human being."
+        ],
+        "deeper": [
+          {
+            "title": "The nine distinctions behind the grouping",
+            "paragraphs": [
+              "The ninefold list is physical body, etheric body, sentient body; sentient soul, intellectual-soul, consciousness-soul; spirit-self, life-spirit, spirit-man. The first grouped seven joins entries three/four and six/seven while retaining the other distinctions. The I is the inward centre described through these relationships; it is not a tenth member silently added to this list."
+            ]
+          },
+          {
+            "title": "Spiritual body and spiritual being",
+            "paragraphs": [
+              "The supplied translation uses spirit-man for the independent human spiritual being, not for males alone. It qualifies spirit-body as a correspondence to physical embodiment rather than a literal physical body. Its descriptions of spiritual sheath and nourishment belong to the asserted spiritual account; the corresponding language helps explain its relationships without describing ordinary anatomy."
+            ]
+          }
+        ],
+        "comparisons": [
+          {
+            "title": "First sevenfold account: grouping nine distinctions",
+            "headers": [
+              "Member",
+              "What is retained or joined"
+            ],
+            "rows": [
+              [
+                "Physical body",
+                "Material constitution"
+              ],
+              [
+                "Etheric or life body",
+                "Living organization"
+              ],
+              [
+                "Sentient soul-body",
+                "Sentient body + sentient soul"
+              ],
+              [
+                "Intellectual-soul",
+                "Thinking within soul life"
+              ],
+              [
+                "Spirit-filled consciousness-soul",
+                "Consciousness-soul + spirit-self"
+              ],
+              [
+                "Life-spirit",
+                "Spiritual life"
+              ],
+              [
+                "Spirit-man",
+                "Independent spiritual being"
+              ]
+            ]
+          },
+          {
+            "title": "Final sevenfold account: constitution and transformation",
+            "headers": [
+              "Member",
+              "Role in this account"
+            ],
+            "rows": [
+              [
+                "Physical body",
+                "Material embodiment"
+              ],
+              [
+                "Life body",
+                "Living organization"
+              ],
+              [
+                "Astral body",
+                "Sentient body + sentient soul"
+              ],
+              [
+                "I",
+                "Inward soul centre"
+              ],
+              [
+                "Spirit-self",
+                "Transformed astral aspect"
+              ],
+              [
+                "Life-spirit",
+                "Transformed life-body aspect"
+              ],
+              [
+                "Spirit-man",
+                "Spiritually transformed physical aspect"
+              ]
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Transformação espiritual",
+        "question": "Como o desenvolvimento muda a relação entre o Eu e sua constituição?",
+        "experience": [
+          "Alguém percebe um impulso conhecido de responder de forma ríspida, compreende uma razão para escutar e aos poucos muda a resposta. Um impulso continua sendo algo vivenciado, enquanto sua relação com a compreensão muda. Isso pode introduzir a transformação como pergunta; não estabelece as transformações espirituais descritas por Steiner."
+        ],
+        "centralIdea": "Steiner descreve a transformação espiritual pela recepção do espírito pelo Eu: corpo astral se relaciona ao si-mesmo espiritual, corpo vital ao espírito vital e corpo físico ao homem-espírito. Essa apresentação do desenvolvimento difere de simplesmente agrupar distinções existentes.",
+        "explanation": [
+          "Os três membros espirituais exigem seus próprios significados. Si-mesmo espiritual é conteúdo espiritual recebido e individualizado no Eu. Homem-espírito é o ser espiritual independente, descrito por meio de um envoltório espiritual e de sua relação com o mundo espiritual ao redor. Espírito vital nomeia a vida espiritual pela qual esse ser é sustentado e formado. Steiner apresenta correspondências de nutrição e existência corporal para explicar essas relações. São realidades espirituais afirmadas, e não apenas três hábitos admiráveis ou vitalidade física comum.",
+          "Na concepção do desenvolvimento, o Eu recebe espírito e atua sobre sua constituição. O conteúdo espiritual ilumina impulsos, desejos e paixões: o aspecto astral transformado é chamado de si-mesmo espiritual. Steiner mantém explicitamente juntos aspectos transformados e não transformados, de modo que o desenvolvimento não é uma substituição total e imediata. Da mesma forma, descreve espírito vital como corpo vital transformado e homem-espírito como corpo físico transformado. São três correspondências através do Eu, e não uma cadeia em que um corpo causa mecanicamente o seguinte.",
+          "Isso também muda como lemos as listas da constituição. A apresentação detalhada diferencia nove membros: três corporais, três anímicos e três espirituais. Uma primeira apresentação de sete membros reúne corpo senciente com alma senciente e alma da consciência com si-mesmo espiritual. Ela ainda nomeia a alma intelectual; não substitui toda função da alma pelo Eu. Uma apresentação quádrupla resumida dá, em vez disso, corpo físico, corpo vital, corpo astral e Eu, com astral aqui agrupando corpo senciente e alma senciente. Cada arranjo responde a uma pergunta explicativa específica.",
+          "A apresentação final de sete membros amplia essa visão quádrupla com os três correspondentes transformados. Ela difere do agrupamento anterior de sete membros, embora ambos tenham sete entradas. Um agrupa membros intimamente unidos; o outro explicita o Eu e a transformação. As tabelas preservam ambas as listas. Sua numeração não descreve sete andares, sete períodos etários ou uma pontuação espiritual. Os membros se interpenetram e pertencem a um mesmo ser humano.",
+          "Espiritualizar o corpo físico não significa produzir um órgão material visivelmente diferente. Steiner afirma que o aspecto transformado espiritualmente não está disponível aos sentidos físicos; para esses sentidos, o físico continua aparecendo como físico. Uma mudança comum de conduta pode ilustrar como a compreensão muda uma resposta, mas não pode medir espírito vital ou homem-espírito. Compreender o modelo significa explicar essas relações precisas e manter distinto o modo de percepção espiritual alegado pela fonte."
+        ],
+        "distinction": "Agrupamento e transformação são operações diferentes. Reunir dois membros relacionados não significa que um se desenvolveu no outro, e um correspondente espiritual não é um novo órgão físico.",
+        "reflection": {
+          "question": "Por que as duas listas de sete membros do capítulo não são intercambiáveis?",
+          "notes": [
+            "A primeira reúne dois pares em uma constituição de nove membros. A segunda parte de corpos físico, vital e astral mais Eu e depois acrescenta seus três correspondentes espiritualizados. O número compartilhado não lhes dá o mesmo princípio de organização.",
+            "Astral/si-mesmo espiritual, vital/espírito vital e físico/homem-espírito são relações paralelas de transformação através do Eu, e não uma única escada causal."
+          ]
+        },
+        "takeaways": [
+          "Si-mesmo espiritual, espírito vital e homem-espírito têm significados espirituais distintos.",
+          "O Eu é central na concepção da transformação.",
+          "A primeira apresentação de sete membros reúne dois pares da apresentação de nove.",
+          "A apresentação final de sete membros explicita constituição quádrupla e transformação.",
+          "Um aspecto transformado pode coexistir com um aspecto não transformado.",
+          "A transformação espiritual diz respeito a aspectos que se interpenetram em um mesmo ser humano."
+        ],
+        "deeper": [
+          {
+            "title": "As nove distinções por trás do agrupamento",
+            "paragraphs": [
+              "A lista de nove membros é corpo físico, corpo etérico, corpo senciente; alma senciente, alma intelectual, alma da consciência; si-mesmo espiritual, espírito vital, homem-espírito. O primeiro agrupamento de sete reúne as entradas três/quatro e seis/sete, mantendo as outras distinções. O Eu é o centro interior descrito por essas relações; não é um décimo membro acrescentado silenciosamente a essa lista."
+            ]
+          },
+          {
+            "title": "Corpo espiritual e ser espiritual",
+            "paragraphs": [
+              "A tradução fornecida usa homem-espírito para o ser espiritual humano independente, e não apenas para homens. Ela qualifica corpo espiritual como correspondência à existência física, em vez de corpo físico literal. Suas descrições de envoltório e nutrição espirituais pertencem à concepção espiritual afirmada; a linguagem de correspondência ajuda a explicar suas relações sem descrever a anatomia comum."
+            ]
+          }
+        ],
+        "comparisons": [
+          {
+            "title": "Primeira apresentação de sete membros: agrupando nove distinções",
+            "headers": [
+              "Membro",
+              "O que se mantém ou se reúne"
+            ],
+            "rows": [
+              [
+                "Corpo físico",
+                "Constituição material"
+              ],
+              [
+                "Corpo etérico ou vital",
+                "Organização viva"
+              ],
+              [
+                "Corpo anímico senciente",
+                "Corpo senciente + alma senciente"
+              ],
+              [
+                "Alma intelectual",
+                "Pensar na vida anímica"
+              ],
+              [
+                "Alma da consciência preenchida pelo espírito",
+                "Alma da consciência + si-mesmo espiritual"
+              ],
+              [
+                "Espírito vital",
+                "Vida espiritual"
+              ],
+              [
+                "Homem-espírito",
+                "Ser espiritual independente"
+              ]
+            ]
+          },
+          {
+            "title": "Apresentação final de sete membros: constituição e transformação",
+            "headers": [
+              "Membro",
+              "Papel nessa apresentação"
+            ],
+            "rows": [
+              [
+                "Corpo físico",
+                "Existência material organizada"
+              ],
+              [
+                "Corpo vital",
+                "Organização viva"
+              ],
+              [
+                "Corpo astral",
+                "Corpo senciente + alma senciente"
+              ],
+              [
+                "Eu",
+                "Centro interior da alma"
+              ],
+              [
+                "Si-mesmo espiritual",
+                "Aspecto astral transformado"
+              ],
+              [
+                "Espírito vital",
+                "Aspecto transformado do corpo vital"
+              ],
+              [
+                "Homem-espírito",
+                "Aspecto físico transformado espiritualmente"
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "concepts": [
+    {
+      "id": "body-soul-spirit",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            13,
+            17
+          ],
+          "readingIds": [
+            1,
+            2
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "body",
+          "en": "Bodily access to surroundings",
+          "pt": "Acesso corporal ao ambiente"
+        },
+        {
+          "id": "soul",
+          "en": "The inward significance of experience",
+          "pt": "Significado interior da experiência"
+        },
+        {
+          "id": "spirit",
+          "en": "Understanding and spiritual significance",
+          "pt": "Compreensão e significado espiritual"
+        }
+      ],
+      "en": {
+        "term": "Body, soul and spirit",
+        "alsoCalled": [],
+        "definition": "Three related aspects of one human being: bodily contact with the world, inward personal experience and participation in intelligible and spiritual significance.",
+        "explanation": [
+          "Steiner begins with an encounter, rather than three hidden objects. Seeing flowers, enjoying them and understanding their relationships reveal different ways of belonging to a world. The later constitution differentiates these initial relationships.",
+          "The aspects interact: bodily conditions affect experience, interests guide inquiry, and understanding can alter conduct. Distinguishing them prevents one description from silently answering every question about a person."
+        ],
+        "distinction": "These are aspects of one person, not three separate people or anatomical compartments."
+      },
+      "pt": {
+        "term": "Corpo, alma e espírito",
+        "alsoCalled": [],
+        "definition": "Três aspectos relacionados de um mesmo ser humano: contato corporal com o mundo, experiência interior pessoal e participação em significado compreensível e espiritual.",
+        "explanation": [
+          "Steiner começa por um encontro, e não por três objetos ocultos. Ver flores, apreciá-las e compreender suas relações revelam maneiras diferentes de participar de um mundo. A constituição posterior diferencia essas relações iniciais.",
+          "Os aspectos interagem: condições corporais afetam a experiência, interesses orientam a investigação e a compreensão pode mudar a conduta. Distingui-los impede que uma descrição responda silenciosamente a toda pergunta sobre uma pessoa."
+        ],
+        "distinction": "São aspectos de uma pessoa, e não três pessoas separadas ou compartimentos anatômicos."
+      }
+    },
+    {
+      "id": "body",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            13,
+            18
+          ],
+          "readingIds": [
+            1,
+            2
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            20,
+            20
+          ],
+          "readingIds": [
+            3
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "physical-body",
+          "en": "Material constitution",
+          "pt": "Constituição material"
+        },
+        {
+          "id": "etheric-body",
+          "en": "Living formative organization",
+          "pt": "Organização formadora viva"
+        },
+        {
+          "id": "sentient-body",
+          "en": "Bodily mediation of sentience",
+          "pt": "Mediação corporal da sensibilidade"
+        }
+      ],
+      "en": {
+        "term": "Body",
+        "alsoCalled": [],
+        "definition": "The organization through which a person belongs to and encounters the surrounding world; Steiner also uses body more broadly for what gives a being form.",
+        "explanation": [
+          "The initial bodily relationship is sensory access and material belonging. Later, physical, life and sentient bodies distinguish material constitution, living organization and bodily sentience. These refer to related aspects of one embodied being.",
+          "When the word is used for a supersensible member, it does not automatically mean another visible organ. The meaning of form or organization must be read within the particular relationship being described."
+        ],
+        "distinction": "Body is broader than physical body in this vocabulary; not every use names a material object."
+      },
+      "pt": {
+        "term": "Corpo",
+        "alsoCalled": [],
+        "definition": "A organização pela qual uma pessoa participa do mundo ao redor e o encontra; Steiner também usa corpo em sentido mais amplo para aquilo que dá forma a um ser.",
+        "explanation": [
+          "A relação corporal inicial é acesso sensorial e participação material. Mais adiante, corpos físico, vital e senciente distinguem constituição material, organização viva e sensibilidade corporal. Eles se referem a aspectos relacionados de um mesmo ser encarnado.",
+          "Quando a palavra é usada para um membro suprassensível, não significa automaticamente outro órgão visível. O sentido de forma ou organização precisa ser compreendido na relação específica descrita."
+        ],
+        "distinction": "Corpo é mais amplo do que corpo físico nesse vocabulário; nem todo uso nomeia um objeto material."
+      }
+    },
+    {
+      "id": "soul",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            14,
+            17
+          ],
+          "readingIds": [
+            1,
+            2
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            22,
+            24
+          ],
+          "readingIds": [
+            4
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "sentient-soul",
+          "en": "Inward sensation and impulse",
+          "pt": "Sensação e impulso interiores"
+        },
+        {
+          "id": "mind-soul",
+          "en": "Thinking within personal life",
+          "pt": "Pensar na vida pessoal"
+        },
+        {
+          "id": "consciousness-soul",
+          "en": "Truth and goodness alive within the soul",
+          "pt": "Verdade e bem vivos na alma"
+        },
+        {
+          "id": "human-i",
+          "en": "The inward centre working through soul life",
+          "pt": "O centro interior que atua na vida anímica"
+        }
+      ],
+      "en": {
+        "term": "Soul",
+        "alsoCalled": [],
+        "definition": "A person’s inward life, in which sensation, feeling, desire, thinking and willing make the world individually experienced.",
+        "explanation": [
+          "An outward event becomes part of a person’s own world through its inward significance. The soul receives through bodily conditions and can express itself outwardly through action. It also opens to intelligible content through thinking.",
+          "Steiner differentiates sentient, intellectual and consciousness souls as interpenetrating members. Their functions can be active in the same encounter; they are not fixed categories of people."
+        ],
+        "distinction": "Soul is not simply a passing emotion, and its inward character does not mean someone else can directly read it from an expression."
+      },
+      "pt": {
+        "term": "Alma",
+        "alsoCalled": [],
+        "definition": "A vida interior de uma pessoa, na qual sensação, sentimento, desejo, pensar e querer tornam o mundo individualmente vivenciado.",
+        "explanation": [
+          "Um acontecimento exterior torna-se parte do mundo próprio de uma pessoa por seu significado interior. A alma recebe por meio de condições corporais e pode se expressar exteriormente pela ação. Também se abre a conteúdo compreensível por meio do pensar.",
+          "Steiner diferencia almas senciente, intelectual e da consciência como membros que se interpenetram. Suas funções podem atuar no mesmo encontro; não são categorias fixas de pessoas."
+        ],
+        "distinction": "Alma não é simplesmente uma emoção passageira, e seu caráter interior não significa que outra pessoa possa lê-la diretamente em uma expressão."
+      }
+    },
+    {
+      "id": "spirit",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            14,
+            18
+          ],
+          "readingIds": [
+            1,
+            2
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            26,
+            29
+          ],
+          "readingIds": [
+            24
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "consciousness-soul",
+          "en": "The soul bears truth and goodness",
+          "pt": "A alma porta verdade e bem"
+        },
+        {
+          "id": "human-i",
+          "en": "Spiritual content is received through the I",
+          "pt": "O conteúdo espiritual é recebido pelo Eu"
+        },
+        {
+          "id": "spirit-self",
+          "en": "Spiritual content becomes individualized",
+          "pt": "O conteúdo espiritual é individualizado"
+        },
+        {
+          "id": "spirit-land",
+          "en": "The source develops an account of spiritual reality",
+          "pt": "A fonte desenvolve uma concepção da realidade espiritual"
+        }
+      ],
+      "en": {
+        "term": "Spirit",
+        "alsoCalled": [],
+        "definition": "The spiritual aspect through which truth, goodness and the realities of the spiritual world become significant within a human being, beyond personal preference.",
+        "explanation": [
+          "Steiner first introduces spirit through understanding a relationship that does not depend on whether it pleases the thinker. He then describes a spiritual world and a differentiated human spiritual constitution. The initial intelligible relationship prepares that stronger account.",
+          "The I receives spiritual content and can individualize it. Steiner describes spirit-self, life-spirit and spirit-man to distinguish relationships within spiritual existence. Spirit therefore is not merely a synonym for mood or cultural enthusiasm."
+        ],
+        "distinction": "Thinking a thought is an inward event; its truth is not guaranteed by occurring in the soul."
+      },
+      "pt": {
+        "term": "Espírito",
+        "alsoCalled": [],
+        "definition": "O aspecto espiritual pelo qual verdade, bem e as realidades do mundo espiritual ganham significado no ser humano, além da preferência pessoal.",
+        "explanation": [
+          "Steiner primeiro apresenta o espírito pela compreensão de uma relação que não depende de agradar a quem pensa. Depois descreve um mundo espiritual e uma constituição espiritual humana diferenciada. A relação compreensível inicial prepara essa concepção mais forte.",
+          "O Eu recebe conteúdo espiritual e pode individualizá-lo. Steiner descreve si-mesmo espiritual, espírito vital e homem-espírito para distinguir relações na existência espiritual. Espírito, portanto, não é apenas sinônimo de estado de ânimo ou entusiasmo cultural."
+        ],
+        "distinction": "Pensar um pensamento é um acontecimento interior; sua verdade não é garantida por ocorrer na alma."
+      }
+    },
+    {
+      "id": "physical-body",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            15,
+            18
+          ],
+          "readingIds": [
+            2
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            18,
+            19
+          ],
+          "readingIds": [
+            3
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "body",
+          "en": "The material aspect of embodiment",
+          "pt": "O aspecto material da existência corporal"
+        },
+        {
+          "id": "etheric-body",
+          "en": "The proposed sustaining organization of life",
+          "pt": "A organização proposta para sustentar a vida"
+        },
+        {
+          "id": "spirit-man",
+          "en": "The source describes a spiritualized physical aspect",
+          "pt": "A fonte descreve um aspecto físico espiritualizado"
+        }
+      ],
+      "en": {
+        "term": "Physical body",
+        "alsoCalled": [],
+        "definition": "The organized material constitution of the human being, sharing materials and physical forces with the mineral world.",
+        "explanation": [
+          "The organization matters alongside the constituents: a bodily structure enables activities that an unorganized collection does not. Steiner treats the human physical body as an instrument adapted to human activity, including thinking.",
+          "Physical body describes one aspect of the living person. Life, sentience and inward understanding raise additional questions rather than making the material constitution unreal."
+        ],
+        "distinction": "Material constitution is not the whole meaning of the person; organized does not mean lifeless matter arranged in a mere heap."
+      },
+      "pt": {
+        "term": "Corpo físico",
+        "alsoCalled": [],
+        "definition": "A constituição material organizada do ser humano, que compartilha materiais e forças físicas com o mundo mineral.",
+        "explanation": [
+          "A organização importa junto com os constituintes: uma estrutura corporal permite atividades que uma coleção desorganizada não permite. Steiner trata o corpo físico humano como instrumento adaptado à atividade humana, incluindo o pensar.",
+          "Corpo físico descreve um aspecto da pessoa viva. Vida, sensibilidade e compreensão interior levantam perguntas adicionais, em vez de tornar irreal a constituição material."
+        ],
+        "distinction": "A constituição material não é todo o significado da pessoa; organizado não significa matéria sem vida disposta em mero amontoado."
+      }
+    },
+    {
+      "id": "etheric-body",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            18,
+            20
+          ],
+          "readingIds": [
+            3
+          ],
+          "noteIds": [
+            1
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "physical-body",
+          "en": "The living physical body it is said to sustain",
+          "pt": "O corpo físico vivo que ele é descrito como sustentando"
+        },
+        {
+          "id": "sentient-body",
+          "en": "Living organization participates in bodily sentience",
+          "pt": "A organização viva participa da sensibilidade corporal"
+        },
+        {
+          "id": "life-spirit",
+          "en": "Its spiritual transformation counterpart",
+          "pt": "Seu correspondente na transformação espiritual"
+        }
+      ],
+      "en": {
+        "term": "Etheric body",
+        "alsoCalled": [
+          "Life body",
+          "Ether-body"
+        ],
+        "definition": "Steiner’s independent supersensible life-organizing member, said to shape and sustain a living physical body.",
+        "explanation": [
+          "Living organisms maintain and develop a recognizable form while materials change. Steiner proposes the etheric body as the formative reality underlying this life, not merely as the organism’s visible outline.",
+          "He says its direct perception requires a spiritual organ. The supplied Note 1 places life-force within spiritual science’s mode of thought and distinguishes it from natural forces. Ordinary observation introduces the phenomenon; it has a different role from this claimed perception."
+        ],
+        "distinction": "Etheric does not mean electromagnetic energy, the physicist’s ether or a force already measured by biology."
+      },
+      "pt": {
+        "term": "Corpo etérico",
+        "alsoCalled": [
+          "Corpo vital"
+        ],
+        "definition": "O membro suprassensível independente que, na concepção de Steiner, organiza a vida, formando e sustentando um corpo físico vivo.",
+        "explanation": [
+          "Os organismos vivos mantêm e desenvolvem uma forma reconhecível enquanto os materiais mudam. Steiner propõe o corpo etérico como a realidade formadora subjacente a essa vida, e não apenas como o contorno visível do organismo.",
+          "Ele afirma que sua percepção direta exige um órgão espiritual. A Nota 1 fornecida situa a força vital no modo de pensar da ciência espiritual e a distingue das forças naturais. A observação comum introduz o fenômeno; tem um papel diferente dessa percepção alegada."
+        ],
+        "distinction": "Etérico não significa energia eletromagnética, éter da física ou uma força já medida pela biologia."
+      }
+    },
+    {
+      "id": "sentient-body",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            20,
+            22
+          ],
+          "readingIds": [
+            23
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            29,
+            31
+          ],
+          "readingIds": [
+            6
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "sentient-soul",
+          "en": "The inward experience with which it forms a unity",
+          "pt": "A experiência interior com a qual forma uma unidade"
+        },
+        {
+          "id": "etheric-body",
+          "en": "Its relation to living bodily organization",
+          "pt": "Sua relação com a organização corporal viva"
+        },
+        {
+          "id": "astral-body",
+          "en": "Together with sentient soul it forms the grouped astral member",
+          "pt": "Junto com a alma senciente, forma o membro astral agrupado"
+        }
+      ],
+      "en": {
+        "term": "Sentient body",
+        "alsoCalled": [
+          "Soul-body"
+        ],
+        "definition": "The member through which bodily organization mediates the sentient soul’s activity in Steiner’s account.",
+        "explanation": [
+          "Steiner distinguishes bodily processes and their living organization from the inward sensation that arises in relation to them. The sentient body names the mediating bodily member; the sentient soul names the inward activity.",
+          "The two form a close unity in earthly embodiment. Some constitution schemes therefore group them, while the finer account retains their different functions."
+        ],
+        "distinction": "Sentient body and sentient soul are not synonyms; one concerns bodily mediation, the other inward experience."
+      },
+      "pt": {
+        "term": "Corpo senciente",
+        "alsoCalled": [
+          "Corpo anímico"
+        ],
+        "definition": "O membro pelo qual a organização corporal medeia a atividade da alma senciente na concepção de Steiner.",
+        "explanation": [
+          "Steiner distingue processos corporais e sua organização viva da sensação interior que surge em relação a eles. O corpo senciente nomeia o membro corporal mediador; a alma senciente nomeia a atividade interior.",
+          "Os dois formam uma unidade próxima na existência terrena. Por isso, algumas apresentações da constituição os agrupam, enquanto a descrição mais detalhada mantém suas funções diferentes."
+        ],
+        "distinction": "Corpo senciente e alma senciente não são sinônimos; um diz respeito à mediação corporal, a outra à experiência interior."
+      }
+    },
+    {
+      "id": "astral-body",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            29,
+            31
+          ],
+          "readingIds": [
+            6
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "sentient-body",
+          "en": "The bodily side of the grouping",
+          "pt": "O aspecto corporal do agrupamento"
+        },
+        {
+          "id": "sentient-soul",
+          "en": "The inward side of the grouping",
+          "pt": "O aspecto interior do agrupamento"
+        },
+        {
+          "id": "human-i",
+          "en": "A distinct member of the fourfold view",
+          "pt": "Um membro distinto da visão quádrupla"
+        },
+        {
+          "id": "spirit-self",
+          "en": "The spiritually transformed astral counterpart",
+          "pt": "O correspondente astral transformado espiritualmente"
+        }
+      ],
+      "en": {
+        "term": "Astral body",
+        "alsoCalled": [],
+        "definition": "In Chapter I’s fourfold constitution, sentient body and sentient soul considered together as one member.",
+        "explanation": [
+          "The fourfold picture distinguishes physical body, life body, astral body and I. It condenses related distinctions without making their separate meanings disappear. Astral here links bodily sentience and inward sensation, impulse and desire.",
+          "Steiner describes spirit-self as the transformed astral aspect through the I. Transformed and untransformed aspects can coexist; the relation is developmental rather than a replacement of all sentience at once."
+        ],
+        "distinction": "Astral body here is not the whole soul, a personality label or a celestial object."
+      },
+      "pt": {
+        "term": "Corpo astral",
+        "alsoCalled": [],
+        "definition": "Na constituição quádrupla do capítulo I, corpo senciente e alma senciente considerados juntos como um membro.",
+        "explanation": [
+          "A visão quádrupla distingue corpo físico, corpo vital, corpo astral e Eu. Resume distinções relacionadas sem fazer seus significados separados desaparecerem. Astral aqui liga sensibilidade corporal e sensação, impulso e desejo interiores.",
+          "Steiner descreve o si-mesmo espiritual como aspecto astral transformado através do Eu. Aspectos transformados e não transformados podem coexistir; a relação é de desenvolvimento, em vez de substituição de toda sensibilidade de uma só vez."
+        ],
+        "distinction": "Corpo astral aqui não é a alma inteira, um rótulo de personalidade ou um objeto celeste."
+      }
+    },
+    {
+      "id": "human-i",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            24,
+            26
+          ],
+          "readingIds": [
+            5
+          ],
+          "noteIds": [
+            4
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "soul",
+          "en": "The I lives and acts through soul life",
+          "pt": "O Eu vive e age através da vida anímica"
+        },
+        {
+          "id": "spirit-self",
+          "en": "Spiritual content individualized through the I",
+          "pt": "Conteúdo espiritual individualizado pelo Eu"
+        },
+        {
+          "id": "individuality",
+          "en": "The later argument develops continuity of spiritual individuality",
+          "pt": "O argumento posterior desenvolve a continuidade da individualidade espiritual"
+        },
+        {
+          "id": "spiritual-transformation",
+          "en": "The I’s work on its constitution",
+          "pt": "O trabalho do Eu sobre sua constituição"
+        }
+      ],
+      "en": {
+        "term": "The human I",
+        "alsoCalled": [
+          "I",
+          "Ego, in the source’s sense of self"
+        ],
+        "definition": "The inward centre that gathers bodily and soul experience, acts through them and can receive spiritual content.",
+        "explanation": [
+          "I refers to the speaker from within, unlike a shared object-name. Steiner uses this contrast to introduce self-awareness while distinguishing the inward centre from its changing manifestations.",
+          "The I lives throughout the soul and can work upon it. The supplied Note 4 distinguishes using the word I from developing the corresponding conception, so neither vocabulary nor one childhood date defines the concept."
+        ],
+        "distinction": "The centre of self-reference is not the same as selfish motivation."
+      },
+      "pt": {
+        "term": "O Eu humano",
+        "alsoCalled": [
+          "Eu"
+        ],
+        "definition": "O centro interior que reúne experiências corporais e anímicas, atua por meio delas e pode receber conteúdo espiritual.",
+        "explanation": [
+          "Eu se refere a quem fala a partir de dentro, diferentemente de um nome compartilhado de objeto. Steiner usa esse contraste para apresentar a consciência de si e distinguir o centro interior de suas manifestações mutáveis.",
+          "O Eu vive em toda a alma e pode atuar sobre ela. A Nota 4 fornecida distingue usar a palavra eu de desenvolver a concepção correspondente; por isso, nem vocabulário nem uma data da infância definem o conceito."
+        ],
+        "distinction": "O centro de referência a si não é o mesmo que uma motivação egoísta."
+      }
+    },
+    {
+      "id": "sentient-soul",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            16,
+            17
+          ],
+          "readingIds": [
+            2
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            20,
+            22
+          ],
+          "readingIds": [
+            23
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "sentient-body",
+          "en": "Bodily mediation of the inward activity",
+          "pt": "Mediação corporal da atividade interior"
+        },
+        {
+          "id": "mind-soul",
+          "en": "Thought enters and organizes personal life",
+          "pt": "O pensar entra na vida pessoal e a organiza"
+        },
+        {
+          "id": "feeling",
+          "en": "Pleasure and aversion express personal significance",
+          "pt": "Prazer e aversão expressam significado pessoal"
+        },
+        {
+          "id": "willing",
+          "en": "Inward impulse can become outward action",
+          "pt": "O impulso interior pode tornar-se ação exterior"
+        }
+      ],
+      "en": {
+        "term": "Sentient soul",
+        "alsoCalled": [],
+        "definition": "The inward activity of sensation and related pleasures, aversions, desires, impulses and passions in Steiner’s account.",
+        "explanation": [
+          "An impression becomes this person’s lived experience rather than remaining only an outward event. Feeling gives it personal significance, while an impulse can lead toward an outward action.",
+          "This member depends on bodily mediation and can be permeated by thought. The name does not classify a person as emotional or place them in a fixed developmental category."
+        ],
+        "distinction": "Sentient soul is the inward activity, not the sentient body that mediates it."
+      },
+      "pt": {
+        "term": "Alma senciente",
+        "alsoCalled": [
+          "Alma sensitiva"
+        ],
+        "definition": "A atividade interior da sensação e dos prazeres, aversões, desejos, impulsos e paixões relacionados a ela na concepção de Steiner.",
+        "explanation": [
+          "Uma impressão torna-se a experiência vivida desta pessoa, em vez de permanecer apenas um acontecimento exterior. O sentimento lhe dá significado pessoal, enquanto um impulso pode levar a uma ação exterior.",
+          "Esse membro depende da mediação corporal e pode ser permeado pelo pensar. O nome não classifica uma pessoa como emotiva nem a coloca em uma categoria fixa de desenvolvimento."
+        ],
+        "distinction": "Alma senciente é a atividade interior, e não o corpo senciente que a medeia."
+      }
+    },
+    {
+      "id": "mind-soul",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            22,
+            24
+          ],
+          "readingIds": [
+            4
+          ],
+          "noteIds": [
+            3
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "sentient-soul",
+          "en": "The inward life permeated by thought",
+          "pt": "A vida interior permeada pelo pensar"
+        },
+        {
+          "id": "thinking",
+          "en": "The activity giving reasoned coherence",
+          "pt": "A atividade que dá coerência fundamentada"
+        },
+        {
+          "id": "consciousness-soul",
+          "en": "Truth and goodness beyond preference",
+          "pt": "Verdade e bem além da preferência"
+        },
+        {
+          "id": "human-i",
+          "en": "Together with consciousness-soul it bears the I",
+          "pt": "Junto com a alma da consciência, porta o Eu"
+        }
+      ],
+      "en": {
+        "term": "Intellectual or mind soul",
+        "alsoCalled": [
+          "Intellectual-soul",
+          "Emotional thought-soul"
+        ],
+        "definition": "The differentiated soul member in which thinking permeates sensation and desire, giving personal life a reasoned organization.",
+        "explanation": [
+          "Thought can compare means, learn from experience and plan a way to meet a need. Steiner uses practical inventions to show thinking serving sentient life, while also opening beyond an immediate response.",
+          "Thinking can still be entangled with preference. Consciousness-soul distinguishes the reception of truth and goodness whose significance does not depend on that preference. The two functions interpenetrate."
+        ],
+        "distinction": "Intellectual names a function, not a level of education; clever organization alone does not settle an aim’s goodness or a claim’s truth."
+      },
+      "pt": {
+        "term": "Alma intelectual ou da razão",
+        "alsoCalled": [
+          "Alma da razão",
+          "Alma intelectiva"
+        ],
+        "definition": "O membro diferenciado da alma em que o pensar permeia sensação e desejo, dando à vida pessoal uma organização fundamentada.",
+        "explanation": [
+          "O pensar pode comparar meios, aprender com a experiência e planejar uma maneira de atender a uma necessidade. Steiner usa invenções práticas para mostrar o pensar a serviço da vida senciente e também sua abertura para além da resposta imediata.",
+          "O pensar ainda pode estar envolvido com a preferência. A alma da consciência distingue a recepção de verdade e bem cujo significado não depende dessa preferência. As duas funções se interpenetram."
+        ],
+        "distinction": "Intelectual nomeia uma função, e não um nível de escolaridade; a organização engenhosa, por si só, não resolve o bem de um objetivo ou a verdade de uma afirmação."
+      }
+    },
+    {
+      "id": "consciousness-soul",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            23,
+            24
+          ],
+          "readingIds": [
+            4
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            26,
+            26
+          ],
+          "readingIds": [
+            5,
+            24
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "mind-soul",
+          "en": "Thought’s organization differs from its independent criterion",
+          "pt": "A organização do pensar difere de seu critério independente"
+        },
+        {
+          "id": "spirit",
+          "en": "Truth and goodness have spiritual significance in the account",
+          "pt": "Verdade e bem têm significado espiritual nessa concepção"
+        },
+        {
+          "id": "spirit-self",
+          "en": "The same truth is individualized through the I",
+          "pt": "A mesma verdade é individualizada pelo Eu"
+        },
+        {
+          "id": "human-i",
+          "en": "The source places its highest soul manifestation here",
+          "pt": "A fonte situa aqui sua manifestação mais elevada na alma"
+        }
+      ],
+      "en": {
+        "term": "Consciousness-soul",
+        "alsoCalled": [],
+        "definition": "The member of soul life in which truth and goodness become alive with significance independent of personal liking or aversion.",
+        "explanation": [
+          "Steiner distinguishes the joy a judgment gives from its truth. A mistaken conception can be corrected without making truth itself depend on the thinker’s changing feelings. He attributes a corresponding independent significance to moral goodness.",
+          "Consciousness-soul bears this content within soul life. Spirit-self concerns the same spiritual content received and individualized through the I; individualization does not make the truth merely private."
+        ],
+        "distinction": "Consciousness-soul is not ordinary awareness, emotional suppression or certainty that one’s opinion is correct."
+      },
+      "pt": {
+        "term": "Alma da consciência",
+        "alsoCalled": [],
+        "definition": "O membro da vida anímica em que verdade e bem se tornam vivos com significado independente do gosto ou da aversão pessoal.",
+        "explanation": [
+          "Steiner distingue a alegria que um julgamento proporciona de sua verdade. Uma concepção equivocada pode ser corrigida sem tornar a própria verdade dependente dos sentimentos mutáveis de quem pensa. Ele atribui significado independente correspondente ao bem moral.",
+          "A alma da consciência porta esse conteúdo na vida anímica. O si-mesmo espiritual diz respeito ao mesmo conteúdo espiritual recebido e individualizado pelo Eu; a individualização não torna a verdade meramente privada."
+        ],
+        "distinction": "Alma da consciência não é consciência comum, supressão emocional ou certeza de que uma opinião esteja correta."
+      }
+    },
+    {
+      "id": "spirit-self",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            26,
+            29
+          ],
+          "readingIds": [
+            24
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            30,
+            31
+          ],
+          "readingIds": [
+            6
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "human-i",
+          "en": "The inward centre through which content is individualized",
+          "pt": "O centro interior pelo qual o conteúdo é individualizado"
+        },
+        {
+          "id": "consciousness-soul",
+          "en": "The same spiritual truth in its soul relationship",
+          "pt": "A mesma verdade espiritual em sua relação anímica"
+        },
+        {
+          "id": "astral-body",
+          "en": "Its transformation counterpart",
+          "pt": "Seu correspondente na transformação"
+        },
+        {
+          "id": "intuition",
+          "en": "Spiritual revelation to the I in this source",
+          "pt": "Revelação espiritual ao Eu nessa fonte"
+        }
+      ],
+      "en": {
+        "term": "Spirit-self",
+        "alsoCalled": [],
+        "definition": "Spiritual content received and individualized through the I, and described in the transformation account as the spiritualized astral aspect.",
+        "explanation": [
+          "Consciousness-soul bears truth independent of preference; spirit-self concerns that same truth incorporated into the person’s independent spiritual being through the I. The difference is the relationship to individuality, not a change from shared truth into subjective opinion.",
+          "Steiner describes the I receiving spirit-self and illuminating impulses, desires and passions. The transformed astral aspect may coexist with an untransformed aspect."
+        ],
+        "distinction": "Spirit-self is not the entire ordinary personality or a new physical organ."
+      },
+      "pt": {
+        "term": "Si-mesmo espiritual",
+        "alsoCalled": [
+          "Eu espiritual"
+        ],
+        "definition": "Conteúdo espiritual recebido e individualizado pelo Eu, descrito na concepção da transformação como o aspecto astral espiritualizado.",
+        "explanation": [
+          "A alma da consciência porta verdade independente da preferência; o si-mesmo espiritual diz respeito a essa mesma verdade incorporada ao ser espiritual independente da pessoa através do Eu. A diferença é a relação com a individualidade, e não uma mudança de verdade compartilhada para opinião subjetiva.",
+          "Steiner descreve o Eu recebendo o si-mesmo espiritual e iluminando impulsos, desejos e paixões. O aspecto astral transformado pode coexistir com um aspecto não transformado."
+        ],
+        "distinction": "Si-mesmo espiritual não é toda a personalidade comum nem um novo órgão físico."
+      }
+    },
+    {
+      "id": "life-spirit",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            28,
+            29
+          ],
+          "readingIds": [
+            24
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            31,
+            31
+          ],
+          "readingIds": [
+            6
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "spirit-man",
+          "en": "The independent spiritual being whose life is described",
+          "pt": "O ser espiritual independente cuja vida é descrita"
+        },
+        {
+          "id": "etheric-body",
+          "en": "The corresponding member in the transformation account",
+          "pt": "O membro correspondente na concepção da transformação"
+        },
+        {
+          "id": "human-i",
+          "en": "The I receives this spiritual content",
+          "pt": "O Eu recebe esse conteúdo espiritual"
+        },
+        {
+          "id": "spiritual-transformation",
+          "en": "One of three parallel spiritualization relationships",
+          "pt": "Uma das três relações paralelas de espiritualização"
+        }
+      ],
+      "en": {
+        "term": "Life-spirit",
+        "alsoCalled": [
+          "Ether-spirit"
+        ],
+        "definition": "The spiritual life of the independent spiritual being, described by Steiner as ether-spirit and as the transformed counterpart of the life body.",
+        "explanation": [
+          "Steiner compares spiritual nourishment and spiritual life with the way a living physical organization is sustained. Life-spirit belongs to his account of spiritual existence, not merely to the body’s present vitality.",
+          "In the developmental presentation, the I receives life-spirit and transforms the life body. This correspondence is distinct from astral transformation into spirit-self and physical spiritualization into spirit-man."
+        ],
+        "distinction": "Life-spirit and ordinary bodily energy or health are not interchangeable concepts."
+      },
+      "pt": {
+        "term": "Espírito vital",
+        "alsoCalled": [],
+        "definition": "A vida espiritual do ser espiritual independente, descrita por Steiner como éter espiritual e como o correspondente transformado do corpo vital.",
+        "explanation": [
+          "Steiner compara nutrição espiritual e vida espiritual à maneira como se sustenta uma organização física viva. Espírito vital pertence à sua concepção da existência espiritual, e não apenas à vitalidade presente do corpo.",
+          "Na apresentação do desenvolvimento, o Eu recebe espírito vital e transforma o corpo vital. Essa correspondência é distinta da transformação astral em si-mesmo espiritual e da espiritualização física em homem-espírito."
+        ],
+        "distinction": "Espírito vital e energia ou saúde corporal comum não são conceitos intercambiáveis."
+      }
+    },
+    {
+      "id": "spirit-man",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            27,
+            29
+          ],
+          "readingIds": [
+            24
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            31,
+            31
+          ],
+          "readingIds": [
+            6
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "life-spirit",
+          "en": "The spiritual life sustaining this being",
+          "pt": "A vida espiritual que sustenta esse ser"
+        },
+        {
+          "id": "physical-body",
+          "en": "The member related through spiritual transformation",
+          "pt": "O membro relacionado pela transformação espiritual"
+        },
+        {
+          "id": "human-i",
+          "en": "The I receives the spiritual content",
+          "pt": "O Eu recebe o conteúdo espiritual"
+        },
+        {
+          "id": "spiritual-transformation",
+          "en": "The physical/spiritual correspondence",
+          "pt": "A correspondência física/espiritual"
+        }
+      ],
+      "en": {
+        "term": "Spirit-man",
+        "alsoCalled": [
+          "Independent spiritual being"
+        ],
+        "definition": "The independent human spiritual being within its spiritual sheath; in the transformation account, the spiritually transformed physical aspect.",
+        "explanation": [
+          "Steiner describes a spiritual inner and outer, spiritual nourishment and a sheath through which the being has its own existence within the spiritual world. Spirit-body is a correspondence to embodiment, not another physically sensible body.",
+          "He expressly distinguishes the spiritualized physical aspect from what physical senses perceive. The visible physical body still appears physical. The term refers to the human being, regardless of sex."
+        ],
+        "distinction": "Spirit-man is not a visibly altered anatomy or a label reserved for males."
+      },
+      "pt": {
+        "term": "Homem-espírito",
+        "alsoCalled": [
+          "Ser espiritual independente"
+        ],
+        "definition": "O ser espiritual humano independente em seu envoltório espiritual; na concepção da transformação, o aspecto físico transformado espiritualmente.",
+        "explanation": [
+          "Steiner descreve um interior e um exterior espirituais, nutrição espiritual e um envoltório pelo qual o ser tem existência própria no mundo espiritual. Corpo espiritual é uma correspondência à existência corporal, e não outro corpo perceptível fisicamente.",
+          "Ele distingue expressamente o aspecto físico espiritualizado daquilo que os sentidos físicos percebem. O corpo físico visível continua aparecendo como físico. O termo se refere ao ser humano, independentemente do sexo."
+        ],
+        "distinction": "Homem-espírito não é uma anatomia visivelmente alterada nem um rótulo reservado a homens."
+      }
+    },
+    {
+      "id": "spiritual-transformation",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            29,
+            31
+          ],
+          "readingIds": [
+            6
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "human-i",
+          "en": "The centre receiving spirit and working upon the members",
+          "pt": "O centro que recebe espírito e atua sobre os membros"
+        },
+        {
+          "id": "spirit-self",
+          "en": "The transformed astral aspect",
+          "pt": "O aspecto astral transformado"
+        },
+        {
+          "id": "life-spirit",
+          "en": "The transformed life-body aspect",
+          "pt": "O aspecto transformado do corpo vital"
+        },
+        {
+          "id": "spirit-man",
+          "en": "The spiritually transformed physical aspect",
+          "pt": "O aspecto físico transformado espiritualmente"
+        }
+      ],
+      "en": {
+        "term": "Spiritual transformation",
+        "alsoCalled": [
+          "Transmutation, in the supplied translation"
+        ],
+        "definition": "The I’s reception of spirit and consequent spiritualization of the astral, life and physical members in Steiner’s account.",
+        "explanation": [
+          "The three correspondences are astral body/spirit-self, life body/life-spirit and physical body/spirit-man. They express related transformations through the I, not one mechanical sequence between bodies.",
+          "The final sevenfold presentation makes these transformations explicit. The earlier sevenfold presentation instead joins pairs within nine distinctions. The common number does not erase their different principles."
+        ],
+        "distinction": "Transformation differs from grouping and does not supply a spiritual score inferred from an ordinary behaviour change."
+      },
+      "pt": {
+        "term": "Transformação espiritual",
+        "alsoCalled": [
+          "Transmutação"
+        ],
+        "definition": "A recepção do espírito pelo Eu e a consequente espiritualização dos membros astral, vital e físico na concepção de Steiner.",
+        "explanation": [
+          "As três correspondências são corpo astral/si-mesmo espiritual, corpo vital/espírito vital e corpo físico/homem-espírito. Expressam transformações relacionadas através do Eu, e não uma sequência mecânica entre corpos.",
+          "A apresentação final de sete membros explicita essas transformações. A apresentação anterior de sete, por sua vez, reúne pares em nove distinções. O número comum não apaga seus princípios diferentes."
+        ],
+        "distinction": "Transformação difere de agrupamento e não fornece uma pontuação espiritual inferida de uma mudança comum de comportamento."
+      }
+    }
+  ],
+  "practices": [
+    {
+      "id": "distinguish-an-encounter",
+      "category": "observation",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "body-soul-spirit"
+      ],
+      "conceptIds": [
+        "body-soul-spirit",
+        "body",
+        "soul",
+        "spirit"
+      ],
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            13,
+            15
+          ],
+          "readingIds": [
+            1
+          ]
+        }
+      ],
+      "en": {
+        "title": "Three aspects of one encounter",
+        "purpose": "Distinguish sensory detail, personal significance and an understood relationship in one ordinary encounter.",
+        "duration": "About five minutes, as a flexible course suggestion. You may consider the distinctions silently, aloud or in notes.",
+        "steps": [
+          "Choose a familiar sound, object or scene. Attend to one concrete detail rather than trying to explain everything.",
+          "Name what reached your senses: a colour, sound, shape or change you actually noticed.",
+          "Identify your response: interest, enjoyment, irritation or another personal significance. Keep it distinct from the detail.",
+          "Describe one relationship you think you understand. Ask what supports it and revise it if you have only reported a preference."
+        ],
+        "reflection": "Which part of your account describes the world, which your response, and which a relationship that still needs to be sound?",
+        "notes": [
+          "A sound can be heard, enjoyed and understood in one encounter. The activity separates the questions without separating the person.",
+          "An interpretation is not made true because it fits the spirit column. State uncertainty where the relationship remains a question."
+        ],
+        "sourceBasis": "This course arrangement adapts the three relationships introduced through Steiner’s meadow example. The source gives the conceptual comparison; it does not prescribe this five-minute activity."
+      },
+      "pt": {
+        "title": "Três aspectos de um encontro",
+        "purpose": "Distinguir detalhe sensorial, significado pessoal e uma relação compreendida em um encontro comum.",
+        "duration": "Cerca de cinco minutos, como sugestão flexível do curso. Você pode considerar as distinções em silêncio, em voz alta ou em anotações.",
+        "steps": [
+          "Escolha um som, objeto ou cenário familiar. Preste atenção a um detalhe concreto, em vez de tentar explicar tudo.",
+          "Nomeie o que chegou aos seus sentidos: uma cor, um som, uma forma ou uma mudança que realmente percebeu.",
+          "Identifique sua resposta: interesse, prazer, irritação ou outro significado pessoal. Mantenha-a distinta do detalhe.",
+          "Descreva uma relação que acredita compreender. Pergunte o que a sustenta e a revise se tiver apenas relatado uma preferência."
+        ],
+        "reflection": "Que parte de seu relato descreve o mundo, qual descreve sua resposta e qual descreve uma relação que ainda precisa ser válida?",
+        "notes": [
+          "Um som pode ser ouvido, apreciado e compreendido em um encontro. A atividade separa as perguntas sem separar a pessoa.",
+          "Uma interpretação não se torna verdadeira por caber na coluna espírito. Expresse a incerteza quando a relação continuar sendo uma pergunta."
+        ],
+        "sourceBasis": "Este arranjo do curso adapta as três relações apresentadas pelo exemplo do prado de Steiner. A fonte oferece a comparação conceitual; não prescreve esta atividade de cinco minutos."
+      }
+    },
+    {
+      "id": "observe-living-form",
+      "category": "observation",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "life-and-etheric-body"
+      ],
+      "conceptIds": [
+        "etheric-body",
+        "physical-body"
+      ],
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            18,
+            20
+          ],
+          "readingIds": [
+            3
+          ]
+        }
+      ],
+      "en": {
+        "title": "Observe a living form",
+        "purpose": "Separate visible development from the explanation proposed for living organization.",
+        "duration": "A few minutes now and an optional later return, chosen for your circumstances; this timing is the course’s suggestion.",
+        "steps": [
+          "Choose an accessible plant or an existing sequence of photographs showing the same plant. Leave it undisturbed.",
+          "Notice shape, leaves or another specific feature. If comparing two moments, state the change actually visible.",
+          "Distinguish the material form you observe from the question of how living organization is maintained.",
+          "Explain in one sentence the etheric body’s role in Steiner’s account, separately from your observation. You may also leave an ordinary biological question open."
+        ],
+        "reflection": "What did you actually see, and what did you add as an explanatory concept?",
+        "notes": [
+          "A changing leaf or maintained form is an observation. The independent life-organizing member is the source’s proposed explanation.",
+          "The exercise develops careful description; it does not demonstrate or measure an etheric body."
+        ],
+        "sourceBasis": "The course activity arises from the source’s contrast between mineral form and the maintained form of living beings. The observing arrangement and flexible timing are our adaptation, not a Steiner exercise instruction."
+      },
+      "pt": {
+        "title": "Observar uma forma viva",
+        "purpose": "Separar o desenvolvimento visível da explicação proposta para a organização viva.",
+        "duration": "Alguns minutos agora e uma retomada posterior opcional, escolhida conforme suas circunstâncias; esse tempo é uma sugestão do curso.",
+        "steps": [
+          "Escolha uma planta acessível ou uma sequência existente de fotografias da mesma planta. Deixe-a sem alterações.",
+          "Observe forma, folhas ou outra característica específica. Se comparar dois momentos, enuncie a mudança realmente visível.",
+          "Distinga a forma material que observa da pergunta sobre como se mantém a organização viva.",
+          "Explique em uma frase o papel do corpo etérico na concepção de Steiner, separadamente de sua observação. Você também pode deixar em aberto uma pergunta biológica comum."
+        ],
+        "reflection": "O que você realmente viu e o que acrescentou como conceito explicativo?",
+        "notes": [
+          "Uma folha em transformação ou uma forma mantida é uma observação. O membro independente que organiza a vida é a explicação proposta pela fonte.",
+          "O exercício desenvolve descrição cuidadosa; não demonstra nem mede um corpo etérico."
+        ],
+        "sourceBasis": "A atividade do curso nasce do contraste da fonte entre forma mineral e forma mantida dos seres vivos. O arranjo de observação e o tempo flexível são nossa adaptação, e não uma instrução de exercício de Steiner."
+      }
+    },
+    {
+      "id": "sensation-and-response",
+      "category": "self-observation",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "sentient-soul"
+      ],
+      "conceptIds": [
+        "sentient-soul",
+        "sentient-body",
+        "feeling",
+        "willing"
+      ],
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            16,
+            17
+          ],
+          "readingIds": [
+            2
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            20,
+            22
+          ],
+          "readingIds": [
+            23
+          ]
+        }
+      ],
+      "en": {
+        "title": "Sensation, response and action",
+        "purpose": "Distinguish an experienced sensation, its personal significance and the action that may express an impulse.",
+        "duration": "A short pause after an ordinary encounter, as a course suggestion; no diary or repeated schedule is required.",
+        "steps": [
+          "Recall a recent ordinary sound, smell or sight, or use the fictional bakery encounter from the lesson.",
+          "Name the sensation and then the feeling or desire related to it. Do not treat them as the same thing.",
+          "Identify an action that followed, or that could have followed. Consider whether a thought changed the response.",
+          "If considering another person, separate what they told you from your interpretation. Leave their unreported inner experience open."
+        ],
+        "reflection": "How did the encounter become personally significant, and why was its expression in action not inevitable?",
+        "notes": [
+          "The source relates sensation to feeling and outward willing. A desire can be experienced without immediately becoming an action.",
+          "Naming your own response clarifies the concept. It does not classify a temperament or disclose another person’s spiritual constitution."
+        ],
+        "sourceBasis": "This is a course arrangement of the source’s distinction between sensation, personal response and willing. It is ordinary self-observation, not a prescribed supersensible exercise."
+      },
+      "pt": {
+        "title": "Sensação, resposta e ação",
+        "purpose": "Distinguir uma sensação vivenciada, seu significado pessoal e a ação que pode expressar um impulso.",
+        "duration": "Uma breve pausa depois de um encontro comum, como sugestão do curso; não é necessário diário nem horário repetido.",
+        "steps": [
+          "Lembre um som, cheiro ou imagem comum recente, ou use o encontro fictício da padaria na lição.",
+          "Nomeie a sensação e depois o sentimento ou desejo relacionado a ela. Não os trate como a mesma coisa.",
+          "Identifique uma ação que ocorreu ou poderia ter ocorrido. Considere se um pensamento mudou a resposta.",
+          "Se considerar outra pessoa, separe o que ela lhe contou de sua interpretação. Deixe em aberto sua experiência interior não relatada."
+        ],
+        "reflection": "Como o encontro ganhou significado pessoal e por que sua expressão em ação não era inevitável?",
+        "notes": [
+          "A fonte relaciona sensação a sentimento e ao querer que se expressa exteriormente. Um desejo pode ser vivenciado sem se tornar imediatamente uma ação.",
+          "Nomear sua resposta esclarece o conceito. Não classifica um temperamento nem revela a constituição espiritual de outra pessoa."
+        ],
+        "sourceBasis": "Este é um arranjo do curso a partir da distinção da fonte entre sensação, resposta pessoal e querer. É auto-observação comum, e não um exercício suprassensível prescrito."
+      }
+    },
+    {
+      "id": "reasons-and-preferences",
+      "category": "thinking",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "mind-soul",
+        "consciousness-soul"
+      ],
+      "conceptIds": [
+        "mind-soul",
+        "consciousness-soul",
+        "thinking",
+        "sentient-soul"
+      ],
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            22,
+            24
+          ],
+          "readingIds": [
+            4
+          ]
+        }
+      ],
+      "en": {
+        "title": "Reasons and preferences",
+        "purpose": "Compare thought organizing a desired outcome with thought examining whether a judgment or aim is justified.",
+        "duration": "About five to ten minutes, as a flexible course suggestion; use a small decision or a fictional case.",
+        "steps": [
+          "Choose a modest planning question, such as a travel route, or use the friend-visit example. Name the desired result.",
+          "Give a reasoned plan for reaching it. Distinguish the facts you know from assumptions or convenient guesses.",
+          "Ask what could justify revising your plan or aim, even if you dislike the revision. Consider one possible correction.",
+          "Explain the difference between wanting the outcome, organizing its means and accepting a sound reason. You may reflect without writing."
+        ],
+        "reflection": "Where did thought serve a preference, and where did it let a reason challenge that preference?",
+        "notes": [
+          "Organizing means is a real use of thought. It does not by itself establish the truth of every assumption or the goodness of the aim.",
+          "Accepting a correction illustrates the independence of a reason from liking. The activity does not certify spiritual rank or make every claimed duty correct."
+        ],
+        "sourceBasis": "The activity is our adaptation of Steiner’s transition from thinking in the service of personal life to truth and goodness beyond preference. Its steps and timing are not a historical exercise prescription."
+      },
+      "pt": {
+        "title": "Razões e preferências",
+        "purpose": "Comparar o pensar que organiza um resultado desejado com o pensar que examina se um julgamento ou objetivo é justificado.",
+        "duration": "Cerca de cinco a dez minutos, como sugestão flexível do curso; use uma decisão pequena ou um caso fictício.",
+        "steps": [
+          "Escolha uma pequena questão de planejamento, como um trajeto, ou use o exemplo da visita. Nomeie o resultado desejado.",
+          "Apresente um plano fundamentado para alcançá-lo. Distinga os fatos conhecidos de suposições ou palpites convenientes.",
+          "Pergunte o que poderia justificar revisar seu plano ou objetivo, mesmo que a revisão lhe desagrade. Considere uma correção possível.",
+          "Explique a diferença entre desejar o resultado, organizar seus meios e aceitar uma razão válida. Você pode refletir sem escrever."
+        ],
+        "reflection": "Onde o pensar serviu a uma preferência e onde permitiu que uma razão a questionasse?",
+        "notes": [
+          "Organizar meios é um uso real do pensar. Isso, por si só, não estabelece a verdade de toda suposição nem o bem do objetivo.",
+          "Aceitar uma correção ilustra a independência de uma razão em relação ao gosto. A atividade não certifica posição espiritual nem torna correto todo dever alegado."
+        ],
+        "sourceBasis": "A atividade é nossa adaptação da passagem de Steiner do pensar a serviço da vida pessoal à verdade e ao bem além da preferência. Seus passos e seu tempo não são uma prescrição histórica de exercício."
+      }
+    }
+  ]
+}

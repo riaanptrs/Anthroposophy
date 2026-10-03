@@ -1,6 +1,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import {esc} from './learning-html.mjs';
+import {esc,wholeElement} from './learning-html.mjs';
+import {conceptPlatformRoutes,isConceptPlatformOwned} from './concept-platform-owned.mjs';
+import {platformNav,platformSupportNav,platformArea} from './platform-architecture.mjs';
 import {isIntroductionOwned} from './link-constitution.mjs';
 import {isPracticalThinkingOwned,partSlugs} from './practical-thinking-owned.mjs';
 import {isBiodynamicOwned,biodynamicLessonIds,biodynamicStudyId} from './biodynamic-owned.mjs';
@@ -30,15 +32,34 @@ const beginnerSources=JSON.parse(fs.readFileSync('content/learning-system-source
 const introductionCourse=fs.existsSync('content/introduction-anthroposophy-course.json')?JSON.parse(fs.readFileSync('content/introduction-anthroposophy-course.json','utf8')):null;
 const introductionSourceMap=introductionCourse?JSON.parse(fs.readFileSync('content/introduction-anthroposophy-source-map.json','utf8')):null;
 const errors = [];
+const platformRoutes = conceptPlatformRoutes();
 const nativeBiodynamicFiles = files.filter(relative=>isBiodynamicOwned(relative,fs.readFileSync(path.join(root,relative),'utf8')));
 let nativeBiodynamicData = null;
 if (nativeBiodynamicFiles.length) {
  try { nativeBiodynamicData = biodynamicCourseData(); }
  catch (error) { errors.push('Native biodynamics course data: '+error.message); }
 }
-const guidedTheosophy=(relative,html)=>/^(?:pt\/)?(?:lessons\/\d{2}\.html|theosophy\/)/.test(relative.replaceAll('\\','/'))&&html.includes('data-theosophy-owned="true"');
+const guidedTheosophy=(relative,html)=>/^(?:pt\/)?(?:lessons\/\d{2}\.html|(?:read\/)?theosophy\/)/.test(relative.replaceAll('\\','/'))&&html.includes('data-theosophy-owned="true"');
+function checkPlatformNavigation(relative,file,html) {
+ const route=relative.replaceAll('\\','/'),lang=route.startsWith('pt/')?'pt':'en',logical='docs/'+route;
+ const primary=[...html.matchAll(/<nav\b[^>]*\bdata-platform-nav(?:\s|=|>)[^>]*>/g)];
+ const system=[...html.matchAll(/<nav\b[^>]*\bclass="[^"]*\bsystem-nav\b[^"]*"[^>]*>/g)];
+ const support=[...html.matchAll(/<nav\b[^>]*\bdata-platform-support(?:\s|=|>)[^>]*>/g)];
+ if(primary.length!==1||system.length!==1)errors.push(`${relative}: expected one four-area primary navigation`);
+ if(support.length!==1)errors.push(`${relative}: expected one supporting navigation`);
+ try {
+  if(primary.length===1&&wholeElement(html.slice(primary[0].index),primary[0][0])!==platformNav(logical,lang,platformArea(route,html)))errors.push(`${relative}: incorrect primary destinations or current area`);
+  if(support.length===1){
+   if(wholeElement(html.slice(support[0].index),support[0][0])!==platformSupportNav(logical,lang))errors.push(`${relative}: incorrect supporting destinations`);
+   const footer=html.lastIndexOf('<footer',support[0].index),end=footer<0?-1:html.indexOf('</footer>',footer);
+   if(footer<0||end<support[0].index)errors.push(`${relative}: supporting navigation must be in the footer`);
+  }
+ } catch(error) { errors.push(`${relative}: invalid platform navigation: ${error.message}`); }
+}
 for (const relative of files) {
  const file = path.join(root,relative), html = fs.readFileSync(file,'utf8');
+ const normalized=relative.replaceAll('\\','/'),platformOwned=isConceptPlatformOwned(normalized,html);
+ if(html.includes('data-concept-platform-owned="true"')&&!platformOwned)errors.push(`${relative}: conceptual ownership outside exact route manifest`);
  const answerDetails=(html.match(/<details(?! class="guided-)\b/g)||[]).length;
  const ids = [...html.matchAll(/\sid="([^"]+)"/g)].map(m=>m[1]);
  if(new Set(ids).size!==ids.length) errors.push(`${relative}: duplicate id`);
@@ -53,6 +74,17 @@ for (const relative of files) {
   if(fs.existsSync(target)&&fs.statSync(target).isDirectory()) target=path.join(target,'index.html');
   if(!fs.existsSync(target)) {errors.push(`${relative}: missing ${href}`);continue;}
   if(anchor&&!fs.readFileSync(target,'utf8').includes(`id="${anchor}"`)) errors.push(`${relative}: missing anchor ${href}`);
+ }
+ checkPlatformNavigation(relative,file,html);
+ if(platformOwned){
+  const lang=normalized.startsWith('pt/')?'pt':'en',partner=path.join(root,lang==='pt'?normalized.slice(3):'pt/'+normalized);
+  if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong conceptual page language`);
+  const alternate=html.match(/<link rel="alternate"[^>]*href="([^"]+)"/);
+  if(!alternate||path.resolve(path.dirname(file),alternate[1])!==partner)errors.push(`${relative}: incorrect conceptual language partner`);
+  if(/Starting in|capture-software|C:\\Users\\|sediment:\/\/|\/workspace\/attachments\//.test(html))errors.push(`${relative}: private conceptual source noise leaked`);
+  // The new manifest owns its teaching layout. Shared shell/link checks above
+  // still run; source-ordered courses retain all of their checks below.
+  continue;
  }
  if(relative.includes('lessons')&&!/(?:^|[\\/])learn[\\/]/.test(relative)) {
   if(isBiodynamicOwned(relative,html)&&/\/lessons\/\d{2}\.html$/.test(relative.replaceAll('\\','/'))){
@@ -224,19 +256,8 @@ if(nativeBiodynamicData){
    if(!lessonRoutes.includes(relative))errors.push('Missing owned native lesson '+relative);
   }
  }
- for(const relative of nativeBiodynamicFiles){
-  const file=path.join(root,relative),html=fs.readFileSync(file,'utf8'),prefix=relative.replaceAll('\\','/').startsWith('pt/')?'pt/':'';
-  const navs=[...html.matchAll(/<nav\b[^>]*class="system-nav"[^>]*>[\s\S]*?<\/nav>/g)];
-  if(navs.length!==1){errors.push(`${relative}: expected one native system navigation`);continue;}
-  const links=[...navs[0][0].matchAll(/href="([^"]+)"/g)];
-  if(links.length!==4)errors.push(`${relative}: expected four native system destinations`);
-  for(const destination of ['learn','books','themes','research']){
-   const target=path.join(root,prefix,destination,'index.html');
-   if(!links.some(link=>path.resolve(path.dirname(file),link[1])===target))errors.push(`${relative}: missing native ${destination} destination`);
-  }
-  const books=path.relative(path.dirname(file),path.join(root,prefix,'books/index.html')).replaceAll('\\','/');
-  if(!navs[0][0].includes(`aria-current="true" href="${books}"`))errors.push(`${relative}: native book layer must be current`);
- }
+ // Native courses share the same four-area/footer contract checked for every
+ // page above; their source, notebook and exact lesson inventory remain checked.
 }
 for(const [course,entries] of Object.entries(freedomConnections)) for(const [id,entry] of Object.entries(entries)) {
  for(const [lang,index] of [['en',2],['pt',3]]) {
@@ -267,7 +288,7 @@ if(lukeLessons.length!==12||new Set(lukeLessons.map(l=>l.id)).size!==12)errors.p
 if(lukeLessons.filter(l=>l.lecture).map(l=>l.lecture).join(',')!=='1,2,3,4,5,6,7,8,9,10')errors.push('GA 114 must cover ten lectures in order');
 for(const prefix of ['','pt/']){
  const home=fs.readFileSync(path.join(root,prefix,'books','index.html'),'utf8');
- if((home.match(/<!-- luke-card:start -->/g)||[]).length!==1)errors.push(`${prefix}index.html: expected one GA 114 course card`);
+ if(isConceptPlatformOwned(prefix+'books/index.html',home)?(home.match(/href="\.\.\/according-to-luke\/index\.html"/g)||[]).length!==1:(home.match(/<!-- luke-card:start -->/g)||[]).length!==1)errors.push(`${prefix}books/index.html: expected one GA 114 course entry`);
  for(let id=0;id<=11;id++)if(!fs.existsSync(path.join(root,prefix,'according-to-luke','lessons',String(id).padStart(2,'0')+'.html')))errors.push(`Missing GA 114 ${prefix}${id}`);
  for(const c of lukeConnections){
   const html=fs.readFileSync(path.join(root,prefix,c.target),'utf8'),v=c[prefix?'pt':'en'];
@@ -279,7 +300,7 @@ if(colourLessons.length!==14||colourLessons.map(l=>l.id).join(',')!=='0,1,2,3,4,
 if(colourLessons.filter(l=>l.lecture).map(l=>l.lecture).join(',')!=='1,2,3,4,5,6,7,8,9,10,11,12')errors.push('Colour must cover twelve lectures');
 for(const prefix of ['', 'pt/']){
  const home=fs.readFileSync(path.join(root,prefix,'books','index.html'),'utf8');
- if((home.match(/<!-- colour-card:start -->/g)||[]).length!==1)errors.push(prefix+'index.html: missing or repeated Colour card');
+ if(isConceptPlatformOwned(prefix+'books/index.html',home)?(home.match(/href="\.\.\/colour\/index\.html"/g)||[]).length!==1:(home.match(/<!-- colour-card:start -->/g)||[]).length!==1)errors.push(prefix+'books/index.html: missing or repeated Colour entry');
  for(const l of colourLessons){
   const p=path.join(root,prefix,'colour','lessons',String(l.id).padStart(2,'0')+'.html');
   if(!fs.existsSync(p)){errors.push('Missing '+p);continue;}
@@ -326,7 +347,7 @@ if(selfLessons.map(l=>l.id).join(',')!=='0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,1
 if(selfLessons.map(l=>l.section).join(',')!=='orientation,peter,monica,dear-parents,biography,second-seven-years,seven-and-twelve,move-within-house,curriculum,disturbances,incarnation,school-doctor,sapling,moon-nodes,teeth,form-drawing,synthesis')errors.push('Incorrect Koepke section coverage');
 for(const prefix of ['', 'pt/']){
  const home=fs.readFileSync(path.join(root,prefix,'books','index.html'),'utf8');
- if((home.match(/<!-- self-card:start -->/g)||[]).length!==1)errors.push(prefix+'index.html: missing or repeated Koepke card');
+ if(isConceptPlatformOwned(prefix+'books/index.html',home)?(home.match(/href="\.\.\/encountering-the-self\/index\.html"/g)||[]).length!==1:(home.match(/<!-- self-card:start -->/g)||[]).length!==1)errors.push(prefix+'books/index.html: missing or repeated Koepke entry');
  for(const l of selfLessons){
   const p=path.join(root,prefix,'encountering-the-self','lessons',String(l.id).padStart(2,'0')+'.html');
   if(!fs.existsSync(p)){errors.push('Missing '+p);continue;}
@@ -343,7 +364,9 @@ for(const prefix of ['', 'pt/']){
 // Derive an exact route inventory from the publication data. Shared English research
 // notes are published once; Portuguese indexes link those same documents.
 const expectedRoutes=new Set();
+for(const route of platformRoutes)expectedRoutes.add(route);
 for(const prefix of ['', 'pt/']){
+ expectedRoutes.add(prefix+'read/theosophy/index.html');
  for(const route of ['index.html','books/index.html','learn/index.html','themes/index.html','research/index.html','reference/human-constitution.html'])expectedRoutes.add(prefix+route);
  for(const source of beginnerSources)expectedRoutes.add(prefix+'learn/lessons/'+String(source.id).padStart(2,'0')+'.html');
  for(const course of catalogue.courses){
@@ -380,5 +403,6 @@ if(courseFiles.length!==expectedRoutes.size)errors.push(`Expected ${expectedRout
 const actualRoutes=new Set(courseFiles);
 for(const route of expectedRoutes)if(!actualRoutes.has(route))errors.push('Missing published route '+route);
 for(const route of actualRoutes)if(!expectedRoutes.has(route))errors.push('Unexpected published route '+route);
+for(const route of platformRoutes)if(actualRoutes.has(route)&&!isConceptPlatformOwned(route,fs.readFileSync(path.join(root,route),'utf8')))errors.push('Missing conceptual ownership '+route);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
 console.log(`Passed: ${files.length} pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.`);

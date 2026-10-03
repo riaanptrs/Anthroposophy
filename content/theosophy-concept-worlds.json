@@ -1,0 +1,2525 @@
+{
+  "moduleIds": [
+    "spiritual-worlds"
+  ],
+  "lessons": [
+    {
+      "id": "three-worlds",
+      "moduleId": "spiritual-worlds",
+      "primaryConceptId": "three-worlds",
+      "termIds": [
+        "three-worlds",
+        "body-soul-spirit",
+        "soul-world",
+        "spirit-land",
+        "spiritual-knowledge"
+      ],
+      "conceptIds": [
+        "three-worlds",
+        "body-soul-spirit",
+        "soul-world",
+        "spirit-land",
+        "thinking",
+        "feeling",
+        "spiritual-knowledge"
+      ],
+      "connections": [
+        {
+          "id": "body-soul-spirit",
+          "en": "The distinction between bodily sensation, soul response and spiritual understanding opens the question of the worlds in which these activities participate.",
+          "pt": "A distinção entre sensação corporal, resposta da alma e compreensão espiritual abre a pergunta pelos mundos de que essas atividades participam."
+        },
+        {
+          "id": "spiritual-knowledge",
+          "en": "Steiner's claim about independent worlds also raises the question of what kind of perception could justify knowledge of them.",
+          "pt": "A afirmação de Steiner sobre mundos independentes também levanta a pergunta sobre o tipo de percepção que poderia fundamentar o conhecimento deles."
+        },
+        {
+          "id": "soul-world",
+          "en": "The next lesson examines the relations of affinity through which Steiner characterizes the soul world.",
+          "pt": "A próxima lição examina as relações de afinidade pelas quais Steiner caracteriza o mundo anímico."
+        }
+      ],
+      "practiceId": null,
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            42,
+            47
+          ],
+          "readingIds": [
+            10
+          ]
+        }
+      ],
+      "en": {
+        "title": "One experience, three questions",
+        "question": "What changes when we distinguish what we sense, how we respond and what we understand?",
+        "experience": [
+          "Consider hearing a familiar melody. Its volume and rhythm reach you through the senses; it may stir pleasure or unease; you may also recognize a pattern or understand how one phrase answers another. These aspects belong to the same encounter, yet describing one does not completely describe the others.",
+          "You can make this distinction without deciding in advance what the soul or spirit is. It gives us an ordinary starting point for asking why Steiner speaks of three worlds."
+        ],
+        "centralIdea": "Steiner presents the physical world, the soul world and Spirit-land as three real, interpenetrating domains with different kinds of activity and perception. The distinction is broader than a classification of our subjective experiences.",
+        "explanation": [
+          "A sensory description concerns what bodily perception discloses: sound, color, movement or resistance. A soul description concerns the response that makes an encounter personally significant: attraction, aversion, desire or feeling. A spiritual description concerns the intelligible content we can grasp, such as a relation, law or meaning. Distinguishing these questions helps us read Steiner's terminology without treating every inward experience as the same thing.",
+          "Steiner takes a further step. He maintains that soul and spirit belong to realities that can be perceived through suitable capacities, just as physical things become perceptible through the senses. The analogy explains his claim; ordinary introspection does not by itself demonstrate the independent existence of the worlds he describes. His account asks us to distinguish an experience we can presently examine from a claim about a wider spiritual reality.",
+          "For Steiner, these worlds do not occupy three separate locations. They interpenetrate, while their activities and relations differ. A soul formation is not simply physical matter made thinner, and a spiritual being is not a bodily object hidden behind another bodily object. His discussion of manifestations emphasizes that a being becomes known through the way it discloses itself, rather than through an inaccessible object concealed behind all appearances.",
+          "Language becomes difficult when descriptions move beyond physical perception. Words such as substance, light or movement can indicate a comparison without carrying every property of a physical substance, lamp or moving body. We will therefore ask what relation a description is meant to illuminate. Later lessons distinguish the soul world's affinities from Spirit-land's creative archetypes, while keeping the person embodied in all three worlds."
+        ],
+        "distinction": "Noticing sensation, feeling and understanding gives a useful distinction within ordinary experience. Steiner's assertion that these activities participate in independent worlds is a further spiritual claim, which this course presents as his account.",
+        "reflection": {
+          "question": "Choose an ordinary encounter. What did you sense, how did you respond, and what did you understand? Where would a claim about an independent world require an additional premise?",
+          "notes": [
+            "With the melody, you might sense volume, rhythm and the sequence of sounds; respond with pleasure, unease or an impulse to keep listening; and understand how a repeated phrase organizes the piece. The sensory description does not state your feeling, and the feeling does not explain the musical relation. A claim that these participate in independent worlds requires the further premise that soul and spiritual realities exist and can be appropriately perceived; the three-part description alone does not establish that premise.",
+            "A short, impersonal example is enough. The purpose is to separate questions clearly, not to classify your whole personality or establish a spiritual perception.",
+            "You may leave the wider claim open while following the distinctions that make Steiner's account intelligible."
+          ]
+        },
+        "takeaways": [
+          "The physical, soul and spiritual questions describe different aspects of one embodied encounter.",
+          "Steiner treats the three worlds as real domains, not merely names for private experiences.",
+          "Interpenetration does not mean three physical places or three layers of increasingly thin matter.",
+          "Descriptions using physical words need to be read according to the relation they are meant to express.",
+          "Understanding a claim and deciding how it could be known are related but distinct tasks."
+        ],
+        "deeper": [
+          {
+            "title": "What an organ analogy can and cannot establish",
+            "paragraphs": [
+              "Steiner compares the disclosure of higher worlds with the disclosure of physical qualities through an appropriate organ. In the chapter, this supports his account of perception developing with the perceiver. It does not turn a classroom exercise in attention into proof that such organs have developed.",
+              "Keep two questions available: what would the proposed capacity disclose, and what grounds would let us distinguish its disclosure from imagination or inference? The later module on spiritual knowledge addresses the discipline Steiner associates with that question."
+            ]
+          },
+          {
+            "title": "Reading descriptions of another kind of reality",
+            "paragraphs": [
+              "A comparison is useful when it preserves a relation. For example, several activities can coexist in one situation without being separated by physical walls. That does not mean that every feature of the example carries over to Steiner's worlds.",
+              "When a term sounds material, ask whether the passage is asserting physical properties or using familiar language to indicate an unfamiliar kind of activity."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Uma experiência, três perguntas",
+        "question": "O que muda quando distinguimos o que percebemos, como respondemos e o que compreendemos?",
+        "experience": [
+          "Pense em ouvir uma melodia conhecida. Seu volume e seu ritmo chegam pelos sentidos; ela pode despertar prazer ou inquietação; você também pode reconhecer um padrão ou compreender como uma frase musical responde à outra. Esses aspectos pertencem ao mesmo encontro, mas descrever um deles não descreve inteiramente os outros.",
+          "Você pode fazer essa distinção sem decidir de antemão o que são a alma e o espírito. Ela oferece um ponto de partida cotidiano para perguntar por que Steiner fala de três mundos."
+        ],
+        "centralIdea": "Steiner apresenta o mundo físico, o mundo anímico e a região espiritual como três domínios reais que se interpenetram, com diferentes tipos de atividade e percepção. A distinção vai além de uma classificação de nossas experiências subjetivas.",
+        "explanation": [
+          "Uma descrição sensorial trata do que a percepção corporal revela: som, cor, movimento ou resistência. Uma descrição anímica trata da resposta que torna um encontro pessoalmente significativo: atração, aversão, desejo ou sentimento. Uma descrição espiritual trata do conteúdo inteligível que podemos apreender, como uma relação, uma lei ou um significado. Distinguir essas perguntas ajuda a ler a terminologia de Steiner sem tratar toda experiência interior como a mesma coisa.",
+          "Steiner dá um passo adicional. Ele sustenta que alma e espírito pertencem a realidades perceptíveis por capacidades apropriadas, assim como as coisas físicas se tornam perceptíveis pelos sentidos. A analogia explica sua afirmação; a introspecção cotidiana, por si só, não demonstra a existência independente dos mundos que ele descreve. Seu relato pede que distingamos uma experiência que podemos examinar agora de uma afirmação sobre uma realidade espiritual mais ampla.",
+          "Para Steiner, esses mundos não ocupam três lugares separados. Eles se interpenetram, embora suas atividades e relações sejam diferentes. Uma formação anímica não é simplesmente matéria física tornada mais sutil, e um ser espiritual não é um objeto corporal oculto atrás de outro objeto corporal. Sua discussão das manifestações enfatiza que um ser se torna conhecido pelo modo como se revela, e não por um objeto inacessível escondido atrás de todas as aparências.",
+          "A linguagem se torna difícil quando as descrições ultrapassam a percepção física. Palavras como substância, luz ou movimento podem indicar uma comparação sem trazer consigo todas as propriedades de uma substância física, de uma lâmpada ou de um corpo em movimento. Por isso, perguntaremos que relação uma descrição procura esclarecer. As próximas lições distinguem as afinidades do mundo anímico dos arquétipos criadores da região espiritual, mantendo a pessoa encarnada nos três mundos."
+        ],
+        "distinction": "Perceber sensação, sentimento e compreensão oferece uma distinção útil dentro da experiência cotidiana. A afirmação de Steiner de que essas atividades participam de mundos independentes é uma afirmação espiritual adicional, apresentada neste curso como parte de seu relato.",
+        "reflection": {
+          "question": "Escolha um encontro cotidiano. O que você percebeu, como respondeu e o que compreendeu? Em que ponto uma afirmação sobre um mundo independente exigiria uma premissa adicional?",
+          "notes": [
+            "Com a melodia, você pode perceber volume, ritmo e sequência de sons; responder com prazer, inquietação ou vontade de continuar ouvindo; e compreender como uma frase repetida organiza a peça. A descrição sensorial não enuncia seu sentimento, e o sentimento não explica a relação musical. A afirmação de que esses aspectos participam de mundos independentes exige a premissa adicional de que realidades anímicas e espirituais existem e podem ser percebidas de modo apropriado; a descrição em três partes, sozinha, não estabelece essa premissa.",
+            "Basta um exemplo breve e impessoal. O objetivo é separar as perguntas com clareza, não classificar toda a sua personalidade nem estabelecer uma percepção espiritual.",
+            "Você pode deixar a afirmação mais ampla em aberto enquanto acompanha as distinções que tornam o relato de Steiner compreensível."
+          ]
+        },
+        "takeaways": [
+          "As perguntas física, anímica e espiritual descrevem aspectos diferentes de um mesmo encontro encarnado.",
+          "Steiner trata os três mundos como domínios reais, e não apenas como nomes para experiências privadas.",
+          "Interpenetração não significa três lugares físicos nem três camadas de matéria cada vez mais sutil.",
+          "Descrições que usam palavras físicas precisam ser lidas segundo a relação que procuram expressar.",
+          "Compreender uma afirmação e decidir como ela poderia ser conhecida são tarefas relacionadas, mas distintas."
+        ],
+        "deeper": [
+          {
+            "title": "O que uma analogia com órgãos pode e não pode estabelecer",
+            "paragraphs": [
+              "Steiner compara a revelação dos mundos superiores à revelação de qualidades físicas por um órgão apropriado. No capítulo, isso sustenta seu relato de uma percepção que se desenvolve com quem percebe. Não transforma um exercício de atenção em sala de aula em prova de que esses órgãos se desenvolveram.",
+              "Mantenha duas perguntas disponíveis: o que a capacidade proposta revelaria, e que fundamentos permitiriam distinguir essa revelação da imaginação ou da inferência? O módulo posterior sobre conhecimento espiritual trata da disciplina que Steiner associa a essa pergunta."
+            ]
+          },
+          {
+            "title": "Ler descrições de outra espécie de realidade",
+            "paragraphs": [
+              "Uma comparação é útil quando preserva uma relação. Por exemplo, várias atividades podem coexistir em uma situação sem estarem separadas por paredes físicas. Isso não significa que todas as características do exemplo se apliquem aos mundos de Steiner.",
+              "Quando um termo parecer material, pergunte se a passagem afirma propriedades físicas ou usa uma linguagem familiar para indicar um tipo de atividade pouco familiar."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "soul-affinities",
+      "moduleId": "spiritual-worlds",
+      "primaryConceptId": "sympathy-antipathy",
+      "termIds": [
+        "soul-world",
+        "sympathy-antipathy"
+      ],
+      "conceptIds": [
+        "soul-world",
+        "sympathy-antipathy",
+        "feeling",
+        "purification"
+      ],
+      "connections": [
+        {
+          "id": "feeling",
+          "en": "An ordinary feeling provides a starting example of response, while Steiner's soul-world forces concern relations among soul formations beyond that example.",
+          "pt": "Um sentimento cotidiano oferece um exemplo inicial de resposta, enquanto as forças do mundo anímico de Steiner dizem respeito a relações entre formações anímicas que ultrapassam esse exemplo."
+        },
+        {
+          "id": "purification",
+          "en": "The later account of purification uses the same regions to describe how bodily attachments are released after death.",
+          "pt": "O relato posterior da purificação usa as mesmas regiões para descrever como os vínculos com a existência corporal se desfazem após a morte."
+        }
+      ],
+      "practiceId": "observe-a-response",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            47,
+            50
+          ],
+          "readingIds": [
+            25
+          ]
+        }
+      ],
+      "en": {
+        "title": "What draws us in, and what keeps us separate?",
+        "question": "How can attraction include both openness to something and a wish to possess it?",
+        "experience": [
+          "Imagine being offered an unfamiliar idea. You might reject it immediately, hear it without strong preference, or welcome it because it promises something you want. Even a welcome can have different motives: discovering what the idea means, or making it serve an existing wish.",
+          "This small example helps us distinguish attraction from openness. It also shows why a technical word such as sympathy cannot simply mean kindness."
+        ],
+        "centralIdea": "Steiner describes sympathy and antipathy as the attracting and separating forces of the soul world. Their different relations organize seven interpenetrating regions, rather than a scale on which to rank people.",
+        "explanation": [
+          "In ordinary conversation, sympathy often means concern for another person, and antipathy means dislike. Steiner uses the words more broadly. Sympathy draws a soul formation toward others and seeks union; antipathy separates it, excludes what it encounters and maintains its own identity. The two words name a relation between formations before they name a moral judgment about a human action.",
+          "This makes possessive attraction possible. In the Region of Burning Desire, sympathy draws something in while stronger antipathy keeps it enclosed within a self-centered formation. In Flowing Excitability the forces balance: an impression is received without the strong appropriation of the first region. In Wishes, sympathy predominates, but remaining antipathy still directs what is attracted toward the formation's own sphere. The difference concerns how attraction and separation combine, not simply how intense a feeling is.",
+          "Attraction and Repulsion, the fourth region, marks a transition. Here Steiner describes sympathy among the parts of a formation as inward liking; a diminished degree appears as disliking. This account should not be flattened into another numerical ratio of the two forces. The fourth region joins the three lower regions to the three higher ones within the chapter's organization.",
+          "In Soul Light, Active Soul Force and Soul Life, sympathy opens outward and enlivens other formations. The first subsection describes these three together rather than supplying three separate everyday personality types. The next lesson shows how Steiner differentiates their role in release from bodily attachments. Throughout this description, regions interpenetrate: a region is a kind of relation and activity, not a floor above another floor or a grade earned by a person."
+        ],
+        "distinction": "Steiner's sympathy and antipathy are technical terms for attraction, union, separation and self-maintenance. They do not make every attraction good, every boundary bad, or every human relationship evidence of a particular soul region.",
+        "reflection": {
+          "question": "In an impersonal example, can you distinguish receiving something, wanting to possess it and allowing it to change your understanding?",
+          "notes": [
+            "Receiving an unfamiliar idea can mean letting its content register before deciding what to do with it. Possessive attraction can mean welcoming only the parts that strengthen an existing opinion or serve a desired result. Openness means attending to what the idea actually says and allowing it to correct that opinion. These responses distinguish reception, appropriation and a less self-enclosed relation; they do not locate a person in one of Steiner's regions.",
+            "Use this as a comparison that clarifies the terms. Do not assign yourself or another person a soul-world region.",
+            "An appropriate boundary in everyday life can be necessary. The source's description of spiritual relations does not remove the need for judgment about concrete situations."
+          ]
+        },
+        "takeaways": [
+          "Sympathy attracts and seeks union; antipathy separates and preserves a formation's identity.",
+          "Attraction can remain possessive when separation directs what is attracted into one's own sphere.",
+          "The first three regions distinguish different relations of sympathy and antipathy.",
+          "The fourth region concerns inward liking and disliking and connects the lower and higher regions.",
+          "The three higher regions emphasize outward, enlivening sympathy.",
+          "The seven regions interpenetrate and are not personality grades or physical locations."
+        ],
+        "comparisons": [
+          {
+            "title": "The seven soul-world regions in Steiner's account",
+            "headers": [
+              "Source designation",
+              "Organizing relation",
+              "Reading distinction"
+            ],
+            "rows": [
+              [
+                "1. Region of Burning Desire",
+                "Both forces act, with antipathy predominating; attraction serves enclosure within the formation's own sphere.",
+                "Being strongly drawn to something need not mean openness to it."
+              ],
+              [
+                "2. Region of Flowing Excitability",
+                "Sympathy and antipathy balance, permitting a relatively neutral, changeable reception of impressions.",
+                "Receiving an impression is distinguished from enjoying or appropriating it."
+              ],
+              [
+                "3. Region of Wishes",
+                "Sympathy predominates, while remaining antipathy directs attraction toward the formation's own sphere.",
+                "The wish reaches outward but still seeks fulfillment for itself."
+              ],
+              [
+                "4. Region of Attraction and Repulsion",
+                "Sympathy among a formation's own parts appears as liking; its diminution appears as disliking.",
+                "This is the transition linking three lower and three higher regions."
+              ],
+              [
+                "5. Region of Soul Light",
+                "Part of the higher three, in which sympathy opens outward and enlivens other formations.",
+                "The opening description groups the higher three; their different roles are developed in the account of purification."
+              ],
+              [
+                "6. Region of Active Soul Force",
+                "Part of the higher three, in which sympathy opens outward and enlivens other formations.",
+                "The designation concerns soul activity, not physical energy measurable by an instrument."
+              ],
+              [
+                "7. Region of Soul Life",
+                "Part of the higher three, in which sympathy opens outward and enlivens other formations.",
+                "The designation does not make the regions separate physical strata."
+              ]
+            ]
+          }
+        ],
+        "deeper": [
+          {
+            "title": "A relation is different from a moral label",
+            "paragraphs": [
+              "The first region is not described by an absence of attraction. It is described by attraction combined with a stronger enclosing force. This detail matters because a learner can otherwise mistake sympathy for an uncomplicated virtue and antipathy for an uncomplicated fault.",
+              "Reading the regions as relations preserves the chapter's movement from appropriation toward participation. It also prevents an everyday response from being treated as a diagnosis of a person's spiritual condition."
+            ]
+          },
+          {
+            "title": "Why the table is not a map of places",
+            "paragraphs": [
+              "Steiner says the regions interpenetrate. A table separates their descriptions for study, but it must not suggest walls, geographic distances or a uniform ladder every person climbs in the same way.",
+              "The source later makes affinity central to the duration and extent of purification. That is a separate claim about the life after death, developed in the next lesson."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "O que nos atrai e o que nos mantém separados?",
+        "question": "Como a atração pode incluir tanto abertura a algo quanto vontade de possuí-lo?",
+        "experience": [
+          "Imagine que alguém lhe apresente uma ideia pouco familiar. Você pode rejeitá-la de imediato, ouvi-la sem forte preferência ou acolhê-la porque promete algo que você deseja. Mesmo um acolhimento pode ter motivos diferentes: descobrir o significado da ideia ou fazê-la servir a um desejo já existente.",
+          "Esse pequeno exemplo ajuda a distinguir atração de abertura. Também mostra por que uma palavra técnica como simpatia não pode significar apenas bondade."
+        ],
+        "centralIdea": "Steiner descreve simpatia e antipatia como as forças de atração e separação do mundo anímico. Suas diferentes relações organizam sete regiões que se interpenetram, e não uma escala para classificar pessoas.",
+        "explanation": [
+          "Na conversa cotidiana, simpatia costuma significar consideração por outra pessoa, e antipatia significa aversão. Steiner usa as palavras de maneira mais ampla. A simpatia atrai uma formação anímica para outras e procura união; a antipatia a separa, exclui o que ela encontra e mantém sua própria identidade. As duas palavras designam uma relação entre formações antes de designar um julgamento moral sobre uma ação humana.",
+          "Isso torna possível uma atração possessiva. Na Região do Desejo Ardente, a simpatia atrai algo, enquanto uma antipatia mais forte o mantém encerrado em uma formação centrada em si mesma. Na Excitabilidade Fluente, as forças se equilibram: uma impressão é recebida sem a forte apropriação da primeira região. Na Região dos Anseios (Wishes), a simpatia predomina, mas a antipatia restante ainda dirige o que é atraído para a esfera da própria formação. A diferença está em como atração e separação se combinam, e não apenas na intensidade de um sentimento.",
+          "Atração e Repulsão, a quarta região, marca uma transição. Nela, Steiner descreve a simpatia entre as partes de uma formação como agrado interior; um grau diminuído aparece como desagrado. Esse relato não deve ser reduzido a outra proporção numérica entre as duas forças. A quarta região liga as três regiões inferiores às três superiores na organização do capítulo.",
+          "Na Luz Anímica, na Força Anímica Ativa e na Vida Anímica, a simpatia se abre para fora e vivifica outras formações. A primeira subseção descreve essas três em conjunto, em vez de fornecer três tipos distintos de personalidade cotidiana. A próxima lição mostra como Steiner diferencia seu papel no desprendimento dos vínculos com a existência corporal. Ao longo dessa descrição, as regiões se interpenetram: uma região é uma espécie de relação e atividade, não um andar acima de outro nem uma nota obtida por uma pessoa."
+        ],
+        "distinction": "Simpatia e antipatia são, em Steiner, termos técnicos para atração, união, separação e manutenção de uma identidade própria. Eles não tornam toda atração boa, todo limite ruim nem toda relação humana uma prova de determinada região anímica.",
+        "reflection": {
+          "question": "Em um exemplo impessoal, você consegue distinguir receber algo, querer possuí-lo e permitir que isso mude sua compreensão?",
+          "notes": [
+            "Receber uma ideia pouco familiar pode significar deixar seu conteúdo se apresentar antes de decidir o que fazer com ele. A atração possessiva pode significar acolher apenas as partes que fortalecem uma opinião já existente ou servem a um resultado desejado. A abertura significa prestar atenção ao que a ideia efetivamente diz e permitir que ela corrija essa opinião. Essas respostas distinguem recepção, apropriação e uma relação menos encerrada em si mesma; não localizam uma pessoa em uma das regiões de Steiner.",
+            "Use essa comparação para esclarecer os termos. Não atribua uma região do mundo anímico a você ou a outra pessoa.",
+            "Um limite adequado na vida cotidiana pode ser necessário. A descrição de relações espirituais na fonte não dispensa o julgamento sobre situações concretas."
+          ]
+        },
+        "takeaways": [
+          "A simpatia atrai e procura união; a antipatia separa e preserva a identidade de uma formação.",
+          "A atração pode continuar possessiva quando a separação dirige o que é atraído para a própria esfera.",
+          "As três primeiras regiões distinguem diferentes relações entre simpatia e antipatia.",
+          "A quarta região trata do agrado e do desagrado interiores e liga as regiões inferiores às superiores.",
+          "As três regiões superiores enfatizam a simpatia que se abre para fora e vivifica.",
+          "As sete regiões se interpenetram e não são graus de personalidade nem lugares físicos."
+        ],
+        "comparisons": [
+          {
+            "title": "As sete regiões do mundo anímico no relato de Steiner",
+            "headers": [
+              "Designação da fonte",
+              "Relação organizadora",
+              "Distinção para a leitura"
+            ],
+            "rows": [
+              [
+                "1. Região do Desejo Ardente",
+                "As duas forças atuam, com predomínio da antipatia; a atração serve ao encerramento na esfera da própria formação.",
+                "Sentir-se fortemente atraído por algo não significa necessariamente abertura a ele."
+              ],
+              [
+                "2. Região da Excitabilidade Fluente",
+                "Simpatia e antipatia se equilibram, permitindo uma recepção relativamente neutra e mutável das impressões.",
+                "Receber uma impressão é distinguido de desfrutá-la ou apropriar-se dela."
+              ],
+              [
+                "3. Região dos Anseios (Wishes)",
+                "A simpatia predomina, enquanto a antipatia restante dirige a atração para a esfera da própria formação.",
+                "O anseio se dirige para fora, mas ainda procura satisfação para si."
+              ],
+              [
+                "4. Região da Atração e Repulsão",
+                "A simpatia entre as partes de uma formação aparece como agrado; sua diminuição aparece como desagrado.",
+                "É a transição que liga três regiões inferiores a três regiões superiores."
+              ],
+              [
+                "5. Região da Luz Anímica",
+                "Integra as três regiões superiores, nas quais a simpatia se abre para fora e vivifica outras formações.",
+                "A descrição inicial reúne as três superiores; seus diferentes papéis são desenvolvidos no relato da purificação."
+              ],
+              [
+                "6. Região da Força Anímica Ativa",
+                "Integra as três regiões superiores, nas quais a simpatia se abre para fora e vivifica outras formações.",
+                "A designação diz respeito à atividade anímica, não à energia física mensurável por um instrumento."
+              ],
+              [
+                "7. Região da Vida Anímica",
+                "Integra as três regiões superiores, nas quais a simpatia se abre para fora e vivifica outras formações.",
+                "A designação não transforma as regiões em estratos físicos separados."
+              ]
+            ]
+          }
+        ],
+        "deeper": [
+          {
+            "title": "Uma relação é diferente de um rótulo moral",
+            "paragraphs": [
+              "A primeira região não é descrita pela ausência de atração. Ela é descrita pela atração combinada com uma força de encerramento mais forte. Esse detalhe importa porque, do contrário, quem estuda pode confundir simpatia com uma virtude simples e antipatia com uma falha simples.",
+              "Ler as regiões como relações preserva o movimento do capítulo da apropriação para a participação. Também impede que uma resposta cotidiana seja tratada como diagnóstico da condição espiritual de uma pessoa."
+            ]
+          },
+          {
+            "title": "Por que a tabela não é um mapa de lugares",
+            "paragraphs": [
+              "Steiner afirma que as regiões se interpenetram. Uma tabela separa suas descrições para o estudo, mas não deve sugerir paredes, distâncias geográficas ou uma escada uniforme que todas as pessoas sobem da mesma maneira.",
+              "Mais adiante, a fonte torna a afinidade central para a duração e a extensão da purificação. Trata-se de outra afirmação, sobre a vida após a morte, desenvolvida na próxima lição."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "death-and-release",
+      "moduleId": "spiritual-worlds",
+      "primaryConceptId": "purification",
+      "termIds": [
+        "purification",
+        "kamaloca",
+        "soul-world",
+        "sympathy-antipathy"
+      ],
+      "conceptIds": [
+        "purification",
+        "kamaloca",
+        "soul-world",
+        "sympathy-antipathy",
+        "body-soul-spirit",
+        "fruits-of-experience",
+        "karma"
+      ],
+      "connections": [
+        {
+          "id": "body-soul-spirit",
+          "en": "The account of death depends on distinguishing the body's instrument, the soul's attachments and the spirit's enduring activity.",
+          "pt": "O relato da morte depende de distinguir o instrumento corporal, os vínculos da alma e a atividade duradoura do espírito."
+        },
+        {
+          "id": "fruits-of-experience",
+          "en": "What depends on a particular bodily life is distinguished from the extract of experience that can accompany the spirit.",
+          "pt": "O que depende de uma vida corporal particular é distinguido da essência das experiências que pode acompanhar o espírito."
+        },
+        {
+          "id": "karma",
+          "en": "Release from attachment to the completed embodiment is not the same as cancellation of relations that bear upon a later life.",
+          "pt": "O desprendimento do apego à encarnação concluída não é o mesmo que a anulação de relações que repercutem em uma vida posterior."
+        }
+      ],
+      "practiceId": "notice-body-dependent-desire",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            50,
+            53
+          ],
+          "readingIds": [
+            11
+          ]
+        },
+        {
+          "chapter": 3,
+          "captures": [
+            54,
+            57
+          ],
+          "readingIds": [
+            26
+          ]
+        }
+      ],
+      "en": {
+        "title": "What depends on a bodily instrument?",
+        "question": "How does Steiner distinguish a desire tied to the body from an enduring fruit of experience?",
+        "experience": [
+          "Remembering a favorite meal can bring back the wish to taste it. The remembered flavor is not the act of tasting: that act requires a body, food and a present encounter. By contrast, something learned through sharing meals—perhaps patience or consideration—can become available in other situations.",
+          "The comparison separates bodily fulfillment from a capacity gained through experience. It does not tell us what happens after death; it prepares a question that Steiner answers within his spiritual account."
+        ],
+        "centralIdea": "Steiner maintains that death removes the body's instrument without immediately removing every desire formed through it. Purification in the soul world releases attachments to the completed bodily life, while the spirit retains the fruits that can live beyond that attachment.",
+        "explanation": [
+          "During embodied life, the soul mediates between body and spirit. A bodily impression becomes an experienced sensation; the spirit can grasp what it means. In the other direction, a thought can become a soul wish and then a bodily deed. Steiner begins his account of death by separating this mediation from the physical body's continuing existence: physical observation can follow bodily dissolution, while his description of the soul and spirit after death is a claim of spiritual knowledge.",
+          "The absence of the body does not, in this account, immediately remove interests developed through it. A desire for a particular taste may remain although the bodily organ through which it could be satisfied is gone. Steiner uses this example to explain why the spirit can remain connected with a soul still oriented toward bodily fulfillment. Kamaloca, the Region of Desires, names this condition of release; it does not designate a geographic place that could be located beyond the physical world.",
+          "Purification is selective rather than the erasure of an entire life. What can only be enjoyed through the completed embodiment must loosen its hold; the extract of experience that can accompany the spirit is retained. Steiner also distinguishes this attachment from relations that have consequences for a later embodiment. Release from a particular bodily instrument does not, within his account, cancel karma or make human relationships meaningless.",
+          "The seven regions describe different kinds of affinity and release. Coarse appetite, transient impressions, unsatisfied wishes and identification with the body belong to the first four descriptions. The higher three address subtler attachments: enjoyment of the sensory world for one's own pleasure, pleasure in activity for its own personal reward, and the conviction that activity can exist only physically. Even art, science or religious expectation can remain bound to personal enjoyment. The distinction is between attachment and participation in a wider spiritual life, not between an approved and a forbidden occupation.",
+          "Steiner does not give a uniform itinerary with the same duration for everyone. The extent and duration depend on the soul's affinity with the relevant conditions; a person is not equally involved in every region. In his account, sympathy increasingly overcomes the separating attachment that confines experience to the completed bodily life, leaving the spirit free for Spirit-land. These descriptions cannot establish the present condition of a particular deceased person."
+        ],
+        "distinction": "Purification releases bodily-dependent attachment; it does not mean that every memory, relationship or achievement is worthless. The ordinary example clarifies this distinction but does not verify an after-death process.",
+        "reflection": {
+          "question": "What is the difference between wanting to repeat a particular pleasant experience and carrying a capacity learned through it into a new situation?",
+          "notes": [
+            "Wanting to repeat a pleasant meal or musical encounter seeks another occurrence of a particular enjoyment, which depends on bodily perception and suitable circumstances. Patience learned while sharing a meal, or attention developed through listening, can be used with different people and in different tasks. This shows how a capacity can become available beyond the occasion that formed it. Steiner's further claim is that spiritual fruits can endure beyond a completed bodily life; the ordinary comparison explains the distinction without verifying that claim.",
+            "Choose a neutral example from learning, a hobby or a shared activity. You do not need to work with bereavement or make judgments about anyone who has died.",
+            "The question concerns a distinction in the account. It does not ask you to rehearse deprivation or treat necessary bodily care as an obstacle to spiritual life."
+          ]
+        },
+        "takeaways": [
+          "In Steiner's account, bodily death and release from bodily-oriented desire are distinct events.",
+          "Kamaloca names a condition associated with desire and its release, not a physical location.",
+          "Purification releases attachments to the completed embodiment while preserving spiritual fruits of experience.",
+          "The seven regions distinguish kinds of affinity; they do not impose an identical schedule on every soul.",
+          "Subtle attachment can involve enjoyment of worthy activities as well as obvious appetite.",
+          "Release from one bodily life is distinguished from karmic relations involving later lives."
+        ],
+        "comparisons": [
+          {
+            "title": "How the seven regions enter the account of release",
+            "headers": [
+              "Soul-world region",
+              "Attachment described in the source",
+              "Distinction to retain"
+            ],
+            "rows": [
+              [
+                "1. Burning Desire",
+                "Coarse, selfish appetite bound to bodily satisfaction.",
+                "The desire can persist when its bodily means of fulfillment is absent."
+              ],
+              [
+                "2. Flowing Excitability",
+                "Dependence on fleeting external sense impressions.",
+                "An impression's passing character differs from a lasting spiritual fruit."
+              ],
+              [
+                "3. Wishes",
+                "Wishes whose desired fulfillment is no longer available through the completed embodiment.",
+                "Release concerns the wish's attachment, not the erasure of every human purpose."
+              ],
+              [
+                "4. Attraction and Repulsion",
+                "Identification of the self with its bodily existence.",
+                "The source distinguishes the body's loss from the enduring spirit."
+              ],
+              [
+                "5. Soul Light",
+                "Sensory enjoyment of nature, comfort or imagined religious reward for oneself.",
+                "Spiritual participation in nature is distinguished from retaining its sensory pleasure."
+              ],
+              [
+                "6. Active Soul Force",
+                "Pleasure in personal activity, including artistic or scientific activity, as a reward for oneself.",
+                "The activity's value is distinguished from attachment to one's enjoyment of performing it."
+              ],
+              [
+                "7. Soul Life",
+                "The belief that activity is exhausted by physical existence.",
+                "Its release opens the account toward spiritual activity; it does not deny the tasks of embodied life."
+              ]
+            ]
+          }
+        ],
+        "deeper": [
+          {
+            "title": "What remains available to the spirit",
+            "paragraphs": [
+              "Steiner differentiates the bodily-dependent form of an experience from what can be drawn out of it and become the spirit's possession. The next lessons develop this transition as experience becoming faculties and purposes in life between lives.",
+              "This is not a claim that a complete earthly personality simply continues unchanged. Nor is it a claim that death makes everything learned or loved disappear. The selective distinction is essential to the sequence."
+            ]
+          },
+          {
+            "title": "Limits of applying the description",
+            "paragraphs": [
+              "The chapter includes historical assertions about particular ways of dying and particular attachments. They remain assertions in Steiner's account; they do not supply grounds for attributing a spiritual state to an actual deceased person.",
+              "Its general description also stresses affinity. Reading seven regions as seven compulsory, equally long stages would remove a qualification that the source itself makes."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "O que depende de um instrumento corporal?",
+        "question": "Como Steiner distingue um desejo ligado ao corpo de um fruto duradouro da experiência?",
+        "experience": [
+          "Lembrar uma refeição favorita pode trazer de volta a vontade de saboreá-la. O sabor lembrado não é o ato de saborear: esse ato exige um corpo, alimento e um encontro presente. Em contraste, algo aprendido ao compartilhar refeições — talvez paciência ou consideração — pode se tornar disponível em outras situações.",
+          "A comparação separa a satisfação corporal de uma capacidade adquirida pela experiência. Ela não informa o que acontece depois da morte; prepara uma pergunta à qual Steiner responde dentro de seu relato espiritual."
+        ],
+        "centralIdea": "Steiner sustenta que a morte retira o instrumento corporal sem retirar de imediato todos os desejos formados por meio dele. A purificação no mundo anímico desfaz os vínculos com a vida corporal concluída, enquanto o espírito conserva os frutos que podem viver além desse apego.",
+        "explanation": [
+          "Durante a vida encarnada, a alma faz a mediação entre corpo e espírito. Uma impressão corporal se torna uma sensação vivenciada; o espírito pode apreender seu significado. Na outra direção, um pensamento pode se tornar um desejo da alma e, depois, uma ação corporal. Steiner inicia seu relato da morte separando essa mediação da continuidade do corpo físico: a observação física pode acompanhar a dissolução corporal, enquanto sua descrição da alma e do espírito após a morte é uma afirmação de conhecimento espiritual.",
+          "A ausência do corpo não elimina de imediato, nesse relato, os interesses desenvolvidos por meio dele. O desejo de um sabor particular pode permanecer, embora o órgão corporal que permitiria satisfazê-lo tenha desaparecido. Steiner usa esse exemplo para explicar por que o espírito pode continuar ligado a uma alma ainda orientada para a satisfação corporal. A Região dos Desejos (Kamaloca) designa essa condição de desprendimento; não designa um lugar geográfico que pudesse ser localizado além do mundo físico.",
+          "A purificação é seletiva, e não o apagamento de uma vida inteira. O que só pode ser desfrutado pela encarnação concluída precisa perder sua força de apego; conserva-se a essência da experiência que pode acompanhar o espírito. Steiner também distingue esse apego das relações que têm consequências para uma encarnação posterior. O desprendimento de um instrumento corporal particular não anula, em seu relato, o carma nem torna sem sentido as relações humanas.",
+          "As sete regiões descrevem diferentes tipos de afinidade e desprendimento. Apetites grosseiros, impressões passageiras, anseios insatisfeitos e identificação com o corpo pertencem às quatro primeiras descrições. As três superiores tratam de apegos mais sutis: desfrutar o mundo sensorial pelo próprio prazer, desfrutar a atividade por sua recompensa pessoal e a convicção de que a atividade só pode existir fisicamente. Mesmo a arte, a ciência ou a expectativa religiosa podem continuar ligadas ao desfrute pessoal. A distinção está entre apego e participação em uma vida espiritual mais ampla, e não entre uma ocupação aprovada e outra proibida.",
+          "Steiner não fornece um itinerário uniforme com a mesma duração para todos. A extensão e a duração dependem da afinidade da alma com as condições em questão; uma pessoa não participa igualmente de todas as regiões. Em seu relato, a simpatia supera progressivamente o apego separador que confina a experiência à vida corporal concluída, deixando o espírito livre para a região espiritual. Essas descrições não permitem estabelecer a condição atual de uma pessoa falecida em particular."
+        ],
+        "distinction": "A purificação desfaz o apego dependente do corpo; não significa que toda lembrança, relação ou realização seja sem valor. O exemplo cotidiano esclarece essa distinção, mas não verifica um processo após a morte.",
+        "reflection": {
+          "question": "Qual é a diferença entre querer repetir uma experiência agradável particular e levar uma capacidade aprendida por meio dela para uma nova situação?",
+          "notes": [
+            "Querer repetir uma refeição agradável ou um encontro musical busca outra ocorrência de um desfrute particular, que depende da percepção corporal e de circunstâncias adequadas. A paciência aprendida ao compartilhar uma refeição, ou a atenção desenvolvida pela escuta, pode ser usada com outras pessoas e em outras tarefas. Isso mostra como uma capacidade pode se tornar disponível além da ocasião que a formou. A afirmação adicional de Steiner é que os frutos espirituais podem perdurar além de uma vida corporal concluída; a comparação cotidiana explica a distinção sem verificar essa afirmação.",
+            "Escolha um exemplo neutro de aprendizagem, de uma atividade de interesse ou de uma experiência compartilhada. Você não precisa trabalhar com o luto nem fazer julgamentos sobre alguém que morreu.",
+            "A pergunta trata de uma distinção no relato. Ela não pede que você ensaie uma privação nem trate o cuidado corporal necessário como obstáculo à vida espiritual."
+          ]
+        },
+        "takeaways": [
+          "No relato de Steiner, a morte corporal e o desprendimento do desejo orientado para o corpo são acontecimentos distintos.",
+          "A Região dos Desejos (Kamaloca) designa uma condição associada ao desejo e ao seu desprendimento, não um lugar físico.",
+          "A purificação desfaz os apegos à encarnação concluída, preservando os frutos espirituais da experiência.",
+          "As sete regiões distinguem tipos de afinidade; não impõem um cronograma idêntico a todas as almas.",
+          "Um apego sutil pode envolver o desfrute de atividades valiosas, além de apetites evidentes.",
+          "O desprendimento de uma vida corporal é distinguido das relações cármicas que envolvem vidas posteriores."
+        ],
+        "comparisons": [
+          {
+            "title": "Como as sete regiões entram no relato do desprendimento",
+            "headers": [
+              "Região do mundo anímico",
+              "Apego descrito na fonte",
+              "Distinção a preservar"
+            ],
+            "rows": [
+              [
+                "1. Desejo Ardente",
+                "Apetite grosseiro e egoísta ligado à satisfação corporal.",
+                "O desejo pode persistir quando seu meio corporal de satisfação está ausente."
+              ],
+              [
+                "2. Excitabilidade Fluente",
+                "Dependência de impressões sensoriais externas passageiras.",
+                "O caráter passageiro de uma impressão difere de um fruto espiritual duradouro."
+              ],
+              [
+                "3. Região dos Anseios (Wishes)",
+                "Anseios cuja satisfação buscada já não está disponível pela encarnação concluída.",
+                "O desprendimento diz respeito ao apego do desejo, não ao apagamento de todo propósito humano."
+              ],
+              [
+                "4. Atração e Repulsão",
+                "Identificação do eu com sua existência corporal.",
+                "A fonte distingue a perda do corpo do espírito duradouro."
+              ],
+              [
+                "5. Luz Anímica",
+                "Desfrute sensorial da natureza, do conforto ou de uma recompensa religiosa imaginada para si.",
+                "A participação espiritual na natureza é distinguida da conservação de seu prazer sensorial."
+              ],
+              [
+                "6. Força Anímica Ativa",
+                "Prazer na atividade pessoal, inclusive artística ou científica, como recompensa para si.",
+                "O valor da atividade é distinguido do apego ao prazer de realizá-la."
+              ],
+              [
+                "7. Vida Anímica",
+                "A crença de que a atividade se esgota na existência física.",
+                "Seu desprendimento abre o relato para a atividade espiritual; não nega as tarefas da vida encarnada."
+              ]
+            ]
+          }
+        ],
+        "deeper": [
+          {
+            "title": "O que permanece disponível ao espírito",
+            "paragraphs": [
+              "Steiner diferencia a forma de uma experiência dependente do corpo daquilo que pode ser extraído dela e se tornar patrimônio do espírito. As próximas lições desenvolvem essa transição como experiência que se torna faculdades e propósitos na vida entre vidas.",
+              "Isso não afirma que uma personalidade terrestre completa simplesmente continua sem mudanças. Também não afirma que a morte faz desaparecer tudo o que foi aprendido ou amado. A distinção seletiva é essencial para a sequência."
+            ]
+          },
+          {
+            "title": "Limites da aplicação da descrição",
+            "paragraphs": [
+              "O capítulo inclui afirmações históricas sobre determinadas maneiras de morrer e determinados apegos. Elas permanecem afirmações no relato de Steiner; não fornecem fundamentos para atribuir um estado espiritual a uma pessoa falecida real.",
+              "Sua descrição geral também enfatiza a afinidade. Ler as sete regiões como sete etapas obrigatórias de igual duração retiraria uma qualificação feita pela própria fonte."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "living-archetypes",
+      "moduleId": "spiritual-worlds",
+      "primaryConceptId": "archetypes",
+      "termIds": [
+        "archetypes",
+        "spirit-land"
+      ],
+      "conceptIds": [
+        "archetypes",
+        "spirit-land",
+        "thinking",
+        "life-spirit",
+        "spirit-man"
+      ],
+      "connections": [
+        {
+          "id": "thinking",
+          "en": "Ordinary thinking supplies an analogy; Steiner distinguishes its thought pictures from independently living archetypes.",
+          "pt": "O pensar comum oferece uma analogia; Steiner distingue suas imagens de pensamento dos arquétipos que vivem independentemente."
+        },
+        {
+          "id": "life-spirit",
+          "en": "The source relates life spirit and spirit man to a Life kernel whose origin lies beyond the three worlds.",
+          "pt": "A fonte relaciona o espírito vital e o homem-espírito a um núcleo de vida cuja origem está além dos três mundos."
+        }
+      ],
+      "practiceId": "trace-a-creative-process",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            57,
+            61
+          ],
+          "readingIds": [
+            12
+          ],
+          "noteIds": [
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "en": {
+        "title": "Living archetypes",
+        "question": "How can one creative idea give rise to many different forms?",
+        "experience": [
+          "Imagine arranging the same explanation for a child, a colleague and a large audience. The words and examples change, yet a recognizable relation holds the versions together. The idea may also become clearer while you work. This ordinary experience raises a question about form and creation before introducing Steiner’s account."
+        ],
+        "centralIdea": "In Steiner’s account, Spirit-land is a world of independently living, creative archetypes. Ordinary thoughts are pictures of their activity, rather than the beings themselves.",
+        "explanation": [
+          "We can distinguish a finished object, a human plan for it and an abstract description of its features. Steiner introduces a further distinction: an archetype is an active spiritual being, with a reality independent of the person who thinks about it. His painter analogy helps us approach a form that is not yet physically realized; it does not make an archetype a plan stored in a human head. Nor does an archetype arise simply because we group similar objects under one concept.",
+          "An archetype is creative rather than a rigid mould. It can give rise to varied forms, change in its activity and cooperate with other archetypes. This explains why the account describes a living world of relationships rather than a warehouse of perfect finished objects. The source’s clarification about spiritual rest is useful here: activity need not mean agitation. Steiner describes restful satisfaction as compatible with active creation.",
+          "The first four regions differentiate aspects of this cooperation. The first concerns physical form apart from life, including the forms of plants, animals and human bodies as well as minerals. The second concerns unified life; the third, the spiritual counterparts of soul formations such as feelings and passions. The fourth coordinates the activity of the first three. The third region is therefore not simply another name for the soul world. These spiritual regions interpenetrate; the numbered account does not describe stacked physical floors.",
+          "The higher three regions, five through seven, are initially described together. Steiner places there creative forces and germ thought-beings that provide impulses for archetypal activity. He calls the lower four regions Rupa, or having form, and the higher three Arupa, or formless. The distinction concerns the source’s manner of spiritual description; it does not mean that the higher regions are empty or inactive. We should keep the collective account intact rather than invent a separate name or mechanism for each of the upper three.",
+          "Steiner also describes spiritual hearing: the relationships and laws of beings are experienced as the music of the spheres. He intends a spiritual reality, while distinguishing it from ordinary audible music. His references to creative purposes and Spiritual Word extend the account beyond everyday planning and speech. Finally, the Life kernel surrounded by a germ-sheath is said to originate in still higher worlds, beyond the three worlds described here. Spirit-land is therefore not presented as the limit of all spiritual existence."
+        ],
+        "distinction": "A human design or an abstract concept can illustrate aspects of creation. Steiner’s archetype is an independently active spiritual being, and the analogy does not establish its existence.",
+        "comparisons": [
+          {
+            "title": "Spirit-land: four differentiated regions and three described together",
+            "headers": [
+              "Region or group",
+              "What Steiner describes"
+            ],
+            "rows": [
+              [
+                "1",
+                "Archetypes of physical form, considered apart from life."
+              ],
+              [
+                "2",
+                "Unified, flowing life."
+              ],
+              [
+                "3",
+                "Spiritual counterparts of soul formations."
+              ],
+              [
+                "4",
+                "Coordination of the first three regions’ archetypes."
+              ],
+              [
+                "5–7, together",
+                "Creative impulses and germ thought-beings supplying archetypal activity."
+              ]
+            ]
+          }
+        ],
+        "reflection": {
+          "question": "What does a changing design help you understand about an archetype, and what does it leave unestablished?",
+          "notes": [
+            "A design shows how a recognizable intention can take different forms and develop during work.",
+            "It remains a human activity. The independent spiritual being, its cooperation with other archetypes and spiritual perception of it are further claims in Steiner’s account."
+          ]
+        },
+        "takeaways": [
+          "An archetype is a living creative being in Steiner’s account, not a fixed mental blueprint.",
+          "Physical form, life, soul formations and their coordination are differentiated in regions one through four.",
+          "The initial description of regions five through seven is collective.",
+          "Spiritual regions interpenetrate and differ from the seven soul regions.",
+          "Spiritual hearing and Spiritual Word are distinguished from bodily sound and human speech."
+        ],
+        "deeper": [
+          {
+            "title": "Rest, purposes and the limits of analogy",
+            "paragraphs": [
+              "Notes 7 and 8 in the supplied 1910 edition clarify two possible misunderstandings. Spiritual rest can express itself through active creation; world purposes cannot be reduced to the limited intentions of human planners. These clarifications refine Steiner’s claims without making an ordinary creative exercise a method of spiritual perception."
+            ]
+          },
+          {
+            "title": "The Life kernel and Spiritual Word",
+            "paragraphs": [
+              "At the upper boundary of this account, Steiner describes a Life kernel originating in higher worlds, surrounded by a sheath belonging to the thought-world. He connects this discussion with life spirit and spirit man. Note 9 points readers to a fuller treatment of Spiritual Word in another work; the present passage should not be expanded into an invented account of those higher worlds."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Arquétipos vivos",
+        "question": "Como uma ideia criadora pode dar origem a muitas formas diferentes?",
+        "experience": [
+          "Imagine apresentar a mesma explicação a uma criança, a um colega e a um grande público. As palavras e os exemplos mudam, mas uma relação reconhecível une as versões. A ideia também pode se tornar mais clara durante o trabalho. Essa experiência comum abre uma questão sobre forma e criação antes de introduzir a concepção de Steiner."
+        ],
+        "centralIdea": "Na concepção de Steiner, o mundo espiritual é um mundo de arquétipos criadores que vivem independentemente. Os pensamentos comuns são imagens de sua atividade, e não os próprios seres.",
+        "explanation": [
+          "Podemos distinguir um objeto pronto, um plano humano para realizá-lo e uma descrição abstrata de suas características. Steiner introduz outra distinção: o arquétipo é um ser espiritual ativo, com realidade independente da pessoa que pensa a seu respeito. Sua analogia com o pintor ajuda a nos aproximar de uma forma ainda não realizada fisicamente; ela não transforma o arquétipo em um plano guardado na mente humana. Tampouco o arquétipo surge apenas porque reunimos objetos semelhantes sob um conceito.",
+          "O arquétipo é criador, em vez de um molde rígido. Pode dar origem a formas variadas, mudar em sua atividade e cooperar com outros arquétipos. Por isso, a descrição apresenta um mundo vivo de relações, e não um depósito de objetos perfeitos já concluídos. A explicação da fonte sobre o repouso espiritual é útil aqui: atividade não precisa significar agitação. Steiner descreve uma satisfação em repouso que é compatível com a criação ativa.",
+          "As quatro primeiras regiões diferenciam aspectos dessa cooperação. A primeira diz respeito à forma física considerada à parte da vida, incluindo as formas de plantas, animais e corpos humanos, além dos minerais. A segunda diz respeito à vida unificada; a terceira, às contrapartes espirituais de formações anímicas, como sentimentos e paixões. A quarta coordena a atividade das três primeiras. A terceira região, portanto, não é apenas outro nome para o mundo anímico. Essas regiões espirituais se interpenetram; a numeração não descreve andares físicos sobrepostos.",
+          "As três regiões superiores, da quinta à sétima, são inicialmente descritas em conjunto. Steiner situa ali forças criadoras e seres de pensamento germinais que fornecem impulsos à atividade arquetípica. Chama as quatro regiões inferiores de Rupa, ou dotadas de forma, e as três superiores de Arupa, ou sem forma. A distinção diz respeito à maneira como a fonte descreve a realidade espiritual; não significa que as regiões superiores sejam vazias ou inativas. Devemos preservar a descrição coletiva, em vez de inventar um nome ou mecanismo separado para cada uma das três.",
+          "Steiner também descreve uma audição espiritual: as relações e leis dos seres são vivenciadas como a música das esferas. Ele se refere a uma realidade espiritual e a distingue da música audível pelos sentidos. Suas referências a propósitos criadores e à Palavra espiritual estendem a descrição para além do planejamento e da fala comuns. Por fim, afirma que o núcleo de vida envolvido por uma camada germinal tem origem em mundos ainda superiores, além dos três mundos descritos aqui. Assim, o mundo espiritual não é apresentado como o limite de toda existência espiritual."
+        ],
+        "distinction": "Um projeto humano ou um conceito abstrato pode ilustrar aspectos da criação. O arquétipo de Steiner é um ser espiritual que atua independentemente, e a analogia não estabelece sua existência.",
+        "comparisons": [
+          {
+            "title": "Mundo espiritual: quatro regiões diferenciadas e três descritas em conjunto",
+            "headers": [
+              "Região ou grupo",
+              "O que Steiner descreve"
+            ],
+            "rows": [
+              [
+                "1",
+                "Arquétipos da forma física, considerada à parte da vida."
+              ],
+              [
+                "2",
+                "Vida unificada e fluente."
+              ],
+              [
+                "3",
+                "Contrapartes espirituais das formações anímicas."
+              ],
+              [
+                "4",
+                "Coordenação dos arquétipos das três primeiras regiões."
+              ],
+              [
+                "5–7, em conjunto",
+                "Impulsos criadores e seres de pensamento germinais que alimentam a atividade arquetípica."
+              ]
+            ]
+          }
+        ],
+        "reflection": {
+          "question": "O que um projeto que muda durante o trabalho ajuda a compreender sobre um arquétipo, e o que ele deixa sem estabelecer?",
+          "notes": [
+            "Um projeto mostra como uma intenção reconhecível pode assumir formas diferentes e se desenvolver durante o trabalho.",
+            "Ele continua sendo uma atividade humana. O ser espiritual independente, sua cooperação com outros arquétipos e sua percepção espiritual são afirmações adicionais da concepção de Steiner."
+          ]
+        },
+        "takeaways": [
+          "Na concepção de Steiner, o arquétipo é um ser criador vivo, e não um plano mental fixo.",
+          "Forma física, vida, formações anímicas e sua coordenação são diferenciadas nas regiões de um a quatro.",
+          "A descrição inicial das regiões de cinco a sete é coletiva.",
+          "As regiões espirituais se interpenetram e diferem das sete regiões anímicas.",
+          "A audição espiritual e a Palavra espiritual são distinguidas do som corporal e da fala humana."
+        ],
+        "deeper": [
+          {
+            "title": "Repouso, propósitos e limites da analogia",
+            "paragraphs": [
+              "As Notas 7 e 8 da edição de 1910 fornecida esclarecem dois possíveis equívocos. O repouso espiritual pode se expressar pela criação ativa; os propósitos do mundo não podem ser reduzidos às intenções limitadas de planejadores humanos. Esses esclarecimentos refinam as afirmações de Steiner sem transformar um exercício criativo comum em um método de percepção espiritual."
+            ]
+          },
+          {
+            "title": "O núcleo de vida e a Palavra espiritual",
+            "paragraphs": [
+              "No limite superior dessa descrição, Steiner apresenta um núcleo de vida com origem em mundos superiores, envolvido por uma camada pertencente ao mundo do pensamento. Relaciona essa discussão ao espírito vital e ao homem-espírito. A Nota 9 indica uma exposição mais completa da Palavra espiritual em outra obra; esta passagem não deve ser ampliada por meio de uma descrição inventada desses mundos superiores."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "life-between-lives",
+      "moduleId": "spiritual-worlds",
+      "primaryConceptId": "life-between-lives",
+      "termIds": [
+        "life-between-lives",
+        "spirit-land",
+        "individuality"
+      ],
+      "conceptIds": [
+        "life-between-lives",
+        "spirit-land",
+        "fruits-of-experience",
+        "individuality",
+        "reincarnation",
+        "karma",
+        "spirit-self"
+      ],
+      "connections": [
+        {
+          "id": "fruits-of-experience",
+          "en": "Remembering an event differs from retaining a capacity developed through it; the source extends this distinction to the spiritual interval.",
+          "pt": "Lembrar um acontecimento difere de conservar uma capacidade desenvolvida por meio dele; a fonte estende essa distinção ao intervalo espiritual."
+        },
+        {
+          "id": "reincarnation",
+          "en": "The spiritual interval is described as preparation for renewed bodily existence.",
+          "pt": "O intervalo espiritual é descrito como preparação para uma nova existência corporal."
+        },
+        {
+          "id": "individuality",
+          "en": "The enduring Self bears capacities and results beyond the circumstances of one biography.",
+          "pt": "O eu duradouro leva capacidades e resultados para além das circunstâncias de uma biografia."
+        }
+      ],
+      "practiceId": null,
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            61,
+            66
+          ],
+          "readingIds": [
+            13
+          ]
+        },
+        {
+          "chapter": 3,
+          "captures": [
+            66,
+            69
+          ],
+          "readingIds": [
+            14
+          ]
+        }
+      ],
+      "en": {
+        "title": "Life between lives",
+        "question": "How can lived experience become a capacity for future action?",
+        "experience": [
+          "You may no longer recall each practice session through which you learned to read, yet the ability remains available. Remembering an event and possessing a capacity are different kinds of continuity. This familiar distinction helps introduce Steiner’s further account of development beyond a single bodily life."
+        ],
+        "centralIdea": "Steiner describes the interval in Spirit-land as a transformation of earthly experience into capacities and aims that the enduring individuality brings to renewed earthly activity.",
+        "explanation": [
+          "In Steiner’s sequence, the spiritual interval follows the release of bodily-dependent attachments in the soul world. Embodied life provides a field for action and learning; Spirit-land provides a different setting in which the fruits of that experience develop. The two are related, rather than one being a meaningless waiting period. His architect analogy joins work at the building site with preparation in the office: each phase contributes to further work. The analogy clarifies the relationship; the actual interval between incarnations remains his spiritual claim.",
+          "This development is relational from the beginning. In the first region, earthly relationships and one’s own bodily existence are experienced from their spiritual side; love within family and friendship can become a strengthened capacity. In the second, reverence for the whole becomes participation in its unity, and individual fate is understood in relation to community. In the third, selfless service bears fruit in a shared world of feelings and wishes. These are distinct applications of the regions already introduced, not a portrait of an isolated person accumulating private achievements.",
+          "The fourth region concerns original artistic, scientific, technical and civic creation. What a person has contributed becomes a basis for further capacities, but Steiner retains the relation to earthly historical conditions. The account therefore does not say that every limitation of circumstances simply disappears. The familiar difference between remembering a completed project and becoming more capable through it can clarify the question; it cannot demonstrate the spiritual transformation he describes.",
+          "The higher regions develop the relation to enduring spiritual purposes. In the fifth, Steiner describes the enduring Self as Bearer of Causes, also called the Causal Body: it carries the fruits of former lives rather than being another physical organ. In the sixth, recognized spiritual purposes become a mission of service, accompanied by a wider interest in the world. At the seventh, his account reaches the Life kernels whose origin lies beyond the three worlds. These later applications differentiate development within regions five through seven; they do not supply invented names for the initially grouped creative regions.",
+          "The general direction is development toward renewed action, but Steiner explicitly warns that the immediate next life may be less perfect: the relevant circumstances and connections are complex. Freedom from transient personal advantage also means increasing participation and service, rather than cold withdrawal. The account gives no basis for reading someone’s wealth, social position, disability or current achievement as a simple measure of earlier spiritual development. Its claims about remembering former lives or recognizing a spiritual mission are descriptions in the source, not tasks for the learner."
+        ],
+        "distinction": "Retained ability differs from episodic memory. The observable distinction is an entry into the question; the transformation between incarnations is a further claim, not a conclusion established by ordinary learning.",
+        "comparisons": [
+          {
+            "title": "Regional applications in the account of life between lives",
+            "headers": [
+              "Region or group",
+              "Development described"
+            ],
+            "rows": [
+              [
+                "1",
+                "Earthly relationships and bodily life understood from their spiritual side."
+              ],
+              [
+                "2",
+                "Reverence, unity and the relation of individual fate to community."
+              ],
+              [
+                "3",
+                "Fruits of selfless service in shared feelings and wishes."
+              ],
+              [
+                "4",
+                "Capacities from cultural creation, still related to historical conditions."
+              ],
+              [
+                "5–7, together",
+                "Enduring individuality, spiritual purposes and service, culminating at the boundary of the three worlds."
+              ]
+            ]
+          }
+        ],
+        "reflection": {
+          "question": "Why would a list of someone’s remembered events or public achievements fail to describe the enduring individuality in this account?",
+          "notes": [
+            "Memories and achievements belong to particular circumstances; a capacity can remain when the details of its formation are forgotten.",
+            "Steiner’s enduring Self bears spiritual fruits beyond a single biography. The source also qualifies immediate improvement, so outward success cannot serve as a simple measure of that development."
+          ]
+        },
+        "takeaways": [
+          "Earthly action and spiritual development are presented as complementary phases.",
+          "The account includes strengthened relationships, reverence and service as well as creative capacities.",
+          "The enduring Self bears fruits of experience; Causal Body does not mean another physical organ.",
+          "Higher spiritual purposes increase participation in the world.",
+          "The next incarnation is not guaranteed to show straightforward visible improvement."
+        ],
+        "deeper": [
+          {
+            "title": "Bearer of Causes and spirit self",
+            "paragraphs": [
+              "In the fifth-region account, Steiner connects the enduring Self with the capacities and results carried across incarnations and with the development of spirit self. The degree of participation depends on what has already developed. This is a relation among concepts in his account, not an invitation to add a new visible bodily part or to identify someone’s spiritual standing."
+            ]
+          },
+          {
+            "title": "The limits of the general outline",
+            "paragraphs": [
+              "The source describes earlier-life remembrance, future-life vision and spiritual mission within higher development. It also states that individual circumstances complicate the general developmental outline. These passages belong to attributed deeper study; an ordinary reflection on learning neither verifies those perceptions nor licenses predictions about a person’s next life."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "A vida entre vidas",
+        "question": "Como a experiência vivida pode se tornar uma capacidade para agir no futuro?",
+        "experience": [
+          "Talvez você já não se lembre de cada ocasião de prática em que aprendeu a ler, mas a capacidade continua disponível. Lembrar um acontecimento e possuir uma capacidade são formas diferentes de continuidade. Essa distinção familiar ajuda a introduzir a descrição adicional de Steiner sobre o desenvolvimento para além de uma única vida corporal."
+        ],
+        "centralIdea": "Steiner descreve o intervalo no mundo espiritual como transformação da experiência terrestre em capacidades e propósitos que a individualidade duradoura leva à atividade terrestre renovada.",
+        "explanation": [
+          "Na sequência descrita por Steiner, o intervalo espiritual vem depois da liberação dos vínculos dependentes do corpo no mundo anímico. A vida corporal oferece um campo de ação e aprendizado; o mundo espiritual oferece outro âmbito em que se desenvolvem os frutos dessa experiência. Os dois estão relacionados, em vez de um deles ser um período de espera sem sentido. Sua analogia com o arquiteto une o trabalho na obra à preparação no escritório: cada fase contribui para o trabalho seguinte. A analogia esclarece a relação; o intervalo real entre encarnações continua sendo uma afirmação espiritual de Steiner.",
+          "Esse desenvolvimento é relacional desde o início. Na primeira região, as relações terrestres e a própria existência corporal são vivenciadas por seu lado espiritual; o amor familiar e a amizade podem se tornar capacidades fortalecidas. Na segunda, a reverência pelo todo se torna participação em sua unidade, e o destino individual é compreendido em relação à comunidade. Na terceira, o serviço sem interesse próprio dá frutos em um mundo compartilhado de sentimentos e desejos. São aplicações distintas das regiões já apresentadas, e não o retrato de uma pessoa isolada que acumula realizações particulares.",
+          "A quarta região diz respeito à criação original artística, científica, técnica e na vida cívica. Aquilo com que a pessoa contribuiu se torna base para novas capacidades, mas Steiner preserva a relação com as condições históricas terrestres. Portanto, a descrição não afirma que toda limitação das circunstâncias simplesmente desapareça. A diferença familiar entre lembrar um projeto concluído e tornar-se mais capaz por meio dele pode esclarecer a questão; não demonstra a transformação espiritual descrita por Steiner.",
+          "As regiões superiores desenvolvem a relação com propósitos espirituais duradouros. Na quinta, Steiner descreve o eu duradouro como Portador das Causas, também chamado Corpo Causal: ele leva os frutos de vidas anteriores, em vez de ser outro órgão físico. Na sexta, os propósitos espirituais reconhecidos se tornam uma missão de serviço, acompanhada de interesse mais amplo pelo mundo. Na sétima, a descrição chega aos núcleos de vida cuja origem está além dos três mundos. Essas aplicações posteriores diferenciam o desenvolvimento nas regiões de cinco a sete; não fornecem nomes inventados para as regiões criadoras inicialmente agrupadas.",
+          "A direção geral é o desenvolvimento para uma ação renovada, mas Steiner adverte expressamente que a vida imediatamente seguinte pode ser menos perfeita: as circunstâncias e relações envolvidas são complexas. A liberdade em relação à vantagem pessoal passageira também significa participação e serviço crescentes, em vez de afastamento frio. A descrição não oferece base para tomar riqueza, posição social, deficiência ou realização atual como medida simples do desenvolvimento espiritual anterior de alguém. Suas afirmações sobre lembrar vidas anteriores ou reconhecer uma missão espiritual são descrições da fonte, e não tarefas para o estudante."
+        ],
+        "distinction": "Uma capacidade conservada difere da memória de um acontecimento. A distinção observável abre a questão; a transformação entre encarnações é uma afirmação adicional, e não uma conclusão estabelecida pelo aprendizado comum.",
+        "comparisons": [
+          {
+            "title": "Aplicações das regiões na descrição da vida entre vidas",
+            "headers": [
+              "Região ou grupo",
+              "Desenvolvimento descrito"
+            ],
+            "rows": [
+              [
+                "1",
+                "Relações terrestres e vida corporal compreendidas por seu lado espiritual."
+              ],
+              [
+                "2",
+                "Reverência, unidade e relação entre destino individual e comunidade."
+              ],
+              [
+                "3",
+                "Frutos do serviço sem interesse próprio em sentimentos e desejos compartilhados."
+              ],
+              [
+                "4",
+                "Capacidades provenientes da criação cultural, ainda relacionadas às condições históricas."
+              ],
+              [
+                "5–7, em conjunto",
+                "Individualidade duradoura, propósitos espirituais e serviço, chegando ao limite dos três mundos."
+              ]
+            ]
+          }
+        ],
+        "reflection": {
+          "question": "Por que uma lista das lembranças ou realizações públicas de alguém não descreveria a individualidade duradoura nessa concepção?",
+          "notes": [
+            "Lembranças e realizações pertencem a circunstâncias particulares; uma capacidade pode permanecer quando os detalhes de sua formação foram esquecidos.",
+            "O eu duradouro de Steiner leva frutos espirituais para além de uma biografia. A fonte também faz ressalvas quanto à melhora imediata; por isso, o sucesso exterior não pode servir como medida simples desse desenvolvimento."
+          ]
+        },
+        "takeaways": [
+          "A ação terrestre e o desenvolvimento espiritual são apresentados como fases complementares.",
+          "A descrição inclui relações fortalecidas, reverência e serviço, além das capacidades criadoras.",
+          "O eu duradouro leva frutos da experiência; Corpo Causal não significa outro órgão físico.",
+          "Propósitos espirituais superiores ampliam a participação no mundo.",
+          "A encarnação seguinte não garante uma melhora visível e linear."
+        ],
+        "deeper": [
+          {
+            "title": "Portador das Causas e si-mesmo espiritual",
+            "paragraphs": [
+              "Na descrição da quinta região, Steiner relaciona o eu duradouro às capacidades e aos resultados levados através das encarnações e ao desenvolvimento do si-mesmo espiritual. O grau de participação depende daquilo que já se desenvolveu. Trata-se de uma relação entre conceitos de sua descrição, e não de um convite para acrescentar uma nova parte corporal visível ou identificar a posição espiritual de alguém."
+            ]
+          },
+          {
+            "title": "Os limites da descrição geral",
+            "paragraphs": [
+              "A fonte descreve a lembrança de vidas anteriores, a visão de vidas futuras e a missão espiritual no desenvolvimento superior. Também afirma que as circunstâncias individuais tornam complexa a descrição geral do desenvolvimento. Essas passagens pertencem ao estudo aprofundado com atribuição à fonte; uma reflexão comum sobre o aprendizado não verifica essas percepções nem autoriza previsões sobre a próxima vida de alguém."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "nature-and-spiritual-beings",
+      "moduleId": "spiritual-worlds",
+      "primaryConceptId": "elemental-beings",
+      "termIds": [
+        "elemental-beings",
+        "folk-spirit",
+        "spirit-of-age"
+      ],
+      "conceptIds": [
+        "elemental-beings",
+        "folk-spirit",
+        "spirit-of-age",
+        "archetypes",
+        "spirit-land",
+        "physical-body",
+        "etheric-body",
+        "sentient-body",
+        "mind-soul",
+        "human-i"
+      ],
+      "connections": [
+        {
+          "id": "archetypes",
+          "en": "Steiner relates the forms and activities of nature to spiritual archetypal activity.",
+          "pt": "Steiner relaciona as formas e atividades da natureza à atividade espiritual arquetípica."
+        },
+        {
+          "id": "etheric-body",
+          "en": "Retained formative life distinguishes the growing plant from a completed physical shape.",
+          "pt": "A vida formadora conservada distingue a planta em crescimento de uma forma física concluída."
+        },
+        {
+          "id": "human-i",
+          "en": "The source distinguishes thought in an independent human I from the group-ego account of animal thought.",
+          "pt": "A fonte distingue o pensamento em um eu humano independente da descrição do pensamento animal por meio de um eu de grupo."
+        }
+      ],
+      "practiceId": "describe-before-interpreting",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            69,
+            74
+          ],
+          "readingIds": [
+            15
+          ],
+          "noteIds": [
+            3
+          ]
+        },
+        {
+          "chapter": 3,
+          "captures": [
+            74,
+            75
+          ],
+          "readingIds": [
+            16
+          ]
+        }
+      ],
+      "en": {
+        "title": "Nature and spiritual beings",
+        "question": "What are we describing when we describe a living form or a shared activity?",
+        "experience": [
+          "A plant has a visible outline, but over time it also unfolds new leaves and renews its form. Describing its shape at one moment differs from describing its continuing growth. We can first attend to that difference and then ask what kind of explanation Steiner adds to it."
+        ],
+        "centralIdea": "Steiner connects physical nature, formative life, soul activity and human thought with spiritual beings and archetypes, and describes further beings whose embodiment differs from a visible physical body.",
+        "explanation": [
+          "The three worlds are not three places that an embodied person visits only in sequence. Steiner says that bodily form, soul life and spiritual activity participate in them during earthly existence. His image of matter as condensed soul and spirit is explicitly a partly metaphorical comparison, rather than a literal chemical process. He explains the agreement between human thinking and nature through a common spiritual origin: the thoughts through which we understand a form and the form itself relate to archetypal activity. This is his spiritual explanation of the relationship, not a conclusion furnished by looking at a plant.",
+          "The source differentiates physical form, formative life, sensation and thought. Mineral forms display physical shape and interaction; the plant retains activity that continues to shape and reproduce it, rather than possessing only a finished outline. Animal life adds sensation and impulse. Human life includes thought that acquires independent existence in the I and can guide impulses. The animal comparison requires the qualification in Note 3: Steiner describes thought woven through animal experience, but assigns it to a group ego acting from the soul world. His distinction therefore concerns the mode of thinking and selfhood, rather than simply claiming that no thought enters animal existence.",
+          "Behind these manifestations, Steiner describes three Elementary Kingdoms: formless primal archetypal beings, shape-creating beings and soul beings associated with sensation and impulse. He then lists mineral, plant, animal and human kingdoms, making a seven-kingdom account. The first three describe proposed spiritual or formative beings; the later four describe manifestations with physical embodiment. They are not seven peer categories in an ordinary biological taxonomy, and they are not the seven soul regions or the seven Spirit-land regions. Each sevenfold description answers a different question.",
+          "This account returns to the human constitution. Physical body, etheric body and sentient body relate to different formative activities; in the intellectual or mind soul, the person begins to participate consciously in work upon their own being. Steiner’s spiritual explanation thus concerns both nature’s formation and the possibility of self-directed human development. Distinguishing these roles helps us avoid treating every spiritual influence as the same force, or treating the human being as a passive product of external beings.",
+          "Steiner also describes beings without the human kind of physical embodiment. A Folk Spirit or National Spirit is an independent being with a soul-world body; its activity manifests in shared feelings and tendencies, but it does not originate in those human souls. The Spirit of the Age, or Zeitgeist, is likewise presented as a being, rather than just a label for a period’s ideas. He names salamanders, sylphs, undines and gnomes as elemental beings without physical bodies, and further beings whose vestment belongs only to Spirit-land. A shared custom or a plant’s growth may introduce the question of common activity; neither observation establishes these independent beings. The account should not be turned into a fixed character or hierarchy of peoples."
+        ],
+        "distinction": "An observed form, an inference about its ordinary causes and Steiner’s account of an independently active spiritual being are different kinds of statement.",
+        "comparisons": [
+          {
+            "title": "Distinguishing what appears in nature",
+            "headers": [
+              "Manifestation",
+              "Additional role differentiated in the source"
+            ],
+            "rows": [
+              [
+                "Mineral",
+                "Physical form and interaction."
+              ],
+              [
+                "Plant",
+                "Continuing formative growth and reproduction."
+              ],
+              [
+                "Animal",
+                "Sensation and impulse in addition to life."
+              ],
+              [
+                "Human",
+                "Thought participating independently in the I."
+              ]
+            ]
+          },
+          {
+            "title": "Different forms of embodiment in Steiner’s account",
+            "headers": [
+              "Being or group",
+              "Embodiment described"
+            ],
+            "rows": [
+              [
+                "Embodied human being",
+                "Physical body, with soul and spiritual participation."
+              ],
+              [
+                "Folk Spirit",
+                "A soul-world body; activity manifests in human souls without originating in them."
+              ],
+              [
+                "Named elemental beings",
+                "No physical bodies."
+              ],
+              [
+                "Further spiritual beings",
+                "A vestment in Spirit-land, without descent into the soul world."
+              ]
+            ]
+          }
+        ],
+        "reflection": {
+          "question": "If a group sings the same song, what is publicly observable, and what further claim does Steiner make when he speaks of a Folk Spirit?",
+          "notes": [
+            "We can observe people singing, words, rhythm and shared participation. Ordinary explanations may concern learned habits and social relationships.",
+            "Steiner additionally asserts an independent being whose activity manifests in souls but does not originate in their aggregation. The shared song can illustrate the question, but cannot by itself establish that being."
+          ]
+        },
+        "takeaways": [
+          "Form, formative life, sensation and independent human thought have different roles.",
+          "The three Elementary Kingdoms differ from the four physically manifest kingdoms.",
+          "The seven-kingdom account should not be merged with either seven-region account.",
+          "Folk Spirit and Spirit of the Age are independent beings in the source, rather than products of aggregated human psychology.",
+          "Different beings are described with physical, soul-world or purely spiritual embodiment.",
+          "Ordinary observation should be distinguished from interpretation and from the source’s spiritual claims."
+        ],
+        "deeper": [
+          {
+            "title": "Why the plant and crystal comparison matters",
+            "paragraphs": [
+              "The source contrasts a completed crystal shape with a plant that retains its shaping activity through growth and reproduction. This comparison develops the distinction between a formed object and formative life. Steiner attributes that continuing activity to spiritual formative beings; a record of plant growth can clarify the distinction without establishing the beings he describes."
+            ]
+          },
+          {
+            "title": "Animal thought and the human I",
+            "paragraphs": [
+              "Note 3 in the supplied 1910 edition qualifies the contrast in the chapter. Thought is woven through animal experience, according to Steiner, while the group ego acts from the soul world. Human thoughts acquire independent existence in the I. This attributed account should not be substituted for a claim about what contemporary animal-cognition research has or has not found."
+            ]
+          },
+          {
+            "title": "Elementary Kingdoms and elemental names",
+            "paragraphs": [
+              "The three Elementary Kingdoms organize the account of primal archetypal, formative and soul beings. The later names salamanders, sylphs, undines and gnomes occur in a discussion of beings without physical bodies. The passage does not assign those four names one by one to the three kingdoms or give them ordinary physical appearances; a diagram that did so would add a scheme not taught here."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Natureza e seres espirituais",
+        "question": "O que estamos descrevendo quando descrevemos uma forma viva ou uma atividade compartilhada?",
+        "experience": [
+          "Uma planta tem um contorno visível, mas, com o tempo, também desdobra novas folhas e renova sua forma. Descrever sua aparência em um momento difere de descrever seu crescimento contínuo. Podemos primeiro prestar atenção a essa diferença e depois perguntar que tipo de explicação Steiner acrescenta a ela."
+        ],
+        "centralIdea": "Steiner relaciona a natureza física, a vida formadora, a atividade anímica e o pensamento humano a seres e arquétipos espirituais, e descreve outros seres cuja forma de corporificação difere de um corpo físico visível.",
+        "explanation": [
+          "Os três mundos não são três lugares que uma pessoa encarnada visita apenas em sequência. Steiner afirma que a forma corporal, a vida anímica e a atividade espiritual participam deles durante a existência terrestre. Sua imagem da matéria como alma e espírito condensados é expressamente uma comparação parcialmente metafórica, e não um processo químico literal. Ele explica a correspondência entre o pensar humano e a natureza por uma origem espiritual comum: os pensamentos pelos quais compreendemos uma forma e a própria forma se relacionam com a atividade arquetípica. Essa é sua explicação espiritual da relação, e não uma conclusão fornecida pela observação de uma planta.",
+          "A fonte diferencia forma física, vida formadora, sensação e pensamento. As formas minerais apresentam configuração física e interação; a planta conserva uma atividade que continua a formá-la e reproduzi-la, em vez de possuir apenas um contorno concluído. A vida animal acrescenta sensação e impulso. A vida humana inclui o pensamento que adquire existência independente no eu e pode orientar os impulsos. A comparação com o animal exige a ressalva da Nota 3: Steiner descreve o pensamento entretecido na experiência animal, mas o atribui a um eu de grupo que atua a partir do mundo anímico. Assim, a distinção diz respeito ao modo de pensar e à individualidade do eu, em vez de simplesmente afirmar que nenhum pensamento participa da existência animal.",
+          "Por trás dessas manifestações, Steiner descreve três Reinos Elementares: seres arquetípicos primordiais sem forma, seres criadores de formas e seres anímicos ligados à sensação e ao impulso. Em seguida, enumera os reinos mineral, vegetal, animal e humano, compondo uma descrição de sete reinos. Os três primeiros descrevem seres espirituais ou formadores propostos pela fonte; os quatro posteriores descrevem manifestações com corporificação física. Não são sete categorias equivalentes de uma taxonomia biológica comum, nem as sete regiões anímicas ou as sete regiões do mundo espiritual. Cada descrição sétupla responde a uma questão diferente.",
+          "Essa descrição retorna à constituição humana. Corpo físico, corpo etérico e corpo senciente se relacionam com atividades formadoras diferentes; na alma intelectual ou da razão, a pessoa começa a participar conscientemente do trabalho sobre seu próprio ser. Assim, a explicação espiritual de Steiner trata tanto da formação da natureza quanto da possibilidade de desenvolvimento humano orientado pela própria pessoa. Distinguir esses papéis ajuda a evitar que toda influência espiritual seja tratada como a mesma força ou que o ser humano seja considerado um produto passivo de seres externos.",
+          "Steiner também descreve seres sem o tipo humano de corporificação física. O Espírito de um povo, ou Espírito nacional, é um ser independente com um corpo do mundo anímico; sua atividade se manifesta em sentimentos e tendências compartilhados, mas não tem origem nessas almas humanas. O Espírito da época, ou Zeitgeist, também é apresentado como um ser, em vez de apenas um nome para as ideias de um período. Ele menciona salamandras, silfos, ondinas e gnomos como seres elementais sem corpos físicos, e outros seres cuja vestimenta pertence apenas ao mundo espiritual. Um costume compartilhado ou o crescimento de uma planta pode introduzir a questão da atividade comum; nenhuma dessas observações estabelece a existência desses seres independentes. A descrição não deve ser transformada em um caráter fixo ou em uma hierarquia de povos."
+        ],
+        "distinction": "Uma forma observada, uma inferência sobre suas causas comuns e a descrição de Steiner de um ser espiritual que atua independentemente são tipos diferentes de afirmação.",
+        "comparisons": [
+          {
+            "title": "Distinguir o que se manifesta na natureza",
+            "headers": [
+              "Manifestação",
+              "Papel adicional diferenciado na fonte"
+            ],
+            "rows": [
+              [
+                "Mineral",
+                "Forma física e interação."
+              ],
+              [
+                "Planta",
+                "Crescimento formador contínuo e reprodução."
+              ],
+              [
+                "Animal",
+                "Sensação e impulso, além da vida."
+              ],
+              [
+                "Ser humano",
+                "Pensamento que participa independentemente no eu."
+              ]
+            ]
+          },
+          {
+            "title": "Formas diferentes de corporificação na concepção de Steiner",
+            "headers": [
+              "Ser ou grupo",
+              "Corporificação descrita"
+            ],
+            "rows": [
+              [
+                "Ser humano encarnado",
+                "Corpo físico, com participação anímica e espiritual."
+              ],
+              [
+                "Espírito de um povo",
+                "Corpo do mundo anímico; sua atividade se manifesta nas almas humanas sem ter origem nelas."
+              ],
+              [
+                "Seres elementais nomeados",
+                "Ausência de corpos físicos."
+              ],
+              [
+                "Outros seres espirituais",
+                "Vestimenta no mundo espiritual, sem descida ao mundo anímico."
+              ]
+            ]
+          }
+        ],
+        "reflection": {
+          "question": "Se um grupo canta a mesma canção, o que é observável publicamente e que afirmação adicional Steiner faz quando fala de um Espírito de um povo?",
+          "notes": [
+            "Podemos observar pessoas cantando, palavras, ritmo e participação compartilhada. Explicações comuns podem tratar de hábitos aprendidos e relações sociais.",
+            "Steiner afirma, além disso, um ser independente cuja atividade se manifesta nas almas, mas não tem origem em sua agregação. A canção compartilhada pode ilustrar a questão, mas não estabelece por si só esse ser."
+          ]
+        },
+        "takeaways": [
+          "Forma, vida formadora, sensação e pensamento humano independente têm papéis diferentes.",
+          "Os três Reinos Elementares diferem dos quatro reinos que se manifestam fisicamente.",
+          "A descrição de sete reinos não deve ser fundida com nenhuma das descrições de sete regiões.",
+          "O Espírito de um povo e o Espírito da época são seres independentes na fonte, e não produtos da psicologia humana agregada.",
+          "Seres diferentes são descritos com corporificação física, anímica ou puramente espiritual.",
+          "A observação comum deve ser distinguida da interpretação e das afirmações espirituais da fonte."
+        ],
+        "deeper": [
+          {
+            "title": "Por que a comparação entre planta e cristal importa",
+            "paragraphs": [
+              "A fonte contrasta a forma concluída de um cristal com uma planta que conserva sua atividade formadora durante o crescimento e a reprodução. A comparação desenvolve a distinção entre um objeto formado e a vida formadora. Steiner atribui essa atividade contínua a seres espirituais formadores; um registro do crescimento vegetal pode esclarecer a distinção sem estabelecer a existência dos seres descritos."
+            ]
+          },
+          {
+            "title": "Pensamento animal e eu humano",
+            "paragraphs": [
+              "A Nota 3 da edição de 1910 fornecida faz uma ressalva ao contraste apresentado no capítulo. Segundo Steiner, o pensamento está entretecido na experiência animal, enquanto o eu de grupo atua a partir do mundo anímico. Os pensamentos humanos adquirem existência independente no eu. Essa descrição atribuída à fonte não deve substituir uma afirmação sobre o que a pesquisa contemporânea da cognição animal encontrou ou deixou de encontrar."
+            ]
+          },
+          {
+            "title": "Reinos Elementares e nomes de seres elementais",
+            "paragraphs": [
+              "Os três Reinos Elementares organizam a descrição de seres arquetípicos primordiais, formadores e anímicos. Os nomes posteriores salamandras, silfos, ondinas e gnomos aparecem em uma discussão sobre seres sem corpos físicos. A passagem não distribui esses quatro nomes entre os três reinos nem lhes atribui aparências físicas comuns; um diagrama que fizesse isso acrescentaria um esquema não ensinado aqui."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "thought-forms-and-aura",
+      "moduleId": "spiritual-worlds",
+      "primaryConceptId": "aura",
+      "termIds": [
+        "thought-forms",
+        "aura"
+      ],
+      "conceptIds": [
+        "thought-forms",
+        "aura",
+        "thinking",
+        "feeling",
+        "body-soul-spirit",
+        "soul",
+        "spirit",
+        "spiritual-knowledge"
+      ],
+      "connections": [
+        {
+          "id": "thinking",
+          "en": "Definiteness and content distinguish thought activity; the source additionally describes spiritual thought-forms.",
+          "pt": "Definição e conteúdo distinguem a atividade do pensamento; a fonte descreve, além disso, formas de pensamento espirituais."
+        },
+        {
+          "id": "body-soul-spirit",
+          "en": "The three aura aspects express bodily influence upon soul, the soul’s own life and eternal spiritual activity.",
+          "pt": "Os três aspectos da aura expressam a influência corporal sobre a alma, a vida própria da alma e a atividade espiritual eterna."
+        },
+        {
+          "id": "spiritual-knowledge",
+          "en": "Understanding this description differs from investigating the spiritual perception claimed by its author.",
+          "pt": "Compreender essa descrição difere de investigar a percepção espiritual afirmada por seu autor."
+        }
+      ],
+      "practiceId": null,
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            75,
+            81
+          ],
+          "readingIds": [
+            17
+          ]
+        }
+      ],
+      "en": {
+        "title": "Thought-forms and the aura",
+        "question": "How do the content and motive of an inner activity differ from its outward result?",
+        "experience": [
+          "Consider two invented cases: one person solves a problem to win admiration; another develops the same solution to help a shared project. The outward result may match while the stated aims differ. Comparing the cases helps separate capacity, content and motive without assuming that we can read a real person’s inner life from appearance."
+        ],
+        "centralIdea": "Steiner describes thoughts, feelings, motives and lasting dispositions as spiritually perceptible forms and colours, and distinguishes three interpenetrating aspects of the human aura corresponding to body, soul and spirit.",
+        "explanation": [
+          "A thought has content and a manner of formation: a definite idea differs from a confused one, and a thought about another person differs from an impersonal calculation. Steiner adds that thinking is a real event in the spiritual world, with a form perceptible to spiritual observation. A precise thought has a different character from a wavering, unclear thought in this description. Comparing clear and confused statements can help us understand what definiteness means; it does not reveal the spiritual forms he claims to perceive.",
+          "Motive is another distinction. The same intelligence or inventiveness can serve personal satisfaction or a wider ideal, and Steiner describes those uses differently. He also distinguishes temporary moods from more lasting talents, habits and dispositions: a passing reaction is not the whole character of a person. The aura is his account of the spiritual expression of this changing and enduring inner life, rather than a physical coloured outline or a summary of someone’s visible behaviour.",
+          "The first aura aspect expresses the influence of the body upon the soul and is described as relatively opaque or mist-like. The second expresses the soul’s own life beyond immediate sensory influence, appearing as illuminating light; it is not yet wholly directed toward the eternal. The third expresses eternal spiritual activity through the person and is described as sparkling, raying and continually renewed. These aspects interpenetrate. They are differentiated expressions of activity, rather than three concentric physical shells surrounding a body.",
+          "The first aspect is not simply an inferior layer of selfishness. Steiner explicitly includes naturally selfless mother-love and animal self-sacrifice within bodily-influenced life. Likewise, intellectual capacity by itself does not determine the quality of its motive. These qualifications matter: body, soul and spirit name different explanatory roles, and their relationship cannot be replaced by a quick moral ranking. The source’s descriptions of development are attributed spiritual judgments within its account, not criteria by which a beginner should grade another person.",
+          "Colour words in this chapter require context: appearance varies with aspect, motive, mood and lasting disposition, and Steiner distinguishes the described colours from ordinary sensory shades. He stresses the difficulty of observing and describing the aura and offers the account as a stimulus to thought. A colour-to-personality chart would remove these distinctions. The useful task here is to reconstruct what the description claims and how its parts relate. The following study of knowledge asks how understanding an account differs from assent and from the author’s proposed path of spiritual investigation."
+        ],
+        "distinction": "Thought content, motive, temporary mood and lasting disposition are different features. Steiner’s spiritual description of them differs from ordinary observation of words, actions or physical colours.",
+        "comparisons": [
+          {
+            "title": "Three interpenetrating aura aspects in Steiner’s account",
+            "headers": [
+              "Aspect",
+              "Role",
+              "Appearance described"
+            ],
+            "rows": [
+              [
+                "First",
+                "Bodily influence upon soul, including naturally selfless impulses.",
+                "Relatively opaque or mist-like."
+              ],
+              [
+                "Second",
+                "The soul’s own life beyond immediate sensory influence.",
+                "Illuminating light."
+              ],
+              [
+                "Third",
+                "Eternal spiritual activity through the person.",
+                "Sparkling, raying and continually renewed."
+              ]
+            ]
+          }
+        ],
+        "reflection": {
+          "question": "Why would one visible action or one assigned colour fail to express the distinctions in Steiner’s aura account?",
+          "notes": [
+            "One action may arise from different motives; a temporary mood also differs from a lasting disposition. The first aura aspect can include naturally selfless love, so it cannot simply be labelled selfish.",
+            "The three aspects interpenetrate and give colour descriptions different contexts. Steiner’s account concerns claimed spiritual perception, so a visible action or an ordinary colour does not identify an aura aspect or a person’s spiritual development."
+          ]
+        },
+        "takeaways": [
+          "The source describes thought as a spiritual event with content, definiteness and motive.",
+          "Temporary moods differ from lasting capacities and dispositions.",
+          "The aura’s three aspects correspond to bodily influence, the soul’s own life and eternal spiritual activity.",
+          "The aspects interpenetrate rather than forming physical shells.",
+          "Bodily-influenced life can include naturally selfless love.",
+          "Understanding a spiritual description differs from seeing its claimed reality or judging another person by it."
+        ],
+        "deeper": [
+          {
+            "title": "Why keep the colour catalogue in textual study?",
+            "paragraphs": [
+              "The source gives detailed colours and shades across different activities and aura aspects. It also contrasts temporary changes with enduring traits. Those descriptions should be read in their full contexts; a universal colour key would obscure motive, aspect and the difference between spiritual and sensory colour."
+            ]
+          },
+          {
+            "title": "Description and investigation",
+            "paragraphs": [
+              "Steiner distinguishes the difficulty of spiritual observation from the difficulty of communicating what is observed. The source’s size comparison and appearance descriptions belong to that attributed account, rather than to a physical measurement exercise. Chapter IV develops his proposed approach to knowledge; a beginner can first understand the conceptual distinctions without claiming perception of an aura."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Formas de pensamento e aura",
+        "question": "Como o conteúdo e o motivo de uma atividade interior diferem de seu resultado exterior?",
+        "experience": [
+          "Considere dois casos inventados: uma pessoa resolve um problema para conquistar admiração; outra desenvolve a mesma solução para ajudar um projeto compartilhado. O resultado exterior pode coincidir enquanto os propósitos declarados diferem. Comparar os casos ajuda a separar capacidade, conteúdo e motivo sem supor que podemos ler a vida interior de uma pessoa real por sua aparência."
+        ],
+        "centralIdea": "Steiner descreve pensamentos, sentimentos, motivos e disposições duradouras como formas e cores perceptíveis espiritualmente, e distingue três aspectos interpenetrantes da aura humana correspondentes a corpo, alma e espírito.",
+        "explanation": [
+          "Um pensamento tem conteúdo e um modo de formação: uma ideia definida difere de outra confusa, e um pensamento sobre outra pessoa difere de um cálculo impessoal. Steiner acrescenta que o pensar é um acontecimento real no mundo espiritual, com uma forma perceptível à observação espiritual. Nessa descrição, um pensamento preciso tem um caráter diferente de um pensamento oscilante e pouco claro. Comparar afirmações claras e confusas pode ajudar a compreender o que significa definição; não revela as formas espirituais que Steiner afirma perceber.",
+          "O motivo é outra distinção. A mesma inteligência ou capacidade inventiva pode servir à satisfação pessoal ou a um ideal mais amplo, e Steiner descreve esses usos de modo diferente. Ele também distingue estados de ânimo temporários de talentos, hábitos e disposições mais duradouros: uma reação passageira não é todo o caráter de uma pessoa. A aura é sua descrição da expressão espiritual dessa vida interior mutável e duradoura, em vez de um contorno físico colorido ou um resumo do comportamento visível de alguém.",
+          "O primeiro aspecto da aura expressa a influência do corpo sobre a alma e é descrito como relativamente opaco ou semelhante à névoa. O segundo expressa a vida própria da alma para além da influência sensorial imediata, aparecendo como luz iluminadora; ainda não está inteiramente dirigido ao eterno. O terceiro expressa a atividade espiritual eterna por meio da pessoa e é descrito como cintilante, irradiante e continuamente renovado. Esses aspectos se interpenetram. São expressões diferenciadas de atividade, e não três camadas físicas concêntricas ao redor de um corpo.",
+          "O primeiro aspecto não é simplesmente uma camada inferior de egoísmo. Steiner inclui expressamente o amor materno naturalmente altruísta e o sacrifício de si entre animais na vida influenciada pelo corpo. Da mesma maneira, a capacidade intelectual, por si só, não determina a qualidade de seu motivo. Essas ressalvas importam: corpo, alma e espírito nomeiam papéis explicativos diferentes, e sua relação não pode ser substituída por uma classificação moral rápida. As descrições de desenvolvimento feitas pela fonte são juízos espirituais atribuídos à sua concepção, e não critérios pelos quais um iniciante deva avaliar outra pessoa.",
+          "As palavras de cor neste capítulo exigem contexto: a aparência varia com aspecto, motivo, estado de ânimo e disposição duradoura, e Steiner distingue as cores descritas das tonalidades sensoriais comuns. Ele ressalta a dificuldade de observar e descrever a aura e oferece a descrição como estímulo ao pensamento. Uma tabela de cor e personalidade eliminaria essas distinções. A tarefa útil aqui é reconstruir o que a descrição afirma e como suas partes se relacionam. O estudo seguinte sobre o conhecimento pergunta como compreender uma concepção difere de concordar com ela e do caminho de investigação espiritual proposto pelo autor."
+        ],
+        "distinction": "Conteúdo do pensamento, motivo, estado de ânimo temporário e disposição duradoura são características diferentes. A descrição espiritual que Steiner faz delas difere da observação comum de palavras, ações ou cores físicas.",
+        "comparisons": [
+          {
+            "title": "Três aspectos interpenetrantes da aura na concepção de Steiner",
+            "headers": [
+              "Aspecto",
+              "Papel",
+              "Aparência descrita"
+            ],
+            "rows": [
+              [
+                "Primeiro",
+                "Influência corporal sobre a alma, incluindo impulsos naturalmente altruístas.",
+                "Relativamente opaco ou semelhante à névoa."
+              ],
+              [
+                "Segundo",
+                "Vida própria da alma para além da influência sensorial imediata.",
+                "Luz iluminadora."
+              ],
+              [
+                "Terceiro",
+                "Atividade espiritual eterna por meio da pessoa.",
+                "Cintilante, irradiante e continuamente renovada."
+              ]
+            ]
+          }
+        ],
+        "reflection": {
+          "question": "Por que uma ação visível ou uma cor atribuída não expressaria as distinções da descrição da aura em Steiner?",
+          "notes": [
+            "Uma ação pode surgir de motivos diferentes; um estado de ânimo temporário também difere de uma disposição duradoura. O primeiro aspecto da aura pode incluir amor naturalmente altruísta, portanto não pode ser simplesmente chamado de egoísta.",
+            "Os três aspectos se interpenetram e dão contextos diferentes às descrições de cor. A concepção de Steiner trata de uma percepção espiritual afirmada pela fonte; por isso, uma ação visível ou uma cor comum não identifica um aspecto da aura nem o desenvolvimento espiritual de uma pessoa."
+          ]
+        },
+        "takeaways": [
+          "A fonte descreve o pensamento como acontecimento espiritual com conteúdo, definição e motivo.",
+          "Estados de ânimo temporários diferem de capacidades e disposições duradouras.",
+          "Os três aspectos da aura correspondem à influência corporal, à vida própria da alma e à atividade espiritual eterna.",
+          "Os aspectos se interpenetram, em vez de formar camadas físicas.",
+          "A vida influenciada pelo corpo pode incluir amor naturalmente altruísta.",
+          "Compreender uma descrição espiritual difere de perceber sua realidade afirmada ou de julgar outra pessoa por meio dela."
+        ],
+        "deeper": [
+          {
+            "title": "Por que manter o catálogo de cores no estudo textual?",
+            "paragraphs": [
+              "A fonte apresenta cores e tonalidades detalhadas em atividades e aspectos diferentes da aura. Também contrasta mudanças temporárias com características duradouras. Essas descrições devem ser lidas em seus contextos completos; uma chave universal de cores obscureceria motivo, aspecto e a diferença entre cor espiritual e sensorial."
+            ]
+          },
+          {
+            "title": "Descrição e investigação",
+            "paragraphs": [
+              "Steiner distingue a dificuldade da observação espiritual da dificuldade de comunicar o que é observado. A comparação de tamanho e as descrições de aparência da fonte pertencem a essa concepção atribuída ao autor, em vez de um exercício de medição física. O Capítulo IV desenvolve a abordagem de conhecimento proposta por ele; um iniciante pode primeiro compreender as distinções conceituais sem afirmar que percebe uma aura."
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "concepts": [
+    {
+      "id": "three-worlds",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            42,
+            47
+          ],
+          "readingIds": [
+            10
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "body-soul-spirit",
+          "en": "The human distinction between body, soul and spirit is related to participation in the three worlds.",
+          "pt": "A distinção humana entre corpo, alma e espírito se relaciona à participação nos três mundos."
+        },
+        {
+          "id": "soul-world",
+          "en": "The soul world is distinguished by the affinities and activities of soul formations.",
+          "pt": "O mundo anímico se distingue pelas afinidades e atividades das formações anímicas."
+        },
+        {
+          "id": "spirit-land",
+          "en": "Spirit-land is distinguished by living, creative archetypes rather than physical objects or soul affinities alone.",
+          "pt": "A região espiritual se distingue por arquétipos vivos e criadores, e não apenas por objetos físicos ou afinidades anímicas."
+        }
+      ],
+      "en": {
+        "term": "Three worlds",
+        "alsoCalled": [],
+        "definition": "Steiner's distinction between the physical world, the soul world and Spirit-land as real, interpenetrating domains with different kinds of activity and perception.",
+        "explanation": [
+          "The physical world becomes accessible through bodily senses. Steiner claims that soul and spiritual realities become accessible through corresponding capacities of perception. He does not present the higher worlds as physical matter made increasingly thin or as places outside the physical world.",
+          "Distinguishing sensed qualities, personal response and intelligible meaning provides an ordinary starting point. The assertion that these participate in independent worlds goes beyond that starting point and belongs to Steiner's spiritual account."
+        ],
+        "distinction": "The three worlds are neither three geographic places nor merely three labels for subjective experience."
+      },
+      "pt": {
+        "term": "Três mundos",
+        "alsoCalled": [],
+        "definition": "A distinção de Steiner entre o mundo físico, o mundo anímico e a região espiritual como domínios reais que se interpenetram, com diferentes tipos de atividade e percepção.",
+        "explanation": [
+          "O mundo físico se torna acessível pelos sentidos corporais. Steiner afirma que as realidades anímicas e espirituais se tornam acessíveis por capacidades correspondentes de percepção. Ele não apresenta os mundos superiores como matéria física cada vez mais sutil nem como lugares exteriores ao mundo físico.",
+          "Distinguir qualidades percebidas, resposta pessoal e significado inteligível oferece um ponto de partida cotidiano. A afirmação de que eles participam de mundos independentes ultrapassa esse ponto de partida e pertence ao relato espiritual de Steiner."
+        ],
+        "distinction": "Os três mundos não são três lugares geográficos nem apenas três rótulos para a experiência subjetiva."
+      }
+    },
+    {
+      "id": "soul-world",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            42,
+            47
+          ],
+          "readingIds": [
+            10
+          ]
+        },
+        {
+          "chapter": 3,
+          "captures": [
+            47,
+            50
+          ],
+          "readingIds": [
+            25
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "sympathy-antipathy",
+          "en": "These attracting and separating forces organize the relations of soul formations.",
+          "pt": "Essas forças de atração e separação organizam as relações entre formações anímicas."
+        },
+        {
+          "id": "purification",
+          "en": "Steiner places release from bodily-dependent attachment within the soul world.",
+          "pt": "Steiner situa no mundo anímico o desprendimento do apego dependente do corpo."
+        },
+        {
+          "id": "three-worlds",
+          "en": "The soul world interpenetrates the physical world and Spirit-land without sharing their organizing principles.",
+          "pt": "O mundo anímico interpenetra o mundo físico e a região espiritual sem compartilhar seus princípios organizadores."
+        }
+      ],
+      "en": {
+        "term": "Soul world",
+        "alsoCalled": [
+          "astral world"
+        ],
+        "definition": "In Steiner's account, the domain of soul formations whose relations are organized by sympathy and antipathy rather than by physical spatial separation.",
+        "explanation": [
+          "Steiner describes attraction, union, separation and self-maintenance as activities intrinsic to soul formations. The seven regions distinguish relations among these activities. They interpenetrate and are not divided by physical walls or distances.",
+          "The human soul participates in this world while also receiving influences from body and spirit. Its everyday feelings are therefore an entry point for understanding some terms, but they do not disclose everything Steiner attributes to the soul world."
+        ],
+        "distinction": "The soul world is not simply the collection of human moods, nor a second physical environment made of thinner matter."
+      },
+      "pt": {
+        "term": "Mundo anímico",
+        "alsoCalled": [
+          "mundo astral"
+        ],
+        "definition": "No relato de Steiner, o domínio das formações anímicas cujas relações são organizadas por simpatia e antipatia, e não pela separação espacial física.",
+        "explanation": [
+          "Steiner descreve atração, união, separação e manutenção da própria identidade como atividades intrínsecas às formações anímicas. As sete regiões distinguem relações entre essas atividades. Elas se interpenetram e não são divididas por paredes ou distâncias físicas.",
+          "A alma humana participa desse mundo enquanto também recebe influências do corpo e do espírito. Seus sentimentos cotidianos oferecem, portanto, uma entrada para compreender alguns termos, mas não revelam tudo o que Steiner atribui ao mundo anímico."
+        ],
+        "distinction": "O mundo anímico não é simplesmente o conjunto dos estados de ânimo humanos nem um segundo ambiente físico feito de matéria mais sutil."
+      }
+    },
+    {
+      "id": "sympathy-antipathy",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            47,
+            50
+          ],
+          "readingIds": [
+            25
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "soul-world",
+          "en": "The pair describes the organizing forces of this world.",
+          "pt": "O par descreve as forças organizadoras desse mundo."
+        },
+        {
+          "id": "feeling",
+          "en": "Liking and disliking provide a familiar comparison, but do not exhaust the technical meanings.",
+          "pt": "Agrado e desagrado oferecem uma comparação familiar, mas não esgotam os significados técnicos."
+        },
+        {
+          "id": "purification",
+          "en": "The account of purification describes sympathy overcoming attachments that confine the soul to bodily fulfillment.",
+          "pt": "O relato da purificação descreve a simpatia superando apegos que confinam a alma à satisfação corporal."
+        }
+      ],
+      "en": {
+        "term": "Sympathy and antipathy",
+        "alsoCalled": [],
+        "definition": "Steiner's technical pair for the soul world's attracting and uniting force and its separating, excluding, identity-maintaining force.",
+        "explanation": [
+          "Sympathy draws a formation toward others and seeks union. Antipathy maintains separation and a formation's own identity. A formation can attract something while enclosing it within its own sphere, so attraction alone does not establish openness or selflessness.",
+          "The first three regions distinguish different relations of these forces; the fourth concerns inward liking and disliking; the higher three emphasize sympathy opening outward and enlivening others. This organization is more specific than a simple scale from dislike to affection."
+        ],
+        "distinction": "Technical sympathy is not synonymous with kindness, and technical antipathy is not a verdict that every everyday boundary is wrong."
+      },
+      "pt": {
+        "term": "Simpatia e antipatia",
+        "alsoCalled": [],
+        "definition": "O par técnico de Steiner para a força de atração e união do mundo anímico e sua força de separação, exclusão e manutenção da própria identidade.",
+        "explanation": [
+          "A simpatia atrai uma formação para outras e procura união. A antipatia mantém a separação e a identidade própria de uma formação. Uma formação pode atrair algo e, ao mesmo tempo, encerrá-lo em sua própria esfera; por isso, a atração sozinha não estabelece abertura nem ausência de egoísmo.",
+          "As três primeiras regiões distinguem diferentes relações entre essas forças; a quarta trata do agrado e do desagrado interiores; as três superiores enfatizam a simpatia que se abre para fora e vivifica outras formações. Essa organização é mais específica que uma simples escala da aversão ao afeto."
+        ],
+        "distinction": "A simpatia técnica não é sinônimo de bondade, e a antipatia técnica não é um julgamento de que todo limite cotidiano esteja errado."
+      }
+    },
+    {
+      "id": "purification",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            50,
+            53
+          ],
+          "readingIds": [
+            11
+          ]
+        },
+        {
+          "chapter": 3,
+          "captures": [
+            54,
+            57
+          ],
+          "readingIds": [
+            26
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "kamaloca",
+          "en": "Kamaloca names the condition associated with bodily-oriented desire and its release.",
+          "pt": "Kamaloca designa a condição associada ao desejo orientado para o corpo e ao seu desprendimento."
+        },
+        {
+          "id": "fruits-of-experience",
+          "en": "Purification releases attachment while preserving what can become the spirit's enduring possession.",
+          "pt": "A purificação desfaz o apego e preserva aquilo que pode se tornar patrimônio duradouro do espírito."
+        },
+        {
+          "id": "sympathy-antipathy",
+          "en": "The process is described through the soul world's relations of attraction, separation and opening participation.",
+          "pt": "O processo é descrito pelas relações de atração, separação e abertura à participação no mundo anímico."
+        }
+      ],
+      "en": {
+        "term": "Purification",
+        "alsoCalled": [],
+        "definition": "In Steiner's account of life after death, the process through which the soul releases attachment to fulfillment dependent on the completed bodily life, freeing the spirit for Spirit-land.",
+        "explanation": [
+          "A desire formed through bodily experience can persist after its bodily instrument is absent. The seven regions describe different affinities involved in releasing such attachment, ranging from coarse appetite to subtle enjoyment of one's own activity and the conviction that activity is only physical.",
+          "The process does not erase all experience. Steiner distinguishes the bodily-dependent attachment from the extract that can live with the spirit, and he makes its duration and extent depend on affinity rather than an identical schedule for every person."
+        ],
+        "distinction": "Purification is not a demand to neglect the living body, a classification of grieving people, or a claim that all earthly relationships and achievements are discarded."
+      },
+      "pt": {
+        "term": "Purificação",
+        "alsoCalled": [],
+        "definition": "No relato de Steiner sobre a vida após a morte, o processo pelo qual a alma desfaz o apego à satisfação dependente da vida corporal concluída, libertando o espírito para a região espiritual.",
+        "explanation": [
+          "Um desejo formado pela experiência corporal pode persistir depois que seu instrumento corporal está ausente. As sete regiões descrevem diferentes afinidades envolvidas no desprendimento desse apego, do apetite grosseiro ao desfrute sutil da própria atividade e à convicção de que a atividade é apenas física.",
+          "O processo não apaga toda a experiência. Steiner distingue o apego dependente do corpo da essência que pode viver com o espírito, e faz sua duração e extensão dependerem da afinidade, em vez de um cronograma idêntico para todas as pessoas."
+        ],
+        "distinction": "A purificação não é uma exigência de descuidar do corpo vivo, uma classificação de pessoas enlutadas nem uma afirmação de que todas as relações e realizações terrestres são descartadas."
+      }
+    },
+    {
+      "id": "kamaloca",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            50,
+            53
+          ],
+          "readingIds": [
+            11
+          ]
+        },
+        {
+          "chapter": 3,
+          "captures": [
+            54,
+            57
+          ],
+          "readingIds": [
+            26
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "purification",
+          "en": "The condition is understood through the release of bodily-dependent attachments.",
+          "pt": "A condição é compreendida pelo desprendimento dos apegos dependentes do corpo."
+        },
+        {
+          "id": "soul-world",
+          "en": "Steiner situates this after-death condition within the soul world rather than a geographic location.",
+          "pt": "Steiner situa essa condição após a morte no mundo anímico, e não em um lugar geográfico."
+        }
+      ],
+      "en": {
+        "term": "Kamaloca",
+        "alsoCalled": [
+          "Region of Desires"
+        ],
+        "definition": "The name Steiner uses for the after-death condition in which the soul remains connected with bodily-oriented desires and undergoes their release.",
+        "explanation": [
+          "Steiner's example of desire for a taste without the bodily instrument explains why death and release are not identical in his account. Kamaloca belongs to that account of the soul's condition, not to a map of physically separated destinations.",
+          "The seven soul-world regions differentiate the attachments involved; affinity determines participation in them. The term does not authorize a diagnosis of any particular deceased person's present state."
+        ],
+        "distinction": "The general name Region of Desires must not be confused with the third of the seven regions, the Region of Wishes, or treated as a physical place."
+      },
+      "pt": {
+        "term": "Kamaloca",
+        "alsoCalled": [
+          "Região dos Desejos (Kamaloca)"
+        ],
+        "definition": "O nome que Steiner usa para a condição após a morte na qual a alma permanece ligada aos desejos orientados para o corpo e passa por seu desprendimento.",
+        "explanation": [
+          "O exemplo de Steiner de um desejo de saborear algo sem o instrumento corporal explica por que a morte e o desprendimento não são idênticos em seu relato. Kamaloca pertence a esse relato da condição da alma, e não a um mapa de destinos fisicamente separados.",
+          "As sete regiões do mundo anímico diferenciam os apegos envolvidos; a afinidade determina a participação nelas. O termo não autoriza um diagnóstico do estado atual de nenhuma pessoa falecida em particular."
+        ],
+        "distinction": "O nome geral Região dos Desejos (Kamaloca) designa a condição de desprendimento, enquanto a Região dos Anseios (Wishes) é a terceira das sete regiões do mundo anímico. Nenhum dos nomes designa um lugar físico."
+      }
+    },
+    {
+      "id": "spirit-land",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            57,
+            61
+          ],
+          "readingIds": [
+            12
+          ],
+          "noteIds": [
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "archetypes",
+          "en": "The living creative beings whose activity characterizes Spirit-land.",
+          "pt": "Os seres criadores vivos cuja atividade caracteriza o mundo espiritual."
+        },
+        {
+          "id": "life-between-lives",
+          "en": "The spiritual interval described as a development of earthly experience in this world.",
+          "pt": "O intervalo espiritual descrito como desenvolvimento da experiência terrestre nesse mundo."
+        },
+        {
+          "id": "spirit",
+          "en": "The human spirit participates in this wider spiritual world.",
+          "pt": "O espírito humano participa desse mundo espiritual mais amplo."
+        }
+      ],
+      "en": {
+        "term": "Spirit-land",
+        "alsoCalled": [
+          "World of the Spirit",
+          "Devachan"
+        ],
+        "definition": "In Steiner’s account, the world of independently living archetypes and creative spiritual activity, differentiated from the physical and soul worlds.",
+        "explanation": [
+          "Its regions interpenetrate. The lower four differentiate physical-form archetypes, life, soul formations and coordination; the upper three are initially described together as a realm of creative impulses.",
+          "Spirit-land is not the whole of every possible spiritual reality: the source places the origin of the Life kernel in still higher worlds."
+        ],
+        "distinction": "The spiritual counterpart of a feeling in Spirit-land differs from that feeling’s life in the soul world. The two seven-region descriptions should not be merged."
+      },
+      "pt": {
+        "term": "Mundo espiritual",
+        "alsoCalled": [
+          "Mundo do espírito",
+          "Devachan"
+        ],
+        "definition": "Na concepção de Steiner, o mundo dos arquétipos que vivem independentemente e da atividade espiritual criadora, distinto dos mundos físico e anímico.",
+        "explanation": [
+          "Suas regiões se interpenetram. As quatro inferiores diferenciam os arquétipos da forma física, a vida, as formações anímicas e a coordenação; as três superiores são inicialmente descritas em conjunto como âmbito de impulsos criadores.",
+          "O mundo espiritual não abrange toda realidade espiritual possível: a fonte situa a origem do núcleo de vida em mundos ainda superiores."
+        ],
+        "distinction": "A contraparte espiritual de um sentimento no mundo espiritual difere da vida desse sentimento no mundo anímico. As duas descrições de sete regiões não devem ser fundidas."
+      }
+    },
+    {
+      "id": "archetypes",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            57,
+            61
+          ],
+          "readingIds": [
+            12
+          ],
+          "noteIds": [
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "spirit-land",
+          "en": "The world in which Steiner describes their independent creative activity.",
+          "pt": "O mundo em que Steiner descreve sua atividade criadora independente."
+        },
+        {
+          "id": "thinking",
+          "en": "Ordinary thought is described as a picture of living spiritual thought-beings.",
+          "pt": "O pensamento comum é descrito como imagem de seres espirituais vivos de pensamento."
+        }
+      ],
+      "en": {
+        "term": "Archetypes",
+        "alsoCalled": [
+          "Living spiritual archetypes"
+        ],
+        "definition": "Independent creative spiritual beings that, in Steiner’s account, give rise to varied forms and cooperate in their realization.",
+        "explanation": [
+          "Their activity includes more than producing the visible outline of an object: the spiritual account also differentiates life, soul qualities and coordination. A single archetype can give rise to different manifestations.",
+          "A painter’s anticipated picture is an analogy for creative form before physical completion. The source allows that the picture can develop during work; an archetype is not thereby reduced to a fixed human plan."
+        ],
+        "distinction": "An archetype is not an abstraction produced by comparing objects, a rigid mould, or a personal idea treated as an independent being."
+      },
+      "pt": {
+        "term": "Arquétipos",
+        "alsoCalled": [
+          "Arquétipos espirituais vivos"
+        ],
+        "definition": "Seres espirituais criadores independentes que, na concepção de Steiner, dão origem a formas variadas e cooperam em sua realização.",
+        "explanation": [
+          "Sua atividade vai além de produzir o contorno visível de um objeto: a descrição espiritual também diferencia vida, qualidades anímicas e coordenação. Um arquétipo pode dar origem a manifestações diferentes.",
+          "A imagem antecipada pelo pintor é uma analogia para a forma criadora antes da conclusão física. A fonte admite que a imagem se desenvolva durante o trabalho; isso não reduz o arquétipo a um plano humano fixo."
+        ],
+        "distinction": "O arquétipo não é uma abstração produzida pela comparação de objetos, um molde rígido ou uma ideia pessoal tratada como ser independente."
+      }
+    },
+    {
+      "id": "life-between-lives",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            61,
+            66
+          ],
+          "readingIds": [
+            13
+          ]
+        },
+        {
+          "chapter": 3,
+          "captures": [
+            66,
+            69
+          ],
+          "readingIds": [
+            14
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "spirit-land",
+          "en": "The world in which this spiritual development is described.",
+          "pt": "O mundo em que esse desenvolvimento espiritual é descrito."
+        },
+        {
+          "id": "fruits-of-experience",
+          "en": "Experience becomes a basis for capacities rather than only a record of events.",
+          "pt": "A experiência se torna base para capacidades, em vez de ser apenas um registro de acontecimentos."
+        },
+        {
+          "id": "reincarnation",
+          "en": "The interval prepares renewed earthly embodiment.",
+          "pt": "O intervalo prepara uma nova existência corporal terrestre."
+        },
+        {
+          "id": "individuality",
+          "en": "The enduring individuality bears the fruits developed across bodily lives.",
+          "pt": "A individualidade duradoura leva os frutos desenvolvidos através das vidas corporais."
+        }
+      ],
+      "en": {
+        "term": "Life between lives",
+        "alsoCalled": [
+          "Spiritual interval between incarnations"
+        ],
+        "definition": "Steiner’s account of the spirit’s development after soul purification and before renewed bodily existence, in which earthly experience becomes capacities and spiritual aims.",
+        "explanation": [
+          "The account gives relationships, reverence, service and cultural creation distinct roles. It therefore concerns participation in a wider world as well as the continuing individuality.",
+          "The enduring Self bears the fruits of former lives. Steiner qualifies the general developmental direction: the immediate next life need not be visibly more perfect."
+        ],
+        "distinction": "The transformation in Spirit-land differs from the preceding release of bodily-dependent attachments in the soul world and from an ordinary recollection of past events."
+      },
+      "pt": {
+        "term": "Vida entre vidas",
+        "alsoCalled": [
+          "Intervalo espiritual entre encarnações"
+        ],
+        "definition": "A descrição de Steiner do desenvolvimento do espírito depois da purificação anímica e antes de uma nova existência corporal, em que a experiência terrestre se torna capacidades e propósitos espirituais.",
+        "explanation": [
+          "A descrição atribui papéis distintos às relações, à reverência, ao serviço e à criação cultural. Por isso, diz respeito à participação em um mundo mais amplo, além da continuidade da individualidade.",
+          "O eu duradouro leva os frutos de vidas anteriores. Steiner faz uma ressalva sobre a direção geral do desenvolvimento: a vida imediatamente seguinte não precisa ser visivelmente mais perfeita."
+        ],
+        "distinction": "A transformação no mundo espiritual difere da liberação anterior dos vínculos dependentes do corpo no mundo anímico e de uma recordação comum de acontecimentos passados."
+      }
+    },
+    {
+      "id": "elemental-beings",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            69,
+            74
+          ],
+          "readingIds": [
+            15
+          ],
+          "noteIds": [
+            3
+          ]
+        },
+        {
+          "chapter": 3,
+          "captures": [
+            74,
+            75
+          ],
+          "readingIds": [
+            16
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "archetypes",
+          "en": "The chapter places formative activity in a wider account of spiritual creative beings.",
+          "pt": "O capítulo situa a atividade formadora em uma descrição mais ampla de seres espirituais criadores."
+        },
+        {
+          "id": "folk-spirit",
+          "en": "Both discussions distinguish spiritual beings from ordinary physical embodiment, with different forms of participation.",
+          "pt": "As duas discussões distinguem seres espirituais da corporificação física comum, com formas diferentes de participação."
+        }
+      ],
+      "en": {
+        "term": "Elemental beings",
+        "alsoCalled": [],
+        "definition": "Beings described by Steiner as participating in the world’s formation without physical bodies; the passage names salamanders, sylphs, undines and gnomes.",
+        "explanation": [
+          "The chapter also describes three Elementary Kingdoms of primal archetypal, shape-creating and soul beings. That explanatory grouping should be distinguished from the later list of four elemental names.",
+          "The names identify spiritual beings in the source’s account. Ordinary observation of an image or natural event does not disclose these asserted spiritual beings."
+        ],
+        "distinction": "The four named kinds should not be mapped one by one onto the three Elementary Kingdoms or merged with either set of seven regions."
+      },
+      "pt": {
+        "term": "Seres elementais",
+        "alsoCalled": [],
+        "definition": "Seres descritos por Steiner como participantes da formação do mundo sem corpos físicos; a passagem menciona salamandras, silfos, ondinas e gnomos.",
+        "explanation": [
+          "O capítulo também descreve três Reinos Elementares de seres arquetípicos primordiais, criadores de formas e anímicos. Esse agrupamento explicativo deve ser distinguido da lista posterior de quatro nomes elementais.",
+          "Os nomes identificam seres espirituais na concepção da fonte. A observação comum de uma imagem ou de um acontecimento natural não revela esses seres espirituais afirmados pela fonte."
+        ],
+        "distinction": "Os quatro tipos nomeados não devem ser distribuídos um a um entre os três Reinos Elementares nem fundidos com qualquer conjunto de sete regiões."
+      }
+    },
+    {
+      "id": "folk-spirit",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            74,
+            75
+          ],
+          "readingIds": [
+            16
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "spirit-of-age",
+          "en": "Another independent collective being in the source, concerning the life of an age rather than a people.",
+          "pt": "Outro ser coletivo independente na fonte, ligado à vida de uma época, em vez de um povo."
+        },
+        {
+          "id": "soul",
+          "en": "Its activity manifests in shared soul life without originating in those souls.",
+          "pt": "Sua atividade se manifesta na vida anímica compartilhada sem ter origem nessas almas."
+        }
+      ],
+      "en": {
+        "term": "Folk Spirit",
+        "alsoCalled": [
+          "National Spirit"
+        ],
+        "definition": "An independent spiritual being that, in Steiner’s account, has a soul-world body and manifests its activity in the shared feelings and tendencies of a people.",
+        "explanation": [
+          "The source distinguishes the proposed being from the human souls in which its effects appear: its activity does not originate in those souls themselves. A shared custom can introduce the topic, but does not by itself establish that independent being.",
+          "The concept concerns a spiritual interpretation of collective life. It should not become a fixed description of every individual in a group or a ranking of peoples."
+        ],
+        "distinction": "A Folk Spirit is not simply the sum of individual attitudes, a national stereotype or an ordinary social-science description of culture."
+      },
+      "pt": {
+        "term": "Espírito de um povo",
+        "alsoCalled": [
+          "Espírito do povo",
+          "Espírito nacional"
+        ],
+        "definition": "Um ser espiritual independente que, na concepção de Steiner, tem um corpo do mundo anímico e manifesta sua atividade nos sentimentos e nas tendências compartilhados de um povo.",
+        "explanation": [
+          "A fonte distingue o ser proposto das almas humanas em que aparecem seus efeitos: sua atividade não tem origem nessas próprias almas. Um costume compartilhado pode introduzir o tema, mas não estabelece por si só esse ser independente.",
+          "O conceito trata de uma interpretação espiritual da vida coletiva. Não deve se tornar uma descrição fixa de cada pessoa de um grupo ou uma classificação hierárquica de povos."
+        ],
+        "distinction": "O Espírito de um povo não é simplesmente a soma das atitudes individuais, um estereótipo nacional ou uma descrição comum da cultura pelas ciências sociais."
+      }
+    },
+    {
+      "id": "spirit-of-age",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            74,
+            75
+          ],
+          "readingIds": [
+            16
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "folk-spirit",
+          "en": "The source compares two independent beings whose activity appears in collective human life.",
+          "pt": "A fonte compara dois seres independentes cuja atividade aparece na vida humana coletiva."
+        },
+        {
+          "id": "spirit",
+          "en": "The term names a proposed spiritual being, rather than only the mood of a period.",
+          "pt": "O termo nomeia um ser espiritual proposto pela fonte, em vez de apenas o clima de um período."
+        }
+      ],
+      "en": {
+        "term": "Spirit of the Age",
+        "alsoCalled": [
+          "Zeitgeist"
+        ],
+        "definition": "An independent spiritual being through which Steiner interprets shared historical life, rather than merely a label for the ideas or mood of an era.",
+        "explanation": [
+          "In the chapter, Steiner extends the distinction made for Folk Spirit to the Spirit of the Age. Observable tendencies manifest the proposed being’s activity; they do not generate that being through psychological aggregation.",
+          "The source account adds a spiritual interpretation to historical observation. Recognizing common ideas in a period does not alone establish the independent being it asserts."
+        ],
+        "distinction": "The everyday word Zeitgeist can mean a period’s prevailing outlook. Steiner uses it here to refer to an independently existing being."
+      },
+      "pt": {
+        "term": "Espírito da época",
+        "alsoCalled": [
+          "Zeitgeist"
+        ],
+        "definition": "Um ser espiritual independente por meio do qual Steiner interpreta a vida histórica compartilhada, em vez de apenas um nome para as ideias ou o clima de uma época.",
+        "explanation": [
+          "No capítulo, Steiner estende ao Espírito da época a distinção feita para o Espírito de um povo. Tendências observáveis manifestam a atividade do ser proposto; não geram esse ser por agregação psicológica.",
+          "A concepção da fonte acrescenta uma interpretação espiritual à observação histórica. Reconhecer ideias comuns em um período não estabelece, por si só, o ser independente afirmado por ela."
+        ],
+        "distinction": "No uso cotidiano, Zeitgeist pode significar a perspectiva predominante de um período. Aqui, Steiner o emprega para se referir a um ser que existe independentemente."
+      }
+    },
+    {
+      "id": "thought-forms",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            75,
+            81
+          ],
+          "readingIds": [
+            17
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "thinking",
+          "en": "The account adds spiritual form to the content, definiteness and motive of thinking.",
+          "pt": "A descrição acrescenta a forma espiritual ao conteúdo, à definição e ao motivo do pensar."
+        },
+        {
+          "id": "aura",
+          "en": "Thought activity participates in the spiritually perceptible inner life described in the aura account.",
+          "pt": "A atividade do pensamento participa da vida interior perceptível espiritualmente na descrição da aura."
+        }
+      ],
+      "en": {
+        "term": "Thought-forms",
+        "alsoCalled": [],
+        "definition": "The spiritually perceptible forms that Steiner describes as the expression of actual thought activity, differentiated by content, definiteness and motive.",
+        "explanation": [
+          "A definite thought is described differently from a confused one, while similar intellectual capacities can serve different ends. The account concerns a real spiritual event, rather than just a picture used to explain language.",
+          "Ordinary comparison of ideas helps clarify their content and precision. It differs from the spiritual perception through which Steiner claims their forms are known."
+        ],
+        "distinction": "A thought-form is not an ordinary drawing of an idea, a physical shape in the brain or an ordinary visible appearance from which a stranger’s thoughts can be read."
+      },
+      "pt": {
+        "term": "Formas de pensamento",
+        "alsoCalled": [],
+        "definition": "As formas perceptíveis espiritualmente que Steiner descreve como expressão da atividade real do pensamento, diferenciadas por conteúdo, definição e motivo.",
+        "explanation": [
+          "Um pensamento definido é descrito de modo diferente de um pensamento confuso, enquanto capacidades intelectuais semelhantes podem servir a fins diferentes. A descrição trata de um acontecimento espiritual real, em vez de apenas uma imagem usada para explicar a linguagem.",
+          "A comparação comum de ideias ajuda a esclarecer seu conteúdo e sua precisão. Ela difere da percepção espiritual por meio da qual Steiner afirma que suas formas são conhecidas."
+        ],
+        "distinction": "Uma forma de pensamento não é um desenho comum de uma ideia, uma forma física no cérebro ou uma aparência visível comum pela qual se possa ler o pensamento de um desconhecido."
+      }
+    },
+    {
+      "id": "aura",
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            75,
+            81
+          ],
+          "readingIds": [
+            17
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "body-soul-spirit",
+          "en": "The source differentiates bodily influence, soul life and eternal spiritual activity in three interpenetrating aspects.",
+          "pt": "A fonte diferencia influência corporal, vida anímica e atividade espiritual eterna em três aspectos interpenetrantes."
+        },
+        {
+          "id": "thought-forms",
+          "en": "Thoughts are one kind of inner activity whose spiritual expression belongs to this account.",
+          "pt": "Os pensamentos são um tipo de atividade interior cuja expressão espiritual pertence a essa descrição."
+        },
+        {
+          "id": "feeling",
+          "en": "Passing moods and lasting dispositions are distinguished in the spiritual description of inner life.",
+          "pt": "Estados de ânimo passageiros e disposições duradouras são distinguidos na descrição espiritual da vida interior."
+        }
+      ],
+      "en": {
+        "term": "Aura",
+        "alsoCalled": [
+          "Human aura"
+        ],
+        "definition": "Steiner’s account of spiritually perceptible inner life, differentiated into interpenetrating aspects of bodily influence upon soul, the soul’s own life and eternal spiritual activity.",
+        "explanation": [
+          "The first aspect is described as relatively opaque, the second as illuminating, and the third as sparkling or raying. These are distinctions in claimed spiritual perception, not three physical coloured shells.",
+          "Motive, temporary mood and lasting disposition affect the descriptions. Bodily-influenced life includes naturally selfless love, so the first aspect is not simply a category of selfishness."
+        ],
+        "distinction": "The aura account is not a universal colour-to-personality key or a method for diagnosing or ranking people from their visible appearance."
+      },
+      "pt": {
+        "term": "Aura",
+        "alsoCalled": [
+          "Aura humana"
+        ],
+        "definition": "A descrição de Steiner da vida interior perceptível espiritualmente, diferenciada em aspectos interpenetrantes da influência corporal sobre a alma, da vida própria da alma e da atividade espiritual eterna.",
+        "explanation": [
+          "O primeiro aspecto é descrito como relativamente opaco, o segundo como iluminador e o terceiro como cintilante ou irradiante. São distinções da percepção espiritual afirmada pela fonte, e não três camadas físicas coloridas.",
+          "Motivo, estado de ânimo temporário e disposição duradoura afetam as descrições. A vida influenciada pelo corpo inclui amor naturalmente altruísta; por isso, o primeiro aspecto não é simplesmente uma categoria de egoísmo."
+        ],
+        "distinction": "A descrição da aura não é uma chave universal de cor e personalidade nem um método para diagnosticar ou classificar pessoas por sua aparência visível."
+      }
+    }
+  ],
+  "practices": [
+    {
+      "id": "observe-a-response",
+      "category": "self-observation",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "soul-affinities"
+      ],
+      "conceptIds": [
+        "sympathy-antipathy",
+        "soul-world",
+        "feeling"
+      ],
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            47,
+            50
+          ],
+          "readingIds": [
+            25
+          ]
+        }
+      ],
+      "en": {
+        "title": "Observe a response",
+        "purpose": "Distinguish receiving an impression, rejecting it and wanting to make it serve an existing preference.",
+        "duration": "About 3–5 minutes; one example is sufficient.",
+        "steps": [
+          "Choose a neutral, ordinary example, such as encountering an unfamiliar explanation, a new sound or a suggested way to organize a task. An imagined example is also suitable.",
+          "Describe what was encountered in one sentence, before describing your response.",
+          "Notice whether the response involved immediate rejection, relatively neutral reception, a wish to possess or use it, or willingness to understand it on its own terms. More than one can be present.",
+          "Write one sentence about what the example clarifies in Steiner's technical distinction between sympathy and antipathy. Leave the example unclassified if the distinction does not fit."
+        ],
+        "reflection": "What difference is there between being attracted to something and allowing it to enlarge your understanding?",
+        "notes": [
+          "Attraction can serve possession when you welcome something chiefly because it confirms your view or gives you a desired advantage. Understanding can involve a different relation: attending to the encounter closely enough to let it revise the view you brought to it. Your example may show both tendencies, which makes the distinction useful without turning it into a verdict about your character.",
+          "This is an optional ordinary observation, not an exercise in perceiving the soul world. It cannot identify your soul-world region or another person's spiritual condition.",
+          "Keeping a necessary boundary can be appropriate. Use the example to clarify a relation, not to condemn rejection or reward agreement."
+        ],
+        "sourceBasis": "Course adaptation of Steiner's account of sympathy, antipathy and their different relations in the first subsection of Chapter III; the source does not prescribe this observation as a spiritual-perception exercise."
+      },
+      "pt": {
+        "title": "Observar uma resposta",
+        "purpose": "Distinguir receber uma impressão, rejeitá-la e querer fazê-la servir a uma preferência já existente.",
+        "duration": "Cerca de 3–5 minutos; um exemplo é suficiente.",
+        "steps": [
+          "Escolha um exemplo cotidiano e neutro, como encontrar uma explicação pouco familiar, um som novo ou uma sugestão para organizar uma tarefa. Um exemplo imaginado também serve.",
+          "Descreva em uma frase o que foi encontrado, antes de descrever sua resposta.",
+          "Observe se a resposta envolveu rejeição imediata, recepção relativamente neutra, vontade de possuir ou usar aquilo, ou disposição para compreendê-lo em seus próprios termos. Mais de uma resposta pode estar presente.",
+          "Escreva uma frase sobre o que o exemplo esclarece na distinção técnica de Steiner entre simpatia e antipatia. Deixe o exemplo sem classificação se a distinção não se ajustar a ele."
+        ],
+        "reflection": "Que diferença existe entre sentir-se atraído por algo e permitir que isso amplie sua compreensão?",
+        "notes": [
+          "A atração pode servir à posse quando você acolhe algo principalmente porque confirma sua visão ou lhe oferece uma vantagem desejada. A compreensão pode envolver outra relação: prestar atenção ao encontro o suficiente para permitir que ele revise a visão que você trouxe. Seu exemplo pode mostrar as duas tendências, o que torna a distinção útil sem transformá-la em um julgamento sobre seu caráter.",
+          "Esta é uma observação cotidiana opcional, não um exercício de percepção do mundo anímico. Ela não pode identificar sua região anímica nem a condição espiritual de outra pessoa.",
+          "Manter um limite necessário pode ser adequado. Use o exemplo para esclarecer uma relação, não para condenar a rejeição nem premiar a concordância."
+        ],
+        "sourceBasis": "Adaptação do curso a partir do relato de Steiner sobre simpatia, antipatia e suas diferentes relações na primeira subseção do Capítulo III; a fonte não prescreve esta observação como exercício de percepção espiritual."
+      }
+    },
+    {
+      "id": "notice-body-dependent-desire",
+      "category": "self-observation",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "death-and-release"
+      ],
+      "conceptIds": [
+        "purification",
+        "kamaloca",
+        "fruits-of-experience",
+        "body-soul-spirit"
+      ],
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            50,
+            53
+          ],
+          "readingIds": [
+            11
+          ]
+        },
+        {
+          "chapter": 3,
+          "captures": [
+            54,
+            57
+          ],
+          "readingIds": [
+            26
+          ]
+        }
+      ],
+      "en": {
+        "title": "Notice a body-dependent desire",
+        "purpose": "Clarify the difference between fulfillment requiring a particular bodily encounter and a capacity that can be carried into another situation.",
+        "duration": "About 3–5 minutes; stop after one useful distinction.",
+        "steps": [
+          "Choose a neutral pleasant experience, such as hearing music, making something by hand or sharing a meal. You may use an imagined example.",
+          "Identify what would be required to repeat its bodily pleasure: an organ of sense, an activity and a present encounter.",
+          "Identify something that might be learned through the experience and used elsewhere, such as attentiveness, skill, patience or consideration.",
+          "Write two short statements: one describing the wish to repeat the encounter, the other describing the capacity that can be used in a different encounter."
+        ],
+        "reflection": "How does this distinction help you understand Steiner's contrast between bodily-dependent attachment and a retained fruit of experience?",
+        "notes": [
+          "Repeating the pleasure of a melody or meal requires another bodily encounter with its particular sounds or flavors. The attention, skill or consideration developed through that encounter can become useful while learning a different subject, making something else or caring for another person. The first statement seeks renewed enjoyment; the second identifies a capacity available beyond its original occasion. This provides a limited everyday comparison for Steiner's distinction, not evidence about life after death.",
+          "The exercise examines an ordinary distinction; it does not reproduce or verify an after-death process. There is no need to deprive yourself of a pleasure, delay food or disregard bodily needs.",
+          "Use a neutral example rather than a personal bereavement if that is more comfortable. Nothing in the exercise establishes the spiritual condition of a deceased person."
+        ],
+        "sourceBasis": "Course adaptation of Steiner's distinction between bodily-oriented desires and the extract of experience that can accompany the spirit in Chapter III. It is not a source-prescribed preparation for death."
+      },
+      "pt": {
+        "title": "Notar um desejo dependente do corpo",
+        "purpose": "Esclarecer a diferença entre uma satisfação que exige um encontro corporal particular e uma capacidade que pode ser levada para outra situação.",
+        "duration": "Cerca de 3–5 minutos; encerre após uma distinção útil.",
+        "steps": [
+          "Escolha uma experiência agradável e neutra, como ouvir música, fazer algo com as mãos ou compartilhar uma refeição. Você pode usar um exemplo imaginado.",
+          "Identifique o que seria necessário para repetir seu prazer corporal: um órgão dos sentidos, uma atividade e um encontro presente.",
+          "Identifique algo que poderia ser aprendido por meio da experiência e usado em outro contexto, como atenção, habilidade, paciência ou consideração.",
+          "Escreva duas afirmações breves: uma descrevendo a vontade de repetir o encontro, outra descrevendo a capacidade que pode ser usada em um encontro diferente."
+        ],
+        "reflection": "Como essa distinção ajuda a compreender o contraste de Steiner entre o apego dependente do corpo e um fruto da experiência que se conserva?",
+        "notes": [
+          "Repetir o prazer de uma melodia ou refeição exige outro encontro corporal com seus sons ou sabores particulares. A atenção, a habilidade ou a consideração desenvolvida nesse encontro pode se tornar útil ao aprender outro assunto, produzir outra coisa ou cuidar de outra pessoa. A primeira afirmação busca um desfrute renovado; a segunda identifica uma capacidade disponível além de sua ocasião original. Isso oferece uma comparação cotidiana limitada para a distinção de Steiner, não uma evidência sobre a vida após a morte.",
+          "O exercício examina uma distinção cotidiana; não reproduz nem verifica um processo após a morte. Não é necessário privar-se de um prazer, adiar uma refeição nem desconsiderar necessidades corporais.",
+          "Use um exemplo neutro em vez de um luto pessoal se isso for mais confortável. Nada no exercício estabelece a condição espiritual de uma pessoa falecida."
+        ],
+        "sourceBasis": "Adaptação do curso a partir da distinção de Steiner entre desejos orientados para o corpo e a essência da experiência que pode acompanhar o espírito no Capítulo III. Não é uma preparação para a morte prescrita pela fonte."
+      }
+    },
+    {
+      "id": "trace-a-creative-process",
+      "category": "thinking",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "living-archetypes"
+      ],
+      "conceptIds": [
+        "archetypes",
+        "spirit-land",
+        "thinking"
+      ],
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            57,
+            61
+          ],
+          "readingIds": [
+            12
+          ],
+          "noteIds": [
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "en": {
+        "title": "Trace a creative process",
+        "purpose": "Distinguish a human intention, its changing working forms and a completed result before comparing them with Steiner’s archetype analogy.",
+        "duration": "A brief activity using a familiar task; about five to ten minutes is a course suggestion.",
+        "steps": [
+          "Choose a small task, such as explaining one idea to two different audiences or planning a simple paper organizer.",
+          "Identify the relation or purpose you want the different versions to retain. It may become clearer during the task.",
+          "Make or imagine two realizations. Notice what changes and what remains recognizable.",
+          "Separate your intention, the working plan and the resulting words or object. Then identify where the comparison with an independently living archetype goes beyond the activity."
+        ],
+        "reflection": "How did your idea develop through its realizations, and which part of Steiner’s account could this exercise only illustrate?",
+        "notes": [
+          "A human idea can develop while work proceeds and can be realized in different forms.",
+          "This activity compares ordinary creation with the source analogy; it does not perceive spiritual archetypes or establish their independent existence."
+        ],
+        "sourceBasis": "An original course exercise based on the painter analogy and the account of varied, cooperating archetypal activity in captures 57–61; Steiner does not prescribe this task or duration."
+      },
+      "pt": {
+        "title": "Acompanhe um processo criativo",
+        "purpose": "Distinguir uma intenção humana, suas formas de trabalho em transformação e um resultado concluído antes de compará-los com a analogia do arquétipo em Steiner.",
+        "duration": "Uma atividade breve com uma tarefa familiar; cerca de cinco a dez minutos é uma sugestão do curso.",
+        "steps": [
+          "Escolha uma tarefa pequena, como explicar uma ideia a dois públicos diferentes ou planejar um organizador simples de papel.",
+          "Identifique a relação ou o propósito que deseja preservar nas versões. Ele pode se tornar mais claro durante a tarefa.",
+          "Faça ou imagine duas realizações. Observe o que muda e o que permanece reconhecível.",
+          "Separe sua intenção, o plano de trabalho e as palavras ou o objeto resultante. Depois identifique onde a comparação com um arquétipo que vive independentemente ultrapassa a atividade."
+        ],
+        "reflection": "Como sua ideia se desenvolveu por meio das realizações, e qual parte da concepção de Steiner este exercício pôde apenas ilustrar?",
+        "notes": [
+          "Uma ideia humana pode se desenvolver durante o trabalho e se realizar em formas diferentes.",
+          "Esta atividade compara a criação comum com a analogia da fonte; não percebe arquétipos espirituais nem estabelece sua existência independente."
+        ],
+        "sourceBasis": "Exercício original do curso baseado na analogia do pintor e na descrição da atividade arquetípica variada e cooperativa das capturas 57–61; Steiner não prescreve esta tarefa nem sua duração."
+      }
+    },
+    {
+      "id": "describe-before-interpreting",
+      "category": "observation",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "nature-and-spiritual-beings"
+      ],
+      "conceptIds": [
+        "elemental-beings",
+        "archetypes",
+        "etheric-body"
+      ],
+      "sources": [
+        {
+          "chapter": 3,
+          "captures": [
+            69,
+            74
+          ],
+          "readingIds": [
+            15
+          ],
+          "noteIds": [
+            3
+          ]
+        },
+        {
+          "chapter": 3,
+          "captures": [
+            74,
+            75
+          ],
+          "readingIds": [
+            16
+          ]
+        }
+      ],
+      "en": {
+        "title": "Describe before interpreting",
+        "purpose": "Separate an observation of natural form, an ordinary inference and the spiritual interpretation made in the source.",
+        "duration": "A few minutes with a familiar plant or an existing record of its growth; a later revisit is optional. This timing is a course suggestion.",
+        "steps": [
+          "Choose a plant you can observe without disturbing it, or compare two dated photographs of the same plant.",
+          "Describe specific visible features: leaf position, new growth, changes in size or shape. Keep the description separate from an explanation.",
+          "Name an ordinary inference, such as growth toward available light, and identify what observations support it or what remains uncertain.",
+          "Compare that statement with Steiner’s account of formative spiritual activity. State the additional claim instead of treating it as something already seen."
+        ],
+        "reflection": "What changed when you moved from describing the plant to explaining it, and then to reconstructing Steiner’s account?",
+        "notes": [
+          "A description concerns what was observed; an inference proposes a relation or cause.",
+          "The source’s spiritual interpretation introduces formative beings beyond ordinary sense observation. Keeping these statements distinct makes both the observation and the reading clearer."
+        ],
+        "sourceBasis": "An original course exercise drawn from the crystal/plant distinction and the discussion of formative beings in captures 69–75. The source does not prescribe this observation task or its duration."
+      },
+      "pt": {
+        "title": "Descreva antes de interpretar",
+        "purpose": "Separar uma observação da forma natural, uma inferência comum e a interpretação espiritual feita pela fonte.",
+        "duration": "Alguns minutos com uma planta familiar ou um registro existente de seu crescimento; uma nova visita é opcional. Esse tempo é uma sugestão do curso.",
+        "steps": [
+          "Escolha uma planta que possa observar sem perturbá-la, ou compare duas fotografias datadas da mesma planta.",
+          "Descreva características visíveis específicas: posição das folhas, novos brotos, mudanças de tamanho ou forma. Mantenha a descrição separada da explicação.",
+          "Nomeie uma inferência comum, como o crescimento em direção à luz disponível, e identifique quais observações a sustentam ou o que permanece incerto.",
+          "Compare essa afirmação com a descrição de Steiner da atividade espiritual formadora. Explicite a afirmação adicional, em vez de tratá-la como algo já visto."
+        ],
+        "reflection": "O que mudou quando você passou da descrição da planta à explicação e depois à reconstrução da concepção de Steiner?",
+        "notes": [
+          "Uma descrição diz respeito ao que foi observado; uma inferência propõe uma relação ou causa.",
+          "A interpretação espiritual da fonte introduz seres formadores para além da observação sensorial comum. Manter essas afirmações distintas torna mais claras tanto a observação quanto a leitura."
+        ],
+        "sourceBasis": "Exercício original do curso desenvolvido a partir da distinção entre cristal e planta e da discussão dos seres formadores nas capturas 69–75. A fonte não prescreve esta tarefa de observação nem sua duração."
+      }
+    }
+  ]
+}

@@ -56,7 +56,7 @@
   function safeResume(last) {
     if (!last || last.course !== 'theosophy' || typeof last.url !== 'string') return null;
     try {
-      const current = location.pathname.match(/^(.*?)(?:pt\/)?(?:lessons\/\d{2}\.html|theosophy\/.*)$/);
+      const current = location.pathname.match(/^(.*?)(?:pt\/)?(?:lessons\/\d{2}\.html|(?:read\/)?theosophy\/.*)$/);
       const url = new URL(last.url, location.href);
       const match = url.pathname.match(/^(.*?)(?:pt\/)?lessons\/(\d{2})\.html$/);
       const id = match && valid(match[2]);

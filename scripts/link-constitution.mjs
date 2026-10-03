@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {isPracticalThinkingOwned} from './practical-thinking-owned.mjs';
 import {isBiodynamicOwned} from './biodynamic-owned.mjs';
+import {isConceptPlatformOwned} from './concept-platform-owned.mjs';
 // Work only on rendered text, never attributes, code, form fields or existing links.
 const excluded=new Set(['a','script','style','textarea','title','code','pre','svg','button','select']);
 const voids=new Set(['area','base','br','col','embed','hr','img','input','link','meta','param','source','track','wbr']);
@@ -35,7 +36,10 @@ export function buildLinks(){
   // The guided Theosophy reading selects its own occasional reference links.
   // Keep the automatic linker unchanged for every other published course.
   const normalized=relative.replaceAll('\\','/');
-  if(/^(?:pt\/)?(?:lessons\/\d{2}\.html|theosophy\/)/.test(normalized)&&html.includes('data-theosophy-owned="true"'))continue;
+  // Authored conceptual pages select links through the validated concept graph.
+  // Neither a folder nor an unlisted page's marker grants this exemption.
+  if(isConceptPlatformOwned(normalized,html))continue;
+  if(/^(?:pt\/)?(?:lessons\/\d{2}\.html|(?:read\/)?theosophy\/)/.test(normalized)&&html.includes('data-theosophy-owned="true"'))continue;
   if(isIntroductionOwned(normalized,html))continue;
   if(isPracticalThinkingOwned(normalized,html))continue;
   // Agricultural uses of etheric/astral activity select their own contextual links.

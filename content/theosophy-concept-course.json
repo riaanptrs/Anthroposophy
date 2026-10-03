@@ -1,0 +1,648 @@
+{
+  "schemaVersion": 1,
+  "id": "theosophy",
+  "route": "theosophy",
+  "status": "ready",
+  "prepared": "2026-10-03",
+  "dataFiles": [
+    "theosophy-concept-constitution.json",
+    "theosophy-concept-destiny-knowledge.json",
+    "theosophy-concept-worlds.json"
+  ],
+  "lessonIds": [
+    "body-soul-spirit",
+    "physical-body",
+    "life-and-etheric-body",
+    "sentience-and-astral-body",
+    "human-i",
+    "sentient-soul",
+    "mind-soul",
+    "consciousness-soul",
+    "spiritual-transformation",
+    "memory-and-individuality",
+    "reincarnation",
+    "karma-and-action",
+    "three-worlds",
+    "soul-affinities",
+    "death-and-release",
+    "living-archetypes",
+    "life-between-lives",
+    "nature-and-spiritual-beings",
+    "thought-forms-and-aura",
+    "understanding-and-knowledge",
+    "receptivity-and-equanimity",
+    "thinking-and-willing",
+    "freedom-and-initiation",
+    "whole-picture"
+  ],
+  "sources": [
+    {
+      "chapter": 0,
+      "captures": [
+        5,
+        12
+      ],
+      "readingIds": [
+        0
+      ]
+    },
+    {
+      "chapter": 1,
+      "captures": [
+        13,
+        31
+      ],
+      "readingIds": [
+        1
+      ]
+    },
+    {
+      "chapter": 2,
+      "captures": [
+        32,
+        41
+      ],
+      "readingIds": [
+        7
+      ]
+    },
+    {
+      "chapter": 3,
+      "captures": [
+        42,
+        81
+      ],
+      "readingIds": [
+        10
+      ]
+    },
+    {
+      "chapter": 4,
+      "captures": [
+        82,
+        92
+      ],
+      "readingIds": [
+        18
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": "human-being",
+      "lessonIds": [
+        "body-soul-spirit",
+        "physical-body",
+        "life-and-etheric-body",
+        "sentience-and-astral-body",
+        "human-i"
+      ],
+      "en": {
+        "title": "The human being",
+        "question": "What distinguishes bodily life, inward experience and a self-conscious person?",
+        "description": "Begin with familiar experiences and develop the distinctions between body, soul and spirit, the fourfold human being and the I."
+      },
+      "pt": {
+        "title": "O ser humano",
+        "question": "O que distingue a vida corporal, a experiência interior e uma pessoa consciente de si?",
+        "description": "Comece por experiências familiares e desenvolva as distinções entre corpo, alma e espírito, a constituição quádrupla do ser humano e o Eu."
+      }
+    },
+    {
+      "id": "soul-life",
+      "lessonIds": [
+        "sentient-soul",
+        "mind-soul",
+        "consciousness-soul",
+        "spiritual-transformation"
+      ],
+      "en": {
+        "title": "The life of the soul",
+        "question": "How do sensation, thinking and the search for truth become a person's own life?",
+        "description": "Distinguish the three soul functions and understand how Steiner connects their development with the transformation of the human being."
+      },
+      "pt": {
+        "title": "A vida da alma",
+        "question": "Como a sensação, o pensar e a busca da verdade se tornam a vida própria de uma pessoa?",
+        "description": "Distinga as três funções da alma e compreenda como Steiner relaciona seu desenvolvimento com a transformação do ser humano."
+      }
+    },
+    {
+      "id": "human-destiny",
+      "lessonIds": [
+        "memory-and-individuality",
+        "reincarnation",
+        "karma-and-action"
+      ],
+      "en": {
+        "title": "Individuality and destiny",
+        "question": "What continues through experience, and what consequences do our deeds have?",
+        "description": "Move from memory and acquired abilities to Steiner's account of repeated lives, then distinguish reincarnation, heredity and karma."
+      },
+      "pt": {
+        "title": "Individualidade e destino",
+        "question": "O que permanece ao longo da experiência, e quais consequências têm nossos atos?",
+        "description": "Passe da memória e das capacidades adquiridas à concepção de Steiner sobre vidas sucessivas; depois distinga reencarnação, hereditariedade e carma."
+      }
+    },
+    {
+      "id": "spiritual-worlds",
+      "lessonIds": [
+        "three-worlds",
+        "soul-affinities",
+        "death-and-release",
+        "living-archetypes",
+        "life-between-lives",
+        "nature-and-spiritual-beings",
+        "thought-forms-and-aura"
+      ],
+      "en": {
+        "title": "The spiritual worlds",
+        "question": "How does Steiner relate inner life and the physical world to soul and spiritual existence?",
+        "description": "Understand the different organizing principles of the soul world and Spirit-land, the account of life after death, and the relation to nature, thought and the aura."
+      },
+      "pt": {
+        "title": "Os mundos espirituais",
+        "question": "Como Steiner relaciona a vida interior e o mundo físico à existência anímica e espiritual?",
+        "description": "Compreenda os diferentes princípios de organização do mundo anímico e do mundo espiritual, a descrição da vida após a morte e a relação com a natureza, o pensamento e a aura."
+      }
+    },
+    {
+      "id": "path-of-knowledge",
+      "lessonIds": [
+        "understanding-and-knowledge",
+        "receptivity-and-equanimity",
+        "thinking-and-willing",
+        "freedom-and-initiation"
+      ],
+      "en": {
+        "title": "The path of knowledge",
+        "question": "How does understanding an account differ from investigating it for yourself?",
+        "description": "Connect receptive attention, regulated thinking, feeling and action with Steiner's account of spiritual knowledge, freedom and initiation."
+      },
+      "pt": {
+        "title": "O caminho do conhecimento",
+        "question": "Como compreender uma concepção difere de investigá-la por si mesmo?",
+        "description": "Relacione a atenção receptiva, o pensar ordenado, o sentimento e a ação à concepção de Steiner sobre conhecimento espiritual, liberdade e iniciação."
+      }
+    }
+  ],
+  "en": {
+    "title": "Theosophy",
+    "question": "What is a human being, and how does a human life belong to a wider world?",
+    "subtitle": "Understanding the human being and the spiritual worlds",
+    "introduction": [
+      "Learn the principal ideas of Rudolf Steiner's Theosophy through connected questions, clear explanations and ordinary experience. Begin with body, soul and spirit, then follow the relationships between individuality, destiny, spiritual existence and knowledge."
+    ],
+    "purpose": [
+      "The course helps you build a coherent picture of the book. Each lesson develops a concept, distinguishes it from neighboring ideas and connects it with the whole. References let you return to Steiner's own argument whenever you want."
+    ],
+    "audience": [
+      "Newcomers can follow the explanations without prior knowledge of Anthroposophy. Readers who already know the book can use the concept connections and expandable deeper study to examine its distinctions more closely."
+    ],
+    "outcomes": [
+      "Explain body, soul and spirit and the different meanings of physical, etheric and astral body.",
+      "Distinguish the I, the three soul functions and the spiritual transformation of the human being.",
+      "Explain Steiner's relationships between memory, individuality, reincarnation, heredity and karma.",
+      "Compare the soul world with Spirit-land and understand the account of life between death and rebirth.",
+      "Distinguish understanding, agreement and firsthand spiritual knowledge, and practise appropriate forms of attention and thought."
+    ],
+    "approach": [
+      "You do not need to read the original book alongside this course. Follow the modules in order for a first introduction, or return to a concept when you want to review it. Try explaining the main distinction before revealing the course notes.",
+      "Observe identifies ordinary experience. Steiner's account identifies his interpretation and spiritual-scientific claims. Try it in life offers an optional exercise related to the idea. You can reflect aloud or in your own notes; no score, account or declaration of belief is required.",
+      "Mark a lesson Exploring, Studied or Reviewed if that helps your study. Saving is optional and stays in your browser. Earlier reading notes remain available in the separate reading commentary."
+    ],
+    "synthesis": [
+      "The final lesson connects all five modules, provides a glossary and ten questions to revisit, and brings the course practices together. Use it to explain the book's whole picture in your own words."
+    ]
+  },
+  "pt": {
+    "title": "Teosofia",
+    "question": "O que é um ser humano, e como uma vida humana participa de um mundo mais amplo?",
+    "subtitle": "Compreendendo o ser humano e os mundos espirituais",
+    "introduction": [
+      "Aprenda as ideias centrais da Teosofia de Rudolf Steiner por meio de perguntas relacionadas, explicações claras e experiências comuns. Comece por corpo, alma e espírito; depois acompanhe as relações entre individualidade, destino, existência espiritual e conhecimento."
+    ],
+    "purpose": [
+      "O curso ajuda você a formar uma visão coerente do livro. Cada lição desenvolve um conceito, distingue-o de ideias próximas e relaciona-o ao conjunto. As referências permitem retomar o argumento do próprio Steiner quando você desejar."
+    ],
+    "audience": [
+      "Quem está começando pode acompanhar as explicações sem conhecimento prévio de antroposofia. Quem já conhece o livro pode usar as conexões conceituais e os aprofundamentos expansíveis para examinar suas distinções mais de perto."
+    ],
+    "outcomes": [
+      "Explicar corpo, alma e espírito e os diferentes sentidos de corpo físico, etérico e astral.",
+      "Distinguir o Eu, as três funções da alma e a transformação espiritual do ser humano.",
+      "Explicar as relações propostas por Steiner entre memória, individualidade, reencarnação, hereditariedade e carma.",
+      "Comparar o mundo anímico com o mundo espiritual e compreender a descrição da vida entre a morte e o renascimento.",
+      "Distinguir compreensão, concordância e conhecimento espiritual direto, e praticar formas apropriadas de atenção e pensamento."
+    ],
+    "approach": [
+      "Você não precisa ler o livro original junto com este curso. Siga os módulos na ordem para uma primeira introdução ou retome um conceito quando quiser revisá-lo. Procure explicar a distinção principal antes de revelar as notas do curso.",
+      "Observe identifica a experiência comum. A concepção de Steiner identifica sua interpretação e suas afirmações da ciência espiritual. Experimente na vida oferece um exercício opcional relacionado à ideia. Você pode refletir em voz alta ou em suas próprias anotações; não é necessária uma pontuação, uma conta ou uma declaração de crença.",
+      "Marque uma lição como Explorando, Estudada ou Revisada se isso ajudar seu estudo. Salvar é opcional e os dados ficam em seu navegador. As anotações de leitura anteriores continuam disponíveis no comentário de leitura separado."
+    ],
+    "synthesis": [
+      "A última lição relaciona os cinco módulos, apresenta um glossário e dez perguntas para retomar, e reúne as práticas do curso. Use-a para explicar com suas próprias palavras a visão do livro como um todo."
+    ]
+  },
+  "synthesis": {
+    "id": "whole-picture",
+    "sources": [
+      {
+        "chapter": 1,
+        "captures": [
+          13,
+          31
+        ],
+        "readingIds": [
+          1,
+          6
+        ]
+      },
+      {
+        "chapter": 2,
+        "captures": [
+          32,
+          41
+        ],
+        "readingIds": [
+          7,
+          9
+        ]
+      },
+      {
+        "chapter": 3,
+        "captures": [
+          42,
+          81
+        ],
+        "readingIds": [
+          10,
+          14,
+          17
+        ]
+      },
+      {
+        "chapter": 4,
+        "captures": [
+          82,
+          92
+        ],
+        "readingIds": [
+          18,
+          21
+        ]
+      }
+    ],
+    "en": {
+      "title": "Bringing the whole picture together",
+      "question": "How do the human being, destiny, the spiritual worlds and knowledge belong together?",
+      "bigPicture": [
+        {
+          "title": "One embodied, inwardly living person",
+          "relationship": "An encounter gives bodily access, personal significance and an intelligible relationship. Steiner differentiates physical organization, living form and sentience within that person, while the I gathers experience and acts through it. These related descriptions prepare the question of how individuality develops; they do not divide the person into separate anatomical compartments.",
+          "conceptIds": [
+            "body-soul-spirit",
+            "physical-body",
+            "etheric-body",
+            "sentient-body",
+            "astral-body",
+            "human-i"
+          ]
+        },
+        {
+          "title": "Soul life and spiritual transformation",
+          "relationship": "Sensation and desire become personally lived; thinking organizes this life; truth and goodness can revise its preferences. The three soul functions interpenetrate. Steiner relates spiritual content individualized through the I to a transformation of the constitution, differentiating spirit-self, life-spirit and spirit-man. Grouping related members and describing their transformation answer different questions.",
+          "conceptIds": [
+            "sentient-soul",
+            "mind-soul",
+            "consciousness-soul",
+            "spirit-self",
+            "life-spirit",
+            "spirit-man",
+            "spiritual-transformation"
+          ]
+        },
+        {
+          "title": "Experience, individuality and destiny",
+          "relationship": "An event can remain as a memory or become a capacity, while a deed also changes the shared world. Steiner connects these inward fruits and outward consequences with a continuing spiritual individuality. Heredity concerns the inherited constitution and tendencies, reincarnation its successive earthly lives, and karma the relation between deeds and later destiny. The distinctions connect biography with his wider spiritual account.",
+          "conceptIds": [
+            "memory",
+            "fruits-of-experience",
+            "individuality",
+            "heredity",
+            "reincarnation",
+            "karma"
+          ]
+        },
+        {
+          "title": "The worlds and the human passage through them",
+          "relationship": "Steiner describes the physical, soul and spiritual worlds as interrelated realities. Soul affinities organize one account; living creative archetypes organize another. After-death release and the assimilation of experience connect these worlds with renewed earthly life. Nature beings, thought-forms and the aura extend the same constitution question: how do body, soul and spirit participate in a wider world?",
+          "conceptIds": [
+            "three-worlds",
+            "soul-world",
+            "sympathy-antipathy",
+            "purification",
+            "spirit-land",
+            "archetypes",
+            "life-between-lives",
+            "thought-forms",
+            "aura"
+          ]
+        },
+        {
+          "title": "Understanding, practice and freedom",
+          "relationship": "Understanding an account, accepting it and investigating its subject are distinct. Steiner connects spiritual knowledge with receptive attention, educated feeling, coherent thought and purposeful action. In this account freedom involves an inwardly understood motive, and initiation means conscious participation in spiritual reality with individuality preserved. Ordinary practice helps examine attention, reasons and conduct while keeping this spiritual ideal in view.",
+          "conceptIds": [
+            "spiritual-knowledge",
+            "receptive-attention",
+            "equanimity",
+            "thinking",
+            "feeling",
+            "willing",
+            "freedom",
+            "initiation"
+          ]
+        }
+      ],
+      "takeaways": [
+        "The course begins with one human being: bodily access, inward life and spiritual understanding are related aspects of an encounter.",
+        "The I, three soul functions and spiritual members have different roles; their groupings and transformations should be explained rather than treated as interchangeable lists.",
+        "Memory, acquired capacity, inherited traits and individuality are different continuities. Steiner relates repeated earthly lives and deeds to their further spiritual history.",
+        "The soul world and Spirit-land have distinct organizing principles. Release, spiritual assimilation and renewed earthly work form related processes in the source’s account.",
+        "Understanding, agreement and personal investigation remain distinct. Attention, feeling, thinking and action can be studied and practised with room for judgment and individual development."
+      ],
+      "reviewQuestions": [
+        {
+          "question": "How can hearing music, responding to it and understanding its rhythm reveal body, soul and spirit within one encounter?",
+          "notes": [
+            "Bodily hearing gives access to the sound. Enjoyment, irritation or interest makes it part of the listener’s inward life. Understanding the rhythm concerns a relationship in the music whose correctness is not determined by whether the listener likes it. All three can happen together.",
+            "The example introduces different questions about one person. Steiner’s fuller account differentiates the members involved in embodiment, inward life and spiritual understanding. An ordinary encounter makes the initial distinction intelligible; the supersensible constitution is the further account he develops."
+          ]
+        },
+        {
+          "question": "Why can Steiner describe one human being through four, nine and two different sevenfold arrangements?",
+          "notes": [
+            "The fourfold view gives physical body, life body, astral body and I. Astral here joins sentient body and sentient soul; it does not mean the whole soul. The ninefold view differentiates three bodily, three soul and three spiritual members. The I lives through these relationships rather than being a tenth member silently added to the nine.",
+            "The first sevenfold account joins sentient body/sentient soul and consciousness-soul/spirit-self within the nine distinctions. It retains intellectual-soul explicitly. The final sevenfold account instead gives the fourfold constitution plus spirit-self, life-spirit and spirit-man as transformed counterparts of astral, life and physical members. These are parallel relationships through the I, not a single causal ladder.",
+            "Different organizing questions explain the different counts: distinguish functions, join close unities, or make transformation explicit. The members interpenetrate. Neither a list nor a change in ordinary conduct provides a spiritual score."
+          ]
+        },
+        {
+          "question": "How do the three soul functions differ, and why is consciousness-soul not identical to spirit-self?",
+          "notes": [
+            "Sentient-soul concerns inward sensation and related feeling, desire and impulse. Intellectual-soul brings thought into this personal life, comparing means and organizing responses. Consciousness-soul concerns truth and goodness becoming alive with significance independent of preference. One encounter can involve all three; these are not personality types.",
+            "Consciousness-soul bears truth; spirit-self concerns that same spiritual content received and individualized through the I. Individualization does not turn shared truth into a private opinion. Ordinary awareness and the feeling of certainty also differ from the source’s specific consciousness-soul function."
+          ]
+        },
+        {
+          "question": "What remains different between remembering a lesson, retaining an ability, inheriting traits and continuing as an individuality?",
+          "notes": [
+            "A memory makes a past event inwardly available. A fruit of experience is a lasting gain in capacity or disposition; it may remain when the details of learning fade. Heredity links the bodily constitution and some tendencies to a family. These forms of continuity do not have the same object.",
+            "Steiner understands individuality as the spiritual being that makes the fruits its own. Reincarnation is his further claim that the same individuality develops through successive earthly lives with new inherited bodies. It does not require the same body or readily accessible past-life memories. The familiar skill example explains memory versus capacity without identifying a former incarnation."
+          ]
+        },
+        {
+          "question": "In repairing an ordinary mistake, what changes inwardly and outwardly, and how does Steiner extend this distinction through karma?",
+          "notes": [
+            "Inwardly, the action may develop a skill, judgment or willingness to repair. Outwardly, it may restore an object, fulfill a promise or change a relationship. These effects can continue after the moment of acting, but the gain within the person and the change in the shared world remain distinct.",
+            "Steiner extends the relation of deeds and destiny across earthly lives. Reincarnation concerns the continuing individuality; karma concerns the consequences it later encounters. This is a spiritual law in his account, rather than merely a name for immediate rewards. Understanding the claim leaves present responsibility intact and does not disclose an unseen cause of another person’s suffering."
+          ]
+        },
+        {
+          "question": "Why do sympathy and antipathy organize the soul world differently from the archetypes of Spirit-land?",
+          "notes": [
+            "Sympathy seeks connection and antipathy maintains separation in Steiner’s technical account. The soul regions differentiate their relationships, including a fourth region organized through inward attraction and the higher regions’ outward sympathy. They are more than ordinary friendliness and dislike, and the regions interpenetrate rather than occupy separate physical floors.",
+            "Spirit-land concerns living creative archetypes, their cooperation and their expression in form, life and soul qualities. Steiner asserts these as independent spiritual beings, not just abstractions produced by the human mind. Its seven regions therefore have another organizing principle. The seven soul regions, seven spiritual regions and seven kingdoms cannot be combined into one seven-step map merely because their counts agree."
+          ]
+        },
+        {
+          "question": "How do after-death release, life between lives and karma remain related but different in Steiner’s account?",
+          "notes": [
+            "After bodily death, the soul is said to retain desires whose bodily means of satisfaction are unavailable. Purification releases what depends on that completed embodiment while retaining its spiritual fruits. Kamaloca names this condition of desire, not a physical place. It is not the erasure of individuality or the cancellation of karmic relationships.",
+            "In Spirit-land, earthly experience becomes faculty and is related to the enduring Self and wider spiritual purposes. The source connects this interval with renewed earthly work, including relationships and service rather than isolated self-improvement. Karma concerns the consequences of deeds in later destiny. This account does not promise that the immediate next life will visibly be easier or better."
+          ]
+        },
+        {
+          "question": "How do nature beings, thought-forms and the three aura aspects reconnect the human constitution with a wider world?",
+          "notes": [
+            "Steiner relates physical form, formative life, sentience and human thinking to spiritual foundations. Elemental beings, Folk Spirit and Spirit of the Age are asserted beings with their own modes of embodiment, not products of people adding their feelings together. A shared song can illustrate collective activity without establishing the independent being claimed in the source.",
+            "Thought-forms express the character and motive of thinking in his account. The aura’s three interpenetrating aspects concern bodily influence on soul, the soul’s own life and eternal spiritual activity. The first aspect can include naturally selfless impulses; it is not simply a selfish layer. These descriptions claim spiritual perception. Their colours are not ordinary visible shades or a lookup table for diagnosing personalities."
+          ]
+        },
+        {
+          "question": "What can you understand about a spiritual account before deciding whether to accept or personally investigate it?",
+          "notes": [
+            "You can explain the terms, follow the relationships and examine the reasons presented. That differs from judging the account true, and both differ from conducting the investigation it describes. Steiner maintains that communicated knowledge can be understood before firsthand spiritual perception and claims that such study can prepare further capacities.",
+            "The source also distinguishes perceiving from knowing how to investigate and explain responsibly. Intuition in Theosophy means spiritual revelation to the I, with an elementary presence even in thought; it is not a hunch or a feeling that guarantees correctness. A clear review can state what the source claims, how its reasoning works and what remains unresolved for the learner."
+          ]
+        },
+        {
+          "question": "How could receptive attention, equanimity, thinking and willing support an understood action while preserving individuality?",
+          "notes": [
+            "Consider a disagreement. Receptivity gives the other person’s actual words room before an old verdict takes over. Equanimity lets a feeling be present without making it command the response. Thinking examines reasons and whether a conclusion follows; willing carries a recognized purpose into action, including correction when needed. A reasoned disagreement can remain.",
+            "Steiner connects freedom with a motive inwardly understood in relation to the enduring true and good, rather than arbitrary impulse. He describes initiation as conscious knowledge of and participation in spiritual reality. Individuality remains within that spiritual whole; development is not its disappearance.",
+            "The ordinary case can clarify attention, reasons and conduct. It does not turn a useful pause, agreement or completed course into initiation. A fitting next step is to revisit one distinction, choose a practice that serves it and return to a genuine question rather than seek a declaration of attainment."
+          ]
+        }
+      ],
+      "continuing": [
+        {
+          "route": "lessons/00.html",
+          "title": "Read Theosophy in context",
+          "description": "Return to the retained commentary on the prefaces and introduction, then follow the book’s chapter sequence when you want to examine its original argument and source locations."
+        },
+        {
+          "route": "practical-thinking/index.html",
+          "title": "Practical Training in Thought",
+          "description": "Develop ordinary observation and coherent thinking through the lecture’s own exercises and clearly identified course adaptations."
+        },
+        {
+          "route": "philosophy-of-freedom/index.html",
+          "title": "The Philosophy of Freedom",
+          "description": "Examine thinking, motives and individual ethical action in a distinct argument. Compare its treatment of freedom with Theosophy without assuming the two books have identical purposes."
+        },
+        {
+          "route": "higher-worlds/index.html",
+          "title": "Knowledge of Higher Worlds",
+          "description": "Study the more detailed spiritual-training account referred to by Theosophy, including its stages and distinctions. Keep source descriptions of development separate from ordinary course completion."
+        }
+      ]
+    },
+    "pt": {
+      "title": "Reunindo a visão do conjunto",
+      "question": "Como o ser humano, o destino, os mundos espirituais e o conhecimento se relacionam?",
+      "bigPicture": [
+        {
+          "title": "Uma pessoa encarnada, com vida interior",
+          "relationship": "Um encontro oferece acesso corporal, significado pessoal e uma relação compreensível. Steiner diferencia organização física, forma viva e sensibilidade nessa pessoa, enquanto o Eu reúne experiências e age por meio delas. Essas descrições relacionadas preparam a pergunta sobre como a individualidade se desenvolve; não dividem a pessoa em compartimentos anatômicos separados.",
+          "conceptIds": [
+            "body-soul-spirit",
+            "physical-body",
+            "etheric-body",
+            "sentient-body",
+            "astral-body",
+            "human-i"
+          ]
+        },
+        {
+          "title": "Vida anímica e transformação espiritual",
+          "relationship": "Sensação e desejo são vividos pessoalmente; o pensar organiza essa vida; verdade e bem podem revisar suas preferências. As três funções da alma se interpenetram. Steiner relaciona o conteúdo espiritual individualizado pelo Eu a uma transformação da constituição, diferenciando si-mesmo espiritual, espírito vital e homem-espírito. Agrupar membros relacionados e descrever sua transformação respondem a perguntas diferentes.",
+          "conceptIds": [
+            "sentient-soul",
+            "mind-soul",
+            "consciousness-soul",
+            "spirit-self",
+            "life-spirit",
+            "spirit-man",
+            "spiritual-transformation"
+          ]
+        },
+        {
+          "title": "Experiência, individualidade e destino",
+          "relationship": "Um acontecimento pode permanecer como lembrança ou tornar-se capacidade, enquanto um ato também modifica o mundo compartilhado. Steiner liga esses frutos interiores e consequências exteriores a uma individualidade espiritual que continua. Hereditariedade diz respeito à constituição e às tendências herdadas, reencarnação às vidas terrenas sucessivas dessa individualidade e carma à relação entre atos e destino posterior. As distinções ligam a biografia à sua concepção espiritual mais ampla.",
+          "conceptIds": [
+            "memory",
+            "fruits-of-experience",
+            "individuality",
+            "heredity",
+            "reincarnation",
+            "karma"
+          ]
+        },
+        {
+          "title": "Os mundos e o percurso humano através deles",
+          "relationship": "Steiner descreve os mundos físico, anímico e espiritual como realidades relacionadas. Afinidades anímicas organizam uma descrição; arquétipos criadores vivos organizam outra. A liberação após a morte e a assimilação da experiência ligam esses mundos à vida terrena renovada. Seres da natureza, formas-pensamento e aura ampliam a mesma pergunta sobre a constituição: como corpo, alma e espírito participam de um mundo mais amplo?",
+          "conceptIds": [
+            "three-worlds",
+            "soul-world",
+            "sympathy-antipathy",
+            "purification",
+            "spirit-land",
+            "archetypes",
+            "life-between-lives",
+            "thought-forms",
+            "aura"
+          ]
+        },
+        {
+          "title": "Compreensão, prática e liberdade",
+          "relationship": "Compreender uma descrição, aceitá-la e investigar seu assunto são atos distintos. Steiner liga o conhecimento espiritual à atenção receptiva, ao sentir educado, ao pensar coerente e à ação com propósito. Nessa concepção, liberdade envolve um motivo compreendido interiormente, e iniciação significa participação consciente na realidade espiritual com a individualidade preservada. A prática comum ajuda a examinar atenção, razões e conduta, mantendo em vista esse ideal espiritual.",
+          "conceptIds": [
+            "spiritual-knowledge",
+            "receptive-attention",
+            "equanimity",
+            "thinking",
+            "feeling",
+            "willing",
+            "freedom",
+            "initiation"
+          ]
+        }
+      ],
+      "takeaways": [
+        "O curso começa por um mesmo ser humano: acesso corporal, vida interior e compreensão espiritual são aspectos relacionados de um encontro.",
+        "O Eu, as três funções da alma e os membros espirituais têm papéis diferentes; seus agrupamentos e transformações devem ser explicados, em vez de tratados como listas intercambiáveis.",
+        "Memória, capacidade adquirida, traços herdados e individualidade são continuidades diferentes. Steiner relaciona vidas terrenas sucessivas e atos à sua história espiritual mais ampla.",
+        "Mundo anímico e mundo espiritual têm princípios de organização distintos. Liberação, assimilação espiritual e trabalho terreno renovado formam processos relacionados na concepção da fonte.",
+        "Compreensão, concordância e investigação pessoal continuam distintas. Atenção, sentimento, pensar e ação podem ser estudados e praticados com espaço para julgamento e desenvolvimento individual."
+      ],
+      "reviewQuestions": [
+        {
+          "question": "Como ouvir uma música, reagir a ela e compreender seu ritmo podem revelar corpo, alma e espírito em um mesmo encontro?",
+          "notes": [
+            "A audição corporal dá acesso ao som. Prazer, irritação ou interesse tornam-no parte da vida interior de quem escuta. Compreender o ritmo diz respeito a uma relação na música cuja correção não é determinada pelo gosto de quem ouve. Os três podem acontecer juntos.",
+            "O exemplo apresenta perguntas diferentes sobre uma pessoa. A concepção mais ampla de Steiner diferencia os membros envolvidos na existência corporal, na vida interior e na compreensão espiritual. Um encontro comum torna compreensível a distinção inicial; a constituição suprassensível é a concepção adicional que ele desenvolve."
+          ]
+        },
+        {
+          "question": "Por que Steiner pode descrever um mesmo ser humano por quatro, nove e duas apresentações diferentes de sete membros?",
+          "notes": [
+            "A visão quádrupla dá corpo físico, corpo vital, corpo astral e Eu. Astral aqui reúne corpo senciente e alma senciente; não significa a alma inteira. A visão de nove membros diferencia três membros corporais, três anímicos e três espirituais. O Eu vive através dessas relações, em vez de ser um décimo membro acrescentado silenciosamente aos nove.",
+            "A primeira apresentação de sete membros reúne corpo senciente/alma senciente e alma da consciência/si-mesmo espiritual nas nove distinções. Ela mantém explicitamente a alma intelectual. A apresentação final de sete, por sua vez, dá a constituição quádrupla mais si-mesmo espiritual, espírito vital e homem-espírito como correspondentes transformados dos membros astral, vital e físico. São relações paralelas através do Eu, e não uma única escada causal.",
+            "Perguntas organizadoras diferentes explicam as contagens diferentes: distinguir funções, reunir unidades próximas ou explicitar a transformação. Os membros se interpenetram. Nem uma lista nem uma mudança de conduta comum fornecem uma pontuação espiritual."
+          ]
+        },
+        {
+          "question": "Como diferem as três funções da alma, e por que alma da consciência não é idêntica a si-mesmo espiritual?",
+          "notes": [
+            "A alma senciente diz respeito à sensação interior e ao sentimento, desejo e impulso relacionados. A alma intelectual traz o pensar para essa vida pessoal, comparando meios e organizando respostas. A alma da consciência diz respeito à verdade e ao bem que se tornam vivos com significado independente da preferência. Um encontro pode envolver as três; elas não são tipos de personalidade.",
+            "A alma da consciência porta a verdade; o si-mesmo espiritual diz respeito ao mesmo conteúdo espiritual recebido e individualizado pelo Eu. A individualização não transforma uma verdade compartilhada em opinião privada. A consciência comum e o sentimento de certeza também diferem da função específica da alma da consciência na fonte."
+          ]
+        },
+        {
+          "question": "O que continua diferente entre lembrar uma aula, conservar uma capacidade, herdar traços e continuar como individualidade?",
+          "notes": [
+            "Uma lembrança torna interiormente disponível um acontecimento passado. Um fruto da experiência é um ganho duradouro de capacidade ou disposição; pode permanecer quando os detalhes da aprendizagem se apagam. A hereditariedade liga a constituição corporal e algumas tendências a uma família. Essas formas de continuidade não têm o mesmo objeto.",
+            "Steiner compreende a individualidade como o ser espiritual que incorpora os frutos à própria vida. A reencarnação é sua afirmação adicional de que a mesma individualidade se desenvolve por vidas terrenas sucessivas com novos corpos herdados. Ela não exige o mesmo corpo nem lembranças de vidas passadas prontamente acessíveis. O exemplo de uma habilidade conhecida explica memória e capacidade sem identificar uma encarnação anterior."
+          ]
+        },
+        {
+          "question": "Ao reparar um erro comum, o que muda interiormente e exteriormente, e como Steiner amplia essa distinção pelo carma?",
+          "notes": [
+            "Interiormente, a ação pode desenvolver uma habilidade, discernimento ou disposição para reparar. Exteriormente, pode restaurar um objeto, cumprir uma promessa ou modificar uma relação. Esses efeitos podem continuar depois do momento da ação, mas o ganho na pessoa e a mudança no mundo compartilhado continuam distintos.",
+            "Steiner amplia a relação entre atos e destino através das vidas terrenas. A reencarnação diz respeito à individualidade que continua; o carma diz respeito às consequências que ela encontra posteriormente. Em sua concepção, trata-se de uma lei espiritual, e não apenas de um nome para recompensas imediatas. Compreender a afirmação mantém a responsabilidade presente e não revela uma causa invisível do sofrimento de outra pessoa."
+          ]
+        },
+        {
+          "question": "Por que simpatia e antipatia organizam o mundo anímico de maneira diferente dos arquétipos do mundo espiritual?",
+          "notes": [
+            "Simpatia busca ligação e antipatia mantém separação na concepção técnica de Steiner. As regiões anímicas diferenciam suas relações, incluindo uma quarta região organizada pela atração interior e a simpatia voltada para fora nas regiões superiores. Elas vão além de cordialidade e aversão comuns, e as regiões se interpenetram em vez de ocupar andares físicos separados.",
+            "O mundo espiritual diz respeito a arquétipos criadores vivos, à sua cooperação e à sua expressão em forma, vida e qualidades anímicas. Steiner os afirma como seres espirituais independentes, e não apenas abstrações produzidas pela mente humana. Por isso, suas sete regiões têm outro princípio de organização. As sete regiões anímicas, as sete regiões espirituais e os sete reinos não podem ser reunidos em um mapa de sete passos apenas porque suas contagens coincidem."
+          ]
+        },
+        {
+          "question": "Como liberação após a morte, vida entre vidas e carma continuam relacionados, mas diferentes, na concepção de Steiner?",
+          "notes": [
+            "Depois da morte corporal, a alma é descrita como conservando desejos cujos meios corporais de satisfação não estão disponíveis. A purificação libera o que depende daquela existência corporal concluída e conserva seus frutos espirituais. Kamaloca nomeia essa condição de desejo, e não um lugar físico. Não é o apagamento da individualidade nem o cancelamento de relações cármicas.",
+            "No mundo espiritual, a experiência terrena torna-se faculdade e se relaciona ao Eu duradouro e a propósitos espirituais mais amplos. A fonte liga esse intervalo ao trabalho terreno renovado, incluindo relações e serviço, em vez de aperfeiçoamento isolado de si. O carma diz respeito às consequências dos atos no destino posterior. Essa concepção não promete que a vida seguinte imediata será visivelmente mais fácil ou melhor."
+          ]
+        },
+        {
+          "question": "Como seres da natureza, formas-pensamento e os três aspectos da aura religam a constituição humana a um mundo mais amplo?",
+          "notes": [
+            "Steiner relaciona forma física, vida formadora, sensibilidade e pensar humano a fundamentos espirituais. Seres elementares, Espírito do Povo e Espírito da Época são seres afirmados com seus próprios modos de existência, e não produtos da soma de sentimentos das pessoas. Uma canção compartilhada pode ilustrar uma atividade coletiva sem estabelecer o ser independente afirmado na fonte.",
+            "As formas-pensamento expressam o caráter e o motivo do pensar em sua concepção. Os três aspectos interpenetrantes da aura dizem respeito à influência corporal sobre a alma, à vida própria da alma e à atividade espiritual eterna. O primeiro aspecto pode incluir impulsos naturalmente altruístas; não é simplesmente uma camada egoísta. Essas descrições afirmam percepção espiritual. Suas cores não são tonalidades visíveis comuns nem uma tabela para diagnosticar personalidades."
+          ]
+        },
+        {
+          "question": "O que você pode compreender de uma descrição espiritual antes de decidir se a aceita ou a investiga pessoalmente?",
+          "notes": [
+            "Você pode explicar os termos, acompanhar as relações e examinar as razões apresentadas. Isso difere de julgar verdadeira a descrição, e ambos diferem de realizar a investigação que ela descreve. Steiner sustenta que o conhecimento comunicado pode ser compreendido antes da percepção espiritual direta e afirma que esse estudo pode preparar capacidades adicionais.",
+            "A fonte também distingue perceber de saber investigar e explicar com responsabilidade. Intuição em Teosofia significa revelação espiritual ao Eu, com presença elementar até mesmo no pensamento; não é um pressentimento nem um sentimento que garante correção. Uma revisão clara pode formular o que a fonte afirma, como funciona seu raciocínio e o que permanece em aberto para quem aprende."
+          ]
+        },
+        {
+          "question": "Como atenção receptiva, equanimidade, pensar e querer poderiam sustentar uma ação compreendida, preservando a individualidade?",
+          "notes": [
+            "Considere um desacordo. A receptividade dá espaço às palavras reais da outra pessoa antes que um julgamento antigo domine. A equanimidade permite a presença de um sentimento sem fazê-lo comandar a resposta. O pensar examina razões e se uma conclusão decorre delas; o querer leva um propósito reconhecido à ação, incluindo correção quando necessária. Um desacordo fundamentado pode permanecer.",
+            "Steiner liga a liberdade a um motivo compreendido interiormente em relação ao verdadeiro e ao bem duradouros, em vez de impulso arbitrário. Descreve iniciação como conhecimento consciente da realidade espiritual e participação nela. A individualidade permanece nesse todo espiritual; o desenvolvimento não é seu desaparecimento.",
+            "O caso comum pode esclarecer atenção, razões e conduta. Ele não transforma uma pausa útil, uma concordância ou um curso concluído em iniciação. Um próximo passo adequado é retomar uma distinção, escolher uma prática que a sirva e voltar a uma pergunta real, em vez de buscar uma declaração de realização espiritual."
+          ]
+        }
+      ],
+      "continuing": [
+        {
+          "route": "lessons/00.html",
+          "title": "Ler Teosofia em contexto",
+          "description": "Retome o comentário preservado dos prefácios e da introdução; depois siga a sequência dos capítulos quando quiser examinar o argumento original e as localizações na fonte."
+        },
+        {
+          "route": "practical-thinking/index.html",
+          "title": "Treinamento prático do pensar",
+          "description": "Desenvolva observação comum e pensar coerente pelos exercícios da própria palestra e por adaptações do curso claramente identificadas."
+        },
+        {
+          "route": "philosophy-of-freedom/index.html",
+          "title": "A Filosofia da Liberdade",
+          "description": "Examine pensar, motivos e ação ética individual em um argumento próprio. Compare seu tratamento da liberdade com Teosofia sem supor que as duas obras tenham finalidades idênticas."
+        },
+        {
+          "route": "higher-worlds/index.html",
+          "title": "O conhecimento dos mundos superiores",
+          "description": "Estude a concepção mais detalhada do treinamento espiritual indicada em Teosofia, incluindo suas etapas e distinções. Mantenha as descrições de desenvolvimento da fonte separadas da conclusão comum de um curso."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2220 @@
+{
+  "moduleIds": [
+    "human-destiny",
+    "path-of-knowledge"
+  ],
+  "lessons": [
+    {
+      "id": "memory-and-individuality",
+      "moduleId": "human-destiny",
+      "primaryConceptId": "individuality",
+      "termIds": [
+        "memory",
+        "fruits-of-experience",
+        "individuality"
+      ],
+      "conceptIds": [
+        "memory",
+        "fruits-of-experience",
+        "individuality",
+        "heredity",
+        "human-i",
+        "body-soul-spirit"
+      ],
+      "connections": [
+        {
+          "id": "memory",
+          "en": "Memory brings a past encounter into present soul life.",
+          "pt": "A memória traz um encontro passado para a vida anímica presente."
+        },
+        {
+          "id": "fruits-of-experience",
+          "en": "Acquired abilities can remain when particular memories fade.",
+          "pt": "Capacidades adquiridas podem permanecer quando lembranças específicas se apagam."
+        },
+        {
+          "id": "heredity",
+          "en": "Inherited traits are distinguished from the continuing spiritual individuality.",
+          "pt": "Traços herdados se distinguem da individualidade espiritual que continua."
+        },
+        {
+          "id": "human-i",
+          "en": "The I makes a biography its own rather than merely repeating a family pattern.",
+          "pt": "O Eu faz de uma biografia a sua própria história, em vez de apenas repetir um padrão familiar."
+        }
+      ],
+      "practiceId": "notice-memory-and-skill",
+      "sources": [
+        {
+          "chapter": 2,
+          "captures": [
+            32,
+            34
+          ],
+          "readingIds": [
+            7
+          ]
+        },
+        {
+          "chapter": 2,
+          "captures": [
+            34,
+            36
+          ],
+          "readingIds": [
+            8
+          ]
+        },
+        {
+          "chapter": 2,
+          "captures": [
+            36,
+            38
+          ],
+          "readingIds": [
+            27
+          ]
+        }
+      ],
+      "en": {
+        "title": "Memory, learning and individuality",
+        "question": "What remains of an experience after its details fade?",
+        "experience": [
+          "You may no longer remember the day you first learned to read, yet you can read this sentence. A forgotten event can leave a lasting ability.",
+          "Meeting an old friend also combines two things: the person now before you and your recollection of earlier encounters."
+        ],
+        "centralIdea": "Steiner distinguishes remembered experiences from their lasting fruits, and understands individuality as the spiritual being that makes those fruits its own.",
+        "explanation": [
+          "A present impression and a memory have different jobs. Your eyes show the person standing before you; remembering connects that encounter with an earlier one. In Steiner’s account, the soul holds this connection between past and present. Memory therefore is more than an object continuing to exist outside you: it is a past experience becoming inwardly available now. In his classification, the body meets the immediate world and the spirit relates to enduring truth and good; the soul mediates between these dimensions.",
+          "Learning reveals a second continuity. Particular recollections of lessons can fade while reading, judgment or a practiced skill remains. Steiner calls these enduring gains the fruits of experience. A vivid memory is not the same as a developed ability, and an ability need not carry an accessible picture of how it arose. This distinction lets us ask what experience changes in a person, rather than counting only what the person recalls.",
+          "A biography brings these gains into a particular life. Two people can share a family, a school or an occupation and still develop different interests and responses. Steiner uses this personal history to introduce spiritual individuality: the enduring being whose experiences become its own development. Here individuality means more than a distinctive personality or a preference; it is part of his account of the human spirit.",
+          "Steiner does not deny inheritance. He allows inherited bodily traits and personal tendencies, including aspects of temperament and feeling. His further claim is that heredity does not account for the whole spiritual individuality or its accumulated capacities. Ordinary examples help us understand that distinction; the claim that an individuality continues beyond this life belongs to the reincarnation argument developed next."
+        ],
+        "distinction": "Remembering an event, retaining a capacity and being a spiritual individuality name three different kinds of continuity. None should be reduced to the others.",
+        "reflection": {
+          "question": "Choose a familiar ability. How would you distinguish the memories of learning it from the ability you now have?",
+          "notes": [
+            "A person may remember practicing a few letters with a teacher: the table, a difficult word and the encouragement they received. Those are recalled events. Their present ability to read a new sentence is different: it is something they can now do, even when the earliest lessons no longer come to mind. The ability is a fruit of learning, rather than a complete collection of remembered scenes.",
+            "In Steiner’s distinction, memory makes a past experience inwardly present, while its fruits become capacities or dispositions. An accessible recollection and a lasting capacity can coexist, but neither requires all the details of the other. The continuing spiritual individuality is his further account of the being whose development those fruits belong to."
+          ]
+        },
+        "takeaways": [
+          "A memory makes a past experience present inwardly.",
+          "The fruits of experience are lasting changes in capacity or disposition.",
+          "Individuality is the spiritual continuity Steiner sees in a person’s biography.",
+          "His account allows inherited traits while distinguishing them from spiritual individuality."
+        ],
+        "deeper": [
+          {
+            "title": "Why biography matters in the argument",
+            "paragraphs": [
+              "In Chapter II, Steiner contrasts a description of shared bodily form with the life history of a particular person. His expression that an individuality is like a species of its own is an analogy about unique spiritual history, not a biological classification.",
+              "He then extends the accumulation of experience beyond one lifetime. That extension is a substantive spiritual claim, not something demonstrated by the everyday observation that learning leaves lasting skills."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Memória, aprendizagem e individualidade",
+        "question": "O que permanece de uma experiência depois que seus detalhes se apagam?",
+        "experience": [
+          "Talvez você já não se lembre do dia em que começou a aprender a ler, mas consegue ler esta frase. Um acontecimento esquecido pode deixar uma capacidade duradoura.",
+          "Encontrar uma pessoa conhecida também reúne duas coisas: a pessoa diante de você agora e a lembrança de encontros anteriores."
+        ],
+        "centralIdea": "Steiner distingue as experiências lembradas de seus frutos duradouros e compreende a individualidade como o ser espiritual que faz desses frutos algo seu.",
+        "explanation": [
+          "Uma impressão presente e uma lembrança cumprem funções diferentes. Seus olhos mostram a pessoa que está diante de você; a memória liga esse encontro a um encontro anterior. Na descrição de Steiner, a alma mantém essa ligação entre passado e presente. A memória, portanto, vai além da permanência de um objeto fora de você: é uma experiência passada que se torna interiormente disponível agora. Em sua classificação, o corpo encontra o mundo imediato e o espírito se relaciona com o verdadeiro e o bom duradouros; a alma faz a mediação entre essas dimensões.",
+          "A aprendizagem revela uma segunda continuidade. As lembranças de aulas específicas podem se apagar, enquanto a leitura, o discernimento ou uma habilidade praticada permanecem. Steiner chama esses ganhos duradouros de frutos da experiência. Uma lembrança vívida não é o mesmo que uma capacidade desenvolvida, e uma capacidade não precisa trazer consigo uma imagem acessível de como surgiu. Essa distinção permite perguntar o que a experiência transforma em alguém, para além do que essa pessoa consegue recordar.",
+          "Uma biografia reúne esses ganhos em uma vida particular. Duas pessoas podem compartilhar família, escola ou profissão e ainda desenvolver interesses e respostas diferentes. Steiner parte dessa história pessoal para apresentar a individualidade espiritual: o ser duradouro cujas experiências se tornam seu próprio desenvolvimento. Aqui, individualidade significa mais que uma personalidade marcante ou uma preferência; ela faz parte de sua concepção do espírito humano.",
+          "Steiner não nega a hereditariedade. Ele admite traços corporais e tendências pessoais herdados, incluindo aspectos do temperamento e do sentir. Sua afirmação adicional é que a hereditariedade não explica toda a individualidade espiritual nem suas capacidades acumuladas. Exemplos cotidianos ajudam a compreender essa distinção; a afirmação de que uma individualidade continua além desta vida pertence ao argumento sobre reencarnação desenvolvido a seguir."
+        ],
+        "distinction": "Recordar um acontecimento, conservar uma capacidade e ser uma individualidade espiritual designam três formas diferentes de continuidade. Nenhuma deve ser reduzida às outras.",
+        "reflection": {
+          "question": "Escolha uma habilidade familiar. Como você distinguiria as lembranças de aprendê-la da capacidade que possui hoje?",
+          "notes": [
+            "Uma pessoa pode lembrar que praticava algumas letras com uma professora: a mesa, uma palavra difícil e o incentivo recebido. Esses são acontecimentos recordados. Sua capacidade presente de ler uma frase nova é diferente: é algo que consegue fazer agora, mesmo quando as primeiras aulas já não vêm à memória. A capacidade é um fruto da aprendizagem, e não uma coleção completa de cenas lembradas.",
+            "Na distinção de Steiner, a memória torna uma experiência passada interiormente presente, enquanto seus frutos se tornam capacidades ou disposições. Uma lembrança acessível e uma capacidade duradoura podem coexistir, mas nenhuma exige todos os detalhes da outra. A individualidade espiritual que continua é sua descrição adicional do ser a cujo desenvolvimento esses frutos pertencem."
+          ]
+        },
+        "takeaways": [
+          "Uma lembrança torna uma experiência passada interiormente presente.",
+          "Os frutos da experiência são mudanças duradouras de capacidade ou disposição.",
+          "Individualidade é a continuidade espiritual que Steiner reconhece na biografia de alguém.",
+          "Sua descrição admite traços herdados e os distingue da individualidade espiritual."
+        ],
+        "deeper": [
+          {
+            "title": "Por que a biografia importa no argumento",
+            "paragraphs": [
+              "No Capítulo II, Steiner contrapõe a descrição de uma forma corporal compartilhada à história de vida de uma pessoa particular. A expressão segundo a qual uma individualidade seria como uma espécie própria é uma analogia sobre a singularidade da história espiritual, e não uma classificação biológica.",
+              "Ele então estende a acumulação de experiência para além de uma vida. Essa extensão é uma afirmação espiritual substantiva, não algo demonstrado pela observação cotidiana de que aprender deixa habilidades duradouras."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "reincarnation",
+      "moduleId": "human-destiny",
+      "primaryConceptId": "reincarnation",
+      "termIds": [
+        "reincarnation",
+        "heredity",
+        "individuality"
+      ],
+      "conceptIds": [
+        "reincarnation",
+        "heredity",
+        "individuality",
+        "fruits-of-experience",
+        "spirit",
+        "life-spirit",
+        "etheric-body"
+      ],
+      "connections": [
+        {
+          "id": "individuality",
+          "en": "Reincarnation names the repeated earthly lives of the same spiritual individuality.",
+          "pt": "Reencarnação designa as vidas terrenas sucessivas da mesma individualidade espiritual."
+        },
+        {
+          "id": "heredity",
+          "en": "Each earthly life receives a bodily constitution through inheritance.",
+          "pt": "Cada vida terrena recebe uma constituição corporal pela hereditariedade."
+        },
+        {
+          "id": "fruits-of-experience",
+          "en": "The source treats developed capacities as fruits carried into further lives.",
+          "pt": "A fonte considera as capacidades desenvolvidas como frutos levados a outras vidas."
+        },
+        {
+          "id": "life-spirit",
+          "en": "Life-spirit belongs to spiritual development, whereas the etheric body belongs to living bodily organization.",
+          "pt": "O espírito vital pertence ao desenvolvimento espiritual, enquanto o corpo etérico pertence à organização corporal viva."
+        }
+      ],
+      "practiceId": null,
+      "sources": [
+        {
+          "chapter": 2,
+          "captures": [
+            34,
+            36
+          ],
+          "readingIds": [
+            8
+          ]
+        },
+        {
+          "chapter": 2,
+          "captures": [
+            36,
+            38
+          ],
+          "readingIds": [
+            27
+          ]
+        }
+      ],
+      "en": {
+        "title": "Reincarnation and inherited life",
+        "question": "Does an inherited constitution explain the whole history of a person?",
+        "experience": [
+          "Family resemblance is often easy to notice. At the same time, the lives of siblings can take strikingly different directions. Asking how resemblance and difference belong together opens the question of personal continuity."
+        ],
+        "centralIdea": "For Steiner, reincarnation means that one spiritual individuality lives successive earthly lives, receiving a new inherited body and developing through the fruits of experience.",
+        "explanation": [
+          "Heredity links a body to earlier bodily life. Steiner includes more than outward resemblance in that inheritance: tendencies and aspects of personal disposition may also come through a family. His argument does not depend on pretending that everyone begins without inherited influences. Instead, he asks whether those influences fully account for the individual’s spiritual history and capacities.",
+          "He answers by distinguishing the history of a family from the biography of a spiritual individuality. A parent’s experiences are not automatically the child’s own experiences. Steiner argues that the individuality’s developed capacities require a prior history of its own, just as bodily organization has a preceding history. He identifies that prior spiritual history with earlier earthly lives of the same individuality.",
+          "Reincarnation therefore is not the return of the same body, nor a promise that conscious memories of former lives will be available. The source emphasizes fruits that have become capacities and dispositions. A new earthly life brings the continuing spirit into relation with a new bodily constitution and new circumstances; it does not simply replay the previous personality or setting.",
+          "Steiner presents repeated earthly lives as a reality supported by his spiritual investigation and, in his view, by coherent thinking about biography. His analogies and examples carry that argument, but differences between siblings or exceptional talent alone do not verify a previous life. We can state his conclusion accurately, examine its reasons and leave our own assent distinct from understanding what he claims."
+        ],
+        "distinction": "Heredity concerns the transmission of bodily organization and some tendencies; reincarnation concerns the continuing spiritual individuality. Neither means that a talent identifies a specific former life.",
+        "reflection": {
+          "question": "How could a person receive inherited traits and still have a spiritual history of their own within Steiner’s account?",
+          "notes": [
+            "The inherited constitution and the spiritual individuality have different histories in Steiner’s account. A person may receive a family resemblance, bodily characteristics and some tendencies of feeling. The individuality, however, is not the parent’s biography transferred to the child: Steiner understands it as the same spiritual being continuing its own development through successive earthly lives.",
+            "For example, an inherited disposition and a capacity brought into a new life would belong to different explanatory relations within this model. Heredity connects the person with preceding bodily life; reincarnation connects the individuality with its own earlier lives and their fruits. The model permits both relations together, without making a particular talent a record of a named former incarnation."
+          ]
+        },
+        "takeaways": [
+          "The same spiritual individuality, rather than the same body, continues through repeated earthly lives in Steiner’s account.",
+          "He expressly allows inherited personal tendencies.",
+          "The fruits of experience differ from explicit memories of earlier events.",
+          "Biographical analogies help explain his argument; they do not by themselves establish a past life."
+        ],
+        "deeper": [
+          {
+            "title": "Life body and life-spirit are different terms",
+            "paragraphs": [
+              "Chapter II distinguishes the life body, which preserves living bodily form, from life-spirit, a spiritual member belonging to the individual’s development. Their similar names do not make them interchangeable.",
+              "Steiner’s examples of unusual ability support his proposed continuity of accumulated experience. They supply no procedure for identifying another person’s former identity, and this course does not turn them into one."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Reencarnação e vida herdada",
+        "question": "Uma constituição herdada explica toda a história de uma pessoa?",
+        "experience": [
+          "A semelhança familiar costuma ser fácil de perceber. Ao mesmo tempo, a vida de irmãos pode seguir direções muito diferentes. Perguntar como semelhança e diferença se relacionam abre a questão da continuidade pessoal."
+        ],
+        "centralIdea": "Para Steiner, reencarnação significa que uma individualidade espiritual vive sucessivas vidas terrenas, recebe um novo corpo herdado e se desenvolve pelos frutos da experiência.",
+        "explanation": [
+          "A hereditariedade liga um corpo à vida corporal anterior. Steiner inclui nessa herança mais que a semelhança exterior: tendências e aspectos da disposição pessoal também podem vir da família. Seu argumento não depende de supor que todos começam sem influências herdadas. Ele pergunta, antes, se essas influências explicam por completo a história espiritual e as capacidades do indivíduo.",
+          "Sua resposta distingue a história de uma família da biografia de uma individualidade espiritual. As experiências de uma mãe ou de um pai não se tornam automaticamente experiências próprias de um filho. Steiner argumenta que as capacidades desenvolvidas pela individualidade exigem uma história anterior que lhe pertença, assim como a organização corporal tem uma história precedente. Ele identifica essa história espiritual anterior com vidas terrenas anteriores da mesma individualidade.",
+          "Reencarnação, portanto, não é o retorno do mesmo corpo, nem uma promessa de acesso consciente a lembranças de vidas passadas. A fonte enfatiza frutos que se tornaram capacidades e disposições. Uma nova vida terrena coloca o espírito que continua em relação com uma nova constituição corporal e novas circunstâncias; ela não repete simplesmente a personalidade ou o cenário anterior.",
+          "Steiner apresenta as vidas terrenas sucessivas como uma realidade sustentada por sua investigação espiritual e, em sua compreensão, pelo pensar coerente sobre a biografia. Suas analogias e seus exemplos sustentam esse argumento, mas diferenças entre irmãos ou um talento excepcional, por si sós, não verificam uma vida anterior. Podemos formular sua conclusão com precisão, examinar suas razões e distinguir nossa própria concordância da compreensão do que ele afirma."
+        ],
+        "distinction": "A hereditariedade diz respeito à transmissão da organização corporal e de algumas tendências; a reencarnação diz respeito à individualidade espiritual que continua. Nenhuma delas significa que um talento identifica uma vida anterior específica.",
+        "reflection": {
+          "question": "Como alguém poderia receber traços herdados e ainda ter uma história espiritual própria, segundo Steiner?",
+          "notes": [
+            "A constituição herdada e a individualidade espiritual têm histórias diferentes na descrição de Steiner. Uma pessoa pode receber uma semelhança familiar, características corporais e algumas tendências do sentir. A individualidade, porém, não é a biografia da mãe ou do pai transferida ao filho: Steiner a compreende como o mesmo ser espiritual que continua seu próprio desenvolvimento através de vidas terrenas sucessivas.",
+            "Por exemplo, uma disposição herdada e uma capacidade trazida para uma nova vida pertenceriam a relações explicativas diferentes dentro desse modelo. A hereditariedade liga a pessoa à vida corporal precedente; a reencarnação liga a individualidade às suas próprias vidas anteriores e aos frutos delas. O modelo permite as duas relações juntas, sem fazer de um talento particular o registro de uma encarnação anterior identificada."
+          ]
+        },
+        "takeaways": [
+          "Segundo Steiner, a mesma individualidade espiritual, e não o mesmo corpo, continua através de sucessivas vidas terrenas.",
+          "Ele admite expressamente tendências pessoais herdadas.",
+          "Os frutos da experiência diferem de lembranças explícitas de acontecimentos anteriores.",
+          "Analogias biográficas ajudam a explicar seu argumento; elas não estabelecem, por si sós, uma vida passada."
+        ],
+        "deeper": [
+          {
+            "title": "Corpo vital e espírito vital são termos diferentes",
+            "paragraphs": [
+              "O Capítulo II distingue o corpo vital, que conserva a forma corporal viva, do espírito vital, um membro espiritual que pertence ao desenvolvimento individual. A semelhança dos nomes não os torna intercambiáveis.",
+              "Os exemplos de capacidades incomuns dados por Steiner sustentam sua proposta de continuidade da experiência acumulada. Eles não fornecem um procedimento para identificar a identidade anterior de outra pessoa, e este curso não os transforma em tal procedimento."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "karma-and-action",
+      "moduleId": "human-destiny",
+      "primaryConceptId": "karma",
+      "termIds": [
+        "karma",
+        "reincarnation",
+        "willing"
+      ],
+      "conceptIds": [
+        "karma",
+        "reincarnation",
+        "willing",
+        "fruits-of-experience",
+        "body",
+        "soul",
+        "spirit",
+        "freedom"
+      ],
+      "connections": [
+        {
+          "id": "willing",
+          "en": "A deed expresses willing and changes the situation in which later action occurs.",
+          "pt": "Uma ação expressa o querer e modifica a situação em que ações posteriores ocorrem."
+        },
+        {
+          "id": "fruits-of-experience",
+          "en": "Actions leave inward learning as well as outward consequences.",
+          "pt": "As ações deixam aprendizagem interior e também consequências exteriores."
+        },
+        {
+          "id": "reincarnation",
+          "en": "Steiner extends the connection between deeds and destiny across earthly lives.",
+          "pt": "Steiner estende a ligação entre ações e destino através das vidas terrenas."
+        },
+        {
+          "id": "freedom",
+          "en": "Attention to consequences concerns responsible action; it need not become passive resignation.",
+          "pt": "A atenção às consequências diz respeito à ação responsável; não precisa se tornar resignação passiva."
+        }
+      ],
+      "practiceId": "trace-an-actions-effects",
+      "sources": [
+        {
+          "chapter": 2,
+          "captures": [
+            32,
+            33
+          ],
+          "readingIds": [
+            7
+          ]
+        },
+        {
+          "chapter": 2,
+          "captures": [
+            39,
+            41
+          ],
+          "readingIds": [
+            9
+          ]
+        }
+      ],
+      "en": {
+        "title": "Actions, consequences and karma",
+        "question": "How can something you do today become part of tomorrow’s situation?",
+        "experience": [
+          "Keeping a promise can change both a relationship and your own habit of reliability. Even after the conversation ends, others may act differently because of what you did."
+        ],
+        "centralIdea": "Karma is Steiner’s account of the connection between a person’s deeds and the destiny they later encounter, including consequences extending across earthly lives.",
+        "explanation": [
+          "An action has an inward and an outward history. Inwardly, doing something can change what you have learned, what you are ready to attempt or the habits you carry. Outwardly, it changes a shared world: a repaired object, an injured relationship or a fulfilled promise remains relevant after the action itself is over. These two histories are related without being identical.",
+          "Continuity within one lifetime makes this distinction easy to approach. After sleep, you return to a world that still includes yesterday’s deeds. Steiner uses this familiar interruption to introduce a further claim: death does not erase the relation between a spiritual individuality and the world its actions helped shape. Reincarnation names the continuing lives; karma names the relation of deeds to later destiny.",
+          "The source makes a strong claim, connecting later joys, sorrows and wishes with actions of earlier lives. It presents this as a spiritual law, not merely advice to behave well or a metaphor for habits. Recognizing the force of that claim is part of understanding Steiner. Our everyday observation of consequences, however, does not establish the unseen origin of a particular hardship or justify a verdict about another person’s past.",
+          "For ordinary practice, the useful question is concrete: what did my action change, and what response is possible now? Responsibility can include repair, assistance and reconsideration. Neither a difficulty nor a success gives us access to another person’s spiritual history. Reflection on karma can therefore remain a study of the proposed relation while attention to present consequences supports thoughtful action."
+        ],
+        "distinction": "Reincarnation concerns the continuing individuality; karma concerns the consequences of deeds in destiny. Karma is broader than immediate reward or punishment and cannot be diagnosed from someone’s present circumstances.",
+        "reflection": {
+          "question": "In one ordinary action, what changed within you and what changed in the situation shared with others?",
+          "notes": [
+            "Returning a borrowed book when promised has an outward effect: the other person can use it, and the agreement has been fulfilled. It may also have an inward effect: you learn how to arrange your tasks, strengthen a habit of reliability or recognize what helped you keep the promise. The book’s availability and your acquired habit are different results of one action.",
+            "If the book was returned late, the next response might include acknowledging the delay and arranging a useful repair. Those are accessible consequences within this life. Steiner’s karma extends the relation between deeds and later destiny across earthly lives; the example clarifies inward fruits and outward effects without disclosing an unseen cause of someone’s circumstances."
+          ]
+        },
+        "takeaways": [
+          "A deed can leave both inward fruits and outward consequences.",
+          "Steiner connects deeds with later destiny across earthly lives.",
+          "The source’s spiritual claim is stronger than the observable fact that actions have consequences.",
+          "Present responsibility includes the possibility of helping and repairing.",
+          "Karma does not make another person’s former deeds known from their present suffering."
+        ],
+        "deeper": [
+          {
+            "title": "The three continuities at the end of Chapter II",
+            "paragraphs": [
+              "Steiner closes Chapter II by associating bodily continuity with heredity, the soul’s destiny with karma and spiritual continuity with reincarnation. This is a coordinated account of body, soul and spirit, not three interchangeable names for fate.",
+              "His examples move from familiar consequences to a supersensible continuation of those relations. Keeping the steps of that argument visible prevents an ordinary analogy from being treated as proof of a specific unseen cause."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Ações, consequências e carma",
+        "question": "Como algo que você faz hoje pode se tornar parte da situação de amanhã?",
+        "experience": [
+          "Cumprir uma promessa pode modificar tanto uma relação quanto seu próprio hábito de ser confiável. Mesmo depois que a conversa termina, outras pessoas podem agir de modo diferente por causa do que você fez."
+        ],
+        "centralIdea": "Carma é a descrição de Steiner da ligação entre as ações de alguém e o destino que essa pessoa encontra depois, incluindo consequências que atravessam vidas terrenas.",
+        "explanation": [
+          "Uma ação tem uma história interior e uma história exterior. Interiormente, fazer algo pode modificar o que você aprendeu, aquilo que está disposto a tentar ou os hábitos que carrega. Exteriormente, a ação modifica um mundo compartilhado: um objeto consertado, uma relação ferida ou uma promessa cumprida continuam relevantes depois que a própria ação terminou. Essas duas histórias se relacionam sem serem idênticas.",
+          "A continuidade dentro de uma vida torna essa distinção fácil de abordar. Depois do sono, você retorna a um mundo que ainda inclui as ações de ontem. Steiner usa essa interrupção familiar para apresentar uma afirmação adicional: a morte não apaga a relação entre uma individualidade espiritual e o mundo que suas ações ajudaram a formar. Reencarnação designa as vidas que continuam; carma designa a relação entre ações e destino posterior.",
+          "A fonte faz uma afirmação forte, ligando alegrias, sofrimentos e desejos posteriores a ações de vidas anteriores. Ela apresenta isso como uma lei espiritual, e não apenas como um conselho para agir bem ou uma metáfora sobre hábitos. Reconhecer a força dessa afirmação faz parte de compreender Steiner. Nossa observação cotidiana das consequências, porém, não estabelece a origem invisível de uma dificuldade particular nem justifica um julgamento sobre o passado de outra pessoa.",
+          "Na prática cotidiana, a pergunta útil é concreta: o que minha ação modificou e que resposta é possível agora? A responsabilidade pode incluir reparação, ajuda e reconsideração. Nem uma dificuldade nem um êxito nos dão acesso à história espiritual de outra pessoa. A reflexão sobre o carma pode, assim, permanecer um estudo da relação proposta, enquanto a atenção às consequências presentes sustenta uma ação ponderada."
+        ],
+        "distinction": "A reencarnação diz respeito à individualidade que continua; o carma, às consequências das ações no destino. O carma é mais amplo que uma recompensa ou punição imediata e não pode ser diagnosticado a partir das circunstâncias atuais de alguém.",
+        "reflection": {
+          "question": "Em uma ação cotidiana, o que mudou em você e o que mudou na situação compartilhada com outras pessoas?",
+          "notes": [
+            "Devolver um livro emprestado no prazo combinado tem um efeito exterior: a outra pessoa pode usá-lo, e o acordo foi cumprido. Também pode ter um efeito interior: você aprende a organizar suas tarefas, fortalece um hábito de ser confiável ou reconhece o que ajudou a cumprir a promessa. A disponibilidade do livro e seu hábito adquirido são resultados diferentes de uma mesma ação.",
+            "Se o livro foi devolvido com atraso, a próxima resposta pode incluir reconhecer a demora e combinar uma reparação útil. Essas são consequências acessíveis dentro desta vida. O carma em Steiner estende a relação entre ações e destino posterior através das vidas terrenas; o exemplo esclarece frutos interiores e efeitos exteriores sem revelar uma causa invisível das circunstâncias de alguém."
+          ]
+        },
+        "takeaways": [
+          "Uma ação pode deixar frutos interiores e consequências exteriores.",
+          "Steiner liga as ações ao destino posterior através das vidas terrenas.",
+          "A afirmação espiritual da fonte é mais forte que o fato observável de que ações têm consequências.",
+          "A responsabilidade presente inclui a possibilidade de ajudar e reparar.",
+          "O carma não torna conhecidas as ações anteriores de outra pessoa a partir de seu sofrimento presente."
+        ],
+        "deeper": [
+          {
+            "title": "As três continuidades no final do Capítulo II",
+            "paragraphs": [
+              "Steiner encerra o Capítulo II associando a continuidade corporal à hereditariedade, o destino da alma ao carma e a continuidade espiritual à reencarnação. Trata-se de uma descrição articulada de corpo, alma e espírito, e não de três nomes intercambiáveis para o destino.",
+              "Seus exemplos passam de consequências familiares à continuação suprassensível dessas relações. Manter visíveis os passos do argumento evita tratar uma analogia cotidiana como prova de uma causa invisível específica."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "understanding-and-knowledge",
+      "moduleId": "path-of-knowledge",
+      "primaryConceptId": "spiritual-knowledge",
+      "termIds": [
+        "spiritual-knowledge",
+        "thinking",
+        "intuition"
+      ],
+      "conceptIds": [
+        "spiritual-knowledge",
+        "thinking",
+        "intuition",
+        "receptive-attention",
+        "spirit-self",
+        "human-i"
+      ],
+      "connections": [
+        {
+          "id": "thinking",
+          "en": "Thinking can make a communicated account intelligible before personal investigation.",
+          "pt": "O pensar pode tornar compreensível uma descrição comunicada antes da investigação pessoal."
+        },
+        {
+          "id": "receptive-attention",
+          "en": "Receptivity makes room to understand an account before reaching a verdict.",
+          "pt": "A receptividade abre espaço para compreender uma descrição antes de chegar a um julgamento."
+        },
+        {
+          "id": "intuition",
+          "en": "GA 9 uses intuition for spiritual revelation to the I, not for an unsupported hunch.",
+          "pt": "A GA 9 usa intuição para a revelação espiritual ao Eu, e não para um pressentimento sem fundamento."
+        },
+        {
+          "id": "spirit-self",
+          "en": "The source connects intuitive spiritual content with the spirit-self.",
+          "pt": "A fonte liga o conteúdo espiritual intuitivo ao si-mesmo espiritual."
+        }
+      ],
+      "practiceId": "understand-before-agreeing",
+      "sources": [
+        {
+          "chapter": 0,
+          "captures": [
+            10,
+            12
+          ],
+          "readingIds": [
+            0
+          ]
+        },
+        {
+          "chapter": 4,
+          "captures": [
+            82,
+            85
+          ],
+          "readingIds": [
+            18
+          ]
+        },
+        {
+          "chapter": 1,
+          "captures": [
+            26,
+            27
+          ],
+          "readingIds": [
+            24
+          ],
+          "noteIds": [
+            5
+          ]
+        }
+      ],
+      "en": {
+        "title": "Understanding and spiritual knowledge",
+        "question": "Can you understand a report before you have investigated its subject yourself?",
+        "experience": [
+          "A friend can explain a place you have never visited. You may understand the description, judge how credible it seems and still distinguish both activities from going there yourself."
+        ],
+        "centralIdea": "Steiner distinguishes understanding communicated spiritual knowledge from personal investigation, while claiming that thoughtful understanding can prepare the faculties needed for that investigation.",
+        "explanation": [
+          "Start with three questions: what is being said, do I accept it, and how would I investigate it? Understanding concerns the meaning and relationships in an account. Assent concerns your judgment that it is true. Investigation concerns the work by which you seek knowledge of its subject. Someone can understand a proposal accurately while withholding assent, and can accept a report without yet having investigated it personally.",
+          "In the introduction, Steiner argues that reports of spiritual investigation can be understood through thoughtful reasoning even before the reader develops spiritual perception. He compares this with understanding a traveler’s description before visiting a place. He also asks readers to examine whether the account, if true, would explain life. These are ways of approaching his teaching, not a requirement to announce belief before learning its terms.",
+          "Chapter IV adds a developmental claim: thinking about communicated spiritual knowledge is itself an active preparation of the human being. Steiner presents thinking as a living force that helps form capacities for higher perception. He rejects blind acceptance and idle speculation alike. His confidence that patient development can lead to spiritual knowledge is part of the source’s position; understanding that confidence does not turn a lesson’s completion into evidence of such perception.",
+          "The introduction also distinguishes a capacity to perceive from the competence to investigate and explain. Having eyes does not by itself make someone a scientist; likewise, in Steiner’s comparison, higher perception alone does not make a disciplined spiritual investigator. Knowledge calls for careful thinking, method and responsible interpretation. A vivid inner event or firm conviction therefore cannot, on its own, settle whether an account has been investigated well.",
+          "The term intuition adds a further precision. In Theosophy, GA 9, Steiner calls the revelation of spiritual content to the I intuition, linking it with the spirit-self and finding its elementary presence even in thought. He does not use it here as a name for a hunch. The course can explain this meaning without equating an ordinary thought, a sudden feeling of certainty and the developed spiritual cognition claimed in the book."
+        ],
+        "distinction": "Understanding, assent and personal investigation are distinct. Technical intuition in GA 9 is also distinct from everyday guesswork and from the separate treatment of moral intuition in GA 4.",
+        "reflection": {
+          "question": "Choose one claim from this lesson. Can you explain its meaning, state your current judgment and identify what you have or have not investigated?",
+          "notes": [
+            "Take the claim that thoughtful study prepares faculties for spiritual perception. To explain its meaning is to say that Steiner regards thinking as an active force of development, rather than merely collecting information. To judge it is to ask whether you find that account true and why. To investigate it personally would involve seeking knowledge of the proposed development, rather than only following the explanation.",
+            "A possible comparison is: “I understand the relation Steiner proposes between study and perception. I can observe that careful thinking improves my understanding, but I have not personally investigated the supersensible faculties he describes, so my judgment about that further claim remains open.” This response separates what is understood, what has been observed and what still calls for investigation; agreement is not built into the explanation."
+          ]
+        },
+        "takeaways": [
+          "An account can be understood before it is personally investigated.",
+          "Understanding a claim does not automatically mean assenting to it.",
+          "Steiner claims that thoughtful study prepares capacities for spiritual investigation.",
+          "Perception and disciplined knowledge are distinct even in the source’s own argument.",
+          "Intuition here has a technical GA 9 meaning, rather than meaning a hunch."
+        ],
+        "deeper": [
+          {
+            "title": "The source’s confidence and the learner’s judgment",
+            "paragraphs": [
+              "Steiner writes as someone who considers the supersensible world a reality he has investigated, not as someone offering imaginative symbolism. He expects coherent thinking and eventual developed perception to support his account. Accurate teaching preserves that asserted force while leaving readers able to examine each argument.",
+              "The introduction in the supplied Shields translation addresses the work’s purpose, who can begin, the difference between communicating and discovering knowledge, and the responsibilities of a teacher. No particular external reading is required for this lesson; those orientation distinctions are part of the explanation here."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Compreensão e conhecimento espiritual",
+        "question": "É possível compreender um relato antes de investigar pessoalmente seu assunto?",
+        "experience": [
+          "Uma pessoa conhecida pode explicar um lugar que você nunca visitou. Você pode compreender a descrição, avaliar sua credibilidade e ainda distinguir essas duas atividades de ir até lá por conta própria."
+        ],
+        "centralIdea": "Steiner distingue a compreensão de um conhecimento espiritual comunicado da investigação pessoal e afirma que a compreensão pelo pensar pode preparar as faculdades necessárias a essa investigação.",
+        "explanation": [
+          "Comece com três perguntas: o que está sendo dito, eu aceito isso e como poderia investigar? Compreender diz respeito ao sentido e às relações de uma descrição. Concordar diz respeito ao seu julgamento de que ela é verdadeira. Investigar diz respeito ao trabalho pelo qual você busca conhecer seu assunto. Alguém pode compreender uma proposta com precisão sem concordar com ela, e pode aceitar um relato sem ainda tê-lo investigado pessoalmente.",
+          "Na introdução, Steiner argumenta que relatos da investigação espiritual podem ser compreendidos pelo raciocínio atento antes mesmo que o leitor desenvolva a percepção espiritual. Ele compara isso à compreensão da descrição de um viajante antes de visitar um lugar. Também convida a examinar se a descrição, caso seja verdadeira, explicaria a vida. Essas são formas de abordar seu ensinamento, e não uma exigência de declarar crença antes de aprender seus termos.",
+          "O Capítulo IV acrescenta uma afirmação sobre desenvolvimento: pensar no conhecimento espiritual comunicado já seria uma preparação ativa do ser humano. Steiner apresenta o pensar como uma força viva que ajuda a formar capacidades para uma percepção superior. Ele rejeita tanto a aceitação cega quanto a especulação ociosa. Sua confiança de que um desenvolvimento paciente pode conduzir ao conhecimento espiritual faz parte da posição da fonte; compreender essa confiança não transforma a conclusão de uma lição em evidência de tal percepção.",
+          "A introdução também distingue a capacidade de perceber da competência para investigar e explicar. Ter olhos não faz, por si só, de alguém um cientista; da mesma forma, na comparação de Steiner, a percepção superior sozinha não faz um investigador espiritual disciplinado. O conhecimento exige pensar cuidadoso, método e interpretação responsável. Uma vivência interior vívida ou uma convicção firme não podem, portanto, decidir sozinhas se uma descrição foi bem investigada.",
+          "O termo intuição acrescenta outra precisão. Em Teosofia, GA 9, Steiner chama de intuição a revelação de conteúdo espiritual ao Eu, ligando-a ao si-mesmo espiritual e reconhecendo sua presença elementar até mesmo no pensamento. Aqui ele não a usa como nome de um pressentimento. O curso pode explicar esse sentido sem equiparar um pensamento cotidiano, uma sensação repentina de certeza e a cognição espiritual desenvolvida afirmada no livro."
+        ],
+        "distinction": "Compreender, concordar e investigar pessoalmente são atividades distintas. A intuição técnica da GA 9 também difere de um palpite cotidiano e do tratamento específico da intuição moral na GA 4.",
+        "reflection": {
+          "question": "Escolha uma afirmação desta lição. Você consegue explicar seu sentido, indicar seu julgamento atual e reconhecer o que investigou ou ainda não investigou?",
+          "notes": [
+            "Considere a afirmação de que o estudo pelo pensar prepara faculdades para a percepção espiritual. Explicar seu sentido é dizer que Steiner considera o pensar uma força ativa de desenvolvimento, e não apenas uma coleta de informações. Julgá-la é perguntar se você considera verdadeira essa descrição e por quê. Investigá-la pessoalmente envolveria buscar conhecimento do desenvolvimento proposto, em vez de apenas acompanhar a explicação.",
+            "Uma comparação possível é: “Compreendo a relação que Steiner propõe entre estudo e percepção. Posso observar que pensar com cuidado melhora minha compreensão, mas não investiguei pessoalmente as faculdades suprassensíveis que ele descreve; por isso, meu julgamento sobre essa afirmação adicional permanece em aberto.” Essa resposta separa o que foi compreendido, o que foi observado e o que ainda pede investigação; a concordância não está embutida na explicação."
+          ]
+        },
+        "takeaways": [
+          "Uma descrição pode ser compreendida antes de ser investigada pessoalmente.",
+          "Compreender uma afirmação não significa automaticamente concordar com ela.",
+          "Steiner afirma que o estudo pelo pensar prepara capacidades para a investigação espiritual.",
+          "Percepção e conhecimento disciplinado são distintos até mesmo no argumento da própria fonte.",
+          "Intuição tem aqui um sentido técnico da GA 9, em vez de significar um pressentimento."
+        ],
+        "deeper": [
+          {
+            "title": "A confiança da fonte e o julgamento de quem aprende",
+            "paragraphs": [
+              "Steiner escreve como alguém que considera o mundo suprassensível uma realidade que investigou, e não como alguém que oferece um simbolismo imaginativo. Ele espera que o pensar coerente e uma percepção posteriormente desenvolvida sustentem sua descrição. Um ensino preciso preserva essa força afirmativa e permite ao leitor examinar cada argumento.",
+              "A introdução na tradução fornecida de Shields trata do propósito da obra, de quem pode começar, da diferença entre comunicar e descobrir conhecimento e das responsabilidades de quem ensina. Esta lição não exige uma leitura externa específica; essas distinções de orientação fazem parte da explicação apresentada aqui."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "receptivity-and-equanimity",
+      "moduleId": "path-of-knowledge",
+      "primaryConceptId": "receptive-attention",
+      "termIds": [
+        "receptive-attention",
+        "equanimity",
+        "feeling"
+      ],
+      "conceptIds": [
+        "receptive-attention",
+        "equanimity",
+        "feeling",
+        "sympathy-antipathy",
+        "spiritual-knowledge",
+        "thinking"
+      ],
+      "connections": [
+        {
+          "id": "equanimity",
+          "en": "Equanimity helps a feeling be noticed before it determines the response.",
+          "pt": "A equanimidade ajuda a perceber um sentimento antes que ele determine a resposta."
+        },
+        {
+          "id": "feeling",
+          "en": "Receptivity refines feeling rather than removing it.",
+          "pt": "A receptividade refina o sentir em vez de eliminá-lo."
+        },
+        {
+          "id": "sympathy-antipathy",
+          "en": "Pleasantness and aversion can color how a person or statement is received.",
+          "pt": "O agrado e a aversão podem influenciar a maneira de receber uma pessoa ou afirmação."
+        },
+        {
+          "id": "thinking",
+          "en": "A delayed verdict leaves room for a more considered judgment.",
+          "pt": "Adiar um julgamento abre espaço para uma avaliação mais ponderada."
+        }
+      ],
+      "practiceId": "pause-and-attend",
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            84,
+            85
+          ],
+          "readingIds": [
+            18
+          ]
+        },
+        {
+          "chapter": 4,
+          "captures": [
+            85,
+            86
+          ],
+          "readingIds": [
+            19
+          ]
+        }
+      ],
+      "en": {
+        "title": "Receptivity and equanimity",
+        "question": "What changes when you notice a reaction before letting it decide your response?",
+        "experience": [
+          "A familiar voice can make you impatient before you have heard the person’s point. A pleasant speaker can make an unsupported claim feel convincing. In both cases, a reaction arrives before a considered judgment."
+        ],
+        "centralIdea": "Steiner joins receptive attention with equanimity: making room for what is encountered and steadying the response without suppressing feeling or abandoning judgment.",
+        "explanation": [
+          "Receptivity begins with a temporary pause in the labels already attached to an encounter. Instead of deciding at once that a person is foolish, admirable or irritating, you give their actual words and actions time to appear. Steiner describes learning even from a child or from someone toward whom one feels aversion. The aim is to become more attentive to what is there, rather than let an old verdict occupy all the available space.",
+          "This pause does not make every statement true or every action acceptable. It changes the order of attention and judgment: receive enough to understand, then evaluate. Steiner’s emphasis on openness belongs to a path of learning, not a demand that a learner become unable to question. A considered objection can remain an objection after the content has been heard accurately.",
+          "Feeling also remains. The source explicitly distinguishes cultivating sensitivity from eradicating sympathy and antipathy. Pleasure and pain tell us something about our encounter, but they need not immediately command our action. Equanimity is this steadier relation to the response: noticing its quality and intensity while retaining room to choose how to meet the situation.",
+          "Steiner gives this education of feeling a spiritual purpose, claiming that transformed feelings become organs of perception in the soul world. That is a further claim about development, not an outcome demonstrated by a short exercise. In everyday practice, a modest pause can help separate what was observed, what was felt and what was decided. Such clarity is useful without being a certificate of higher perception."
+        ],
+        "distinction": "Receptivity is openness of attention, not automatic agreement. Equanimity is steadiness amid feeling, not numbness, indifference or the removal of sympathy and antipathy.",
+        "reflection": {
+          "question": "Recall a small disagreement. Which part was the other person’s actual statement, which part was your feeling, and which part was your judgment?",
+          "notes": [
+            "Suppose someone proposes changing an agreed meeting time. Their statement is the proposed time and the reason they actually give. Your feeling may be irritation because you had already arranged your day. Your judgment concerns whether the change is reasonable and workable. These can arise together, but the irritation is not itself the other person’s statement or a complete reason to reject it.",
+            "Receptive attention gives the explanation enough room to be heard; equanimity lets the irritation remain a noticed feeling without immediately deciding the response. You might accept the change after understanding the reason, or decline because of a real conflict. In either case, the response can follow a clearer distinction between what was said, what was felt and what was judged."
+          ]
+        },
+        "takeaways": [
+          "An existing label can prevent a fresh encounter from being heard.",
+          "A pause in judgment is different from giving up judgment.",
+          "Steiner preserves sympathy and antipathy while seeking to refine feeling.",
+          "Equanimity leaves space between a feeling and the action that follows.",
+          "Receptive attention makes room for the encounter; steady feeling leaves room to choose a response."
+        ],
+        "deeper": [
+          {
+            "title": "Feeling as an organ in the source",
+            "paragraphs": [
+              "Chapter IV relates disciplined feeling to a proposed capacity for perceiving the soul world, comparing its eventual role with that of a physical sense organ. Steiner means a real development of perception within his account. Reducing this entirely to calmness would remove the claim he is making.",
+              "The everyday exercise here adapts the distinction between receiving and immediately reacting. Its brief duration and steps are course arrangements, not a spiritual training schedule prescribed in the source."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Receptividade e equanimidade",
+        "question": "O que muda quando você percebe uma reação antes de deixá-la decidir sua resposta?",
+        "experience": [
+          "Uma voz conhecida pode provocar impaciência antes que você escute o argumento da pessoa. Um modo agradável de falar pode tornar convincente uma afirmação sem fundamento. Nos dois casos, a reação chega antes de um julgamento ponderado."
+        ],
+        "centralIdea": "Steiner reúne atenção receptiva e equanimidade: abrir espaço para o que se encontra e estabilizar a resposta sem suprimir o sentir nem abandonar o julgamento.",
+        "explanation": [
+          "A receptividade começa com uma pausa temporária nos rótulos já ligados a um encontro. Em vez de decidir imediatamente que alguém é tolo, admirável ou irritante, você dá tempo para que suas palavras e ações apareçam. Steiner descreve a possibilidade de aprender até com uma criança ou com alguém por quem se sente aversão. O objetivo é prestar mais atenção ao que está presente, em vez de deixar um julgamento antigo ocupar todo o espaço disponível.",
+          "Essa pausa não torna verdadeira qualquer afirmação nem aceitável qualquer ação. Ela modifica a ordem da atenção e do julgamento: receber o suficiente para compreender, depois avaliar. A ênfase de Steiner na abertura pertence a um caminho de aprendizagem, e não a uma exigência de que a pessoa se torne incapaz de questionar. Uma objeção ponderada pode continuar sendo uma objeção depois que o conteúdo foi ouvido com precisão.",
+          "O sentir também permanece. A fonte distingue expressamente o cultivo da sensibilidade da eliminação de simpatia e antipatia. O prazer e a dor informam algo sobre nosso encontro, mas não precisam comandar imediatamente nossa ação. Equanimidade é essa relação mais estável com a resposta: perceber sua qualidade e intensidade, conservando espaço para escolher como lidar com a situação.",
+          "Steiner atribui a essa educação do sentir um propósito espiritual, afirmando que sentimentos transformados se tornam órgãos de percepção no mundo anímico. Essa é uma afirmação adicional sobre desenvolvimento, não um resultado demonstrado por um exercício breve. Na prática cotidiana, uma pequena pausa pode ajudar a separar o que foi observado, o que foi sentido e o que foi decidido. Essa clareza é útil sem ser um certificado de percepção superior."
+        ],
+        "distinction": "Receptividade é abertura da atenção, e não concordância automática. Equanimidade é estabilidade em meio ao sentir, e não insensibilidade, indiferença ou eliminação de simpatia e antipatia.",
+        "reflection": {
+          "question": "Lembre uma pequena discordância. Qual parte era a afirmação efetiva da outra pessoa, qual era seu sentimento e qual era seu julgamento?",
+          "notes": [
+            "Suponha que alguém proponha mudar o horário combinado de um encontro. A afirmação dessa pessoa é o horário proposto e a razão que ela efetivamente apresenta. Seu sentimento pode ser irritação porque você já havia organizado o dia. Seu julgamento envolve avaliar se a mudança é razoável e viável. Essas partes podem surgir juntas, mas a irritação não é a própria afirmação da outra pessoa nem uma razão completa para recusá-la.",
+            "A atenção receptiva dá espaço suficiente para ouvir a explicação; a equanimidade permite que a irritação permaneça um sentimento percebido sem decidir imediatamente a resposta. Você pode aceitar a mudança depois de compreender a razão ou recusá-la por causa de um conflito real. Nos dois casos, a resposta pode decorrer de uma distinção mais clara entre o que foi dito, o que foi sentido e o que foi julgado."
+          ]
+        },
+        "takeaways": [
+          "Um rótulo já estabelecido pode impedir que um novo encontro seja ouvido.",
+          "Uma pausa no julgamento difere de abrir mão de julgar.",
+          "Steiner preserva simpatia e antipatia enquanto procura refinar o sentir.",
+          "A equanimidade deixa espaço entre um sentimento e a ação que o segue.",
+          "A atenção receptiva abre espaço para o encontro; a estabilidade do sentir deixa espaço para escolher uma resposta."
+        ],
+        "deeper": [
+          {
+            "title": "O sentir como órgão na fonte",
+            "paragraphs": [
+              "O Capítulo IV relaciona o sentir disciplinado a uma capacidade proposta de perceber o mundo anímico, comparando sua função futura à de um órgão sensorial físico. Steiner se refere a um desenvolvimento real da percepção dentro de sua descrição. Reduzir isso inteiramente à calma apagaria a afirmação que ele faz.",
+              "O exercício cotidiano aqui adapta a distinção entre receber e reagir imediatamente. Sua duração breve e seus passos são uma organização do curso, e não um programa de formação espiritual prescrito na fonte."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "thinking-and-willing",
+      "moduleId": "path-of-knowledge",
+      "primaryConceptId": "thinking",
+      "termIds": [
+        "thinking",
+        "willing",
+        "feeling"
+      ],
+      "conceptIds": [
+        "thinking",
+        "willing",
+        "feeling",
+        "spiritual-knowledge",
+        "freedom",
+        "equanimity"
+      ],
+      "connections": [
+        {
+          "id": "willing",
+          "en": "Willing carries a recognized purpose into action and persistence.",
+          "pt": "O querer leva um propósito reconhecido à ação e à persistência."
+        },
+        {
+          "id": "feeling",
+          "en": "A feeling can accompany a thought without deciding whether its reasoning follows.",
+          "pt": "Um sentimento pode acompanhar um pensamento sem decidir se o raciocínio é coerente."
+        },
+        {
+          "id": "spiritual-knowledge",
+          "en": "Steiner regards ordered thinking as preparation for responsible spiritual investigation.",
+          "pt": "Steiner considera o pensar ordenado uma preparação para a investigação espiritual responsável."
+        },
+        {
+          "id": "freedom",
+          "en": "Examining a motive helps distinguish considered action from an unexamined impulse.",
+          "pt": "Examinar um motivo ajuda a distinguir uma ação ponderada de um impulso não examinado."
+        }
+      ],
+      "practiceId": "follow-reasons-into-action",
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            87,
+            89
+          ],
+          "readingIds": [
+            20
+          ]
+        }
+      ],
+      "en": {
+        "title": "Ordered thinking and educated willing",
+        "question": "Does a satisfying conclusion actually follow from its reasons?",
+        "experience": [
+          "You can make a practical plan sound attractive while overlooking a missing step. Trying to carry it out then reveals a gap between what you wanted to be true and what the situation requires."
+        ],
+        "centralIdea": "Steiner connects ordered thinking with educated willing: following the content of a thought coherently and carrying a recognized good into action without making private gratification the sole guide.",
+        "explanation": [
+          "Thinking orders relationships: what a claim means, which reasons support it and whether a conclusion follows. In everyday activity, a failed plan or an unfinished task often exposes a gap in our reasoning. Steiner argues that spiritual investigation requires an especially disciplined order because the ordinary corrections supplied by external practical circumstances are less directly available there. A pleasing inner picture cannot supply those corrections by itself.",
+          "Order does not mean intellectual display or learning every school subject first. The source uses mathematics as an example of following relations faithfully, while making clear that mathematical training is not the only way to cultivate the capacity. The central demand is to let the content guide the sequence of thought rather than selecting each step because it leads to a favorite conclusion.",
+          "Willing concerns the movement from understanding to doing. Steiner asks that the good recognized in an action guide the choice more than the prospect of praise, advantage or emotional reward. This does not erase feeling; it gives feeling a different role from the reason for acting. A useful practical distinction is between why an action is worth doing and what personal satisfaction may happen to accompany it.",
+          "Thinking and willing then support one another. Thought tests the proposed purpose and its coherence; action encounters the real situation and calls for persistence or correction. Steiner places this education within his path to spiritual knowledge and speaks confidently of guidance through the true and good. Honest intention, however, does not make every premise correct: ordinary reflection still needs to examine reasons, consequences and mistakes."
+        ],
+        "distinction": "Ordered thinking differs from a gratifying chain of associations. Educated willing differs both from passing impulse and from rigidly persisting in an action after its reasons have failed.",
+        "reflection": {
+          "question": "Take a small planned action. What is its reason, what steps follow from that reason, and what would make you reconsider?",
+          "notes": [
+            "For returning something borrowed, the reason may be that it belongs to another person and they need it at the agreed time. The steps could be checking when it is needed, arranging a workable return and carrying it through. Thought orders those steps in relation to the purpose; willing takes the plan into action. Gratitude or satisfaction may accompany the deed without being its only reason.",
+            "If you discover that the person needs the object earlier, the original timetable no longer serves the purpose. Reconsidering it follows the reason more faithfully than stubbornly keeping the first plan. The comparison therefore distinguishes a recognized purpose, a coherent sequence of means and persistence that remains responsive to the actual situation."
+          ]
+        },
+        "takeaways": [
+          "A conclusion needs a coherent relation to its reasons.",
+          "Private preference can distort the sequence of thinking.",
+          "The source’s example of mathematics illustrates a capacity, rather than imposing a prerequisite.",
+          "Willing connects a recognized purpose with action and persistence.",
+          "Careful intention leaves room for correction when reasons or circumstances change."
+        ],
+        "deeper": [
+          {
+            "title": "Truth, goodness and the source’s confidence",
+            "paragraphs": [
+              "Chapter IV asks the learner to orient thinking toward truth and willing toward the good, rather than toward what merely benefits the private self. Steiner also maintains that a sincere orientation toward the true guides the seeker despite mistakes. This is his developmental conviction; it should not be converted into a rule that sincere people cannot be mistaken.",
+              "The practice linked here examines one ordinary sequence of reasons and action. It does not reproduce a complete spiritual regimen or promise access to the higher worlds."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Pensar ordenado e querer educado",
+        "question": "Uma conclusão agradável realmente decorre de suas razões?",
+        "experience": [
+          "Você pode tornar um plano prático atraente e, ao mesmo tempo, ignorar uma etapa necessária. Tentar realizá-lo revela então uma distância entre o que você queria que fosse verdade e o que a situação exige."
+        ],
+        "centralIdea": "Steiner relaciona o pensar ordenado ao querer educado: acompanhar coerentemente o conteúdo de um pensamento e levar à ação um bem reconhecido, sem fazer da satisfação pessoal o único guia.",
+        "explanation": [
+          "O pensar ordena relações: o que uma afirmação significa, quais razões a sustentam e se uma conclusão decorre delas. Nas atividades cotidianas, um plano que falha ou uma tarefa que não se completa frequentemente revela uma lacuna no raciocínio. Steiner argumenta que a investigação espiritual exige uma ordem especialmente disciplinada, pois as correções comuns oferecidas pelas circunstâncias práticas exteriores estão menos diretamente disponíveis ali. Uma imagem interior agradável não fornece sozinha essas correções.",
+          "Ordem não significa exibição intelectual nem aprender primeiro todas as matérias escolares. A fonte usa a matemática como exemplo de acompanhar relações com fidelidade e deixa claro que a formação matemática não é a única maneira de cultivar essa capacidade. A exigência central é deixar que o conteúdo conduza a sequência do pensamento, em vez de escolher cada passo porque ele leva a uma conclusão preferida.",
+          "O querer diz respeito à passagem da compreensão para o fazer. Steiner pede que o bem reconhecido em uma ação oriente a escolha mais que a perspectiva de elogio, vantagem ou recompensa emocional. Isso não elimina o sentir; atribui ao sentimento uma função diferente da razão para agir. Uma distinção prática útil separa o motivo pelo qual vale a pena realizar uma ação da satisfação pessoal que pode acompanhá-la.",
+          "Pensar e querer passam, então, a se apoiar mutuamente. O pensamento examina o propósito proposto e sua coerência; a ação encontra a situação real e exige persistência ou correção. Steiner situa essa educação em seu caminho para o conhecimento espiritual e fala com confiança da orientação pelo verdadeiro e pelo bem. Uma intenção honesta, porém, não torna correta toda premissa: a reflexão cotidiana ainda precisa examinar razões, consequências e erros."
+        ],
+        "distinction": "O pensar ordenado difere de uma cadeia agradável de associações. O querer educado difere tanto de um impulso passageiro quanto da insistência rígida em uma ação cujas razões já não se sustentam.",
+        "reflection": {
+          "question": "Considere uma pequena ação planejada. Qual é sua razão, quais passos decorrem dessa razão e o que levaria você a reconsiderar?",
+          "notes": [
+            "Para devolver algo emprestado, a razão pode ser que o objeto pertence a outra pessoa e ela precisa dele no momento combinado. Os passos podem incluir verificar quando ele será necessário, organizar uma devolução viável e realizá-la. O pensar ordena esses passos em relação ao propósito; o querer leva o plano à ação. Gratidão ou satisfação podem acompanhar a ação sem ser sua única razão.",
+            "Se você descobre que a pessoa precisa do objeto antes, o calendário original já não serve ao propósito. Reconsiderá-lo acompanha a razão com mais fidelidade do que manter o primeiro plano por teimosia. A comparação distingue, portanto, um propósito reconhecido, uma sequência coerente de meios e uma persistência que continua atenta à situação real."
+          ]
+        },
+        "takeaways": [
+          "Uma conclusão precisa manter uma relação coerente com suas razões.",
+          "A preferência pessoal pode distorcer a sequência do pensar.",
+          "O exemplo da matemática na fonte ilustra uma capacidade, em vez de impor um pré-requisito.",
+          "O querer liga um propósito reconhecido à ação e à persistência.",
+          "Uma intenção cuidadosa mantém espaço para correção quando razões ou circunstâncias mudam."
+        ],
+        "deeper": [
+          {
+            "title": "Verdade, bem e a confiança da fonte",
+            "paragraphs": [
+              "O Capítulo IV pede que a pessoa oriente o pensar para a verdade e o querer para o bem, em vez de se orientar pelo que beneficia apenas o eu privado. Steiner também sustenta que uma orientação sincera para o verdadeiro guia quem busca, apesar dos erros. Essa é sua convicção sobre o desenvolvimento; ela não deve ser transformada em uma regra segundo a qual pessoas sinceras não podem se enganar.",
+              "A prática vinculada aqui examina uma sequência cotidiana de razões e ação. Ela não reproduz um programa espiritual completo nem promete acesso aos mundos superiores."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "freedom-and-initiation",
+      "moduleId": "path-of-knowledge",
+      "primaryConceptId": "freedom",
+      "termIds": [
+        "freedom",
+        "initiation",
+        "individuality",
+        "intuition"
+      ],
+      "conceptIds": [
+        "freedom",
+        "initiation",
+        "individuality",
+        "intuition",
+        "willing",
+        "human-i",
+        "spirit",
+        "spiritual-transformation"
+      ],
+      "connections": [
+        {
+          "id": "willing",
+          "en": "Freedom concerns the source and understanding of a motive for action.",
+          "pt": "A liberdade diz respeito à origem e à compreensão de um motivo para agir."
+        },
+        {
+          "id": "individuality",
+          "en": "The source preserves individuality in spiritual development rather than dissolving it.",
+          "pt": "A fonte preserva a individualidade no desenvolvimento espiritual, em vez de dissolvê-la."
+        },
+        {
+          "id": "initiation",
+          "en": "Initiation names a claimed conscious participation in spiritual reality, beyond merely describing it.",
+          "pt": "Iniciação designa uma participação consciente afirmada na realidade espiritual, para além de apenas descrevê-la."
+        },
+        {
+          "id": "intuition",
+          "en": "Spiritual cognition belongs to the source’s account of developed participation, not to a course certificate.",
+          "pt": "A cognição espiritual pertence à descrição da fonte sobre participação desenvolvida, e não a um certificado do curso."
+        }
+      ],
+      "practiceId": null,
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            89,
+            92
+          ],
+          "readingIds": [
+            21
+          ]
+        }
+      ],
+      "en": {
+        "title": "Freedom, individuality and initiation",
+        "question": "What makes an action your own: its intensity, or your understanding of its motive?",
+        "experience": [
+          "A strong impulse can feel personal while leaving little room for choice. Another action may be quieter but follow a reason you have examined and can stand behind. This difference raises a question about freedom."
+        ],
+        "centralIdea": "Steiner connects freedom with inwardly understood action in accord with the spiritual order, and initiation with conscious participation in that order while individuality is preserved.",
+        "explanation": [
+          "A desire is not free merely because it is strong or belongs to you. In this chapter, Steiner contrasts being driven by shifting impressions with acting from what the individual understands as enduringly true and good. Freedom concerns the relation between the person and the motive, not the ability to make an arbitrary choice detached from reasons. This is a demanding ideal in the source, rather than an immediate description of every ordinary decision.",
+          "Orientation toward the enduring does not require losing attention to concrete life. Steiner points toward fully attending to particular things, including small living forms, while seeking their relation to what is lasting. The physical world is not presented as a distraction that must simply be abandoned. The path joins attentiveness to the present with the proposed spiritual significance of what is encountered.",
+          "Initiation names a further condition in that account: a person becomes a conscious participant in spiritual reality and acts from knowledge of it. Steiner describes this as overcoming doubt and superstition through knowledge, not through a demand to believe harder. It is therefore distinct from learning terminology, feeling an unusual sensation or finishing a curriculum. The course explains the claim; it does not confer or assess this spiritual condition.",
+          "Individuality remains central. Steiner’s concluding image allows different individuals to bring their own contribution into a spiritual whole, rather than disappear into an undifferentiated unity. He also places development within a long perspective that may extend across incarnations. There is no source basis here for a course timetable that promises initiation after a fixed number of days, lessons or exercises."
+        ],
+        "distinction": "Freedom differs from arbitrary impulse; initiation differs from assent, an unusual experience or course completion. Spiritual participation in the source does not erase individual identity.",
+        "reflection": {
+          "question": "How would you explain the difference between an impulse you happen to have and a motive you have examined and made your own?",
+          "notes": [
+            "An impulse to interrupt may arise because criticism feels unpleasant. If you act immediately, the force of that reaction may be directing you. An examined motive is different: you listen, consider what needs an answer and choose to clarify a misunderstanding because that reason makes sense to you. The action can then be connected with a purpose you understand and take responsibility for, rather than simply with the strongest present feeling.",
+            "Steiner’s fuller ideal goes beyond this ordinary example: free action draws its motives from the enduring spiritual reality of things and accords with the world order. The example clarifies the relation between impulse, understanding and motive. Initiation adds a further claim of conscious spiritual knowledge and participation, while the individual’s own contribution remains preserved."
+          ]
+        },
+        "takeaways": [
+          "A strong impulse is not automatically a free motive.",
+          "Steiner connects freedom with understanding and the enduring true and good.",
+          "Attentiveness to spiritual significance does not require indifference to concrete life.",
+          "Initiation names conscious knowledge of and participation in spiritual reality in Steiner’s account.",
+          "Individuality is preserved in the spiritual whole described at the close of the book."
+        ],
+        "deeper": [
+          {
+            "title": "An ideal, not a ranking",
+            "paragraphs": [
+              "Chapter IV presents a confident account of the possible culmination of the path. It also emphasizes patience and a horizon reaching beyond a single earthly life. These statements support careful attribution, not a ranking of learners by supposed spiritual advancement.",
+              "The book’s technical use of intuition belongs to its account of spiritual revelation and cognition. The separate discussion of moral intuition in The Philosophy of Freedom, GA 4, is not imported as though it were the same concept or the source for this lesson."
+            ]
+          },
+          {
+            "title": "The culminating claim at the close of the book",
+            "paragraphs": [
+              "Steiner describes initiation as bestowed through the great spiritual guides of humanity. He presents a transition from knowing things shaped by spirit to conscious relation with the shaping spirit itself. This is a claim about spiritual beings and knowledge, beyond the ordinary motive reflection that introduces the lesson.",
+              "The final paragraph anticipates clairvoyant or intuitive seeing, fuller possession of the higher spiritual members and remembrance of former lives, possibly in the present incarnation or a later one. These are outcomes asserted within Steiner’s account of development; the lesson’s optional reflection provides no method for producing or confirming them."
+            ]
+          }
+        ]
+      },
+      "pt": {
+        "title": "Liberdade, individualidade e iniciação",
+        "question": "O que torna uma ação sua: a intensidade do impulso ou a compreensão do motivo?",
+        "experience": [
+          "Um impulso forte pode parecer muito pessoal e ainda deixar pouco espaço para escolher. Outra ação pode ser mais discreta, mas decorrer de uma razão que você examinou e pela qual pode responder. Essa diferença levanta uma questão sobre liberdade."
+        ],
+        "centralIdea": "Steiner relaciona a liberdade à ação interiormente compreendida em acordo com a ordem espiritual e a iniciação à participação consciente nessa ordem, com a preservação da individualidade.",
+        "explanation": [
+          "Um desejo não é livre apenas por ser forte ou pertencer a você. Neste capítulo, Steiner contrapõe ser conduzido por impressões mutáveis a agir a partir do que o indivíduo compreende como duradouramente verdadeiro e bom. A liberdade diz respeito à relação entre a pessoa e o motivo, e não à capacidade de escolher arbitrariamente sem razões. Essa é uma exigente perspectiva da fonte, e não uma descrição imediata de toda decisão cotidiana.",
+          "Orientar-se para o duradouro não exige perder a atenção à vida concreta. Steiner aponta para a atenção plena às coisas particulares, inclusive pequenas formas vivas, enquanto se busca sua relação com o que permanece. O mundo físico não é apresentado como uma distração que precisa simplesmente ser abandonada. O caminho reúne a atenção ao presente e o significado espiritual proposto para aquilo que se encontra.",
+          "Iniciação designa uma condição adicional nessa descrição: a pessoa se torna participante consciente da realidade espiritual e age a partir do conhecimento dela. Steiner descreve isso como superar a dúvida e a superstição pelo conhecimento, e não pela exigência de acreditar com mais força. Isso difere, portanto, de aprender termos, sentir algo incomum ou concluir um currículo. O curso explica a afirmação; ele não confere nem avalia essa condição espiritual.",
+          "A individualidade permanece central. A imagem conclusiva de Steiner permite que indivíduos diferentes tragam sua própria contribuição a um todo espiritual, em vez de desaparecer numa unidade indiferenciada. Ele também situa o desenvolvimento em uma perspectiva longa, que pode atravessar encarnações. Não há base nesta fonte para um calendário de curso que prometa iniciação depois de um número fixo de dias, lições ou exercícios."
+        ],
+        "distinction": "Liberdade difere de impulso arbitrário; iniciação difere de concordância, de uma experiência incomum ou da conclusão de um curso. A participação espiritual descrita na fonte não apaga a identidade individual.",
+        "reflection": {
+          "question": "Como você explicaria a diferença entre um impulso que simplesmente surge e um motivo que examinou e assumiu como seu?",
+          "notes": [
+            "Um impulso de interromper pode surgir porque uma crítica é desagradável. Se você age imediatamente, a força dessa reação pode estar conduzindo você. Um motivo examinado é diferente: você escuta, considera o que precisa de resposta e escolhe esclarecer um mal-entendido porque essa razão faz sentido para você. A ação pode então se ligar a um propósito que compreende e pelo qual assume responsabilidade, em vez de apenas ao sentimento presente mais forte.",
+            "O ideal mais amplo de Steiner vai além desse exemplo cotidiano: a ação livre recebe seus motivos da realidade espiritual duradoura das coisas e se harmoniza com a ordem do mundo. O exemplo esclarece a relação entre impulso, compreensão e motivo. A iniciação acrescenta uma afirmação de conhecimento e participação espirituais conscientes, enquanto a contribuição própria do indivíduo permanece preservada."
+          ]
+        },
+        "takeaways": [
+          "Um impulso forte não é automaticamente um motivo livre.",
+          "Steiner relaciona a liberdade à compreensão e ao verdadeiro e bom duradouros.",
+          "A atenção ao significado espiritual não exige indiferença à vida concreta.",
+          "Na descrição de Steiner, iniciação designa o conhecimento e a participação conscientes na realidade espiritual.",
+          "A individualidade é preservada no todo espiritual descrito no final do livro."
+        ],
+        "deeper": [
+          {
+            "title": "Um ideal, não uma classificação",
+            "paragraphs": [
+              "O Capítulo IV apresenta com confiança a possível culminação do caminho. Ele também enfatiza a paciência e um horizonte que vai além de uma única vida terrena. Essas afirmações sustentam uma atribuição cuidadosa, e não uma classificação de estudantes por suposto avanço espiritual.",
+              "O uso técnico de intuição no livro pertence à sua descrição da revelação e da cognição espiritual. A discussão específica de intuição moral em A filosofia da liberdade, GA 4, não é importada como se fosse o mesmo conceito ou a fonte desta lição."
+            ]
+          },
+          {
+            "title": "A afirmação culminante no final do livro",
+            "paragraphs": [
+              "Steiner descreve a iniciação como concedida por meio dos grandes guias espirituais da humanidade. Ele apresenta uma passagem do conhecimento das coisas formadas pelo espírito para uma relação consciente com o próprio espírito formador. Essa é uma afirmação sobre seres e conhecimento espirituais, para além da reflexão cotidiana sobre motivos que introduz a lição.",
+              "O último parágrafo antecipa a visão clarividente ou intuitiva, a posse mais plena dos membros espirituais superiores e a recordação de vidas anteriores, possivelmente na encarnação presente ou numa posterior. Esses são resultados afirmados na descrição de Steiner sobre o desenvolvimento; a reflexão opcional da lição não fornece um método para produzi-los ou confirmá-los."
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "concepts": [
+    {
+      "id": "memory",
+      "sources": [
+        {
+          "chapter": 2,
+          "captures": [
+            32,
+            34
+          ],
+          "readingIds": [
+            7
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "fruits-of-experience",
+          "en": "Remembered events differ from the capacities left by experience.",
+          "pt": "Acontecimentos lembrados diferem das capacidades deixadas pela experiência."
+        },
+        {
+          "id": "soul",
+          "en": "Memory makes the soul a mediator between a past encounter and the present.",
+          "pt": "A memória faz da alma uma mediadora entre um encontro passado e o presente."
+        }
+      ],
+      "en": {
+        "term": "Memory",
+        "alsoCalled": [],
+        "definition": "The capacity through which an earlier experience becomes inwardly available in the present.",
+        "explanation": [
+          "Steiner distinguishes seeing an object now from remembering an earlier encounter with it. The present sense impression and the inward recollection can join in recognition, but they have different sources and roles.",
+          "An accessible memory is also different from a lasting ability. You can lose the details of learning a skill while retaining what that learning changed in you."
+        ],
+        "distinction": "Memory preserves or recalls an experience; the fruits of experience are lasting capacities or dispositions that may remain without the original recollection."
+      },
+      "pt": {
+        "term": "Memória",
+        "alsoCalled": [],
+        "definition": "A capacidade pela qual uma experiência anterior se torna interiormente disponível no presente.",
+        "explanation": [
+          "Steiner distingue ver um objeto agora de lembrar um encontro anterior com ele. A impressão sensorial presente e a recordação interior podem se reunir no reconhecimento, mas têm origens e funções diferentes.",
+          "Uma lembrança acessível também difere de uma capacidade duradoura. Você pode perder os detalhes de aprender uma habilidade e conservar aquilo que essa aprendizagem modificou em você."
+        ],
+        "distinction": "A memória conserva ou recorda uma experiência; os frutos da experiência são capacidades ou disposições duradouras que podem permanecer sem a recordação original."
+      }
+    },
+    {
+      "id": "fruits-of-experience",
+      "sources": [
+        {
+          "chapter": 2,
+          "captures": [
+            33,
+            34
+          ],
+          "readingIds": [
+            7
+          ]
+        },
+        {
+          "chapter": 2,
+          "captures": [
+            37,
+            38
+          ],
+          "readingIds": [
+            27
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "memory",
+          "en": "A capacity can outlast the memory of acquiring it.",
+          "pt": "Uma capacidade pode durar mais que a lembrança de sua aquisição."
+        },
+        {
+          "id": "individuality",
+          "en": "Steiner assigns accumulated fruits to the development of the spiritual individuality.",
+          "pt": "Steiner atribui os frutos acumulados ao desenvolvimento da individualidade espiritual."
+        },
+        {
+          "id": "reincarnation",
+          "en": "The source extends the accumulation of experience across earthly lives.",
+          "pt": "A fonte estende a acumulação de experiência através das vidas terrenas."
+        }
+      ],
+      "en": {
+        "term": "Fruits of experience",
+        "alsoCalled": [],
+        "definition": "The enduring capacities and dispositions into which lived experience is transformed in Steiner’s account.",
+        "explanation": [
+          "Learning to read is a simple example: the ability remains even when particular lessons are forgotten. Experience can become part of what a person is able to do and how they meet a new situation.",
+          "Steiner extends this transformation beyond one lifetime, interpreting capacities brought into a new life as fruits of the continuing individuality’s earlier experience. That extension is a spiritual claim, distinct from the ordinary example used to explain it."
+        ],
+        "distinction": "A fruit of experience is not necessarily a stored picture of an event, and a present talent does not identify a specific former life."
+      },
+      "pt": {
+        "term": "Frutos da experiência",
+        "alsoCalled": [],
+        "definition": "As capacidades e disposições duradouras em que a experiência vivida se transforma, segundo Steiner.",
+        "explanation": [
+          "Aprender a ler é um exemplo simples: a capacidade permanece mesmo quando aulas específicas são esquecidas. A experiência pode se tornar parte do que alguém consegue fazer e da maneira como enfrenta uma situação nova.",
+          "Steiner estende essa transformação para além de uma vida, interpretando capacidades trazidas para uma nova vida como frutos da experiência anterior da individualidade que continua. Essa extensão é uma afirmação espiritual, distinta do exemplo cotidiano usado para explicá-la."
+        ],
+        "distinction": "Um fruto da experiência não é necessariamente uma imagem guardada de um acontecimento, e um talento presente não identifica uma vida anterior específica."
+      }
+    },
+    {
+      "id": "individuality",
+      "sources": [
+        {
+          "chapter": 2,
+          "captures": [
+            34,
+            36
+          ],
+          "readingIds": [
+            8
+          ]
+        },
+        {
+          "chapter": 4,
+          "captures": [
+            91,
+            92
+          ],
+          "readingIds": [
+            21
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "human-i",
+          "en": "The I is the inward center through which a person makes experience their own.",
+          "pt": "O Eu é o centro interior pelo qual uma pessoa faz da experiência algo seu."
+        },
+        {
+          "id": "reincarnation",
+          "en": "The individuality is what Steiner says continues through repeated earthly lives.",
+          "pt": "A individualidade é aquilo que, segundo Steiner, continua através de vidas terrenas sucessivas."
+        },
+        {
+          "id": "initiation",
+          "en": "Conscious spiritual participation preserves individual contribution in the source.",
+          "pt": "A participação espiritual consciente preserva a contribuição individual na fonte."
+        }
+      ],
+      "en": {
+        "term": "Individuality",
+        "alsoCalled": [
+          "Spiritual individuality"
+        ],
+        "definition": "The enduring spiritual being whose particular history develops through its own experiences, in Steiner’s account.",
+        "explanation": [
+          "The term is introduced through biography: a person’s history cannot simply be substituted by the history of a parent or a description of shared bodily traits. Steiner takes this unique spiritual development to extend through repeated lives.",
+          "At the end of Theosophy, he also preserves individuality within the spiritual whole. Development does not mean that every individual becomes indistinguishable or loses the possibility of contributing in their own way."
+        ],
+        "distinction": "Individuality here means spiritual continuity, rather than merely an unusual personality, social independence or a biological species."
+      },
+      "pt": {
+        "term": "Individualidade",
+        "alsoCalled": [
+          "Individualidade espiritual"
+        ],
+        "definition": "O ser espiritual duradouro cuja história particular se desenvolve por suas próprias experiências, segundo Steiner.",
+        "explanation": [
+          "O termo é apresentado pela biografia: a história de alguém não pode ser simplesmente substituída pela história de sua mãe ou de seu pai, nem por uma descrição de traços corporais compartilhados. Steiner considera que esse desenvolvimento espiritual singular atravessa vidas sucessivas.",
+          "No final de Teosofia, ele também preserva a individualidade no todo espiritual. Desenvolver-se não significa que todos se tornem indistinguíveis ou percam a possibilidade de contribuir à sua maneira."
+        ],
+        "distinction": "Individualidade significa aqui continuidade espiritual, e não apenas uma personalidade incomum, independência social ou uma espécie biológica."
+      }
+    },
+    {
+      "id": "reincarnation",
+      "sources": [
+        {
+          "chapter": 2,
+          "captures": [
+            34,
+            36
+          ],
+          "readingIds": [
+            8
+          ]
+        },
+        {
+          "chapter": 2,
+          "captures": [
+            36,
+            38
+          ],
+          "readingIds": [
+            27
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "individuality",
+          "en": "The same spiritual individuality is the subject of successive earthly lives.",
+          "pt": "A mesma individualidade espiritual é o sujeito das vidas terrenas sucessivas."
+        },
+        {
+          "id": "heredity",
+          "en": "A continuing individuality enters a newly inherited bodily constitution.",
+          "pt": "Uma individualidade que continua entra numa nova constituição corporal herdada."
+        },
+        {
+          "id": "karma",
+          "en": "Repeated lives provide the horizon within which the source connects deeds and later destiny.",
+          "pt": "As vidas sucessivas fornecem o horizonte em que a fonte liga ações e destino posterior."
+        }
+      ],
+      "en": {
+        "term": "Reincarnation",
+        "alsoCalled": [
+          "Repeated earthly lives"
+        ],
+        "definition": "Steiner’s account of one spiritual individuality living successive earthly lives in different bodily constitutions.",
+        "explanation": [
+          "The source argues that a spiritual individuality has a history of its own and carries the fruits of experience into further lives. It does not describe the same physical body returning.",
+          "Steiner presents this as a spiritual reality, not merely a symbol of personal renewal. Understanding his argument and accepting its conclusion remain distinct activities."
+        ],
+        "distinction": "Reincarnation concerns spiritual continuity; heredity concerns inherited bodily life, and karma concerns the connection between deeds and destiny."
+      },
+      "pt": {
+        "term": "Reencarnação",
+        "alsoCalled": [
+          "Vidas terrenas sucessivas"
+        ],
+        "definition": "A descrição de Steiner de uma individualidade espiritual vivendo sucessivas vidas terrenas em diferentes constituições corporais.",
+        "explanation": [
+          "A fonte argumenta que uma individualidade espiritual tem uma história própria e leva os frutos da experiência para outras vidas. Ela não descreve o retorno do mesmo corpo físico.",
+          "Steiner apresenta isso como uma realidade espiritual, e não apenas como um símbolo de renovação pessoal. Compreender seu argumento e aceitar sua conclusão continuam sendo atividades distintas."
+        ],
+        "distinction": "A reencarnação diz respeito à continuidade espiritual; a hereditariedade, à vida corporal herdada; e o carma, à ligação entre ações e destino."
+      }
+    },
+    {
+      "id": "karma",
+      "sources": [
+        {
+          "chapter": 2,
+          "captures": [
+            39,
+            41
+          ],
+          "readingIds": [
+            9
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "reincarnation",
+          "en": "Karma connects deeds and later circumstances across the earthly lives described by Steiner.",
+          "pt": "O carma liga ações e circunstâncias posteriores através das vidas terrenas descritas por Steiner."
+        },
+        {
+          "id": "willing",
+          "en": "Deeds bring willing into a world that is changed by them.",
+          "pt": "As ações levam o querer a um mundo que elas modificam."
+        },
+        {
+          "id": "fruits-of-experience",
+          "en": "Inward learning and outward consequences are two different effects of action.",
+          "pt": "Aprendizagem interior e consequências exteriores são dois efeitos diferentes da ação."
+        }
+      ],
+      "en": {
+        "term": "Karma",
+        "alsoCalled": [],
+        "definition": "The relation between a person’s deeds and the destiny later encountered, which Steiner extends across earthly lives.",
+        "explanation": [
+          "A deed changes the shared world as well as leaving a result within the actor. Steiner argues that the spiritual individuality remains related to the world its actions have helped shape, even through death and a new life.",
+          "He explicitly connects later joys, sorrows and wishes with earlier-life actions. This strong source claim exceeds the ordinary observation that actions have consequences and does not supply a method for diagnosing someone’s present hardship."
+        ],
+        "distinction": "Karma is not a synonym for reincarnation, an instant reward system or a justified verdict about another person’s suffering."
+      },
+      "pt": {
+        "term": "Carma",
+        "alsoCalled": [
+          "Karma"
+        ],
+        "definition": "A relação entre as ações de alguém e o destino encontrado depois, que Steiner estende através das vidas terrenas.",
+        "explanation": [
+          "Uma ação modifica o mundo compartilhado e também deixa um resultado em quem age. Steiner argumenta que a individualidade espiritual continua relacionada ao mundo que suas ações ajudaram a formar, mesmo através da morte e de uma nova vida.",
+          "Ele liga expressamente alegrias, sofrimentos e desejos posteriores a ações de vidas anteriores. Essa forte afirmação da fonte excede a observação cotidiana de que ações têm consequências e não fornece um método para diagnosticar a dificuldade atual de alguém."
+        ],
+        "distinction": "Carma não é sinônimo de reencarnação, um sistema de recompensa instantânea nem um julgamento justificado sobre o sofrimento de outra pessoa."
+      }
+    },
+    {
+      "id": "heredity",
+      "sources": [
+        {
+          "chapter": 2,
+          "captures": [
+            34,
+            36
+          ],
+          "readingIds": [
+            8
+          ]
+        },
+        {
+          "chapter": 2,
+          "captures": [
+            36,
+            38
+          ],
+          "readingIds": [
+            27
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "body",
+          "en": "Heredity links bodily constitution with preceding bodily life.",
+          "pt": "A hereditariedade liga a constituição corporal à vida corporal precedente."
+        },
+        {
+          "id": "individuality",
+          "en": "Steiner distinguishes an individual spiritual history from the history of a family.",
+          "pt": "Steiner distingue uma história espiritual individual da história de uma família."
+        },
+        {
+          "id": "reincarnation",
+          "en": "Each new earthly embodiment has an inherited constitution in the source’s account.",
+          "pt": "Cada nova encarnação terrena tem uma constituição herdada na descrição da fonte."
+        }
+      ],
+      "en": {
+        "term": "Heredity",
+        "alsoCalled": [
+          "Inheritance"
+        ],
+        "definition": "The continuity through which bodily traits and some personal tendencies pass from preceding generations, as distinguished from spiritual individuality in Chapter II.",
+        "explanation": [
+          "Steiner allows that features of disposition and feeling may be inherited along with bodily form. His argument about reincarnation does not require denying these family influences.",
+          "He argues instead that inherited traits do not account for the complete spiritual individuality or for all accumulated capacities. This is a distinction within his spiritual account, not a replacement for studying biological inheritance."
+        ],
+        "distinction": "Inherited personal tendencies are allowed in the source; the continuing individuality is not equated with the parent’s personality or biography."
+      },
+      "pt": {
+        "term": "Hereditariedade",
+        "alsoCalled": [
+          "Herança"
+        ],
+        "definition": "A continuidade pela qual traços corporais e algumas tendências pessoais vêm das gerações precedentes, distinguida da individualidade espiritual no Capítulo II.",
+        "explanation": [
+          "Steiner admite que aspectos da disposição e do sentir podem ser herdados junto com a forma corporal. Seu argumento sobre reencarnação não exige negar essas influências familiares.",
+          "Ele argumenta, antes, que os traços herdados não explicam toda a individualidade espiritual nem todas as capacidades acumuladas. Essa é uma distinção dentro de sua concepção espiritual, e não uma substituição do estudo da herança biológica."
+        ],
+        "distinction": "A fonte admite tendências pessoais herdadas; a individualidade que continua não se equipara à personalidade nem à biografia da mãe ou do pai."
+      }
+    },
+    {
+      "id": "spiritual-knowledge",
+      "sources": [
+        {
+          "chapter": 0,
+          "captures": [
+            10,
+            12
+          ],
+          "readingIds": [
+            0
+          ]
+        },
+        {
+          "chapter": 4,
+          "captures": [
+            82,
+            85
+          ],
+          "readingIds": [
+            18
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "thinking",
+          "en": "Communicated spiritual knowledge is approached through thoughtful understanding.",
+          "pt": "O conhecimento espiritual comunicado é abordado pela compreensão por meio do pensar."
+        },
+        {
+          "id": "receptive-attention",
+          "en": "Receptivity allows an account to be considered before its evaluation is settled.",
+          "pt": "A receptividade permite considerar uma descrição antes de concluir sua avaliação."
+        },
+        {
+          "id": "intuition",
+          "en": "Theosophy describes intuition as a form of spiritual revelation, rather than an unsupported guess.",
+          "pt": "Teosofia descreve a intuição como uma forma de revelação espiritual, e não um palpite sem fundamento."
+        },
+        {
+          "id": "initiation",
+          "en": "The source’s culminating participation differs from merely understanding a report.",
+          "pt": "A participação culminante descrita na fonte difere da simples compreensão de um relato."
+        }
+      ],
+      "en": {
+        "term": "Spiritual knowledge",
+        "alsoCalled": [],
+        "definition": "Knowledge of supersensible reality claimed by Steiner through developed investigation, distinguished from merely believing or understanding a report.",
+        "explanation": [
+          "Steiner maintains that a reader can understand communicated accounts before developing the faculties to investigate personally. He also claims that thoughtful understanding helps prepare those faculties.",
+          "The introduction distinguishes perceiving from being a competent investigator or teacher. In this course, explaining the claimed knowledge neither certifies spiritual perception nor asks for a declaration of belief."
+        ],
+        "distinction": "Understanding concerns meaning, assent concerns accepting a claim as true, and personal investigation concerns seeking knowledge of its subject."
+      },
+      "pt": {
+        "term": "Conhecimento espiritual",
+        "alsoCalled": [],
+        "definition": "O conhecimento da realidade suprassensível que Steiner afirma alcançar por uma investigação desenvolvida, distinto de apenas acreditar num relato ou compreendê-lo.",
+        "explanation": [
+          "Steiner sustenta que uma pessoa pode compreender descrições comunicadas antes de desenvolver as faculdades para investigar pessoalmente. Ele também afirma que a compreensão pelo pensar ajuda a preparar essas faculdades.",
+          "A introdução distingue perceber de ser competente para investigar ou ensinar. Neste curso, explicar o conhecimento afirmado não certifica percepção espiritual nem exige uma declaração de crença."
+        ],
+        "distinction": "Compreender diz respeito ao sentido; concordar, a aceitar uma afirmação como verdadeira; e investigar pessoalmente, a buscar conhecimento de seu assunto."
+      }
+    },
+    {
+      "id": "receptive-attention",
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            84,
+            85
+          ],
+          "readingIds": [
+            18
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "thinking",
+          "en": "Receiving a statement accurately precedes a considered judgment about it.",
+          "pt": "Receber uma afirmação com precisão antecede um julgamento ponderado sobre ela."
+        },
+        {
+          "id": "equanimity",
+          "en": "Steadiness helps immediate reactions leave room for attention.",
+          "pt": "A estabilidade ajuda as reações imediatas a deixar espaço para a atenção."
+        },
+        {
+          "id": "sympathy-antipathy",
+          "en": "Attraction and aversion can become premature verdicts about an encounter.",
+          "pt": "A atração e a aversão podem se tornar julgamentos prematuros sobre um encontro."
+        }
+      ],
+      "en": {
+        "term": "Receptive attention",
+        "alsoCalled": [],
+        "definition": "An openness that gives an encounter time to be understood before established labels or immediate reactions decide its meaning.",
+        "explanation": [
+          "Steiner asks the learner to make room for instruction even from a child or a person they dislike. A familiar verdict can otherwise block what a new encounter actually presents.",
+          "Receptive attention is the course’s name for this source-grounded attitude. It changes the timing of judgment; it need not remove the ability to question, disagree or set a limit."
+        ],
+        "distinction": "Receptivity differs from accepting every claim, idealizing a teacher or giving up personal judgment."
+      },
+      "pt": {
+        "term": "Atenção receptiva",
+        "alsoCalled": [],
+        "definition": "Uma abertura que dá tempo para compreender um encontro antes que rótulos estabelecidos ou reações imediatas decidam seu sentido.",
+        "explanation": [
+          "Steiner pede que a pessoa abra espaço para aprender até com uma criança ou com alguém de quem não gosta. Um julgamento habitual pode impedir que se perceba o que um novo encontro realmente apresenta.",
+          "Atenção receptiva é o nome usado pelo curso para essa atitude fundamentada na fonte. Ela modifica o momento do julgamento; não precisa eliminar a capacidade de questionar, discordar ou estabelecer um limite."
+        ],
+        "distinction": "Receptividade difere de aceitar toda afirmação, idealizar quem ensina ou abrir mão do próprio julgamento."
+      }
+    },
+    {
+      "id": "equanimity",
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            85,
+            86
+          ],
+          "readingIds": [
+            19
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "feeling",
+          "en": "Equanimity preserves feeling while steadying its relation to action.",
+          "pt": "A equanimidade preserva o sentir e estabiliza sua relação com a ação."
+        },
+        {
+          "id": "receptive-attention",
+          "en": "A steadier response allows fuller attention to the encounter.",
+          "pt": "Uma resposta mais estável permite uma atenção mais completa ao encontro."
+        },
+        {
+          "id": "willing",
+          "en": "A feeling need not determine the next deed immediately.",
+          "pt": "Um sentimento não precisa determinar imediatamente a próxima ação."
+        }
+      ],
+      "en": {
+        "term": "Equanimity",
+        "alsoCalled": [],
+        "definition": "Steadiness that allows pleasure, pain and other feelings to be experienced without immediately letting them command the response.",
+        "explanation": [
+          "In Chapter IV, Steiner seeks a refinement of sensitivity, not the destruction of sympathy and antipathy. The learner can receive the feeling and distinguish it from the action that follows.",
+          "He gives this education a spiritual purpose by claiming that developed feelings become perceptive organs. An everyday pause illustrates the distinction, without establishing that claimed higher capacity."
+        ],
+        "distinction": "Equanimity is not emotional numbness, indifference to suffering or a requirement to remain in an unwanted situation."
+      },
+      "pt": {
+        "term": "Equanimidade",
+        "alsoCalled": [],
+        "definition": "A estabilidade que permite vivenciar prazer, dor e outros sentimentos sem deixá-los comandar imediatamente a resposta.",
+        "explanation": [
+          "No Capítulo IV, Steiner procura refinar a sensibilidade, e não destruir simpatia e antipatia. A pessoa pode acolher o sentimento e distingui-lo da ação que vem depois.",
+          "Ele atribui a essa educação um propósito espiritual ao afirmar que sentimentos desenvolvidos se tornam órgãos perceptivos. Uma pausa cotidiana ilustra a distinção sem estabelecer essa capacidade superior afirmada."
+        ],
+        "distinction": "Equanimidade não é insensibilidade emocional, indiferença ao sofrimento nem uma exigência de permanecer em uma situação indesejada."
+      }
+    },
+    {
+      "id": "thinking",
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            82,
+            85
+          ],
+          "readingIds": [
+            18
+          ]
+        },
+        {
+          "chapter": 4,
+          "captures": [
+            87,
+            89
+          ],
+          "readingIds": [
+            20
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "spiritual-knowledge",
+          "en": "Steiner treats thoughtful understanding as preparation for spiritual investigation.",
+          "pt": "Steiner considera a compreensão pelo pensar uma preparação para a investigação espiritual."
+        },
+        {
+          "id": "willing",
+          "en": "Thinking examines the purpose and reasons that willing carries into action.",
+          "pt": "O pensar examina o propósito e as razões que o querer leva à ação."
+        },
+        {
+          "id": "feeling",
+          "en": "A satisfying feeling does not decide whether a conclusion follows.",
+          "pt": "Um sentimento de satisfação não decide se uma conclusão é coerente."
+        },
+        {
+          "id": "intuition",
+          "en": "The source recognizes elementary intuitive spiritual content even in thought.",
+          "pt": "A fonte reconhece conteúdo espiritual intuitivo elementar até mesmo no pensamento."
+        }
+      ],
+      "en": {
+        "term": "Thinking",
+        "alsoCalled": [],
+        "definition": "The activity of understanding meanings and following their relationships, which Steiner seeks to cultivate into an ordered capacity.",
+        "explanation": [
+          "Ordered thinking follows the content rather than a desired result. It asks whether a conclusion really arises from its reasons and can distinguish coherent thought from a pleasing succession of images.",
+          "Steiner further calls thinking a living force that prepares spiritual faculties. This developmental claim belongs to his account and exceeds the ordinary ability to reason through a practical problem."
+        ],
+        "distinction": "Thinking is not merely having thoughts, enjoying an inner picture or possessing information; order concerns how meanings and reasons relate."
+      },
+      "pt": {
+        "term": "Pensar",
+        "alsoCalled": [
+          "Pensamento"
+        ],
+        "definition": "A atividade de compreender sentidos e acompanhar suas relações, que Steiner procura cultivar como uma capacidade ordenada.",
+        "explanation": [
+          "O pensar ordenado acompanha o conteúdo, e não um resultado desejado. Ele pergunta se uma conclusão realmente decorre de suas razões e pode distinguir o pensamento coerente de uma sucessão agradável de imagens.",
+          "Steiner também chama o pensar de uma força viva que prepara faculdades espirituais. Essa afirmação sobre desenvolvimento pertence à sua descrição e excede a capacidade cotidiana de raciocinar sobre um problema prático."
+        ],
+        "distinction": "Pensar não é apenas ter pensamentos, apreciar uma imagem interior ou possuir informações; a ordem diz respeito à relação entre sentidos e razões."
+      }
+    },
+    {
+      "id": "feeling",
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            85,
+            86
+          ],
+          "readingIds": [
+            19
+          ]
+        },
+        {
+          "chapter": 4,
+          "captures": [
+            87,
+            89
+          ],
+          "readingIds": [
+            20
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "sympathy-antipathy",
+          "en": "Pleasure, aversion and attraction are qualities through which an encounter is personally received.",
+          "pt": "Prazer, aversão e atração são qualidades pelas quais um encontro é recebido pessoalmente."
+        },
+        {
+          "id": "equanimity",
+          "en": "Equanimity refines the response without erasing feeling.",
+          "pt": "A equanimidade refina a resposta sem apagar o sentir."
+        },
+        {
+          "id": "thinking",
+          "en": "Feeling accompanies understanding but is not the sole test of a claim.",
+          "pt": "O sentir acompanha a compreensão, mas não é o único critério para avaliar uma afirmação."
+        }
+      ],
+      "en": {
+        "term": "Feeling",
+        "alsoCalled": [],
+        "definition": "The inward experience of how an encounter affects us, including pleasure, pain, sympathy and antipathy.",
+        "explanation": [
+          "Chapter IV asks that feeling become more discerning rather than disappear. Immediate liking or dislike need not decide the value of a person’s statement or the action to take.",
+          "Steiner links developed feeling to organs of spiritual perception in the soul world. This is an asserted spiritual transformation, not a claim that every emotion is already a reliable perception of that world."
+        ],
+        "distinction": "A feeling is real as an experience but does not, by its intensity alone, establish the truth of its interpretation."
+      },
+      "pt": {
+        "term": "Sentir",
+        "alsoCalled": [
+          "Sentimento"
+        ],
+        "definition": "A vivência interior de como um encontro nos afeta, incluindo prazer, dor, simpatia e antipatia.",
+        "explanation": [
+          "O Capítulo IV pede que o sentir se torne mais capaz de discernir, em vez de desaparecer. Gostar ou não gostar imediatamente não precisa decidir o valor da afirmação de alguém nem a ação a realizar.",
+          "Steiner liga o sentir desenvolvido a órgãos de percepção espiritual no mundo anímico. Isso é uma transformação espiritual afirmada, e não a afirmação de que toda emoção já seja uma percepção confiável desse mundo."
+        ],
+        "distinction": "Um sentimento é real como experiência, mas sua intensidade, por si só, não estabelece a verdade de sua interpretação."
+      }
+    },
+    {
+      "id": "willing",
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            87,
+            89
+          ],
+          "readingIds": [
+            20
+          ]
+        },
+        {
+          "chapter": 2,
+          "captures": [
+            39,
+            41
+          ],
+          "readingIds": [
+            9
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "thinking",
+          "en": "Thinking clarifies the purpose that willing puts into action.",
+          "pt": "O pensar esclarece o propósito que o querer põe em ação."
+        },
+        {
+          "id": "freedom",
+          "en": "Freedom concerns how the person relates to the motive for willing.",
+          "pt": "A liberdade diz respeito à relação da pessoa com o motivo do querer."
+        },
+        {
+          "id": "karma",
+          "en": "A completed deed changes the world in which future action occurs.",
+          "pt": "Uma ação realizada modifica o mundo em que ações futuras ocorrem."
+        }
+      ],
+      "en": {
+        "term": "Willing",
+        "alsoCalled": [
+          "Will"
+        ],
+        "definition": "The activity of directing oneself toward doing and carrying a purpose into action.",
+        "explanation": [
+          "Steiner’s education of willing asks that an action be guided by a recognized good rather than only by personal gratification. Persistence serves that purpose, but it remains distinct from mere force of impulse.",
+          "Willing becomes a deed in the shared world. The resulting consequences and the fruits left within the actor connect its education with the account of destiny."
+        ],
+        "distinction": "Willing is not simply wishing for an outcome; educated willing also differs from stubbornness after a purpose or reason has failed."
+      },
+      "pt": {
+        "term": "Querer",
+        "alsoCalled": [
+          "Vontade"
+        ],
+        "definition": "A atividade de dirigir-se ao fazer e levar um propósito à ação.",
+        "explanation": [
+          "A educação do querer em Steiner pede que a ação seja orientada por um bem reconhecido, e não apenas pela satisfação pessoal. A persistência serve a esse propósito, mas continua distinta da mera força de um impulso.",
+          "O querer se torna uma ação no mundo compartilhado. As consequências produzidas e os frutos deixados em quem age ligam sua educação à descrição do destino."
+        ],
+        "distinction": "Querer não é simplesmente desejar um resultado; o querer educado também difere da teimosia depois que um propósito ou uma razão deixou de se sustentar."
+      }
+    },
+    {
+      "id": "freedom",
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            89,
+            92
+          ],
+          "readingIds": [
+            21
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "willing",
+          "en": "Freedom involves understanding and owning the motive that guides willing.",
+          "pt": "A liberdade envolve compreender e assumir o motivo que orienta o querer."
+        },
+        {
+          "id": "individuality",
+          "en": "The individual acts from an inward relation to the enduring true and good.",
+          "pt": "O indivíduo age a partir de uma relação interior com o verdadeiro e o bom duradouros."
+        },
+        {
+          "id": "initiation",
+          "en": "The source joins the ideal of free action with developed spiritual participation.",
+          "pt": "A fonte reúne o ideal da ação livre e a participação espiritual desenvolvida."
+        }
+      ],
+      "en": {
+        "term": "Freedom",
+        "alsoCalled": [],
+        "definition": "The ideal of acting from an inwardly understood relation to the enduring true and good, rather than being driven by shifting impressions, in Chapter IV.",
+        "explanation": [
+          "Steiner does not identify freedom with arbitrary choice or the strongest present desire. He places it in the person’s conscious relation to the spiritual order and the motive for action.",
+          "Examining an ordinary motive can help clarify this distinction. It does not establish that the person has attained the full ideal described in the source."
+        ],
+        "distinction": "Freedom here differs from unexamined impulse, unlimited external options or a course-certified level of spiritual development."
+      },
+      "pt": {
+        "term": "Liberdade",
+        "alsoCalled": [],
+        "definition": "O ideal de agir a partir de uma relação interiormente compreendida com o verdadeiro e o bom duradouros, em vez de ser conduzido por impressões mutáveis, no Capítulo IV.",
+        "explanation": [
+          "Steiner não identifica a liberdade com a escolha arbitrária nem com o desejo presente mais forte. Ele a situa na relação consciente da pessoa com a ordem espiritual e com o motivo da ação.",
+          "Examinar um motivo cotidiano pode ajudar a esclarecer essa distinção. Isso não estabelece que a pessoa tenha alcançado o ideal completo descrito na fonte."
+        ],
+        "distinction": "Liberdade aqui difere de impulso não examinado, de opções exteriores ilimitadas ou de um nível de desenvolvimento espiritual certificado pelo curso."
+      }
+    },
+    {
+      "id": "initiation",
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            91,
+            92
+          ],
+          "readingIds": [
+            21
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "spiritual-knowledge",
+          "en": "Initiation involves the conscious knowledge and participation claimed at the culmination of the path.",
+          "pt": "A iniciação envolve o conhecimento e a participação conscientes afirmados na culminação do caminho."
+        },
+        {
+          "id": "individuality",
+          "en": "The source’s spiritual whole retains the distinct contributions of individuals.",
+          "pt": "O todo espiritual da fonte conserva as contribuições distintas dos indivíduos."
+        },
+        {
+          "id": "freedom",
+          "en": "Steiner connects developed participation with inwardly understood action.",
+          "pt": "Steiner liga a participação desenvolvida à ação interiormente compreendida."
+        }
+      ],
+      "en": {
+        "term": "Initiation",
+        "alsoCalled": [],
+        "definition": "The condition Steiner describes in which a person consciously knows and participates in spiritual reality.",
+        "explanation": [
+          "At the close of Chapter IV, initiation is more than receiving a report: the person is described as a conscious participant acting within spiritual existence. Doubt and superstition are said to give way to knowledge.",
+          "The individuality is preserved, and the path is placed within a long perspective that may span incarnations. No course completion or brief exercise can certify this condition."
+        ],
+        "distinction": "Initiation is not merely agreement, an unusual inner experience, entry into an organization or completion of lessons."
+      },
+      "pt": {
+        "term": "Iniciação",
+        "alsoCalled": [],
+        "definition": "A condição descrita por Steiner em que uma pessoa conhece conscientemente a realidade espiritual e participa dela.",
+        "explanation": [
+          "No final do Capítulo IV, a iniciação vai além de receber um relato: a pessoa é descrita como participante consciente que age na existência espiritual. Afirma-se que dúvida e superstição dão lugar ao conhecimento.",
+          "A individualidade é preservada, e o caminho é situado em uma perspectiva longa, que pode atravessar encarnações. A conclusão de um curso ou um exercício breve não pode certificar essa condição."
+        ],
+        "distinction": "Iniciação não é apenas concordância, uma vivência interior incomum, entrada numa organização ou conclusão de lições."
+      }
+    },
+    {
+      "id": "intuition",
+      "sources": [
+        {
+          "chapter": 1,
+          "captures": [
+            26,
+            27
+          ],
+          "readingIds": [
+            24
+          ],
+          "noteIds": [
+            5
+          ]
+        }
+      ],
+      "related": [
+        {
+          "id": "spirit-self",
+          "en": "The spirit-self is the spiritual member through which intuitions are received in the source’s account.",
+          "pt": "O si-mesmo espiritual é o membro espiritual pelo qual as intuições são recebidas na descrição da fonte."
+        },
+        {
+          "id": "human-i",
+          "en": "Intuition is described as spiritual revelation within the I.",
+          "pt": "A intuição é descrita como revelação espiritual no Eu."
+        },
+        {
+          "id": "thinking",
+          "en": "Even elementary thought contains intuition in the usage of GA 9.",
+          "pt": "Até o pensamento elementar contém intuição no uso da GA 9."
+        },
+        {
+          "id": "spiritual-knowledge",
+          "en": "Developed intuitive cognition belongs to the account of spiritual investigation.",
+          "pt": "A cognição intuitiva desenvolvida pertence à descrição da investigação espiritual."
+        }
+      ],
+      "en": {
+        "term": "Intuition",
+        "alsoCalled": [],
+        "definition": "In Theosophy, GA 9, the revelation of spiritual content within the I, through the spirit-self, rather than a hunch or unsupported guess.",
+        "explanation": [
+          "Steiner contrasts sensation, through which the physical world is disclosed, with intuition, through which spiritual content is disclosed. He says that even a simple thought contains intuition in this sense. He treats the content as revealing a spiritual reality, not as inventing that reality.",
+          "Note 5 of the 1910 Notes and Amplifications explains that what is disclosed fully to supersensible knowledge through intuition is revealed in its lowest form to the spirit-self. Elementary participation in thought and developed spiritual cognition should therefore not be collapsed into a single claimed achievement."
+        ],
+        "distinction": "This GA 9 term does not mean a sudden feeling of certainty. It is also not interchangeable with the treatment of moral intuition in The Philosophy of Freedom, GA 4."
+      },
+      "pt": {
+        "term": "Intuição",
+        "alsoCalled": [],
+        "definition": "Em Teosofia, GA 9, a revelação de conteúdo espiritual no Eu, pelo si-mesmo espiritual, em vez de um pressentimento ou palpite sem fundamento.",
+        "explanation": [
+          "Steiner contrapõe a sensação, pela qual o mundo físico se revela, à intuição, pela qual o conteúdo espiritual se revela. Ele diz que até um pensamento simples contém intuição nesse sentido. Considera que o conteúdo revela uma realidade espiritual, em vez de inventá-la.",
+          "A nota 5 das Notas e ampliações de 1910 explica que aquilo que se revela plenamente ao conhecimento suprassensível pela intuição se manifesta, em sua forma mais baixa, ao si-mesmo espiritual. A participação elementar no pensamento e a cognição espiritual desenvolvida não devem, portanto, ser reduzidas a uma única conquista afirmada."
+        ],
+        "distinction": "Esse termo da GA 9 não significa uma sensação repentina de certeza. Também não é intercambiável com o tratamento da intuição moral em A filosofia da liberdade, GA 4."
+      }
+    }
+  ],
+  "practices": [
+    {
+      "id": "notice-memory-and-skill",
+      "category": "self-observation",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "memory-and-individuality"
+      ],
+      "conceptIds": [
+        "memory",
+        "fruits-of-experience",
+        "individuality"
+      ],
+      "sources": [
+        {
+          "chapter": 2,
+          "captures": [
+            33,
+            34
+          ],
+          "readingIds": [
+            7
+          ]
+        }
+      ],
+      "en": {
+        "title": "Notice a memory and a retained skill",
+        "purpose": "Distinguish a recollection of learning from the capacity that remains.",
+        "duration": "Optional course suggestion: two to five minutes, or simply notice the distinction during an ordinary activity.",
+        "steps": [
+          "Choose a familiar learned activity, such as reading a short sentence or tying a knot.",
+          "Notice what you can do now. Then recall, if a memory is available, one occasion when you were learning it.",
+          "Compare the present ability with the remembered scene. Notice what can remain even when details are missing.",
+          "You may reflect silently or make a private note; stop when the distinction is clear enough for you."
+        ],
+        "reflection": "Which part is a remembered event, and which part is a present capacity?",
+        "notes": [
+          "Remembering how a teacher showed you a knot gives you a scene from the past. Tying the knot now is a usable capacity: you can carry out the sequence even if the teacher’s words, the place and the first attempts have faded. The recalled event and the present skill answer different questions about what remains from learning.",
+          "This is the source’s distinction between memory and fruits of experience. The comparison concerns the transformation of an accessible learning history into capacity; it does not identify a former incarnation as the origin of a skill."
+        ],
+        "sourceBasis": "The course adapts Chapter II’s distinction between memories and the lasting fruits of learning. The chosen activity and brief timing are course arrangements, not a prescribed spiritual exercise."
+      },
+      "pt": {
+        "title": "Perceber uma lembrança e uma habilidade conservada",
+        "purpose": "Distinguir uma lembrança de aprender da capacidade que permanece.",
+        "duration": "Sugestão opcional do curso: dois a cinco minutos, ou apenas perceber a distinção durante uma atividade cotidiana.",
+        "steps": [
+          "Escolha uma atividade aprendida e familiar, como ler uma frase curta ou dar um nó.",
+          "Perceba o que consegue fazer agora. Depois, se houver uma lembrança disponível, recorde uma ocasião em que estava aprendendo.",
+          "Compare a capacidade presente com a cena lembrada. Perceba o que pode permanecer mesmo quando faltam detalhes.",
+          "Você pode refletir em silêncio ou fazer uma anotação privada; encerre quando a distinção estiver suficientemente clara para você."
+        ],
+        "reflection": "Qual parte é um acontecimento lembrado e qual é uma capacidade presente?",
+        "notes": [
+          "Lembrar como uma professora mostrou um nó oferece uma cena do passado. Dar o nó agora é uma capacidade utilizável: você consegue realizar a sequência mesmo que as palavras da professora, o lugar e as primeiras tentativas tenham se apagado. O acontecimento recordado e a habilidade presente respondem a perguntas diferentes sobre o que permanece da aprendizagem.",
+          "Essa é a distinção da fonte entre memória e frutos da experiência. A comparação diz respeito à transformação de uma história de aprendizagem acessível em capacidade; não identifica uma encarnação anterior como origem de uma habilidade."
+        ],
+        "sourceBasis": "O curso adapta a distinção do Capítulo II entre lembranças e frutos duradouros da aprendizagem. A atividade escolhida e o tempo breve são uma organização do curso, e não um exercício espiritual prescrito."
+      }
+    },
+    {
+      "id": "trace-an-actions-effects",
+      "category": "biography",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "karma-and-action"
+      ],
+      "conceptIds": [
+        "karma",
+        "willing",
+        "fruits-of-experience"
+      ],
+      "sources": [
+        {
+          "chapter": 2,
+          "captures": [
+            39,
+            41
+          ],
+          "readingIds": [
+            9
+          ]
+        }
+      ],
+      "en": {
+        "title": "Trace an action’s visible effects",
+        "purpose": "Separate what an ordinary action changes inwardly from what it changes in a shared situation.",
+        "duration": "Optional course suggestion: about five minutes, with a later revisit only if useful.",
+        "steps": [
+          "Choose one small action from today or yesterday, such as keeping a promise, lending an object or leaving a task unfinished.",
+          "Identify one visible change in the shared situation. Separate what you know from what you are only guessing about others.",
+          "Notice any learning, habit or change of readiness within you. Keep this distinct from the outward effect.",
+          "Ask whether a helpful next action is available. Reflect silently or keep a private note if you wish."
+        ],
+        "reflection": "What remains of the action outside you, and what remains as a change within you?",
+        "notes": [
+          "If you repair a shared shelf, the outward effect is a shelf others can use more reliably. The inward fruit may be a practical skill, greater care in planning or a better sense of when to ask for help. The usable shelf belongs to the changed shared situation; the acquired capacity belongs to what the action has changed in you.",
+          "A later problem with the repair calls for examining the actual cause and deciding whether to fix it. That response continues the visible history of the deed. Steiner extends the relation of deeds and destiny across lives, but this comparison stays with the inward and outward effects you can distinguish in the present case."
+        ],
+        "sourceBasis": "Chapter II distinguishes inward fruits from deeds that continue to affect the world. This course comparison uses accessible effects within one life to clarify the distinction, rather than verify the source’s extension across incarnations."
+      },
+      "pt": {
+        "title": "Acompanhar os efeitos visíveis de uma ação",
+        "purpose": "Separar o que uma ação cotidiana modifica interiormente do que modifica numa situação compartilhada.",
+        "duration": "Sugestão opcional do curso: cerca de cinco minutos, com uma retomada posterior apenas se for útil.",
+        "steps": [
+          "Escolha uma pequena ação de hoje ou de ontem, como cumprir uma promessa, emprestar um objeto ou deixar uma tarefa inacabada.",
+          "Identifique uma mudança visível na situação compartilhada. Separe o que você sabe daquilo que apenas imagina sobre outras pessoas.",
+          "Perceba alguma aprendizagem, hábito ou mudança de disposição em você. Mantenha isso distinto do efeito exterior.",
+          "Pergunte se há uma próxima ação útil disponível. Reflita em silêncio ou faça uma anotação privada, se quiser."
+        ],
+        "reflection": "O que permanece da ação fora de você e o que permanece como mudança em você?",
+        "notes": [
+          "Se você conserta uma prateleira compartilhada, o efeito exterior é uma prateleira que outras pessoas podem usar com mais confiança. O fruto interior pode ser uma habilidade prática, maior cuidado no planejamento ou uma percepção melhor de quando pedir ajuda. A prateleira utilizável pertence à situação compartilhada que mudou; a capacidade adquirida pertence ao que a ação modificou em você.",
+          "Um problema posterior no conserto pede examinar sua causa efetiva e decidir se é preciso corrigi-lo. Essa resposta continua a história visível da ação. Steiner estende a relação entre ações e destino através das vidas, mas esta comparação permanece nos efeitos interiores e exteriores que você consegue distinguir no caso presente."
+        ],
+        "sourceBasis": "O Capítulo II distingue os frutos interiores das ações que continuam a afetar o mundo. Esta comparação do curso usa efeitos acessíveis dentro de uma vida para esclarecer a distinção, em vez de verificar a extensão através de encarnações afirmada pela fonte."
+      }
+    },
+    {
+      "id": "understand-before-agreeing",
+      "category": "thinking",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "understanding-and-knowledge"
+      ],
+      "conceptIds": [
+        "spiritual-knowledge",
+        "thinking",
+        "receptive-attention"
+      ],
+      "sources": [
+        {
+          "chapter": 0,
+          "captures": [
+            10,
+            12
+          ],
+          "readingIds": [
+            0
+          ]
+        },
+        {
+          "chapter": 4,
+          "captures": [
+            82,
+            83
+          ],
+          "readingIds": [
+            18
+          ]
+        }
+      ],
+      "en": {
+        "title": "Understand before agreeing",
+        "purpose": "Distinguish explaining a claim, judging it and personally investigating its subject.",
+        "duration": "Optional course suggestion: three to five minutes with one claim; no fixed schedule is required.",
+        "steps": [
+          "Choose one claim from the lesson that interests you or leaves a question.",
+          "Restate what it means without adding your agreement or disagreement to the explanation.",
+          "Separately consider your current judgment: acceptance, doubt or an open question may all be described honestly.",
+          "Identify what you have personally investigated and what you know only through a report. Keep the reflection private unless you choose to share it."
+        ],
+        "reflection": "Can you explain the claim fairly while keeping your judgment and the limits of your investigation distinct?",
+        "notes": [
+          "To explain the claim that a spiritual report can be understood before personal perception is to describe two different activities: following the meanings and reasons in an account, and investigating the reality it describes. Your judgment concerns whether the claim is credible and why. Understanding its proposed relation does not settle either your judgment or what you have investigated.",
+          "For example, you might follow Steiner’s claim that thoughtful study prepares spiritual faculties and explain what role he gives thinking. You may also notice that careful thinking improves your ordinary understanding. Those observations differ from personally investigating the claimed supersensible faculties. A fair comparison states all three parts: the meaning understood, the judgment currently reached and the inquiry actually undertaken."
+        ],
+        "sourceBasis": "The introduction distinguishes communicated knowledge from discovering it, and Chapter IV emphasizes thoughtful understanding rather than blind acceptance. The three-part comparison and duration are this course’s adaptation."
+      },
+      "pt": {
+        "title": "Compreender antes de concordar",
+        "purpose": "Distinguir a explicação de uma afirmação, seu julgamento e a investigação pessoal do assunto.",
+        "duration": "Sugestão opcional do curso: três a cinco minutos com uma afirmação; não é necessário um programa fixo.",
+        "steps": [
+          "Escolha uma afirmação da lição que desperte interesse ou deixe uma pergunta.",
+          "Reformule seu sentido sem acrescentar concordância ou discordância à explicação.",
+          "Considere separadamente seu julgamento atual: aceitação, dúvida ou uma pergunta em aberto podem ser descritas com honestidade.",
+          "Identifique o que investigou pessoalmente e o que conhece apenas por um relato. Mantenha a reflexão privada, a menos que escolha compartilhá-la."
+        ],
+        "reflection": "Você consegue explicar a afirmação de maneira justa e manter distintos seu julgamento e os limites de sua investigação?",
+        "notes": [
+          "Explicar a afirmação de que um relato espiritual pode ser compreendido antes da percepção pessoal é descrever duas atividades diferentes: acompanhar os sentidos e as razões de uma descrição e investigar a realidade que ela descreve. Seu julgamento envolve avaliar se a afirmação é plausível e por quê. Compreender a relação proposta não resolve seu julgamento nem estabelece o que você investigou.",
+          "Por exemplo, você pode acompanhar a afirmação de Steiner de que o estudo pelo pensar prepara faculdades espirituais e explicar a função que ele atribui ao pensar. Também pode perceber que pensar com cuidado melhora sua compreensão cotidiana. Essas observações diferem de investigar pessoalmente as faculdades suprassensíveis afirmadas. Uma comparação justa indica as três partes: o sentido compreendido, o julgamento atual e a investigação efetivamente realizada."
+        ],
+        "sourceBasis": "A introdução distingue o conhecimento comunicado de sua descoberta, e o Capítulo IV enfatiza a compreensão pelo pensar em vez da aceitação cega. A comparação em três partes e a duração são uma adaptação deste curso."
+      }
+    },
+    {
+      "id": "pause-and-attend",
+      "category": "equanimity",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "receptivity-and-equanimity"
+      ],
+      "conceptIds": [
+        "receptive-attention",
+        "equanimity",
+        "feeling",
+        "thinking"
+      ],
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            84,
+            85
+          ],
+          "readingIds": [
+            18
+          ]
+        },
+        {
+          "chapter": 4,
+          "captures": [
+            85,
+            86
+          ],
+          "readingIds": [
+            19
+          ]
+        }
+      ],
+      "en": {
+        "title": "Pause and attend",
+        "purpose": "Notice an immediate reaction without confusing it with the content encountered or the response chosen.",
+        "duration": "Optional course suggestion: one brief pause in an ordinary conversation, followed by two or three minutes of reflection if useful.",
+        "steps": [
+          "Choose a small, ordinary encounter in which a mild liking, dislike or impatience appears.",
+          "Notice the reaction and let it be present without needing to erase it. Give the actual words or situation a little more attention.",
+          "Separate three things: what you observed, what you felt and what judgment or response you consider appropriate.",
+          "Choose your response. A question, agreement, disagreement or ending the exchange can each follow considered attention."
+        ],
+        "reflection": "Did the pause change what you noticed, even if your final judgment stayed the same?",
+        "notes": [
+          "Suppose a person says they cannot finish a shared task today. You first feel annoyed and begin to label them unreliable. After a pause, you notice the actual words: they named a delay and gave a reason, rather than refusing all responsibility. The feeling remains yours to experience; the description of what they said can become more exact.",
+          "Your chosen response might be to ask what is still possible today and agree on a revised plan, or to explain why the delay creates a real difficulty. Receptive attention concerns hearing the encounter accurately. Equanimity concerns leaving room for that response while the annoyance is still present. Neither requires pretending that the difficulty or the feeling has disappeared."
+        ],
+        "sourceBasis": "The source asks for openness to an encounter and explicitly preserves sympathy and antipathy while educating feeling. The mild everyday setting, sequence and brief timing are course adaptations of those distinctions."
+      },
+      "pt": {
+        "title": "Fazer uma pausa e prestar atenção",
+        "purpose": "Perceber uma reação imediata sem confundi-la com o conteúdo encontrado nem com a resposta escolhida.",
+        "duration": "Sugestão opcional do curso: uma pausa breve numa conversa cotidiana, seguida de dois ou três minutos de reflexão, se for útil.",
+        "steps": [
+          "Escolha um pequeno encontro cotidiano em que surja um agrado, desagrado ou impaciência leve.",
+          "Perceba a reação e permita que esteja presente sem precisar apagá-la. Dê um pouco mais de atenção às palavras efetivas ou à situação.",
+          "Separe três coisas: o que observou, o que sentiu e qual julgamento ou resposta considera apropriado.",
+          "Escolha sua resposta. Perguntar, concordar, discordar ou encerrar a conversa podem decorrer de uma atenção ponderada."
+        ],
+        "reflection": "A pausa modificou o que você percebeu, mesmo que seu julgamento final tenha permanecido igual?",
+        "notes": [
+          "Suponha que uma pessoa diga que não consegue terminar uma tarefa compartilhada hoje. Primeiro você sente irritação e começa a rotulá-la como pouco confiável. Depois de uma pausa, percebe as palavras efetivas: ela informou um atraso e apresentou uma razão, em vez de recusar toda responsabilidade. O sentimento continua sendo algo que você vivencia; a descrição do que ela disse pode se tornar mais precisa.",
+          "Sua resposta escolhida pode ser perguntar o que ainda é possível hoje e combinar um plano revisto, ou explicar por que o atraso cria uma dificuldade real. A atenção receptiva diz respeito a ouvir o encontro com precisão. A equanimidade diz respeito a deixar espaço para essa resposta enquanto a irritação ainda está presente. Nenhuma exige fingir que a dificuldade ou o sentimento desapareceu."
+        ],
+        "sourceBasis": "A fonte pede abertura para um encontro e preserva expressamente simpatia e antipatia ao educar o sentir. O contexto cotidiano leve, a sequência e o tempo breve são adaptações dessas distinções feitas pelo curso."
+      }
+    },
+    {
+      "id": "follow-reasons-into-action",
+      "category": "thinking",
+      "sourceType": "course-adaptation",
+      "lessonIds": [
+        "thinking-and-willing"
+      ],
+      "conceptIds": [
+        "thinking",
+        "willing",
+        "feeling",
+        "freedom"
+      ],
+      "sources": [
+        {
+          "chapter": 4,
+          "captures": [
+            87,
+            89
+          ],
+          "readingIds": [
+            20
+          ]
+        }
+      ],
+      "en": {
+        "title": "Follow reasons into action",
+        "purpose": "Connect a small purpose with its reasons, practical steps and room for correction.",
+        "duration": "Optional course suggestion: three minutes to consider a small action and a brief review afterward.",
+        "steps": [
+          "Choose a manageable action, such as organizing a shared space or returning something borrowed.",
+          "State why it is worth doing. Distinguish that reason from the praise or satisfaction you might receive.",
+          "Check whether the proposed steps actually serve the purpose, and notice any missing information.",
+          "If you choose to act, review what happened. Keep, adjust or abandon the plan according to its reasons and the situation."
+        ],
+        "reflection": "What guided the action: its recognized purpose, a passing preference, or a mixture you can now distinguish?",
+        "notes": [
+          "Organizing a shared table can serve the recognized purpose of making it usable for everyone. Wanting praise for being helpful is a personal preference that may accompany the action. The two are not identical: the purpose can remain worthwhile even if no one notices, while praise alone does not establish that your chosen arrangement is useful.",
+          "If someone explains that they need materials you planned to put away, a revised arrangement may serve the purpose better. Thinking examines the reason and changes the sequence; willing carries the revised plan into action. Persistence then means remaining faithful to the purpose, rather than protecting the first plan simply because it was yours."
+        ],
+        "sourceBasis": "Chapter IV links coherent thinking with willing guided by a recognized good instead of private reward alone. This ordinary planning and review activity is a course adaptation, not the complete discipline of spiritual investigation."
+      },
+      "pt": {
+        "title": "Levar razões à ação",
+        "purpose": "Ligar um pequeno propósito às suas razões, aos passos práticos e à possibilidade de correção.",
+        "duration": "Sugestão opcional do curso: três minutos para considerar uma pequena ação e uma revisão breve depois.",
+        "steps": [
+          "Escolha uma ação viável, como organizar um espaço compartilhado ou devolver algo emprestado.",
+          "Diga por que vale a pena realizá-la. Distinga essa razão do elogio ou da satisfação que pode receber.",
+          "Verifique se os passos propostos realmente servem ao propósito e perceba se falta alguma informação.",
+          "Se escolher agir, examine o que aconteceu. Mantenha, ajuste ou abandone o plano conforme suas razões e a situação."
+        ],
+        "reflection": "O que orientou a ação: seu propósito reconhecido, uma preferência passageira ou uma combinação que agora você pode distinguir?",
+        "notes": [
+          "Organizar uma mesa compartilhada pode servir ao propósito reconhecido de torná-la utilizável para todos. Querer elogio por ajudar é uma preferência pessoal que pode acompanhar a ação. Os dois não são idênticos: o propósito pode continuar valendo a pena mesmo que ninguém perceba, enquanto o elogio, sozinho, não estabelece que a organização escolhida seja útil.",
+          "Se alguém explica que precisa de materiais que você pretendia guardar, uma organização revista pode servir melhor ao propósito. O pensar examina a razão e muda a sequência; o querer leva o plano revisto à ação. Persistir significa, então, manter-se fiel ao propósito, em vez de proteger o primeiro plano simplesmente porque foi seu."
+        ],
+        "sourceBasis": "O Capítulo IV liga o pensar coerente ao querer orientado por um bem reconhecido, em vez de apenas pela recompensa pessoal. Esta atividade cotidiana de planejamento e revisão é uma adaptação do curso, e não a disciplina completa da investigação espiritual."
+      }
+    }
+  ]
+}

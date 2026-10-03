@@ -4,6 +4,8 @@ import assert from 'node:assert/strict';
 import {esc,n,wholeElement} from './learning-html.mjs';
 import {isPracticalThinkingOwned,coreRouteIds,optionalRouteIds,partSlugs} from './practical-thinking-owned.mjs';
 import {temperamentComparativeChecks} from '../content/temperament-comparison-practice.mjs';
+import {platformNav,platformSupportNav,platformArea,platformSite} from './platform-architecture.mjs';
+import {isConceptPlatformOwned} from './concept-platform-owned.mjs';
 const json=name=>JSON.parse(fs.readFileSync('content/'+name,'utf8'));
 const catalogue=json('learning-system-catalogue.json'),sources=json('learning-system-sources.json'),passages=json('passage-study.json');
 const biodynamics=json('what-is-biodynamics.json'),biodynamicsPassages=json('what-is-biodynamics-passages.json');
@@ -51,10 +53,22 @@ let chapterPairs=0,readings=0;
 for(const lang of ['en','pt']) {
  const base=lang==='pt'?'docs/pt':'docs';
  const home=fs.readFileSync(base+'/index.html','utf8');
- assert.ok(home.includes('class="learning-hero"')&&home.includes('href="learn/lessons/01.html"'));
- assert.ok(home.indexOf('href="learn/lessons/01.html"')<home.indexOf('id="courses"'));
- const index=fs.readFileSync(base+'/learn/index.html','utf8');
+ assert.equal((home.match(/<h1\b[^>]*>/g)||[]).length,1,'One platform identity');
+ assert.ok(home.includes('<h1>'+(lang==='pt'?'Aprenda antroposofia':'Learn Anthroposophy')+'</h1>'),'Homepage identity');
+ const entryPaths=wholeElement(home,'<section id="path"');
+ assert.ok(entryPaths,base+' homepage entry paths');
+ for(const route of ['learn/foundations/index.html','learn/index.html','concepts/index.html'])assert.equal((entryPaths.match(new RegExp('href="'+route.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'"','g'))||[]).length,1,base+' homepage entry '+route);
+ assert.equal((entryPaths.match(/<a\b/g)||[]).length,3,base+' three distinct homepage entry paths');
+ assert.ok(home.indexOf('id="path"')<home.indexOf('id="courses"'),base+' entry paths precede deeper courses');
+ const hub=fs.readFileSync(base+'/learn/index.html','utf8');
+ const hubMain=wholeElement(hub,'<main');
+ for(const collection of platformSite.collections)assert.ok(hubMain.includes('href="'+path.relative(path.dirname(base+'/learn/index.html'),base+'/'+collection.route).replaceAll('\\','/')+'"'),base+' Learn hub lost '+collection.id);
+ const index=fs.readFileSync(base+'/learn/foundations/index.html','utf8');
  assert.equal((index.match(/data-learning-progress=/g)||[]).length,36);
+ for(const id of platformSite.foundations.partAnchors){
+  assert.ok(index.includes('id="'+id+'"'),base+' Foundations part '+id);
+  assert.ok(hubMain.includes('id="'+id+'"')&&hubMain.includes('href="foundations/index.html#'+id+'"'),base+' retained part anchor '+id);
+ }
  for(const lesson of lessons) {
   const v=lesson[lang],plan=sources.find(s=>s.id===lesson.id),file=base+'/learn/lessons/'+n(lesson.id)+'.html',h=fs.readFileSync(file,'utf8');
   const sourceText=h.replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');
@@ -72,6 +86,9 @@ for(const lang of ['en','pt']) {
   assert.ok(h.indexOf('class="learning-meaning"')<h.indexOf('class="learning-example"'));
   assert.ok(h.indexOf('class="learning-example"')<h.indexOf('class="learning-checks"'));
   assert.ok(h.includes('data-learning-id="'+n(lesson.id)+'"')&&!h.includes('data-study-id='));
+  const learningMain=wholeElement(h,'<main');
+  assert.ok(learningMain.includes('href="../foundations/index.html#part-'+plan.part+'"'),file+' Foundations part return');
+  assert.ok(!/href="\.\.\/index\.html(?:#part-[1-8])?"/.test(learningMain),file+' stale beginner contents return');
   assert.equal((h.match(/class="learning-quiz"/g)||[]).length,2);assert.ok(h.includes('class="learning-reflection"'));
   if(Number.isInteger(plan.existingSource?.recordIndex)) {
    const collection=passageCollections[plan.existingSource.recordCollection||'passage-study'];
@@ -85,7 +102,7 @@ for(const lang of ['en','pt']) {
   if(lesson.id<36)assert.ok(h.includes('href="'+n(lesson.id+1)+'.html"'));
  }
  for(const course of catalogue.courses) {
-  const courseFile=base+'/'+course.route+'/index.html',h=fs.readFileSync(courseFile,'utf8');
+  const courseFile=base+'/'+(course.route==='theosophy'?'read/theosophy':course.route)+'/index.html',h=fs.readFileSync(courseFile,'utf8');
   if(course.route==='practical-thinking'){
    assert.ok(isPracticalThinkingOwned(courseFile.slice(5),h),courseFile+' missing exact Practical ownership');
    assert.deepEqual(course.parts.map(p=>p.id),partSlugs,'Four Practical teaching parts');
@@ -176,11 +193,14 @@ for(const l of sourceCourse.lessons) {
 }
 for(const file of fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('.html'))) {
  const h=fs.readFileSync(path.join('docs',file),'utf8');
+ const route=file.split(path.sep).join('/'),lang=route.startsWith('pt/')?'pt':'en',logicalFile='docs/'+route;
  assert.equal((h.match(/class="system-nav"/g)||[]).length,1,file+' navigation count');
- assert.ok(h.includes('learning-system.css')&&h.includes('learning-system.js'),file+' shared assets');
- const local=file.replace(/^pt\//,'');
- if(local.startsWith('lessons/')||catalogue.courses.some(c=>local.startsWith(c.route+'/')))assert.ok(wholeElement(h,'<nav class="system-nav"').includes('aria-current="true" href="'+path.relative(path.dirname(path.join('docs',file)),path.join(file.startsWith('pt/')?'docs/pt':'docs','books/index.html')).replaceAll('\\','/')+'"'),file+' book layer is not current');
+ assert.equal(wholeElement(h,'<nav class="system-nav"'),platformNav(logicalFile,lang,platformArea(route,h)),file+' primary navigation/area contract');
+ assert.equal((h.match(/data-platform-support(?:\s|=|>)/g)||[]).length,1,file+' supporting navigation count');
+ assert.equal(wholeElement(h,'<nav class="platform-support-nav"'),platformSupportNav(logicalFile,lang),file+' supporting navigation contract');
+ assert.ok(h.includes('learning-system.css')&&h.includes('learning-system.js')&&h.includes('concept-platform.css'),file+' shared assets');
+ if(h.includes('data-concept-platform-owned="true"'))assert.ok(isConceptPlatformOwned(route,h),file+' conceptual page outside exact authored manifest');
  // Authored archive bodies and the search index retain historical wording; it must not become a live grading instruction.
  if(!file.startsWith('research/notes/'))assert.ok(!/0–2 points|0 a 2 pontos|receive full marks|receber a pontuação máxima/.test(h.replace(/<[^>]*>/g,' ')),file+' numerical grades');
 }
-console.log(`Passed: 36 bilingual beginner lessons, attributed source/section teaching, unscored mixed checks, ${catalogue.courses.length} book structures, ${chapterPairs/2} paired chapter landings, ${readings/2} bilingual readings (185 retained pairs), separate reviewed source collections and four-level navigation.`);
+console.log(`Passed: 36 retained bilingual Foundations lessons, attributed source/section teaching, unscored mixed checks, ${catalogue.courses.length} preserved source structures, ${chapterPairs/2} paired chapter landings, ${readings/2} bilingual readings (185 retained pairs), all ${platformSite.collections.length} collections discoverable, three homepage entries and exact four-area navigation.`);
