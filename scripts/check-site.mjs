@@ -364,6 +364,11 @@ for(const prefix of ['', 'pt/']){
 // Derive an exact route inventory from the publication data. Shared English research
 // notes are published once; Portuguese indexes link those same documents.
 const expectedRoutes=new Set();
+// The teacher unit is English material with a clearly labelled Portuguese entry.
+const nutritionUnit=JSON.parse(fs.readFileSync('content/nutrition-lesson-plans.json','utf8'));
+const nutritionLessons=nutritionUnit.blocks.filter(block=>/^## Lesson \d /.test(block));
+if(nutritionLessons.length!==6)errors.push('Expected six nutrition teacher lessons');
+for(const route of ['nutrition/index.html','nutrition/print.html','pt/nutrition/index.html',...nutritionLessons.map((_,i)=>'nutrition/'+String(i+1).padStart(2,'0')+'.html')])expectedRoutes.add(route);
 for(const route of platformRoutes)expectedRoutes.add(route);
 for(const prefix of ['', 'pt/']){
  expectedRoutes.add(prefix+'read/theosophy/index.html');

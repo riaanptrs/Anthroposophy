@@ -106,5 +106,7 @@ if (fs.existsSync(biodynamicMetadataFile)) {
  if (biodynamicMetadata.status === 'ready') await import('./build-biodynamic-agriculture.mjs');
 }
 // The prototype owns the teaching routes and applies global navigation last.
+await import('./build-nutrition.mjs');
+fs.copyFileSync(new URL('./assets/nutrition.css', import.meta.url), 'docs/nutrition.css');
 const {buildConceptPlatform} = await import('./build-concept-platform.mjs');
 buildConceptPlatform({model:conceptualCourse});

@@ -1,0 +1,19 @@
+.nutrition-unit { max-width: 76rem; margin-inline: auto; }
+.nutrition-unit > p, .nutrition-unit > ol, .nutrition-unit > ul { max-width: 72ch; }
+.nutrition-unit h2 { margin-block-start: 2.4rem; }
+.nutrition-unit h3 { margin-block-start: 1.6rem; }
+.nutrition-unit li { margin-block: .6rem; }
+.nutrition-resources { display: flex; flex-wrap: wrap; gap: 1rem; margin-block: 1.5rem; }
+.nutrition-table { overflow-x: auto; margin-block: 1.5rem; }
+.nutrition-table table { width: 100%; border-collapse: collapse; }
+.nutrition-table th, .nutrition-table td { padding: .7rem; border: 1px solid #d4cec1; text-align: left; vertical-align: top; }
+.nutrition-table th { background: #eee9df; }
+.nutrition-sequence li p { margin-block: .25rem; }
+@media print {
+  body > header, body > footer, .skip, .nutrition-screen-only, .nutrition-resources, .lesson-navigation { display: none !important; }
+  .nutrition-unit { padding: 0 !important; max-width: none; }
+  .nutrition-unit h2 { break-after: avoid; }
+  .nutrition-table { overflow: visible; }
+  .nutrition-table tr { break-inside: avoid; }
+  body { background: white !important; color: black !important; }
+}
