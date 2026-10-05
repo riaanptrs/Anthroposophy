@@ -1,0 +1,4911 @@
+{
+  "status": "published-ocr-edition-pdf-audit-pending",
+  "source": {
+    "ocrName": "Foodwise.md",
+    "ocrSHA256": "7241ac0e6592ad14a00ae1e059a407fde55d3f80e260e66a357e8e9f47c7e67c",
+    "ocrPageMarkers": 272,
+    "pdfName": "Foodwise.pdf",
+    "pdfFileID": "file_0000000021f0820ebedf97e504299f18",
+    "pdfDownloaded": false,
+    "pdfTransferFailure": "File exceeds the executor transfer limit of 32 MiB",
+    "metadataVisualVerification": false
+  },
+  "pages": [
+    {
+      "pdfPage": 1,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 238,
+      "kindleCountersFromUnverifiedOCR": [],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 2,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1107,
+      "kindleCountersFromUnverifiedOCR": [
+        1
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 3,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 192,
+      "kindleCountersFromUnverifiedOCR": [
+        2
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 4,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 311,
+      "kindleCountersFromUnverifiedOCR": [
+        3
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 5,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1136,
+      "kindleCountersFromUnverifiedOCR": [
+        4
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 6,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 236,
+      "kindleCountersFromUnverifiedOCR": [
+        5
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 7,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1017,
+      "kindleCountersFromUnverifiedOCR": [
+        6
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 8,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2219,
+      "kindleCountersFromUnverifiedOCR": [
+        8
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 9,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 928,
+      "kindleCountersFromUnverifiedOCR": [
+        9
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 10,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2894,
+      "kindleCountersFromUnverifiedOCR": [
+        11
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 11,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 672,
+      "kindleCountersFromUnverifiedOCR": [
+        12
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 12,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 195,
+      "kindleCountersFromUnverifiedOCR": [
+        13
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 13,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2231,
+      "kindleCountersFromUnverifiedOCR": [
+        14
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 14,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2279,
+      "kindleCountersFromUnverifiedOCR": [
+        16
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 15,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1063,
+      "kindleCountersFromUnverifiedOCR": [
+        17
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 16,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2916,
+      "kindleCountersFromUnverifiedOCR": [
+        19
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 17,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3228,
+      "kindleCountersFromUnverifiedOCR": [
+        20
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 18,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2746,
+      "kindleCountersFromUnverifiedOCR": [
+        22
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 19,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3212,
+      "kindleCountersFromUnverifiedOCR": [
+        24
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 20,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3251,
+      "kindleCountersFromUnverifiedOCR": [
+        26
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 21,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2703,
+      "kindleCountersFromUnverifiedOCR": [
+        27
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 22,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2434,
+      "kindleCountersFromUnverifiedOCR": [
+        29
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 23,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 804,
+      "kindleCountersFromUnverifiedOCR": [
+        30
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 24,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 205,
+      "kindleCountersFromUnverifiedOCR": [
+        32
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 25,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2566,
+      "kindleCountersFromUnverifiedOCR": [
+        33
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 26,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2950,
+      "kindleCountersFromUnverifiedOCR": [
+        34
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 27,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2714,
+      "kindleCountersFromUnverifiedOCR": [
+        36
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 28,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1738,
+      "kindleCountersFromUnverifiedOCR": [
+        37
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 29,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2955,
+      "kindleCountersFromUnverifiedOCR": [
+        39
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 30,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3225,
+      "kindleCountersFromUnverifiedOCR": [
+        41
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 31,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3195,
+      "kindleCountersFromUnverifiedOCR": [
+        42
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 32,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2239,
+      "kindleCountersFromUnverifiedOCR": [
+        44
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 33,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3205,
+      "kindleCountersFromUnverifiedOCR": [
+        46
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 34,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2610,
+      "kindleCountersFromUnverifiedOCR": [
+        48
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 35,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3111,
+      "kindleCountersFromUnverifiedOCR": [
+        50
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 36,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2976,
+      "kindleCountersFromUnverifiedOCR": [
+        51
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 37,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3149,
+      "kindleCountersFromUnverifiedOCR": [
+        53
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 38,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1788,
+      "kindleCountersFromUnverifiedOCR": [
+        54
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 39,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2938,
+      "kindleCountersFromUnverifiedOCR": [
+        57
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 40,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3072,
+      "kindleCountersFromUnverifiedOCR": [
+        59
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 41,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2043,
+      "kindleCountersFromUnverifiedOCR": [
+        60
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 42,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2267,
+      "kindleCountersFromUnverifiedOCR": [
+        63
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 43,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2998,
+      "kindleCountersFromUnverifiedOCR": [
+        64
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 44,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3190,
+      "kindleCountersFromUnverifiedOCR": [
+        66
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 45,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3034,
+      "kindleCountersFromUnverifiedOCR": [
+        68
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 46,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2387,
+      "kindleCountersFromUnverifiedOCR": [
+        69
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 47,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3205,
+      "kindleCountersFromUnverifiedOCR": [
+        72
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 48,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2939,
+      "kindleCountersFromUnverifiedOCR": [
+        73
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 49,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2941,
+      "kindleCountersFromUnverifiedOCR": [
+        75
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 50,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3143,
+      "kindleCountersFromUnverifiedOCR": [
+        76
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 51,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3222,
+      "kindleCountersFromUnverifiedOCR": [
+        78
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 52,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3193,
+      "kindleCountersFromUnverifiedOCR": [
+        79
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 53,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3237,
+      "kindleCountersFromUnverifiedOCR": [
+        81
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 54,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3319,
+      "kindleCountersFromUnverifiedOCR": [
+        83
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 55,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3062,
+      "kindleCountersFromUnverifiedOCR": [
+        84
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 56,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2195,
+      "kindleCountersFromUnverifiedOCR": [
+        86
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 57,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 418,
+      "kindleCountersFromUnverifiedOCR": [
+        88
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 58,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2847,
+      "kindleCountersFromUnverifiedOCR": [
+        89
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 59,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2150,
+      "kindleCountersFromUnverifiedOCR": [
+        90
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 60,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3086,
+      "kindleCountersFromUnverifiedOCR": [
+        92
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 61,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3027,
+      "kindleCountersFromUnverifiedOCR": [
+        93
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 62,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3129,
+      "kindleCountersFromUnverifiedOCR": [
+        95
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 63,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3284,
+      "kindleCountersFromUnverifiedOCR": [
+        97
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 64,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3020,
+      "kindleCountersFromUnverifiedOCR": [
+        98
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 65,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2671,
+      "kindleCountersFromUnverifiedOCR": [
+        100
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 66,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2713,
+      "kindleCountersFromUnverifiedOCR": [
+        101
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 67,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3034,
+      "kindleCountersFromUnverifiedOCR": [
+        104
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 68,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3069,
+      "kindleCountersFromUnverifiedOCR": [
+        105
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 69,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3238,
+      "kindleCountersFromUnverifiedOCR": [
+        107
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 70,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1117,
+      "kindleCountersFromUnverifiedOCR": [
+        108
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 71,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2321,
+      "kindleCountersFromUnverifiedOCR": [
+        112
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 72,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2894,
+      "kindleCountersFromUnverifiedOCR": [
+        113
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 73,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3097,
+      "kindleCountersFromUnverifiedOCR": [
+        115
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 74,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2588,
+      "kindleCountersFromUnverifiedOCR": [
+        116
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 75,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2735,
+      "kindleCountersFromUnverifiedOCR": [
+        118
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 76,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2415,
+      "kindleCountersFromUnverifiedOCR": [
+        120
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 77,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2517,
+      "kindleCountersFromUnverifiedOCR": [
+        122
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 78,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2967,
+      "kindleCountersFromUnverifiedOCR": [
+        123
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 79,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 377,
+      "kindleCountersFromUnverifiedOCR": [
+        125
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 80,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2747,
+      "kindleCountersFromUnverifiedOCR": [
+        126
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 81,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3148,
+      "kindleCountersFromUnverifiedOCR": [
+        127
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 82,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3239,
+      "kindleCountersFromUnverifiedOCR": [
+        129
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 83,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2978,
+      "kindleCountersFromUnverifiedOCR": [
+        130
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 84,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1647,
+      "kindleCountersFromUnverifiedOCR": [
+        132
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 85,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1693,
+      "kindleCountersFromUnverifiedOCR": [
+        134
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 86,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2596,
+      "kindleCountersFromUnverifiedOCR": [
+        136
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 87,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1710,
+      "kindleCountersFromUnverifiedOCR": [
+        139
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 88,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2003,
+      "kindleCountersFromUnverifiedOCR": [
+        140
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 89,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2084,
+      "kindleCountersFromUnverifiedOCR": [
+        142
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 90,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1449,
+      "kindleCountersFromUnverifiedOCR": [
+        144
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 91,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1312,
+      "kindleCountersFromUnverifiedOCR": [
+        147
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 92,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1731,
+      "kindleCountersFromUnverifiedOCR": [
+        149
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 93,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2814,
+      "kindleCountersFromUnverifiedOCR": [
+        150
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 94,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2313,
+      "kindleCountersFromUnverifiedOCR": [
+        152
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 95,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1513,
+      "kindleCountersFromUnverifiedOCR": [
+        154
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 96,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 207,
+      "kindleCountersFromUnverifiedOCR": [
+        155
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 97,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2277,
+      "kindleCountersFromUnverifiedOCR": [
+        156
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 98,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2755,
+      "kindleCountersFromUnverifiedOCR": [
+        157
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 99,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2703,
+      "kindleCountersFromUnverifiedOCR": [
+        159
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 100,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3329,
+      "kindleCountersFromUnverifiedOCR": [
+        160
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 101,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3099,
+      "kindleCountersFromUnverifiedOCR": [
+        162
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 102,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3252,
+      "kindleCountersFromUnverifiedOCR": [
+        164
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 103,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3199,
+      "kindleCountersFromUnverifiedOCR": [
+        165
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 104,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2637,
+      "kindleCountersFromUnverifiedOCR": [
+        167
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 105,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3055,
+      "kindleCountersFromUnverifiedOCR": [
+        168
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 106,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2844,
+      "kindleCountersFromUnverifiedOCR": [
+        170
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 107,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2680,
+      "kindleCountersFromUnverifiedOCR": [
+        172
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 108,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2356,
+      "kindleCountersFromUnverifiedOCR": [
+        173
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 109,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2629,
+      "kindleCountersFromUnverifiedOCR": [
+        175
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 110,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2664,
+      "kindleCountersFromUnverifiedOCR": [
+        176
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 111,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2473,
+      "kindleCountersFromUnverifiedOCR": [
+        178
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 112,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3190,
+      "kindleCountersFromUnverifiedOCR": [
+        180
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 113,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2526,
+      "kindleCountersFromUnverifiedOCR": [
+        181
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 114,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2783,
+      "kindleCountersFromUnverifiedOCR": [
+        184
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 115,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2108,
+      "kindleCountersFromUnverifiedOCR": [
+        185
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 116,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2574,
+      "kindleCountersFromUnverifiedOCR": [
+        187
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 117,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3169,
+      "kindleCountersFromUnverifiedOCR": [
+        188
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 118,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2091,
+      "kindleCountersFromUnverifiedOCR": [
+        190
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 119,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2799,
+      "kindleCountersFromUnverifiedOCR": [
+        192
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 120,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2169,
+      "kindleCountersFromUnverifiedOCR": [
+        193
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 121,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1201,
+      "kindleCountersFromUnverifiedOCR": [
+        195
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 122,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1774,
+      "kindleCountersFromUnverifiedOCR": [
+        196
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 123,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3202,
+      "kindleCountersFromUnverifiedOCR": [
+        198
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 124,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3155,
+      "kindleCountersFromUnverifiedOCR": [
+        199
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 125,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3088,
+      "kindleCountersFromUnverifiedOCR": [
+        201
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 126,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2137,
+      "kindleCountersFromUnverifiedOCR": [
+        202
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 127,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 210,
+      "kindleCountersFromUnverifiedOCR": [
+        205
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 128,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2347,
+      "kindleCountersFromUnverifiedOCR": [
+        206
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 129,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2308,
+      "kindleCountersFromUnverifiedOCR": [
+        207
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 130,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2867,
+      "kindleCountersFromUnverifiedOCR": [
+        209
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 131,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1641,
+      "kindleCountersFromUnverifiedOCR": [
+        210
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 132,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2335,
+      "kindleCountersFromUnverifiedOCR": [
+        212
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 133,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1896,
+      "kindleCountersFromUnverifiedOCR": [
+        214
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 134,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1564,
+      "kindleCountersFromUnverifiedOCR": [
+        216
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 135,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1011,
+      "kindleCountersFromUnverifiedOCR": [
+        217
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 136,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2809,
+      "kindleCountersFromUnverifiedOCR": [
+        219
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 137,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2750,
+      "kindleCountersFromUnverifiedOCR": [
+        220
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 138,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3233,
+      "kindleCountersFromUnverifiedOCR": [
+        222
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 139,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3185,
+      "kindleCountersFromUnverifiedOCR": [
+        223
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 140,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2197,
+      "kindleCountersFromUnverifiedOCR": [
+        225
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 141,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2127,
+      "kindleCountersFromUnverifiedOCR": [
+        226
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 142,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2681,
+      "kindleCountersFromUnverifiedOCR": [
+        229
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 143,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3243,
+      "kindleCountersFromUnverifiedOCR": [
+        230
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 144,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2844,
+      "kindleCountersFromUnverifiedOCR": [
+        232
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 145,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3261,
+      "kindleCountersFromUnverifiedOCR": [
+        234
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 146,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1376,
+      "kindleCountersFromUnverifiedOCR": [
+        235
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 147,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3098,
+      "kindleCountersFromUnverifiedOCR": [
+        237
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 148,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3186,
+      "kindleCountersFromUnverifiedOCR": [
+        238
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 149,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 914,
+      "kindleCountersFromUnverifiedOCR": [
+        240
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 150,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2912,
+      "kindleCountersFromUnverifiedOCR": [
+        242
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 151,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3297,
+      "kindleCountersFromUnverifiedOCR": [
+        243
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 152,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3168,
+      "kindleCountersFromUnverifiedOCR": [
+        245
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 153,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2315,
+      "kindleCountersFromUnverifiedOCR": [
+        246
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 154,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2478,
+      "kindleCountersFromUnverifiedOCR": [
+        248
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 155,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2448,
+      "kindleCountersFromUnverifiedOCR": [
+        251
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 156,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2702,
+      "kindleCountersFromUnverifiedOCR": [
+        252
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 157,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2565,
+      "kindleCountersFromUnverifiedOCR": [
+        255
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 158,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2088,
+      "kindleCountersFromUnverifiedOCR": [
+        256
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 159,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3163,
+      "kindleCountersFromUnverifiedOCR": [
+        258
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 160,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3047,
+      "kindleCountersFromUnverifiedOCR": [
+        259
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 161,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2875,
+      "kindleCountersFromUnverifiedOCR": [
+        261
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 162,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 336,
+      "kindleCountersFromUnverifiedOCR": [
+        263
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 163,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2480,
+      "kindleCountersFromUnverifiedOCR": [
+        264
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 164,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1906,
+      "kindleCountersFromUnverifiedOCR": [
+        265
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 165,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2206,
+      "kindleCountersFromUnverifiedOCR": [
+        267
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 166,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2571,
+      "kindleCountersFromUnverifiedOCR": [
+        269
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 167,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2939,
+      "kindleCountersFromUnverifiedOCR": [
+        270
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 168,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3154,
+      "kindleCountersFromUnverifiedOCR": [
+        272
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 169,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3274,
+      "kindleCountersFromUnverifiedOCR": [
+        274
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 170,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2645,
+      "kindleCountersFromUnverifiedOCR": [
+        275
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 171,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2185,
+      "kindleCountersFromUnverifiedOCR": [
+        277
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 172,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2535,
+      "kindleCountersFromUnverifiedOCR": [
+        279
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 173,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2461,
+      "kindleCountersFromUnverifiedOCR": [
+        281
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 174,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2953,
+      "kindleCountersFromUnverifiedOCR": [
+        282
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 175,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3074,
+      "kindleCountersFromUnverifiedOCR": [
+        284
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 176,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2635,
+      "kindleCountersFromUnverifiedOCR": [
+        285
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 177,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2009,
+      "kindleCountersFromUnverifiedOCR": [
+        287
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 178,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2229,
+      "kindleCountersFromUnverifiedOCR": [
+        289
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 179,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3075,
+      "kindleCountersFromUnverifiedOCR": [
+        291
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 180,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 250,
+      "kindleCountersFromUnverifiedOCR": [
+        293
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 181,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2517,
+      "kindleCountersFromUnverifiedOCR": [
+        294
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 182,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2776,
+      "kindleCountersFromUnverifiedOCR": [
+        295
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 183,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3041,
+      "kindleCountersFromUnverifiedOCR": [
+        297
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 184,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3098,
+      "kindleCountersFromUnverifiedOCR": [
+        298
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 185,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3141,
+      "kindleCountersFromUnverifiedOCR": [
+        300
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 186,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2038,
+      "kindleCountersFromUnverifiedOCR": [
+        301
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 187,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2580,
+      "kindleCountersFromUnverifiedOCR": [
+        303
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 188,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2824,
+      "kindleCountersFromUnverifiedOCR": [
+        304
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 189,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3259,
+      "kindleCountersFromUnverifiedOCR": [
+        306
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 190,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3207,
+      "kindleCountersFromUnverifiedOCR": [
+        307
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 191,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2652,
+      "kindleCountersFromUnverifiedOCR": [
+        309
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 192,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2989,
+      "kindleCountersFromUnverifiedOCR": [
+        310
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 193,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3022,
+      "kindleCountersFromUnverifiedOCR": [
+        312
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 194,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2211,
+      "kindleCountersFromUnverifiedOCR": [
+        314
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 195,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3221,
+      "kindleCountersFromUnverifiedOCR": [
+        316
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 196,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 903,
+      "kindleCountersFromUnverifiedOCR": [
+        317
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 197,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2872,
+      "kindleCountersFromUnverifiedOCR": [
+        319
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 198,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2372,
+      "kindleCountersFromUnverifiedOCR": [
+        320
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 199,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2491,
+      "kindleCountersFromUnverifiedOCR": [
+        322
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 200,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1656,
+      "kindleCountersFromUnverifiedOCR": [
+        324
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 201,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2242,
+      "kindleCountersFromUnverifiedOCR": [
+        325
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 202,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2308,
+      "kindleCountersFromUnverifiedOCR": [
+        327
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 203,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2477,
+      "kindleCountersFromUnverifiedOCR": [
+        329
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 204,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2896,
+      "kindleCountersFromUnverifiedOCR": [
+        330
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 205,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2463,
+      "kindleCountersFromUnverifiedOCR": [
+        332
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 206,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2196,
+      "kindleCountersFromUnverifiedOCR": [
+        334
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 207,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1908,
+      "kindleCountersFromUnverifiedOCR": [
+        335
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 208,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2421,
+      "kindleCountersFromUnverifiedOCR": [
+        338
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 209,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2778,
+      "kindleCountersFromUnverifiedOCR": [
+        339
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 210,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3016,
+      "kindleCountersFromUnverifiedOCR": [
+        341
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 211,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3209,
+      "kindleCountersFromUnverifiedOCR": [
+        342
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 212,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3083,
+      "kindleCountersFromUnverifiedOCR": [
+        344
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 213,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1577,
+      "kindleCountersFromUnverifiedOCR": [
+        346
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 214,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2816,
+      "kindleCountersFromUnverifiedOCR": [
+        348
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 215,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 386,
+      "kindleCountersFromUnverifiedOCR": [
+        349
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 216,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 209,
+      "kindleCountersFromUnverifiedOCR": [
+        351
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 217,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2560,
+      "kindleCountersFromUnverifiedOCR": [
+        352
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 218,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3279,
+      "kindleCountersFromUnverifiedOCR": [
+        353
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 219,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2966,
+      "kindleCountersFromUnverifiedOCR": [
+        355
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 220,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2725,
+      "kindleCountersFromUnverifiedOCR": [
+        356
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 221,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2399,
+      "kindleCountersFromUnverifiedOCR": [
+        358
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 222,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2998,
+      "kindleCountersFromUnverifiedOCR": [
+        360
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 223,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3158,
+      "kindleCountersFromUnverifiedOCR": [
+        361
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 224,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2868,
+      "kindleCountersFromUnverifiedOCR": [
+        363
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 225,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3254,
+      "kindleCountersFromUnverifiedOCR": [
+        364
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 226,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2353,
+      "kindleCountersFromUnverifiedOCR": [
+        366
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 227,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2767,
+      "kindleCountersFromUnverifiedOCR": [
+        368
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 228,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1558,
+      "kindleCountersFromUnverifiedOCR": [
+        370
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness.",
+        "Attached guidance reports omitted recipe content on this page; damaged OCR opening observed."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 229,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1584,
+      "kindleCountersFromUnverifiedOCR": [
+        372
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 230,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1928,
+      "kindleCountersFromUnverifiedOCR": [
+        374
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 231,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2716,
+      "kindleCountersFromUnverifiedOCR": [
+        376
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 232,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2435,
+      "kindleCountersFromUnverifiedOCR": [
+        378
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 233,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2520,
+      "kindleCountersFromUnverifiedOCR": [
+        379
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 234,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2379,
+      "kindleCountersFromUnverifiedOCR": [
+        381
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 235,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2381,
+      "kindleCountersFromUnverifiedOCR": [
+        383
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 236,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2728,
+      "kindleCountersFromUnverifiedOCR": [
+        385
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 237,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3103,
+      "kindleCountersFromUnverifiedOCR": [
+        387
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 238,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3031,
+      "kindleCountersFromUnverifiedOCR": [
+        388
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 239,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3015,
+      "kindleCountersFromUnverifiedOCR": [
+        390
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 240,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3181,
+      "kindleCountersFromUnverifiedOCR": [
+        391
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 241,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3122,
+      "kindleCountersFromUnverifiedOCR": [
+        393
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 242,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2715,
+      "kindleCountersFromUnverifiedOCR": [
+        394
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 243,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3191,
+      "kindleCountersFromUnverifiedOCR": [
+        396
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 244,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3155,
+      "kindleCountersFromUnverifiedOCR": [
+        398
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 245,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2921,
+      "kindleCountersFromUnverifiedOCR": [
+        399
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 246,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2052,
+      "kindleCountersFromUnverifiedOCR": [
+        401
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 247,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3077,
+      "kindleCountersFromUnverifiedOCR": [
+        403
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 248,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2844,
+      "kindleCountersFromUnverifiedOCR": [
+        404
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 249,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2866,
+      "kindleCountersFromUnverifiedOCR": [
+        406
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 250,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3258,
+      "kindleCountersFromUnverifiedOCR": [
+        408
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 251,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3180,
+      "kindleCountersFromUnverifiedOCR": [
+        409
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 252,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2528,
+      "kindleCountersFromUnverifiedOCR": [
+        411
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 253,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2455,
+      "kindleCountersFromUnverifiedOCR": [
+        413
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 254,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 657,
+      "kindleCountersFromUnverifiedOCR": [
+        415
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 255,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2919,
+      "kindleCountersFromUnverifiedOCR": [
+        416
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 256,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 3267,
+      "kindleCountersFromUnverifiedOCR": [
+        417
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 257,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1976,
+      "kindleCountersFromUnverifiedOCR": [
+        419
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 258,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2352,
+      "kindleCountersFromUnverifiedOCR": [
+        421
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 259,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2769,
+      "kindleCountersFromUnverifiedOCR": [
+        422
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 260,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2631,
+      "kindleCountersFromUnverifiedOCR": [
+        424
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 261,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2667,
+      "kindleCountersFromUnverifiedOCR": [
+        426
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 262,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2705,
+      "kindleCountersFromUnverifiedOCR": [
+        427
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 263,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2581,
+      "kindleCountersFromUnverifiedOCR": [
+        429
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 264,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2536,
+      "kindleCountersFromUnverifiedOCR": [
+        431
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 265,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2555,
+      "kindleCountersFromUnverifiedOCR": [
+        432
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 266,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2500,
+      "kindleCountersFromUnverifiedOCR": [
+        434
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 267,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2531,
+      "kindleCountersFromUnverifiedOCR": [
+        436
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 268,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 1288,
+      "kindleCountersFromUnverifiedOCR": [
+        438
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 269,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2376,
+      "kindleCountersFromUnverifiedOCR": [
+        439
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 270,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2570,
+      "kindleCountersFromUnverifiedOCR": [
+        440
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 271,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 2618,
+      "kindleCountersFromUnverifiedOCR": [
+        442
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    },
+    {
+      "pdfPage": 272,
+      "ocrMarkerObserved": true,
+      "ocrCharacters": 698,
+      "kindleCountersFromUnverifiedOCR": [
+        444
+      ],
+      "chapterSection": "Not yet verified against PDF",
+      "columnsChecked": [],
+      "ocrCorrections": [],
+      "diagramsCaptions": "Not yet visually inspected",
+      "keyIdeas": [],
+      "sourceNotes": [
+        "OCR is not evidence of full-page completeness."
+      ],
+      "pdfVisualStatus": "blocked-pdf-unavailable",
+      "completeness": "unverified"
+    }
+  ],
+  "publicationBasis": "User authorized publication using available OCR after the PDF transfer limit was disclosed. Selected readable passages support attributed paraphrases. No PDF page or complete column coverage is claimed."
+}

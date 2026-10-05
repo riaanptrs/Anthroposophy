@@ -1,0 +1,3390 @@
+{
+  "status": "published-ocr-edition",
+  "author": "Wendy E. Cook",
+  "title": {
+    "en": "Foodwise: The Story of Food, from Soil to the Family Table",
+    "pt": "Foodwise: A história dos alimentos, do solo à mesa da família"
+  },
+  "sourceStatus": {
+    "en": "This edition uses readable passages from the supplied OCR. The PDF was unavailable for visual checking; omitted columns, figures, quantities and uncertain wording are not treated as verified.",
+    "pt": "Esta edição usa passagens legíveis do OCR fornecido. O PDF não estava disponível para conferência visual; colunas omitidas, figuras, quantidades e trechos incertos não são tratados como verificados."
+  },
+  "modules": [
+    {
+      "id": 1,
+      "slug": "story",
+      "title": {
+        "en": "Food has a story",
+        "pt": "Os alimentos têm uma história"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "soil",
+      "title": {
+        "en": "From living soil to food",
+        "pt": "Do solo vivo ao alimento"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "nourishment",
+      "title": {
+        "en": "Understanding nourishment",
+        "pt": "Compreendendo a alimentação"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "grains",
+      "title": {
+        "en": "Meet the grains",
+        "pt": "Conheça os cereais"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "plants",
+      "title": {
+        "en": "Meet the plant on your plate",
+        "pt": "Conheça a planta no prato"
+      }
+    },
+    {
+      "id": 6,
+      "slug": "ingredients",
+      "title": {
+        "en": "Foods that transform a meal",
+        "pt": "Alimentos que transformam uma refeição"
+      }
+    },
+    {
+      "id": 7,
+      "slug": "kitchen",
+      "title": {
+        "en": "The family kitchen",
+        "pt": "A cozinha da família"
+      }
+    }
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "title": {
+        "en": "Preface and introduction",
+        "pt": "Prefácio e introdução"
+      },
+      "pages": [
+        13,
+        23
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 1,
+      "title": {
+        "en": "The History of Nutrition",
+        "pt": "A história da alimentação"
+      },
+      "pages": [
+        25,
+        56
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Agricultural Methods",
+        "pt": "Métodos agrícolas"
+      },
+      "pages": [
+        58,
+        69
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "The Fourfold Human Being",
+        "pt": "O ser humano quádruplo"
+      },
+      "pages": [
+        71,
+        79
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Grasses and Grains",
+        "pt": "Gramíneas e cereais"
+      },
+      "pages": [
+        80,
+        95
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "What Happens in Nutrition?",
+        "pt": "O que acontece na alimentação?"
+      },
+      "pages": [
+        97,
+        113
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "The Question of Vegetarianism",
+        "pt": "A questão do vegetarianismo"
+      },
+      "pages": [
+        114,
+        126
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "The Threefold Plant",
+        "pt": "A planta tríplice"
+      },
+      "pages": [
+        128,
+        135
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "Carbohydrates and Sweeteners",
+        "pt": "Carboidratos e adoçantes"
+      },
+      "pages": [
+        136,
+        141
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 9,
+      "title": {
+        "en": "Bread and Bread Making",
+        "pt": "Pão e panificação"
+      },
+      "pages": [
+        142,
+        149
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 10,
+      "title": {
+        "en": "The Nightshade Family",
+        "pt": "A família das solanáceas"
+      },
+      "pages": [
+        150,
+        156
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 11,
+      "title": {
+        "en": "Legumes",
+        "pt": "Leguminosas"
+      },
+      "pages": [
+        157,
+        161
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 12,
+      "title": {
+        "en": "Milk and Dairy Products",
+        "pt": "Leite e derivados"
+      },
+      "pages": [
+        163,
+        172
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 13,
+      "title": {
+        "en": "Fats and Oils",
+        "pt": "Gorduras e óleos"
+      },
+      "pages": [
+        173,
+        180
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 14,
+      "title": {
+        "en": "Salt",
+        "pt": "Sal"
+      },
+      "pages": [
+        181,
+        186
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 15,
+      "title": {
+        "en": "Minerals and the Question of Dietary Supplements",
+        "pt": "Minerais e suplementos alimentares"
+      },
+      "pages": [
+        187,
+        196
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 16,
+      "title": {
+        "en": "Herbs and Spices",
+        "pt": "Ervas e especiarias"
+      },
+      "pages": [
+        197,
+        207
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 17,
+      "title": {
+        "en": "Stimulants: Coffee, Tea and Chocolate",
+        "pt": "Estimulantes: café, chá e chocolate"
+      },
+      "pages": [
+        208,
+        213
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 18,
+      "title": {
+        "en": "Water",
+        "pt": "Água"
+      },
+      "pages": [
+        214,
+        215
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 19,
+      "title": {
+        "en": "Cooking and Menu-planning",
+        "pt": "Cozinha e planejamento de cardápios"
+      },
+      "pages": [
+        217,
+        254
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    },
+    {
+      "id": 20,
+      "title": {
+        "en": "Conclusions",
+        "pt": "Conclusões"
+      },
+      "pages": [
+        255,
+        257
+      ],
+      "boundaryStatus": "OCR-derived, not visually verified"
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "module": 1,
+      "chapters": [
+        0
+      ],
+      "pages": [
+        16,
+        17,
+        19,
+        20
+      ],
+      "title": {
+        "en": "Why does Cook begin with her own kitchen?",
+        "pt": "Por que Cook começa pela própria cozinha?"
+      },
+      "opening": {
+        "en": "A child gleans missed peas, watches a compost heap become dark soil, and later discovers how a meal can bring strangers into conversation. Cook’s introduction makes these ordinary experiences the beginning of her inquiry.",
+        "pt": "Uma criança recolhe ervilhas esquecidas, vê o composto virar terra escura e depois descobre como uma refeição aproxima desconhecidos. Cook faz dessas experiências o início de sua investigação."
+      },
+      "teaching": {
+        "en": "Cook connects gardening, cooking and community through her own biography. Wartime rationing taught resourcefulness; art school brought experimentation on a small budget; family concerns led her toward vegetarian cooking and anthroposophy. These are different kinds of experience, not a single laboratory argument. At Emerson College, learning in the garden and kitchen became a way of testing her understanding through practice. Her important move is to give a cook’s knowledge intellectual dignity: choosing, noticing, timing and sharing require judgement. The book asks readers to take that judgement seriously, while keeping personal testimony distinct from general conclusions.",
+        "pt": "Cook relaciona jardinagem, cozinha e comunidade por sua biografia. O racionamento ensinou aproveitamento; a escola de arte trouxe experimentação com pouco dinheiro; questões familiares a levaram à cozinha vegetariana e à antroposofia. São experiências diferentes, não um único argumento experimental. No Emerson College, jardim e cozinha passaram a ser lugares de aprendizado prático. Seu gesto central é reconhecer valor intelectual no saber de quem cozinha: escolher, observar, calcular tempos e compartilhar exigem discernimento. O livro pede atenção a esse saber, preservando a diferença entre testemunho pessoal e conclusões gerais."
+      },
+      "connection": {
+        "en": "The same connection can begin with a pot of soup made from vegetables already at home. Understanding need not start with costly equipment or unusual ingredients.",
+        "pt": "Essa conexão pode começar com uma sopa feita dos legumes que já estão em casa. Entender os alimentos não exige utensílios caros ou ingredientes raros."
+      },
+      "activity": {
+        "en": "Choose one familiar meal. Name someone who grew, transported, prepared or shared its ingredients.",
+        "pt": "Escolha uma refeição conhecida. Pense em alguém que cultivou, transportou, preparou ou compartilhou seus ingredientes."
+      },
+      "question": {
+        "en": "Why is the autobiography part of the argument rather than just background?",
+        "pt": "Por que a autobiografia participa do argumento, em vez de ser apenas informação pessoal?"
+      },
+      "answer": {
+        "en": "It shows how observation and practical work generated Cook’s questions about quality and community. Her experiences explain the inquiry, but do not prove every health claim.",
+        "pt": "Ela mostra como observação e trabalho prático geraram perguntas sobre qualidade e comunidade. As experiências explicam a investigação, mas não comprovam toda afirmação de saúde."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 2,
+      "module": 1,
+      "chapters": [
+        1
+      ],
+      "pages": [
+        26,
+        27,
+        31,
+        32
+      ],
+      "title": {
+        "en": "What changes when people begin to cultivate food?",
+        "pt": "O que muda quando se começa a cultivar alimentos?"
+      },
+      "opening": {
+        "en": "A grain can be gathered today, stored for another season, or saved as seed. Each choice creates a different relationship with the future.",
+        "pt": "Um grão pode ser colhido hoje, guardado para outra estação ou reservado como semente. Cada escolha cria uma relação diferente com o futuro."
+      },
+      "teaching": {
+        "en": "Cook describes cultivation as a change in practical life and consciousness. Gathering depends on finding what is available; cultivation adds care for a particular place, repeated observation and responsibility for a future harvest. Storage makes a surplus possible and supports other occupations. Her discussion of early settlements includes the hearth and the work of grinding grain, reminding us that agriculture required domestic techniques as well as planting. Myths about this transition belong to her interpretation of human development; they should not be read as excavation records. The underlying question is how producing food changes the experience of time, work and dependence.",
+        "pt": "Cook apresenta o cultivo como mudança na vida prática e na consciência. Coletar depende de encontrar o disponível; cultivar acrescenta cuidado com um lugar, observação repetida e responsabilidade por uma colheita futura. O armazenamento permite excedentes e outras ocupações. Ao tratar dos primeiros assentamentos, ela inclui o fogo doméstico e a moagem: a agricultura precisava de técnicas de preparo, além do plantio. Os mitos dessa passagem fazem parte de sua interpretação do desenvolvimento humano, não de registros arqueológicos. A pergunta é como produzir alimentos muda a experiência do tempo, do trabalho e da dependência."
+      },
+      "connection": {
+        "en": "Saving seed and planning tomorrow’s lunch both involve anticipating a need, although they operate at different scales.",
+        "pt": "Guardar sementes e planejar o almoço de amanhã envolvem antecipar necessidades, embora em escalas diferentes."
+      },
+      "activity": {
+        "en": "Follow a grain through three decisions: harvest, storage and cooking. What must someone know at each stage?",
+        "pt": "Acompanhe um grão em três decisões: colher, armazenar e cozinhar. Que saber é necessário em cada etapa?"
+      },
+      "question": {
+        "en": "Why does storage matter to Cook’s account of settled life?",
+        "pt": "Por que o armazenamento importa na descrição da vida sedentária?"
+      },
+      "answer": {
+        "en": "It separates harvest from immediate consumption and helps support a stable community and a division of work.",
+        "pt": "Ele separa a colheita do consumo imediato e ajuda a sustentar uma comunidade estável e a divisão do trabalho."
+      },
+      "ingredients": [
+        "wheat"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 3,
+      "module": 1,
+      "chapters": [
+        1
+      ],
+      "pages": [
+        29,
+        30,
+        31
+      ],
+      "title": {
+        "en": "What does the Persian plough story teach?",
+        "pt": "O que ensina a história persa do arado?"
+      },
+      "opening": {
+        "en": "In the legend Cook retells, Yima receives tools and a charge to care for the earth. Cultivation is presented as a responsibility, not simply a way to obtain more food.",
+        "pt": "Na lenda recontada por Cook, Yima recebe ferramentas e uma tarefa de cuidado com a terra. Cultivar é uma responsabilidade, não apenas um modo de obter mais comida."
+      },
+      "teaching": {
+        "en": "Cook reads the golden sword as an image of the plough. The legend brings human labour into a relationship with divine ordering: tilling, shelter and the care of animals belong together. She then connects settled farmers with boundaries, ownership and the tensions between different ways of living. This is an interpretive use of myth. Its purpose is to make the meaning of cultivation visible, not to date the invention of a tool precisely. Keeping that distinction allows us to understand her spiritual narrative without turning it into a literal chronology or ranking peoples in human worth.",
+        "pt": "Cook interpreta a espada de ouro como imagem do arado. A lenda relaciona o trabalho humano com uma ordem divina: cultivo, abrigo e cuidado dos animais aparecem juntos. Depois ela liga os agricultores sedentários às fronteiras, à propriedade e às tensões entre modos de vida. É um uso interpretativo do mito. A intenção é tornar visível o sentido do cultivo, não datar precisamente uma ferramenta. Essa distinção permite compreender a narrativa espiritual sem transformá-la em cronologia literal ou hierarquia de valor entre povos."
+      },
+      "connection": {
+        "en": "A garden boundary can protect a crop, but it also creates questions about access, shared water and neighbours.",
+        "pt": "Uma cerca protege a plantação, mas também cria questões sobre acesso, água compartilhada e vizinhos."
+      },
+      "activity": {
+        "en": "Imagine a community garden. What responsibilities come with receiving a plot?",
+        "pt": "Imagine uma horta comunitária. Quais responsabilidades acompanham o uso de um canteiro?"
+      },
+      "question": {
+        "en": "How is a myth different from evidence of a dated agricultural settlement?",
+        "pt": "Em que um mito difere da evidência de um assentamento agrícola datado?"
+      },
+      "answer": {
+        "en": "A myth can convey meanings and recurring relationships. A dated settlement requires archaeological evidence. Cook brings both into her narrative, and their roles should remain distinct.",
+        "pt": "O mito comunica sentidos e relações recorrentes. A datação de um assentamento exige evidência arqueológica. Cook reúne ambos, mas suas funções devem permanecer distintas."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 4,
+      "module": 1,
+      "chapters": [
+        1
+      ],
+      "pages": [
+        33,
+        34,
+        35
+      ],
+      "title": {
+        "en": "Why does the Nile belong in a story about bread?",
+        "pt": "Por que o Nilo faz parte de uma história sobre pão?"
+      },
+      "opening": {
+        "en": "Bread begins before the bakery: water, soil, sowing and harvest set the conditions for the flour. Cook’s Egyptian story makes this connection vivid.",
+        "pt": "O pão começa antes da padaria: água, solo, semeadura e colheita criam as condições da farinha. A narrativa egípcia de Cook torna essa ligação visível."
+      },
+      "teaching": {
+        "en": "Cook connects the Nile’s seasonal rise with fertility, observation and the organization of agriculture. Growing grain requires coordinated work, while making bread adds grinding, fermentation and heat. She also describes onions, pulses, dates and other foods, placing the grain within a cuisine rather than isolating it. Her account combines agricultural history with a spiritual reading of Egyptian observation and cosmology. The practical thread is clear: a loaf is a product of relationships extending from landscape to household. Numerical claims and historical dates in damaged OCR should not be treated as established by this course.",
+        "pt": "Cook relaciona as cheias sazonais do Nilo com fertilidade, observação e organização agrícola. Cultivar cereais exige trabalho coordenado; fazer pão acrescenta moagem, fermentação e calor. Ela também descreve cebolas, leguminosas, tâmaras e outros alimentos, situando o cereal numa culinária. Sua narrativa combina história agrícola e leitura espiritual da observação e da cosmologia egípcias. O fio prático é claro: um pão resulta de relações que vão da paisagem à casa. Números e datas presentes no OCR danificado não são tratados aqui como verificados."
+      },
+      "connection": {
+        "en": "A modern flour packet conceals much of this work. Asking how it reached the shelf restores part of the loaf’s biography.",
+        "pt": "Um pacote de farinha esconde boa parte desse trabalho. Perguntar como chegou à prateleira recupera parte da história do pão."
+      },
+      "activity": {
+        "en": "Trace one loaf backwards: baking, dough, flour, grain, field and water.",
+        "pt": "Siga um pão de trás para a frente: forno, massa, farinha, grão, campo e água."
+      },
+      "question": {
+        "en": "Why is bread more than an isolated ingredient in this account?",
+        "pt": "Por que o pão é mais que um ingrediente isolado nessa narrativa?"
+      },
+      "answer": {
+        "en": "It joins seasonal agriculture with milling, fermentation, cooking and shared work.",
+        "pt": "Ele reúne agricultura sazonal, moagem, fermentação, preparo e trabalho compartilhado."
+      },
+      "ingredients": [
+        "wheat"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 5,
+      "module": 1,
+      "chapters": [
+        1,
+        4
+      ],
+      "pages": [
+        38,
+        39,
+        83,
+        84
+      ],
+      "title": {
+        "en": "Why tell the story of Demeter and Persephone?",
+        "pt": "Por que contar a história de Deméter e Perséfone?"
+      },
+      "opening": {
+        "en": "A seed disappears into the earth and later returns as a plant. Cook uses a familiar myth to invite attention to this rhythm of disappearance and return.",
+        "pt": "Uma semente desaparece na terra e depois retorna como planta. Cook usa um mito para despertar atenção a esse ritmo de desaparecimento e retorno."
+      },
+      "teaching": {
+        "en": "Demeter, the figure of cultivated fertility, searches for Persephone after her descent into the underworld. Cook connects the story with cereal life and the relation between growth and restraint. Grain must not only grow: it must take form, ripen and become capable of starting again. The myth offers a language for this relationship. It is not a biological mechanism for germination. Reading it alongside the actual plant lets symbolic meaning and observation enrich one another without confusing their purposes. Cook’s larger interest is the reverence cultures gave to foods on which they depended.",
+        "pt": "Deméter, figura da fertilidade cultivada, procura Perséfone após sua descida ao mundo subterrâneo. Cook relaciona a história à vida dos cereais e à relação entre crescimento e contenção. O grão não precisa apenas crescer: deve ganhar forma, amadurecer e poder recomeçar. O mito oferece uma linguagem para essa relação, não um mecanismo biológico de germinação. Lê-lo junto da planta permite que símbolo e observação se enriqueçam sem confundir suas funções. Cook se interessa pela reverência das culturas aos alimentos dos quais dependiam."
+      },
+      "connection": {
+        "en": "A jar of grain looks static, but it carries a history of ripening and a potential for new growth.",
+        "pt": "Um pote de grãos parece imóvel, mas guarda uma história de amadurecimento e uma possibilidade de novo crescimento."
+      },
+      "activity": {
+        "en": "Look at a cereal seed and imagine its place in the annual cycle. Participation does not require affirming the myth as history.",
+        "pt": "Observe uma semente de cereal e imagine seu lugar no ciclo anual. Não é necessário afirmar o mito como fato histórico."
+      },
+      "question": {
+        "en": "What does the myth contribute that a nutrient table does not?",
+        "pt": "O que o mito acrescenta que uma tabela nutricional não oferece?"
+      },
+      "answer": {
+        "en": "It expresses cultural meaning and the rhythm of life, loss and renewal. A nutrient table answers a different question about composition.",
+        "pt": "Ele expressa sentido cultural e o ritmo de vida, perda e renovação. A tabela responde a outra pergunta: a composição."
+      },
+      "ingredients": [
+        "barley"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 6,
+      "module": 1,
+      "chapters": [
+        1
+      ],
+      "pages": [
+        40,
+        41,
+        44,
+        45
+      ],
+      "title": {
+        "en": "What do banquets and monasteries reveal about food?",
+        "pt": "O que banquetes e mosteiros revelam sobre a comida?"
+      },
+      "opening": {
+        "en": "A display of extravagant dishes and a garden worked through the seasons represent different ways of organizing a meal.",
+        "pt": "Uma exibição de pratos extravagantes e um jardim cuidado ao longo das estações representam modos diferentes de organizar a refeição."
+      },
+      "teaching": {
+        "en": "Cook contrasts Roman luxury with simpler diets and later turns to monasteries as places preserving gardening, baking, brewing and learning. Her examples show that cuisine reflects institutions and values, not just available ingredients. A feast can display power; a shared work rhythm can sustain skills and community. Her account of Rome is a selected cultural portrait, not a description of every Roman household. Read the contrast as a question about priorities: what is the meal for, who does the work, and what knowledge is passed on?",
+        "pt": "Cook contrapõe o luxo romano a dietas mais simples e depois apresenta mosteiros como lugares que preservaram jardinagem, panificação, fabricação de bebidas e estudo. A culinária reflete instituições e valores, além dos ingredientes disponíveis. Um banquete pode exibir poder; um ritmo de trabalho compartilhado sustenta saberes e comunidade. A descrição de Roma é um retrato cultural selecionado, não de toda família romana. A comparação pergunta: para que serve a refeição, quem trabalha e que conhecimento é transmitido?"
+      },
+      "connection": {
+        "en": "A family celebration can be generous without making abundance a competition. Passing on a technique may matter as much as serving a spectacular dish.",
+        "pt": "Uma celebração familiar pode ser generosa sem transformar abundância em competição. Ensinar uma técnica pode importar tanto quanto servir um prato espetacular."
+      },
+      "activity": {
+        "en": "Ask someone how they learned one kitchen skill. Notice the setting in which it was transmitted.",
+        "pt": "Pergunte como alguém aprendeu uma habilidade culinária. Observe o ambiente em que esse saber foi transmitido."
+      },
+      "question": {
+        "en": "What is the common question behind these contrasting examples?",
+        "pt": "Qual pergunta une esses exemplos contrastantes?"
+      },
+      "answer": {
+        "en": "How social arrangements and values shape food, labour, hospitality and the survival of practical knowledge.",
+        "pt": "Como organização social e valores moldam alimentação, trabalho, hospitalidade e preservação de saberes."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 7,
+      "module": 1,
+      "chapters": [
+        1,
+        16
+      ],
+      "pages": [
+        46,
+        47,
+        197,
+        203,
+        206
+      ],
+      "title": {
+        "en": "How did flavour change the world of trade?",
+        "pt": "Como o sabor mudou o mundo do comércio?"
+      },
+      "opening": {
+        "en": "A clove is tiny, yet the demand for spices helped shape trade routes and voyages. The size of an ingredient does not measure its historical importance.",
+        "pt": "Um cravo é minúsculo, mas a procura por especiarias ajudou a moldar rotas comerciais e viagens. O tamanho não mede a importância histórica de um ingrediente."
+      },
+      "teaching": {
+        "en": "Cook follows the demand for pepper and other aromatics through merchants, shipping and the movement of foods between continents. Flavour becomes a link between daily appetite and large economic systems. Her later spice profiles return to actual plant parts: bark, buds, seeds and fruits. Bringing these perspectives together prevents the spice jar from becoming an anonymous commodity. These exchanges also involved conquest and unequal power; a story of new tastes should not erase the people already cultivating the foods. The course does not turn uncertain origin dates into an invented map.",
+        "pt": "Cook acompanha a procura por pimenta e outros aromas entre comerciantes, navegação e circulação de alimentos entre continentes. O sabor liga o apetite cotidiano a grandes sistemas econômicos. Mais tarde, seus perfis retornam às partes da planta: casca, botões florais, sementes e frutos. Juntar essas perspectivas impede que o pote de especiarias seja apenas mercadoria anônima. As trocas envolveram conquista e desigualdade; a história dos novos sabores não deve apagar os povos que já cultivavam os alimentos. O curso não transforma datas incertas em mapas inventados."
+      },
+      "connection": {
+        "en": "In Brazil, cinnamon in a fruit dish and cloves in a festive preparation connect familiar cooking with distant plant histories.",
+        "pt": "No Brasil, canela em frutas e cravo num preparo festivo ligam a cozinha conhecida a histórias de plantas distantes."
+      },
+      "activity": {
+        "en": "Choose a labelled culinary spice. Identify the plant part and the place named on its packaging.",
+        "pt": "Escolha uma especiaria culinária identificada. Descubra a parte da planta e o lugar indicado na embalagem."
+      },
+      "question": {
+        "en": "Why link a spice’s botanical form with its trade history?",
+        "pt": "Por que ligar a forma botânica de uma especiaria à história comercial?"
+      },
+      "answer": {
+        "en": "The first explains what is being used; the second explains how its flavour, value and availability became part of a cuisine.",
+        "pt": "A primeira explica o que usamos; a segunda, como sabor, valor e disponibilidade passaram a integrar uma culinária."
+      },
+      "ingredients": [
+        "cinnamon",
+        "clove"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 8,
+      "module": 1,
+      "chapters": [
+        1
+      ],
+      "pages": [
+        50,
+        51,
+        52,
+        53,
+        55
+      ],
+      "title": {
+        "en": "What changed when food became an industrial product?",
+        "pt": "O que mudou quando a comida virou produto industrial?"
+      },
+      "opening": {
+        "en": "A food can travel farther and last longer, yet the eater may know less about where it came from. Cook asks us to notice both sides of that change.",
+        "pt": "Um alimento pode viajar mais e durar mais, enquanto quem o come sabe menos sobre sua origem. Cook pede atenção aos dois lados dessa mudança."
+      },
+      "teaching": {
+        "en": "Cook connects preservation, transport and advertising with a new relationship between producer and consumer. Processing can reduce labour and make food available beyond its harvest time; it can also change texture, flavour and the economic position of farmers. Her criticism is directed at a system that treats people mainly as consumers and living processes mainly as controllable inputs. Do not reduce this argument to “every process damages food.” Bread, fermented dairy and cooking are also transformations she values. The useful comparison names the particular process and asks what it changes, for whom and at what cost.",
+        "pt": "Cook relaciona conservação, transporte e publicidade a uma nova relação entre produtor e consumidor. O processamento reduz trabalho e amplia a disponibilidade além da colheita; também pode mudar textura, sabor e a posição econômica dos agricultores. Sua crítica mira um sistema que trata pessoas sobretudo como consumidores e processos vivos como insumos controláveis. Isso não equivale a dizer que todo processamento estraga alimentos. Pão, derivados fermentados e cozinha são transformações valorizadas por ela. A comparação útil identifica o processo e pergunta o que muda, para quem e a que custo."
+      },
+      "connection": {
+        "en": "Compare frozen vegetables with a highly formulated snack by looking at their actual ingredients and preparation, not a single “processed” label.",
+        "pt": "Compare legumes congelados e um lanche muito formulado pelos ingredientes e pelo preparo, não por um único rótulo de “processado”."
+      },
+      "activity": {
+        "en": "Compare two packages of the same basic food. Note ingredients, storage needs and the work each saves.",
+        "pt": "Compare duas embalagens de um alimento básico. Observe ingredientes, conservação e trabalho poupado."
+      },
+      "question": {
+        "en": "Why is “all processing is bad” an inadequate summary?",
+        "pt": "Por que “todo processamento é ruim” resume mal o argumento?"
+      },
+      "answer": {
+        "en": "Because Cook values some transformations. Each technique changes food differently and must be examined in its context.",
+        "pt": "Porque Cook valoriza certas transformações. Cada técnica muda o alimento de modo próprio e precisa ser examinada em contexto."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 9,
+      "module": 2,
+      "chapters": [
+        2,
+        15
+      ],
+      "pages": [
+        58,
+        66,
+        189,
+        190
+      ],
+      "title": {
+        "en": "What does it mean to feed the soil?",
+        "pt": "O que significa alimentar o solo?"
+      },
+      "opening": {
+        "en": "Cook’s childhood compost heap changed scraps into material that could support another season’s growth. Waste and nourishment were not separate worlds.",
+        "pt": "A composteira da infância de Cook transformava restos em material para outra estação. Resíduo e alimento não eram mundos separados."
+      },
+      "teaching": {
+        "en": "Cook’s agricultural argument begins with relationships: roots, organic matter, water and organisms form a living context for growth. In her account, humus does more than provide isolated ingredients; it helps the soil hold and organize what plants need. The discussion of mycorrhizal fungi gives a concrete example of exchange: the plant supplies sugars while fungal networks help it access resources. She extends this biological picture into a biodynamic understanding of vitality. Distinguish the observable soil relationship from the spiritual interpretation built around it. Both have roles in the book, but they answer different questions.",
+        "pt": "O argumento agrícola de Cook começa por relações: raízes, matéria orgânica, água e organismos criam um contexto vivo. O húmus não é apenas um conjunto de ingredientes; ajuda o solo a reter e organizar recursos. Os fungos micorrízicos exemplificam uma troca: a planta fornece açúcares e a rede de fungos amplia o acesso a recursos. Cook estende essa imagem biológica à compreensão biodinâmica da vitalidade. A relação observável do solo e a interpretação espiritual têm funções no livro, mas respondem a perguntas diferentes."
+      },
+      "connection": {
+        "en": "A vegetable’s story includes the soil that supported it, not only the fertilizer named on a bag.",
+        "pt": "A história de um legume inclui o solo que o sustentou, não apenas o fertilizante indicado numa embalagem."
+      },
+      "activity": {
+        "en": "Observe purchased garden compost or a maintained compost system without handling unknown waste. Notice texture and how it differs from dry mineral soil.",
+        "pt": "Observe composto de jardim comprado ou uma composteira cuidada, sem manusear resíduos desconhecidos. Compare sua textura com solo mineral seco."
+      },
+      "question": {
+        "en": "Why does Cook resist viewing soil as a container for chemical inputs?",
+        "pt": "Por que Cook resiste a ver o solo como recipiente de insumos químicos?"
+      },
+      "answer": {
+        "en": "Because she emphasizes interactions, structure and ongoing transformation that support the plant, rather than an ingredient list alone.",
+        "pt": "Porque destaca interações, estrutura e transformação contínua que sustentam a planta, não apenas uma lista de ingredientes."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 10,
+      "module": 2,
+      "chapters": [
+        2
+      ],
+      "pages": [
+        65,
+        66,
+        67
+      ],
+      "title": {
+        "en": "How does a biodynamic farm become an organism?",
+        "pt": "Como a fazenda biodinâmica é compreendida como organismo?"
+      },
+      "opening": {
+        "en": "Imagine crops, livestock, compost, water and hedgerows as parts of one working whole. That is the starting image Cook uses.",
+        "pt": "Imagine cultivos, animais, composto, água e cercas vivas como partes de um conjunto. Essa é a imagem inicial de Cook."
+      },
+      "teaching": {
+        "en": "Cook places biodynamics alongside organic methods while giving it a distinctive spiritual framework. The farm is understood to have an individuality: its elements should support one another through cycles of nourishment and transformation. Compost from the farm, diversity and attention to rhythm express that ideal. Planetary influences and preparations belong to this anthroposophical explanation; they are not simply alternative names for measured soil nutrients. The organism image asks whether each decision strengthens relationships within the whole farm. Organic certification, whole-food processing and freshness describe other dimensions and should not be collapsed into one judgement of quality.",
+        "pt": "Cook apresenta a biodinâmica junto dos métodos orgânicos, mas com uma estrutura espiritual própria. A fazenda possui uma individualidade: seus elementos devem se sustentar em ciclos de alimentação e transformação. Composto local, diversidade e atenção ao ritmo expressam esse ideal. Influências planetárias e preparados pertencem à explicação antroposófica; não são nomes alternativos de nutrientes medidos. A imagem do organismo pergunta se cada decisão fortalece relações no conjunto. Certificação orgânica, processamento integral e frescor descrevem outras dimensões e não devem virar um único julgamento de qualidade."
+      },
+      "connection": {
+        "en": "A whole-grain product need not be organic, and an organic product need not be whole grain. The labels answer different questions.",
+        "pt": "Um produto integral não precisa ser orgânico, e um orgânico não precisa ser integral. Os rótulos respondem a perguntas distintas."
+      },
+      "activity": {
+        "en": "Draw five farm elements and connect what each gives or receives. This is an original course exercise.",
+        "pt": "Desenhe cinco elementos da fazenda e ligue o que cada um fornece ou recebe. É uma atividade original do curso."
+      },
+      "question": {
+        "en": "What makes the farm-organism idea more than a list of parts?",
+        "pt": "O que torna a ideia de organismo mais que uma lista de partes?"
+      },
+      "answer": {
+        "en": "It focuses on exchanges, dependence and the farm’s individual context, including the spiritual relationships Cook attributes to it.",
+        "pt": "Ela focaliza trocas, dependência e contexto individual da fazenda, incluindo as relações espirituais atribuídas por Cook."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 11,
+      "module": 2,
+      "chapters": [
+        2,
+        20
+      ],
+      "pages": [
+        68,
+        69,
+        257
+      ],
+      "title": {
+        "en": "Can a shopper share responsibility for a harvest?",
+        "pt": "Quem compra pode compartilhar a responsabilidade pela colheita?"
+      },
+      "opening": {
+        "en": "In community-supported agriculture, the harvest is not merely a product that appears on a shelf. The eater enters a continuing relationship with a farm.",
+        "pt": "Na agricultura apoiada pela comunidade, a colheita não é apenas produto de prateleira. Quem come entra numa relação contínua com a fazenda."
+      },
+      "teaching": {
+        "en": "Cook describes a group sharing the costs of production and, ideally, some risk when crops fail. This changes the farmer–consumer relationship from an isolated purchase to a commitment. Visits and participation can reveal the work behind the food, especially to children. Her conclusion returns to the same idea by treating spending as a form of participation in the world. Access still matters: schedules, transport, money and the amount of food a household can use vary. A relationship with a local seller can be meaningful even when a formal scheme is unavailable. Responsibility is not measured by buying the most expensive label.",
+        "pt": "Cook descreve um grupo que compartilha custos e, idealmente, parte do risco de uma safra frustrada. A relação agricultor–consumidor passa da compra isolada ao compromisso. Visitas e participação revelam o trabalho por trás da comida, especialmente às crianças. A conclusão retorna a isso ao tratar o gasto como participação no mundo. Acesso importa: horários, transporte, dinheiro e capacidade de consumir variam. Relacionar-se com um vendedor local pode ter valor quando não existe um grupo formal. Responsabilidade não se mede pelo rótulo mais caro."
+      },
+      "connection": {
+        "en": "At a Brazilian feira, asking what is in season is a small way to connect the meal with local work and conditions.",
+        "pt": "Na feira brasileira, perguntar o que está na safra aproxima a refeição do trabalho e das condições locais."
+      },
+      "activity": {
+        "en": "Plan one affordable seasonal purchase. Ask what you can use fully before it spoils.",
+        "pt": "Planeje uma compra sazonal possível para seu orçamento. Pergunte o que consegue aproveitar antes de estragar."
+      },
+      "question": {
+        "en": "How does sharing harvest risk change the relationship?",
+        "pt": "Como compartilhar o risco da colheita muda a relação?"
+      },
+      "answer": {
+        "en": "It recognizes farming as a living process with uncertainty, rather than expecting the producer alone to absorb every loss.",
+        "pt": "Reconhece a agricultura como processo vivo e incerto, em vez de deixar toda perda com o produtor."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 12,
+      "module": 3,
+      "chapters": [
+        3
+      ],
+      "pages": [
+        75,
+        76,
+        77,
+        78
+      ],
+      "title": {
+        "en": "What does the fourfold human being mean here?",
+        "pt": "O que significa aqui o ser humano quádruplo?"
+      },
+      "opening": {
+        "en": "A meal involves a body, a living rhythm, sensations and someone who chooses. Cook uses the fourfold account to keep these aspects in view.",
+        "pt": "Uma refeição envolve corpo, ritmo vivo, sensações e alguém que escolhe. Cook usa a compreensão quádrupla para manter esses aspectos presentes."
+      },
+      "teaching": {
+        "en": "In the anthroposophical account Cook presents, the physical body names embodiment, the etheric organization names life and formative activity, the astral names sensation and desire, and the I names individuality. The I is not ordinary selfishness. These terms describe interacting aspects, not four anatomical containers. Cook associates them with earth, water, air and warmth and uses the account to resist treating a human being as a machine receiving fuel. It supplies a language for asking how nourishment relates to growth, experience and self-directed activity. Learn the relationships before applying them to particular foods.",
+        "pt": "Na compreensão antroposófica apresentada por Cook, corpo físico designa a corporeidade; organização etérica, vida e atividade formativa; astral, sensação e desejo; eu, individualidade. O eu não é simples egoísmo. São aspectos interativos, não quatro recipientes anatômicos. Cook os relaciona a terra, água, ar e calor e usa essa visão para resistir à imagem de uma máquina abastecida. Ela oferece linguagem para perguntar como a alimentação se relaciona a crescimento, experiência e ação própria. Compreenda essas relações antes de aplicá-las a alimentos específicos."
+      },
+      "connection": {
+        "en": "The same food can be part of a hurried refuelling break or an attentive shared meal. Cook wants that difference included in the question of nourishment.",
+        "pt": "O mesmo alimento pode integrar um abastecimento apressado ou uma refeição compartilhada com atenção. Cook quer incluir essa diferença na alimentação."
+      },
+      "activity": {
+        "en": "Describe one meal through physical preparation, rhythm, sensory experience and choice, without claiming to measure subtle bodies.",
+        "pt": "Descreva uma refeição pelo preparo físico, ritmo, experiência sensorial e escolha, sem afirmar medir corpos sutis."
+      },
+      "question": {
+        "en": "Why should the four terms not be treated as four separate organs?",
+        "pt": "Por que os quatro termos não devem ser tratados como quatro órgãos separados?"
+      },
+      "answer": {
+        "en": "They describe interacting organizations in Cook’s anthroposophical framework, rather than an anatomical inventory.",
+        "pt": "Descrevem organizações interativas na visão antroposófica de Cook, não um inventário anatômico."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 13,
+      "module": 3,
+      "chapters": [
+        5
+      ],
+      "pages": [
+        98,
+        99,
+        100,
+        101,
+        104
+      ],
+      "title": {
+        "en": "Why is digestion a transformation rather than a transfer?",
+        "pt": "Por que digerir é transformar, e não apenas transferir?"
+      },
+      "opening": {
+        "en": "A slice of bread does not become an unchanged slice inside a person. Chewing and successive digestive processes change its form and relationships.",
+        "pt": "Uma fatia de pão não continua intacta dentro de alguém. Mastigação e processos digestivos sucessivos mudam sua forma e suas relações."
+      },
+      "teaching": {
+        "en": "Cook follows food through chewing, digestive juices, intestinal processing and absorption. Alongside these physiological descriptions she interprets incorporation as overcoming the food’s foreign organization and making it appropriate to the individual. The expressions anti-chemistry and anti-physics identify the spiritual explanation she draws from Steiner; they should not be read as a kitchen experiment disproving physical laws. Cook also acknowledges the limits of her own understanding. The central idea is active assimilation: nourishment depends on what the living person does with food, not only on what the food contains.",
+        "pt": "Cook acompanha mastigação, secreções digestivas, processamento intestinal e absorção. Ao lado dessas descrições, interpreta a incorporação como superação da organização estrangeira do alimento para torná-lo próprio do indivíduo. Antiquímica e antifísica nomeiam a explicação espiritual que encontra em Steiner; não representam uma experiência culinária que refuta leis físicas. Cook reconhece os limites de sua compreensão. A ideia central é assimilação ativa: a alimentação depende do que a pessoa viva faz com a comida, além de sua composição."
+      },
+      "connection": {
+        "en": "Cooking already begins some transformations outside the body. This connects the kitchen with the book’s discussion of inward work.",
+        "pt": "Cozinhar já inicia transformações fora do corpo. Isso liga a cozinha à discussão do trabalho interior."
+      },
+      "activity": {
+        "en": "Compare the visible stages of a grain: dry, soaked and cooked. Do not infer an unseen physiological mechanism from appearance alone.",
+        "pt": "Compare um grão seco, hidratado e cozido. Não deduza um mecanismo fisiológico invisível apenas pela aparência."
+      },
+      "question": {
+        "en": "What distinction is needed when reading this chapter?",
+        "pt": "Que distinção é necessária ao ler esse capítulo?"
+      },
+      "answer": {
+        "en": "Separate the digestive sequence from Cook’s spiritual interpretation of assimilation, while explaining how she connects them.",
+        "pt": "Separe a sequência digestiva da interpretação espiritual da assimilação, explicando como Cook as relaciona."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 14,
+      "module": 3,
+      "chapters": [
+        5
+      ],
+      "pages": [
+        109,
+        111,
+        112
+      ],
+      "title": {
+        "en": "How do the senses prepare us for a meal?",
+        "pt": "Como os sentidos nos preparam para uma refeição?"
+      },
+      "opening": {
+        "en": "The smell of bread can recall a place long before the first bite.",
+        "pt": "O cheiro de pão pode lembrar um lugar antes da primeira mordida."
+      },
+      "teaching": {
+        "en": "Cook broadens nutrition beyond substances swallowed. Smell, colour, sound, touch and the atmosphere of a meal contribute to its experience. Her discussion of the senses belongs to a larger anthroposophical account of human participation in the world. Notice the difference between perceiving an aroma and interpreting what that aroma means: one is an encounter, the other draws on memory and judgement. This helps explain why identical ingredients can be experienced differently at a hurried counter and a welcoming table. It does not mean that appearance changes the measured nutrient content. The chapter invites attention to the conditions in which eating happens.",
+        "pt": "Cook amplia a alimentação para além das substâncias ingeridas. Cheiro, cor, som, tato e ambiente participam da experiência. Sua discussão dos sentidos integra uma compreensão antroposófica da participação humana no mundo. Perceber um aroma e interpretar seu significado são atos diferentes: o primeiro é um encontro; o segundo envolve memória e discernimento. Assim, ingredientes iguais podem ser vividos de formas diferentes numa refeição apressada e numa mesa acolhedora. Isso não significa que a aparência altere os nutrientes medidos. O capítulo convida a observar as condições em que comemos."
+      },
+      "connection": {
+        "en": "Compare an apple’s aroma, surface and sound when cut. Describe observations before assigning meanings.",
+        "pt": "Compare o aroma, a superfície e o som de uma maçã cortada. Descreva antes de interpretar."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Why does Cook include the surroundings of a meal?",
+        "pt": "Por que Cook inclui o ambiente da refeição?"
+      },
+      "answer": {
+        "en": "They shape attention, memory and the experience of eating, alongside the food itself.",
+        "pt": "Eles influenciam atenção, memória e experiência, junto com o próprio alimento."
+      },
+      "ingredients": [
+        "apple"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 15,
+      "module": 3,
+      "chapters": [
+        6
+      ],
+      "pages": [
+        114,
+        117,
+        123,
+        124
+      ],
+      "title": {
+        "en": "What questions does vegetarianism raise?",
+        "pt": "Que perguntas o vegetarianismo levanta?"
+      },
+      "opening": {
+        "en": "A food choice may begin with ethics, habit, cost, religion or taste.",
+        "pt": "Uma escolha alimentar pode começar pela ética, pelo hábito, pelo custo, pela religião ou pelo sabor."
+      },
+      "teaching": {
+        "en": "Cook gives vegetarianism several contexts rather than a single motive. She distinguishes ways of eating that include dairy or eggs from those excluding animal products, and asks how animals are raised and treated. Her discussion of dairy brings a difficult connection into view: milk production also involves breeding and the lives of calves. A label on a diet does not answer every question about husbandry. The chapter therefore moves from personal preference toward responsibility for relationships behind food. Her spiritual interpretation of plant and animal nourishment is part of her viewpoint; it is not a rule that every reader must adopt. Practical nutrition requires reliable information as well as ethical intention.",
+        "pt": "Cook apresenta vários contextos para o vegetarianismo. Distingue dietas com leite ou ovos daquelas que excluem produtos animais e pergunta como os animais são criados. A discussão do leite inclui reprodução e vida dos bezerros: um rótulo de dieta não resolve todas as questões da criação. O capítulo passa da preferência pessoal à responsabilidade pelas relações por trás da comida. A interpretação espiritual da alimentação vegetal e animal pertence à perspectiva da autora; não é uma regra obrigatória. A alimentação prática exige informações confiáveis, além da intenção ética."
+      },
+      "connection": {
+        "en": "Ask what an ingredient label tells you, and what it leaves unanswered about the farm.",
+        "pt": "Pergunte o que o rótulo informa e o que não esclarece sobre a criação."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Does a vegetarian label settle every question about animal welfare?",
+        "pt": "O rótulo vegetariano resolve toda questão de bem-estar animal?"
+      },
+      "answer": {
+        "en": "No. Production methods, breeding and care still need consideration.",
+        "pt": "Não. Métodos de produção, reprodução e cuidado ainda precisam ser considerados."
+      },
+      "ingredients": [
+        "lentils",
+        "beans"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 16,
+      "module": 4,
+      "chapters": [
+        4
+      ],
+      "pages": [
+        80,
+        81
+      ],
+      "title": {
+        "en": "Why begin with the grass plant?",
+        "pt": "Por que começar pela gramínea?"
+      },
+      "opening": {
+        "en": "A cereal is a cultivated grass, not merely a packet of grain.",
+        "pt": "Um cereal é uma gramínea cultivada, não apenas um pacote de grãos."
+      },
+      "teaching": {
+        "en": "Cook begins with roots, shoots and modest flowers before considering the nourishing seed. Fibrous roots hold a plant in the soil; tillering produces additional shoots from the base. This growth habit helps explain the dense appearance of a cereal field. The seed is the harvested food, but it belongs to an entire growing organism and a history of human selection. Her approach reverses the usual view from supermarket to plant: understand the living form first, then ask what cultivation and processing do. Botany describes the observable structures; Cook also gives the grains symbolic qualities. Keeping these levels distinct lets observation support interpretation without pretending to prove it.",
+        "pt": "Cook começa pelas raízes, pelos brotos e pelas flores discretas antes de considerar a semente nutritiva. Raízes fasciculadas fixam a planta; o perfilhamento produz brotos adicionais na base. Esse hábito ajuda a explicar a densidade de um campo de cereais. A semente colhida pertence a um organismo inteiro e a uma história de seleção humana. A autora inverte o olhar do supermercado: primeiro a forma viva, depois o cultivo e o processamento. A botânica descreve estruturas observáveis; Cook também atribui qualidades simbólicas aos cereais. Distinguir esses níveis permite apoiar a interpretação na observação sem tratá-la como prova."
+      },
+      "connection": {
+        "en": "Look at a cereal plant photograph and locate root, stem, leaf and seed-bearing structure.",
+        "pt": "Observe uma fotografia e localize raiz, caule, folha e estrutura com sementes."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "What does tillering mean?",
+        "pt": "O que é perfilhamento?"
+      },
+      "answer": {
+        "en": "The production of additional shoots from the plant’s base.",
+        "pt": "A produção de brotos adicionais a partir da base da planta."
+      },
+      "ingredients": [
+        "wheat",
+        "oats"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "The drying of flowers for seasoning",
+          "pt": "Secagem de flores para temperar"
+        },
+        {
+          "en": "Removal of the seed’s bran",
+          "pt": "Retirada do farelo"
+        },
+        {
+          "en": "Additional shoots from the base",
+          "pt": "Brotos adicionais na base"
+        }
+      ],
+      "correctChoice": 2
+    },
+    {
+      "id": 17,
+      "module": 4,
+      "chapters": [
+        4
+      ],
+      "pages": [
+        84,
+        85
+      ],
+      "title": {
+        "en": "Why are there different forms of wheat?",
+        "pt": "Por que há diferentes formas de trigo?"
+      },
+      "opening": {
+        "en": "Bread, pasta and cracked grain use wheat in different ways.",
+        "pt": "Pão, massa e trigo quebrado usam o trigo de modos diferentes."
+      },
+      "teaching": {
+        "en": "Cook presents wheat as versatile and gives it a central place in her symbolic grain picture. In the kitchen, however, variety and processing matter. Durum wheat is associated with pasta; grain can be cracked for cooking or milled into flour. Whole grain retains its principal components, while refining removes portions of the outer layers and germ. Flour therefore does not simply mean grain made smaller: its composition depends on the milling process. The practical question is which form suits the dish. Cook’s solar image is an interpretation of wheat’s place among grains, separate from these material differences. Spelt and durum remain forms of wheat and contain gluten.",
+        "pt": "Cook apresenta o trigo como versátil e central em sua imagem simbólica dos cereais. Na cozinha, variedade e processamento importam. O trigo duro é associado às massas; o grão pode ser quebrado ou moído. O integral conserva seus principais componentes, enquanto o refino remove partes das camadas externas e do germe. Farinha não é simplesmente um grão menor: sua composição depende da moagem. A pergunta prática é qual forma serve ao prato. A imagem solar de Cook é uma interpretação distinta dessas diferenças materiais. Espelta e trigo duro continuam sendo trigo e contêm glúten."
+      },
+      "connection": {
+        "en": "Compare the ingredient lists of pasta, wholemeal flour and cracked wheat.",
+        "pt": "Compare os ingredientes de massa, farinha integral e trigo quebrado."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Is spelt a gluten-free replacement for wheat?",
+        "pt": "A espelta substitui o trigo numa dieta sem glúten?"
+      },
+      "answer": {
+        "en": "No. Spelt is wheat and contains gluten; see the current guidance in Sources.",
+        "pt": "Não. Espelta é trigo e contém glúten; veja a orientação atual em Fontes."
+      },
+      "ingredients": [
+        "wheat"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Yes: its older cultivation makes it gluten-free",
+          "pt": "Sim: seu cultivo antigo elimina glúten"
+        },
+        {
+          "en": "No: spelt is wheat and contains gluten",
+          "pt": "Não: espelta é trigo e contém glúten"
+        },
+        {
+          "en": "Only when it is wholemeal",
+          "pt": "Apenas quando integral"
+        }
+      ],
+      "correctChoice": 1
+    },
+    {
+      "id": 18,
+      "module": 4,
+      "chapters": [
+        4
+      ],
+      "pages": [
+        86,
+        87,
+        88
+      ],
+      "title": {
+        "en": "What changes when rice is polished?",
+        "pt": "O que muda quando o arroz é polido?"
+      },
+      "opening": {
+        "en": "A grain’s colour can reveal part of its processing history.",
+        "pt": "A cor de um grão pode revelar parte de seu processamento."
+      },
+      "teaching": {
+        "en": "Cook combines rice cultivation, cultural stories and the consequences of milling. Rice requires the work of growers, water management and harvesting before it reaches the pot. Removing the inedible husk produces a grain that can retain bran and germ; further polishing removes these portions to make white rice. Her account of historical deficiency disease illustrates why processing can have nutritional consequences. It does not make one ingredient a complete diet. Varieties also differ in aroma, starch behaviour and cooking texture, so brown and white are not the only distinctions. Wild rice is another grass genus rather than a variety of ordinary rice; that botanical clarification is editorial.",
+        "pt": "Cook relaciona cultivo, narrativas culturais e efeitos da moagem. O arroz exige trabalho, manejo da água e colheita antes da panela. Remover a casca não comestível deixa um grão que pode conservar farelo e germe; o polimento seguinte retira essas partes para produzir arroz branco. A história de doenças por deficiência mostra por que o processamento tem consequências nutricionais, sem transformar um ingrediente numa dieta completa. As variedades também diferem em aroma, amido e textura. Arroz selvagem pertence a outro gênero de gramíneas; essa correção botânica é editorial."
+      },
+      "connection": {
+        "en": "Compare brown and white rice from the same variety if available.",
+        "pt": "Compare arroz integral e branco da mesma variedade, se possível."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "What is removed by additional polishing?",
+        "pt": "O que o polimento adicional remove?"
+      },
+      "answer": {
+        "en": "Bran and germ, beyond the husk already removed.",
+        "pt": "Farelo e germe, além da casca já retirada."
+      },
+      "ingredients": [
+        "rice"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Water absorbed during cooking",
+          "pt": "Água absorvida no preparo"
+        },
+        {
+          "en": "Only the inedible husk",
+          "pt": "Apenas a casca não comestível"
+        },
+        {
+          "en": "Bran and germ",
+          "pt": "Farelo e germe"
+        }
+      ],
+      "correctChoice": 2
+    },
+    {
+      "id": 19,
+      "module": 4,
+      "chapters": [
+        4
+      ],
+      "pages": [
+        88,
+        89
+      ],
+      "title": {
+        "en": "Where are maize flowers and seeds?",
+        "pt": "Onde ficam as flores e sementes do milho?"
+      },
+      "opening": {
+        "en": "Maize makes its flowering structures unusually easy to distinguish.",
+        "pt": "O milho torna suas estruturas florais fáceis de distinguir."
+      },
+      "teaching": {
+        "en": "Cook places maize in its American cultural setting and notices its contrasting upper and lower structures. The tassel at the top bears male flowers; the developing ears lower on the stem bear the structures that produce kernels. Protective leaves surround the ear. The familiar cob thus makes more sense when viewed as part of the whole plant. Maize also reminds us that a crop travels with knowledge: selection, preparation and uses developed in Indigenous cultures before global adoption. A modern supermarket product reveals only a fraction of that relationship. Cook’s attention to form invites readers to reconnect a prepared food with the growing organism and the people who cultivated it.",
+        "pt": "Cook situa o milho nas culturas americanas e observa suas estruturas superiores e inferiores. O pendão no alto contém flores masculinas; as espigas mais abaixo têm as estruturas que originam os grãos. Folhas envolvem a espiga. O sabugo conhecido ganha sentido dentro da planta inteira. O milho também mostra que uma cultura agrícola viaja com saberes: seleção, preparo e usos foram desenvolvidos por povos indígenas antes da difusão mundial. Um produto de supermercado revela apenas parte dessa relação. A atenção à forma reconecta a comida com o organismo vivo e com quem o cultivou."
+      },
+      "connection": {
+        "en": "Find the tassel and ear in a photograph before looking at a bag of kernels.",
+        "pt": "Localize pendão e espiga numa fotografia antes de observar os grãos."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Are tassel and ear the same structure?",
+        "pt": "Pendão e espiga são a mesma estrutura?"
+      },
+      "answer": {
+        "en": "No. They occupy different positions and have different roles in reproduction.",
+        "pt": "Não. Ocupam posições diferentes e têm funções reprodutivas distintas."
+      },
+      "ingredients": [
+        "maize"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Yes: both are names for the cob",
+          "pt": "Sim: ambos são nomes do sabugo"
+        },
+        {
+          "en": "No: their positions and reproductive roles differ",
+          "pt": "Não: posição e função reprodutiva diferem"
+        },
+        {
+          "en": "Yes: both are roots",
+          "pt": "Sim: ambos são raízes"
+        }
+      ],
+      "correctChoice": 1
+    },
+    {
+      "id": 20,
+      "module": 4,
+      "chapters": [
+        4
+      ],
+      "pages": [
+        83,
+        89
+      ],
+      "title": {
+        "en": "Why distinguish millet from sorghum?",
+        "pt": "Por que distinguir milheto de sorgo?"
+      },
+      "opening": {
+        "en": "Cook groups these grains in her sevenfold picture, but a grouping is not a botanical identity.",
+        "pt": "Cook reúne esses cereais na imagem sétupla, mas um grupo não é uma identidade botânica."
+      },
+      "teaching": {
+        "en": "Millet names several small-seeded cereal grasses; sorghum is a distinct cereal. Cook’s arrangement combines them within one of seven grain groups. This is useful for understanding her symbolic scheme, but it should not erase practical differences between plants or packets. Grain size, variety and processing affect water absorption and cooking time. The lesson is to move carefully between a broad cultural grouping and the particular ingredient in hand. A weekly menu can use either without assuming identical behaviour in the saucepan. Read the packet, observe tenderness, and choose a preparation appropriate to that ingredient rather than deriving a recipe from a symbolic association.",
+        "pt": "Milheto designa diferentes gramíneas de sementes pequenas; sorgo é um cereal distinto. Cook os reúne num dos sete grupos. Isso ajuda a entender sua organização simbólica, mas não elimina diferenças entre plantas ou produtos. Tamanho do grão, variedade e processamento alteram hidratação e tempo de cozimento. É preciso distinguir o grupo cultural do ingrediente concreto. Um cardápio pode usar ambos sem presumir comportamento igual na panela. Leia a embalagem, observe a maciez e escolha o preparo pelo ingrediente, não apenas pela associação simbólica."
+      },
+      "connection": {
+        "en": "Locate the exact grain name on a packet rather than relying on a general cereal label.",
+        "pt": "Leia o nome exato do cereal na embalagem."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Does Cook’s grouping make millet and sorghum the same plant?",
+        "pt": "O agrupamento faz de milheto e sorgo a mesma planta?"
+      },
+      "answer": {
+        "en": "No. A symbolic grouping can include botanically distinct cereals.",
+        "pt": "Não. Um grupo simbólico pode incluir cereais botanicamente distintos."
+      },
+      "ingredients": [
+        "millet",
+        "sorghum"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Yes: both must cook for the same time",
+          "pt": "Sim: ambos cozinham no mesmo tempo"
+        },
+        {
+          "en": "Yes: the group defines one species",
+          "pt": "Sim: o grupo define uma espécie"
+        },
+        {
+          "en": "No: symbolic groups can include distinct plants",
+          "pt": "Não: grupos simbólicos incluem plantas distintas"
+        }
+      ],
+      "correctChoice": 2
+    },
+    {
+      "id": 21,
+      "module": 4,
+      "chapters": [
+        4
+      ],
+      "pages": [
+        90,
+        91
+      ],
+      "title": {
+        "en": "What does pearling do to barley?",
+        "pt": "O que o polimento faz com a cevada?"
+      },
+      "opening": {
+        "en": "Whole hulled barley and pearled barley can look similar but cook differently.",
+        "pt": "Cevada integral descascada e cevada perolada podem parecer semelhantes, mas cozinham de modo diferente."
+      },
+      "teaching": {
+        "en": "Cook brings barley into cultural history through food, exchange and religious imagery. In the kitchen, the essential distinction is processing. Hulled barley has had its tough inedible hull removed while retaining more of the grain; pearling abrades further layers. This affects texture and the time needed for cooking. A grain associated with an ancient economy can still ask a very immediate question: which packet is in the cupboard? Cook’s broader account links the crop with forms of communal life. The cooking distinction keeps that story grounded in a material difference that a learner can observe. Both forms contain gluten; pearling does not remove that concern.",
+        "pt": "Cook relaciona cevada a alimentação, troca e imagens religiosas. Na cozinha, a diferença central é o processamento. A cevada integral descascada perde a casca dura, conservando mais do grão; o polimento retira outras camadas. Isso altera textura e tempo de preparo. Um cereal ligado a economias antigas ainda pede uma pergunta concreta: qual produto está no armário? A história conecta a cultura agrícola à vida comunitária; o preparo ancora essa história numa diferença observável. As duas formas contêm glúten; polir não elimina essa questão."
+      },
+      "connection": {
+        "en": "Compare the packet descriptions before selecting a soup cooking time.",
+        "pt": "Compare as embalagens antes de definir o tempo de uma sopa."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "What makes pearled barley different?",
+        "pt": "O que diferencia a cevada perolada?"
+      },
+      "answer": {
+        "en": "Additional outer layers have been abraded away.",
+        "pt": "Outras camadas externas foram removidas por abrasão."
+      },
+      "ingredients": [
+        "barley"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "The grain is fermented",
+          "pt": "O grão é fermentado"
+        },
+        {
+          "en": "Further outer layers are removed",
+          "pt": "Outras camadas externas são retiradas"
+        },
+        {
+          "en": "Gluten is removed completely",
+          "pt": "O glúten é eliminado"
+        }
+      ],
+      "correctChoice": 1
+    },
+    {
+      "id": 22,
+      "module": 4,
+      "chapters": [
+        4
+      ],
+      "pages": [
+        91,
+        92,
+        93
+      ],
+      "title": {
+        "en": "How do oats and rye enter everyday food?",
+        "pt": "Como aveia e centeio entram na alimentação cotidiana?"
+      },
+      "opening": {
+        "en": "Porridge and dark bread reveal two different ways of using a grain.",
+        "pt": "Mingau e pão escuro mostram maneiras diferentes de usar cereais."
+      },
+      "teaching": {
+        "en": "Cook connects oats with porridge traditions and rye with cooler growing regions and bread. These are cultural associations, not exclusive uses. Rolled oats expose a broad surface and soften readily; rye can be milled for bread or cooked as grain. The form sold matters as much as the crop name. Her descriptions encourage familiarity with more than one staple, while the learner must also notice dietary suitability. Rye contains gluten. Oats need particular attention to contamination and individual suitability when following a medically required gluten-free diet. The course does not repeat the OCR’s suggestion that rye is a safe alternative for someone avoiding gluten.",
+        "pt": "Cook associa aveia ao mingau e centeio a regiões mais frias e ao pão. São associações culturais, não usos exclusivos. Flocos de aveia têm ampla superfície e amolecem com facilidade; centeio pode virar farinha ou ser cozido em grãos. A apresentação do produto importa tanto quanto o nome da planta. A autora incentiva conhecer vários alimentos básicos, mas é preciso observar a adequação individual. Centeio contém glúten. Aveia exige atenção à contaminação e à orientação individual numa dieta médica sem glúten. O curso não repete a sugestão do OCR de que centeio seria uma alternativa segura."
+      },
+      "connection": {
+        "en": "Compare a rolled oat with an intact grain: which presents more surface to water?",
+        "pt": "Compare um floco com um grão inteiro: qual expõe mais superfície à água?"
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Can rye replace wheat in a gluten-free diet?",
+        "pt": "Centeio substitui trigo numa dieta sem glúten?"
+      },
+      "answer": {
+        "en": "No. Both contain gluten.",
+        "pt": "Não. Ambos contêm glúten."
+      },
+      "ingredients": [
+        "oats",
+        "rye"
+      ],
+      "recipe": "oat-porridge",
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Yes: milling removes all gluten",
+          "pt": "Sim: moagem remove todo glúten"
+        },
+        {
+          "en": "Yes: its dark colour means no gluten",
+          "pt": "Sim: cor escura indica ausência de glúten"
+        },
+        {
+          "en": "No: rye contains gluten",
+          "pt": "Não: centeio contém glúten"
+        }
+      ],
+      "correctChoice": 2
+    },
+    {
+      "id": 23,
+      "module": 4,
+      "chapters": [
+        4,
+        19
+      ],
+      "pages": [
+        94,
+        95,
+        228
+      ],
+      "title": {
+        "en": "How can a grain rhythm remain creative?",
+        "pt": "Como um ritmo de cereais pode continuar criativo?"
+      },
+      "opening": {
+        "en": "A weekly pattern should make variety easier, rather than become another household burden.",
+        "pt": "Um padrão semanal pode facilitar a variedade, sem virar outra obrigação doméstica."
+      },
+      "teaching": {
+        "en": "Cook describes a seven-day grain rhythm: rice on Monday, oats on Tuesday, millet on Wednesday, rye on Thursday, barley on Friday, maize on Saturday and wheat on Sunday. She also reports an alternative ordering of oats and barley. More importantly, she acknowledges that several associations are tenuous and warns against empty routine. The teaching is therefore not obedience to a timetable. A pattern can remind a cook to vary ingredients and can give children an anticipated rhythm; judgement still needs to consider availability, preference and dietary needs. Page 228’s damaged menu material cannot support a fully verified reconstruction, so this course uses the readable qualification rather than inventing missing entries.",
+        "pt": "Cook descreve arroz na segunda, aveia na terça, milheto na quarta, centeio na quinta, cevada na sexta, milho no sábado e trigo no domingo. Também menciona outra ordem para aveia e cevada. Reconhece que várias associações são frágeis e alerta contra uma rotina vazia. O ensinamento não é obedecer ao calendário. Um padrão pode lembrar a variedade e oferecer um ritmo esperado às crianças; disponibilidade, gosto e necessidades alimentares continuam exigindo discernimento. O material danificado da página 228 não permite reconstruir um cardápio completo verificado. Usamos a ressalva legível, sem inventar as partes ausentes."
+      },
+      "connection": {
+        "en": "Choose two grains for a realistic week. Adapt the pattern to your household.",
+        "pt": "Escolha dois cereais para uma semana realista e adapte o padrão à família."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "What defeats the purpose of the rhythm?",
+        "pt": "O que contraria a finalidade do ritmo?"
+      },
+      "answer": {
+        "en": "Following it rigidly without variety, attention or practical judgement.",
+        "pt": "Segui-lo rigidamente, sem variedade, atenção ou discernimento."
+      },
+      "ingredients": [
+        "rice",
+        "oats",
+        "millet",
+        "rye",
+        "barley",
+        "maize",
+        "wheat"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Adapting to available food",
+          "pt": "Adaptação ao disponível"
+        },
+        {
+          "en": "Rigid routine without practical judgement",
+          "pt": "Rotina rígida sem discernimento"
+        },
+        {
+          "en": "Considering diners’ needs",
+          "pt": "Consideração das necessidades"
+        }
+      ],
+      "correctChoice": 1
+    },
+    {
+      "id": 24,
+      "module": 5,
+      "chapters": [
+        7
+      ],
+      "pages": [
+        128,
+        129,
+        130
+      ],
+      "title": {
+        "en": "What is the threefold plant picture?",
+        "pt": "O que é a imagem tríplice da planta?"
+      },
+      "opening": {
+        "en": "A plant can be observed as root, leaf-and-stem region, and flower-and-fruit region.",
+        "pt": "Uma planta pode ser observada em raiz, região de folhas e caule, e região de flores e frutos."
+      },
+      "teaching": {
+        "en": "Cook relates the rooted region to the human head and nerve-sense organisation, the leafy region to rhythmic life, and flowering and fruiting to metabolic activity. These correspondences belong to her anthroposophical interpretation. They do not mean that eating a root directly treats a head disorder. Her own warning against a rigid formula matters: the whole organism cannot be reduced to three separate ingredients. Begin with observation of position, growth and transformation; then explain how she reads their relationships. The framework becomes useful for noticing the range of plant parts in a meal, while remaining an interpretive picture rather than a clinical prescription.",
+        "pt": "Cook relaciona a raiz à cabeça e à organização neurossensorial humana, as folhas à vida rítmica e flores e frutos à atividade metabólica. São correspondências da interpretação antroposófica, não tratamentos: comer uma raiz não trata diretamente uma doença da cabeça. Sua ressalva contra fórmulas rígidas é essencial; o organismo inteiro não se reduz a três ingredientes. Primeiro observe posição, crescimento e transformação; depois explique como ela interpreta essas relações. A imagem ajuda a notar a diversidade de partes vegetais na refeição, permanecendo interpretação, não prescrição clínica."
+      },
+      "connection": {
+        "en": "Place a carrot, a leafy vegetable and an apple beside one another. Identify the parts before discussing correspondences.",
+        "pt": "Compare cenoura, verdura e maçã. Identifique as partes antes das correspondências."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Is a correspondence the same as a demonstrated treatment?",
+        "pt": "Uma correspondência equivale a um tratamento comprovado?"
+      },
+      "answer": {
+        "en": "No. It is an interpretive relationship in this framework.",
+        "pt": "Não. É uma relação interpretativa nesse quadro."
+      },
+      "ingredients": [
+        "carrot",
+        "leafy-greens",
+        "apple"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Yes: resemblance supplies dosage",
+          "pt": "Sim: semelhança fornece dose"
+        },
+        {
+          "en": "Yes: each plant part treats one organ",
+          "pt": "Sim: cada parte trata um órgão"
+        },
+        {
+          "en": "No: it is an interpretive relationship",
+          "pt": "Não: é uma relação interpretativa"
+        }
+      ],
+      "correctChoice": 2
+    },
+    {
+      "id": 25,
+      "module": 5,
+      "chapters": [
+        7
+      ],
+      "pages": [
+        130,
+        131,
+        132
+      ],
+      "title": {
+        "en": "Can one plant family feed us different parts?",
+        "pt": "Uma família vegetal pode fornecer partes diferentes?"
+      },
+      "opening": {
+        "en": "A turnip, cabbage and broccoli challenge the idea that all vegetables are equivalent shapes.",
+        "pt": "Nabo, repolho e brócolis mostram que hortaliças têm formas diferentes."
+      },
+      "teaching": {
+        "en": "Cook uses plant families to sharpen observation. Within the brassicas, edible structures include roots, leaves, enlarged stems, buds and flowering structures. Kohlrabi is an enlarged stem; cabbage offers leaves; broccoli and cauliflower involve developing flowering structures. The distinctions show why the word vegetable hides many forms. Families can share related growth patterns while presenting different edible organs. Do not let the threefold scheme override what the specimen actually is: a stem is not a root because it looks rounded. Understanding the part helps a cook anticipate texture, cleaning and cutting. The relationship between form and preparation is practical before it becomes symbolic.",
+        "pt": "Cook usa famílias botânicas para tornar a observação mais precisa. Nas brássicas, comemos raízes, folhas, caules engrossados, brotos e estruturas florais. Couve-rábano é caule engrossado; repolho oferece folhas; brócolis e couve-flor incluem estruturas florais em desenvolvimento. A palavra hortaliça esconde muitas formas. Plantas aparentadas podem oferecer órgãos comestíveis distintos. A imagem tríplice não deve substituir a identificação real: um caule arredondado não vira raiz. Conhecer a parte ajuda a prever textura, limpeza e corte. A relação entre forma e preparo é prática antes de ser simbólica."
+      },
+      "connection": {
+        "en": "Identify which plant part your next vegetable dish uses.",
+        "pt": "Identifique a parte vegetal usada em seu próximo prato."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Why is kohlrabi a useful example?",
+        "pt": "Por que couve-rábano é um exemplo útil?"
+      },
+      "answer": {
+        "en": "Its round edible structure is an enlarged stem, showing why shape alone can mislead.",
+        "pt": "Sua parte arredondada é caule engrossado: aparência isolada pode enganar."
+      },
+      "ingredients": [
+        "leafy-greens",
+        "carrot"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Every round vegetable is a root",
+          "pt": "Toda hortaliça redonda é raiz"
+        },
+        {
+          "en": "Its edible round part is an enlarged stem",
+          "pt": "Sua parte redonda é caule engrossado"
+        },
+        {
+          "en": "It belongs to the cereal grasses",
+          "pt": "Pertence às gramíneas cereais"
+        }
+      ],
+      "correctChoice": 1
+    },
+    {
+      "id": 26,
+      "module": 5,
+      "chapters": [
+        7
+      ],
+      "pages": [
+        133,
+        134,
+        135
+      ],
+      "title": {
+        "en": "What does ripening change?",
+        "pt": "O que o amadurecimento transforma?"
+      },
+      "opening": {
+        "en": "A ripening fruit changes aroma, colour and texture as well as taste.",
+        "pt": "Um fruto amadurecendo muda aroma, cor, textura e sabor."
+      },
+      "teaching": {
+        "en": "Cook considers fruits in relation to plant families, flowering and ripening. Her attention to colour also opens an aesthetic and spiritual interpretation of the meal. Start with the changes one can describe: firmness softens, aromas develop, colour shifts and the balance of sweetness and acidity changes. Different fruits follow different patterns, so a vivid colour alone is not a universal test of ripeness. Cook’s colour associations express a reading of experience, rather than a measured healing action of pigments. This distinction allows a learner to enjoy her imagery while giving practical attention to the actual fruit and the dish it will enter.",
+        "pt": "Cook considera os frutos em relação às famílias, à floração e ao amadurecimento. A cor abre também uma interpretação estética e espiritual da refeição. Comece pelo descritível: firmeza, aromas, cor e equilíbrio entre doçura e acidez mudam. Cada fruto segue um padrão; cor viva não é teste universal de maturação. As associações de Cook expressam uma leitura da experiência, não uma ação curativa medida dos pigmentos. Assim, é possível apreciar sua imagem e observar concretamente o fruto que entrará no prato."
+      },
+      "connection": {
+        "en": "Compare two stages of an apple’s ripeness without assuming one observation explains all fruit.",
+        "pt": "Compare dois estágios de uma maçã, sem generalizar para todos os frutos."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Does a colour association prove a healing effect?",
+        "pt": "Uma associação de cor comprova efeito curativo?"
+      },
+      "answer": {
+        "en": "No. Aesthetic or spiritual meaning and measured physiological effects are different kinds of claim.",
+        "pt": "Não. Significado estético ou espiritual e efeito fisiológico medido são afirmações diferentes."
+      },
+      "ingredients": [
+        "apple"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 27,
+      "module": 5,
+      "chapters": [
+        10
+      ],
+      "pages": [
+        150,
+        151,
+        152,
+        155
+      ],
+      "title": {
+        "en": "What should we notice about nightshades?",
+        "pt": "O que observar nas solanáceas?"
+      },
+      "opening": {
+        "en": "A potato is a stem tuber; a tomato is a fruit. Their family relationship does not make them the same food.",
+        "pt": "Batata é tubérculo caulinar; tomate é fruto. O parentesco não os torna iguais."
+      },
+      "teaching": {
+        "en": "Cook brings potato, tomato, pepper and aubergine into a history of travel, resistance and adoption. The potato’s American origin and European dependence illustrate how a crop becomes entangled with social conditions; a crop failure is not only a botanical event. Her spiritual judgements about individual nightshades are interpretations and are not used here to recommend disease restrictions. Botanically, potatoes are enlarged underground stems rather than roots; tomatoes and peppers are fruits. A family also contains plants unsuitable for eating, so recognizing a family never authorizes foraging. The learner should distinguish cultivated culinary ingredients from the wider family and examine each ingredient’s preparation separately.",
+        "pt": "Cook situa batata, tomate, pimentão e berinjela numa história de viagens, resistência e adoção. A origem americana da batata e a dependência europeia mostram como uma cultura se liga às condições sociais; uma perda de colheita não é apenas botânica. Seus juízos espirituais são interpretações, não recomendações contra doenças. Batatas são caules subterrâneos engrossados, não raízes; tomates e pimentões são frutos. A família inclui plantas impróprias para consumo, portanto reconhecer a família nunca autoriza coleta. Diferencie ingredientes cultivados do conjunto maior e considere seus preparos específicos."
+      },
+      "connection": {
+        "en": "Compare the edible structures of potato and tomato. Use purchased culinary ingredients only.",
+        "pt": "Compare batata e tomate usando apenas ingredientes culinários conhecidos."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Is a potato a root?",
+        "pt": "Batata é raiz?"
+      },
+      "answer": {
+        "en": "No. It is a stem tuber.",
+        "pt": "Não. É um tubérculo caulinar."
+      },
+      "ingredients": [
+        "potato",
+        "tomato"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Yes: all underground parts are roots",
+          "pt": "Sim: toda parte subterrânea é raiz"
+        },
+        {
+          "en": "No: potato is a stem tuber",
+          "pt": "Não: batata é tubérculo caulinar"
+        },
+        {
+          "en": "No: potato is a leaf",
+          "pt": "Não: batata é folha"
+        }
+      ],
+      "correctChoice": 1
+    },
+    {
+      "id": 28,
+      "module": 5,
+      "chapters": [
+        11
+      ],
+      "pages": [
+        157,
+        158,
+        159,
+        161
+      ],
+      "title": {
+        "en": "What connects legumes with the soil?",
+        "pt": "O que liga leguminosas ao solo?"
+      },
+      "opening": {
+        "en": "A bean has a place in a dish and a plant has relationships below ground.",
+        "pt": "O feijão participa do prato, e a planta mantém relações no solo."
+      },
+      "teaching": {
+        "en": "Cook considers the distinctive flowers and seeds of legumes and their association with nitrogen-fixing bacteria. In suitable partnerships, bacteria in root nodules help make atmospheric nitrogen available in biological forms. This is a relationship between organisms, not a claim that the plant works entirely alone. Her concern about dependence on one crop, especially soya, asks a second question: what happens when variety is narrowed by an agricultural system? That concern should not be mistaken for rejecting all beans. Cook uses lentils, chickpeas and other legumes in her kitchen. Her practical position joins appreciation of particular ingredients with criticism of excessive dependence on a single crop.",
+        "pt": "Cook observa flores, sementes e a associação das leguminosas com bactérias fixadoras de nitrogênio. Em relações adequadas, bactérias nos nódulos das raízes tornam o nitrogênio atmosférico disponível em formas biológicas. A planta não faz isso sozinha. A preocupação com a dependência de uma cultura, especialmente soja, levanta outra pergunta: o que acontece quando o sistema agrícola reduz a variedade? Isso não significa rejeitar todos os feijões. Cook usa lentilhas, grão-de-bico e outras leguminosas. Aprecia ingredientes concretos e critica a dependência excessiva de uma única cultura."
+      },
+      "connection": {
+        "en": "Compare a lentil, pea and bean; separate seed observations from underground processes you cannot see.",
+        "pt": "Compare lentilha, ervilha e feijão; diferencie observações de processos subterrâneos invisíveis."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Does Cook’s criticism of crop dependence reject all legumes?",
+        "pt": "A crítica à dependência rejeita toda leguminosa?"
+      },
+      "answer": {
+        "en": "No. She distinguishes agricultural dependence from varied culinary use.",
+        "pt": "Não. Ela distingue dependência agrícola e uso culinário variado."
+      },
+      "ingredients": [
+        "lentils",
+        "beans",
+        "peas",
+        "soya"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 29,
+      "module": 6,
+      "chapters": [
+        8
+      ],
+      "pages": [
+        136,
+        139,
+        140,
+        141
+      ],
+      "title": {
+        "en": "Where do different sweeteners come from?",
+        "pt": "De onde vêm diferentes adoçantes?"
+      },
+      "opening": {
+        "en": "Nectar, cane stems, beet roots and tree sap enter different routes to sweetness.",
+        "pt": "Néctar, caules de cana, raízes de beterraba e seiva seguem caminhos diferentes até a doçura."
+      },
+      "teaching": {
+        "en": "Cook begins carbohydrates with plants and their transformation of light, then considers starch, structural material and sugars. Sweeteners reveal different plant parts and processing: cane sugar comes from stems, beet sugar from roots, maple syrup from concentrated sap, and honey involves bees collecting nectar. These origins are not interchangeable stories. Concentration, refining and flavour also affect a recipe. Cook’s preferences for particular sweeteners belong to her culinary and interpretive approach; they do not establish that every less-refined sugar is a health treatment. In this course, sweetness is considered through origin, taste and function in food. No infant-feeding instructions are drawn from the book.",
+        "pt": "Cook parte da transformação da luz nas plantas e considera amido, material estrutural e açúcares. Os adoçantes mostram partes e processos distintos: açúcar de cana vem do caule, de beterraba da raiz, xarope de bordo da seiva concentrada e mel do trabalho das abelhas com néctar. Concentração, refino e sabor também afetam receitas. As preferências de Cook são culinárias e interpretativas; não comprovam que todo açúcar menos refinado seja um tratamento. O curso considera origem, sabor e função. Não reproduz instruções do livro para alimentação de bebês."
+      },
+      "connection": {
+        "en": "Read one sweetener label and identify its origin and processing.",
+        "pt": "Leia um rótulo e identifique origem e processamento."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Why is origin useful but insufficient for choosing a sweetener?",
+        "pt": "Por que a origem ajuda, mas não basta para escolher?"
+      },
+      "answer": {
+        "en": "Taste, concentration, dietary needs and the recipe’s function also matter.",
+        "pt": "Sabor, concentração, necessidades individuais e função na receita também importam."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 30,
+      "module": 6,
+      "chapters": [
+        9
+      ],
+      "pages": [
+        142,
+        144,
+        146,
+        147,
+        148
+      ],
+      "title": {
+        "en": "Why does bread need time?",
+        "pt": "Por que o pão precisa de tempo?"
+      },
+      "opening": {
+        "en": "A dough transforms between mixing and baking; pauses are part of the work.",
+        "pt": "A massa se transforma entre misturar e assar; as pausas fazem parte do trabalho."
+      },
+      "teaching": {
+        "en": "Cook places bread in a long story of grain, companionship and craft. Fermentation gives preparation a rhythm: the baker acts, waits, observes and acts again. Sourdough carries a living culture from one batch to another, while commercial yeast offers a different way of organizing fermentation. Neither label alone guarantees a particular result. Flour, hydration, temperature and time influence dough behaviour. Cook’s wood-fired baking memories describe attention learned through experience, rather than a universal oven setting. Damaged temperature wording and uncertain quantities in the OCR are not usable instructions. The lesson therefore teaches the sequence and the role of observation without presenting an unverified book recipe.",
+        "pt": "Cook situa o pão numa história de cereais, convivência e ofício. A fermentação cria um ritmo: agir, esperar, observar e agir de novo. Fermento natural mantém uma cultura entre fornadas; fermento comercial organiza o processo de outra forma. Nenhum rótulo garante sozinho o resultado. Farinha, água, temperatura e tempo afetam a massa. As lembranças do forno a lenha descrevem atenção adquirida pela experiência, não uma temperatura universal. Trechos danificados e quantidades incertas do OCR não servem de instrução. A lição explica sequência e observação sem apresentar receita do livro como verificada."
+      },
+      "connection": {
+        "en": "Identify which steps in a trusted bread recipe are active work and which are waiting.",
+        "pt": "Identifique trabalho ativo e espera numa receita de pão confiável."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Is waiting simply wasted time in bread making?",
+        "pt": "Esperar é apenas perder tempo na panificação?"
+      },
+      "answer": {
+        "en": "No. Fermentation and dough development continue during the pauses.",
+        "pt": "Não. Fermentação e desenvolvimento continuam nas pausas."
+      },
+      "ingredients": [
+        "wheat",
+        "rye"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Yes: waiting cannot affect bread",
+          "pt": "Sim: esperar não afeta pão"
+        },
+        {
+          "en": "Yes: only mixing changes dough",
+          "pt": "Sim: apenas misturar muda a massa"
+        },
+        {
+          "en": "No: fermentation continues during pauses",
+          "pt": "Não: a fermentação continua nas pausas"
+        }
+      ],
+      "correctChoice": 2
+    },
+    {
+      "id": 31,
+      "module": 6,
+      "chapters": [
+        12
+      ],
+      "pages": [
+        163,
+        169,
+        171,
+        172
+      ],
+      "title": {
+        "en": "How can milk become different foods?",
+        "pt": "Como o leite se transforma em diferentes alimentos?"
+      },
+      "opening": {
+        "en": "Yoghurt, cheese and butter show different transformations of one starting material.",
+        "pt": "Iogurte, queijo e manteiga mostram transformações distintas da mesma matéria inicial."
+      },
+      "teaching": {
+        "en": "Cook treats milk through nurturing, husbandry and culinary transformation. Fermentation changes milk through microbial activity; cheese making involves separating and working the curd; churning cream changes the organization of fat and liquid to produce butter. These are distinct processes, not simply different names for milk. The chapter’s spiritual picture of nourishment belongs to her interpretation, while practical preparation requires current food-safety knowledge. Lactose intolerance and milk-protein allergy are different conditions, and fermentation does not make all dairy suitable for everyone. This course uses pasteurised dairy for any kitchen suggestions and excludes the book’s infant-feeding advice. Understanding a process should lead to informed choices rather than a universal dietary rule.",
+        "pt": "Cook aborda leite por cuidado, criação animal e transformação culinária. Fermentação envolve microrganismos; queijo envolve separação e trabalho da coalhada; bater creme reorganiza gordura e líquido para formar manteiga. São processos distintos. A imagem espiritual pertence à interpretação da autora, enquanto o preparo exige segurança alimentar atual. Intolerância à lactose e alergia à proteína do leite são condições diferentes; fermentar não torna todos os derivados adequados a todos. Usamos apenas leite pasteurizado nas sugestões e excluímos orientações do livro para bebês. Entender processos apoia escolhas informadas, não uma regra universal."
+      },
+      "connection": {
+        "en": "Look for the process and allergen statement on a dairy product label.",
+        "pt": "Procure processo e declaração de alergênicos num rótulo."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Does fermentation remove every dairy-related dietary concern?",
+        "pt": "Fermentar elimina toda questão alimentar do leite?"
+      },
+      "answer": {
+        "en": "No. Product composition and the individual condition still matter.",
+        "pt": "Não. Composição e condição individual continuam importantes."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 32,
+      "module": 6,
+      "chapters": [
+        13
+      ],
+      "pages": [
+        173,
+        174,
+        177,
+        178
+      ],
+      "title": {
+        "en": "What is the story inside an oil bottle?",
+        "pt": "Que história há numa garrafa de óleo?"
+      },
+      "opening": {
+        "en": "An oil can come from a seed or from the fleshy part of a fruit.",
+        "pt": "Um óleo pode vir da semente ou da parte carnosa de um fruto."
+      },
+      "teaching": {
+        "en": "Cook considers plant fats as reserves and gives olive oil a cultural setting in food and light. The kitchen distinction begins with the source: many culinary oils come from seeds, while olive oil comes mainly from fruit flesh. Extraction and refining are further steps with their own effects on flavour and use. Oil also changes a dish materially: it carries aromas, coats surfaces and can be dispersed in an emulsion. Cook’s language of warmth gives these observations an interpretive dimension; it should not replace an understanding of the particular oil or its cooking directions. Store oils according to the label and protect them from unnecessary light and heat.",
+        "pt": "Cook considera gorduras vegetais como reservas e situa azeite na alimentação e iluminação. Muitos óleos culinários vêm de sementes; azeite vem principalmente da polpa do fruto. Extração e refino são etapas com efeitos próprios no sabor e uso. Óleo também carrega aromas, recobre superfícies e pode formar emulsões. A linguagem de calor de Cook acrescenta interpretação, sem substituir o conhecimento do óleo específico e suas instruções. Armazene conforme o rótulo e proteja da luz e do calor desnecessários."
+      },
+      "connection": {
+        "en": "Identify the plant part and processing named on an oil label.",
+        "pt": "Identifique parte vegetal e processamento no rótulo."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Does all plant oil come from seeds?",
+        "pt": "Todo óleo vegetal vem de sementes?"
+      },
+      "answer": {
+        "en": "No. Olive oil comes mainly from the flesh of the olive fruit.",
+        "pt": "Não. Azeite vem principalmente da polpa da azeitona."
+      },
+      "ingredients": [
+        "olive-oil"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Yes: olives are cereal seeds",
+          "pt": "Sim: azeitonas são sementes de cereais"
+        },
+        {
+          "en": "Yes: fruit flesh contains no oil",
+          "pt": "Sim: polpa não contém óleo"
+        },
+        {
+          "en": "No: olive oil comes mainly from fruit flesh",
+          "pt": "Não: azeite vem principalmente da polpa"
+        }
+      ],
+      "correctChoice": 2
+    },
+    {
+      "id": 33,
+      "module": 6,
+      "chapters": [
+        14,
+        15
+      ],
+      "pages": [
+        181,
+        182,
+        183,
+        189,
+        190,
+        191
+      ],
+      "title": {
+        "en": "Why discuss salt alongside soil minerals?",
+        "pt": "Por que discutir sal e minerais do solo?"
+      },
+      "opening": {
+        "en": "Salt crystals and living soil belong to very different kinds of relationship.",
+        "pt": "Cristais de sal e solo vivo pertencem a relações muito diferentes."
+      },
+      "teaching": {
+        "en": "Cook connects salt with preservation, exchange and political power, including Gandhi’s salt march. She also uses its crystallization and dissolution as interpretive images. In the minerals chapter, attention shifts to relationships in soil: mineral particles, organic matter and organisms do not act as an isolated list of substances. Together the chapters challenge a view of food built only from detached ingredients. Yet a cultural or spiritual meaning does not tell us an appropriate salt intake or supplement dose. This course teaches the distinction between a substance’s material behaviour, its social history and the author’s interpretation. Supplement use and medical needs lie outside this lesson.",
+        "pt": "Cook liga sal à conservação, à troca e ao poder político, incluindo a marcha de Gandhi. Cristalização e dissolução também viram imagens interpretativas. No capítulo dos minerais, o foco passa às relações do solo: partículas, matéria orgânica e organismos não são uma lista isolada de substâncias. Os capítulos questionam uma visão da comida feita apenas de componentes separados. Contudo, significado cultural ou espiritual não define ingestão de sal nem doses de suplementos. Diferenciamos comportamento material, história social e interpretação da autora. Necessidades médicas e uso de suplementos ficam fora desta lição."
+      },
+      "connection": {
+        "en": "Observe a pinch of salt dissolving in water; distinguish what you saw from what the image might suggest.",
+        "pt": "Observe uma pitada de sal dissolver na água e separe observação de interpretação."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Can symbolism determine a supplement dose?",
+        "pt": "O simbolismo pode determinar uma dose de suplemento?"
+      },
+      "answer": {
+        "en": "No. Symbolic meaning does not provide a clinical dosage.",
+        "pt": "Não. Significado simbólico não fornece dosagem clínica."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 34,
+      "module": 6,
+      "chapters": [
+        16
+      ],
+      "pages": [
+        197,
+        198,
+        199,
+        203,
+        204,
+        207
+      ],
+      "title": {
+        "en": "Which plant part flavours the meal?",
+        "pt": "Que parte da planta tempera a refeição?"
+      },
+      "opening": {
+        "en": "Leaves, seeds, bark, flower buds and rhizomes can all be seasonings.",
+        "pt": "Folhas, sementes, casca, botões florais e rizomas podem temperar."
+      },
+      "teaching": {
+        "en": "Cook’s herb and spice descriptions connect flavour with plant form and cultural use. Coriander leaves differ from its seeds; cinnamon uses bark; cloves are flower buds; ginger is a rhizome, an underground stem. Calling them all spices hides these distinctions. Freshness, drying and heat can change the flavour presented to the diner, so timing is part of seasoning. Cook also observes the difference between raw and cooked garlic. Her arrangement of tastes is her framework rather than a replacement for contemporary sensory science. The practical lesson is to attend to a particular ingredient and compare a small amount before assuming that more seasoning will improve a dish.",
+        "pt": "Cook liga sabor, forma vegetal e uso cultural. Folhas e sementes de coentro diferem; canela é casca; cravo é botão floral; gengibre é rizoma, um caule subterrâneo. Chamá-los todos de especiarias esconde diferenças. Secagem e calor alteram sabor, portanto o momento de adicionar importa. Cook observa também alho cru e cozido. Sua organização dos sabores é um quadro próprio, não substituto da ciência sensorial atual. A lição prática é conhecer o ingrediente e comparar pequenas quantidades antes de presumir que mais tempero melhora o prato."
+      },
+      "connection": {
+        "en": "Compare the aroma of whole and crushed coriander seed.",
+        "pt": "Compare o aroma de sementes de coentro inteiras e esmagadas."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Which of these is a flower bud: cinnamon, clove or ginger?",
+        "pt": "Qual é botão floral: canela, cravo ou gengibre?"
+      },
+      "answer": {
+        "en": "Clove. Cinnamon is bark and ginger is a rhizome.",
+        "pt": "Cravo. Canela é casca e gengibre é rizoma."
+      },
+      "ingredients": [
+        "coriander",
+        "cinnamon",
+        "clove",
+        "ginger",
+        "rosemary"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Ginger",
+          "pt": "Gengibre"
+        },
+        {
+          "en": "Cinnamon",
+          "pt": "Canela"
+        },
+        {
+          "en": "Clove",
+          "pt": "Cravo"
+        }
+      ],
+      "correctChoice": 2
+    },
+    {
+      "id": 35,
+      "module": 6,
+      "chapters": [
+        17
+      ],
+      "pages": [
+        208,
+        209,
+        211,
+        212
+      ],
+      "title": {
+        "en": "What travels with coffee, tea and cocoa?",
+        "pt": "O que acompanha café, chá e cacau?"
+      },
+      "opening": {
+        "en": "A familiar drink carries processing, trade and social ritual.",
+        "pt": "Uma bebida conhecida reúne processamento, comércio e ritual social."
+      },
+      "teaching": {
+        "en": "Cook approaches coffee through stories of discovery and the development of a drink culture. The familiar roasted bean is a seed from a fruit; roasting is part of its transformation. Tea begins with leaves, and cocoa with seeds, but the final drink or confection may contain many additional ingredients. This makes a useful distinction between a plant source and a finished product. Cook also gives these foods spiritual and cultural readings. A coffee legend is not a verified discovery date, and an interpretation of concentration is not a promise of benefit for every drinker. The lesson asks what preparation and social setting add to the plant material.",
+        "pt": "Cook aborda café por narrativas de descoberta e cultura da bebida. O grão torrado é semente de um fruto; torrar participa da transformação. Chá começa com folhas e cacau com sementes, mas bebidas e doces podem conter muitos ingredientes adicionais. Diferencie origem vegetal e produto acabado. Cook também oferece leituras espirituais e culturais. Uma lenda não é data de descoberta verificada; uma interpretação da concentração não promete benefício para todos. A lição pergunta o que preparo e ambiente social acrescentam à matéria vegetal."
+      },
+      "connection": {
+        "en": "Compare the ingredient lists of cocoa powder and a chocolate bar.",
+        "pt": "Compare ingredientes de cacau em pó e uma barra de chocolate."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Why is cocoa not identical to every chocolate product?",
+        "pt": "Por que cacau não equivale a qualquer chocolate?"
+      },
+      "answer": {
+        "en": "Finished products include processing and often additional ingredients.",
+        "pt": "Produtos acabados envolvem processamento e frequentemente outros ingredientes."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 36,
+      "module": 6,
+      "chapters": [
+        18
+      ],
+      "pages": [
+        214,
+        215
+      ],
+      "title": {
+        "en": "Why does water receive its own chapter?",
+        "pt": "Por que a água recebe um capítulo próprio?"
+      },
+      "opening": {
+        "en": "Water connects the field, the plant and the cooking pot.",
+        "pt": "A água liga campo, planta e panela."
+      },
+      "teaching": {
+        "en": "Cook attends to water as a moving medium rather than an inert background. Her discussion draws on an anthroposophical interest in flow and formative processes. In cooking, water has observable roles: hydration, dissolving and carrying heat. A dry grain can swell and soften because preparation joins water with time and temperature. These practical changes do not by themselves verify the chapter’s spiritual account of formative forces. Read the interpretation alongside the observable process, with their different purposes clear. All course kitchen activities use safe drinking water. The book’s broader judgements about water treatment are not adopted as instructions to avoid safe supplies.",
+        "pt": "Cook considera água um meio em movimento, não apenas fundo inerte. Sua discussão se liga ao interesse antroposófico pelo fluxo e pela formação. Na cozinha, água hidrata, dissolve e transporta calor. Um grão seco incha e amolece pela combinação de água, tempo e temperatura. Essas mudanças não comprovam por si a interpretação espiritual das forças formativas. Observe ambos os níveis e suas finalidades distintas. As atividades usam água potável. Juízos gerais do livro sobre tratamento de água não são instruções para evitar fontes seguras."
+      },
+      "connection": {
+        "en": "Observe dry and cooked oats and describe what water and heat changed.",
+        "pt": "Observe aveia seca e cozida e descreva mudanças da água e do calor."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "What is a directly observable role of water in cooking grain?",
+        "pt": "Que função da água é observável ao cozinhar cereais?"
+      },
+      "answer": {
+        "en": "Hydration and heat transfer contribute to swelling and softening.",
+        "pt": "Hidratação e transporte de calor contribuem para inchar e amolecer."
+      },
+      "ingredients": [
+        "oats",
+        "rice"
+      ],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed",
+      "choices": [
+        {
+          "en": "Turning a grain into another species",
+          "pt": "Transformação em outra espécie"
+        },
+        {
+          "en": "Removal of every allergen",
+          "pt": "Eliminação de todo alergênico"
+        },
+        {
+          "en": "Hydration and heat transfer",
+          "pt": "Hidratação e transferência de calor"
+        }
+      ],
+      "correctChoice": 2
+    },
+    {
+      "id": 37,
+      "module": 7,
+      "chapters": [
+        19
+      ],
+      "pages": [
+        220,
+        222,
+        223,
+        224,
+        226,
+        227
+      ],
+      "title": {
+        "en": "How do we plan a meal that can actually happen?",
+        "pt": "Como planejar uma refeição possível?"
+      },
+      "opening": {
+        "en": "Time, budget, season and the people eating belong in the plan.",
+        "pt": "Tempo, orçamento, estação e pessoas fazem parte do plano."
+      },
+      "teaching": {
+        "en": "Cook moves from images of balanced plant parts to the realities of a household. Consider available food, the diners’ preferences, season, cost and the time for preparation. Root, leaf, fruit and grain can encourage variety without becoming obligatory compartments on every plate. Her discussion of local and organic choices also invites judgement rather than a single label deciding everything. Start longer preparations first; keep the final steps manageable. A well-stocked pantry helps, but it need not be large or expensive. Planning supports care when it reduces confusion and makes a shared meal feasible. A perfect theoretical menu that nobody can prepare misses that purpose.",
+        "pt": "Cook passa das imagens de equilíbrio às condições domésticas. Considere disponibilidade, preferências, estação, custo e tempo. Raiz, folha, fruto e cereal podem favorecer variedade sem virar compartimentos obrigatórios em todo prato. Escolhas locais e orgânicas também exigem discernimento. Comece os preparos longos primeiro e simplifique as etapas finais. Uma despensa útil não precisa ser cara ou grande. Planejar apoia o cuidado quando reduz confusão e torna a refeição possível. Um cardápio perfeito na teoria, mas impossível de preparar, perde essa finalidade."
+      },
+      "connection": {
+        "en": "Build a meal from ingredients already available; identify the step that takes longest.",
+        "pt": "Monte uma refeição com o disponível e identifique a etapa mais longa."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "What should a household meal plan account for?",
+        "pt": "O que deve entrar no planejamento doméstico?"
+      },
+      "answer": {
+        "en": "Food availability, dietary needs, preferences, time, cost and season.",
+        "pt": "Disponibilidade, necessidades alimentares, preferências, tempo, custo e estação."
+      },
+      "ingredients": [
+        "lentils",
+        "carrot",
+        "leafy-greens"
+      ],
+      "recipe": "roasted-roots",
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 38,
+      "module": 7,
+      "chapters": [
+        19
+      ],
+      "pages": [
+        224,
+        225,
+        237,
+        240,
+        241,
+        242
+      ],
+      "title": {
+        "en": "How does heat become a cooking tool?",
+        "pt": "Como o calor se torna ferramenta culinária?"
+      },
+      "opening": {
+        "en": "Steaming, simmering and roasting bring different conditions to a vegetable.",
+        "pt": "Vapor, fervura suave e forno criam condições diferentes."
+      },
+      "teaching": {
+        "en": "Cook treats cooking as craft, science and art. Her fire stories give the hearth cultural meaning, while her descriptions of techniques return to practical transformation. Heat reaches food through different arrangements: surrounding water, steam, a pan surface or oven air. These conditions change texture and moisture differently. Choose a method for the desired result rather than assuming one heat source suits everything. Cook has personal and spiritual preferences about appliances, but those preferences are not adopted here as claims that properly used modern ovens cause disease. The kitchen lesson uses ordinary equipment, safe handling and visible doneness cues. An original soup activity illustrates patient softening without reconstructing an uncertain book recipe.",
+        "pt": "Cook trata cozinha como ofício, ciência e arte. Histórias do fogo dão sentido cultural; técnicas mostram transformações concretas. Calor chega por água, vapor, panela ou ar do forno, mudando textura e umidade de modos diferentes. Escolha pelo resultado desejado. Preferências pessoais e espirituais da autora sobre aparelhos não são afirmações do curso de que fornos modernos usados corretamente causem doenças. Usamos equipamentos comuns, manuseio seguro e sinais de ponto. Uma sopa original ilustra o amolecimento gradual sem reconstruir receita incerta."
+      },
+      "connection": {
+        "en": "Use the original lentil soup activity if you want to observe softening.",
+        "pt": "Use a sopa original de lentilha para observar o amolecimento."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "Why does the method matter as well as the temperature?",
+        "pt": "Por que o método importa além da temperatura?"
+      },
+      "answer": {
+        "en": "Water, steam, surfaces and oven air deliver heat and affect moisture differently.",
+        "pt": "Água, vapor, superfícies e ar transferem calor e afetam umidade de modos diferentes."
+      },
+      "ingredients": [
+        "lentils",
+        "carrot"
+      ],
+      "recipe": "lentil-soup",
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    },
+    {
+      "id": 39,
+      "module": 7,
+      "chapters": [
+        19,
+        20
+      ],
+      "pages": [
+        247,
+        248,
+        249,
+        251,
+        252,
+        255,
+        257
+      ],
+      "title": {
+        "en": "What makes a meal something shared?",
+        "pt": "O que torna uma refeição compartilhada?"
+      },
+      "opening": {
+        "en": "Washing vegetables, setting a table and welcoming someone are parts of the meal.",
+        "pt": "Lavar legumes, pôr a mesa e acolher alguém fazem parte da refeição."
+      },
+      "teaching": {
+        "en": "Cook’s final kitchen pages connect nourishment with participation. Children can help through appropriate small tasks; a familiar rhythm can offer orientation without requiring rigid routine. A table’s meaning comes from the people and attention around it, not an expensive arrangement. Her conclusion links thought, feeling and action with choices about food and spending. The practical implication is modest but substantial: a purchase supports relationships, a preparation expresses care, and a shared meal creates time together. This is the thread joining soil, crop and kitchen throughout Foodwise. It remains possible in a simple meal and an imperfect household schedule. Participation is invited, never assessed through compulsory diaries or scores.",
+        "pt": "As páginas finais ligam alimentação e participação. Crianças podem ajudar em tarefas adequadas; um ritmo conhecido orienta sem impor rigidez. O sentido da mesa vem das pessoas e da atenção, não de decoração cara. A conclusão relaciona pensar, sentir e agir às escolhas de alimentos e gastos. Comprar apoia relações; preparar expressa cuidado; compartilhar cria tempo juntos. Esse fio une solo, planta e cozinha no Foodwise. Cabe numa refeição simples e numa rotina imperfeita. A participação é convite, sem diários obrigatórios ou notas."
+      },
+      "connection": {
+        "en": "Invite a willing helper to wash produce or set the table; keep hot pans and sharp tools with the adult.",
+        "pt": "Convide alguém a lavar alimentos ou pôr a mesa; panelas quentes e facas ficam com o adulto."
+      },
+      "activity": {
+        "en": "Optional: explain the idea in your own words, using a familiar food as your example.",
+        "pt": "Opcional: explique a ideia com suas palavras, usando um alimento conhecido como exemplo."
+      },
+      "question": {
+        "en": "How does the final chapter connect back to the farm?",
+        "pt": "Como a conclusão retorna à fazenda?"
+      },
+      "answer": {
+        "en": "Everyday choices connect preparation and companionship with growers, soil and economic relationships.",
+        "pt": "Escolhas cotidianas ligam preparo e convivência a agricultores, solo e relações econômicas."
+      },
+      "ingredients": [],
+      "recipe": null,
+      "provenance": "attributed-paraphrase-from-readable-OCR",
+      "activityProvenance": "course-designed"
+    }
+  ],
+  "ingredients": [
+    {
+      "slug": "wheat",
+      "title": {
+        "en": "Wheat",
+        "pt": "Trigo"
+      },
+      "plantPart": {
+        "en": "Seed; cereal grass",
+        "pt": "Semente; gramínea cereal"
+      },
+      "pages": [
+        84,
+        85
+      ],
+      "book": {
+        "en": "Cook connects wheat’s versatility with a central symbolic place among cereals.",
+        "pt": "Cook liga sua versatilidade a um lugar simbólico central."
+      },
+      "kitchen": {
+        "en": "Wholemeal flour, durum pasta and cracked grain are different processed forms. Contains gluten.",
+        "pt": "Farinha integral, massa de trigo duro e grão quebrado são formas distintas. Contém glúten."
+      },
+      "lessonIds": [
+        2,
+        4,
+        16,
+        17,
+        23,
+        30
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "rice",
+      "title": {
+        "en": "Rice",
+        "pt": "Arroz"
+      },
+      "plantPart": {
+        "en": "Seed; cereal grass",
+        "pt": "Semente; gramínea cereal"
+      },
+      "pages": [
+        86,
+        87,
+        88
+      ],
+      "book": {
+        "en": "Cook combines cultivation, cultural narrative and the consequences of polishing.",
+        "pt": "Cook reúne cultivo, narrativa cultural e efeitos do polimento."
+      },
+      "kitchen": {
+        "en": "Compare husk removal with removal of bran and germ; use packet cooking directions.",
+        "pt": "Diferencie retirada da casca e retirada de farelo e germe; siga a embalagem."
+      },
+      "lessonIds": [
+        18,
+        23,
+        36
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "maize",
+      "title": {
+        "en": "Maize",
+        "pt": "Milho"
+      },
+      "plantPart": {
+        "en": "Seed; cereal grass",
+        "pt": "Semente; gramínea cereal"
+      },
+      "pages": [
+        88,
+        89
+      ],
+      "book": {
+        "en": "Cook situates maize in the Americas and notices tassel and ear.",
+        "pt": "Cook situa milho nas Américas e observa pendão e espiga."
+      },
+      "kitchen": {
+        "en": "Fresh kernels, meal and dried whole grain need different preparations.",
+        "pt": "Grãos frescos, farinha e grãos secos exigem preparos diferentes."
+      },
+      "lessonIds": [
+        19,
+        23
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "millet",
+      "title": {
+        "en": "Millet",
+        "pt": "Milheto"
+      },
+      "plantPart": {
+        "en": "Small seeds of several cereal grasses",
+        "pt": "Sementes pequenas de diferentes gramíneas"
+      },
+      "pages": [
+        83,
+        89
+      ],
+      "book": {
+        "en": "Cook groups millet and sorghum in her sevenfold grain arrangement.",
+        "pt": "Cook agrupa milheto e sorgo na organização sétupla."
+      },
+      "kitchen": {
+        "en": "Identify the exact product; grouping does not imply identical cooking times.",
+        "pt": "Identifique o produto; agrupar não significa cozinhar no mesmo tempo."
+      },
+      "lessonIds": [
+        20,
+        23
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "sorghum",
+      "title": {
+        "en": "Sorghum",
+        "pt": "Sorgo"
+      },
+      "plantPart": {
+        "en": "Seed; cereal grass distinct from millet",
+        "pt": "Semente; cereal distinto do milheto"
+      },
+      "pages": [
+        83,
+        89
+      ],
+      "book": {
+        "en": "Sorghum shares a symbolic group with millet in Cook’s arrangement.",
+        "pt": "Sorgo compartilha um grupo simbólico com milheto."
+      },
+      "kitchen": {
+        "en": "Observe whole grain versus flour; use a preparation appropriate to the form.",
+        "pt": "Observe grão e farinha; escolha um preparo adequado à forma."
+      },
+      "lessonIds": [
+        20
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "barley",
+      "title": {
+        "en": "Barley",
+        "pt": "Cevada"
+      },
+      "plantPart": {
+        "en": "Seed; cereal grass",
+        "pt": "Semente; gramínea cereal"
+      },
+      "pages": [
+        90,
+        91
+      ],
+      "book": {
+        "en": "Cook relates barley to food, exchange and cultural imagery.",
+        "pt": "Cook relaciona cevada à comida, às trocas e às imagens culturais."
+      },
+      "kitchen": {
+        "en": "Hulled and pearled barley differ in removed layers and cooking time. Both contain gluten.",
+        "pt": "Cevada descascada e perolada diferem nas camadas retiradas e no tempo. Ambas contêm glúten."
+      },
+      "lessonIds": [
+        5,
+        21,
+        23
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "oats",
+      "title": {
+        "en": "Oats",
+        "pt": "Aveia"
+      },
+      "plantPart": {
+        "en": "Seed; cereal grass",
+        "pt": "Semente; gramínea cereal"
+      },
+      "pages": [
+        91,
+        92
+      ],
+      "book": {
+        "en": "Cook emphasizes porridge traditions and a familiar daily grain.",
+        "pt": "Cook destaca tradições de mingau e um cereal cotidiano."
+      },
+      "kitchen": {
+        "en": "Rolled oats soften faster than intact groats. Gluten-free suitability needs careful product selection.",
+        "pt": "Flocos amolecem mais rápido que grãos inteiros. Adequação sem glúten exige escolha cuidadosa."
+      },
+      "lessonIds": [
+        16,
+        22,
+        23,
+        36
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "rye",
+      "title": {
+        "en": "Rye",
+        "pt": "Centeio"
+      },
+      "plantPart": {
+        "en": "Seed; cereal grass",
+        "pt": "Semente; gramínea cereal"
+      },
+      "pages": [
+        92,
+        93
+      ],
+      "book": {
+        "en": "Cook connects rye with cooler regions and bread.",
+        "pt": "Cook liga centeio a regiões frias e ao pão."
+      },
+      "kitchen": {
+        "en": "Rye contains gluten. It is not a substitute for wheat in a medically required gluten-free diet.",
+        "pt": "Contém glúten. Não substitui trigo numa dieta médica sem glúten."
+      },
+      "lessonIds": [
+        22,
+        23,
+        30
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "lentils",
+      "title": {
+        "en": "Lentils",
+        "pt": "Lentilhas"
+      },
+      "plantPart": {
+        "en": "Seeds; legumes",
+        "pt": "Sementes; leguminosas"
+      },
+      "pages": [
+        157,
+        159,
+        161
+      ],
+      "book": {
+        "en": "Cook’s criticism of dependence on one crop does not prevent her use of lentils.",
+        "pt": "A crítica à dependência de uma cultura não impede Cook de usar lentilhas."
+      },
+      "kitchen": {
+        "en": "Split red lentils soften and break down in soup; whole varieties hold shape differently.",
+        "pt": "Lentilhas vermelhas partidas amolecem e se desfazem; variedades inteiras mantêm outra textura."
+      },
+      "lessonIds": [
+        15,
+        28,
+        37,
+        38
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "beans",
+      "title": {
+        "en": "Beans",
+        "pt": "Feijões"
+      },
+      "plantPart": {
+        "en": "Seeds; legumes",
+        "pt": "Sementes; leguminosas"
+      },
+      "pages": [
+        157,
+        159,
+        161
+      ],
+      "book": {
+        "en": "Cook includes beans within varied culinary use and soil relationships.",
+        "pt": "Cook inclui feijões na variedade culinária e nas relações do solo."
+      },
+      "kitchen": {
+        "en": "Use a trusted recipe for the specific dried bean, or ready-cooked canned beans. Do not eat raw dried beans.",
+        "pt": "Use receita confiável para o feijão específico ou feijão enlatado já cozido. Não coma feijão seco cru."
+      },
+      "lessonIds": [
+        15,
+        28
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "peas",
+      "title": {
+        "en": "Peas",
+        "pt": "Ervilhas"
+      },
+      "plantPart": {
+        "en": "Seeds; legumes",
+        "pt": "Sementes; leguminosas"
+      },
+      "pages": [
+        16,
+        157
+      ],
+      "book": {
+        "en": "Pea gleaning appears in Cook’s childhood account; legumes later receive a chapter.",
+        "pt": "Recolher ervilhas aparece na infância de Cook; leguminosas depois recebem um capítulo."
+      },
+      "kitchen": {
+        "en": "Fresh peas and dried split peas are different ingredients, with different cooking needs.",
+        "pt": "Ervilhas frescas e secas partidas têm necessidades diferentes de preparo."
+      },
+      "lessonIds": [
+        28
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "soya",
+      "title": {
+        "en": "Soya",
+        "pt": "Soja"
+      },
+      "plantPart": {
+        "en": "Seeds; legumes",
+        "pt": "Sementes; leguminosas"
+      },
+      "pages": [
+        159,
+        160,
+        161
+      ],
+      "book": {
+        "en": "Cook questions agricultural dependence on soya without rejecting every legume.",
+        "pt": "Cook questiona a dependência agrícola da soja sem rejeitar toda leguminosa."
+      },
+      "kitchen": {
+        "en": "Whole beans, tofu and fermented products have different processing histories. Soy is an allergen.",
+        "pt": "Grãos, tofu e produtos fermentados têm processamentos distintos. Soja é alergênico."
+      },
+      "lessonIds": [
+        28
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "carrot",
+      "title": {
+        "en": "Carrot",
+        "pt": "Cenoura"
+      },
+      "plantPart": {
+        "en": "Root",
+        "pt": "Raiz"
+      },
+      "pages": [
+        130
+      ],
+      "book": {
+        "en": "Cook notices carrot form alongside other related plants.",
+        "pt": "Cook observa a cenoura junto de plantas aparentadas."
+      },
+      "kitchen": {
+        "en": "Cut evenly for even cooking; compare raw firmness with a cooked piece that yields to a fork.",
+        "pt": "Corte uniformemente; compare firmeza crua com uma peça cozida macia ao garfo."
+      },
+      "lessonIds": [
+        24,
+        25,
+        37,
+        38
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "leafy-greens",
+      "title": {
+        "en": "Leafy greens",
+        "pt": "Verduras"
+      },
+      "plantPart": {
+        "en": "Leaves; identify the particular species",
+        "pt": "Folhas; identifique a espécie"
+      },
+      "pages": [
+        129,
+        131,
+        132
+      ],
+      "book": {
+        "en": "Leaf form supports Cook’s middle-region plant picture.",
+        "pt": "A forma foliar participa da região intermediária na imagem de Cook."
+      },
+      "kitchen": {
+        "en": "Use familiar culinary greens; thick stems can need longer cooking than delicate leaves.",
+        "pt": "Use verduras culinárias conhecidas; talos grossos podem exigir mais tempo que folhas."
+      },
+      "lessonIds": [
+        24,
+        25,
+        37
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "apple",
+      "title": {
+        "en": "Apple",
+        "pt": "Maçã"
+      },
+      "plantPart": {
+        "en": "Fruit",
+        "pt": "Fruto"
+      },
+      "pages": [
+        133,
+        134,
+        135
+      ],
+      "book": {
+        "en": "Cook considers fruit families, ripening, colour and sweetness.",
+        "pt": "Cook considera famílias, maturação, cor e doçura."
+      },
+      "kitchen": {
+        "en": "Different cultivars soften differently. Observe aroma and firmness rather than colour alone.",
+        "pt": "Cultivares amolecem diferentemente. Observe aroma e firmeza, não apenas cor."
+      },
+      "lessonIds": [
+        14,
+        24,
+        26
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "tomato",
+      "title": {
+        "en": "Tomato",
+        "pt": "Tomate"
+      },
+      "plantPart": {
+        "en": "Fruit; nightshade family",
+        "pt": "Fruto; solanácea"
+      },
+      "pages": [
+        150,
+        155
+      ],
+      "book": {
+        "en": "Cook places tomato among nightshades and their culinary history.",
+        "pt": "Cook situa tomate entre solanáceas e sua história culinária."
+      },
+      "kitchen": {
+        "en": "Use cultivated food tomatoes. The course does not adopt the book’s disease-related restrictions.",
+        "pt": "Use tomates cultivados para alimentação. Não adotamos restrições do livro ligadas a doenças."
+      },
+      "lessonIds": [
+        27
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "potato",
+      "title": {
+        "en": "Potato",
+        "pt": "Batata"
+      },
+      "plantPart": {
+        "en": "Stem tuber, not a root",
+        "pt": "Tubérculo caulinar, não raiz"
+      },
+      "pages": [
+        150,
+        151,
+        152
+      ],
+      "book": {
+        "en": "Cook connects the potato’s travel with cultural adoption and dependence.",
+        "pt": "Cook liga viagens da batata à adoção e à dependência."
+      },
+      "kitchen": {
+        "en": "Use sound culinary potatoes; avoid green, heavily sprouted or bitter potatoes.",
+        "pt": "Use batatas em boas condições; evite verdes, muito brotadas ou amargas."
+      },
+      "lessonIds": [
+        27
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "olive-oil",
+      "title": {
+        "en": "Olive oil",
+        "pt": "Azeite"
+      },
+      "plantPart": {
+        "en": "Oil from fruit flesh",
+        "pt": "Óleo da polpa do fruto"
+      },
+      "pages": [
+        174,
+        177,
+        178
+      ],
+      "book": {
+        "en": "Cook connects olive cultivation with food and historical lighting.",
+        "pt": "Cook liga cultivo da oliveira à comida e iluminação histórica."
+      },
+      "kitchen": {
+        "en": "Observe label, aroma and use; protect from light and unnecessary heat in storage.",
+        "pt": "Observe rótulo, aroma e uso; proteja da luz e do calor no armazenamento."
+      },
+      "lessonIds": [
+        32
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "rosemary",
+      "title": {
+        "en": "Rosemary",
+        "pt": "Alecrim"
+      },
+      "plantPart": {
+        "en": "Leaves",
+        "pt": "Folhas"
+      },
+      "pages": [
+        201
+      ],
+      "book": {
+        "en": "Cook discusses rosemary among herbs with strong culinary character.",
+        "pt": "Cook apresenta alecrim entre ervas de caráter culinário marcante."
+      },
+      "kitchen": {
+        "en": "Use modest amounts; remove tough woody stems before serving.",
+        "pt": "Use pequenas quantidades; retire talos lenhosos antes de servir."
+      },
+      "lessonIds": [
+        34
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "coriander",
+      "title": {
+        "en": "Coriander",
+        "pt": "Coentro"
+      },
+      "plantPart": {
+        "en": "Leaves and seeds",
+        "pt": "Folhas e sementes"
+      },
+      "pages": [
+        199,
+        203
+      ],
+      "book": {
+        "en": "Cook distinguishes the culinary character of leaves and seeds.",
+        "pt": "Cook distingue o caráter culinário das folhas e sementes."
+      },
+      "kitchen": {
+        "en": "Compare fresh leaf aroma with gently crushed seed; one does not replace the other identically.",
+        "pt": "Compare folhas frescas e sementes esmagadas; não são substituições idênticas."
+      },
+      "lessonIds": [
+        34
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "cinnamon",
+      "title": {
+        "en": "Cinnamon",
+        "pt": "Canela"
+      },
+      "plantPart": {
+        "en": "Inner bark",
+        "pt": "Casca interna"
+      },
+      "pages": [
+        203
+      ],
+      "book": {
+        "en": "Cook situates this aromatic bark among spices.",
+        "pt": "Cook situa essa casca aromática entre as especiarias."
+      },
+      "kitchen": {
+        "en": "Ground cinnamon disperses differently from a stick removed after infusion.",
+        "pt": "Canela em pó se dispersa diferente de um pau retirado após infusão."
+      },
+      "lessonIds": [
+        7,
+        34
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "clove",
+      "title": {
+        "en": "Clove",
+        "pt": "Cravo"
+      },
+      "plantPart": {
+        "en": "Dried flower bud",
+        "pt": "Botão floral seco"
+      },
+      "pages": [
+        203
+      ],
+      "book": {
+        "en": "Cook includes cloves in her tour of seasoning plant parts.",
+        "pt": "Cook inclui cravo na apresentação das partes usadas como tempero."
+      },
+      "kitchen": {
+        "en": "Whole cloves are potent; remove them from a dish before serving.",
+        "pt": "Cravos inteiros são intensos; retire antes de servir."
+      },
+      "lessonIds": [
+        7,
+        34
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    },
+    {
+      "slug": "ginger",
+      "title": {
+        "en": "Ginger",
+        "pt": "Gengibre"
+      },
+      "plantPart": {
+        "en": "Rhizome: underground stem",
+        "pt": "Rizoma: caule subterrâneo"
+      },
+      "pages": [
+        204
+      ],
+      "book": {
+        "en": "Cook compares fresh and dried ginger’s culinary character.",
+        "pt": "Cook compara o caráter culinário do gengibre fresco e seco."
+      },
+      "kitchen": {
+        "en": "Fresh grated ginger and dried powder differ; begin with small amounts and taste.",
+        "pt": "Fresco ralado e pó seco diferem; comece com pouco e prove."
+      },
+      "lessonIds": [
+        34
+      ],
+      "provenance": "course-authored-profile-with-attributed-paraphrase"
+    }
+  ],
+  "recipes": [
+    {
+      "slug": "oat-porridge",
+      "title": {
+        "en": "Oat porridge with apple",
+        "pt": "Mingau de aveia com maçã"
+      },
+      "provenance": "original-course-recipe",
+      "tested": false,
+      "yieldEstimate": {
+        "en": "About 2 portions",
+        "pt": "Cerca de 2 porções"
+      },
+      "timeEstimate": {
+        "en": "About 10 minutes preparation + 10–15 minutes cooking",
+        "pt": "Cerca de 10 minutos de preparo + 10–15 de cozimento"
+      },
+      "equipment": {
+        "en": "Small saucepan, spoon, knife and board",
+        "pt": "Panela pequena, colher, faca e tábua"
+      },
+      "ingredients": [
+        {
+          "en": "100 g rolled oats",
+          "pt": "100 g de aveia em flocos"
+        },
+        {
+          "en": "500 ml drinking water",
+          "pt": "500 ml de água potável"
+        },
+        {
+          "en": "150 g apple, washed, cored and diced",
+          "pt": "150 g de maçã lavada, sem miolo e picada"
+        },
+        {
+          "en": "1 g ground cinnamon, optional",
+          "pt": "1 g de canela em pó, opcional"
+        }
+      ],
+      "steps": [
+        {
+          "en": "Put oats, water and apple in the saucepan.",
+          "pt": "Coloque aveia, água e maçã na panela."
+        },
+        {
+          "en": "Bring to a gentle simmer; stir frequently for about 10–15 minutes. Add a little water if thickening too quickly.",
+          "pt": "Leve à fervura suave; mexa por cerca de 10–15 minutos. Acrescente água se engrossar muito."
+        },
+        {
+          "en": "Check that oats and apple are tender; add cinnamon if wanted and cool to a comfortable serving temperature.",
+          "pt": "Confira maciez, adicione canela se desejar e deixe chegar a temperatura confortável."
+        }
+      ],
+      "doneness": {
+        "en": "Oats should be soft, with no dry centre; apple pieces should yield to a fork. Packet instructions take priority for unusually thick flakes.",
+        "pt": "Aveia macia, sem centro seco; maçã cede ao garfo. Siga a embalagem para flocos muito grossos."
+      },
+      "substitutions": {
+        "en": "Use diced ripe pear instead of apple. Omit cinnamon if disliked.",
+        "pt": "Use pera madura no lugar da maçã. Omita canela se preferir."
+      },
+      "allergens": {
+        "en": "Oats: check suitability and certified gluten-free labelling when needed. No milk or nuts are specified.",
+        "pt": "Aveia: confira adequação e certificação sem glúten quando necessária. Não leva leite nem castanhas."
+      },
+      "childTask": {
+        "en": "A willing child can wash the apple and measure cold ingredients with an adult; adult handles cutting and heat.",
+        "pt": "Uma criança pode lavar a maçã e medir ingredientes frios; adulto corta e cuida do fogo."
+      },
+      "storage": {
+        "en": "Serve freshly made where possible. Refrigerate within 2 hours (within 1 hour above 32°C), at 4°C or below. For this activity, use refrigerated leftovers within 24 hours. Reheat leftovers thoroughly to 74°C. These conservative activity instructions use current FDA handling guidance; see Sources.",
+        "pt": "Sirva recém-preparado quando possível. Refrigere em até 2 horas (1 hora acima de 32°C), a 4°C ou menos. Nesta atividade, use sobras refrigeradas em até 24 horas. Reaqueça completamente a 74°C. As instruções conservadoras usam orientações atuais da FDA; veja Fontes."
+      }
+    },
+    {
+      "slug": "lentil-soup",
+      "title": {
+        "en": "Red lentil and carrot soup",
+        "pt": "Sopa de lentilha vermelha e cenoura"
+      },
+      "provenance": "original-course-recipe",
+      "tested": false,
+      "yieldEstimate": {
+        "en": "About 4 portions",
+        "pt": "Cerca de 4 porções"
+      },
+      "timeEstimate": {
+        "en": "About 15 minutes preparation + 25–35 minutes cooking",
+        "pt": "Cerca de 15 minutos de preparo + 25–35 de cozimento"
+      },
+      "equipment": {
+        "en": "Saucepan with lid, spoon, sieve, knife and board",
+        "pt": "Panela com tampa, colher, peneira, faca e tábua"
+      },
+      "ingredients": [
+        {
+          "en": "200 g split red lentils, rinsed",
+          "pt": "200 g de lentilhas vermelhas partidas, enxaguadas"
+        },
+        {
+          "en": "250 g carrots, washed and diced",
+          "pt": "250 g de cenouras lavadas e picadas"
+        },
+        {
+          "en": "120 g onion, peeled and diced",
+          "pt": "120 g de cebola descascada e picada"
+        },
+        {
+          "en": "15 ml olive oil",
+          "pt": "15 ml de azeite"
+        },
+        {
+          "en": "1,000 ml drinking water, plus more if needed",
+          "pt": "1.000 ml de água potável, mais se necessário"
+        },
+        {
+          "en": "2 g salt, optional; adjust to household needs",
+          "pt": "2 g de sal, opcional; ajuste às necessidades"
+        }
+      ],
+      "steps": [
+        {
+          "en": "Warm oil over medium-low heat. Add onion and stir about 5 minutes without burning.",
+          "pt": "Aqueça azeite em fogo médio-baixo. Mexa a cebola cerca de 5 minutos, sem queimar."
+        },
+        {
+          "en": "Add carrots, lentils and water. Bring to a simmer and partially cover.",
+          "pt": "Adicione cenouras, lentilhas e água. Ferva suavemente com tampa parcial."
+        },
+        {
+          "en": "Simmer 25–35 minutes, stirring occasionally, until carrots are tender and lentils break down. Add water if needed.",
+          "pt": "Cozinhe 25–35 minutos, mexendo, até cenouras macias e lentilhas desfeitas. Acrescente água se preciso."
+        },
+        {
+          "en": "Taste and add optional salt; serve at a comfortable temperature.",
+          "pt": "Prove, adicione sal opcional e sirva em temperatura confortável."
+        }
+      ],
+      "doneness": {
+        "en": "Carrots yield to a fork and lentils have no hard centre. Extend cooking if needed.",
+        "pt": "Cenouras cedem ao garfo; lentilhas sem centro duro. Prolongue se necessário."
+      },
+      "substitutions": {
+        "en": "Use diced squash for carrots. Whole lentils require a different cooking time; do not substitute without adjusting.",
+        "pt": "Use abóbora no lugar de cenoura. Lentilhas inteiras exigem tempo diferente."
+      },
+      "allergens": {
+        "en": "No common major allergen is specified; check packaging and individual legume allergies. Avoid adding stock without checking its label.",
+        "pt": "Nenhum alergênico principal especificado; confira embalagens e alergias individuais a leguminosas. Confira rótulos de caldos adicionados."
+      },
+      "childTask": {
+        "en": "A child can rinse lentils and wash carrots; adult handles chopping and the hot pan.",
+        "pt": "Criança pode enxaguar lentilhas e lavar cenouras; adulto corta e cuida da panela."
+      },
+      "storage": {
+        "en": "Serve freshly made where possible. Refrigerate within 2 hours (within 1 hour above 32°C), at 4°C or below. For this activity, use refrigerated leftovers within 24 hours. Reheat leftovers thoroughly to 74°C. These conservative activity instructions use current FDA handling guidance; see Sources.",
+        "pt": "Sirva recém-preparado quando possível. Refrigere em até 2 horas (1 hora acima de 32°C), a 4°C ou menos. Nesta atividade, use sobras refrigeradas em até 24 horas. Reaqueça completamente a 74°C. As instruções conservadoras usam orientações atuais da FDA; veja Fontes."
+      }
+    },
+    {
+      "slug": "roasted-roots",
+      "title": {
+        "en": "Roasted carrots and potatoes",
+        "pt": "Cenouras e batatas assadas"
+      },
+      "provenance": "original-course-recipe",
+      "tested": false,
+      "yieldEstimate": {
+        "en": "About 4 side portions",
+        "pt": "Cerca de 4 porções de acompanhamento"
+      },
+      "timeEstimate": {
+        "en": "About 15 minutes preparation + 35–45 minutes cooking",
+        "pt": "Cerca de 15 minutos de preparo + 35–45 de forno"
+      },
+      "equipment": {
+        "en": "Oven, baking tray, knife, board and oven gloves",
+        "pt": "Forno, assadeira, faca, tábua e luvas"
+      },
+      "ingredients": [
+        {
+          "en": "400 g carrots, washed and trimmed",
+          "pt": "400 g de cenouras lavadas e aparadas"
+        },
+        {
+          "en": "500 g sound potatoes, washed",
+          "pt": "500 g de batatas em boas condições, lavadas"
+        },
+        {
+          "en": "25 ml olive oil",
+          "pt": "25 ml de azeite"
+        },
+        {
+          "en": "2 g rosemary leaves, chopped, optional",
+          "pt": "2 g de folhas de alecrim picadas, opcional"
+        },
+        {
+          "en": "2 g salt, optional",
+          "pt": "2 g de sal, opcional"
+        }
+      ],
+      "steps": [
+        {
+          "en": "Heat the oven to 200°C conventional or 180°C fan.",
+          "pt": "Aqueça forno a 200°C convencional ou 180°C com ventilação."
+        },
+        {
+          "en": "Adult cuts vegetables into roughly 2 cm pieces. Toss with oil and optional rosemary and salt.",
+          "pt": "Adulto corta legumes em peças de cerca de 2 cm. Misture azeite e temperos opcionais."
+        },
+        {
+          "en": "Spread in a single layer on the tray. Roast 35–45 minutes, turning once halfway through.",
+          "pt": "Espalhe em camada única. Asse 35–45 minutos, virando na metade."
+        },
+        {
+          "en": "Check tenderness; extend cooking in short intervals if needed. Adult removes the hot tray.",
+          "pt": "Confira maciez e prolongue em intervalos curtos se preciso. Adulto retira a assadeira."
+        }
+      ],
+      "doneness": {
+        "en": "The centres yield easily to a fork; edges can brown without becoming burnt. Oven performance varies.",
+        "pt": "Centros cedem ao garfo; bordas podem dourar sem queimar. Fornos variam."
+      },
+      "substitutions": {
+        "en": "Replace carrots with parsnips, using similar-sized pieces; omit rosemary if disliked.",
+        "pt": "Substitua cenoura por pastinaca em tamanho semelhante; omita alecrim se preferir."
+      },
+      "allergens": {
+        "en": "No common major allergen is specified; check individual needs and ingredient labels.",
+        "pt": "Nenhum alergênico principal especificado; confira necessidades individuais e rótulos."
+      },
+      "childTask": {
+        "en": "A child can wash vegetables and tear rosemary leaves away from stems; adult cuts and handles heat.",
+        "pt": "Criança pode lavar e separar folhas de alecrim; adulto corta e cuida do calor."
+      },
+      "storage": {
+        "en": "Serve freshly made where possible. Refrigerate within 2 hours (within 1 hour above 32°C), at 4°C or below. For this activity, use refrigerated leftovers within 24 hours. Reheat leftovers thoroughly to 74°C. These conservative activity instructions use current FDA handling guidance; see Sources.",
+        "pt": "Sirva recém-preparado quando possível. Refrigere em até 2 horas (1 hora acima de 32°C), a 4°C ou menos. Nesta atividade, use sobras refrigeradas em até 24 horas. Reaqueça completamente a 74°C. As instruções conservadoras usam orientações atuais da FDA; veja Fontes."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": {
+        "en": "Physical",
+        "pt": "Físico"
+      },
+      "definition": {
+        "en": "The material organization in Cook’s fourfold account.",
+        "pt": "A organização material na imagem quádrupla de Cook."
+      }
+    },
+    {
+      "term": {
+        "en": "Etheric",
+        "pt": "Etérico"
+      },
+      "definition": {
+        "en": "The life and formative organization in anthroposophical interpretation; not an ordinary nutrient.",
+        "pt": "Organização vital e formativa na interpretação antroposófica; não é nutriente comum."
+      }
+    },
+    {
+      "term": {
+        "en": "Astral",
+        "pt": "Astral"
+      },
+      "definition": {
+        "en": "The sentient dimension in this framework, associated with inner experience.",
+        "pt": "Dimensão senciente nesse quadro, ligada à experiência interior."
+      }
+    },
+    {
+      "term": {
+        "en": "I",
+        "pt": "Eu"
+      },
+      "definition": {
+        "en": "Individual agency in the fourfold account, distinguished from merely selfish behaviour.",
+        "pt": "Individualidade na imagem quádrupla, distinta de mero egoísmo."
+      }
+    },
+    {
+      "term": {
+        "en": "Threefold plant",
+        "pt": "Planta tríplice"
+      },
+      "definition": {
+        "en": "Root, leaf-and-stem, and flower-and-fruit regions used for observation and interpretation.",
+        "pt": "Regiões de raiz, folhas e caule, e flores e frutos, usadas na observação e interpretação."
+      }
+    },
+    {
+      "term": {
+        "en": "Humus",
+        "pt": "Húmus"
+      },
+      "definition": {
+        "en": "Relatively stable transformed organic matter in soil; not the same as mineral particles.",
+        "pt": "Matéria orgânica transformada relativamente estável; distinta das partículas minerais."
+      }
+    },
+    {
+      "term": {
+        "en": "Tillering",
+        "pt": "Perfilhamento"
+      },
+      "definition": {
+        "en": "Production of additional shoots from the base of a grass plant.",
+        "pt": "Produção de brotos adicionais na base de uma gramínea."
+      }
+    },
+    {
+      "term": {
+        "en": "Fermentation",
+        "pt": "Fermentação"
+      },
+      "definition": {
+        "en": "Transformation involving microorganisms; different foods require different controlled processes.",
+        "pt": "Transformação com microrganismos; alimentos diferentes exigem processos controlados distintos."
+      }
+    },
+    {
+      "term": {
+        "en": "Whole grain",
+        "pt": "Grão integral"
+      },
+      "definition": {
+        "en": "A grain retaining its principal bran, germ and endosperm components.",
+        "pt": "Grão que conserva seus principais componentes: farelo, germe e endosperma."
+      }
+    },
+    {
+      "term": {
+        "en": "CSA",
+        "pt": "CSA"
+      },
+      "definition": {
+        "en": "Community-supported agriculture: participants support a farm and share some production commitments and risks.",
+        "pt": "Comunidade que Sustenta a Agricultura: participantes apoiam uma fazenda e compartilham compromissos e riscos."
+      }
+    },
+    {
+      "term": {
+        "en": "Formative gesture",
+        "pt": "Gesto formativo"
+      },
+      "definition": {
+        "en": "An interpretive description of patterns of growth, not a measured medical action.",
+        "pt": "Descrição interpretativa dos padrões de crescimento, não ação médica medida."
+      }
+    }
+  ]
+}

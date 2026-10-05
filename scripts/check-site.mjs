@@ -87,6 +87,19 @@ for (const relative of files) {
   continue;
  }
  if(relative.includes('lessons')&&!/(?:^|[\\/])learn[\\/]/.test(relative)) {
+  // Foodwise has optional explanation reveals, rather than the legacy scored worksheet layout.
+  if(/^(?:pt\/)?foodwise\/lessons\/\d{2}\.html$/.test(normalized)){
+   const lang=normalized.startsWith('pt/')?'pt':'en',id=Number(path.basename(file,'.html'));
+   const data=JSON.parse(fs.readFileSync('content/foodwise/course.json','utf8')),lesson=data.lessons.find(l=>l.id===id);
+   if(!lesson||!html.includes(`<h1>${esc(lesson.title[lang])}</h1>`))errors.push(`${relative}: missing Foodwise lesson title`);
+   const partner=path.join(root,lang==='pt'?'':'pt','foodwise','lessons',path.basename(file));
+   const alternate=html.match(/<link rel="alternate"[^>]*href="([^"]+)"/);
+   if(!alternate||path.resolve(path.dirname(file),alternate[1])!==partner)errors.push(`${relative}: incorrect Foodwise language partner`);
+   if(!html.includes('<details>')||!html.includes('<summary>'))errors.push(`${relative}: missing optional Foodwise explanation`);
+   if(/sediment:\/\/|\/workspace\/attachments\//.test(html))errors.push(`${relative}: private Foodwise source locator leaked`);
+   continue;
+  }
+
   if(isBiodynamicOwned(relative,html)&&/\/lessons\/\d{2}\.html$/.test(relative.replaceAll('\\','/'))){
    const lang=relative.replaceAll('\\','/').startsWith('pt/')?'pt':'en',id=Number(path.basename(relative,'.html'));
    const lesson=nativeBiodynamicData?.lessons.find(l=>l.id===id),title=lesson?.[lang==='pt'?'titlePt':'titleEn'];
@@ -364,6 +377,9 @@ for(const prefix of ['', 'pt/']){
 // Derive an exact route inventory from the publication data. Shared English research
 // notes are published once; Portuguese indexes link those same documents.
 const expectedRoutes=new Set();
+const foodwise=JSON.parse(fs.readFileSync('content/foodwise/course.json','utf8'));
+for(const prefix of ['', 'pt/'])for(const route of ['index.html','sources.html','glossary.html','ingredients/index.html','kitchen/index.html',...foodwise.modules.map(m=>'modules/'+m.slug+'.html'),...foodwise.lessons.map(l=>'lessons/'+String(l.id).padStart(2,'0')+'.html'),...foodwise.ingredients.map(i=>'ingredients/'+i.slug+'.html'),...foodwise.recipes.map(r=>'kitchen/'+r.slug+'.html')])expectedRoutes.add(prefix+'foodwise/'+route);
+
 // The nutrition reading course has an English-only Portuguese entry.
 const nutritionCourse=JSON.parse(fs.readFileSync('content/nutrition/course.json','utf8'));
 for(const route of ['nutrition/index.html','nutrition/print.html','nutrition/sources.html','nutrition/teacher-plans.html','pt/nutrition/index.html',...Array.from({length:nutritionCourse.lessons.length+2},(_,i)=>'nutrition/'+String(i).padStart(2,'0')+'.html')])expectedRoutes.add(route);

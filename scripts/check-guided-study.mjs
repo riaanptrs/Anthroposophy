@@ -15,7 +15,7 @@ if(docsOption>=0&&!process.argv[docsOption+1])throw new Error('--docs-dir requir
 const root=path.resolve(docsOption>=0?process.argv[docsOption+1]:'docs');
 // New source readings use the shared learning controls, not the retained notebook format.
 const htmlFiles=fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.html'));
-const files=htmlFiles.filter(f=>/lessons[\\/]\d{2}\.html$/.test(f)&&!/(?:^|[\\/])(?:learn|what-is-biodynamics|toward-threefold-society|agriculture)[\\/]/.test(f)&&!/^(?:pt[\\/])?lessons[\\/]\d{2}\.html$/.test(f)&&!isIntroductionOwned(f,fs.readFileSync(path.join(root,f),'utf8'))&&!isPracticalThinkingOwned(f,fs.readFileSync(path.join(root,f),'utf8'))&&!isBiodynamicOwned(f,fs.readFileSync(path.join(root,f),'utf8'))&&!isConceptPlatformOwned(f.split(path.sep).join('/'),fs.readFileSync(path.join(root,f),'utf8')));
+const files=htmlFiles.filter(f=>/lessons[\\/]\d{2}\.html$/.test(f)&&!/(?:^|[\\/])(?:learn|what-is-biodynamics|toward-threefold-society|agriculture|foodwise)[\\/]/.test(f)&&!/^(?:pt[\\/])?lessons[\\/]\d{2}\.html$/.test(f)&&!isIntroductionOwned(f,fs.readFileSync(path.join(root,f),'utf8'))&&!isPracticalThinkingOwned(f,fs.readFileSync(path.join(root,f),'utf8'))&&!isBiodynamicOwned(f,fs.readFileSync(path.join(root,f),'utf8'))&&!isConceptPlatformOwned(f.split(path.sep).join('/'),fs.readFileSync(path.join(root,f),'utf8')));
 assert.equal(files.length,286,'Retain every legacy notebook outside the explicitly owned, independently checked courses');
 assert.equal(Object.values(guidedCounts).reduce((a,b)=>a+b,0),131);
 assert.deepEqual(mysteryLessons.map(l=>l.id),Array.from({length:15},(_,i)=>i));

@@ -107,6 +107,7 @@ if (fs.existsSync(biodynamicMetadataFile)) {
 }
 // The prototype owns the teaching routes and applies global navigation last.
 await import('./build-nutrition.mjs');
+await import('./build-foodwise.mjs');
 buildLinks();
 fs.copyFileSync(new URL('./assets/nutrition.css', import.meta.url), 'docs/nutrition.css');
 const {buildConceptPlatform} = await import('./build-concept-platform.mjs');

@@ -153,3 +153,5 @@ The eight-lesson `ancient-myths` route follows the seven lectures in the supplie
 ## Meditation and Inner Life
 
 Nine bilingual guided sessions at docs/meditation/index.html and docs/pt/meditation/index.html use Start Now!, Weekly Meditations and The Foundation Stone. They include a daily verse, four complete Calendar verses and the complete Foundation Stone in new study translations of its printed German original. Source directions, editorial commentary and course adaptations are distinguished. Build with node scripts/build-all.mjs; validate with node scripts/check-meditation.mjs and the existing site checks. See content/meditation-reading-review.md for source scope and transcription decisions.
+
+Foodwise is a separate English/Brazilian Portuguese course at `foodwise/index.html`: 39 lessons, seven modules, 23 ingredient profiles and three original untested kitchen activities. Its selected-passage OCR edition explicitly records that the supplied PDF exceeded the transfer limit and has not been visually verified. Build with `node scripts/build-all.mjs`; verify with `node scripts/check-foodwise.mjs` and the existing site checks.
