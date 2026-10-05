@@ -1,4 +1,6 @@
-# Nutrition teacher unit publication review
+# Archived nutrition teacher unit publication review
+
+This records the earlier teacher resource. The current source-led redesign is documented in `nutrition/publication-review.md`. The six teacher plans are now published at `docs/nutrition/teacher-plans.html`.
 
 The unit publishes the six agreed nutrition and food lesson plans as an English teacher resource for an assumed age range of 10 to 14. Each lesson totals 50 minutes and includes objectives, explanations, materials, activities, assessment and answer guidance. A Portuguese entry page clearly identifies the full plans as English material.
 

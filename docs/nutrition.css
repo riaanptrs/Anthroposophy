@@ -17,3 +17,45 @@
   .nutrition-table tr { break-inside: avoid; }
   body { background: white !important; color: black !important; }
 }
+.nutrition-unit section > p, .nutrition-unit aside > p, .nutrition-unit blockquote { max-width: 76ch; }
+.nutrition-unit blockquote { border-inline-start: .25rem solid #9a7450; margin-inline: 0; padding: 1rem 1.5rem; background: #f4eee2; }
+.nutrition-unit blockquote cite { display: block; font-size: .9rem; font-style: normal; }
+.nutrition-chapter { border-block-start: 1px solid #d4cec1; padding-block: 1.5rem; }
+.nutrition-context { border: 1px solid #d4cec1; border-radius: .5rem; padding: 1.2rem; margin-block: 2rem; background: #f4f1e9; }
+.nutrition-context h2 { margin-block-start: 0; }
+.nutrition-quiz { padding: 1rem; margin-block: 1.5rem; border: 1px solid #aa9c85; border-radius: .5rem; min-width: 0; }
+.nutrition-quiz legend { font-weight: 650; padding-inline: .3rem; max-width: 100%; }
+.nutrition-quiz label { display: flex; align-items: flex-start; gap: .65rem; padding: .65rem; cursor: pointer; }
+.nutrition-quiz input { flex: 0 0 auto; margin-block-start: .35rem; }
+.nutrition-quiz[data-feedback="correct"] { border-color: #356640; }
+.nutrition-quiz[data-feedback="retry"] { border-color: #865c25; }
+.nutrition-unit details { margin-block: 1rem; }
+.nutrition-unit summary { cursor: pointer; font-weight: 600; }
+.nutrition-response textarea { display: block; box-sizing: border-box; width: 100%; max-width: 76ch; padding: .8rem; font: inherit; margin-block: .5rem 1rem; }
+.nutrition-unit dt { font-weight: 650; margin-block-start: 1rem; }
+.nutrition-unit dd { margin-inline-start: 0; max-width: 76ch; }
+.nutrition-page-kind { font-size: .85rem; margin-inline-start: .4rem; }
+.nutrition-page-map li { scroll-margin-block-start: 6rem; padding-block: .3rem; }
+.nutrition-archive-text { white-space: pre-wrap; overflow-wrap: anywhere; font: inherit; }
+.nutrition-unit :focus-visible { outline: 3px solid #704523; outline-offset: 3px; }
+@media print {
+  .nutrition-unit details > * { display: block !important; }
+  .nutrition-unit details { content-visibility: visible; }
+  .nutrition-unit details::details-content { content-visibility: visible; display: block; height: auto; }
+  .nutrition-print-lesson { break-before: page; }
+  .nutrition-quiz, .nutrition-unit blockquote { break-inside: avoid; }
+  .nutrition-response textarea { display: none; }
+}
+
+@media print {
+  .nutrition-unit { font-size: 10pt !important; line-height: 1.4 !important; }
+  .nutrition-unit h1 { font-size: 20pt !important; line-height: 1.15 !important; }
+  .nutrition-unit h2 { font-size: 16pt !important; line-height: 1.2 !important; margin-block: 1rem .5rem !important; }
+  .nutrition-unit h3 { font-size: 12pt !important; margin-block: .8rem .4rem !important; }
+  .nutrition-unit h4, .nutrition-unit legend { font-size: 10pt !important; }
+  .nutrition-unit p, .nutrition-unit li, .nutrition-unit label { font-size: 10pt !important; line-height: 1.4 !important; }
+  .nutrition-unit .lead { font-size: 11pt !important; }
+  .nutrition-unit .nutrition-quiz { padding: .6rem; margin-block: .8rem; }
+  .nutrition-unit .nutrition-quiz label { padding: .25rem; }
+  .nutrition-unit blockquote, .nutrition-unit .nutrition-context { padding: .6rem; margin-block: 1rem; }
+}
