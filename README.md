@@ -13,6 +13,10 @@ Edit those bilingual module files and `scripts/build-esoteric-christianity.mjs`.
 Run `node scripts/check-esoteric-christianity.mjs` after the full build; the browser
 review script expects a local preview at port 4173 beneath `/Anthroposophy/`.
 See [the course review](content/esoteric-christianity-implementation-review.md).
+The [book-based clarification review](content/esoteric-christianity/resource-revision-review.md)
+adds 17 bilingual explanations from targeted readings of eight supplied books,
+precise passage locators and seven extra understanding checks per language.
+Edit `clarifications.mjs` and `resource-review.mjs` for these additions.
 
 The **Nutrition: Food, Health and Spiritual Development** reading course starts at `docs/nutrition/index.html`: sixteen learner-facing chapter lessons, an orientation and a final synthesis covering all twelve chapters of the supplied Steiner anthology. Lessons include visually checked short excerpts, explanatory commentary, 54 multiple-choice checks and written-response models. `content/nutrition/course.json` contains chapter metadata, lessons, terminology and a ledger of all 118 supplied PDF captures. Edit this data and `scripts/build-nutrition.mjs`; the builder runs before shared navigation. The course includes a printable edition and Markdown study guide. Its Portuguese entry clearly identifies the complete material as English. Historical interpretations are attributed and distinguished from current physiology; the full source upload stays private. The previous six teacher plans remain an archived supplement. Run `node scripts/check-nutrition.mjs` for course-specific validation.
 

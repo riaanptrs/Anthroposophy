@@ -326,5 +326,37 @@
     "ec1-19": "Essene gates: [EXPANSION], targeted GA 148 check recorded in supplied dossier",
     "ec1-20": "Spiritual relation of mothers: dossier check; Eve identities remain lecturer interpretations",
     "ec1-22": "Phantom/Master Jesus: source-named leads, not a completed second course"
+  },
+  "resourceRevision": {
+    "date": "2026-10-06",
+    "review": "resource-revision-review.md",
+    "inventory": "resource-revision-ledger.json",
+    "teaching": "clarifications.mjs",
+    "reviewedResources": "resource-review.mjs",
+    "method": "Targeted reading of supplied editions; PDF text plus visual comparison of decisive passages and title/imprint pages. No full-book reading claim. Original examples and translations remain course expansions.",
+    "lessonsExpanded": [
+      1,
+      2,
+      3,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "primaryChecks": {
+      "Essene and Mary GA148": "Now directly checked in supplied 1950 edition, lectures IV–V",
+      "Asita and Simeon GA114": "Still credited to supplied research dossier; GA114 not included in new resources"
+    },
+    "mismatch": "File named Esoteric Christianity and the mission of Christian contains GA275 Art as Seen in the Light of Mystery Wisdom; not used as that named source."
   }
 }

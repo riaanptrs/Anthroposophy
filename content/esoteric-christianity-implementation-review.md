@@ -4,6 +4,13 @@ Reviewed on 2026-10-06. The course is implemented as 24 lessons in six modules,
 with matching English and Brazilian Portuguese versions. Stable course ID:
 `esoteric-christianity-1`; lesson IDs: `ec1-01`–`ec1-24`.
 
+The [book-based revision](esoteric-christianity/resource-revision-review.md)
+supersedes the initial passage-check limits and quiz counts below: 17 lessons
+have additional bilingual explanations, and there are now 60 questions per
+language. GA 148 Essene/Mary passages were checked directly in the supplied
+edition; the GA 114 Asita/Simeon check remains dossier-based. The sections below
+record the initial implementation.
+
 ## Student experience
 
 - Course entry: `docs/learn/esoteric-christianity/index.html`; Portuguese entry:

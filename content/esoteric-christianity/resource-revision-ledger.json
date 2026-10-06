@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-06",
+  "scope": "13 files, nine unique works; eight used in targeted clarifications; one filename/title mismatch excluded. Originals remain private and unaltered.",
+  "pageConvention": "One-based PDF pages count from file start; printed pages or embedded printed-text markers are separately stated in resource-review.mjs.",
+  "fullBookReadingClaim": false,
+  "decisivePagesVisuallyChecked": {
+    "matthew": [
+      114,
+      129
+    ],
+    "fifth-gospel": [
+      101,
+      102
+    ],
+    "bee": [
+      78
+    ],
+    "occult-science": [
+      28
+    ],
+    "christian-rosenkreutz": [
+      5
+    ]
+  },
+  "sourceLayer": "[BOOK]: explicitly attributed checked propositions. [INTERPRETATION: course]: explanatory connections. [EXPANSION]: new examples, questions, learner guidance and Portuguese translations. No new primary check for GA114 or Heavenly Eve.",
+  "uploads": [
+    {
+      "key": "mystical-fact",
+      "filename": "Christianity as a mystical fact and the mysteries of -- Rudolf Steiner, Andrew Welburn, Christopher Bamford, Michael -- 4th, US, 1997 -- isbn13 9780880104364 -- 5f2bff4b32b8cf1c6134d366c2bc532d -- Anna’s Archive.pdf",
+      "bytes": 2769154,
+      "sha256": "11bc07814e4d156f33944bc1379b694ddce983b3346aabd087b4aed3ddf7a76b",
+      "pages": 276,
+      "textCharacters": 398472,
+      "role": "Targeted source reading",
+      "pdfPagesUsed": [
+        25,
+        26,
+        27,
+        28,
+        125,
+        126,
+        127,
+        128,
+        168,
+        169,
+        170
+      ]
+    },
+    {
+      "key": "bee",
+      "filename": "The Book of the Bee -- Ernest A_ Wallis Budge -- 2021 -- 89b59d0c2ea626b93574723a2adb77c8 -- Anna’s Archive.pdf",
+      "bytes": 3109454,
+      "sha256": "561ff32ea9bc28afb70e376625e40f6898c913d5a52b3e9357259cfe00615ba8",
+      "pages": 130,
+      "textCharacters": 316433,
+      "role": "Targeted source reading",
+      "pdfPagesUsed": [
+        6,
+        10,
+        78
+      ]
+    },
+    {
+      "key": "cosmic-memory",
+      "filename": "Cosmic Memory_ Atlantis and Lemuria -- Rudolf Steiner -- 1st pbk_ ed, Blauvelt, N_Y, 1976, ©1959 -- Multimedia_ Biograf -- isbn13 9780833417169 -- 9ac6d68f233382746183238c087dd030 -- Anna’s Archive.pdf",
+      "bytes": 9304541,
+      "sha256": "04a65160fba42b26e17f605d69cdea85d25e12f22b594bae97668f0abc98b12f",
+      "pages": 260,
+      "textCharacters": 397857,
+      "role": "Targeted source reading",
+      "pdfPagesUsed": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "key": "occult-science",
+      "filename": "An Outline of Occult Science -- Rudolf Steiner -- 2011 -- 5183833e29be289703b593a2d7453472 -- Anna’s Archive.md",
+      "bytes": 690952,
+      "sha256": "57ffddf3c64ef86a944cd5f575a178fceb43dff5ce4d29480799907ad24c6c55",
+      "role": "Paired extracted reading aid; not an independent edition",
+      "pdfPagesUsed": []
+    },
+    {
+      "key": "fifth-gospel",
+      "filename": "The fifth gospel _ investigation of the Akasha Chronicle -- Steiner, Rudolf, 1861-1925 -- London, England, 1950 -- London _ Rudolf Steiner Publishing -- oclc 1080150241 -- ec97f8f71165115499ebbd4375b2a5ba -- Anna’s.pdf",
+      "bytes": 6477456,
+      "sha256": "3aec871465ae17b737d1b791e928a50dacc83be3ce6e43b464f009e2b2604f74",
+      "pages": 128,
+      "textCharacters": 176912,
+      "role": "Targeted source reading",
+      "pdfPagesUsed": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ]
+    },
+    {
+      "key": "christian-rosenkreutz",
+      "filename": "Esoteric Christianity and the mission of Christian -- Rudolf Steiner -- 2nd ed_ (rev_)_, London, United Kingdom, 1984 -- Steiner; Steiner Press, -- isbn13 9780854404162 -- 0da8aaa9cb2e12a56788036fdd46018c -- An (1).md",
+      "bytes": 377470,
+      "sha256": "434e339aa5713b6324b5a967e711309699528f9feec8f147e7a16b16e30830d7",
+      "role": "Title/imprint checked; not used to support the Christian preparation course",
+      "pdfPagesUsed": [],
+      "actualTitle": "Art as Seen in the Light of Mystery Wisdom",
+      "actualGA": "275",
+      "titlePagesChecked": [
+        5,
+        6
+      ]
+    },
+    {
+      "key": "jesus-christ",
+      "filename": "From Jesus To Christ -- Rudolf Steiner -- Rudolf Steiner Press -- dc6bf8854a6755db904d2f3109add8a4 -- Anna’s Archive.md",
+      "bytes": 368656,
+      "sha256": "300ac65de6147f261403288941ebc49d13f76725866adbac10ca31db1240a0ef",
+      "role": "Paired extracted reading aid; not an independent edition",
+      "pdfPagesUsed": []
+    },
+    {
+      "key": "john",
+      "filename": "The Gospel of St_ John; a cycle of twelve lectures unrev_ by -- Steiner, Rudolf, 1861-1925 -- [3d ed_], New York, New York State, 1962 -- New York, -- oclc 5970108 -- 131c757190ba8527fb38b34ccb7775df -- Anna’s Arch.md",
+      "bytes": 531191,
+      "sha256": "f3aad556dead9996840c650dbef19ebd0f91b89a1fbfb4bb68c1a1811f6c890c",
+      "role": "Paired extracted reading aid; not an independent edition",
+      "pdfPagesUsed": []
+    },
+    {
+      "key": "jesus-christ",
+      "filename": "From Jesus To Christ -- Rudolf Steiner -- Rudolf Steiner Press -- dc6bf8854a6755db904d2f3109add8a4 -- Anna’s Archive.pdf",
+      "bytes": 1024386,
+      "sha256": "a10e58b3a1f9c9851aaee53832e9fde78d6101295f72cef80f565237f14404a4",
+      "pages": 134,
+      "textCharacters": 355250,
+      "role": "Targeted source reading",
+      "pdfPagesUsed": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98
+      ]
+    },
+    {
+      "key": "matthew",
+      "filename": "The Gospel of St_ Matthew -- Rudolf Steiner -- January 2000 -- Rudolf Steiner Press, Steiner Press, Rudolf -- isbn13 9780854406302 -- c66db0edd4cd6ea5d532f0acaeb12653 -- Anna’s Archive.pdf",
+      "bytes": 12942454,
+      "sha256": "90096f4452832caad2e1af9532f097111c3a78bea0f1bbd354779089e966e2cc",
+      "pages": 244,
+      "textCharacters": 525490,
+      "role": "Targeted source reading",
+      "pdfPagesUsed": [
+        69,
+        70,
+        71,
+        72,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        127,
+        128,
+        129,
+        130
+      ]
+    },
+    {
+      "key": "occult-science",
+      "filename": "An Outline of Occult Science -- Rudolf Steiner -- 2011 -- 5183833e29be289703b593a2d7453472 -- Anna’s Archive.pdf",
+      "bytes": 1321539,
+      "sha256": "62c71a84dea25ff1bbd071ca6a0f736841f3541b1dcd9f2a79a81ddd3ee7442c",
+      "pages": 280,
+      "textCharacters": 660027,
+      "role": "Targeted source reading",
+      "pdfPagesUsed": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        80,
+        81,
+        82,
+        83
+      ]
+    },
+    {
+      "key": "john",
+      "filename": "The Gospel of St_ John; a cycle of twelve lectures unrev_ by -- Steiner, Rudolf, 1861-1925 -- [3d ed_], New York, New York State, 1962 -- New York, -- oclc 5970108 -- 131c757190ba8527fb38b34ccb7775df -- Anna’s Arch.pdf",
+      "bytes": 9484791,
+      "sha256": "cc835701fa90ffbe7032eeea076e17aabb33ea340236e6596b1a6b1d14d35db9",
+      "pages": 196,
+      "textCharacters": 454726,
+      "role": "Targeted source reading",
+      "pdfPagesUsed": [
+        21,
+        22,
+        26,
+        27
+      ]
+    },
+    {
+      "key": "christian-rosenkreutz",
+      "filename": "Esoteric Christianity and the mission of Christian -- Rudolf Steiner -- 2nd ed_ (rev_)_, London, United Kingdom, 1984 -- Steiner; Steiner Press, -- isbn13 9780854404162 -- 0da8aaa9cb2e12a56788036fdd46018c -- An (1).pdf",
+      "bytes": 8109243,
+      "sha256": "45e20e1eeaf777796b6c99a8fab2719de5e549c0aee50f4bd4b0f2595e2c6f0a",
+      "pages": 196,
+      "textCharacters": 318408,
+      "role": "Title/imprint checked; not used to support the Christian preparation course",
+      "pdfPagesUsed": [],
+      "actualTitle": "Art as Seen in the Light of Mystery Wisdom",
+      "actualGA": "275",
+      "titlePagesChecked": [
+        5,
+        6
+      ]
+    }
+  ]
+}

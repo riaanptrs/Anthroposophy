@@ -3,8 +3,8 @@ const assert=require('node:assert/strict');
 const fs=require('node:fs');
 (async()=>{
  const browser=await chromium.launch({executablePath:'/usr/bin/chromium',headless:true,args:['--no-sandbox']});
- const origin='http://127.0.0.1:4173',course='/Anthroposophy/learn/esoteric-christianity';
- const errors=[],results=[];
+ const origin=`http://127.0.0.1:${process.env.EC_PREVIEW_PORT||4173}`,course='/Anthroposophy/learn/esoteric-christianity';
+ const errors=[],results=[];let quizzesChecked=0;
  try {
   for(const width of [1280,390,320]){
    const ctx=await browser.newContext({viewport:{width,height:850},hasTouch:width!==1280});
@@ -17,6 +17,7 @@ const fs=require('node:fs');
     assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`Overflow ${width}: ${url}`);
     if(tail.includes('lessons/')&&width===1280){
      for(const q of await page.locator('.learning-quiz').all()){
+      quizzesChecked++;
       const answer=Number(await q.getAttribute('data-answer')),choices=q.locator('input[type=radio]');
       // Native radios and buttons: keyboard choice, wrong feedback, retry, correct.
       await choices.nth((answer+1)%3).focus();await page.keyboard.press('Space');
@@ -41,7 +42,7 @@ const fs=require('node:fs');
   await ctx.close();
   const nojs=await browser.newContext({javaScriptEnabled:false}),np=await nojs.newPage();await np.goto(origin+course+'/lessons/ec1-18.html');await np.locator('.learning-quiz details summary').first().click();assert.ok(await np.locator('.learning-quiz details li').first().isVisible());await nojs.close();
   assert.deepEqual(errors,[],'No browser errors');
-  fs.writeFileSync('/tmp/esoteric-christianity-browser-review.json',JSON.stringify({status:'passed',pagesAtViewports:results.length,widths:[1280,390,320],checks:'106 quizzes: wrong, retry, correct, option explanations; keyboard and touch; bilingual progress/resume; unreadable record preservation; no-JavaScript answers',errors},null,2));
-  console.log(`Passed ${results.length} page/viewport visits; all 106 quizzes; keyboard, touch, progress, language and no-JavaScript checks.`);
+  fs.writeFileSync('/tmp/esoteric-christianity-browser-review.json',JSON.stringify({status:'passed',pagesAtViewports:results.length,widths:[1280,390,320],checks:`${quizzesChecked} quizzes: wrong, retry, correct, option explanations; keyboard and touch; bilingual progress/resume; unreadable record preservation; no-JavaScript answers`,errors},null,2));
+  console.log(`Passed ${results.length} page/viewport visits; all ${quizzesChecked} quizzes; keyboard, touch, progress, language and no-JavaScript checks.`);
  } finally {await browser.close();}
 })().catch(e=>{console.error(e);process.exitCode=1;});
