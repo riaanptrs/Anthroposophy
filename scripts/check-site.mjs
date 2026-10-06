@@ -377,6 +377,8 @@ for(const prefix of ['', 'pt/']){
 // Derive an exact route inventory from the publication data. Shared English research
 // notes are published once; Portuguese indexes link those same documents.
 const expectedRoutes=new Set();
+const {courseRoutes:esotericChristianityRoutes}=await import('../content/esoteric-christianity/course.mjs');
+for(const route of esotericChristianityRoutes)expectedRoutes.add(route);
 const foodwise=JSON.parse(fs.readFileSync('content/foodwise/course.json','utf8'));
 for(const prefix of ['', 'pt/'])for(const route of ['index.html','sources.html','glossary.html','ingredients/index.html','kitchen/index.html',...foodwise.modules.map(m=>'modules/'+m.slug+'.html'),...foodwise.lessons.map(l=>'lessons/'+String(l.id).padStart(2,'0')+'.html'),...foodwise.ingredients.map(i=>'ingredients/'+i.slug+'.html'),...foodwise.recipes.map(r=>'kitchen/'+r.slug+'.html')])expectedRoutes.add(prefix+'foodwise/'+route);
 

@@ -1,5 +1,19 @@
 # Anthroposophy
 
+**Esoteric Christianity I: Preparing for the Coming of Christ** starts at
+`docs/learn/esoteric-christianity/index.html`, with matching Brazilian Portuguese
+pages under `docs/pt/learn/esoteric-christianity/`. Its 24 lessons in six modules
+follow the three supplied lectures through Matthew/Luke comparison, the two
+preparations, Temple convergence and Jordan Baptism. Every lesson includes
+original teaching, an example, option-specific understanding feedback and an
+optional everyday exercise. Glossary, sources and sequence pages provide the
+reference aids. Original transcripts remain private; source fingerprints,
+corrections and coverage are recorded in `content/esoteric-christianity/`.
+Edit those bilingual module files and `scripts/build-esoteric-christianity.mjs`.
+Run `node scripts/check-esoteric-christianity.mjs` after the full build; the browser
+review script expects a local preview at port 4173 beneath `/Anthroposophy/`.
+See [the course review](content/esoteric-christianity-implementation-review.md).
+
 The **Nutrition: Food, Health and Spiritual Development** reading course starts at `docs/nutrition/index.html`: sixteen learner-facing chapter lessons, an orientation and a final synthesis covering all twelve chapters of the supplied Steiner anthology. Lessons include visually checked short excerpts, explanatory commentary, 54 multiple-choice checks and written-response models. `content/nutrition/course.json` contains chapter metadata, lessons, terminology and a ledger of all 118 supplied PDF captures. Edit this data and `scripts/build-nutrition.mjs`; the builder runs before shared navigation. The course includes a printable edition and Markdown study guide. Its Portuguese entry clearly identifies the complete material as English. Historical interpretations are attributed and distinguished from current physiology; the full source upload stays private. The previous six teacher plans remain an archived supplement. Run `node scripts/check-nutrition.mjs` for course-specific validation.
 
 The shared visual identity uses self-hosted **Fraunces** headings and **Alegreya Sans** reading text, a violet/teal/terracotta/ochre palette, and original subject artwork. English and Portuguese share the same system. Edit `scripts/assets/visual-identity.css`, `scripts/visual-identity.mjs` and the homepage/directory composition in `scripts/platform-architecture.mjs`; the final build stage applies the identity after course-specific styles. Fonts, complete SIL licenses and source hashes live in `scripts/assets/identity/`. See the [visual release review](content/visual-identity-review.md).

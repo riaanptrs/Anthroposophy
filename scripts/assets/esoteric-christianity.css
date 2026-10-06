@@ -1,0 +1,18 @@
+.ec-course{max-width:52rem;margin-inline:auto;padding:1.25rem;line-height:1.65}
+.ec-course p{max-width:70ch}.ec-course section{margin-block:2.5rem}.ec-course h3{margin-top:1.75rem}
+.ec-course .ec-aid,.ec-course .source-note,.ec-course .worked-example{padding:1.25rem;border:1px solid var(--line,#c9bcd4);border-radius:1rem;background:var(--card,#f8f5ed)}
+.ec-course .ec-aid section{margin:0}.ec-course table{width:100%;min-width:30rem;border-collapse:collapse}
+.ec-course th,.ec-course td{padding:.75rem;text-align:left;vertical-align:top;border-bottom:1px solid var(--line,#c9bcd4)}
+.ec-course caption{text-align:left;font-weight:700;padding-bottom:.6rem}.ec-course .learning-table-scroll{overflow:auto;max-width:100%}
+.ec-course svg{width:100%;height:auto}.ec-course svg rect{fill:#eee4f4;stroke:#625080}.ec-course svg text{fill:#332548;font-size:20px;font-family:inherit}
+.ec-course .ec-reference-nav,.ec-course .ec-actions,.ec-course .ec-prev-next{display:flex;flex-wrap:wrap;gap:1rem;margin-block:1.5rem}
+.ec-course .ec-prev-next{justify-content:space-between;border-top:1px solid var(--line,#c9bcd4);padding-top:1rem}
+.ec-course .ec-prev-next a{max-width:45%}.ec-course .ec-lessons li{padding:.75rem}.ec-course .ec-lessons h3{margin:0}
+.ec-course .ec-tree ul{margin-top:1rem;border-left:3px solid #736086;padding-left:1.5rem}
+.ec-course .learning-quiz{margin-block:1.5rem;min-width:0}.ec-course .learning-quiz label{display:flex;align-items:flex-start;gap:.65rem;min-height:44px;padding:.65rem;cursor:pointer}
+.ec-course input[type=radio],.ec-course input[type=checkbox]{margin-top:.35rem;flex-shrink:0}.ec-course button{min-height:44px;white-space:normal}
+.ec-course .quiz-actions{display:flex;flex-wrap:wrap;gap:.75rem}.ec-course dt{font-weight:700;margin-top:1.4rem}.ec-course dd{margin-left:0}
+.ec-course summary{cursor:pointer;min-height:44px;padding-block:.5rem}.ec-course [data-ec-mark]{font-weight:700}
+.ec-course :focus-visible{outline:3px solid #6d3979;outline-offset:3px}.ec-course [hidden]{display:none!important}
+@media(max-width:540px){.ec-course{padding:1rem}.ec-course .ec-aid{padding:.75rem}.ec-course .ec-prev-next a{max-width:100%}.ec-course .ec-tree ul{padding-left:.8rem}}
+@media print{.ec-study-controls,.quiz-actions,.ec-reference-nav{display:none}.ec-course{max-width:none}.ec-course details{display:block}}

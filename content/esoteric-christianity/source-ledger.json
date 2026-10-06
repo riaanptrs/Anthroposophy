@@ -1,0 +1,330 @@
+{
+  "courseId": "esoteric-christianity-1",
+  "inputs": [
+    {
+      "filename": "codex-esoteric-christianity-instructions.md",
+      "bytes": 19180,
+      "sha256": "81b7e5f7844d036963bc2b3f9f3c479376008530bd546158b0b737211026980a",
+      "originalPreserved": true
+    },
+    {
+      "filename": "esoteric-christianity-course-design.md",
+      "bytes": 60176,
+      "sha256": "37fbef1f268463f9f7dabeff2cd22d613c857fe69e4c9393821beea1aaf12e1e",
+      "originalPreserved": true
+    },
+    {
+      "filename": "esoteric-christianity-knowledge-base.md",
+      "bytes": 63638,
+      "sha256": "9270f01f4aa1ce54636e2ce10b7fb3c30ec268125590bcb5e247f20bc94dc7e1",
+      "originalPreserved": true
+    },
+    {
+      "filename": "Intro to esoterci chritianity part 2.md",
+      "bytes": 126150,
+      "sha256": "2032adf9b5d4505cf90aa189671985c47a5aca7b9cf77c3cc55eeafa62134154",
+      "originalPreserved": true
+    },
+    {
+      "filename": "Intro to esoterci chritianity part 3.md",
+      "bytes": 129147,
+      "sha256": "b46653dc9796537f56908caf91cc890df1889106048b56b143ee930a094b0e38",
+      "originalPreserved": true
+    },
+    {
+      "filename": "Intro to esoterci chritianity part 1.md",
+      "bytes": 118716,
+      "sha256": "dee753f6d28a7a45d648f3a1f6bc66bed4ae64d8c691f2dd51d22b3efa7ad4ef",
+      "originalPreserved": true
+    }
+  ],
+  "transcriptsReadSequentially": [
+    "P1",
+    "P2",
+    "P3"
+  ],
+  "recordingDatesAreNotLectureDates": true,
+  "primaryArchiveRetrieval": "HTTP 403; passage checks credited to supplied dossier",
+  "sourceLayers": {
+    "sourceMoment": "[BOOK]: original paraphrase of identified transcript discussion",
+    "spiritualNarrative": "[BOOK] and [INTERPRETATION: lecturer]: attributed account, not independent historical verification",
+    "explanatoryRelationships": "[INTERPRETATION: course]: explanations and analogies organize the supplied account",
+    "examplesExercisesDiagrams": "[EXPANSION]: original teaching, not claimed as source exercises",
+    "unresolvedDetails": "[TEXT UNCERTAIN]: excluded from assessed facts; see research review"
+  },
+  "lessonSourceRecord": "course.mjs + module-1.mjs through module-6.mjs: stable IDs, locators, aid IDs and matching language fields",
+  "coverage": {
+    "P1 opening and Gospels": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "P1 Matthew star and Egypt": [
+      4,
+      9,
+      10,
+      12
+    ],
+    "P1 Luke and Adam": [
+      13,
+      14,
+      15,
+      18
+    ],
+    "P2 cosmology balance capacities": [
+      2,
+      5,
+      6,
+      7,
+      8
+    ],
+    "P2 Hebrew preparation and genealogy": [
+      9,
+      10,
+      11,
+      12,
+      23
+    ],
+    "P3 patriarchs and Nazareth": [
+      10,
+      11,
+      12,
+      17
+    ],
+    "P3 Luke Buddha Temple": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "P3 pre-Baptism Jordan": [
+      19,
+      20,
+      21
+    ],
+    "P3 closing further questions": [
+      22,
+      23,
+      24
+    ]
+  },
+  "corrections": [
+    "Jon Madsen",
+    "Temple scene Luke 2:41–52",
+    "Matthew includes angelic dreams",
+    "Matthew 2:16 two years old and under",
+    "Joseph and Pharaoh dreams distinguished",
+    "God renames Abram; Melchizedek encounter separate",
+    "Asita identification credited to supplied GA 114 check",
+    "Book of the Bee medieval compilation",
+    "Eve identities explicitly lecturer interpretation",
+    "No fixed older-child age, sibling count, birth date, tin itinerary, unknown art or saint-body assignments",
+    "No medical claim about cause of Jesus death",
+    "No ranking of living peoples by cosmology, hair or ancestry"
+  ],
+  "authoringRecords": [
+    {
+      "lessonId": "ec1-01",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-02",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-03",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-04",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-05",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-06",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-07",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-08",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-09",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-10",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-11",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-12",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-13",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-14",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-15",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-16",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-17",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-18",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-19",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-20",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-21",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-22",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-23",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    },
+    {
+      "lessonId": "ec1-24",
+      "sourceMomentTag": "[BOOK]",
+      "sourceLocator": "sources field in module data",
+      "explanatoryProseTag": "[INTERPRETATION: course]",
+      "reportedSpiritualAccountTag": "[INTERPRETATION: lecturer]",
+      "exampleExerciseTag": "[EXPANSION]"
+    }
+  ],
+  "specialAttribution": {
+    "ec1-13": "Mary/heavenly Eve: [INTERPRETATION: lecturer], P1 01:43:53–01:44:52, never assessed as established doctrine",
+    "ec1-15": "Asita: [EXPANSION], targeted GA 114 check recorded in supplied dossier, not newly fetched",
+    "ec1-19": "Essene gates: [EXPANSION], targeted GA 148 check recorded in supplied dossier",
+    "ec1-20": "Spiritual relation of mothers: dossier check; Eve identities remain lecturer interpretations",
+    "ec1-22": "Phantom/Master Jesus: source-named leads, not a completed second course"
+  }
+}
