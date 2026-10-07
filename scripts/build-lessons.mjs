@@ -109,6 +109,7 @@ if (fs.existsSync(biodynamicMetadataFile)) {
 await import('./build-nutrition.mjs');
 await import('./build-foodwise.mjs');
 await import('./build-esoteric-christianity.mjs');
+await import('./build-waldorf.mjs');
 buildLinks();
 fs.copyFileSync(new URL('./assets/nutrition.css', import.meta.url), 'docs/nutrition.css');
 const {buildConceptPlatform} = await import('./build-concept-platform.mjs');

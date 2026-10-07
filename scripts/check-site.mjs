@@ -22,6 +22,7 @@ import {mysteryLessons,mysterySource} from '../content/mystery-temperaments.mjs'
 import {freedomConsolidated as freedomLessons} from '../content/philosophy-of-freedom-consolidated.mjs';
 import {temperamentCourse} from '../content/temperament-course.mjs';
 import {mythsLessons} from '../content/ancient-myths.mjs';
+import {waldorfRoutes} from './waldorf-content.mjs';
 const docsOption = process.argv.indexOf('--docs-dir');
 if (docsOption >= 0 && !process.argv[docsOption+1]) throw new Error('--docs-dir requires a docs directory.');
 const root = path.resolve(docsOption >= 0 ? process.argv[docsOption+1] : 'docs');
@@ -419,6 +420,7 @@ if(nativeBiodynamicData)for(const prefix of ['', 'pt/']){
   if(fs.existsSync(file)&&!isBiodynamicOwned(relative,fs.readFileSync(file,'utf8')))errors.push(`${relative}: native course ownership missing`);
  }
 }
+for(const route of waldorfRoutes())expectedRoutes.add(route);
 const courseFiles=files.filter(f=>f!=='learning-review.html').map(f=>f.replaceAll(path.sep,'/'));
 if(courseFiles.length!==expectedRoutes.size)errors.push(`Expected ${expectedRoutes.size} learning, book, chapter, research and reference HTML pages, got ${courseFiles.length}`);
 const actualRoutes=new Set(courseFiles);

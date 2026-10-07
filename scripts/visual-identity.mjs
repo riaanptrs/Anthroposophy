@@ -30,6 +30,7 @@ const subjects = new Map([
   ['what-is-biodynamics', ['green', 'agriculture']],
   ['toward-threefold-society', ['teal', 'society']],
   ['encountering-the-self', ['green', 'education']],
+  ['waldorf', ['green', 'education']],
   ['practical-thinking', ['teal', 'thinking']],
   ['meditation', ['clay', 'higher-worlds']],
   ['learn', ['violet', 'unfolding']],
@@ -55,6 +56,7 @@ function subjectFor(route) {
   const parts = routeSegments(route);
   if (parts[0] === 'read' && parts[1] === 'theosophy') return subjects.get('theosophy');
   if (parts[0] === 'learn' && parts[1] === 'foundations') return subjects.get('foundations');
+  if (parts[0] === 'learn' && parts[1] === 'waldorf') return subjects.get('waldorf');
   const key = (parts[0] ?? '').replace(/\.html$/, '');
   return subjects.get(key) ?? ['violet', 'unfolding'];
 }

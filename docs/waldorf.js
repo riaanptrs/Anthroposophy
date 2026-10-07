@@ -1,0 +1,40 @@
+/* Course-topic filtering and optional reading marks follow the site's local-only
+   study pattern. The separate namespace preserves every other course's records. */
+(() => {
+ 'use strict';
+ const cards=[...document.querySelectorAll('[data-wf-item]')],search=document.querySelector('[data-wf-search]'),filter=document.querySelector('[data-wf-filter]');
+ const controls=document.querySelector('[data-wf-filters]'),results=document.querySelector('[data-wf-results]');
+ if(controls&&search&&filter) {
+  controls.hidden=false;
+  const update=()=>{
+   const q=search.value.trim().toLowerCase();let count=0;
+   for(const card of cards) {card.hidden=Boolean((filter.value&&card.dataset.wfGroup!==filter.value)||(q&&!card.textContent.toLowerCase().includes(q)));if(!card.hidden)count++;}
+   results.textContent=count?`${count} of ${cards.length} topics shown.`:'No matching topics. Try another search or section.';
+  };
+  search.addEventListener('input',update);filter.addEventListener('change',update);update();
+ }
+ // Stacked tables preserve column labels, also when JavaScript is unavailable:
+ // labels are rendered into the HTML by the builder. No layout code needed here.
+ const prefix='anthro-waldorf-v1:',preference=prefix+'enabled';
+ const get=key=>{try{return localStorage.getItem(key);}catch{return null;}};
+ const put=(key,value)=>{try{localStorage.setItem(key,value);return true;}catch{return false;}};
+ const remove=key=>{try{localStorage.removeItem(key);return true;}catch{return false;}};
+ const refresh=()=>{for(const span of document.querySelectorAll('[data-wf-progress]'))span.textContent=get(preference)==='yes'&&get(prefix+span.dataset.wfProgress)==='read'?'Draft read on this device':'';};
+ refresh();
+ const study=document.querySelector('[data-wf-study]');if(!study)return;
+ const save=study.querySelector('[data-wf-save]'),mark=study.querySelector('[data-wf-mark]'),del=study.querySelector('[data-wf-delete]'),status=study.querySelector('[data-wf-study-status]');
+ const key=prefix+study.dataset.wfStudy;let read=get(preference)==='yes'&&get(key)==='read';
+ save.checked=get(preference)==='yes';for(const control of [save,mark,del])control.disabled=false;
+ const paint=()=>{mark.setAttribute('aria-pressed',String(read));mark.textContent=read?'Draft read — mark unread':'Mark draft as read';refresh();};
+ save.addEventListener('change',()=>{
+  const ok=put(preference,save.checked?'yes':'no');
+  if(ok&&save.checked) {if(read)put(key,'read');else remove(key);}
+  status.textContent=ok?(save.checked?'Reading marks will be saved on this device.':'Saving paused. Use “Delete this reading mark” to remove an existing mark.'):'Browser storage is unavailable. Marks last for this visit only.';paint();
+ });
+ mark.addEventListener('click',()=>{
+  read=!read;const ok=!save.checked||(read?put(key,'read'):remove(key));paint();
+  status.textContent=ok?(save.checked?'Reading mark saved on this device.':'Reading mark set for this visit only; saving is off.'):'Browser storage is unavailable. Mark set for this visit only.';
+ });
+ del.addEventListener('click',()=>{const ok=remove(key);read=false;paint();status.textContent=ok?'This saved reading mark was deleted.':'Browser storage is unavailable.';});
+ window.addEventListener('storage',()=>{save.checked=get(preference)==='yes';read=save.checked&&get(key)==='read';paint();});paint();
+})();

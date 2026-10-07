@@ -1,5 +1,25 @@
 # Anthroposophy
 
+**Understanding Waldorf Education** is a working parent course at
+`docs/learn/waldorf/index.html`, prominently linked from both Learn hubs (the
+Portuguese hub identifies the course as English). Its 98 pages include
+foundations, development, Grades 1–9 and three dossier reading views per grade,
+13 subject pathways, 14 parent questions, sources, orientation and content status.
+The uploaded `waldorf-course/` Markdown is the educational authority and remains
+unchanged. Six lesson drafts, nine research dossiers, 46 outlines and one
+placeholder retain their distinct visible states; all source verification is
+pending. Recovered `reference/` records and implementation documents remain
+repository trace material rather than additional educational copy.
+
+Build with `node scripts/build-all.mjs` or regenerate just this course with
+`node scripts/build-waldorf.mjs`. Run `node scripts/check-waldorf.mjs` and
+`node scripts/review-waldorf-browser.cjs` with `scripts/preview.mjs` running on
+port 4173. The renderer uses a licensed, vendored build-time Markdown parser and
+requires no new package installation. See the
+[implementation and validation record](content/waldorf/implementation-review.md)
+for source fidelity, preservation evidence, unfinished pages, and the existing
+unrelated reading-hub validation failure.
+
 **Esoteric Christianity I: Preparing for the Coming of Christ** starts at
 `docs/learn/esoteric-christianity/index.html`, with matching Brazilian Portuguese
 pages under `docs/pt/learn/esoteric-christianity/`. Its 24 lessons in six modules

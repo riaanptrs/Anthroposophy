@@ -1,0 +1,105 @@
+/* Scoped to the Waldorf course; shared typography and palette remain authoritative. */
+body[data-waldorf-owned] {max-width:1200px;margin:auto;padding:0 32px}
+.wf-main {padding:24px 0 64px;min-width:0}
+.wf-main h1 {font-size:clamp(34px,4.7vw,58px);line-height:1.12;max-width:24ch;margin:24px 0}
+.wf-main h2 {font-size:clamp(26px,3vw,34px);line-height:1.25;margin:32px 0 18px}
+.wf-main h3 {font-size:25px;line-height:1.3;margin:18px 0 12px}
+.wf-main :is(h4,h5,h6) {font-size:22px;line-height:1.4;margin:24px 0 12px}
+.wf-main p {margin:12px 0 20px}
+.wf-main a {color:#365a46;text-underline-offset:4px}
+.wf-main :is(a,button,input,select,summary):focus-visible {outline:3px solid #a95845;outline-offset:4px}
+.wf-breadcrumb {display:flex;flex-wrap:wrap;gap:8px;font-size:16px;margin:0 0 16px}
+.wf-nav {display:flex;flex-wrap:wrap;gap:4px 8px;border-block:1px solid var(--line);padding:10px 0;margin:0 0 24px}
+.wf-nav a {display:inline-flex;align-items:center;min-height:44px;padding:6px 12px;border-radius:5px;text-decoration:none;font-size:17px}
+.wf-nav a:hover {background:#e7eee1}
+.wf-nav a[aria-current] {color:white;background:#486549}
+.wf-hero {display:grid;grid-template-columns:1fr 230px;align-items:center;gap:30px;margin:40px 0}
+.wf-hero .identity-course-art {height:220px;border-radius:60px 5px 60px 5px;background:#e7eee1}
+.wf-hero .identity-course-art img {width:200px;height:180px}
+.wf-eyebrow {font-size:15px;color:#486549;letter-spacing:.07em;text-transform:uppercase}
+.wf-hero .lead {font-size:24px;line-height:1.4;max-width:42ch}
+.wf-hero blockquote {font-family:'Fraunces',Georgia,serif;font-size:25px;line-height:1.5;margin:24px 0;padding:12px 0 12px 20px;border-left:3px solid #486549}
+.wf-actions {display:flex;flex-wrap:wrap;align-items:center;gap:20px;margin:24px 0}
+.wf-status {background:#f6ecd7;border-left:4px solid #795b20;padding:18px 24px;margin:24px 0;border-radius:0 6px 6px 0;font-size:18px}
+.wf-status p:last-child {margin-bottom:0}
+.wf-badge {display:inline-block;background:#eee8f3;color:#503965;border:1px solid #c5b6d2;border-radius:4px;font-size:14px;line-height:1.6;padding:2px 8px;vertical-align:baseline}
+.wf-badge[data-content-state='placeholder'] {background:#f5e5dc;color:#743b2e;border-color:#bd8c80}
+.wf-badge[data-content-state='draft-dossier'] {background:#e5efeb;color:#285956;border-color:#8eaaa1}
+.wf-provenance {display:inline;padding:2px 5px;border-radius:3px;background:#e7eee1;color:#365a46;font-size:.86em;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.wf-grid,.wf-grade-matrix {display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;margin:24px 0 40px}
+.wf-card {min-width:0;border:1px solid var(--line);background:#fffdf8;padding:22px 24px;border-radius:6px}
+.wf-card h3,.wf-card h2 {margin:4px 0 18px;font-size:25px;line-height:1.3}
+.wf-card p {font-size:18px;line-height:1.5}
+.wf-card .wf-eyebrow {font-size:14px}
+.wf-card .wf-awaiting {font-size:15px;color:#53615d;margin-bottom:0}
+.wf-main .wf-card[hidden] {display:none}
+.wf-development {padding:10px 0 16px}
+.wf-timeline {display:grid;grid-template-columns:repeat(4,minmax(0,1fr));padding:0;list-style:none;gap:20px}
+.wf-timeline li {border-top:3px solid #83a9a0;padding:12px 16px;background:#e5efeb;min-width:0;position:relative}
+.wf-timeline li::before {content:'';width:9px;height:9px;background:#486549;border-radius:50%;position:absolute;top:-6px;left:16px}
+.wf-timeline a {font-size:20px;line-height:1.4;display:inline-block}
+.wf-timeline .wf-eyebrow {font-size:13px;margin:4px 0 12px}
+.wf-filters {display:grid;grid-template-columns:2fr 1fr;gap:20px;background:#e5efeb;padding:20px;border-radius:5px}
+.wf-filters label {display:grid;gap:6px;min-width:0}
+.wf-filters input,.wf-filters select {width:100%;min-width:0;border:1px solid #7b918b;border-radius:4px;background:#fffdf8;padding:10px;font:inherit;min-height:48px;box-sizing:border-box}
+.wf-filters[hidden] {display:none}
+.wf-copy {max-width:76ch;margin:30px auto;font-size:20px;line-height:1.7;overflow-wrap:anywhere}
+.wf-copy blockquote {border-left:3px solid #83a9a0;margin:24px 0;padding:6px 22px;background:#f0f3ec}
+.wf-copy ul,.wf-copy ol {padding-left:28px}
+.wf-copy li {margin:8px 0}
+.wf-copy hr {border:0;border-top:1px solid var(--line);margin:32px 0}
+.wf-copy pre {overflow:auto;max-width:100%;white-space:pre-wrap;padding:16px;background:#f0eee7}
+.wf-main code {font-size:.8em;overflow-wrap:anywhere}
+.wf-contents,.wf-sources,.wf-dossier,.wf-question {border:1px solid var(--line);border-radius:5px;padding:16px 22px;margin:20px 0;background:#fffdf8;min-width:0}
+.wf-main summary {cursor:pointer;min-height:44px;padding:6px 0;font-size:21px;line-height:1.5}
+.wf-sources {border-left:4px solid #486549;background:#e7eee1}
+.wf-sources details {margin:16px 0}
+.wf-contents ul {columns:2;column-gap:36px;padding-left:20px;font-size:17px}
+.wf-contents li {break-inside:avoid;margin:8px 0}
+.wf-table {overflow-x:auto;max-width:100%;margin:24px 0}
+.wf-table table {width:100%;border-collapse:collapse;font-size:18px;line-height:1.5}
+.wf-table :is(th,td) {padding:12px;border:1px solid #dad9d0;text-align:left;min-width:120px;vertical-align:top}
+.wf-table th {background:#e5efeb}
+.wf-journey {display:grid;grid-template-columns:repeat(3,minmax(0,1fr));list-style:none;padding:0;gap:18px}
+.wf-journey li {border-left:3px solid #83a9a0;padding:10px 20px;background:#e5efeb;min-width:0}
+.wf-journey p {font-size:18px;line-height:1.5}
+.wf-related {padding:0 0 24px;margin:24px 0;border-bottom:1px solid var(--line)}
+.wf-related ul {display:flex;flex-wrap:wrap;list-style:none;padding:0;gap:10px 22px;font-size:17px}
+.wf-related li {max-width:100%}
+.wf-prev-next {display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px;margin:32px 0}
+.wf-prev-next a {flex:1;min-width:180px;min-height:44px}
+.wf-prev-next a:last-child {text-align:right}
+.wf-study {background:#eee8f3;padding:18px 24px;border-radius:5px;margin:24px 0}
+.wf-study h2 {margin-top:4px}
+.wf-study label {display:block;margin:12px 0}
+.wf-study button {font:inherit;background:#fffdf8;border:1px solid #654e7d;min-height:44px;padding:8px 16px;border-radius:4px;margin:4px 8px 4px 0;cursor:pointer}
+.wf-study button[aria-pressed='true'] {background:#654e7d;color:white}
+.wf-read-state {display:block;font-size:14px;color:#365a46;margin-top:8px}
+@media(min-width:1100px) {.wf-timeline {grid-template-columns:repeat(8,minmax(0,1fr));gap:10px}.wf-timeline li {padding:10px}.wf-timeline a {font-size:18px}}
+@media(max-width:800px) {.wf-grid,.wf-grade-matrix {grid-template-columns:repeat(2,minmax(0,1fr))}.wf-hero {grid-template-columns:1fr 160px}.wf-hero .identity-course-art {height:160px}.wf-hero .identity-course-art img {width:140px;height:140px}.wf-journey {grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px) {
+ body[data-waldorf-owned] {padding:0 18px}
+ .wf-main {padding-top:16px}
+ .wf-hero {grid-template-columns:1fr;margin:24px 0}
+ .wf-hero .identity-course-art {display:none}
+ .wf-hero .lead {font-size:22px}
+ .wf-grid,.wf-grade-matrix,.wf-filters,.wf-journey {grid-template-columns:1fr}
+ .wf-card {padding:18px 20px}
+ .wf-timeline {grid-template-columns:1fr;gap:12px}
+ .wf-timeline li {border-top:0;border-left:3px solid #83a9a0;padding:8px 18px}
+ .wf-timeline li::before {left:-6px;top:20px}
+ .wf-timeline .wf-eyebrow {margin:4px 0}
+ .wf-main .wf-status {padding:16px 18px}
+ .wf-copy {font-size:19px}
+ .wf-copy blockquote {padding:6px 14px}
+ .wf-sources,.wf-contents,.wf-dossier,.wf-question {padding:12px 14px}
+ .wf-contents ul {columns:1}
+ .wf-table table,.wf-table tbody,.wf-table tr,.wf-table :is(td,th) {display:block;min-width:0;width:auto}
+ .wf-table thead {display:none}
+ .wf-table tr {margin-bottom:16px;border:1px solid #dad9d0}
+ .wf-table td {border:0;border-bottom:1px solid #dad9d0}
+ .wf-table td::before {content:attr(data-label);display:block;font-weight:700;color:#365a46;font-size:15px;margin-bottom:4px}
+ .wf-prev-next {display:block}
+ .wf-prev-next a {display:block;margin:12px 0;text-align:left!important}
+}
+@media(prefers-reduced-motion:reduce) {body[data-waldorf-owned] *,body[data-waldorf-owned] *::before {scroll-behavior:auto!important;transition:none!important;animation:none!important}}
