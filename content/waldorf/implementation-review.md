@@ -112,6 +112,23 @@ same failure. This is an existing unrelated reading-hub inconsistency.
 
 ## Preview and reproduction
 
+### Published lesson layout correction
+
+After publication, a user screenshot showed repeated package status and source
+provenance paragraphs interrupting the opening of a foundation lesson. The
+renderer now places editorial status blocks, source traces and provenance
+notes inside the collapsed Sources & Origins panel. A compact visible status
+notice retains the correct draft state and pending source verification; outlines
+and placeholders still visibly say they await final course copy. Educational
+explanations, examples, qualifications and inherited provenance labels remain
+in the reading area. Original package files remain unchanged.
+
+The browser fidelity check compares the reading area and relocated source-note
+area separately against the corresponding supplied Markdown blocks, and checks
+that their combined original blocks reconstruct the entire source body exactly.
+This preserves the source material while removing duplicate editorial text from
+the lesson opening.
+
 From the repository root:
 
 ```sh

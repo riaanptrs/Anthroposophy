@@ -4,7 +4,7 @@ import {Marked} from './vendor/marked/marked.mjs';
 import {esc,relative,shell,write} from './learning-html.mjs';
 import {platformNav,platformSupportNav} from './platform-architecture.mjs';
 import {renderIdentityMark,renderCourseArtwork} from './visual-identity.mjs';
-import {loadWaldorfContent,rootRoute,packageRoot,groups,states,gradeViews,gradeSelections,waldorfRoutes} from './waldorf-content.mjs';
+import {loadWaldorfContent,rootRoute,packageRoot,groups,states,gradeViews,gradeSelections,waldorfRoutes,waldorfPresentation} from './waldorf-content.mjs';
 
 const items = loadWaldorfContent(), sourceMap = new Map(items.map(i=>[i.source,i.route]));
 for (const [source,route] of [['SOURCES.md','sources/index.html'],['README.md','orientation.html'],['COURSE_MASTER.md','index.html'],['CONTENT_STATUS.md','status.html']]) sourceMap.set(source,rootRoute+route);
@@ -14,7 +14,7 @@ const title = 'Understanding Waldorf Education';
 const links = (file,route,label,attrs='') => `<a href="${esc(relative(file,'docs/'+route))}"${attrs?' '+attrs:''}>${esc(label)}</a>`;
 const courseLink = (file,route,label,attrs='')=>links(file,rootRoute+route,label,attrs);
 const badge = i=>`<span class="wf-badge" data-content-state="${i.state}">${states[i.state]}</span>`;
-const pending = i=>`<aside class="wf-status">${badge(i)} <strong>${i.state==='draft-copy'?'Editorial and source review pending.':'Awaiting final course copy.'}</strong><p>${{ 'draft-copy':'Substantive lesson prose supplied as a draft.', 'draft-dossier':'Detailed research material; a finished parent-facing lesson is still to be written.', 'draft-outline':'Established planning points and excerpts; the finished explanation is still to be written.', placeholder:'Architecture only; no substantive answer was supplied.'}[i.state]} Source verification is pending. Inherited attributions and quotations have not been independently checked.</p></aside>`;
+const pending = i=>`<aside class="wf-status wf-status-compact">${badge(i)} ${i.state==='draft-copy'?'':'<strong>Awaiting final course copy.</strong>'} <span>Source verification is pending.</span> <a href="#wf-source-notes">Sources &amp; Origins</a></aside>`;
 const sections = body=>{
  const lines=body.split('\n'),result=[];let part=[];
  for (const line of lines) {
@@ -29,7 +29,7 @@ const sections = body=>{
 
 // Render with a per-page Markdown instance. Supplied text is preserved; source
 // tokens remain visibly unresolved. No raw HTML or guessed citation targets.
-export function renderMarkdown(body,item,file) {
+export function renderMarkdown(body,item,file,idPrefix='copy') {
  const headings=[],counts=new Map();let level=1;
  const parser=new Marked({gfm:true});
  parser.use({renderer:{
@@ -37,7 +37,7 @@ export function renderMarkdown(body,item,file) {
   heading({tokens,depth,text}) {
    const wanted=Math.max(2,depth);level=Math.min(wanted,level+1);
    const base=text.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')||'section';
-   const count=counts.get(base)||0;counts.set(base,count+1);const id='copy-'+base+(count?'-'+count:'');
+   const count=counts.get(base)||0;counts.set(base,count+1);const id=idPrefix+'-'+base+(count?'-'+count:'');
    headings.push({id,text:text.replace(/[*_`]/g,'')});
    return `<h${level} id="${id}">${this.parser.parseInline(tokens)}</h${level}>\n`;
   },
@@ -61,11 +61,11 @@ export function renderMarkdown(body,item,file) {
  html=html.replace(/\[(?:BOOK|STEINER|EARLY WALDORF|LATER WALDORF|WALDORF|INTERPRETATION|EXPANSION|MODERN|CONTEMPORARY WALDORF|CONVERSATION|TEXT UNCERTAIN)[A-Z /+—-]*\]/g,label=>`<span class="wf-provenance">${label}</span>`);
  return {html,headings};
 }
-function sources(item,file) {
+function sources(item,file,editorial=waldorfPresentation(item).editorial) {
  const labels=[...new Set(item.body.match(/\[(?:BOOK|STEINER|EARLY WALDORF|LATER WALDORF|WALDORF|INTERPRETATION|EXPANSION|MODERN|CONTEMPORARY WALDORF|CONVERSATION|TEXT UNCERTAIN)[A-Z /+—-]*\]/g)||[])];
  const messages=[...new Set(item.raw.match(/[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/g)||[])];
  const citations=[...new Set(item.body.match(/(?:content-reference\{index="\d+"\}|unresolved conversation citation \d+|Original content-reference index \d+)/gi)||[])];
- return `<details class="wf-sources"><summary>Sources &amp; Origins</summary><p><strong>Source verification pending.</strong> This page reproduces supplied conversation material. Labels record inherited attributions, not independent verification. Later Waldorf curriculum and interpretation remain distinct from Steiner indications. Quotations and shortened source-preview names require checking against the actual edition.</p><p>Supplied file: <code>${esc(item.source)}</code></p>${labels.length?`<p>Inherited provenance categories: ${labels.map(l=>`<span class="wf-provenance">${esc(l)}</span>`).join(' ')}</p>`:''}${messages.length?`<details><summary>Conversation trace</summary><ul>${messages.map(m=>`<li><code>${m}</code></li>`).join('')}</ul></details>`:''}${citations.length?`<p>Unresolved citation clues (indices belong to their originating messages):</p><ul>${citations.map(c=>`<li>${esc(c)}</li>`).join('')}</ul>`:''}<p>${courseLink(file,'sources/index.html','Read the source register and verification limits')} · ${courseLink(file,'status.html','See content status')}</p></details>`;
+ return `<details class="wf-sources" id="wf-source-notes"><summary>Sources &amp; Origins</summary><p><strong>Source verification pending.</strong> This page reproduces supplied conversation material. Labels record inherited attributions, not independent verification. Later Waldorf curriculum and interpretation remain distinct from Steiner indications. Quotations and shortened source-preview names require checking against the actual edition.</p><p>Supplied file: <code>${esc(item.source)}</code></p>${labels.length?`<p>Inherited provenance categories: ${labels.map(l=>`<span class="wf-provenance">${esc(l)}</span>`).join(' ')}</p>`:''}${messages.length?`<details><summary>Conversation trace</summary><ul>${messages.map(m=>`<li><code>${m}</code></li>`).join('')}</ul></details>`:''}${citations.length?`<p>Unresolved citation clues (indices belong to their originating messages):</p><ul>${citations.map(c=>`<li>${esc(c)}</li>`).join('')}</ul>`:''}${editorial?`<h2>Original package notes</h2><div class="wf-source-copy" data-wf-editorial="${item.source}">${renderMarkdown(editorial,item,file,'note').html}</div>`:''}<p>${courseLink(file,'sources/index.html','Read the source register and verification limits')} · ${courseLink(file,'status.html','See content status')}</p></details>`;
 }
 function emit(route,pageTitle,body,item=null) {
  const file='docs/'+route;
@@ -134,7 +134,7 @@ for(const [group,label] of Object.entries(groups)) {
  emit(rootRoute+group+'/index.html',label,`<h1>${label}</h1><p>${group==='foundations'?'Lessons 1–6 contain substantive draft prose; Lessons 7–19 are outlines.':group==='grades'?'Each grade includes a complete supplied research dossier and three focused reading views. Finished parent-facing lessons and source checks are pending.':'Established outlines and planning material are available; final educational copy and source checks are pending.'}</p>${group==='development'?timeline(file):''}${listing}`);
 }
 for(const item of items) {
- const file='docs/'+item.route,rendered=renderMarkdown(item.body,item,file);
+ const file='docs/'+item.route,presentation=waldorfPresentation(item),rendered=renderMarkdown(presentation.reading,item,file);
  let gradeExtras='';
  if(item.grade) {
   const row=matrix[item.grade-1];

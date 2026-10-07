@@ -5,7 +5,7 @@ const path=require('node:path');
 
 (async()=>{
  const {Marked}=await import('./vendor/marked/marked.mjs');
- const {loadWaldorfContent}=await import('./waldorf-content.mjs');
+ const {loadWaldorfContent,waldorfPresentation}=await import('./waldorf-content.mjs');
  const items=loadWaldorfContent(),manifest=JSON.parse(fs.readFileSync('content/waldorf/manifest.json','utf8'));
  const origin=process.env.WALDORF_PREVIEW_URL||'http://127.0.0.1:4173';
  const browser=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||'/usr/bin/chromium',headless:true,args:['--no-sandbox']});
@@ -32,11 +32,17 @@ const path=require('node:path');
     assert.ok(await page.evaluate(()=>[...document.images].every(img=>img.complete&&img.naturalWidth>0)),route+' artwork decodes');
     const src=items.find(i=>i.route===route);
     if(width===1280&&src) {
-     const actual=await page.locator('[data-wf-copy]').textContent();
+     const presentation=waldorfPresentation(src);
+     assert.equal(presentation.blocks.map(b=>b.raw).join(''),src.body,'Every original Markdown block retained');
      const parser=new Marked({gfm:true});
-     const expected=parser.parse(src.body.replace(/:chatgpt-content-reference\{index="(\d+)"\}/g,'[Unresolved conversation citation $1 — primary-source check pending]'));
-     const expectedText=await page.evaluate(html=>new DOMParser().parseFromString(html,'text/html').body.textContent,expected);
-     assert.equal(normalize(actual),normalize(expectedText),'Complete supplied content preserved: '+src.source);
+     for(const [selector,copy] of [['[data-wf-copy]',presentation.reading],['[data-wf-editorial]',presentation.editorial]]) {
+      if(!copy)continue;
+      const actual=await page.locator(selector).textContent();
+      const expected=parser.parse(copy.replace(/:chatgpt-content-reference\{index="(\d+)"\}/g,'[Unresolved conversation citation $1 — primary-source check pending]'));
+      const expectedText=await page.evaluate(html=>new DOMParser().parseFromString(html,'text/html').body.textContent,expected);
+      assert.equal(normalize(actual),normalize(expectedText),'Supplied text preserved in reading/source panel: '+src.source);
+     }
+     assert.ok(!await page.locator('[data-wf-copy]').textContent().then(t=>t.includes('Status: DRAFT COPY')),'No repeated package status in lesson body');
     }
     if(width===320) {
      for(const detail of await page.locator('.wf-dossier,.wf-sources').all()) {
@@ -58,6 +64,7 @@ const path=require('node:path');
    await page.locator('.wf-timeline a').nth(3).click();
    assert.match(page.url(),/nine-year-change\.html$/,'Timeline navigation');
    await page.goto(origin+prefix+items[0].route);
+   if(width===1280){await page.evaluate(()=>document.fonts.ready);await page.screenshot({path:'/workspace/waldorf-lesson-updated.png',fullPage:false});}
    const sourcePanel=page.locator('.wf-sources > summary');await sourcePanel.focus();await page.keyboard.press('Enter');
    assert.equal(await page.locator('.wf-sources').getAttribute('open'),'','Keyboard-accessible source panel');
    assert.equal(await page.evaluate(()=>localStorage.length),0,'No automatic study storage');
