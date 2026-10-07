@@ -109,3 +109,4 @@ body[data-waldorf-owned] {max-width:1200px;margin:auto;padding:0 32px}
 @media(prefers-reduced-motion:reduce) {body[data-waldorf-owned] *,body[data-waldorf-owned] *::before {scroll-behavior:auto!important;transition:none!important;animation:none!important}}
 
 .wf-reference-title {font-size:.95em;overflow-wrap:anywhere}
+.wf-citation-note {font-size:.8em;color:#365a46;font-style:italic}

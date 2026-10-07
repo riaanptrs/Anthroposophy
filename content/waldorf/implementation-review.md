@@ -158,3 +158,9 @@ heading section; otherwise the source is explicitly unresolved. A named work
 does not establish passage verification. Exact original categories remain in
 `data-original-label` and in the unchanged Markdown. Browser fidelity checks
 restore those original labels before comparing educational text.
+
+Internal citation indices, message IDs, and original package notes are preserved
+inside a separately collapsed “Editorial source records” section. Inline
+conversation tokens display only “Source verification pending”; their original
+indices remain available for source auditing and text-preservation checks.
+Browser checks cover the default collapsed state and expanded mobile layout.

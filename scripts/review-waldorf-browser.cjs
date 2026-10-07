@@ -41,6 +41,7 @@ const path=require('node:path');
       const actual=await page.locator(selector).evaluate(node=>{
        const copy=node.cloneNode(true);
        for(const label of copy.querySelectorAll('[data-original-label]'))label.textContent=label.dataset.originalLabel;
+       for(const citation of copy.querySelectorAll('[data-citation-index]'))citation.textContent='[Unresolved conversation citation '+citation.dataset.citationIndex+' — primary-source check pending]';
        return copy.textContent;
       });
       const expected=parser.parse(copy.replace(/:chatgpt-content-reference\{index="(\d+)"\}/g,'[Unresolved conversation citation $1 — primary-source check pending]'));
@@ -48,9 +49,13 @@ const path=require('node:path');
       assert.equal(normalize(actual),normalize(expectedText),'Supplied text preserved in reading/source panel: '+src.source);
      }
      assert.ok(!await page.locator('[data-wf-copy]').textContent().then(t=>t.includes('Status: DRAFT COPY')),'No repeated package status in lesson body');
+     assert.ok(!await page.locator('[data-wf-copy]').textContent().then(t=>t.includes('Unresolved conversation citation')),'No internal citation indices in lessons');
+     await page.locator('.wf-sources > summary').click();
+     assert.ok(!await page.locator('[data-wf-editorial]').isVisible(),'Original citation records stay collapsed inside the source panel');
+     assert.equal(await page.locator('.wf-source-trace').getAttribute('open'),null,'Editorial trace closed by default');
     }
     if(width===320) {
-     for(const detail of await page.locator('.wf-dossier,.wf-sources').all()) {
+     for(const detail of await page.locator('.wf-dossier,.wf-sources,.wf-source-trace').all()) {
       await detail.locator(':scope > summary').click();
       assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`Expanded overflow: ${route}`);
      }
