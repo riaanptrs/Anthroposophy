@@ -134,6 +134,7 @@ From the repository root:
 ```sh
 node scripts/build-all.mjs
 node scripts/check-waldorf.mjs
+node scripts/check-waldorf-provenance.mjs
 node scripts/check-site.mjs
 node scripts/preview.mjs
 ```
@@ -150,3 +151,10 @@ the defaults. Preview screenshots are saved outside public docs at
 `/workspace/waldorf-preview-1280.png`, `waldorf-preview-390.png` and
 `waldorf-preview-320.png`; the JSON browser report is in
 `/tmp/waldorf-browser-review.json`.
+
+Inherited provenance markers now display as readable notes. Book attributions
+name a work only when its complete supplied register title appears in the same
+heading section; otherwise the source is explicitly unresolved. A named work
+does not establish passage verification. Exact original categories remain in
+`data-original-label` and in the unchanged Markdown. Browser fidelity checks
+restore those original labels before comparing educational text.

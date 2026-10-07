@@ -107,3 +107,5 @@ body[data-waldorf-owned] {max-width:1200px;margin:auto;padding:0 32px}
  .wf-prev-next a {display:block;margin:12px 0;text-align:left!important}
 }
 @media(prefers-reduced-motion:reduce) {body[data-waldorf-owned] *,body[data-waldorf-owned] *::before {scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+
+.wf-reference-title {font-size:.95em;overflow-wrap:anywhere}

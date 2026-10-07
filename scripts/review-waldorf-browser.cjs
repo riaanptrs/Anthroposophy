@@ -27,6 +27,7 @@ const path=require('node:path');
    for(const route of manifest.pages) {
     const response=await page.goto(origin+prefix+route,{waitUntil:'load'});assert.equal(response.status(),200,route);
     assert.equal(await page.locator('h1').count(),1,route);
+    assert.ok(!await page.locator('main').textContent().then(t=>t.includes('[BOOK]')),route+' no raw book markers');
     assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`Overflow at ${width}: ${route}`);
     assert.ok(await page.getByRole('navigation',{name:'Waldorf course',exact:true}).isVisible(),route+' course navigation');
     assert.ok(await page.evaluate(()=>[...document.images].every(img=>img.complete&&img.naturalWidth>0)),route+' artwork decodes');
@@ -37,7 +38,11 @@ const path=require('node:path');
      const parser=new Marked({gfm:true});
      for(const [selector,copy] of [['[data-wf-copy]',presentation.reading],['[data-wf-editorial]',presentation.editorial]]) {
       if(!copy)continue;
-      const actual=await page.locator(selector).textContent();
+      const actual=await page.locator(selector).evaluate(node=>{
+       const copy=node.cloneNode(true);
+       for(const label of copy.querySelectorAll('[data-original-label]'))label.textContent=label.dataset.originalLabel;
+       return copy.textContent;
+      });
       const expected=parser.parse(copy.replace(/:chatgpt-content-reference\{index="(\d+)"\}/g,'[Unresolved conversation citation $1 — primary-source check pending]'));
       const expectedText=await page.evaluate(html=>new DOMParser().parseFromString(html,'text/html').body.textContent,expected);
       assert.equal(normalize(actual),normalize(expectedText),'Supplied text preserved in reading/source panel: '+src.source);

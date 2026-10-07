@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {readableProvenance} from './waldorf-provenance.mjs';
+
+const html=readableProvenance('<h2>First section</h2><p>[BOOK]</p><p><em>Practical Advice to Teachers</em></p><h2>Next section</h2><p>[BOOK]</p><p>[LATER WALDORF PRACTICE] [STEINER + WALDORF CURRICULUM]</p>',true);
+const [first,second]=html.split('<h2>Next section</h2>');
+assert.ok(first.includes('Named in this section: Practical Advice to Teachers'));
+assert.ok(first.includes('Passage verification pending'));
+assert.ok(second.includes('Book attribution — source unresolved'));
+assert.ok(!second.includes('Practical Advice to Teachers'),'Never borrow a title from another section');
+assert.ok(second.includes('Later Waldorf practice'));
+assert.ok(second.includes('Steiner + Waldorf curriculum'),'Preserve combined categories');
+assert.ok(first.includes('data-original-label="[BOOK]"'),'Retain exact inherited category');
+assert.ok(!readableProvenance('<p>[BOOK] Practical Advice to Teachers</p>').includes('Named in this section'),'Register/editorial notes do not assign sources');
+assert.ok(readableProvenance('<p>[BOOK] Practical Advice to Teach…</p>',true).includes('source unresolved'),'Never complete a truncated source clue');
+console.log('Passed readable provenance: explicit titles, unresolved sources, section scope, combined categories, and original labels.');

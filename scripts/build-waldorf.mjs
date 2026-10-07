@@ -5,6 +5,7 @@ import {esc,relative,shell,write} from './learning-html.mjs';
 import {platformNav,platformSupportNav} from './platform-architecture.mjs';
 import {renderIdentityMark,renderCourseArtwork} from './visual-identity.mjs';
 import {loadWaldorfContent,rootRoute,packageRoot,groups,states,gradeViews,gradeSelections,waldorfRoutes,waldorfPresentation} from './waldorf-content.mjs';
+import {provenanceNote,readableProvenance} from './waldorf-provenance.mjs';
 
 const items = loadWaldorfContent(), sourceMap = new Map(items.map(i=>[i.source,i.route]));
 for (const [source,route] of [['SOURCES.md','sources/index.html'],['README.md','orientation.html'],['COURSE_MASTER.md','index.html'],['CONTENT_STATUS.md','status.html']]) sourceMap.set(source,rootRoute+route);
@@ -57,15 +58,16 @@ export function renderMarkdown(body,item,file,idPrefix='copy') {
   }
  }});
  let html=parser.parse(body.replace(/:chatgpt-content-reference\{index="(\d+)"\}/g,'[Unresolved conversation citation $1 — primary-source check pending]'));
- // Only uppercase inherited provenance labels get badges; keep exact words.
- html=html.replace(/\[(?:BOOK|STEINER|EARLY WALDORF|LATER WALDORF|WALDORF|INTERPRETATION|EXPANSION|MODERN|CONTEMPORARY WALDORF|CONVERSATION|TEXT UNCERTAIN)[A-Z /+—-]*\]/g,label=>`<span class="wf-provenance">${label}</span>`);
+ // Human-readable labels retain their exact inherited category for auditing.
+ html=readableProvenance(html,idPrefix==='copy'&&item.source!=='SOURCES.md');
+ for(const heading of headings) heading.text=heading.text.replace(/\[BOOK\]/g,'Book attribution — unverified');
  return {html,headings};
 }
 function sources(item,file,editorial=waldorfPresentation(item).editorial) {
  const labels=[...new Set(item.body.match(/\[(?:BOOK|STEINER|EARLY WALDORF|LATER WALDORF|WALDORF|INTERPRETATION|EXPANSION|MODERN|CONTEMPORARY WALDORF|CONVERSATION|TEXT UNCERTAIN)[A-Z /+—-]*\]/g)||[])];
  const messages=[...new Set(item.raw.match(/[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/g)||[])];
  const citations=[...new Set(item.body.match(/(?:content-reference\{index="\d+"\}|unresolved conversation citation \d+|Original content-reference index \d+)/gi)||[])];
- return `<details class="wf-sources" id="wf-source-notes"><summary>Sources &amp; Origins</summary><p><strong>Source verification pending.</strong> This page reproduces supplied conversation material. Labels record inherited attributions, not independent verification. Later Waldorf curriculum and interpretation remain distinct from Steiner indications. Quotations and shortened source-preview names require checking against the actual edition.</p><p>Supplied file: <code>${esc(item.source)}</code></p>${labels.length?`<p>Inherited provenance categories: ${labels.map(l=>`<span class="wf-provenance">${esc(l)}</span>`).join(' ')}</p>`:''}${messages.length?`<details><summary>Conversation trace</summary><ul>${messages.map(m=>`<li><code>${m}</code></li>`).join('')}</ul></details>`:''}${citations.length?`<p>Unresolved citation clues (indices belong to their originating messages):</p><ul>${citations.map(c=>`<li>${esc(c)}</li>`).join('')}</ul>`:''}${editorial?`<h2>Original package notes</h2><div class="wf-source-copy" data-wf-editorial="${item.source}">${renderMarkdown(editorial,item,file,'note').html}</div>`:''}<p>${courseLink(file,'sources/index.html','Read the source register and verification limits')} · ${courseLink(file,'status.html','See content status')}</p></details>`;
+ return `<details class="wf-sources" id="wf-source-notes"><summary>Sources &amp; Origins</summary><p><strong>Source verification pending.</strong> This page reproduces supplied conversation material. Labels record inherited attributions, not independent verification. Later Waldorf curriculum and interpretation remain distinct from Steiner indications. Quotations and shortened source-preview names require checking against the actual edition.</p><p>Supplied file: <code>${esc(item.source)}</code></p>${labels.length?`<p>Inherited provenance categories: ${labels.map(l=>provenanceNote(l)).join(' ')}</p>`:''}${messages.length?`<details><summary>Conversation trace</summary><ul>${messages.map(m=>`<li><code>${m}</code></li>`).join('')}</ul></details>`:''}${citations.length?`<p>Unresolved citation clues (indices belong to their originating messages):</p><ul>${citations.map(c=>`<li>${esc(c)}</li>`).join('')}</ul>`:''}${editorial?`<h2>Original package notes</h2><div class="wf-source-copy" data-wf-editorial="${item.source}">${renderMarkdown(editorial,item,file,'note').html}</div>`:''}<p>${courseLink(file,'sources/index.html','Read the source register and verification limits')} · ${courseLink(file,'status.html','See content status')}</p></details>`;
 }
 function emit(route,pageTitle,body,item=null) {
  const file='docs/'+route;
