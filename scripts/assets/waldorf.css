@@ -110,3 +110,6 @@ body[data-waldorf-owned] {max-width:1200px;margin:auto;padding:0 32px}
 
 .wf-reference-title {font-size:.95em;overflow-wrap:anywhere}
 .wf-citation-note {font-size:.8em;color:#365a46;font-style:italic}
+.wf-reading-frame {max-width:52rem;font-size:17px;line-height:1.6;padding:12px 18px;border-left:3px solid #83a9a0;background:#f0f3ed}
+.wf-study-route {margin:32px 0}
+.wf-study-route li {margin:12px 0}

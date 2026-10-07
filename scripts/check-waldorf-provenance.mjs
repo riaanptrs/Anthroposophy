@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import {readableProvenance} from './waldorf-provenance.mjs';
+import {readableProvenance,readableCitationNotes} from './waldorf-provenance.mjs';
 
 const html=readableProvenance('<h2>First section</h2><p>[BOOK]</p><p><em>Practical Advice to Teachers</em></p><h2>Next section</h2><p>[BOOK]</p><p>[LATER WALDORF PRACTICE] [STEINER + WALDORF CURRICULUM]</p>',true);
 const [first,second]=html.split('<h2>Next section</h2>');
@@ -13,3 +13,9 @@ assert.ok(first.includes('data-original-label="[BOOK]"'),'Retain exact inherited
 assert.ok(!readableProvenance('<p>[BOOK] Practical Advice to Teachers</p>').includes('Named in this section'),'Register/editorial notes do not assign sources');
 assert.ok(readableProvenance('<p>[BOOK] Practical Advice to Teach…</p>',true).includes('source unresolved'),'Never complete a truncated source clue');
 console.log('Passed readable provenance: explicit titles, unresolved sources, section scope, combined categories, and original labels.');
+const citations=readableCitationNotes('<p>[unresolved conversation citation 16] [UNRESOLVED SOURCE PREVIEW: A book [translator] -- preview.md]</p>');
+assert.ok(citations.includes('data-citation-index="16"'));
+assert.ok(citations.includes('data-citation-format="short"'));
+assert.ok(citations.includes('data-original-preview-html='));
+assert.ok(!citations.includes('>[unresolved conversation citation'));
+assert.ok(citations.includes('>Source verification pending</span>'));

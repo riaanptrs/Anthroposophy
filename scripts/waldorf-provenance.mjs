@@ -21,3 +21,9 @@ export function readableProvenance(html,includeTitles=false) {
   return section.replace(provenancePattern,label=>provenanceNote(label,named));
  }).join('');
 }
+
+export function readableCitationNotes(html) {
+ return html
+  .replace(/\[(?:Unresolved conversation citation (\d+) — primary-source check pending|unresolved conversation citation (\d+))\]/g,(_,long,short)=>`<span class="wf-citation-note" data-citation-index="${long||short}" data-citation-format="${long?'long':'short'}" title="The supplied draft contains an unresolved source reference">Source verification pending</span>`)
+  .replace(/\[UNRESOLVED SOURCE PREVIEW: [^\n]*?\.md\]/g,original=>`<span class="wf-citation-note" data-original-preview-html="${esc(original)}" title="The supplied filename is a source-location clue, not a verified citation">Source verification pending</span>`);
+}

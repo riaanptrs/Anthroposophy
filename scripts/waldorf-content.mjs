@@ -49,7 +49,7 @@ export function waldorfPresentation(item) {
    (token.type==='heading'&&token.text==='Established course copy') ||
    (token.type==='blockquote'&&/^Status:/.test(plain)) ||
    (token.type==='paragraph'&&/^(?:Status:|Course:|Source trace:|Source: conversation|See \[Sources and provenance\]|This file preserves|Provenance and citation note:)/.test(plain));
-  const trace=token.type==='paragraph'&&(/^(?:Source trace:|Source: conversation|This file preserves)/i.test(plain)||/[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/i.test(plain));
+  const trace=token.type==='paragraph'&&(/^(?:Source trace:|Source: conversation|Source: same message|Retrieval note:|This file preserves)/i.test(plain)||/[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/i.test(plain));
   const archive=archiveDepth!==null || trace ||
    (token.type==='heading'&&token.text==='Established course copy') ||
    (token.type==='blockquote'&&/^Status:/.test(plain)) ||
