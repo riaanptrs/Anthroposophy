@@ -172,3 +172,8 @@ following trace prefixes remain in the readable notes. Outline headings omit
 the packaging word “Established”; the draft and unfinished notices remain.
 Every lesson and grade view is checked for internal IDs and trace wording,
 including text inside collapsed panels.
+
+The package's “Completion work still required” author checklists are also
+archived with the original Markdown rather than rendered as lesson content.
+This applies to all 19 foundation files. Draft status, source-verification
+status, and descriptions of genuinely missing educational copy remain visible.

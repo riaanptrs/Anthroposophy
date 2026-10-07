@@ -45,7 +45,7 @@ for(const route of manifest.pages) {
 for(const item of items) {
  const presentation=waldorfPresentation(item);
  assert.equal(presentation.blocks.map(b=>b.raw).join(''),item.body,item.source+' original blocks remain intact');
- assert.ok(!/Source trace:|Established course copy|Original content-reference index|assistant message|[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/i.test(presentation.reading+'\n'+presentation.editorial),item.source+' public copy excludes package traces');
+ assert.ok(!/Source trace:|Established course copy|Completion work still required|Original content-reference index|assistant message|[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/i.test(presentation.reading+'\n'+presentation.editorial),item.source+' public copy excludes package traces');
  const html=fs.readFileSync('docs/'+item.route,'utf8');
  assert.ok(html.includes(`data-content-state="${item.state}"`),item.source+' original state');
  assert.ok(html.includes('Source verification is pending'),item.source+' unverified sources');

@@ -41,7 +41,7 @@ export function waldorfPresentation(item) {
  const tokens=new Marked({gfm:true}).lexer(item.body),blocks=[];let sourceDepth=null,archiveDepth=null;
  for(const token of tokens) {
   if(token.type==='heading'&&archiveDepth!==null&&token.depth<=archiveDepth)archiveDepth=null;
-  if(token.type==='heading'&&/^Unresolved citation records$/i.test(token.text))archiveDepth=token.depth;
+  if(token.type==='heading'&&/^(?:Unresolved citation records|Completion work still required)$/i.test(token.text))archiveDepth=token.depth;
   if(token.type==='heading'&&sourceDepth!==null&&token.depth<=sourceDepth)sourceDepth=null;
   if(token.type==='heading'&&/^(?:Provenance and reading status|Unresolved citation records|Sources and (?:origins|connections)|\d+\. Grade \d+ source map|\d+\. Source discipline for Grade \d+)$/i.test(token.text))sourceDepth=token.depth;
   const plain=token.raw.replace(/^[>\s]+/,'').replace(/\*/g,'');

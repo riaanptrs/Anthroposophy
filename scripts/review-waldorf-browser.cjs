@@ -29,7 +29,7 @@ const path=require('node:path');
     assert.equal(await page.locator('h1').count(),1,route);
     if(route.includes('/foundations/')||route.includes('/development/')||route.includes('/grades/grade-')||route.includes('/subjects/')||route.includes('/parents/')) {
      const text=await page.locator('main').textContent();
-     assert.ok(!/Source trace:|Established course copy|Original content-reference index|assistant message|[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/i.test(text),route+' no package traces even inside collapsed panels');
+     assert.ok(!/Source trace:|Established course copy|Completion work still required|Original content-reference index|assistant message|[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/i.test(text),route+' no package traces even inside collapsed panels');
     }
     assert.ok(!await page.locator('main').textContent().then(t=>t.includes('[BOOK]')),route+' no raw book markers');
     assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`Overflow at ${width}: ${route}`);
