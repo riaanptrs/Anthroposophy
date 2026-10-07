@@ -38,8 +38,10 @@ export const gradeViews = ['child','curriculum','why-now'];
 // Package/editorial notes belong in the source panel. Preserve every original
 // Markdown block and its relative order within each presentation area.
 export function waldorfPresentation(item) {
- const tokens=new Marked({gfm:true}).lexer(item.body),blocks=[];let sourceDepth=null;
+ const tokens=new Marked({gfm:true}).lexer(item.body),blocks=[];let sourceDepth=null,archiveDepth=null;
  for(const token of tokens) {
+  if(token.type==='heading'&&archiveDepth!==null&&token.depth<=archiveDepth)archiveDepth=null;
+  if(token.type==='heading'&&/^Unresolved citation records$/i.test(token.text))archiveDepth=token.depth;
   if(token.type==='heading'&&sourceDepth!==null&&token.depth<=sourceDepth)sourceDepth=null;
   if(token.type==='heading'&&/^(?:Provenance and reading status|Unresolved citation records|Sources and (?:origins|connections)|\d+\. Grade \d+ source map|\d+\. Source discipline for Grade \d+)$/i.test(token.text))sourceDepth=token.depth;
   const plain=token.raw.replace(/^[>\s]+/,'').replace(/\*/g,'');
@@ -47,9 +49,16 @@ export function waldorfPresentation(item) {
    (token.type==='heading'&&token.text==='Established course copy') ||
    (token.type==='blockquote'&&/^Status:/.test(plain)) ||
    (token.type==='paragraph'&&/^(?:Status:|Course:|Source trace:|Source: conversation|See \[Sources and provenance\]|This file preserves|Provenance and citation note:)/.test(plain));
-  blocks.push({raw:token.raw,editorial});
+  const trace=token.type==='paragraph'&&(/^(?:Source trace:|Source: conversation|This file preserves)/i.test(plain)||/[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/i.test(plain));
+  const archive=archiveDepth!==null || trace ||
+   (token.type==='heading'&&token.text==='Established course copy') ||
+   (token.type==='blockquote'&&/^Status:/.test(plain)) ||
+   (token.type==='paragraph'&&/^(?:Status:|Course:)/.test(plain));
+  // Retain the supplied qualifications after a trace, without publishing IDs.
+  const qualification=trace?token.raw.match(/(?:This (?:remains|is)|These are|The outline records|It overlaps|No PDF)\b[\s\S]*$/)?.[0]:null;
+  blocks.push({raw:token.raw,editorial:editorial||archive,archive,displayRaw:archive?(qualification||''):token.raw});
  }
- return {blocks,reading:blocks.filter(b=>!b.editorial).map(b=>b.raw).join(''),editorial:blocks.filter(b=>b.editorial).map(b=>b.raw).join('')};
+ return {blocks,reading:blocks.filter(b=>!b.editorial).map(b=>b.raw).join(''),editorial:blocks.filter(b=>b.editorial).map(b=>b.displayRaw).join('\n'),archived:blocks.filter(b=>b.archive).map(b=>b.raw).join('')};
 }
 export function waldorfRoutes(items = loadWaldorfContent()) {
  return [...['index.html','orientation.html','status.html','sources/index.html',...Object.keys(groups).map(g=>g+'/index.html')].map(r=>rootRoute+r),...items.flatMap(i=>[i.route,...(i.grade?gradeViews.map(v=>i.route.replace('index.html',v+'.html')):[])])];

@@ -27,6 +27,10 @@ const path=require('node:path');
    for(const route of manifest.pages) {
     const response=await page.goto(origin+prefix+route,{waitUntil:'load'});assert.equal(response.status(),200,route);
     assert.equal(await page.locator('h1').count(),1,route);
+    if(route.includes('/foundations/')||route.includes('/development/')||route.includes('/grades/grade-')||route.includes('/subjects/')||route.includes('/parents/')) {
+     const text=await page.locator('main').textContent();
+     assert.ok(!/Source trace:|Established course copy|Original content-reference index|assistant message|[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/i.test(text),route+' no package traces even inside collapsed panels');
+    }
     assert.ok(!await page.locator('main').textContent().then(t=>t.includes('[BOOK]')),route+' no raw book markers');
     assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`Overflow at ${width}: ${route}`);
     assert.ok(await page.getByRole('navigation',{name:'Waldorf course',exact:true}).isVisible(),route+' course navigation');
@@ -37,9 +41,10 @@ const path=require('node:path');
      assert.equal(presentation.blocks.map(b=>b.raw).join(''),src.body,'Every original Markdown block retained');
      const parser=new Marked({gfm:true});
      for(const [selector,copy] of [['[data-wf-copy]',presentation.reading],['[data-wf-editorial]',presentation.editorial]]) {
-      if(!copy)continue;
+      if(!copy.trim())continue;
       const actual=await page.locator(selector).evaluate(node=>{
        const copy=node.cloneNode(true);
+       for(const heading of copy.querySelectorAll('[data-original-heading]'))heading.textContent=heading.dataset.originalHeading;
        for(const label of copy.querySelectorAll('[data-original-label]'))label.textContent=label.dataset.originalLabel;
        for(const citation of copy.querySelectorAll('[data-citation-index]'))citation.textContent='[Unresolved conversation citation '+citation.dataset.citationIndex+' — primary-source check pending]';
        return copy.textContent;
@@ -51,7 +56,7 @@ const path=require('node:path');
      assert.ok(!await page.locator('[data-wf-copy]').textContent().then(t=>t.includes('Status: DRAFT COPY')),'No repeated package status in lesson body');
      assert.ok(!await page.locator('[data-wf-copy]').textContent().then(t=>t.includes('Unresolved conversation citation')),'No internal citation indices in lessons');
      await page.locator('.wf-sources > summary').click();
-     assert.ok(!await page.locator('[data-wf-editorial]').isVisible(),'Original citation records stay collapsed inside the source panel');
+     assert.ok(!await page.locator('[data-wf-editorial]').isVisible(),'Additional source qualifications stay collapsed inside the source panel');
      assert.equal(await page.locator('.wf-source-trace').getAttribute('open'),null,'Editorial trace closed by default');
     }
     if(width===320) {

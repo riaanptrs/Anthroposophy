@@ -164,3 +164,11 @@ inside a separately collapsed “Editorial source records” section. Inline
 conversation tokens display only “Source verification pending”; their original
 indices remain available for source auditing and text-preservation checks.
 Browser checks cover the default collapsed state and expanded mobile layout.
+
+Public lesson pages now omit archived trace paragraphs, original citation
+records, and package-only status/course wrappers altogether. Their complete
+original blocks remain in the unchanged Markdown package. Source qualifications
+following trace prefixes remain in the readable notes. Outline headings omit
+the packaging word “Established”; the draft and unfinished notices remain.
+Every lesson and grade view is checked for internal IDs and trace wording,
+including text inside collapsed panels.

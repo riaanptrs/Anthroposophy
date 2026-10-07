@@ -39,8 +39,9 @@ export function renderMarkdown(body,item,file,idPrefix='copy') {
    const wanted=Math.max(2,depth);level=Math.min(wanted,level+1);
    const base=text.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')||'section';
    const count=counts.get(base)||0;counts.set(base,count+1);const id=idPrefix+'-'+base+(count?'-'+count:'');
-   headings.push({id,text:text.replace(/[*_`]/g,'')});
-   return `<h${level} id="${id}">${this.parser.parseInline(tokens)}</h${level}>\n`;
+   const readable=text.replace(/^Established /,'').replace(/^Complete established research dossier$/i,'Research dossier');
+   headings.push({id,text:readable.replace(/[*_`]/g,'')});
+   return `<h${level} id="${id}"${readable!==text?` data-original-heading="${esc(text)}"`:''}>${readable!==text?esc(readable):this.parser.parseInline(tokens)}</h${level}>\n`;
   },
   link({href,tokens,title:tooltip}) {
    let url=href;
@@ -66,9 +67,7 @@ export function renderMarkdown(body,item,file,idPrefix='copy') {
 }
 function sources(item,file,editorial=waldorfPresentation(item).editorial) {
  const labels=[...new Set(item.body.match(/\[(?:BOOK|STEINER|EARLY WALDORF|LATER WALDORF|WALDORF|INTERPRETATION|EXPANSION|MODERN|CONTEMPORARY WALDORF|CONVERSATION|TEXT UNCERTAIN)[A-Z /+—-]*\]/g)||[])];
- const messages=[...new Set(item.raw.match(/[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/g)||[])];
- const citations=[...new Set(item.body.match(/(?:content-reference\{index="\d+"\}|unresolved conversation citation \d+|Original content-reference index \d+)/gi)||[])];
- return `<details class="wf-sources" id="wf-source-notes"><summary>Sources &amp; Origins</summary><p><strong>Source verification pending.</strong> This page reproduces supplied conversation material. Labels record inherited attributions, not independent verification. Later Waldorf curriculum and interpretation remain distinct from Steiner indications. Quotations and shortened source-preview names require checking against the actual edition.</p>${labels.length?`<p>Inherited provenance categories: ${labels.map(l=>provenanceNote(l)).join(' ')}</p>`:''}<p>Some inherited references do not identify a verifiable passage. Source verification remains pending; no replacement citations have been inferred.</p><details class="wf-source-trace"><summary>Editorial source records</summary><p>These internal records support future source checking. They are not book citations.</p><p>Supplied file: <code>${esc(item.source)}</code></p>${messages.length?`<details><summary>Conversation trace</summary><ul>${messages.map(m=>`<li><code>${m}</code></li>`).join('')}</ul></details>`:''}${citations.length?`<p>Unresolved citation clues (indices belong to their originating messages):</p><ul>${citations.map(c=>`<li>${esc(c)}</li>`).join('')}</ul>`:''}${editorial?`<h2>Original package notes</h2><div class="wf-source-copy" data-wf-editorial="${item.source}">${renderMarkdown(editorial,item,file,'note').html}</div>`:''}</details><p>${courseLink(file,'sources/index.html','Read the source register and verification limits')} · ${courseLink(file,'status.html','See content status')}</p></details>`;
+ return `<details class="wf-sources" id="wf-source-notes"><summary>Sources &amp; Origins</summary><p><strong>Source verification pending.</strong> This page reproduces supplied conversation material. Labels record inherited attributions, not independent verification. Later Waldorf curriculum and interpretation remain distinct from Steiner indications. Quotations and shortened source-preview names require checking against the actual edition.</p>${labels.length?`<p>Inherited provenance categories: ${labels.map(l=>provenanceNote(l)).join(' ')}</p>`:''}<p>Some inherited references do not identify a verifiable passage. Source verification remains pending; no replacement citations have been inferred.</p><details class="wf-source-trace"><summary>Additional source notes</summary><p>Internal conversation traces and citation indices are retained in the original Markdown files in the repository.</p><p>Supplied file: <code>${esc(item.source)}</code></p>${editorial?`<h2>Source qualifications</h2><div class="wf-source-copy" data-wf-editorial="${item.source}">${renderMarkdown(editorial,item,file,'note').html}</div>`:''}</details><p>${courseLink(file,'sources/index.html','Read the source register and verification limits')} · ${courseLink(file,'status.html','See content status')}</p></details>`;
 }
 function emit(route,pageTitle,body,item=null) {
  const file='docs/'+route;

@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
-import {loadWaldorfContent,waldorfRoutes,states,gradeSelections,gradeViews} from './waldorf-content.mjs';
+import {loadWaldorfContent,waldorfRoutes,states,gradeSelections,gradeViews,waldorfPresentation} from './waldorf-content.mjs';
 
 const items=loadWaldorfContent(),manifest=JSON.parse(fs.readFileSync('content/waldorf/manifest.json','utf8'));
 assert.equal(items.length,62);
@@ -30,6 +30,9 @@ for(const route of manifest.pages) {
  }
 }
 for(const item of items) {
+ const presentation=waldorfPresentation(item);
+ assert.equal(presentation.blocks.map(b=>b.raw).join(''),item.body,item.source+' original blocks remain intact');
+ assert.ok(!/Source trace:|Established course copy|Original content-reference index|assistant message|[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/i.test(presentation.reading+'\n'+presentation.editorial),item.source+' public copy excludes package traces');
  const html=fs.readFileSync('docs/'+item.route,'utf8');
  assert.ok(html.includes(`data-content-state="${item.state}"`),item.source+' original state');
  assert.ok(html.includes('Source verification is pending'),item.source+' unverified sources');
