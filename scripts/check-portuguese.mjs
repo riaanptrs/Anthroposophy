@@ -9,7 +9,7 @@ const files=fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('.html'
 const english=files.filter(f=>!f.startsWith('pt/')),portuguese=files.filter(f=>f.startsWith('pt/'));
 const missing=english.filter(f=>!files.includes('pt/'+f));
 const exceptions={
- waldorf:{reason:'The 98-page Waldorf course is English-only; no Portuguese course translation exists.',pages:missing.filter(f=>f.startsWith('learn/waldorf/'))},
+ waldorf:{reason:'Waldorf teaching pages are bilingual; original supplied research records remain available in English.',pages:missing.filter(f=>f.startsWith('learn/waldorf/'))},
  nutrition:{reason:'The Portuguese entry identifies the complete Nutrition lessons as English-only.',pages:missing.filter(f=>f.startsWith('nutrition/'))},
  research:{reason:'Research indexes are bilingual; original research-note bodies remain in English.',pages:missing.filter(f=>f.startsWith('research/notes/'))}
 };
@@ -21,7 +21,8 @@ for(const file of portuguese) {
  assert.ok(files.includes(file.slice(3)),file+' English counterpart');
 }
 const hub=fs.readFileSync('docs/pt/learn/index.html','utf8');
-assert.ok(hub.includes('Compreendendo a educação Waldorf (em inglês)')&&hub.includes('ainda não há uma versão em português'), 'Waldorf availability must be explicit');
+assert.ok(hub.includes('Compreendendo a educação Waldorf')&&hub.includes('O curso completo está disponível em português e inglês.')&&hub.includes('waldorf/index.html'), 'Waldorf Portuguese teaching must be discoverable');
+assert.equal(exceptions.waldorf.pages.length,0,'Every Waldorf teaching page needs a Portuguese counterpart');
 const bank=JSON.parse(fs.readFileSync('content/passage-study.json','utf8'));
 const translated=withPortugueseSourceLabels(bank);
 for(const [i,p] of translated.entries()) {
@@ -44,8 +45,8 @@ for(const lesson of meditationLessons) {
 const report={
  locale:'pt-BR',englishPages:english.length,portuguesePages:portuguese.length,pairedPages:portuguese.length,
  englishOnlyPages:missing.length,exceptions,localizedPassageMetadata:translated.filter((p,i)=>p!==bank[i]).length,localizedChapterSourceDescriptions:descriptions,
- reviewScope:['Coverage and document language checked across every HTML page.','Bilingual JSON question counts and answer indices compared separately: 780 paired blocks, 1,163 question/option entries; no structural mismatches.','Manual wording review: shared hubs, source labels, meditation references and selected teaching passages from Foundations, Esoteric Christianity, Introduction, Biodynamics, Agriculture, Foodwise, Encountering the Self, Ancient Myths and Meditation.','This is not a sentence-by-sentence certification of all 613 Portuguese pages.'],
- waldorfTranslation:'missing'
+ reviewScope:['Coverage and document language checked across every HTML page.','Bilingual JSON question counts and answer indices compared separately: 780 paired blocks, 1,163 question/option entries; no structural mismatches.','Manual wording review: shared hubs, source labels, meditation references and selected teaching passages from Foundations, Esoteric Christianity, Introduction, Biodynamics, Agriculture, Foodwise, Encountering the Self, Ancient Myths and Meditation.','This is not a sentence-by-sentence certification of all historical Portuguese pages. The new 98 Waldorf pages use reviewed bilingual authored teaching and UI copy.'],
+ waldorfTranslation:'complete-teaching-text; original English research records linked separately'
 };
 if(process.argv.includes('--report'))fs.writeFileSync('content/portuguese-language-review.json',JSON.stringify(report,null,2)+'\n');
 console.log(`Portuguese checks passed: ${portuguese.length} paired pages, ${translated.length} localized passage records, ${descriptions} source descriptions. English-only: ${exceptions.waldorf.pages.length} Waldorf, ${exceptions.nutrition.pages.length} Nutrition, ${exceptions.research.pages.length} research notes.`);

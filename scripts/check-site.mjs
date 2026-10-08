@@ -420,7 +420,7 @@ if(nativeBiodynamicData)for(const prefix of ['', 'pt/']){
   if(fs.existsSync(file)&&!isBiodynamicOwned(relative,fs.readFileSync(file,'utf8')))errors.push(`${relative}: native course ownership missing`);
  }
 }
-for(const route of waldorfRoutes())expectedRoutes.add(route);
+for(const route of waldorfRoutes())for(const prefix of ['', 'pt/'])expectedRoutes.add(prefix+route);
 const courseFiles=files.filter(f=>f!=='learning-review.html').map(f=>f.replaceAll(path.sep,'/'));
 if(courseFiles.length!==expectedRoutes.size)errors.push(`Expected ${expectedRoutes.size} learning, book, chapter, research and reference HTML pages, got ${courseFiles.length}`);
 const actualRoutes=new Set(courseFiles);

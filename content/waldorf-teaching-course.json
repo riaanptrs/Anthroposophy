@@ -1,0 +1,2080 @@
+{
+  "status": "complete-course-prose",
+  "locale": [
+    "en",
+    "pt-BR"
+  ],
+  "provenance": "Original bilingual course teaching developed from the supplied Waldorf plans and dossiers. Examples and answer models are course-authored. Source excerpts are credited separately; inherited research claims are not silently certified.",
+  "lessons": [
+    {
+      "source": "foundations/01-what-is-waldorf.md",
+      "en": {
+        "title": "What is Waldorf education?",
+        "goal": "Connect a learning activity with the concept it is intended to teach.",
+        "paragraphs": [
+          "Waldorf education approaches teaching through a view of the developing human being. Its central question is how a child can encounter an idea meaningfully at a particular stage. Listening, moving, making, imagining, observing and reasoning become different routes into understanding.",
+          "The curriculum connects thinking, emotional engagement and purposeful action. Art and practical work can help a pupil notice a relationship before giving it a formal name. The teacher must then make that relationship clear: an enjoyable experience alone does not demonstrate learning.",
+          "A developmental framework offers questions about teaching method; observation of actual pupils helps answer them. Ask what pupils should understand, what experience supports it and what they can explain or do afterward. Schools differ, so these intentions describe an approach rather than guaranteeing an outcome."
+        ],
+        "example": "Pupils arrange twelve objects in equal groups, describe the pattern, draw it and write a multiplication statement. The making and drawing help them understand the number relationship; a different grouping checks whether they understood it.",
+        "question": "How would you tell whether a practical activity helped teach multiplication?",
+        "answer": "Ask pupils to explain how group size and number of groups produce the total, then apply the relationship to a new arrangement. Participation and an attractive drawing are useful experiences, but the explanation and transfer show conceptual understanding."
+      },
+      "pt": {
+        "title": "O que é a educação Waldorf?",
+        "goal": "Relacione uma atividade à ideia que ela pretende ensinar.",
+        "paragraphs": [
+          "A educação Waldorf organiza o ensino a partir de uma concepção do ser humano em desenvolvimento. Sua pergunta central é como a criança pode encontrar uma ideia de modo significativo em determinada etapa. Escutar, movimentar-se, fazer, imaginar, observar e raciocinar tornam-se caminhos para a compreensão.",
+          "O currículo relaciona pensamento, envolvimento afetivo e ação intencional. A arte e o trabalho prático podem ajudar a perceber uma relação antes de lhe dar um nome formal. Cabe ao professor explicitar essa relação: uma experiência agradável, por si só, não demonstra aprendizagem.",
+          "O modelo de desenvolvimento sugere perguntas sobre o método; a observação dos alunos ajuda a respondê-las. Pergunte o que devem compreender, qual experiência favorece isso e o que conseguem explicar ou fazer depois. As escolas variam; essas intenções descrevem uma abordagem, sem garantir resultados."
+        ],
+        "example": "Os alunos distribuem doze objetos em grupos iguais, descrevem o padrão, desenham e registram uma multiplicação. Manipular e desenhar ajudam a compreender a relação numérica; uma nova distribuição permite verificar a compreensão.",
+        "question": "Como verificar se uma atividade prática ajudou a ensinar multiplicação?",
+        "answer": "Peça que os alunos expliquem como o tamanho e a quantidade dos grupos produzem o total e apliquem a relação a outra distribuição. Participar e fazer um desenho bonito são experiências úteis; explicar e transferir a ideia demonstram compreensão conceitual."
+      }
+    },
+    {
+      "source": "foundations/02-first-waldorf-school.md",
+      "en": {
+        "title": "Steiner and the first Waldorf school",
+        "goal": "Distinguish the school’s historical origin from later practice.",
+        "paragraphs": [
+          "Rudolf Steiner was an Austrian philosopher, lecturer and founder of anthroposophy. Emil Molt’s initiative led to the first Waldorf school in Stuttgart in 1919, connected with the Waldorf-Astoria factory. Steiner helped shape its educational direction and prepare its teachers.",
+          "The school translated ideas about human development into organization and classroom decisions. Teacher preparation, relationships, an integrated curriculum and access to education became practical responsibilities. Understanding this origin explains why the movement concerns the whole school as well as individual techniques.",
+          "Later teachers and schools developed practices in new settings. A present-day custom may reflect those developments rather than a direct instruction by Steiner. Keep historical founding, educational intention and contemporary implementation distinct when explaining a school’s choices."
+        ],
+        "example": "A school may keep an imaginative approach to early lessons while using a modern online reporting system. The teaching intention and the reporting tool have different histories.",
+        "question": "Why is the first school’s history insufficient to explain every current Waldorf custom?",
+        "answer": "It explains the movement’s origin and founding intentions, but later schools adapted methods, organization and materials. A claim about a particular custom needs its own history or explanation; belonging to Waldorf does not establish direct founding authorship."
+      },
+      "pt": {
+        "title": "Steiner e a primeira escola Waldorf",
+        "goal": "Distinga a origem histórica da escola das práticas posteriores.",
+        "paragraphs": [
+          "Rudolf Steiner foi um filósofo e conferencista austríaco, fundador da antroposofia. A iniciativa de Emil Molt levou à primeira escola Waldorf, em Stuttgart, em 1919, ligada à fábrica Waldorf-Astoria. Steiner participou da orientação pedagógica e da preparação dos professores.",
+          "A escola transformou ideias sobre o desenvolvimento humano em decisões de organização e de sala de aula. Formação docente, relações, currículo integrado e acesso à educação tornaram-se responsabilidades práticas. Essa origem ajuda a entender por que o movimento abrange a escola inteira, além das técnicas de ensino.",
+          "Professores e escolas posteriores desenvolveram práticas em novos contextos. Um costume atual pode resultar dessas mudanças, em vez de uma indicação direta de Steiner. Ao explicar escolhas da escola, distinga fundação histórica, intenção pedagógica e realização contemporânea."
+        ],
+        "example": "Uma escola pode manter uma abordagem imaginativa nas primeiras lições e usar um sistema digital de relatórios. A intenção pedagógica e o instrumento administrativo têm histórias diferentes.",
+        "question": "Por que a história da primeira escola não explica todos os costumes Waldorf atuais?",
+        "answer": "Ela explica a origem e as intenções iniciais do movimento, mas escolas posteriores adaptaram métodos, organização e materiais. A atribuição de um costume específico exige sua própria história ou explicação; pertencer ao movimento não demonstra autoria direta do fundador."
+      }
+    },
+    {
+      "source": "foundations/03-anthroposophy-and-education.md",
+      "en": {
+        "title": "Anthroposophy and classroom teaching",
+        "goal": "Explain how a view of the child becomes a teaching decision.",
+        "paragraphs": [
+          "Anthroposophy supplies the philosophical and spiritual understanding of human development that informed Steiner’s educational proposals. In teaching, this background becomes choices about experience, rhythm, relationships and subject matter.",
+          "A teacher’s framework and a pupil’s lesson serve different purposes. Studying plant growth, a story or a number relationship does not require a pupil to recite anthroposophical doctrine. The teacher should explain the learning purpose of the chosen experience in terms that parents and pupils can examine.",
+          "Trace the relationship in three steps: the view of development suggests a learning need; the teacher chooses a method; observation shows how the pupil responds. Understanding the framework permits thoughtful examination of the method without requiring acceptance of all its spiritual claims."
+        ],
+        "example": "A teacher introduces a geometric relationship by folding paper, then asks pupils to identify the equal parts and explain them. The developmental reasoning informs the entry into the lesson; the learning objective is the geometric relationship.",
+        "question": "What should a teacher explain when saying a method is based on anthroposophy?",
+        "answer": "Identify the assumed learning need, show how the chosen experience addresses it and explain how understanding will be checked. Naming the philosophy alone does not explain the teaching decision or demonstrate its success."
+      },
+      "pt": {
+        "title": "Antroposofia e ensino em sala de aula",
+        "goal": "Explique como uma concepção da criança se transforma em decisão pedagógica.",
+        "paragraphs": [
+          "A antroposofia oferece a concepção filosófica e espiritual do desenvolvimento humano que orientou as propostas educacionais de Steiner. No ensino, esse fundamento se traduz em escolhas sobre experiências, ritmo, relações e conteúdos.",
+          "A concepção do professor e a lição do aluno têm funções diferentes. Estudar o crescimento de plantas, uma história ou uma relação numérica não exige recitar doutrinas antroposóficas. O professor deve explicar a finalidade da experiência de modo que famílias e alunos possam examiná-la.",
+          "Acompanhe a relação em três etapas: a concepção de desenvolvimento sugere uma necessidade; o professor escolhe um método; a observação mostra como o aluno responde. Compreender o fundamento permite examinar o método sem exigir aceitação de todas as suas afirmações espirituais."
+        ],
+        "example": "O professor apresenta uma relação geométrica dobrando papel e pede que os alunos identifiquem e expliquem as partes iguais. A reflexão sobre o desenvolvimento orienta a entrada na lição; o objetivo é compreender a relação geométrica.",
+        "question": "O que explicar ao dizer que um método se baseia na antroposofia?",
+        "answer": "Identifique a necessidade considerada, mostre como a experiência a atende e explique como a compreensão será verificada. Nomear a filosofia, por si só, não esclarece a decisão pedagógica nem demonstra seu êxito."
+      }
+    },
+    {
+      "source": "foundations/04-whole-human-being.md",
+      "en": {
+        "title": "The whole human being",
+        "goal": "Relate bodily activity, inner experience and understanding.",
+        "paragraphs": [
+          "Body, soul and spirit name different aspects of human life in this framework. Body concerns the physical conditions and actions involved in learning. Soul concerns feelings, interests and the learner’s inner experience. Spirit concerns understanding and the meaningful direction a person can give to activity.",
+          "The distinction broadens the teacher’s attention beyond remembering facts. A pupil may know an answer while struggling to observe carefully, carry out a task or find meaning in it. Teaching can connect these aspects in one coherent experience rather than dividing a child into three separate parts.",
+          "This is a philosophical account, not a substitute for assessing actual educational needs. Look for evidence of attention, understanding and developing skill. A difficulty in one task should lead to investigation and support rather than a speculative diagnosis about the child’s spiritual constitution."
+        ],
+        "example": "Drawing a plant involves coordination of hand and eye, interest in its form and an effort to understand the relationships among its parts. Naming the plant adds useful knowledge but does not describe the whole experience.",
+        "question": "What would you check beyond whether a pupil remembers the plant’s name?",
+        "answer": "Ask the pupil to describe observed features, explain a relationship between parts and use those observations in a new comparison. Notice practical and emotional difficulties as well. These checks connect information, observation and understanding."
+      },
+      "pt": {
+        "title": "O ser humano integral",
+        "goal": "Relacione atividade corporal, experiência interior e compreensão.",
+        "paragraphs": [
+          "Corpo, alma e espírito designam aspectos diferentes da vida humana nessa concepção. O corpo diz respeito às condições físicas e às ações da aprendizagem. A alma envolve sentimentos, interesses e vivências. O espírito envolve compreensão e o sentido que a pessoa pode dar à atividade.",
+          "A distinção amplia a atenção do professor para além da memorização. Um aluno pode saber a resposta e ter dificuldades para observar, realizar uma tarefa ou encontrar sentido nela. O ensino pode integrar esses aspectos numa experiência coerente, sem dividir a criança em três partes isoladas.",
+          "Esta é uma concepção filosófica, que não substitui a avaliação das necessidades educacionais. Observe atenção, compreensão e habilidades em desenvolvimento. Uma dificuldade deve motivar investigação e apoio, em vez de diagnósticos especulativos sobre a constituição espiritual da criança."
+        ],
+        "example": "Desenhar uma planta envolve coordenação entre mãos e olhos, interesse pela forma e compreensão das relações entre suas partes. Saber seu nome acrescenta informação útil, mas não descreve toda a experiência.",
+        "question": "O que verificar além de o aluno lembrar o nome da planta?",
+        "answer": "Peça que descreva características observadas, explique uma relação entre partes e use as observações numa nova comparação. Observe também dificuldades práticas e afetivas. Essas verificações relacionam informação, observação e compreensão."
+      }
+    },
+    {
+      "source": "foundations/05-thinking-feeling-willing.md",
+      "en": {
+        "title": "Thinking, feeling and willing",
+        "goal": "Connect understanding, engagement and purposeful action.",
+        "paragraphs": [
+          "Thinking forms concepts and recognizes relationships. Feeling concerns how an experience matters to the learner, through interest, enjoyment, concern or frustration. Willing concerns purposeful action and the effort needed to carry it through.",
+          "These are aspects of activity, not three permanent types of child. A teacher asks whether an explanation is clear, whether pupils have a reason to engage and whether they can act on what they understand. The same task can bring all three into relationship.",
+          "Giving equal minutes to three categories misses the point. The aim is for understanding to guide action and for experience to enrich understanding. Repetition helps establish skill, but asking pupils to explain, predict or vary their work checks whether action has become thoughtful."
+        ],
+        "example": "A woven pattern requires understanding a sequence, interest in its emerging form and sustained hand movement. Finding an error can connect practical effort with a clearer understanding of the pattern.",
+        "question": "Why does copying a woven pattern not automatically demonstrate understanding?",
+        "answer": "A pupil can imitate a sequence without recognizing its structure. Ask the pupil to predict the next part, explain a mistake or change the pattern. Those tasks show whether understanding guides the activity."
+      },
+      "pt": {
+        "title": "Pensar, sentir e querer",
+        "goal": "Relacione compreensão, envolvimento e ação intencional.",
+        "paragraphs": [
+          "Pensar envolve formar conceitos e reconhecer relações. Sentir diz respeito à importância da experiência para o aluno, por interesse, prazer, preocupação ou frustração. Querer envolve agir com intenção e sustentar o esforço para realizar a ação.",
+          "São aspectos da atividade, não três tipos fixos de criança. O professor pergunta se a explicação está clara, se há motivo para o envolvimento e se os alunos conseguem agir com base no que compreenderam. Uma mesma tarefa pode integrar os três aspectos.",
+          "Dividir o tempo igualmente entre três categorias não é o objetivo. A intenção é que a compreensão oriente a ação e a experiência aprofunde a compreensão. Repetir desenvolve habilidade; explicar, prever ou modificar o trabalho permite verificar se a ação se tornou consciente."
+        ],
+        "example": "Uma trama exige entender a sequência, interessar-se pela forma que surge e sustentar os movimentos das mãos. Encontrar um erro pode relacionar o esforço prático à compreensão mais clara do padrão.",
+        "question": "Por que copiar uma trama não demonstra automaticamente compreensão?",
+        "answer": "É possível imitar uma sequência sem reconhecer sua estrutura. Peça ao aluno que preveja a próxima parte, explique um erro ou modifique o padrão. Essas tarefas mostram se a compreensão orienta a atividade."
+      }
+    },
+    {
+      "source": "foundations/06-seven-year-periods.md",
+      "en": {
+        "title": "The three seven-year periods",
+        "goal": "Use a developmental map while observing the individual learner.",
+        "paragraphs": [
+          "The Waldorf framework describes broad phases of approximately birth to seven, seven to fourteen and fourteen to twenty-one. It associates them with changes in how teaching engages the learner: imitation and activity, imaginative experience with a trusted teacher, and growing independent judgment.",
+          "This sequence helps explain why a subject may return through different methods. A young child encounters a relationship in activity; an older pupil gives it a clear description; an adolescent examines explanations and their limits. These are changes in emphasis, not exclusive abilities confined to one age band.",
+          "Approximate periods do not establish an exact timetable for every child or universally accepted scientific stages. Apply the framework as a set of questions about readiness, attention and support. A birthday alone cannot decide whether a pupil needs help, greater challenge or a different entry into a subject."
+        ],
+        "example": "Two pupils of the same age differ in reading fluency. A teacher keeps a shared story context while offering different text difficulty and targeted help, then checks each pupil’s progress.",
+        "question": "How can a developmental framework guide teaching without fixing expectations for every child?",
+        "answer": "Use the framework to consider appropriate experiences, then observe actual learning and adapt support or challenge. The broad sequence suggests questions; the pupil’s demonstrated needs determine the response."
+      },
+      "pt": {
+        "title": "Os três períodos de sete anos",
+        "goal": "Use um mapa de desenvolvimento observando cada aluno.",
+        "paragraphs": [
+          "A concepção Waldorf descreve fases amplas, aproximadamente do nascimento aos sete anos, dos sete aos catorze e dos catorze aos vinte e um. Relaciona-as a mudanças na maneira de ensinar: imitação e atividade, experiências imaginativas com um professor de confiança e desenvolvimento do julgamento independente.",
+          "A sequência ajuda a explicar por que uma matéria retorna por métodos diferentes. A criança pequena encontra uma relação na atividade; o aluno mais velho a descreve com clareza; o adolescente examina explicações e limites. São mudanças de ênfase, não capacidades exclusivas de cada faixa etária.",
+          "Esses períodos aproximados não estabelecem um calendário exato para todos nem etapas científicas universalmente aceitas. Use o modelo para formular perguntas sobre prontidão, atenção e apoio. A idade, sozinha, não determina a necessidade de ajuda, desafio ou outra forma de abordar o conteúdo."
+        ],
+        "example": "Dois alunos da mesma idade têm fluências de leitura diferentes. O professor mantém uma história compartilhada, oferece textos com dificuldades distintas e apoio específico, e verifica o progresso de cada um.",
+        "question": "Como o modelo de desenvolvimento pode orientar sem fixar expectativas iguais para todos?",
+        "answer": "Use o modelo para considerar experiências adequadas; depois observe a aprendizagem e adapte apoio ou desafio. A sequência geral sugere perguntas; as necessidades demonstradas pelo aluno orientam a resposta."
+      }
+    },
+    {
+      "source": "foundations/07-development-determines-curriculum.md",
+      "en": {
+        "title": "Why curriculum follows development",
+        "goal": "Explain the connection between learning need, method and subject matter.",
+        "paragraphs": [
+          "A developmental curriculum asks why an experience belongs at a particular point in learning. The connection runs from an observed need to a teaching method, then to content that can make the relationship tangible.",
+          "The supplied sequence moves from images and letters, through practical work and local surroundings, toward causal explanations and independent judgment. These emphases help organize progression; younger pupils can reason and older pupils still benefit from images.",
+          "A good sequence also revisits earlier ideas at greater depth. Readiness, prior knowledge and local circumstances may require adaptation. Naming an age is insufficient: the teacher needs to explain what the task develops and check what pupils understand."
+        ],
+        "example": "A class first describes a familiar landscape, later draws a map and eventually explains how transport and settlement influence each other. The same surroundings support increasingly explicit relationships.",
+        "question": "What connects a curriculum topic to development beyond its scheduled grade?",
+        "answer": "Explain the learning need, the experience chosen to meet it and the understanding pupils should demonstrate. A grade label locates a topic; this chain explains its educational purpose."
+      },
+      "pt": {
+        "title": "Por que o currículo acompanha o desenvolvimento",
+        "goal": "Explique a relação entre necessidade, método e conteúdo.",
+        "paragraphs": [
+          "Um currículo orientado pelo desenvolvimento pergunta por que uma experiência pertence a determinado momento da aprendizagem. A relação começa numa necessidade observada, passa pelo método e chega ao conteúdo que permite vivenciar a ideia.",
+          "A sequência fornecida parte de imagens e letras, passa pelo trabalho prático e pelo entorno e avança para explicações causais e julgamento independente. Essas ênfases organizam a progressão; crianças menores também raciocinam e alunos maiores ainda se beneficiam de imagens.",
+          "Uma boa sequência retoma ideias com maior profundidade. Prontidão, conhecimentos prévios e condições locais podem exigir adaptações. Indicar uma idade não basta: o professor precisa explicar o que a tarefa desenvolve e verificar a compreensão."
+        ],
+        "example": "Uma turma descreve uma paisagem conhecida, depois desenha um mapa e mais tarde explica como transporte e povoamento se influenciam. O mesmo entorno permite compreender relações cada vez mais explícitas.",
+        "question": "O que relaciona um tema ao desenvolvimento além de sua série escolar?",
+        "answer": "Explique a necessidade de aprendizagem, a experiência escolhida e a compreensão esperada. A indicação da série situa o tema; essa sequência explica sua finalidade pedagógica."
+      }
+    },
+    {
+      "source": "foundations/08-imagination-before-abstraction.md",
+      "en": {
+        "title": "Why begin with imagination?",
+        "goal": "Show how an image can lead to a clear concept.",
+        "paragraphs": [
+          "An imaginative presentation gives a learner something to picture, follow and remember. A story, gesture or drawing can make a relationship accessible before an unfamiliar definition does.",
+          "The teacher then moves from the image to the relationship it expresses. Pupils compare examples, name relevant features and eventually use the concept independently. Imagination serves this transition; a memorable image is not itself the complete explanation.",
+          "Keep the limits of an analogy visible. A story about a river can introduce movement, but scientific explanation later needs observation and mechanisms. Images should open inquiry and support precision rather than replace it."
+        ],
+        "example": "A letter emerges from a drawing and its associated sound. Pupils then recognize the same letter in different words and fonts, gradually separating the symbol from its first picture.",
+        "question": "What shows that a pupil has moved from an image to a concept?",
+        "answer": "The pupil recognizes the relevant relationship in a new example and can explain it without depending on the original picture. Recalling the story alone shows memory, not necessarily transfer."
+      },
+      "pt": {
+        "title": "Por que começar pela imaginação?",
+        "goal": "Mostre como uma imagem pode levar a um conceito claro.",
+        "paragraphs": [
+          "Uma apresentação imaginativa oferece algo para visualizar, acompanhar e lembrar. Uma história, um gesto ou um desenho pode tornar uma relação acessível antes de uma definição desconhecida.",
+          "O professor passa da imagem à relação que ela expressa. Os alunos comparam exemplos, nomeiam características relevantes e usam o conceito de modo independente. A imaginação favorece essa passagem; uma imagem marcante não é a explicação completa.",
+          "Explicite os limites da analogia. Uma história sobre um rio pode apresentar movimento, mas a explicação científica depois exige observação e mecanismos. As imagens devem abrir a investigação e favorecer a precisão."
+        ],
+        "example": "Uma letra surge de um desenho e do som associado. Depois, os alunos reconhecem a mesma letra em palavras e fontes diferentes, separando gradualmente o símbolo de sua primeira imagem.",
+        "question": "O que demonstra a passagem da imagem ao conceito?",
+        "answer": "O aluno reconhece a relação relevante num novo exemplo e a explica sem depender da imagem inicial. Lembrar a história demonstra memória, mas não necessariamente transferência."
+      }
+    },
+    {
+      "source": "foundations/09-teaching-through-art.md",
+      "en": {
+        "title": "Art in academic teaching",
+        "goal": "Explain what an artistic task contributes to understanding.",
+        "paragraphs": [
+          "Artistic work can sharpen attention to form, proportion, sequence and expression. In academic teaching, these features should connect to the subject’s relationships, rather than merely decorate completed work.",
+          "Drawing, movement or music lets pupils represent an idea in another medium. Comparing the representations makes their choices discussable: what is accurate, what is expressive and what has been left out?",
+          "Assess the intended concept separately from artistic fluency. Pupils with motor or sensory difficulties may need adapted tools or another way to demonstrate understanding. Artistic participation should widen access to learning."
+        ],
+        "example": "Pupils draw equal fractional parts of several shapes and explain why differently shaped pieces can represent the same fraction. Their drawing supports a mathematical comparison.",
+        "question": "Why should a beautiful fraction page not be the only assessment?",
+        "answer": "A pupil may copy an attractive arrangement without understanding equal parts. Ask for an explanation and a new example; assess presentation and mathematical understanding separately."
+      },
+      "pt": {
+        "title": "Arte no ensino das matérias",
+        "goal": "Explique a contribuição de uma atividade artística para a compreensão.",
+        "paragraphs": [
+          "O trabalho artístico pode apurar a atenção à forma, proporção, sequência e expressão. No ensino, essas características devem se relacionar ao conteúdo, em vez de apenas decorar trabalhos concluídos.",
+          "Desenho, movimento ou música permitem representar uma ideia em outro meio. Comparar representações torna as escolhas discutíveis: o que está correto, o que é expressivo e o que ficou de fora?",
+          "Avalie o conceito separadamente da habilidade artística. Alunos com dificuldades motoras ou sensoriais podem precisar de instrumentos adaptados ou outra forma de demonstrar compreensão. A participação artística deve ampliar o acesso à aprendizagem."
+        ],
+        "example": "Os alunos desenham partes fracionárias iguais de várias formas e explicam por que peças com formatos diferentes podem representar a mesma fração. O desenho favorece a comparação matemática.",
+        "question": "Por que uma página bonita sobre frações não deve ser a única avaliação?",
+        "answer": "É possível copiar uma composição atraente sem compreender partes iguais. Peça explicação e um novo exemplo; avalie apresentação e compreensão matemática separadamente."
+      }
+    },
+    {
+      "source": "foundations/10-rhythm-repetition-sleep.md",
+      "en": {
+        "title": "Rhythm, repetition and sleep",
+        "goal": "Distinguish predictable structure from mechanical repetition.",
+        "paragraphs": [
+          "Rhythm gives learning a recognizable pattern: concentrated work, movement, reflection and rest. Predictability can help pupils enter a task and manage transitions. A rhythm should respond to attention and fatigue rather than become an inflexible timetable.",
+          "Repetition revisits a skill or idea. Its educational value depends on what pupils do: recall, vary, compare, correct and apply. Repeating an error without feedback can stabilize the error.",
+          "Returning to a topic after rest creates an opportunity to retrieve and develop it. Waldorf gives sleep a role within its developmental account; that interpretation should not be treated as proof that sleeping automatically produces understanding. The next lesson must still check and clarify."
+        ],
+        "example": "After introducing a number pattern, the teacher revisits it the next day with a changed arrangement. Pupils recall the rule, identify a mistaken answer and explain the correction.",
+        "question": "What makes repeated practice productive?",
+        "answer": "It has a clear purpose, feedback and a manageable change that requires understanding. Repeating the same response without checking its meaning is insufficient."
+      },
+      "pt": {
+        "title": "Ritmo, repetição e sono",
+        "goal": "Distinga uma estrutura previsível da repetição mecânica.",
+        "paragraphs": [
+          "O ritmo oferece um padrão reconhecível: concentração, movimento, reflexão e descanso. A previsibilidade pode ajudar a iniciar tarefas e realizar transições. O ritmo deve responder à atenção e ao cansaço, sem se tornar um horário inflexível.",
+          "A repetição retoma uma habilidade ou ideia. Seu valor depende da ação: recordar, variar, comparar, corrigir e aplicar. Repetir um erro sem comentário pode consolidá-lo.",
+          "Retomar um tema após o descanso permite recordá-lo e aprofundá-lo. A concepção Waldorf atribui um papel ao sono; isso não prova que dormir produza compreensão automaticamente. A lição seguinte ainda precisa verificar e esclarecer."
+        ],
+        "example": "Depois de apresentar um padrão numérico, o professor o retoma no dia seguinte com outra disposição. Os alunos lembram a regra, identificam uma resposta errada e explicam a correção.",
+        "question": "O que torna a prática repetida produtiva?",
+        "answer": "Ela precisa de finalidade clara, comentários e uma mudança possível que exija compreensão. Repetir a mesma resposta sem verificar seu significado não basta."
+      }
+    },
+    {
+      "source": "foundations/11-main-lesson.md",
+      "en": {
+        "title": "What is a main lesson?",
+        "goal": "Explain how a subject block develops connected understanding.",
+        "paragraphs": [
+          "A main lesson is an extended period organized around a central subject over a block of time. This provides continuity: pupils can revisit observations, connect questions and develop a sequence rather than encounter isolated facts.",
+          "A lesson may combine recall, new experience, explanation and practice. The exact order varies with the topic. The essential relationship is between what pupils already understand and the next step the teacher makes possible.",
+          "A block should have visible learning outcomes and opportunities for correction. Other lessons and later blocks sustain practice and revisit concepts. Concentrating on a subject temporarily does not mean abandoning basic skills or waiting weeks to address a difficulty."
+        ],
+        "example": "A local-geography block moves from observing routes to drawing maps and explaining settlement. Reading and mathematics continue elsewhere, while mapping uses and develops those skills.",
+        "question": "What makes a block coherent rather than a collection of activities?",
+        "answer": "Its activities build toward connected concepts, use prior learning and include checks that guide the next step. A common theme alone does not establish a progression."
+      },
+      "pt": {
+        "title": "O que é a aula principal?",
+        "goal": "Explique como um período temático desenvolve compreensão conectada.",
+        "paragraphs": [
+          "A aula principal é um período prolongado organizado em torno de uma matéria durante uma época. A continuidade permite retomar observações, relacionar perguntas e desenvolver uma sequência, em vez de encontrar fatos isolados.",
+          "A aula pode reunir retomada, nova experiência, explicação e prática. A ordem varia conforme o tema. O essencial é relacionar o que os alunos já compreendem ao próximo passo que o professor torna possível.",
+          "A época precisa de objetivos visíveis e oportunidades de correção. Outras aulas e épocas posteriores mantêm a prática e retomam conceitos. Concentrar-se temporariamente num tema não significa abandonar habilidades básicas nem adiar ajuda a uma dificuldade."
+        ],
+        "example": "Uma época de geografia local passa da observação de caminhos aos mapas e à explicação do povoamento. Leitura e matemática continuam em outras aulas; o trabalho com mapas também as utiliza.",
+        "question": "O que torna uma época coerente, em vez de uma coleção de atividades?",
+        "answer": "As atividades desenvolvem conceitos relacionados, usam conhecimentos anteriores e incluem verificações que orientam o próximo passo. Um tema comum, sozinho, não estabelece progressão."
+      }
+    },
+    {
+      "source": "foundations/12-class-teacher.md",
+      "en": {
+        "title": "Continuity with a class teacher",
+        "goal": "Assess the benefits and responsibilities of a lasting teaching relationship.",
+        "paragraphs": [
+          "A class teacher may accompany a group for several years. Continuity can help the teacher recognize development, remember earlier difficulties and connect learning across subjects and grades.",
+          "The relationship also carries responsibilities. Familiarity can support trust, but can fix expectations if a teacher overlooks change. Subject expertise, collaboration and fresh assessment remain necessary.",
+          "A sustained relationship should include communication with families and access to colleagues or school leadership. Continuity is an educational intention, not a reason to leave concerns unresolved. Different schools organize this role differently."
+        ],
+        "example": "A teacher remembers a pupil’s earlier reluctance to speak but notices confident explanations this year. Updating the assessment allows the pupil to take a new role instead of retaining an old label.",
+        "question": "When would continuity stop supporting the pupil?",
+        "answer": "When familiarity prevents reassessment, appropriate challenge or resolution of difficulties. A lasting relationship needs observation, feedback, support from colleagues and a way to address concerns."
+      },
+      "pt": {
+        "title": "Continuidade com o professor de classe",
+        "goal": "Avalie benefícios e responsabilidades de uma relação duradoura.",
+        "paragraphs": [
+          "O professor de classe pode acompanhar um grupo durante vários anos. A continuidade ajuda a reconhecer o desenvolvimento, lembrar dificuldades anteriores e relacionar aprendizagens entre matérias e séries.",
+          "A relação também traz responsabilidades. A familiaridade pode favorecer confiança, mas fixar expectativas quando mudanças passam despercebidas. Conhecimento das matérias, colaboração e novas avaliações continuam necessários.",
+          "Uma relação duradoura precisa de comunicação com as famílias e acesso a colegas ou à direção. A continuidade é uma intenção pedagógica, não motivo para deixar preocupações sem solução. As escolas organizam essa função de modos diferentes."
+        ],
+        "example": "O professor lembra a hesitação de um aluno para falar, mas observa explicações confiantes neste ano. Atualizar a avaliação permite um novo papel, em vez de manter um rótulo antigo.",
+        "question": "Quando a continuidade deixa de ajudar o aluno?",
+        "answer": "Quando a familiaridade impede reavaliação, desafios adequados ou resolução de dificuldades. Uma relação duradoura exige observação, comentários, colaboração e meios para tratar preocupações."
+      }
+    },
+    {
+      "source": "foundations/13-main-lesson-books.md",
+      "en": {
+        "title": "Main lesson books and textbooks",
+        "goal": "Distinguish constructing a learning record from copying one.",
+        "paragraphs": [
+          "A main lesson book records developing understanding through writing, diagrams, drawings and worked examples. Making the record can require pupils to select important ideas and explain their relationships.",
+          "Copying a teacher’s page may help practise a skill, but it does not automatically show comprehension. Include opportunities for pupils to summarize, solve a changed problem and correct their own explanation.",
+          "Textbooks and other references can provide independent explanations, practice and accurate information. A pupil-created book and a published reference have different roles. Accessible formats, accurate corrections and manageable presentation demands matter more than uniform decoration."
+        ],
+        "example": "After studying a plant, pupils label an observed drawing and write two explanatory sentences. They compare a reference picture, correct a mistaken label and add their own question.",
+        "question": "What makes the book evidence of learning?",
+        "answer": "Its explanations and examples show what the pupil understands and how errors were corrected. A neat copied page alone cannot distinguish independent understanding from reproduction."
+      },
+      "pt": {
+        "title": "Cadernos de época e livros didáticos",
+        "goal": "Distinga construir um registro de simplesmente copiá-lo.",
+        "paragraphs": [
+          "O caderno de época registra a compreensão por textos, diagramas, desenhos e exemplos resolvidos. Construí-lo pode exigir selecionar ideias importantes e explicar relações.",
+          "Copiar uma página do professor pode exercitar habilidades, mas não demonstra compreensão automaticamente. Inclua oportunidades para resumir, resolver um problema modificado e corrigir a própria explicação.",
+          "Livros didáticos e outras referências oferecem explicações independentes, prática e informação precisa. O caderno elaborado pelo aluno e a publicação têm funções diferentes. Acessibilidade, correções e exigências possíveis importam mais que decoração uniforme."
+        ],
+        "example": "Depois de estudar uma planta, os alunos identificam as partes num desenho observado e escrevem duas frases explicativas. Comparam uma referência, corrigem uma legenda e acrescentam uma pergunta própria.",
+        "question": "O que torna o caderno uma evidência de aprendizagem?",
+        "answer": "Explicações e exemplos mostram a compreensão e a correção dos erros. Uma página copiada com capricho não distingue compreensão independente de reprodução."
+      }
+    },
+    {
+      "source": "foundations/14-eurythmy.md",
+      "en": {
+        "title": "Eurythmy",
+        "goal": "Understand expressive movement and its educational purpose.",
+        "paragraphs": [
+          "Eurythmy is an art of movement developed in the anthroposophical movement. Gestures give visible form to qualities of speech and music. In education it can involve spatial awareness, coordinated movement and attention to a shared sequence.",
+          "Its distinctive intention is to relate movement to expression, rather than simply provide exercise. Pupils encounter timing, direction and relationships between their movement and a group’s form.",
+          "That artistic purpose is different from a claim about therapeutic effects. Explain the classroom goal, observe participation and adapt to mobility, sensory or comfort needs. Pupils can demonstrate attention and interpretation through different forms of participation."
+        ],
+        "example": "A group changes direction with a repeated musical phrase. Pupils discuss how their spacing and timing made the phrase’s return visible.",
+        "question": "How does this differ from following movements solely for fitness?",
+        "answer": "The movements represent expressive relationships in speech or music, and pupils consider how their choices communicate those relationships. Physical activity is present, but expression and coordination are central goals."
+      },
+      "pt": {
+        "title": "Euritmia",
+        "goal": "Compreenda o movimento expressivo e sua finalidade pedagógica.",
+        "paragraphs": [
+          "A euritmia é uma arte do movimento desenvolvida no movimento antroposófico. Os gestos dão forma visível a qualidades da fala e da música. Na educação, pode envolver percepção espacial, coordenação e atenção a uma sequência compartilhada.",
+          "Sua intenção específica é relacionar movimento e expressão, além de oferecer exercício corporal. Os alunos trabalham tempo, direção e relações entre seu movimento e a forma do grupo.",
+          "A finalidade artística difere de afirmações sobre efeitos terapêuticos. Explique o objetivo da aula, observe a participação e adapte às necessidades motoras, sensoriais ou de conforto. Há diferentes formas de demonstrar atenção e interpretação."
+        ],
+        "example": "Um grupo muda de direção quando uma frase musical se repete. Os alunos discutem como espaçamento e tempo tornaram visível o retorno da frase.",
+        "question": "Como isso difere de executar movimentos apenas para condicionamento físico?",
+        "answer": "Os movimentos representam relações expressivas da fala ou da música, e os alunos consideram como suas escolhas as comunicam. Há atividade física, mas expressão e coordenação são objetivos centrais."
+      }
+    },
+    {
+      "source": "foundations/15-music-and-singing.md",
+      "en": {
+        "title": "Music and singing",
+        "goal": "Explain how listening, pattern and expression develop together.",
+        "paragraphs": [
+          "Music combines listening, patterned time and expression. Singing and instrumental work ask pupils to notice pitch, rhythm, phrasing and the relationship between their part and a whole.",
+          "Progression can move from shared songs and imitation to increasingly explicit musical knowledge. Naming a rhythmic relationship after performing and hearing it connects experience with a concept.",
+          "Performance and understanding need separate attention. A pupil may reproduce a tune by ear without reading notation, or read a symbol without hearing its function. Provide several routes into the task and check the intended musical relationship."
+        ],
+        "example": "Pupils clap a repeated rhythm, draw its grouping and explain where a variation changes the pattern. They then perform the changed version together.",
+        "question": "How would you distinguish remembering a song from understanding its rhythm?",
+        "answer": "Ask pupils to identify the grouping, predict a variation or represent the pattern in another form. Remembering the melody does not automatically show those relationships."
+      },
+      "pt": {
+        "title": "Música e canto",
+        "goal": "Explique como escuta, padrão e expressão se desenvolvem juntos.",
+        "paragraphs": [
+          "A música reúne escuta, organização do tempo e expressão. Canto e instrumentos exigem perceber altura, ritmo, fraseado e a relação da própria parte com o conjunto.",
+          "A progressão pode partir de canções e imitação e tornar os conhecimentos musicais mais explícitos. Nomear uma relação rítmica depois de executá-la e ouvi-la conecta experiência e conceito.",
+          "Execução e compreensão precisam de atenção própria. Um aluno pode reproduzir uma melodia de ouvido sem ler notação, ou ler um símbolo sem ouvir sua função. Ofereça diferentes caminhos e verifique a relação musical pretendida."
+        ],
+        "example": "Os alunos batem um ritmo repetido, desenham seu agrupamento e explicam onde uma variação altera o padrão. Depois executam juntos a versão modificada.",
+        "question": "Como distinguir lembrar uma canção de compreender seu ritmo?",
+        "answer": "Peça que identifiquem o agrupamento, prevejam uma variação ou representem o padrão de outro modo. Lembrar a melodia não demonstra automaticamente essas relações."
+      }
+    },
+    {
+      "source": "foundations/16-handwork.md",
+      "en": {
+        "title": "Handwork and practical skills",
+        "goal": "Relate a making process to planning, pattern and correction.",
+        "paragraphs": [
+          "Handwork gives thinking a visible sequence of actions. Materials respond to choices about order, tension, measurement and form. Errors become something pupils can locate and revise.",
+          "The educational relationship is between intention, process and result. Knitting, sewing or other work can develop a skill while making repeated structure and changing conditions concrete.",
+          "A finished object is only one part of assessment. Ask pupils to explain a decision and a correction. Tools and expectations should suit the learner’s abilities; adapted participation can preserve the same conceptual purpose."
+        ],
+        "example": "A pupil notices that a loose section changes a woven object’s shape, adjusts the tension and compares the result with the plan.",
+        "question": "What would show thoughtful work beyond finishing the object?",
+        "answer": "The pupil can explain the sequence, identify how a choice affected the result and justify a correction. These connect action with understanding rather than speed or neatness alone."
+      },
+      "pt": {
+        "title": "Trabalhos manuais e habilidades práticas",
+        "goal": "Relacione fazer, planejar, reconhecer padrões e corrigir.",
+        "paragraphs": [
+          "O trabalho manual torna o pensamento visível numa sequência de ações. Os materiais respondem às escolhas de ordem, tensão, medida e forma. Os erros podem ser localizados e corrigidos.",
+          "A relação pedagógica une intenção, processo e resultado. Tricô, costura e outros trabalhos desenvolvem habilidades e tornam concretas estruturas repetidas e condições variáveis.",
+          "O objeto pronto é apenas parte da avaliação. Peça explicações sobre uma decisão e uma correção. Instrumentos e expectativas devem corresponder às capacidades; uma participação adaptada pode preservar a mesma finalidade conceitual."
+        ],
+        "example": "Um aluno percebe que uma parte frouxa altera a forma de uma trama, ajusta a tensão e compara o resultado com o planejamento.",
+        "question": "O que demonstra trabalho consciente além de terminar o objeto?",
+        "answer": "O aluno explica a sequência, identifica como uma escolha afetou o resultado e justifica uma correção. Isso relaciona ação e compreensão, além de rapidez ou capricho."
+      }
+    },
+    {
+      "source": "foundations/17-foreign-languages.md",
+      "en": {
+        "title": "Foreign languages",
+        "goal": "Connect spoken experience with explicit language understanding.",
+        "paragraphs": [
+          "A new language introduces different sounds, rhythms and ways of expressing meaning. Songs, conversation, stories and familiar actions can give words a context before formal grammatical explanation.",
+          "Progression requires more than memorizing phrases. Pupils learn to recognize variations, choose words for a purpose, read, write and eventually explain grammatical relationships.",
+          "Accuracy and confidence develop through understandable input, practice and feedback. Cultural examples should represent living people and varied contexts rather than fixed national stereotypes. The teacher adapts support to prior language experience."
+        ],
+        "example": "After learning a greeting in a short exchange, pupils change the person and time of day, then explain which words changed and why.",
+        "question": "What distinguishes learning a phrase from using the language?",
+        "answer": "The learner understands its purpose and can adapt it to a new situation. Repeating familiar sounds is a beginning; flexible, meaningful use demonstrates a further step."
+      },
+      "pt": {
+        "title": "Línguas estrangeiras",
+        "goal": "Relacione a experiência oral à compreensão explícita da língua.",
+        "paragraphs": [
+          "Uma nova língua apresenta sons, ritmos e modos diferentes de expressar sentido. Canções, conversas, histórias e ações conhecidas dão contexto às palavras antes da explicação gramatical formal.",
+          "A progressão exige mais que memorizar frases. Os alunos reconhecem variações, escolhem palavras para uma finalidade, leem, escrevem e depois explicam relações gramaticais.",
+          "Precisão e confiança se desenvolvem com linguagem compreensível, prática e comentários. Exemplos culturais devem representar pessoas e contextos variados, sem estereótipos nacionais fixos. O professor adapta o apoio às experiências linguísticas anteriores."
+        ],
+        "example": "Depois de aprender uma saudação num diálogo, os alunos mudam a pessoa e o momento do dia e explicam quais palavras mudaram e por quê.",
+        "question": "O que distingue aprender uma frase de usar a língua?",
+        "answer": "O aluno compreende a finalidade e adapta a frase a outra situação. Repetir sons conhecidos é um começo; o uso flexível e significativo demonstra um passo adicional."
+      }
+    },
+    {
+      "source": "foundations/18-assessment.md",
+      "en": {
+        "title": "Assessment and reports",
+        "goal": "Use evidence to identify understanding and the next teaching step.",
+        "paragraphs": [
+          "Assessment asks what a pupil understands, can do and needs next. Observation, conversation, written work, practical tasks and tests offer different kinds of evidence.",
+          "Narrative reports can describe development in detail, but useful feedback must be specific. Identify the task, the demonstrated strength or difficulty and the planned response. Broad praise or a temperament label does not show progress.",
+          "A numerical grade summarizes performance within a scale; it cannot explain every cause or next step. Schools may combine descriptive and numerical reporting. Whatever the format, criteria, access to support and opportunities to improve should be clear."
+        ],
+        "example": "A report states that a pupil compares equivalent fractions correctly but confuses addition rules. The next plan includes contrasting examples and a follow-up check.",
+        "question": "Why is “needs more confidence in mathematics” insufficient feedback?",
+        "answer": "It does not identify the concept, evidence or teaching response. Confidence matters, but a useful report also names what the pupil can explain and where support will be directed."
+      },
+      "pt": {
+        "title": "Avaliação e relatórios",
+        "goal": "Use evidências para identificar a compreensão e o próximo passo.",
+        "paragraphs": [
+          "Avaliar é perguntar o que o aluno compreende, consegue fazer e precisa aprender. Observação, conversa, textos, tarefas práticas e provas oferecem evidências diferentes.",
+          "Relatórios descritivos podem detalhar o desenvolvimento, mas precisam ser específicos. Identifique a tarefa, a habilidade ou dificuldade demonstrada e a resposta planejada. Elogios amplos ou rótulos de temperamento não mostram progresso.",
+          "Uma nota resume o desempenho numa escala; não explica todas as causas ou próximos passos. As escolas podem combinar avaliações descritivas e numéricas. Em qualquer formato, critérios, apoio e oportunidades de melhora devem estar claros."
+        ],
+        "example": "O relatório informa que o aluno compara frações equivalentes corretamente, mas confunde regras de adição. O plano seguinte inclui exemplos contrastantes e nova verificação.",
+        "question": "Por que “precisa de mais confiança em matemática” é um comentário insuficiente?",
+        "answer": "Não identifica o conceito, a evidência ou a resposta pedagógica. A confiança importa, mas o relatório útil também mostra o que o aluno explica e onde receberá apoio."
+      }
+    },
+    {
+      "source": "foundations/19-technology.md",
+      "en": {
+        "title": "Waldorf and technology",
+        "goal": "Match a tool to its learning purpose and the learner’s needs.",
+        "paragraphs": [
+          "Waldorf discussions of technology emphasize direct experience, attention and age-appropriate participation. The educational question is what a tool enables, what it replaces and what understanding remains with the learner.",
+          "A screen can display a diagram, support communication or provide access. It can also automate a task whose process pupils need to learn. The value depends on the purpose and design, not simply whether the tool is digital.",
+          "School policies and home circumstances vary. Accessibility, privacy, distraction and practical skills require explicit consideration. A developmental approach should explain its choices and prepare pupils to understand technology rather than merely obey a prohibition."
+        ],
+        "example": "Pupils first estimate and explain a calculation, then use a calculator to check a longer example. They identify what the tool calculates and what reasoning they must supply.",
+        "question": "How would you evaluate a proposed digital classroom tool?",
+        "answer": "Identify its learning purpose, access needs and effects on attention; ask what process it reveals or hides and how understanding will be checked. A blanket preference for or against screens does not answer those questions."
+      },
+      "pt": {
+        "title": "Waldorf e tecnologia",
+        "goal": "Escolha ferramentas conforme a finalidade e as necessidades do aluno.",
+        "paragraphs": [
+          "As discussões Waldorf sobre tecnologia enfatizam experiência direta, atenção e participação adequada ao desenvolvimento. A pergunta pedagógica é o que a ferramenta permite, o que substitui e qual compreensão permanece com o aluno.",
+          "Uma tela pode apresentar diagramas, facilitar comunicação ou oferecer acessibilidade. Também pode automatizar um processo que precisa ser aprendido. O valor depende da finalidade e do uso, não apenas de ser digital.",
+          "Políticas escolares e condições domésticas variam. Acessibilidade, privacidade, distração e habilidades práticas exigem atenção explícita. A abordagem deve explicar suas escolhas e preparar para compreender a tecnologia, além de obedecer a proibições."
+        ],
+        "example": "Os alunos estimam e explicam um cálculo e depois conferem um exemplo maior com calculadora. Identificam o que a ferramenta calcula e qual raciocínio precisam fornecer.",
+        "question": "Como avaliar uma ferramenta digital proposta para a aula?",
+        "answer": "Identifique finalidade, acessibilidade e efeitos na atenção; pergunte quais processos revela ou oculta e como verificar a compreensão. Ser favorável ou contrário a telas em geral não responde a essas questões."
+      }
+    },
+    {
+      "source": "development/20-school-readiness.md",
+      "en": {
+        "title": "School readiness and the change of teeth",
+        "goal": "Distinguish a developmental symbol from an individual readiness assessment.",
+        "paragraphs": [
+          "The change of teeth is used in Steiner’s developmental account as a visible sign connected with a broader transition. The educational interpretation concerns changes in how the child enters sustained learning and a new school relationship.",
+          "A physical sign cannot by itself establish readiness for every task. Observe language, attention, coordination, social participation and the support the child needs. These can develop unevenly.",
+          "Readiness assessment should guide transition and assistance rather than create a single pass-or-fail label. Family information, teacher observation and appropriate specialist assessment can help distinguish an unfamiliar routine from a difficulty requiring support."
+        ],
+        "example": "A child can follow a story and explain its sequence but finds prolonged handwriting tiring. The teacher adapts writing time and tools while continuing to develop expression.",
+        "question": "Why should losing a tooth not decide school support by itself?",
+        "answer": "It does not show how the child performs particular learning tasks. A developmental interpretation may suggest questions, but observation and assessment must establish the child’s actual needs."
+      },
+      "pt": {
+        "title": "Prontidão escolar e troca dos dentes",
+        "goal": "Distinga um símbolo do desenvolvimento da avaliação individual.",
+        "paragraphs": [
+          "Na concepção de Steiner, a troca dos dentes é um sinal visível relacionado a uma transição mais ampla. A interpretação pedagógica envolve mudanças na participação em aprendizagens continuadas e numa nova relação escolar.",
+          "Um sinal físico, sozinho, não estabelece prontidão para todas as tarefas. Observe linguagem, atenção, coordenação, convivência e necessidade de apoio. Esses aspectos podem se desenvolver de maneira desigual.",
+          "A avaliação deve orientar a transição e a ajuda, em vez de criar um rótulo único de aprovação ou reprovação. Informações familiares, observação docente e avaliação especializada adequada ajudam a distinguir uma rotina desconhecida de uma dificuldade que exige apoio."
+        ],
+        "example": "Uma criança acompanha e explica a sequência de uma história, mas se cansa ao escrever por muito tempo. O professor adapta tempo e instrumentos, enquanto continua desenvolvendo a expressão.",
+        "question": "Por que perder um dente não deve determinar o apoio escolar?",
+        "answer": "Isso não mostra como a criança realiza tarefas específicas. A interpretação do desenvolvimento sugere perguntas; a observação e a avaliação estabelecem as necessidades reais."
+      }
+    },
+    {
+      "source": "development/21-ages-seven-to-nine.md",
+      "en": {
+        "title": "Ages seven to nine",
+        "goal": "Explain how imaginative experience develops into explicit skills.",
+        "paragraphs": [
+          "The supplied framework emphasizes imaginative engagement and a trusted teaching relationship in the early school years. Stories, patterned movement and making provide concrete ways into language and number.",
+          "The teacher makes the skill inside the experience explicit. A sound becomes associated with a letter; a grouping becomes a numerical relationship. Pupils need repeated opportunities to recognize and use these relationships beyond the original story.",
+          "Imagination and clear instruction can work together. Pupils differ in prior experience and pace, so monitor reading, writing and number understanding and provide timely support or extension. A general age picture does not justify leaving a difficulty unexplained."
+        ],
+        "example": "After meeting a letter through a drawing and sound, pupils identify it in unfamiliar words and practise reading a short phrase.",
+        "question": "What should follow a memorable letter story?",
+        "answer": "Explicit attention to the letter and sound, varied recognition and practice in meaningful reading. The story provides an entry; independent use shows the skill developing."
+      },
+      "pt": {
+        "title": "Dos sete aos nove anos",
+        "goal": "Explique a passagem da experiência imaginativa às habilidades explícitas.",
+        "paragraphs": [
+          "O modelo fornecido enfatiza envolvimento imaginativo e uma relação de confiança com o professor nos primeiros anos escolares. Histórias, movimento organizado e atividades práticas oferecem entradas concretas na linguagem e nos números.",
+          "O professor explicita a habilidade presente na experiência. Um som se associa à letra; um agrupamento se torna relação numérica. Os alunos precisam reconhecer e usar essas relações fora da história inicial.",
+          "Imaginação e instrução clara podem trabalhar juntas. Experiências anteriores e ritmos variam; acompanhe leitura, escrita e compreensão numérica e ofereça apoio ou ampliação no momento necessário. Uma descrição etária geral não justifica ignorar dificuldades."
+        ],
+        "example": "Depois de encontrar uma letra por desenho e som, os alunos a identificam em palavras desconhecidas e praticam a leitura de uma frase curta.",
+        "question": "O que deve vir depois de uma história marcante sobre uma letra?",
+        "answer": "Atenção explícita à letra e ao som, reconhecimento em exemplos variados e prática de leitura significativa. A história oferece a entrada; o uso independente demonstra o desenvolvimento da habilidade."
+      }
+    },
+    {
+      "source": "development/22-nine-year-change.md",
+      "en": {
+        "title": "The nine-year change",
+        "goal": "Connect an interpreted transition with concrete reassurance and learning.",
+        "paragraphs": [
+          "The nine-year change describes, in this tradition, a growing experience of separation between self and surroundings. Questions about belonging, reliability or the adult’s authority may become more noticeable.",
+          "The curriculum response emphasizes practical relationships with the world: shelter, food, work and responsibility. A child can experience how needs are met through intelligible actions and cooperation.",
+          "This is an interpretive developmental picture, not a diagnosis or a universal event on a birthday. Listen to the child’s actual questions and consider context. Persistent distress deserves appropriate support rather than being explained away as a necessary phase."
+        ],
+        "example": "A class traces how grain becomes bread, measures ingredients and shares responsibilities. The teacher connects each action with the need it meets.",
+        "question": "Why might a practical project be relevant to this developmental interpretation?",
+        "answer": "It makes relationships between people, actions and basic needs understandable. That can offer a grounded experience of belonging and agency, but the project does not prove the developmental theory or replace individual support."
+      },
+      "pt": {
+        "title": "A mudança dos nove anos",
+        "goal": "Relacione a transição interpretada ao apoio e à aprendizagem concreta.",
+        "paragraphs": [
+          "Nessa tradição, a mudança dos nove anos descreve uma experiência crescente de separação entre o eu e o entorno. Perguntas sobre pertencimento, confiança ou autoridade do adulto podem se tornar mais perceptíveis.",
+          "A resposta curricular enfatiza relações práticas com o mundo: abrigo, alimentação, trabalho e responsabilidade. A criança pode vivenciar como ações compreensíveis e cooperação atendem às necessidades.",
+          "Essa é uma interpretação do desenvolvimento, não um diagnóstico nem um acontecimento universal no aniversário. Escute as perguntas reais e considere o contexto. Sofrimento persistente exige apoio adequado, em vez de ser explicado apenas como fase necessária."
+        ],
+        "example": "Uma turma acompanha a passagem do grão ao pão, mede ingredientes e divide responsabilidades. O professor relaciona cada ação à necessidade atendida.",
+        "question": "Por que um projeto prático pode ser relevante nessa interpretação?",
+        "answer": "Ele torna compreensíveis relações entre pessoas, ações e necessidades básicas. Pode oferecer uma experiência concreta de pertencimento e iniciativa, sem provar a teoria nem substituir apoio individual."
+      }
+    },
+    {
+      "source": "development/23-ages-nine-to-twelve.md",
+      "en": {
+        "title": "Ages nine to twelve",
+        "goal": "Explain the movement toward differentiation and organized observation.",
+        "paragraphs": [
+          "The supplied progression gives increasing attention to distinct parts and their relationships: the local landscape, animal forms, plant growth and numerical quantities. Pupils move beyond a single familiar picture toward comparison.",
+          "Comparison requires criteria. What is being observed, which features differ and how do the parts relate to a whole? Naming these questions prepares more systematic description and later explanation.",
+          "Development does not eliminate imagination or make comparison automatic. Demonstrate how to observe and record accurately, then invite pupils to explain a new case. Adapt the sequence to their knowledge and language needs."
+        ],
+        "example": "Pupils compare two animals’ movement and feeding structures, record visible differences and explain how those features relate to their environments.",
+        "question": "What makes comparison more useful than collecting animal facts?",
+        "answer": "Shared criteria connect the facts and make relationships explainable. Pupils must show how a feature contributes to a function or pattern rather than merely list names."
+      },
+      "pt": {
+        "title": "Dos nove aos doze anos",
+        "goal": "Explique a passagem à diferenciação e à observação organizada.",
+        "paragraphs": [
+          "A progressão fornecida dá atenção crescente às partes e suas relações: paisagem local, formas animais, crescimento vegetal e quantidades. Os alunos passam de uma imagem conhecida à comparação.",
+          "Comparar exige critérios. O que se observa, quais características diferem e como as partes se relacionam ao todo? Nomear essas perguntas prepara uma descrição sistemática e explicações posteriores.",
+          "O desenvolvimento não elimina a imaginação nem torna a comparação automática. Demonstre como observar e registrar e peça explicações de um novo caso. Adapte a sequência aos conhecimentos e às necessidades linguísticas dos alunos."
+        ],
+        "example": "Os alunos comparam movimento e estruturas de alimentação de dois animais, registram diferenças visíveis e explicam sua relação com o ambiente.",
+        "question": "O que torna a comparação mais útil que reunir fatos sobre animais?",
+        "answer": "Critérios compartilhados relacionam os fatos e permitem explicá-los. É preciso mostrar como uma característica contribui para uma função ou padrão, além de listar nomes."
+      }
+    },
+    {
+      "source": "development/24-threshold-of-causality.md",
+      "en": {
+        "title": "Around twelve: explaining causes",
+        "goal": "Distinguish an observed pattern from a causal explanation.",
+        "paragraphs": [
+          "The curriculum plan places greater emphasis on cause, law and exact relationships around Grade 6. Physics, geometric construction and business mathematics offer situations where a result must be explained, not simply described.",
+          "A causal question asks how changing one condition changes another and why. Compare relevant conditions, distinguish observations from the proposed mechanism and consider what else could affect the result.",
+          "The approximate age is an organizing interpretation, not an experimentally established threshold for every child. Younger children also reason about causes. The teaching task is to make explanations more precise and testable at an appropriate level."
+        ],
+        "example": "Pupils compare the sound of a stretched string at different lengths while keeping other conditions as similar as possible. They describe the pattern before proposing an explanation.",
+        "question": "Why does seeing two things change together not complete a causal explanation?",
+        "answer": "Other conditions may influence the result. Explain the proposed connection, compare conditions and identify what evidence would help distinguish the explanation from alternatives."
+      },
+      "pt": {
+        "title": "Por volta dos doze anos: explicar causas",
+        "goal": "Distinga um padrão observado de uma explicação causal.",
+        "paragraphs": [
+          "O planejamento curricular enfatiza causas, leis e relações exatas por volta do sexto ano. Física, construção geométrica e matemática comercial oferecem situações em que é preciso explicar resultados, além de descrevê-los.",
+          "Uma pergunta causal investiga como uma condição modifica outra e por quê. Compare condições relevantes, distinga observações do mecanismo proposto e considere outros fatores que afetam o resultado.",
+          "A idade aproximada organiza uma interpretação; não é um limiar experimentalmente estabelecido para todos. Crianças menores também raciocinam sobre causas. O ensino deve tornar as explicações mais precisas e verificáveis num nível adequado."
+        ],
+        "example": "Os alunos comparam o som de uma corda tensionada com comprimentos diferentes, mantendo as outras condições tão semelhantes quanto possível. Descrevem o padrão antes de propor uma explicação.",
+        "question": "Por que observar duas mudanças juntas não completa a explicação causal?",
+        "answer": "Outras condições podem influenciar o resultado. Explique a relação proposta, compare condições e identifique evidências que ajudem a distingui-la de explicações alternativas."
+      }
+    },
+    {
+      "source": "development/25-puberty-and-authority.md",
+      "en": {
+        "title": "Puberty and changing authority",
+        "goal": "Explain the shift toward reasons, dialogue and responsibility.",
+        "paragraphs": [
+          "The supplied framework interprets adolescence as a change in the pupil’s relationship with adult authority. A teacher’s personal credibility remains important, but pupils increasingly ask for reasons and consistency.",
+          "The response is to make expectations explainable and provide meaningful responsibility. Subject knowledge, fair criteria and willingness to discuss evidence help authority become a support for developing judgment.",
+          "Independent questioning is not the same as having no boundaries. Clear limits and respectful dialogue can coexist. Changes vary among individuals; avoid using puberty as a single explanation for every difficulty or disagreement."
+        ],
+        "example": "A class questions a project deadline. The teacher explains the sequence, discusses practical constraints and gives pupils responsibility for milestones within clear limits.",
+        "question": "How can a teacher respond to questioning without abandoning guidance?",
+        "answer": "Explain the reason for a decision, invite relevant questions and maintain clear, fair expectations. The aim is for pupils to understand and practise responsibility, not merely accept or reject authority."
+      },
+      "pt": {
+        "title": "Puberdade e mudanças na autoridade",
+        "goal": "Explique a passagem a razões, diálogo e responsabilidade.",
+        "paragraphs": [
+          "O modelo fornecido interpreta a adolescência como mudança na relação com a autoridade adulta. A credibilidade pessoal continua importante, mas os alunos pedem cada vez mais razões e coerência.",
+          "A resposta é tornar as expectativas compreensíveis e oferecer responsabilidades significativas. Conhecimento, critérios justos e disposição para discutir evidências ajudam a autoridade a favorecer o julgamento.",
+          "Questionar com independência não significa ausência de limites. Regras claras e diálogo respeitoso podem coexistir. As mudanças individuais variam; a puberdade não explica sozinha toda dificuldade ou discordância."
+        ],
+        "example": "Uma turma questiona o prazo de um projeto. O professor explica a sequência, discute limites práticos e oferece responsabilidade por etapas, dentro de regras claras.",
+        "question": "Como responder ao questionamento sem abandonar a orientação?",
+        "answer": "Explique a razão da decisão, acolha perguntas pertinentes e mantenha expectativas claras e justas. A finalidade é compreender e exercitar responsabilidade, além de apenas aceitar ou rejeitar a autoridade."
+      }
+    },
+    {
+      "source": "development/26-adolescence-and-judgment.md",
+      "en": {
+        "title": "Adolescence and independent judgment",
+        "goal": "Build a reasoned conclusion that can be revised.",
+        "paragraphs": [
+          "Independent judgment connects a question, relevant information, reasons and a conclusion. It involves more than expressing an opinion or choosing the opposite of an adult’s view.",
+          "Teaching can develop this through contrasting interpretations, scientific explanations and historical evidence. Pupils identify assumptions, consider alternatives and explain why one conclusion is better supported.",
+          "The teacher supplies knowledge and methods while leaving room for reasoned disagreement. A strong response can acknowledge uncertainty and revise itself when evidence changes. Independence and willingness to learn from others support each other."
+        ],
+        "example": "Pupils compare two explanations of a historical change, identify each author’s evidence and write a conclusion that names one unresolved question.",
+        "question": "What makes this conclusion independent rather than merely personal?",
+        "answer": "It follows from reasons the pupil can explain, considers relevant alternatives and recognizes its limits. Originality alone is insufficient; a supported agreement can show independent judgment."
+      },
+      "pt": {
+        "title": "Adolescência e julgamento independente",
+        "goal": "Construa uma conclusão fundamentada e aberta à revisão.",
+        "paragraphs": [
+          "O julgamento independente relaciona pergunta, informações relevantes, razões e conclusão. Envolve mais que expressar opinião ou escolher o contrário da visão de um adulto.",
+          "O ensino pode desenvolvê-lo por interpretações contrastantes, explicações científicas e evidências históricas. Os alunos identificam pressupostos, consideram alternativas e explicam qual conclusão tem maior apoio.",
+          "O professor oferece conhecimentos e métodos, preservando espaço para discordância fundamentada. Uma boa resposta reconhece incertezas e se modifica diante de novas evidências. Independência e disposição para aprender com outras pessoas se fortalecem."
+        ],
+        "example": "Os alunos comparam duas explicações de uma mudança histórica, identificam as evidências de cada autor e escrevem uma conclusão com uma pergunta ainda aberta.",
+        "question": "O que torna a conclusão independente, além de pessoal?",
+        "answer": "Ela decorre de razões explicáveis, considera alternativas pertinentes e reconhece limites. Originalidade não basta; concordar com fundamento também pode demonstrar julgamento independente."
+      }
+    },
+    {
+      "source": "grades/grade-01.md",
+      "en": {
+        "title": "Grade 1: entering school through imagination",
+        "goal": "Connect imaginative experience with early literacy and number.",
+        "paragraphs": [
+          "The supplied Grade 1 picture emphasizes entering a new learning community through stories, rhythm and practical activity. Trust and predictable routines help make classroom participation possible; pupils still need individual observation and support.",
+          "Language work connects speech and sound with written symbols. Number work connects quantities, grouping and operations. Drawing, singing and making can support these relationships when the teacher explicitly develops the concept inside the experience.",
+          "The intention is a bridge from lived experience to formal skills. Check recognition and use beyond the first image or story. Early difficulties in reading, language, attention or coordination need timely response rather than waiting for a general developmental timetable."
+        ],
+        "example": "A letter introduced through a drawing is later recognized in an unfamiliar word. Pupils explain the sound relationship and use the letter in a short phrase.",
+        "question": "Why is recognizing the letter in a new word important?",
+        "answer": "It shows that the pupil can use the symbol beyond its first picture. The imaginative introduction supports memory and engagement; varied recognition and meaningful use check the developing skill.",
+        "curriculum": [
+          [
+            "Language",
+            "Sound, letters, writing and reading",
+            "Use a symbol beyond its first picture."
+          ],
+          [
+            "Number",
+            "Quantities, grouping and operations",
+            "Explain how an operation changes a quantity."
+          ],
+          [
+            "Arts",
+            "Drawing, singing and making",
+            "Represent a pattern in more than one way."
+          ],
+          [
+            "Classroom life",
+            "Shared routines and responsibilities",
+            "Participate with increasing independence."
+          ]
+        ]
+      },
+      "pt": {
+        "title": "Primeiro ano: entrar na escola pela imaginação",
+        "goal": "Relacione experiências imaginativas à alfabetização e aos números.",
+        "paragraphs": [
+          "O retrato fornecido do primeiro ano enfatiza a entrada numa comunidade de aprendizagem por histórias, ritmo e atividades práticas. Confiança e rotinas previsíveis favorecem a participação; observação e apoio individuais continuam necessários.",
+          "A linguagem relaciona fala e sons aos símbolos escritos. A matemática relaciona quantidades, agrupamentos e operações. Desenho, canto e atividades manuais apoiam essas relações quando o professor desenvolve explicitamente o conceito na experiência.",
+          "A intenção é construir uma ponte entre vivência e habilidades formais. Verifique reconhecimento e uso fora da primeira imagem ou história. Dificuldades de leitura, linguagem, atenção ou coordenação exigem resposta oportuna, além de um calendário geral."
+        ],
+        "example": "Uma letra apresentada num desenho depois é reconhecida numa palavra desconhecida. Os alunos explicam a relação sonora e usam a letra numa frase curta.",
+        "question": "Por que reconhecer a letra numa nova palavra é importante?",
+        "answer": "Isso demonstra o uso do símbolo além de sua primeira imagem. A apresentação imaginativa favorece memória e envolvimento; reconhecimento variado e uso significativo verificam a habilidade.",
+        "curriculum": [
+          [
+            "Linguagem",
+            "Sons, letras, escrita e leitura",
+            "Use o símbolo além da primeira imagem."
+          ],
+          [
+            "Números",
+            "Quantidades, agrupamentos e operações",
+            "Explique como a operação altera a quantidade."
+          ],
+          [
+            "Arte",
+            "Desenho, canto e atividades manuais",
+            "Represente o padrão de várias maneiras."
+          ],
+          [
+            "Vida de classe",
+            "Rotinas e responsabilidades compartilhadas",
+            "Participe com autonomia crescente."
+          ]
+        ]
+      }
+    },
+    {
+      "source": "grades/grade-02.md",
+      "en": {
+        "title": "Grade 2: contrast and characterization",
+        "goal": "Use contrast to compare without turning characters into fixed labels.",
+        "paragraphs": [
+          "The Grade 2 plan places contrasting stories within an imaginative setting. Fables and accounts of exemplary lives offer different ways of portraying motives, consequences and conduct.",
+          "The educational task is comparison: what does a character do, why does it matter and how does another response differ? Retelling, reading and writing develop alongside this inquiry. Number practice extends fluency while retaining understanding of operations.",
+          "A story’s contrast should not become a label assigned to a pupil or a whole culture. Discuss actions and contexts. Continue explicit support in literacy and mathematics and invite pupils to explain a changed example."
+        ],
+        "example": "After two characters respond differently to a problem, pupils explain the consequences and imagine a third response with reasons.",
+        "question": "What is gained by comparing actions rather than labelling one character good and another bad?",
+        "answer": "Comparison directs attention to motives, consequences and possible choices. A fixed label can stop inquiry; explaining the action develops understanding of the story’s relationship.",
+        "curriculum": [
+          [
+            "Language",
+            "Reading, retelling and writing",
+            "Follow sequence and explain a character’s action."
+          ],
+          [
+            "Number",
+            "Further practice with operations",
+            "Connect fluency with explained relationships."
+          ],
+          [
+            "Stories",
+            "Contrasting characters and lives",
+            "Compare motives and consequences."
+          ],
+          [
+            "Practical work",
+            "Patterns and coordinated action",
+            "Recognize a sequence and correct an error."
+          ]
+        ]
+      },
+      "pt": {
+        "title": "Segundo ano: contraste e caracterização",
+        "goal": "Compare sem transformar personagens em rótulos fixos.",
+        "paragraphs": [
+          "O planejamento do segundo ano apresenta histórias contrastantes num contexto imaginativo. Fábulas e relatos de vidas exemplares oferecem formas diferentes de retratar motivos, consequências e condutas.",
+          "A tarefa é comparar: o que a personagem faz, por que importa e como outra resposta difere? Reconto, leitura e escrita se desenvolvem nessa investigação. A prática numérica amplia a fluência, preservando a compreensão das operações.",
+          "O contraste não deve virar rótulo de um aluno ou de uma cultura inteira. Discuta ações e contextos. Mantenha apoio explícito em linguagem e matemática e peça explicações de exemplos modificados."
+        ],
+        "example": "Depois de duas personagens reagirem de modos diferentes a um problema, os alunos explicam consequências e imaginam uma terceira resposta fundamentada.",
+        "question": "O que se ganha ao comparar ações, em vez de chamar uma personagem de boa e outra de má?",
+        "answer": "A comparação dirige a atenção a motivos, consequências e escolhas. Um rótulo pode encerrar a investigação; explicar a ação desenvolve a compreensão da relação apresentada.",
+        "curriculum": [
+          [
+            "Linguagem",
+            "Leitura, reconto e escrita",
+            "Acompanhe a sequência e explique ações."
+          ],
+          [
+            "Números",
+            "Prática das operações",
+            "Relacione fluência e compreensão."
+          ],
+          [
+            "Histórias",
+            "Personagens e vidas contrastantes",
+            "Compare motivos e consequências."
+          ],
+          [
+            "Trabalho prático",
+            "Padrões e ação coordenada",
+            "Reconheça a sequência e corrija erros."
+          ]
+        ]
+      }
+    },
+    {
+      "source": "grades/grade-03.md",
+      "en": {
+        "title": "Grade 3: meeting practical needs",
+        "goal": "Explain how practical work connects a child with understandable relationships.",
+        "paragraphs": [
+          "The Grade 3 plan connects the interpreted nine-year transition with shelter, food, practical work and measurement. These themes make the relationship between human needs and purposeful activity visible.",
+          "Farming and building are studied through their processes: conditions, materials, steps, cooperation and outcomes. Measurement, writing and number support the project rather than sit beside it as unrelated subjects.",
+          "The intention is grounded understanding and growing responsibility. Historical stories and local practices should be situated in context, with families and cultural traditions represented respectfully. A practical theme does not replace explicit teaching of the skills needed to carry it out."
+        ],
+        "example": "Pupils plan a small model shelter, measure materials, explain the sequence and revise a roof that does not fit.",
+        "question": "How does this project teach more than making a model?",
+        "answer": "Pupils connect need, design, measurement, materials and cooperation. Their explanation of decisions and corrections shows how practical action becomes organized understanding.",
+        "curriculum": [
+          [
+            "Practical themes",
+            "Food, shelter and work",
+            "Connect a need to a planned sequence."
+          ],
+          [
+            "Measurement",
+            "Length, quantity and time",
+            "Choose units and explain a result."
+          ],
+          [
+            "Language",
+            "Descriptions and instructions",
+            "Communicate a process clearly."
+          ],
+          [
+            "Cooperation",
+            "Shared project responsibilities",
+            "Explain how individual actions support a whole."
+          ]
+        ]
+      },
+      "pt": {
+        "title": "Terceiro ano: atender a necessidades práticas",
+        "goal": "Explique como o trabalho prático torna relações compreensíveis.",
+        "paragraphs": [
+          "O plano do terceiro ano relaciona a interpretação da mudança dos nove anos a abrigo, alimentação, trabalho e medida. Esses temas tornam visível a relação entre necessidades humanas e ação intencional.",
+          "Agricultura e construção são estudadas por seus processos: condições, materiais, etapas, cooperação e resultados. Medida, escrita e números apoiam o projeto, em vez de permanecer como matérias sem relação.",
+          "A intenção é desenvolver compreensão concreta e responsabilidade. Histórias e práticas locais precisam de contexto e respeito às tradições familiares e culturais. O tema prático não substitui o ensino explícito das habilidades necessárias."
+        ],
+        "example": "Os alunos planejam um pequeno abrigo em modelo, medem materiais, explicam etapas e corrigem um telhado que não encaixa.",
+        "question": "Como o projeto ensina além de fabricar uma maquete?",
+        "answer": "Ele relaciona necessidade, projeto, medida, materiais e cooperação. Explicar decisões e correções demonstra como a ação prática se transforma em compreensão organizada.",
+        "curriculum": [
+          [
+            "Temas práticos",
+            "Alimentação, abrigo e trabalho",
+            "Relacione necessidade e planejamento."
+          ],
+          [
+            "Medidas",
+            "Comprimento, quantidade e tempo",
+            "Escolha unidades e explique resultados."
+          ],
+          [
+            "Linguagem",
+            "Descrições e instruções",
+            "Comunique processos com clareza."
+          ],
+          [
+            "Cooperação",
+            "Responsabilidades em projetos",
+            "Explique a contribuição de cada ação."
+          ]
+        ]
+      }
+    },
+    {
+      "source": "grades/grade-04.md",
+      "en": {
+        "title": "Grade 4: parts and wholes",
+        "goal": "Connect fractions, local geography and comparison through differentiated relationships.",
+        "paragraphs": [
+          "The Grade 4 picture emphasizes a stronger experience of individuality and a more differentiated view of surroundings. The curriculum offers relationships in which parts can be recognized and connected to a whole.",
+          "Fractions make division and equivalence explicit. Local geography connects routes, land and settlement. Animal study invites comparison of structures and functions. Narrative material can support interest while accurate description develops.",
+          "The themes are related by a teaching intention, not by a single proven psychological cause. Pupils need clear explanations within each subject. Check whether they can compare using criteria and transfer a relationship to a new case."
+        ],
+        "example": "Pupils represent half of several differently shaped wholes, then explain why the pieces can differ in appearance while retaining the same fractional relationship.",
+        "question": "What matters when deciding whether a piece represents one half?",
+        "answer": "Its relationship to the whole and the equality of the division, not its isolated size or shape. Comparing several wholes makes the distinction visible.",
+        "curriculum": [
+          [
+            "Mathematics",
+            "Fractions",
+            "Explain parts in relation to a defined whole."
+          ],
+          [
+            "Geography",
+            "Local routes, maps and settlement",
+            "Connect features and human activity."
+          ],
+          [
+            "Animal study",
+            "Structure and function",
+            "Compare using explicit criteria."
+          ],
+          [
+            "Language",
+            "Narrative and descriptive writing",
+            "Organize relationships for a reader."
+          ]
+        ]
+      },
+      "pt": {
+        "title": "Quarto ano: partes e todos",
+        "goal": "Relacione frações, geografia local e comparação por relações diferenciadas.",
+        "paragraphs": [
+          "O retrato do quarto ano enfatiza uma experiência mais forte de individualidade e um olhar mais diferenciado para o entorno. O currículo oferece relações em que partes são reconhecidas e ligadas ao todo.",
+          "Frações explicitam divisão e equivalência. A geografia local relaciona caminhos, relevo e povoamento. O estudo animal compara estruturas e funções. Narrativas favorecem o interesse enquanto a descrição precisa se desenvolve.",
+          "A ligação entre temas expressa uma intenção pedagógica, não uma causa psicológica única comprovada. Cada matéria exige explicações claras. Verifique comparação por critérios e aplicação da relação a outro caso."
+        ],
+        "example": "Os alunos representam metade de vários todos com formatos diferentes e explicam por que as peças podem parecer distintas e manter a mesma relação fracionária.",
+        "question": "O que importa para decidir se uma parte representa metade?",
+        "answer": "Sua relação com o todo e a igualdade da divisão, não seu tamanho ou formato isolado. Comparar vários todos torna essa distinção visível.",
+        "curriculum": [
+          [
+            "Matemática",
+            "Frações",
+            "Explique partes em relação ao todo."
+          ],
+          [
+            "Geografia",
+            "Caminhos, mapas e povoamento local",
+            "Relacione características e atividades humanas."
+          ],
+          [
+            "Estudo animal",
+            "Estrutura e função",
+            "Compare por critérios explícitos."
+          ],
+          [
+            "Linguagem",
+            "Narrativa e descrição",
+            "Organize relações para o leitor."
+          ]
+        ]
+      }
+    },
+    {
+      "source": "grades/grade-05.md",
+      "en": {
+        "title": "Grade 5: observation, proportion and history",
+        "goal": "Distinguish a curriculum theme from a fixed developmental ideal.",
+        "paragraphs": [
+          "The supplied Grade 5 interpretation emphasizes balance, proportion and an expanding view of the world. These themes organize teaching; they do not imply that every pupil experiences a harmonious year.",
+          "Plant study develops observation of growth and relationships with surroundings. Geography broadens scale. Historical study begins to locate human lives and cultures in changing circumstances. Geometric and movement work can explore form and proportion.",
+          "Descriptions of ancient cultures need evidence, context and varied perspectives. Avoid a universal story in which living peoples represent earlier stages of humanity. Pupils should distinguish an imaginative account from historical claims and explain the basis of a comparison."
+        ],
+        "example": "Pupils compare plant growth in two observed settings, drawing stages and explaining which environmental differences might matter.",
+        "question": "How does careful observation improve an attractive plant drawing?",
+        "answer": "It makes the drawing a record of identifiable features and change. Pupils can then compare conditions and explain relationships; beauty alone does not establish botanical accuracy.",
+        "curriculum": [
+          [
+            "Plant study",
+            "Growth and surroundings",
+            "Describe change and compare conditions."
+          ],
+          [
+            "History",
+            "Ancient societies in context",
+            "Distinguish story, chronology and evidence."
+          ],
+          [
+            "Geography",
+            "Wider regions and relationships",
+            "Explain changes of scale."
+          ],
+          [
+            "Form and movement",
+            "Proportion and pattern",
+            "Explain a choice in a constructed form."
+          ]
+        ]
+      },
+      "pt": {
+        "title": "Quinto ano: observação, proporção e história",
+        "goal": "Distinga um tema curricular de um ideal fixo de desenvolvimento.",
+        "paragraphs": [
+          "A interpretação fornecida do quinto ano enfatiza equilíbrio, proporção e ampliação do olhar para o mundo. Esses temas organizam o ensino; não significam que todos viverão um ano harmonioso.",
+          "O estudo vegetal desenvolve observação do crescimento e do ambiente. A geografia amplia a escala. A história situa vidas e culturas em circunstâncias mutáveis. Geometria e movimento exploram forma e proporção.",
+          "Culturas antigas exigem evidências, contexto e perspectivas variadas. Evite apresentar povos atuais como etapas anteriores da humanidade. Os alunos devem distinguir narrativa imaginativa e afirmação histórica e explicar critérios de comparação."
+        ],
+        "example": "Os alunos comparam o crescimento de plantas em dois ambientes observados, desenham etapas e explicam quais diferenças ambientais podem importar.",
+        "question": "Como a observação cuidadosa melhora um desenho bonito de uma planta?",
+        "answer": "Ela torna o desenho um registro de características identificáveis e mudanças. Isso permite comparar condições e explicar relações; beleza, sozinha, não estabelece precisão botânica.",
+        "curriculum": [
+          [
+            "Estudo vegetal",
+            "Crescimento e ambiente",
+            "Descreva mudanças e compare condições."
+          ],
+          [
+            "História",
+            "Sociedades antigas em contexto",
+            "Distinga narrativa, cronologia e evidências."
+          ],
+          [
+            "Geografia",
+            "Regiões e relações ampliadas",
+            "Explique mudanças de escala."
+          ],
+          [
+            "Forma e movimento",
+            "Proporção e padrão",
+            "Explique escolhas de construção."
+          ]
+        ]
+      }
+    },
+    {
+      "source": "grades/grade-06.md",
+      "en": {
+        "title": "Grade 6: cause, law and construction",
+        "goal": "Move from describing a result to explaining how it follows.",
+        "paragraphs": [
+          "The Grade 6 plan emphasizes causal relationships, exact construction and the physical world. The shift asks pupils to explain conditions and results more explicitly while continuing to observe carefully.",
+          "Physics compares phenomena and seeks mechanisms. Compass-and-straightedge geometry makes relationships reproducible. Percentage and business mathematics connect quantities with rates and changing conditions. History examines institutions and their consequences.",
+          "Observation, construction and explanation have different roles. A diagram can show a relationship without proving a physical cause; a repeated result needs analysis of conditions. Approximate developmental timing guides the sequence without limiting who can learn these methods."
+        ],
+        "example": "Pupils calculate a percentage change and explain which original amount is the base. A second change uses the new base, making it clear why reversing a percentage does not simply undo the first change.",
+        "question": "Why must the base of a percentage be identified?",
+        "answer": "A percentage expresses a relationship to a specified whole. The same rate applied to different bases gives different amounts; identifying the base prevents an apparently simple calculation from concealing a changed relationship.",
+        "curriculum": [
+          [
+            "Physics",
+            "Sound, light and other physical phenomena",
+            "Separate observation from mechanism."
+          ],
+          [
+            "Mathematics",
+            "Percentage, ratio and business relationships",
+            "Identify the base and explain the calculation."
+          ],
+          [
+            "Geometry",
+            "Compass-and-straightedge construction",
+            "Justify a reproducible relationship."
+          ],
+          [
+            "History and minerals",
+            "Institutions and the material world",
+            "Develop precise description and causal questions."
+          ]
+        ]
+      },
+      "pt": {
+        "title": "Sexto ano: causa, lei e construção",
+        "goal": "Passe da descrição do resultado à explicação de como ele decorre.",
+        "paragraphs": [
+          "O plano do sexto ano enfatiza relações causais, construção exata e mundo físico. Pede explicações mais explícitas de condições e resultados, mantendo a observação cuidadosa.",
+          "A física compara fenômenos e procura mecanismos. A geometria com régua e compasso torna relações reproduzíveis. Porcentagem e matemática comercial relacionam quantidades a taxas e condições variáveis. A história examina instituições e consequências.",
+          "Observação, construção e explicação têm funções diferentes. Um diagrama mostra relações sem provar causas físicas; resultados repetidos exigem análise das condições. O momento aproximado orienta a sequência sem limitar quem pode aprender esses métodos."
+        ],
+        "example": "Os alunos calculam uma variação percentual e explicam qual valor é a base. Uma segunda mudança usa a nova base, mostrando por que inverter a taxa não desfaz simplesmente a primeira mudança.",
+        "question": "Por que identificar a base de uma porcentagem?",
+        "answer": "A porcentagem expressa uma relação com um todo específico. A mesma taxa aplicada a bases diferentes produz valores diferentes; identificar a base revela a mudança na relação.",
+        "curriculum": [
+          [
+            "Física",
+            "Som, luz e outros fenômenos",
+            "Separe observação e mecanismo."
+          ],
+          [
+            "Matemática",
+            "Porcentagem, razão e relações comerciais",
+            "Identifique a base e explique o cálculo."
+          ],
+          [
+            "Geometria",
+            "Construção com régua e compasso",
+            "Justifique relações reproduzíveis."
+          ],
+          [
+            "História e minerais",
+            "Instituições e mundo material",
+            "Descreva com precisão e formule perguntas causais."
+          ]
+        ]
+      }
+    },
+    {
+      "source": "grades/grade-07.md",
+      "en": {
+        "title": "Grade 7: exploration and changing perspectives",
+        "goal": "Relate widening inquiry to evidence, context and responsibility.",
+        "paragraphs": [
+          "The Grade 7 plan uses exploration, discovery and a widening adolescent horizon as connected themes. Pupils increasingly ask how people investigate unfamiliar situations and revise inherited assumptions.",
+          "Scientific work introduces more explicit transformations and explanations. Mathematics develops relationships that can be expressed symbolically. Geography and history examine encounters, changing institutions and different perspectives.",
+          "Discovery narratives need to ask who already knew a place or process and who experienced the consequences of expansion. Intellectual independence grows through evidence and fair comparison, not through celebrating one viewpoint as the whole story."
+        ],
+        "example": "Pupils compare an explorer’s account with an account from people already living in the region, identifying what each source notices and overlooks.",
+        "question": "Why does a “discovery” story need more than the traveller’s viewpoint?",
+        "answer": "The place and its people existed before that journey. Different sources reveal different experiences and consequences, allowing pupils to assess what the term means and whose knowledge it describes.",
+        "curriculum": [
+          [
+            "Chemistry",
+            "Observable transformations",
+            "Explain change using conditions and evidence."
+          ],
+          [
+            "Mathematics",
+            "Symbolic relationships and geometry",
+            "Connect an expression with its meaning."
+          ],
+          [
+            "History",
+            "Exploration and changing perspectives",
+            "Compare sources and consequences."
+          ],
+          [
+            "Geography",
+            "Expanded regions and encounters",
+            "Examine whose knowledge a description represents."
+          ]
+        ]
+      },
+      "pt": {
+        "title": "Sétimo ano: exploração e mudança de perspectivas",
+        "goal": "Relacione a investigação ampliada a evidências, contexto e responsabilidade.",
+        "paragraphs": [
+          "O plano do sétimo ano reúne exploração, descoberta e ampliação do horizonte adolescente. Os alunos perguntam como investigar situações desconhecidas e revisar pressupostos recebidos.",
+          "As ciências introduzem transformações e explicações mais explícitas. A matemática desenvolve relações simbólicas. Geografia e história examinam encontros, mudanças institucionais e perspectivas diferentes.",
+          "Narrativas de descoberta precisam perguntar quem já conhecia um lugar ou processo e quem viveu as consequências da expansão. A independência intelectual se desenvolve por evidências e comparações justas, além da celebração de um único ponto de vista."
+        ],
+        "example": "Os alunos comparam o relato de um explorador ao de pessoas que já viviam na região, identificando o que cada fonte percebe e omite.",
+        "question": "Por que uma narrativa de “descoberta” precisa de outras perspectivas?",
+        "answer": "O lugar e suas pessoas existiam antes da viagem. Fontes diferentes revelam experiências e consequências e permitem avaliar o significado do termo e de quem é o conhecimento descrito.",
+        "curriculum": [
+          [
+            "Química",
+            "Transformações observáveis",
+            "Explique mudanças por condições e evidências."
+          ],
+          [
+            "Matemática",
+            "Relações simbólicas e geometria",
+            "Relacione expressão e significado."
+          ],
+          [
+            "História",
+            "Exploração e perspectivas",
+            "Compare fontes e consequências."
+          ],
+          [
+            "Geografia",
+            "Regiões ampliadas e encontros",
+            "Examine a perspectiva de cada descrição."
+          ]
+        ]
+      }
+    },
+    {
+      "source": "grades/grade-08.md",
+      "en": {
+        "title": "Grade 8: integration and modern change",
+        "goal": "Bring earlier concepts into a coherent explanation or project.",
+        "paragraphs": [
+          "The Grade 8 plan emphasizes integration: pupils bring earlier skills into more independent work and examine processes shaping the modern world. A project can make this transition visible when its purpose and criteria are clear.",
+          "Historical and scientific themes invite connections among causes, conditions and consequences. Writing, quantitative reasoning, making and presentation provide different ways to demonstrate understanding.",
+          "Independent work still needs milestones, feedback and accessible support. A large project is not automatically deep learning. Assess the explanation, evidence and revision process as well as the finished product; distinguish the pupil’s work from adult assistance."
+        ],
+        "example": "A pupil studies a transport change, builds a model and explains how it affected travel, work and settlement, identifying which claims the model can and cannot illustrate.",
+        "question": "What turns a model-building project into an integrated learning task?",
+        "answer": "The pupil connects it to explained concepts, evidence and consequences and can defend design decisions. A finished object alone does not show the relationships or the independence of the work.",
+        "curriculum": [
+          [
+            "History",
+            "Modern changes and their consequences",
+            "Connect causes, experiences and interpretations."
+          ],
+          [
+            "Science",
+            "Further explanation and application",
+            "Compare a model with observations."
+          ],
+          [
+            "Project work",
+            "Planning, making and presenting",
+            "Integrate skills and document revision."
+          ],
+          [
+            "Language",
+            "Structured writing and presentation",
+            "Make a connected argument accessible."
+          ]
+        ]
+      },
+      "pt": {
+        "title": "Oitavo ano: integração e mudanças modernas",
+        "goal": "Integre conceitos anteriores numa explicação ou num projeto coerente.",
+        "paragraphs": [
+          "O plano do oitavo ano enfatiza integração: habilidades anteriores entram em trabalhos mais independentes e na investigação do mundo moderno. Um projeto torna a transição visível quando finalidade e critérios estão claros.",
+          "Temas históricos e científicos relacionam causas, condições e consequências. Escrita, raciocínio quantitativo, atividades práticas e apresentação oferecem maneiras diferentes de demonstrar compreensão.",
+          "Trabalho independente ainda exige etapas, comentários e apoio acessível. Um projeto grande não garante profundidade. Avalie explicação, evidências e revisão, além do produto, distinguindo o trabalho do aluno da ajuda adulta."
+        ],
+        "example": "Um aluno estuda uma mudança no transporte, constrói um modelo e explica efeitos em viagens, trabalho e povoamento, identificando o que o modelo permite ilustrar.",
+        "question": "O que transforma a construção de um modelo em aprendizagem integrada?",
+        "answer": "O aluno o relaciona a conceitos explicados, evidências e consequências e justifica decisões. O objeto pronto, sozinho, não demonstra essas relações nem a independência do trabalho.",
+        "curriculum": [
+          [
+            "História",
+            "Mudanças modernas e consequências",
+            "Relacione causas, experiências e interpretações."
+          ],
+          [
+            "Ciências",
+            "Explicação e aplicação",
+            "Compare modelos e observações."
+          ],
+          [
+            "Projetos",
+            "Planejar, fazer e apresentar",
+            "Integre habilidades e registre revisões."
+          ],
+          [
+            "Linguagem",
+            "Texto estruturado e apresentação",
+            "Comunique um argumento conectado."
+          ]
+        ]
+      }
+    },
+    {
+      "source": "grades/grade-09.md",
+      "en": {
+        "title": "Grade 9: contrast and reasoned judgment",
+        "goal": "Use contrasting explanations to build a supported conclusion.",
+        "paragraphs": [
+          "The Grade 9 picture emphasizes stronger questioning and the ability to examine contrasting positions. Polarity provides a teaching entry into relationships and tensions; it should not reduce every subject to two fixed opposing camps.",
+          "Subjects develop more explicit explanations and analytical methods. Pupils compare interpretations, examine evidence and distinguish assumptions from conclusions. Historical change, scientific mechanisms and literary forms offer different kinds of reasoning.",
+          "Preparation for later study requires subject knowledge, clear writing, quantitative skill and increasingly independent organization. A reasoned disagreement may demonstrate understanding; an unsupported opinion needs further development. Expectations should reflect actual school and qualification requirements."
+        ],
+        "example": "Pupils compare two explanations of a social change, identify the evidence each uses and write a conclusion that acknowledges one limitation.",
+        "question": "What makes a judgment more than choosing a side?",
+        "answer": "It explains the grounds for the conclusion, considers relevant alternatives and acknowledges limits. Choosing an unusual position alone does not establish independence or understanding.",
+        "curriculum": [
+          [
+            "Language and literature",
+            "Contrasting forms and interpretations",
+            "Support a reading with textual features."
+          ],
+          [
+            "Science",
+            "More explicit analytical explanations",
+            "Distinguish assumptions, evidence and conclusions."
+          ],
+          [
+            "Mathematics",
+            "Further symbolic and quantitative reasoning",
+            "Justify steps and assess a result."
+          ],
+          [
+            "History",
+            "Contrasting explanations of change",
+            "Build a conclusion that recognizes limits."
+          ]
+        ]
+      },
+      "pt": {
+        "title": "Nono ano: contraste e julgamento fundamentado",
+        "goal": "Compare explicações e construa uma conclusão apoiada em razões.",
+        "paragraphs": [
+          "O retrato do nono ano enfatiza questionamento e exame de posições contrastantes. A polaridade oferece uma entrada para relações e tensões, sem reduzir toda matéria a dois campos fixos e opostos.",
+          "As matérias desenvolvem explicações e métodos mais explícitos. Os alunos comparam interpretações, examinam evidências e distinguem pressupostos e conclusões. Mudanças históricas, mecanismos científicos e formas literárias exigem raciocínios diferentes.",
+          "A preparação para estudos posteriores exige conhecimentos, escrita clara, habilidade quantitativa e organização independente. Discordância fundamentada pode demonstrar compreensão; opinião sem apoio precisa ser desenvolvida. As expectativas devem considerar exigências reais da escola e das certificações."
+        ],
+        "example": "Os alunos comparam duas explicações de uma mudança social, identificam evidências e escrevem uma conclusão que reconhece uma limitação.",
+        "question": "O que torna um julgamento mais que escolher um lado?",
+        "answer": "Ele explica os fundamentos, considera alternativas relevantes e reconhece limites. Escolher uma posição incomum não estabelece independência nem compreensão.",
+        "curriculum": [
+          [
+            "Linguagem e literatura",
+            "Formas e interpretações contrastantes",
+            "Apoie a interpretação em características do texto."
+          ],
+          [
+            "Ciências",
+            "Explicações analíticas",
+            "Distinga pressupostos, evidências e conclusões."
+          ],
+          [
+            "Matemática",
+            "Raciocínio simbólico e quantitativo",
+            "Justifique etapas e avalie resultados."
+          ],
+          [
+            "História",
+            "Explicações contrastantes das mudanças",
+            "Construa conclusões com limites reconhecidos."
+          ]
+        ]
+      }
+    },
+    {
+      "source": "subjects/arts.md",
+      "en": {
+        "title": "Arts across the curriculum",
+        "goal": "Trace the move from making and noticing to interpreting artistic choices.",
+        "paragraphs": [
+          "An arts pathway develops perception, technique and expression. Early shared drawing, colour and movement can become increasingly deliberate composition, observation and interpretation.",
+          "Progression means noticing what changes in the task. Pupils may move from reproducing a form to comparing proportions, choosing a medium and explaining the effect of a choice. Academic connections should make the relevant concept explicit.",
+          "Artistic quality, effort and subject understanding are different assessment questions. Adapt materials and participation so that motor or sensory difficulty does not obscure a pupil’s interpretation."
+        ],
+        "example": "Pupils represent one landscape in two media and explain how line, colour and texture direct attention differently.",
+        "question": "What demonstrates a developing artistic judgment?",
+        "answer": "The pupil explains a choice and its effect, compares alternatives and can revise the work. Attractive copying alone does not show that judgment."
+      },
+      "pt": {
+        "title": "Arte ao longo do currículo",
+        "goal": "Acompanhe a passagem de fazer e perceber à interpretação das escolhas.",
+        "paragraphs": [
+          "O percurso artístico desenvolve percepção, técnica e expressão. Desenho, cor e movimento compartilhados podem se tornar composição deliberada, observação e interpretação.",
+          "A progressão aparece na mudança da tarefa. Os alunos passam de reproduzir uma forma a comparar proporções, escolher meios e explicar efeitos. Relações com outras matérias precisam explicitar o conceito pertinente.",
+          "Qualidade artística, esforço e compreensão da matéria são questões distintas. Adapte materiais e participação para que dificuldades motoras ou sensoriais não ocultem a interpretação do aluno."
+        ],
+        "example": "Os alunos representam a mesma paisagem em dois meios e explicam como linha, cor e textura orientam a atenção.",
+        "question": "O que demonstra julgamento artístico em desenvolvimento?",
+        "answer": "O aluno explica escolhas e efeitos, compara alternativas e revisa o trabalho. Copiar com beleza, sozinho, não demonstra esse julgamento."
+      }
+    },
+    {
+      "source": "subjects/chemistry.md",
+      "en": {
+        "title": "Chemistry: transformation and explanation",
+        "goal": "Distinguish observation of a change from its chemical explanation.",
+        "paragraphs": [
+          "The supplied chemistry progression begins with observable transformations and develops more explicit relationships among substances and conditions. Burning, dissolving and changes in materials raise different explanatory questions.",
+          "A careful sequence records what changed, identifies conditions and introduces concepts that account for the result. Later classification and quantitative relationships should clarify the observations rather than be learned as disconnected lists.",
+          "Scientific explanation requires evidence and appropriate models. Anthroposophical interpretations have a different status and should be identified separately. Demonstrations need suitable supervision, materials and school protocols; this lesson explains the learning sequence rather than supplying an experiment recipe."
+        ],
+        "example": "A teacher provides observations of a material before and after a change. Pupils separate what was seen from a proposed explanation and identify the evidence needed to distinguish alternatives.",
+        "question": "Why is “it changed colour” not a complete chemical explanation?",
+        "answer": "It describes an observation. An explanation must account for the change in terms of relevant substances, conditions and processes, supported by evidence."
+      },
+      "pt": {
+        "title": "Química: transformação e explicação",
+        "goal": "Distinga observar uma mudança de explicá-la quimicamente.",
+        "paragraphs": [
+          "A progressão fornecida começa com transformações observáveis e desenvolve relações entre substâncias e condições. Combustão, dissolução e mudanças nos materiais levantam perguntas diferentes.",
+          "Uma sequência cuidadosa registra a mudança, identifica condições e apresenta conceitos que explicam o resultado. Classificações e relações quantitativas posteriores devem esclarecer as observações, além de formar listas isoladas.",
+          "Explicações científicas exigem evidências e modelos adequados. Interpretações antroposóficas têm outro estatuto e precisam ser identificadas. Demonstrações exigem supervisão, materiais e protocolos escolares; esta lição explica a sequência, sem oferecer receitas experimentais."
+        ],
+        "example": "O professor fornece observações de um material antes e depois de uma mudança. Os alunos separam o observado da explicação proposta e identificam evidências para comparar alternativas.",
+        "question": "Por que “mudou de cor” não é uma explicação química completa?",
+        "answer": "É uma descrição. A explicação precisa relacionar substâncias, condições e processos relevantes à mudança, com apoio em evidências."
+      }
+    },
+    {
+      "source": "subjects/eurythmy-and-movement.md",
+      "en": {
+        "title": "Eurythmy and movement across the years",
+        "goal": "Connect expressive movement with increasingly conscious coordination.",
+        "paragraphs": [
+          "Movement learning can develop balance, timing, spatial relationships and shared attention. Eurythmy adds a particular artistic intention: representing qualities of speech and music through gesture.",
+          "A pathway may move from imitation and simple shared forms toward more complex sequences and explanation of expressive choices. The teacher identifies what pupils are practising and how coordination or interpretation is developing.",
+          "Different movement activities have different goals; games, physical education and eurythmy should not be treated as interchangeable. Provide accessible forms of participation and assess the intended relationship rather than conformity of bodies."
+        ],
+        "example": "A group makes the return of a musical phrase visible through movement, then explains how direction and spacing distinguish its variations.",
+        "question": "What shows progress beyond remembering the sequence?",
+        "answer": "Pupils coordinate with others, adjust timing and explain how the movement expresses a relationship. Memory is useful but does not cover those goals."
+      },
+      "pt": {
+        "title": "Euritmia e movimento ao longo dos anos",
+        "goal": "Relacione expressão corporal e coordenação cada vez mais consciente.",
+        "paragraphs": [
+          "A aprendizagem do movimento desenvolve equilíbrio, tempo, relações espaciais e atenção compartilhada. A euritmia acrescenta a intenção artística de representar qualidades da fala e da música por gestos.",
+          "O percurso pode passar da imitação e de formas simples a sequências complexas e explicações das escolhas expressivas. O professor identifica o que se pratica e como a coordenação ou a interpretação avança.",
+          "Atividades corporais têm objetivos diferentes; jogos, educação física e euritmia não são equivalentes. Ofereça participação acessível e avalie a relação pretendida, além da uniformidade corporal."
+        ],
+        "example": "Um grupo torna visível o retorno de uma frase musical pelo movimento e explica como direção e espaçamento distinguem suas variações.",
+        "question": "O que mostra progresso além de lembrar a sequência?",
+        "answer": "Os alunos se coordenam, ajustam o tempo e explicam como o movimento expressa uma relação. A memória ajuda, mas não abrange todos esses objetivos."
+      }
+    },
+    {
+      "source": "subjects/foreign-languages.md",
+      "en": {
+        "title": "Foreign languages across the years",
+        "goal": "Trace the growth from contextual speech to flexible, explicit understanding.",
+        "paragraphs": [
+          "Spoken language in a meaningful setting gives pupils sounds, phrases and purposes to recognize. Songs, dialogues and stories can make a new language approachable.",
+          "The pathway broadens into reading, writing and conscious grammar. Pupils compare patterns, understand what changes with person or time and use language in unfamiliar situations. Explicit explanation supports flexible use.",
+          "Progress should be checked through comprehension and communication as well as accurate reproduction. Use varied cultural contexts and avoid treating one textbook scene as representative of an entire people."
+        ],
+        "example": "Pupils change a familiar dialogue from describing yesterday to planning tomorrow and explain which expressions change.",
+        "question": "Why does changing the situation provide a useful check?",
+        "answer": "It requires the learner to understand meaning and choose forms appropriately. Repeating a memorized dialogue can conceal dependence on the original script."
+      },
+      "pt": {
+        "title": "Línguas estrangeiras ao longo dos anos",
+        "goal": "Acompanhe a passagem da fala contextualizada ao uso flexível e consciente.",
+        "paragraphs": [
+          "A fala numa situação significativa oferece sons, frases e finalidades reconhecíveis. Canções, diálogos e histórias tornam uma nova língua acessível.",
+          "O percurso amplia-se para leitura, escrita e gramática consciente. Os alunos comparam padrões, compreendem mudanças de pessoa ou tempo e usam a língua em situações novas. Explicações explícitas favorecem flexibilidade.",
+          "Verifique compreensão e comunicação, além da reprodução correta. Use contextos culturais variados e evite tratar uma cena didática como retrato de um povo inteiro."
+        ],
+        "example": "Os alunos transformam um diálogo sobre ontem num planejamento para amanhã e explicam quais expressões mudam.",
+        "question": "Por que mudar a situação é uma verificação útil?",
+        "answer": "Isso exige compreender o sentido e escolher formas adequadas. Repetir um diálogo memorizado pode ocultar a dependência do roteiro inicial."
+      }
+    },
+    {
+      "source": "subjects/geography.md",
+      "en": {
+        "title": "Geography: relationships across scales",
+        "goal": "Connect observation, mapping and explanation of places.",
+        "paragraphs": [
+          "The supplied geography pathway moves from familiar surroundings toward larger regions and global relationships. A change in scale should preserve questions about how land, water, people and movement relate.",
+          "Maps select and represent information. Pupils need to understand direction, scale, symbols and what a map omits. Describing a place becomes more explanatory when connected with settlement, transport, resources and change.",
+          "Geography includes different perspectives on the same place. Avoid reducing cultures to climate or presenting a region as a fixed character. Compare evidence and recognize the decisions behind representations."
+        ],
+        "example": "Pupils compare a walking map with a regional transport map and explain why each includes different features.",
+        "question": "Why can two accurate maps of one area look different?",
+        "answer": "They have different scales and purposes and select different information. Accuracy concerns the represented relationship; no map contains every feature of a place."
+      },
+      "pt": {
+        "title": "Geografia: relações entre escalas",
+        "goal": "Relacione observação, mapas e explicações dos lugares.",
+        "paragraphs": [
+          "O percurso fornecido parte do entorno conhecido e chega a regiões maiores e relações globais. A mudança de escala deve manter perguntas sobre relevo, água, pessoas e circulação.",
+          "Mapas selecionam e representam informações. É preciso compreender direção, escala, símbolos e omissões. Descrever um lugar torna-se mais explicativo ao relacionar povoamento, transporte, recursos e mudanças.",
+          "A geografia inclui perspectivas diferentes sobre o mesmo lugar. Evite reduzir culturas ao clima ou dar uma personalidade fixa à região. Compare evidências e reconheça decisões de representação."
+        ],
+        "example": "Os alunos comparam um mapa de caminhada com um mapa regional de transportes e explicam a seleção de características.",
+        "question": "Por que dois mapas corretos da mesma área podem ser diferentes?",
+        "answer": "Têm escalas e finalidades distintas e selecionam informações diferentes. A precisão diz respeito à relação representada; nenhum mapa contém todas as características de um lugar."
+      }
+    },
+    {
+      "source": "subjects/handwork.md",
+      "en": {
+        "title": "Handwork: from sequence to design",
+        "goal": "Explain how practical work develops planning and revision.",
+        "paragraphs": [
+          "Early handwork makes a repeated process tangible. Pupils learn how ordered actions and material properties produce a result, including what happens when the sequence changes.",
+          "Later work can require measurement, pattern design, tool selection and increasingly independent planning. The concept inside the task should be named: proportion, structure, tension or the relationship between form and use.",
+          "Assessment includes the process and explanation, not only a polished object. Adapt tools and task demands while preserving the learning purpose. Corrections are evidence of developing understanding when pupils can explain them."
+        ],
+        "example": "A pupil modifies a pattern to fit a different size, predicts the required change and checks the completed measurements.",
+        "question": "What makes changing a pattern different from copying it?",
+        "answer": "It requires understanding relationships between measurements and actions. The pupil must predict a consequence and justify the adjustment rather than follow the original sequence unchanged."
+      },
+      "pt": {
+        "title": "Trabalhos manuais: da sequência ao projeto",
+        "goal": "Explique como fazer desenvolve planejamento e revisão.",
+        "paragraphs": [
+          "O trabalho inicial torna um processo repetido concreto. Os alunos aprendem como ações ordenadas e propriedades dos materiais produzem resultados e o que muda ao alterar a sequência.",
+          "Mais tarde, o trabalho exige medida, desenho de padrões, escolha de ferramentas e planejamento independente. Nomeie o conceito: proporção, estrutura, tensão ou relação entre forma e uso.",
+          "A avaliação inclui processo e explicação, além do objeto acabado. Adapte ferramentas e exigências preservando a finalidade. Correções demonstram compreensão quando o aluno consegue explicá-las."
+        ],
+        "example": "Um aluno modifica um padrão para outro tamanho, prevê os ajustes e confere as medidas do trabalho pronto.",
+        "question": "O que diferencia modificar um padrão de copiá-lo?",
+        "answer": "Modificar exige compreender relações entre medidas e ações, prever consequências e justificar ajustes, além de repetir a sequência original."
+      }
+    },
+    {
+      "source": "subjects/history.md",
+      "en": {
+        "title": "History: story, context and evidence",
+        "goal": "Distinguish an engaging narrative from a supported historical explanation.",
+        "paragraphs": [
+          "Historical stories make people and events imaginable. As learning develops, pupils also need chronology, context, sources and explanations of change.",
+          "A pathway moves from following an account to asking how it is known and whose viewpoint it represents. Compare sources, identify causes and consequences and distinguish evidence from later interpretation.",
+          "Curriculum narratives of cultural development should not rank living peoples as more or less evolved. Historical inquiry recognizes agency, conflict and varied experiences. An imaginative presentation remains accountable to accurate information and respectful representation."
+        ],
+        "example": "Pupils compare two accounts of an industrial change and identify whose work, choices and consequences each emphasizes.",
+        "question": "Why might two accounts disagree without one being entirely invented?",
+        "answer": "They may use different evidence or focus on different experiences. Compare their claims and support before deciding where they complement, conflict or leave questions open."
+      },
+      "pt": {
+        "title": "História: narrativa, contexto e evidências",
+        "goal": "Distinga uma narrativa envolvente da explicação histórica fundamentada.",
+        "paragraphs": [
+          "Histórias tornam pessoas e acontecimentos imagináveis. Com o avanço da aprendizagem, os alunos também precisam de cronologia, contexto, fontes e explicações de mudanças.",
+          "O percurso passa de acompanhar um relato a perguntar como sabemos e qual perspectiva ele representa. Compare fontes, identifique causas e consequências e distinga evidências de interpretações posteriores.",
+          "Narrativas curriculares não devem classificar povos atuais como mais ou menos evoluídos. A investigação histórica reconhece ação humana, conflitos e experiências diversas. A apresentação imaginativa continua responsável por precisão e respeito."
+        ],
+        "example": "Os alunos comparam dois relatos de uma mudança industrial e identificam quais trabalhos, escolhas e consequências cada um enfatiza.",
+        "question": "Por que dois relatos podem divergir sem que um seja inteiramente inventado?",
+        "answer": "Podem usar evidências distintas ou enfocar experiências diferentes. Compare afirmações e apoios antes de decidir onde se complementam, entram em conflito ou deixam questões abertas."
+      }
+    },
+    {
+      "source": "subjects/language.md",
+      "en": {
+        "title": "Language: from speech to interpretation",
+        "goal": "Connect sound, literacy, structure and meaningful expression.",
+        "paragraphs": [
+          "Language learning connects listening and speech with reading and writing. Stories and recitation can support vocabulary, rhythm and comprehension, while explicit letter-sound and writing work develops independent literacy.",
+          "Later tasks make sentence structure, genre and interpretation more conscious. Pupils learn to explain how words and arrangements affect meaning and to revise their own writing for a purpose.",
+          "The pathway needs monitoring of actual reading and expression. Beautiful recitation is not a substitute for decoding or comprehension. Offer timely support and appropriate challenge; linguistic background and learning differences require attention."
+        ],
+        "example": "Pupils retell an event, write it for a reader who was absent and revise a sentence that leaves the sequence unclear.",
+        "question": "What does the revision demonstrate?",
+        "answer": "The writer considers the reader’s information needs and changes language to make meaning clearer. Correct spelling matters, but purposeful organization is another part of literacy."
+      },
+      "pt": {
+        "title": "Linguagem: da fala à interpretação",
+        "goal": "Relacione sons, alfabetização, estrutura e expressão significativa.",
+        "paragraphs": [
+          "A aprendizagem relaciona escuta e fala à leitura e à escrita. Histórias e recitação favorecem vocabulário, ritmo e compreensão; o trabalho explícito com letras, sons e escrita desenvolve alfabetização independente.",
+          "As tarefas posteriores tornam estrutura, gêneros e interpretação mais conscientes. Os alunos explicam como palavras e organização afetam o sentido e revisam textos para uma finalidade.",
+          "O percurso exige acompanhar leitura e expressão reais. Recitar bem não substitui decodificação nem compreensão. Ofereça apoio e desafios adequados, considerando experiências linguísticas e diferenças de aprendizagem."
+        ],
+        "example": "Os alunos recontam um acontecimento, escrevem para alguém ausente e revisam uma frase que torna a sequência confusa.",
+        "question": "O que a revisão demonstra?",
+        "answer": "O autor considera as informações necessárias ao leitor e modifica a linguagem para esclarecer o sentido. Ortografia importa, mas organização intencional também faz parte da alfabetização."
+      }
+    },
+    {
+      "source": "subjects/mathematics.md",
+      "en": {
+        "title": "Mathematics: from quantity to relationship",
+        "goal": "Explain the continuity from concrete examples to symbolic reasoning.",
+        "paragraphs": [
+          "Mathematics begins with relationships among quantities, patterns and operations. Objects, movement and drawings can make them visible; symbols allow the relationship to be expressed efficiently.",
+          "The supplied progression extends through fractions, proportion, geometry and algebraic reasoning. Each step needs connections with earlier meanings. A rule is easier to use thoughtfully when pupils can explain why it applies.",
+          "Fluency and understanding support one another but are different checks. Include estimation, changed examples, explanation of errors and transfer to unfamiliar situations. An attractive diagram or fast answer alone can conceal a misconception."
+        ],
+        "example": "Pupils represent equal fractions, explain equivalence and use it to compare amounts without relying on the same original picture.",
+        "question": "What makes the move to symbols successful?",
+        "answer": "Pupils retain the relationship the symbols express and can connect it to an example, justify a step and use it in a changed situation. Symbol manipulation alone does not establish that understanding."
+      },
+      "pt": {
+        "title": "Matemática: da quantidade à relação",
+        "goal": "Explique a continuidade entre exemplos concretos e raciocínio simbólico.",
+        "paragraphs": [
+          "A matemática trabalha relações entre quantidades, padrões e operações. Objetos, movimento e desenhos as tornam visíveis; símbolos permitem expressá-las com eficiência.",
+          "A progressão fornecida passa por frações, proporção, geometria e raciocínio algébrico. Cada passo precisa se relacionar a significados anteriores. Uma regra é usada com consciência quando o aluno explica por que se aplica.",
+          "Fluência e compreensão se apoiam, mas exigem verificações distintas. Inclua estimativa, novos exemplos, explicação de erros e transferência. Um diagrama bonito ou uma resposta rápida pode ocultar equívocos."
+        ],
+        "example": "Os alunos representam frações, explicam equivalência e comparam quantidades sem depender da imagem inicial.",
+        "question": "O que torna bem-sucedida a passagem aos símbolos?",
+        "answer": "Os alunos preservam a relação expressa, ligam-na a um exemplo, justificam etapas e aplicam-na numa situação modificada. Manipular símbolos, sozinho, não estabelece compreensão."
+      }
+    },
+    {
+      "source": "subjects/music.md",
+      "en": {
+        "title": "Music: listening, structure and expression",
+        "goal": "Explain how musical experience becomes conscious interpretation.",
+        "paragraphs": [
+          "Shared singing and rhythmic activity develop attention to a musical whole. As learning progresses, pupils distinguish parts, patterns, notation and expressive decisions more explicitly.",
+          "Performance, listening and analysis offer complementary routes. A pupil can compare phrases, explain a rhythmic change and consider how a choice of tempo or emphasis affects expression.",
+          "Progress should include meaningful understanding rather than only accuracy or public performance. Provide accessible participation and feedback suited to the pupil’s experience. Music histories should acknowledge varied traditions and contexts."
+        ],
+        "example": "Pupils listen to two performances of one phrase and explain how timing and emphasis alter its effect.",
+        "question": "What evidence supports an interpretation of musical expression?",
+        "answer": "Identify audible features such as rhythm, phrasing or emphasis and connect them to the interpretation. A personal preference is a starting point, but explanation makes the judgment discussable."
+      },
+      "pt": {
+        "title": "Música: escuta, estrutura e expressão",
+        "goal": "Explique como a vivência musical se torna interpretação consciente.",
+        "paragraphs": [
+          "Canto e ritmo compartilhados desenvolvem atenção ao conjunto musical. Depois, os alunos distinguem partes, padrões, notação e decisões expressivas de modo mais explícito.",
+          "Execução, escuta e análise oferecem caminhos complementares. O aluno compara frases, explica mudanças rítmicas e considera efeitos de andamento e ênfase.",
+          "O progresso deve incluir compreensão, além de precisão ou apresentação pública. Ofereça participação acessível e comentários adequados à experiência. Histórias da música precisam reconhecer tradições e contextos variados."
+        ],
+        "example": "Os alunos ouvem duas execuções da mesma frase e explicam como tempo e ênfase alteram o efeito.",
+        "question": "Que evidências apoiam uma interpretação da expressão musical?",
+        "answer": "Identifique características audíveis, como ritmo, fraseado ou ênfase, e relacione-as à interpretação. A preferência pessoal inicia a reflexão; a explicação torna o julgamento discutível."
+      }
+    },
+    {
+      "source": "subjects/natural-science.md",
+      "en": {
+        "title": "Natural science: observation and relationship",
+        "goal": "Connect careful description with explanations of living systems.",
+        "paragraphs": [
+          "The supplied natural-science pathway moves through animals, plants, minerals and wider relationships. Observation should build accurate distinctions before an explanation is proposed.",
+          "Compare structure, function, growth and surroundings using clear criteria. Later models can explain relationships that are not directly visible. Pupils need to know which statements describe observations and which depend on an explanatory model.",
+          "Traditional anthroposophical interpretations and current biological explanations have different sources and evidential roles. Keep them explicit. Use actual observations, suitable references and opportunities to question a proposed relationship."
+        ],
+        "example": "Pupils compare leaves from two settings, record observable differences and discuss what further information would be needed to explain them.",
+        "question": "Why should observation and explanation be recorded separately?",
+        "answer": "An observed feature can fit more than one explanation. Separating them makes assumptions visible and helps identify what evidence is needed to choose among explanations."
+      },
+      "pt": {
+        "title": "Ciências naturais: observação e relações",
+        "goal": "Relacione descrição cuidadosa e explicações dos seres vivos.",
+        "paragraphs": [
+          "O percurso fornecido passa por animais, plantas, minerais e relações mais amplas. A observação deve construir distinções precisas antes da explicação.",
+          "Compare estrutura, função, crescimento e ambiente por critérios claros. Modelos posteriores explicam relações invisíveis diretamente. Os alunos precisam distinguir descrições observadas de afirmações dependentes de modelos.",
+          "Interpretações antroposóficas e explicações biológicas atuais têm fontes e funções diferentes. Explicite isso. Use observações reais, referências adequadas e oportunidades de questionar relações propostas."
+        ],
+        "example": "Os alunos comparam folhas de dois ambientes, registram diferenças visíveis e discutem quais informações faltam para explicá-las.",
+        "question": "Por que registrar observação e explicação separadamente?",
+        "answer": "Uma característica observada pode admitir várias explicações. Separá-las torna pressupostos visíveis e ajuda a identificar evidências para comparar alternativas."
+      }
+    },
+    {
+      "source": "subjects/physics.md",
+      "en": {
+        "title": "Physics: phenomenon, pattern and mechanism",
+        "goal": "Develop an explanation from controlled comparison.",
+        "paragraphs": [
+          "The physics pathway begins with phenomena that can be observed and compared, then develops models and quantitative relationships. Sound, light, heat and movement require different concepts even when their teaching shares a method.",
+          "Describe the phenomenon, identify conditions, compare changes and propose an explanation. Mathematical relationships help make predictions, but pupils should understand what the measured quantities represent.",
+          "A vivid demonstration is not proof of every interpretation attached to it. Consider alternative causes, measurement limits and repeated observations. School demonstrations need appropriate supervision and protocols."
+        ],
+        "example": "Using supplied data, pupils compare travel distance over equal time intervals and explain what changes when the speed is constant or increasing.",
+        "question": "What connects the numerical table with a physical explanation?",
+        "answer": "The quantities refer to a defined observation, and the pattern supports a model of motion. Pupils must connect numbers, conditions and meaning rather than read a table as an isolated exercise."
+      },
+      "pt": {
+        "title": "Física: fenômeno, padrão e mecanismo",
+        "goal": "Desenvolva explicações por comparações controladas.",
+        "paragraphs": [
+          "O percurso da física parte de fenômenos observáveis e comparáveis e desenvolve modelos e relações quantitativas. Som, luz, calor e movimento exigem conceitos distintos, mesmo com métodos semelhantes.",
+          "Descreva o fenômeno, identifique condições, compare mudanças e proponha explicações. Relações matemáticas permitem prever; os alunos precisam compreender o significado das grandezas.",
+          "Uma demonstração marcante não prova todas as interpretações associadas. Considere causas alternativas, limites de medida e repetição. Demonstrações escolares exigem supervisão e protocolos adequados."
+        ],
+        "example": "Com dados fornecidos, os alunos comparam distâncias percorridas em intervalos iguais e explicam diferenças entre velocidade constante e crescente.",
+        "question": "O que relaciona a tabela numérica à explicação física?",
+        "answer": "As grandezas se referem a uma observação definida, e o padrão apoia um modelo de movimento. É preciso relacionar números, condições e significado."
+      }
+    },
+    {
+      "source": "subjects/technology.md",
+      "en": {
+        "title": "Technology: tools, systems and judgment",
+        "goal": "Understand how a tool works and assess the choices around its use.",
+        "paragraphs": [
+          "A technology pathway can connect practical making with an understanding of systems. Pupils ask how a tool transforms an input, what the user controls and which processes remain hidden.",
+          "Digital literacy adds questions about information, algorithms, privacy and communication. Using a device fluently is different from understanding the reliability of its outputs or its social effects.",
+          "Developmental choices about timing should preserve accessibility and lead toward competent, critical use. Compare a tool with alternatives in relation to an actual purpose. A general restriction alone does not teach technological judgment."
+        ],
+        "example": "Pupils compare a hand calculation with a spreadsheet, explain the formula and check whether a changed input produces a reasonable result.",
+        "question": "Why is a spreadsheet answer not automatically trustworthy?",
+        "answer": "The formula, data and assumptions can be wrong. Understanding the process and checking the output lets the user evaluate the result rather than accept the tool’s authority."
+      },
+      "pt": {
+        "title": "Tecnologia: ferramentas, sistemas e julgamento",
+        "goal": "Compreenda o funcionamento e avalie escolhas de uso.",
+        "paragraphs": [
+          "O percurso pode relacionar atividades práticas à compreensão de sistemas. Os alunos perguntam como a ferramenta transforma entradas, o que controlam e quais processos ficam ocultos.",
+          "A educação digital acrescenta informação, algoritmos, privacidade e comunicação. Usar um dispositivo com fluência difere de compreender a confiabilidade dos resultados e seus efeitos sociais.",
+          "Escolhas sobre o momento de introdução devem preservar acessibilidade e desenvolver competência crítica. Compare ferramentas e alternativas para uma finalidade real. Uma restrição geral, sozinha, não ensina julgamento tecnológico."
+        ],
+        "example": "Os alunos comparam um cálculo manual a uma planilha, explicam a fórmula e conferem se uma entrada alterada produz resultado plausível.",
+        "question": "Por que o resultado de uma planilha não é automaticamente confiável?",
+        "answer": "Fórmula, dados e pressupostos podem estar errados. Compreender o processo e conferir a saída permite avaliar o resultado, além de aceitar a autoridade da ferramenta."
+      }
+    },
+    {
+      "source": "parents/advanced-child.md",
+      "en": {
+        "title": "What if my child is academically advanced?",
+        "goal": "Distinguish deeper challenge from simply accelerating every subject.",
+        "paragraphs": [
+          "An academically advanced child may understand one area quickly while having different needs elsewhere. Observe demonstrated understanding, interest and the child’s experience rather than assuming a single level across all development.",
+          "Challenge can involve greater depth, unfamiliar applications, independent inquiry or appropriate acceleration. Repeating mastered work without a learning purpose is not required by a developmental philosophy.",
+          "Discuss specific evidence with the teacher: what the child can explain, what task would extend it and how progress will be checked. Social belonging and academic challenge can be supported together."
+        ],
+        "example": "A pupil who knows a calculation investigates why the rule works, compares two methods and explains where one is more efficient.",
+        "question": "Why might a harder worksheet be an incomplete response?",
+        "answer": "More of the same may add workload without developing understanding. The response should identify the next concept or skill and offer a challenge that genuinely extends it."
+      },
+      "pt": {
+        "title": "E se meu filho estiver academicamente adiantado?",
+        "goal": "Distinga aprofundar desafios de acelerar todas as matérias.",
+        "paragraphs": [
+          "Uma criança pode compreender rapidamente uma área e ter necessidades diferentes em outras. Observe compreensão demonstrada, interesse e experiência, sem presumir um nível único em todo o desenvolvimento.",
+          "O desafio pode envolver aprofundamento, aplicações novas, investigação independente ou aceleração adequada. Repetir conteúdos dominados sem finalidade não é exigência de uma filosofia de desenvolvimento.",
+          "Converse com o professor sobre evidências: o que a criança explica, qual tarefa amplia isso e como verificar o progresso. Pertencimento social e desafio acadêmico podem ser apoiados juntos."
+        ],
+        "example": "Um aluno que domina um cálculo investiga por que a regra funciona, compara métodos e explica quando um é mais eficiente.",
+        "question": "Por que uma folha com exercícios mais difíceis pode ser insuficiente?",
+        "answer": "Mais tarefas semelhantes aumentam a carga sem necessariamente aprofundar a compreensão. A resposta deve identificar o próximo conceito ou habilidade e oferecer um desafio que o desenvolva."
+      }
+    },
+    {
+      "source": "parents/arts.md",
+      "en": {
+        "title": "Why so much art?",
+        "goal": "Identify the learning relationship inside an artistic activity.",
+        "paragraphs": [
+          "Art in Waldorf education is intended to develop perception, expression and purposeful participation, including within academic subjects. Drawing or movement can help pupils encounter a relationship through another medium.",
+          "The educational value lies in the connection to learning. Ask what the pupil notices, understands or can explain afterward. A page can be attractive without demonstrating the intended concept.",
+          "Artistic technique and subject knowledge need distinct criteria. Pupils may require adapted materials or another way to demonstrate understanding; participation should not depend on matching one visual style."
+        ],
+        "example": "A pupil draws fractional divisions and explains how the parts relate to the whole, then solves a changed example.",
+        "question": "What should a parent ask about an art-rich academic task?",
+        "answer": "Ask for its learning goal, the relationship it represents and how understanding is checked. Those questions connect the visible activity with its educational purpose."
+      },
+      "pt": {
+        "title": "Por que tanta arte?",
+        "goal": "Identifique a relação de aprendizagem dentro da atividade artística.",
+        "paragraphs": [
+          "A arte pretende desenvolver percepção, expressão e participação intencional, inclusive nas matérias acadêmicas. Desenho ou movimento oferecem outra maneira de encontrar uma relação.",
+          "O valor pedagógico está na ligação com a aprendizagem. Pergunte o que o aluno percebe, compreende ou explica depois. Uma página pode ser bonita sem demonstrar o conceito.",
+          "Técnica artística e conhecimento da matéria exigem critérios distintos. Podem ser necessários materiais adaptados ou outras formas de demonstração; participar não deve depender de reproduzir um estilo visual."
+        ],
+        "example": "Um aluno desenha divisões fracionárias, explica a relação das partes com o todo e resolve um exemplo modificado.",
+        "question": "O que a família deve perguntar sobre uma tarefa acadêmica com muita arte?",
+        "answer": "Pergunte o objetivo, a relação representada e a forma de verificar compreensão. Isso conecta a atividade visível à sua finalidade pedagógica."
+      }
+    },
+    {
+      "source": "parents/assessment.md",
+      "en": {
+        "title": "What about tests and grades?",
+        "goal": "Ask for specific evidence, clear criteria and a response plan.",
+        "paragraphs": [
+          "Assessment can use observations, conversations, writing, practical tasks and tests. Different methods reveal different aspects of learning; no single format answers every question.",
+          "Narrative feedback should identify concepts and skills, examples of performance and next steps. Numerical grades can summarize results but need explanation of their criteria and context.",
+          "Families should be able to understand progress and access support. Ask how difficulties are identified, how pupils practise corrections and when the next check will show whether help worked. School reporting arrangements vary."
+        ],
+        "example": "A report identifies accurate fraction comparisons but errors in addition, describes the planned practice and sets a follow-up check.",
+        "question": "What makes a report useful beyond praise or a number?",
+        "answer": "It tells you what the pupil understands, what evidence supports the judgment and what happens next. That makes assessment part of teaching rather than only a verdict."
+      },
+      "pt": {
+        "title": "E as provas e notas?",
+        "goal": "Peça evidências específicas, critérios claros e um plano de resposta.",
+        "paragraphs": [
+          "A avaliação pode usar observações, conversas, escrita, tarefas práticas e provas. Métodos diferentes revelam aspectos distintos; nenhum formato responde a tudo.",
+          "Comentários descritivos devem identificar conceitos, habilidades, exemplos de desempenho e próximos passos. Notas resumem resultados, mas exigem explicação dos critérios e do contexto.",
+          "As famílias precisam compreender o progresso e acessar apoio. Pergunte como as dificuldades são identificadas, como se corrigem erros e quando verificar se a ajuda funcionou. Os sistemas de relatório variam."
+        ],
+        "example": "O relatório identifica comparações corretas de frações e erros na adição, descreve a prática planejada e estabelece nova verificação.",
+        "question": "O que torna um relatório útil além de elogios ou números?",
+        "answer": "Ele informa a compreensão, as evidências da avaliação e o próximo passo. Isso integra a avaliação ao ensino, além de emitir um julgamento."
+      }
+    },
+    {
+      "source": "parents/class-teacher.md",
+      "en": {
+        "title": "Why one teacher for several years?",
+        "goal": "Understand continuity together with accountability and expertise.",
+        "paragraphs": [
+          "A continuing class teacher can know pupils over time and connect earlier learning with new tasks. The relationship may support trust, consistent routines and recognition of change.",
+          "Continuity also requires reassessment. A pupil should not remain defined by an old difficulty. Teachers need subject knowledge, colleagues, specialist support and communication with families.",
+          "Ask how concerns are handled, how teaching quality is reviewed and how pupils receive expertise beyond the class teacher. A lasting relationship has educational value when it continues to meet the learner’s needs."
+        ],
+        "example": "A previously hesitant pupil now explains a topic confidently. The teacher revises expectations and provides a more demanding role.",
+        "question": "What should continuity make possible?",
+        "answer": "Better understanding of the pupil’s development and appropriate new support or challenge. It should not prevent fresh assessment or a route for resolving concerns."
+      },
+      "pt": {
+        "title": "Por que um professor durante vários anos?",
+        "goal": "Compreenda a continuidade junto com responsabilidade e conhecimento.",
+        "paragraphs": [
+          "A continuidade permite conhecer os alunos ao longo do tempo e relacionar aprendizagens anteriores a novas tarefas. Pode favorecer confiança, rotina e reconhecimento de mudanças.",
+          "Ela também exige reavaliação. Um aluno não deve permanecer definido por uma dificuldade antiga. Professores precisam de conhecimento das matérias, colegas, especialistas e comunicação com as famílias.",
+          "Pergunte como preocupações são tratadas, como se avalia o ensino e como os alunos recebem conhecimentos além do professor de classe. A relação duradoura tem valor quando atende às necessidades atuais."
+        ],
+        "example": "Um aluno antes hesitante agora explica com confiança. O professor atualiza expectativas e oferece uma função mais desafiadora.",
+        "question": "O que a continuidade deve tornar possível?",
+        "answer": "Compreender melhor o desenvolvimento e oferecer apoio ou desafio adequados. Ela não deve impedir reavaliação nem caminhos para resolver preocupações."
+      }
+    },
+    {
+      "source": "parents/high-school.md",
+      "en": {
+        "title": "Preparation for high school and university",
+        "goal": "Connect educational intentions with actual transition requirements.",
+        "paragraphs": [
+          "Later study requires subject knowledge, literacy, quantitative reasoning, independent organization and the ability to explain a judgment. Projects and discussion can support these capacities when their expectations are explicit.",
+          "Preparation must also address the receiving institution’s curriculum and qualification requirements. A general claim about holistic development does not establish readiness for a particular course or examination.",
+          "Ask the school for its transition plan, subject coverage, assessment evidence and support for unfamiliar formats. The appropriate pathway varies with the country, school and pupil’s aims; avoid universal promises about admission or outcomes."
+        ],
+        "example": "A pupil turns a project into a structured essay, practises an examination question and uses feedback to identify a missing concept.",
+        "question": "What evidence would help assess preparation?",
+        "answer": "Compare demonstrated knowledge and skills with the next institution’s requirements. Include actual work, assessment criteria and a plan for gaps, rather than relying solely on the school’s philosophy."
+      },
+      "pt": {
+        "title": "Preparação para o ensino médio e a universidade",
+        "goal": "Relacione intenções pedagógicas às exigências reais da transição.",
+        "paragraphs": [
+          "Estudos posteriores exigem conhecimentos, linguagem, raciocínio quantitativo, organização e julgamento fundamentado. Projetos e debates favorecem essas capacidades quando as expectativas estão claras.",
+          "A preparação também precisa considerar currículo e certificações da instituição seguinte. Uma afirmação geral sobre formação integral não estabelece prontidão para um curso ou exame específico.",
+          "Peça o plano de transição, a cobertura das matérias, evidências de avaliação e apoio a formatos novos. Os caminhos variam conforme país, escola e objetivos; evite promessas universais de ingresso ou resultados."
+        ],
+        "example": "Um aluno transforma um projeto em texto estruturado, pratica uma questão de exame e usa comentários para identificar um conceito ausente.",
+        "question": "Que evidências ajudam a avaliar a preparação?",
+        "answer": "Compare conhecimentos e habilidades demonstrados às exigências seguintes. Inclua trabalhos, critérios e plano para lacunas, além da filosofia da escola."
+      }
+    },
+    {
+      "source": "parents/home-life.md",
+      "en": {
+        "title": "Home life: a practical parent guide",
+        "goal": "Create supportive routines without reproducing the whole school at home.",
+        "paragraphs": [
+          "A supportive home rhythm makes ordinary needs predictable: rest, meals, movement, conversation and manageable responsibilities. Its purpose is to help the child participate, not create a perfect household schedule.",
+          "Shared practical activities let children see how actions meet needs. Preparing food, caring for plants or planning a small task can connect observation, language, number and cooperation. Choose activities that fit the family’s time, resources and abilities.",
+          "School and home have complementary roles. Listen to the child, agree on realistic expectations and communicate about specific difficulties. Persistent learning problems need a coordinated plan, not simply more repetition or an assumption that the family must teach the entire curriculum."
+        ],
+        "example": "A family prepares a simple meal together: the child measures, follows a sequence and explains one decision. The adult adjusts the task and notices what the child can do independently.",
+        "question": "What makes a home activity supportive rather than another lesson imposed on the child?",
+        "answer": "It has a meaningful shared purpose, manageable responsibility and room for conversation. The adult notices the child’s needs and avoids turning every activity into a test or a substitute for school support."
+      },
+      "pt": {
+        "title": "Vida em casa: orientações práticas para famílias",
+        "goal": "Crie rotinas de apoio sem reproduzir a escola inteira em casa.",
+        "paragraphs": [
+          "Um ritmo doméstico de apoio torna previsíveis descanso, refeições, movimento, conversa e responsabilidades possíveis. Sua finalidade é favorecer a participação, não produzir um horário familiar perfeito.",
+          "Atividades práticas compartilhadas mostram como ações atendem a necessidades. Preparar comida, cuidar de plantas ou planejar uma tarefa relaciona observação, linguagem, números e cooperação. Escolha conforme tempo, recursos e capacidades da família.",
+          "Escola e casa têm funções complementares. Escute a criança, combine expectativas realistas e converse sobre dificuldades específicas. Problemas persistentes exigem um plano conjunto, além de repetir mais ou supor que a família deva ensinar todo o currículo."
+        ],
+        "example": "A família prepara uma refeição simples: a criança mede, acompanha etapas e explica uma decisão. O adulto adapta a tarefa e observa o que ela faz com independência.",
+        "question": "O que torna a atividade um apoio, em vez de outra lição imposta?",
+        "answer": "Uma finalidade compartilhada, responsabilidade possível e espaço para conversa. O adulto observa necessidades e evita transformar tudo em prova ou substituto do apoio escolar."
+      }
+    },
+    {
+      "source": "parents/learning-differences.md",
+      "en": {
+        "title": "ADHD, dyslexia and learning differences",
+        "goal": "Distinguish adapting teaching from explaining away a difficulty.",
+        "paragraphs": [
+          "Pupils may need different routes into a concept or different support in attention, reading, language, movement or organization. A general developmental framework does not diagnose ADHD, dyslexia or other learning differences.",
+          "Describe the difficulty in specific tasks and settings. Adapt instructions, materials, time or response formats while retaining a clear learning objective. Qualified assessment can identify needs that classroom observation alone cannot settle.",
+          "Teachers and families should agree on support, responsibilities and review points. Artistic or rhythmic activities may form part of an accessible lesson, but they are not substitutes for appropriate specialist assessment or targeted assistance."
+        ],
+        "example": "A pupil explains a story accurately aloud but struggles with decoding. The school supports oral expression while arranging explicit reading help and monitoring progress.",
+        "question": "Why is strong oral understanding not a reason to ignore decoding difficulty?",
+        "answer": "They are different skills. The pupil’s strength helps identify what is understood, while the reading difficulty needs its own assessment and targeted support."
+      },
+      "pt": {
+        "title": "TDAH, dislexia e diferenças de aprendizagem",
+        "goal": "Distinga adaptar o ensino de explicar a dificuldade sem enfrentá-la.",
+        "paragraphs": [
+          "Alunos podem precisar de caminhos e apoios diferentes em atenção, leitura, linguagem, movimento ou organização. Um modelo geral de desenvolvimento não diagnostica TDAH, dislexia ou outras diferenças.",
+          "Descreva a dificuldade em tarefas e contextos específicos. Adapte instruções, materiais, tempo ou formas de resposta, mantendo um objetivo claro. A avaliação qualificada identifica necessidades que a observação de sala não resolve sozinha.",
+          "Escola e família devem combinar apoio, responsabilidades e momentos de revisão. Arte e ritmo podem favorecer acessibilidade, mas não substituem avaliação especializada ou ajuda direcionada."
+        ],
+        "example": "Um aluno explica uma história oralmente com precisão, mas tem dificuldade de decodificação. A escola preserva a expressão oral e oferece ensino explícito de leitura, acompanhando resultados.",
+        "question": "Por que compreender bem oralmente não justifica ignorar a dificuldade de leitura?",
+        "answer": "São habilidades diferentes. A força oral mostra o que foi compreendido; a dificuldade de leitura precisa de avaliação e apoio próprios."
+      }
+    },
+    {
+      "source": "parents/reading.md",
+      "en": {
+        "title": "Does Waldorf delay reading?",
+        "goal": "Separate a typical teaching sequence from individual literacy needs.",
+        "paragraphs": [
+          "Some Waldorf sequences introduce formal literacy through oral language, drawing, writing and then reading. The intention is to connect symbols with meaningful experience. Schools differ in timing and implementation.",
+          "An imaginative entry and explicit reading instruction can coexist. Pupils need to understand letter-sound relationships, recognize words and comprehend what they read. Progress must be monitored through actual performance.",
+          "A child already reading needs suitable challenge; a child struggling needs timely support. Neither should be held to a general timetable without considering evidence. Ask what is taught, how understanding is checked and what assistance is available."
+        ],
+        "example": "Pupils meet a sound through a story, practise its written symbol and use it to read unfamiliar words. A pupil who struggles receives targeted help.",
+        "question": "What is the important question beyond the age at which reading lessons start?",
+        "answer": "Whether the child is learning the necessary skills, receiving clear instruction and progressing with appropriate support or challenge. Timing alone does not establish the quality of literacy teaching."
+      },
+      "pt": {
+        "title": "A pedagogia Waldorf adia a leitura?",
+        "goal": "Separe a sequência de ensino das necessidades individuais de alfabetização.",
+        "paragraphs": [
+          "Algumas sequências Waldorf apresentam a alfabetização pela linguagem oral, desenho, escrita e depois leitura. A intenção é relacionar símbolos à experiência significativa. Tempo e realização variam entre escolas.",
+          "Uma entrada imaginativa pode coexistir com instrução explícita. Os alunos precisam compreender relações entre letras e sons, reconhecer palavras e entender textos. Acompanhe o progresso pelo desempenho real.",
+          "Quem já lê precisa de desafios; quem tem dificuldades precisa de apoio oportuno. Nenhum deve ser limitado por um calendário geral sem evidências. Pergunte o que se ensina, como se verifica e qual ajuda existe."
+        ],
+        "example": "Os alunos encontram um som numa história, praticam seu símbolo e leem palavras desconhecidas. Quem tem dificuldade recebe ajuda direcionada.",
+        "question": "Qual pergunta importa além da idade de início da leitura?",
+        "answer": "Se a criança aprende as habilidades necessárias, recebe instrução clara e progride com apoio ou desafio adequados. A idade, sozinha, não estabelece a qualidade do ensino."
+      }
+    },
+    {
+      "source": "parents/religion.md",
+      "en": {
+        "title": "Is Waldorf religious?",
+        "goal": "Distinguish philosophical background, cultural stories and religious practice.",
+        "paragraphs": [
+          "Anthroposophy is a philosophical and spiritual background to Steiner’s educational proposals. That influence differs from a school teaching a religious creed, but individual schools may include festivals, stories or religious arrangements that families need to understand.",
+          "Ask how material is presented: as literature, cultural history, philosophical interpretation or religious observance. Those categories have different purposes and expectations.",
+          "Families should receive clear information about participation, alternatives and treatment of different beliefs. Respectful teaching can examine a story’s meaning without presenting one tradition as the unquestioned truth for every pupil."
+        ],
+        "example": "A class compares versions of a traditional story, identifies their cultural contexts and discusses the meanings expressed. Participation in an act of worship would be a different activity.",
+        "question": "What should parents ask when a festival is included?",
+        "answer": "Ask its purpose, what pupils will do, how beliefs are represented and what participation options exist. The name of the festival alone does not answer those questions."
+      },
+      "pt": {
+        "title": "A educação Waldorf é religiosa?",
+        "goal": "Distinga fundamento filosófico, histórias culturais e prática religiosa.",
+        "paragraphs": [
+          "A antroposofia é um fundamento filosófico e espiritual das propostas de Steiner. Essa influência difere de ensinar uma doutrina religiosa, mas escolas podem incluir festas, histórias ou arranjos religiosos que precisam ser esclarecidos.",
+          "Pergunte como o conteúdo é apresentado: literatura, história cultural, interpretação filosófica ou observância religiosa. Essas categorias têm finalidades e expectativas distintas.",
+          "As famílias precisam de informações sobre participação, alternativas e tratamento de crenças diferentes. É possível examinar o sentido de uma história sem apresentar uma tradição como verdade indiscutível para todos."
+        ],
+        "example": "Uma turma compara versões de uma história tradicional, identifica contextos e discute sentidos. Participar de um ato de culto seria outra atividade.",
+        "question": "O que perguntar quando uma celebração faz parte da escola?",
+        "answer": "Pergunte sua finalidade, as ações dos alunos, a representação das crenças e as opções de participação. O nome da celebração, sozinho, não responde a isso."
+      }
+    },
+    {
+      "source": "parents/science.md",
+      "en": {
+        "title": "Is Waldorf anti-science?",
+        "goal": "Ask how observation, explanation and evidence are taught.",
+        "paragraphs": [
+          "The supplied curriculum includes natural science, physics and chemistry, often starting with careful observation before introducing formal explanations. This is a sequence of teaching, not a reason to omit scientific models or evidence.",
+          "Scientific understanding requires comparing conditions, testing explanations and using accurate subject knowledge. Spiritual interpretations associated with anthroposophy should be identified as such rather than presented as established scientific conclusions.",
+          "Ask for actual work: what pupils observed, which explanation they learned, how it was supported and how questions were handled. A school’s label or an appealing demonstration alone does not establish the quality of its science teaching."
+        ],
+        "example": "Pupils record observations of motion, compare data and explain the model used to make predictions, noting where the model applies.",
+        "question": "What shows that observation has developed into scientific understanding?",
+        "answer": "Pupils connect observations with an evidence-supported explanation, make a reasoned prediction and recognize limits or alternatives. Description alone is an important start but not the whole process."
+      },
+      "pt": {
+        "title": "A educação Waldorf é contrária à ciência?",
+        "goal": "Pergunte como observação, explicação e evidências são ensinadas.",
+        "paragraphs": [
+          "O currículo fornecido inclui ciências naturais, física e química, frequentemente começando pela observação antes das explicações formais. Isso é uma sequência didática, não motivo para omitir modelos ou evidências.",
+          "Compreender ciência exige comparar condições, testar explicações e usar conhecimentos precisos. Interpretações espirituais antroposóficas devem ser identificadas, sem apresentação como conclusões científicas estabelecidas.",
+          "Peça exemplos de trabalho: observação, explicação aprendida, apoio em evidências e tratamento das perguntas. O nome da escola ou uma demonstração atraente não estabelece a qualidade do ensino científico."
+        ],
+        "example": "Os alunos registram movimento, comparam dados e explicam o modelo usado nas previsões, reconhecendo seu alcance.",
+        "question": "O que mostra a passagem da observação à compreensão científica?",
+        "answer": "Relacionar observações a explicações apoiadas em evidências, fazer previsões fundamentadas e reconhecer limites ou alternativas. Descrever é um começo importante, além do qual o processo precisa avançar."
+      }
+    },
+    {
+      "source": "parents/storytelling.md",
+      "en": {
+        "title": "Why so many stories?",
+        "goal": "Connect narrative engagement with language and conceptual learning.",
+        "paragraphs": [
+          "Stories provide a sequence pupils can follow, picture and retell. They can develop vocabulary, attention to motives and relationships and a shared context for later work.",
+          "Their teaching purpose should be explicit. Retelling may check sequence; comparing responses may develop interpretation; connecting an image with a letter may introduce a symbol. These are different learning goals.",
+          "Stories also require cultural context and appropriate discussion. Distinguish imaginative narrative from factual history or scientific explanation. A memorable account should lead to clearer understanding rather than become the answer to every question."
+        ],
+        "example": "After a story about contrasting responses, pupils explain the consequences and write a new ending that follows logically from a changed choice.",
+        "question": "Why is remembering every detail not the only useful check?",
+        "answer": "Understanding also involves relationships, motives and consequences. A changed ending asks pupils to use those relationships rather than merely reproduce the original sequence."
+      },
+      "pt": {
+        "title": "Por que tantas histórias?",
+        "goal": "Relacione o envolvimento narrativo à linguagem e aos conceitos.",
+        "paragraphs": [
+          "Histórias oferecem sequências para acompanhar, imaginar e recontar. Desenvolvem vocabulário, atenção a motivos e relações e um contexto compartilhado.",
+          "A finalidade precisa estar clara. Recontar verifica sequência; comparar respostas desenvolve interpretação; relacionar imagem e letra apresenta um símbolo. São objetivos diferentes.",
+          "As histórias exigem contexto cultural e discussão adequada. Distinga narrativa imaginativa, história factual e explicação científica. Um relato marcante deve levar à compreensão mais clara, além de responder indistintamente a todas as perguntas."
+        ],
+        "example": "Depois de uma história com respostas contrastantes, os alunos explicam consequências e escrevem outro final coerente com uma escolha modificada.",
+        "question": "Por que lembrar todos os detalhes não é a única verificação útil?",
+        "answer": "Compreender envolve relações, motivos e consequências. O novo final exige usar essas relações, além de reproduzir a sequência inicial."
+      }
+    },
+    {
+      "source": "parents/struggling-child.md",
+      "en": {
+        "title": "What if my child is struggling?",
+        "goal": "Turn a general concern into a specific, reviewed support plan.",
+        "paragraphs": [
+          "Start with the actual difficulty: which task, in what setting and with what effect? “Struggling” may involve knowledge, skill, attention, language, wellbeing or an inaccessible task. These need different responses.",
+          "Gather examples and discuss them with the teacher. Agree on a clear learning objective, appropriate adaptations, targeted instruction and who will provide each part. Specialist assessment may be needed when the cause is unclear or difficulties persist.",
+          "Set a review point and identify what improvement would look like. A developmental interpretation can inform questions, but it should not delay help or make the pupil responsible for overcoming an undefined problem alone."
+        ],
+        "example": "A child understands number quantities but repeatedly loses place in a written calculation. The teacher separates conceptual explanation from layout support and checks both.",
+        "question": "Why is “give it more time” an incomplete plan?",
+        "answer": "It does not identify the difficulty, support or evidence of improvement. Time can be part of a plan, but it needs specific actions and a scheduled review."
+      },
+      "pt": {
+        "title": "E se meu filho estiver com dificuldades?",
+        "goal": "Transforme uma preocupação geral num plano específico de apoio.",
+        "paragraphs": [
+          "Comece pela dificuldade real: tarefa, contexto e efeito. Ela pode envolver conhecimento, habilidade, atenção, linguagem, bem-estar ou falta de acessibilidade. As respostas precisam ser diferentes.",
+          "Reúna exemplos e converse com o professor. Combine objetivo, adaptações, ensino direcionado e responsabilidades. A avaliação especializada pode ser necessária quando a causa é incerta ou a dificuldade persiste.",
+          "Defina quando revisar e o que contará como melhora. A interpretação do desenvolvimento pode orientar perguntas, sem adiar ajuda nem responsabilizar o aluno por resolver sozinho um problema indefinido."
+        ],
+        "example": "Uma criança entende quantidades, mas perde a posição num cálculo escrito. O professor distingue compreensão conceitual e apoio à organização e verifica ambas.",
+        "question": "Por que “dar mais tempo” é um plano incompleto?",
+        "answer": "Não identifica dificuldade, apoio nem evidência de melhora. O tempo pode integrar um plano, mas exige ações específicas e revisão marcada."
+      }
+    },
+    {
+      "source": "parents/technology.md",
+      "en": {
+        "title": "Is Waldorf anti-technology?",
+        "goal": "Evaluate a policy through learning purpose, access and preparation.",
+        "paragraphs": [
+          "Waldorf policies often emphasize direct experience and thoughtful timing of digital tools. Schools and families implement this differently; the educational argument needs to be explained in relation to actual tasks.",
+          "Ask what a device enables and what process it replaces. A tool may improve access or communication while also requiring decisions about attention, privacy and reliable information.",
+          "A useful policy prepares pupils for competent use and makes accommodations possible. Home arrangements should consider the family’s circumstances rather than assume that one rule fits every learner and activity."
+        ],
+        "example": "A pupil uses assistive software to access a text while still discussing its meaning and producing an independent response.",
+        "question": "Why is an accessibility tool not equivalent to replacing the learning task?",
+        "answer": "It can remove a barrier to participation while preserving the intended understanding. Evaluate what the pupil is learning and what the tool supplies before deciding whether it helps or conceals the task."
+      },
+      "pt": {
+        "title": "A educação Waldorf é contrária à tecnologia?",
+        "goal": "Avalie políticas por finalidade, acessibilidade e preparação.",
+        "paragraphs": [
+          "As políticas costumam enfatizar experiência direta e escolha cuidadosa do momento de introduzir ferramentas digitais. A realização varia; o argumento pedagógico precisa se relacionar a tarefas concretas.",
+          "Pergunte o que o dispositivo permite e qual processo substitui. Ele pode ampliar acesso ou comunicação e exigir escolhas sobre atenção, privacidade e confiabilidade das informações.",
+          "Uma política útil prepara para uso competente e permite adaptações. A organização doméstica deve considerar as condições familiares, além de presumir uma regra única para todos."
+        ],
+        "example": "Um aluno usa software assistivo para acessar um texto e continua discutindo seu sentido e produzindo uma resposta independente.",
+        "question": "Por que uma ferramenta de acessibilidade não equivale a substituir a tarefa?",
+        "answer": "Ela pode remover uma barreira preservando a compreensão pretendida. Examine o que o aluno aprende e o que a ferramenta fornece para decidir se favorece ou oculta a tarefa."
+      }
+    },
+    {
+      "source": "parents/textbooks.md",
+      "en": {
+        "title": "Why fewer textbooks?",
+        "goal": "Compare the roles of pupil-created records and independent references.",
+        "paragraphs": [
+          "A pupil-created lesson book can require selecting, organizing and explaining ideas. Its value depends on what the pupil understands, not simply on making a neat copy of the teacher’s page.",
+          "Textbooks and reference materials offer another explanation, structured practice and information pupils can check independently. These roles can complement a classroom-created record.",
+          "Ask how accuracy is corrected, how pupils find information and how learners who need accessible formats are supported. A reduced reliance on one textbook should not mean reduced access to dependable explanations or adequate practice."
+        ],
+        "example": "A pupil writes an explanation in a lesson book, checks a diagram against a reference and corrects a label with a reason.",
+        "question": "What is gained by using both kinds of material?",
+        "answer": "Creating a record makes understanding active; consulting a reference supports checking and another perspective. Neither copying a page nor owning a textbook automatically demonstrates learning."
+      },
+      "pt": {
+        "title": "Por que menos livros didáticos?",
+        "goal": "Compare registros dos alunos e referências independentes.",
+        "paragraphs": [
+          "O caderno elaborado pelo aluno pode exigir selecionar, organizar e explicar ideias. Seu valor depende da compreensão, além de copiar com capricho a página do professor.",
+          "Livros didáticos e referências oferecem outras explicações, prática estruturada e informações para conferência independente. Essas funções podem complementar o registro de sala.",
+          "Pergunte como corrigir informações, pesquisar e oferecer formatos acessíveis. Menor dependência de um livro não deve significar menor acesso a explicações confiáveis ou prática suficiente."
+        ],
+        "example": "Um aluno escreve uma explicação no caderno, confere um diagrama numa referência e corrige uma legenda justificadamente.",
+        "question": "O que se ganha ao usar os dois materiais?",
+        "answer": "Construir o registro torna a compreensão ativa; consultar referências permite conferência e outra perspectiva. Copiar páginas ou possuir um livro não demonstra aprendizagem automaticamente."
+      }
+    }
+  ]
+}

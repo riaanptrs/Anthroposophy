@@ -1,0 +1,74 @@
+{
+  "reviewScope": "Exact short excerpts and their surrounding context checked in three identified Archive web witnesses. This does not certify all inherited source attributions or the entire GA 294 course.",
+  "passages": [
+    {
+      "id": "abilities",
+      "lecture": 1,
+      "date": "1919-08-21",
+      "url": "https://rsarchive.org/Lectures/GA294/English/RSPC1937/19190821n01.html",
+      "en": {
+        "quote": "You will have to use them as the means of rightly developing the soul and body forces of the individual.",
+        "context": "Steiner is discussing how subject materials should be used in teaching. “Them” refers to those materials. He places this within his account of soul, body and human abilities.",
+        "meaning": "The educational emphasis is what the learner develops through the material. The lesson’s classroom examples apply this idea; they are original course examples, not examples quoted from this sentence."
+      },
+      "pt": {
+        "quote": "Vocês deverão utilizá-los como meios para desenvolver adequadamente as forças da alma e do corpo do indivíduo.",
+        "context": "Steiner discute o uso dos conteúdos de estudo no ensino. O pronome se refere a esses conteúdos. Ele situa a proposta em sua concepção de alma, corpo e capacidades humanas.",
+        "meaning": "A ênfase pedagógica está no que o aluno desenvolve por meio do conteúdo. Os exemplos de sala de aula aplicam essa ideia e são criações do curso, não exemplos citados nesta frase."
+      },
+      "sourceSha256": "785587717247f2d3294c0cefe12403c34a03222e0c936b13d468785d7b45f8cb",
+      "author": "Rudolf Steiner",
+      "titleEn": "Practical Course for Teachers",
+      "titlePt": "Curso prático para professores",
+      "ga": 294,
+      "editionEn": "Steiner Archive web witness, English translation credited to Harry Collison, RSPC1937 edition route.",
+      "editionPt": "Versão digital do Steiner Archive; tradução inglesa creditada a Harry Collison, edição indicada pela rota RSPC1937. Tradução de estudo em português preparada para este curso."
+    },
+    {
+      "id": "adaptation",
+      "lecture": 4,
+      "date": "1919-08-25",
+      "url": "https://rsarchive.org/Lectures/GA294/English/RSPC1937/19190825n01.html",
+      "en": {
+        "quote": "Of course here I can only give you general suggestions which you will be able to develop further.",
+        "context": "Steiner is introducing suggestions for a first school lesson to teachers facing pupils with different previous experiences.",
+        "meaning": "The passage presents suggestions to be developed by teachers. It supports distinguishing an educational intention from a fixed script. It does not establish the effectiveness of a particular contemporary adaptation."
+      },
+      "pt": {
+        "quote": "É claro que aqui só posso oferecer sugestões gerais, que vocês poderão desenvolver posteriormente.",
+        "context": "Steiner apresenta sugestões para a primeira aula a professores que receberão alunos com experiências anteriores diferentes.",
+        "meaning": "O trecho apresenta sugestões a desenvolver pelos professores. Apoia a distinção entre intenção pedagógica e roteiro fixo. Não estabelece a eficácia de uma adaptação contemporânea específica."
+      },
+      "sourceSha256": "b568ba3e58c4dcfb7a6726c3cfb3a9c9093f5f7b3c2b8cac8032813c84faf90e",
+      "author": "Rudolf Steiner",
+      "titleEn": "Practical Course for Teachers",
+      "titlePt": "Curso prático para professores",
+      "ga": 294,
+      "editionEn": "Steiner Archive web witness, English translation credited to Harry Collison, RSPC1937 edition route.",
+      "editionPt": "Versão digital do Steiner Archive; tradução inglesa creditada a Harry Collison, edição indicada pela rota RSPC1937. Tradução de estudo em português preparada para este curso."
+    },
+    {
+      "id": "transition",
+      "lecture": 9,
+      "date": "1919-08-30",
+      "url": "https://rsarchive.org/Lectures/GA294/English/RSPC1937/19190830n01.html",
+      "en": {
+        "quote": "So we bring our Waldorf pupils up to the required standards of other schools.",
+        "context": "Steiner discusses pupils of different ages, the absence of a Waldorf university and preparation for other institutions.",
+        "meaning": "The passage connects the school’s own approach with external requirements. It supports examining actual transition needs, without promising a particular modern qualification or admission result."
+      },
+      "pt": {
+        "quote": "Assim, levamos nossos alunos Waldorf a alcançar os padrões exigidos pelas outras escolas.",
+        "context": "Steiner discute alunos de idades diferentes, a ausência de uma universidade Waldorf e a preparação para outras instituições.",
+        "meaning": "O trecho relaciona a abordagem da escola às exigências externas. Apoia o exame das necessidades reais da transição, sem prometer uma certificação ou ingresso contemporâneo específico."
+      },
+      "sourceSha256": "6d7efb2132381011f0e5b1e59ebacc84da1d9a24831362156774da64509bf6c9",
+      "author": "Rudolf Steiner",
+      "titleEn": "Practical Course for Teachers",
+      "titlePt": "Curso prático para professores",
+      "ga": 294,
+      "editionEn": "Steiner Archive web witness, English translation credited to Harry Collison, RSPC1937 edition route.",
+      "editionPt": "Versão digital do Steiner Archive; tradução inglesa creditada a Harry Collison, edição indicada pela rota RSPC1937. Tradução de estudo em português preparada para este curso."
+    }
+  ]
+}

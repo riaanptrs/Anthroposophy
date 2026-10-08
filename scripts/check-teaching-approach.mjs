@@ -31,8 +31,8 @@ for(const page of report.pages){
  assert.ok(!html.includes('Read the complete assigned passage before answering.'));
  assert.ok(!html.includes('Read this identified section in the source alongside the explanation below.'));
 }
-const waldorf=json('content/waldorf-teaching-support.json');
-assert.equal(waldorf.lessons.length,6);
-const copies=fs.readdirSync('docs/learn/waldorf/foundations').filter(file=>file.endsWith('.html')).map(file=>fs.readFileSync('docs/learn/waldorf/foundations/'+file,'utf8')).join('');
-for(const lesson of waldorf.lessons){assert.ok(copies.includes(esc(lesson.question)));assert.ok(copies.includes(esc(lesson.answer)));}
-console.log(`Teaching approach passed: ${report.pages.length} pages; 36 bilingual lessons with three concept steps and applied checks; six Waldorf teaching supports.`);
+const waldorf=json('content/waldorf-teaching-course.json');
+assert.equal(waldorf.lessons.length,62);
+const copies=fs.readdirSync('docs/learn/waldorf',{recursive:true}).filter(file=>file.endsWith('.html')).map(file=>fs.readFileSync('docs/learn/waldorf/'+file,'utf8')).join('');
+for(const lesson of waldorf.lessons){assert.ok(copies.includes(esc(lesson.en.question)));assert.ok(copies.includes(esc(lesson.en.answer)));}
+console.log(`Teaching approach passed: ${report.pages.length} retained pages; 36 bilingual Foundations lessons with three concept steps and applied checks; 62 bilingual Waldorf lessons.`);

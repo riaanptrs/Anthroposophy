@@ -4,7 +4,7 @@ import {wholeElement} from './learning-html.mjs';
 // Keep the historical source records, anchors and notebooks intact. The main
 // teaching sequence is self-contained; close reading is a separate optional task.
 export function buildTeachingApproach() {
- const report={approach:'Explain → work through an example → explain and apply → use feedback → optional close reading',sourcePolicy:'Reproduce only previously reviewed excerpts. References without excerpts are optional further reading, never substitute reading activities.',pages:[],unfinishedWaldorf:'Supplied outlines and unverified quotations remain explicitly unfinished; this pass does not turn them into completed lessons.'};
+ const report={approach:'Explain → work through an example → explain and apply → use feedback → optional close reading',sourcePolicy:'Reproduce only previously reviewed excerpts. References without excerpts are optional further reading, never substitute reading activities.',pages:[],waldorfReview:'The dedicated Waldorf teaching builder provides 62 complete bilingual topics and 196 pages. Original supplied records retain their historical draft states and attribution qualifications.'};
  for(const name of fs.readdirSync('docs',{recursive:true}).filter(name=>name.endsWith('.html'))) {
   const file='docs/'+name;
   if(!/(?:\/lessons\/\d+\.html$|^(?:pt\/)?(?:meditation|nutrition)\/\d+\.html$)/.test(name))continue;

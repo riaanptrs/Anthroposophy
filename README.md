@@ -1,35 +1,41 @@
 # Anthroposophy
 
-The Portuguese language review checked coverage across all 1,467 HTML pages and
-reviewed shared copy, source descriptions and selected teaching passages. It
-localized 148 chapter source descriptions, filled metadata gaps in 96 passage
-records, and translated meditation references and course links. New labels live
-in `content/portuguese-source-labels.json`; the historical passage bank remains
-byte-identical. Run `node scripts/check-portuguese.mjs --report` to validate
-language coverage and regenerate `content/portuguese-language-review.json`.
-The review is not a sentence-by-sentence certification of all 613 Portuguese
-pages. All 98 Waldorf pages, 21 Nutrition pages and 122 research notes remain
-English-only; Portuguese entries identify their availability explicitly.
+The Portuguese language review validates document language and coverage across
+1,565 HTML pages, including 711 Portuguese pages. Shared source descriptions,
+meditation references and selected teaching passages were reviewed; historical
+passage-bank bytes remain unchanged. Run
+`node scripts/check-portuguese.mjs --report` to refresh coverage. The review does
+not certify every historical Portuguese sentence. Nutrition’s full lessons and
+122 original research notes remain English-only; their Portuguese entries state
+that availability. The complete Waldorf teaching text is now bilingual.
 
-**Understanding Waldorf Education** is a working parent course at
-`docs/learn/waldorf/index.html`, prominently linked from both Learn hubs (the
-Portuguese hub identifies the course as English). Its 98 pages include
-foundations, development, Grades 1–9 and three dossier reading views per grade,
-13 subject pathways, 14 parent questions, sources, orientation and content status.
-The uploaded `waldorf-course/` Markdown is the educational authority and remains
-unchanged. Six lesson drafts, nine research dossiers, 46 outlines and one
-placeholder retain their distinct visible states; all source verification is
-pending. Recovered `reference/` records and implementation documents remain
-repository trace material rather than additional educational copy.
+**Understanding Waldorf Education** is a parent course at
+`docs/learn/waldorf/index.html` and `docs/pt/learn/waldorf/index.html`, linked from
+both Learn hubs. Its 62 topics cover foundations, development, Grades 1–9,
+13 subject pathways and 14 parent questions. Every topic now includes original
+English/Brazilian Portuguese explanation, a worked example and two questions
+with answer models. Each grade has a curriculum/purpose table and three focused
+views. All 98 routes have language counterparts, including Home Life,
+orientation, source review and coverage pages.
 
-Build with `node scripts/build-all.mjs` or regenerate just this course with
-`node scripts/build-waldorf.mjs`. Run `node scripts/check-waldorf.mjs` and
-`node scripts/review-waldorf-browser.cjs` with `scripts/preview.mjs` running on
-port 4173. The renderer uses a licensed, vendored build-time Markdown parser and
-requires no new package installation. See the
-[implementation and validation record](content/waldorf/implementation-review.md)
-for source fidelity, preservation evidence and unfinished pages. The former
-reading-hub omission of Esoteric Christianity has been corrected.
+Edit `content/waldorf-teaching-course.json` and
+`scripts/build-waldorf-teaching.mjs` for the current teaching. The original
+62 Markdown records in `waldorf-course/` remain byte-identical. English pages
+retain their full earlier public rendering in closed research sections;
+Portuguese pages explicitly link to those English records. Their inherited
+draft states and unresolved attributions describe those original records, not
+the availability of the new lesson prose. Three short GA 294 passages and their
+contexts were checked in identified Archive web witnesses; study translations
+and credits are in `content/waldorf-verified-excerpts.json`. This check does not
+certify every inherited attribution.
+
+Build with `node scripts/build-all.mjs`. Run
+`node scripts/check-waldorf.mjs`, `node scripts/check-waldorf-provenance.mjs`,
+`node scripts/check-waldorf-teaching.mjs` and
+`node scripts/review-waldorf-teaching-browser.cjs`. The browser review serves
+local files through intercepted requests and needs Playwright/Chromium, with no
+preview server. Reading marks retain the existing local-storage namespace and
+work across the two language versions.
 
 **Esoteric Christianity I: Preparing for the Coming of Christ** starts at
 `docs/learn/esoteric-christianity/index.html`, with matching Brazilian Portuguese
@@ -220,10 +226,9 @@ existing explanation, example and application sequence.
 steps and an applied question/model to each of the 36 Foundations lessons.
 The opening lesson teaches Steiner’s life and fields of work. Foodwise places
 relevant ingredient explanations inside lessons. Nutrition activities use the
-provided lesson explanations, with full-book reading optional. Six substantive
-Waldorf foundations drafts gain original explanations, examples and answer
-models from `content/waldorf-teaching-support.json`; the remaining outlines and
-source verification are still unfinished. This revision does not publish full
+provided lesson explanations, with full-book reading optional. The final Waldorf teaching builder now provides all 62 topics in both languages;
+the six earlier supports are retained as historical authoring material. Original
+record attribution checks remain explicitly qualified. This revision does not publish full
 private uploaded books or infer quotations from unchecked text.
 
 Build with `node scripts/build-all.mjs` and run
@@ -234,3 +239,13 @@ Build with `node scripts/build-all.mjs` and run
 visibility, real excerpts, quiz feedback/retry, saved notes after reload and
 answer access without JavaScript. It requires Playwright and Chromium; requests
 are fulfilled from the generated local files, without a preview server.
+
+## Completed Waldorf teaching edition
+
+The full build first prepares the unchanged supplied-record rendering, then
+`scripts/build-waldorf-teaching.mjs` adds the current bilingual course and keeps
+the original English rendering available as optional supporting research.
+`content/waldorf-teaching-manifest.json` lists all 196 routes and records the
+original Markdown fingerprints. Main teaching contains no placeholder or
+authoring instructions. The distinction between original course examples,
+checked quotations and unverified inherited attributions remains explicit.

@@ -1,0 +1,457 @@
+{
+  "status": "complete-course-prose",
+  "lessonCount": 62,
+  "pages": [
+    "learn/waldorf/index.html",
+    "learn/waldorf/foundations/index.html",
+    "learn/waldorf/development/index.html",
+    "learn/waldorf/grades/index.html",
+    "learn/waldorf/subjects/index.html",
+    "learn/waldorf/parents/index.html",
+    "learn/waldorf/foundations/what-is-waldorf.html",
+    "learn/waldorf/foundations/first-waldorf-school.html",
+    "learn/waldorf/foundations/anthroposophy-and-education.html",
+    "learn/waldorf/foundations/whole-human-being.html",
+    "learn/waldorf/foundations/thinking-feeling-willing.html",
+    "learn/waldorf/foundations/seven-year-periods.html",
+    "learn/waldorf/foundations/development-determines-curriculum.html",
+    "learn/waldorf/foundations/imagination-before-abstraction.html",
+    "learn/waldorf/foundations/teaching-through-art.html",
+    "learn/waldorf/foundations/rhythm-repetition-sleep.html",
+    "learn/waldorf/foundations/main-lesson.html",
+    "learn/waldorf/foundations/class-teacher.html",
+    "learn/waldorf/foundations/main-lesson-books.html",
+    "learn/waldorf/foundations/eurythmy.html",
+    "learn/waldorf/foundations/music.html",
+    "learn/waldorf/foundations/handwork.html",
+    "learn/waldorf/foundations/foreign-languages.html",
+    "learn/waldorf/foundations/assessment.html",
+    "learn/waldorf/foundations/technology.html",
+    "learn/waldorf/development/school-readiness.html",
+    "learn/waldorf/development/ages-7-9.html",
+    "learn/waldorf/development/nine-year-change.html",
+    "learn/waldorf/development/ages-9-12.html",
+    "learn/waldorf/development/age-12-causality.html",
+    "learn/waldorf/development/puberty-authority.html",
+    "learn/waldorf/development/adolescence-judgment.html",
+    "learn/waldorf/grades/grade-1/index.html",
+    "learn/waldorf/grades/grade-1/child.html",
+    "learn/waldorf/grades/grade-1/curriculum.html",
+    "learn/waldorf/grades/grade-1/why-now.html",
+    "learn/waldorf/grades/grade-2/index.html",
+    "learn/waldorf/grades/grade-2/child.html",
+    "learn/waldorf/grades/grade-2/curriculum.html",
+    "learn/waldorf/grades/grade-2/why-now.html",
+    "learn/waldorf/grades/grade-3/index.html",
+    "learn/waldorf/grades/grade-3/child.html",
+    "learn/waldorf/grades/grade-3/curriculum.html",
+    "learn/waldorf/grades/grade-3/why-now.html",
+    "learn/waldorf/grades/grade-4/index.html",
+    "learn/waldorf/grades/grade-4/child.html",
+    "learn/waldorf/grades/grade-4/curriculum.html",
+    "learn/waldorf/grades/grade-4/why-now.html",
+    "learn/waldorf/grades/grade-5/index.html",
+    "learn/waldorf/grades/grade-5/child.html",
+    "learn/waldorf/grades/grade-5/curriculum.html",
+    "learn/waldorf/grades/grade-5/why-now.html",
+    "learn/waldorf/grades/grade-6/index.html",
+    "learn/waldorf/grades/grade-6/child.html",
+    "learn/waldorf/grades/grade-6/curriculum.html",
+    "learn/waldorf/grades/grade-6/why-now.html",
+    "learn/waldorf/grades/grade-7/index.html",
+    "learn/waldorf/grades/grade-7/child.html",
+    "learn/waldorf/grades/grade-7/curriculum.html",
+    "learn/waldorf/grades/grade-7/why-now.html",
+    "learn/waldorf/grades/grade-8/index.html",
+    "learn/waldorf/grades/grade-8/child.html",
+    "learn/waldorf/grades/grade-8/curriculum.html",
+    "learn/waldorf/grades/grade-8/why-now.html",
+    "learn/waldorf/grades/grade-9/index.html",
+    "learn/waldorf/grades/grade-9/child.html",
+    "learn/waldorf/grades/grade-9/curriculum.html",
+    "learn/waldorf/grades/grade-9/why-now.html",
+    "learn/waldorf/subjects/arts.html",
+    "learn/waldorf/subjects/chemistry.html",
+    "learn/waldorf/subjects/movement-eurythmy.html",
+    "learn/waldorf/subjects/foreign-languages.html",
+    "learn/waldorf/subjects/geography.html",
+    "learn/waldorf/subjects/handwork.html",
+    "learn/waldorf/subjects/history.html",
+    "learn/waldorf/subjects/language.html",
+    "learn/waldorf/subjects/mathematics.html",
+    "learn/waldorf/subjects/music.html",
+    "learn/waldorf/subjects/natural-science.html",
+    "learn/waldorf/subjects/physics.html",
+    "learn/waldorf/subjects/technology.html",
+    "learn/waldorf/parents/advanced-child.html",
+    "learn/waldorf/parents/arts.html",
+    "learn/waldorf/parents/assessment.html",
+    "learn/waldorf/parents/class-teacher.html",
+    "learn/waldorf/parents/high-school.html",
+    "learn/waldorf/parents/home-life.html",
+    "learn/waldorf/parents/learning-differences.html",
+    "learn/waldorf/parents/reading.html",
+    "learn/waldorf/parents/religion.html",
+    "learn/waldorf/parents/science.html",
+    "learn/waldorf/parents/storytelling.html",
+    "learn/waldorf/parents/struggling-child.html",
+    "learn/waldorf/parents/technology.html",
+    "learn/waldorf/parents/textbooks.html",
+    "learn/waldorf/sources/index.html",
+    "learn/waldorf/orientation.html",
+    "learn/waldorf/status.html",
+    "pt/learn/waldorf/index.html",
+    "pt/learn/waldorf/foundations/index.html",
+    "pt/learn/waldorf/development/index.html",
+    "pt/learn/waldorf/grades/index.html",
+    "pt/learn/waldorf/subjects/index.html",
+    "pt/learn/waldorf/parents/index.html",
+    "pt/learn/waldorf/foundations/what-is-waldorf.html",
+    "pt/learn/waldorf/foundations/first-waldorf-school.html",
+    "pt/learn/waldorf/foundations/anthroposophy-and-education.html",
+    "pt/learn/waldorf/foundations/whole-human-being.html",
+    "pt/learn/waldorf/foundations/thinking-feeling-willing.html",
+    "pt/learn/waldorf/foundations/seven-year-periods.html",
+    "pt/learn/waldorf/foundations/development-determines-curriculum.html",
+    "pt/learn/waldorf/foundations/imagination-before-abstraction.html",
+    "pt/learn/waldorf/foundations/teaching-through-art.html",
+    "pt/learn/waldorf/foundations/rhythm-repetition-sleep.html",
+    "pt/learn/waldorf/foundations/main-lesson.html",
+    "pt/learn/waldorf/foundations/class-teacher.html",
+    "pt/learn/waldorf/foundations/main-lesson-books.html",
+    "pt/learn/waldorf/foundations/eurythmy.html",
+    "pt/learn/waldorf/foundations/music.html",
+    "pt/learn/waldorf/foundations/handwork.html",
+    "pt/learn/waldorf/foundations/foreign-languages.html",
+    "pt/learn/waldorf/foundations/assessment.html",
+    "pt/learn/waldorf/foundations/technology.html",
+    "pt/learn/waldorf/development/school-readiness.html",
+    "pt/learn/waldorf/development/ages-7-9.html",
+    "pt/learn/waldorf/development/nine-year-change.html",
+    "pt/learn/waldorf/development/ages-9-12.html",
+    "pt/learn/waldorf/development/age-12-causality.html",
+    "pt/learn/waldorf/development/puberty-authority.html",
+    "pt/learn/waldorf/development/adolescence-judgment.html",
+    "pt/learn/waldorf/grades/grade-1/index.html",
+    "pt/learn/waldorf/grades/grade-1/child.html",
+    "pt/learn/waldorf/grades/grade-1/curriculum.html",
+    "pt/learn/waldorf/grades/grade-1/why-now.html",
+    "pt/learn/waldorf/grades/grade-2/index.html",
+    "pt/learn/waldorf/grades/grade-2/child.html",
+    "pt/learn/waldorf/grades/grade-2/curriculum.html",
+    "pt/learn/waldorf/grades/grade-2/why-now.html",
+    "pt/learn/waldorf/grades/grade-3/index.html",
+    "pt/learn/waldorf/grades/grade-3/child.html",
+    "pt/learn/waldorf/grades/grade-3/curriculum.html",
+    "pt/learn/waldorf/grades/grade-3/why-now.html",
+    "pt/learn/waldorf/grades/grade-4/index.html",
+    "pt/learn/waldorf/grades/grade-4/child.html",
+    "pt/learn/waldorf/grades/grade-4/curriculum.html",
+    "pt/learn/waldorf/grades/grade-4/why-now.html",
+    "pt/learn/waldorf/grades/grade-5/index.html",
+    "pt/learn/waldorf/grades/grade-5/child.html",
+    "pt/learn/waldorf/grades/grade-5/curriculum.html",
+    "pt/learn/waldorf/grades/grade-5/why-now.html",
+    "pt/learn/waldorf/grades/grade-6/index.html",
+    "pt/learn/waldorf/grades/grade-6/child.html",
+    "pt/learn/waldorf/grades/grade-6/curriculum.html",
+    "pt/learn/waldorf/grades/grade-6/why-now.html",
+    "pt/learn/waldorf/grades/grade-7/index.html",
+    "pt/learn/waldorf/grades/grade-7/child.html",
+    "pt/learn/waldorf/grades/grade-7/curriculum.html",
+    "pt/learn/waldorf/grades/grade-7/why-now.html",
+    "pt/learn/waldorf/grades/grade-8/index.html",
+    "pt/learn/waldorf/grades/grade-8/child.html",
+    "pt/learn/waldorf/grades/grade-8/curriculum.html",
+    "pt/learn/waldorf/grades/grade-8/why-now.html",
+    "pt/learn/waldorf/grades/grade-9/index.html",
+    "pt/learn/waldorf/grades/grade-9/child.html",
+    "pt/learn/waldorf/grades/grade-9/curriculum.html",
+    "pt/learn/waldorf/grades/grade-9/why-now.html",
+    "pt/learn/waldorf/subjects/arts.html",
+    "pt/learn/waldorf/subjects/chemistry.html",
+    "pt/learn/waldorf/subjects/movement-eurythmy.html",
+    "pt/learn/waldorf/subjects/foreign-languages.html",
+    "pt/learn/waldorf/subjects/geography.html",
+    "pt/learn/waldorf/subjects/handwork.html",
+    "pt/learn/waldorf/subjects/history.html",
+    "pt/learn/waldorf/subjects/language.html",
+    "pt/learn/waldorf/subjects/mathematics.html",
+    "pt/learn/waldorf/subjects/music.html",
+    "pt/learn/waldorf/subjects/natural-science.html",
+    "pt/learn/waldorf/subjects/physics.html",
+    "pt/learn/waldorf/subjects/technology.html",
+    "pt/learn/waldorf/parents/advanced-child.html",
+    "pt/learn/waldorf/parents/arts.html",
+    "pt/learn/waldorf/parents/assessment.html",
+    "pt/learn/waldorf/parents/class-teacher.html",
+    "pt/learn/waldorf/parents/high-school.html",
+    "pt/learn/waldorf/parents/home-life.html",
+    "pt/learn/waldorf/parents/learning-differences.html",
+    "pt/learn/waldorf/parents/reading.html",
+    "pt/learn/waldorf/parents/religion.html",
+    "pt/learn/waldorf/parents/science.html",
+    "pt/learn/waldorf/parents/storytelling.html",
+    "pt/learn/waldorf/parents/struggling-child.html",
+    "pt/learn/waldorf/parents/technology.html",
+    "pt/learn/waldorf/parents/textbooks.html",
+    "pt/learn/waldorf/sources/index.html",
+    "pt/learn/waldorf/orientation.html",
+    "pt/learn/waldorf/status.html"
+  ],
+  "verifiedExcerpts": [
+    "abilities",
+    "adaptation",
+    "transition"
+  ],
+  "originalSourceFingerprints": [
+    {
+      "source": "foundations/01-what-is-waldorf.md",
+      "sha256": "3d31ab82ac134c9517107c70513d69de5565cf02b447b0bc48b4d09df6dd8a94"
+    },
+    {
+      "source": "foundations/02-first-waldorf-school.md",
+      "sha256": "3ae763eadcda35e00a58ca139c4cd507393a9a82bfe28df32bee71dc285e71d0"
+    },
+    {
+      "source": "foundations/03-anthroposophy-and-education.md",
+      "sha256": "219e34ae1be351a7ad463d63a3c1303763295937d0574d82d1fea7b097c95836"
+    },
+    {
+      "source": "foundations/04-whole-human-being.md",
+      "sha256": "c8b8179a13df7adc9a9e07b4799b48df53946b8e472196739efa81634dcac732"
+    },
+    {
+      "source": "foundations/05-thinking-feeling-willing.md",
+      "sha256": "56544e73278ad57dac9d7c4968ebc3426efd85762a7e1a8ab9b8873b1d20e2b2"
+    },
+    {
+      "source": "foundations/06-seven-year-periods.md",
+      "sha256": "b772520a1ddc66d425794822c171cd878ce4a740c7ec320a08af64165b9e0964"
+    },
+    {
+      "source": "foundations/07-development-determines-curriculum.md",
+      "sha256": "ee21d91897d29f866496001349db3921b8a713e064651afa787350ae7a531983"
+    },
+    {
+      "source": "foundations/08-imagination-before-abstraction.md",
+      "sha256": "e398512b70598716507d195292a1cddf05c919a28bd7131f3cfad73451b68e02"
+    },
+    {
+      "source": "foundations/09-teaching-through-art.md",
+      "sha256": "ac2f6235c3011932ae7c3ec7a342ab80e833f28e6ace0ec3b8ab5bf26fd54692"
+    },
+    {
+      "source": "foundations/10-rhythm-repetition-sleep.md",
+      "sha256": "680ee5d040caf47b85bac6f5d51ce6d877da92c0d7601cadfc846b83d2bedc14"
+    },
+    {
+      "source": "foundations/11-main-lesson.md",
+      "sha256": "7f15e90e5cff8d6fed350fdfccaf79532dc954606ddb29ee2da7269bc8780f01"
+    },
+    {
+      "source": "foundations/12-class-teacher.md",
+      "sha256": "ba8d4ffbc69b5a5e8dd915e464b8b81d2195d08591d516f350ec2315bb994149"
+    },
+    {
+      "source": "foundations/13-main-lesson-books.md",
+      "sha256": "4569712dec3a92afe5be8a5a2bb784e82ef92fd543ea849efc16abfb3b3885d9"
+    },
+    {
+      "source": "foundations/14-eurythmy.md",
+      "sha256": "802be3617151c69e3243c799c626a4786393554f64e8a412ae31ed13aec42ee1"
+    },
+    {
+      "source": "foundations/15-music-and-singing.md",
+      "sha256": "1bdd8aa55e74bebc5e3558c74759a06478f7648a203529603f3747dc41a8f76c"
+    },
+    {
+      "source": "foundations/16-handwork.md",
+      "sha256": "d6f024e01efc009586a53d7ed1e40f16b18fcb8fb9a1ffb35b4b7d184b365d35"
+    },
+    {
+      "source": "foundations/17-foreign-languages.md",
+      "sha256": "98b28a53a2da209e8e1c0e16300d7fdc0bb72c665d4b6eadc779c354045d30b7"
+    },
+    {
+      "source": "foundations/18-assessment.md",
+      "sha256": "7f1de2e60358d03b1348ab828c55c87cbe75f1effd492153df1d3027ae79a0f4"
+    },
+    {
+      "source": "foundations/19-technology.md",
+      "sha256": "5b85106b7badcf405ec8d63a6725ed1c13ed2ecd65be2a43eefe0fc15d6d829b"
+    },
+    {
+      "source": "development/20-school-readiness.md",
+      "sha256": "d50ef4c01ff461059530f63bccea7f7cd6869ca6437c8abf378a712800e51327"
+    },
+    {
+      "source": "development/21-ages-seven-to-nine.md",
+      "sha256": "f53b043ee05b2ce4fd73b710745d21ff86d8f4752a268c21f8c3cd58b0afd63e"
+    },
+    {
+      "source": "development/22-nine-year-change.md",
+      "sha256": "484595440d53d77f860e91a44240bd1175f616c7c10a4425898767548d9c4c98"
+    },
+    {
+      "source": "development/23-ages-nine-to-twelve.md",
+      "sha256": "4f2b7d813a48ef8d066fe428c0a17d358adb87d209efcb028bfb0c0abb05a587"
+    },
+    {
+      "source": "development/24-threshold-of-causality.md",
+      "sha256": "e9179c3efb6ca4f87a11fc953394cb1711b5bf4c36226e004a90dac024c699e0"
+    },
+    {
+      "source": "development/25-puberty-and-authority.md",
+      "sha256": "37ee31eb25ae2fe424e2b7f55091f470d40c2c0504ec1707a90614ee5ab62965"
+    },
+    {
+      "source": "development/26-adolescence-and-judgment.md",
+      "sha256": "06e1436fe670ee0e169e98a30976edf14587501e95be5fb51380a3a395290c82"
+    },
+    {
+      "source": "grades/grade-01.md",
+      "sha256": "e36b07eb797438334a26ea46a44a1fc752dadcfa53d54b627ad0e6989fa4b33c"
+    },
+    {
+      "source": "grades/grade-02.md",
+      "sha256": "bbdbbad3917b2a60088dfaaf637e037bed2a143d95eef6e92d2a940ae1ad03c3"
+    },
+    {
+      "source": "grades/grade-03.md",
+      "sha256": "1a590ae6c4cd16350b2887619c1cce5666fdc30e3023ee6da0a057ce09915ca4"
+    },
+    {
+      "source": "grades/grade-04.md",
+      "sha256": "ccd246822073a8b891c65338f8f848768ba366efb956a18b266cbeafe05a0e9a"
+    },
+    {
+      "source": "grades/grade-05.md",
+      "sha256": "8da939e847a7739eae60e00daa6cd3a9d572e0611f7658a6560a5796f4d39eec"
+    },
+    {
+      "source": "grades/grade-06.md",
+      "sha256": "e0313131307891b233caff64ed6b4f3aee92617e7c98efc00fa7173688f271a7"
+    },
+    {
+      "source": "grades/grade-07.md",
+      "sha256": "1b4e70e9df0395e2e43907c90915ab8afb26a2ea322f9db79a38927201c3b2cc"
+    },
+    {
+      "source": "grades/grade-08.md",
+      "sha256": "c0f249f47cefc2c76465ade9ff04f20e7d2c3ec033d3a922e46bd90a0fe86c91"
+    },
+    {
+      "source": "grades/grade-09.md",
+      "sha256": "64b70f0b7c6f9c0a797c037e69bd911ad2a83ae625ea59f2494c351809ea0e9e"
+    },
+    {
+      "source": "subjects/arts.md",
+      "sha256": "1391c5387ad6af187578636916d2dd934ec47a4e014e329420d0e7ea2f05eef0"
+    },
+    {
+      "source": "subjects/chemistry.md",
+      "sha256": "24cccf13d9659fa14912c19a3f0bbfe708668a96652bcb0545d2a43f72ab1d95"
+    },
+    {
+      "source": "subjects/eurythmy-and-movement.md",
+      "sha256": "e8d5836a47fd539346fc1d5a0ced1d31f4c32e62f3356bfde48b48b280ff6776"
+    },
+    {
+      "source": "subjects/foreign-languages.md",
+      "sha256": "d4aaff31480b898d80c2d1114f4cc0606ed3b91e6d7eda53a633793e690d8893"
+    },
+    {
+      "source": "subjects/geography.md",
+      "sha256": "c32f2aecfd0e30f53b95f1866a46a9f42cc928a322a71f9f331f27b8135d645f"
+    },
+    {
+      "source": "subjects/handwork.md",
+      "sha256": "762959f34b0ada6a1c7da59d5e6e4cf46352eb8def48f775c4aa1f8764251b1b"
+    },
+    {
+      "source": "subjects/history.md",
+      "sha256": "b188e9275f7e4b1cacf44ff1bef1494a1dd09e98b4358e6cbd26f0029fc90f93"
+    },
+    {
+      "source": "subjects/language.md",
+      "sha256": "e2b4b6563fae7aaa902298826cdc958f562f568a34f71b99ae6a605520cb284b"
+    },
+    {
+      "source": "subjects/mathematics.md",
+      "sha256": "1e2a1d6e4d2e8284e2665232c8eadba231a917a81940b535808ef6765211265f"
+    },
+    {
+      "source": "subjects/music.md",
+      "sha256": "d93a04ca60a85be2cf3bceb0ee2fc9c70a3e68c9fd55f83f7812b5ad306be70a"
+    },
+    {
+      "source": "subjects/natural-science.md",
+      "sha256": "309a6377f935515f7075368d5d7bf301bb3337381f7b28b775b0468308604d66"
+    },
+    {
+      "source": "subjects/physics.md",
+      "sha256": "dffd840d93919f6ddf4f52ef7645a84ad1127a57c365ebff7d0c5ec209d21597"
+    },
+    {
+      "source": "subjects/technology.md",
+      "sha256": "50f1d811e74cc4bd4e4c65c0d0114d5aa9ee9fec6f52d327a4be79873ba8fc31"
+    },
+    {
+      "source": "parents/advanced-child.md",
+      "sha256": "5b65f5bd070dbec3bb7f3a0ed80a7ebe572f78655cd4e909c580cbe23b9243c1"
+    },
+    {
+      "source": "parents/arts.md",
+      "sha256": "aabac2602afc2fc561c532245c20f136ac3c68220a8aab14b0d4687f63ed561b"
+    },
+    {
+      "source": "parents/assessment.md",
+      "sha256": "53193204236c6659135da1f7d99854f07705a7faeca3d4e76316ef3106e8612c"
+    },
+    {
+      "source": "parents/class-teacher.md",
+      "sha256": "0f69d5a601adc63186493caba80b6b7f8d717a506ea0335665547f61c42731ac"
+    },
+    {
+      "source": "parents/high-school.md",
+      "sha256": "8fb306bfbc0138da1b13a7429ae9334c04b54d34774f815ad3dcd594f52aabb0"
+    },
+    {
+      "source": "parents/home-life.md",
+      "sha256": "996352689e2ad2e24b203e3bf3a0c03b48fb64d0cd554b1570de47955d106744"
+    },
+    {
+      "source": "parents/learning-differences.md",
+      "sha256": "4bfa849ed8113ebe35480ae92fb1b355cba70619c2e4eec4e2bab9c7cf04dd3d"
+    },
+    {
+      "source": "parents/reading.md",
+      "sha256": "a496cb52e5eb46fe51fff534039814d32ce5831c82b0a88000db95a42e985062"
+    },
+    {
+      "source": "parents/religion.md",
+      "sha256": "f8136a5fcc7e91d2e9cb525b4ce4ed078bf95c8802b2ea515b054d50002be58c"
+    },
+    {
+      "source": "parents/science.md",
+      "sha256": "024daa12bdc6f83e9ef3b5485026574ae5c3e452aba426bb5dd829cc43314539"
+    },
+    {
+      "source": "parents/storytelling.md",
+      "sha256": "7a23083447de304b89c23c92e2d7aa71f1932e934e8871ba34fb299b7615a8e4"
+    },
+    {
+      "source": "parents/struggling-child.md",
+      "sha256": "c96c26b789c093bc14890ce254f864f88d881af106a7fe1d894d971033cb38bd"
+    },
+    {
+      "source": "parents/technology.md",
+      "sha256": "9ec59f26f618e68892a7811ab0fab3355da7561f83c414a9a710764b152c13ba"
+    },
+    {
+      "source": "parents/textbooks.md",
+      "sha256": "9535570e9b90aa02ad695303a478e6b334d9aee9a489efac4601e7e84cc71f64"
+    }
+  ]
+}

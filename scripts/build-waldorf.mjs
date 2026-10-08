@@ -174,4 +174,5 @@ for(const [source,route,pageTitle] of [['README.md','orientation.html','About th
 const manifest={title,sourceVerification:'pending',pages:waldorfRoutes(items),content:items.map(({raw,body,...rest})=>rest)};
 fs.mkdirSync('content/waldorf',{recursive:true});fs.writeFileSync('content/waldorf/manifest.json',JSON.stringify(manifest,null,2)+'\n');
 for(const ext of ['css','js'])fs.copyFileSync(new URL('./assets/waldorf.'+ext,import.meta.url),'docs/waldorf.'+ext);
-console.log(`Waldorf: ${manifest.pages.length} pages; ${items.length} supplied content files. All source verification pending.`);
+console.log(`Prepared Waldorf source records: ${manifest.pages.length} routes; ${items.length} unchanged files and qualified inherited attributions.`);
+if(process.argv[1]?.endsWith('/build-waldorf.mjs'))await import('./build-waldorf-teaching.mjs');
