@@ -1,8 +1,9 @@
+import {withPortugueseSourceLabels} from './portuguese-source-labels.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {cloudGuide} from '../content/thinking-cloud-guide.mjs';
 
-const passages=JSON.parse(fs.readFileSync(new URL('../content/passage-study.json',import.meta.url),'utf8'));
+const passages=withPortugueseSourceLabels(JSON.parse(fs.readFileSync(new URL('../content/passage-study.json',import.meta.url),'utf8')));
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const n=i=>String(i).padStart(2,'0');
 const courses=[...new Set(passages.map(p=>p.course))];
@@ -57,7 +58,7 @@ for(const p of passages)for(const id of p.ids)for(const lang of ['en','pt']){
   h=h.replace(lead[0],lead[0]+passage+explanation);
   const worked=`<section class="worked-example">${example.replace(/^<div[^>]*>/,'').replace(/<\/div>$/,'').replace(/<h3>[\s\S]*?<\/h3>/,`<h2>${t('See the idea in an example','Veja a ideia num exemplo')}</h2>`)}</section>`;
   let attempt=first.replace(/<span class="study-step">[\s\S]*?<\/span>/,`<span class="study-step">${t('2 · Explain what you read','2 · Explique o que leu')}</span>`)
-   .replace(/<h2 class="study-question">[\s\S]*?<\/h2>/,`<h2 class="study-question">${t('What is the author saying in this passage?','O que o autor está dizendo neste trecho?')}</h2><p>${t('Explain its meaning in your own words, using a phrase from the passage. Then connect it to this lesson’s focus:','Explique o significado com suas palavras, usando uma expressão do trecho. Depois relacione-o ao foco desta lição:')} ${lead[1]}</p>`)
+   .replace(/<h2 class="study-question">[\s\S]*?<\/h2>/,`<h2 class="study-question">${t('Explain and apply the central idea','Explique e aplique a ideia central')}</h2><p>${t('Explain the central idea in your own words. Show how it works in the example, then describe a different situation where the same distinction matters. Use this lesson’s explanation to address its learning goal:','Explique a ideia central com suas palavras. Mostre como ela funciona no exemplo e descreva outra situação em que a mesma distinção seja relevante. Use a explicação da lição para desenvolver seu objetivo de aprendizagem:')} ${lead[1]}</p>`)
    .replace(/<details class="guided-hint">[\s\S]*?<\/details>/,`<details class="guided-hint"><summary>${t('A hint if you need one','Uma pista, se precisar')}</summary><p>${t('Read the passage and its explanation again. Identify what the author connects or distinguishes. Explain that relationship before applying it to your own example.','Releia o trecho e sua explicação. Identifique o que o autor relaciona ou distingue. Explique essa relação antes de aplicá-la a um exemplo próprio.')}</p></details>`);
   const source=element(h,'<section class="study-return">');
   const revisedSource=source.replace(/<p>[\s\S]*?<\/p>/,`<p>${t('Return to the passage at the top. Identify the words that support your explanation and give the source reference. If you have the book, read the surrounding section and add one point that the short excerpt leaves out.','Volte ao trecho inicial. Identifique as palavras que sustentam sua explicação e indique a referência. Se tiver o livro, leia a seção ao redor e acrescente um ponto que o trecho curto não inclui.')}</p>`);
@@ -70,7 +71,7 @@ for(const course of courses)for(const lang of ['en','pt']){
  const pt=lang==='pt',t=(en,br)=>pt?br:en,base=pt?'docs/pt':'docs';
  const file=course==='theosophy'?`${base}/index.html`:`${base}/${course}/index.html`;
  let h=fs.readFileSync(file,'utf8');
- const guide=`<section class="passage-course-guide" id="reading-method"><h2>${t('Read the book with guidance','Leia o livro com orientação')}</h2><p>${t('Every lesson starts with a selected source passage and explains its meaning and place in the chapter. Read the core ideas, then use the example and questions to check your understanding.','Cada lição começa com um trecho selecionado da fonte e explica seu significado e lugar no capítulo. Leia as ideias centrais; depois use o exemplo e as perguntas para conferir a compreensão.')}</p><p>${t('Short excerpts are starting points for close reading. The source credit identifies the edition; the lesson’s reading assignment gives the wider section.','Os trechos curtos iniciam a leitura atenta. O crédito identifica a edição; a leitura indicada na lição apresenta a seção mais ampla.')}</p></section>`;
+ const guide=`<section class="passage-course-guide" id="reading-method"><h2>${t('Read the book with guidance','Leia o livro com orientação')}</h2><p>${t('Each lesson teaches its central ideas, shows an example and offers questions with explanatory feedback. A selected source passage is included for optional closer reading.','Cada lição ensina suas ideias centrais, apresenta um exemplo e oferece perguntas com respostas comentadas. Um trecho selecionado da fonte está incluído para leitura atenta opcional.')}</p><p>${t('Short excerpts are starting points for close reading. The source credit identifies the edition; the lesson’s reading assignment gives the wider section.','Os trechos curtos iniciam a leitura atenta. O crédito identifica a edição; a leitura indicada na lição apresenta a seção mais ampla.')}</p></section>`;
  h=h.replace(/(<p class="lead">[\s\S]*?<\/p>)/,'$1'+guide);
  const css=path.relative(path.dirname(file),'docs/passage-study.css').replaceAll('\\','/');
  h=ensureStylesheet(h,css);

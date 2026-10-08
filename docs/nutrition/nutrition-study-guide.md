@@ -2,7 +2,7 @@
 
 A guided reading of Rudolf Steiner’s twelve-chapter anthology
 
-Read the complete assigned passages in your supplied book. PDF capture numbers refer to the 118 images in the supplied file, not printed book pages.
+Learn from the explanations and selected excerpts below. The complete assigned book sections are optional further reading. PDF capture numbers refer to the 118 images in the supplied file, not printed book pages.
 
 ## Orientation
 
@@ -1097,7 +1097,7 @@ Answer: A. Chapter 4 names opponents of decay processes; chapter 9 names chief f
 
 Answer: C. Ethical aims and vivid analogies do not validate physiological mechanisms. Comprehension, argument analysis and evidence assessment remain distinct.
 
-Prompt: Write 400–600 words answering: What does this book mean by nourishment? Use at least three chapters and four PDF capture references.
+Prompt: Write 400–600 words answering: What does this book mean by nourishment? Use the explanations from at least three lessons and connect their concepts; full-book references are optional.
 
 Model response: A strong response connects bodily support (chapter 1), transformation and formative forces (chapter 2 or 6), particular food effects, and independent activity (chapter 12). It explains the freedom theme using chapter 10, distinguishes editorial framing, and identifies one claim requiring evidence. The aim is a connected argument, not a list of foods.
 

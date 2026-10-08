@@ -114,3 +114,7 @@ buildLinks();
 fs.copyFileSync(new URL('./assets/nutrition.css', import.meta.url), 'docs/nutrition.css');
 const {buildConceptPlatform} = await import('./build-concept-platform.mjs');
 buildConceptPlatform({model:conceptualCourse});
+
+// Apply the common pedagogy after every course has rendered its own content.
+const {buildTeachingApproach}=await import('./build-teaching-approach.mjs');
+buildTeachingApproach();

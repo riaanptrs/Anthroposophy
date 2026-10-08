@@ -50,7 +50,7 @@
       const matches = selected === answer;
       fieldset.dataset.feedback = matches ? 'correct' : 'retry';
       feedback.textContent = matches
-        ? say('That matches the reading. The explanation below shows why.', 'Isso corresponde à leitura. A explicação abaixo mostra por quê.')
+        ? say('That explains the idea correctly. The feedback below shows why.', 'Isso explica a ideia corretamente. O comentário abaixo mostra por quê.')
         : say('Revisit this distinction and try another answer. The explanation below can help.', 'Retome esta distinção e tente outra resposta. A explicação abaixo pode ajudar.');
       if (explanation) explanation.open = true;
       if (retry) retry.hidden = false;

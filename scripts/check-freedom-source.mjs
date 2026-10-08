@@ -1,3 +1,4 @@
+import {withPortugueseSourceLabels} from './portuguese-source-labels.mjs';
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {freedomCore,freedomPractice,freedomConsolidated as lessons,freedomReadingSpans} from '../content/philosophy-of-freedom-consolidated.mjs';
@@ -35,7 +36,7 @@ for(const [suffix,expected] of ledgers){
 }
 assert.deepEqual(reviewed.sort((a,b)=>a-b),Array.from({length:166},(_,i)=>i+1),'Every PDF page needs an individual review record');
 
-const passages=JSON.parse(fs.readFileSync('content/passage-study.json','utf8')).filter(p=>p.course==='philosophy-of-freedom');
+const passages=withPortugueseSourceLabels(JSON.parse(fs.readFileSync('content/passage-study.json','utf8'))).filter(p=>p.course==='philosophy-of-freedom');
 assert.equal(passages.length,16,'Keep one chapter selection per core step with optional reuse');
 assert.deepEqual(passages.flatMap(p=>p.ids).sort((a,b)=>a-b),Array.from({length:22},(_,id)=>id));
 const plain=s=>s.replace(/<[^>]*>/g,'').replace(/&(amp|lt|gt|quot|#39);/g,(_,e)=>({'amp':'&','lt':'<','gt':'>','quot':'"','#39':"'"}[e])).replace(/\s+/g,' ').trim();
@@ -60,7 +61,7 @@ for(const p of passages){
       const excerpt=html.match(/<blockquote class="source-excerpt">([\s\S]*?)<\/blockquote>/);
       assert.ok(excerpt,`${file} missing passage`);
       assert.equal(plain(excerpt[1]),p[lang].quote.replace(/\s+/g,' ').trim());
-      assert.ok(visible.includes(p.locator)&&visible.includes(freedomReadingSpans[lesson.chapter]),`${file} missing current source location`);
+      assert.ok(visible.includes(lang==='pt'?p.locatorPt:p.locator)&&visible.includes(freedomReadingSpans[lesson.chapter]),`${file} missing current source location`);
       for(const text of [...lesson[lang].paragraphs,lesson[lang].activity])assert.ok(visible.includes(withoutMarkup(text)),`${file} lost revised chapter teaching or activity`);
       assert.ok(!/147-page|147 páginas|Basis\s+\d/.test(visible),`${file} retains old main reference`);
       assert.equal((html.match(/<link\b[^>]*href="[^">]*passage-study\.css"[^>]*>/g)||[]).length,1,'Duplicate source stylesheet');

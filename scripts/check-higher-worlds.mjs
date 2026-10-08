@@ -1,3 +1,4 @@
+import {withPortugueseSourceLabels} from './portuguese-source-labels.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
@@ -40,7 +41,7 @@ for(const [suffix,expected] of ledgers){
 }
 assert.deepEqual(reviewed.sort((a,b)=>a-b),Array.from({length:108},(_,i)=>i+1),'Every supplied GA 10 PDF page needs a separate reading record');
 
-const passages=JSON.parse(fs.readFileSync('content/passage-study.json','utf8')).filter(p=>p.course==='higher-worlds');
+const passages=withPortugueseSourceLabels(JSON.parse(fs.readFileSync('content/passage-study.json','utf8'))).filter(p=>p.course==='higher-worlds');
 assert.equal(passages.length,19,'Each lesson needs its own contextualized selection');
 assert.deepEqual(passages.flatMap(p=>p.ids).sort((a,b)=>a-b),ids);
 assert.equal(passages.filter(p=>p.originalLanguage==='en').length,13,'Retain thirteen visually verified supplied-English selections');
@@ -73,7 +74,7 @@ for(const p of passages){
     const excerpt=html.match(/<blockquote class="source-excerpt">([\s\S]*?)<\/blockquote>/);
     assert.ok(excerpt,`${file} missing book passage`);
     assert.equal(plain(excerpt[1]),p[lang].quote.replace(/\s+/g,' ').trim(),`${file} selection differs from reviewed source`);
-    assert.ok(visible.includes(p.locator),`${file} lost source location`);
+    assert.ok(visible.includes(lang==='pt'?p.locatorPt:p.locator),`${file} lost source location`);
     for(const text of [lesson[lang][0],lesson[lang][1],...lesson[lang][2],lesson[lang][5]])assert.ok(visible.includes(text.replace(/\s+/g,' ').trim()),`${file} lost revised lesson content`);
     assert.ok(!/107-page transcription|transcrição de 107 páginas/.test(visible),`${file} retains obsolete main source credit`);
     assert.equal((html.match(/<link\b[^>]*href="[^">]*passage-study\.css"[^>]*>/g)||[]).length,1,`${file} duplicates stylesheet`);

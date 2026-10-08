@@ -1,0 +1,4255 @@
+{
+  "approach": "Explain → work through an example → explain and apply → use feedback → optional close reading",
+  "sourcePolicy": "Reproduce only previously reviewed excerpts. References without excerpts are optional further reading, never substitute reading activities.",
+  "pages": [
+    {
+      "path": "meditation/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "meditation/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "meditation/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "meditation/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "meditation/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "meditation/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "meditation/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "meditation/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "meditation/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/00.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/13.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/14.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/15.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/16.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "nutrition/17.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "according-to-luke/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/13.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/14.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/15.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/16.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "agriculture/lessons/17.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "ancient-myths/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "ancient-myths/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "ancient-myths/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "ancient-myths/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "ancient-myths/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "ancient-myths/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "ancient-myths/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "ancient-myths/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/13.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/14.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/15.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/16.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/17.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/18.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/19.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/20.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/21.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/22.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/23.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "biodynamics/lessons/24.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "colour/lessons/13.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/13.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/14.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/15.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "encountering-the-self/lessons/16.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/13.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/14.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/15.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/16.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/17.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/18.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/19.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/20.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/21.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/22.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/23.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/24.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/25.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/26.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/27.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/28.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/29.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/30.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/31.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/32.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/33.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/34.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/35.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/36.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/37.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/38.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "foodwise/lessons/39.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/13.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/14.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/15.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/16.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/17.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "higher-worlds/lessons/18.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/13.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/14.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/15.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/16.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/17.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/18.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/19.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/20.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/21.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/22.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/23.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/24.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/25.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/26.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/27.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "introduction-to-anthroposophy/lessons/28.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "learn/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "learn/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "learn/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "learn/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "learn/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "learn/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/13.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/14.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/15.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/16.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/17.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/18.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/19.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/20.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/21.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "learn/lessons/22.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/23.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "learn/lessons/24.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/25.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "learn/lessons/26.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/27.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/28.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/29.html",
+      "language": "en",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "learn/lessons/30.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/31.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/32.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/33.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/34.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/35.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "learn/lessons/36.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/13.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "mystery-temperaments/lessons/14.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/13.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/14.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/15.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/16.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/17.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/18.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/19.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/20.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "philosophy-of-freedom/lessons/21.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "practical-thinking/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/14.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/15.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/16.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/17.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/18.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/19.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/20.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/21.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/22.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/23.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/24.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/25.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/26.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/lessons/27.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/meditation/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/meditation/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/meditation/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/meditation/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/meditation/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/meditation/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/meditation/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/meditation/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/meditation/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "temperaments/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "temperaments/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "temperaments/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "temperaments/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "temperaments/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "temperaments/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "temperaments/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "temperaments/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "temperaments/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "temperaments/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "temperaments/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "toward-threefold-society/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "toward-threefold-society/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "toward-threefold-society/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "toward-threefold-society/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "toward-threefold-society/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "toward-threefold-society/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "toward-threefold-society/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understand-temperament/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "understanding-temperaments/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/00.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/01.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/02.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/03.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/04.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/05.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/06.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/07.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/08.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/09.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/10.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/11.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/12.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "what-is-biodynamics/lessons/13.html",
+      "language": "en",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/according-to-luke/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/14.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/15.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/16.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/agriculture/lessons/17.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/ancient-myths/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/ancient-myths/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/ancient-myths/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/ancient-myths/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/ancient-myths/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/ancient-myths/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/ancient-myths/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/ancient-myths/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/14.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/15.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/16.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/17.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/18.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/19.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/20.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/21.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/22.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/23.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/biodynamics/lessons/24.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/colour/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/14.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/15.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/encountering-the-self/lessons/16.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/14.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/15.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/16.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/17.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/18.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/19.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/20.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/21.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/22.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/23.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/24.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/25.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/26.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/27.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/28.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/29.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/30.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/31.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/32.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/33.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/34.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/35.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/36.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/37.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/38.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/foodwise/lessons/39.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/14.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/15.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/16.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/17.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/higher-worlds/lessons/18.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/14.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/15.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/16.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/17.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/18.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/19.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/20.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/21.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/22.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/23.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/24.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/25.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/26.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/27.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/introduction-to-anthroposophy/lessons/28.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/learn/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/learn/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/learn/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/learn/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/learn/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/learn/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/14.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/15.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/16.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/17.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/18.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/19.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/20.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/21.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/learn/lessons/22.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/23.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/learn/lessons/24.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/25.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/learn/lessons/26.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/27.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/28.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/29.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 0,
+      "referenceOnlySections": 1
+    },
+    {
+      "path": "pt/learn/lessons/30.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/31.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/32.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/33.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/34.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/35.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/learn/lessons/36.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/mystery-temperaments/lessons/14.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/14.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/15.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/16.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/17.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/18.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/19.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/20.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/philosophy-of-freedom/lessons/21.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/practical-thinking/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/temperaments/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/temperaments/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/temperaments/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/temperaments/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/temperaments/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/temperaments/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/temperaments/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/temperaments/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/temperaments/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/temperaments/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/temperaments/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/toward-threefold-society/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/toward-threefold-society/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/toward-threefold-society/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/toward-threefold-society/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/toward-threefold-society/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/toward-threefold-society/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/toward-threefold-society/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understand-temperament/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/understanding-temperaments/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/00.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/01.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/02.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/03.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/04.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/05.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/06.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/07.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/08.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/09.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/10.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/11.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/12.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    },
+    {
+      "path": "pt/what-is-biodynamics/lessons/13.html",
+      "language": "pt-BR",
+      "includedExcerptSections": 1,
+      "referenceOnlySections": 0
+    }
+  ],
+  "unfinishedWaldorf": "Supplied outlines and unverified quotations remain explicitly unfinished; this pass does not turn them into completed lessons."
+}

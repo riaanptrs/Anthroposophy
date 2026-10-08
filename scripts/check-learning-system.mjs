@@ -1,3 +1,4 @@
+import {withPortugueseSourceLabels} from './portuguese-source-labels.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
@@ -7,7 +8,7 @@ import {temperamentComparativeChecks} from '../content/temperament-comparison-pr
 import {platformNav,platformSupportNav,platformArea,platformSite} from './platform-architecture.mjs';
 import {isConceptPlatformOwned} from './concept-platform-owned.mjs';
 const json=name=>JSON.parse(fs.readFileSync('content/'+name,'utf8'));
-const catalogue=json('learning-system-catalogue.json'),sources=json('learning-system-sources.json'),passages=json('passage-study.json');
+const catalogue=json('learning-system-catalogue.json'),sources=json('learning-system-sources.json'),passages=withPortugueseSourceLabels(json('passage-study.json'));
 const biodynamics=json('what-is-biodynamics.json'),biodynamicsPassages=json('what-is-biodynamics-passages.json');
 const agriculture=json('agriculture.json'),agriculturePassages=json('agriculture-passages.json');
 const threefold=json('toward-threefold-society.json'),threefoldPassages=json('toward-threefold-society-passages.json');

@@ -1,0 +1,53 @@
+{
+  "provenance": "Original course explanations, examples and understanding checks based on the six supplied foundation drafts; not quotations or independent primary-source verification.",
+  "lessons": [
+    {
+      "source": "foundations/01-what-is-waldorf.md",
+      "concept": "Development guides the choice of teaching method",
+      "explanation": "The central Waldorf question is how a child can encounter an idea at a particular stage of development. A lesson therefore connects its content with an experience: listening, moving, making, imagining, observing or reasoning. This is more specific than adding an art activity to an otherwise unchanged lesson. The teacher needs to explain what the experience helps the child understand. The approach also links intellectual learning with emotional engagement and purposeful action. These are educational intentions; a convincing account of them still needs attention to what individual children actually learn.",
+      "example": "When teaching a number relationship, a teacher might begin with arranging objects, ask pupils to describe the pattern and then write a numerical statement. The activity leads toward understanding; the movement alone is not the whole lesson.",
+      "question": "What would make an artistic or practical activity part of teaching a concept?",
+      "answer": "The teacher connects the experience to a specific idea, helps pupils describe the relationship and checks whether they can use it in a different example. An enjoyable activity without that connection does not demonstrate conceptual understanding."
+    },
+    {
+      "source": "foundations/02-first-waldorf-school.md",
+      "concept": "A historical school became a wider educational movement",
+      "explanation": "The first Waldorf school opened in Stuttgart in 1919, following Emil Molt’s initiative in connection with the Waldorf-Astoria factory. Rudolf Steiner helped shape its educational direction and prepare its teachers. The historical setting matters because this was an attempt to organize a school around a view of human development, not simply to publish educational principles. School organization, teacher preparation and classroom methods became connected practical questions. Later Waldorf practice developed beyond that first school, so a present-day school custom should not automatically be described as something Steiner personally prescribed.",
+      "example": "A school might use a contemporary digital reporting system while retaining a developmental approach to its curriculum. The reporting tool and the founding educational ideas have different histories.",
+      "question": "Why distinguish the first school from later Waldorf practice?",
+      "answer": "The first school explains the movement’s origin and central intentions. Later teachers and schools adapt practices in different circumstances. Identifying the origin of a practice helps us understand it without treating every later custom as a founding instruction."
+    },
+    {
+      "source": "foundations/03-anthroposophy-and-education.md",
+      "concept": "A teacher’s framework and a pupil’s lesson have different roles",
+      "explanation": "Anthroposophy supplies the understanding of human development that informed Steiner’s educational proposals. In a classroom, that background becomes decisions about experience, rhythm, subject matter and relationships. Explaining this influence is different from making pupils learn anthroposophical doctrines as established facts. To understand the educational approach, ask what view of the child guides a decision, how that decision changes teaching and how the teacher notices its effects. This three-step relationship makes the pedagogy easier to examine than a general statement that the school is spiritual.",
+      "example": "A teacher can explain why storytelling precedes a formal definition by discussing attention, imagination and the movement from experience to concept. The classroom task itself is to understand the story or concept.",
+      "question": "How does an underlying philosophy become a teaching decision?",
+      "answer": "A view of development suggests a learning need; the teacher chooses an experience to address it and observes whether it supports learning. The pupil does not have to recite that philosophy to carry out the lesson."
+    },
+    {
+      "source": "foundations/04-whole-human-being.md",
+      "concept": "Bodily activity, inner experience and understanding are related",
+      "explanation": "In this framework, body, soul and spirit describe different aspects of human life. Bodily activity concerns the physical conditions and actions of learning. Soul concerns feelings, interests and the experience of what is encountered. Spirit concerns understanding and the meaningful direction a person can give to activity. These distinctions help a teacher ask more than whether a pupil remembers information. They do not require dividing a lesson into three disconnected subjects. A coherent experience can involve all three aspects, while the teacher still needs to attend to a pupil’s individual strengths and difficulties.",
+      "example": "In drawing a plant, a pupil coordinates hand and eye, notices its form with interest and compares parts to understand its organization. The three aspects describe related features of one learning experience.",
+      "question": "Why is remembering a plant’s name an incomplete account of this lesson?",
+      "answer": "The lesson also develops careful observation, purposeful action and understanding of relationships. Naming remains useful, but it does not show whether the pupil can observe or explain the plant’s organization."
+    },
+    {
+      "source": "foundations/05-thinking-feeling-willing.md",
+      "concept": "Understanding, engagement and action support one another",
+      "explanation": "Thinking concerns forming concepts and seeing relationships. Feeling concerns how an experience matters to the learner: interest, sympathy, enjoyment, frustration or concern. Willing concerns entering purposeful action and sustaining it. These are aspects of activity, not fixed types of children. A teacher can ask whether an explanation is clear, whether pupils have a reason to engage with it and whether they can act on their understanding. Giving equal clock time to three categories is not the point. The task is to connect them so that understanding can guide action and experience can enrich understanding.",
+      "example": "A pupil making a woven pattern must understand the sequence, care about its emerging form and repeat the action with attention. If the pattern fails, identifying the error can connect practical effort with a clearer concept.",
+      "question": "Why does repeated handwork not automatically show understanding?",
+      "answer": "A pupil may imitate a sequence without recognizing its pattern. Asking the pupil to explain, predict or change that pattern checks the thinking involved, while the work itself provides experience and practice."
+    },
+    {
+      "source": "foundations/06-seven-year-periods.md",
+      "concept": "A developmental map guides observation; it does not replace it",
+      "explanation": "The Waldorf framework describes broad phases of approximately birth to seven, seven to fourteen and fourteen to twenty-one. It associates these with shifts in the way teaching engages the learner: imitation and activity, imaginative experience with a trusted teacher, and growing independent judgment. The sequence explains why the same subject may be taught through different methods at different ages. Approximate periods do not establish an exact timetable for each child. Applying the framework therefore requires observing a learner’s readiness, understanding and circumstances rather than assigning a method solely from a birthday.",
+      "example": "Two pupils of the same age may differ in reading fluency and confidence. A teacher can retain a shared imaginative context while providing different levels of support and checking each pupil’s progress.",
+      "question": "How can a teacher use the age framework responsibly?",
+      "answer": "Use it to form questions about readiness and teaching method, then observe the individual pupil and adjust support. The framework offers an interpretation of development; it does not justify withholding help or assuming that every child follows an identical schedule."
+    }
+  ]
+}

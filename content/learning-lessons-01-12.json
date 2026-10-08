@@ -2,90 +2,92 @@
   {
     "id": 1,
     "en": {
-      "intro": "We begin by identifying the author whose ideas organize this pathway. Rudolf Steiner (1861–1925) wrote philosophical works, spiritual books and lectures; his educational and artistic proposals also inspired practical movements.",
+      "intro": "Rudolf Steiner (1861–1925) was an Austrian philosopher, lecturer and educator who developed anthroposophy. His work connects questions about knowledge and freedom with a spiritual understanding of human life, and with practical work in education and the arts.",
       "meaning": [
-        "His writings ask different questions. The Philosophy of Freedom investigates knowing and free action through a philosophical argument. Theosophy presents an account of the human being, destiny, spiritual worlds and a path of knowledge. Reading them together requires noticing both their connections and their different purposes.",
-        "Steiner presents his later descriptions of spiritual beings and processes as results of supersensible investigation. That is a claim made by the author. Understanding what he means comes before examining his reasons; neither his influence nor admiration for his life settles the truth of the claim.",
-        "The site also includes other voices. Translators choose terminology; editors introduce editions; Koepke and Childs develop their own teaching accounts. A passage written by one of them should not become a quotation attributed to Steiner merely because it appears in an anthroposophical book.",
-        "Koepke reproduces an autobiographical account in which Steiner remembers finding happiness in geometry. Steiner distinguishes the childhood feeling from a formulation reached much later. Koepke then interprets a life motif. The recollection, the later interpretation and an independently documented biography are different kinds of evidence."
+        "Steiner grew up in a family connected with the railway. Machines, the natural landscape and geometry interested him from childhood. He later studied scientific subjects in Vienna and read philosophy. These interests help explain a question that runs through his work: how can we understand both the world around us and our own activity of thinking?",
+        "An important early occupation was editing Goethe’s scientific writings. Goethe studied living forms through their development: a plant changes from leaf to flower and fruit while remaining one living organism. Steiner’s work with these writings encouraged him to explore how thinking can follow a changing living process, as well as describe an isolated object.",
+        "His philosophical book The Philosophy of Freedom examines knowledge and free action. It asks what thinking contributes to understanding and how a person can act from a moral idea they have understood individually. In Theosophy, Steiner develops a spiritual account of body, soul and spirit, reincarnation, karma and the path of knowledge. These are two important parts of his work that this site teaches in separate courses.",
+        "Anthroposophy became the name of his broader spiritual work. Alongside books and lectures, Steiner worked with colleagues on education, drama, architecture and eurythmy. In 1919, he helped establish the first Waldorf school in Stuttgart. His agricultural lectures of 1924 later became a foundation for biodynamic agriculture. These activities show how he sought to bring his ideas into everyday human work.",
+        "The useful picture to retain is a thinker, teacher and initiator of practical work. His life connects scientific and philosophical interests, spiritual teaching, artistic activity and education. The courses will develop these subjects one at a time, explaining the ideas and giving you examples through which to understand them."
       ],
-      "keyConcept": "An author’s life, an autobiographical testimony and the argument of a book are connected sources of understanding, with different evidential roles.",
-      "example": "Imagine reading an admired musician’s childhood memory. It may illuminate a later interest without proving that every statement in the musician’s books is correct. This course example illustrates the distinction, not Steiner’s biography.",
-      "distinction": "This pathway is not a complete chronological biography. It uses the locally reviewed books and clearly identifies historical context, author testimony and course explanation.",
-      "connection": "Knowing whose voice we are reading prepares the next question: what does Steiner’s anthroposophy propose to understand?",
+      "keyConcept": "Rudolf Steiner developed anthroposophy and worked across philosophy, spiritual teaching, education and the arts.",
+      "example": "One question is how a person comes to understand an idea; another is how a teacher can help a child understand it. Steiner’s philosophical work and educational work address these related questions in different settings. Studying him therefore means learning both his ideas and the activities they inspired.",
+      "distinction": "Anthroposophy is the broader spiritual conception. Waldorf education is one educational movement connected with it. Knowing this relationship helps you place the different courses on the site.",
+      "connection": "We have identified Steiner and the main areas of his work. Next, we will explain what anthroposophy means and how its ideas fit together.",
       "checks": [
         {
           "type": "choice",
-          "question": "Which comparison preserves the different purposes of the two books?",
+          "question": "Which description best introduces Rudolf Steiner?",
           "options": [
-            "The Philosophy of Freedom studies knowing and free action; Theosophy develops a spiritual account of humanity and its worlds.",
-            "Both books are complete chronological biographies.",
-            "Every claim in Theosophy is already a conclusion of The Philosophy of Freedom."
+            "An Austrian philosopher, lecturer and educator who developed anthroposophy.",
+            "A writer whose only subject was farming.",
+            "The translator of all the books on this site."
           ],
           "answer": 0,
-          "explanation": "The books have related questions, but their arguments and the kinds of claims they present are not identical."
+          "explanation": "Steiner’s work includes philosophy, spiritual teaching, education and the arts. Agriculture was one later field of activity."
         },
         {
           "type": "true-false",
-          "question": "Koepke’s interpretation of Steiner’s childhood needs to be distinguished from Steiner’s autobiographical testimony.",
+          "question": "Waldorf education is one practical movement connected with Steiner’s broader anthroposophical work.",
           "options": [
             "True",
             "False"
           ],
           "answer": 0,
-          "explanation": "The commentary and the quoted testimony have different voices. Keeping them distinct preserves their different evidential roles."
+          "explanation": "The first Waldorf school was established in Stuttgart in 1919 with Steiner’s educational work. Anthroposophy also addresses other subjects."
         },
         {
           "type": "reflection",
-          "question": "Name one kind of information you would seek before writing a complete biography of Steiner.",
-          "explanation": "An independently documented date, event or historical setting would help. Explain why a remembered scene alone would not supply a complete chronology."
+          "question": "Explain how philosophy and education can share a question while remaining different fields.",
+          "explanation": "Both can ask how understanding develops. Philosophy examines thinking and knowledge; education considers how teaching can help a particular learner understand. Each field develops that shared question in its own setting."
         }
       ],
-      "coverageNote": "These readings provide bibliographic and autobiographical fragments, not a complete independently checked chronology. A recalled episode can illuminate a life without proving its spiritual claims.",
-      "sourceSection": "Rudolf Steiner, Theosophy, prefaces and Introduction, Monges/Church English edition, 1971; The Philosophy of Freedom, author’s prefaces, Wilson English edition, 2012. Compare Steiner’s autobiography as quoted and interpreted in Hermann Koepke’s Encountering the Self, The Ninth Year in Biography, PDF captures 38–39."
+      "coverageNote": "Historical orientation draws on the reviewed autobiographical context used in Introduction to Anthroposophy, Lesson 2, and the school and Agriculture course records. The book links offer further study; this lesson is an introduction to Steiner’s work.",
+      "sourceSection": "Rudolf Steiner, The Story of My Life (GA 28), biographical context reviewed for Introduction to Anthroposophy, Lesson 2; The Philosophy of Freedom and Theosophy, introductory material; Understanding Waldorf Education, the first Waldorf school; Agriculture Course (GA 327), Koberwitz, June 1924."
     },
     "pt": {
-      "intro": "Começamos identificando o autor cujas ideias organizam este percurso. Rudolf Steiner (1861–1925) escreveu obras filosóficas, livros espirituais e palestras; suas propostas educativas e artísticas também inspiraram movimentos práticos.",
+      "intro": "Rudolf Steiner (1861–1925) foi um filósofo, conferencista e educador austríaco que desenvolveu a antroposofia. Sua obra relaciona questões sobre conhecimento e liberdade a uma compreensão espiritual da vida humana e ao trabalho prático na educação e nas artes.",
       "meaning": [
-        "Seus escritos fazem perguntas diferentes. A filosofia da liberdade investiga o conhecer e a ação livre por um argumento filosófico. Teosofia apresenta uma explicação do ser humano, do destino, dos mundos espirituais e de um caminho de conhecimento. Ler os dois livros em conjunto exige perceber suas relações e seus diferentes propósitos.",
-        "Steiner apresenta suas descrições posteriores de seres e processos espirituais como resultados de investigação suprassensível. Essa é uma afirmação do autor. Compreender o que ele quer dizer vem antes de examinar suas razões; nem sua influência nem a admiração por sua vida resolvem a verdade dessa afirmação.",
-        "O site também inclui outras vozes. Tradutores escolhem termos; editores apresentam edições; Koepke e Childs desenvolvem suas próprias explicações educativas. Um trecho escrito por um deles não deve se tornar uma citação atribuída a Steiner apenas porque aparece num livro antroposófico.",
-        "Koepke reproduz um relato autobiográfico no qual Steiner recorda ter encontrado felicidade na geometria. Steiner distingue o sentimento infantil de uma formulação alcançada muito depois. Koepke então interpreta um motivo de vida. A lembrança, a interpretação posterior e uma biografia documentada de modo independente são tipos diferentes de evidência."
+        "Steiner cresceu em uma família ligada à ferrovia. Desde a infância, interessava-se pelas máquinas, pela paisagem natural e pela geometria. Mais tarde, estudou disciplinas científicas em Viena e leu filosofia. Esses interesses ajudam a compreender uma pergunta recorrente em sua obra: como podemos entender tanto o mundo ao redor quanto nossa própria atividade de pensar?",
+        "Um trabalho importante no início de sua trajetória foi editar os escritos científicos de Goethe. Goethe estudava as formas vivas em seu desenvolvimento: uma planta passa das folhas às flores e aos frutos, permanecendo um único organismo vivo. Esse trabalho levou Steiner a investigar como o pensar pode acompanhar um processo vivo em transformação, além de descrever um objeto isolado.",
+        "Seu livro filosófico A Filosofia da Liberdade examina o conhecimento e a ação livre. Pergunta o que o pensar acrescenta à compreensão e como uma pessoa pode agir a partir de uma ideia moral compreendida individualmente. Em Teosofia, Steiner desenvolve uma concepção espiritual de corpo, alma e espírito, reencarnação, carma e caminho do conhecimento. São duas partes importantes de sua obra, ensinadas em cursos distintos neste site.",
+        "Antroposofia tornou-se o nome de seu trabalho espiritual mais amplo. Além dos livros e das palestras, Steiner trabalhou com colaboradores na educação, no teatro, na arquitetura e na euritmia. Em 1919, ajudou a estabelecer a primeira escola Waldorf em Stuttgart. Suas palestras agrícolas de 1924 tornaram-se posteriormente uma base da agricultura biodinâmica. Essas atividades mostram sua intenção de levar as ideias ao trabalho humano cotidiano.",
+        "A imagem principal a guardar é a de um pensador, professor e iniciador de atividades práticas. Sua trajetória relaciona interesses científicos e filosóficos, ensino espiritual, atividade artística e educação. Os cursos desenvolverão esses assuntos um de cada vez, explicando as ideias e oferecendo exemplos que ajudem a compreendê-las."
       ],
-      "keyConcept": "A vida de um autor, seu testemunho autobiográfico e o argumento de um livro são fontes relacionadas de compreensão, com diferentes funções como evidência.",
-      "example": "Imagine ler uma lembrança infantil de um músico admirado. Ela pode esclarecer um interesse posterior sem provar que toda afirmação em seus livros esteja correta. Este exemplo do curso ilustra a distinção, não a biografia de Steiner.",
-      "distinction": "Este percurso não é uma biografia cronológica completa. Utiliza os livros revistos localmente e identifica contexto histórico, testemunho do autor e explicação do curso.",
-      "connection": "Saber de quem é a voz que lemos prepara a próxima pergunta: o que a antroposofia de Steiner pretende compreender?",
+      "keyConcept": "Rudolf Steiner desenvolveu a antroposofia e atuou na filosofia, no ensino espiritual, na educação e nas artes.",
+      "example": "Uma pergunta é como uma pessoa chega a compreender uma ideia; outra é como um professor pode ajudar uma criança a compreendê-la. O trabalho filosófico e o trabalho educativo de Steiner abordam essas perguntas relacionadas em contextos diferentes. Estudá-lo envolve conhecer suas ideias e as atividades que elas inspiraram.",
+      "distinction": "A antroposofia é a concepção espiritual mais ampla. A educação Waldorf é um movimento educativo relacionado a ela. Entender essa relação ajuda a situar os diferentes cursos do site.",
+      "connection": "Conhecemos Steiner e as principais áreas de sua atuação. A seguir, explicaremos o que significa antroposofia e como suas ideias se relacionam.",
       "checks": [
         {
           "type": "choice",
-          "question": "Que comparação preserva os diferentes propósitos dos dois livros?",
+          "question": "Que descrição apresenta melhor Rudolf Steiner?",
           "options": [
-            "A filosofia da liberdade estuda conhecer e agir livremente; Teosofia desenvolve uma explicação espiritual da humanidade e de seus mundos.",
-            "Os dois livros são biografias cronológicas completas.",
-            "Toda afirmação de Teosofia já é uma conclusão de A filosofia da liberdade."
+            "Um filósofo, conferencista e educador austríaco que desenvolveu a antroposofia.",
+            "Um escritor cujo único assunto era a agricultura.",
+            "O tradutor de todos os livros deste site."
           ],
           "answer": 0,
-          "explanation": "Os livros têm perguntas relacionadas, mas seus argumentos e os tipos de afirmações apresentados não são idênticos."
+          "explanation": "A atuação de Steiner inclui filosofia, ensino espiritual, educação e artes. A agricultura foi um de seus campos posteriores de atividade."
         },
         {
           "type": "true-false",
-          "question": "A interpretação de Koepke da infância de Steiner precisa ser distinguida do testemunho autobiográfico de Steiner.",
+          "question": "A educação Waldorf é um movimento prático relacionado ao trabalho antroposófico mais amplo de Steiner.",
           "options": [
             "Verdadeiro",
             "Falso"
           ],
           "answer": 0,
-          "explanation": "O comentário e o testemunho citado têm vozes diferentes. Distingui-los preserva suas diferentes funções como evidência."
+          "explanation": "A primeira escola Waldorf foi estabelecida em Stuttgart em 1919 com o trabalho educativo de Steiner. A antroposofia também aborda outros assuntos."
         },
         {
           "type": "reflection",
-          "question": "Nomeie um tipo de informação que procuraria antes de escrever uma biografia completa de Steiner.",
-          "explanation": "Uma data, acontecimento ou contexto histórico documentado de forma independente ajudaria. Explique por que uma cena lembrada não forneceria, sozinha, uma cronologia completa."
+          "question": "Explique como filosofia e educação podem compartilhar uma pergunta e continuar sendo campos diferentes.",
+          "explanation": "Ambas podem perguntar como a compreensão se desenvolve. A filosofia examina o pensar e o conhecimento; a educação considera como o ensino pode ajudar um estudante a compreender. Cada campo desenvolve essa pergunta em seu próprio contexto."
         }
       ],
-      "coverageNote": "Estas leituras oferecem fragmentos bibliográficos e autobiográficos, não uma cronologia completa conferida de modo independente. Um episódio lembrado esclarece uma vida sem comprovar suas afirmações espirituais.",
-      "sourceSection": "Rudolf Steiner, Teosofia, prefácios e Introdução, edição inglesa Monges/Church, 1971; A filosofia da liberdade, prefácios do autor, edição inglesa Wilson, 2012. Compare a autobiografia de Steiner citada e interpretada em Encountering the Self, de Hermann Koepke, O nono ano na biografia, capturas 38–39 do PDF."
+      "coverageNote": "A orientação histórica utiliza o contexto autobiográfico revisto na Lição 2 de Introdução à Antroposofia e os registros sobre a primeira escola e o Curso de Agricultura. Os links oferecem aprofundamento; esta lição apresenta o trabalho de Steiner.",
+      "sourceSection": "Rudolf Steiner, The Story of My Life (GA 28), contexto biográfico revisto na Lição 2 de Introdução à Antroposofia; A Filosofia da Liberdade e Teosofia, material introdutório; Compreendendo a educação Waldorf, a primeira escola Waldorf; Curso de Agricultura (GA 327), Koberwitz, junho de 1924."
     }
   },
   {
@@ -126,8 +128,8 @@
         },
         {
           "type": "reflection",
-          "question": "Choose an application and formulate a question about the human being that might underlie it.",
-          "explanation": "Explain the connection as a question to investigate. A plausible connection is a starting point, rather than proof of the application or its premises."
+          "question": "Why does observing one painting lesson give only a partial introduction to anthroposophy?",
+          "explanation": "It shows an educational application. The wider conception also addresses human constitution, knowledge, destiny and spiritual life. To connect the lesson with anthroposophy, explain the idea about development that informs it."
         }
       ],
       "coverageNote": "The introduction supports a faithful paraphrase, not a newly invented definition quotation. The later lectures develop their own context and must keep their separate attribution.",
@@ -169,8 +171,8 @@
         },
         {
           "type": "reflection",
-          "question": "Escolha uma aplicação e formule uma pergunta sobre o ser humano que possa estar por trás dela.",
-          "explanation": "Explique a relação como pergunta a investigar. Uma ligação plausível é um começo, não prova da aplicação nem de suas premissas."
+          "question": "Por que observar uma aula de pintura oferece apenas uma introdução parcial à antroposofia?",
+          "explanation": "A aula mostra uma aplicação educativa. A concepção mais ampla também aborda constituição humana, conhecimento, destino e vida espiritual. Para relacionar a aula à antroposofia, explique a ideia sobre desenvolvimento que a orienta."
         }
       ],
       "coverageNote": "A introdução sustenta uma paráfrase fiel, não uma citação de definição inventada. As palestras posteriores desenvolvem seu próprio contexto e precisam manter sua atribuição separada.",
@@ -215,8 +217,8 @@
         },
         {
           "type": "reflection",
-          "question": "State one question you would ask about the support for a supersensible claim.",
-          "explanation": "Distinguish the proposed method from evidence of its results. Ask how a finding could be distinguished from a self-produced interpretation without pretending the issue is already settled."
+          "question": "A learner has an intense feeling during an exercise. What further questions belong to the proposed method?",
+          "explanation": "Ask what was experienced, which capacities were deliberately used, and how the interpretation was reached. The method concerns disciplined knowing; intensity by itself describes the strength of an experience."
         }
       ],
       "coverageNote": "The course reconstructs the proposed method and its forms of support. A definition or ordinary example does not independently establish spiritual perception; the author’s testing qualification remains part of the account.",
@@ -258,8 +260,8 @@
         },
         {
           "type": "reflection",
-          "question": "Formule uma pergunta sobre o apoio dado a uma afirmação suprassensível.",
-          "explanation": "Distinga o método proposto da evidência de seus resultados. Pergunte como uma descoberta poderia diferir de uma interpretação produzida pelo próprio investigador, sem fingir que a questão já foi resolvida."
+          "question": "Um estudante sente algo intenso durante um exercício. Que outras perguntas fazem parte do método proposto?",
+          "explanation": "Pergunte o que foi vivenciado, quais capacidades foram usadas deliberadamente e como se chegou à interpretação. O método trata de conhecimento disciplinado; a intensidade descreve apenas a força da experiência."
         }
       ],
       "coverageNote": "O curso reconstrói o método proposto e suas formas de apoio. Uma definição ou exemplo comum não estabelece de modo independente a percepção espiritual; a ressalva do autor sobre testes permanece na concepção.",
@@ -304,8 +306,8 @@
         },
         {
           "type": "reflection",
-          "question": "Give one sentence explaining both the use and the limit of the musical-listener example.",
-          "explanation": "Explain how learning changes attention, then state why that ordinary change does not prove perception of a spiritual world."
+          "question": "Why would completing an attention exercise not yet show that a spiritual organ has developed?",
+          "explanation": "Completion describes the activity performed. Development concerns a changed capacity, and spiritual perception concerns what that capacity is claimed to disclose. These are connected steps that still need to be distinguished."
         }
       ],
       "coverageNote": "The eye-and-ear comparison explains a proposed capacity. It is not proof of supersensible organs or a promise of attainment; the fuller training account belongs to How to Know Higher Worlds."
@@ -346,8 +348,8 @@
         },
         {
           "type": "reflection",
-          "question": "Explique numa frase o uso e o limite do exemplo da escuta musical.",
-          "explanation": "Explique como o aprendizado modifica a atenção e por que essa mudança comum não comprova a percepção de um mundo espiritual."
+          "question": "Por que concluir um exercício de atenção ainda não mostraria que um órgão espiritual se desenvolveu?",
+          "explanation": "A conclusão descreve a atividade realizada. O desenvolvimento trata de uma capacidade transformada, e a percepção espiritual trata do que essa capacidade revelaria. São passos relacionados que precisam ser distinguidos."
         }
       ],
       "coverageNote": "A comparação com olho e ouvido explica uma capacidade proposta. Não comprova órgãos suprassensíveis nem promete uma realização; a preparação mais ampla pertence a Como conhecer os mundos superiores."
@@ -391,8 +393,8 @@
         },
         {
           "type": "reflection",
-          "question": "Describe one encounter through bodily contact, personal experience and a relationship you seek to understand.",
-          "explanation": "Keep an unanswered question as a question. An example illustrates the three directions without establishing the full spiritual account."
+          "question": "Describe seeing a flower through body, soul and spirit.",
+          "explanation": "Body: eyes receive its visible appearance. Soul: the sight awakens feeling and can be remembered. Spirit: the person seeks to understand the plant and its relationships. These are different aspects of one experience."
         }
       ],
       "coverageNote": "The opening distinction uses ordinary experience as an entry point. Steiner’s complete spiritual account goes further, and its different classifications require their own explanations."
@@ -433,8 +435,8 @@
         },
         {
           "type": "reflection",
-          "question": "Descreva um encontro pelo contato corporal, pela experiência pessoal e por uma relação que procura compreender.",
-          "explanation": "Mantenha uma pergunta sem resposta como pergunta. O exemplo ilustra as três direções sem estabelecer a explicação espiritual completa."
+          "question": "Descreva ver uma flor por meio de corpo, alma e espírito.",
+          "explanation": "Corpo: os olhos recebem sua aparência visível. Alma: a visão desperta um sentimento e pode ser lembrada. Espírito: a pessoa procura compreender a planta e suas relações. São aspectos diferentes de uma mesma experiência."
         }
       ],
       "coverageNote": "A distinção inicial usa a experiência comum como ponto de entrada. A concepção espiritual completa de Steiner vai além disso, e suas diferentes classificações exigem explicações próprias."
@@ -478,8 +480,8 @@
         },
         {
           "type": "reflection",
-          "question": "Choose an ordinary object you handle and distinguish a material description from your experience of it.",
-          "explanation": "Name one structure or physical process and one inward response. Their difference helps explain the terminology without requiring a claim of spiritual perception."
+          "question": "Why do a living plant and its material ingredients raise different questions?",
+          "explanation": "Listing ingredients describes composition. Understanding the living plant also involves its growth, changing form and continued organisation. This second question motivates the distinction developed next."
         }
       ],
       "coverageNote": "The identified section supports this technical meaning. The parallel constitution reference has its own chapter and paragraph locators, which do not supply pagination for Theosophy.",
@@ -521,8 +523,8 @@
         },
         {
           "type": "reflection",
-          "question": "Escolha um objeto comum que você manuseia e distinga sua descrição material de sua experiência dele.",
-          "explanation": "Nomeie uma estrutura ou processo físico e uma resposta interior. A diferença esclarece o vocabulário sem exigir uma afirmação de percepção espiritual."
+          "question": "Por que uma planta viva e seus componentes materiais suscitam perguntas diferentes?",
+          "explanation": "Listar os componentes descreve a composição. Compreender a planta viva também envolve seu crescimento, a transformação de sua forma e sua organização contínua. Essa segunda pergunta motiva a próxima distinção."
         }
       ],
       "coverageNote": "A seção indicada sustenta esse significado técnico. A referência paralela sobre constituição tem suas próprias indicações de capítulo e parágrafo, que não fornecem a paginação de Teosofia.",
@@ -567,8 +569,8 @@
         },
         {
           "type": "reflection",
-          "question": "Explain why a record of plant growth is not yet a report of seeing an etheric body.",
-          "explanation": "Distinguish the observable living development from Steiner’s supersensible explanation of it. You can understand the proposal without claiming the further perception."
+          "question": "Which distinction is needed when moving from plant growth to an animal’s pleasure?",
+          "explanation": "Growth concerns living organisation. Pleasure concerns inward sentient experience. In the course’s vocabulary, the first is associated with the life body and the second introduces the astral or sentient member."
         }
       ],
       "coverageNote": "The selected sentence gives a relationship of dependence, not the entire definition. The surrounding chapter develops formative life and sentience; observing a plant does not prove the supersensible explanation."
@@ -609,8 +611,8 @@
         },
         {
           "type": "reflection",
-          "question": "Explique por que registrar o crescimento de uma planta ainda não é um relato de ver seu corpo etérico.",
-          "explanation": "Distinga o desenvolvimento vivo observável da explicação suprassensível de Steiner. É possível compreender a proposta sem alegar essa percepção adicional."
+          "question": "Que distinção é necessária ao passar do crescimento de uma planta ao prazer de um animal?",
+          "explanation": "O crescimento trata da organização viva. O prazer trata da experiência sensível interior. No vocabulário do curso, o primeiro se relaciona ao corpo vital e o segundo introduz o membro astral ou sensível."
         }
       ],
       "coverageNote": "A frase selecionada apresenta uma relação de dependência, não a definição inteira. O capítulo ao redor desenvolve vida formativa e senciência; observar uma planta não comprova a explicação suprassensível."
@@ -654,8 +656,8 @@
         },
         {
           "type": "reflection",
-          "question": "Use one sound to distinguish a physical event from its inward experience.",
-          "explanation": "Describe the sound and a possible lived response without inferring that the illustration has proved the astral member."
+          "question": "A person wants a sweet but decides to wait. What two aspects should your explanation distinguish?",
+          "explanation": "The attraction illustrates desire and sentient experience. Recognising the desire and deliberately relating to it introduces the I. The example helps separate the experiences without dividing the person into separate beings."
         }
       ],
       "coverageNote": "The final grouping supplies the astral name through two united terms. Hearing illustrates inward experience without establishing a supersensible member or its appearance.",
@@ -697,8 +699,8 @@
         },
         {
           "type": "reflection",
-          "question": "Use um som para distinguir acontecimento físico e experiência interior.",
-          "explanation": "Descreva o som e uma possível resposta vivida sem concluir que a ilustração comprovou o membro astral."
+          "question": "Uma pessoa deseja um doce, mas decide esperar. Que dois aspectos sua explicação deve distinguir?",
+          "explanation": "A atração exemplifica desejo e experiência sensível. Reconhecer o desejo e relacionar-se deliberadamente com ele introduz o eu. O exemplo distingue essas experiências sem dividir a pessoa em seres separados."
         }
       ],
       "coverageNote": "O agrupamento final fornece o nome astral pela união de dois termos. Ouvir ilustra experiência interior sem estabelecer um membro suprassensível nem sua aparência.",
@@ -743,8 +745,8 @@
         },
         {
           "type": "reflection",
-          "question": "Describe a possible shift from experiencing an impulse to examining your response.",
-          "explanation": "Name what changes in the person’s relation to the impulse. Keep the example distinct from a claim that the spiritual I has been independently perceived."
+          "question": "How does recognising a habit differ from merely repeating it?",
+          "explanation": "Recognition makes the habit an object of attention. The person can examine its meaning and choose a response. This illustrates the relationship between experience and an individuality that can work with it."
         }
       ],
       "coverageNote": "The excerpt concerns spirit self within the I. Read it with the surrounding distinctions of I and consciousness soul; an ordinary deliberate response does not detect spiritual individuality."
@@ -785,8 +787,8 @@
         },
         {
           "type": "reflection",
-          "question": "Descreva uma possível passagem de vivenciar um impulso a examinar sua resposta.",
-          "explanation": "Nomeie o que muda na relação da pessoa com o impulso. Distinga o exemplo de uma afirmação de que o Eu espiritual foi percebido de modo independente."
+          "question": "Como reconhecer um hábito difere de simplesmente repeti-lo?",
+          "explanation": "O reconhecimento torna o hábito objeto de atenção. A pessoa pode examinar seu significado e escolher uma resposta. Isso exemplifica a relação entre experiência e uma individualidade capaz de trabalhar com ela."
         }
       ],
       "coverageNote": "O trecho trata do si-mesmo espiritual no Eu. Leia-o com as distinções ao redor sobre Eu e alma da consciência; uma resposta deliberada comum não detecta a individualidade espiritual."
@@ -830,8 +832,8 @@
         },
         {
           "type": "reflection",
-          "question": "Describe one act of understanding and distinguish it from merely repeating its result.",
-          "explanation": "Give the connection you reconstruct, then the finished statement you could remember. This illustrates the reading distinction without proving every claim about intuitive thinking."
+          "question": "Explain thinking, feeling and willing in preparing a gift for a friend.",
+          "explanation": "Thinking considers what would suit the friend; feeling gives the relationship personal warmth; willing directs preparation and giving. A thoughtful deed brings these activities together."
         }
       ],
       "coverageNote": "This passage belongs to the philosophical argument about intuitive thinking. It does not establish the later stage of supersensible Intuition or the training account of separated soul activities."
@@ -872,8 +874,8 @@
         },
         {
           "type": "reflection",
-          "question": "Descreva um ato de compreensão e o distinga de apenas repetir seu resultado.",
-          "explanation": "Apresente a ligação reconstruída e depois a formulação pronta que poderia lembrar. Isso ilustra a distinção de leitura sem provar toda afirmação sobre pensar intuitivo."
+          "question": "Explique pensar, sentir e querer ao preparar um presente para um amigo.",
+          "explanation": "O pensar considera o que seria adequado ao amigo; o sentir dá calor pessoal à relação; o querer dirige a preparação e a entrega. Uma ação ponderada reúne essas atividades."
         }
       ],
       "coverageNote": "O trecho pertence ao argumento filosófico sobre pensar intuitivo. Não estabelece a etapa posterior de Intuição suprassensível nem a preparação que trata da separação das atividades anímicas."
@@ -917,8 +919,8 @@
         },
         {
           "type": "reflection",
-          "question": "Explain one transformation arrow and distinguish it from joining two cards.",
-          "explanation": "Name the I’s proposed spiritual work in the transformation. Joining cards represents grouping; it does not demonstrate the reality or process of spiritual transformation."
+          "question": "Why is “seven means nine minus two” an inadequate explanation here?",
+          "explanation": "Grouping joins distinctions that remain meaningful within the account. Subtraction suggests they have disappeared. The transformation-based sevenfold sequence also begins from a different question and cannot be explained by subtraction."
         }
       ],
       "coverageNote": "The short unity statement explains one grouping. The complete lists and transformation discussion are needed to distinguish the two sevenfold accounts; diagrams remain reading aids."
@@ -959,8 +961,8 @@
         },
         {
           "type": "reflection",
-          "question": "Explique uma seta de transformação e a distinga de reunir dois cartões.",
-          "explanation": "Nomeie o trabalho espiritual proposto do Eu nessa transformação. Reunir cartões representa agrupamento; não demonstra a realidade nem o processo da transformação espiritual."
+          "question": "Por que “sete significa nove menos dois” é uma explicação inadequada aqui?",
+          "explanation": "O agrupamento reúne distinções que continuam tendo significado na concepção. Subtrair sugere que elas desapareceram. A sequência em sete partes baseada na transformação também parte de outra pergunta e não se explica por subtração."
         }
       ],
       "coverageNote": "A breve afirmação de unidade explica um agrupamento. As listas completas e a discussão da transformação são necessárias para distinguir as duas descrições de sete; diagramas permanecem auxílios de leitura."
@@ -1004,8 +1006,8 @@
         },
         {
           "type": "reflection",
-          "question": "Explain the favourite-mug analogy and name where it stops.",
-          "explanation": "Identify the missing means and lingering urge, then state that this living experience does not establish an after-death experience. No personal bereavement disclosure is needed."
+          "question": "In the account studied here, why does losing a bodily means of satisfaction not simply define every desire as gone?",
+          "explanation": "Desire and its bodily means are distinguished. The account describes a process in which the soul’s relationship to bodily enjoyment changes after physical embodiment ends."
         }
       ],
       "coverageNote": "This is Steiner’s supersensible account of death. The food example clarifies a relationship, not the experience of a particular deceased person; purification, karma and spiritual assimilation have different roles."
@@ -1046,8 +1048,8 @@
         },
         {
           "type": "reflection",
-          "question": "Explique a analogia da caneca favorita e indique seu limite.",
-          "explanation": "Identifique o meio ausente e o impulso que permanece; declare que essa experiência em vida não estabelece uma experiência após a morte. Não é necessário relatar um luto pessoal."
+          "question": "Na concepção estudada aqui, por que perder um meio corporal de satisfação não significa simplesmente que todo desejo desapareceu?",
+          "explanation": "O desejo e seu meio corporal são distinguidos. A concepção descreve um processo no qual a relação da alma com o prazer corporal se transforma após o fim da encarnação física."
         }
       ],
       "coverageNote": "Esta é a concepção suprassensível de Steiner sobre a morte. O exemplo da alimentação esclarece uma relação, não a experiência de uma pessoa falecida específica; purificação, carma e assimilação espiritual têm funções diferentes."

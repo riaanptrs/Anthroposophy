@@ -27,6 +27,7 @@ for(const route of manifest.pages) {
  assert.equal((html.match(/<h1\b/g)||[]).length,1,route+' has one h1');
  const title=html.match(/<title>(.*?)<\/title>/)[1];assert.ok(!titles.has(title),'Unique title '+route);titles.add(title);
  assert.ok(html.includes('data-waldorf-owned="true"'),route+' owner');
+ assert.ok(!html.includes('wf-status-compact'),route+' no draft banner');
  assert.ok(!html.includes('data-concept-platform-owned="true"'),route+' independent course ownership');
  assert.ok(html.includes('name="viewport"'),route+' viewport');
  assert.ok(html.includes('aria-label="Breadcrumb"'),route+' breadcrumbs');
@@ -48,7 +49,7 @@ for(const item of items) {
  assert.ok(!/Source trace:|Established course copy|Completion work still required|Original content-reference index|assistant message|[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}/i.test(presentation.reading+'\n'+presentation.editorial),item.source+' public copy excludes package traces');
  const html=fs.readFileSync('docs/'+item.route,'utf8');
  assert.ok(html.includes(`data-content-state="${item.state}"`),item.source+' original state');
- assert.ok(html.includes('Source verification is pending'),item.source+' unverified sources');
+ assert.ok(html.includes('Source verification pending.'),item.source+' unverified sources remain in source details');
  assert.ok(html.includes(`data-wf-copy="${item.source}"`),item.source+' full supplied content');
  assert.ok(html.includes('Sources &amp; Origins'),item.source+' source panel');
  if(item.state!=='draft-copy')assert.ok(html.includes('Awaiting final course copy'),item.source+' visible unfinished notice');

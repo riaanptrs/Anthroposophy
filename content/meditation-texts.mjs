@@ -3,7 +3,7 @@
 // https://rsarchive.org/Lectures/GA260/English/AP1990/ChrCnf_gverses.html
 export const foundationSource='https://rsarchive.org/Lectures/GA260/English/AP1990/ChrCnf_gverses.html';
 export const texts=[
-{id:'daily',enTitle:'In the pure streams of light',ptTitle:'Nas puras correntes de luz',source:'Start Now! (2004), capture 115; verse presented among meditation material by Rudolf Steiner. English wording from the supplied edition; Portuguese is a new course translation.',en:`In the pure streams of light
+{id:'daily',enTitle:'In the pure streams of light',ptTitle:'Nas puras correntes de luz',source:'Start Now! (2004), capture 115; verse presented among meditation material by Rudolf Steiner. English wording from the supplied edition; Portuguese is a new course translation.',sourcePt:"Start Now! (2004), captura 115; verso incluído entre os textos meditativos de Rudolf Steiner. Texto inglês da edição fornecida; nova tradução em português preparada para este curso.",en:`In the pure streams of light
 The world’s divinity shimmers.
 In pure love for all beings
 My soul’s divine nature rays out.
@@ -16,7 +16,7 @@ Irradia a natureza divina de minha alma.
 Repouso na divindade do mundo;
 Encontrarei a mim mesmo
 Na divindade do mundo.`},
-{id:'week-1',enTitle:'Calendar of the Soul · Week 1 · Easter mood',ptTitle:'Calendário da Alma · Semana 1 · Atmosfera de Páscoa',source:'Weekly Meditations (2008), capture 11. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',en:`When the Sun speaks to human sense
+{id:'week-1',enTitle:'Calendar of the Soul · Week 1 · Easter mood',ptTitle:'Calendário da Alma · Semana 1 · Atmosfera de Páscoa',source:'Weekly Meditations (2008), capture 11. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',sourcePt:"Weekly Meditations (2008), captura 11. Rudolf Steiner; tradução inglesa de Christopher Bamford. Nova tradução em português preparada para este curso.",en:`When the Sun speaks to human sense
 From cosmic widths of space,
 And from depths of soul
 Joy unites with light in seeing—
@@ -31,7 +31,7 @@ Então, dos invólucros da individualidade,
 Os pensamentos se movem até os confins do espaço,
 Ligando obscuramente
 A essência humana ao ser do espírito.`},
-{id:'week-13',enTitle:'Calendar of the Soul · Week 13',ptTitle:'Calendário da Alma · Semana 13',source:'Weekly Meditations (2008), capture 20. Heading OCR reads “WOOK LD”; identified by position between weeks 12 and 14 and comparison with Start Now!, capture 102. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',en:`At the height of sensory experience
+{id:'week-13',enTitle:'Calendar of the Soul · Week 13',ptTitle:'Calendário da Alma · Semana 13',source:'Weekly Meditations (2008), capture 20. Heading OCR reads “WOOK LD”; identified by position between weeks 12 and 14 and comparison with Start Now!, capture 102. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',sourcePt:"Weekly Meditations (2008), captura 20. O cabeçalho em OCR diz “WOOK LD”; a semana foi identificada pela posição entre as semanas 12 e 14 e pela comparação com Start Now!, captura 102. Rudolf Steiner; tradução inglesa de Christopher Bamford. Nova tradução em português preparada para este curso.",en:`At the height of sensory experience
 There flames deep within my soul
 From spirit’s fiery worlds
 The true word of the gods:
@@ -42,7 +42,7 @@ Dos mundos ígneos do espírito,
 A verdadeira palavra dos deuses:
 “Busca, em pressentimento, nos fundamentos do espírito,
 Encontrar-te em parentesco com o espírito.”`},
-{id:'week-26',enTitle:'Calendar of the Soul · Week 26 · Michaelmas mood',ptTitle:'Calendário da Alma · Semana 26 · Atmosfera de Micael',source:'Weekly Meditations (2008), captures 29–30; damaged line checked against Start Now!, capture 104. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',en:`Nature, I bear your motherly being
+{id:'week-26',enTitle:'Calendar of the Soul · Week 26 · Michaelmas mood',ptTitle:'Calendário da Alma · Semana 26 · Atmosfera de Micael',source:'Weekly Meditations (2008), captures 29–30; damaged line checked against Start Now!, capture 104. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',sourcePt:"Weekly Meditations (2008), capturas 29–30; verso danificado conferido em Start Now!, captura 104. Rudolf Steiner; tradução inglesa de Christopher Bamford. Nova tradução em português preparada para este curso.",en:`Nature, I bear your motherly being
 In the essence of my will,
 Whose fiery force
 Steels my spirit’s desires
@@ -53,7 +53,7 @@ Cuja força ígnea
 Fortalece os anseios de meu espírito
 Para que deem à luz a autoconsciência
 E eu me sustente em mim.`},
-{id:'week-38',enTitle:'Calendar of the Soul · Week 38 · Christmas mood',ptTitle:'Calendário da Alma · Semana 38 · Atmosfera de Natal',source:'Weekly Meditations (2008), capture 39. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',en:`As if freed from enchantment, I feel
+{id:'week-38',enTitle:'Calendar of the Soul · Week 38 · Christmas mood',ptTitle:'Calendário da Alma · Semana 38 · Atmosfera de Natal',source:'Weekly Meditations (2008), capture 39. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',sourcePt:"Weekly Meditations (2008), captura 39. Rudolf Steiner; tradução inglesa de Christopher Bamford. Nova tradução em português preparada para este curso.",en:`As if freed from enchantment, I feel
 The spirit child in the soul’s womb,
 In the brightness of the heart
 The holy Word of Worlds has produced
@@ -66,7 +66,7 @@ A santa Palavra dos Mundos produziu
 O fruto celeste da esperança,
 Que, do fundamento divino de meu ser,
 Cresce jubiloso até os mundos mais distantes.`},
-{id:'foundation',enTitle:'The Foundation Stone Meditation · complete printed version',ptTitle:'Meditação da Pedra Fundamental · versão impressa integral',source:'Rudolf Steiner, GA 260, printed German version. The English and Portuguese below are new study translations made for this course, not the Adams, Wehrle or Bamford translations. Original line structure retained where practicable.',en:`Human soul!
+{id:'foundation',enTitle:'The Foundation Stone Meditation · complete printed version',ptTitle:'Meditação da Pedra Fundamental · versão impressa integral',source:'Rudolf Steiner, GA 260, printed German version. The English and Portuguese below are new study translations made for this course, not the Adams, Wehrle or Bamford translations. Original line structure retained where practicable.',sourcePt:"Rudolf Steiner, GA 260, versão alemã impressa. As versões em inglês e português abaixo são novas traduções de estudo preparadas para este curso; não são as traduções de Adams, Wehrle ou Bamford. A disposição original dos versos foi preservada sempre que possível.",en:`Human soul!
 You live in the limbs
 That carry you through the world of space
 Into the being of the spirit-ocean:

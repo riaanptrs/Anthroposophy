@@ -1,5 +1,16 @@
 # Anthroposophy
 
+The Portuguese language review checked coverage across all 1,467 HTML pages and
+reviewed shared copy, source descriptions and selected teaching passages. It
+localized 148 chapter source descriptions, filled metadata gaps in 96 passage
+records, and translated meditation references and course links. New labels live
+in `content/portuguese-source-labels.json`; the historical passage bank remains
+byte-identical. Run `node scripts/check-portuguese.mjs --report` to validate
+language coverage and regenerate `content/portuguese-language-review.json`.
+The review is not a sentence-by-sentence certification of all 613 Portuguese
+pages. All 98 Waldorf pages, 21 Nutrition pages and 122 research notes remain
+English-only; Portuguese entries identify their availability explicitly.
+
 **Understanding Waldorf Education** is a working parent course at
 `docs/learn/waldorf/index.html`, prominently linked from both Learn hubs (the
 Portuguese hub identifies the course as English). Its 98 pages include
@@ -17,8 +28,8 @@ Build with `node scripts/build-all.mjs` or regenerate just this course with
 port 4173. The renderer uses a licensed, vendored build-time Markdown parser and
 requires no new package installation. See the
 [implementation and validation record](content/waldorf/implementation-review.md)
-for source fidelity, preservation evidence, unfinished pages, and the existing
-unrelated reading-hub validation failure.
+for source fidelity, preservation evidence and unfinished pages. The former
+reading-hub omission of Esoteric Christianity has been corrected.
 
 **Esoteric Christianity I: Preparing for the Coming of Christ** starts at
 `docs/learn/esoteric-christianity/index.html`, with matching Brazilian Portuguese
@@ -117,7 +128,7 @@ Edit the concept-led course in `content/theosophy-concept-course.json` and its t
 
 Edit source commentary in `content/theosophy-guided-introduction.json`, `theosophy-guided-chapter-1.json` through `theosophy-guided-chapter-4.json`, and `theosophy-guided-synthesis.json`. `scripts/build-theosophy-guided.mjs` retains numeric routes and runs before the prototype. Always run `node scripts/build-all.mjs` to regenerate the final website.
 
-Each standard Theosophy reading identifies its primary text before explaining the argument, defining a key term and checking comprehension. A selected quotation appears only where its wording has been verified; other readings assign a precise book section. Course examples and Portuguese study translations are explicitly identified. One optional deeper task and model response conclude each chapter, followed by an architecture-based final synthesis.
+Each standard Theosophy reading explains the argument, defines a key term and checks comprehension. Its primary text is available in optional source study. A selected quotation appears only where its wording has been verified; other readings identify a precise book section as optional further reading. Course examples and Portuguese study translations are explicitly identified. One optional deeper task and model response conclude each chapter, followed by an architecture-based final synthesis.
 
 1. Supply a book, excerpt, or transcript, together with available author, edition, page, or timestamp information.
 2. Identify the learning objectives and create a draft using `content/lesson-template.md`.
@@ -193,3 +204,33 @@ The eight-lesson `ancient-myths` route follows the seven lectures in the supplie
 Nine bilingual guided sessions at docs/meditation/index.html and docs/pt/meditation/index.html use Start Now!, Weekly Meditations and The Foundation Stone. They include a daily verse, four complete Calendar verses and the complete Foundation Stone in new study translations of its printed German original. Source directions, editorial commentary and course adaptations are distinguished. Build with node scripts/build-all.mjs; validate with node scripts/check-meditation.mjs and the existing site checks. See content/meditation-reading-review.md for source scope and transcription decisions.
 
 Foodwise is a separate English/Brazilian Portuguese course at `foodwise/index.html`: 39 lessons, seven modules, 23 ingredient profiles and three original untested kitchen activities. Its selected-passage OCR edition explicitly records that the supplied PDF exceeded the transfer limit and has not been visually verified. Build with `node scripts/build-all.mjs`; verify with `node scripts/check-foodwise.mjs` and the existing site checks.
+
+## Teaching approach revision
+
+The full build applies `scripts/build-teaching-approach.mjs` after the individual
+course builders. Students study the concept explanation and example, explain or
+apply the idea, and compare explanatory feedback. Close reading is optional and
+uses the already reviewed excerpt included on the page; bibliographic references
+without excerpts are further reading rather than required reading activities.
+Existing source wording, source anchors and saved-study identifiers are retained.
+The final pass covers 708 lesson pages; the mature conceptual courses keep their
+existing explanation, example and application sequence.
+
+`content/foundations-concept-development.json` adds three bilingual teaching
+steps and an applied question/model to each of the 36 Foundations lessons.
+The opening lesson teaches Steiner’s life and fields of work. Foodwise places
+relevant ingredient explanations inside lessons. Nutrition activities use the
+provided lesson explanations, with full-book reading optional. Six substantive
+Waldorf foundations drafts gain original explanations, examples and answer
+models from `content/waldorf-teaching-support.json`; the remaining outlines and
+source verification are still unfinished. This revision does not publish full
+private uploaded books or infer quotations from unchecked text.
+
+Build with `node scripts/build-all.mjs` and run
+`node scripts/check-teaching-approach.mjs` alongside the existing course checks.
+`content/course-teaching-review.json` records the generated coverage.
+
+`node scripts/review-teaching-browser.cjs` checks English/Portuguese concept
+visibility, real excerpts, quiz feedback/retry, saved notes after reload and
+answer access without JavaScript. It requires Playwright and Chromium; requests
+are fulfilled from the generated local files, without a preview server.

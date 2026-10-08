@@ -61,7 +61,7 @@ for (const relative of files) {
  const file = path.join(root,relative), html = fs.readFileSync(file,'utf8');
  const normalized=relative.replaceAll('\\','/'),platformOwned=isConceptPlatformOwned(normalized,html);
  if(html.includes('data-concept-platform-owned="true"')&&!platformOwned)errors.push(`${relative}: conceptual ownership outside exact route manifest`);
- const answerDetails=(html.match(/<details(?! class="guided-)\b/g)||[]).length;
+ const answerDetails=(html.match(/<details(?! class="(?:guided-|course-source-study))\b/g)||[]).length;
  const ids = [...html.matchAll(/\sid="([^"]+)"/g)].map(m=>m[1]);
  if(new Set(ids).size!==ids.length) errors.push(`${relative}: duplicate id`);
  if((html.match(/<h1\b/g)||[]).length!==1) errors.push(`${relative}: expected one h1`);

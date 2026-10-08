@@ -4,19 +4,25 @@
     "part": 1,
     "titleEn": "Who was Rudolf Steiner?",
     "titlePt": "Quem foi Rudolf Steiner?",
-    "centralQuestionEn": "What kind of author and teacher are we about to study?",
-    "centralQuestionPt": "Que autor e professor vamos estudar?",
+    "centralQuestionEn": "Who was Steiner, and what were the main areas of his work?",
+    "centralQuestionPt": "Quem foi Steiner e quais foram as principais áreas de sua atuação?",
     "existingSource": {
       "course": "theosophy",
       "id": 0
     },
     "sourceStatus": "historical-context-with-local-book-evidence",
-    "essentialConcept": "Introduce Steiner (1861–1925) as the author of philosophical works, anthroposophical books and lectures, and an initiator of practical movements. Separate his early philosophical inquiry, later spiritual claims, historical life and the modern course’s evaluation. Koepke’s quoted autobiography supplies a limited example of childhood geometry, not an impartial complete biography.",
-    "misconception": "An autobiographical recollection or a reverent later biography proves the spiritual claims; everything on the site was written by Steiner.",
+    "essentialConcept": "Rudolf Steiner developed anthroposophy and worked across philosophy, spiritual teaching, education and the arts.",
+    "misconception": "Steiner only worked in one practical field; anthroposophy and Waldorf education name exactly the same thing.",
     "prerequisites": [],
-    "sourceSectionIfNoQuote": "Theosophy prefaces and Introduction; Philosophy of Freedom prefaces; Koepke, The Ninth Year in Biography, captures 38–39, distinguishes Steiner’s autobiography from Koepke’s commentary.",
-    "coverageLimit": "The repository has bibliographic and autobiographical fragments, not a complete independently checked chronological biography. Do not invent historical milestones, institutional dates, or a biography quotation. Label historical context, author testimony and course explanation separately.",
+    "sourceSectionIfNoQuote": "Rudolf Steiner, The Story of My Life (GA 28), biographical context reviewed for Introduction to Anthroposophy, Lesson 2; The Philosophy of Freedom and Theosophy, introductory material; Understanding Waldorf Education, the first Waldorf school; Agriculture Course (GA 327), Koberwitz, June 1924.",
+    "coverageLimit": "Historical orientation draws on the reviewed autobiographical context used in Introduction to Anthroposophy, Lesson 2, and the school and Agriculture course records. The book links offer further study; this lesson is an introduction to Steiner’s work.",
     "bookLinks": [
+      {
+        "course": "introduction-to-anthroposophy",
+        "id": 2,
+        "title": "Steiner’s life and work / Vida e obra de Steiner",
+        "url": "introduction-to-anthroposophy/lessons/02.html"
+      },
       {
         "course": "theosophy",
         "id": 0,
