@@ -21,15 +21,36 @@ for(const row of course.lessons){
   assert.ok(v.paragraphs.every(text=>text.trim().length>100),row.source+' developed teaching paragraphs');
   const main=wholeElement(html,'<article class="wf-teaching"');
   for(const text of [v.title,v.goal,...v.paragraphs,v.example,v.question,v.answer])assert.ok(main.includes(esc(text)),file+' missing authored text');
+  assert.ok(!main.includes('Apply the idea to a new classroom or home example.') && !main.includes('Aplique a ideia a outro exemplo de sala de aula ou de casa.'));
+  for (const representation of v.representations || []) { assert.ok(main.includes(esc(representation.description))); assert.ok(main.includes(esc(representation.text))); }
+  if (v.exampleTable) for (const row of v.exampleTable.rows) for (const cell of row) assert.ok(main.includes(esc(cell)));
   assert.ok(main.indexOf('id="wf-teaching-concept"')<main.indexOf('id="wf-teaching-example"'));
   assert.ok(main.indexOf('id="wf-teaching-example"')<main.indexOf('id="wf-teaching-checks"'));
-  assert.equal((main.match(/class="learning-reflection"/g)||[]).length,2);
+  assert.equal((main.match(/class="learning-reflection"/g)||[]).length,1);
   assert.ok(!/Awaiting final course copy|Placeholder|Draft outline|primary-source verification pending/.test(main),file+' authoring status is not teaching prose');
   const partner='docs/'+(lang==='pt'?'':'pt/')+item.route;
   assert.ok(html.includes(`hreflang="${lang==='pt'?'en':'pt-BR'}" href="${relative(file,partner)}"`));
   assert.ok(html.includes(`data-wf-study="${item.id}"`),file+' historical reading identity');
   if(item.grade){assert.equal(v.curriculum.length,4);for(const cells of v.curriculum)for(const cell of cells)assert.ok(main.includes(esc(cell)));}
   if(lang==='pt')assert.ok(!html.includes('data-wf-copy='),'Portuguese teaching links explicitly to original English records instead of silently presenting them as translated');
+ }
+}
+// Regression for the previously promised-but-absent motion data and fraction representations.
+const motion=course.lessons.find(row=>row.source==='subjects/physics.md');
+for(const lang of ['en','pt']) {
+ const rows=motion[lang].exampleTable.rows.map(row=>row.map(Number));
+ assert.equal(rows.length,4);
+ const intervalSpeeds=column=>rows.slice(1).map((row,i)=>(row[column]-rows[i][column])/(row[0]-rows[i][0]));
+ assert.deepEqual(intervalSpeeds(1),[2,2,2]);
+ assert.deepEqual(intervalSpeeds(2),[1,2,3]);
+ for(const column of [1,2])assert.equal((rows.at(-1)[column]-rows[0][column])/(rows.at(-1)[0]-rows[0][0]),2);
+ const fractions=course.lessons.find(row=>row.source==='grades/grade-04.md')[lang].representations;
+ assert.equal(fractions.length,3);
+ for(const grid of fractions.slice(0,2)) {
+  const shaded=[...grid.text].filter(x=>x==='■').length;
+  const whole=[...grid.text].filter(x=>x==='■'||x==='□').length;
+  assert.equal(shaded/whole,0.5,grid.caption+' must actually show equal halves');
+  assert.ok(grid.description.length>30,'A nonvisual explanation is required');
  }
 }
 assert.equal(sources.passages.length,3);
@@ -55,4 +76,4 @@ for(const route of manifest.pages){
   if(match[2])assert.ok(fs.readFileSync(target,'utf8').includes(`id="${match[2]}"`),file+' anchor '+match[2]);
  }
 }
-console.log('Passed Waldorf teaching: 62 complete bilingual topics, 196 paired pages, nine curriculum tables per language, 248 understanding/application prompts, three credited excerpt translations and original source fingerprints.');
+console.log('Passed Waldorf teaching: 62 complete bilingual topics, 196 paired pages, nine curriculum tables per language, 124 authored changed-case prompts, three credited excerpt translations and original source fingerprints.');

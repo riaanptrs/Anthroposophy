@@ -4,7 +4,7 @@ const fs=require('node:fs'),path=require('node:path'),assert=require('node:asser
 (async()=>{
  const browser=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||'/usr/bin/chromium',headless:true,args:['--no-sandbox']});
  const course=JSON.parse(fs.readFileSync('content/theosophy-concept-course.json'));
- const routes=['','pt/'].flatMap(prefix=>[...course.lessonIds.map(id=>prefix+'theosophy/lessons/'+id+'.html'),...Array.from({length:9},(_,i)=>prefix+'meditation/'+String(i).padStart(2,'0')+'.html')]);
+ const routes=['','pt/'].flatMap(prefix=>[...course.lessonIds.map(id=>prefix+'theosophy/lessons/'+id+'.html'),...Array.from({length:9},(_,i)=>prefix+'meditation/'+String(i).padStart(2,'0')+'.html'),...Array.from({length:13},(_,i)=>prefix+'practical-thinking/lessons/'+String(i).padStart(2,'0')+'.html')]);
  let checks=0;const errors=[];
  try {
   for(const width of [1280,320]){
@@ -19,6 +19,17 @@ const fs=require('node:fs'),path=require('node:path'),assert=require('node:asser
    const page=await context.newPage();
    for(const route of routes){
     await page.goto('http://course.test/'+route);
+    if(route.includes('practical-thinking/')) {
+     const question=page.locator('.learning-quiz').nth(2);
+     assert.equal(await page.locator('.learning-quiz').count(),3,route);
+     assert.ok(await question.locator('legend').isVisible());
+     const disclosure=question.locator('details');
+     assert.equal(await disclosure.getAttribute('open'),null);
+     await disclosure.locator('summary').focus();await page.keyboard.press('Enter');
+     assert.ok(await disclosure.locator('p').isVisible());
+     assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),route+' overflow '+width);
+     checks++;continue;
+    }
     const section=page.locator('[data-concept-section="worked-example"], [data-meditation-case]');
     assert.equal(await section.count(),1,route);
     assert.ok(await section.locator(':scope > p').isVisible(),route+' direct teaching visible');

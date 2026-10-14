@@ -60,6 +60,16 @@
             ],
             "answer": 1,
             "explanation": "The source makes the delay conditional on the circumstances, then asks us to return to the possibilities."
+          },
+          {
+            "question": "You return after a planned pause and feel certain about option A, but cannot identify any supporting reason. What should you do?",
+            "options": [
+              "Accept certainty as the result the exercise guarantees.",
+              "Revisit the prepared alternatives and relevant facts.",
+              "Delay every decision indefinitely."
+            ],
+            "answer": 1,
+            "explanation": "The pause is part of preparation, return and examination. A stronger preference is not automatically better understanding. Decide when the reasons and circumstances warrant it, including time constraints."
           }
         ],
         "connection": "The pause prepares a renewed judgment. Next, we consider how to reach a conclusion without confusing a plausible story with the actual connection between events."
@@ -97,6 +107,16 @@
             ],
             "answer": 1,
             "explanation": "A fonte condiciona o adiamento às circunstâncias e, depois, pede que retomemos as possibilidades."
+          },
+          {
+            "question": "Você retorna após uma pausa planejada e sente certeza sobre A, mas não identifica razão que a sustente. O que fazer?",
+            "options": [
+              "Aceitar a certeza como resultado garantido pelo exercício.",
+              "Reexaminar as alternativas preparadas e os fatos relevantes.",
+              "Adiar indefinidamente toda decisão."
+            ],
+            "answer": 1,
+            "explanation": "A pausa integra preparação, retorno e exame. Uma preferência mais forte não é automaticamente compreensão melhor. Decida quando razões e circunstâncias justificarem, incluindo os limites de tempo."
           }
         ],
         "connection": "A pausa prepara um novo juízo. A seguir, veremos como chegar a uma conclusão sem confundir uma história plausível com a relação real entre os acontecimentos."
@@ -148,6 +168,16 @@
             ],
             "answer": 2,
             "explanation": "The pause belongs to a sequence of preparation and return. Its purpose is a more thorough judgment."
+          },
+          {
+            "question": "A room gets noisy and a teacher closes the door. Someone concludes that closing the door caused the noise. What is missing?",
+            "options": [
+              "The actual order and connection of events.",
+              "A stronger feeling of certainty.",
+              "A rule that doors can never affect sound."
+            ],
+            "answer": 0,
+            "explanation": "In the supplied sequence, noise preceded and prompted closing the door. The proposed cause is a response to the event. Doors can affect sound in other circumstances, so examine this case rather than replace one hasty generalization with another."
           }
         ],
         "connection": "A conclusion is one moment in a continuing practice. The final lesson asks how repeated attention changes observation, patience, mental pictures, causal reasoning and judgment."
@@ -185,6 +215,16 @@
             ],
             "answer": 2,
             "explanation": "A pausa faz parte de uma sequência de preparação e retorno. Seu propósito é um juízo mais cuidadoso."
+          },
+          {
+            "question": "Uma sala fica barulhenta e a professora fecha a porta. Alguém conclui que fechar a porta causou o barulho. O que falta?",
+            "options": [
+              "A ordem real e a conexão dos acontecimentos.",
+              "Uma sensação mais forte de certeza.",
+              "Uma regra de que portas nunca afetam o som."
+            ],
+            "answer": 0,
+            "explanation": "Na sequência fornecida, o barulho antecedeu e motivou fechar a porta. A causa proposta é uma resposta ao acontecimento. Portas podem afetar o som em outras circunstâncias; examine este caso em vez de substituir uma generalização apressada por outra."
           }
         ],
         "connection": "Uma conclusão é um momento de uma prática contínua. A última lição pergunta como a atenção repetida muda a observação, a paciência, as representações mentais, o raciocínio causal e o juízo."
@@ -236,6 +276,16 @@
             ],
             "answer": 1,
             "explanation": "Steiner makes this preference for things of Nature explicit, while relating the resulting training to ordinary occupations."
+          },
+          {
+            "question": "An early note says “the plant looks odd”; a later note records three leaf positions and marks an uncertain cause. What changed?",
+            "options": [
+              "The later note necessarily proves a spiritual faculty.",
+              "Observation became more specific and inference more carefully distinguished.",
+              "The learner has established the cause by writing more words."
+            ],
+            "answer": 1,
+            "explanation": "The evidence supports a modest change in how the learner records and reasons. More detail matters because it is specific and appropriately qualified, not because length or confidence is a score. The cause remains open."
           }
         ],
         "connection": "The four parts form one practice: thinking meets reality through observation, sustained attention, mental representation and judgment. Use the part synthesis to review one whole sequence, then the optional exercise map to select what to practise next."
@@ -273,6 +323,16 @@
             ],
             "answer": 1,
             "explanation": "Steiner torna explícita essa preferência pelas coisas da Natureza, relacionando o treino resultante às ocupações cotidianas."
+          },
+          {
+            "question": "Uma nota inicial diz “a planta está estranha”; outra posterior registra três posições de folhas e marca uma causa incerta. O que mudou?",
+            "options": [
+              "A segunda nota prova necessariamente uma faculdade espiritual.",
+              "A observação ficou mais específica e a inferência mais bem distinguida.",
+              "A pessoa estabeleceu a causa por escrever mais palavras."
+            ],
+            "answer": 1,
+            "explanation": "A evidência sustenta uma mudança modesta no modo de registrar e raciocinar. O detalhe importa por ser específico e qualificado, não porque extensão ou confiança sejam uma pontuação. A causa continua em aberto."
           }
         ],
         "connection": "As quatro partes formam uma prática: o pensar encontra a realidade pela observação, pela atenção sustentada, pela representação mental e pelo juízo. Use a síntese da parte para revisar uma sequência completa; depois, use o mapa opcional de exercícios para escolher o que praticar a seguir."

@@ -1,4 +1,5 @@
 {
+  "scope": "Latest local continuation; no further push or publication",
   "build": {
     "command": "node scripts/build-all.mjs",
     "result": "passed",
@@ -13,12 +14,17 @@
     {
       "command": "node scripts/review-pedagogy-browser.cjs",
       "result": "passed",
-      "output": "Pedagogy browser passed: 66 bilingual pages, 132 desktop/mobile no-JavaScript cases; keyboard disclosures, language, overflow and local assets."
+      "output": "Pedagogy browser passed: 92 bilingual pages, 184 desktop/mobile no-JavaScript cases; keyboard disclosures, language, overflow and local assets."
     },
     {
       "command": "node scripts/review-waldorf-teaching-browser.cjs",
       "result": "passed",
       "output": "Passed Waldorf browser: 196 routes, English/PT models, 320/390px layouts, Portuguese search, inherited reading marks across languages, real source excerpts, no-JavaScript and blocked-storage access."
     }
-  ]
+  ],
+  "visualInspection": {
+    "grade4": "/workspace/scratch/waldorf-grade4-review.png",
+    "physics": "/workspace/scratch/waldorf-physics-review.png",
+    "result": "Inspected rendered fraction representations, number-line text and motion-data table; readable and consistent with the explanations."
+  }
 }

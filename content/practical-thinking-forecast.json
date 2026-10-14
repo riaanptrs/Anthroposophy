@@ -46,6 +46,16 @@
         ],
         "answer": 1,
         "explanation": "The mismatch helps expose how the thought departed from the event. Inquiry and correction serve the practice more than defending the prediction."
+      },
+      {
+        "question": "You predict fewer requests for help after adding labels. Requests fall from 8 to 4, but visitors fall from 20 to 5. Does this establish improvement?",
+        "options": [
+          "Yes, because 4 is less than 8.",
+          "No: requests per visitor rose from 8/20 to 4/5, and conditions also changed.",
+          "Yes, because the prediction was stated in advance."
+        ],
+        "answer": 1,
+        "explanation": "The raw count fell, but the rate rose from 40% to 80%. Neither figure alone isolates the labels’ effect because the visitor groups may differ. Compare the expectation with the actual conditions, not only the number that confirms it."
       }
     ],
     "connection": "Return to Investigate Causes Without Guessing to work in the other direction: from an event now to a possible earlier cause, followed by inquiry and comparison."
@@ -83,6 +93,16 @@
         ],
         "answer": 1,
         "explanation": "A divergência ajuda a revelar como o pensamento se afastou do acontecimento. Investigar e corrigir servem mais à prática que defender a previsão."
+      },
+      {
+        "question": "Você prevê menos pedidos de ajuda após acrescentar etiquetas. Os pedidos caem de 8 para 4, mas os visitantes caem de 20 para 5. Isso estabelece melhoria?",
+        "options": [
+          "Sim, porque 4 é menor que 8.",
+          "Não: pedidos por visitante passaram de 8/20 para 4/5, e as condições também mudaram.",
+          "Sim, porque a previsão foi registrada antes."
+        ],
+        "answer": 1,
+        "explanation": "A contagem caiu, mas a proporção subiu de 40% para 80%. Nenhuma isola o efeito das etiquetas porque os grupos podem diferir. Compare a expectativa com as condições reais, não apenas com o número que a confirma."
       }
     ],
     "connection": "Volte a Investigar causas sem adivinhar para trabalhar na direção oposta: de um acontecimento atual a uma possível causa anterior, seguida de investigação e comparação."

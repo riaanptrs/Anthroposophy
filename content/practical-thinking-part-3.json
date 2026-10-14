@@ -60,6 +60,16 @@
             ],
             "answer": 1,
             "explanation": "Steiner describes an opportunity to rest and then suggests even only five minutes for a deliberately selected subject."
+          },
+          {
+            "question": "You choose to think about a bridge but repeatedly return to tomorrow’s shopping. What action practises the intended faculty?",
+            "options": [
+              "Choose the bridge again and follow one of its relationships.",
+              "Make the shopping list longer because any thought is equivalent.",
+              "Demand a perfectly detailed memory of every bridge stone."
+            ],
+            "answer": 0,
+            "explanation": "The faculty is voluntarily directing and sustaining ordinary thought outside habitual concerns. Returning to the chosen relation practises it. Perfect reconstruction belongs to a different task; the subject need not be extraordinary."
           }
         ],
         "connection": "You have practised choosing what to think about. Next, keep that direction while asking a different question: how complete and accurate is the mental picture you can form of an experience?"
@@ -97,6 +107,16 @@
             ],
             "answer": 1,
             "explanation": "Steiner descreve uma oportunidade para descansar e então sugere até mesmo apenas cinco minutos para um assunto escolhido deliberadamente."
+          },
+          {
+            "question": "Você escolhe pensar numa ponte, mas volta repetidamente às compras de amanhã. Que ação pratica a capacidade pretendida?",
+            "options": [
+              "Escolher novamente a ponte e acompanhar uma de suas relações.",
+              "Ampliar a lista de compras porque qualquer pensamento equivale a outro.",
+              "Exigir lembrança perfeita de cada pedra da ponte."
+            ],
+            "answer": 0,
+            "explanation": "A capacidade é dirigir e sustentar voluntariamente o pensamento cotidiano fora das preocupações habituais. Retomar a relação escolhida a exercita. Reconstrução perfeita é outra tarefa; o assunto não precisa ser extraordinário."
           }
         ],
         "connection": "Você praticou a escolha do assunto em que pensar. A seguir, mantenha essa direção e faça uma pergunta diferente: quão completa e precisa é a imagem mental que você consegue formar de uma experiência?"
@@ -152,6 +172,16 @@
             ],
             "answer": 2,
             "explanation": "The labels and immediate object check are course adaptations that keep remembered and imagined material distinguishable."
+          },
+          {
+            "question": "You imagine a red handle to fill a memory gap, then discover it was blue. Which record preserves the learning?",
+            "options": [
+              "Rewrite the first note as though blue was remembered.",
+              "Keep red labelled imagined and add blue as the later observation.",
+              "Treat the vivid red image as more reliable than the object."
+            ],
+            "answer": 1,
+            "explanation": "The mismatch shows what was supplied rather than remembered. Steiner’s completion exercise permits invention, but that invention does not become a factual memory. Preserving the first label makes the later correction intelligible."
           }
         ],
         "connection": "You can now work with a picture whose details and gaps are visible. The next lesson uses this capacity to imagine different actions and their consequences before making a choice."
@@ -189,6 +219,16 @@
             ],
             "answer": 2,
             "explanation": "Os rótulos e a conferência imediata dos objetos são adaptações do curso que permitem distinguir o material lembrado do imaginado."
+          },
+          {
+            "question": "Você imagina um cabo vermelho para completar uma lacuna e depois descobre que era azul. Que registro preserva a aprendizagem?",
+            "options": [
+              "Reescrever a primeira nota como se lembrasse do azul.",
+              "Manter vermelho como imaginado e acrescentar azul como observação posterior.",
+              "Tratar a imagem vermelha vívida como mais confiável que o objeto."
+            ],
+            "answer": 1,
+            "explanation": "A diferença mostra o que foi acrescentado em vez de lembrado. O exercício de completar permite invenção, mas ela não se torna memória factual. Preservar o primeiro rótulo torna compreensível a correção posterior."
           }
         ],
         "connection": "Agora você consegue trabalhar com uma imagem cujos detalhes e lacunas estão visíveis. A próxima lição usa essa capacidade para imaginar ações diferentes e suas consequências antes de fazer uma escolha."
@@ -244,6 +284,16 @@
             ],
             "answer": 1,
             "explanation": "Steiner first has the learner sketch the alternatives. Setting the question aside follows that preparation rather than replacing it."
+          },
+          {
+            "question": "A notice can be emailed or posted by the entrance. Email reaches members at home; the entrance board reaches visitors without email. What should be pictured before deciding?",
+            "options": [
+              "Only the option you already prefer.",
+              "Who each option reaches, what work it requires and what remains uncertain.",
+              "An explanation of why last year’s notice disappeared, without comparing current actions."
+            ],
+            "answer": 1,
+            "explanation": "These are alternative future actions, not simply rival accounts of a past event. Making their consequences concrete prepares a decision; a third combined option may emerge, but imagining reach does not prove actual delivery."
           }
         ],
         "connection": "Keep your prepared alternatives. After the Part III synthesis, Part IV asks why setting them aside and returning later can help judgment mature when the circumstances allow time."
@@ -281,6 +331,16 @@
             ],
             "answer": 1,
             "explanation": "Steiner primeiro pede o esboço das alternativas. Deixar a questão de lado vem depois dessa preparação, em vez de substituí-la."
+          },
+          {
+            "question": "Um aviso pode ser enviado por email ou colocado na entrada. O email alcança membros em casa; o mural alcança visitantes sem email. O que imaginar antes de decidir?",
+            "options": [
+              "Somente a opção já preferida.",
+              "Quem cada opção alcança, o trabalho exigido e as incertezas.",
+              "Por que o aviso do ano passado desapareceu, sem comparar ações atuais."
+            ],
+            "answer": 1,
+            "explanation": "São ações futuras alternativas, não apenas explicações rivais de um fato passado. Tornar suas consequências concretas prepara a decisão; pode surgir uma opção combinada, mas imaginar alcance não prova entrega real."
           }
         ],
         "connection": "Guarde as alternativas preparadas. Depois da síntese da Parte III, a Parte IV pergunta por que deixá-las de lado e retomá-las mais tarde pode ajudar o juízo a amadurecer quando as circunstâncias permitem esperar."

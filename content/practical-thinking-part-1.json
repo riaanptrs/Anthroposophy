@@ -60,6 +60,16 @@
             ],
             "answer": 1,
             "explanation": "The comparison separates a clever construction of thought from a workable relation to real conditions."
+          },
+          {
+            "question": "A library has always sorted children’s books by size. Visitors search by subject. What should be investigated first?",
+            "options": [
+              "Which arrangement helps visitors find the books they seek.",
+              "How to preserve the old arrangement without changes.",
+              "Which new arrangement looks most inventive."
+            ],
+            "answer": 0,
+            "explanation": "The purpose is finding books. Compare actual search difficulties with the arrangement before choosing a change. Age does not make a routine right or wrong, and novelty does not establish usefulness."
           }
         ],
         "connection": "Recognizing a closed habit is a beginning. Next, Steiner asks what attitude allows thought to learn from the things themselves."
@@ -97,6 +107,16 @@
             ],
             "answer": 1,
             "explanation": "A comparação distingue uma construção engenhosa do pensamento de uma relação viável com as condições reais."
+          },
+          {
+            "question": "Uma biblioteca sempre organizou livros infantis por tamanho. Visitantes procuram por assunto. O que investigar primeiro?",
+            "options": [
+              "Que organização ajuda as pessoas a encontrar os livros desejados.",
+              "Como manter a organização antiga sem mudanças.",
+              "Que nova organização parece mais inventiva."
+            ],
+            "answer": 0,
+            "explanation": "A finalidade é encontrar livros. Compare dificuldades reais de procura com a organização antes de escolher uma mudança. A idade de uma rotina não a torna certa ou errada, e a novidade não estabelece utilidade."
           }
         ],
         "connection": "Reconhecer um hábito fechado é um começo. A seguir, Steiner pergunta qual atitude permite ao pensar aprender com as próprias coisas."
@@ -148,6 +168,16 @@
             ],
             "answer": 0,
             "explanation": "The watch illustrates thought embodied in a human creation. Steiner’s extension to nature is an additional claim."
+          },
+          {
+            "question": "A carefully designed garden plan fails in one shaded corner. Which response expresses receptive inquiry?",
+            "options": [
+              "Ignore the corner because the plan is coherent.",
+              "Examine its conditions while keeping the larger question open.",
+              "Treat the failed planting as proof that no order can be understood."
+            ],
+            "answer": 1,
+            "explanation": "Confidence that a relationship can be understood motivates investigation of the troublesome case. It does not guarantee the first plan, and one failure does not settle Steiner’s wider spiritual premise."
           }
         ],
         "connection": "This attitude asks us to learn from reality. The next lesson examines how a plausible model can leave out a condition on which its result depends."
@@ -185,6 +215,16 @@
             ],
             "answer": 0,
             "explanation": "O relógio ilustra pensamento incorporado numa criação humana. A extensão de Steiner à natureza é uma afirmação adicional."
+          },
+          {
+            "question": "Um jardim cuidadosamente planejado falha num canto sombreado. Que resposta expressa investigação receptiva?",
+            "options": [
+              "Ignorar o canto porque o plano é coerente.",
+              "Examinar suas condições mantendo a pergunta mais ampla aberta.",
+              "Tratar o fracasso como prova de que nenhuma ordem pode ser compreendida."
+            ],
+            "answer": 1,
+            "explanation": "Confiar que uma relação pode ser compreendida motiva investigar o caso difícil. Isso não garante o primeiro plano, e um fracasso não decide a premissa espiritual mais ampla de Steiner."
           }
         ],
         "connection": "Essa atitude pede que aprendamos com a realidade. A próxima lição examina como um modelo plausível pode omitir uma condição da qual seu resultado depende."
@@ -214,7 +254,7 @@
         ],
         "key": "A workable explanation includes the conditions that make the process possible. A neat model needs to be brought back to the situation it is meant to explain.",
         "exercise": null,
-        "application": "The workshop opens at 10:00. Laying out tools takes 15 minutes and checking them takes 10. A diagram shows two volunteers working in parallel, so someone proposes starting at 9:45. That timing assumes both jobs can begin together. If checking requires tools to be laid out first, the diagram has omitted a dependency. The arithmetic can be correct while the proposed arrangement does not match the work. Ask how the tasks actually connect before accepting the diagram.",
+        "application": "The workshop opens at 10:00. Laying out tools takes 15 minutes and checking them takes 10. A diagram shows two volunteers working in parallel, so someone proposes starting at 9:45. That timing assumes both jobs can begin together. If checking requires tools to be laid out first, the diagram has omitted a dependency. The arithmetic can be correct while the proposed arrangement does not match the work. Ask how the tasks actually connect before accepting the diagram. With the stated dependency, allow 15 + 10 = 25 minutes and begin at 9:35. Starting at 9:45 would finish at 10:10. The correction changes the model of the work, not merely the arithmetic.",
         "tryIt": "Choose one familiar plan or model. Name a condition it needs, then check whether that condition holds in the actual situation. State what remains uncertain if you cannot check it yet.",
         "checks": [
           {
@@ -236,6 +276,16 @@
             ],
             "answer": 2,
             "explanation": "Paragraph 13 begins the practical training. The premise motivates that work rather than replacing it."
+          },
+          {
+            "question": "A meeting needs 8 minutes to arrange chairs, then 7 minutes to number them. Numbering can begin only after all chairs are placed. What is the minimum preparation time?",
+            "options": [
+              "8 minutes, because there are two volunteers.",
+              "15 minutes, because the tasks depend on one another.",
+              "7 minutes, because numbering is the final task."
+            ],
+            "answer": 1,
+            "explanation": "8 + 7 = 15 minutes. More workers do not remove the stated dependency. The shorter calculation would be appropriate only if the tasks could actually run in parallel; that condition must be checked rather than imagined."
           }
         ],
         "connection": "Now follow a process directly. Part II begins with accurate observation and separates what is seen from the explanation added to it."
@@ -251,7 +301,7 @@
         ],
         "key": "Uma explicação viável inclui as condições que tornam o processo possível. Um modelo bem organizado precisa ser relacionado à situação que pretende explicar.",
         "exercise": null,
-        "application": "A oficina abre às 10h. Arrumar as ferramentas leva 15 minutos e verificá-las leva 10. Um diagrama mostra dois voluntários trabalhando em paralelo, e alguém propõe começar às 9h45. Esse horário pressupõe que as duas tarefas podem começar juntas. Se a verificação exige que as ferramentas estejam arrumadas primeiro, o diagrama omitiu uma dependência. A conta pode estar correta enquanto a organização proposta não corresponde ao trabalho. Pergunte como as tarefas realmente se relacionam antes de aceitar o diagrama.",
+        "application": "A oficina abre às 10h. Arrumar as ferramentas leva 15 minutos e verificá-las leva 10. Um diagrama mostra dois voluntários trabalhando em paralelo, e alguém propõe começar às 9h45. Esse horário pressupõe que as duas tarefas podem começar juntas. Se a verificação exige que as ferramentas estejam arrumadas primeiro, o diagrama omitiu uma dependência. A conta pode estar correta enquanto a organização proposta não corresponde ao trabalho. Pergunte como as tarefas realmente se relacionam antes de aceitar o diagrama. Com essa dependência, reserve 15 + 10 = 25 minutos e comece às 9h35. Começar às 9h45 levaria ao término às 10h10. A correção muda o modelo do trabalho, não apenas a conta.",
         "tryIt": "Escolha um plano ou modelo familiar. Indique uma condição de que ele precisa e confira se ela está presente na situação real. Diga o que continua incerto se ainda não puder verificar.",
         "checks": [
           {
@@ -273,6 +323,16 @@
             ],
             "answer": 2,
             "explanation": "O parágrafo 13 inicia o treinamento prático. A premissa motiva esse trabalho, em vez de substituí-lo."
+          },
+          {
+            "question": "Uma reunião exige 8 minutos para dispor cadeiras e depois 7 para numerá-las. A numeração só começa quando todas estão no lugar. Qual é o tempo mínimo?",
+            "options": [
+              "8 minutos, porque há dois voluntários.",
+              "15 minutos, porque as tarefas dependem uma da outra.",
+              "7 minutos, porque numerar é a última tarefa."
+            ],
+            "answer": 1,
+            "explanation": "8 + 7 = 15 minutos. Mais pessoas não eliminam a dependência declarada. O cálculo menor só caberia se as tarefas realmente pudessem ocorrer em paralelo; essa condição precisa ser verificada, não imaginada."
           }
         ],
         "connection": "Agora acompanhe um processo diretamente. A Parte II começa com a observação precisa e distingue o que é visto da explicação acrescentada."

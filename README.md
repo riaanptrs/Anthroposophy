@@ -2,7 +2,7 @@
 
 An unmerged [pedagogical redevelopment review](reviews/pedagogy/REVIEW.md)
 tracks all current lesson routes and adds bilingual worked cases throughout
-Theosophy and Meditation. Its checklist distinguishes completed teaching passes
+Theosophy, Meditation, Practical Thinking and all 62 Waldorf topics. Its checklist distinguishes scoped teaching passes
 from remaining editorial work and unavailable original source files.
 
 The Portuguese language review validates document language and coverage across
@@ -18,8 +18,8 @@ that availability. The complete Waldorf teaching text is now bilingual.
 `docs/learn/waldorf/index.html` and `docs/pt/learn/waldorf/index.html`, linked from
 both Learn hubs. Its 62 topics cover foundations, development, Grades 1–9,
 13 subject pathways and 14 parent questions. Every topic now includes original
-English/Brazilian Portuguese explanation, a worked example and two questions
-with answer models. Each grade has a curriculum/purpose table and three focused
+English/Brazilian Portuguese explanation, a worked example and a changed-case question
+with an explained answer. Each grade has a curriculum/purpose table and three focused
 views. All 98 routes have language counterparts, including Home Life,
 orientation, source review and coverage pages.
 

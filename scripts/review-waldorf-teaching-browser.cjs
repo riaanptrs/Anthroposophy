@@ -45,7 +45,7 @@ const manifest=JSON.parse(fs.readFileSync('content/waldorf-teaching-manifest.jso
   const article=page.locator('article.wf-teaching');if(await article.count()){
    assert.ok(await article.locator('#wf-teaching-concept p').first().isVisible());
    assert.ok(await article.locator('#wf-teaching-example p').isVisible());
-   assert.equal(await article.locator('.learning-reflection').count(),2);
+   assert.equal(await article.locator('.learning-reflection').count(),1);
    await article.locator('.answer-explanation > summary').first().click();assert.ok(await article.locator('.answer-explanation p').first().isVisible());
   }
  }

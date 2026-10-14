@@ -1,3 +1,4 @@
+import {thoughtInventory} from '../content/practical-thinking-revised.mjs';
 import {withPortugueseSourceLabels} from './portuguese-source-labels.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -117,7 +118,9 @@ for(const lang of ['en','pt']) {
    for(const item of course.lessons){
     const file=item[lang==='pt'?'pathPt':'pathEn'],html=fs.readFileSync(file,'utf8');
     assert.ok(isPracticalThinkingOwned(file.slice(5),html),file+' missing Practical reading');
-    assert.equal((html.match(/class="learning-quiz"/g)||[]).length,2,file+' Practical comprehension count');
+    const authored=thoughtInventory.find(lesson=>lesson.routeId===Number(path.basename(file,'.html')));
+    assert.ok(authored,file+' missing authored Practical lesson');
+    assert.equal((html.match(/class="learning-quiz"/g)||[]).length,authored[lang].checks.length,file+' Practical comprehension count');
     assert.ok(html.includes('data-thought-source')&&html.includes('data-thought-practice'),file+' missing source or practice');
     assert.ok(!html.includes('guided-study.v1.js')&&!html.includes('class="learning-context"'),file+' legacy Practical wrapper returned');
     readings++;

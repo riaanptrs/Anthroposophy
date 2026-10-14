@@ -50,6 +50,10 @@ course=read(ROOT/'content/theosophy-concept-course.json');concept['whole-picture
 meditation=json.loads(subprocess.check_output(['node','--input-type=module','-e',"import {meditationLessons as ls} from './content/meditation-course.mjs';import {meditationCases as cs} from './content/meditation-worked-cases.mjs';console.log(JSON.stringify(ls.map(l=>({...l,example:cs.find(c=>c.id===l.id)}))));"],cwd=ROOT,text=True))
 validation=read(OUT/'validation.json') if (OUT/'validation.json').exists() else []
 validated=bool(validation) and all(x['exitCode']==0 for x in validation)
+practical_ledger=read(OUT/'practical-thinking-revision-ledger.json') if (OUT/'practical-thinking-revision-ledger.json').exists() else {}
+waldorf_ledger=read(OUT/'waldorf-revision-ledger.json') if (OUT/'waldorf-revision-ledger.json').exists() else {}
+waldorf_items=json.loads(subprocess.check_output(['node','--input-type=module','-e',"import {loadWaldorfContent} from './scripts/waldorf-content.mjs';console.log(JSON.stringify(loadWaldorfContent().map(({source,route})=>({source,route}))));"],cwd=ROOT,text=True))
+waldorf_routes={item['route']:item['source'] for item in waldorf_items}
 records=[]
 for path in sorted(paths):
     rel=str(path.relative_to(DOCS));partner=DOCS/'pt'/rel
@@ -69,6 +73,17 @@ for path in sorted(paths):
         item=next(x for x in meditation if x['id']==int(path.stem));v=item['en'];case=item['example']['en']
         row['coverage'].update(pedagogicallyAudited=True,rewritten=True)
         row['audit']={'learningObjective':v['goal'],'essentialConcepts':v['explain'],'prerequisite':v['why'],'interestingConnections':item.get('links',[]),'misconceptionAndCorrection':case['answer'],'missingExplanationAddressed':case['explanation'],'teachingMethod':{'case':case['title'],'changedSituation':case['question'],'explainedAnswer':case['answer']},'sourceLimit':item.get('refs')}
+    if route=='practical-thinking' and str(int(path.stem)) in practical_ledger:
+        item=practical_ledger[str(int(path.stem))]
+        row['coverage'].update(pedagogicallyAudited=True,rewritten=True)
+        row['audit']={'scope':'Primary goal, existing explanation/application and new transfer feedback; no fresh primary-source verification.','learningObjective':item['objective'],'essentialConcepts':item['retainedExplanation'],'prerequisite':item['prerequisite'],'interestingConnections':item.get('connection','Forecasting tests an expectation; it differs from observing an unfamiliar process without prediction.'),'missingExplanationAddressed':item['change'],'misconceptionAndCorrection':item['en']['explanation'],'teachingMethod':{'case':item['workedApplication'],'changedSituation':item['en']['question'],'explainedAnswer':item['en']['explanation']}}
+    if rel in waldorf_routes and waldorf_routes[rel] in waldorf_ledger:
+        row['coverage'].update(pedagogicallyAudited=True,rewritten=True)
+        row['audit']=waldorf_ledger[waldorf_routes[rel]]['audit']
+        row['source']['localDerivedRecord']='waldorf-course/'+waldorf_routes[rel]
+    elif route=='waldorf' and re.search(r'grades/grade-\d+/(child|curriculum|why-now)\.html$',rel):
+        row['coverage']['inheritedRevisedExample']=True
+        row['audit']['nextAction']='This view inherits a revised grade example; it is not counted as a separately audited primary lesson. The broader curriculum statements still need objective-level development.'
     records.append(row)
 # Exact registered files, plus source filenames held only in later ledgers.
 registered=read(ROOT/'content/source-register.json')
@@ -89,14 +104,38 @@ for path in (ROOT/'content').rglob('*'):
     for name in re.findall(r'["\']([^"\'\n/]+\.(?:pdf|epub|docx))["\']',path.read_text()):
         if len(name)<500:source_names.setdefault(name,{'filename':name,'ledger':str(path.relative_to(ROOT))})
 files={p.name:str(p) for folder in [ROOT,Path('/workspace/library-files'),Path('/workspace/shared/downloads')] for p in folder.rglob('*') if p.is_file() and '.git' not in p.parts}
-for name,item in source_names.items():item['availablePath']=files.get(name);item['availability']='present' if item['availablePath'] else 'missing in selected workspace'
+for name,item in source_names.items():
+    item['availablePath']=files.get(name);item['availability']='present' if item['availablePath'] else 'missing in selected workspace'
+    lower=name.lower()
+    if any(word in lower for word in ['codex-','course-design','knowledge-base']):
+        item['role']='derived instructions/design dossier; not a canonical source book'
+    elif 'intro to esoterci' in lower or item.get('lecturer') or 'lecture transcript' in str(item.get('type','')).lower():
+        item['role']='lecture transcript witness; distinct from a canonical Steiner book'
+    elif lower.endswith('.md'):
+        item['role']='text capture/OCR or transcript witness; consult edition ledger, not an original print/PDF'
+    else:
+        item['role']='book/publication witness; edition and canonical/comparison role are course-specific'
+    item['blocksIndependentTeaching']=False
 OUT.mkdir(exist_ok=True,parents=True)
 (OUT/'chapter-coverage.json').write_text(json.dumps({'scope':'Evidence census of every generated course lesson plus all Waldorf teaching/support routes. Detailed editorial audit is explicitly separate.','records':records},ensure_ascii=False,indent=2)+'\n')
 (OUT/'source-availability.json').write_text(json.dumps(list(source_names.values()),ensure_ascii=False,indent=2)+'\n')
-lines=['# Course and chapter coverage','', 'Generated by `python scripts/audit-course-coverage.py`. This is a complete route-level evidence census, **not a completed editorial review of every lesson**. `A` means individual pedagogical audit; `R` means substantive teaching added on this branch. Validation is recorded separately in the validation report. All existing source locators are inherited, not freshly certified.','', 'Nutrition has an existing English-only full course. A Portuguese landing page is not lesson parity. Waldorf support/grade-view pages are listed separately from its 62 authored topics. Existing detailed reading companions are retained alongside the new conceptual course.','']
+lines=['# Course and chapter coverage','', 'Generated by `python scripts/audit-course-coverage.py`. This is a complete route-level evidence census, **not a completed editorial review of every lesson**. `A` means an individual primary-goal/example/feedback audit, not full source or syllabus certification; `R` means substantive teaching revised on this branch. Validation is recorded separately in the validation report. All existing source locators are inherited, not freshly certified.','', 'Nutrition has an existing English-only full course. A Portuguese landing page is not lesson parity. Waldorf support/grade-view pages are listed separately from its 62 authored topics. Existing detailed reading companions are retained alongside the new conceptual course.','']
 for c in sorted(set(r['course'] for r in records)):
     rows=[r for r in records if r['course']==c];lines+=['## '+c,'',f'{len(rows)} English routes; {sum(bool(r["pt"]) for r in rows)} Portuguese counterparts.','', '| Chapter / lesson | A | R | Checks | Portuguese |','| --- | --- | --- | --- | --- |']
     for r in rows:lines.append(f'| [{(r["en"]["title"] or r["path"]).replace("|","/")}](../../{r["path"]}) | {"yes" if r["coverage"]["pedagogicallyAudited"] else "pending"} | {"yes" if r["coverage"]["rewritten"] else "pending"} | {"pass" if r["coverage"]["validated"] else "pending"} | {"present" if r["pt"] else "MISSING"} |')
     lines.append('')
 (OUT/'COVERAGE.md').write_text('\n'.join(lines)+'\n')
-print(json.dumps({'routes':len(records),'courses':len(set(r['course'] for r in records)),'portuguese':sum(bool(r['pt']) for r in records),'individuallyAudited':sum(r['coverage']['pedagogicallyAudited'] for r in records),'sourceFiles':len(source_names),'sourcesPresent':sum(bool(x['availablePath']) for x in source_names.values())}))
+print(json.dumps({'routes':len(records),'courses':len(set(r['course'] for r in records)),'portuguese':sum(bool(r['pt']) for r in records),'primaryGoalCaseAudits':sum(r['coverage']['pedagogicallyAudited'] for r in records),'sourceFiles':len(source_names),'sourcesPresent':sum(bool(x['availablePath']) for x in source_names.values())}))
+
+completed=['# Individual lesson audits: scoped teaching passes','', 'Each entry compares the stated primary lesson goal, existing explanation, supplied worked example and changed-case feedback. This does not certify an entire subject syllabus or fresh original-source fidelity. Grade-view copies are not counted as additional primary lessons.','']
+for row in records:
+    if not row['coverage']['pedagogicallyAudited']:continue
+    a=row['audit'];completed+=['## '+row['en']['title'],'',f"[English](../../{row['path']}) · [Português](../../{row['partner']})",'']
+    for key,label in [('scope','Scope'),('learningObjective','Learning objective'),('essentialConcepts','Essential concepts'),('prerequisite','Prerequisite'),('interestingConnections','Connections'),('misconception','Misconception'),('misconceptionAndCorrection','Misconception and feedback'),('missingExplanationAddressed','Gap addressed'),('teachingMethod','Teaching method')]:
+        value=a.get(key)
+        if value is None:continue
+        completed+=['**'+label+':**','']
+        if isinstance(value,str):completed+=[value,'']
+        elif isinstance(value,dict):completed += ['- '+str(k)+': '+str(v) for k,v in value.items()]+['']
+        else:completed += ['- '+(str(v.get('en') or v.get('relationship') or v) if isinstance(v,dict) else str(v)) for v in value]+['']
+(OUT/'COMPLETED-LESSON-AUDIT.md').write_text('\n'.join(completed)+'\n')
