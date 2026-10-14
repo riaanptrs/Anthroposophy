@@ -1,0 +1,24 @@
+{
+  "build": {
+    "command": "node scripts/build-all.mjs",
+    "result": "passed",
+    "finalOutput": [
+      "Waldorf teaching: 62 complete bilingual topics; 196 pages; three checked excerpt translations; original records retained.",
+      "Linked 288 terminology mentions across 41 pages.",
+      "Concept-led Theosophy: 23 teaching lessons + synthesis, 44 concepts, 13 practices; 1565 pages share four learning areas.",
+      "Teaching approach: 708 lesson pages; source study optional, existing excerpts and notes preserved."
+    ]
+  },
+  "browser": [
+    {
+      "command": "node scripts/review-pedagogy-browser.cjs",
+      "result": "passed",
+      "output": "Pedagogy browser passed: 66 bilingual pages, 132 desktop/mobile no-JavaScript cases; keyboard disclosures, language, overflow and local assets."
+    },
+    {
+      "command": "node scripts/review-waldorf-teaching-browser.cjs",
+      "result": "passed",
+      "output": "Passed Waldorf browser: 196 routes, English/PT models, 320/390px layouts, Portuguese search, inherited reading marks across languages, real source excerpts, no-JavaScript and blocked-storage access."
+    }
+  ]
+}

@@ -1,5 +1,10 @@
 # Anthroposophy
 
+An unmerged [pedagogical redevelopment review](reviews/pedagogy/REVIEW.md)
+tracks all current lesson routes and adds bilingual worked cases throughout
+Theosophy and Meditation. Its checklist distinguishes completed teaching passes
+from remaining editorial work and unavailable original source files.
+
 The Portuguese language review validates document language and coverage across
 1,565 HTML pages, including 711 Portuguese pages. Shared source descriptions,
 meditation references and selected teaching passages were reviewed; historical

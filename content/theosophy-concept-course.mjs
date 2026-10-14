@@ -28,6 +28,7 @@ export function validateConceptCourse(course, groups, readingCourse = loadTheoso
     for (const field of ['title', 'question', 'subtitle']) text(course[lang]?.[field], `Course ${lang}/${field}`);
     for (const field of ['introduction', 'purpose', 'audience', 'outcomes', 'approach', 'synthesis']) list(course[lang]?.[field], `Course ${lang}/${field}`);
   }
+  for (const lang of languages) for (const field of ['title', 'explanation', 'question', 'answer']) text(course.synthesis?.[lang]?.workedExample?.[field], `synthesis/${lang}/workedExample/${field}`);
   const lessons = groups.flatMap(group => group.lessons ?? []);
   const concepts = groups.flatMap(group => group.concepts ?? []);
   const practices = groups.flatMap(group => group.practices ?? []);
@@ -83,6 +84,7 @@ export function validateConceptCourse(course, groups, readingCourse = loadTheoso
     checkSources(lesson.sources, lesson.id);
     for (const lang of languages) {
       const copy = lesson[lang];
+      for (const field of ['title', 'explanation', 'question', 'answer']) text(copy?.workedExample?.[field], `${lesson.id}/${lang}/workedExample/${field}`);
       for (const field of ['title', 'question', 'centralIdea', 'distinction']) text(copy?.[field], `${lesson.id}/${lang}/${field}`);
       list(copy.experience, `${lesson.id}/${lang}/experience`);
       list(copy.explanation, `${lesson.id}/${lang}/explanation`, 2, 5);
