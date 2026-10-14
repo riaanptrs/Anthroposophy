@@ -1,0 +1,18 @@
+{
+  "pages": 142,
+  "viewportCases": 284,
+  "widths": [
+    1280,
+    320
+  ],
+  "javaScript": false,
+  "checks": [
+    "visible core teaching",
+    "language",
+    "keyboard disclosure",
+    "overflow",
+    "local fragments",
+    "loaded assets"
+  ],
+  "status": "passed"
+}

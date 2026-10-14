@@ -1,5 +1,7 @@
 # Pedagogical redevelopment review
 
+**Latest batch:** [CONCEPTUAL-BATCH-REVIEW.md](CONCEPTUAL-BATCH-REVIEW.md) covers 71 individually reviewed bilingual lessons in Foundations, Introduction and the Threefold Society opening. Current total: 179 scoped audits/revisions. See [COURSE-CHECKLIST.md](COURSE-CHECKLIST.md) for all remaining groups; the 108-lesson descriptions below document the earlier batches.
+
 **Latest source recovery and QA:** [SOURCE-RECOVERY-AND-QA.md](SOURCE-RECOVERY-AND-QA.md) records 15 located Library sources, the executor download failure, four further bilingual teaching corrections and their passing checks.
 
 **Current local continuation:** see [LOCAL-CONTINUATION.md](LOCAL-CONTINUATION.md) for the completed 62-topic Waldorf and 13-lesson Practical Thinking passes, corrections to four earlier cases, and current validation. The first batch below was pushed as `b25ea2b`; all subsequent work remains local.
