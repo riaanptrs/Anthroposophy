@@ -1,5 +1,7 @@
 # Source availability: what is actually needed
 
+**Recovery update:** 15 relevant files have now been located in Library, including Foodwise, the esoteric Christianity transcripts and eight Philosophy chapter files. Download into this executor failed before byte transfer; these are located but not locally available, rather than known lost. See [SOURCE-RECOVERY-AND-QA.md](SOURCE-RECOVERY-AND-QA.md). The local missing-file counts below remain accurate; do not request re-upload of the located files before resolving that connection failure.
+
 The missing-file inventory is a list of **88 referenced input filenames**, not 88 missing canonical books. It includes duplicate editions, OCR companions, comparison witnesses, modern agricultural publications, lecture transcripts and three derived design/instruction files. The `role` field now distinguishes those categories. No permission request was denied; the files are absent from this selected workspace. Public URLs have not been freshly checked in this continuation.
 
 ## Smallest useful request

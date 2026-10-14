@@ -19,15 +19,15 @@ export const meditationCases = [
     "id": 1,
     "en": {
       "title": "From words to a relationship",
-      "explanation": "A reader can repeat a verse fluently while remaining unsure what its central image relates. Pause over one clause: identify what is active, what it acts upon and how the next clause changes the relation. Then return to the whole verse. This alternation prevents explanation from replacing contemplation, while preventing repetition from hiding incomprehension. A quieter or less vivid response does not make the reading inferior.",
-      "question": "Should an unfamiliar word be replaced with whatever feels inspiring?",
-      "answer": "First clarify its meaning in this verse and translation. A personal association can be noted separately, but silently replacing the term would change the text you are trying to understand."
+      "explanation": "In the daily verse printed above, the first sentence presents divinity manifesting in the world through light. The next shifts the subject to the soul: its divine nature radiates through love directed toward all beings. The movement is from receiving a world manifestation to participating through love. The closing sentences place rest before a future finding of oneself in that same divinity. They do not announce that self-knowledge has already been achieved. Read these movements once as a connected relation, then return quietly to the whole verse. This interpretation makes its spiritual content intelligible without requiring a vivid image or a particular feeling.",
+      "question": "Why does replacing the final future finding with “I already know myself completely” change the verse’s movement?",
+      "answer": "The opening turns toward what manifests in the world; the middle relates the soul’s activity to love; the ending holds rest together with a finding still to come. Certainty of complete self-knowledge would close the openness expressed by that future. The verse invites a relationship and orientation, rather than a report of an attainment already secured."
     },
     "pt": {
       "title": "Das palavras a uma relação",
-      "explanation": "Uma pessoa pode repetir um verso com fluência sem compreender a relação de sua imagem central. Detenha-se numa oração: identifique o que atua, sobre o que atua e como a oração seguinte modifica a relação. Depois retorne ao verso completo. Essa alternância impede que a explicação substitua a contemplação e que a repetição esconda a incompreensão. Uma resposta mais discreta ou menos vívida não torna a leitura inferior.",
-      "question": "Uma palavra desconhecida deve ser substituída pelo que parecer inspirador?",
-      "answer": "Primeiro esclareça seu sentido nesse verso e nessa tradução. Uma associação pessoal pode ser anotada separadamente, mas substituir o termo em silêncio mudaria o texto que você procura compreender."
+      "explanation": "No verso diário apresentado acima, a primeira frase mostra a divindade manifestando-se no mundo pela luz. A seguinte muda o sujeito para a alma: sua natureza divina irradia pelo amor dirigido a todos os seres. O movimento vai da acolhida de uma manifestação do mundo à participação pelo amor. As frases finais colocam o repouso antes de um futuro encontro de si nessa mesma divindade. Não anunciam que o autoconhecimento já foi alcançado. Leia esses movimentos uma vez como uma relação contínua e depois retorne tranquilamente ao verso inteiro. Essa interpretação torna seu conteúdo espiritual compreensível sem exigir uma imagem vívida ou um sentimento determinado.",
+      "question": "Por que substituir o encontro futuro do final por “já me conheço completamente” muda o movimento do verso?",
+      "answer": "A abertura volta-se ao que se manifesta no mundo; o centro relaciona a atividade da alma ao amor; o final reúne o repouso com um encontro ainda por vir. A certeza de um autoconhecimento completo encerraria a abertura expressa por esse futuro. O verso convida a uma relação e a uma orientação, em vez de relatar uma conquista já assegurada."
     }
   },
   {

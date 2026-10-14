@@ -1,0 +1,125 @@
+{
+  "status": "Blocked at Library connection from executor; not an approval denial",
+  "files": [
+    {
+      "name": "Intro to esoterci chritianity part 2.md",
+      "file_id": "file_000000000c94820ea64578f12d5e1df9",
+      "library_file_id": "libfile_a0d74df3e6b4819198d8ed8db8375d7a",
+      "size_bytes": 126150,
+      "version_id": null,
+      "status": "Located in current Library listing; local download failed before preparation; no byte hash verified."
+    },
+    {
+      "name": "Intro to esoterci chritianity part 1.md",
+      "file_id": "file_000000005c80820ead2efba07c172feb",
+      "library_file_id": "libfile_fc14eb726b9881919b0906101ae74b03",
+      "size_bytes": 118716,
+      "version_id": null,
+      "status": "Located in current Library listing; local download failed before preparation; no byte hash verified."
+    },
+    {
+      "name": "Intro to esoterci chritianity part 3.md",
+      "file_id": "file_00000000e794820ebc05bce3e3cfdcde",
+      "library_file_id": "libfile_b896aaad873881918b6fc220067147f8",
+      "size_bytes": 129147,
+      "version_id": null,
+      "status": "Located in current Library listing; local download failed before preparation; no byte hash verified."
+    },
+    {
+      "name": "Foodwise.pdf",
+      "file_id": "file_0000000089b4820ea35bf10516c67c48",
+      "library_file_id": "libfile_f7f245d803048191ab70c1f318c18933",
+      "size_bytes": 45996927,
+      "version_id": null,
+      "status": "Located in current Library listing; local download failed before preparation; no byte hash verified."
+    },
+    {
+      "name": "Foodwise.md",
+      "file_id": "file_000000002f54820e83fdeff49cbb61a7",
+      "library_file_id": "libfile_86dbbd3540b8819192532c3e306480f4",
+      "size_bytes": 689379,
+      "version_id": null,
+      "status": "Located in current Library listing; local download failed before preparation; no byte hash verified."
+    },
+    {
+      "name": "An intoduction to Antroposophy.pdf",
+      "file_id": "file_00000000cb44820e8c3078e8c8ab5a85",
+      "library_file_id": "libfile_20b659169d488191bfc6c5e289763bc6",
+      "size_bytes": 23523136,
+      "version_id": null,
+      "status": "Located in current Library listing; local download failed before preparation; no byte hash verified."
+    },
+    {
+      "name": "What is Antroposophy.pdf",
+      "file_id": "file_000000003ffc820ea14397bddf23074d",
+      "library_file_id": "libfile_8a936a58bdd88191b96c345340156f3d",
+      "size_bytes": 132934,
+      "version_id": null,
+      "status": "Located in current Library listing; local download failed before preparation; no byte hash verified."
+    },
+    {
+      "name": "Chapter 04 -- The world as percept.md",
+      "file_id": "file_0000000016f0820eba48d691b9095230",
+      "library_file_id": "libfile_b3b78c36d3fc8191a2c5dd58a67f3664",
+      "size_bytes": 99101,
+      "version_id": null,
+      "status": "Located in current Library listing; byte recovery blocked by same executor Library connection failure; content role unverified in this pass."
+    },
+    {
+      "name": "Chapter 05 -- The activity of cognizing the world.md",
+      "file_id": "file_00000000bcfc820ea8a97d95fe951830",
+      "library_file_id": "libfile_da36fa6526508191806257d929305ceb",
+      "size_bytes": 97916,
+      "version_id": null,
+      "status": "Located in current Library listing; byte recovery blocked by same executor Library connection failure; content role unverified in this pass."
+    },
+    {
+      "name": "Chapter 09 -- The idea of inner freedom.md",
+      "file_id": "file_00000000f80c820ebb641324df9c38b6",
+      "library_file_id": "libfile_3c9be8001a8c8191acc093994f7173dd",
+      "size_bytes": 200484,
+      "version_id": null,
+      "status": "Located in current Library listing; byte recovery blocked by same executor Library connection failure; content role unverified in this pass."
+    },
+    {
+      "name": "Chapter 03 -- Thinking as the instrument of knowledge in service of comprehending the world.md",
+      "file_id": "file_0000000045e4820ea2af37e138172033",
+      "library_file_id": "libfile_cb9c56d278d48191ab9c67f661d58a09",
+      "size_bytes": 115155,
+      "version_id": null,
+      "status": "Located in current Library listing; byte recovery blocked by same executor Library connection failure; content role unverified in this pass."
+    },
+    {
+      "name": "Chapter 1 -- Conscious human action.md",
+      "file_id": "file_0000000034cc820ebd65bc02021f52bf",
+      "library_file_id": "libfile_5d8ae7c09ea08191afe7f55bb9fe0100",
+      "size_bytes": 66312,
+      "version_id": null,
+      "status": "Located in current Library listing; byte recovery blocked by same executor Library connection failure; content role unverified in this pass."
+    },
+    {
+      "name": "Chapter 02 -- The fundamental desire for knowledge.md",
+      "file_id": "file_00000000cf30820ea3ee2fe3653e60cf",
+      "library_file_id": "libfile_3b07c00701fc819190b032c78e8f392e",
+      "size_bytes": 40066,
+      "version_id": null,
+      "status": "Located in current Library listing; byte recovery blocked by same executor Library connection failure; content role unverified in this pass."
+    },
+    {
+      "name": "Chapter 06 -- Human individuality.md",
+      "file_id": "file_00000000a50c820eb51a32c768106f96",
+      "library_file_id": "libfile_53e9f94f99f481919aaed96dd816dc94",
+      "size_bytes": 29415,
+      "version_id": null,
+      "status": "Located in current Library listing; byte recovery blocked by same executor Library connection failure; content role unverified in this pass."
+    },
+    {
+      "name": "Chapter 07 -- Are there limits to cognition, to what we can know.md",
+      "file_id": "file_00000000c1cc820e9380136825519ed6",
+      "library_file_id": "libfile_1d70d774d6908191b2f3aa0873702f9d",
+      "size_bytes": 11862,
+      "version_id": null,
+      "status": "Located in current Library listing; byte recovery blocked by same executor Library connection failure; content role unverified in this pass."
+    }
+  ]
+}

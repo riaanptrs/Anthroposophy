@@ -1,5 +1,7 @@
 # Pedagogical redevelopment review
 
+**Latest source recovery and QA:** [SOURCE-RECOVERY-AND-QA.md](SOURCE-RECOVERY-AND-QA.md) records 15 located Library sources, the executor download failure, four further bilingual teaching corrections and their passing checks.
+
 **Current local continuation:** see [LOCAL-CONTINUATION.md](LOCAL-CONTINUATION.md) for the completed 62-topic Waldorf and 13-lesson Practical Thinking passes, corrections to four earlier cases, and current validation. The first batch below was pushed as `b25ea2b`; all subsequent work remains local.
 
 Review branch: `review/pedagogical-redevelopment`, based on `ecb139b` in `riaanptrs/Anthroposophy`. No merge or deployment. No repository `AGENTS.md` was found. The existing build is a dependency-free Node script chain; generated HTML is checked in.
