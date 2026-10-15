@@ -1,34 +1,38 @@
 # Per-course review checklist
 
-Counts are generated English lesson/support routes, not original book chapters. Audited/revised counts refer to the scope in each lesson ledger; no row certifies fresh original-source fidelity. All 37 structural validators pass. Source re-verification remains blocked by unavailable local originals.
+Counts distinguish authored teaching units from English lesson/support routes. Each authored lesson is counted once across languages; optional practice and orientation lessons are distinct units. Parallel courses can teach the same book, so these are not unique original book chapters or unique concepts. Waldorf has 62 primary topics and 36 inherited/support routes.
 
-| Course | Routes | Audited | Revised | PT routes | Remaining |
-| --- | ---: | ---: | ---: | ---: | --- |
-| according-to-luke | 12 | 0 | 0 | 12 | Individual pedagogical audit and revision pending. |
-| agriculture | 18 | 0 | 0 | 18 | Individual pedagogical audit and revision pending. |
-| ancient-myths | 8 | 0 | 0 | 8 | Individual pedagogical audit and revision pending. |
-| biodynamics | 24 | 0 | 0 | 24 | Individual pedagogical audit and revision pending. |
-| colour | 14 | 0 | 0 | 14 | Individual pedagogical audit and revision pending. |
-| encountering-the-self | 17 | 0 | 0 | 17 | Individual pedagogical audit and revision pending. |
-| foodwise | 39 | 0 | 0 | 39 | Individual pedagogical audit and revision pending. |
-| foundations | 36 | 36 | 36 | 36 | Conceptual pass complete for current lessons; source re-verification pending. |
-| higher-worlds | 19 | 0 | 0 | 19 | Individual pedagogical audit and revision pending. |
-| introduction-to-anthroposophy | 28 | 28 | 28 | 28 | Conceptual pass complete for current lessons; source re-verification pending. |
-| learn/esoteric-christianity | 24 | 0 | 0 | 24 | Individual pedagogical audit and revision pending. |
-| meditation | 9 | 9 | 9 | 9 | Scoped primary-goal pass; broader conceptual/source review remains. |
-| mystery-temperaments | 15 | 0 | 0 | 15 | Individual pedagogical audit and revision pending. |
-| nutrition | 18 | 0 | 0 | 0 | Individual pedagogical audit and revision pending. 18 full lessons still need Portuguese. |
-| philosophy-of-freedom | 22 | 0 | 0 | 22 | Individual pedagogical audit and revision pending. |
-| practical-thinking | 13 | 13 | 13 | 13 | Scoped primary-goal pass; broader conceptual/source review remains. |
-| temperaments | 11 | 0 | 0 | 11 | Individual pedagogical audit and revision pending. |
-| theosophy | 24 | 24 | 24 | 24 | Scoped primary-goal pass; broader conceptual/source review remains. |
-| theosophy-reading | 28 | 0 | 0 | 28 | Individual pedagogical audit and revision pending. |
-| toward-threefold-society | 7 | 7 | 7 | 7 | Conceptual pass complete for current lessons; source re-verification pending. Main book chapters absent from course coverage. |
-| understand-temperament | 13 | 0 | 0 | 13 | Individual pedagogical audit and revision pending. |
-| understanding-temperaments | 12 | 0 | 0 | 12 | Individual pedagogical audit and revision pending. |
-| waldorf | 98 | 62 | 62 | 98 | 62 primary topics revised; 36 inherited/support routes not individually certified; full subject syllabi remain. |
-| what-is-biodynamics | 14 | 0 | 0 | 14 | Individual pedagogical audit and revision pending. |
+Audited does not mean rewritten. Retained means an individual review found the current explanation adequate for its stated criterion; it does not certify fresh source fidelity. All original-source verification remains pending.
 
-Total: 523 English routes, 505 Portuguese counterparts; 179 scoped audited/revised lessons. Of these, 71 received the current conceptual-explanation review and 108 the earlier primary-goal passes. There are 344 routes with no individual audit flag.
+| Course | Authored units | EN routes | Audited | Revised | Retained | PT routes | Pending authored units |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| according-to-luke | 12 | 12 | 12 | 4 | 8 | 12 | 0 |
+| agriculture | 18 | 18 | 0 | 0 | 0 | 18 | 18 |
+| ancient-myths | 8 | 8 | 8 | 3 | 5 | 8 | 0 |
+| biodynamics | 24 | 24 | 0 | 0 | 0 | 24 | 24 |
+| colour | 14 | 14 | 0 | 0 | 0 | 14 | 14 |
+| encountering-the-self | 17 | 17 | 0 | 0 | 0 | 17 | 17 |
+| foodwise | 39 | 39 | 0 | 0 | 0 | 39 | 39 |
+| foundations | 36 | 36 | 36 | 36 | 0 | 36 | 0 |
+| higher-worlds | 19 | 19 | 19 | 5 | 14 | 19 | 0 |
+| introduction-to-anthroposophy | 28 | 28 | 28 | 28 | 0 | 28 | 0 |
+| learn/esoteric-christianity | 24 | 24 | 24 | 6 | 18 | 24 | 0 |
+| meditation | 9 | 9 | 9 | 9 | 0 | 9 | 0 |
+| mystery-temperaments | 15 | 15 | 0 | 0 | 0 | 15 | 15 |
+| nutrition | 18 | 18 | 0 | 0 | 0 | 0 | 18 |
+| philosophy-of-freedom | 22 | 22 | 22 | 7 | 15 | 22 | 0 |
+| practical-thinking | 13 | 13 | 13 | 13 | 0 | 13 | 0 |
+| temperaments | 11 | 11 | 0 | 0 | 0 | 11 | 11 |
+| theosophy | 24 | 24 | 24 | 24 | 0 | 24 | 0 |
+| theosophy-reading | 28 | 28 | 0 | 0 | 0 | 28 | 28 |
+| toward-threefold-society | 7 | 7 | 7 | 7 | 0 | 7 | 0 |
+| understand-temperament | 13 | 13 | 0 | 0 | 0 | 13 | 13 |
+| understanding-temperaments | 12 | 12 | 0 | 0 | 0 | 12 | 12 |
+| waldorf | 62 | 98 | 62 | 62 | 0 | 98 | 0 |
+| what-is-biodynamics | 14 | 14 | 0 | 0 | 0 | 14 | 14 |
 
-The current 71-lesson batch has no new quotations, page references, health interventions or claimed source verification. Existing exact source limitations remain part of each course.
+Total: **487 authored units**, 523 English lesson/support routes and 505 Portuguese counterparts. **264 scoped audits: 204 revised and 60 retained. 223 authored units await individual audit**, plus 36 Waldorf inherited/support routes not counted as independent lessons.
+
+The earlier 108 primary-goal passes have narrower scope than the later conceptual reviews. See each ledger entry’s scope and criterion. Nutrition’s 18 full lessons still lack Portuguese. Threefold Society covers only its supplied opening; specialist limitations and missing source witnesses remain even where the current teaching unit is audited.
+
+Pending original-source verification is separate from pending teaching work. No unchanged Library network failure was retried in the five-course batch.

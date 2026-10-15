@@ -10,18 +10,18 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [McDermott’s introduction and how to read the lectures](../../docs/according-to-luke/lessons/00.html) | pending | pending | pass | present |
-| [The four Gospels and three levels of spiritual cognition](../../docs/according-to-luke/lessons/01.html) | pending | pending | pass | present |
-| [Bodhisattva, Buddha and the teaching of love and compassion](../../docs/according-to-luke/lessons/02.html) | pending | pending | pass | present |
-| [Give care a practical form](../../docs/according-to-luke/lessons/03.html) | pending | pending | pass | present |
-| [Keep the two infancy narratives distinct](../../docs/according-to-luke/lessons/04.html) | pending | pending | pass | present |
-| [Influence is not the same as identity](../../docs/according-to-luke/lessons/05.html) | pending | pending | pass | present |
-| [Responsibility beyond inherited belonging](../../docs/according-to-luke/lessons/06.html) | pending | pending | pass | present |
-| [Jesus and Christ: read the stages carefully](../../docs/according-to-luke/lessons/07.html) | pending | pending | pass | present |
-| [Read healing narratives without turning them into a diagnosis](../../docs/according-to-luke/lessons/08.html) | pending | pending | pass | present |
-| [Love that reaches beyond self-interest](../../docs/according-to-luke/lessons/09.html) | pending | pending | pass | present |
-| [Golgotha and a hope that changes conduct](../../docs/according-to-luke/lessons/10.html) | pending | pending | pass | present |
-| [Your synthesis: trace an argument and apply one idea](../../docs/according-to-luke/lessons/11.html) | pending | pending | pass | present |
+| [McDermott’s introduction and how to read the lectures](../../docs/according-to-luke/lessons/00.html) | yes | retained | pass | present |
+| [The four Gospels and three levels of spiritual cognition](../../docs/according-to-luke/lessons/01.html) | yes | retained | pass | present |
+| [Bodhisattva, Buddha and the teaching of love and compassion](../../docs/according-to-luke/lessons/02.html) | yes | retained | pass | present |
+| [Give care a practical form](../../docs/according-to-luke/lessons/03.html) | yes | retained | pass | present |
+| [Keep the two infancy narratives distinct](../../docs/according-to-luke/lessons/04.html) | yes | yes | pass | present |
+| [Influence is not the same as identity](../../docs/according-to-luke/lessons/05.html) | yes | yes | pass | present |
+| [Responsibility beyond inherited belonging](../../docs/according-to-luke/lessons/06.html) | yes | retained | pass | present |
+| [Jesus and Christ: read the stages carefully](../../docs/according-to-luke/lessons/07.html) | yes | yes | pass | present |
+| [Read healing narratives without turning them into a diagnosis](../../docs/according-to-luke/lessons/08.html) | yes | retained | pass | present |
+| [Love that reaches beyond self-interest](../../docs/according-to-luke/lessons/09.html) | yes | yes | pass | present |
+| [Golgotha and a hope that changes conduct](../../docs/according-to-luke/lessons/10.html) | yes | retained | pass | present |
+| [Your synthesis: trace an argument and apply one idea](../../docs/according-to-luke/lessons/11.html) | yes | retained | pass | present |
 
 ## agriculture
 
@@ -54,14 +54,14 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [Reading a myth](../../docs/ancient-myths/lessons/00.html) | pending | pending | pass | present |
-| [Isis, Osiris and the Greek gods](../../docs/ancient-myths/lessons/01.html) | pending | pending | pass | present |
-| [Images, language and changing consciousness](../../docs/ancient-myths/lessons/02.html) | pending | pending | pass | present |
-| [The veil of Isis and the search for knowledge](../../docs/ancient-myths/lessons/03.html) | pending | pending | pass | present |
-| [Individuality, heredity and freedom](../../docs/ancient-myths/lessons/04.html) | pending | pending | pass | present |
-| [Humanity’s development and lifelong learning](../../docs/ancient-myths/lessons/05.html) | pending | pending | pass | present |
-| [From head knowledge to heartfelt understanding](../../docs/ancient-myths/lessons/06.html) | pending | pending | pass | present |
-| [Myth in education: interpretation and a final project](../../docs/ancient-myths/lessons/07.html) | pending | pending | pass | present |
+| [Reading a myth](../../docs/ancient-myths/lessons/00.html) | yes | retained | pass | present |
+| [Isis, Osiris and the Greek gods](../../docs/ancient-myths/lessons/01.html) | yes | retained | pass | present |
+| [Images, language and changing consciousness](../../docs/ancient-myths/lessons/02.html) | yes | retained | pass | present |
+| [The veil of Isis and the search for knowledge](../../docs/ancient-myths/lessons/03.html) | yes | yes | pass | present |
+| [Individuality, heredity and freedom](../../docs/ancient-myths/lessons/04.html) | yes | retained | pass | present |
+| [Humanity’s development and lifelong learning](../../docs/ancient-myths/lessons/05.html) | yes | yes | pass | present |
+| [From head knowledge to heartfelt understanding](../../docs/ancient-myths/lessons/06.html) | yes | retained | pass | present |
+| [Myth in education: interpretation and a final project](../../docs/ancient-myths/lessons/07.html) | yes | yes | pass | present |
 
 ## biodynamics
 
@@ -234,25 +234,25 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [From Theosophy to a path of conscious development](../../docs/higher-worlds/lessons/00.html) | pending | pending | pass | present |
-| [Reverence, inner life and knowledge for service](../../docs/higher-worlds/lessons/01.html) | pending | pending | pass | present |
-| [Inner tranquillity and the higher human being](../../docs/higher-worlds/lessons/02.html) | pending | pending | pass | present |
-| [Growth, decay and selfless listening](../../docs/higher-worlds/lessons/03.html) | pending | pending | pass | present |
-| [Enlightenment, the seed and the full-grown plant](../../docs/higher-worlds/lessons/04.html) | pending | pending | pass | present |
-| [Human desire, moral preparation and courage](../../docs/higher-worlds/lessons/05.html) | pending | pending | pass | present |
-| [The three trials and responsible knowledge](../../docs/higher-worlds/lessons/06.html) | pending | pending | pass | present |
-| [Patience, desire and tact](../../docs/higher-worlds/lessons/07.html) | pending | pending | pass | present |
-| [Seven conditions: health, participation and inner life](../../docs/higher-worlds/lessons/08.html) | pending | pending | pass | present |
-| [Seven conditions: inner being, resolve, gratitude and harmony](../../docs/higher-worlds/lessons/09.html) | pending | pending | pass | present |
-| [Spiritual organs, eight functions and six attributes](../../docs/higher-worlds/lessons/10.html) | pending | pending | pass | present |
-| [Etheric currents, the inner word and the higher self](../../docs/higher-worlds/lessons/11.html) | pending | pending | pass | present |
-| [Dream transformation and a spiritual point of reference](../../docs/higher-worlds/lessons/12.html) | pending | pending | pass | present |
-| [Waking, dreaming and dreamless sleep](../../docs/higher-worlds/lessons/13.html) | pending | pending | pass | present |
-| [Thinking, feeling and willing under conscious guidance](../../docs/higher-worlds/lessons/14.html) | pending | pending | pass | present |
-| [The lesser Guardian: karma made visible](../../docs/higher-worlds/lessons/15.html) | pending | pending | pass | present |
-| [The greater Guardian and the task of service](../../docs/higher-worlds/lessons/16.html) | pending | pending | pass | present |
-| [The appendix: clear thought, self-study and ordinary life](../../docs/higher-worlds/lessons/17.html) | pending | pending | pass | present |
-| [A connected path: knowledge, self-direction and service](../../docs/higher-worlds/lessons/18.html) | pending | pending | pass | present |
+| [From Theosophy to a path of conscious development](../../docs/higher-worlds/lessons/00.html) | yes | retained | pass | present |
+| [Reverence, inner life and knowledge for service](../../docs/higher-worlds/lessons/01.html) | yes | retained | pass | present |
+| [Inner tranquillity and the higher human being](../../docs/higher-worlds/lessons/02.html) | yes | retained | pass | present |
+| [Growth, decay and selfless listening](../../docs/higher-worlds/lessons/03.html) | yes | retained | pass | present |
+| [Enlightenment, the seed and the full-grown plant](../../docs/higher-worlds/lessons/04.html) | yes | retained | pass | present |
+| [Human desire, moral preparation and courage](../../docs/higher-worlds/lessons/05.html) | yes | retained | pass | present |
+| [The three trials and responsible knowledge](../../docs/higher-worlds/lessons/06.html) | yes | yes | pass | present |
+| [Patience, desire and tact](../../docs/higher-worlds/lessons/07.html) | yes | retained | pass | present |
+| [Seven conditions: health, participation and inner life](../../docs/higher-worlds/lessons/08.html) | yes | retained | pass | present |
+| [Seven conditions: inner being, resolve, gratitude and harmony](../../docs/higher-worlds/lessons/09.html) | yes | retained | pass | present |
+| [Spiritual organs, eight functions and six attributes](../../docs/higher-worlds/lessons/10.html) | yes | yes | pass | present |
+| [Etheric currents, the inner word and the higher self](../../docs/higher-worlds/lessons/11.html) | yes | retained | pass | present |
+| [Dream transformation and a spiritual point of reference](../../docs/higher-worlds/lessons/12.html) | yes | yes | pass | present |
+| [Waking, dreaming and dreamless sleep](../../docs/higher-worlds/lessons/13.html) | yes | retained | pass | present |
+| [Thinking, feeling and willing under conscious guidance](../../docs/higher-worlds/lessons/14.html) | yes | yes | pass | present |
+| [The lesser Guardian: karma made visible](../../docs/higher-worlds/lessons/15.html) | yes | retained | pass | present |
+| [The greater Guardian and the task of service](../../docs/higher-worlds/lessons/16.html) | yes | yes | pass | present |
+| [The appendix: clear thought, self-study and ordinary life](../../docs/higher-worlds/lessons/17.html) | yes | retained | pass | present |
+| [A connected path: knowledge, self-direction and service](../../docs/higher-worlds/lessons/18.html) | yes | retained | pass | present |
 
 ## introduction-to-anthroposophy
 
@@ -295,30 +295,30 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [What is being prepared?](../../docs/learn/esoteric-christianity/lessons/ec1-01.html) | pending | pending | pass | present |
-| [Body, life, soul, and I](../../docs/learn/esoteric-christianity/lessons/ec1-02.html) | pending | pending | pass | present |
-| [Four Gospels, four emphases](../../docs/learn/esoteric-christianity/lessons/ec1-03.html) | pending | pending | pass | present |
-| [Two Nativity accounts: read before combining](../../docs/learn/esoteric-christianity/lessons/ec1-04.html) | pending | pending | pass | present |
-| [Can someone be commanded to be free?](../../docs/learn/esoteric-christianity/lessons/ec1-05.html) | pending | pending | pass | present |
-| [A map of spiritual evolution](../../docs/learn/esoteric-christianity/lessons/ec1-06.html) | pending | pending | pass | present |
-| [Enthusiasm, order, and the human center](../../docs/learn/esoteric-christianity/lessons/ec1-07.html) | pending | pending | pass | present |
-| [Standing, speaking, and thinking](../../docs/learn/esoteric-christianity/lessons/ec1-08.html) | pending | pending | pass | present |
-| [Zarathustra and the promise of the Sun](../../docs/learn/esoteric-christianity/lessons/ec1-09.html) | pending | pending | pass | present |
-| [Egypt, Babylon, and the circulation of gifts](../../docs/learn/esoteric-christianity/lessons/ec1-10.html) | pending | pending | pass | present |
-| [Abraham, observation, and judgment](../../docs/learn/esoteric-christianity/lessons/ec1-11.html) | pending | pending | pass | present |
-| [Why does Matthew begin with generations?](../../docs/learn/esoteric-christianity/lessons/ec1-12.html) | pending | pending | pass | present |
-| [The preserved soul and John the Baptist](../../docs/learn/esoteric-christianity/lessons/ec1-13.html) | pending | pending | pass | present |
-| [Annunciation, visitation, and attentive response](../../docs/learn/esoteric-christianity/lessons/ec1-14.html) | pending | pending | pass | present |
-| [Buddha, compassion, and Simeon’s recognition](../../docs/learn/esoteric-christianity/lessons/ec1-15.html) | pending | pending | pass | present |
-| [Shepherd hearts and kingly heads](../../docs/learn/esoteric-christianity/lessons/ec1-16.html) | pending | pending | pass | present |
-| [Nazareth and the question of community](../../docs/learn/esoteric-christianity/lessons/ec1-17.html) | pending | pending | pass | present |
-| [The twelve-year-old in the Temple](../../docs/learn/esoteric-christianity/lessons/ec1-18.html) | pending | pending | pass | present |
-| [Three encounters before the Jordan](../../docs/learn/esoteric-christianity/lessons/ec1-19.html) | pending | pending | pass | present |
-| [Mary, relinquishment, and the Baptism](../../docs/learn/esoteric-christianity/lessons/ec1-20.html) | pending | pending | pass | present |
-| [From lament to prayer](../../docs/learn/esoteric-christianity/lessons/ec1-21.html) | pending | pending | pass | present |
-| [Beyond the Jordan: what remains to be studied?](../../docs/learn/esoteric-christianity/lessons/ec1-22.html) | pending | pending | pass | present |
-| [Many spiritual streams and a universal intention](../../docs/learn/esoteric-christianity/lessons/ec1-23.html) | pending | pending | pass | present |
-| [Understanding, warmth, and a freely chosen deed](../../docs/learn/esoteric-christianity/lessons/ec1-24.html) | pending | pending | pass | present |
+| [What is being prepared?](../../docs/learn/esoteric-christianity/lessons/ec1-01.html) | yes | retained | pass | present |
+| [Body, life, soul, and I](../../docs/learn/esoteric-christianity/lessons/ec1-02.html) | yes | retained | pass | present |
+| [Four Gospels, four emphases](../../docs/learn/esoteric-christianity/lessons/ec1-03.html) | yes | retained | pass | present |
+| [Two Nativity accounts: read before combining](../../docs/learn/esoteric-christianity/lessons/ec1-04.html) | yes | retained | pass | present |
+| [Can someone be commanded to be free?](../../docs/learn/esoteric-christianity/lessons/ec1-05.html) | yes | retained | pass | present |
+| [A map of spiritual evolution](../../docs/learn/esoteric-christianity/lessons/ec1-06.html) | yes | yes | pass | present |
+| [Enthusiasm, order, and the human center](../../docs/learn/esoteric-christianity/lessons/ec1-07.html) | yes | retained | pass | present |
+| [Standing, speaking, and thinking](../../docs/learn/esoteric-christianity/lessons/ec1-08.html) | yes | retained | pass | present |
+| [Zarathustra and the promise of the Sun](../../docs/learn/esoteric-christianity/lessons/ec1-09.html) | yes | retained | pass | present |
+| [Egypt, Babylon, and the circulation of gifts](../../docs/learn/esoteric-christianity/lessons/ec1-10.html) | yes | yes | pass | present |
+| [Abraham, observation, and judgment](../../docs/learn/esoteric-christianity/lessons/ec1-11.html) | yes | retained | pass | present |
+| [Why does Matthew begin with generations?](../../docs/learn/esoteric-christianity/lessons/ec1-12.html) | yes | yes | pass | present |
+| [The preserved soul and John the Baptist](../../docs/learn/esoteric-christianity/lessons/ec1-13.html) | yes | retained | pass | present |
+| [Annunciation, visitation, and attentive response](../../docs/learn/esoteric-christianity/lessons/ec1-14.html) | yes | retained | pass | present |
+| [Buddha, compassion, and Simeon’s recognition](../../docs/learn/esoteric-christianity/lessons/ec1-15.html) | yes | retained | pass | present |
+| [Shepherd hearts and kingly heads](../../docs/learn/esoteric-christianity/lessons/ec1-16.html) | yes | retained | pass | present |
+| [Nazareth and the question of community](../../docs/learn/esoteric-christianity/lessons/ec1-17.html) | yes | retained | pass | present |
+| [The twelve-year-old in the Temple](../../docs/learn/esoteric-christianity/lessons/ec1-18.html) | yes | yes | pass | present |
+| [Three encounters before the Jordan](../../docs/learn/esoteric-christianity/lessons/ec1-19.html) | yes | retained | pass | present |
+| [Mary, relinquishment, and the Baptism](../../docs/learn/esoteric-christianity/lessons/ec1-20.html) | yes | yes | pass | present |
+| [From lament to prayer](../../docs/learn/esoteric-christianity/lessons/ec1-21.html) | yes | yes | pass | present |
+| [Beyond the Jordan: what remains to be studied?](../../docs/learn/esoteric-christianity/lessons/ec1-22.html) | yes | retained | pass | present |
+| [Many spiritual streams and a universal intention](../../docs/learn/esoteric-christianity/lessons/ec1-23.html) | yes | retained | pass | present |
+| [Understanding, warmth, and a freely chosen deed](../../docs/learn/esoteric-christianity/lessons/ec1-24.html) | yes | retained | pass | present |
 
 ## meditation
 
@@ -389,28 +389,28 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [The two questions: knowledge and freedom](../../docs/philosophy-of-freedom/lessons/00.html) | pending | pending | pass | present |
-| [Is choosing enough?](../../docs/philosophy-of-freedom/lessons/01.html) | pending | pending | pass | present |
-| [Why do we seek explanations?](../../docs/philosophy-of-freedom/lessons/02.html) | pending | pending | pass | present |
-| [What do we add by thinking?](../../docs/philosophy-of-freedom/lessons/03.html) | pending | pending | pass | present |
-| [Thinking: make a connection, then examine it](../../docs/philosophy-of-freedom/lessons/04.html) | pending | pending | pass | present |
-| [Perception, representation and an argument to test](../../docs/philosophy-of-freedom/lessons/05.html) | pending | pending | pass | present |
-| [Does perception give us only representations?](../../docs/philosophy-of-freedom/lessons/06.html) | pending | pending | pass | present |
-| [Knowing: unite percept and concept](../../docs/philosophy-of-freedom/lessons/07.html) | pending | pending | pass | present |
-| [Shared concepts and the thinking that grasps them](../../docs/philosophy-of-freedom/lessons/08.html) | pending | pending | pass | present |
-| [Individuality: representation, experience and feeling](../../docs/philosophy-of-freedom/lessons/09.html) | pending | pending | pass | present |
-| [Limits to knowledge: a research gap or a second world?](../../docs/philosophy-of-freedom/lessons/10.html) | pending | pending | pass | present |
-| [Thinking, feeling and willing as factors of life](../../docs/philosophy-of-freedom/lessons/11.html) | pending | pending | pass | present |
-| [The idea of freedom: motive, driving force and moral intuition](../../docs/philosophy-of-freedom/lessons/12.html) | pending | pending | pass | present |
-| [A free deed among other people](../../docs/philosophy-of-freedom/lessons/13.html) | pending | pending | pass | present |
-| [Freedom develops within a real world](../../docs/philosophy-of-freedom/lessons/14.html) | pending | pending | pass | present |
-| [A purpose is an idea that guides action](../../docs/philosophy-of-freedom/lessons/15.html) | pending | pending | pass | present |
-| [From ethical insight to a workable deed](../../docs/philosophy-of-freedom/lessons/16.html) | pending | pending | pass | present |
-| [Practice: a new response and its actual means](../../docs/philosophy-of-freedom/lessons/17.html) | pending | pending | pass | present |
-| [Why a particular aim can be worth pursuing](../../docs/philosophy-of-freedom/lessons/18.html) | pending | pending | pass | present |
-| [Practice: satisfaction, desire and obstacles](../../docs/philosophy-of-freedom/lessons/19.html) | pending | pending | pass | present |
-| [Understand the individual beyond the category](../../docs/philosophy-of-freedom/lessons/20.html) | pending | pending | pass | present |
-| [The whole argument: monism, free action and understanding others](../../docs/philosophy-of-freedom/lessons/21.html) | pending | pending | pass | present |
+| [The two questions: knowledge and freedom](../../docs/philosophy-of-freedom/lessons/00.html) | yes | retained | pass | present |
+| [Is choosing enough?](../../docs/philosophy-of-freedom/lessons/01.html) | yes | retained | pass | present |
+| [Why do we seek explanations?](../../docs/philosophy-of-freedom/lessons/02.html) | yes | retained | pass | present |
+| [What do we add by thinking?](../../docs/philosophy-of-freedom/lessons/03.html) | yes | yes | pass | present |
+| [Thinking: make a connection, then examine it](../../docs/philosophy-of-freedom/lessons/04.html) | yes | retained | pass | present |
+| [Perception, representation and an argument to test](../../docs/philosophy-of-freedom/lessons/05.html) | yes | yes | pass | present |
+| [Does perception give us only representations?](../../docs/philosophy-of-freedom/lessons/06.html) | yes | retained | pass | present |
+| [Knowing: unite percept and concept](../../docs/philosophy-of-freedom/lessons/07.html) | yes | retained | pass | present |
+| [Shared concepts and the thinking that grasps them](../../docs/philosophy-of-freedom/lessons/08.html) | yes | retained | pass | present |
+| [Individuality: representation, experience and feeling](../../docs/philosophy-of-freedom/lessons/09.html) | yes | retained | pass | present |
+| [Limits to knowledge: a research gap or a second world?](../../docs/philosophy-of-freedom/lessons/10.html) | yes | yes | pass | present |
+| [Thinking, feeling and willing as factors of life](../../docs/philosophy-of-freedom/lessons/11.html) | yes | retained | pass | present |
+| [The idea of freedom: motive, driving force and moral intuition](../../docs/philosophy-of-freedom/lessons/12.html) | yes | retained | pass | present |
+| [A free deed among other people](../../docs/philosophy-of-freedom/lessons/13.html) | yes | retained | pass | present |
+| [Freedom develops within a real world](../../docs/philosophy-of-freedom/lessons/14.html) | yes | retained | pass | present |
+| [A purpose is an idea that guides action](../../docs/philosophy-of-freedom/lessons/15.html) | yes | yes | pass | present |
+| [From ethical insight to a workable deed](../../docs/philosophy-of-freedom/lessons/16.html) | yes | retained | pass | present |
+| [Practice: a new response and its actual means](../../docs/philosophy-of-freedom/lessons/17.html) | yes | yes | pass | present |
+| [Why a particular aim can be worth pursuing](../../docs/philosophy-of-freedom/lessons/18.html) | yes | retained | pass | present |
+| [Practice: satisfaction, desire and obstacles](../../docs/philosophy-of-freedom/lessons/19.html) | yes | yes | pass | present |
+| [Understand the individual beyond the category](../../docs/philosophy-of-freedom/lessons/20.html) | yes | retained | pass | present |
+| [The whole argument: monism, free action and understanding others](../../docs/philosophy-of-freedom/lessons/21.html) | yes | yes | pass | present |
 
 ## practical-thinking
 

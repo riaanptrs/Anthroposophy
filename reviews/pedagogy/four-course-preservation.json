@@ -1,0 +1,8 @@
+{
+  "baseline": "2c42dc0",
+  "status": "passed",
+  "auditedLessonRecords": 85,
+  "changedLessonRecords": 25,
+  "preserved": "Source-bearing metadata, IDs, goals, existing questions/answers and all non-target lesson fields in both languages. This checks model preservation, not fresh original-source fidelity.",
+  "additionalCourse": "Ancient Myths: all metadata and non-target fields preserved in eight bilingual records."
+}

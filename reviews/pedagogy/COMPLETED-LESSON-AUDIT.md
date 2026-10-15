@@ -2,6 +2,2018 @@
 
 Each entry records its review scope. The conceptual batch examines core explanations, dependencies and misconceptions; earlier primary-goal passes emphasize supplied examples and feedback. Neither an example nor passing software checks alone establishes pedagogical completion. These audits do not certify an entire subject syllabus or fresh original-source fidelity. Grade-view copies are not counted as additional primary lessons.
 
+## McDermott’s introduction and how to read the lectures
+
+[English](../../docs/according-to-luke/lessons/00.html) · [Português](../../docs/pt/according-to-luke/lessons/00.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Understand the editorial introduction, the lectures’ premises and the source coverage.
+
+**Learning criterion:**
+
+Distinguish Gospel narrative, Steiner interpretation, McDermott commentary and learner judgment, with the uploaded edition’s scope stated.
+
+**Essential concepts:**
+
+Editorial introduction: McDermott’s later guide to reading Steiner. Exoteric evidence: publicly accessible textual and historical material. Esoteric evidence: the spiritual access claimed in this account. Akashic record: the enduring spiritual record of past events proposed as a source of knowledge.
+
+**Prerequisite:**
+
+- No specialist prerequisite beyond the orientation given in this lesson.
+
+**Connections:**
+
+Distinguish Gospel narrative, Steiner interpretation, McDermott commentary and learner judgment, with the uploaded edition’s scope stated.
+
+**Misconception and feedback:**
+
+- Why does McDermott discuss the original lecture audiences?
+- Steiner assumed familiarity with anthroposophical accounts of the human being, spiritual cosmos and history. McDermott supplies orientation for readers who lack that background; see PDF capture page 5.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## The four Gospels and three levels of spiritual cognition
+
+[English](../../docs/according-to-luke/lessons/01.html) · [Português](../../docs/pt/according-to-luke/lessons/01.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain how Steiner’s distinctions between spiritual capacities support his reading of Luke.
+
+**Learning criterion:**
+
+Explain the three modes of cognition and Steiner’s research-before-document-comparison method without attributing it to ordinary textual evidence.
+
+**Essential concepts:**
+
+Imagination: spiritual perception in images. Inspiration: receiving spiritual beings’ inward expression, also described as the inner word. Intuition: participation in their being. Clairvoyant: an imaginative seer in this lecture. Initiate: someone who reaches Inspiration and Intuition. Logos: the word, associated here with John’s standpoint.
+
+**Prerequisite:**
+
+- according-to-luke lesson 00
+
+**Connections:**
+
+Explain the three modes of cognition and Steiner’s research-before-document-comparison method without attributing it to ordinary textual evidence.
+
+**Misconception and feedback:**
+
+- How do the three levels differ in the supplied lecture text?
+- Imagination perceives the spiritual beings’ outward images; Inspiration receives what they communicate from within; in Intuition, the knower becomes one with the beings through developed spiritual love. Steiner presents this as a progression beyond ordinary sensory knowledge; see captures 15–16.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## Bodhisattva, Buddha and the teaching of love and compassion
+
+[English](../../docs/according-to-luke/lessons/02.html) · [Português](../../docs/pt/according-to-luke/lessons/02.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain the relation between a spiritual teacher and a human capacity in Steiner’s account.
+
+**Learning criterion:**
+
+State what the retained German sentence establishes about the earlier teacher and what requires the missing surrounding lecture.
+
+**Essential concepts:**
+
+Bodhisattva: the Buddha’s earlier role as a spiritual teacher in this selection. Buddha: the figure whose earlier role the sentence describes; the full lecture is needed for the account of the transition. Teaching: communication of an ideal or understanding. Capacity: an ability that a person can exercise. Compassion: the concern for another’s suffering named in the source, considered alongside love.
+
+**Prerequisite:**
+
+- according-to-luke lesson 01
+
+**Connections:**
+
+State what the retained German sentence establishes about the earlier teacher and what requires the missing surrounding lecture.
+
+**Misconception and feedback:**
+
+- What does “previously” establish in the selected passage?
+- Steiner presents Buddha as having previously been the Bodhisattva. The sentence follows the same teacher through an earlier designation and identifies that earlier teaching role; it does not explain how the transition occurred.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## Give care a practical form
+
+[English](../../docs/according-to-luke/lessons/03.html) · [Português](../../docs/pt/according-to-luke/lessons/03.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Examine how thought, speech and action can support one another.
+
+**Learning criterion:**
+
+Explain how checking an exclusion claim changes speech and action, without making this ethical result establish the Nirmanakaya narrative.
+
+**Essential concepts:**
+
+Nirmanakaya: a technical term in the lecture’s account of Buddha’s continuing activity. Revision: changing a judgment when reasons require it.
+
+**Prerequisite:**
+
+- according-to-luke lesson 02
+
+**Connections:**
+
+Explain how checking an exclusion claim changes speech and action, without making this ethical result establish the Nirmanakaya narrative.
+
+**Misconception and feedback:**
+
+- Does accepting the ethical discussion establish the spiritual narrative?
+- No. The two require separate assessment.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## Keep the two infancy narratives distinct
+
+[English](../../docs/according-to-luke/lessons/04.html) · [Português](../../docs/pt/according-to-luke/lessons/04.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Map a difficult interpretation before judging it.
+
+**Learning criterion:**
+
+Explain the complementary capacities assigned to Solomon and Nathan while distinguishing Gospel differences from the two-child interpretation.
+
+**Essential concepts:**
+
+Genealogy: an account of ancestry. Hypothesis: a proposed explanation whose support must be examined.
+
+**Prerequisite:**
+
+- according-to-luke lesson 01
+
+**Connections:**
+
+Explain the complementary capacities assigned to Solomon and Nathan while distinguishing Gospel differences from the two-child interpretation.
+
+**Misconception and feedback:**
+
+- Whose explanation is the two-child account?
+- Steiner’s. Do not attribute it directly to the Gospel writers.
+
+**Identified conceptual gap:**
+
+The explanatory paragraph emphasized evaluating diagrams rather than teaching the complementary preparations.
+
+**Gap addressed:**
+
+- before: First ask what each text actually says. Then ask which additional explanation makes the differences intelligible, and at what cost in assumptions. An interpretation can remove one difficulty while creating questions elsewhere.
+- after: The two preparations answer different questions in the retained account. The Solomon line concerns Zarathustra’s acquired earthly wisdom; the Nathan line concerns preserved Adamic forces and receptivity. Neither is simply a second copy of the other. Their proposed complementarity explains why Steiner introduces two children, while the Gospel differences only provide the question to which he gives that answer. The diagram must therefore label the proposed capacities as Steiner’s interpretation, rather than treating the Gospel texts themselves as a statement of that mechanism.
+- pt: As duas preparações respondem a perguntas diferentes na concepção preservada. A linha salomônica diz respeito à sabedoria terrena adquirida por Zaratustra; a natânica, às forças adâmicas preservadas e à receptividade. Nenhuma é apenas uma segunda cópia da outra. Sua complementaridade proposta explica por que Steiner introduz dois meninos, enquanto as diferenças dos Evangelhos apenas oferecem a pergunta à qual ele responde. O diagrama deve, portanto, identificar essas capacidades como interpretação de Steiner, sem tratar os próprios Evangelhos como descrição desse mecanismo.
+- paragraphIndex: 0
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## Influence is not the same as identity
+
+[English](../../docs/according-to-luke/lessons/05.html) · [Português](../../docs/pt/according-to-luke/lessons/05.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Use precise verbs when tracing relationships.
+
+**Learning criterion:**
+
+Use different verbs for Zarathustra’s transfer, Buddha’s contribution and Christ’s later entry; contribution is not identity.
+
+**Essential concepts:**
+
+Identity: being the same individual. Contribution: playing a part in a result without thereby becoming identical with other contributors.
+
+**Prerequisite:**
+
+- according-to-luke lesson 02
+- according-to-luke lesson 04
+
+**Connections:**
+
+Use different verbs for Zarathustra’s transfer, Buddha’s contribution and Christ’s later entry; contribution is not identity.
+
+**Misconception and feedback:**
+
+- Why not replace every relationship with “is the same as”?
+- That would erase the distinctions the account depends on.
+
+**Identified conceptual gap:**
+
+The prose chiefly explained the limit of an analogy, leaving the actual three-role relation to a mapping task.
+
+**Gap addressed:**
+
+- before: This everyday example is only a lesson in language. It does not model a spiritual transfer. When a source describes a relationship that has no ordinary counterpart, it is better to mark that limit than to supply an apparently familiar but misleading explanation.
+- after: The relationship map needs three different roles. Zarathustra’s I passes from the Solomon child into the Nathan organization at twelve; Buddha contributes through the spiritual cooperation described in the lecture; Christ’s entry belongs to the later Baptism. Passing into, contributing to and entering at a later stage are not interchangeable with being identical. The musician comparison clarifies only why contributions do not imply identity; it does not explain or verify the spiritual transfer. Details beyond this retained account require the full lecture witness.
+- pt: O mapa de relações exige três papéis diferentes. O Eu de Zaratustra passa do menino salomônico à organização natânica aos doze anos; Buda contribui pela cooperação espiritual descrita na palestra; a entrada do Cristo pertence ao Batismo posterior. Passar para, contribuir para e entrar numa etapa posterior não equivalem a ser idêntico. A comparação musical esclarece apenas por que contribuições não implicam identidade; não explica nem verifica a transferência espiritual. Detalhes além dessa concepção preservada exigem a fonte completa da palestra.
+- paragraphIndex: 0
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## Responsibility beyond inherited belonging
+
+[English](../../docs/according-to-luke/lessons/06.html) · [Português](../../docs/pt/according-to-luke/lessons/06.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Consider conduct without reducing a person to ancestry.
+
+**Learning criterion:**
+
+Distinguish relevant individual conduct from inherited membership and criticize the lecture’s cultural ranking rather than applying it to living groups.
+
+**Essential concepts:**
+
+Stereotype: a generalized expectation imposed on an individual. Criterion: a stated basis for making a judgment.
+
+**Prerequisite:**
+
+- according-to-luke lesson 03
+
+**Connections:**
+
+Distinguish relevant individual conduct from inherited membership and criticize the lecture’s cultural ranking rather than applying it to living groups.
+
+**Misconception and feedback:**
+
+- What needs critical attention in this lecture’s cultural account?
+- Its hierarchy of maturity, not merely its vocabulary.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## Jesus and Christ: read the stages carefully
+
+[English](../../docs/according-to-luke/lessons/07.html) · [Português](../../docs/pt/according-to-luke/lessons/07.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Follow a chronology without collapsing its distinct figures.
+
+**Learning criterion:**
+
+Explain before twelve, twelve-to-thirty and Baptism by naming both bearer and acting individuality; preparation is not Christ’s entry.
+
+**Essential concepts:**
+
+Christology: an account of the nature and significance of Christ. Chronology: the sequence assigned to events.
+
+**Prerequisite:**
+
+- according-to-luke lesson 04
+- according-to-luke lesson 05
+
+**Connections:**
+
+Explain before twelve, twelve-to-thirty and Baptism by naming both bearer and acting individuality; preparation is not Christ’s entry.
+
+**Misconception and feedback:**
+
+- What marks the change at thirty in this account?
+- The baptism; it is a distinct stage in Steiner’s chronology.
+
+**Identified conceptual gap:**
+
+The learner was asked to build the central timeline rather than first receiving its completed conceptual sequence.
+
+**Gap addressed:**
+
+- before: The example concerns accurate reading only. Spiritual incarnation is not a theatre role. In a complex text, a helpful first step is to restore names, dates and verbs wherever an ambiguous pronoun makes the sequence hard to follow.
+- after: Before twelve, the retained account distinguishes the Solomon child bearing Zarathustra’s I from the Nathan child. At twelve, that I begins working in the Nathan organization; between twelve and thirty, preparation continues. At the Baptism, Zarathustra departs and Christ enters. The sequence changes both who acts and what the action prepares. Calling every stage Christ’s activity would erase the difference between preparing the bearer and entering it. This is a map of Steiner’s account, not an independently verified chronology.
+- pt: Antes dos doze anos, a concepção preservada distingue o menino salomônico portador do Eu de Zaratustra do menino natânico. Aos doze, esse Eu começa a atuar na organização natânica; entre doze e trinta, a preparação continua. No Batismo, Zaratustra parte e Cristo entra. A sequência modifica quem atua e o que a ação prepara. Chamar toda etapa de atividade do Cristo apagaria a diferença entre preparar o portador e entrar nele. Trata-se de um mapa da concepção de Steiner, não de uma cronologia verificada independentemente.
+- paragraphIndex: 0
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## Read healing narratives without turning them into a diagnosis
+
+[English](../../docs/according-to-luke/lessons/08.html) · [Português](../../docs/pt/according-to-luke/lessons/08.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Distinguish spiritual interpretation from evidence about illness.
+
+**Learning criterion:**
+
+Distinguish the lecture’s spiritual healing interpretation from a diagnosis and receptivity from compulsory assent.
+
+**Essential concepts:**
+
+Receptivity: willingness to attend and consider. Evidence: support relevant to the particular claim being evaluated.
+
+**Prerequisite:**
+
+- according-to-luke lesson 01
+- according-to-luke lesson 07
+
+**Connections:**
+
+Distinguish the lecture’s spiritual healing interpretation from a diagnosis and receptivity from compulsory assent.
+
+**Misconception and feedback:**
+
+- Does the lecture supply a diagnosis for a learner?
+- No. Its spiritual interpretation is not an assessment of your health.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## Love that reaches beyond self-interest
+
+[English](../../docs/according-to-luke/lessons/09.html) · [Português](../../docs/pt/according-to-luke/lessons/09.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Examine the difference between knowing an ideal and acting from it.
+
+**Learning criterion:**
+
+Distinguish teaching an ideal from the claimed power of realization, while separating practical generosity from theological proof.
+
+**Essential concepts:**
+
+Motive: a reason moving someone to act. Reciprocity: an exchange in which something is expected in return.
+
+**Prerequisite:**
+
+- according-to-luke lesson 02
+- according-to-luke lesson 03
+- according-to-luke lesson 07
+
+**Connections:**
+
+Distinguish teaching an ideal from the claimed power of realization, while separating practical generosity from theological proof.
+
+**Misconception and feedback:**
+
+- What distinction organizes the lecture’s comparison?
+- Teaching an ideal and giving it active power. Attribute the comparison to Steiner.
+
+**Identified conceptual gap:**
+
+The explanation turned chiefly to mixed motives, leaving the teaching/power distinction too compressed.
+
+**Gap addressed:**
+
+- before: An action can have mixed motives. Recognizing this need not lead to suspicion of every generous deed. It gives us a more honest question: which reason do I endorse, and how can I make the help useful without demanding gratitude?
+- after: The lecture’s distinction concerns what love does, not only who names it. Teaching makes an ideal understandable; the Christ impulse is described as a power enabling its realization. The everyday act of sharing notes can illustrate the passage from an understood purpose into help, but cannot establish the theological source of that capacity. Mixed motives still matter: pleasure in helping can accompany care, while a demand for gratitude can redirect the same outward act toward personal reward.
+- pt: A distinção da palestra diz respeito ao que o amor faz, não apenas a quem o nomeia. Ensinar torna um ideal compreensível; o impulso do Cristo é descrito como força que possibilita sua realização. Compartilhar notas pode ilustrar a passagem de um propósito compreendido à ajuda, mas não estabelece a origem teológica dessa capacidade. Motivos mistos continuam importantes: o prazer de ajudar pode acompanhar o cuidado, enquanto exigir gratidão pode redirecionar o mesmo ato exterior para uma recompensa pessoal.
+- paragraphIndex: 0
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## Golgotha and a hope that changes conduct
+
+[English](../../docs/according-to-luke/lessons/10.html) · [Português](../../docs/pt/according-to-luke/lessons/10.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Follow the lecture’s conclusion and distinguish forgiveness from excusing harm.
+
+**Learning criterion:**
+
+Explain Golgotha’s attributed initiation meaning and distinguish responsible hope from excusing harm or guaranteeing an outcome.
+
+**Essential concepts:**
+
+Initiation: entry into spiritual knowledge in the lecture’s account. Reconciliation: rebuilding a relationship, requiring more than one person’s intention.
+
+**Prerequisite:**
+
+- according-to-luke lesson 07
+- according-to-luke lesson 09
+
+**Connections:**
+
+Explain Golgotha’s attributed initiation meaning and distinguish responsible hope from excusing harm or guaranteeing an outcome.
+
+**Misconception and feedback:**
+
+- How does Steiner interpret Golgotha here?
+- As initiation entering world history. This identifies his interpretation, not its proof.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## Your synthesis: trace an argument and apply one idea
+
+[English](../../docs/according-to-luke/lessons/11.html) · [Português](../../docs/pt/according-to-luke/lessons/11.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Show what you understand from the sources you actually read, then propose a concrete application.
+
+**Learning criterion:**
+
+Produce a bounded synthesis whose source coverage is explicit; practical success alone is not evidence of the whole lecture argument.
+
+**Essential concepts:**
+
+Synthesis: an organized account connecting what you have learned. Review: checking a result against the purpose and revising accordingly.
+
+**Prerequisite:**
+
+- according-to-luke lesson 00
+- according-to-luke lesson 01
+- according-to-luke lesson 10
+
+**Connections:**
+
+Produce a bounded synthesis whose source coverage is explicit; practical success alone is not evidence of the whole lecture argument.
+
+**Misconception and feedback:**
+
+- What shows that the portfolio understands the text?
+- It reconstructs the author’s question and the relations between premises, distinctions and conclusion, supported by identifiable passages. A useful everyday action alone does not demonstrate that understanding.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
+
+## Reading a myth
+
+[English](../../docs/ancient-myths/lessons/00.html) · [Português](../../docs/pt/ancient-myths/lessons/00.html)
+
+**Scope:**
+
+Individual review of core story, explanation, attributed lecture connection and existing answers; no fresh source verification.
+
+**Learning objective:**
+
+Distinguish story, interpretation and your own response.
+
+**Learning criterion:**
+
+Compare two interpretations by their narrative support, separating story event, interpretation and personal response.
+
+**Essential concepts:**
+
+Retelling preserves an event; interpretation gives reasons for a meaning.
+
+**Prerequisite:**
+
+No specialist prerequisite.
+
+**Connections:**
+
+Compare two interpretations by their narrative support, separating story event, interpretation and personal response.
+
+**Misconception and feedback:**
+
+- How can two interpretations be compared?
+- Ask what each explains, which details support it and what it leaves unexplained. A strong personal response is meaningful but does not prove the author’s spiritual account.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within the stated introductory scope; retain the supported explanation.
+
+**Gap addressed:**
+
+- decision: Audited and retained; no rewrite counted.
+
+**Teaching method:**
+
+Retain the existing narrative comparison and its explicitly bounded interpretation.
+
+**Source limit:**
+
+Existing lecture summaries and capture references only; supplied Cotterell witness unavailable for fresh fidelity review. Spiritual history is not presented as historical consensus.
+
+## Isis, Osiris and the Greek gods
+
+[English](../../docs/ancient-myths/lessons/01.html) · [Português](../../docs/pt/ancient-myths/lessons/01.html)
+
+**Scope:**
+
+Individual review of core story, explanation, attributed lecture connection and existing answers; no fresh source verification.
+
+**Learning objective:**
+
+Follow the images before comparing Steiner’s accounts of ancient consciousness.
+
+**Learning criterion:**
+
+Compare Egyptian search/continuity with Greek succession without collapsing both into generic progress or fixed cultural types.
+
+**Essential concepts:**
+
+A useful comparison preserves differences as well as similarities.
+
+**Prerequisite:**
+
+Lesson 00: story versus interpretation.
+
+**Connections:**
+
+Compare Egyptian search/continuity with Greek succession without collapsing both into generic progress or fixed cultural types.
+
+**Misconception and feedback:**
+
+- What is lost in the summary “both stories show progress”?
+- The different relationships between death, continuity and succession disappear. Name the actual story event before making a general claim about consciousness.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within the stated introductory scope; retain the supported explanation.
+
+**Gap addressed:**
+
+- decision: Audited and retained; no rewrite counted.
+
+**Teaching method:**
+
+Retain the existing narrative comparison and its explicitly bounded interpretation.
+
+**Source limit:**
+
+Existing lecture summaries and capture references only; supplied Cotterell witness unavailable for fresh fidelity review. Spiritual history is not presented as historical consensus.
+
+## Images, language and changing consciousness
+
+[English](../../docs/ancient-myths/lessons/02.html) · [Português](../../docs/pt/ancient-myths/lessons/02.html)
+
+**Scope:**
+
+Individual review of core story, explanation, attributed lecture connection and existing answers; no fresh source verification.
+
+**Learning objective:**
+
+Distinguish an illustration of abstraction from a claim about humanity’s history.
+
+**Learning criterion:**
+
+Distinguish image, conventional word and concept, without deriving a collective history from their comparison.
+
+**Essential concepts:**
+
+An example can clarify a distinction without proving a historical sequence.
+
+**Prerequisite:**
+
+Lesson 01: attributed consciousness interpretation.
+
+**Connections:**
+
+Distinguish image, conventional word and concept, without deriving a collective history from their comparison.
+
+**Misconception and feedback:**
+
+- Does alphabetic writing demonstrate spiritual independence?
+- Not by itself. Steiner connects them within a larger spiritual account; the existence of a writing system alone does not establish that account.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within the stated introductory scope; retain the supported explanation.
+
+**Gap addressed:**
+
+- decision: Audited and retained; no rewrite counted.
+
+**Teaching method:**
+
+Retain the existing narrative comparison and its explicitly bounded interpretation.
+
+**Source limit:**
+
+Existing lecture summaries and capture references only; supplied Cotterell witness unavailable for fresh fidelity review. Spiritual history is not presented as historical consensus.
+
+## The veil of Isis and the search for knowledge
+
+[English](../../docs/ancient-myths/lessons/03.html) · [Português](../../docs/pt/ancient-myths/lessons/03.html)
+
+**Scope:**
+
+Individual review of core story, explanation, attributed lecture connection and existing answers; no fresh source verification.
+
+**Learning objective:**
+
+Examine how a mythic image becomes a question about knowing.
+
+**Learning criterion:**
+
+Explain the difference between access to visible content and capacity to understand its relations; preserve the boundary of the veil analogy.
+
+**Essential concepts:**
+
+An image can open a question; it cannot answer that question merely by being compelling.
+
+**Prerequisite:**
+
+Lesson 02: image, word and concept.
+
+**Connections:**
+
+Explain the difference between access to visible content and capacity to understand its relations; preserve the boundary of the veil analogy.
+
+**Misconception and feedback:**
+
+- Does a vivid image establish spiritual Imagination?
+- No. The course’s imagery exercise is a way of examining meaning. Steiner’s technical claim requires more than the vividness or emotional force of an invented scene.
+
+**Identified conceptual gap:**
+
+The veil comparison needed a completed ordinary explanation of access without understanding.
+
+**Gap addressed:**
+
+- before: Removing cloth changes access to an object; understanding also requires work by the knower. The veil image can direct attention to that difference. But the analogy cannot settle what lies behind the veil. A reader must still ask what is being claimed, by whom, and on what grounds. This distinction keeps a powerful image from becoming a substitute for inquiry.
+- after: Removing a cloth changes access to an object; understanding also changes what the knower can make of what is accessible. A learner may see every step of a calculation yet not understand why division applies to the whole expression. Repeating the visible symbols does not remove that difficulty; explaining the relation can. This illustrates a veil in understanding, not evidence for a hidden spiritual object. Steiner’s renewed engagement with word, thought and idea concerns the activity of knowing, rather than merely retrieving an old picture.
+- pt: Retirar um tecido modifica o acesso a um objeto; compreender também modifica o que a pessoa consegue fazer com o que está acessível. Um estudante pode ver cada etapa de um cálculo sem compreender por que a divisão se aplica à expressão inteira. Repetir os símbolos visíveis não elimina a dificuldade; explicar a relação pode fazê-lo. Isso ilustra um véu na compreensão, não evidencia um objeto espiritual oculto. A relação renovada com palavra, pensamento e ideia proposta por Steiner diz respeito à atividade de conhecer, não apenas a recuperar uma imagem antiga.
+
+**Teaching method:**
+
+Supply the missing reasoning within the existing explanation.
+
+**Source limit:**
+
+Existing lecture summaries and capture references only; supplied Cotterell witness unavailable for fresh fidelity review. Spiritual history is not presented as historical consensus.
+
+## Individuality, heredity and freedom
+
+[English](../../docs/ancient-myths/lessons/04.html) · [Português](../../docs/pt/ancient-myths/lessons/04.html)
+
+**Scope:**
+
+Individual review of core story, explanation, attributed lecture connection and existing answers; no fresh source verification.
+
+**Learning objective:**
+
+Separate an explanation of origins from the question of self-directed action.
+
+**Learning criterion:**
+
+Distinguish inherited influence, available options and understood reason, neither denying influence nor treating it as complete determination.
+
+**Essential concepts:**
+
+Origins, influences and understood reasons answer different questions.
+
+**Prerequisite:**
+
+Lesson 03: human activity in knowing.
+
+**Connections:**
+
+Distinguish inherited influence, available options and understood reason, neither denying influence nor treating it as complete determination.
+
+**Misconception and feedback:**
+
+- Does an account of freedom require denying all influence?
+- No. The question concerns how an action is grounded and understood. Showing an influence does not automatically establish complete determination, and describing a choice does not establish freedom.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within the stated introductory scope; retain the supported explanation.
+
+**Gap addressed:**
+
+- decision: Audited and retained; no rewrite counted.
+
+**Teaching method:**
+
+Retain the existing narrative comparison and its explicitly bounded interpretation.
+
+**Source limit:**
+
+Existing lecture summaries and capture references only; supplied Cotterell witness unavailable for fresh fidelity review. Spiritual history is not presented as historical consensus.
+
+## Humanity’s development and lifelong learning
+
+[English](../../docs/ancient-myths/lessons/05.html) · [Português](../../docs/pt/ancient-myths/lessons/05.html)
+
+**Scope:**
+
+Individual review of core story, explanation, attributed lecture connection and existing answers; no fresh source verification.
+
+**Learning objective:**
+
+Read Steiner’s developmental scheme without confusing collective and individual change.
+
+**Learning criterion:**
+
+Keep individual aging and the proposed collective age relation separate and explain the resulting question of conscious development.
+
+**Essential concepts:**
+
+Keep the scale of a claim consistent with the scale of its evidence.
+
+**Prerequisite:**
+
+Lesson 04: development versus inherited determination.
+
+**Connections:**
+
+Keep individual aging and the proposed collective age relation separate and explain the resulting question of conscious development.
+
+**Misconception and feedback:**
+
+- Does an adult learning a craft verify the epoch scheme?
+- No. It supports a specific observation about that learner. The collective scheme requires a different kind of justification and must remain attributed.
+
+**Identified conceptual gap:**
+
+The learner was asked to draw two lines without being given their explicit subjects and directions.
+
+**Gap addressed:**
+
+- before: The same expression can do different work. It may describe renewed curiosity, compare learning with childhood, or assert a historical law. Before agreeing, identify its use. The adult’s experience can illustrate continued learning; it cannot establish the ages assigned to whole epochs. Draw separate lines for one individual’s biography and the collective development proposed by an author. Mixing those scales makes an analogy look like evidence.
+- after: The two developmental lines have different subjects and directions. An individual moves from childhood toward later life; in Steiner’s proposed scheme, successive collective epochs are assigned a decreasing age relationship. The same person is not becoming biologically younger as time passes. His educational question follows from the contrast: development increasingly requires conscious cultivation rather than relying on what bodily maturation supplies. An adult learning a craft illustrates that practical question, but does not verify the collective epoch scheme.
+- pt: As duas linhas de desenvolvimento têm sujeitos e direções diferentes. Um indivíduo passa da infância às fases posteriores da vida; no esquema proposto por Steiner, épocas coletivas sucessivas recebem uma relação etária decrescente. A mesma pessoa não está rejuvenescendo biologicamente com o tempo. Sua pergunta educativa decorre do contraste: o desenvolvimento exige cada vez mais cultivo consciente, em vez de depender do que a maturação corporal oferece. Um adulto aprendendo um ofício ilustra essa pergunta prática, mas não verifica o esquema coletivo das épocas.
+
+**Teaching method:**
+
+Supply the missing reasoning within the existing explanation.
+
+**Source limit:**
+
+Existing lecture summaries and capture references only; supplied Cotterell witness unavailable for fresh fidelity review. Spiritual history is not presented as historical consensus.
+
+## From head knowledge to heartfelt understanding
+
+[English](../../docs/ancient-myths/lessons/06.html) · [Português](../../docs/pt/ancient-myths/lessons/06.html)
+
+**Scope:**
+
+Individual review of core story, explanation, attributed lecture connection and existing answers; no fresh source verification.
+
+**Learning objective:**
+
+Explore how an understood idea can become a considered response.
+
+**Learning criterion:**
+
+Explain how a definition becomes responsive conduct through attention, feeling and action, without claiming empirical cosmic physiology.
+
+**Essential concepts:**
+
+Understanding deepens when an idea is tested in the particulars of an encounter.
+
+**Prerequisite:**
+
+Lessons 03 and 05: knowing activity and conscious development.
+
+**Connections:**
+
+Explain how a definition becomes responsive conduct through attention, feeling and action, without claiming empirical cosmic physiology.
+
+**Misconception and feedback:**
+
+- Is heart knowledge simply choosing feeling over thought?
+- That would miss the proposed transformation. The question is how knowledge becomes integrated with care and life; neither a correct definition nor a strong feeling alone settles a response.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within the stated introductory scope; retain the supported explanation.
+
+**Gap addressed:**
+
+- decision: Audited and retained; no rewrite counted.
+
+**Teaching method:**
+
+Retain the existing narrative comparison and its explicitly bounded interpretation.
+
+**Source limit:**
+
+Existing lecture summaries and capture references only; supplied Cotterell witness unavailable for fresh fidelity review. Spiritual history is not presented as historical consensus.
+
+## Myth in education: interpretation and a final project
+
+[English](../../docs/ancient-myths/lessons/07.html) · [Português](../../docs/pt/ancient-myths/lessons/07.html)
+
+**Scope:**
+
+Individual review of core story, explanation, attributed lecture connection and existing answers; no fresh source verification.
+
+**Learning objective:**
+
+Create a short learning experience that leaves room for interpretation and revision.
+
+**Learning criterion:**
+
+Give two detail-supported interpretations of the supplied Isis retelling and improve a generic summary through those details.
+
+**Essential concepts:**
+
+Teach an encounter with a story, an interpretation and a question that can remain open.
+
+**Prerequisite:**
+
+Lessons 00, 01 and 06: supported interpretation and its educational use.
+
+**Connections:**
+
+Give two detail-supported interpretations of the supplied Isis retelling and improve a generic summary through those details.
+
+**Misconception and feedback:**
+
+- How would you assess the project without rewarding agreement alone?
+- Check fidelity to the chosen story, clear attribution, reasons tied to details, an intelligible alternative and a meaningful revision. A well-supported disagreement can demonstrate understanding.
+
+**Identified conceptual gap:**
+
+The final project prescribed a learning activity without first demonstrating a short detail-supported discussion.
+
+**Gap addressed:**
+
+- before: The second approach makes the learner’s activity visible. It still needs guidance: interpretations should attend to the story rather than become unrelated associations. Decide what the learner should understand and what the story makes possible. A myth can carry difficult themes; for a particular audience, choose and describe an adaptation openly rather than claiming your retelling is the complete traditional text. This course’s project is for adult study; a children’s version would need its own age-appropriate design.
+- after: For a short adult discussion, begin with the supplied retelling: Osiris is killed, Isis searches, and Osiris later instructs Horus beyond death. Ask what continues despite the loss. One reading emphasizes Isis’s persistent care; another emphasizes Osiris’s continued activity. Both refer to actual details, while the claim that every ancient person shared one consciousness would need different support. A learner who initially says only “good defeats evil” can revise the account by naming search, continuity and instruction. This teaches a supported interpretation rather than supplying a verdict to memorize.
+- pt: Para uma breve conversa entre adultos, comece pela narrativa fornecida: Osíris é morto, Ísis procura e Osíris depois instrui Hórus além da morte. Pergunte o que continua apesar da perda. Uma leitura destaca o cuidado persistente de Ísis; outra, a atividade continuada de Osíris. Ambas remetem a detalhes efetivos, enquanto afirmar que todos os antigos compartilhavam uma consciência exigiria outro apoio. Quem inicialmente diz apenas “o bem vence o mal” pode rever a explicação, nomeando busca, continuidade e instrução. Assim se ensina uma interpretação fundamentada, em vez de um veredito para decorar.
+
+**Teaching method:**
+
+Supply the missing reasoning within the existing explanation.
+
+**Source limit:**
+
+Existing lecture summaries and capture references only; supplied Cotterell witness unavailable for fresh fidelity review. Spiritual history is not presented as historical consensus.
+
+## From Theosophy to a path of conscious development
+
+[English](../../docs/higher-worlds/lessons/00.html) · [Português](../../docs/pt/higher-worlds/lessons/00.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Understand the book's sequence and the relationship between self-study, character and spiritual knowledge.
+
+**Learning criterion:**
+
+Relate preparation, claimed new capacities, conscious direction and service; distinguish conceptual completion from spiritual attainment.
+
+**Essential concepts:**
+
+- GA 10 — the bibliographic identifier for How to Know Higher Worlds.
+- Supersensible — beyond ordinary sensory perception in Steiner's account.
+- Esoteric training — the preparation and development proposed for access to that knowledge.
+
+**Prerequisite:**
+
+- No specialist prerequisite beyond the orientation given in this lesson.
+
+**Connections:**
+
+Relate preparation, claimed new capacities, conscious direction and service; distinguish conceptual completion from spiritual attainment.
+
+**Misconception and feedback:**
+
+- What does this book add to Theosophy?
+- It gives a more detailed account of the preparation, activities, character and responsibility that Steiner associates with acquiring supersensible knowledge.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Reverence, inner life and knowledge for service
+
+[English](../../docs/higher-worlds/lessons/01.html) · [Português](../../docs/pt/higher-worlds/lessons/01.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain how devotion and assimilation of experience prepare knowledge that serves the world.
+
+**Learning criterion:**
+
+Explain how reverence for truth, assimilation of experience and service cooperate without making personal authority sufficient.
+
+**Essential concepts:**
+
+- Veneration — devotion to truth and knowledge, developed beyond personal admiration.
+- Inner life — the inward assimilation of what the world presents.
+- Ideal — an idea made into a guiding purpose for life.
+
+**Prerequisite:**
+
+- higher-worlds lesson 00
+
+**Connections:**
+
+Explain how reverence for truth, assimilation of experience and service cooperate without making personal authority sufficient.
+
+**Misconception and feedback:**
+
+- Why does the opening compare esoteric knowledge with writing?
+- A capacity can be unavailable before suitable learning without being an arbitrary privilege. Steiner uses the comparison to explain the need for preparation.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Inner tranquillity and the higher human being
+
+[English](../../docs/higher-worlds/lessons/02.html) · [Português](../../docs/pt/higher-worlds/lessons/02.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Trace the movement from calm self-review to clear meditation and the awakening of the higher human being.
+
+**Learning criterion:**
+
+Distinguish detached review of an earlier experience from reliving it, and connect contemplative thought with ordinary duties.
+
+**Essential concepts:**
+
+- Inner tranquillity — collected attention that distinguishes essential from nonessential.
+- Higher human being — the spiritual being within the everyday person that Steiner says must be awakened.
+- Meditation — contemplative reflection described as developing into life in spiritual being.
+
+**Prerequisite:**
+
+- higher-worlds lesson 01
+
+**Connections:**
+
+Distinguish detached review of an earlier experience from reliving it, and connect contemplative thought with ordinary duties.
+
+**Misconception and feedback:**
+
+- What does the hill comparison explain?
+- A detached survey changes the relative importance of details that seemed equally pressing when encountered from within an event.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Growth, decay and selfless listening
+
+[English](../../docs/higher-worlds/lessons/03.html) · [Português](../../docs/pt/higher-worlds/lessons/03.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain how directed observation, feeling, listening and study form Steiner’s probationary stage.
+
+**Learning criterion:**
+
+Trace keen observation, felt response and the further claimed perception; distinguish listening to another from supplying one’s own reply.
+
+**Essential concepts:**
+
+- Probation — the preparatory cultivation of thought and feeling.
+- Orientation — recognizing and directing thought and feeling as realities in Steiner’s spiritual account.
+- Inner word — spiritual speech the author connects with receptive inward hearing.
+
+**Prerequisite:**
+
+- higher-worlds lesson 01
+- higher-worlds lesson 02
+
+**Connections:**
+
+Trace keen observation, felt response and the further claimed perception; distinguish listening to another from supplying one’s own reply.
+
+**Misconception and feedback:**
+
+- Why should the senses remain keen during probation?
+- The feeling is meant to arise from attentive encounter with the phenomenon; blunted observation or invented symbolism would reverse the stated sequence.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Enlightenment, the seed and the full-grown plant
+
+[English](../../docs/higher-worlds/lessons/04.html) · [Português](../../docs/pt/higher-worlds/lessons/04.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Follow the comparison of nature’s kingdoms and both plant contemplations, including their stated purpose.
+
+**Learning criterion:**
+
+Explain why the observed seed and imagined development have different roles, retaining the real/artificial distinction and its stated purpose.
+
+**Essential concepts:**
+
+- Enlightenment — the kindling of spiritual light in the book’s account of training.
+- Developmental capacity — what can unfold into a future form under suitable conditions.
+- Spiritual color — a quality of the described supersensible experience expressed through comparison with physical color.
+
+**Prerequisite:**
+
+- higher-worlds lesson 03
+
+**Connections:**
+
+Explain why the observed seed and imagined development have different roles, retaining the real/artificial distinction and its stated purpose.
+
+**Misconception and feedback:**
+
+- What does the artificial seed comparison isolate?
+- The difference between similar appearance and a capacity to develop into a plant. Thought and feeling then concentrate on that capacity.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Human desire, moral preparation and courage
+
+[English](../../docs/higher-worlds/lessons/05.html) · [Português](../../docs/pt/higher-worlds/lessons/05.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain why contemplation of another person is joined to character, dignity, patience and courage.
+
+**Learning criterion:**
+
+Distinguish unfulfilled and fulfilled desire, and explain why dignity and character constrain the proposed inquiry into another person.
+
+**Essential concepts:**
+
+- Character — the moral dispositions that guide the use of knowledge and action.
+- Human dignity — the worth of a person who must never be merely an observation object.
+- Courage — steadiness before difficulty and self-knowledge, rather than a search for peril.
+
+**Prerequisite:**
+
+- higher-worlds lesson 01
+- higher-worlds lesson 04
+
+**Connections:**
+
+Distinguish unfulfilled and fulfilled desire, and explain why dignity and character constrain the proposed inquiry into another person.
+
+**Misconception and feedback:**
+
+- Why is moral development placed before the human exercises?
+- Knowledge about another person must not become a means of selfish advantage or harm; character and service are prerequisites in the author’s account.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## The three trials and responsible knowledge
+
+[English](../../docs/higher-worlds/lessons/06.html) · [Português](../../docs/pt/higher-worlds/lessons/06.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain how the fire, water and air trials develop different capacities, and how initiation changes the use of knowledge.
+
+**Learning criterion:**
+
+Distinguish the three trials and explain how releasing old judgment differs from losing acquired capacity in the two draught images.
+
+**Essential concepts:**
+
+- Initiation — the stage in which spiritual knowledge and responsible action become connected in Steiner’s account.
+- Hidden writing — signs that the author says express spiritual forces and their relationships.
+- Presence of mind — readiness to decide and act appropriately without losing one’s inner footing.
+
+**Prerequisite:**
+
+- higher-worlds lesson 04
+- higher-worlds lesson 05
+
+**Connections:**
+
+Distinguish the three trials and explain how releasing old judgment differs from losing acquired capacity in the two draught images.
+
+**Misconception and feedback:**
+
+- Are the trials physical ordeals?
+- No. Their names describe relationships within the author’s account of spiritual development; the fire trial is a disclosure, water concerns action without external support, and air concerns initiative from within.
+
+**Identified conceptual gap:**
+
+The two draughts needed an explicit explanation of how releasing a judgment can coexist with retaining learning.
+
+**Gap addressed:**
+
+- before: Two further images clarify the relation to experience. The draught of forgetfulness means approaching what is new without allowing yesterday’s interpretation to decide it in advance; acquired experience is retained as an aid to seeing. The draught of remembrance means that higher truths become a living disposition expressed in action, rather than information repeatedly recalled. The chapter ends by joining knowledge to conduct.
+- after: The draughts of forgetfulness and remembrance address different relationships to experience. Forgetfulness means meeting a new situation without letting yesterday’s interpretation settle it in advance; acquired skill can still help. Remembrance means that understood higher truths become a living disposition in action, rather than facts repeatedly recalled. Thus one releases the authority of an old judgment while retaining and embodying what has been learned. The two images are complementary, not instructions to erase and then recover a store of memories.
+- pt: As bebidas do esquecimento e da lembrança tratam de relações diferentes com a experiência. Esquecimento significa encontrar uma nova situação sem deixar que a interpretação de ontem a decida antecipadamente; a habilidade adquirida ainda pode ajudar. Lembrança significa que verdades superiores compreendidas se tornam disposição viva na ação, em vez de fatos continuamente recordados. Assim, abandona-se a autoridade de um juízo antigo, conservando e incorporando o que se aprendeu. As imagens são complementares, não instruções para apagar e recuperar um depósito de memórias.
+- paragraphIndex: 7
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Patience, desire and tact
+
+[English](../../docs/higher-worlds/lessons/07.html) · [Português](../../docs/pt/higher-worlds/lessons/07.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Trace how the practical chapter connects inner order, motives and relationships with the development of knowledge.
+
+**Learning criterion:**
+
+Explain active patience, desire educated by knowledge and tact that retains judgment rather than merely suppressing a reply.
+
+**Essential concepts:**
+
+- Patience — active effort without insisting on an immediate result.
+- Educated desire — a wish shaped by knowledge of its object and purpose.
+- Tact — attention to another person that guides the form of a reply.
+
+**Prerequisite:**
+
+- higher-worlds lesson 02
+- higher-worlds lesson 05
+
+**Connections:**
+
+Explain active patience, desire educated by knowledge and tact that retains judgment rather than merely suppressing a reply.
+
+**Misconception and feedback:**
+
+- Does patience mean doing nothing?
+- No. Steiner joins work on one’s capacities to freedom from a demand for immediate illumination.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Seven conditions: health, participation and inner life
+
+[English](../../docs/higher-worlds/lessons/08.html) · [Português](../../docs/pt/higher-worlds/lessons/08.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Reconstruct the first three conditions and their place within freely chosen training.
+
+**Learning criterion:**
+
+State effort rather than perfect health as the first condition, distinguish shared responsibility from equal blame, and identify the further cosmic claim.
+
+**Essential concepts:**
+
+- Condition — a prerequisite the author gives for esoteric development.
+- Link in the whole — participation in a shared life with other human beings.
+- Cosmic significance — effects attributed to inner activity beyond its outward expression.
+
+**Prerequisite:**
+
+- higher-worlds lesson 01
+- higher-worlds lesson 07
+
+**Connections:**
+
+State effort rather than perfect health as the first condition, distinguish shared responsibility from equal blame, and identify the further cosmic claim.
+
+**Misconception and feedback:**
+
+- Does condition one demand perfect health?
+- No. The chapter acknowledges that health is not entirely under individual control, does not reject the unhealthy, and requires effort rather than complete fulfilment.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Seven conditions: inner being, resolve, gratitude and harmony
+
+[English](../../docs/higher-worlds/lessons/09.html) · [Português](../../docs/pt/higher-worlds/lessons/09.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain conditions four to seven and how the chapter joins devotion, constructive work and personal responsibility.
+
+**Learning criterion:**
+
+Explain why correcting a recognized error is compatible with resolve, and why harmony connects all preceding conditions.
+
+**Essential concepts:**
+
+- Spiritual balance — openness to the world together with inward endurance.
+- Resolution — a considered intention sustained unless error is recognized.
+- Harmony — agreement among the conditions as they find expression in life.
+
+**Prerequisite:**
+
+- higher-worlds lesson 08
+
+**Connections:**
+
+Explain why correcting a recognized error is compatible with resolve, and why harmony connects all preceding conditions.
+
+**Misconception and feedback:**
+
+- What is the spiritual premise of condition four?
+- The author locates the real human being inwardly and regards the person as a being of soul and spirit; the distinction between inward duty and outward success follows from this premise.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Spiritual organs, eight functions and six attributes
+
+[English](../../docs/higher-worlds/lessons/10.html) · [Português](../../docs/pt/higher-worlds/lessons/10.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Relate the different lotus descriptions to their claimed perceptions, the eight functions and six attributes, and the danger of distorted development.
+
+**Learning criterion:**
+
+Keep eight functions and six attributes distinct while showing how both can operate in one situation; distinguish conduct from claimed organ development.
+
+**Essential concepts:**
+
+- Lotus flower — comparative name for a spiritual organ in Steiner’s account.
+- Eight functions — activities linked to the sixteen-petalled lotus.
+- Six attributes — qualities linked to the twelve-petalled lotus.
+- Unconscious association — a connection influencing thought without being recognized.
+
+**Prerequisite:**
+
+- higher-worlds lesson 03
+- higher-worlds lesson 08
+- higher-worlds lesson 09
+
+**Connections:**
+
+Keep eight functions and six attributes distinct while showing how both can operate in one situation; distinguish conduct from claimed organ development.
+
+**Misconception and feedback:**
+
+- Does figurative terminology mean the organs are unreal for Steiner?
+- No. He uses comparison to communicate what he regards as supersensible organs, while warning against mistaking spiritual colour for ordinary colour vision.
+
+**Identified conceptual gap:**
+
+The distinct lists were given in full, but how one situation can involve both was left implicit.
+
+**Gap addressed:**
+
+- before: Distorted or premature development is said to bring illusion and confusion, not reliable knowledge. Even coordinated lotus flowers are insufficient on their own: the student must regulate their movement consciously and develop further organs associated with the etheric body and the inner word. This transition explains the next lesson. The eight functions, six attributes and four organ descriptions here form an argument about coordinated development, not a collection of isolated shortcuts.
+- after: The lists overlap in conduct without becoming identical. Waiting for reliable information before speaking concerns accurate ideas and measured speech among the eight functions; keeping the reasoning coherent and remaining willing to correct it concerns qualities in the six-attribute list. One situation can therefore exercise several named capacities. Steiner associates the lists with different organs and adds conscious regulation and etheric development; good conduct in this example neither merges those associations nor establishes that an organ has developed.
+- pt: As listas se sobrepõem na conduta sem se tornarem idênticas. Esperar informações confiáveis antes de falar diz respeito a ideias precisas e fala ponderada entre as oito funções; manter o raciocínio coerente e continuar disposto a corrigi-lo diz respeito a qualidades da lista de seis atributos. Uma situação pode, portanto, exercitar várias capacidades nomeadas. Steiner associa as listas a órgãos diferentes e acrescenta regulação consciente e desenvolvimento etérico; a boa conduta do exemplo não funde essas associações nem estabelece que um órgão se desenvolveu.
+- paragraphIndex: 8
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Etheric currents, the inner word and the higher self
+
+[English](../../docs/higher-worlds/lessons/11.html) · [Português](../../docs/pt/higher-worlds/lessons/11.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Trace how Steiner connects control of spiritual organs, moral habits, self-knowledge and the birth of the higher self.
+
+**Learning criterion:**
+
+Explain why etheric regulation follows lotus development and why recognizing one’s projected character is needed for interpreting forms.
+
+**Essential concepts:**
+
+- Etheric currents — the life-movements Steiner says can become consciously regulated through training.
+- Inner word — the claimed spiritual apprehension of beings in their essential nature.
+- Higher Ego — the spiritual self whose conscious birth the chapter describes.
+- Semblance — an appearance that may conceal what is essential or real.
+
+**Prerequisite:**
+
+- higher-worlds lesson 10
+
+**Connections:**
+
+Explain why etheric regulation follows lotus development and why recognizing one’s projected character is needed for interpreting forms.
+
+**Misconception and feedback:**
+
+- Why are moving lotus flowers insufficient?
+- Steiner says the student must regulate their activity consciously through etheric development to avoid being governed by external forces.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Dream transformation and a spiritual point of reference
+
+[English](../../docs/higher-worlds/lessons/12.html) · [Português](../../docs/pt/higher-worlds/lessons/12.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain the progression from symbolic dreams to waking integration, the spiritual home and astral perception in the author's account.
+
+**Learning criterion:**
+
+Explain the function of a consciously established reference standpoint, retaining the prohibition on making dreams an authoritative account.
+
+**Essential concepts:**
+
+- Dream symbolism — presentation of an experience through an image rather than a direct description.
+- Spiritual home — the consciously chosen point of reference called building the hut.
+- Astral counterpart — a spiritual form Steiner associates with a physical object, impulse or action.
+- Region of desires — the part of the soul-world where unsatisfied bodily desires persist in his account.
+
+**Prerequisite:**
+
+- higher-worlds lesson 10
+- higher-worlds lesson 11
+
+**Connections:**
+
+Explain the function of a consciously established reference standpoint, retaining the prohibition on making dreams an authoritative account.
+
+**Misconception and feedback:**
+
+- What remains common to ordinary and transformed dreams at first?
+- They present content symbolically, even though Steiner says the order and sources of that content can change.
+
+**Identified conceptual gap:**
+
+The reference standpoint was named without explaining why a succession of impressions is not yet orientation.
+
+**Gap addressed:**
+
+- before: The observer who participates in different spiritual objects is called a wanderer. To make determinate judgments, the student must consciously establish a spiritual home and relate other experiences to it. Steiner calls this building the hut. The point is a freely acquired reference standpoint, unlike a physical birthplace with inherited habits of interpretation. The image does not mean constructing a shelter or withdrawing from ordinary society; it names a stage in his claimed orientation within spiritual space.
+- after: The observer who participates in different spiritual objects is called a wanderer. The proposed spiritual home supplies a consciously established standpoint from which their relations can be judged. Without such a reference, moving from one impression to another would not by itself explain how they belong together. Steiner calls this building the hut: a freely acquired orientation, unlike a physical birthplace and its inherited habits. The distinction explains the claimed function; it is not an instruction to invent a private spiritual system or construct a physical shelter.
+- pt: Quem participa de diferentes objetos espirituais é chamado de peregrino. O lar espiritual proposto oferece uma perspectiva conscientemente estabelecida a partir da qual suas relações podem ser julgadas. Sem essa referência, passar de uma impressão a outra não explicaria, por si só, como se relacionam. Steiner chama isso de construir a cabana: orientação adquirida livremente, diferente do lugar físico de nascimento e de seus hábitos herdados. A distinção explica a função alegada; não instrui a inventar um sistema espiritual privado nem a construir um abrigo físico.
+- paragraphIndex: 4
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Waking, dreaming and dreamless sleep
+
+[English](../../docs/higher-worlds/lessons/13.html) · [Português](../../docs/pt/higher-worlds/lessons/13.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Distinguish the three states and explain Steiner's conditions for connecting initially isolated spiritual experiences.
+
+**Learning criterion:**
+
+Distinguish dreaming, dreamless sleep and waking integration; continuity of consciousness does not mean eliminating bodily rest.
+
+**Essential concepts:**
+
+- Dreamless sleep — the state ordinarily described as unconscious, distinct from dreaming sleep.
+- Continuity of consciousness — Steiner's ideal of retaining conscious spiritual experience through sleep.
+- Simile — a comparison that helps describe an experience without making it identical with the physical example.
+- Premature synthesis — joining isolated experiences into a system before their connection is established.
+
+**Prerequisite:**
+
+- higher-worlds lesson 12
+
+**Connections:**
+
+Distinguish dreaming, dreamless sleep and waking integration; continuity of consciousness does not mean eliminating bodily rest.
+
+**Misconception and feedback:**
+
+- Why distinguish dreamless sleep from dreaming?
+- The author claims that further development extends consciousness into a state ordinarily experienced as unconscious, beyond the initial transformation of dreams.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Thinking, feeling and willing under conscious guidance
+
+[English](../../docs/higher-worlds/lessons/14.html) · [Português](../../docs/pt/higher-worlds/lessons/14.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain the claimed separation of the three soul-forces, their required coordination and the three errors of imbalance.
+
+**Learning criterion:**
+
+Explain conscious cooperation of thinking, feeling and willing through a revised response, without equating it with the claimed esoteric separation.
+
+**Essential concepts:**
+
+- Soul-forces — thinking, feeling and willing in Steiner's account.
+- Higher consciousness — the agency said to coordinate these forces after their automatic links loosen.
+- Imbalance — domination by one force without the others' corrective influence.
+- Earthly task — applying capacities in physical life rather than escaping its responsibilities.
+
+**Prerequisite:**
+
+- higher-worlds lesson 09
+- higher-worlds lesson 13
+
+**Connections:**
+
+Explain conscious cooperation of thinking, feeling and willing through a revised response, without equating it with the claimed esoteric separation.
+
+**Misconception and feedback:**
+
+- What replaces the automatic connection of the three forces?
+- Steiner says the awakened higher consciousness must coordinate their activity freely and consciously.
+
+**Identified conceptual gap:**
+
+The everyday room sequence did not yet demonstrate revising the action while retaining feeling and thought.
+
+**Gap addressed:**
+
+- before: A study of this chapter should therefore distinguish freedom from disconnection. Its desired result is consciously coordinated activity, not the cultivation of emotional numbness, dependence or uncontrolled impulse. Our fictional example examines ordinary coordination as an aid to understanding the argument. It does not reproduce the esoteric change or establish the claimed transformation of the brain.
+- after: In the stuffy-room example, discomfort need not dictate one automatic deed. Thinking may notice that opening a window would disrupt a nearby conversation; willing can instead arrange a short break or ask the group. Feeling remains informative, thinking examines conditions, and action becomes responsive. This ordinary coordination clarifies why freedom differs from disconnection. It neither reproduces the claimed separation in finer bodies nor confirms the chapter’s spiritual physiology; the intended relation is cooperation under conscious guidance.
+- pt: No exemplo da sala abafada, o desconforto não precisa ditar um único ato automático. O pensar pode notar que abrir uma janela interromperia uma conversa próxima; o querer pode organizar uma pausa breve ou consultar o grupo. O sentir continua informativo, o pensar examina condições e a ação torna-se responsiva. Essa coordenação cotidiana esclarece por que liberdade difere de desconexão. Não reproduz a separação alegada nos corpos sutis nem confirma a fisiologia espiritual do capítulo; a relação pretendida é cooperação sob orientação consciente.
+- paragraphIndex: 6
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## The lesser Guardian: karma made visible
+
+[English](../../docs/higher-worlds/lessons/15.html) · [Português](../../docs/pt/higher-worlds/lessons/15.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain the Guardian's relation to past deeds, independent responsibility, death and inherited communal guidance.
+
+**Learning criterion:**
+
+Explain the lesser Guardian as independent supersensible character in the source and the transfer of responsibility from hidden guidance.
+
+**Essential concepts:**
+
+- Lesser Guardian — the being Steiner says embodies one's past character and karmic results.
+- Threshold — the boundary crossed with adequate preparation for supersensible life.
+- Karmic powers — the agencies said to relate earlier deeds to present destiny.
+- Group soul — the spiritual being the author attributes to a community, beyond its observable social relations.
+
+**Prerequisite:**
+
+- higher-worlds lesson 14
+
+**Connections:**
+
+Explain the lesser Guardian as independent supersensible character in the source and the transfer of responsibility from hidden guidance.
+
+**Misconception and feedback:**
+
+- Of what is the lesser Guardian's form composed?
+- In Steiner's account, the formerly hidden good and evil results of the student's deeds, thoughts and experiences across lives.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## The greater Guardian and the task of service
+
+[English](../../docs/higher-worlds/lessons/16.html) · [Português](../../docs/pt/higher-worlds/lessons/16.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain why earthly life and collaboration matter to the greater Guardian, while critically reading the chapter's historical hierarchy.
+
+**Learning criterion:**
+
+Connect responsibility for formation with service through capacities developed in a shared world; retain criticism of the racial hierarchy.
+
+**Essential concepts:**
+
+- Greater Guardian — the luminous being Steiner presents as an ideal and a gatekeeper of higher spiritual life.
+- Seed-ground — physical life understood as the place where future spiritual capacities develop.
+- Selfless collaboration — applying acquired capacities for fellow beings rather than private spiritual reward.
+- Historical racial hierarchy — the author's ranking of national and racial forms, requiring explicit critical examination.
+
+**Prerequisite:**
+
+- higher-worlds lesson 15
+
+**Connections:**
+
+Connect responsibility for formation with service through capacities developed in a shared world; retain criticism of the racial hierarchy.
+
+**Misconception and feedback:**
+
+- Why does the author value earthly life?
+- He treats it as the indispensable seed-ground where capacities and fruits needed in spiritual life are formed.
+
+**Identified conceptual gap:**
+
+The last paragraph could more directly state why shared development makes service integral to the argument.
+
+**Gap addressed:**
+
+- before: The ideal of service extends the lesson on the lesser Guardian. Responsibility for one's own formation becomes responsibility for shared life, while the book's spiritual cosmology and historical hierarchy remain part of what must be assessed. Our exercise uses a concrete choice about sharing a skill to clarify the ethical contrast. It does not claim that an ordinary generous act proves an encounter with a Guardian, nor does it require unlimited self-sacrifice from students.
+- after: The lesser Guardian makes the learner’s own formation and consequences a responsibility; the greater Guardian asks what the resulting capacities will contribute to shared life. Service is therefore not an unrelated final rule. The argument says these capacities arose through participation with others, so their use cannot be understood only as private possession. Sharing a learned skill illustrates that dependency without proving either Guardian’s existence or requiring unlimited self-sacrifice. The source’s racial hierarchy remains a separate historical claim requiring criticism.
+- pt: O Guardião menor torna a própria formação e suas consequências uma responsabilidade; o Guardião maior pergunta o que as capacidades resultantes oferecerão à vida compartilhada. O serviço não é, portanto, uma regra final sem relação com o percurso. O argumento afirma que essas capacidades surgiram da participação com outros, de modo que seu uso não pode ser compreendido apenas como posse privada. Compartilhar uma habilidade ilustra essa dependência sem provar a existência dos Guardiões nem exigir sacrifício ilimitado. A hierarquia racial da fonte permanece uma afirmação histórica separada que exige crítica.
+- paragraphIndex: 6
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## The appendix: clear thought, self-study and ordinary life
+
+[English](../../docs/higher-worlds/lessons/17.html) · [Português](../../docs/pt/higher-worlds/lessons/17.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Use the 1918 clarification to distinguish activity, perception, illustrative language and personal instruction.
+
+**Learning criterion:**
+
+Distinguish pure thinking activity from additional supersensible contents and active independence from passive mediumship.
+
+**Essential concepts:**
+
+- Pure thought — self-sustaining thinking considered apart from sensory and bodily contents in the author's argument.
+- Illustrative language — words or images used to indicate a reality that they do not depict literally.
+- Self-consciousness — awareness of oneself within an experience.
+
+**Prerequisite:**
+
+- higher-worlds lesson 00
+- higher-worlds lesson 10
+- higher-worlds lesson 11
+
+**Connections:**
+
+Distinguish pure thinking activity from additional supersensible contents and active independence from passive mediumship.
+
+**Misconception and feedback:**
+
+- Does experiencing pure thought already mean perceiving other supersensible beings?
+- No. The appendix explicitly distinguishes the activity of pure thought from perceiving further supersensible contents.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## A connected path: knowledge, self-direction and service
+
+[English](../../docs/higher-worlds/lessons/18.html) · [Português](../../docs/pt/higher-worlds/lessons/18.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain how preparation, conscious development and responsibility form one argument across both books.
+
+**Learning criterion:**
+
+Build a sequence connecting preparation, cognition, direction and service, and state one premise open to reasoned criticism.
+
+**Essential concepts:**
+
+- Synthesis — a connected explanation that preserves relevant differences.
+- Self-direction — consciously assuming responsibility for one's activity.
+- Source support — passages that substantiate the connection or interpretation being offered.
+
+**Prerequisite:**
+
+- higher-worlds lesson 06
+- higher-worlds lesson 09
+- higher-worlds lesson 15
+- higher-worlds lesson 16
+- higher-worlds lesson 17
+
+**Connections:**
+
+Build a sequence connecting preparation, cognition, direction and service, and state one premise open to reasoned criticism.
+
+**Misconception and feedback:**
+
+- What makes the final account more than a list of chapters?
+- It explains how a proposed capacity, its preparation, conscious direction and responsibility relate, with passages supporting each connection.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
 ## What Is Anthroposophy?
 
 [English](../../docs/introduction-to-anthroposophy/lessons/01.html) · [Português](../../docs/pt/introduction-to-anthroposophy/lessons/01.html)
@@ -1443,6 +3455,1251 @@ Fresh source fidelity remains unverified. Existing specialist scope restrictions
 **Source limit:**
 
 Existing source assignments and recorded excerpt verification retained; originals not available for fresh fidelity review. Specialist-source restrictions remain in lessons 24 and 26.
+
+## What is being prepared?
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-01.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-01.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Why distinguish the birth of Jesus from the coming of Christ?
+
+**Learning criterion:**
+
+Explain why innocence and acquired experience are complementary preparations, and distinguish Nativity, Temple and Baptism.
+
+**Essential concepts:**
+
+- Distinguish Jesus and Christ in this account
+- Place birth, Temple and Baptism in sequence
+- Explain the innocence and experience problem
+
+**Prerequisite:**
+
+- No specialist prerequisite beyond the orientation given in this lesson.
+
+**Connections:**
+
+Explain why innocence and acquired experience are complementary preparations, and distinguish Nativity, Temple and Baptism.
+
+**Misconception and feedback:**
+
+The distinction between Jesus and Christ is the particular teaching of these lectures. It should not be assumed to be the identical account of every Christian tradition. Neither childhood nor the Temple is simply another name for the Baptism.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Body, life, soul, and I
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-02.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-02.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+What does preparing a human “instrument” mean?
+
+**Learning criterion:**
+
+Distinguish bodily organization, life, sentience and I in one event without treating the members as separate anatomical objects.
+
+**Essential concepts:**
+
+- Define the four human members
+- Distinguish individuality from selfishness
+- Apply the vocabulary to a considered response
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 01
+
+**Connections:**
+
+Distinguish bodily organization, life, sentience and I in one event without treating the members as separate anatomical objects.
+
+**Misconception and feedback:**
+
+The four members are spiritual concepts in anthroposophy, not four anatomical structures discovered by medical research. Higher members such as spirit-self appear later in the lectures; they need not be mastered before the basic relationship is understood.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Four Gospels, four emphases
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-03.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-03.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+What becomes visible through several Gospel perspectives?
+
+**Learning criterion:**
+
+Explain each Gospel emphasis without claiming exclusive contents or using the tree analogy as proof of textual harmony.
+
+**Essential concepts:**
+
+- Identify the lecturer’s four emphases
+- Explain the oak-tree comparison
+- Distinguish emphasis from an exhaustive definition
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 01
+
+**Connections:**
+
+Explain each Gospel emphasis without claiming exclusive contents or using the tree analogy as proof of textual harmony.
+
+**Misconception and feedback:**
+
+The lecturer also relates evangelist emblems and temperaments to these perspectives. These optional correspondences are interpretive aids, not diagnoses of students. The reported advice about teachers reading Gospels does not establish guaranteed classroom effects.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Two Nativity accounts: read before combining
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-04.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-04.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+What does each account actually include?
+
+**Learning criterion:**
+
+Separate the two infancy narratives from the added two-child explanation, preserving Matthew’s angels and Luke’s single narrated household.
+
+**Essential concepts:**
+
+- Sort narrative details into Matthew and Luke
+- Compare the genealogical directions
+- Distinguish observation from the two-child explanation
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 03
+
+**Connections:**
+
+Separate the two infancy narratives from the added two-child explanation, preserving Matthew’s angels and Luke’s single narrated household.
+
+**Misconception and feedback:**
+
+Do not say Matthew has no angels, or that Luke explicitly describes two families. Neither “appears in this account” nor “does not appear here” is the same as a complete historical conclusion.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Can someone be commanded to be free?
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-05.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-05.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+How does freedom relate to the possibility of error?
+
+**Learning criterion:**
+
+Distinguish obedience, understood motive and creative response within the lecturer’s account of freedom and the possibility of error.
+
+**Essential concepts:**
+
+- Explain obedience versus initiative
+- Distinguish freedom from impulse
+- Connect understood purpose with love
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 02
+
+**Connections:**
+
+Distinguish obedience, understood motive and creative response within the lecturer’s account of freedom and the possibility of error.
+
+**Misconception and feedback:**
+
+The possibility of error does not make suffering desirable or excuse harmful choices. Nor does freedom mean rejecting every rule. The teaching concerns responsible initiative and love, rather than independence at any cost.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## A map of spiritual evolution
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-06.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-06.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Which levels of development does the lecturer distinguish?
+
+**Learning criterion:**
+
+Place a cultural period within an Earth epoch and a cosmic stage; explain recapitulation without turning levels into one chronological row.
+
+**Essential concepts:**
+
+- Separate cosmic stages, Earth epochs and cultural periods
+- Explain recapitulation
+- Relate the map to human preparation
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 02
+- learn/esoteric-christianity lesson 05
+
+**Connections:**
+
+Place a cultural period within an Earth epoch and a cosmic stage; explain recapitulation without turning levels into one chronological row.
+
+**Misconception and feedback:**
+
+These spiritual stages are not a geological timescale. The source’s named ancient groupings must not be used as a ranking of present peoples or as tests of biological ability. Clear levels protect both understanding and accurate attribution.
+
+**Identified conceptual gap:**
+
+Recapitulation needed an explicit relation to the nested scale, not only a general definition.
+
+**Gap addressed:**
+
+- before: Recapitulation means that an earlier pattern is taken up again at a later level. The lecturer describes the first Earth epochs as renewing earlier achievements under changed conditions. What has developed is not simply discarded; it becomes available for a new task. This makes cosmology relevant to the course: the prepared human instrument has a history before the individual biography begins.
+- after: Recapitulation means that an earlier achievement is taken up within a later stage, not that the chronology starts again. The lecturer describes the first Earth epochs as renewing earlier achievements under changed conditions. Thus an Earth epoch can refer back to Old Saturn while remaining inside Earth; it does not become another cosmic stage beside Earth. This distinction connects the nested map with preparation: earlier capacities become conditions for a new task rather than being discarded.
+- pt: Recapitulação significa que uma conquista anterior é retomada dentro de um estágio posterior, não que a cronologia recomeça. O palestrante descreve as primeiras épocas terrestres como renovação de conquistas anteriores em condições modificadas. Assim, uma época terrestre pode remeter ao Antigo Saturno permanecendo dentro da Terra; não se torna outro estágio cósmico ao lado da Terra. A distinção relaciona o mapa de níveis à preparação: capacidades anteriores tornam-se condições de uma nova tarefa, em vez de serem descartadas.
+- paragraphIndex: 3
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Enthusiasm, order, and the human center
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-07.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-07.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+How can useful capacities become one-sided?
+
+**Learning criterion:**
+
+Explain useful enthusiasm and order, their different excesses and active balance rather than a numerical midpoint.
+
+**Essential concepts:**
+
+- Explain the two spiritual poles
+- Describe active balance
+- Apply the distinction to a plan without labeling people
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 05
+- learn/esoteric-christianity lesson 06
+
+**Connections:**
+
+Explain useful enthusiasm and order, their different excesses and active balance rather than a numerical midpoint.
+
+**Misconception and feedback:**
+
+Enthusiasm, technology and order are not intrinsically wrong. These names should not become labels for religions, modern groups or people you dislike. The lesson examines capacities and their uses.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Standing, speaking, and thinking
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-08.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-08.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Why do ordinary human capacities enter the Christ story?
+
+**Learning criterion:**
+
+Distinguish memory from anticipated consequence and bodily illustrations from claims about human or spiritual worth.
+
+**Essential concepts:**
+
+- Describe the lecturer’s threefold help
+- Distinguish memory and anticipation
+- Connect capacities with responsibility
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 02
+- learn/esoteric-christianity lesson 06
+
+**Connections:**
+
+Distinguish memory from anticipated consequence and bodily illustrations from claims about human or spiritual worth.
+
+**Misconception and feedback:**
+
+A person’s ability to stand, speak aloud or use a particular bodily function does not determine their humanity or spiritual worth. Communication has many forms. The lecturer’s spiritual interpretation must never become a judgment of disabled people.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Zarathustra and the promise of the Sun
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-09.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-09.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+What role does Zarathustra play in preparing for Christ?
+
+**Learning criterion:**
+
+Distinguish Zarathustra’s preparation from Christ’s entry, and the lecturer’s Welburn and medieval-source leads from Steiner testimony.
+
+**Essential concepts:**
+
+- Distinguish Zarathustra from Christ
+- Explain recognition, preparation and offering
+- Identify the source of the fourteen-incarnation proposal
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 01
+- learn/esoteric-christianity lesson 04
+
+**Connections:**
+
+Distinguish Zarathustra’s preparation from Christ’s entry, and the lecturer’s Welburn and medieval-source leads from Steiner testimony.
+
+**Misconception and feedback:**
+
+Variant names such as Zarathas and Nazaratos belong to the lecturer’s spiritual continuity account. The supplied series does not establish every identity historically, provide a reliable age gap, or prove an exact birth date from a conjunction.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Egypt, Babylon, and the circulation of gifts
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-10.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-10.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Why do journeys between three regions recur?
+
+**Learning criterion:**
+
+Distinguish recurring geography from the claimed continuity of individuality and capacities, retaining the flight’s narrative motive.
+
+**Essential concepts:**
+
+- Locate Mesopotamia, Canaan and Egypt
+- Explain the Hermes and Moses gifts
+- Separate narrative journeys from spiritual interpretation
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 02
+- learn/esoteric-christianity lesson 09
+
+**Connections:**
+
+Distinguish recurring geography from the claimed continuity of individuality and capacities, retaining the flight’s narrative motive.
+
+**Misconception and feedback:**
+
+A recurring region is not proof of identical events or independently established spiritual transmission. Genesis attributes Abram’s renaming to God; Melchizedek’s bread-and-wine encounter is a separate episode. Keep both narrative and interpretive tracks clear.
+
+**Identified conceptual gap:**
+
+Geographical recurrence and continuity of spiritual capacities needed separate explanatory roles.
+
+**Gap addressed:**
+
+- before: In this account, returning to Egypt reconnects the Solomon child with the earlier fruits of Zarathustra’s work. Babylon likewise becomes a setting for renewed preparation through the individuality named Zarathas. The spiritual reading gives journeys a relationship to capacities. It does not erase their narrative motives: Matthew’s flight also concerns protection from Herod.
+- after: Two kinds of continuity are being proposed. A journey returns a person to a region; the spiritual interpretation reconnects an individuality with earlier developed capacities. In this account, the Solomon child’s Egyptian journey revisits the fruits of Zarathustra’s work, while Babylon belongs to preparation through the individuality named Zarathas. Repeating a location does not itself establish either continuity. Matthew’s flight still has its narrative purpose of protection from Herod, even when the lecturer gives it an additional spiritual significance.
+- pt: Dois tipos de continuidade são propostos. Uma viagem leva alguém de volta a uma região; a interpretação espiritual reconecta uma individualidade com capacidades desenvolvidas anteriormente. Nessa concepção, a viagem egípcia do menino salomônico retoma frutos do trabalho de Zaratustra, enquanto Babilônia pertence à preparação pela individualidade chamada Zaratas. Repetir um lugar não estabelece, por si só, nenhuma dessas continuidades. A fuga em Mateus conserva seu propósito narrativo de proteção contra Herodes, mesmo quando o palestrante lhe acrescenta significado espiritual.
+- paragraphIndex: 3
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Abraham, observation, and judgment
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-11.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-11.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Why emphasize number, weight, and measure?
+
+**Learning criterion:**
+
+Explain observation versus inference and the ethical openness of intelligence without deriving capacities from ancestry.
+
+**Essential concepts:**
+
+- Explain the outer-path theme
+- Separate observation and inference
+- Distinguish cleverness from responsible wisdom
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 05
+- learn/esoteric-christianity lesson 10
+
+**Connections:**
+
+Explain observation versus inference and the ethical openness of intelligence without deriving capacities from ancestry.
+
+**Misconception and feedback:**
+
+Do not infer intelligence from ancestry, body hair or a person’s religion. The family narratives are not instructions to imitate deception or exclusion. The narrative promises involving Isaac and Ishmael should both remain visible.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Why does Matthew begin with generations?
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-12.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-12.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+What work does a genealogy do in this account?
+
+**Learning criterion:**
+
+Distinguish genealogy, acting individuality and future spiritual task; explain why inheritance alone is not the whole preparation.
+
+**Essential concepts:**
+
+- Reconstruct the three groups of fourteen
+- Explain the interpreted preparation
+- Distinguish ancestry from individuality
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 04
+- learn/esoteric-christianity lesson 09
+- learn/esoteric-christianity lesson 11
+
+**Connections:**
+
+Distinguish genealogy, acting individuality and future spiritual task; explain why inheritance alone is not the whole preparation.
+
+**Misconception and feedback:**
+
+A genealogy is not a ranking of present communities. The three groups express Matthew’s structure; proposed mechanisms and counts need their own source support. Receiving preparation does not remove individual responsibility.
+
+**Identified conceptual gap:**
+
+The three roles needed a direct statement of why inherited preparation does not supply an individual purpose.
+
+**Gap addressed:**
+
+- before: Individuality and ancestry have different roles. Ancestry concerns a prepared bodily line in the account. Zarathustra concerns the individuality that works through the instrument. Christ concerns the being for whom the preparation is offered. Collapsing the three would make the course’s sequence unintelligible. The genealogical stream prepares; it does not make Zarathustra and Christ identical.
+- after: Ancestry prepares the bodily line; Zarathustra names the individuality working through that preparation; Christ names the being for whom the bearer is prepared. Those are three explanatory roles, not three successive names for one person. A prepared instrument does not supply its own individual purpose merely through inheritance. The account therefore needs both the genealogical preparation and Zarathustra’s work, while reserving Christ’s entry for the Jordan.
+- pt: A ancestralidade prepara a linhagem corporal; Zaratustra nomeia a individualidade que atua por essa preparação; Cristo nomeia o ser para quem o portador é preparado. São três funções explicativas, não três nomes sucessivos da mesma pessoa. Um instrumento preparado não recebe seu propósito individual apenas pela herança. A concepção precisa, portanto, da preparação genealógica e do trabalho de Zaratustra, reservando a entrada do Cristo ao Jordão.
+- paragraphIndex: 2
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## The preserved soul and John the Baptist
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-13.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-13.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+What does “the sister soul of Adam” mean here?
+
+**Learning criterion:**
+
+Distinguish unincarnated from inactive and spiritual kinship from biological siblinghood; identify Mary/Eve as the lecturer’s conjecture.
+
+**Essential concepts:**
+
+- Explain preserved innocence
+- Distinguish the Nathan soul from Adam–Elijah–John
+- Attribute the Mary and Eve conjecture correctly
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 02
+- learn/esoteric-christianity lesson 08
+
+**Connections:**
+
+Distinguish unincarnated from inactive and spiritual kinship from biological siblinghood; identify Mary/Eve as the lecturer’s conjecture.
+
+**Misconception and feedback:**
+
+Preserved innocence is not permission to ignore boundaries or practical judgment. Nor does the sister-soul language make John and Jesus interchangeable. Their roles remain different at the visitation and at the Jordan.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Annunciation, visitation, and attentive response
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-14.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-14.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+How do Luke’s opening relationships prepare the story?
+
+**Learning criterion:**
+
+Reconstruct annunciations and visitation before adding spiritual interpretation, retaining Mary’s inquiry and ethical song.
+
+**Essential concepts:**
+
+- Distinguish the two annunciations
+- Order the visitation
+- Explain attention to people and needs
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 04
+- learn/esoteric-christianity lesson 13
+
+**Connections:**
+
+Reconstruct annunciations and visitation before adding spiritual interpretation, retaining Mary’s inquiry and ethical song.
+
+**Misconception and feedback:**
+
+The lecturer’s explanation of conception is not securely sourced here and should not replace the biblical narrative with a biological mechanism. Jon Madsen’s rendering is the translation named in P1; these lesson retellings are paraphrases, not quotations from that edition.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Buddha, compassion, and Simeon’s recognition
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-15.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-15.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Why does Buddha enter this reading of Luke?
+
+**Learning criterion:**
+
+Distinguish Luke’s Simeon/Anna narrative, Steiner’s Asita association and the lecturer’s emphasis on universal compassion.
+
+**Essential concepts:**
+
+- Explain the proposed spiritual influence
+- Distinguish Buddha’s role from another infant
+- Retain Simeon and Anna’s recognition
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 13
+- learn/esoteric-christianity lesson 14
+
+**Connections:**
+
+Distinguish Luke’s Simeon/Anna narrative, Steiner’s Asita association and the lecturer’s emphasis on universal compassion.
+
+**Misconception and feedback:**
+
+The account is an anthroposophical relationship between traditions, not a replacement for Buddhist self-understanding.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Shepherd hearts and kingly heads
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-16.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-16.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+How can warmth and insight work together?
+
+**Learning criterion:**
+
+Explain how warmth and insight change one practical response without dividing people into heart/head types.
+
+**Essential concepts:**
+
+- Explain the two Foundation Stone images
+- Relate them to the preparations
+- Connect understanding and care with purposeful action
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 03
+- learn/esoteric-christianity lesson 09
+- learn/esoteric-christianity lesson 15
+
+**Connections:**
+
+Explain how warmth and insight change one practical response without dividing people into heart/head types.
+
+**Misconception and feedback:**
+
+A benevolent intention does not automatically make help effective. Correct analysis also does not automatically make an approach considerate. Joining them means attending to the particular person, rather than adopting a fixed personality label.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Nazareth and the question of community
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-17.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-17.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+What preparation does a community make possible?
+
+**Learning criterion:**
+
+Distinguish the two households and the role of community while keeping uncertain ages and sibling counts open.
+
+**Essential concepts:**
+
+- Distinguish the two households
+- Describe the lecturer’s Essene account
+- Connect shared life and individual responsibility
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 04
+- learn/esoteric-christianity lesson 12
+- learn/esoteric-christianity lesson 13
+
+**Connections:**
+
+Distinguish the two households and the role of community while keeping uncertain ages and sibling counts open.
+
+**Misconception and feedback:**
+
+The transcript varies in its sibling counts and age estimates. The household key omits those uncertain numbers. It clarifies relationships rather than manufacturing a complete historical family tree.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## The twelve-year-old in the Temple
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-18.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-18.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+How does the lecturer explain the child’s unexpected wisdom?
+
+**Learning criterion:**
+
+Explain the changed relation between Zarathustra’s I and Nathan organization without merging bodies or moving Christ’s entry to the Temple.
+
+**Essential concepts:**
+
+- Distinguish Luke’s scene from its interpretation
+- Reconstruct the convergence
+- Explain why the Temple is not the Jordan
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 02
+- learn/esoteric-christianity lesson 12
+- learn/esoteric-christianity lesson 13
+- learn/esoteric-christianity lesson 17
+
+**Connections:**
+
+Explain the changed relation between Zarathustra’s I and Nathan organization without merging bodies or moving Christ’s entry to the Temple.
+
+**Misconception and feedback:**
+
+The infant presentation, the twelve-year-old Temple episode and the adult Baptism are three distinct scenes. Christ does not enter at the Temple in this account. Unidentified Renaissance paintings cannot establish the two-child interpretation.
+
+**Identified conceptual gap:**
+
+The transfer needed explicit identification of what changes and what is not renamed or merged.
+
+**Gap addressed:**
+
+- before: Following Steiner’s account, the lecturer describes Zarathustra’s I leaving the Solomon child and working within the Nathan child’s organization. “I” names spiritual individuality, not the eye or merely selfish desire. “Organization” concerns the physical, etheric and astral members already introduced. The claim describes a spiritual relationship; it is not two physical bodies joining together.
+- after: Following Steiner’s account, the lecturer describes Zarathustra’s I leaving the Solomon child and working within the Nathan child’s organization. What changes is the relation between an individuality and the organization through which it acts. The Nathan physical, etheric and astral members are not renamed Zarathustra, and Christ has not yet entered. Keeping bearer, acting individuality and later task distinct explains how the account joins the two preparations without describing two physical bodies merging.
+- pt: Seguindo a concepção de Steiner, o palestrante descreve o Eu de Zaratustra deixando o menino salomônico e atuando na organização do menino natânico. Muda a relação entre uma individualidade e a organização pela qual atua. Os membros físico, etérico e astral natânicos não passam a chamar-se Zaratustra, e Cristo ainda não entrou. Distinguir portador, individualidade atuante e tarefa posterior explica como a concepção une as preparações sem descrever a fusão de dois corpos físicos.
+- paragraphIndex: 3
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Three encounters before the Jordan
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-19.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-19.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+What questions do Jesus’ encounters with traditions reveal?
+
+**Learning criterion:**
+
+Explain the shared access question across the three encounters, distinguishing the GA 148 supplement from the transcript’s brief treatment.
+
+**Essential concepts:**
+
+- Explain the three phases
+- Relate preserved wisdom to human need
+- Separate spiritual experience from a travel itinerary
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 18
+
+**Connections:**
+
+Explain the shared access question across the three encounters, distinguishing the GA 148 supplement from the transcript’s brief treatment.
+
+**Misconception and feedback:**
+
+The Britain/India/tin-trading story is not established by these sources and is omitted from the teaching itinerary. The encounter account is not a declaration that present-day religious communities are spiritually obsolete.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Mary, relinquishment, and the Baptism
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-20.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-20.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+What has been prepared by the Jordan?
+
+**Learning criterion:**
+
+Explain how prior preparation remains fruitful after Zarathustra’s withdrawal and why Jordan changes the acting being rather than erasing the past.
+
+**Essential concepts:**
+
+- Explain Mary’s listening role
+- Distinguish withdrawal from Christ’s entry
+- Reconstruct the full preparation
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 17
+- learn/esoteric-christianity lesson 18
+- learn/esoteric-christianity lesson 19
+
+**Connections:**
+
+Explain how prior preparation remains fruitful after Zarathustra’s withdrawal and why Jordan changes the acting being rather than erasing the past.
+
+**Misconception and feedback:**
+
+Offering a capacity is different from abandoning responsibility. The withdrawal in this narrative does not prescribe self-erasure for students. Mary’s spiritual renewal does not determine bodily age, purity rankings or personal worth.
+
+**Identified conceptual gap:**
+
+The sequence needed to explain why withdrawal preserves the significance of prior preparation.
+
+**Gap addressed:**
+
+- before: Return to the opening question. The Nathan stream supplies preserved innocence; Zarathustra supplies acquired wisdom; their convergence has been followed by further human experience. At the Jordan, the account presents both preparations as available to Christ. The childhood birth, the Temple convergence and the adult Baptism each have their own role.
+- after: The stages answer three different questions. Birth begins the two human preparations; the Temple connects acquired wisdom with preserved openness; the Jordan changes who acts through the prepared bearer. Zarathustra’s withdrawal does not mean that the earlier work has become useless: the organization is described as carrying its fruits. This is why the narrative can connect relinquishment with fulfillment rather than treating Christ’s entry as a replacement for all preparation.
+- pt: As etapas respondem a três perguntas diferentes. O nascimento inicia as duas preparações humanas; o Templo relaciona sabedoria adquirida e abertura preservada; o Jordão modifica quem atua pelo portador preparado. A retirada de Zaratustra não significa que o trabalho anterior se tornou inútil: a organização é descrita como portadora de seus frutos. Por isso, a narrativa pode relacionar entrega e realização, em vez de tratar a entrada do Cristo como substituição de toda preparação.
+- paragraphIndex: 3
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## From lament to prayer
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-21.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-21.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+How does the lecturer connect a lament with the Lord’s Prayer?
+
+**Learning criterion:**
+
+Explain the shift from lament to petition and participation through the stated themes without claiming word-for-word derivation.
+
+**Essential concepts:**
+
+- Explain transformation of themes
+- Distinguish lament, petition and commitment
+- Identify the source layer
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 19
+- learn/esoteric-christianity lesson 20
+
+**Connections:**
+
+Explain the shift from lament to petition and participation through the stated themes without claiming word-for-word derivation.
+
+**Misconception and feedback:**
+
+Prayer is not a guaranteed method for obtaining results. The course teaches its meaning without requiring devotion. The source text is paraphrased rather than reproduced from an unidentified modern translation.
+
+**Identified conceptual gap:**
+
+The thematic reversal needed a direct contrast between describing absence and addressing a relation.
+
+**Gap addressed:**
+
+- before: Distinguish three movements. Lament names a failure or loss. Petition asks for help, opening a relationship beyond private complaint. Commitment considers how one can participate in the sought change. The lecturer gives the transformation a Christ-centered spiritual meaning; the course’s practical exercise considers how attention can move from noticing failure toward a responsible response.
+- after: The change from lament to petition changes the relationship expressed. Naming the absence of heavenly will describes separation; addressing that will asks for a renewed relation. Considering one’s own response then connects petition with responsibility. These are distinct movements, not a guarantee that speaking a prayer produces its outcome. The lecturer supplies the Christ-centered interpretation; this explanation follows the themes without claiming a word-for-word derivation or substituting an unidentified translation.
+- pt: A mudança de lamento para petição modifica a relação expressa. Nomear a ausência da vontade celeste descreve separação; dirigir-se a essa vontade pede uma relação renovada. Considerar a própria resposta relaciona então petição e responsabilidade. São movimentos distintos, não garantia de que pronunciar uma oração produza seu resultado. O palestrante oferece a interpretação centrada no Cristo; esta explicação acompanha os temas sem alegar derivação palavra por palavra nem substituir uma tradução não identificada.
+- paragraphIndex: 3
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Beyond the Jordan: what remains to be studied?
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-22.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-22.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Which further questions does this introduction open?
+
+**Learning criterion:**
+
+Distinguish a further-source question about phantom/resurrection from a completed account or medical explanation.
+
+**Essential concepts:**
+
+- State the course’s source limits
+- Distinguish resurrection from resuscitation as a study question
+- Identify GA 131 as a continuation
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 20
+
+**Connections:**
+
+Distinguish a further-source question about phantom/resurrection from a completed account or medical explanation.
+
+**Misconception and feedback:**
+
+The transcript’s claim about the medical cause of Jesus’ death and its tentative saint/body assignments are excluded from assessed teaching. A source lead is not a claim that the whole book has been read or verified.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Many spiritual streams and a universal intention
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-23.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-23.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+What does the lecturer mean by an inclusive story?
+
+**Learning criterion:**
+
+Explain the contributions in the lecturer’s synthesis without claiming that the contributing traditions endorse that synthesis.
+
+**Essential concepts:**
+
+- Distinguish the contributions of several streams
+- Explain Christ-centered universality
+- Respect other traditions’ own accounts
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 09
+- learn/esoteric-christianity lesson 12
+- learn/esoteric-christianity lesson 15
+- learn/esoteric-christianity lesson 20
+
+**Connections:**
+
+Explain the contributions in the lecturer’s synthesis without claiming that the contributing traditions endorse that synthesis.
+
+**Misconception and feedback:**
+
+A Christ-centered synthesis is not evidence that all traditions endorse it. Nor does a spiritual grouping establish the worth of present communities. Comparative extensions should include reliable voices from the traditions concerned.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
+
+## Understanding, warmth, and a freely chosen deed
+
+[English](../../docs/learn/esoteric-christianity/lessons/ec1-24.html) · [Português](../../docs/pt/learn/esoteric-christianity/lessons/ec1-24.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+How can this course enter ordinary life?
+
+**Learning criterion:**
+
+Reconstruct the sequence with distinct participants and source layers, then relate warmth, insight and a freely chosen deed.
+
+**Essential concepts:**
+
+- Explain the whole sequence
+- Join insight and compassion
+- Choose a responsible deed without attainment claims
+
+**Prerequisite:**
+
+- learn/esoteric-christianity lesson 16
+- learn/esoteric-christianity lesson 18
+- learn/esoteric-christianity lesson 20
+- learn/esoteric-christianity lesson 23
+
+**Connections:**
+
+Reconstruct the sequence with distinct participants and source layers, then relate warmth, insight and a freely chosen deed.
+
+**Misconception and feedback:**
+
+Completing lessons does not prove initiation, clairvoyance or spiritual rank. Remembering every cosmic name is less important than explaining the participants, events and source layers accurately.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. Lecturer transcript, targeted dossier checks and conjectures remain distinct; this is not fresh verification of Steiner primary texts.
 
 ## Who was Rudolf Steiner?
 
@@ -6401,6 +9658,1118 @@ You choose a brief quiet period before an ordinary task. On a difficult day, kee
 **Source limit:**
 
 Synthesis of the selected sources and original course planning activity.
+
+## The two questions: knowledge and freedom
+
+[English](../../docs/philosophy-of-freedom/lessons/00.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/00.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Begin from Steiner’s own prefaces and learn how the inquiry into knowledge supports the inquiry into free action.
+
+**Learning criterion:**
+
+Explain why the inquiry into free motives depends on the account of thinking, without deriving later spiritual research from GA 4.
+
+**Essential concepts:**
+
+Thinking: the activity of forming and understanding conceptual connections. Thought: a content or product of that activity. Percept: observed content; perception is the observing process. Mental picture / representation: a concept individualized through an encounter. Intuition: inward apprehension of conceptual content.
+
+**Prerequisite:**
+
+- No specialist prerequisite beyond the orientation given in this lesson.
+
+**Connections:**
+
+Explain why the inquiry into free motives depends on the account of thinking, without deriving later spiritual research from GA 4.
+
+**Misconception and feedback:**
+
+- Why does the course begin with knowing rather than rules for conduct?
+- The preface connects freedom with the nature of the human being and the thinking through which motives are grasped. Part I develops the foundation required by Part II; identifying a choice alone does not settle its freedom.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Is choosing enough?
+
+[English](../../docs/philosophy-of-freedom/lessons/01.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/01.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain why Steiner connects freedom with knowing how a motive arises, rather than with available options alone.
+
+**Learning criterion:**
+
+Distinguish selection, execution and origin of motive in the cancelled-meeting example; state what the stone analogy leaves unanswered.
+
+**Essential concepts:**
+
+Motive: the reason or represented aim moving an action. Blind impulse: an urge followed without clear knowledge of its ground. Knowing doer: the person whose understanding participates in acting. Necessity: determination whose relation to freedom is being investigated.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 00
+
+**Connections:**
+
+Distinguish selection, execution and origin of motive in the cancelled-meeting example; state what the stone analogy leaves unanswered.
+
+**Misconception and feedback:**
+
+- Why is choosing Tuesday not yet proof of freedom?
+- It identifies a selected option. The chapter asks how its motive came about and whether conscious understanding changes its determining character.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Why do we seek explanations?
+
+[English](../../docs/philosophy-of-freedom/lessons/02.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/02.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Reconstruct the self–world problem and the chapter’s distinct objections to proposed accounts of unity.
+
+**Learning criterion:**
+
+Explain why renaming thought as matter or matter as thought does not yet resolve the experienced self–world relation.
+
+**Essential concepts:**
+
+Dualism: an account treating two principles as fundamentally distinct. Monism: an account seeking one underlying reality. Materialism: priority of material processes. Spiritualism: priority of spirit. Self–world contrast: the experienced relation between the questioner and the world being understood.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 00
+
+**Connections:**
+
+Explain why renaming thought as matter or matter as thought does not yet resolve the experienced self–world relation.
+
+**Misconception and feedback:**
+
+- What connects the need for an explanation with the self–world problem?
+- We confront appearances as questioners, yet belong to the world we question. Understanding seeks the connection that this experienced contrast leaves unresolved.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## What do we add by thinking?
+
+[English](../../docs/philosophy-of-freedom/lessons/03.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/03.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Practise separating an observed sequence, its conceptual explanation and a prediction based on that explanation.
+
+**Learning criterion:**
+
+Separate the supplied collision sequence, its conceptual explanation and a conditional prediction requiring additional quantities.
+
+**Essential concepts:**
+
+Observation: encounter with a content of experience, including inward content. Conceptual connection: an understood relation among concepts. Prediction: a conclusion about a further occurrence under specified conditions.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 02
+
+**Connections:**
+
+Separate the supplied collision sequence, its conceptual explanation and a conditional prediction requiring additional quantities.
+
+**Misconception and feedback:**
+
+- What does thinking add to the billiard sequence?
+- A conceptual connection among the observed details. It does not push the balls or create the occurrence.
+
+**Identified conceptual gap:**
+
+The opening asked learners to invent the observed sequence before distinguishing it from a prediction.
+
+**Gap addressed:**
+
+- before: Imagine two billiard balls. One approaches the other, contact occurs and their movements change. Write the sequence before trying to explain it. Then cover the part of the imagined table beyond the point of impact: what could you infer, and what have you actually seen?
+- after: Two billiard balls are initially still. One is struck, approaches the other and makes contact; afterwards both move. That is the supplied sequence. Calling the contact a collision connects these moments through a concept; predicting exactly where each ball goes requires further information about direction, speed and conditions. The sequence supports a question about causation but does not, by itself, supply those missing quantities.
+- pt: Duas bolas de bilhar estão inicialmente paradas. Uma recebe uma tacada, aproxima-se da outra e faz contato; depois, ambas se movem. Essa é a sequência fornecida. Chamar o contato de colisão relaciona os momentos por um conceito; prever exatamente para onde cada bola vai exige informações adicionais sobre direção, velocidade e condições. A sequência sustenta uma pergunta sobre causalidade, mas não fornece, sozinha, essas grandezas ausentes.
+- paragraphIndex: 0
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Thinking: make a connection, then examine it
+
+[English](../../docs/philosophy-of-freedom/lessons/04.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/04.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Reconstruct Steiner’s argument for observing thinking as the starting point of knowledge, including the objections answered in 1918.
+
+**Learning criterion:**
+
+Reconstruct the calculation, then distinguish thinking it from reflecting on that completed activity and from remembering its result.
+
+**Essential concepts:**
+
+Exceptional state: making thinking itself an object of observation. Thought-image: content that may arise without active elaboration. Active thinking: forming and examining conceptual connections. Epistemic starting point: the basis proposed for understanding what exists, distinct from its origin in time.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 03
+
+**Connections:**
+
+Reconstruct the calculation, then distinguish thinking it from reflecting on that completed activity and from remembering its result.
+
+**Misconception and feedback:**
+
+- Why is recalling “five” different from observing the thinking?
+- Recall gives a result. The exercise asks you to reconstruct the connections that produced it and then make that activity the object of fresh thinking.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Perception, representation and an argument to test
+
+[English](../../docs/philosophy-of-freedom/lessons/05.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/05.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain how the chapter distinguishes conceptual activity, percept and mental picture, then reconstruct its criticism of critical idealism.
+
+**Learning criterion:**
+
+Distinguish changed viewpoint, object, percept and retained representation; identify the premise borrowed by the representation-only proof.
+
+**Essential concepts:**
+
+Percept: content encountered through observation, including inward content. Concept: a thought-content related within a conceptual whole. Idea: a fuller or more comprehensive concept. Mental picture / representation: the inward after-effect connected with a particular encounter. Critical idealism: the position whose proof of knowledge restricted to mental pictures is examined here.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 04
+
+**Connections:**
+
+Distinguish changed viewpoint, object, percept and retained representation; identify the premise borrowed by the representation-only proof.
+
+**Misconception and feedback:**
+
+- Is a percept the act of perceiving, or only an external sensation?
+- Neither. It is the encountered content of observation; the chapter also includes feelings and thinking as first observed.
+
+**Identified conceptual gap:**
+
+The card illustration named four categories without completing their viewpoint/recall relationship.
+
+**Gap addressed:**
+
+- before: Look at a circular card face-on and then tilted. Its visible outline becomes narrower. Put it out of sight and recall the encounter. Distinguish the card, the encountered appearance, the concept of a circle and what remains as your mental picture.
+- after: A circular card viewed face-on has a round outline; tilted, it presents a narrower outline. The changed appearance belongs to the encounter from a changed viewpoint. It does not require the card to have been cut into a new shape. After the card is put away, recalling either view supplies a representation of the encounter. Object, appearance, explanatory concept and remembered representation therefore have different roles before the chapter asks how they are related.
+- pt: Um cartão circular visto de frente apresenta contorno redondo; inclinado, apresenta contorno mais estreito. A aparência modificada pertence ao encontro a partir de outro ponto de vista. Isso não exige que o cartão tenha sido recortado numa forma nova. Depois de guardá-lo, lembrar qualquer vista oferece uma representação do encontro. Objeto, aparência, conceito explicativo e representação lembrada têm, portanto, papéis diferentes antes de o capítulo perguntar como se relacionam.
+- paragraphIndex: 0
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Does perception give us only representations?
+
+[English](../../docs/philosophy-of-freedom/lessons/06.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/06.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Practise reconstructing a proof and testing whether it applies its own conclusion consistently.
+
+**Learning criterion:**
+
+Explain the proof’s inconsistent treatment of perceived organs and its separate unobserved transition from brain process to sensation.
+
+**Essential concepts:**
+
+Premise: a statement used to support a conclusion. Consistency: applying the same standard to the argument’s foundations and result. Evidential gap: a claimed connection not established by the observations offered. Naive realism: accepting immediate percepts as independently existing just as they appear.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 05
+
+**Connections:**
+
+Explain the proof’s inconsistent treatment of perceived organs and its separate unobserved transition from brain process to sensation.
+
+**Misconception and feedback:**
+
+- What is the borrowed premise?
+- Perceived organs and processes are treated as objectively valid causes, although the argument’s conclusion classifies perceived objects generally as mental pictures.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Knowing: unite percept and concept
+
+[English](../../docs/philosophy-of-freedom/lessons/07.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/07.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Reconstruct Steiner's account of knowing, including the criticism of idealism, the conceptual side of reality and the 1918 addition.
+
+**Learning criterion:**
+
+Explain how the rose’s successive percepts and concept belong together, without claiming that thinking physically grows the flower.
+
+**Essential concepts:**
+
+Percept: content encountered through observation; concept: intelligible content grasped through thinking; intuition: the inward appearance of conceptual content; critical idealism: the position being examined about the representative character of perception; synthesis: joining percept and concept in knowing.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 04
+- philosophy-of-freedom lesson 05
+
+**Connections:**
+
+Explain how the rose’s successive percepts and concept belong together, without claiming that thinking physically grows the flower.
+
+**Misconception and feedback:**
+
+- What does the collapsing-house analogy establish?
+- It challenges a proof that rejects the naive-realistic premises supporting its conclusion. The failure of that proof alone does not establish that every idealist conclusion is false.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Shared concepts and the thinking that grasps them
+
+[English](../../docs/philosophy-of-freedom/lessons/08.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/08.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Distinguish shared conceptual content, individual apprehension and representation, then reconstruct the thinking exception in the 1918 addition.
+
+**Learning criterion:**
+
+Distinguish shared conceptual content from different drawings, personal encounters and remembered representations.
+
+**Essential concepts:**
+
+Conceptual content: the relation understood; individual apprehension: a person's act of understanding it; subjective percept: inward content made an object of observation; representation: a concept retaining reference to a particular encounter; naive realism of thinking: Steiner's proposed direct access to thinking's activity.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 07
+
+**Connections:**
+
+Distinguish shared conceptual content from different drawings, personal encounters and remembered representations.
+
+**Misconception and feedback:**
+
+- Must the drawings or feelings match for conceptual content to be shared?
+- No. Different percepts and personal responses can accompany understanding of the same conceptual relation.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Individuality: representation, experience and feeling
+
+[English](../../docs/philosophy-of-freedom/lessons/09.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/09.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain the individualized concept, two kinds of recognition and the distinct roles of experience and feeling in personal life.
+
+**Learning criterion:**
+
+Distinguish recognition of a kind from recognition of the same individual object using the bicycle example.
+
+**Essential concepts:**
+
+Representation or mental picture: a concept retaining reference to a particular percept; individualized concept: the same relation expressed in conceptual terms; experience: the connected range of particular encounters and concepts; feeling: the individual relation expressed in pleasure or displeasure; recognition: identifying either a kind or the same object again.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 07
+- philosophy-of-freedom lesson 08
+
+**Connections:**
+
+Distinguish recognition of a kind from recognition of the same individual object using the bicycle example.
+
+**Misconception and feedback:**
+
+- What makes a concept individualized in a representation?
+- It retains its reference to a particular perceptual encounter. The term does not mean that a general concept becomes an arbitrary private opinion.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Limits to knowledge: a research gap or a second world?
+
+[English](../../docs/philosophy-of-freedom/lessons/10.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/10.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Reconstruct the monist answer to dualism and distinguish present research limits, sensory limitations and proposed absolute unknowability.
+
+**Learning criterion:**
+
+Explain why a present observational gap does not entail an inaccessible second reality; distinguish lack of evidence from a metaphysical premise.
+
+**Essential concepts:**
+
+Monism: percept and concept as complementary sides of one reality; dualism: the two-world account criticized in this chapter; thing-in-itself: supposed reality placed beyond the experienced object; induction: a conditional inference from observations; research limit: a present obstacle of observation, circumstances or understanding.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 05
+- philosophy-of-freedom lesson 07
+- philosophy-of-freedom lesson 09
+
+**Connections:**
+
+Explain why a present observational gap does not entail an inaccessible second reality; distinguish lack of evidence from a metaphysical premise.
+
+**Misconception and feedback:**
+
+- Does Steiner's denial of absolute limits mean that current investigators know everything?
+- No. He recognizes obstacles arising from circumstances and particular organization. He denies that knowing, understood as joining percept and concept, requires an inaccessible second world.
+
+**Identified conceptual gap:**
+
+The research-gap example asked a question without showing what reconsideration of a proposed explanation would look like.
+
+**Gap addressed:**
+
+- before: A plant in your study room begins to wilt. You know its appearance but have not recorded its light, water or temperature. This is a gap in the investigation. Claiming that its real cause must belong to an unknowable world would be a different judgment. What information and conceptual relations could turn the present puzzle into an intelligible process?
+- after: A plant begins to wilt, but its recent light, water and temperature have not been recorded. Naming insufficient water is a possible explanation, not yet a finding. A record showing wet soil would require reconsidering that proposal rather than declaring the plant unknowable. This is a research gap: relevant observations and their relations are missing. A claim that the cause belongs in principle to an inaccessible second world would add a different premise, not follow from the missing record.
+- pt: Uma planta começa a murchar, mas não há registro recente de luz, água e temperatura. Nomear falta de água oferece uma explicação possível, ainda não um resultado estabelecido. Um registro de solo molhado exigiria reconsiderar a proposta, em vez de declarar a planta incognoscível. Trata-se de uma lacuna de investigação: faltam observações pertinentes e suas relações. Afirmar que a causa pertence por princípio a um segundo mundo inacessível acrescentaria outra premissa; não decorreria do registro ausente.
+- paragraphIndex: 0
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Thinking, feeling and willing as factors of life
+
+[English](../../docs/philosophy-of-freedom/lessons/11.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/11.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain the directions of feeling and willing, the criticism of making either a universal principle, and the 1918 account of living thinking.
+
+**Learning criterion:**
+
+Explain feeling’s personal significance and willing’s outward direction while retaining thinking’s contribution to understanding both.
+
+**Essential concepts:**
+
+Cognition: establishing conceptual relations among percepts; feeling: the object's individually experienced relation to the subject; willing: the subject's active relation toward the object; thelism: philosophy that treats will as the world principle; living thinking: actively experienced conceptual activity rather than its remembered abstraction.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 07
+- philosophy-of-freedom lesson 09
+
+**Connections:**
+
+Explain feeling’s personal significance and willing’s outward direction while retaining thinking’s contribution to understanding both.
+
+**Misconception and feedback:**
+
+- How do feeling and willing differ in direction here?
+- Feeling expresses the encountered object's relation to me as subject; willing expresses my relation toward what is objective through activity.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## The idea of freedom: motive, driving force and moral intuition
+
+[English](../../docs/philosophy-of-freedom/lessons/12.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/12.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain when motive and driving force coincide in ethical individualism and how this differs from instinct, habit, authority or a fixed moral rule.
+
+**Learning criterion:**
+
+Distinguish motive, driving force and their proposed coincidence in moral intuition; helpful appearance alone does not establish freedom.
+
+**Essential concepts:**
+
+Motive: conceptual content supplying an action's aim; driving force: what makes the motive effective for the individual; characterological disposition: enduring representations and feelings shaping response; practical reason: pure thinking as driving force; ethical individualism: realization of concrete, individually grasped moral intuitions.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 04
+- philosophy-of-freedom lesson 11
+
+**Connections:**
+
+Distinguish motive, driving force and their proposed coincidence in moral intuition; helpful appearance alone does not establish freedom.
+
+**Misconception and feedback:**
+
+- How do motive and driving force differ, and when do they coincide?
+- The motive supplies the action's conceptual aim; the driving force makes that aim effective for the individual. At Steiner's highest level both are the understood ideal content of moral intuition.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## A free deed among other people
+
+[English](../../docs/philosophy-of-freedom/lessons/13.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/13.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Examine the developmental and social arguments of ethical individualism without confusing individuality with an arbitrary impulse or compulsory agreement.
+
+**Learning criterion:**
+
+Reconstruct the conditional shared-world premise of the harmony claim without concluding that all ordinary proposals are compatible.
+
+**Essential concepts:**
+
+Free deed: an act determined by individually grasped ideal content; moral standard: a general rule with a developmental role; social maxim: love for one's action joined with understanding another's will; free spirit: the realized ideal of human freedom; social order: an outcome of individual life that also supports its development.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 12
+
+**Connections:**
+
+Reconstruct the conditional shared-world premise of the harmony claim without concluding that all ordinary proposals are compatible.
+
+**Misconception and feedback:**
+
+- Does saying an idea is mine establish that it is a free moral intuition?
+- No. The chapter distinguishes understood ideal content from blind instinct and asks about its place in the wider moral context.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Freedom develops within a real world
+
+[English](../../docs/philosophy-of-freedom/lessons/14.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/14.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Explain how monism distinguishes imposed action from individual ethical insight while recognizing actual constraints.
+
+**Learning criterion:**
+
+Explain how a received rule can become an understood aim while real constraints and mixed motives remain.
+
+**Essential concepts:**
+
+Monism — the account locating percept and concept within one experienceable reality; metaphysical realism — an explanation invoking a merely inferred reality behind experience; compulsion — a determining constraint; free spirit — the developing individual whose act is sustained by ideal intuition.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 12
+
+**Connections:**
+
+Explain how a received rule can become an understood aim while real constraints and mixed motives remain.
+
+**Misconception and feedback:**
+
+- Does moving an authority's command into an inner voice establish freedom?
+- No. The voice may still function as an independent command. The question is whether individually apprehended ethical content determines the act.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## A purpose is an idea that guides action
+
+[English](../../docs/philosophy-of-freedom/lessons/15.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/15.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Distinguish a represented aim from causation, lawful organization, and an assumed purpose of the world.
+
+**Learning criterion:**
+
+Separate a present represented purpose, practical causes and actual outcome; give an intended failure and an unintended effect.
+
+**Essential concepts:**
+
+Purpose — an intended result represented as a reason for action; cause — what brings about an effect; lawfulness — an intelligible connection among phenomena; mental picture — an individualized representation relating an idea to a possible or experienced event.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 07
+- philosophy-of-freedom lesson 14
+
+**Connections:**
+
+Separate a present represented purpose, practical causes and actual outcome; give an intended failure and an unintended effect.
+
+**Misconception and feedback:**
+
+- Does the future result physically act backward on the doer?
+- No. A present mental picture of the intended result guides present action. The later result may differ from what was intended.
+
+**Identified conceptual gap:**
+
+The final purpose comparison remained a list of tasks rather than a supplied interpretation of failed and unintended outcomes.
+
+**Gap addressed:**
+
+- before: Return to the display. Separate what you intended, the present representation that guided you, the practical causes through which shelves moved, and what readers actually did. Then compare this with the plant: lawful development is observable and interpretable, but an imagined intention has not thereby been identified. Finally consider a shared project whose result exceeds any one member's plan. Purpose, causal explanation, and emergent joint outcome answer different questions; the chapter's account asks us to keep them explicit.
+- after: In the display example, easier access is the intended outcome; the present representation of that outcome guides arranging the shelves; bodily work moves them; readers’ later use shows what actually resulted. If nobody finds the books more easily, the purpose was present but unfulfilled. If an unplanned conversation begins beside the display, it is an effect without necessarily having been the purpose. A lawful sequence, an intended aim and an actual result are therefore distinguishable even within one project.
+- pt: No exemplo da exposição, o acesso mais fácil é o resultado pretendido; sua representação presente orienta a organização das estantes; o trabalho corporal as move; o uso posterior pelos leitores mostra o resultado efetivo. Se ninguém encontra os livros com mais facilidade, o propósito existiu, mas não se realizou. Se começa uma conversa não planejada junto à exposição, há um efeito que não era necessariamente seu propósito. Sequência causal, objetivo pretendido e resultado efetivo são, portanto, distintos mesmo num único projeto.
+- paragraphIndex: 7
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## From ethical insight to a workable deed
+
+[English](../../docs/philosophy-of-freedom/lessons/16.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/16.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Connect moral intuition, imagination and technique, and distinguish freedom of motive from the ability to carry out an action.
+
+**Learning criterion:**
+
+Trace ethical reason, imagined response and practical technique when a participant requests audio rather than adjustable text.
+
+**Essential concepts:**
+
+Moral intuition — apprehension of ethical ideal content; moral imagination — forming a concrete possible deed from that content; moral technique — knowledge and skill for transforming real circumstances; historical development — actual emergence over time, distinct from logical deduction.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 12
+- philosophy-of-freedom lesson 15
+
+**Connections:**
+
+Trace ethical reason, imagined response and practical technique when a participant requests audio rather than adjustable text.
+
+**Misconception and feedback:**
+
+- What changes when the participant asks for audio rather than a digital copy?
+- The ethical aim of enabling participation can remain, while the imagined form and practical technique change. Ask what works for the person instead of defending the initial proposal.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Practice: a new response and its actual means
+
+[English](../../docs/philosophy-of-freedom/lessons/17.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/17.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Apply the three roles of moral action and explain why an action's history does not settle its present motive.
+
+**Learning criterion:**
+
+Explain why neither an old rule nor a novel format establishes freedom, then connect the need, purpose and workable means.
+
+**Essential concepts:**
+
+Technical capacity — practical ability to carry out a proposal; productive contribution — formation of new concrete ethical content; historical origin — influences and development preceding an act; determining reason — what sustains this present act.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 16
+
+**Connections:**
+
+Explain why neither an old rule nor a novel format establishes freedom, then connect the need, purpose and workable means.
+
+**Misconception and feedback:**
+
+- Does a new format prove a new free motive?
+- No. A novel response can still be copied or pursued for praise; the determining reason must be examined.
+
+**Identified conceptual gap:**
+
+The optional practice asked what two positions left unexplained but did not resolve their different errors in the opening.
+
+**Gap addressed:**
+
+- before: Your group has always distributed printed notes. A member asks for audio. One organizer says that nothing can change because the rule is old; another says that any new format is automatically freer. What has each left unexplained? Sketch the member's need, the proposed response, and the reasons for adopting it.
+- after: A group has always distributed printed notes, and a member asks for audio. Keeping print simply because the rule is old leaves its present purpose unexamined. Choosing audio simply because it is new leaves its suitability and motive unexamined. A reasoned response begins with the member’s actual access need: preserve the aim of participation, consider an appropriate format, and check whether it works. Neither age nor novelty answers those questions for us.
+- pt: Um grupo sempre distribuiu notas impressas, e um participante pede áudio. Manter a impressão apenas porque a regra é antiga deixa seu propósito presente sem exame. Escolher áudio apenas porque é novo deixa sua adequação e seu motivo sem exame. Uma resposta fundamentada começa pela necessidade real de acesso: conservar o propósito de participação, considerar um formato adequado e conferir se funciona. Nem antiguidade nem novidade respondem a essas perguntas por nós.
+- paragraphIndex: 0
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Why a particular aim can be worth pursuing
+
+[English](../../docs/philosophy-of-freedom/lessons/18.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/18.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Reconstruct the debate about pleasure, pain and desire, then explain the qualified claim that ethical ideals can sustain willing.
+
+**Learning criterion:**
+
+Distinguish pleasure–pain balance, particular desire, satisfaction and hindrance; explain why enjoyable ethical action need not be selfish.
+
+**Essential concepts:**
+
+Optimism — the philosophical claim that the world is fundamentally good; pessimism — the opposed assessment of existence through suffering; eudemonism — the account valuing life through a surplus of pleasure; value of satisfaction — its relation to a particular desire; ethical desire — wanting directed by apprehended ethical content.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 12
+- philosophy-of-freedom lesson 16
+
+**Connections:**
+
+Distinguish pleasure–pain balance, particular desire, satisfaction and hindrance; explain why enjoyable ethical action need not be selfish.
+
+**Misconception and feedback:**
+
+- Does the chapter deny that pleasure and pain can be compared?
+- No. It allows approximate comparison and pleasure-based choice among interchangeable alternatives. It disputes treating that balance as the sole explanation of every concrete aim.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Practice: satisfaction, desire and obstacles
+
+[English](../../docs/philosophy-of-freedom/lessons/19.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/19.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Distinguish a balance of pleasure and pain from the value of fulfilling a particular desire.
+
+**Learning criterion:**
+
+Compare one unit meeting needs of two and four units, and explain why an equally pleasant substitute need not meet the particular aim.
+
+**Essential concepts:**
+
+Partial fulfillment — some satisfaction with demand still unmet; interchangeability — alternatives adequately meeting the same aim; hindrance — a difficulty affecting the pursuit of an aim; determining ethical content — the understood ideal that sustains an act in Steiner's freedom account.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 18
+
+**Connections:**
+
+Compare one unit meeting needs of two and four units, and explain why an equally pleasant substitute need not meet the particular aim.
+
+**Misconception and feedback:**
+
+- Is a pleasant substitute always enough?
+- No. A specific desire may require its particular object: amusement does not repair a book or supply food. Some alternatives are interchangeable, but that must be established.
+
+**Identified conceptual gap:**
+
+Partial satisfaction was illustrated but the changed denominator was not worked numerically.
+
+**Gap addressed:**
+
+- before: Use the bread example without turning hunger into abstract entertainment. If the need is for two pieces and only one is obtained, some satisfaction exists while the need remains partly unmet. An equally enjoyable walk does not supply the missing food. Likewise, a pleasant film does not preserve the book. Where you genuinely want only some amusement and accept either activity, pleasure comparison can be relevant. Establish interchangeability rather than assume it.
+- after: In the bread illustration, one piece meets half of a two-piece need, but only a quarter of a four-piece need. The satisfaction supplied is unchanged; the proportion of the particular need met changes. A pleasant walk supplies neither missing piece, so equal enjoyment would not make it interchangeable with food. The numbers clarify a relation, not a measure of human worth or a nutritional prescription. In the repair example, a film likewise cannot substitute for the object being repaired unless the actual aim was merely some amusement.
+- pt: Na ilustração do pão, um pedaço atende metade de uma necessidade de dois pedaços, mas apenas um quarto de uma necessidade de quatro. A satisfação oferecida permanece igual; muda a proporção da necessidade específica atendida. Uma caminhada agradável não fornece nenhum pedaço ausente, portanto igual prazer não a tornaria intercambiável com alimento. Os números esclarecem uma relação, não medem valor humano nem prescrevem alimentação. No exemplo do conserto, um filme tampouco substitui o objeto reparado, a menos que o propósito real fosse apenas algum entretenimento.
+- paragraphIndex: 2
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## Understand the individual beyond the category
+
+[English](../../docs/philosophy-of-freedom/lessons/20.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/20.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Distinguish shared characteristics from a person's own reasons, and read the chapter's historical group claims critically.
+
+**Learning criterion:**
+
+Reconstruct another person’s stated aim before judging it; distinguish observable quietness from an inferred preference and critique racial generalization.
+
+**Essential concepts:**
+
+Genus / generic — a general kind or characteristics shared within a grouping; individuality — the particular thinking and aims expressed by this person; inference — a conclusion drawn from an observation; self-determination — here, action sustained by personally apprehended ethical content.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 09
+- philosophy-of-freedom lesson 12
+
+**Connections:**
+
+Reconstruct another person’s stated aim before judging it; distinguish observable quietness from an inferred preference and critique racial generalization.
+
+**Misconception and feedback:**
+
+- Does being quiet show that a member does not want to lead?
+- No. Quiet behavior is observed; the alleged preference is an inference needing examination. The person's own explanation can change your understanding.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+
+**Gap addressed:**
+
+- decision: Retained after individual review; no prose change counted.
+
+**Teaching method:**
+
+Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+
+## The whole argument: monism, free action and understanding others
+
+[English](../../docs/philosophy-of-freedom/lessons/21.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/21.html)
+
+**Scope:**
+
+Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+
+**Learning objective:**
+
+Connect both halves of the book, explain the conclusion and appendix, and identify what the philosophical argument does and does not establish.
+
+**Learning criterion:**
+
+Connect knowing circumstances with ethical intuition, imagination and technique, without treating successful help as proof of free willing.
+
+**Essential concepts:**
+
+Monism of thought: the unity grasped through percept and conceptual content in experienced thinking. Ethical individualism: acting from individually understood ethical content. Moral imagination: a concrete possible expression of an ethical idea. Moral technique: knowledge and skill for realizing it. Other minds: the question of knowing another person’s conscious content.
+
+**Prerequisite:**
+
+- philosophy-of-freedom lesson 07
+- philosophy-of-freedom lesson 12
+- philosophy-of-freedom lesson 16
+- philosophy-of-freedom lesson 20
+
+**Connections:**
+
+Connect knowing circumstances with ethical intuition, imagination and technique, without treating successful help as proof of free willing.
+
+**Misconception and feedback:**
+
+- Why is Part I necessary for the argument about free deeds?
+- The first conclusion addition says ethical self-observation is insufficient if intuitive thinking is dependent on an external source. The account of self-sustaining, experienced thinking provides the book’s proposed basis for freedom in actions proceeding from intuitions.
+
+**Identified conceptual gap:**
+
+The ending assigned a portfolio; it needed a concise completed connection between knowing and acting.
+
+**Gap addressed:**
+
+- before: Complete the course by showing both knowing and acting in one portfolio. Include an observed situation, the conceptual connection you reconstructed, the person’s particular circumstances, a possible ethical reason, a concrete imagined deed, practical requirements and a way to examine its result. Name what could still determine you through habit, fear or approval. Acknowledge any disagreement or unresolved premise. The destination is a clearer capacity to understand and take responsibility for a reason, rather than a certificate that every deed is free.
+- after: The small-print case connects the argument without collapsing its steps. Knowing that a participant cannot use the handout identifies a circumstance; it does not yet provide the ethical aim. Grasping participation as a reason, imagining an audio version and obtaining the skills to deliver it add distinct contributions. A usable recording shows practical success, while the question of freedom still concerns what determined the deed. This final distinction prevents both a correct explanation and a helpful outcome from being treated as certificates of free willing.
+- pt: O caso das letras pequenas relaciona o argumento sem fundir suas etapas. Saber que uma pessoa não consegue usar o material identifica uma circunstância; ainda não oferece o propósito ético. Compreender a participação como razão, imaginar uma versão em áudio e obter as habilidades para entregá-la acrescentam contribuições distintas. Uma gravação utilizável mostra êxito prático, enquanto a questão da liberdade ainda diz respeito ao que determinou o ato. Essa distinção final impede que uma explicação correta ou um resultado útil sejam tratados como certificados de querer livre.
+- paragraphIndex: 9
+
+**Teaching method:**
+
+Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+
+**Source limit:**
+
+Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
 
 ## Practical and Impractical Thinking
 
