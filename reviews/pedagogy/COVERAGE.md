@@ -100,20 +100,20 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [Reading the collection: Goethe, colour and artistic renewal](../../docs/colour/lessons/00.html) | pending | pending | pass | present |
-| [Colour experience and the four image colours](../../docs/colour/lessons/01.html) | pending | pending | pass | present |
-| [Lustre and image: colour’s inner activity](../../docs/colour/lessons/02.html) | pending | pending | pass | present |
-| [Colour in matter and painting out of colour](../../docs/colour/lessons/03.html) | pending | pending | pass | present |
-| [Colour, living form and a shared spiritual culture](../../docs/colour/lessons/04.html) | pending | pending | pass | present |
-| [Moral colour experience and the windows of tone](../../docs/colour/lessons/05.html) | pending | pending | pass | present |
-| [Thought–light and will–darkness: past and future](../../docs/colour/lessons/06.html) | pending | pending | pass | present |
-| [Light, weight, love and a moral world becoming](../../docs/colour/lessons/07.html) | pending | pending | pass | present |
-| [Light, darkness and the living observer](../../docs/colour/lessons/08.html) | pending | pending | pass | present |
-| [Colour perspective and cosmic memory](../../docs/colour/lessons/09.html) | pending | pending | pass | present |
-| [Titian: beauty between wisdom and virtue](../../docs/colour/lessons/10.html) | pending | pending | pass | present |
-| [Weightless colour, consciousness and the renewal of painting](../../docs/colour/lessons/11.html) | pending | pending | pass | present |
-| [Hierarchies, elemental reflections and the rainbow](../../docs/colour/lessons/12.html) | pending | pending | pass | present |
-| [Reconstruct, compare and create: a colour synthesis](../../docs/colour/lessons/13.html) | pending | pending | pass | present |
+| [Reading the collection: Goethe, colour and artistic renewal](../../docs/colour/lessons/00.html) | yes | yes | pass | present |
+| [Colour experience and the four image colours](../../docs/colour/lessons/01.html) | yes | retained | pass | present |
+| [Lustre and image: colour’s inner activity](../../docs/colour/lessons/02.html) | yes | yes | pass | present |
+| [Colour in matter and painting out of colour](../../docs/colour/lessons/03.html) | yes | retained | pass | present |
+| [Colour, living form and a shared spiritual culture](../../docs/colour/lessons/04.html) | yes | retained | pass | present |
+| [Moral colour experience and the windows of tone](../../docs/colour/lessons/05.html) | yes | retained | pass | present |
+| [Thought–light and will–darkness: past and future](../../docs/colour/lessons/06.html) | yes | yes | pass | present |
+| [Light, weight, love and a moral world becoming](../../docs/colour/lessons/07.html) | yes | retained | pass | present |
+| [Light, darkness and the living observer](../../docs/colour/lessons/08.html) | yes | retained | pass | present |
+| [Colour perspective and cosmic memory](../../docs/colour/lessons/09.html) | yes | retained | pass | present |
+| [Titian: beauty between wisdom and virtue](../../docs/colour/lessons/10.html) | yes | yes | pass | present |
+| [Weightless colour, consciousness and the renewal of painting](../../docs/colour/lessons/11.html) | yes | retained | pass | present |
+| [Hierarchies, elemental reflections and the rainbow](../../docs/colour/lessons/12.html) | yes | retained | pass | present |
+| [Reconstruct, compare and create: a colour synthesis](../../docs/colour/lessons/13.html) | yes | retained | pass | present |
 
 ## encountering-the-self
 
@@ -121,23 +121,23 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [Reading Koepke: transformation, observation and care](../../docs/encountering-the-self/lessons/00.html) | pending | pending | pass | present |
-| [Peter: criticism, adult self-education and useful work](../../docs/encountering-the-self/lessons/01.html) | pending | pending | pass | present |
-| [Monica: fear, mortality and love that releases](../../docs/encountering-the-self/lessons/02.html) | pending | pending | pass | present |
-| [Dear Parents: authority, inward guidance and repair](../../docs/encountering-the-self/lessons/03.html) | pending | pending | pass | present |
-| [Biography: seven remembered beginnings](../../docs/encountering-the-self/lessons/04.html) | pending | pending | pass | present |
-| [The second seven years: three cooperating developmental phases](../../docs/encountering-the-self/lessons/05.html) | pending | pending | pass | present |
-| [Seven and twelve: three comparisons and two directions](../../docs/encountering-the-self/lessons/06.html) | pending | pending | pass | present |
-| [Moving within one’s own house](../../docs/encountering-the-self/lessons/07.html) | pending | pending | pass | present |
-| [Curriculum: shelter, cultivation and expression](../../docs/encountering-the-self/lessons/08.html) | pending | pending | pass | present |
-| [Pressure and disturbances in thinking, feeling and willing](../../docs/encountering-the-self/lessons/09.html) | pending | pending | pass | present |
-| [The incarnation of the I: three religious motifs](../../docs/encountering-the-self/lessons/10.html) | pending | pending | pass | present |
-| [The school doctor: a complete historical contribution](../../docs/encountering-the-self/lessons/11.html) | pending | pending | pass | present |
-| [The Sturdy Sapling: fear, roots and religious meaning](../../docs/encountering-the-self/lessons/12.html) | pending | pending | pass | present |
-| [Half moon-nodes: astronomy and the developmental claim](../../docs/encountering-the-self/lessons/13.html) | pending | pending | pass | present |
-| [Changing teeth: the grade sequence and its claimed effect](../../docs/encountering-the-self/lessons/14.html) | pending | pending | pass | present |
-| [Form drawing: completing, reflecting and transforming](../../docs/encountering-the-self/lessons/15.html) | pending | pending | pass | present |
-| [Synthesis: understanding the child and evaluating the source](../../docs/encountering-the-self/lessons/16.html) | pending | pending | pass | present |
+| [Reading Koepke: transformation, observation and care](../../docs/encountering-the-self/lessons/00.html) | yes | retained | pass | present |
+| [Peter: criticism, adult self-education and useful work](../../docs/encountering-the-self/lessons/01.html) | yes | retained | pass | present |
+| [Monica: fear, mortality and love that releases](../../docs/encountering-the-self/lessons/02.html) | yes | retained | pass | present |
+| [Dear Parents: authority, inward guidance and repair](../../docs/encountering-the-self/lessons/03.html) | yes | retained | pass | present |
+| [Biography: seven remembered beginnings](../../docs/encountering-the-self/lessons/04.html) | yes | retained | pass | present |
+| [The second seven years: three cooperating developmental phases](../../docs/encountering-the-self/lessons/05.html) | yes | yes | pass | present |
+| [Seven and twelve: three comparisons and two directions](../../docs/encountering-the-self/lessons/06.html) | yes | yes | pass | present |
+| [Moving within one’s own house](../../docs/encountering-the-self/lessons/07.html) | yes | yes | pass | present |
+| [Curriculum: shelter, cultivation and expression](../../docs/encountering-the-self/lessons/08.html) | yes | retained | pass | present |
+| [Pressure and disturbances in thinking, feeling and willing](../../docs/encountering-the-self/lessons/09.html) | yes | retained | pass | present |
+| [The incarnation of the I: three religious motifs](../../docs/encountering-the-self/lessons/10.html) | yes | retained | pass | present |
+| [The school doctor: a complete historical contribution](../../docs/encountering-the-self/lessons/11.html) | yes | retained | pass | present |
+| [The Sturdy Sapling: fear, roots and religious meaning](../../docs/encountering-the-self/lessons/12.html) | yes | retained | pass | present |
+| [Half moon-nodes: astronomy and the developmental claim](../../docs/encountering-the-self/lessons/13.html) | yes | retained | pass | present |
+| [Changing teeth: the grade sequence and its claimed effect](../../docs/encountering-the-self/lessons/14.html) | yes | retained | pass | present |
+| [Form drawing: completing, reflecting and transforming](../../docs/encountering-the-self/lessons/15.html) | yes | yes | pass | present |
+| [Synthesis: understanding the child and evaluating the source](../../docs/encountering-the-self/lessons/16.html) | yes | retained | pass | present |
 
 ## foodwise
 
@@ -342,21 +342,21 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [From the individual enigma to an art of living](../../docs/mystery-temperaments/lessons/00.html) | pending | pending | pass | present |
-| [General human nature and the particular person](../../docs/mystery-temperaments/lessons/01.html) | pending | pending | pass | present |
-| [Heredity and the individuality carried through lives](../../docs/mystery-temperaments/lessons/02.html) | pending | pending | pass | present |
-| [Temperament as reciprocal colouring](../../docs/mystery-temperaments/lessons/03.html) | pending | pending | pass | present |
-| [Four members: interaction and predominance](../../docs/mystery-temperaments/lessons/04.html) | pending | pending | pass | present |
-| [Four portraits: members, direction and response](../../docs/mystery-temperaments/lessons/05.html) | pending | pending | pass | present |
-| [Appearance: the source’s signs and its qualification](../../docs/mystery-temperaments/lessons/06.html) | pending | pending | pass | present |
-| [Mixtures and guidance: preserve variety, redirect one-sidedness](../../docs/mystery-temperaments/lessons/07.html) | pending | pending | pass | present |
-| [Sanguine education: present interest, personal affection and arranged variety](../../docs/mystery-temperaments/lessons/08.html) | pending | pending | pass | present |
-| [Choleric education: earned respect and real resistance](../../docs/mystery-temperaments/lessons/09.html) | pending | pending | pass | present |
-| [Melancholic education: lived experience and compassion](../../docs/mystery-temperaments/lessons/10.html) | pending | pending | pass | present |
-| [Phlegmatic education: the interests of companions](../../docs/mystery-temperaments/lessons/11.html) | pending | pending | pass | present |
-| [Adult self-education: reason works indirectly](../../docs/mystery-temperaments/lessons/12.html) | pending | pending | pass | present |
-| [Social understanding: knowledge becomes responsive conduct](../../docs/mystery-temperaments/lessons/13.html) | pending | pending | pass | present |
-| [Synthesis: from temperament to the individual encounter](../../docs/mystery-temperaments/lessons/14.html) | pending | pending | pass | present |
+| [From the individual enigma to an art of living](../../docs/mystery-temperaments/lessons/00.html) | yes | retained | pass | present |
+| [General human nature and the particular person](../../docs/mystery-temperaments/lessons/01.html) | yes | retained | pass | present |
+| [Heredity and the individuality carried through lives](../../docs/mystery-temperaments/lessons/02.html) | yes | retained | pass | present |
+| [Temperament as reciprocal colouring](../../docs/mystery-temperaments/lessons/03.html) | yes | yes | pass | present |
+| [Four members: interaction and predominance](../../docs/mystery-temperaments/lessons/04.html) | yes | retained | pass | present |
+| [Four portraits: members, direction and response](../../docs/mystery-temperaments/lessons/05.html) | yes | retained | pass | present |
+| [Appearance: the source’s signs and its qualification](../../docs/mystery-temperaments/lessons/06.html) | yes | retained | pass | present |
+| [Mixtures and guidance: preserve variety, redirect one-sidedness](../../docs/mystery-temperaments/lessons/07.html) | yes | yes | pass | present |
+| [Sanguine education: present interest, personal affection and arranged variety](../../docs/mystery-temperaments/lessons/08.html) | yes | retained | pass | present |
+| [Choleric education: earned respect and real resistance](../../docs/mystery-temperaments/lessons/09.html) | yes | retained | pass | present |
+| [Melancholic education: lived experience and compassion](../../docs/mystery-temperaments/lessons/10.html) | yes | retained | pass | present |
+| [Phlegmatic education: the interests of companions](../../docs/mystery-temperaments/lessons/11.html) | yes | retained | pass | present |
+| [Adult self-education: reason works indirectly](../../docs/mystery-temperaments/lessons/12.html) | yes | yes | pass | present |
+| [Social understanding: knowledge becomes responsive conduct](../../docs/mystery-temperaments/lessons/13.html) | yes | retained | pass | present |
+| [Synthesis: from temperament to the individual encounter](../../docs/mystery-temperaments/lessons/14.html) | yes | retained | pass | present |
 
 ## nutrition
 
@@ -438,17 +438,17 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [Meet the person before the type](../../docs/temperaments/lessons/00.html) | pending | pending | pass | present |
-| [Two streams and their meeting](../../docs/temperaments/lessons/01.html) | pending | pending | pass | present |
-| [Four members, four tendencies](../../docs/temperaments/lessons/02.html) | pending | pending | pass | present |
-| [Choleric: purpose meeting resistance](../../docs/temperaments/lessons/03.html) | pending | pending | pass | present |
-| [Sanguine: interest that moves quickly](../../docs/temperaments/lessons/04.html) | pending | pending | pass | present |
-| [Phlegmatic: finding an invitation to participate](../../docs/temperaments/lessons/05.html) | pending | pending | pass | present |
-| [Melancholic: sensitivity and compassionate attention](../../docs/temperaments/lessons/06.html) | pending | pending | pass | present |
-| [Mixtures, appearance and the limits of a label](../../docs/temperaments/lessons/07.html) | pending | pending | pass | present |
-| [Education: work with what is already present](../../docs/temperaments/lessons/08.html) | pending | pending | pass | present |
-| [Self-education through an indirect route](../../docs/temperaments/lessons/09.html) | pending | pending | pass | present |
-| [Your synthesis: a person, a pattern, a response](../../docs/temperaments/lessons/10.html) | pending | pending | pass | present |
+| [Meet the person before the type](../../docs/temperaments/lessons/00.html) | yes | retained | pass | present |
+| [Two streams and their meeting](../../docs/temperaments/lessons/01.html) | yes | yes | pass | present |
+| [Four members, four tendencies](../../docs/temperaments/lessons/02.html) | yes | retained | pass | present |
+| [Choleric: purpose meeting resistance](../../docs/temperaments/lessons/03.html) | yes | retained | pass | present |
+| [Sanguine: interest that moves quickly](../../docs/temperaments/lessons/04.html) | yes | retained | pass | present |
+| [Phlegmatic: finding an invitation to participate](../../docs/temperaments/lessons/05.html) | yes | retained | pass | present |
+| [Melancholic: sensitivity and compassionate attention](../../docs/temperaments/lessons/06.html) | yes | retained | pass | present |
+| [Mixtures, appearance and the limits of a label](../../docs/temperaments/lessons/07.html) | yes | retained | pass | present |
+| [Education: work with what is already present](../../docs/temperaments/lessons/08.html) | yes | yes | pass | present |
+| [Self-education through an indirect route](../../docs/temperaments/lessons/09.html) | yes | retained | pass | present |
+| [Your synthesis: a person, a pattern, a response](../../docs/temperaments/lessons/10.html) | yes | retained | pass | present |
 
 ## theosophy
 
@@ -536,19 +536,19 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [A second author, a broader application](../../docs/understand-temperament/lessons/00.html) | pending | pending | pass | present |
-| [Chapter 1: the same, only different](../../docs/understand-temperament/lessons/01.html) | pending | pending | pass | present |
-| [Chapter 2: reading the psychological map](../../docs/understand-temperament/lessons/02.html) | pending | pending | pass | present |
-| [Chapter 3: initiative, determination and correction](../../docs/understand-temperament/lessons/03.html) | pending | pending | pass | present |
-| [Chapter 4: enthusiasm, change and following through](../../docs/understand-temperament/lessons/04.html) | pending | pending | pass | present |
-| [Chapter 5: steadiness, privacy and participation](../../docs/understand-temperament/lessons/05.html) | pending | pending | pass | present |
-| [Chapter 6: sensitivity, self-concern and practical compassion](../../docs/understand-temperament/lessons/06.html) | pending | pending | pass | present |
-| [Chapter 7: cooperation in the workplace](../../docs/understand-temperament/lessons/07.html) | pending | pending | pass | present |
-| [Chapter 8: compatibility as a question, not a verdict](../../docs/understand-temperament/lessons/08.html) | pending | pending | pass | present |
-| [Chapter 9: spiritual explanation and practical love](../../docs/understand-temperament/lessons/09.html) | pending | pending | pass | present |
-| [Appendix I: spirit, appearance and conscious practice](../../docs/understand-temperament/lessons/10.html) | pending | pending | pass | present |
-| [Appendix II: reconstructing the four-body-type hypothesis](../../docs/understand-temperament/lessons/11.html) | pending | pending | pass | present |
-| [Synthesis: from the book's model to a considerate action](../../docs/understand-temperament/lessons/12.html) | pending | pending | pass | present |
+| [A second author, a broader application](../../docs/understand-temperament/lessons/00.html) | yes | retained | pass | present |
+| [Chapter 1: the same, only different](../../docs/understand-temperament/lessons/01.html) | yes | retained | pass | present |
+| [Chapter 2: reading the psychological map](../../docs/understand-temperament/lessons/02.html) | yes | yes | pass | present |
+| [Chapter 3: initiative, determination and correction](../../docs/understand-temperament/lessons/03.html) | yes | retained | pass | present |
+| [Chapter 4: enthusiasm, change and following through](../../docs/understand-temperament/lessons/04.html) | yes | retained | pass | present |
+| [Chapter 5: steadiness, privacy and participation](../../docs/understand-temperament/lessons/05.html) | yes | retained | pass | present |
+| [Chapter 6: sensitivity, self-concern and practical compassion](../../docs/understand-temperament/lessons/06.html) | yes | retained | pass | present |
+| [Chapter 7: cooperation in the workplace](../../docs/understand-temperament/lessons/07.html) | yes | retained | pass | present |
+| [Chapter 8: compatibility as a question, not a verdict](../../docs/understand-temperament/lessons/08.html) | yes | yes | pass | present |
+| [Chapter 9: spiritual explanation and practical love](../../docs/understand-temperament/lessons/09.html) | yes | retained | pass | present |
+| [Appendix I: spirit, appearance and conscious practice](../../docs/understand-temperament/lessons/10.html) | yes | retained | pass | present |
+| [Appendix II: reconstructing the four-body-type hypothesis](../../docs/understand-temperament/lessons/11.html) | yes | retained | pass | present |
+| [Synthesis: from the book's model to a considerate action](../../docs/understand-temperament/lessons/12.html) | yes | retained | pass | present |
 
 ## understanding-temperaments
 
@@ -556,18 +556,18 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [Meet the person before the type](../../docs/understanding-temperaments/lessons/00.html) | pending | pending | pass | present |
-| [The four tendencies and their background](../../docs/understanding-temperaments/lessons/01.html) | pending | pending | pass | present |
-| [Choleric: purpose and correction](../../docs/understanding-temperaments/lessons/02.html) | pending | pending | pass | present |
-| [Sanguine: interest and follow-through](../../docs/understanding-temperaments/lessons/03.html) | pending | pending | pass | present |
-| [Phlegmatic: steadiness and participation](../../docs/understanding-temperaments/lessons/04.html) | pending | pending | pass | present |
-| [Melancholic: sensitivity and care](../../docs/understanding-temperaments/lessons/05.html) | pending | pending | pass | present |
-| [Mixtures, context and change](../../docs/understanding-temperaments/lessons/06.html) | pending | pending | pass | present |
-| [Supporting a learner](../../docs/understanding-temperaments/lessons/07.html) | pending | pending | pass | present |
-| [Working together](../../docs/understanding-temperaments/lessons/08.html) | pending | pending | pass | present |
-| [Relationships and communication](../../docs/understanding-temperaments/lessons/09.html) | pending | pending | pass | present |
-| [Self-education through a small experiment](../../docs/understanding-temperaments/lessons/10.html) | pending | pending | pass | present |
-| [A more attentive encounter](../../docs/understanding-temperaments/lessons/11.html) | pending | pending | pass | present |
+| [Meet the person before the type](../../docs/understanding-temperaments/lessons/00.html) | yes | retained | pass | present |
+| [The four tendencies and their background](../../docs/understanding-temperaments/lessons/01.html) | yes | retained | pass | present |
+| [Choleric: purpose and correction](../../docs/understanding-temperaments/lessons/02.html) | yes | retained | pass | present |
+| [Sanguine: interest and follow-through](../../docs/understanding-temperaments/lessons/03.html) | yes | retained | pass | present |
+| [Phlegmatic: steadiness and participation](../../docs/understanding-temperaments/lessons/04.html) | yes | retained | pass | present |
+| [Melancholic: sensitivity and care](../../docs/understanding-temperaments/lessons/05.html) | yes | retained | pass | present |
+| [Mixtures, context and change](../../docs/understanding-temperaments/lessons/06.html) | yes | retained | pass | present |
+| [Supporting a learner](../../docs/understanding-temperaments/lessons/07.html) | yes | retained | pass | present |
+| [Working together](../../docs/understanding-temperaments/lessons/08.html) | yes | retained | pass | present |
+| [Relationships and communication](../../docs/understanding-temperaments/lessons/09.html) | yes | retained | pass | present |
+| [Self-education through a small experiment](../../docs/understanding-temperaments/lessons/10.html) | yes | retained | pass | present |
+| [A more attentive encounter](../../docs/understanding-temperaments/lessons/11.html) | yes | yes | pass | present |
 
 ## waldorf
 
@@ -680,18 +680,18 @@ Nutrition has an existing English-only full course. A Portuguese landing page is
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [Reading an anthology with three voices](../../docs/what-is-biodynamics/lessons/00.html) | pending | pending | pass | present |
-| [Farm individuality, rhythms and preparations](../../docs/what-is-biodynamics/lessons/01.html) | pending | pending | pass | present |
-| [Courtney’s wider interpretation of Earth healing](../../docs/what-is-biodynamics/lessons/02.html) | pending | pending | pass | present |
-| [Learning to perceive nature: the first spiritual beings](../../docs/what-is-biodynamics/lessons/03.html) | pending | pending | pass | present |
-| [From nature beings to rhythms and planetary spirit](../../docs/what-is-biodynamics/lessons/04.html) | pending | pending | pass | present |
-| [Elementals I: four activities in the plant’s cosmic circuit](../../docs/what-is-biodynamics/lessons/05.html) | pending | pending | pass | present |
-| [Elementals II: complements, consciousness and displaced forces](../../docs/what-is-biodynamics/lessons/06.html) | pending | pending | pass | present |
-| [Fertilizing as enlivening the soil](../../docs/what-is-biodynamics/lessons/07.html) | pending | pending | pass | present |
-| [Two preparations, one larger inquiry](../../docs/what-is-biodynamics/lessons/08.html) | pending | pending | pass | present |
-| [Living soil: substances, forces and replenishment](../../docs/what-is-biodynamics/lessons/09.html) | pending | pending | pass | present |
-| [Six preparations: differentiated roles and qualified claims](../../docs/what-is-biodynamics/lessons/10.html) | pending | pending | pass | present |
-| [Desired growth, unwanted plants and the question of verification](../../docs/what-is-biodynamics/lessons/11.html) | pending | pending | pass | present |
-| [Pests, plant abnormalities and shared responsibility](../../docs/what-is-biodynamics/lessons/12.html) | pending | pending | pass | present |
-| [Explaining biodynamics with its sources in view](../../docs/what-is-biodynamics/lessons/13.html) | pending | pending | pass | present |
+| [Reading an anthology with three voices](../../docs/what-is-biodynamics/lessons/00.html) | yes | yes | pass | present |
+| [Farm individuality, rhythms and preparations](../../docs/what-is-biodynamics/lessons/01.html) | yes | retained | pass | present |
+| [Courtney’s wider interpretation of Earth healing](../../docs/what-is-biodynamics/lessons/02.html) | yes | retained | pass | present |
+| [Learning to perceive nature: the first spiritual beings](../../docs/what-is-biodynamics/lessons/03.html) | yes | retained | pass | present |
+| [From nature beings to rhythms and planetary spirit](../../docs/what-is-biodynamics/lessons/04.html) | yes | retained | pass | present |
+| [Elementals I: four activities in the plant’s cosmic circuit](../../docs/what-is-biodynamics/lessons/05.html) | yes | yes | pass | present |
+| [Elementals II: complements, consciousness and displaced forces](../../docs/what-is-biodynamics/lessons/06.html) | yes | retained | pass | present |
+| [Fertilizing as enlivening the soil](../../docs/what-is-biodynamics/lessons/07.html) | yes | retained | pass | present |
+| [Two preparations, one larger inquiry](../../docs/what-is-biodynamics/lessons/08.html) | yes | retained | pass | present |
+| [Living soil: substances, forces and replenishment](../../docs/what-is-biodynamics/lessons/09.html) | yes | yes | pass | present |
+| [Six preparations: differentiated roles and qualified claims](../../docs/what-is-biodynamics/lessons/10.html) | yes | yes | pass | present |
+| [Desired growth, unwanted plants and the question of verification](../../docs/what-is-biodynamics/lessons/11.html) | yes | retained | pass | present |
+| [Pests, plant abnormalities and shared responsibility](../../docs/what-is-biodynamics/lessons/12.html) | yes | retained | pass | present |
+| [Explaining biodynamics with its sources in view](../../docs/what-is-biodynamics/lessons/13.html) | yes | yes | pass | present |
 

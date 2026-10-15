@@ -43,21 +43,21 @@
     "course": "colour",
     "authoredUnits": 14,
     "englishRoutes": 14,
-    "audited": 0,
-    "rewritten": 0,
-    "retained": 0,
+    "audited": 14,
+    "rewritten": 4,
+    "retained": 10,
     "portugueseRoutes": 14,
-    "pendingAuthoredUnits": 14
+    "pendingAuthoredUnits": 0
   },
   {
     "course": "encountering-the-self",
     "authoredUnits": 17,
     "englishRoutes": 17,
-    "audited": 0,
-    "rewritten": 0,
-    "retained": 0,
+    "audited": 17,
+    "rewritten": 4,
+    "retained": 13,
     "portugueseRoutes": 17,
-    "pendingAuthoredUnits": 17
+    "pendingAuthoredUnits": 0
   },
   {
     "course": "foodwise",
@@ -123,11 +123,11 @@
     "course": "mystery-temperaments",
     "authoredUnits": 15,
     "englishRoutes": 15,
-    "audited": 0,
-    "rewritten": 0,
-    "retained": 0,
+    "audited": 15,
+    "rewritten": 3,
+    "retained": 12,
     "portugueseRoutes": 15,
-    "pendingAuthoredUnits": 15
+    "pendingAuthoredUnits": 0
   },
   {
     "course": "nutrition",
@@ -163,11 +163,11 @@
     "course": "temperaments",
     "authoredUnits": 11,
     "englishRoutes": 11,
-    "audited": 0,
-    "rewritten": 0,
-    "retained": 0,
+    "audited": 11,
+    "rewritten": 2,
+    "retained": 9,
     "portugueseRoutes": 11,
-    "pendingAuthoredUnits": 11
+    "pendingAuthoredUnits": 0
   },
   {
     "course": "theosophy",
@@ -203,21 +203,21 @@
     "course": "understand-temperament",
     "authoredUnits": 13,
     "englishRoutes": 13,
-    "audited": 0,
-    "rewritten": 0,
-    "retained": 0,
+    "audited": 13,
+    "rewritten": 2,
+    "retained": 11,
     "portugueseRoutes": 13,
-    "pendingAuthoredUnits": 13
+    "pendingAuthoredUnits": 0
   },
   {
     "course": "understanding-temperaments",
     "authoredUnits": 12,
     "englishRoutes": 12,
-    "audited": 0,
-    "rewritten": 0,
-    "retained": 0,
+    "audited": 12,
+    "rewritten": 1,
+    "retained": 11,
     "portugueseRoutes": 12,
-    "pendingAuthoredUnits": 12
+    "pendingAuthoredUnits": 0
   },
   {
     "course": "waldorf",
@@ -233,10 +233,10 @@
     "course": "what-is-biodynamics",
     "authoredUnits": 14,
     "englishRoutes": 14,
-    "audited": 0,
-    "rewritten": 0,
-    "retained": 0,
+    "audited": 14,
+    "rewritten": 5,
+    "retained": 9,
     "portugueseRoutes": 14,
-    "pendingAuthoredUnits": 14
+    "pendingAuthoredUnits": 0
   }
 ]

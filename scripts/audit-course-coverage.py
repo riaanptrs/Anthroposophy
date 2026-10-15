@@ -53,7 +53,7 @@ validated=bool(validation) and all(x['exitCode']==0 for x in validation)
 practical_ledger=read(OUT/'practical-thinking-revision-ledger.json') if (OUT/'practical-thinking-revision-ledger.json').exists() else {}
 waldorf_ledger=read(OUT/'waldorf-revision-ledger.json') if (OUT/'waldorf-revision-ledger.json').exists() else {}
 conceptual_ledgers={}
-for ledger_name in ['foundations-introduction-ledger.json','threefold-revision-ledger.json','four-course-revision-ledger.json','myths-revision-ledger.json']:
+for ledger_name in ['foundations-introduction-ledger.json','threefold-revision-ledger.json','four-course-revision-ledger.json','myths-revision-ledger.json','six-course-revision-ledger.json','anthology-revision-ledger.json']:
     if (OUT/ledger_name).exists():conceptual_ledgers.update(read(OUT/ledger_name))
 waldorf_items=json.loads(subprocess.check_output(['node','--input-type=module','-e',"import {loadWaldorfContent} from './scripts/waldorf-content.mjs';console.log(JSON.stringify(loadWaldorfContent().map(({source,route})=>({source,route}))));"],cwd=ROOT,text=True))
 waldorf_routes={item['route']:item['source'] for item in waldorf_items}

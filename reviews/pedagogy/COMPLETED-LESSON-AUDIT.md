@@ -1008,6 +1008,1694 @@ Supply the missing reasoning within the existing explanation.
 
 Existing lecture summaries and capture references only; supplied Cotterell witness unavailable for fresh fidelity review. Spiritual history is not presented as historical consensus.
 
+## Reading the collection: Goethe, colour and artistic renewal
+
+[English](../../docs/colour/lessons/00.html) · [Português](../../docs/pt/colour/lessons/00.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Understand how the Foreword connects the three core lectures with Steiner’s larger work in colour.
+
+**Learning criterion:**
+
+Distinguish the collection's three core lectures from supplements and explain how colour can help generate form
+
+**Essential concepts:**
+
+Core lectures: the three May 1921 talks. Supplementary lectures: nine talks gathered from other cycles. Metamorphosis: transformation of forms or processes. Painting out of colour: allowing form to arise through colour’s activity. Auric colour: colour described within spiritual perception.
+
+**Prerequisite:**
+
+- observation, felt response and interpretation
+
+**Connections:**
+
+Distinguish the collection's three core lectures from supplements and explain how colour can help generate form
+
+**Misconception and feedback:**
+
+- Why should this collection not be read as twelve successive lectures from one original course?
+- The title identifies three Dornach lectures from 6–8 May 1921 and nine supplementary talks given on other occasions. The supplements come from other cycles and dates.
+
+**Identified conceptual gap:**
+
+Opening explains the Foreword but the example only distinguishes reports; supply a modest worked transition from colour relationship to a form decision.
+
+**Gap addressed:**
+
+- before: Shared description gives them something to compare without demanding identical feelings. A claim that blue expresses a spiritual reality is an additional claim, not a consequence of their agreement about the shape.
+- after: Shared description gives the two learners something to compare without demanding identical feelings. To let colour help generate form, they might begin with the blue patch and add a narrow warm area where its edge seems inactive. The resulting boundary can suggest a shape neither planned in advance. Here colour relationships influence a decision about form; blue is not merely filling an outline. A claim that blue expresses a spiritual reality is an additional interpretation, not a consequence of agreement about the shape.
+- pt: A descrição compartilhada oferece às duas pessoas uma base de comparação sem exigir sentimentos idênticos. Para deixar a cor participar da criação da forma, elas podem começar pela área azul e acrescentar uma faixa quente onde sua borda parece inativa. O contorno resultante pode sugerir uma forma que nenhuma planejou. Aqui, relações cromáticas orientam uma decisão sobre a forma; o azul não apenas preenche um desenho. Afirmar que o azul expressa uma realidade espiritual é uma interpretação adicional, não uma consequência do acordo sobre a forma.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Colour experience and the four image colours
+
+[English](../../docs/colour/lessons/01.html) · [Português](../../docs/pt/colour/lessons/01.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the movement from comparative colour experience to Steiner’s fourfold account of image.
+
+**Learning criterion:**
+
+Explain all four image formulas as one level presenting another, not four mood labels
+
+**Essential concepts:**
+
+Image colour: black, green, peach-blossom and white. Lifeless: without life, distinct from living activity. Etheric body: the life-bearing member in Steiner’s account. Soul: the realm of inward experience. ‘I’: the spiritual self in this account. Peach-blossom: Steiner’s term for the colour he relates to variable human complexion.
+
+**Prerequisite:**
+
+- image versus identity
+- physical and etheric in the attributed account
+
+**Connections:**
+
+Explain all four image formulas as one level presenting another, not four mood labels
+
+**Misconception and feedback:**
+
+- Why does Steiner call green an image of life rather than life itself?
+- He locates plant life in the etheric body but green in the physical/mineral appearance. Like a portrait rather than its subject, green presents life without being the living activity it presents.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The green/plant relation, circle ordering and three answered checks already teach the formulas and the complexion qualification.
+
+**Gap addressed:**
+
+- decision: Retained: The green/plant relation, circle ordering and three answered checks already teach the formulas and the complexion qualification.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The green/plant relation, circle ordering and three answered checks already teach the formulas and the complexion qualification.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Lustre and image: colour’s inner activity
+
+[English](../../docs/colour/lessons/02.html) · [Português](../../docs/pt/colour/lessons/02.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain how lustre differs from image and why yellow, blue and red require different distributions.
+
+**Learning criterion:**
+
+Compare image with lustre and explain yellow/blue/red distributions
+
+**Essential concepts:**
+
+Lustre: an inner quality shining outward. Shadow-thrower and illuminant: the two terms in image formation. Quiescent: inwardly at rest. Mineralized colour: colour fixed with weight in material appearance. Lustre is not simply the gloss of a surface.
+
+**Prerequisite:**
+
+- image formulas
+- centre and boundary
+
+**Connections:**
+
+Compare image with lustre and explain yellow/blue/red distributions
+
+**Misconception and feedback:**
+
+- How are the imagined origins of green and peach-blossom different?
+- Green comes from yellow and blue acting on white at rest. Peach-blossom comes from red shining through black and white that interweave in movement; Steiner emphasizes the different rest/movement conditions.
+
+**Identified conceptual gap:**
+
+Consolidate image/lustre with a completed comparison of the actual centre–edge arrangements rather than merely saying that comparison is now possible.
+
+**Gap addressed:**
+
+- before: You can now compare how colour is spread rather than merely list three hues. The digital studies below illustrate these arrangements; they are not reproductions of the book’s drawings.
+- after: The yellow and blue studies can use the same circular outline yet organize it in opposite directions: yellow is strongest inside and weakens outward; blue is strongest outside and weakens inward. Red offers a third relation, maintaining balance across the field rather than privileging either end of that path. This makes distribution, not just hue, part of the artistic decision. In Steiner’s vocabulary these are ways an inner quality expresses itself as lustre; the image relation instead presents one level of existence in another. Neither distinction means glossy versus matt paint. The digital studies illustrate arrangements; they are not reproductions of the book’s drawings.
+- pt: Os estudos amarelo e azul podem usar o mesmo contorno circular e organizá-lo em direções opostas: o amarelo é mais forte por dentro e enfraquece para fora; o azul é mais forte por fora e enfraquece para dentro. O vermelho oferece uma terceira relação, mantendo equilíbrio pelo campo sem privilegiar uma das extremidades desse percurso. Assim, a distribuição, além do matiz, participa da decisão artística. No vocabulário de Steiner, são modos de uma qualidade interior expressar-se como brilho; a relação de imagem apresenta um nível de existência em outro. Nenhuma dessas distinções significa tinta lustrosa versus fosca. Os estudos digitais ilustram disposições; não reproduzem os desenhos do livro.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Colour in matter and painting out of colour
+
+[English](../../docs/colour/lessons/03.html) · [Português](../../docs/pt/colour/lessons/03.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain how the third lecture connects cosmic colour origins, nature’s kingdoms and painting technique.
+
+**Learning criterion:**
+
+Connect cosmic colour origins with distinct painting treatments without deriving cosmology from a studio result
+
+**Essential concepts:**
+
+Lustre-image: a darker plant image with a luminous veil. Image-lustre: a lighter animal treatment with modified radiance. Inner luminosity: the painted mineral surface conceived as shining from behind. Old Moon: a prior metamorphosis of Earth in Steiner’s account. Astral body: the soul-bearing member in that account.
+
+**Prerequisite:**
+
+- image and lustre
+- mobile versus fixed colour
+
+**Connections:**
+
+Connect cosmic colour origins with distinct painting treatments without deriving cosmology from a studio result
+
+**Misconception and feedback:**
+
+- What is Steiner’s proposed difference between plant green and mineral colour becoming fixed?
+- He links fixed plant green to the Moon’s separation from Earth and mineral colours to forces of other planets that separated from Earth and now act from outside. Both explanations belong to his spiritual cosmic evolution.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The mineral/plant/animal/human treatments and leaf comparison already connect vocabulary to painting decisions and separate cosmology.
+
+**Gap addressed:**
+
+- decision: Retained: The mineral/plant/animal/human treatments and leaf comparison already connect vocabulary to painting decisions and separate cosmology.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The mineral/plant/animal/human treatments and leaf comparison already connect vocabulary to painting decisions and separate cosmology.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Colour, living form and a shared spiritual culture
+
+[English](../../docs/colour/lessons/04.html) · [Português](../../docs/pt/colour/lessons/04.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow the cultural, spiritual and artistic argument behind Steiner’s red and blue examples.
+
+**Learning criterion:**
+
+Explain why a shared spiritual culture and active colour matter in the Carstens/Raphael contrast
+
+**Essential concepts:**
+
+Living colour: colour experienced as active participation in the world. Ensouling: Steiner’s account of giving fixed form a relation to world life. Group soul: the spiritual being he associates with an animal species. Goetheanum: the building project defended in this lecture.
+
+**Prerequisite:**
+
+- form arising from colour
+- experience versus symbolic code
+
+**Connections:**
+
+Explain why a shared spiritual culture and active colour matter in the Carstens/Raphael contrast
+
+**Misconception and feedback:**
+
+- Why does Steiner contrast Carstens with Raphael and Dante?
+- He says Carstens had to seek subjects whose cultural substance was no longer shared, while Raphael’s Madonna and Dante’s spiritual world lived in their surrounding culture. The contrast supports his call for a renewed unity of culture and artistic form.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The cultural contrast, colour-exchange scene and Goetheanum closing are explained with historical attribution, rather than reduced to a red/blue dictionary.
+
+**Gap addressed:**
+
+- decision: Retained: The cultural contrast, colour-exchange scene and Goetheanum closing are explained with historical attribution, rather than reduced to a red/blue dictionary.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The cultural contrast, colour-exchange scene and Goetheanum closing are explained with historical attribution, rather than reduced to a red/blue dictionary.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Moral colour experience and the windows of tone
+
+[English](../../docs/colour/lessons/05.html) · [Português](../../docs/pt/colour/lessons/05.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the colour sequence, tone windows and layered account of the advocate within Steiner’s spiritual argument.
+
+**Learning criterion:**
+
+Reconstruct red/orange and green/blue contrasts, then distinguish the advocate story's explanatory layers
+
+**Essential concepts:**
+
+Moral-spiritual: involving divine judgment, mercy and the soul’s development here. Window: Steiner’s image for passage between sensory and spiritual worlds. Elohim: Spirits of Form in his account. Cosmic literacy: learning to read spiritual activity through phenomena.
+
+**Prerequisite:**
+
+- experienced feeling versus moral judgment
+- spiritual interpretation
+
+**Connections:**
+
+Reconstruct red/orange and green/blue contrasts, then distinguish the advocate story's explanatory layers
+
+**Misconception and feedback:**
+
+- What distinguishes red from orange in Steiner’s sequence?
+- Red confronts the soul with divine wrath responding to evil and sin and leads to prayer. Orange has a less punitive character, imparts inner strength and awakens the desire to know the inner nature of things.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The key paragraph gives the colour sequence; context and answers explain upward tone windows versus downward spiritual forces without assigning character from a colour preference.
+
+**Gap addressed:**
+
+- decision: Retained: The key paragraph gives the colour sequence; context and answers explain upward tone windows versus downward spiritual forces without assigning character from a colour preference.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The key paragraph gives the colour sequence; context and answers explain upward tone windows versus downward spiritual forces without assigning character from a colour preference.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Thought–light and will–darkness: past and future
+
+[English](../../docs/colour/lessons/06.html) · [Português](../../docs/pt/colour/lessons/06.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Trace the perspective reversals and temporal polarity in Steiner’s account of light and darkness.
+
+**Learning criterion:**
+
+Keep the head/cosmos viewpoint reversal distinct from past/future polarity
+
+**Essential concepts:**
+
+Imagination, Inspiration, Intuition: the supersensible modes of knowledge invoked here. Thought–light: the past becoming manifestation and beauty. Will–matter: the future germinating as strength. Peach-blossom: the colour Steiner associates with the human etheric body in this argument.
+
+**Prerequisite:**
+
+- inner and outer standpoint
+- formed and becoming
+
+**Connections:**
+
+Keep the head/cosmos viewpoint reversal distinct from past/future polarity
+
+**Misconception and feedback:**
+
+- What does Steiner qualify when he says thought becomes luminous?
+- He says the visibility is soul-spiritual, not a new physical world. Imagination is described as giving an experience like that evoked by external light, so thought can be experienced as light from another standpoint.
+
+**Identified conceptual gap:**
+
+Two dense relations coexist: distinguish standpoint reversal from temporal becoming in the worked explanation.
+
+**Gap addressed:**
+
+- before: This offers a limited analogy for a formed past and an emerging future. The intention is not physically dark, and the finished sketch does not prove Steiner’s cosmic account.
+- after: The sketch offers a limited analogy for a formed past and an emerging future: its existing marks embody earlier decisions, while the proposed revision is still an intention. The lecture adds a different relation, standpoint. Within the head, Steiner names thought; from outside, light. Within the cosmos he names light; from an imagined outside, thought. Changing standpoint therefore reverses the terms, while the past/future distinction concerns what has taken form and what is becoming. These are two relations to keep apart. The intention is not physically dark, and a finished sketch establishes neither the spiritual viewpoints nor the cosmic account.
+- pt: O esboço oferece uma analogia limitada para um passado formado e um futuro nascente: suas marcas incorporam decisões anteriores, enquanto a revisão proposta ainda é intenção. A palestra acrescenta outra relação: o ponto de vista. Dentro da cabeça, Steiner nomeia pensamento; de fora, luz. Dentro do cosmos, nomeia luz; de um exterior imaginado, pensamento. Mudar o ponto de vista inverte, portanto, os termos; a distinção passado/futuro trata do que tomou forma e do que está surgindo. São duas relações que convém separar. A intenção não é fisicamente escura, e um esboço pronto não comprova os pontos de vista espirituais nem a descrição cósmica.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Light, weight, love and a moral world becoming
+
+[English](../../docs/colour/lessons/07.html) · [Português](../../docs/pt/colour/lessons/07.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain how Steiner connects physical existence with gratitude, moral responsibility and future world development.
+
+**Learning criterion:**
+
+Explain the conditional argument from gratitude for earlier deeds to responsibility for future worlds
+
+**Essential concepts:**
+
+Light: sense-revelation broadly understood, interpreted as dying cosmic thought. Weight: the embodied pole connected with will. Moral world order: spiritual activity becoming physical manifestation in Steiner’s account. Lemniscate: the figure-eight curve used in his discussion of space and intention.
+
+**Prerequisite:**
+
+- will/light polarity
+- premise and consequence
+
+**Connections:**
+
+Explain the conditional argument from gratitude for earlier deeds to responsibility for future worlds
+
+**Misconception and feedback:**
+
+- How do gratitude and responsibility follow from the proposed bridge?
+- If present nature embodies earlier beings’ moral activity, Steiner says we can feel gratitude toward them. If our deeds become future nature, we bear responsibility for what later beings will receive and whether they can thank us.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The key and first answer already make both conditional steps explicit; sleep and waking remain supersensible descriptions, not body-weight measurements.
+
+**Gap addressed:**
+
+- decision: Retained: The key and first answer already make both conditional steps explicit; sleep and waking remain supersensible descriptions, not body-weight measurements.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The key and first answer already make both conditional steps explicit; sleep and waking remain supersensible descriptions, not body-weight measurements.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Light, darkness and the living observer
+
+[English](../../docs/colour/lessons/08.html) · [Português](../../docs/pt/colour/lessons/08.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow the lecture from sunrise and sky colour to its proposed connection between perception, life and art materials.
+
+**Learning criterion:**
+
+Reconstruct the lecture's light/dark arrangements and distinguish the extension to physiology
+
+**Essential concepts:**
+
+Light through darkness / darkness through light: the lecture's two arrangements. Blood / nerves: its life/consciousness polarity. Blossom / root process: its proposed explanation of lighter and darker plant pigments. Shorthand gap: a missing part explicitly marked in this edition.
+
+**Prerequisite:**
+
+- viewer, illuminated medium and background
+- observation versus mechanism
+
+**Connections:**
+
+Reconstruct the lecture's light/dark arrangements and distinguish the extension to physiology
+
+**Misconception and feedback:**
+
+- Which two arrangements does Steiner call the fundamental laws of colour?
+- Light seen through darkness is red; darkness seen through light is blue. Sunrise clouds and the daytime sky are his examples.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The lecture's claims and shorthand gaps are explicit, with ordinary art materials and a bounded comparison rather than bodily experiments.
+
+**Gap addressed:**
+
+- decision: Retained: The lecture's claims and shorthand gaps are explicit, with ordinary art materials and a bounded comparison rather than bodily experiments.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The lecture's claims and shorthand gaps are explicit, with ordinary art materials and a bounded comparison rather than bodily experiments.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Colour perspective and cosmic memory
+
+[English](../../docs/colour/lessons/09.html) · [Português](../../docs/pt/colour/lessons/09.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Understand why the lecture connects a flat painting surface with spiritual memory and a wider order of the arts.
+
+**Learning criterion:**
+
+Explain how flat colour relations lead into the cosmic-memory analogy without proving it
+
+**Essential concepts:**
+
+Colour perspective: experienced approach/recession through colour. Time perspective: seeing colour as memory of spiritual creation. Spatial arts: architecture, dress and sculpture in this lecture. Epic / dramatic / lyric: upper, lower and human-plane spiritual relations respectively.
+
+**Prerequisite:**
+
+- flat surface versus experienced depth
+- analogy
+
+**Connections:**
+
+Explain how flat colour relations lead into the cosmic-memory analogy without proving it
+
+**Misconception and feedback:**
+
+- Why does Steiner distinguish painting from architecture, dress and sculpture?
+- Those arts work with spatial forms and embodied relationships. Painting works on a flat surface and, in his account, lets the soul experience colour beyond the inside/outside distinction.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: Identical-shape comparison isolates colour arrangement, and the sheet analogy's answer explicitly separates recollection from the stronger cosmic claim.
+
+**Gap addressed:**
+
+- decision: Retained: Identical-shape comparison isolates colour arrangement, and the sheet analogy's answer explicitly separates recollection from the stronger cosmic claim.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; Identical-shape comparison isolates colour arrangement, and the sheet analogy's answer explicitly separates recollection from the stronger cosmic claim.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Titian: beauty between wisdom and virtue
+
+[English](../../docs/colour/lessons/10.html) · [Português](../../docs/pt/colour/lessons/10.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain how colour creates the three realms in Steiner's reading of Titian and why artistic appearance has two limits.
+
+**Learning criterion:**
+
+Explain how a middle region mediates lower and upper regions in Steiner's Titian reading
+
+**Essential concepts:**
+
+Appearance / shining forth: inner spiritual reality made perceptible. Wisdom / beauty / virtue: knowledge, artistic revelation and spiritual realization through will. Daimon: a spiritual source of inspiration in the tragedy argument. Karma: a person's consequential relation with the world, including the continuing life of spoken words.
+
+**Prerequisite:**
+
+- colour relationships
+- appearance, knowledge and action
+
+**Connections:**
+
+Explain how a middle region mediates lower and upper regions in Steiner's Titian reading
+
+**Misconception and feedback:**
+
+- What makes an ugly subject capable of artistic beauty in this lecture?
+- The subject can reveal a spiritual element through its sensory appearance. Beauty therefore is not simply prettiness or moral approval of the depicted subject.
+
+**Identified conceptual gap:**
+
+The abstract study names three regions but does not yet demonstrate how the middle mediates; add two contrasting revisions.
+
+**Gap addressed:**
+
+- before: This invented study isolates one compositional idea from the lecture. It is not a reproduction of Titian or evidence about the spiritual status of the figures.
+- after: In this invented study, the middle is not simply a third stripe. Repeating a lower colour there while opening it toward the upper light makes it mediate between the regions. Remove that echo and the middle may become detached; carry the lower density all the way up and the transition may disappear. This helps clarify why Steiner reads Mary’s beauty through a relation to both earthly virtue and approaching wisdom. His two limits concern appearance giving way to accomplished action or fully specified knowledge. The study isolates a compositional relation; it is neither a reproduction of Titian nor evidence about the figures’ spiritual status.
+- pt: Neste estudo inventado, o meio não é simplesmente uma terceira faixa. Repetir ali uma cor inferior e abri-la à luz superior faz essa região mediar as outras. Retire esse eco e o meio pode ficar isolado; leve a densidade inferior até o alto e a transição pode desaparecer. Isso ajuda a esclarecer por que Steiner interpreta a beleza de Maria por sua relação tanto com a virtude terrena quanto com a sabedoria que se aproxima. Seus dois limites dizem respeito à aparência cedendo lugar à ação realizada ou ao conhecimento plenamente definido. O estudo isola uma relação compositiva; não reproduz Ticiano nem comprova a condição espiritual das figuras.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Weightless colour, consciousness and the renewal of painting
+
+[English](../../docs/colour/lessons/11.html) · [Português](../../docs/pt/colour/lessons/11.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow the argument from three states of consciousness to qualitative colour and a renewed art of painting.
+
+**Learning criterion:**
+
+Explain qualitative measure and the sleep/truth, dream/beauty, waking/goodness relations
+
+**Essential concepts:**
+
+Qualitative anti-gravity: the expansive tendency attributed to free spiritual qualities. Chaos: free weaving poised between earthly boundaries and cosmic dispersal. Cosmos: chaos given beautiful form. Microcosm: humanity understood as an expression of the larger cosmos. Icon and Madonna: contrasting artistic stages in Steiner's account, rather than a scale of people's value.
+
+**Prerequisite:**
+
+- spiritual consciousness account
+- quantity versus quality
+
+**Connections:**
+
+Explain qualitative measure and the sleep/truth, dream/beauty, waking/goodness relations
+
+**Misconception and feedback:**
+
+- How do qualitative measure and number differ from their earthly counterparts?
+- In the example, red measures yellow through its own imagined expansion and change, rather than an external ruler. Spiritual numbers express relations in which a member needs other members, rather than an indifferent collection of interchangeable objects. Steiner presents these as knowledge of spiritual beings.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: Definitions, historical sequence and feedback already explain why the lecture seeks conscious renewal rather than icon copying.
+
+**Gap addressed:**
+
+- decision: Retained: Definitions, historical sequence and feedback already explain why the lecture seeks conscious renewal rather than icon copying.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; Definitions, historical sequence and feedback already explain why the lecture seeks conscious renewal rather than icon copying.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Hierarchies, elemental reflections and the rainbow
+
+[English](../../docs/colour/lessons/12.html) · [Português](../../docs/pt/colour/lessons/12.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Reconstruct the four cosmic stages and explain how the rainbow belongs to Steiner's argument about beings and appearances.
+
+**Learning criterion:**
+
+Reconstruct hierarchy, manifestation, reflection and cosmic stage as related columns
+
+**Essential concepts:**
+
+Hierarchy: an order of spiritual beings. Manifestation: a being's expression through warmth, light or colour. Reflection or shadow: a secondary elemental expression, such as air or water. Saturn, Sun, Moon, Earth: cosmic stages in this account. Fourth Hierarchy: original humanity before the Fall. Etheric life: the technical sense of life distinguished from ego and astral existence.
+
+**Prerequisite:**
+
+- manifestation versus material recipe
+- spiritual cosmology
+
+**Connections:**
+
+Reconstruct hierarchy, manifestation, reflection and cosmic stage as related columns
+
+**Misconception and feedback:**
+
+- What is the order of hierarchies, manifestations and cosmic stages?
+- First: Seraphim, Cherubim, Thrones—warmth—Saturn. Second: Kyriotetes, Dynamis, Exusiai—light and its shadow air—Sun. Third: Archai, Archangels, Angels—mediation of light/darkness into colour and its reflection water—Moon. Fourth: original humanity—life in colour, forming solid contours—Earth.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The four stages and rainbow circulation are fully stated and checked; the lab-recipe contrast prevents changing the kind of claim.
+
+**Gap addressed:**
+
+- decision: Retained: The four stages and rainbow circulation are fully stated and checked; the lab-recipe contrast prevents changing the kind of claim.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The four stages and rainbow circulation are fully stated and checked; the lab-recipe contrast prevents changing the kind of claim.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Reconstruct, compare and create: a colour synthesis
+
+[English](../../docs/colour/lessons/13.html) · [Português](../../docs/pt/colour/lessons/13.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Demonstrate textual understanding of the core vocabulary and two supplementary arguments before making an original portfolio.
+
+**Learning criterion:**
+
+Compare two supplementary arguments while preserving their different routes to artistic renewal
+
+**Essential concepts:**
+
+Reconstruction: explaining a source's claim and reasoning in your own words. Comparison: showing both a relation and a difference between arguments. Supplementary lecture: one of Lectures 4–12 in this collection. Portfolio: original work documenting an initial decision, revision and explanation. Capture reference: the supplied reflowed screen, not a printed folio.
+
+**Prerequisite:**
+
+- image/lustre distinction
+- Lectures 9 and 11
+
+**Connections:**
+
+Compare two supplementary arguments while preserving their different routes to artistic renewal
+
+**Misconception and feedback:**
+
+- What separates image and lustre, and which colours belong to each?
+- Image presents one form of existence in another: green, lifeless image of the living; peach-blossom, living image of soul; white/light, soul's image of spirit; black, spiritual image of the lifeless. Lustre expresses an inner quality shining outward: yellow, spirit; blue, soul; red, the living. The distinction concerns these relationships, rather than gloss or seven fixed emotional labels.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The supplied comparison already names shared aim and distinct perspective/consciousness arguments; the portfolio has a concrete revision and response.
+
+**Gap addressed:**
+
+- decision: Retained: The supplied comparison already names shared aim and distinct perspective/consciousness arguments; the portfolio has a concrete revision and response.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The supplied comparison already names shared aim and distinct perspective/consciousness arguments; the portfolio has a concrete revision and response.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Colour notes and edition records only. Transcript gaps, especially Lecture 1 complexion and Lecture 8 rainbow, remain explicit. The 12 lectures are a collection, not a single consecutive cycle. No original PDF or new quotation verified in this pass.
+
+## Reading Koepke: transformation, observation and care
+
+[English](../../docs/encountering-the-self/lessons/00.html) · [Português](../../docs/pt/encountering-the-self/lessons/00.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Recognize the book’s account of changing self-awareness and distinguish its authors, examples and educational proposals.
+
+**Learning criterion:**
+
+Separate Koepke's transition account, constructed scenes and a child's report
+
+**Essential concepts:**
+
+Metamorphosis: an earlier capacity returning in changed form. I or ego: spiritual individuality in this account. Observation: a describable event. Interpretation: a proposed meaning. Capture: a supplied Kindle screenshot.
+
+**Prerequisite:**
+
+- observation versus interpretation
+- age versus grade
+
+**Connections:**
+
+Separate Koepke's transition account, constructed scenes and a child's report
+
+**Misconception and feedback:**
+
+- What does Koepke’s image of disappearing and returning powers emphasize?
+- Transformation rather than mere loss. Gerda Langen’s remembered discussion introduces fantasy returning in another form; the stream image is an analogy, not proof of a universal sequence.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: Distinct contributors and the free-representation status are explained; the privacy scene supplies an alternative interpretation and a question.
+
+**Gap addressed:**
+
+- decision: Retained: Distinct contributors and the free-representation status are explained; the privacy scene supplies an alternative interpretation and a question.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; Distinct contributors and the free-representation status are explained; the privacy scene supplies an alternative interpretation and a question.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Peter: criticism, adult self-education and useful work
+
+[English](../../docs/encountering-the-self/lessons/01.html) · [Português](../../docs/pt/encountering-the-self/lessons/01.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow the dialogue from a child’s criticism through adult self-examination to practical participation and inner belonging.
+
+**Learning criterion:**
+
+Explain how Peter's criticism prompts adult self-examination and participation
+
+**Essential concepts:**
+
+Self-education: adults examining and changing their own conduct. Authority: the guidance whose grounds the child increasingly questions. Destiny: spiritual guidance in the dialogue. Participation: a real contribution within shared work.
+
+**Prerequisite:**
+
+- constructed dialogue
+- authority and practical work
+
+**Connections:**
+
+Explain how Peter's criticism prompts adult self-examination and participation
+
+**Misconception and feedback:**
+
+- Does the teacher keep an age-only explanation of Peter’s criticism?
+- No. He considers environmental one-sidedness, the father’s unquestioned authority and his own difficulty accepting criticism. Age is part of his account, not its only element.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The adult admits a mistake and invites a useful task; source coercion and the course adaptation remain explicitly separate.
+
+**Gap addressed:**
+
+- decision: Retained: The adult admits a mistake and invites a useful task; source coercion and the course adaptation remain explicitly separate.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The adult admits a mistake and invites a useful task; source coercion and the course adaptation remain explicitly separate.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Monica: fear, mortality and love that releases
+
+[English](../../docs/encountering-the-self/lessons/02.html) · [Português](../../docs/pt/encountering-the-self/lessons/02.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow the dialogue from reported fears through spiritual interpretation to a changed parent-child relationship.
+
+**Learning criterion:**
+
+Explain Monica's movement from parental loss toward love that permits independence
+
+**Essential concepts:**
+
+Threshold: a boundary used as a developmental image. Mortality: awareness that human life ends. Blood-love/neighborly love: the mother's concluding Christian contrast, not a judgment of family affection.
+
+**Prerequisite:**
+
+- reported fear versus its proposed cause
+- privacy and care
+
+**Connections:**
+
+Explain Monica's movement from parental loss toward love that permits independence
+
+**Misconception and feedback:**
+
+- How does the teacher qualify his explanation of Monica's fears?
+- He says it is not the scientific explanation people ask for and compares it with dream interpretation, admitting several possibilities. His ego account is an interpretation within the constructed dialogue.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The dialogue's dream-interpretation qualification and mortality distinction are explicit, with privacy and a bedtime check-in showing coexistence.
+
+**Gap addressed:**
+
+- decision: Retained: The dialogue's dream-interpretation qualification and mortality distinction are explicit, with privacy and a bedtime check-in showing coexistence.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The dialogue's dream-interpretation qualification and mortality distinction are explicit, with privacy and a bedtime check-in showing coexistence.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Dear Parents: authority, inward guidance and repair
+
+[English](../../docs/encountering-the-self/lessons/03.html) · [Português](../../docs/pt/encountering-the-self/lessons/03.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Understand how Koepke connects ninth-year aloneness, the curriculum and adult self-examination with inward authority.
+
+**Learning criterion:**
+
+Connect inward authority, adult self-examination and repair without imposing a family arrangement
+
+**Essential concepts:**
+
+Imitation: the source's earlier mode of learning through the surrounding world. Authority: trusted adult guidance, given a religious image here. Repair: replacing what was taken through a workable action. Inner voice: responsibility the source says adults help develop.
+
+**Prerequisite:**
+
+- motive versus consequence
+- religious teaching image
+
+**Connections:**
+
+Connect inward authority, adult self-examination and repair without imposing a family arrangement
+
+**Misconception and feedback:**
+
+- What question does Koepke hear beneath a child's withdrawal?
+- He interprets it as an unspoken question about whether adults still love the child, within his account of the loss of imitative unity and growing aloneness.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The materials example and feedback explain accountability without identity condemnation; stronger source family prescriptions are named.
+
+**Gap addressed:**
+
+- decision: Retained: The materials example and feedback explain accountability without identity condemnation; stronger source family prescriptions are named.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The materials example and feedback explain accountability without identity condemnation; stronger source family prescriptions are named.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Biography: seven remembered beginnings
+
+[English](../../docs/encountering-the-self/lessons/04.html) · [Português](../../docs/pt/encountering-the-self/lessons/04.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Trace all seven life motifs while distinguishing remembered experience from Koepke’s interpretation.
+
+**Learning criterion:**
+
+Distinguish a remembered event, a retrospective motif and a prediction from childhood
+
+**Essential concepts:**
+
+Life motif: a theme Koepke finds across a biography. Retrospection: looking back from later life. Logos: the creative Word in the Müller discussion.
+
+**Prerequisite:**
+
+- narrative selection
+- biography versus prospective evidence
+
+**Connections:**
+
+Distinguish a remembered event, a retrospective motif and a prediction from childhood
+
+**Misconception and feedback:**
+
+- Which seven biographies does Koepke compare?
+- Schliemann, Carossa, Kokoschka, Bruno Walter, Dante, Rudolf Steiner and Heinz Müller. The media differ: resolve, healing encounter, picture, sound or silence, poetic meeting, geometry and speech.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: Seven biographies and timing qualifications are stated; omitted childhood interests make selection visible in the illustrator example.
+
+**Gap addressed:**
+
+- decision: Retained: Seven biographies and timing qualifications are stated; omitted childhood interests make selection visible in the illustrator example.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; Seven biographies and timing qualifications are stated; omitted childhood interests make selection visible in the illustrator example.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## The second seven years: three cooperating developmental phases
+
+[English](../../docs/encountering-the-self/lessons/05.html) · [Português](../../docs/pt/encountering-the-self/lessons/05.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Read Diagram 1 together with Koepke’s explanation of successive emphasis and cooperation.
+
+**Learning criterion:**
+
+Explain successive emphasis with simultaneous cooperation in Diagram 1
+
+**Essential concepts:**
+
+Teeth-maturity, breath-maturity and earth-maturity: Koepke’s named developmental peaks. Factual age: his balanced middle period. Threefoldness: head, rhythmic and metabolic-limb organization.
+
+**Prerequisite:**
+
+- threefold systems
+- shading and arrows
+
+**Connections:**
+
+Explain successive emphasis with simultaneous cooperation in Diagram 1
+
+**Misconception and feedback:**
+
+- Which three correspondences structure the chapter?
+- Head/teeth-maturity/imitation; rhythmic heart-lung organization/breath-maturity/factual age; metabolism and limbs/earth-maturity/adolescence.
+
+**Identified conceptual gap:**
+
+Explain successive emphasis and simultaneous support together rather than leaving the arrows to an assigned table.
+
+**Gap addressed:**
+
+- before: A shared school year does not establish identical development. Both routes can remain available while the adult observes what helps each learner.
+- after: A shared school year does not establish identical development. Within Koepke’s diagram, emphasis also differs from solitary action: when the heart-lung organization receives emphasis, head and metabolic-limb activity still support it; the arrows do not switch those systems off. The three rows therefore describe successive centres of emphasis within cooperation, not three separate children or the replacement of one system by another. In the classroom scene, handling and questioning can both remain available while the adult observes what helps. Neither preference measures the diagram’s spiritual correspondences.
+- pt: Um mesmo ano escolar não estabelece desenvolvimento idêntico. No diagrama de Koepke, destaque também difere de atuação isolada: quando a organização coração-pulmão recebe ênfase, a atividade da cabeça e a metabólico-motora continuam apoiando-a; as setas não desligam esses sistemas. As três linhas descrevem, portanto, centros sucessivos de ênfase numa cooperação, não três crianças separadas nem a substituição de um sistema por outro. Na cena escolar, manipular materiais e fazer perguntas podem continuar disponíveis enquanto o adulto observa o que ajuda. Nenhuma preferência mede as correspondências espirituais do diagrama.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Seven and twelve: three comparisons and two directions
+
+[English](../../docs/encountering-the-self/lessons/06.html) · [Português](../../docs/pt/encountering-the-self/lessons/06.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow Koepke’s contrasts in limbs, head and trunk, including his explicit qualification about both directions of activity.
+
+**Learning criterion:**
+
+Compare discovering form through materials with making an anticipated form
+
+**Essential concepts:**
+
+Reversal: the author’s proposed change of direction. Sympathy and antipathy: involvement and distancing in this account. Recollection: remembering an earlier observation.
+
+**Prerequisite:**
+
+- observation, recollection and interpretation
+- intention and action
+
+**Connections:**
+
+Compare discovering form through materials with making an anticipated form
+
+**Misconception and feedback:**
+
+- What qualification accompanies the wax-and-bowl contrast?
+- Koepke admits that older children also work on themselves and younger children also change materials. The contrast concerns which direction he emphasizes, not an exclusive capacity.
+
+**Identified conceptual gap:**
+
+The scene already contains discovery and planning; explain the direction of guidance in each and their interaction during revision.
+
+**Gap addressed:**
+
+- before: One person can use both directions of learning. The example clarifies the contrast without assigning capacities permanently by age.
+- after: In the first step, pressure on the clay produces a curve the learner notices and develops: the encountered material helps suggest the form. In the second, an anticipated vessel guides what the hands try to make. Comparing result and plan can then alter the next intention. One learner thus moves from discovery toward design and back through revision. This clarifies Koepke’s two directions without assigning either capacity exclusively to an age or treating the exercise as proof of his bodily explanations.
+- pt: No primeiro passo, a pressão na argila produz uma curva que a pessoa percebe e desenvolve: o material encontrado ajuda a sugerir a forma. No segundo, um recipiente antecipado orienta o que as mãos tentam fazer. Comparar resultado e plano pode então modificar a próxima intenção. Assim, uma mesma pessoa passa da descoberta ao projeto e retorna pela revisão. Isso esclarece as duas direções de Koepke sem atribuir cada capacidade exclusivamente a uma idade nem tratar o exercício como prova de suas explicações corporais.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Moving within one’s own house
+
+[English](../../docs/encountering-the-self/lessons/07.html) · [Português](../../docs/pt/encountering-the-self/lessons/07.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow the proposed reversal of capacities and the need for protection during the transition.
+
+**Learning criterion:**
+
+Explain why the I's initiative concerns thinking, feeling and willing together
+
+**Essential concepts:**
+
+Metamorphosis: a transformation through related forms. I: the eternal individuality in Koepke’s account. Rhythmic system: breathing and circulation in his threefold model.
+
+**Prerequisite:**
+
+- two directional crossings
+- inward feeling
+
+**Connections:**
+
+Explain why the I's initiative concerns thinking, feeling and willing together
+
+**Misconception and feedback:**
+
+- Which two movements do the crossed lines represent?
+- The younger child’s limb capacities ascend toward the older child’s head; imaginative head forces descend toward purposeful activity through the limbs.
+
+**Identified conceptual gap:**
+
+Connect the three capacities to the actual initiative example without treating an ordinary scene as verification of the crossing diagram.
+
+**Gap addressed:**
+
+- before: The scene illustrates personal initiative. It does not demonstrate that an invisible force moved between bodily regions.
+- after: The child’s new design combines thinking about a use, feeling that the room is their own, and making something suited to it. Initiative therefore involves more than an extra idea in the head. This helps interpret Koepke’s claim that the I takes hold of thinking, feeling and willing together, even while his crossing diagram distinguishes their proposed transformations. Asking why the design matters leaves room for the child’s account. The scene illustrates coordination and initiative; it does not demonstrate an invisible transfer of forces between bodily regions.
+- pt: O novo projeto da criança reúne pensar numa utilidade, sentir o quarto como seu e fazer algo adequado a ele. A iniciativa envolve, portanto, mais que uma ideia adicional na cabeça. Isso ajuda a interpretar a afirmação de Koepke de que o Eu toma pensar, sentir e querer conjuntamente, embora seu diagrama cruzado distinga as transformações propostas. Perguntar por que o projeto importa abre espaço para o relato da criança. A cena ilustra coordenação e iniciativa; não demonstra uma transferência invisível de forças entre regiões corporais.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Curriculum: shelter, cultivation and expression
+
+[English](../../docs/encountering-the-self/lessons/08.html) · [Português](../../docs/pt/encountering-the-self/lessons/08.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Trace the curriculum’s reversal and distinguish source proposals from adaptable activities.
+
+**Learning criterion:**
+
+Connect shelter, cultivation and expression to Koepke's curriculum argument
+
+**Essential concepts:**
+
+Sheath: a protective surrounding in this account. Forming power: imaginative experience becoming purposeful activity. Eurythmy: expressive movement through speech and musical forms.
+
+**Prerequisite:**
+
+- developmental reversal
+- image versus effect
+
+**Connections:**
+
+Connect shelter, cultivation and expression to Koepke's curriculum argument
+
+**Misconception and feedback:**
+
+- What connects house building and seed planting to the I?
+- Koepke interprets the house as forming protected inner space and the seed unfolding in earth as an image of the I unfolding within the soul.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The curriculum sequence and toy shelter show a concrete boundary/belonging problem; instrument prescriptions remain attributed rather than assigned.
+
+**Gap addressed:**
+
+- decision: Retained: The curriculum sequence and toy shelter show a concrete boundary/belonging problem; instrument prescriptions remain attributed rather than assigned.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The curriculum sequence and toy shelter show a concrete boundary/belonging problem; instrument prescriptions remain attributed rather than assigned.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Pressure and disturbances in thinking, feeling and willing
+
+[English](../../docs/encountering-the-self/lessons/09.html) · [Português](../../docs/pt/encountering-the-self/lessons/09.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Read the threefold pressure analogy alongside the author’s bodily and educational claims.
+
+**Learning criterion:**
+
+Separate the three Snow White correspondences from a cause of an individual symptom
+
+**Essential concepts:**
+
+Analogy: an image that connects relations. Disturbance: difficulty described in the author’s threefold model. Educational condition: a school or home arrangement that can be reviewed.
+
+**Prerequisite:**
+
+- pressure analogy
+- observation versus diagnosis
+
+**Connections:**
+
+Separate the three Snow White correspondences from a cause of an individual symptom
+
+**Misconception and feedback:**
+
+- How are the bodice, comb and apple mapped in the chapter?
+- The bodice pictures constrained breathing under performance pressure, the comb pictures nervous troubles under report-card pressure, and the apple pictures a wounded will and inferiority after repeating a grade.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The three objects, proposed disturbances and ordinary workload response are explicit; the text does not treat a story as health assessment.
+
+**Gap addressed:**
+
+- decision: Retained: The three objects, proposed disturbances and ordinary workload response are explicit; the text does not treat a story as health assessment.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The three objects, proposed disturbances and ordinary workload response are explicit; the text does not treat a story as health assessment.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## The incarnation of the I: three religious motifs
+
+[English](../../docs/encountering-the-self/lessons/10.html) · [Português](../../docs/pt/encountering-the-self/lessons/10.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow all three motifs and the complete Christophorus legend in their religious setting.
+
+**Learning criterion:**
+
+Explain the three religious motifs and the Christophorus ending in their Christian context
+
+**Essential concepts:**
+
+Incarnation: the spiritual I entering embodiment in this account. Motif: a recurring image or theme. Christophorus: Christ-bearer, the name given within this legend.
+
+**Prerequisite:**
+
+- incarnation and religious imagery
+- factual family questions
+
+**Connections:**
+
+Explain the three religious motifs and the Christophorus ending in their Christian context
+
+**Misconception and feedback:**
+
+- What are the three motifs and their final religious connection?
+- Divine origin, life lighting up in death, and art; Koepke connects them with the world of the Father, Son and Holy Spirit.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The complete ending and Father/Son/Spirit connections are taught; the caregiver responds to the actual question before offering belief.
+
+**Gap addressed:**
+
+- decision: Retained: The complete ending and Father/Son/Spirit connections are taught; the caregiver responds to the actual question before offering belief.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The complete ending and Father/Son/Spirit connections are taught; the caregiver responds to the actual question before offering belief.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## The school doctor: a complete historical contribution
+
+[English](../../docs/encountering-the-self/lessons/11.html) · [Português](../../docs/pt/encountering-the-self/lessons/11.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Read Holtzapfel’s symptom account, qualifications and remedies with correct authorship.
+
+**Learning criterion:**
+
+Identify Holtzapfel's authorship, stated uncertainty and tension with remedy claims
+
+**Essential concepts:**
+
+Periodic syndrome: the contribution’s name for alternating complaints. Pulse-volume: blood intake per heartbeat in this text. Therapeutic claim: an assertion that an intervention treats a condition.
+
+**Prerequisite:**
+
+- reported symptoms, explanation and treatment claim
+
+**Connections:**
+
+Identify Holtzapfel's authorship, stated uncertainty and tension with remedy claims
+
+**Misconception and feedback:**
+
+- Why must symptoms still be taken seriously when they fluctuate?
+- Holtzapfel says their quick disappearance does not rule out serious illness; he names appendicitis, stomach ulcer and Crohn’s disease and advises physician consultation.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The signed contribution, lack of scientific explanation and consultation qualification are explicit; no treatment protocol is offered.
+
+**Gap addressed:**
+
+- decision: Retained: The signed contribution, lack of scientific explanation and consultation qualification are explicit; no treatment protocol is offered.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The signed contribution, lack of scientific explanation and consultation qualification are explicit; no treatment protocol is offered.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## The Sturdy Sapling: fear, roots and religious meaning
+
+[English](../../docs/encountering-the-self/lessons/12.html) · [Português](../../docs/pt/encountering-the-self/lessons/12.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Trace the story’s movement from fear to rootedness and explain its theological conclusion.
+
+**Learning criterion:**
+
+Trace the sapling's fear-to-rootedness narrative while identifying the adaptation's limited claim
+
+**Essential concepts:**
+
+Rootedness: the story’s image of secure belonging. Larch: the tree the seed becomes. Theological conclusion: an explanation expressed through beliefs about God.
+
+**Prerequisite:**
+
+- metaphor, practical support and theology
+
+**Connections:**
+
+Trace the sapling's fear-to-rootedness narrative while identifying the adaptation's limited claim
+
+**Misconception and feedback:**
+
+- What changes when the seed becomes a tree?
+- It has firm roots, reaches toward the sun, produces blossoms and seeds, remembers the journey and no longer feels the same fear.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The story sequence and explicitly religious ending are preserved, while named supports do not promise immunity from fear.
+
+**Gap addressed:**
+
+- decision: Retained: The story sequence and explicitly religious ending are preserved, while named supports do not promise immunity from fear.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The story sequence and explicitly religious ending are preserved, while named supports do not promise immunity from fear.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Half moon-nodes: astronomy and the developmental claim
+
+[English](../../docs/encountering-the-self/lessons/13.html) · [Português](../../docs/pt/encountering-the-self/lessons/13.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the orbital reversal and identify the additional childhood-development inference.
+
+**Learning criterion:**
+
+Distinguish nodal reversal from lunar phases and from the developmental inference
+
+**Essential concepts:**
+
+Ecliptic: the reference plane of the Sun’s apparent yearly path. Node: a crossing of the lunar orbit with that plane. Nodal reversal: the changed ascending/descending relationship after half the cycle.
+
+**Prerequisite:**
+
+- orbital crossing versus illumination
+- correspondence versus causation
+
+**Connections:**
+
+Distinguish nodal reversal from lunar phases and from the developmental inference
+
+**Misconception and feedback:**
+
+- What changes at the half moon-node in the author’s explanation?
+- At the same crossing point, the lunar orbit has changed from descending to ascending, with the opposite change at the other node.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The node description, exaggerated diagram angle and separate developmental claim are explicit; the matching-calendar example isolates the inferential gap.
+
+**Gap addressed:**
+
+- decision: Retained: The node description, exaggerated diagram angle and separate developmental claim are explicit; the matching-calendar example isolates the inferential gap.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The node description, exaggerated diagram angle and separate developmental claim are explicit; the matching-calendar example isolates the inferential gap.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Changing teeth: the grade sequence and its claimed effect
+
+[English](../../docs/encountering-the-self/lessons/14.html) · [Português](../../docs/pt/encountering-the-self/lessons/14.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Read the recovered figures and separate the grade principles from the bodily-effect claim.
+
+**Learning criterion:**
+
+Explain the form-drawing grade progression without inferring dental benefit
+
+**Essential concepts:**
+
+Permanent teeth: Arabic-numbered teeth in the source chart. Milk teeth: Roman-numbered teeth. Cruciform symmetry: correspondence across vertical and horizontal axes. Free middle-relation: the source’s third-grade principle.
+
+**Prerequisite:**
+
+- symmetry and free relation to the middle
+- observed shape versus bodily effect
+
+**Connections:**
+
+Explain the form-drawing grade progression without inferring dental benefit
+
+**Misconception and feedback:**
+
+- What does the chart’s numeral distinction mean?
+- Arabic numerals identify permanent teeth; Roman numerals identify milk teeth. The PDF chart is readable, although OCR tooth rows are not reliable.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: Numeral conventions and the three stages are explained; the source's claimed bodily assistance is distinguished from the exercise's geometry.
+
+**Gap addressed:**
+
+- decision: Retained: Numeral conventions and the three stages are explained; the source's claimed bodily assistance is distinguished from the exercise's geometry.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; Numeral conventions and the three stages are explained; the source's claimed bodily assistance is distinguished from the exercise's geometry.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Form drawing: completing, reflecting and transforming
+
+[English](../../docs/encountering-the-self/lessons/15.html) · [Português](../../docs/pt/encountering-the-self/lessons/15.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the sequence of spatial tasks and credit the selected Steiner passages through Koepke’s book.
+
+**Learning criterion:**
+
+Apply strict reflection and distinguish it from a responsive inner contour
+
+**Essential concepts:**
+
+Reflection: equal perpendicular distances across an axis. Inner contour: line within a surrounding form. Asymmetrical symmetries: the source’s term for freer complementary arrangements. Mediated quotation: a passage encountered through another author’s book.
+
+**Prerequisite:**
+
+- equal distance to an axis
+- geometric rule versus creative transformation
+
+**Connections:**
+
+Apply strict reflection and distinguish it from a responsive inner contour
+
+**Misconception and feedback:**
+
+- How does completing a figure involve more than copying?
+- The learner sees what is missing and imagines a fitting continuation; the teacher must invent tasks that engage that inward activity.
+
+**Identified conceptual gap:**
+
+Complete one reflection and contrast it with the next inner/outer task, which was otherwise assigned without a worked distinction.
+
+**Gap addressed:**
+
+- before: The points should be equally far from the axis on opposite sides. This makes the rule checkable before attempting the whole curve.
+- after: For strict reflection, each point lies equally far from the axis on the opposite side. A point two centimetres to the left and one centimetre above a chosen baseline becomes a point two centimetres to the right at the same height. Inner/outer response is a different task: an outward bulge may be answered by an inward contour without keeping equal distances across an axis. The first relation has a geometric rule to check; the second asks for a considered transformation. Distinguishing them prevents creative variation from being marked as a failed reflection, or an inaccurate reflection being excused as free invention.
+- pt: Na reflexão estrita, cada ponto fica à mesma distância do eixo no lado oposto. Um ponto dois centímetros à esquerda e um centímetro acima de uma linha de referência torna-se um ponto dois centímetros à direita, na mesma altura. A resposta entre interior e exterior é outra tarefa: uma saliência externa pode receber um contorno interno sem conservar distâncias iguais dos dois lados de um eixo. A primeira relação tem uma regra geométrica verificável; a segunda pede uma transformação pensada. Distingui-las evita avaliar uma variação criativa como reflexão fracassada ou justificar uma reflexão imprecisa como invenção livre.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Synthesis: understanding the child and evaluating the source
+
+[English](../../docs/encountering-the-self/lessons/16.html) · [Português](../../docs/pt/encountering-the-self/lessons/16.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Connect the whole book while distinguishing constructed scenes, attributed ideas and practical adaptations.
+
+**Learning criterion:**
+
+Connect a constructed dialogue, curriculum idea and appendix distinction to a revisable response
+
+**Essential concepts:**
+
+Constructed representation: teaching scene invented to show a pattern. Mediated source: another author encountered through this book. Evidence limit: what a source or activity does not establish. Revision: a reasoned change after new information.
+
+**Prerequisite:**
+
+- attribution
+- alternative interpretation
+- observation and review
+
+**Connections:**
+
+Connect a constructed dialogue, curriculum idea and appendix distinction to a revisable response
+
+**Misconception and feedback:**
+
+- What status do the Peter and Monica scenes have according to the notes?
+- The conversations in Chapters 1 and 2 are free representations of the transition’s essential characteristics; resemblance to actual people is coincidental.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The final privacy case changes after the child asks for company, showing why independence and support can coexist.
+
+**Gap addressed:**
+
+- decision: Retained: The final privacy case changes after the child asks for company, showing why independence and support can coexist.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The final privacy case changes after the child asks for company, showing why independence and support can coexist.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
 ## From Theosophy to a path of conscious development
 
 [English](../../docs/higher-worlds/lessons/00.html) · [Português](../../docs/pt/higher-worlds/lessons/00.html)
@@ -2322,11 +4010,15 @@ Existing source assignments and recorded excerpt verification retained; original
 
 **Scope:**
 
-Individual review of stated question, all explanation paragraphs, specialized concept cards where present, example and existing checks. Conceptual prose deepened before any additional assessment; no new quiz appended.
+Individual conceptual review; QA now introduces the accusation and contrary evidence before discussing them, and compares equally articulate responses in an explained check.
 
 **Learning objective:**
 
 What changes when a person examines impulses and asks what is true or right?
+
+**Learning criterion:**
+
+Distinguish eloquent defense of a preference from evidence-guided revision of a specific claim without discarding practical standards.
 
 **Essential concepts:**
 
@@ -2342,7 +4034,7 @@ What changes when a person examines impulses and asks what is true or right?
 
 **Connections:**
 
-In the mistaken-accusation example, clever reasoning could defend the original irritation rather than correct it. The consciousness-soul distinction concerns the standard guiding thought: is the person seeking a justification for a preference, or allowing truth to revise it? The I brings these activities into an individual life. Development changes their relationship; it does not remove feeling or practical intelligence.
+Suppose you accuse a colleague of missing a deadline, then find a dated receipt showing that the work arrived on time. Clever reasoning could defend your original irritation rather than correct your accusation. The consciousness-soul distinction concerns the standard guiding thought: is the person seeking a justification for a preference, or allowing truth to revise it? The I brings these activities into an individual life. Development changes their relationship; it does not remove feeling or practical intelligence.
 
 **Misconception and feedback:**
 
@@ -2355,7 +4047,7 @@ Reason can defend preference or revise it
 **Gap addressed:**
 
 - before: The I gathers these connected capacities and can work upon them. Development concerns their changing relationship within one person. Here individuality means this developing inward centre; the next part examines Steiner’s further claim about its continuity.
-- after: In the mistaken-accusation example, clever reasoning could defend the original irritation rather than correct it. The consciousness-soul distinction concerns the standard guiding thought: is the person seeking a justification for a preference, or allowing truth to revise it? The I brings these activities into an individual life. Development changes their relationship; it does not remove feeling or practical intelligence.
+- after: Suppose you accuse a colleague of missing a deadline, then find a dated receipt showing that the work arrived on time. Clever reasoning could defend your original irritation rather than correct your accusation. The consciousness-soul distinction concerns the standard guiding thought: is the person seeking a justification for a preference, or allowing truth to revise it? The I brings these activities into an individual life. Development changes their relationship; it does not remove feeling or practical intelligence.
 
 **Teaching method:**
 
@@ -5227,7 +6919,7 @@ Not every sevenfold list has identical entries. Spirit self, life spirit and spi
 
 **Identified conceptual gap:**
 
-Grouping pairs versus transforming members
+Consolidation opportunity: the existing main explanation already taught both pairings, the nine-to-seven grouping and the distinct transformations.
 
 **Gap addressed:**
 
@@ -5236,7 +6928,7 @@ Grouping pairs versus transforming members
 
 **Teaching method:**
 
-Explain the relation directly within the main lesson, retain the existing worked context and optional feedback.
+Reinforce the already explained grouping/transformation contrast in one closing comparison; this does not introduce a previously absent conceptual distinction.
 
 **Remaining gap:**
 
@@ -9209,7 +10901,7 @@ Primary stated lesson goal, retained explanation, worked example and transfer fe
 
 **Learning objective:**
 
-Develop an explanation from controlled comparison.
+Interpret position data and distinguish a description of motion from an explanation of its causes.
 
 **Essential concepts:**
 
@@ -9658,6 +11350,821 @@ You choose a brief quiet period before an ordinary task. On a difficult day, kee
 **Source limit:**
 
 Synthesis of the selected sources and original course planning activity.
+
+## From the individual enigma to an art of living
+
+[English](../../docs/mystery-temperaments/lessons/00.html) · [Português](../../docs/pt/mystery-temperaments/lessons/00.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow the supplied text’s argument and distinguish its wording from course explanations and parallel editions.
+
+**Learning criterion:**
+
+Explain the argument's movement from an individual enigma to conduct, with correct witness attribution
+
+**Essential concepts:**
+
+Source selection: exact words in the upload. Paraphrase: an explanation in course language. Parallel: a separately identified rendering. Adaptation: an original learning activity.
+
+**Prerequisite:**
+
+- course divisions versus original text
+- supplied versus parallel edition
+
+**Connections:**
+
+Explain the argument's movement from an individual enigma to conduct, with correct witness attribution
+
+**Misconception and feedback:**
+
+- What unifies the text’s subjects?
+- The question of how spiritual knowledge of the person can become feeling, understanding and conduct in everyday encounters.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The opening and answered checks distinguish fifteen teaching divisions from a continuous text and avoid assigning the parallel's date to the upload.
+
+**Gap addressed:**
+
+- decision: Retained: The opening and answered checks distinguish fifteen teaching divisions from a continuous text and avoid assigning the parallel's date to the upload.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The opening and answered checks distinguish fifteen teaching divisions from a continuous text and avoid assigning the parallel's date to the upload.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## General human nature and the particular person
+
+[English](../../docs/mystery-temperaments/lessons/01.html) · [Português](../../docs/pt/mystery-temperaments/lessons/01.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the intermediate role of temperament without losing the individual person.
+
+**Learning criterion:**
+
+Distinguish general human capacity, recurring tendency and individual expression
+
+**Essential concepts:**
+
+General human nature: capacities considered across humanity. Temperament: a recurring basic colouring in the source. Individual expression: how that colouring appears in this particular person.
+
+**Prerequisite:**
+
+- group versus individual
+- two observed situations
+
+**Connections:**
+
+Distinguish general human capacity, recurring tendency and individual expression
+
+**Misconception and feedback:**
+
+- What distinguishes the general from the individual enigma?
+- The first concerns human nature as a whole; the second concerns the unique person encountered in life.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The quiet-meeting and storytelling-walk contrast prompts refinement rather than a new absolute label, with the intermediate level directly explained.
+
+**Gap addressed:**
+
+- decision: Retained: The quiet-meeting and storytelling-walk contrast prompts refinement rather than a new absolute label, with the intermediate level directly explained.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The quiet-meeting and storytelling-walk contrast prompts refinement rather than a new absolute label, with the intermediate level directly explained.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Heredity and the individuality carried through lives
+
+[English](../../docs/mystery-temperaments/lessons/02.html) · [Português](../../docs/pt/mystery-temperaments/lessons/02.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Reconstruct both streams and the source’s argument about inherited instruments and individual capacities.
+
+**Learning criterion:**
+
+Explain inherited instruments and continuing capacities as distinct contributions in the source
+
+**Essential concepts:**
+
+Hereditary stream: traits transmitted through ancestors. Reincarnation: successive earthly lives of individuality. Karma: continuing consequences of activity in the source’s account. Instrument: a bodily condition of expression.
+
+**Prerequisite:**
+
+- bodily condition
+- reincarnation as premise
+
+**Connections:**
+
+Explain inherited instruments and continuing capacities as distinct contributions in the source
+
+**Misconception and feedback:**
+
+- What does each stream contribute in the source?
+- Heredity supplies inherited conditions and traits; individuality brings a spiritual continuity with dispositions acquired in earlier lives.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The musical-family argument and its analogies are reconstructed; sibling differences are not treated as a decisive causal test.
+
+**Gap addressed:**
+
+- decision: Retained: The musical-family argument and its analogies are reconstructed; sibling differences are not treated as a decisive causal test.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The musical-family argument and its analogies are reconstructed; sibling differences are not treated as a decisive causal test.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Temperament as reciprocal colouring
+
+[English](../../docs/mystery-temperaments/lessons/03.html) · [Português](../../docs/pt/mystery-temperaments/lessons/03.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain why the source needs a mediator between inherited conditions and individuality.
+
+**Learning criterion:**
+
+Explain reciprocal colouring as interaction rather than two unchanged streams
+
+**Essential concepts:**
+
+Mediation: the relationship joining the two streams. Reciprocal colouring: each affects their combined expression. Eternal: the enduring individuality in this account. Perishable: the conditions of a particular earthly existence.
+
+**Prerequisite:**
+
+- heredity and individuality
+- analogy versus process
+
+**Connections:**
+
+Explain reciprocal colouring as interaction rather than two unchanged streams
+
+**Misconception and feedback:**
+
+- Why does the source need temperament as a mediator?
+- It must explain how a continuing individual core and inherited bodily conditions can join in one particular human life.
+
+**Identified conceptual gap:**
+
+Make the existing musical analogy genuinely reciprocal through two directions of influence.
+
+**Gap addressed:**
+
+- before: This is an analogy for a relationship between intention and conditions. It is not a model of how a spiritual individuality enters a body.
+- after: A phrase containing a long sustained note may need a different expression on a plucked instrument than on a bowed one. The player adjusts the phrasing to what the instrument can do, while the chosen phrase determines which of its possibilities are used. This is the reciprocal aspect of the analogy: neither intention nor conditions alone describes the performance. It clarifies why the source speaks of mutual colouring rather than two unchanged streams sitting side by side. It does not model how a spiritual individuality enters a body.
+- pt: Uma frase com uma nota longa sustentada pode exigir expressão diferente num instrumento de cordas dedilhadas e num de arco. A pessoa ajusta o fraseado ao que o instrumento permite, enquanto a frase escolhida determina quais possibilidades dele serão usadas. Esse é o aspecto recíproco da analogia: nem intenção nem condições descrevem sozinhas a execução. Ele esclarece por que a fonte fala de coloração mútua, em vez de duas correntes inalteradas lado a lado. Não modela como uma individualidade espiritual entra num corpo.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Four members: interaction and predominance
+
+[English](../../docs/mystery-temperaments/lessons/04.html) · [Português](../../docs/pt/mystery-temperaments/lessons/04.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Define the four members and explain all four temperament pairings as relationships within one human being.
+
+**Learning criterion:**
+
+Explain four member functions and relative predominance within one person
+
+**Essential concepts:**
+
+Physical: bodily organization under physical laws. Etheric: formative life activity. Astral: bearer of sensation and desire. I: self-conscious spiritual individuality. Predominance: relative emphasis within the whole.
+
+**Prerequisite:**
+
+- physical/etheric versus astral/I
+- member versus expression
+
+**Connections:**
+
+Explain four member functions and relative predominance within one person
+
+**Misconception and feedback:**
+
+- What distinguishes etheric from astral in the source?
+- Etheric names formative life-maintaining activity; astral names the bearer of sensation, desire, pleasure and suffering.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The ensemble comparison and shared-member correction already teach emphasis without exclusivity; terminology variants are resolved openly.
+
+**Gap addressed:**
+
+- decision: Retained: The ensemble comparison and shared-member correction already teach emphasis without exclusivity; terminology variants are resolved openly.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The ensemble comparison and shared-member correction already teach emphasis without exclusivity; terminology variants are resolved openly.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Four portraits: members, direction and response
+
+[English](../../docs/mystery-temperaments/lessons/05.html) · [Português](../../docs/pt/mystery-temperaments/lessons/05.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain each portrait through its proposed predominant member and direction of experience.
+
+**Learning criterion:**
+
+Explain each portrait through member and direction, keeping cause separate from action
+
+**Essential concepts:**
+
+Ego: the self or I in the source. Astral body: the member associated with sensation and changing images. Etheric/vital body: the member associated with life processes. Physical body: the bodily instrument. Predominance: relative priority within the whole.
+
+**Prerequisite:**
+
+- fourfold functions
+- inward versus outward orientation
+
+**Connections:**
+
+Explain each portrait through member and direction, keeping cause separate from action
+
+**Misconception and feedback:**
+
+- How does the sanguine portrait differ from the phlegmatic portrait?
+- The sanguine is explained through astral mobility and changing outward impressions; the phlegmatic through etheric life and inward contentment.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The four workshop actions and source explanations are supplied; a second possible explanation prevents treating one scene as diagnosis.
+
+**Gap addressed:**
+
+- decision: Retained: The four workshop actions and source explanations are supplied; a second possible explanation prevents treating one scene as diagnosis.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The four workshop actions and source explanations are supplied; a second possible explanation prevents treating one scene as diagnosis.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Appearance: the source’s signs and its qualification
+
+[English](../../docs/mystery-temperaments/lessons/06.html) · [Português](../../docs/pt/mystery-temperaments/lessons/06.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the appearance argument, including its proportion qualification and its proposed causal link.
+
+**Learning criterion:**
+
+Distinguish observation, appearance interpretation and the source's proportion qualification
+
+**Essential concepts:**
+
+Configuration: the relation among bodily features. Proportion: a feature considered in relation to the whole. Physiognomy: interpreting inner qualities from outward form. Inference: a conclusion from information.
+
+**Prerequisite:**
+
+- gait as observation
+- cause as inference
+
+**Connections:**
+
+Distinguish observation, appearance interpretation and the source's proportion qualification
+
+**Misconception and feedback:**
+
+- Does the source simply say cholerics are short and sanguines tall?
+- No. It explicitly rejects that simple contrast and asks that height be compared with configuration.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The fragile-object revelation changes the slow-walk explanation without changing the observation, and the height qualification is explicit.
+
+**Gap addressed:**
+
+- decision: Retained: The fragile-object revelation changes the slow-walk explanation without changing the observation, and the height qualification is explicit.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The fragile-object revelation changes the slow-walk explanation without changing the observation, and the height qualification is explicit.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Mixtures and guidance: preserve variety, redirect one-sidedness
+
+[English](../../docs/mystery-temperaments/lessons/07.html) · [Português](../../docs/pt/mystery-temperaments/lessons/07.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Connect the mixture qualification and the value of variety with the lecture’s educational purpose.
+
+**Learning criterion:**
+
+Preserve useful persistence while changing its object or timing in discussion
+
+**Essential concepts:**
+
+Basic temperament: the predominant pattern in the source account. Mixture: the presence of other temperamental tendencies. One-sidedness: an emphasis restricting other responses. Guidance: directing the use of a capacity.
+
+**Prerequisite:**
+
+- mixture versus pure type
+- capacity versus situational expression
+
+**Connections:**
+
+Preserve useful persistence while changing its object or timing in discussion
+
+**Misconception and feedback:**
+
+- Are the four types presented as pure descriptions of actual people?
+- No. The lecture calls them schematic and explicitly says a basic temperament is mixed with others.
+
+**Identified conceptual gap:**
+
+Complete the requested redirection of persistence with an actual arrangement and a reason to revise it.
+
+**Gap addressed:**
+
+- before: The aim concerns how a capacity is used in a situation, not erasing every difference.
+- after: Persistence helps the learner stay with a difficult joint during construction. In a discussion, the same refusal to stop may prevent another person from contributing. A reviewable change could be to hear each proposal before choosing which design to pursue, then use persistence in carrying out that shared choice. The capacity remains available; its timing and object change. If the learner already listens well when meetings are unhurried, the group should also reconsider its pace. Guidance concerns a relation between capacity and situation, not erasing a difference or diagnosing a constitution.
+- pt: A persistência ajuda a pessoa a continuar diante de uma junção difícil na construção. Numa discussão, a mesma recusa em parar pode impedir a contribuição de outra pessoa. Uma mudança revisável seria ouvir cada proposta antes de escolher o projeto e depois empregar a persistência na realização dessa escolha comum. A capacidade continua disponível; mudam seu momento e seu objeto. Se a pessoa já escuta bem em reuniões sem pressa, o grupo também deve reconsiderar o ritmo. Orientar diz respeito à relação entre capacidade e situação, não a apagar uma diferença nem diagnosticar uma constituição.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Sanguine education: present interest, personal affection and arranged variety
+
+[English](../../docs/mystery-temperaments/lessons/08.html) · [Português](../../docs/pt/mystery-temperaments/lessons/08.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the two proposed educational routes and distinguish them from our bounded return-to-interest activity.
+
+**Learning criterion:**
+
+Explain affection and object arrangement as distinct indirect routes from mobile interest
+
+**Essential concepts:**
+
+Present capacity: a tendency already available to work with. Personal affection: interest directed toward a loved person in the source. Indirect education: acting through an existing tendency and its conditions. Adaptation: a course choice distinct from the source prescription.
+
+**Prerequisite:**
+
+- existing interest
+- relationship versus environment
+
+**Connections:**
+
+Explain affection and object arrangement as distinct indirect routes from mobile interest
+
+**Misconception and feedback:**
+
+- Why does the source begin with what is present rather than what is missing?
+- It proposes shaping existing sanguine mobility instead of trying to impose another member’s characteristic response by force.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The bird return, source prescriptions and negotiated adaptation are already differentiated in prose and feedback.
+
+**Gap addressed:**
+
+- decision: Retained: The bird return, source prescriptions and negotiated adaptation are already differentiated in prose and feedback.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The bird return, source prescriptions and negotiated adaptation are already differentiated in prose and feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Choleric education: earned respect and real resistance
+
+[English](../../docs/mystery-temperaments/lessons/09.html) · [Português](../../docs/pt/mystery-temperaments/lessons/09.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the source's two choleric routes and distinguish their historical form from this lesson's activity.
+
+**Learning criterion:**
+
+Explain competent guidance and real resistance while acknowledging the historical prescription's stronger form
+
+**Essential concepts:**
+
+Esteem: appreciation of another person's ability. Resistance: a difficulty met outside oneself. Authority: the educator's guiding role in this argument.
+
+**Prerequisite:**
+
+- esteem versus affection
+- difficulty versus reprimand
+
+**Connections:**
+
+Explain competent guidance and real resistance while acknowledging the historical prescription's stronger form
+
+**Misconception and feedback:**
+
+- What distinguishes the choleric route from the sanguine route?
+- The choleric child is approached through respect for the educator's demonstrated ability; the sanguine route emphasizes love and attachment to a person.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The failed joint and honest next test demonstrate competence without infallibility, explicitly distinguishing the source's overwhelming obstacles.
+
+**Gap addressed:**
+
+- decision: Retained: The failed joint and honest next test demonstrate competence without infallibility, explicitly distinguishing the source's overwhelming obstacles.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The failed joint and honest next test demonstrate competence without infallibility, explicitly distinguishing the source's overwhelming obstacles.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Melancholic education: lived experience and compassion
+
+[English](../../docs/mystery-temperaments/lessons/10.html) · [Português](../../docs/pt/mystery-temperaments/lessons/10.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the proposed turn from inward sorrow toward another person's suffering, including the source's stated limit.
+
+**Learning criterion:**
+
+Explain lived adversity's proposed turn toward compassion and its stated limit
+
+**Essential concepts:**
+
+Lived adversity: difficulty personally experienced. Compassion: concern for another's suffering. Inward burden: the melancholic condition described in the source's spiritual account.
+
+**Prerequisite:**
+
+- sensitivity
+- credibility
+- voluntary care
+
+**Connections:**
+
+Explain lived adversity's proposed turn toward compassion and its stated limit
+
+**Misconception and feedback:**
+
+- Why does the source emphasize an educator tested by life?
+- It proposes that credible experience of adversity can reach the melancholic child and direct inward sensitivity toward compassion for another person's fate.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The source's limit and painful obstacles remain visible; the optional message adapts one relation without manufacturing suffering.
+
+**Gap addressed:**
+
+- decision: Retained: The source's limit and painful obstacles remain visible; the optional message adapts one relation without manufacturing suffering.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The source's limit and painful obstacles remain visible; the optional message adapts one relation without manufacturing suffering.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Phlegmatic education: the interests of companions
+
+[English](../../docs/mystery-temperaments/lessons/11.html) · [Português](../../docs/pt/mystery-temperaments/lessons/11.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Reconstruct the indirect route through shared interests and distinguish it from the other three educational routes.
+
+**Learning criterion:**
+
+Explain engagement mediated by a companion, including the second environmental prescription
+
+**Essential concepts:**
+
+Mediation: reaching an activity through another person's engagement. Companionship: participation with peers. Environmental arrangement: shaping the objects, events and relationships around a learner.
+
+**Prerequisite:**
+
+- shared interest versus direct demand
+
+**Connections:**
+
+Explain engagement mediated by a companion, including the second environmental prescription
+
+**Misconception and feedback:**
+
+- Why are companions central to the phlegmatic route?
+- The source proposes that the interests of other children awaken personal interest indirectly where direct demands or objects alone do not.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The learner's pot question already shows engagement before action; the omitted-prescription question keeps reconstruction accurate.
+
+**Gap addressed:**
+
+- decision: Retained: The learner's pot question already shows engagement before action; the omitted-prescription question keeps reconstruction accurate.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The learner's pot question already shows engagement before action; the omitted-prescription question keeps reconstruction accurate.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Adult self-education: reason works indirectly
+
+[English](../../docs/mystery-temperaments/lessons/12.html) · [Português](../../docs/pt/mystery-temperaments/lessons/12.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Reconstruct the four adult prescriptions and explain how the course's bounded exercise adapts their shared principle.
+
+**Learning criterion:**
+
+Explain how an arranged comparison gives changing attention a purpose and a completion
+
+**Essential concepts:**
+
+Indirect action: working through conditions. Self-education: deliberate work on one's own conduct. Passing interest: attention that quickly moves on. Review: comparison of purpose with result.
+
+**Prerequisite:**
+
+- indirect reason
+- tendency versus its setting
+
+**Connections:**
+
+Explain how an arranged comparison gives changing attention a purpose and a completion
+
+**Misconception and feedback:**
+
+- What are the four adult routes described in this source?
+- Sanguine passing interest is given fitting insignificant objects; choleric excess meets manageable events of little consequence; melancholy turns toward real external suffering; phlegmatic indifference is exercised through deliberately boring or unworthy tasks.
+
+**Identified conceptual gap:**
+
+Explain how purpose, boundary and completed result convert changing attention into comparison, including an unsuccessful attempt.
+
+**Gap addressed:**
+
+- before: The arrangement gives variety a useful role while asking for a small completed result.
+- after: The two-paragraph task uses the very movement that was disrupting study: attention shifts from one passage to the other to find a connection. The purpose gives that shift a direction, the five-minute boundary limits its extent, and the written connection supplies a completion point. Reason acts by arranging the work rather than commanding a different inner type. If the learner only alternates without finding a relation, the next change might be two shorter passages or one explicit comparison question. The result guides that revision; it does not verify the historical cure claims.
+- pt: A tarefa de dois parágrafos usa o próprio movimento que interrompia o estudo: a atenção passa de um trecho ao outro para encontrar uma conexão. O objetivo dá direção a essa passagem, o limite de cinco minutos restringe sua extensão e a conexão escrita oferece um ponto de conclusão. A razão atua organizando o trabalho, em vez de ordenar outro tipo interior. Se a pessoa apenas alterna sem encontrar relação, a próxima mudança pode ser usar trechos menores ou uma pergunta explícita de comparação. O resultado orienta essa revisão; não confirma as afirmações históricas de cura.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Social understanding: knowledge becomes responsive conduct
+
+[English](../../docs/mystery-temperaments/lessons/13.html) · [Português](../../docs/pt/mystery-temperaments/lessons/13.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the closing connection between individuality, feeling, a fitting response and love.
+
+**Learning criterion:**
+
+Connect individual understanding to a fitting response without universalizing one helpful encounter
+
+**Essential concepts:**
+
+Tact: judgment fitted to a particular encounter. Responsive understanding: allowing the other's experience to shape conduct. Social basis: conditions for people to understand one another in the source's argument.
+
+**Prerequisite:**
+
+- request versus prepared advice
+- scope of evidence
+
+**Connections:**
+
+Connect individual understanding to a fitting response without universalizing one helpful encounter
+
+**Misconception and feedback:**
+
+- Why is naming someone's temperament insufficient for the closing social aim?
+- The conclusion asks knowledge to become feeling and fitting conduct toward an individual, rather than remain an abstract category or a general instruction.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The friend changes the requested form of help; feedback explicitly limits what that practical result establishes.
+
+**Gap addressed:**
+
+- decision: Retained: The friend changes the requested form of help; feedback explicitly limits what that practical result establishes.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The friend changes the requested form of help; feedback explicitly limits what that practical result establishes.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## Synthesis: from temperament to the individual encounter
+
+[English](../../docs/mystery-temperaments/lessons/14.html) · [Português](../../docs/pt/mystery-temperaments/lessons/14.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Connect the source's explanatory framework, educational routes and social aim in a source-supported account.
+
+**Learning criterion:**
+
+Connect mediation, predominance and indirect education to a revised encounter
+
+**Essential concepts:**
+
+Synthesis: an account connecting parts. Attribution: identifying whose claim or wording is used. Mediation: the meeting of the two streams in this source. Revision: a change made for an explained reason.
+
+**Prerequisite:**
+
+- two streams, four members and distinct child/adult routes
+
+**Connections:**
+
+Connect mediation, predominance and indirect education to a revised encounter
+
+**Misconception and feedback:**
+
+- How does the framework connect individuality, temperament and the four members?
+- The source proposes hereditary and reincarnating streams meeting through temperament; the differing predominance of I, astral, etheric and physical members expresses the four temperamental tendencies within a whole human being.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The teammate revision uses new evidence and a joint task; the synthesis keeps spiritual premises, adaptation and separately credited parallel distinct.
+
+**Gap addressed:**
+
+- decision: Retained: The teammate revision uses new evidence and a joint task; the synthesis keeps spiritual premises, adaptation and separately credited parallel distinct.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The teammate revision uses new evidence and a joint task; the synthesis keeps spiritual premises, adaptation and separately credited parallel distinct.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
 
 ## The two questions: knowledge and freedom
 
@@ -11291,6 +13798,601 @@ Added a fully supplied transfer case with misconception feedback; retained sourc
 - changedSituation: A room gets noisy and a teacher closes the door. Someone concludes that closing the door caused the noise. What is missing?
 - explainedAnswer: In the supplied sequence, noise preceded and prompted closing the door. The proposed cause is a response to the event. Doors can affect sound in other circumstances, so examine this case rather than replace one hasty generalization with another.
 
+## Meet the person before the type
+
+[English](../../docs/temperaments/lessons/00.html) · [Português](../../docs/pt/temperaments/lessons/00.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Use the four temperaments as a subject of study without reducing people to labels.
+
+**Learning criterion:**
+
+Explain temperament as a partial colouring while retaining situational and individual differences
+
+**Essential concepts:**
+
+Temperament: underlying disposition in this lecture. Individuality: the particular person, whose life exceeds a general category.
+
+**Prerequisite:**
+
+- observation versus interpretation
+
+**Connections:**
+
+Explain temperament as a partial colouring while retaining situational and individual differences
+
+**Misconception and feedback:**
+
+- What does the opening mean by the riddle of each person?
+- Even within a basic human type, individual differences remain. Temperament is a colouring expressed in a particular life, not a complete account of that person.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: Quietness, energetic gardening and patient repair supply contrasting contexts; the mixed-type qualification is stated and checked.
+
+**Gap addressed:**
+
+- decision: Retained: Quietness, energetic gardening and patient repair supply contrasting contexts; the mixed-type qualification is stated and checked.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; Quietness, energetic gardening and patient repair supply contrasting contexts; the mixed-type qualification is stated and checked.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing GA 57 notes for the recorded Berlin 4 March 1909 witness only; no new original-text check. Later course applications remain distinct from historical physiology, appearance and education claims.
+
+## Two streams and their meeting
+
+[English](../../docs/temperaments/lessons/01.html) · [Português](../../docs/pt/temperaments/lessons/01.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain why temperament is an intermediary in Steiner’s account.
+
+**Learning criterion:**
+
+Explain why temperament mediates heredity and continuing individuality rather than adding a third stream
+
+**Essential concepts:**
+
+Heredity: characteristics passed through generations. Reincarnation: repeated earthly lives in the source’s account. Intermediary: what joins or mediates.
+
+**Prerequisite:**
+
+- inherited conditions
+- reincarnating individuality as premise
+
+**Connections:**
+
+Explain why temperament mediates heredity and continuing individuality rather than adding a third stream
+
+**Misconception and feedback:**
+
+- What distinguishes the two streams in this account?
+- One concerns inherited characteristics across generations. The other concerns an enduring spiritual individuality that Steiner says develops and preserves acquisitions through repeated earthly lives.
+
+**Identified conceptual gap:**
+
+The two streams are defined; show why their meeting requires mediation rather than a third independent component.
+
+**Gap addressed:**
+
+- before: This makes the question of similarity and individuality concrete. The fictional contrast does not prove which traits are inherited, learned or carried from a former life.
+- after: The siblings make similarity and difference concrete, but the lecture asks a further question: how can an enduring individuality express itself through the inherited conditions of this particular life? Temperament is the proposed relationship at their meeting, not a third stream added beside the other two. If heredity alone fixed every response, the individuality would have no shaping role; if individuality acted without bodily conditions, mediation would be unnecessary. This explains why the argument needs both contributions without proving which traits are inherited, learned or carried from a former life.
+- pt: Os irmãos tornam semelhança e diferença concretas, mas a palestra faz outra pergunta: como uma individualidade duradoura pode expressar-se pelas condições herdadas desta vida particular? O temperamento é a relação proposta nesse encontro, não uma terceira corrente acrescentada às outras duas. Se a hereditariedade fixasse sozinha toda resposta, a individualidade não teria papel formador; se a individualidade atuasse sem condições corporais, a mediação seria desnecessária. Isso explica por que o argumento precisa das duas contribuições, sem provar quais traços são herdados, aprendidos ou trazidos de uma vida anterior.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing GA 57 notes for the recorded Berlin 4 March 1909 witness only; no new original-text check. Later course applications remain distinct from historical physiology, appearance and education claims.
+
+## Four members, four tendencies
+
+[English](../../docs/temperaments/lessons/02.html) · [Português](../../docs/pt/temperaments/lessons/02.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Learn the mapping without confusing predominance with exclusive possession.
+
+**Learning criterion:**
+
+Reconstruct all four pairings while distinguishing predominance from exclusive possession
+
+**Essential concepts:**
+
+Etheric or life body: formative life in this framework. Astral body: bearer of inward responsiveness. I-bearer: member associated with self-awareness.
+
+**Prerequisite:**
+
+- definitions of physical, etheric, astral and I-bearer
+
+**Connections:**
+
+Reconstruct all four pairings while distinguishing predominance from exclusive possession
+
+**Misconception and feedback:**
+
+- Which four pairings does the lecture give?
+- I-bearer with choleric, astral body with sanguine, etheric or life body with phlegmatic, physical body with melancholic.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The false exclusive-astral inference is directly corrected and the source's physiological correspondences remain attributed.
+
+**Gap addressed:**
+
+- decision: Retained: The false exclusive-astral inference is directly corrected and the source's physiological correspondences remain attributed.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The false exclusive-astral inference is directly corrected and the source's physiological correspondences remain attributed.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing GA 57 notes for the recorded Berlin 4 March 1909 witness only; no new original-text check. Later course applications remain distinct from historical physiology, appearance and education claims.
+
+## Choleric: purpose meeting resistance
+
+[English](../../docs/temperaments/lessons/03.html) · [Português](../../docs/pt/temperaments/lessons/03.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Understand the movement from forceful insistence toward capable action.
+
+**Learning criterion:**
+
+Explain how competence and resistance redirect purposeful force
+
+**Essential concepts:**
+
+Purposefulness: pursuing an aim. Resistance: a task’s genuine difficulty. Competence: ability shown in practice, including correction of mistakes.
+
+**Prerequisite:**
+
+- I-bearer predominance
+- goal and obstacle
+
+**Connections:**
+
+Explain how competence and resistance redirect purposeful force
+
+**Misconception and feedback:**
+
+- What is central in the choleric picture?
+- Purposeful assertion and an impulse to overcome obstacles, explained by Steiner through predominance of the I-bearer. Anger is one possible expression, not the complete meaning.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The stable joint demonstrates a skill-responsive task; the lesson differentiates anger from purposeful will and marks its adapted boundary.
+
+**Gap addressed:**
+
+- decision: Retained: The stable joint demonstrates a skill-responsive task; the lesson differentiates anger from purposeful will and marks its adapted boundary.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The stable joint demonstrates a skill-responsive task; the lesson differentiates anger from purposeful will and marks its adapted boundary.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing GA 57 notes for the recorded Berlin 4 March 1909 witness only; no new original-text check. Later course applications remain distinct from historical physiology, appearance and education claims.
+
+## Sanguine: interest that moves quickly
+
+[English](../../docs/temperaments/lessons/04.html) · [Português](../../docs/pt/temperaments/lessons/04.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explore how an existing interest can become a starting point for attention.
+
+**Learning criterion:**
+
+Distinguish rapidly awakened interest from continuity and explain the two proposed supports
+
+**Essential concepts:**
+
+Responsiveness: readiness to take up an impression. Sustained attention: remaining with a task. A planned return is an original teaching adaptation.
+
+**Prerequisite:**
+
+- astral mobility
+- personal affection versus object sequence
+
+**Connections:**
+
+Distinguish rapidly awakened interest from continuity and explain the two proposed supports
+
+**Misconception and feedback:**
+
+- Why is absence of interest an inaccurate account of this picture?
+- Interest arises quickly and an impression readily affects the child; the difficulty is remaining with it when another impression arrives.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The bird interest and small completion are concrete; withdrawal of objects is not confused with withdrawal of affection.
+
+**Gap addressed:**
+
+- decision: Retained: The bird interest and small completion are concrete; withdrawal of objects is not confused with withdrawal of affection.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The bird interest and small completion are concrete; withdrawal of objects is not confused with withdrawal of affection.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing GA 57 notes for the recorded Berlin 4 March 1909 witness only; no new original-text check. Later course applications remain distinct from historical physiology, appearance and education claims.
+
+## Phlegmatic: finding an invitation to participate
+
+[English](../../docs/temperaments/lessons/05.html) · [Português](../../docs/pt/temperaments/lessons/05.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain how inner well-being and reflected interest connect in Steiner’s phlegmatic account.
+
+**Learning criterion:**
+
+Explain how a companion's interest mediates an invitation to participate
+
+**Essential concepts:**
+
+Etheric or life body: the formative life member in Steiner’s account. Reflected interest: interest encountered through another person. Impassivity: the stillness he also proposes directing toward suitable objects.
+
+**Prerequisite:**
+
+- etheric well-being
+- direct versus reflected interest
+
+**Connections:**
+
+Explain how a companion's interest mediates an invitation to participate
+
+**Misconception and feedback:**
+
+- What predominates in the phlegmatic picture?
+- The etheric or life body, which Steiner associates with growth, metabolism and inward well-being.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The planting scene identifies the relationship and manageable contribution; the second source proposal about fitting impassivity is not omitted.
+
+**Gap addressed:**
+
+- decision: Retained: The planting scene identifies the relationship and manageable contribution; the second source proposal about fitting impassivity is not omitted.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The planting scene identifies the relationship and manageable contribution; the second source proposal about fitting impassivity is not omitted.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing GA 57 notes for the recorded Berlin 4 March 1909 witness only; no new original-text check. Later course applications remain distinct from historical physiology, appearance and education claims.
+
+## Melancholic: sensitivity and compassionate attention
+
+[English](../../docs/temperaments/lessons/06.html) · [Português](../../docs/pt/temperaments/lessons/06.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow Steiner’s movement from bodily resistance and personal pain toward another person’s destiny.
+
+**Learning criterion:**
+
+Trace bodily resistance, experienced pain, educator credibility and compassion as the source's argument
+
+**Essential concepts:**
+
+Physical predominance: bodily resistance within the fourfold account. Destiny: the course and trials of another person’s life. Compassion: participation in suffering outside one’s own experience.
+
+**Prerequisite:**
+
+- physical predominance
+- sensitivity versus clinical diagnosis
+
+**Connections:**
+
+Trace bodily resistance, experienced pain, educator credibility and compassion as the source's argument
+
+**Misconception and feedback:**
+
+- Why does Steiner’s melancholic picture involve pain?
+- He says the predominant physical body resists etheric well-being, astral liveliness and the I’s purposeful striving.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The four steps are explicit and the missed-game response acknowledges feeling before voluntary care without arranging suffering.
+
+**Gap addressed:**
+
+- decision: Retained: The four steps are explicit and the missed-game response acknowledges feeling before voluntary care without arranging suffering.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The four steps are explicit and the missed-game response acknowledges feeling before voluntary care without arranging suffering.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing GA 57 notes for the recorded Berlin 4 March 1909 witness only; no new original-text check. Later course applications remain distinct from historical physiology, appearance and education claims.
+
+## Mixtures, appearance and the limits of a label
+
+[English](../../docs/temperaments/lessons/07.html) · [Português](../../docs/pt/temperaments/lessons/07.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Read the mixed-type qualification alongside Steiner’s outward portraits and their practical purpose.
+
+**Learning criterion:**
+
+Explain why mixtures qualify purity without retracting the lecture's appearance claims
+
+**Essential concepts:**
+
+Basic temperament: the prevailing tendency in Steiner’s mixed-type account. Mixture: varying presence of the other tendencies. Direction: the educational aim he contrasts with eliminating differences.
+
+**Prerequisite:**
+
+- basic tendency versus whole person
+- observation and inference
+
+**Connections:**
+
+Explain why mixtures qualify purity without retracting the lecture's appearance claims
+
+**Misconception and feedback:**
+
+- What does the lecture say about pure types?
+- They do not occur: each person has a basic temperament mixed with varying degrees of the others.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: Napoleon's mixed portrait, historical appearance claims and contextual counterexamples are retained together rather than sanitizing the text.
+
+**Gap addressed:**
+
+- decision: Retained: Napoleon's mixed portrait, historical appearance claims and contextual counterexamples are retained together rather than sanitizing the text.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; Napoleon's mixed portrait, historical appearance claims and contextual counterexamples are retained together rather than sanitizing the text.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing GA 57 notes for the recorded Berlin 4 March 1909 witness only; no new original-text check. Later course applications remain distinct from historical physiology, appearance and education claims.
+
+## Education: work with what is already present
+
+[English](../../docs/temperaments/lessons/08.html) · [Português](../../docs/pt/temperaments/lessons/08.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Compare the four child-education routes and the principle that holds them together.
+
+**Learning criterion:**
+
+Compare the four mediating relationships under the principle of working with what is present
+
+**Essential concepts:**
+
+Existing capacity: the tendency or responsiveness from which the source starts. Mediation: the person or arrangement through which a new relation arises. Competent authority: respect for a person’s worth and grasp of things in the choleric proposal.
+
+**Prerequisite:**
+
+- four portraits
+- relationship versus forced opposite
+
+**Connections:**
+
+Compare the four mediating relationships under the principle of working with what is present
+
+**Misconception and feedback:**
+
+- What principle precedes the four routes?
+- Always work with what is there, rather than trying to force in what is absent.
+
+**Identified conceptual gap:**
+
+Consolidate the common indirect structure while preserving the four different mediating relationships.
+
+**Gap addressed:**
+
+- before: Different support can serve a shared learning aim. The response should follow the situation, not a permanent assignment of each child to a type.
+- after: The shared project can keep one aim while offering different ways into it. In the source’s contrast, sanguine affection begins with attachment to a particular person, whereas choleric esteem concerns what the educator can do. Melancholic compassion directs felt sorrow toward another life; phlegmatic participation takes up interests through companions. All are relationships, but what passes through the relationship differs. In our project the adult first asks about the actual difficulty, then chooses and reviews a support; the four invitations do not assign four children permanently to four types.
+- pt: O projeto comum pode manter um objetivo e oferecer entradas diferentes. No contraste da fonte, a afeição sanguínea começa pelo vínculo com uma pessoa particular, enquanto a estima colérica se refere ao que o educador sabe fazer. A compaixão melancólica dirige a dor sentida para outra vida; a participação fleumática acolhe interesses por meio dos companheiros. Todas são relações, mas difere aquilo que passa por elas. Em nosso projeto, o adulto primeiro pergunta sobre a dificuldade concreta, depois escolhe e revê um apoio; os quatro convites não distribuem quatro crianças permanentemente entre quatro tipos.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing GA 57 notes for the recorded Berlin 4 March 1909 witness only; no new original-text check. Later course applications remain distinct from historical physiology, appearance and education claims.
+
+## Self-education through an indirect route
+
+[English](../../docs/temperaments/lessons/09.html) · [Português](../../docs/pt/temperaments/lessons/09.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the role of reason in arranging experiences, and distinguish the adult proposals from the child-education routes.
+
+**Learning criterion:**
+
+Explain reason's indirect role and distinguish adult boredom from children's companions
+
+**Essential concepts:**
+
+Indirect route: changing arrangements so that an existing tendency works in a suitable situation. Exhortation: a command or appeal to change directly. Self-education: the adult application distinguished from educating a child.
+
+**Prerequisite:**
+
+- arrangement of circumstances
+- child versus adult proposals
+
+**Connections:**
+
+Explain reason's indirect role and distinguish adult boredom from children's companions
+
+**Misconception and feedback:**
+
+- Does Steiner deny reason any useful role?
+- No. He says reason can find and create situations indirectly, even though direct reproach often achieves little.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The five-minute task exemplifies arrangement, and the explicit phlegmatic contrast prevents collapsing two different prescriptions.
+
+**Gap addressed:**
+
+- decision: Retained: The five-minute task exemplifies arrangement, and the explicit phlegmatic contrast prevents collapsing two different prescriptions.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The five-minute task exemplifies arrangement, and the explicit phlegmatic contrast prevents collapsing two different prescriptions.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing GA 57 notes for the recorded Berlin 4 March 1909 witness only; no new original-text check. Later course applications remain distinct from historical physiology, appearance and education claims.
+
+## Your synthesis: a person, a pattern, a response
+
+[English](../../docs/temperaments/lessons/10.html) · [Português](../../docs/pt/temperaments/lessons/10.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Connect the lecture’s account of temperament with its final purpose of responsive human understanding and love.
+
+**Learning criterion:**
+
+Connect two streams, shared members and mixtures to responsive understanding
+
+**Essential concepts:**
+
+Typical picture: the concrete portrait through which the lecture approaches a general tendency. Living wisdom: knowledge becoming responsive understanding. Authentic love of others: the goal named at the lecture’s close.
+
+**Prerequisite:**
+
+- mediation, predominance and adaptation
+
+**Connections:**
+
+Connect two streams, shared members and mixtures to responsive understanding
+
+**Misconception and feedback:**
+
+- What two streams meet in the account of temperament?
+- Inherited constitution and the continuing spiritual individuality that Steiner says develops through repeated earthly lives.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The revised teammate account supplies contrasting situations and a request for the person's view; source premises are not inferred from practical success.
+
+**Gap addressed:**
+
+- decision: Retained: The revised teammate account supplies contrasting situations and a request for the person's view; source premises are not inferred from practical success.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The revised teammate account supplies contrasting situations and a request for the person's view; source premises are not inferred from practical success.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing GA 57 notes for the recorded Berlin 4 March 1909 witness only; no new original-text check. Later course applications remain distinct from historical physiology, appearance and education claims.
+
 ## Body, soul and spirit
 
 [English](../../docs/theosophy/lessons/body-soul-spirit.html) · [Português](../../docs/pt/theosophy/lessons/body-soul-spirit.html)
@@ -12616,4 +15718,2160 @@ Explain the governing distinction through a fully supplied situation within the 
 **Source limit:**
 
 Derived 14-marker opening and source notes available; original witness absent locally, main chapters outside supplied coverage.
+
+## A second author, a broader application
+
+[English](../../docs/understand-temperament/lessons/00.html) · [Português](../../docs/pt/understand-temperament/lessons/00.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Read Childs alongside Steiner while keeping their voices distinct.
+
+**Learning criterion:**
+
+Distinguish Childs's recognition/prediction promise from a modest practical question
+
+**Essential concepts:**
+
+Portrait: a selective description. Caricature: deliberate exaggeration. Adaptation: an exercise created for this course.
+
+**Prerequisite:**
+
+- attribution of author versus epigraph
+- observation versus decision rule
+
+**Connections:**
+
+Distinguish Childs's recognition/prediction promise from a modest practical question
+
+**Misconception and feedback:**
+
+- Who wrote the chapter arguments, and whose voice is the intermediary epigraph?
+- Gilbert Childs wrote the book. The epigraph about heredity and previous earthly lives is explicitly credited to Rudolf Steiner.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The quiet-worker example exposes the change from asking about experience to assigning a job; the stronger authorial promise is not hidden.
+
+**Gap addressed:**
+
+- decision: Retained: The quiet-worker example exposes the change from asking about experience to assigning a job; the stronger authorial promise is not hidden.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The quiet-worker example exposes the change from asking about experience to assigning a job; the stronger authorial promise is not hidden.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Chapter 1: the same, only different
+
+[English](../../docs/understand-temperament/lessons/01.html) · [Português](../../docs/pt/understand-temperament/lessons/01.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Distinguish a recurring tendency from the way a person uses it.
+
+**Learning criterion:**
+
+Distinguish temperament, individuality, personality and character in the card analogy
+
+**Essential concepts:**
+
+Temperament: basic disposition in Childs’s account. Individuality: the way the resources are used. Personality: expressed through deeds and outlook. Character: habitual characteristic responses in this distinction. Arousal/perseverance: how readily attention awakens and how strongly it continues.
+
+**Prerequisite:**
+
+- tendency versus its use
+- attention and perseverance
+
+**Connections:**
+
+Distinguish temperament, individuality, personality and character in the card analogy
+
+**Misconception and feedback:**
+
+- How do the cards distinguish temperament from individuality?
+- Temperament supplies basic tendencies at birth; individuality concerns their use. Personality is expressed in actual deeds, so a shared tendency does not determine the quality of an action.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: Two quick actors make the difference in use concrete; exact attention/perseverance pairings and historical associations are supplied.
+
+**Gap addressed:**
+
+- decision: Retained: Two quick actors make the difference in use concrete; exact attention/perseverance pairings and historical associations are supplied.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; Two quick actors make the difference in use concrete; exact attention/perseverance pairings and historical associations are supplied.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Chapter 2: reading the psychological map
+
+[English](../../docs/understand-temperament/lessons/02.html) · [Português](../../docs/pt/understand-temperament/lessons/02.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Separate the axes Childs combines and examine what each is meant to explain.
+
+**Learning criterion:**
+
+Separate orientation, thinking operation and pattern stability in Childs's combined map
+
+**Essential concepts:**
+
+Introversion/extroversion: inward or outward orientation in this model. Convergent/divergent: Childs’s linked thinking portraits, including precision versus imaginative alternatives. Stable: consistency of a characteristic pattern, even when changeable. Personality/behavioural difficulties: his inward/outward problem distinction. Overlay: age-related colouring over a basic disposition.
+
+**Prerequisite:**
+
+- axes of classification
+- consistent disposition versus dependable action
+
+**Connections:**
+
+Separate orientation, thinking operation and pattern stability in Childs's combined map
+
+**Misconception and feedback:**
+
+- How does the source classify the melancholic and the sanguine across the three axes?
+- Melancholic is introvert/reflective, convergent and unstable. Sanguine is extrovert/active, divergent and stable.
+
+**Identified conceptual gap:**
+
+Distinguish the three axes through the actual design example, including the non-obvious stable-changeability relation.
+
+**Gap addressed:**
+
+- before: These examples challenge a rigid equation between sociability and a particular way of thinking. A person can generate alternatives and evaluate them at different stages of one task.
+- after: The quiet designer generates alternatives during one stage and narrows them against criteria during another. Quietness describes outward participation; generating and narrowing describe operations of thought. In Childs’s map, stability is a third question: whether a characteristic pattern persists. A repeatedly changing focus can therefore be stable in his special use of that word. It need not mean dependable completion or calm feeling. Keeping these questions separate lets us reconstruct his combined table without assuming that one observed behaviour measures all three axes.
+- pt: A pessoa quieta gera alternativas numa etapa e as reduz segundo critérios em outra. A quietude descreve a participação exterior; gerar e selecionar descrevem operações do pensar. No mapa de Childs, estabilidade é uma terceira questão: se um padrão característico persiste. Um foco que muda repetidamente pode, portanto, ser estável nesse uso específico da palavra. Isso não precisa significar conclusão confiável de tarefas nem tranquilidade emocional. Separar as perguntas permite reconstruir sua tabela combinada sem presumir que um comportamento observado meça os três eixos.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Chapter 3: initiative, determination and correction
+
+[English](../../docs/understand-temperament/lessons/03.html) · [Português](../../docs/pt/understand-temperament/lessons/03.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explore how purposeful energy can make room for feedback.
+
+**Learning criterion:**
+
+Distinguish specific appreciation and correction from flattery and concealed defects
+
+**Essential concepts:**
+
+Initiative: beginning purposeful action. Appreciation: recognition of something actually done. Feedback: information that can guide a correction.
+
+**Prerequisite:**
+
+- will, criticism and revision
+- author advice versus course adaptation
+
+**Connections:**
+
+Distinguish specific appreciation and correction from flattery and concealed defects
+
+**Misconception and feedback:**
+
+- What positive and difficult expressions arise from will in the portrait?
+- Courage, initiative, perseverance and enterprise can support useful leadership; the same determination can become obstinacy, impatience and insistence on one’s own way.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The unstable-support case demonstrates a practical check, while withholding unrequested advice remains Childs's distinct rule.
+
+**Gap addressed:**
+
+- decision: Retained: The unstable-support case demonstrates a practical check, while withholding unrequested advice remains Childs's distinct rule.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The unstable-support case demonstrates a practical check, while withholding unrequested advice remains Childs's distinct rule.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Chapter 4: enthusiasm, change and following through
+
+[English](../../docs/understand-temperament/lessons/04.html) · [Português](../../docs/pt/understand-temperament/lessons/04.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain how Childs links sanguine responsiveness with both social strengths and difficulty sustaining work.
+
+**Learning criterion:**
+
+Explain how susceptibility to impressions can aid invention and disrupt completion
+
+**Essential concepts:**
+
+Levity: lightness, the counterpart to gravity in the author’s Air analogy. Impressionability: susceptibility to fresh impressions or companions. Follow-through: completing an intention. Caricature: an exaggerated portrait, not a complete description of an individual.
+
+**Prerequisite:**
+
+- Air analogy
+- interest versus continuity
+
+**Connections:**
+
+Explain how susceptibility to impressions can aid invention and disrupt completion
+
+**Misconception and feedback:**
+
+- How does the Air analogy join sanguine strengths and limitations?
+- Childs associates Air with lightness and rapid change. These support lively movement, responsiveness and invention, while the continual arrival of new impressions weakens sustained attention and completion.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The chapter's positive and limiting claims are both explained; a defined event task makes completion discussable without a global trait judgment.
+
+**Gap addressed:**
+
+- decision: Retained: The chapter's positive and limiting claims are both explained; a defined event task makes completion discussable without a global trait judgment.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The chapter's positive and limiting claims are both explained; a defined event task makes completion discussable without a global trait judgment.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Chapter 5: steadiness, privacy and participation
+
+[English](../../docs/understand-temperament/lessons/05.html) · [Português](../../docs/pt/understand-temperament/lessons/05.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain Childs’s contrast between phlegmatic outward calm and inward complexity, and its practical consequences.
+
+**Learning criterion:**
+
+Explain how outward quiet and delayed response can coexist with inward reflection
+
+**Essential concepts:**
+
+Equilibrium: the inner balance Childs says phlegmatics protect. Preparation: time to consider a situation before responding. Self-effacement: holding back one’s own contribution. Status quo: an existing arrangement. These are terms in the author’s model, not diagnoses.
+
+**Prerequisite:**
+
+- Water analogy
+- response conditions versus capacity
+
+**Connections:**
+
+Explain how outward quiet and delayed response can coexist with inward reflection
+
+**Misconception and feedback:**
+
+- Why does the Water analogy include both flatness and hidden depth?
+- The apparently still surface represents outward evenness, while the water’s depths represent a strong inner life that Childs says is disclosed only to a favoured few.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The advance agenda and written contribution change conditions of participation; preparation and practice are connected to the source portrait.
+
+**Gap addressed:**
+
+- decision: Retained: The advance agenda and written contribution change conditions of participation; preparation and practice are connected to the source portrait.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The advance agenda and written contribution change conditions of participation; preparation and practice are connected to the source portrait.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Chapter 6: sensitivity, self-concern and practical compassion
+
+[English](../../docs/understand-temperament/lessons/06.html) · [Português](../../docs/pt/understand-temperament/lessons/06.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain Childs’s proposed movement from melancholic inward suffering to care for others, while identifying its assumptions.
+
+**Learning criterion:**
+
+Distinguish an actual concern from Childs's stronger interpretations of suffering
+
+**Essential concepts:**
+
+Sensitivity: responsiveness to distress in the portrait. Self-concern: attention centred on one’s own troubles. Asceticism: valuing sacrifice or hardship. Practical compassion: help expressed through concrete actions. Melancholic is a temperament category here, not a diagnosis of depression.
+
+**Prerequisite:**
+
+- Earth analogy
+- stated distress versus inferred motive
+
+**Connections:**
+
+Distinguish an actual concern from Childs's stronger interpretations of suffering
+
+**Misconception and feedback:**
+
+- How does Childs distinguish melancholic from phlegmatic introversion?
+- He describes melancholics as inwardly concerned with mental problems and unstable moods, whereas phlegmatics focus on bodily wellbeing and stable inner harmony. Both seek security in his model.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The appointment example asks before offering help; the text accurately marks fabricated distress as a source tactic changed by the course.
+
+**Gap addressed:**
+
+- decision: Retained: The appointment example asks before offering help; the text accurately marks fabricated distress as a source tactic changed by the course.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The appointment example asks before offering help; the text accurately marks fabricated distress as a source tactic changed by the course.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Chapter 7: cooperation in the workplace
+
+[English](../../docs/understand-temperament/lessons/07.html) · [Português](../../docs/pt/understand-temperament/lessons/07.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain how Childs connects mutual dependence, enduring temperament, developed behaviour and occupational fit.
+
+**Learning criterion:**
+
+Explain enduring tendency versus refined behaviour alongside aptitude and practical experience
+
+**Essential concepts:**
+
+Mutual dependence: contributions relying on one another. Aptitude: manual or intellectual ability relevant to work. Temperamental permanence: Childs’s claim that essential attributes remain while their expression can mature. Graphology: interpreting handwriting as a clue to personal characteristics.
+
+**Prerequisite:**
+
+- tendencies versus action
+- job requirement and skill
+
+**Connections:**
+
+Explain enduring tendency versus refined behaviour alongside aptitude and practical experience
+
+**Misconception and feedback:**
+
+- What does Childs distinguish from changing a person’s temperament?
+- Refining or modifying characteristic behaviour as the person matures, and learning to call on secondary and eventually other temperamental qualities.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The team plan is reviewable, graphology remains a source proposal and the Appendix I tension is explicitly preserved.
+
+**Gap addressed:**
+
+- decision: Retained: The team plan is reviewable, graphology remains a source proposal and the Appendix I tension is explicitly preserved.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The team plan is reviewable, graphology remains a source proposal and the Appendix I tension is explicitly preserved.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Chapter 8: compatibility as a question, not a verdict
+
+[English](../../docs/understand-temperament/lessons/08.html) · [Português](../../docs/pt/understand-temperament/lessons/08.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain all ten source sketches under Childs’s own caricature and mixed-temperament qualifications.
+
+**Learning criterion:**
+
+Derive ten unordered pairings and distinguish pairing symmetry from identical personal needs
+
+**Essential concepts:**
+
+Unordered pairing: reversing the two labels does not create another combination. Verbal caricature: a deliberately skewed portrait emphasizing selected traits. Secondary temperament: the supporting tendency Childs repeatedly invokes to qualify a pair. Reciprocity: giving and receiving consideration.
+
+**Prerequisite:**
+
+- same/different pair
+- ordered versus unordered
+
+**Connections:**
+
+Derive ten unordered pairings and distinguish pairing symmetry from identical personal needs
+
+**Misconception and feedback:**
+
+- Why does Childs count ten combinations rather than sixteen?
+- He treats reversed labels as the same pair: four same-type pairs plus six different-type pairs.
+
+**Identified conceptual gap:**
+
+The check states four plus six; demonstrate the counting and distinguish unordered labels from interchangeable people.
+
+**Gap addressed:**
+
+- before: A useful discussion specifies notice, freedom to decline and how shared plans are made. The agreement addresses actual behaviour rather than predicting the relationship’s fate.
+- after: Four labels give sixteen ordered choices if the first and second positions matter. Childs treats A with B as the same pairing as B with A: the twelve unlike ordered choices become six pairs, while the four same-type pairs remain. That yields ten sketches. This counting convention says nothing about whether two partners have identical roles. In the outing scene, useful discussion still specifies notice, freedom to decline and how shared plans are made. A symmetric table is not evidence of equal needs or a prediction of the relationship’s fate.
+- pt: Quatro rótulos dão dezesseis escolhas ordenadas se a primeira e a segunda posições importarem. Childs trata A com B como o mesmo par que B com A: as doze escolhas ordenadas de tipos diferentes tornam-se seis pares, enquanto os quatro pares de mesmo tipo permanecem. Assim chegam-se a dez esboços. Essa convenção de contagem nada diz sobre os parceiros terem papéis idênticos. Na cena do passeio, uma conversa útil ainda especifica antecedência, liberdade de recusar e modo de fazer planos comuns. Uma tabela simétrica não comprova necessidades iguais nem prevê o destino da relação.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Chapter 9: spiritual explanation and practical love
+
+[English](../../docs/understand-temperament/lessons/09.html) · [Português](../../docs/pt/understand-temperament/lessons/09.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Trace Childs’s spirit, reincarnation and fourfold premises into his argument for practical, non-possessive love.
+
+**Learning criterion:**
+
+Trace the eternity premise through birthlessness to Childs's spiritual foundation for love
+
+**Essential concepts:**
+
+Soul: interaction of spirit and body in Childs’s model. Birthlessness: existence before birth, paired with deathlessness in his eternity argument. Fourfold nature: physical, etheric, astral and I principles. Non-possessive love: practical regard for others he distinguishes from sentiment.
+
+**Prerequisite:**
+
+- premise versus conclusion
+- fourfold map and mediation
+
+**Connections:**
+
+Trace the eternity premise through birthlessness to Childs's spiritual foundation for love
+
+**Misconception and feedback:**
+
+- What premise supports Childs’s move from deathlessness to birthlessness?
+- He treats spirit as eternal and indestructible; what possesses eternity must, in his argument, have existed before birth as well as after death.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The chapter explicitly notes that survival alone is weaker than eternity and that the useful conversation does not demonstrate reincarnation.
+
+**Gap addressed:**
+
+- decision: Retained: The chapter explicitly notes that survival alone is weaker than eternity and that the useful conversation does not demonstrate reincarnation.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The chapter explicitly notes that survival alone is weaker than eternity and that the useful conversation does not demonstrate reincarnation.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Appendix I: spirit, appearance and conscious practice
+
+[English](../../docs/understand-temperament/lessons/10.html) · [Português](../../docs/pt/understand-temperament/lessons/10.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain Childs's physiognomic premise and his proposal to cultivate compensating qualities.
+
+**Learning criterion:**
+
+Explain compensating qualities while preserving the Chapter 7/Appendix I tension about change
+
+**Essential concepts:**
+
+Physiognomy: interpreting inner character through bodily appearance. Ego: Childs's coordinating spiritual individuality. Compensating quality: a less-used capacity brought into action deliberately. Textual tension: claims that the text does not fully reconcile.
+
+**Prerequisite:**
+
+- all four qualities
+- outward appearance versus inward cause
+
+**Connections:**
+
+Explain compensating qualities while preserving the Chapter 7/Appendix I tension about change
+
+**Misconception and feedback:**
+
+- What premise supports Childs's interpretation of outward form?
+- He holds that spirit precedes matter and bodily form expresses inward spiritual being. This is his stated explanatory premise, not a conclusion established by seeing someone's features.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The seated-person alternatives and the quoted difference in formulations make the unresolved tension visible rather than harmonizing it away.
+
+**Gap addressed:**
+
+- decision: Retained: The seated-person alternatives and the quoted difference in formulations make the unresolved tension visible rather than harmonizing it away.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The seated-person alternatives and the quoted difference in formulations make the unresolved tension visible rather than harmonizing it away.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Appendix II: reconstructing the four-body-type hypothesis
+
+[English](../../docs/understand-temperament/lessons/11.html) · [Português](../../docs/pt/understand-temperament/lessons/11.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow the stages of Childs's proposed model and distinguish correspondence from supporting evidence.
+
+**Learning criterion:**
+
+Reconstruct the stages of the two-by-two bodily hypothesis without inferring correspondence from counts
+
+**Essential concepts:**
+
+Somatotype: category of bodily build. Leptomorphic/eurymorphic: Childs's slender and stockier broad categories. Germ layers: embryonic tissue layers. Interface: a proposed meeting of layers used to explain moderate forms. Correspondence: an asserted relation that still requires evidence.
+
+**Prerequisite:**
+
+- category count versus causal link
+- moderate and extreme
+
+**Connections:**
+
+Reconstruct the stages of the two-by-two bodily hypothesis without inferring correspondence from counts
+
+**Misconception and feedback:**
+
+- How does Childs's final model produce four body types?
+- He proposes two broad physiques, leptomorphic and eurymorphic, each in an extreme and a moderate form. These become melancholic/sanguine and phlegmatic/choleric respectively; he rejects a separate mesomorphic category at the end.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The book-size/subject example directly exposes the numerical assumption; model stages and speculative interfaces are explained.
+
+**Gap addressed:**
+
+- decision: Retained: The book-size/subject example directly exposes the numerical assumption; model stages and speculative interfaces are explained.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The book-size/subject example directly exposes the numerical assumption; model stages and speculative interfaces are explained.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Synthesis: from the book's model to a considerate action
+
+[English](../../docs/understand-temperament/lessons/12.html) · [Português](../../docs/pt/understand-temperament/lessons/12.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Connect Childs's nine chapters and appendices in an accurately sourced, reviewable application.
+
+**Learning criterion:**
+
+Connect model, qualification and practical response without treating a successful action as proof
+
+**Essential concepts:**
+
+Synthesis: connecting ideas into a reasoned account. Source attribution: identifying whose claim is being explained. Qualification: stating a claim's conditions or limits. Reviewable action: an action with a clear purpose and an opportunity to reconsider its effects.
+
+**Prerequisite:**
+
+- author attribution
+- observations, alternatives and review
+
+**Connections:**
+
+Connect model, qualification and practical response without treating a successful action as proof
+
+**Misconception and feedback:**
+
+- What connects the portraits, social chapters and final practice?
+- Childs intends knowledge of oneself and others to support considerate social action, drawing on the qualities of all four temperaments. A synthesis should explain that purpose and connect it with a particular situation.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The deadline example replaces incompatible-type blame with differing completion assumptions; chapter and appendix limits remain required.
+
+**Gap addressed:**
+
+- decision: Retained: The deadline example replaces incompatible-type blame with differing completion assumptions; chapter and appendix limits remain required.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The deadline example replaces incompatible-type blame with differing completion assumptions; chapter and appendix limits remain required.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Existing Childs 2012/1995 edition notes only; original PDF not freshly checked. Physiognomy, psychological and bodily claims remain authorial; the Chapter 7/Appendix I tension is preserved.
+
+## Meet the person before the type
+
+[English](../../docs/understanding-temperaments/lessons/00.html) · [Português](../../docs/pt/understanding-temperaments/lessons/00.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Use the four temperaments as a subject of study without reducing people to labels.
+
+**Learning criterion:**
+
+Revise the unreliability judgment using Lea's actual agreement without replacing it with a positive stereotype
+
+**Essential concepts:**
+
+Temperament: underlying disposition in this lecture. Individuality: the particular person, whose life exceeds a general category.
+
+**Prerequisite:**
+
+- action versus interpretation
+- two streams
+
+**Connections:**
+
+Revise the unreliability judgment using Lea's actual agreement without replacing it with a positive stereotype
+
+**Misconception and feedback:**
+
+- What are the two streams, and what mediates their meeting in Steiner’s account?
+- One stream is inherited embodiment through the generations; the other is an individuality bringing experience from previous earthly lives. Temperament mediates their meeting. This is the lecture’s spiritual explanation, which is more specific than observing a habitual style of response.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The opening already supplies three contrasting actions and explained feedback that removes only the disproved inference.
+
+**Gap addressed:**
+
+- decision: Retained: The opening already supplies three contrasting actions and explained feedback that removes only the disproved inference.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The opening already supplies three contrasting actions and explained feedback that removes only the disproved inference.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## The four tendencies and their background
+
+[English](../../docs/understanding-temperaments/lessons/01.html) · [Português](../../docs/pt/understanding-temperaments/lessons/01.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Learn the mapping without confusing predominance with exclusive possession.
+
+**Learning criterion:**
+
+Reconstruct the four pairings without treating Lea's acts as measurements of a member
+
+**Essential concepts:**
+
+Etheric or life body: formative life in this framework. Astral body: bearer of inward responsiveness. I-bearer: member associated with self-awareness.
+
+**Prerequisite:**
+
+- predominance versus exclusive presence
+
+**Connections:**
+
+Reconstruct the four pairings without treating Lea's acts as measurements of a member
+
+**Misconception and feedback:**
+
+- What distinguishes the etheric body, astral body and bearer of the I in the lecture’s definitions?
+- The etheric concerns life, growth and metabolism; the astral bears instincts, desires and changing sensations and thoughts; the bearer of the I gives self-awareness. Together with the physical body, all belong to the same person in Steiner’s account. A temperament names predominance within their relationship, not possession of just one member.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: Both core explanation and transfer answer retain all four members when patience joins changing interest.
+
+**Gap addressed:**
+
+- decision: Retained: Both core explanation and transfer answer retain all four members when patience joins changing interest.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; Both core explanation and transfer answer retain all four members when patience joins changing interest.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## Choleric: purpose and correction
+
+[English](../../docs/understanding-temperaments/lessons/02.html) · [Português](../../docs/pt/understanding-temperaments/lessons/02.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Understand the movement from forceful insistence toward capable action.
+
+**Learning criterion:**
+
+Offer specific correction while updating responsibility after new evidence
+
+**Essential concepts:**
+
+Purposefulness: pursuing an aim. Resistance: a task’s genuine difficulty. Competence: ability shown in practice, including correction of mistakes.
+
+**Prerequisite:**
+
+- purpose, competence and appreciation
+
+**Connections:**
+
+Offer specific correction while updating responsibility after new evidence
+
+**Misconception and feedback:**
+
+- What makes the choleric portrait more than a description of anger?
+- Its centre is will gathered around a purpose: initiative, decisive action and persistence. Anger can arise when that purpose meets resistance. Constructive persistence allows evidence to correct the method; one-sided insistence refuses that correction.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The reply acknowledges the frame and checks the joint; the wrong measurement transfers responsibility to the organizer rather than a type.
+
+**Gap addressed:**
+
+- decision: Retained: The reply acknowledges the frame and checks the joint; the wrong measurement transfers responsibility to the organizer rather than a type.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The reply acknowledges the frame and checks the joint; the wrong measurement transfers responsibility to the organizer rather than a type.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## Sanguine: interest and follow-through
+
+[English](../../docs/understanding-temperaments/lessons/03.html) · [Português](../../docs/pt/understanding-temperaments/lessons/03.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explore how an existing interest can become a starting point for attention.
+
+**Learning criterion:**
+
+Define an achievable completion linked to an existing interest and revise an unclear scope
+
+**Essential concepts:**
+
+Responsiveness: readiness to take up an impression. Sustained attention: remaining with a task. A planned return is an original teaching adaptation.
+
+**Prerequisite:**
+
+- responsive attention versus continuity
+
+**Connections:**
+
+Define an achievable completion linked to an existing interest and revise an unclear scope
+
+**Misconception and feedback:**
+
+- How can the sanguine portrait show strong attention and still have difficulty finishing?
+- Interest is readily awakened, so attention can be lively and engaged. It moves quickly to a new impression, however. The difficulty is continuity with the same activity after its first attraction fades. A meaningful interest, a trusted relationship and a reachable completion can support returning.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The single bird sign and renegotiated scope supply both a usable first action and evidence-guided revision.
+
+**Gap addressed:**
+
+- decision: Retained: The single bird sign and renegotiated scope supply both a usable first action and evidence-guided revision.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The single bird sign and renegotiated scope supply both a usable first action and evidence-guided revision.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## Phlegmatic: steadiness and participation
+
+[English](../../docs/understanding-temperaments/lessons/04.html) · [Português](../../docs/pt/understanding-temperaments/lessons/04.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain how inner well-being and reflected interest connect in Steiner’s phlegmatic account.
+
+**Learning criterion:**
+
+Distinguish quietness from lack of interest and change an actual participation barrier
+
+**Essential concepts:**
+
+Etheric or life body: the formative life member in Steiner’s account. Reflected interest: interest encountered through another person. Impassivity: the stillness he also proposes directing toward suitable objects.
+
+**Prerequisite:**
+
+- inward contentment versus weighty concern
+- invitation
+
+**Connections:**
+
+Distinguish quietness from lack of interest and change an actual participation barrier
+
+**Misconception and feedback:**
+
+- What distinguishes phlegmatic quietness from melancholic quietness in these portraits?
+- The phlegmatic portrait centres on inward contentment and a familiar, even rhythm. The melancholic centres on an impression that remains inwardly weighty. Someone maintaining a routine and someone dwelling on a loss can both be quiet; the direction of attention differs.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The audible-instruction transfer gives a concrete alternative cause and response, rather than automatically confirming a portrait.
+
+**Gap addressed:**
+
+- decision: Retained: The audible-instruction transfer gives a concrete alternative cause and response, rather than automatically confirming a portrait.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The audible-instruction transfer gives a concrete alternative cause and response, rather than automatically confirming a portrait.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## Melancholic: sensitivity and care
+
+[English](../../docs/understanding-temperaments/lessons/05.html) · [Português](../../docs/pt/understanding-temperaments/lessons/05.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Follow Steiner’s movement from bodily resistance and personal pain toward another person’s destiny.
+
+**Learning criterion:**
+
+Connect sensitivity to optional practical care while investigating a real worry
+
+**Essential concepts:**
+
+Physical predominance: bodily resistance within the fourfold account. Destiny: the course and trials of another person’s life. Compassion: participation in suffering outside one’s own experience.
+
+**Prerequisite:**
+
+- felt concern versus cause
+- response to stated need
+
+**Connections:**
+
+Connect sensitivity to optional practical care while investigating a real worry
+
+**Misconception and feedback:**
+
+- How can melancholic sensitivity become a constructive capacity?
+- A lasting concern can support reflection, careful consideration and sympathy. It becomes constructive when understanding opens toward a real need and a manageable act of care. This connects depth of feeling with participation rather than dismissing the original concern.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The drainage problem changes the response from reassurance to inspection and repair, preserving the information in the concern.
+
+**Gap addressed:**
+
+- decision: Retained: The drainage problem changes the response from reassurance to inspection and repair, preserving the information in the concern.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The drainage problem changes the response from reassurance to inspection and repair, preserving the information in the concern.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## Mixtures, context and change
+
+[English](../../docs/understanding-temperaments/lessons/06.html) · [Português](../../docs/pt/understanding-temperaments/lessons/06.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Read the mixed-type qualification alongside Steiner’s outward portraits and their practical purpose.
+
+**Learning criterion:**
+
+Retain contrasting observations and include conditions that support attention
+
+**Essential concepts:**
+
+Basic temperament: the prevailing tendency in Steiner’s mixed-type account. Mixture: varying presence of the other tendencies. Direction: the educational aim he contrasts with eliminating differences.
+
+**Prerequisite:**
+
+- mixtures
+- context versus selective evidence
+
+**Connections:**
+
+Retain contrasting observations and include conditions that support attention
+
+**Misconception and feedback:**
+
+- Does one of these observations have to be discarded to keep a temperament label?
+- Keep the apparently contrasting observations. The sources discuss mixtures, while the case also raises questions about task, setting and interruptions. A useful account states these conditions instead of selecting only evidence that fits the first label.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: Uninterrupted repair time supplies a specific condition missing from the initial trait account.
+
+**Gap addressed:**
+
+- decision: Retained: Uninterrupted repair time supplies a specific condition missing from the initial trait account.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; Uninterrupted repair time supplies a specific condition missing from the initial trait account.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## Supporting a learner
+
+[English](../../docs/understanding-temperaments/lessons/07.html) · [Português](../../docs/pt/understanding-temperaments/lessons/07.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Compare the four child-education routes and the principle that holds them together.
+
+**Learning criterion:**
+
+Choose support for an identified learning difficulty and revise it when access is the problem
+
+**Essential concepts:**
+
+Existing capacity: the tendency or responsiveness from which the source starts. Mediation: the person or arrangement through which a new relation arises. Competent authority: respect for a person’s worth and grasp of things in the choleric proposal.
+
+**Prerequisite:**
+
+- four relationship routes
+- instruction, scope and interest
+
+**Connections:**
+
+Choose support for an identified learning difficulty and revise it when access is the problem
+
+**Misconception and feedback:**
+
+- What are the four relationship routes in the Mystery discussion, and how do the course activities relate to them?
+- The sanguine route is love and fidelity toward a person; the choleric route is esteem for an educator’s ability; the melancholic route is compassion for another person’s suffering; the phlegmatic route is interest awakened through companions. The activities are original adaptations of selected relationships, using honest correction, reachable tasks and voluntary care. They do not reproduce every stronger prescription in the supplied text.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The three task variants and unreachable-materials transfer explicitly separate different reasons for noncompletion.
+
+**Gap addressed:**
+
+- decision: Retained: The three task variants and unreachable-materials transfer explicitly separate different reasons for noncompletion.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The three task variants and unreachable-materials transfer explicitly separate different reasons for noncompletion.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## Working together
+
+[English](../../docs/understanding-temperaments/lessons/08.html) · [Português](../../docs/pt/understanding-temperaments/lessons/08.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain how Childs connects mutual dependence, enduring temperament, developed behaviour and occupational fit.
+
+**Learning criterion:**
+
+Assign a reviewable role using task, skill, preference and support
+
+**Essential concepts:**
+
+Mutual dependence: contributions relying on one another. Aptitude: manual or intellectual ability relevant to work. Temperamental permanence: Childs’s claim that essential attributes remain while their expression can mature. Graphology: interpreting handwriting as a clue to personal characteristics.
+
+**Prerequisite:**
+
+- aptitude and experience versus occupational type
+
+**Connections:**
+
+Assign a reviewable role using task, skill, preference and support
+
+**Misconception and feedback:**
+
+- What does Childs add to a proposed match between temperament and work?
+- He emphasizes mutual interdependence and the person’s aptitude, recommends hands-on experience under guidance, and describes communication that can reveal contributions, such as asking about improvements a quiet worker has not volunteered. These are parts of his workplace discussion; our skill-and-preference plan is an original adaptation.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The quiet experienced host overturns a role assumption with relevant evidence, while graphology remains distinct source content.
+
+**Gap addressed:**
+
+- decision: Retained: The quiet experienced host overturns a role assumption with relevant evidence, while graphology remains distinct source content.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The quiet experienced host overturns a role assumption with relevant evidence, while graphology remains distinct source content.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## Relationships and communication
+
+[English](../../docs/understanding-temperaments/lessons/09.html) · [Português](../../docs/pt/understanding-temperaments/lessons/09.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explore differences in pace, privacy and decisions through revisable agreements.
+
+**Learning criterion:**
+
+Negotiate pace and privacy by separating real from presumed urgency
+
+**Essential concepts:**
+
+Unordered pairing: reversing the two labels does not create another combination. Verbal caricature: a deliberately skewed portrait emphasizing selected traits. Secondary temperament: the supporting tendency Childs repeatedly invokes to qualify a pair. Reciprocity: giving and receiving consideration.
+
+**Prerequisite:**
+
+- pairing limits
+- needs versus verdict
+
+**Connections:**
+
+Negotiate pace and privacy by separating real from presumed urgency
+
+**Misconception and feedback:**
+
+- Why are Childs’s ten pairings insufficient to decide a particular relationship?
+- He explicitly calls the sketches skewed and the descriptions approximate. Secondary temperaments, personality, health, upbringing, education and unexpected reactions also matter. His examples allow both similarity and difference to help or hinder, depending on shared outlook, responsibilities and circumstances.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: The material order tonight versus decision tomorrow supplies a completed revised agreement under new constraints.
+
+**Gap addressed:**
+
+- decision: Retained: The material order tonight versus decision tomorrow supplies a completed revised agreement under new constraints.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; The material order tonight versus decision tomorrow supplies a completed revised agreement under new constraints.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## Self-education through a small experiment
+
+[English](../../docs/understanding-temperaments/lessons/10.html) · [Português](../../docs/pt/understanding-temperaments/lessons/10.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Explain the role of reason in arranging experiences, and distinguish the adult proposals from the child-education routes.
+
+**Learning criterion:**
+
+Change one circumstance and use outcomes to revise the next small experiment
+
+**Essential concepts:**
+
+Indirect route: changing arrangements so that an existing tendency works in a suitable situation. Exhortation: a command or appeal to change directly. Self-education: the adult application distinguished from educating a child.
+
+**Prerequisite:**
+
+- indirect reason
+- manageable result versus inner-type judgment
+
+**Connections:**
+
+Change one circumstance and use outcomes to revise the next small experiment
+
+**Misconception and feedback:**
+
+- If direct self-reproach accomplishes little, what role does Steiner give reason in self-education?
+- Reason has an indirect role: it chooses circumstances where a tendency can work differently. His sanguine example arranges situations where brief interest is appropriate. That differs from repeatedly commanding attention to last longer; the course’s modest experiments apply the structural principle while adapting the historical prescriptions.
+
+**Identified conceptual gap:**
+
+No additional rewrite warranted within the stated scope: Moving the book and then testing interruption-free time teaches sequential adjustment rather than a global willpower verdict.
+
+**Gap addressed:**
+
+- decision: Retained: Moving the book and then testing interruption-free time teaches sequential adjustment rather than a global willpower verdict.
+
+**Teaching method:**
+
+Retain the existing direct explanation and case with explained answers; Moving the book and then testing interruption-free time teaches sequential adjustment rather than a global willpower verdict.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## A more attentive encounter
+
+[English](../../docs/understanding-temperaments/lessons/11.html) · [Português](../../docs/pt/understanding-temperaments/lessons/11.html)
+
+**Scope:**
+
+Individual review of the actual goal, conceptual explanation, case, activity and explained checks. Revised text is bilingual. Source fidelity not independently reverified.
+
+**Learning objective:**
+
+Connect the lecture’s account of temperament with its final purpose of responsive human understanding and love.
+
+**Learning criterion:**
+
+Integrate two named source ideas and corrected observations into a concrete, revisable account
+
+**Essential concepts:**
+
+Typical picture: the concrete portrait through which the lecture approaches a general tendency. Living wisdom: knowledge becoming responsive understanding. Authentic love of others: the goal named at the lecture’s close.
+
+**Prerequisite:**
+
+- case history
+- mixtures
+- aptitude and experience
+
+**Connections:**
+
+Integrate two named source ideas and corrected observations into a concrete, revisable account
+
+**Misconception and feedback:**
+
+- How does the lecture’s ending connect understanding temperament with a social aim?
+- Steiner moves from abstract categories toward immediate understanding of a particular person. He describes such understanding as a foundation for responding with the quality the encounter needs and for authentic love of others. A final case demonstrates this connection by explaining how a more precise understanding changes a concrete response.
+
+**Identified conceptual gap:**
+
+The synthesis told the learner to name support and evidence; supply a complete short account using the course’s continuing case and two authors.
+
+**Gap addressed:**
+
+- before: A stronger account keeps the initial evidence, adds Lea’s explanation and distinguishes the sources’ concepts from your interpretation. Name the support you would offer and the observation that would make you revise it. Improvement means more precise understanding, not certainty about an inner type.
+- after: A completed account might read: “I called Lea unreliable after she left a meeting, but she was collecting supplies as agreed. Her patient repairs also show why one trait cannot explain every situation. Steiner’s mixture qualification keeps several tendencies in view; Childs’s workplace discussion adds aptitude and guided experience. I would ask Lea whether she wants the repair role and agree when to review it. If she reports interruptions or prefers another task, we should change the arrangement.” This keeps source ideas, observed actions and a proposed response distinct. It replaces the initial verdict with an explanation that can still be corrected.
+- pt: Um relato concluído poderia dizer: “Chamei Lea de pouco confiável depois que saiu de uma reunião, mas ela estava buscando materiais conforme combinado. Seus consertos pacientes também mostram por que um único traço não explica todas as situações. A ressalva de Steiner sobre misturas mantém várias tendências em vista; a discussão de Childs sobre trabalho acrescenta aptidão e experiência orientada. Eu perguntaria se Lea deseja a função de consertar e combinaria quando revê-la. Se relatar interrupções ou preferir outra tarefa, devemos mudar o arranjo.” Isso distingue ideias das fontes, ações observadas e uma resposta proposta. Substitui o veredito inicial por uma explicação que ainda pode ser corrigida.
+
+**Teaching method:**
+
+Replace the existing case explanation with a worked relationship, preserving the source reconstruction and existing optional feedback.
+
+**Remaining gap:**
+
+Fresh fidelity to original witnesses remains unverified; pedagogical review does not certify spiritual/physiological claims.
+
+**Source limit:**
+
+Cross-source practice using existing Steiner, Mystery and Childs companions. No independent original-source verification; practical success does not establish their spiritual or physiological premises.
+
+## Reading an anthology with three voices
+
+[English](../../docs/what-is-biodynamics/lessons/00.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/00.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Identify the anthology’s structure, credits and digital reading boundaries.
+
+**Learning criterion:**
+
+Distinguish compiler, editorial headnote and lecture while locating the three selected cycles
+
+**Essential concepts:**
+
+A source anthology has both an argument made by its selection and distinct authorial layers within that selection.
+
+**Prerequisite:**
+
+- authorship versus shared topic
+- capture versus printed page
+
+**Connections:**
+
+Distinguish compiler, editorial headnote and lecture while locating the three selected cycles
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Which reading map accurately describes the seven lectures?
+- options: ['Seven consecutive Agriculture Course lectures', 'Two GA 136 lectures, two GA 230 lectures and three GA 327 lectures', 'Seven chapter introductions written by Courtney']
+- answer: 1
+- explanation: The imprint and section notes identify the three cycles. The Agriculture selections are specifically GA 327 lectures 4–6.
+
+**Identified conceptual gap:**
+
+The example assigned attribution without supplying one; demonstrate how a shared topic can belong to different authorial acts.
+
+**Gap addressed:**
+
+- before: Imagine reading a collection that combines a scientist’s lectures, an editor’s chapter introductions and a later practitioner’s commentary. Write the speaker’s name beside each claim before comparing them. That simple reading habit also works here.
+- after: Consider the statement that preparations connect a living farm with unseen nature. In Courtney’s introduction it belongs to his argument for selecting these lectures. An editorial headnote helps orient a chapter; Steiner’s lecture then makes its own claims. The course explains the relations among those layers. Even when all three concern the same preparation, agreement in topic does not turn Courtney’s interpretation or a headnote into words spoken by Steiner in 1924.
+- pt: Considere a afirmação de que as preparações relacionam uma fazenda viva com a natureza invisível. Na introdução de Courtney, ela pertence ao argumento usado para selecionar estas palestras. Um texto editorial orienta a leitura do capítulo; a palestra de Steiner apresenta então suas próprias afirmações. O curso explica as relações entre essas camadas. Mesmo quando todas tratam da mesma preparação, a coincidência de assunto não transforma a interpretação de Courtney ou uma introdução editorial em palavras proferidas por Steiner em 1924.
+
+**Teaching method:**
+
+Provide the completed conceptual comparison in the existing example position.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Farm individuality, rhythms and preparations
+
+[English](../../docs/what-is-biodynamics/lessons/01.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/01.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Explain the farm/cosmos/preparation relationship and the preparation categories.
+
+**Learning criterion:**
+
+Explain individuality, celestial relations and preparations with Courtney's horsetail qualification
+
+**Essential concepts:**
+
+In Courtney’s account, individuality, celestial relationships and preparations form one approach; the preparations give that approach its distinctive practical expression.
+
+**Prerequisite:**
+
+- whole-farm relation versus spiritual premise
+
+**Connections:**
+
+Explain individuality, celestial relations and preparations with Courtney's horsetail qualification
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Which combination gives Courtney’s three defining features?
+- options: ['Nutrient measurements, crop rotation and mechanization', 'Farm/Earth as living, celestial relationships and preparations', 'Calendars alone, without soil or preparations']
+- answer: 1
+- explanation: He names a living individuality, work in relation to celestial rhythms, and specially made preparations. He particularly emphasizes the preparations.
+
+**Identified conceptual gap:**
+
+Retain within the stated scope: The three features and all preparation categories are supplied, including calendar uncertainty and disputed ninth status; feedback provides an actual compost relationship.
+
+**Gap addressed:**
+
+- decision: Retained: The three features and all preparation categories are supplied, including calendar uncertainty and disputed ninth status; feedback provides an actual compost relationship.
+
+**Teaching method:**
+
+Preserve the direct explanation and answered checks: The three features and all preparation categories are supplied, including calendar uncertainty and disputed ninth status; feedback provides an actual compost relationship.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Courtney’s wider interpretation of Earth healing
+
+[English](../../docs/what-is-biodynamics/lessons/02.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/02.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Trace the introduction’s correspondences and distinguish its later interpretation from the included lectures.
+
+**Learning criterion:**
+
+Trace Courtney's interpretive chain without attributing every extension to GA 327
+
+**Essential concepts:**
+
+An interpretation can connect several sources while adding a new argument that must remain credited to its interpreter.
+
+**Prerequisite:**
+
+- correspondence, quotation and later interpretation
+
+**Connections:**
+
+Trace Courtney's interpretive chain without attributing every extension to GA 327
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Who is responsible for the pictured preparation channel to the Earth’s core in the selected passage?
+- options: ['Courtney, developing his personal interpretation', 'The editor, reporting a measured soil experiment', 'Steiner, speaking these words in the 1924 lecture']
+- answer: 0
+- explanation: Courtney explicitly says this is the picture in his mind, reached through his reading and practice. Attribution preserves that qualification.
+
+**Identified conceptual gap:**
+
+Retain within the stated scope: The wider Earth-healing claims, named later interpreters and personal channel image are explicitly attributed; the course does not convert them into physical-effect evidence.
+
+**Gap addressed:**
+
+- decision: Retained: The wider Earth-healing claims, named later interpreters and personal channel image are explicitly attributed; the course does not convert them into physical-effect evidence.
+
+**Teaching method:**
+
+Preserve the direct explanation and answered checks: The wider Earth-healing claims, named later interpreters and personal channel image are explicitly attributed; the course does not convert them into physical-effect evidence.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Learning to perceive nature: the first spiritual beings
+
+[English](../../docs/what-is-biodynamics/lessons/03.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/03.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Explain the movement from sensory impressions to moral perception and the first two classes of nature beings, while distinguishing editorial synopsis, lecture claim and course example.
+
+**Learning criterion:**
+
+Distinguish sensory impression, inward response and supersensible cause while comparing first and second classes
+
+**Essential concepts:**
+
+The lecture moves from the self-education of attention and feeling to an asserted plurality of nature beings behind sensory appearances.
+
+**Prerequisite:**
+
+- physical field versus moral impulse
+- human unity and nature multiplicity
+
+**Connections:**
+
+Distinguish sensory impression, inward response and supersensible cause while comparing first and second classes
+
+**Misconception and feedback:**
+
+- type: choice
+- question: What contrast does Steiner make between the human etheric body and nature’s etheric world?
+- options: ['Both are a single undifferentiated form.', 'The human etheric body is connected and unitary; nature’s etheric world is a plurality of beings.', 'The human body consists only of cloud formations.']
+- answer: 1
+- explanation: The distinction at capture 38 is unity in the individual human etheric body and differentiated multiplicity behind physical nature.
+
+**Identified conceptual gap:**
+
+Retain within the stated scope: The shoot example already supplies three completed statements; definite and transforming outlines are directly explained and checked.
+
+**Gap addressed:**
+
+- decision: Retained: The shoot example already supplies three completed statements; definite and transforming outlines are directly explained and checked.
+
+**Teaching method:**
+
+Preserve the direct explanation and answered checks: The shoot example already supplies three completed statements; definite and transforming outlines are directly explained and checked.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## From nature beings to rhythms and planetary spirit
+
+[English](../../docs/what-is-biodynamics/lessons/04.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/04.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Reconstruct the four elemental classes and the Earth/human correspondences, including the memory-and-conscience qualification and the distinction between nature forces, laws and purpose.
+
+**Learning criterion:**
+
+Explain the difference between elemental activity, timed coordination and planetary relation
+
+**Essential concepts:**
+
+The source distinguishes life-working beings, the spirits directing recurring rhythms, and a planetary spirit relating Earth to the cosmos.
+
+**Prerequisite:**
+
+- four elemental classes
+- etheric, astral and I correspondence
+
+**Connections:**
+
+Explain the difference between elemental activity, timed coordination and planetary relation
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Which relationship distinguishes the cycle spirits from the planetary spirit?
+- options: ['The cycle spirits only protect individual seeds; the planetary spirit only changes cloud shapes.', 'Both are interchangeable names for the same four elemental classes.', 'The cycle spirits direct recurring earthly rhythms; the planetary spirit relates Earth to other heavenly bodies.']
+- answer: 2
+- explanation: Captures 48–50 describe the direction of seasonal and daily rhythms; capture 53 distinguishes that task from the planetary spirit’s relation to other heavenly bodies.
+
+**Identified conceptual gap:**
+
+Retain within the stated scope: The roles and final forces/laws/purpose scheme are explicit, including memory and conscience qualifications without testing personal worth.
+
+**Gap addressed:**
+
+- decision: Retained: The roles and final forces/laws/purpose scheme are explicit, including memory and conscience qualifications without testing personal worth.
+
+**Teaching method:**
+
+Preserve the direct explanation and answered checks: The roles and final forces/laws/purpose scheme are explicit, including memory and conscience qualifications without testing personal worth.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Elementals I: four activities in the plant’s cosmic circuit
+
+[English](../../docs/what-is-biodynamics/lessons/05.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/05.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Explain the four ether activities, their different relations to animals, and the proposed return of plant form and warmth to the soil.
+
+**Learning criterion:**
+
+Explain the upward and returning contributions in the proposed plant circuit
+
+**Essential concepts:**
+
+Four ether activities cooperate: gnomes/life, undines/chemical, sylphs/light and fire spirits/warmth; ideal form and seed warmth return to Earth.
+
+**Prerequisite:**
+
+- four ether activities
+- form, warmth and seed
+
+**Connections:**
+
+Explain the upward and returning contributions in the proposed plant circuit
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Which pairing preserves the four ether activities in the lecture?
+- options: ['Gnomes/light; undines/warmth; sylphs/life; fire spirits/chemical', 'Gnomes/life; undines/chemical; sylphs/light; fire spirits/warmth', 'Gnomes/chemical; undines/life; sylphs/warmth; fire spirits/light']
+- answer: 1
+- explanation: Capture 64 explicitly names life, chemical, light and warmth ether in that order. Their activities cooperate in the plant.
+
+**Identified conceptual gap:**
+
+The four activities are well defined but the example only assigns a map; supply the completed circuit and explain why its return path is necessary to the claim.
+
+**Gap addressed:**
+
+- before: Make an original two-column reading map: upward plant growth and downward form/warmth. Place each group beside its stated activity, then explain where the streams meet. This reconstructs the lecture’s relationships.
+- after: Follow the circuit in the lecture rather than stopping at four names. Gnomes are said to mediate minerals toward roots, undines to work through leaf chemistry, sylphs to weave ideal form through light, and fire spirits to carry warmth with pollen into seed. The return path matters: ideal form descends with withering plants and is held through winter by gnomes. Steiner locates the decisive meeting of that maternal form and warmth-bearing seed in the soil. Remove the return path and his proposed fertilization account loses one of its two contributions. This reconstructs his spiritual explanation; it is not a verified account of plant reproduction.
+- pt: Acompanhe o circuito da palestra, em vez de parar nos quatro nomes. Os gnomos mediariam minerais para as raízes; as ondinas atuariam na química das folhas; as sílfides teceriam a forma ideal pela luz; e os espíritos do fogo levariam calor com o pólen à semente. O caminho de retorno importa: a forma ideal desce com as plantas que murcham e é guardada pelos gnomos durante o inverno. Steiner situa no solo o encontro decisivo dessa forma materna com a semente portadora de calor. Retirar o retorno elimina uma das duas contribuições de sua explicação da fecundação. Isso reconstrói sua explicação espiritual; não é uma descrição verificada da reprodução vegetal.
+
+**Teaching method:**
+
+Provide the completed conceptual comparison in the existing example position.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Elementals II: complements, consciousness and displaced forces
+
+[English](../../docs/what-is-biodynamics/lessons/06.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/06.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Reconstruct animal complements and four consciousness relationships, then explain what “displacement of spheres” means in the lecture.
+
+**Learning criterion:**
+
+Explain displacement as changed sphere of activity rather than an intrinsically bad force
+
+**Essential concepts:**
+
+The effect of elemental activity depends on its sphere and direction; complementary, constructive and destructive workings must be distinguished within the account.
+
+**Prerequisite:**
+
+- complement, consciousness and appropriate sphere
+
+**Connections:**
+
+Explain displacement as changed sphere of activity rather than an intrinsically bad force
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Which sequence preserves the lecture’s consciousness relationships?
+- options: ['Falling asleep/gnomes; illuminated deep sleep/undines; awakening/sylphs; conscious self-observation/fire spirits', 'Falling asleep/fire spirits; deep sleep/sylphs; awakening/gnomes; self-observation/undines', 'Every ordinary dream shows all four groups in the same way']
+- answer: 0
+- explanation: Captures 69–72 distinguish these encounters and repeatedly qualify ordinary masked or unconscious experience.
+
+**Identified conceptual gap:**
+
+Retain within the stated scope: The four consciousness relationships and beneficial/harmful contexts are taught; the text explicitly avoids identifying ordinary dreams or prescribing ingestion.
+
+**Gap addressed:**
+
+- decision: Retained: The four consciousness relationships and beneficial/harmful contexts are taught; the text explicitly avoids identifying ordinary dreams or prescribing ingestion.
+
+**Teaching method:**
+
+Preserve the direct explanation and answered checks: The four consciousness relationships and beneficial/harmful contexts are taught; the text explicitly avoids identifying ordinary dreams or prescribing ingestion.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Fertilizing as enlivening the soil
+
+[English](../../docs/what-is-biodynamics/lessons/07.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/07.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Reconstruct the lecture’s chain from nourishment and plant surroundings to compost, animal manure and inward formative activity, keeping its spiritual interpretations attributed.
+
+**Learning criterion:**
+
+Connect plant surroundings, compost and inward animal activity in the fertilizing argument
+
+**Essential concepts:**
+
+The lecture’s governing relation is plant–soil life: Steiner explains fertilization through activity extending across the root boundary, with etheric, astral, watery and earthy aspects differentiated.
+
+**Prerequisite:**
+
+- material versus attributed activity
+- etheric and astral
+
+**Connections:**
+
+Connect plant surroundings, compost and inward animal activity in the fertilizing argument
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Why does Steiner connect fertilizing with the plant’s surroundings?
+- options: ['Because he says life continues from the roots into the soil around them.', 'Because he says plant life is completely enclosed by its visible outline.', 'Because he describes humus as a wholly lifeless container.']
+- answer: 0
+- explanation: The tree/mound argument extends life through the roots into soil. Enlivening that surrounding soil is therefore central to his account of plant development.
+
+**Identified conceptual gap:**
+
+Retain within the stated scope: The five paragraphs already explain the tree/mound and horn/antler relations, while preserving the source's actual nourishment and microbial claims.
+
+**Gap addressed:**
+
+- decision: Retained: The five paragraphs already explain the tree/mound and horn/antler relations, while preserving the source's actual nourishment and microbial claims.
+
+**Teaching method:**
+
+Preserve the direct explanation and answered checks: The five paragraphs already explain the tree/mound and horn/antler relations, while preserving the source's actual nourishment and microbial claims.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Two preparations, one larger inquiry
+
+[English](../../docs/what-is-biodynamics/lessons/08.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/08.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Explain the winter/summer and below/above polarity, then distinguish the lecture’s spiritual assertions from its unresolved trials, numerical questions and limits on replacing ordinary farming.
+
+**Learning criterion:**
+
+Explain complementary horn preparations while retaining trial uncertainty and ordinary manuring
+
+**Essential concepts:**
+
+Winter manure/soil/below and summer mineral/plant/above form the lecture’s complementary polarity. Its discussion also requires investigation, calculable communication and the continuation of ordinary manuring.
+
+**Prerequisite:**
+
+- winter/summer, below/above and enhancement/replacement
+
+**Connections:**
+
+Explain complementary horn preparations while retaining trial uncertainty and ordinary manuring
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Which pairing matches the lecture’s two horn preparations?
+- options: ['Manure spends winter underground and addresses soil from below; the mineral preparation spends summer underground and addresses the plant from above.', 'Both preparations spend summer underground and work only on roots.', 'The mineral preparation replaces all ordinary manuring, while manure is applied only to fruit.']
+- answer: 0
+- explanation: Captures 85–86 connect the substances with opposite seasons and complementary sides of plant development. The final answer at 95 expressly preserves ordinary manuring.
+
+**Identified conceptual gap:**
+
+Retain within the stated scope: The actual three-way machinery comparison supplies reasons, not a blanket prohibition; experimental details and spiritual confidence remain distinct.
+
+**Gap addressed:**
+
+- decision: Retained: The actual three-way machinery comparison supplies reasons, not a blanket prohibition; experimental details and spiritual confidence remain distinct.
+
+**Teaching method:**
+
+Preserve the direct explanation and answered checks: The actual three-way machinery comparison supplies reasons, not a blanket prohibition; experimental details and spiritual confidence remain distinct.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Living soil: substances, forces and replenishment
+
+[English](../../docs/what-is-biodynamics/lessons/09.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/09.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Explain the lecture's living-soil argument, its criticism of microbial and mineral approaches, and its specific chemical and cosmic claims.
+
+**Learning criterion:**
+
+Distinguish the asserted transformation into nitrogen from nutrient redistribution
+
+**Essential concepts:**
+
+In the lecture, fertility requires living relationships that supposedly enable reception and use of substances, beyond simply increasing their quantity.
+
+**Prerequisite:**
+
+- named material, proposed process and predicted result
+
+**Connections:**
+
+Distinguish the asserted transformation into nitrogen from nutrient redistribution
+
+**Misconception and feedback:**
+
+- type: choice
+- question: What distinction does the selected passage make?
+- options: ['Increasing substances is sufficient regardless of uptake.', 'Living forces should enable plants to receive and use what soil offers.', 'Preparations eliminate the need for ordinary manuring immediately.']
+- answer: 1
+- explanation: Steiner distinguishes abundance from a living capacity to receive and use it; he starts by retaining ordinary manuring.
+
+**Identified conceptual gap:**
+
+The mapping instruction still asks the learner to provide the mechanism; fill the map and distinguish the claim from a softened recycling paraphrase.
+
+**Gap addressed:**
+
+- before: Make a reading map with three boxes: material added, process Steiner proposes, and result he predicts. For the nitrogen discussion, the middle box must name the asserted transformation; it cannot be replaced with a generic arrow labelled recycling.
+- after: The nitrogen discussion needs three distinct boxes. The named starting substances are potash and lime, with hydrogen assigned an assisting role. The proposed process is their transformation into nitrogen. The predicted result is a changed capacity of living soil to supply what plants need. Calling the middle box recycling would imply that existing nitrogen is merely being moved or reused, which is not the claim stated here. Conversely, accurately naming elemental transformation does not establish that it occurred. The reading map preserves a difficult claim so that the proposed mechanism and the evidence for it can be examined separately.
+- pt: A discussão do nitrogênio exige três quadros distintos. As substâncias iniciais nomeadas são potassa e cal, com um papel auxiliar atribuído ao hidrogênio. O processo proposto é sua transformação em nitrogênio. O resultado previsto é uma mudança na capacidade do solo vivo de fornecer o que as plantas precisam. Chamar o quadro central de reciclagem sugeriria apenas deslocar ou reutilizar nitrogênio já existente, o que não é a afirmação apresentada aqui. Inversamente, nomear corretamente a transformação de elementos não estabelece que ela ocorreu. O mapa preserva uma afirmação difícil para permitir o exame separado do mecanismo proposto e de suas evidências.
+
+**Teaching method:**
+
+Provide the completed conceptual comparison in the existing example position.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Six preparations: differentiated roles and qualified claims
+
+[English](../../docs/what-is-biodynamics/lessons/10.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/10.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Relate each named preparation to its proposed task, and read the lecture alongside its discussion and editorial qualifications.
+
+**Learning criterion:**
+
+Compare preparation roles and enclosures while preserving editorial and discussion qualifications
+
+**Essential concepts:**
+
+Each preparation has a distinct proposed role within one living process; a named ingredient, its historical treatment and its claimed effect must be distinguished.
+
+**Prerequisite:**
+
+- differentiated task versus generic improvement
+- growth versus suppression
+
+**Connections:**
+
+Compare preparation roles and enclosures while preserving editorial and discussion qualifications
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Which relationship belongs to the nettle preparation in this lecture?
+- options: ["An intestinal enclosure chosen for calcium's relation to sulfur.", 'A blossom extract completing the preparations through phosphorus.', 'Nitrogen retention and regulated decomposition without an animal enclosure.']
+- answer: 2
+- explanation: Nettle is linked with regulating decomposition, retaining nitrogen and increasing sensitivity; chamomile and valerian have the other named roles.
+
+**Identified conceptual gap:**
+
+The example assigns six cards; demonstrate a completed two-preparation comparison and its connection to the weed qualification.
+
+**Gap addressed:**
+
+- before: Create six reading cards with plant, enclosure if named, substance relationship and predicted effect. Put no animal enclosure on the nettle card and no preparation timetable on the valerian card. Add the editor's qualifications on separate cards.
+- after: Compare nettle and chamomile. Both enter the lecture’s discussion of manure, but nettle is described without an animal enclosure and assigned a role in retaining nitrogen and regulating decomposition. Chamomile receives an intestinal enclosure and a proposed sulfur relationship with calcium as well as potash. A generic card saying “improves compost” would erase those differences. The discussion also says that promoted growth includes weeds: growth promotion and selective suppression are different aims. These comparisons explain the source’s differentiated tasks; they do not establish efficacy or prescribe preparation methods.
+- pt: Compare urtiga e camomila. Ambas entram na discussão do esterco, mas a urtiga é descrita sem envoltório animal e recebe um papel na retenção de nitrogênio e na regulação da decomposição. A camomila recebe um envoltório intestinal e uma relação proposta do enxofre com cálcio e potassa. Uma ficha genérica dizendo “melhora o composto” apagaria essas diferenças. A discussão também diz que o crescimento favorecido inclui ervas indesejadas: promover crescimento e suprimi-lo seletivamente são objetivos distintos. Essas comparações explicam as tarefas diferenciadas da fonte; não estabelecem eficácia nem prescrevem métodos de preparação.
+
+**Teaching method:**
+
+Provide the completed conceptual comparison in the existing example position.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Desired growth, unwanted plants and the question of verification
+
+[English](../../docs/what-is-biodynamics/lessons/11.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/11.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Follow the near/distant-planet distinction, the proposed reversal of reproductive forces, and the lecture's own account of testing.
+
+**Learning criterion:**
+
+Explain the two planetary routes and distinguish the requested verification from suspended judgment
+
+**Essential concepts:**
+
+The lecture proposes selective reversal of reproductive forces and treats experimental confirmation differently from the inner certainty of spiritual science.
+
+**Prerequisite:**
+
+- reproductive versus fleshy growth
+- spiritual certainty versus outward test
+
+**Connections:**
+
+Explain the two planetary routes and distinguish the requested verification from suspended judgment
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Which route is associated with successive plant generations in this lecture?
+- options: ['Distant planets acting only through fleshy fruit.', 'Microscopic creatures replacing all cosmic forces.', 'Moon, Mercury and Venus acting through Earth, with lime involved.']
+- answer: 2
+- explanation: Steiner connects the near-planet route through Earth with reproduction, and the distant-planet route through air/silica with fleshy formation.
+
+**Identified conceptual gap:**
+
+Retain within the stated scope: The near/distant routes, four-year prediction and prior-certainty qualification are explicit; the text does not recast this as an undecided experimental hypothesis.
+
+**Gap addressed:**
+
+- decision: Retained: The near/distant routes, four-year prediction and prior-certainty qualification are explicit; the text does not recast this as an undecided experimental hypothesis.
+
+**Teaching method:**
+
+Preserve the direct explanation and answered checks: The near/distant routes, four-year prediction and prior-certainty qualification are explicit; the text does not recast this as an undecided experimental hypothesis.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Pests, plant abnormalities and shared responsibility
+
+[English](../../docs/what-is-biodynamics/lessons/12.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/12.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Explain the organism-specific pest and plant-abnormality claims while retaining the discussion's cooperation, ethics and testing qualifications.
+
+**Learning criterion:**
+
+Distinguish organism-specific mechanisms and qualifications from the shared-cooperation argument
+
+**Essential concepts:**
+
+The source distinguishes reproductive and disease-related explanations by organism, while making cooperation and moral responsibility part of agricultural action.
+
+**Prerequisite:**
+
+- plant versus animal account
+- source assertion and editorial interpretation
+
+**Connections:**
+
+Distinguish organism-specific mechanisms and qualifications from the shared-cooperation argument
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Why does Steiner prefer shared insight to police-enforced uniformity in the mouse discussion?
+- options: ['He considers adjoining fields irrelevant to pest return.', 'Neighboring land matters, so cooperation should arise through understanding and persuasion.', 'He says each organism can be controlled by an identical compulsory method.']
+- answer: 1
+- explanation: Mice returning from neighboring land motivate the wider cooperation. The selected sentence states his preference for shared insights.
+
+**Identified conceptual gap:**
+
+Retain within the stated scope: The three different mechanisms and disputed timings are kept distinct; cooperation and misuse are explained without turning the lesson into a control protocol.
+
+**Gap addressed:**
+
+- decision: Retained: The three different mechanisms and disputed timings are kept distinct; cooperation and misuse are explained without turning the lesson into a control protocol.
+
+**Teaching method:**
+
+Preserve the direct explanation and answered checks: The three different mechanisms and disputed timings are kept distinct; cooperation and misuse are explained without turning the lesson into a control protocol.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
+
+## Explaining biodynamics with its sources in view
+
+[English](../../docs/what-is-biodynamics/lessons/13.html) · [Português](../../docs/pt/what-is-biodynamics/lessons/13.html)
+
+**Scope:**
+
+Individual review of all main explanation paragraphs, goal, example, distinctions and explained checks; bilingual example revision where needed. Existing source provenance preserved, not freshly verified.
+
+**Learning objective:**
+
+Synthesize the anthology and identify the next sources and questions.
+
+**Learning criterion:**
+
+Connect the anthology's selection, agricultural claims and epistemic tension in a short synthesis
+
+**Essential concepts:**
+
+A faithful synthesis explains both the relationships a source proposes and the different status of its claims and qualifications.
+
+**Prerequisite:**
+
+- authorship layers
+- proposed mechanism versus verified effect
+
+**Connections:**
+
+Connect the anthology's selection, agricultural claims and epistemic tension in a short synthesis
+
+**Misconception and feedback:**
+
+- type: choice
+- question: Which synthesis keeps the source’s differences visible?
+- options: ['Treat every sentence as a single 1924 Steiner lecture', 'Explain the spiritual proposal, attribute later interpretations and retain experimental qualifications', 'Use the bibliography as proof that all cited books have been reviewed']
+- answer: 1
+- explanation: The anthology contains several voices, dated lecture cycles and editorial qualifications. A careful synthesis connects them while keeping those distinctions.
+
+**Identified conceptual gap:**
+
+The synthesis example assigns columns; supply a short connected account preserving authorship and the tension between requested trials and prior certainty.
+
+**Gap addressed:**
+
+- before: Write three columns: what the author proposes, the passage that supports your reading, and what further evidence or source is needed. Put one item about preparations and one about celestial rhythms in the table. This organizes understanding without scoring belief.
+- after: A short synthesis could begin: Courtney selects spiritual nature lectures to frame his emphasis on preparations. Steiner’s agricultural selections then explain soil vitality, differentiated preparations and proposed control of unwanted growth. Their discussions ask for trials and preserve ordinary farming, while Agriculture III also treats spiritual truths as independently certain. The two statements should remain together: an author can request outward confirmation while regarding the underlying account as already true. A remaining question is what independently examined results would support a specific predicted effect. That question differs from whether the anthology has been accurately summarized.
+- pt: Uma síntese breve poderia começar assim: Courtney seleciona palestras sobre a natureza espiritual para contextualizar sua ênfase nas preparações. As seleções agrícolas de Steiner explicam então vitalidade do solo, preparações diferenciadas e controle proposto do crescimento indesejado. Suas discussões pedem ensaios e preservam o cultivo comum, enquanto Agricultura III também trata verdades espirituais como certas por si mesmas. As duas afirmações devem permanecer juntas: um autor pode pedir confirmação exterior e considerar a explicação subjacente já verdadeira. Uma questão restante é quais resultados examinados independentemente apoiariam um efeito específico previsto. Essa pergunta difere de saber se a antologia foi resumida com precisão.
+
+**Teaching method:**
+
+Provide the completed conceptual comparison in the existing example position.
+
+**Remaining gap:**
+
+Independent original-source fidelity and claimed agricultural effects remain unverified.
+
+**Source limit:**
+
+Existing 135-capture anthology notes only. Courtney, editor, Steiner and editorial notes retain separate attribution. GA 327 selection covers lectures 4–6, not the full eight. No original PDF, quoted passage or locator freshly verified; no new quote, recipe or field trial introduced.
 

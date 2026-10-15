@@ -1,3 +1,5 @@
+> Current follow-up: [Seven-course conceptual review and QA corrections](SEVEN-COURSE-REVIEW.md). The authored-unit total is now 360 audited and 127 pending; older batch counts below are historical.
+
 # Pedagogical redevelopment review
 
 **Current batch:** [FIVE-COURSE-REVIEW.md](FIVE-COURSE-REVIEW.md) records 85 individual conceptual audits across Philosophy, Higher Worlds, Luke, Esoteric Christianity and Myths: 25 revised, 60 deliberately retained. Total coverage is now 264 audited authored units, with 223 still pending; see the per-course checklist for route/lesson distinctions. Earlier batch descriptions below retain their historical counts.
