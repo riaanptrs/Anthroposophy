@@ -383,9 +383,10 @@ for(const route of esotericChristianityRoutes)expectedRoutes.add(route);
 const foodwise=JSON.parse(fs.readFileSync('content/foodwise/course.json','utf8'));
 for(const prefix of ['', 'pt/'])for(const route of ['index.html','sources.html','glossary.html','ingredients/index.html','kitchen/index.html',...foodwise.modules.map(m=>'modules/'+m.slug+'.html'),...foodwise.lessons.map(l=>'lessons/'+String(l.id).padStart(2,'0')+'.html'),...foodwise.ingredients.map(i=>'ingredients/'+i.slug+'.html'),...foodwise.recipes.map(r=>'kitchen/'+r.slug+'.html')])expectedRoutes.add(prefix+'foodwise/'+route);
 
-// The nutrition reading course has an English-only Portuguese entry.
+// Nutrition has eighteen teaching counterparts and translated support routes.
 const nutritionCourse=JSON.parse(fs.readFileSync('content/nutrition/course.json','utf8'));
-for(const route of ['nutrition/index.html','nutrition/print.html','nutrition/sources.html','nutrition/teacher-plans.html','pt/nutrition/index.html',...Array.from({length:nutritionCourse.lessons.length+2},(_,i)=>'nutrition/'+String(i).padStart(2,'0')+'.html')])expectedRoutes.add(route);
+for(const prefix of ['', 'pt/'])for(const route of ['index.html','print.html','sources.html',...Array.from({length:nutritionCourse.lessons.length+2},(_,i)=>String(i).padStart(2,'0')+'.html')])expectedRoutes.add(prefix+'nutrition/'+route);
+expectedRoutes.add('nutrition/teacher-plans.html');
 for(const route of platformRoutes)expectedRoutes.add(route);
 for(const prefix of ['', 'pt/']){
  expectedRoutes.add(prefix+'read/theosophy/index.html');

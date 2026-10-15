@@ -1,0 +1,81 @@
+{
+  "baseline": "8069072f4b60b51db50a69178f26a9dbd674a858",
+  "checks": [
+    {
+      "file": "content/agriculture.json",
+      "lessonIds": [
+        3,
+        5,
+        9,
+        14,
+        15,
+        17
+      ],
+      "field": "example",
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "otherFieldsPreserved": true
+    },
+    {
+      "file": "content/foodwise/course.json",
+      "lessonIds": [
+        8,
+        10,
+        12,
+        24,
+        30,
+        37,
+        39
+      ],
+      "field": "connection",
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "otherFieldsPreserved": true
+    },
+    {
+      "file": "content/theosophy-guided-chapter-1.json",
+      "lessonIds": [
+        24
+      ],
+      "field": "example",
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "otherFieldsPreserved": true
+    },
+    {
+      "file": "content/theosophy-guided-chapter-3.json",
+      "lessonIds": [
+        13
+      ],
+      "field": "example",
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "otherFieldsPreserved": true
+    },
+    {
+      "file": "content/theosophy-guided-chapter-4.json",
+      "lessonIds": [
+        20
+      ],
+      "field": "example",
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "otherFieldsPreserved": true
+    },
+    {
+      "unchanged": "English Nutrition source data and all six Biodynamic Agriculture parts",
+      "sourceReverified": false
+    }
+  ],
+  "status": "passed"
+}

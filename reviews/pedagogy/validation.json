@@ -32,12 +32,12 @@
   {
     "script": "scripts/check-concept-platform.mjs",
     "exitCode": 0,
-    "output": "Concept platform passed: 23 teaching lessons + synthesis, 44 concepts, 13 practices, 178 bilingual prototype pages, 1565 pages with four-area navigation; optional private preservation baseline unavailable.\n"
+    "output": "Concept platform passed: 23 teaching lessons + synthesis, 44 concepts, 13 practices, 178 bilingual prototype pages, 1585 pages with four-area navigation; optional private preservation baseline unavailable.\n"
   },
   {
     "script": "scripts/check-constitution.mjs",
     "exitCode": 0,
-    "output": "Passed: 1500 terminology links on 203 pages; bilingual targets, anchors, teaching diagrams, text preservation and idempotence.\n"
+    "output": "Passed: 1610 terminology links on 211 pages; bilingual targets, anchors, teaching diagrams, text preservation and idempotence.\n"
   },
   {
     "script": "scripts/check-encountering-self-source.mjs",
@@ -72,7 +72,7 @@
   {
     "script": "scripts/check-guided-notebook.mjs",
     "exitCode": 0,
-    "output": "\u2714 en: disabling, reopening and re-enabling restores notes without rewriting them (4.912403ms)\n\u2714 en: edits made while saving is off merge with untouched and unknown saved fields (3.447981ms)\n\u2714 en: intentionally clearing one note preserves the other notes and completion (1.061317ms)\n\u2714 en: a pending edit flushes before opt-out and later off-session edits remain unsaved (2.846222ms)\n\u2714 en: completion changes only after an explicit toggle (1.118091ms)\n\u2714 en: note saving merges the latest untouched fields and completion (0.712552ms)\n\u2714 en: corrupt records survive consent, input and page exit until explicit deletion (3.660434ms)\n\u2714 en: blocked storage keeps text exportable and retries without losing old notes (1.654042ms)\n\u2714 en: deleting cancels pending saves and removes both languages without resurrection (1.128957ms)\n\u2714 en: failed automatic writes retain edits for retry and report an unsaved opt-out (1.299549ms)\n\u2714 en: storage read denial during an active session retains edits and announces export (2.481313ms)\n\u2714 en: failed deletion keeps the notebook and visible edits intact (0.940539ms)\n\u2714 en: opt-out in another tab stops automatic saving but keeps local edits for later consent (0.950964ms)\n\u2714 en: another tab's delete cannot be undone by a pending timer or page exit (1.724797ms)\n\u2714 pt: disabling, reopening and re-enabling restores notes without rewriting them (1.488307ms)\n\u2714 pt: edits made while saving is off merge with untouched and unknown saved fields (0.827432ms)\n\u2714 pt: intentionally clearing one note preserves the other notes and completion (0.733803ms)\n\u2714 pt: a pending edit flushes before opt-out and later off-session edits remain unsaved (0.777878ms)\n\u2714 pt: completion changes only after an explicit toggle (0.800011ms)\n\u2714 pt: note saving merges the latest untouched fields and completion (0.732692ms)\n\u2714 pt: corrupt records survive consent, input and page exit until explicit deletion (4.346717ms)\n\u2714 pt: blocked storage keeps text exportable and retries without losing old notes (5.275659ms)\n\u2714 pt: deleting cancels pending saves and removes both languages without resurrection (0.987468ms)\n\u2714 pt: failed automatic writes retain edits for retry and report an unsaved opt-out (0.880781ms)\n\u2714 pt: storage read denial during an active session retains edits and announces export (0.841102ms)\n\u2714 pt: failed deletion keeps the notebook and visible edits intact (0.822314ms)\n\u2714 pt: opt-out in another tab stops automatic saving but keeps local edits for later consent (0.790867ms)\n\u2714 pt: another tab's delete cannot be undone by a pending timer or page exit (1.790573ms)\n\u2139 tests 28\n\u2139 suites 0\n\u2139 pass 28\n\u2139 fail 0\n\u2139 cancelled 0\n\u2139 skipped 0\n\u2139 todo 0\n\u2139 duration_ms 61.637469\n"
+    "output": "\u2714 en: disabling, reopening and re-enabling restores notes without rewriting them (4.623326ms)\n\u2714 en: edits made while saving is off merge with untouched and unknown saved fields (2.199498ms)\n\u2714 en: intentionally clearing one note preserves the other notes and completion (1.021798ms)\n\u2714 en: a pending edit flushes before opt-out and later off-session edits remain unsaved (2.222672ms)\n\u2714 en: completion changes only after an explicit toggle (0.911106ms)\n\u2714 en: note saving merges the latest untouched fields and completion (0.969481ms)\n\u2714 en: corrupt records survive consent, input and page exit until explicit deletion (3.342194ms)\n\u2714 en: blocked storage keeps text exportable and retries without losing old notes (1.859906ms)\n\u2714 en: deleting cancels pending saves and removes both languages without resurrection (1.148265ms)\n\u2714 en: failed automatic writes retain edits for retry and report an unsaved opt-out (0.891166ms)\n\u2714 en: storage read denial during an active session retains edits and announces export (0.875272ms)\n\u2714 en: failed deletion keeps the notebook and visible edits intact (0.683098ms)\n\u2714 en: opt-out in another tab stops automatic saving but keeps local edits for later consent (0.9279ms)\n\u2714 en: another tab's delete cannot be undone by a pending timer or page exit (1.502729ms)\n\u2714 pt: disabling, reopening and re-enabling restores notes without rewriting them (1.422651ms)\n\u2714 pt: edits made while saving is off merge with untouched and unknown saved fields (0.701776ms)\n\u2714 pt: intentionally clearing one note preserves the other notes and completion (0.701455ms)\n\u2714 pt: a pending edit flushes before opt-out and later off-session edits remain unsaved (0.892938ms)\n\u2714 pt: completion changes only after an explicit toggle (0.611573ms)\n\u2714 pt: note saving merges the latest untouched fields and completion (0.650801ms)\n\u2714 pt: corrupt records survive consent, input and page exit until explicit deletion (3.282496ms)\n\u2714 pt: blocked storage keeps text exportable and retries without losing old notes (4.827557ms)\n\u2714 pt: deleting cancels pending saves and removes both languages without resurrection (0.826721ms)\n\u2714 pt: failed automatic writes retain edits for retry and report an unsaved opt-out (0.816175ms)\n\u2714 pt: storage read denial during an active session retains edits and announces export (0.64305ms)\n\u2714 pt: failed deletion keeps the notebook and visible edits intact (0.651762ms)\n\u2714 pt: opt-out in another tab stops automatic saving but keeps local edits for later consent (0.696158ms)\n\u2714 pt: another tab's delete cannot be undone by a pending timer or page exit (1.453085ms)\n\u2139 tests 28\n\u2139 suites 0\n\u2139 pass 28\n\u2139 fail 0\n\u2139 cancelled 0\n\u2139 skipped 0\n\u2139 todo 0\n\u2139 duration_ms 52.70276\n"
   },
   {
     "script": "scripts/check-guided-study.mjs",
@@ -112,7 +112,7 @@
   {
     "script": "scripts/check-nutrition.mjs",
     "exitCode": 0,
-    "output": "Passed: nutrition chapter/capture coverage, 16 short verified excerpts, 54 checks, 37 response models, paper answers, source locators and discovery links.\n"
+    "output": "Passed: nutrition chapter/capture coverage, 16 short verified excerpts, 54 checks, 37 response models, paper answers, source locators and discovery links.\nPortuguese Nutrition: 18 condensed teaching counterparts, 54 aligned checks, 37 responses, five comparison tables, 118 inherited locators, reciprocal language navigation and paper edition.\n"
   },
   {
     "script": "scripts/check-passage-study.mjs",
@@ -122,7 +122,7 @@
   {
     "script": "scripts/check-portuguese.mjs",
     "exitCode": 0,
-    "output": "Portuguese checks passed: 711 paired pages, 177 localized passage records, 148 source descriptions. English-only: 0 Waldorf, 21 Nutrition, 122 research notes.\n"
+    "output": "Portuguese checks passed: 731 paired pages, 177 localized passage records, 148 source descriptions. English-only: 0 Waldorf, 1 Nutrition, 122 research notes.\n"
   },
   {
     "script": "scripts/check-practical-thinking.mjs",
@@ -137,12 +137,12 @@
   {
     "script": "scripts/check-site.mjs",
     "exitCode": 0,
-    "output": "Passed: 1565 pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.\n"
+    "output": "Passed: 1585 pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.\n"
   },
   {
     "script": "scripts/check-teaching-approach.mjs",
     "exitCode": 0,
-    "output": "Teaching approach passed: 708 retained pages; 36 bilingual Foundations lessons with three concept steps and applied checks; 62 bilingual Waldorf lessons.\n"
+    "output": "Teaching approach passed: 726 retained pages; 36 bilingual Foundations lessons with three concept steps and applied checks; 62 bilingual Waldorf lessons.\n"
   },
   {
     "script": "scripts/check-temperament-refinement.mjs",

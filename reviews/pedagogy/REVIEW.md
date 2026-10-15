@@ -1,4 +1,4 @@
-> Current follow-up: [Seven-course conceptual review and QA corrections](SEVEN-COURSE-REVIEW.md). The authored-unit total is now 360 audited and 127 pending; older batch counts below are historical.
+> Current whole-project outcome: [FINAL-REVIEW.md](FINAL-REVIEW.md). All 487 authored units now have scoped audits; 241 revised, 246 retained. The 36 Waldorf support routes are checked separately. The material below is the historical sequence of earlier batches; its counts and pending-work statements are superseded by the final report.
 
 # Pedagogical redevelopment review
 

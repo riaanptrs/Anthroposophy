@@ -13,11 +13,11 @@
     "course": "agriculture",
     "authoredUnits": 18,
     "englishRoutes": 18,
-    "audited": 0,
-    "rewritten": 0,
-    "retained": 0,
+    "audited": 18,
+    "rewritten": 6,
+    "retained": 12,
     "portugueseRoutes": 18,
-    "pendingAuthoredUnits": 18
+    "pendingAuthoredUnits": 0
   },
   {
     "course": "ancient-myths",
@@ -33,11 +33,11 @@
     "course": "biodynamics",
     "authoredUnits": 24,
     "englishRoutes": 24,
-    "audited": 0,
+    "audited": 24,
     "rewritten": 0,
-    "retained": 0,
+    "retained": 24,
     "portugueseRoutes": 24,
-    "pendingAuthoredUnits": 24
+    "pendingAuthoredUnits": 0
   },
   {
     "course": "colour",
@@ -63,11 +63,11 @@
     "course": "foodwise",
     "authoredUnits": 39,
     "englishRoutes": 39,
-    "audited": 0,
-    "rewritten": 0,
-    "retained": 0,
+    "audited": 39,
+    "rewritten": 7,
+    "retained": 32,
     "portugueseRoutes": 39,
-    "pendingAuthoredUnits": 39
+    "pendingAuthoredUnits": 0
   },
   {
     "course": "foundations",
@@ -133,11 +133,11 @@
     "course": "nutrition",
     "authoredUnits": 18,
     "englishRoutes": 18,
-    "audited": 0,
+    "audited": 18,
     "rewritten": 0,
-    "retained": 0,
-    "portugueseRoutes": 0,
-    "pendingAuthoredUnits": 18
+    "retained": 18,
+    "portugueseRoutes": 18,
+    "pendingAuthoredUnits": 0
   },
   {
     "course": "philosophy-of-freedom",
@@ -183,11 +183,11 @@
     "course": "theosophy-reading",
     "authoredUnits": 28,
     "englishRoutes": 28,
-    "audited": 0,
-    "rewritten": 0,
-    "retained": 0,
+    "audited": 28,
+    "rewritten": 3,
+    "retained": 25,
     "portugueseRoutes": 28,
-    "pendingAuthoredUnits": 28
+    "pendingAuthoredUnits": 0
   },
   {
     "course": "toward-threefold-society",

@@ -610,6 +610,990 @@ Retain the existing explanation, distinctions and application; use the stated cr
 
 Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced. The 2001 upload covers introduction and Lecture 1 text only; Lectures 2–10 rely on attributed earlier parallel-source work, with Lecture 2 explicitly excerpt-limited.
 
+## Reading the Agriculture Course in context
+
+[English](../../docs/agriculture/lessons/00.html) · [Português](../../docs/pt/agriculture/lessons/00.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Identify the lecture sequence, the two editions and the distinction between spiritual explanations, practical proposals and reported results.
+
+**Learning criterion:**
+
+Separate lecture, discussion and later testimony
+
+**Essential concepts:**
+
+Read a whole-farm argument in its lecture order, distinguishing an explanation, a proposed intervention and the evidence of its effects.
+
+**Prerequisite:**
+
+No prior anthroposophical vocabulary
+
+**Connections:**
+
+Lecture 1 asks why a plant or farm cannot be understood in isolation. That question begins the whole-farm argument which later preparations are meant to serve.
+
+**Misconception and feedback:**
+
+Completing the historical source study establishes what these supplied texts teach. It does not by itself establish every proposed planetary, spiritual, agronomic or medical mechanism.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The occasion/edition comparison explains why a later report cannot be evidence of completed trials.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The occasion/edition comparison explains why a later report cannot be evidence of completed trials.
+
+**Teaching method:**
+
+- explanation: The occasion/edition comparison explains why a later report cannot be evidence of completed trials.
+- application: Course reading exercise: label three entries in a notebook “Steiner’s explanation,” “a farmer’s question” and “editorial note.” Place the four-year trial statement under the June 20 report, rather than treating it as a measured result of the eight lectures.
+- feedback: [{'type': 'choice', 'question': 'What is the June 20 report in relation to the eight lectures?', 'options': ['A report delivered after the June 7–16 course, although placed before it in the 1993 edition.', 'The first of the eight lectures.', 'A later editorial experiment demonstrating every proposal.'], 'answer': 0, 'explanation': 'The report’s heading dates it June 20. The course itself ran June 7–16; placement in a book does not change the occasion or its evidential status.'}, {'type': 'choice', 'question': 'Why compare the two translations?', 'options': ['To combine every measurement into one precise recipe.', 'To clarify wording and identify differences without erasing attribution or uncertainty.', 'To replace the first three lectures with the preparation names.'], 'answer': 1, 'explanation': 'The witnesses preserve a common lecture sequence but differ in surrounding material and some details. Comparison helps clarify the argument and records unresolved differences.'}, {'type': 'reflection', 'question': 'Choose one statement in the June 20 report. Is it an explanation, a proposed test or a reported outcome? What would you need to know before using it to judge a farm?', 'explanation': 'Name the speaker, date and kind of statement. A promise of testing is different from a completed result; local conditions and the comparison used matter.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Learning to see agricultural relationships
+
+[English](../../docs/agriculture/lessons/01.html) · [Português](../../docs/pt/agriculture/lessons/01.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Follow lecture 1 from practical farm experience to a wider field of relationships.
+
+**Learning criterion:**
+
+Explain why isolated plant descriptions miss farm relationships
+
+**Essential concepts:**
+
+Understanding a living agricultural process requires its relationships, not just a description of an isolated object.
+
+**Prerequisite:**
+
+Orientation: kinds of evidence
+
+**Connections:**
+
+The next lesson follows the specific relationships Steiner proposes between plant reproduction, nourishment, water, warmth, lime and silica.
+
+**Misconception and feedback:**
+
+The compass analogy justifies looking beyond the object. It does not by itself prove that a named planet causes a particular crop quality. A recorded observation, Steiner’s spiritual explanation and a modern agronomic explanation can be compared without becoming the same claim.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The practical-experience opening and surrounding-world argument supply the reason for widening observation.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The practical-experience opening and surrounding-world argument supply the reason for widening observation.
+
+**Teaching method:**
+
+- explanation: The practical-experience opening and surrounding-world argument supply the reason for widening observation.
+- application: A seedling grows poorly beside a thriving one. Before explaining the difference, record shade, moisture, soil texture, sowing date and recent care. These observations create a relational question. Any further explanation should be identified as a hypothesis and compared with what was actually observed.
+- feedback: [{'type': 'choice', 'question': 'What does the compass comparison establish?', 'options': ['The needle explains itself completely', 'An object’s wider relationships can belong to its explanation', 'All planetary crop correspondences are proved by magnetism'], 'answer': 1, 'explanation': 'The comparison widens the field of inquiry; it does not prove every later agricultural correspondence.'}, {'type': 'choice', 'question': 'How does Steiner treat older farming instincts?', 'options': ['As something to recover unchanged', 'As knowledge to discard without study', 'As practical wisdom to be renewed through conscious inquiry'], 'answer': 2, 'explanation': 'He values earlier wisdom but explicitly declines a simple return to old instincts.'}, {'type': 'reflection', 'question': 'Choose one agricultural observation and list three relationships needed to understand it.', 'explanation': 'Begin with what you can observe. Then label any explanation you add so that an interpretation does not become an observation.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Plant reproduction and nourishment
+
+[English](../../docs/agriculture/lessons/02.html) · [Português](../../docs/pt/agriculture/lessons/02.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain Steiner’s lime–silica and water–warmth model as the lecture presents it.
+
+**Learning criterion:**
+
+Reconstruct lime/silica and water/warmth mediation
+
+**Essential concepts:**
+
+Lecture 1 presents a differentiated cosmic–earthly model in which substances and environmental conditions mediate plant tendencies.
+
+**Prerequisite:**
+
+Lecture 1 whole-farm relationships
+
+**Connections:**
+
+Lecture 2 brings these relationships into the farm as a whole, including soil, plants, animals and manure.
+
+**Misconception and feedback:**
+
+Steiner’s lunar and planetary correspondences are claims within the source’s spiritual model. The familiar importance of sunlight, water and warmth for plants does not alone validate every specific correspondence.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The paired pathways distinguish reproduction from nourishment without presenting a measured planetary mechanism.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The paired pathways distinguish reproduction from nourishment without presenting a measured planetary mechanism.
+
+**Teaching method:**
+
+- explanation: The paired pathways distinguish reproduction from nourishment without presenting a measured planetary mechanism.
+- application: For a hypothetical sowing comparison, name the variety, soil, dates, moisture and weather before naming the proposed timing influence. Distinguish germination, later growth and food quality as different outcomes. A single good harvest cannot tell you which of these relationships caused the result.
+- feedback: [{'type': 'choice', 'question': 'Which two currents does Steiner distinguish?', 'options': ['Reproduction and becoming nourishment', 'Mineral plants and non-mineral plants', 'Useful plants and plants without any function'], 'answer': 0, 'explanation': 'The distinction concerns renewing the plant’s kind and nourishing other beings.'}, {'type': 'choice', 'question': 'What condition accompanies his full-moon sowing example?', 'options': ['The soil and weather make no difference', 'Preceding rainy days', 'Every plant must be perennial'], 'answer': 1, 'explanation': 'The example explicitly links the lunar effect to preceding rainfall; it is not a universal date-only rule.'}, {'type': 'reflection', 'question': 'Explain the role of water or warmth in Steiner’s model without presenting the correspondence as a measured fact.', 'explanation': 'Use attributed language: Steiner proposes or connects. Then name what observations a practical comparison would require.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## The farm as an individuality
+
+[English](../../docs/agriculture/lessons/03.html) · [Português](../../docs/pt/agriculture/lessons/03.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Trace the reciprocal relationships between land, fodder, livestock and manure.
+
+**Learning criterion:**
+
+Trace one feed–animal–manure dependency and an external input
+
+**Essential concepts:**
+
+Farm individuality names a reciprocal organization of land, plants and animals, guided by an ideal that is approached rather than perfectly attained.
+
+**Prerequisite:**
+
+Plant nourishment and whole-farm relations
+
+**Connections:**
+
+The next lesson follows the individuality through time: seasonal soil life, seed formation, humus and plant shape.
+
+**Misconception and feedback:**
+
+Self-containment is an organizing ideal, not absolute isolation or a guarantee of sufficiency. Modern feed budgets, nutrient balances and animal care provide concrete information that the ideal alone does not supply.
+
+**Identified conceptual gap:**
+
+Replace a map instruction with the consequences of changing herd size and importing feed.
+
+**Gap addressed:**
+
+- {'file': 'content/agriculture.json', 'id': 3, 'field': 'example', 'before': 'Draw a farm’s actual flow of fodder, livestock, manure and crops. Mark both internal flows and purchased or exported materials. Ask where one activity depends on another. This is a learning map of relationships; it does not calculate an appropriate stocking rate by itself.', 'beforePt': 'Desenhe o fluxo real de forragem, animais, esterco e cultivos de uma fazenda. Marque os fluxos internos e os materiais comprados ou exportados. Pergunte onde uma atividade depende de outra. É um mapa didático de relações; ele não calcula sozinho a lotação animal adequada.', 'after': 'On an invented farm, hay feeds cattle and their manure returns to the vegetable ground. Adding cattle therefore changes two questions together: more fodder is needed, and more manure becomes available. If the fodder area cannot supply the added feed, an inward purchase arrow remains on the map even if all manure stays on the farm. This is why internal relationships, not a closed boundary drawn around the land, define the ideal. The example explains dependence; it supplies no stocking rate or proof of the proposed spiritual qualities.', 'pt': 'Numa fazenda inventada, o feno alimenta o gado e seu esterco retorna à horta. Acrescentar animais muda duas perguntas conjuntamente: é preciso mais forragem e fica disponível mais esterco. Se a área de forragem não fornece o alimento adicional, permanece no mapa uma seta de compra externa, mesmo que todo o esterco fique na fazenda. Por isso, relações internas, e não uma linha fechada ao redor do terreno, definem o ideal. O exemplo explica dependência; não fornece taxa de lotação nem prova das qualidades espirituais propostas.', 'reason': 'Complete the reciprocal feed/manure example and show why an imported input can coexist with the ideal.'}
+
+**Teaching method:**
+
+- explanation: Replace a map instruction with the consequences of changing herd size and importing feed.
+- application: Draw a farm’s actual flow of fodder, livestock, manure and crops. Mark both internal flows and purchased or exported materials. Ask where one activity depends on another. This is a learning map of relationships; it does not calculate an appropriate stocking rate by itself.
+- feedback: [{'type': 'choice', 'question': 'How does Steiner qualify complete self-containment?', 'options': ['It is fully attainable on every farm', 'It is an ideal to approach, though not completely attainable', 'It requires ignoring the farm’s surroundings'], 'answer': 1, 'explanation': 'Lecture 2 states both the ideal and the impossibility of implementing it completely.'}, {'type': 'choice', 'question': 'What does his livestock–manure argument include?', 'options': ['A universal number of cows', 'An invitation to test the relationship on farms', 'A claim that fodder makes no difference'], 'answer': 1, 'explanation': 'He invites experiments; the relationship includes fodder, animals and the amount and mixture of manure.'}, {'type': 'reflection', 'question': 'Which flow on a familiar farm would you follow to understand its individuality?', 'explanation': 'Describe the flow, the activities it connects and information needed to judge whether the connection serves the farm.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Soil, seed and form through the seasons
+
+[English](../../docs/agriculture/lessons/04.html) · [Português](../../docs/pt/agriculture/lessons/04.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain the seasonal soil picture and the balance of cosmic seed-form and earthly growth.
+
+**Learning criterion:**
+
+Distinguish seasonal soil activity from seed form
+
+**Essential concepts:**
+
+Lecture 2 joins seasonal soil activity, cosmic seed formation and humus-supported earthly growth within one changing individuality.
+
+**Prerequisite:**
+
+Lime/silica pathways
+
+**Connections:**
+
+Lecture 3 asks how these forces can work through particular substances and why nitrogen cannot be understood alone.
+
+**Misconception and feedback:**
+
+“Seed chaos,” enlivened warmth and the mineral mediators name relationships in Steiner’s spiritual model. They do not replace genetic inheritance, germination physiology or soil measurements. The different translations also disagree in some numerical and diagram details.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The seasonal and seed explanations make earthly growth and cosmic formation related but distinct.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The seasonal and seed explanations make earthly growth and cosmic formation related but distinct.
+
+**Teaching method:**
+
+- explanation: The seasonal and seed explanations make earthly growth and cosmic formation related but distinct.
+- application: Compare a flowering plant and a leafy plant through a season. Sketch visible changes and record the soil, moisture and temperature. Then make a separate note of how Steiner might interpret the forms. The two records let you see where description ends and interpretation begins.
+- feedback: [{'type': 'choice', 'question': 'What role does clay have in the lecture’s model?', 'options': ['Conducting the cosmic influence upward', 'Removing all need for humus', 'Proving that every soil needs the same addition'], 'answer': 0, 'explanation': 'Steiner describes clay as supporting the upward stream; this does not prescribe a universal dose.'}, {'type': 'choice', 'question': 'How does humus differ from seed chaos in the argument?', 'options': ['Humus supplies earthly life not carried through seed chaos', 'Humus is simply another name for the seed', 'Humus makes all cosmic activity disappear'], 'answer': 0, 'explanation': 'Humus anchors earthly growth within a relationship that still includes the cosmic formative process.'}, {'type': 'reflection', 'question': 'How would you keep an observed flower color separate from its planetary interpretation?', 'explanation': 'Record the color first, then explicitly attribute the correspondence to Steiner. Explain the difference between the two statements.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Five substances in a living relationship
+
+[English](../../docs/agriculture/lessons/05.html) · [Português](../../docs/pt/agriculture/lessons/05.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Distinguish the five related roles in lecture 3’s spiritual account of substances.
+
+**Learning criterion:**
+
+Explain how five substance roles cooperate
+
+**Essential concepts:**
+
+In lecture 3, substances are differentiated carriers within a spiritual process of formation, life, mediation and dissolution.
+
+**Prerequisite:**
+
+Physical form versus formative activity
+
+**Connections:**
+
+The next lesson follows nitrogen into the plant community, especially the legumes, and returns to the practical question of manuring.
+
+**Misconception and feedback:**
+
+This map explains the source’s conceptual structure. It is not an elemental fertilizer prescription, a chemical reaction diagram or proof that soil conditions can be diagnosed through a personified element.
+
+**Identified conceptual gap:**
+
+Give a connected account of formation, life, coordination, mediation and release instead of leaving a correspondence list.
+
+**Gap addressed:**
+
+- {'file': 'content/agriculture.json', 'id': 5, 'field': 'example', 'before': 'Make a five-part concept map: carbon—framework; oxygen—etheric life; nitrogen—astral mediation; hydrogen—release; sulfur—spiritual–physical assistance. Add arrows that show relationships. Title the map “Steiner’s lecture 3 account” so that its purpose remains clear.', 'beforePt': 'Faça um mapa conceitual em cinco partes: carbono — estrutura; oxigênio — vida etérica; nitrogênio — mediação astral; hidrogênio — liberação; enxofre — auxílio entre espiritual e físico. Acrescente setas das relações. Intitule o mapa “Explicação de Steiner na palestra 3” para manter clara sua finalidade.', 'after': 'In the lecture’s model, a carbon framework without enlivening activity would leave form without the continuing life being explained. Oxygen supplies the assigned life-bearing role; nitrogen relates that life to the framework. Hydrogen’s release points in another direction, away from a completed organization toward renewed formation. Sulfur is the mediation by which spiritual activity is said to enter these material carriers. The five terms therefore answer different questions within one account. This is a conceptual map of Steiner’s claim, not a chemical reaction or fertilizer formula.', 'pt': 'No modelo da palestra, uma estrutura de carbono sem atividade vivificadora deixaria forma sem a vida contínua que se quer explicar. O oxigênio recebe o papel de portador dessa vida; o nitrogênio relaciona a vida à estrutura. A liberação atribuída ao hidrogênio aponta noutra direção, da organização concluída à possibilidade de nova formação. O enxofre medeia a entrada da atividade espiritual nesses portadores materiais, segundo o relato. Os cinco termos respondem, portanto, a perguntas distintas numa mesma descrição. É um mapa conceitual da afirmação de Steiner, não uma reação química nem fórmula de adubo.', 'reason': 'Teach how the five roles depend on one another rather than assigning another labelled list.'}
+
+**Teaching method:**
+
+- explanation: Give a connected account of formation, life, coordination, mediation and release instead of leaving a correspondence list.
+- application: Make a five-part concept map: carbon—framework; oxygen—etheric life; nitrogen—astral mediation; hydrogen—release; sulfur—spiritual–physical assistance. Add arrows that show relationships. Title the map “Steiner’s lecture 3 account” so that its purpose remains clear.
+- feedback: [{'type': 'choice', 'question': 'Which role is assigned to nitrogen?', 'options': ['Mediating between the life in oxygen and the form in carbon', 'Replacing all the other substances', 'Providing a fixed universal fertilizer dose'], 'answer': 0, 'explanation': 'Nitrogen is the connecting carrier in the account; it is not treated as self-sufficient.'}, {'type': 'choice', 'question': 'Which role completes the organized form’s movement back toward the cosmos?', 'options': ['Carbon’s fixed framework', 'Hydrogen’s dissolving and releasing activity', 'Removing sulfur from every relationship'], 'answer': 1, 'explanation': 'Steiner assigns hydrogen the dissolving role and still associates the process with sulfur.'}, {'type': 'reflection', 'question': 'Explain one relationship between two substances in the lecture rather than listing their names.', 'explanation': 'Use the lecture’s attributed roles and say what each contributes to the relationship.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Legumes and the whole plant community
+
+[English](../../docs/agriculture/lessons/06.html) · [Português](../../docs/pt/agriculture/lessons/06.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Follow lecture 3 from sensitive observation to legumes, mineral relationships and manuring.
+
+**Learning criterion:**
+
+Connect legumes with soil and the surrounding plant community
+
+**Essential concepts:**
+
+A species has a place within the plant whole; nitrogen’s mediation prepares the course’s transition from relationships to manuring.
+
+**Prerequisite:**
+
+Five-substance relationships
+
+**Connections:**
+
+Lecture 4 now asks what it means to enliven the soil and how manure, compost and the horn preparations serve that purpose in Steiner’s account.
+
+**Misconception and feedback:**
+
+A quiet observation exercise is a learning adaptation. The nitrogen revelations and mineral personifications belong to Steiner’s spiritual explanation, while microbial nitrogen fixation and measurable nutrient balance belong to modern agronomy.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The soil-lung analogy is explained as a claim and distinguished from ordinary nitrogen explanations.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The soil-lung analogy is explained as a claim and distinguished from ordinary nitrogen explanations.
+
+**Teaching method:**
+
+- explanation: The soil-lung analogy is explained as a claim and distinguished from ordinary nitrogen explanations.
+- application: Observe a legume growing beside another plant. Record where each grows, leaf and root features visible without harming the plants, and soil moisture. Explain separately how the lecture’s organ analogy interprets their place. Your observations can raise questions; they do not measure nitrogen fixation by appearance alone.
+- feedback: [{'type': 'choice', 'question': 'What does the legume analogy emphasize?', 'options': ['Each species is isolated from the plant community', 'A species’ role within the whole', 'All legumes supply the same nitrogen amount anywhere'], 'answer': 1, 'explanation': 'The lecture asks us to see plant species as related organs within a whole.'}, {'type': 'choice', 'question': 'What practical question closes lecture 3?', 'options': ['How can nitrogen enter plant life in the right way through manuring?', 'How can all soil measurements be abandoned?', 'How can an identical calendar be imposed everywhere?'], 'answer': 0, 'explanation': 'The nitrogen question creates the transition to the following lecture on manuring.'}, {'type': 'reflection', 'question': 'Name one observation and one interpretation you would keep separate in a study of legumes.', 'explanation': 'State the visible feature first. Attribute any spiritual organ analogy to Steiner, and identify what would require independent measurement.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Fertilizing as enlivening the soil
+
+[English](../../docs/agriculture/lessons/07.html) · [Português](../../docs/pt/agriculture/lessons/07.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Reconstruct the lecture’s chain from nourishment and plant surroundings to compost, animal manure and inward formative activity, keeping its spiritual interpretations attributed.
+
+**Learning criterion:**
+
+Explain why fertilizing means more than adding material here
+
+**Essential concepts:**
+
+The lecture’s governing relation is plant–soil life: Steiner explains fertilization through activity extending across the root boundary, with etheric, astral, watery and earthy aspects differentiated.
+
+**Prerequisite:**
+
+Soil/plant relationships and substance roles
+
+**Connections:**
+
+The next reading follows the inward activity of animal horns into the winter manure preparation, then compares it with the summer mineral preparation. Keep the question of the living whole open as the discussion asks how these proposals should be investigated.
+
+**Misconception and feedback:**
+
+Distinguish a material being present from the living activity Steiner attributes to it. Also distinguish reconstructing his explanation from establishing that explanation by observation. His comments about bodily substance, bacteria and odor need their source attribution; they should not be silently replaced with contemporary scientific definitions.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The compost–manure–inward-activity chain already supplies the missing intermediate reasoning.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The compost–manure–inward-activity chain already supplies the missing intermediate reasoning.
+
+**Teaching method:**
+
+- explanation: The compost–manure–inward-activity chain already supplies the missing intermediate reasoning.
+- application: Original reading example: compare two descriptions of the same compost heap. One lists its materials; the other asks which activities Steiner says are held together or allowed to escape. In a notebook, map compost → soil → plant, then add the lecture’s etheric/astral and nitrogen terms. Label those arrows as the author’s explanation; the diagram alone does not demonstrate the proposed forces.
+- feedback: [{'type': 'choice', 'question': 'Why does Steiner connect fertilizing with the plant’s surroundings?', 'options': ['Because he says life continues from the roots into the soil around them.', 'Because he says plant life is completely enclosed by its visible outline.', 'Because he describes humus as a wholly lifeless container.'], 'answer': 0, 'explanation': 'The tree/mound argument extends life through the roots into soil. Enlivening that surrounding soil is therefore central to his account of plant development.'}, {'type': 'choice', 'question': 'How does the lecture distinguish experiments from theories drawn from them?', 'options': ['It credits experiments as useful while criticizing interpretations that consider too narrow a field of relationships.', 'It rejects every experiment because material observations are useless.', 'It treats one successful observation as a complete explanation of the whole farm.'], 'answer': 0, 'explanation': 'At capture 57 Steiner expressly values experiments. His criticism concerns the interpretation after the experiment and the wider relationships that he thinks it misses.'}, {'type': 'reflection', 'question': 'In your plant–soil diagram, identify one thing someone could observe directly and one relation supplied by Steiner’s spiritual interpretation. How do their roles differ in the argument?', 'explanation': 'A concrete observation might concern the plant’s roots or the condition of decomposing matter. Etheric vitality or astral activity belongs to the explanation being studied. Make the distinction in your own words; this reflection has no scored answer.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Two preparations, one larger inquiry
+
+[English](../../docs/agriculture/lessons/08.html) · [Português](../../docs/pt/agriculture/lessons/08.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain the winter/summer and below/above polarity, then distinguish the lecture’s spiritual assertions from its unresolved trials, numerical questions and limits on replacing ordinary farming.
+
+**Learning criterion:**
+
+Distinguish complementary preparations and unresolved trials
+
+**Essential concepts:**
+
+Winter manure/soil/below and summer mineral/plant/above form the lecture’s complementary polarity. Its discussion also requires investigation, calculable communication and the continuation of ordinary manuring.
+
+**Prerequisite:**
+
+Fertilization as enlivening
+
+**Connections:**
+
+Lecture 5 continues this inquiry by treating ordinary manure with six differentiated additions. Keep the plant–soil and animal–soil relations in view, alongside what the First Discussion leaves for trials and measurable communication.
+
+**Misconception and feedback:**
+
+A dynamic or radiant effect in Steiner’s explanation is not simply an account of material quantity. Likewise, the source’s confidence about a spiritual relation does not erase its admissions that particular measures or outcomes need testing. The lecture is a historical explanation to study, not a context-free spraying or medicinal recipe.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Winter/below and summer/above are explained together, with trial conditions and numerical uncertainties preserved.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Winter/below and summer/above are explained together, with trial conditions and numerical uncertainties preserved.
+
+**Teaching method:**
+
+- explanation: Winter/below and summer/above are explained together, with trial conditions and numerical uncertainties preserved.
+- application: Original source-comparison example: make three columns headed hand stirring, fine spraying and farm machinery. Enter the reason given for each in Creeger/Gardner captures 66–67, 70 and 71. The first emphasizes the participant’s movement and feeling; the second is accepted because the forces are said to remain bound; the third is discussed in social and practical circumstances. A single label such as “machines prohibited” cannot represent all three replies.
+- feedback: [{'type': 'choice', 'question': 'Which pairing matches the lecture’s two horn preparations?', 'options': ['Manure spends winter underground and addresses soil from below; the mineral preparation spends summer underground and addresses the plant from above.', 'Both preparations spend summer underground and work only on roots.', 'The mineral preparation replaces all ordinary manuring, while manure is applied only to fruit.'], 'answer': 0, 'explanation': 'Creeger/Gardner captures 63–64 connect the substances with opposite seasons and complementary sides of plant development. The final answer at 74 expressly preserves ordinary manuring.'}, {'type': 'choice', 'question': 'Which summary preserves the discussion’s distinctions about machinery?', 'options': ['Every use of machinery is forbidden.', 'Hand stirring has an attributed personal significance, while fine machine spraying is accepted and farm machinery is not generally banned.', 'Mechanical stirring is required so that no human feeling enters the process.'], 'answer': 1, 'explanation': 'The replies concern different operations. Captures 66–67 prefer personal hand stirring; 70 accepts fine spraying; 71 discusses farm machinery in its practical and social circumstances.'}, {'type': 'reflection', 'question': 'Choose one relation Steiner states confidently and one detail he leaves for further investigation. How would you keep both visible in a summary of this chapter?', 'explanation': 'You might compare the below/above polarity with the unresolved scaling, rainfall or weights-and-measures questions. Include the request for figures at capture 73 and the continuation of ordinary manuring at 74. Explain the difference without making a preparation or claiming that a proposed mechanism has thereby been demonstrated.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Living soil: substances, forces and replenishment
+
+[English](../../docs/agriculture/lessons/09.html) · [Português](../../docs/pt/agriculture/lessons/09.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain the lecture's living-soil argument, its criticism of microbial and mineral approaches, and its specific chemical and cosmic claims.
+
+**Learning criterion:**
+
+Reconstruct the specific living-soil chemical claim
+
+**Essential concepts:**
+
+In the lecture, fertility requires living relationships that supposedly enable reception and use of substances, beyond simply increasing their quantity.
+
+**Prerequisite:**
+
+Five-substance and fertilization accounts
+
+**Connections:**
+
+The next lesson follows the six named preparations and asks why each plant, enclosure and seasonal exposure receives a different role.
+
+**Misconception and feedback:**
+
+Macrocosmic means the larger cosmic relationships in Steiner's explanation. The flies analogy does not independently establish the causal role of soil microorganisms, and the lecture's alchemy claim is distinct from a chemical measurement.
+
+**Identified conceptual gap:**
+
+Replace mapping directions with an explicit material-to-transformation-to-proposed-capacity chain.
+
+**Gap addressed:**
+
+- {'file': 'content/agriculture.json', 'id': 9, 'field': 'example', 'before': 'Make a reading map with three boxes: material added, process Steiner proposes, and result he predicts. For the nitrogen discussion, the middle box must name the asserted transformation; it cannot be replaced with a generic arrow labelled recycling.', 'beforePt': 'Faça um mapa de leitura com três caixas: material acrescentado, processo proposto por Steiner e resultado previsto por ele. Na discussão do nitrogênio, a caixa intermediária deve nomear a transformação afirmada; não pode ser substituída por uma seta genérica chamada reciclagem.', 'after': 'The nitrogen discussion needs three distinct boxes. The named starting substances are potash and lime, with hydrogen assigned an assisting role. The proposed process is their transformation into nitrogen. The predicted result is a changed capacity of living soil to supply what plants need. Calling the middle box recycling would imply that existing nitrogen is merely being moved or reused, which is not the claim stated here. Conversely, accurately naming elemental transformation does not establish that it occurred. The reading map preserves a difficult claim so that the proposed mechanism and the evidence for it can be examined separately.', 'pt': 'A discussão do nitrogênio exige três quadros distintos. As substâncias iniciais nomeadas são potassa e cal, com um papel auxiliar atribuído ao hidrogênio. O processo proposto é sua transformação em nitrogênio. O resultado previsto é uma mudança na capacidade do solo vivo de fornecer o que as plantas precisam. Chamar o quadro central de reciclagem sugeriria apenas deslocar ou reutilizar nitrogênio já existente, o que não é a afirmação apresentada aqui. Inversamente, nomear corretamente a transformação de elementos não estabelece que ela ocorreu. O mapa preserva uma afirmação difícil para permitir o exame separado do mecanismo proposto e de suas evidências.', 'reason': 'Provide the completed material/process/result map already developed for the corresponding anthology passage; retain this course’s own source assignments.'}
+
+**Teaching method:**
+
+- explanation: Replace mapping directions with an explicit material-to-transformation-to-proposed-capacity chain.
+- application: Make a reading map with three boxes: material added, process Steiner proposes, and result he predicts. For the nitrogen discussion, the middle box must name the asserted transformation; it cannot be replaced with a generic arrow labelled recycling.
+- feedback: [{'type': 'choice', 'question': 'What distinction does the selected passage make?', 'options': ['Increasing substances is sufficient regardless of uptake.', 'Living forces should enable plants to receive and use what soil offers.', 'Preparations eliminate the need for ordinary manuring immediately.'], 'answer': 1, 'explanation': 'Steiner distinguishes abundance from a living capacity to receive and use it; he starts by retaining ordinary manuring.'}, {'type': 'choice', 'question': 'What does the lecture mean by hidden alchemy in the nitrogen discussion?', 'options': ['An asserted transformation of potash and lime into nitrogen under hydrogen.', 'Only the movement of existing nitrogen from one container to another.', 'A definition of bacteria as the sole creators of soil vitality.'], 'answer': 0, 'explanation': 'Capture 85 explicitly describes elemental transformation. It cannot be paraphrased accurately as only nutrient redistribution.'}, {'type': 'reflection', 'question': 'Explain one step between a named substance and a predicted result, then say what evidence the explanation itself supplies.', 'explanation': "Identify the author's proposed mechanism and distinguish the lecture's analogy or assertion from independently inspected measurements. Agreement with the claim is not required."}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Six preparations: differentiated roles and qualified claims
+
+[English](../../docs/agriculture/lessons/10.html) · [Português](../../docs/pt/agriculture/lessons/10.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Relate each named preparation to its proposed task, and read the lecture alongside its discussion and editorial qualifications.
+
+**Learning criterion:**
+
+Distinguish the six preparations by proposed function
+
+**Essential concepts:**
+
+Each preparation has a distinct proposed role within one living process; a named ingredient, its historical treatment and its claimed effect must be distinguished.
+
+**Prerequisite:**
+
+Manure and preparation rationale
+
+**Connections:**
+
+The next lecture distinguishes encouraging plant growth from restraining an unwanted plant in a particular place.
+
+**Misconception and feedback:**
+
+A map of the six claims demonstrates understanding of the text. It does not demonstrate disease prevention, improved nutrition, elemental transmutation or cosmic radiation. Keep the historical preparation description separate from a modern technical protocol.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The differentiated functions and editorial qualifications prevent treating six materials as interchangeable.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The differentiated functions and editorial qualifications prevent treating six materials as interchangeable.
+
+**Teaching method:**
+
+- explanation: The differentiated functions and editorial qualifications prevent treating six materials as interchangeable.
+- application: Create six reading cards with plant, enclosure if named, seasonal exposure and attributed relationship. Put no animal enclosure on the nettle card and no burial schedule on the valerian card. Use a separate card for later numbering and another for the questions about separate burial versus additions to manure.
+- feedback: [{'type': 'choice', 'question': 'Which relationship belongs to the nettle preparation in this lecture?', 'options': ["An intestinal enclosure chosen for calcium's relation to sulfur.", 'A blossom extract completing the preparations through phosphorus.', 'Nitrogen retention and regulated decomposition without an animal enclosure.'], 'answer': 2, 'explanation': 'Nettle is linked with regulating decomposition, retaining nitrogen and increasing sensitivity; chamomile and valerian have the other named roles.'}, {'type': 'true-false', 'question': 'In the discussion, Steiner says these growth-promoting preparations also suppress weeds automatically.', 'options': ['True', 'False'], 'answer': 1, 'explanation': 'He says weeds follow the general pattern of plant growth too. Weed control requires a different consideration.'}, {'type': 'reflection', 'question': 'Choose two preparations and explain why their roles or enclosures differ in the source.', 'explanation': "Use the named relationship rather than only listing plants. Add one discussion or editorial qualification and keep the source's predicted effect separate from a result you have verified."}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Desired growth, unwanted plants and the question of verification
+
+[English](../../docs/agriculture/lessons/11.html) · [Português](../../docs/pt/agriculture/lessons/11.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Follow the near/distant-planet distinction, the proposed reversal of reproductive forces, and the lecture's own account of testing.
+
+**Learning criterion:**
+
+Explain reproductive reversal without claiming efficacy
+
+**Essential concepts:**
+
+The lecture proposes selective reversal of reproductive forces and treats experimental confirmation differently from the inner certainty of spiritual science.
+
+**Prerequisite:**
+
+Reproduction and cosmic mediation
+
+**Connections:**
+
+Animals, plant abnormalities and the question of destructive misuse complicate the next part: one proposed method is not simply transferred to every organism.
+
+**Misconception and feedback:**
+
+An astronomical observation, a proposed spiritual influence, an analogy and a reported experiment are different kinds of support. The lecture's confidence and reference to an institute do not supply an independently inspected trial report here.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The argument follows desired growth to unwanted plants while explaining what trials would need to establish.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The argument follows desired growth to unwanted plants while explaining what trials would need to establish.
+
+**Teaching method:**
+
+- explanation: The argument follows desired growth to unwanted plants while explaining what trials would need to establish.
+- application: Draw two prose-based routes to the plant: near-planet influences through earth/lime, and distant-planet influences through air/silica. Beside the weed claim, add separate boxes for predicted four-year result and the author's stated reason for expecting confirmation.
+- feedback: [{'type': 'choice', 'question': 'Which route is associated with successive plant generations in this lecture?', 'options': ['Distant planets acting only through fleshy fruit.', 'Microscopic creatures replacing all cosmic forces.', 'Moon, Mercury and Venus acting through Earth, with lime involved.'], 'answer': 2, 'explanation': 'Steiner connects the near-planet route through Earth with reproduction, and the distant-planet route through air/silica with fleshy formation.'}, {'type': 'choice', 'question': 'How does Steiner describe experimental confirmation of spiritual truths?', 'options': ['As outward verification useful for contemporary acceptance, while holding the truths inherently certain.', 'As the only possible foundation of spiritual certainty.', 'As something forbidden, even when farmers wish to compare results.'], 'answer': 0, 'explanation': 'He asks for verification but explicitly regards spiritual truths as true in themselves; those positions appear together in Creeger/Gardner captures 97–98.'}, {'type': 'reflection', 'question': 'Explain why dandelion can be wanted in one place and unwanted in another, then identify a separate question about the ash claim.', 'explanation': 'Distinguish purpose and location from the proposed mechanism. You can accurately explain the four-year prediction while asking what independently reviewed observations would bear on it.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Pests, plant abnormalities and shared responsibility
+
+[English](../../docs/agriculture/lessons/12.html) · [Português](../../docs/pt/agriculture/lessons/12.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain the organism-specific pest and plant-abnormality claims while retaining the discussion's cooperation, ethics and testing qualifications.
+
+**Learning criterion:**
+
+Distinguish pest categories and ethical cooperation
+
+**Essential concepts:**
+
+The source distinguishes reproductive and disease-related explanations by organism, while making cooperation and moral responsibility part of agricultural action.
+
+**Prerequisite:**
+
+Reproductive reversal and testing
+
+**Connections:**
+
+Lecture 7 broadens the field to landscape relationships among trees, plants, insects, birds and animals. Carry forward the whole-farm question and the distinctions between an observed feature, a proposed spiritual relation and an admitted research question.
+
+**Misconception and feedback:**
+
+Shared responsibility is the author’s stated social aim. It does not prove the pest-control claims. The admission of untested vineyard use and species-dependent timings prevents treating confidence as complete experimental or calendar certainty. Nematodes are not insects in modern zoology, even though this lecture places them within its lower-animal discussion.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Organism-specific accounts and discussion qualifications already prevent a universal pest-treatment inference.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Organism-specific accounts and discussion qualifications already prevent a universal pest-treatment inference.
+
+**Teaching method:**
+
+- explanation: Organism-specific accounts and discussion qualifications already prevent a universal pest-treatment inference.
+- application: On paper, compare three rows: field mouse, lower-animal example and abnormal plant growth. For each, name the source's proposed relationship and one qualification. Add a fourth row for the audience's misuse question and Steiner's response; do not convert the table into a treatment plan.
+- feedback: [{'type': 'choice', 'question': 'Why does Steiner prefer shared insight to police-enforced uniformity in the mouse discussion?', 'options': ['He considers adjoining fields irrelevant to pest return.', 'Neighboring land matters, so cooperation should arise through understanding and persuasion.', 'He says each organism can be controlled by an identical compulsory method.'], 'answer': 1, 'explanation': 'Mice returning from neighboring land motivate the wider cooperation. The selected sentence states his preference for shared insights.'}, {'type': 'choice', 'question': 'Why does the lecture distinguish plant abnormalities from animal or human illness?', 'options': ['It attributes an identical astral organization to all three kingdoms.', 'It denies that abnormal growth or fungi ever appear on plants.', 'It says plants lack an actual astral body and proposes a different soil–water–lunar explanation.'], 'answer': 2, 'explanation': 'Steiner retains abnormal plant processes while distinguishing their explanation from his astral/etheric account of animal and human illness.'}, {'type': 'reflection', 'question': "Connect one organism-specific claim with a discussion qualification and the audience's concern about misuse.", 'explanation': "Represent the proposed mechanism accurately, identify what the speaker leaves to tests or the editor explains tentatively, and describe the ethical question without having to accept the method's efficacy."}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Trees, soil life and winged animals
+
+[English](../../docs/agriculture/lessons/13.html) · [Português](../../docs/pt/agriculture/lessons/13.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Follow Lecture 7’s argument from mutual interaction to the tree image and the proposed roles of different animals.
+
+**Learning criterion:**
+
+Connect the tree image with above/below animal relations
+
+**Essential concepts:**
+
+Lecture 7 explains organisms through their relationships within a whole farm; its visible examples and its spiritual explanations have different evidential status.
+
+**Prerequisite:**
+
+Soil life and landscape relationships
+
+**Connections:**
+
+The next lesson asks what these relations mean for the balance of woodland, orchard, shrubs, meadow and fields, then follows the lecture into the plant–animal polarity.
+
+**Misconception and feedback:**
+
+A tree/cambium comparison is an explanatory image, not permission to erase botanical roots. An observed scent or soil organism and a claimed spiritual mechanism should remain distinguishable.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The tree/raised-earth explanation connects the imagery with worms and winged animals rather than only naming them.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The tree/raised-earth explanation connects the imagery with worms and winged animals rather than only naming them.
+
+**Teaching method:**
+
+- explanation: The tree/raised-earth explanation connects the imagery with worms and winged animals rather than only naming them.
+- application: Sketch a fruit tree with shoots above, cambium within and roots below. Beside it, place an insect, a larva, a bird and an earthworm. Use one color for things you can observe and another for the etheric or astral relationships the author proposes. This makes the argument readable without turning the diagram into proof.
+- feedback: [{'type': 'choice', 'question': 'Why does Steiner include insects and birds in Lecture 7?', 'options': ['Because only domesticated animals belong to the farm organism', 'Because plant and animal life must be understood through their wider interactions', 'Because the lecture replaces all crop study with a classification of birds'], 'answer': 1, 'explanation': 'His opening explicitly includes the creatures around crops and livestock because he is tracing relationships rather than isolated species.'}, {'type': 'choice', 'question': 'What role does the cambium play in the tree comparison?', 'options': ['It is compared with a shared formative root-region for the shoots growing on the tree', 'It proves that trees have no roots in the soil', 'It is described as an insect living on the leaves'], 'answer': 0, 'explanation': 'The hypothetical interwoven root image prepares Steiner’s interpretation of the cambium. The comparison must not be taught as a denial of the tree’s actual roots.'}, {'type': 'reflection', 'question': 'Choose one organism from this lesson and distinguish an observation from the spiritual explanation the author gives it.', 'explanation': 'For example, earthworms and their presence in soil can be observed; their function as an etheric safety valve is the explanation Steiner proposes. Identify both without treating one as proof of the other.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Balancing the landscape and understanding give and take
+
+[English](../../docs/agriculture/lessons/14.html) · [Português](../../docs/pt/agriculture/lessons/14.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain the landscape argument and follow its transition into the plant–animal relationship.
+
+**Learning criterion:**
+
+Explain a landscape trade-off using the lecture's relationships
+
+**Essential concepts:**
+
+The farm landscape supports relationships that can matter more than the size of its cultivated area; the lecture’s giving/taking polarity prepares the question of animal nourishment.
+
+**Prerequisite:**
+
+Tree and animal relationships
+
+**Connections:**
+
+Lecture 8 develops the animal side of this relationship, connects feeding with manure and farm individuality, and insists that practical judgment be individualized.
+
+**Misconception and feedback:**
+
+A whole-farm economic argument does not establish a specific pest-control mechanism. The plant–animal giving/taking image should be explained within Steiner’s terms rather than turned into a rule that plants never absorb air or animals only take.
+
+**Identified conceptual gap:**
+
+Compare clearing edges for area with retaining interdependent habitats; no site prescription is inferred.
+
+**Gap addressed:**
+
+- {'file': 'content/agriculture.json', 'id': 14, 'field': 'example', 'before': 'Draw a hypothetical farm with field, orchard, hedges or shrubs, wooded area and meadow. Mark which places birds, insects and mammals use. Then write two separate questions: what observable relationship would you investigate, and what spiritual interpretation does the lecture propose? No planting or disease-control intervention is required for this exercise.', 'beforePt': 'Desenhe uma fazenda hipotética com campo, pomar, cercas vivas ou arbustos, bosque e prado. Marque os lugares utilizados por aves, insetos e mamíferos. Depois escreva duas perguntas separadas: que relação observável investigaria e que interpretação espiritual a palestra propõe? Este exercício não exige plantio nem intervenção para controlar doenças.', 'after': 'Imagine two paper plans for the same holding. One maximizes cultivated area by removing a wooded edge; the other retains the edge and accepts a smaller field. Acreage alone favours the first plan. Steiner’s argument asks what relationships the edge contributes to the whole and whether their loss could outweigh the extra area. Shade, habitat use and crop condition become observations to investigate, while his astral and fungal-regulation explanations remain separate claims. The comparison explains the changed unit of judgment; it does not decide that trees should always be removed or always added.', 'pt': 'Imagine dois planos no papel para a mesma propriedade. Um maximiza a área cultivada retirando uma borda arborizada; o outro conserva a borda e aceita um campo menor. A área, sozinha, favorece o primeiro. O argumento de Steiner pergunta que relações essa borda oferece ao conjunto e se perdê-las poderia custar mais que a área adicional. Sombra, uso dos habitats e condição das culturas tornam-se observações a investigar; suas explicações astrais e de regulação por fungos permanecem afirmações separadas. A comparação explica a mudança na unidade de julgamento; não determina que árvores devam sempre ser retiradas ou acrescentadas.', 'reason': 'Make the whole-farm versus acreage tradeoff concrete through two plans, without prescribing land management.'}
+
+**Teaching method:**
+
+- explanation: Compare clearing edges for area with retaining interdependent habitats; no site prescription is inferred.
+- application: Draw a hypothetical farm with field, orchard, hedges or shrubs, wooded area and meadow. Mark which places birds, insects and mammals use. Then write two separate questions: what observable relationship would you investigate, and what spiritual interpretation does the lecture propose? No planting or disease-control intervention is required for this exercise.
+- feedback: [{'type': 'choice', 'question': 'What is the economic point of retaining woods, orchards, shrubs and meadows?', 'options': ['The largest possible tillable area is always the only measure of success', 'These areas must replace all crop production', 'Their relationships may improve the whole farm enough to outweigh a smaller cultivated area'], 'answer': 2, 'explanation': 'The lecture explicitly compares the quality supported by balanced landscape elements with the apparent advantage of increased tillage.'}, {'type': 'choice', 'question': 'What does the giving/taking formulation summarize in this lecture?', 'options': ['Steiner’s proposed polarity between plant and animal processes', 'A claim that every plant is an animal', 'A complete measured account of all nutrient and gas exchanges'], 'answer': 0, 'explanation': 'The formulation belongs to his account of plant–animal complementarity. It does not supply a complete contemporary physiological model.'}, {'type': 'reflection', 'question': 'How would you describe one landscape relationship without claiming that its spiritual mechanism has been verified?', 'explanation': 'Name the habitat and organisms, explain the relationship proposed in the lecture, and identify an observation you could record. Keep the observed pattern separate from the explanation of why it occurs.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## The animal, its surroundings and the farm cycle
+
+[English](../../docs/agriculture/lessons/15.html) · [Português](../../docs/pt/agriculture/lessons/15.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain Lecture 8’s animal model, attention to pasture and sensory activity, and qualified self-sustaining farm ideal.
+
+**Learning criterion:**
+
+Explain the animal as both participant and perceiver
+
+**Essential concepts:**
+
+Feeding belongs to the animal’s whole situation and the farm’s recurring relations; the self-sustaining ideal is explicitly limited by individual circumstances and economic conditions.
+
+**Prerequisite:**
+
+Farm return cycle and landscape
+
+**Connections:**
+
+The next lesson follows the root, leaf and flower/fruit feeding examples, then asks how to read them as individualized indications for investigation.
+
+**Misconception and feedback:**
+
+Understanding an animal’s place in the farm and ensuring its care are concrete tasks. The cosmic-substance and ego-potential explanations belong to Steiner’s framework; no feed example here supplies a complete ration, a treatment or a reason to disregard welfare.
+
+**Identified conceptual gap:**
+
+Show the difference between a feed-flow map and sensory surroundings, including outside-feed dependence.
+
+**Gap addressed:**
+
+- {'file': 'content/agriculture.json', 'id': 15, 'field': 'example', 'before': 'Trace a hypothetical pasture plant through the animal, manure and soil back to plant growth. Add a second line showing the animal’s movement and sensory contact with its surroundings. Name one local circumstance that would change the farm plan, such as soil, climate, available fodder or stocking needs. This is a reading exercise, not a ration plan.', 'beforePt': 'Acompanhe uma planta de pastagem hipotética pelo animal, pelo esterco e pelo solo de volta ao crescimento vegetal. Acrescente uma segunda linha mostrando o movimento e o contato sensorial do animal com seu ambiente. Nomeie uma circunstância local que mudaria o plano da fazenda, como solo, clima, forragem disponível ou necessidades do rebanho. É um exercício de leitura, não um plano de ração.', 'after': 'A pasture plant enters two connected lines in the lecture’s account. As fodder it is transformed by the animal, returns through manure to soil and supports later plants. As part of the surroundings it is encountered through smell, movement and seeking food. Recording only the amount placed in a trough would omit that second relationship. A dry season can also change the available fodder and require an outside supply without cancelling the continuing manure return. This explains why the whole animal and the qualified farm cycle belong together; it is not a ration plan or evidence of cosmic substance.', 'pt': 'Uma planta de pasto entra em duas linhas conectadas no relato da palestra. Como forragem, é transformada pelo animal, retorna pelo esterco ao solo e apoia plantas futuras. Como parte do ambiente, é encontrada pelo olfato, pelo movimento e pela busca de alimento. Registrar apenas a quantidade colocada num cocho omitiria essa segunda relação. Uma estação seca também pode mudar a forragem disponível e exigir abastecimento externo sem cancelar o retorno contínuo do esterco. Isso explica por que o animal inteiro e o ciclo qualificado da fazenda pertencem ao mesmo argumento; não é um plano alimentar nem evidência de substância cósmica.', 'reason': 'Work through the two lines of feeding and sensory environment instead of only requesting a diagram.'}
+
+**Teaching method:**
+
+- explanation: Show the difference between a feed-flow map and sensory surroundings, including outside-feed dependence.
+- application: Trace a hypothetical pasture plant through the animal, manure and soil back to plant growth. Add a second line showing the animal’s movement and sensory contact with its surroundings. Name one local circumstance that would change the farm plan, such as soil, climate, available fodder or stocking needs. This is a reading exercise, not a ration plan.
+- feedback: [{'type': 'choice', 'question': 'Which pairing matches the animal model stated in Lecture 8?', 'options': ['Head: earthly substance and cosmic forces; metabolic-limb pole: cosmic substance and earthly forces', 'Head: only earthly forces and no substance; limbs: no relation to gravity', 'Both poles: identical substances and forces with no distinction'], 'answer': 0, 'explanation': 'This reversal of substance and force is explicit in the lecture. The question checks the author’s model, not whether it has been established as physiology.'}, {'type': 'choice', 'question': 'How does Steiner qualify the self-sustaining farm ideal?', 'options': ['Every farm must immediately refuse all outside inputs', 'It should be pursued as far as possible, while acknowledging economic limits and individual conditions', 'Animals and manure must always be removed from the farm'], 'answer': 1, 'explanation': 'Capture 126 explicitly says not completely and rejects fanaticism under existing economic conditions; Adams 142 confirms this qualification.'}, {'type': 'reflection', 'question': 'What would it mean to consider the whole animal when describing its feeding situation?', 'explanation': 'Include its surroundings, movement or sensory activity, the fodder source and the manure relationship. Distinguish what can be observed from the spiritual mechanism Steiner proposes, and retain the need for adequate nutrition and care.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Fodder examples, individual judgment and practical investigation
+
+[English](../../docs/agriculture/lessons/16.html) · [Português](../../docs/pt/agriculture/lessons/16.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Trace the root, leaf and flower/fruit correspondences and identify the qualifications needed when reading the final practical indications.
+
+**Learning criterion:**
+
+Distinguish fodder correspondences from a universal ration
+
+**Essential concepts:**
+
+The feeding examples express relationships within Steiner’s model; individual judgment and explicit investigation are essential, while medical assertions and tentative answers retain their historical status.
+
+**Prerequisite:**
+
+Animal organization and individuality
+
+**Connections:**
+
+The concluding synthesis brings the eight lectures, their discussions and the Experimental Circle into one source map: farm individuality, preparations, landscape relations and investigation each retain their place.
+
+**Misconception and feedback:**
+
+A source indication, a complete feeding plan and a demonstrated veterinary or medical effect are different things. Explaining the first does not supply the other two. Neither good intentions nor the age of a proposal establishes its efficacy.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The root/leaf/flower explanation includes the practical qualifications needed before treating it as instruction.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The root/leaf/flower explanation includes the practical qualifications needed before treating it as instruction.
+
+**Teaching method:**
+
+- explanation: The root/leaf/flower explanation includes the practical qualifications needed before treating it as instruction.
+- application: Choose the lecture’s clover-and-dairy example. Make a reading record with four entries: the proposed relationship, the outcome Steiner predicts, the local conditions you would need to know, and the evidence that could distinguish the prediction from other influences. Keep adequate animal nutrition and care as requirements; do not change a real ration for this exercise.
+- feedback: [{'type': 'choice', 'question': 'Which correspondence summarizes the lecture’s feeding model?', 'options': ['Root: metabolic-limb only; leaf: head only; flower: no function', 'All plant parts are assigned exactly the same function', 'Root: head; leaf: middle/rhythmic region; flower/fruit: metabolic-limb system'], 'answer': 2, 'explanation': 'The lecture summarizes these correspondences and treats salts as acting throughout. This retrieves the author’s model without treating it as a complete ration.'}, {'type': 'choice', 'question': 'How does the lecture ask the original farmers to develop the indications?', 'options': ['Through individualized practical experiments over time', 'By assuming every example is already a universally established result', 'By repeating medical claims as instructions without investigation'], 'answer': 0, 'explanation': 'The closing explicitly calls the indications a foundation for extended experiments. The discussions also contain provisional times, conditional answers and acknowledged uncertainty.'}, {'type': 'reflection', 'question': 'Select one historical claim from these final sections and state what the course can explain and what would need additional evidence.', 'explanation': 'Give its source section, describe the author’s argument and identify the relevant observation or test. For medical or veterinary claims, do not turn source explanation into treatment advice; qualified clinical or veterinary evidence and care are separate requirements.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## From farm individuality to cooperative investigation
+
+[English](../../docs/agriculture/lessons/17.html) · [Português](../../docs/pt/agriculture/lessons/17.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Connect the lecture sequence with the farmers’ role in inquiry, and distinguish direct lectures from later recollections and editorial additions.
+
+**Learning criterion:**
+
+Connect lecture sequence with cooperative inquiry
+
+**Essential concepts:**
+
+Farm individuality calls for farmers’ active knowledge and sustained inquiry: understanding a spiritual explanation and demonstrating its agricultural effect are distinct tasks.
+
+**Prerequisite:**
+
+All eight lecture arguments
+
+**Connections:**
+
+Continue between this complete eight-lecture sequence and What Is Biodynamics? The anthology contributes Courtney’s introduction and other nature-being lectures; the Agriculture Course now supplies the missing whole-farm foundations, landscape and animal-feeding context.
+
+**Misconception and feedback:**
+
+Direct lecture speech, discussion answers, preparatory notes, remembered conversations and later editorial numbering have different evidential status. Later names such as 500–507 do not turn an editorial label into Steiner’s original lecture wording.
+
+**Identified conceptual gap:**
+
+Supply the completed synthesis of relationships and inquiry rather than requesting a map.
+
+**Gap addressed:**
+
+- {'file': 'content/agriculture.json', 'id': 17, 'field': 'example', 'before': 'Course synthesis exercise: make a farm map connecting pasture, animal feed, manure, soil, crops and woodland. For one link, state Steiner’s explanation and separately list observations needed to assess the proposed effect. This is a reading and reasoning exercise, not a direction to treat land or animals.', 'beforePt': 'Exercício de síntese do curso: desenhe um mapa da propriedade relacionando pastagem, alimentação animal, esterco, solo, cultivos e bosques. Para uma relação, apresente a explicação de Steiner e liste separadamente as observações necessárias para avaliar o efeito proposto. Trata-se de leitura e raciocínio, não de orientação para tratar a terra ou animais.', 'after': 'A connected synthesis might begin with fodder: plants feed animals, transformed material returns as manure, and soil supports another crop. Woodland and pasture widen that cycle into a particular landscape. Steiner interprets these relations through spiritual activity and proposes preparations within the continuing fertility work. Farmers contribute the local records needed to investigate the proposals. A later improvement is an outcome to examine, not proof supplied by the diagram. This links the opening demand to look beyond an isolated object with the closing invitation to cooperative inquiry, while preserving the difference between a dated lecture and a later recollection.', 'pt': 'Uma síntese conectada pode começar pela forragem: plantas alimentam animais, material transformado retorna como esterco e o solo sustenta outra cultura. Bosque e pastagem ampliam o ciclo para uma paisagem particular. Steiner interpreta essas relações pela atividade espiritual e propõe preparações dentro do trabalho contínuo de fertilidade. Os agricultores contribuem com os registros locais necessários à investigação. Uma melhora posterior é um resultado a examinar, não uma prova fornecida pelo diagrama. Isso conecta a exigência inicial de olhar além do objeto isolado ao convite final à investigação cooperativa, preservando a diferença entre palestra datada e lembrança posterior.', 'reason': 'Replace the final map assignment with an actual connected synthesis and its evidence boundary.'}
+
+**Teaching method:**
+
+- explanation: Supply the completed synthesis of relationships and inquiry rather than requesting a map.
+- application: Course synthesis exercise: make a farm map connecting pasture, animal feed, manure, soil, crops and woodland. For one link, state Steiner’s explanation and separately list observations needed to assess the proposed effect. This is a reading and reasoning exercise, not a direction to treat land or animals.
+- feedback: [{'type': 'choice', 'question': 'What role does the Circle address give the farmers?', 'options': ['They must only implement fixed instructions sent from Dornach.', 'Their farm descriptions and active cooperation provide the basis for the work in Dornach.', 'Their local observations are irrelevant because every farm is identical.'], 'answer': 1, 'explanation': 'At capture144 Steiner rejects the merely implementing role and says that the basis of the work in Dornach must first come from the farmers.'}, {'type': 'choice', 'question': 'Which statement respects the source apparatus?', 'options': ['Appendix B is a ninth lecture giving universally tested recipes.', 'Later preparation numbers appear in every original spoken lecture.', 'Remembered indications and editorial additions must be distinguished from the dated lectures and discussions.'], 'answer': 2, 'explanation': 'Appendix B and the Supplement warn about recollection and situation-specific indications. Editorial numbering and preparatory notes are different layers of evidence.'}, {'type': 'reflection', 'question': 'Explain one connection across the eight lectures. What is the author’s proposed relationship, and what remains to be investigated on a particular farm?', 'explanation': 'For example connect fodder, animals, manure and soil, or woodland, insects and crop surroundings. Keep the source’s spiritual account, local observations and claims about outcomes distinct.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
 ## Reading a myth
 
 [English](../../docs/ancient-myths/lessons/00.html) · [Português](../../docs/pt/ancient-myths/lessons/00.html)
@@ -1007,6 +1991,1418 @@ Supply the missing reasoning within the existing explanation.
 **Source limit:**
 
 Existing lecture summaries and capture references only; supplied Cotterell witness unavailable for fresh fidelity review. Spiritual history is not presented as historical consensus.
+
+## Why Was the Agriculture Course Given?
+
+[English](../../docs/biodynamics/lessons/01.html) · [Português](../../docs/pt/biodynamics/lessons/01.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What were the farmers asking Steiner to help them understand and improve?
+
+**Learning criterion:**
+
+Separate reported agricultural concern from diagnosed cause
+
+**Essential concepts:**
+
+- Farmers report difficulties in the vitality of crops and animals
+- Steiner proposes a broader account of their agricultural relationships
+- The course offers principles and practical indications
+- Farm information helps organize trials by practicing farmers
+- The intended outcome is knowledge that can enter agricultural work
+
+**Prerequisite:**
+
+No prior specialist terminology
+
+**Connections:**
+
+- The next lesson, What Is Biodynamic Agriculture?, distinguishes the 1924 course from the name, practices and interpretations that developed around it. This keeps the historical event separate from the later movement.
+
+**Misconception and feedback:**
+
+- A report of decline establishes a historical concern, not its magnitude or cause. Steiner's confidence that trials would succeed records his expectation, not completed results. Keep three statements separate: what farmers reported, what he proposed, and what a later investigation actually observed.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The fictional poor-germination farm names alternative records and avoids converting a reported decline into causal proof.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The fictional poor-germination farm names alternative records and avoids converting a reported decline into causal proof.
+
+**Teaching method:**
+
+- explanation: The fictional poor-germination farm names alternative records and avoids converting a reported decline into causal proof.
+- application: ["Consider an invented farm whose saved seed germinates unevenly and whose owner worries about declining fodder quality. A useful first record separates these concerns: seed source and storage, germination observations, weather, crop handling and animal feed. Steiner's course asks the farmer to consider a larger network of relationships. The record gives that question a concrete setting; it does not identify a cause merely because several difficulties occur together."]
+- feedback: [{'question': "What best describes the course's practical starting point?", 'options': ['A request to replace agricultural experience with a complete planetary calendar', "Farmers' concerns about agricultural vitality and a request for guidance applicable to their work", 'A completed comparison proving every later biodynamic practice'], 'answer': 1, 'explanation': "Steiner's June report identifies requests from farmers and an expectation of practical perspectives. It also describes further trials rather than presenting all outcomes as already established."}, {'question': "How should the 1993 foreword's account of chemical fertilization be used?", 'options': ['As a sentence spoken by Steiner at Koberwitz', 'As independent proof of the cause of every reported difficulty', "As Shouldice's later account of the concerns motivating the course"], 'answer': 2, 'explanation': 'The foreword has its own author and date. It provides historical context, while its causal account requires evidence beyond the fact that it appears in the edition.'}, {'type': 'reflection', 'question': 'Choose one agricultural concern and distinguish its observation, possible causes and a question suitable for investigation.', 'explanation': 'For example, record uneven germination as the observation; list seed age, storage and growing conditions as possibilities; then ask how comparable seed samples perform under the same conditions. A proposed explanation remains a proposal until evidence addresses it.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What Is Biodynamic Agriculture?
+
+[English](../../docs/biodynamics/lessons/02.html) · [Português](../../docs/pt/biodynamics/lessons/02.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What makes biodynamics an agricultural approach rather than a collection of preparations?
+
+**Learning criterion:**
+
+Explain biodynamics as relationships plus interpretation
+
+**Essential concepts:**
+
+- Begin with a crop or farm process that needs explanation
+- Consider its relationships with soil, plants, animals and surroundings
+- Steiner adds proposed cosmic and spiritual dimensions to those relationships
+- Practical indications are intended to support the farm's connected life processes
+
+**Prerequisite:**
+
+Historical occasion and attribution
+
+**Connections:**
+
+- The Farm as an Individuality gives these relationships a central organizing idea. The next lesson asks how a farm might support more of its own needs while acknowledging the limits of that ideal.
+
+**Misconception and feedback:**
+
+- Distinguish the original teaching, later practical development and modern evaluation. A practice can be historically derived from Steiner without its proposed mechanism having been demonstrated. Likewise, observing a useful compost or soil outcome does not identify which part of a whole management system caused it.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The three-layer table separates 1924 teaching, later practice and evaluation; preparations are located inside a system.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The three-layer table separates 1924 teaching, later practice and evaluation; preparations are located inside a system.
+
+**Teaching method:**
+
+- explanation: The three-layer table separates 1924 teaching, later practice and evaluation; preparations are located inside a system.
+- application: ['In an invented mixed farm, a gardener notices that the vegetable plots, fodder fields and livestock yard are managed as separate jobs. Mapping the links changes the questions: Which crops feed animals? Where does their manure go? What returns to the vegetable soil? This makes the whole-farm approach intelligible before any preparation is discussed. A later choice of preparation would need its own source explanation and evidence; the map alone supplies neither.']
+- feedback: [{'question': 'Why does this course introduce the farm relationships before preparation numbers?', 'options': ["Because the preparations have no place in Steiner's teaching", 'Because all later farming practices were already fixed in 1924', 'Because the intended role of a preparation depends on the farm processes it is meant to influence'], 'answer': 2, 'explanation': 'Steiner develops relationships before giving practical indications. Materials and numbers alone do not explain the agricultural problem or proposed function.'}, {'question': 'What does the compass analogy establish in this lesson?', 'options': ["How Steiner argues for considering an organism's wider surroundings", 'That each planetary claim has been experimentally demonstrated', 'That local soil and weather observations can be omitted'], 'answer': 0, 'explanation': 'The compass provides an analogy for relational explanation. Extending that reasoning to particular planetary mechanisms adds claims that require their own assessment.'}, {'type': 'reflection', 'question': 'Explain biodynamics to a beginner without beginning with a list of preparations.', 'explanation': "Start with a farm understood through its soil, crops, animals and fertility relationships. Then identify Steiner's additional spiritual interpretation and the later practical development from his course. Explain that preparations belong within this system rather than defining the entire approach."}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## The Farm as an Individuality
+
+[English](../../docs/biodynamics/lessons/03.html) · [Português](../../docs/pt/biodynamics/lessons/03.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What does Steiner mean by a farm approaching a self-contained individuality?
+
+**Learning criterion:**
+
+Trace inputs, internal returns and exports
+
+**Essential concepts:**
+
+- A particular soil and landscape support agricultural plants
+- Some plants provide fodder for the farm's animals
+- An appropriate animal complement consumes that fodder
+- Animal digestion produces manure
+- Manure returns to the land within the farm's fertility management
+- The soil supports subsequent plant growth
+- The farmer reviews the whole and its continuing external needs
+
+**Prerequisite:**
+
+Whole-farm approach
+
+**Connections:**
+
+- Part II begins with What Is Soil? The whole-farm question now leads to its foundation: why Steiner treats the ground as an active participant in growth, and how that account differs from a modern description of soil.
+
+**Misconception and feedback:**
+
+- The source proposes correspondence between an appropriate animal complement and manure needs; it does not report a measured rule that fits every farm. Internal recycling can be documented while external needs remain. Steiner's qualification and his invitation to trials should both accompany the ideal of farm individuality.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The example includes outside supplies and sales, so self-containment is an ideal with constraints rather than a closed material loop.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The example includes outside supplies and sales, so self-containment is an ideal with constraints rather than a closed material loop.
+
+**Teaching method:**
+
+- explanation: The example includes outside supplies and sales, so self-containment is an ideal with constraints rather than a closed material loop.
+- application: ["Imagine a fictional farm with vegetables, a fodder field and a small cattle herd. Its map shows hay arriving from another holding, manure leaving one yard for a compost area, and purchased material entering the vegetable plots. These arrows reveal questions rather than automatic defects: how much feed can the available land provide, where are fertility materials needed, and which outside supplies remain necessary? Applying Steiner's ideal means considering these links together. It does not mean assuming the map already proves a suitable herd size."]
+- feedback: [{'question': "Which explanation preserves Steiner's qualification?", 'options': ['A farm should approach internal self-support, although complete self-containment cannot be achieved', 'Any outside material automatically disproves farm individuality', "The farm's needs are independent of its animal complement"], 'answer': 0, 'explanation': 'Lecture 2 presents self-containment as a direction to approach and expressly limits its full implementation. Appropriate livestock is part of the ideal, not a substitute for examining the whole.'}, {'question': 'What would a map of fodder and manure movements establish most directly?', 'options': ['The precise planetary qualities transmitted through animal digestion', "The documented connections, sources and destinations within the farm's management", 'A universal number of animals required for every soil'], 'answer': 1, 'explanation': "A map can show recorded material relationships. Steiner's proposed cosmic interpretation and a general stocking rule require further kinds of evidence; neither follows simply from drawing the arrows."}, {'type': 'reflection', 'question': 'How could a garden without livestock use the farm-individuality question, and where would the analogy need qualification?', 'explanation': "Map its plants, residues, compost, water, supplies and harvested outputs to ask how the parts support one another. State explicitly that this adapts the whole-place question; it does not reproduce Steiner's proposed farm relationship among fodder, livestock and manure."}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What Is Soil?
+
+[English](../../docs/biodynamics/lessons/04.html) · [Português](../../docs/pt/biodynamics/lessons/04.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Steiner treat soil as an active participant in growth rather than an inert support for roots?
+
+**Learning criterion:**
+
+Distinguish biological soil activity from etheric activity
+
+**Essential concepts:**
+
+- Soil belongs to the farm's whole organization of growth
+- It receives materials and proposed earthly/cosmic influences
+- Its below-ground processes interact with air, water, warmth and plants above
+- That interchange supports the plant's continuing development in Steiner's model
+
+**Prerequisite:**
+
+Farm relationships
+
+**Connections:**
+
+- Earthly and Cosmic Forces examines the particular relationships Steiner says the soil mediates. The next lesson traces the pathways and substances, so cosmic influence becomes a differentiated proposal rather than a vague phrase.
+
+**Misconception and feedback:**
+
+- Observations can document moisture, structure, roots or organisms and help define a soil-management question. They do not establish the diaphragm analogy as literal anatomy or prove soul-like qualities in soil. The source's living/dead warmth distinction also cannot be inferred simply from a seasonal temperature difference.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Physical constituents and the stronger formative claim are separately explained; the observation task cannot silently equate them.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Physical constituents and the stronger formative claim are separately explained; the observation task cannot silently equate them.
+
+**Teaching method:**
+
+- explanation: Physical constituents and the stronger formative claim are separately explained; the observation task cannot silently equate them.
+- application: ["Imagine two fictional garden beds, one left bare and one with plant residues on its surface. After rain, the gardener records visible water, surface condition and plant growth over several visits. The example helps ask what soil conditions contribute to growth. It does not isolate a cause if shade, texture and watering also differ. Steiner's organ picture invites attention to the connected processes, while its additional spiritual explanation remains a separate interpretation."]
+- feedback: [{'question': 'What is the purpose of the soil–diaphragm comparison?', 'options': ['To claim that soil contains human organs', 'To illustrate the relation and interchange of regions within the agricultural whole', 'To replace soil observation with an anatomical label'], 'answer': 1, 'explanation': 'Steiner explicitly qualifies the analogy. It organizes relationships above and below the soil rather than describing literal human anatomy.'}, {'question': 'Which distinction should a comparison with soil biology preserve?', 'options': ["Microbial and physical processes are defined differently from Steiner's proposed etheric activity", 'Every soil organism is direct proof of etheric forces', 'Biologically active soil and etheric soil are interchangeable scientific terms'], 'answer': 0, 'explanation': 'The presence and activity of organisms can be investigated through biological methods. That does not by itself establish the additional spiritual organization claimed in the source.'}, {'type': 'reflection', 'question': "Describe one soil observation, then explain what Steiner's organ picture would add to it.", 'explanation': 'For example, record water remaining on a surface after rain. The organ picture places that ground within exchanges involving plants and surroundings. Separate that organizing interpretation and any spiritual claim from the observation and its possible physical causes.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Earthly and Cosmic Forces
+
+[English](../../docs/biodynamics/lessons/05.html) · [Português](../../docs/pt/biodynamics/lessons/05.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Through which pathways does Steiner propose that earthly and cosmic activity enter plant growth?
+
+**Learning criterion:**
+
+Reconstruct the two proposed cosmic pathways
+
+**Essential concepts:**
+
+- Distant planetary activity is proposed to be received below ground through silica
+- Clay conducts this cosmic activity upward toward the plant
+- Upper earthly activity is drawn downward through lime
+- The crossing streams interact in plant development and form
+
+**Prerequisite:**
+
+Soil and attributed formative activity
+
+**Connections:**
+
+- Root, Leaf, Flower and Seed follows these pathways into the plant. The next lesson begins with visible organs and development, then explains how Steiner reads form, colour and reproduction within his model.
+
+**Misconception and feedback:**
+
+- The two translations disagree about the location of direct radiation in an individual sentence. That sentence remains unresolved between the supplied texts. This explanation uses the larger shared pattern of distant activity received below and nearer/earthly activity above, with upward and downward mediation; it does not silently repair the disputed wording. Nor does the model supply a universal amendment dose or modern planting calendar.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The mediator table explains direction and substances, and preserves the disputed wording rather than resolving it by assertion.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The mediator table explains direction and substances, and preserves the disputed wording rather than resolving it by assertion.
+
+**Teaching method:**
+
+- explanation: The mediator table explains direction and substances, and preserves the disputed wording rather than resolving it by assertion.
+- application: ["Imagine a fictional grower comparing a sandy bed with a clay-rich bed. Steiner's account suggests questions about reception and upward mediation of cosmic activity. An observational record instead begins with texture, water, crop identity and growth. If one crop differs, the grower must examine physical conditions and other management differences before claiming a cause. Neither the soil label nor the plant's appearance identifies the proposed planetary pathway by itself."]
+- feedback: [{'question': 'Which pathway matches the main account developed in Lecture 2?', 'options': ['Every cosmic influence works only from above directly into flowers', 'Clay draws all earthly activity down while silica acts only above ground', 'Distant activity is received below through silica, while clay supports its upward mediation'], 'answer': 2, 'explanation': 'The proposed distant pathway begins below ground and moves upward. Lime draws the upper earthly factor down, so cosmic/earthly cannot simply mean above/below.'}, {'question': 'Why can a plant response to a lime amendment leave the planetary claim untested?', 'options': ['Because a visible response automatically identifies a cosmic cause', 'Because the response can be measured without distinguishing its physical causes or demonstrating the proposed planetary mediation', 'Because material amendments cannot affect agricultural conditions'], 'answer': 1, 'explanation': 'An outcome and a mechanism are different claims. Comparisons must address material and management explanations; the additional spiritual pathway does not follow from the response alone.'}, {'type': 'reflection', 'question': 'Explain why cosmic below and earthly above are useful starting locations in the source, but not rigid labels for every plant part.', 'explanation': 'Trace the movement: silica receives below and clay conducts upward; lime draws upper earthly activity down. Their proposed effects therefore cross regions, reaching flower colour and root form respectively.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Root, Leaf, Flower and Seed
+
+[English](../../docs/biodynamics/lessons/06.html) · [Português](../../docs/pt/biodynamics/lessons/06.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How do the plant's different regions and stages change what the farmer is trying to understand?
+
+**Learning criterion:**
+
+Distinguish visible plant organs from attributed cosmic formation
+
+**Essential concepts:**
+
+- A seed bears a proposed formative cosmic imprint
+- Earthly conditions and humus support the plant's material unfolding
+- Root, leaf and flower develop through interacting earthly/cosmic tendencies
+- Seed formation is proposed to reopen matter to cosmic formative activity
+
+**Prerequisite:**
+
+Cosmic pathways
+
+**Connections:**
+
+- Etheric Life and Plant Development asks what Steiner adds when he explains how a formed plant remains alive and growing. The next lesson connects that question to physical carriers and the plant's relation to astrality.
+
+**Misconception and feedback:**
+
+- Repeated observations can establish which structures appeared and when. They do not establish that a colour came from a particular planet or that seed matter entered the proposed cosmic chaos. Steiner presents these interpretations confidently; the learner's task is to explain them accurately while keeping observation and causal attribution separate.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Visible development and seed chaos are explained at different levels; not every underground edible part is called a root.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Visible development and seed chaos are explained at different levels; not every underground edible part is called a root.
+
+**Teaching method:**
+
+- explanation: Visible development and seed chaos are explained at different levels; not every underground edible part is called a root.
+- application: ["In an invented bean patch, the grower records emergence, new leaves, first flowers and later pods. Those observations separate the plant's regions from its changing stages. A second sketch can show how Steiner interprets form and seed formation. Do not assume every plant follows the same timetable or organ shape. His potato example also needs botanical care: the edible potato is a stem tuber, while the canonical translation uses rhizome wording. Historical wording and present botanical description should remain explicit."]
+- feedback: [{'question': 'Which reading preserves the interplay described in Lecture 2?', 'options': ['Earthly and cosmic tendencies can act in the same plant region, with different roles', 'Every root feature is exclusively cosmic and every flower feature exclusively earthly', 'Flower colour and flower shape are assigned exactly the same role'], 'answer': 0, 'explanation': 'The source distinguishes form/fullness from colour and describes earthly activity descending into roots and cosmic activity ascending into flowers. Its account cannot be reduced to fixed organ labels.'}, {'question': 'What would a dated record of bean flowering and pod formation establish?', 'options': ['That the seed-chaos mechanism has been observed directly', 'That flower colour proves a particular planetary influence', 'The observed sequence of development under the recorded conditions'], 'answer': 2, 'explanation': "The record describes a process over time. Steiner's additional account of its formative cause remains an interpretation requiring separate assessment."}, {'type': 'reflection', 'question': "Choose one plant feature and separate its form, its change over time and Steiner's proposed interpretation.", 'explanation': "For example, describe a leaf's outline and colour, record how leaves appear and expand, then explain the source's earthly fullness and solar greenness associations. The first two are descriptive records; the third is an attributed explanation."}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Etheric Life and Plant Development
+
+[English](../../docs/biodynamics/lessons/07.html) · [Português](../../docs/pt/biodynamics/lessons/07.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What does Steiner mean by life working through a plant's physical form?
+
+**Learning criterion:**
+
+Relate five substance functions to living plant development
+
+**Essential concepts:**
+
+- Carbon bears a proposed formative framework
+- Oxygen carries etheric life into physical activity with sulfur's mediation
+- Nitrogen/astrality coordinates life with that framework
+- The plant develops with physical and etheric organization and external astral influence
+- Form can be released toward the renewed organization proposed in seed formation
+
+**Prerequisite:**
+
+Plant regions and life/form distinction
+
+**Connections:**
+
+- Part III begins with Plants, Animals and the Whole Farm. The plant's role now expands from growth to fodder, animal digestion and returning fertility, while Steiner's distinction between plant and animal organization becomes agriculturally significant.
+
+**Misconception and feedback:**
+
+- Leaf emergence and flowering can be recorded; etheric organization is not measured by counting leaves. Comparing growth under defined conditions can test a material outcome without testing every proposed spiritual carrier. Understanding the terms also does not require adopting the source's physiological or meditative claims as experimental findings.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The process table gives each substance a role in coordination, avoiding memorization of unconnected labels.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The process table gives each substance a role in coordination, avoiding memorization of unconnected labels.
+
+**Teaching method:**
+
+- explanation: The process table gives each substance a role in coordination, avoiding memorization of unconnected labels.
+- application: ['Consider an invented record of two potted plants over three weeks. New leaves appear, older structures change, and one plant begins to flower. The record makes form and continuing development distinct. Steiner interprets that development through etheric activity working within a physical organization and astrality approaching externally. The visible changes provide the phenomenon he wants to explain; they do not reveal the proposed carrier relationships merely by being photographed.']
+- feedback: [{'question': 'How does Lecture 3 distinguish the plant from the animal in this framework?', 'options': ['The plant has the same internal astral organization as an animal', 'The plant has physical and etheric organization, while astrality approaches it from outside', 'The plant has no relation to astrality in flowering'], 'answer': 1, 'explanation': "Captures 47–48 explicitly distinguish the plant's physical/etheric organization from an animal's internal astral body, while retaining an external relation to astrality."}, {'question': "What is nitrogen's assigned role in the proposed carrier model?", 'options': ["Mediating etheric life with carbon's formative framework through astral activity", 'Serving only as a label for visible leaf colour', 'Proving that modern chemistry and etheric theory are identical'], 'answer': 0, 'explanation': "Steiner uses nitrogen as a mediator or transporter between life and form. This explains the source's model; it does not turn its spiritual assignment into a modern chemical definition."}, {'type': 'reflection', 'question': "Explain growing leaves once as an observation and once through Steiner's etheric vocabulary.", 'explanation': 'First describe dated changes such as leaf number and expansion. Then explain that Steiner attributes continued life through the material framework to etheric activity with physical carriers. State which part is recorded and which belongs to his proposed explanation.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Plants, Animals and the Whole Farm
+
+[English](../../docs/biodynamics/lessons/08.html) · [Português](../../docs/pt/biodynamics/lessons/08.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Steiner connect the animals a farm keeps with the plants it grows and the manure its soil receives?
+
+**Learning criterion:**
+
+Explain why animals matter in the return circuit
+
+**Essential concepts:**
+
+- The farm’s plants supply fodder suited to its animals
+- Animals transform that fodder through their own living activity
+- Their manure returns material and, in Steiner’s interpretation, formative forces to soil and roots
+- Soil, plants and surrounding landscape participate in the next growth cycle
+- The farm approaches internal support within its actual conditions
+
+**Prerequisite:**
+
+Farm individuality and etheric/astral vocabulary
+
+**Connections:**
+
+- Animal Life and Landscape widens the cycle beyond domesticated animals. The next lesson asks why trees, shrubs, worms, insects and birds belong in Steiner’s agricultural account.
+
+**Misconception and feedback:**
+
+- The visible feed–manure relationship does not establish the claimed transfer of astral or ego forces. Nor does a diagram determine safe stocking or feeding. Suitable decisions require information about the actual animals, land and management; the source gives a guiding relationship and an unfinished task of investigation.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Feed origin and manure destination connect the account materially while ego-potential is explicitly not human selfhood.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Feed origin and manure destination connect the account materially while ego-potential is explicitly not human selfhood.
+
+**Teaching method:**
+
+- explanation: Feed origin and manure destination connect the account materially while ego-potential is explicitly not human selfhood.
+- application: ['Consider the fictional Riverside Farm, with vegetable beds, a hay meadow, a small cattle herd and an orchard. A dry summer forces it to buy some hay. Its diagram still shows crops feeding animals and manure returning to cultivated land, but also an outside input. The grower records the shortfall before considering any change in herd size. This illustrates qualified farm individuality. It does not calculate an ideal herd or demonstrate that local manure carries exactly the spiritual qualities Steiner assigns to it. Keeping the same herd while changing feed supply may alter both the manure available and the land needed for fodder. The case asks us to track those linked consequences before treating one enterprise as a separate choice.']
+- feedback: [{'question': 'How should the self-sustaining farm ideal be read in Lecture 8?', 'options': ['As an immediate prohibition on every outside input', 'As a direction to approach as far as possible, with economic limits explicitly acknowledged', 'As a claim that animals and crops can be planned independently'], 'answer': 1, 'explanation': 'The cycle is followed by a qualification: complete closure is impossible under present economic conditions. The ideal organizes relationships without becoming an absolute rule.'}, {'question': 'What does Steiner’s “right number and kinds of animals” supply?', 'options': ['A fixed stocking rate valid for every farm', 'A guarantee that any herd will supply exactly enough manure', 'A relationship between available fodder, animals and manure needs that must be worked out locally'], 'answer': 2, 'explanation': 'The lecture names an appropriate relationship and invites investigation. It does not give a universal numerical stocking formula.'}, {'type': 'reflection', 'question': 'Explain why importing hay on the fictional farm need not invalidate the idea of farm individuality.', 'explanation': 'Identify the crop–animal–manure connections that remain, then the shortfall and outside input. The farm can investigate its particular degree of internal support while retaining Steiner’s explicit economic qualification.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Animal Life and Landscape
+
+[English](../../docs/biodynamics/lessons/09.html) · [Português](../../docs/pt/biodynamics/lessons/09.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Steiner ask farmers to consider woods, shrubs, meadows, worms, insects and birds alongside their crops and livestock?
+
+**Learning criterion:**
+
+Interpret an edge landscape without maximizing one feature
+
+**Essential concepts:**
+
+- Different habitats support distinct plant and animal relationships
+- Steiner assigns aerial astrality to tree crowns and flying creatures
+- Roots, worms, larvae and lime participate in belowground etheric regulation
+- These proposed influences interact with crop growth and animal life
+- Landscape balance is assessed as part of farm quality rather than by cropped acreage alone
+
+**Prerequisite:**
+
+Plant/animal cycles
+
+**Connections:**
+
+- Manure and Fertility follows one of these animal relationships back to soil. The next lesson asks what Steiner believes is carried through digestion and why he treats manure as more than an isolated input.
+
+**Misconception and feedback:**
+
+- The proposed dependence of insect life on tree astrality is not a modern evolutionary explanation. Habitat observations also cannot establish the claimed diversion of microorganisms by fungi. Retain the distinction between an organism being present, an ecological effect being measured and a spiritual cause being asserted.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The woodland/meadow example explains interdependence and qualifications; more moisture or more animals is not automatically better.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The woodland/meadow example explains interdependence and qualifications; more moisture or more animals is not automatically better.
+
+**Teaching method:**
+
+- explanation: The woodland/meadow example explains interdependence and qualifications; more moisture or more animals is not automatically better.
+- application: ['At the fictional Riverside Farm, a wooded edge, hazel shrubs, an orchard and a damp meadow lie beside cultivated ground. The farmer draws these into the system map instead of labeling them unused land. Separate observations record birds, flowering shrubs, shade and soil conditions. A second layer explains the roles Steiner assigns to flying creatures, shrubs and meadow fungi. Finding birds at the edge illustrates a relationship to investigate; it does not reveal an astral stream or show that the damp meadow removes crop pathogens.']
+- feedback: [{'question': 'Why can less tillable acreage be acceptable in Steiner’s landscape account?', 'options': ['Because uncropped land never requires management', 'Because the proposed quality of the whole farm can depend on woods, orchards, bushes and meadows', 'Because the lecture requires every farm to abandon cropping'], 'answer': 1, 'explanation': 'Steiner treats these landscape elements as functions of the farm. His argument weighs whole-farm quality against the gain from cultivating every patch.'}, {'question': 'What does observing birds and worms establish directly?', 'options': ['That astrality and etheric forces have been measured', 'That every crop disease will be prevented', 'That these organisms are present under the recorded conditions, while their proposed spiritual roles remain a separate interpretation'], 'answer': 2, 'explanation': 'Presence and activity can be described. Those observations do not by themselves measure Steiner’s astral or etheric processes or establish a disease-control effect.'}, {'type': 'reflection', 'question': 'Compare two layers of the fictional farm map: the observed habitats and Steiner’s interpretation of their roles. What belongs in each?', 'explanation': 'The first layer names wooded edge, shrubs, meadow, species seen and conditions. The second assigns astral/etheric regulation or microbial diversion to those elements, clearly attributing the mechanism rather than presenting the sketch as its measurement.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Manure and Fertility
+
+[English](../../docs/biodynamics/lessons/10.html) · [Português](../../docs/pt/biodynamics/lessons/10.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What does Steiner think manure returns to the soil beyond its material constituents?
+
+**Learning criterion:**
+
+Explain what manure is proposed to return beyond matter
+
+**Essential concepts:**
+
+- Plants provide fodder within a particular farm relationship
+- Animal metabolism transforms that fodder before manure leaves the body
+- Steiner assigns etheric and astral activity to the resulting manure
+- Retention and return are intended to enliven the earthy soil around roots
+- The next plant growth reconnects fertility with the farm’s feed supply
+
+**Prerequisite:**
+
+Animal passage through the farm cycle
+
+**Connections:**
+
+- Compost and the Fertility Cycle examines another return route. The next lesson compares manure and compost, then asks why Steiner retains ordinary fertility work before introducing special treatments.
+
+**Misconception and feedback:**
+
+- The lecture’s oxygen, nitrogen, etheric and astral relationships are historical explanatory claims. Observed growth, decomposition or odor does not establish those mechanisms. Source understanding also does not supply a fertilizer rate or a complete manure-management protocol; those require information appropriate to the actual material and place.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The example distinguishes material return from formative interpretation and explicitly rejects literal manure consciousness.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The example distinguishes material return from formative interpretation and explicitly rejects literal manure consciousness.
+
+**Teaching method:**
+
+- explanation: The example distinguishes material return from formative interpretation and explicitly rejects literal manure consciousness.
+- application: ['The fictional Riverside Farm records where its cattle feed originates, where manure is stored and which fields receive it. One plot later grows differently after several management changes. The farmer can document the return of material and investigate soil, weather and handling differences. Steiner would also interpret manure as returning animal living activity to the root environment. That explanation makes the cycle coherent within his account, but the plot’s appearance cannot isolate manure’s effect or identify an etheric, astral or ego mechanism.']
+- feedback: [{'question': 'Why is manure’s passage through the animal important in Steiner’s account?', 'options': ['Because he attributes transformed etheric and astral activity to what returns to the soil', 'Because he says the original fodder leaves the animal unchanged', 'Because the passage guarantees a measured crop improvement'], 'answer': 0, 'explanation': 'Manure is presented as carrying activity from the animal’s internal processes into the root–soil environment. This is his additional interpretation, not a guaranteed experimental outcome.'}, {'question': 'How do later preparations relate to ordinary manure in the source?', 'options': ['They eliminate the need for normal manuring', 'They are intended to improve and enhance ordinary manuring, which must continue', 'They make livestock number and feed supply irrelevant'], 'answer': 1, 'explanation': 'Lecture 5 explicitly retains ordinary manuring. Preparations are proposed enhancements within the fertility relationship, not replacements for its material basis.'}, {'type': 'reflection', 'question': 'Describe a manure observation that could be recorded, then state a different claim Steiner would make about the same material.', 'explanation': 'A record might describe feed origin, storage, odor, destination or soil response. Steiner adds etheric/astral activity and, in Lecture 8, ego-potential at roots. Explain his claim while identifying what the observation has not measured.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Compost and the Fertility Cycle
+
+[English](../../docs/biodynamics/lessons/11.html) · [Português](../../docs/pt/biodynamics/lessons/11.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does compost belong to a fertility cycle that also includes crops, animals, manure and products leaving the farm?
+
+**Learning criterion:**
+
+Trace compost in an open fertility cycle
+
+**Essential concepts:**
+
+- Plants produce food, feed and residues with different destinations
+- Animals transform feed, while some plant residues follow a composting route
+- Manure and compost return through the documented practices of a particular holding
+- Steiner interprets these returns as sustaining the living root–soil relationship
+- The next crop reconnects fertility, feed and products, with outside flows kept visible
+
+**Prerequisite:**
+
+Manure and farm inputs/outputs
+
+**Connections:**
+
+- Why Preparations? follows once ordinary manure and compost have a clear place. Part IV asks why Steiner proposes special enhancements, while keeping the underlying soil–plant–animal cycle in view.
+
+**Misconception and feedback:**
+
+- The cycle diagram is conceptual, not a complete mass balance. Neither composting nor returning manure guarantees replacement of every exported nutrient or continuous fertility. The source’s etheric–astral explanation remains a distinct claim. The historical lime discussion and later preparations are not instructions supplied here for making or treating compost.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Exports and losses remain visible; a compost heap alone does not establish a balanced nutrient budget.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Exports and losses remain visible; a compost heap alone does not establish a balanced nutrient budget.
+
+**Teaching method:**
+
+- explanation: Exports and losses remain visible; a compost heap alone does not establish a balanced nutrient budget.
+- application: ['On the fictional Riverside Farm, the grower draws two documented return paths: a plant-residue compost process and a manure route already used on the holding. Some material enters both; not all does. Vegetables sold off the farm form an outward arrow, and purchased hay an inward one. Records show origins and destinations before anyone claims the loop is complete. The drawing explains how compost belongs to the farm, but does not prescribe handling, demonstrate a nutrient balance or show that Steiner’s proposed forces have been retained.']
+- feedback: [{'question': 'What does Steiner mean when he calls compost’s astrality more stable?', 'options': ['He offers a measured rule that compost always outperforms manure', 'He distinguishes qualities within his attributed spiritual fertility model', 'He says decomposition and nutrient losses cannot occur'], 'answer': 1, 'explanation': 'The stability claim compares proposed etheric and astral activity. It is not a universal experimental ranking or a guarantee against losses.'}, {'question': 'Where do the later preparations fit in the fertility cycle?', 'options': ['They are proposed enhancements to ordinary fertility work that must continue', 'They replace feed, manure and compost with a self-sufficient treatment', 'They prove that every material must pass through one compost pile'], 'answer': 0, 'explanation': 'Lecture 5 retains ordinary manuring and acknowledges material taken away in products. Preparations enter that relationship rather than removing its practical basis.'}, {'type': 'reflection', 'question': 'Draw a fertility map with at least two return paths and one outside flow. What belongs in an observation column, and what belongs in Steiner’s interpretation?', 'explanation': 'Record known material origins, destinations and outward or inward flows. Then separately explain his attribution of living activity to manure and compost. Keep unknowns visible; a conceptual cycle does not demonstrate closure or a spiritual mechanism.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Why Preparations?
+
+[English](../../docs/biodynamics/lessons/12.html) · [Português](../../docs/pt/biodynamics/lessons/12.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What problem are preparations intended to address if the farm still needs ordinary manure and compost?
+
+**Learning criterion:**
+
+Explain preparations as conditioning ordinary fertility work
+
+**Essential concepts:**
+
+- Production and exports create a need to replenish the farm
+- Ordinary manure and compost provide the continuing fertility setting
+- Preparations are proposed to preserve or organize living activity
+- Treated fertility materials are intended to enliven soil and support plant development
+
+**Prerequisite:**
+
+Manure and compost
+
+**Connections:**
+
+- Horn Manure — Preparation 500 follows the first soil-facing addition. Its material, enclosure and winter exposure will be explained through the role Steiner assigns to it.
+
+**Misconception and feedback:**
+
+- The later preparation numbers are orientation labels, not the lecture's spoken numbering. Explaining a dynamic or small-dose intention does not demonstrate its effect. Nor should the source's dismissal of microbial interventions be turned into a modern scientific rule. These lessons describe historical indications rather than assign preparation manufacture.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The existing argument supplies their proposed purpose while refusing a replacement-for-compost interpretation.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The existing argument supplies their proposed purpose while refusing a replacement-for-compost interpretation.
+
+**Teaching method:**
+
+- explanation: The existing argument supplies their proposed purpose while refusing a replacement-for-compost interpretation.
+- application: ["Imagine a fictional farm that changes compost handling, crop rotation and preparation use during the same year. An improved crop would be relevant, but it would not identify which change mattered. Steiner's argument helps explain the intended place of preparations: an addition to an existing fertility system. The farm's records should therefore retain the ordinary materials, management changes and defined crop outcomes alongside the special treatments."]
+- feedback: [{'question': 'What does the opening of Lecture 5 require us to retain?', 'options': ['Ordinary manuring as part of the fertility system', 'Only the preparation numbers, without manure management', 'An assumption that every ordinary method must be abandoned'], 'answer': 0, 'explanation': "The preparation's role is supplementary. Steiner explicitly says ordinary manuring must continue."}, {'question': 'What does a crop improvement after several simultaneous changes establish most directly?', 'options': ['The precise etheric mechanism of one preparation', 'That each later preparation has the same effect', 'An outcome in the changed system, without isolating one cause'], 'answer': 2, 'explanation': 'When several practices change, the result does not identify the contribution of one preparation. A more specific causal comparison is needed.'}, {'type': 'reflection', 'question': "Explain why the question 'Why preparations?' should come before their materials or numbers.", 'explanation': 'Identify the continuing fertility problem, the retained manure/compost setting and the proposed additional function. Materials and numbers become meaningful when connected to that agricultural purpose.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Horn Manure — Preparation 500
+
+[English](../../docs/biodynamics/lessons/13.html) · [Português](../../docs/pt/biodynamics/lessons/13.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Steiner place manure in a cow horn for winter before using it as a soil-facing treatment?
+
+**Learning criterion:**
+
+Reconstruct the winter horn-manure rationale
+
+**Essential concepts:**
+
+- Animal digestion gives manure proposed etheric/astral activity
+- The cow horn holds that activity during winter Earth exposure
+- Water dilution and alternating stirring provide intimate permeation
+- Application to tilled soil is intended to supplement its enlivening and fertility
+
+**Prerequisite:**
+
+Preparation purpose and seasonal soil model
+
+**Connections:**
+
+- Horn Silica — Preparation 501 changes the horn's contents, burial season and destination. Comparing those changes explains why Steiner presents a complementary treatment rather than a second name for horn manure.
+
+**Misconception and feedback:**
+
+- The two Markdown witnesses give conflicting burial depths. We retain that source discrepancy rather than average the depths into a recipe. Prepared contents and freshly stirred liquid also have different storage discussions. Later number 500, present practice and current certification requirements must remain distinct from the 1924 indication.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Material, animal sheath, season and soil-facing role are connected; historical description is not a treatment recipe or efficacy result.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Material, animal sheath, season and soil-facing role are connected; historical description is not a treatment recipe or efficacy result.
+
+**Teaching method:**
+
+- explanation: Material, animal sheath, season and soil-facing role are connected; historical description is not a treatment recipe or efficacy result.
+- application: ['In a fictional farm notebook, a grower has recorded ordinary manure use and a separate horn-manure treatment. The learner can identify material, winter maturation, dilution and destination without making the preparation. To assess a crop change, the record would also need planting, weather and other management information. A familiar number or a recorded application does not establish the proposed concentrated force.']
+- feedback: [{'question': "What is the treatment's intended relationship to ordinary manuring?", 'options': ['It replaces all ordinary manure with a concentrated nutrient dose', 'It supplements manuring by an attributed enlivening of the solid soil', 'It is solely a plant-facing summer mineral treatment'], 'answer': 1, 'explanation': 'The winter manure treatment is soil-facing and supplementary. The summer mineral treatment is its complement, not the same preparation.'}, {'question': 'How should the conflicting burial depths be handled?', 'options': ['Preserve the discrepancy and use a separately verified protocol for practical work', 'Average both depths to produce a reliable compromise', 'Choose the larger depth and call it a verified PDF instruction'], 'answer': 0, 'explanation': 'A numerical conflict cannot be solved by combining unverified readings. The course therefore explains the historical process without supplying a settled depth.'}, {'type': 'reflection', 'question': 'Connect manure, horn, winter and soil application in one explanation of the intended process.', 'explanation': "Begin with animal-derived living activity, explain the horn's alleged retention and winter concentration, then connect dilution and stirring to a supplementary soil-facing application. Mark the carrier and force claims as Steiner's explanation."}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Horn Silica — Preparation 501
+
+[English](../../docs/biodynamics/lessons/14.html) · [Português](../../docs/pt/biodynamics/lessons/14.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does the summer mineral treatment complement the winter manure treatment?
+
+**Learning criterion:**
+
+Explain how horn silica complements horn manure
+
+**Essential concepts:**
+
+- A finely divided mineral is enclosed in a cow horn
+- Summer Earth exposure gives the material its proposed conditioning
+- Stored contents are diluted and intimately stirred before plant-facing application
+- An influence pulling from above is intended to complement horn manure's action from below
+
+**Prerequisite:**
+
+Winter preparation and cosmic mediation
+
+**Connections:**
+
+- Compost Preparations 502–507 turns from the two horn treatments to six ingredients that act through manure or compost. Their different enclosures and roles will be compared together.
+
+**Misconception and feedback:**
+
+- The original bucket and tiny-portion examples are historical illustrations, not verified modern dilution standards. The source treats stored mineral contents differently from freshly stirred liquid and winter manure contents. Complementarity is the claimed relationship; neither the table nor the process diagram certifies a PDF drawing or demonstrates efficacy.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The paired summer/mineral relationship explains complementarity rather than treating 500 and 501 as interchangeable.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The paired summer/mineral relationship explains complementarity rather than treating 500 and 501 as interchangeable.
+
+**Teaching method:**
+
+- explanation: The paired summer/mineral relationship explains complementarity rather than treating 500 and 501 as interchangeable.
+- application: ['Imagine a fictional notebook with one entry for winter horn manure and another for summer mineral horns. Compare contents, exposure, storage and destination before evaluating a claimed crop response. A mineral horn is not simply a manure horn with an alternative date. The record would also need comparable crops, management and conditions to address whether the paired treatments changed an outcome.']
+- feedback: [{'question': 'Which comparison follows Lecture 4?', 'options': ['Both preparations contain manure and mature in winter', 'Both are applied only to compost piles', 'Winter horn manure is soil-facing; summer mineral treatment is plant-facing and complementary'], 'answer': 2, 'explanation': 'Material, exposure and destination differ. The source describes the first as pushing from below and the second as pulling from above.'}, {'question': 'Why mention orthoclase/feldspar?', 'options': ['It is an original alternative that a quartz-only paraphrase would remove', 'It proves every later standard permits the same alternatives', 'It is the animal enclosure used instead of a horn'], 'answer': 0, 'explanation': 'Historical fidelity requires retaining the offered mineral alternative. Current practical standards are a different source question.'}, {'type': 'reflection', 'question': 'Explain the two horn treatments without treating soil/root and upper-plant roles as absolute organ boundaries.', 'explanation': 'Use their destinations and intended directions: soil-facing manure from below, plant-facing mineral from above. Their complementary effects are proposed within one developing plant–soil system, not sealed compartments.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Compost Preparations 502–507
+
+[English](../../docs/biodynamics/lessons/15.html) · [Português](../../docs/pt/biodynamics/lessons/15.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Steiner condition manure with six different plant materials rather than one interchangeable additive?
+
+**Learning criterion:**
+
+Distinguish compost preparation functions and later names
+
+**Essential concepts:**
+
+- Different plant materials express particular relationships in Steiner's model
+- Distinct enclosures or direct Earth exposure condition those relationships
+- Prepared material is introduced into manure, liquid manure or compost
+- Its proposed activity helps the fertility material retain, organize and transmit life
+- The treated material returns to soil within ordinary manuring
+
+**Prerequisite:**
+
+Compost conditioning
+
+**Connections:**
+
+- Horsetail / Preparation 508 introduces a different treatment, aimed at a particular account of water, lunar influence and fungal abnormalities rather than sharing the six ingredients' manure-conditioning pattern.
+
+**Misconception and feedback:**
+
+- The chart is descriptive historical teaching, not a preparation-making assignment. Burial and manure-pile placement are different operations in the discussions. Do not combine unresolved quicklime wording, anatomical terms or species identifications into a precise recipe. The attributed nutrient, health and wide-area effects remain claims requiring independent evidence.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Each material has a specific attributed task; numbering and later conventions are not silently assigned to the original lecture.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Each material has a specific attributed task; numbering and later conventions are not silently assigned to the original lecture.
+
+**Teaching method:**
+
+- explanation: Each material has a specific attributed task; numbering and later conventions are not silently assigned to the original lecture.
+- application: ['Imagine a fictional compost record that lists six plant names but no material parts, exposure or destination. The list cannot show whether the historical indications were followed. A learner can add the missing categories from the source without producing the preparations. If the compost or crop later differs, the record still needs handling, feedstocks and comparison conditions before assigning the change to one ingredient.']
+- feedback: [{'question': 'Which difference is preserved by the six-row comparison?', 'options': ['Every plant is enclosed in cattle intestines for winter', 'Nettle has no animal casing and a whole-year exposure; valerian is a flower extract without prescribed burial', 'Valerian and oak bark are the same calcium treatment'], 'answer': 1, 'explanation': 'The preparations differ in material, enclosure and exposure. A shared destination in fertility material does not make their histories or intended roles interchangeable.'}, {'question': 'How should the dandelion enclosure be described?', 'options': ['As tripe, because all cattle membranes are interchangeable', 'As a fully verified modern anatomical standard', "With the source's mesentery/peritoneum wording, its explicit rejection of tripe, and the remaining uncertainty"], 'answer': 2, 'explanation': 'Lecture 5 and Discussion 3 preserve specific but imprecise wording. The course must not silently replace it with another organ or claim native verification.'}, {'type': 'reflection', 'question': 'Choose two ingredients and explain how a difference in material or exposure connects to their attributed roles.', 'explanation': "For example, contrast nettle's direct year-long Earth exposure and ordering role with valerian's flower extract and phosphorus relation. Attribute the claimed mechanism; do not infer it solely from the difference in materials."}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Horsetail / Preparation 508
+
+[English](../../docs/biodynamics/lessons/16.html) · [Português](../../docs/pt/biodynamics/lessons/16.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does the horsetail treatment address a different agricultural problem from the horn and compost preparations?
+
+**Learning criterion:**
+
+Locate horsetail's different problem and evidential limit
+
+**Essential concepts:**
+
+- Wet conditions are said to enhance water-mediated lunar activity
+- Excess soil vitality disrupts the normal seed-forming process
+- Upper plant regions become an alleged second ground for fungal growth
+- Diluted horsetail treatment is intended to increase earthiness and reduce the mediation
+- Normal plant development is the intended outcome within this model
+
+**Prerequisite:**
+
+Preparation distinctions and water/lunar model
+
+**Connections:**
+
+- Part V begins with Weeds and then distinguishes pests, plant disease and rhythms. Preparation roles now provide context for studying those separate challenges without treating one indication as a universal field remedy.
+
+**Misconception and feedback:**
+
+- The spoken passage does not number the treatment 508. Gardner separately notes at capture 184 that the tea is sometimes called Preparation 508. That establishes this edition's later label, not who originated the number or when. Discussion 3 explicitly says vineyard use had not been tried. Do not transfer the horn treatments' hour of stirring or winter burial to horsetail, or confuse it with weed/pest ash treatments.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The wetness sequence explains the proposed target without turning symptom photographs into a diagnosis or remedy.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The wetness sequence explains the proposed target without turning symptom photographs into a diagnosis or remedy.
+
+**Teaching method:**
+
+- explanation: The wetness sequence explains the proposed target without turning symptom photographs into a diagnosis or remedy.
+- application: ['Imagine a fictional crop record showing leaf symptoms after a wet period. Begin with crop identity, symptom distribution, dates and management. The source offers one interpretation and a historical indication; the record does not establish that the symptoms are fungal, which organism is involved or whether lunar mediation caused them. A response after treatment would also need a comparison and an account of changing weather and other interventions.']
+- feedback: [{'question': "What is the problem in Steiner's horsetail account?", 'options': ['A universal deficiency of horn manure', 'Too little lunar activity, requiring every growth force to be increased', 'Excess water-mediated lunar activity disrupting normal plant development'], 'answer': 2, 'explanation': 'The source attributes the abnormal process to excessive influence. Horsetail is intended to reduce that mediation, not simply add more fertility activity.'}, {'question': 'Which historical feature distinguishes this treatment?', 'options': ['A diluted Equisetum tea without prescribed animal enclosure or horn maturation', 'A valerian flower extract placed in cattle intestines', 'A summer quartz horn with the same stirring instructions transferred automatically'], 'answer': 0, 'explanation': 'The material and process in Lecture 6 differ from both horn treatments and manure-conditioning ingredients. Their operational details cannot simply be copied across.'}, {'type': 'reflection', 'question': "Separate a wet-season crop record, a diagnosis and Steiner's lunar interpretation.", 'explanation': "Record dates, wet conditions and symptoms first. Diagnosis asks what disorder or organism is involved. The lunar interpretation adds the source's proposed causal pathway; it is not established by wetness and symptoms alone."}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Weeds
+
+[English](../../docs/biodynamics/lessons/17.html) · [Português](../../docs/pt/biodynamics/lessons/17.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why can a useful plant become a weed, and how does Steiner connect unwanted reproduction to the same forces he associates with fertility?
+
+**Learning criterion:**
+
+Distinguish unwanted location from inherently bad species
+
+**Essential concepts:**
+
+- A specific plant reproduces where the crop manager does not want it.
+- Steiner relates reproductive fertility to near-planetary forces mediated through earth and water.
+- Seed-derived ash is proposed to carry a fire-transformed opposite to that reproductive force.
+- The intended effect is reduced reproduction of that plant in that area over time.
+- This sequence reconstructs the claim; actual abundance and causes must be assessed separately.
+
+**Prerequisite:**
+
+Plant reproduction and farm purpose
+
+**Connections:**
+
+- Animal Pests asks why Steiner does not extend this weed-reproduction account unchanged to mammals, insects and other invertebrates.
+
+**Misconception and feedback:**
+
+- The source contains confident assertions and particular limits, not a universal demonstrated weed-control rule. Gardner’s editorial notes mention later reports separately; those underlying studies have not been reviewed for this course. Records can show where plants appear and how abundance changes. They cannot by themselves identify lunar causation or establish the proposed counterforce.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The same plant in two locations demonstrates why weed status is relational; ash reversal remains an attributed claim.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The same plant in two locations demonstrates why weed status is relational; ash reversal remains an attributed claim.
+
+**Teaching method:**
+
+- explanation: The same plant in two locations demonstrates why weed status is relational; ash reversal remains an attributed claim.
+- application: ['In this fictional example, dandelions flower in an orchard margin and in a newly planted vegetable bed. The gardener records their locations, competition with seedlings and whether new plants arise from seeds or surviving roots. The margin and bed need not have the same management aim. This map clarifies the problem without making or applying a pepper, and without treating every dandelion on the property as an enemy.']
+- feedback: [{'question': 'Why can dandelion be useful in one place and a weed in another?', 'options': ['Its species changes when it enters a crop bed.', 'Its relationship to the agricultural purpose and location changes.', 'A preparation plant can never compete with a crop.'], 'answer': 1, 'explanation': 'Steiner’s starting distinction concerns a specific plant in a specific agricultural setting, not a defective botanical essence.'}, {'question': 'Which statement correctly describes the weed-pepper account?', 'options': ['Steiner reports a completed controlled trial proving disappearance in every field.', 'It is simply a conventional nutrient addition.', 'Steiner proposes a seed-related reproductive counterforce and predicts results, while also inviting experiments.'], 'answer': 2, 'explanation': 'The claimed mechanism, confident prediction and invitation to practical verification are distinct statements.'}, {'type': 'reflection', 'question': 'How would you describe a plant’s unwantedness before choosing any management method?', 'explanation': 'Name the species, location, crop and observable interference. Distinguish new seedlings from vegetative regrowth, and consider whether the same plant has a useful role elsewhere.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Animal Pests
+
+[English](../../docs/biodynamics/lessons/18.html) · [Português](../../docs/pt/biodynamics/lessons/18.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Steiner distinguish field mice from insects and other small animal pests, instead of proposing one general pest treatment?
+
+**Learning criterion:**
+
+Compare mammal, insect and nematode accounts
+
+**Essential concepts:**
+
+- A particular animal group depends on specific conditions for reproduction or survival
+- Steiner assigns those conditions a group-specific cosmic or constitutional relationship
+- The historical ash indication is timed to the relationship proposed for that group
+- Its intended effect is to oppose the relevant reproductive or survival conditions
+- Species and developmental stage qualify the proposal; actual outcomes require separate assessment
+
+**Prerequisite:**
+
+Animal constitution and reproduction
+
+**Connections:**
+
+- Plant Disease follows because fungal symptoms on a plant are a different question from an animal feeding on or inhabiting it.
+
+**Misconception and feedback:**
+
+- The source’s root and leaf signs are historical examples, not a diagnostic key. Its four-year predictions do not prove a universal pest cycle. Ethical discussion in 1924 does not authorize every modern intervention. The Venus wording and zodiac questions remain unresolved here; no dates, instructions or verified efficacy are inferred from them.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Species/life-stage distinctions and unresolved astronomical wording are taught before ethical and causal evaluation.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Species/life-stage distinctions and unresolved astronomical wording are taught before ethical and causal evaluation.
+
+**Teaching method:**
+
+- explanation: Species/life-stage distinctions and unresolved astronomical wording are taught before ethical and causal evaluation.
+- application: ['In this fictional record review, an orchard has gnawed fruit near a store and a patch of wilted beet plants. Photographs do not prove that the same animal caused both. The reviewer lists evidence needed for rodent identification separately from root inspection and specialist identification of a possible nematode. Existing records can then show whether damage is localized or recurring. No animal is caught, harmed or used to prepare a treatment.']
+- feedback: [{'question': 'How should the sugar-beet nematode be understood in this lesson?', 'options': ['A worm included in Steiner’s historical lower-animal argument, but not an insect in modern taxonomy.', 'A mammal governed by the identical field-mouse account.', 'A fungus inferred whenever a leaf wilts.'], 'answer': 0, 'explanation': 'Keep the historical conceptual grouping separate from actual organism identity and diagnosis.'}, {'question': 'Why is the proposed field-mouse indication not a universal insect treatment in the source?', 'options': ['All pests share one identical cosmic relationship.', 'Steiner distinguishes animal constitutions and cosmic relationships, then qualifies timing by species and life stage.', 'The lecture says insect identification is unnecessary.'], 'answer': 1, 'explanation': 'The mammal example, nematode account and insect discussion have distinct relationships and unresolved details.'}, {'type': 'reflection', 'question': 'What information would you need before interpreting root damage as a pest problem?', 'explanation': 'Separate symptoms from the organism’s identification. Include location, crop, life stage if known, environmental conditions and an appropriate diagnostic opinion before considering management.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Plant Disease
+
+[English](../../docs/biodynamics/lessons/19.html) · [Português](../../docs/pt/biodynamics/lessons/19.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does Steiner explain abnormal plant development after excessive wetness, and why is that different from his account of illness in animals?
+
+**Learning criterion:**
+
+Distinguish the plant abnormality account from animal illness
+
+**Essential concepts:**
+
+- Wet winter and spring provide more water in the soil.
+- Within Steiner’s account, water mediates excessive lunar enlivening.
+- Formative activity begins too low instead of reaching its proper culmination in seed formation.
+- The upper plant becomes a figurative second ground for parasites and fungi.
+- Horsetail is intended to moderate the mediation and restore the developmental relationship.
+
+**Prerequisite:**
+
+Etheric/internal-astral distinction
+
+**Connections:**
+
+- Moon, Sun, Planets and Agricultural Rhythms gathers the different timing relationships without turning this disease account into a universal calendar rule.
+
+**Misconception and feedback:**
+
+- The source confidently asserts this developmental explanation and invites testing of horsetail. It supplies no reviewed evidence here that one preparation cures all plant diseases. The later label 508 does not expand that scope. A wet season and visible symptoms establish a sequence of observations; they cannot alone determine the pathogen, treatment effect or claimed cosmic cause.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The constitution table explains the difference and the modern-context paragraph keeps symptoms distinct from pathogen diagnosis.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The constitution table explains the difference and the modern-context paragraph keeps symptoms distinct from pathogen diagnosis.
+
+**Teaching method:**
+
+- explanation: The constitution table explains the difference and the modern-context paragraph keeps symptoms distinct from pathogen diagnosis.
+- application: ['In this fictional comparison, archived records show mildew on cereal plants in a low-lying patch after a wet spring, with fewer symptoms higher on the slope. The observer records both patterns and checks whether a diagnosis was made. The location difference is compatible with several moisture-related explanations. It illustrates the question Steiner raises, but does not show that a second ground-level or excessive lunar force was present.']
+- feedback: [{'question': 'What is the direction of the imbalance in Steiner’s wet-season disease account?', 'options': ['Too little water-mediated lunar activity is always the problem.', 'The plant acquires the same internal astral body as an animal.', 'Excessive lunar vitality causes formative activity to begin too low and disrupt proper seed development.'], 'answer': 2, 'explanation': 'Steiner explicitly stresses excessive rather than insufficient lunar activity; the second ground-level is a figurative consequence.'}, {'question': 'How should the horsetail indication be distinguished from modern diagnosis?', 'options': ['It is an attributed attempt to moderate water-mediated lunar excess, while actual symptoms still need appropriate diagnosis.', 'It establishes that every visible mildew has one cause and one cure.', 'The name 508 proves a current certification requirement.'], 'answer': 0, 'explanation': 'Preserve the intended role without treating the spiritual account, a symptom name or later numbering as verified clinical or field evidence.'}, {'type': 'reflection', 'question': 'What would you need to record before interpreting mildew after rain?', 'explanation': 'Identify the crop and growth stage, location, moisture conditions, symptoms and any confirmed diagnosis. Separate that record from Steiner’s explanation and from any proposed treatment effect.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Moon, Sun, Planets and Agricultural Rhythms
+
+[English](../../docs/biodynamics/lessons/20.html) · [Português](../../docs/pt/biodynamics/lessons/20.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What relationships do agricultural rhythms serve in the lectures, and which calendar rules cannot be inferred from them?
+
+**Learning criterion:**
+
+Separate astronomical cycles, source indications and later calendars
+
+**Essential concepts:**
+
+- Water, warmth, soil and living constitutions provide particular agricultural conditions
+- Steiner relates different lunar or planetary activities to those mediators
+- Changing seasonal or astronomical conditions are proposed to alter the interactions
+- Reproduction, perennial development or animal conditions respond according to the particular attributed relationship
+- Agricultural timing is intended to coordinate management with that particular process
+
+**Prerequisite:**
+
+Water/warmth and organism-specific mediation
+
+**Connections:**
+
+- Biodynamics and Organic Agriculture begins Part VI by comparing agricultural approaches in the present, carrying forward the distinction between historical indications, later practice and evidence.
+
+**Misconception and feedback:**
+
+- Gardner’s notes distinguish the tropical sign Scorpio from the visible Scorpion constellation. He records that Vreede’s 1924 interval roughly fits the tropical sign, although she later interpreted Steiner as referring to sidereal constellations. That tension is retained. The Venus-behind-the-Sun wording and the extended full/new-moon periods also require care; the German Moon-period wording is noted as ambiguous. These unresolved passages do not justify invented present-day dates or one harmonized universal schedule.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The rhythm table limits what can be inferred, including Central European seasons and unresolved Venus wording.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The rhythm table limits what can be inferred, including Central European seasons and unresolved Venus wording.
+
+**Teaching method:**
+
+- explanation: The rhythm table limits what can be inferred, including Central European seasons and unresolved Venus wording.
+- application: ['In this fictional record exercise, two sowings occurred on different lunar dates, but also after different rainfall and at different soil temperatures. Germination differed. The record establishes that the conditions and outcomes differed; it cannot isolate lunar timing. A calendar entry may help organize the record, but it does not erase the differences in soil, seed batch, moisture or crop stage.']
+- feedback: [{'question': 'Which relationship is actually distinguished in Lecture 1?', 'options': ['Moon, Venus and Saturn have identical effects through every substance.', 'Moon influence is related to water, while distant-planet influences through silica are related to warmth.', 'All rhythms are defined as modern root, leaf, flower and fruit calendar days.'], 'answer': 1, 'explanation': 'The source differentiates mediators and formative roles rather than supply the later complete day-category system.'}, {'question': 'How should the June 16 timing answers be attributed?', 'options': ['Every interval is Steiner’s final instruction for all future years.', 'Vreede’s answer proves that sign and constellation are identical.', 'Vreede supplies provisional, year-specific calculations; Steiner separately discusses greater calendar precision, and editorial notes record unresolved issues.'], 'answer': 2, 'explanation': 'The speaker, historical year and editorial layer all matter. None supplies verified current dates.'}, {'type': 'reflection', 'question': 'What should a record contain before someone interprets different germination as a lunar-date effect?', 'explanation': 'Include seed batch, soil and air conditions, moisture, sowing method, crop and dates. Record the astronomical label separately and consider the other differences before assigning a cause.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Biodynamics and Organic Agriculture
+
+[English](../../docs/biodynamics/lessons/21.html) · [Português](../../docs/pt/biodynamics/lessons/21.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Which relationships do biodynamic and organic farming share, and what kind of claim does current Demeter certification add?
+
+**Learning criterion:**
+
+Separate shared practice, spiritual account and certification
+
+**Essential concepts:**
+
+- Growers work with soil, plants, animals and material returns in particular places
+- A historical or practical framework explains how these relationships should be cared for
+- A current certification standard specifies applicable requirements
+- Inspection assesses compliance with that standard
+- Research asks separate questions about measured outcomes and causes
+
+**Prerequisite:**
+
+Whole-farm cycle and historical/later layers
+
+**Connections:**
+
+- What Does Modern Research Study? turns from standards to evidence about outcomes. The next lesson asks what a long-term system comparison actually measures.
+
+**Misconception and feedback:**
+
+- Use the 2026 Demeter text with its section scope, national details and exemptions. Certification is evidence of assessed compliance; crop response is a different claim. Similar management on two farms does not establish either equal outcomes or a spiritual cause, and different labels do not demonstrate superiority.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Compliance records are distinguished from outcomes; the inherited standard version is identified rather than treated as timeless.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Compliance records are distinguished from outcomes; the inherited standard version is identified rather than treated as timeless.
+
+**Teaching method:**
+
+- explanation: Compliance records are distinguished from outcomes; the inherited standard version is identified rather than treated as timeless.
+- application: ['The fictional Riverside Farm compares its existing manure-return map with a nearby fictional organic vegetable holding. Both document plant residues and outside inputs. Riverside also records preparation use; the vegetable grower explains fertility through soil functions and does not claim Steiner’s spiritual account. Their labels alone reveal neither yield nor soil condition. To compare certification, the learners identify the actual standard and version; to compare outcomes, they need defined observations and comparable conditions. The case leaves differences visible without turning them into a competition.']
+- feedback: [{'question': 'What does a current Demeter certification record primarily establish?', 'options': ['That a measured crop improvement was caused by a spiritual activity', 'Compliance assessed against the applicable standard and certification process', 'That every organic farm follows identical practices'], 'answer': 1, 'explanation': 'A certification record concerns compliance. Outcomes and causal explanations require evidence answering different questions.'}, {'question': 'How should Appendix 8 and section 6.2 of the reviewed 2026 standard be related?', 'options': ['Every Appendix 8 suggestion is automatically mandatory', 'Neither has any relationship to certification', 'Appendix 8 gives recommended production guidance; section 6.2 states required preparation measures, with its scope and exemptions'], 'answer': 2, 'explanation': 'Appendix 8 explicitly states this distinction. Keep recommendations, mandatory measures and exemptions identifiable.'}, {'type': 'reflection', 'question': 'Compare two farms that both return organic matter but explain their practice differently. Which questions require a standard, a material record or a research comparison?', 'explanation': 'Use the standard and version for compliance, origins and destinations for material relationships, and defined measured outcomes for research. Attribute Steiner’s additional explanation without assuming shared practice implies shared belief or equal results.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What Does Modern Research Study?
+
+[English](../../docs/biodynamics/lessons/22.html) · [Português](../../docs/pt/biodynamics/lessons/22.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+When research compares agricultural systems, what exactly is measured, over what period, and against which comparison?
+
+**Learning criterion:**
+
+Describe a research comparison using units and duration
+
+**Essential concepts:**
+
+- A defined agricultural question determines which outcome matters
+- Described treatments and comparison conditions establish what differs
+- Measurements specify units, sampling depth, timing and methods
+- Replicates and repeated periods reveal variation and persistence
+- The result is interpreted within that design before being applied elsewhere
+
+**Prerequisite:**
+
+Outcomes versus proposed mechanisms
+
+**Connections:**
+
+- What Evidence Does and Does Not Establish asks how a measured difference becomes a justified causal claim, and where the argument must stop.
+
+**Misconception and feedback:**
+
+- Replication and duration strengthen a defined comparison; they do not remove every limit of site, scale or management. Plot biodiversity also has movement and seed-dispersal limits (FiBL dossier, position 37). Distinguish measured outcome, statistical variation, practical importance and the further claim about what caused the outcome.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The study-design example includes depth, dry-matter basis and sampling; rereading is not replication.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The study-design example includes depth, dry-matter basis and sampling; rereading is not replication.
+
+**Teaching method:**
+
+- explanation: The study-design example includes depth, dry-matter basis and sampling; rereading is not replication.
+- application: ['For a fictional Riverside study proposal, learners first ask whether a change concerns soil structure, harvested yield or labour costs. They write a different record for each: an identified structural assessment, harvest dry matter per area, or recorded hours and named expenses. They include dates, weather and comparison areas. No result is invented. This exercise shows why “better farming” is too broad to serve as a measurement, and why a favourable soil indicator need not imply a larger harvest or an improved financial margin.']
+- feedback: [{'question': 'What should be checked before interpreting a DOK system difference as a preparation effect?', 'options': ['Whether the word biodynamic appears in the treatment name', 'The preparation’s later number alone', 'The treatments, manure processing, nutrient inputs, protection practices and control conditions'], 'answer': 2, 'explanation': 'DOK compares packages with several co-varying features. The treatment description is needed to understand what the contrast can establish.'}, {'question': 'Why do carbon sampling depth and yield moisture basis matter?', 'options': ['They define the measured quantity and prevent comparing unlike results', 'They automatically prove a spiritual mechanism', 'They make replication and duration unnecessary'], 'answer': 0, 'explanation': 'A stock at a stated depth differs from an unspecified concentration, and dry-matter yield differs from fresh or moist yield. Units and methods are part of the evidence.'}, {'type': 'reflection', 'question': 'Turn the question “Is this farm better?” into two researchable questions with distinct outcomes and records.', 'explanation': 'For example, specify yield per area for a named crop and period, then soil carbon at a named depth with baseline and later samples. State the comparison, methods and variation; do not let one favourable outcome answer every other question.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What Evidence Does and Does Not Establish
+
+[English](../../docs/biodynamics/lessons/23.html) · [Português](../../docs/pt/biodynamics/lessons/23.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+When an outcome changes, what supports a claim about the cause, and what remains a further explanation?
+
+**Learning criterion:**
+
+Distinguish package effects from component causation
+
+**Essential concepts:**
+
+- A management contrast changes one factor or a whole package
+- Defined observations describe the resulting outcomes
+- Comparison and replication reveal differences alongside variability
+- The design determines how specifically a cause may be attributed
+- A proposed mechanism remains a further explanation requiring its own support
+
+**Prerequisite:**
+
+Study design, comparison and measurements
+
+**Connections:**
+
+- Biodynamics as a Whole brings these distinctions back to the connected farm model. The final lesson asks how to make a living-place portrait that preserves both relationships and evidence boundaries.
+
+**Misconception and feedback:**
+
+- An observation, a system-level difference, a factor-specific effect and a spiritual explanation are four distinguishable claims. Evidence can be informative without answering all four. An uncertainty statement should identify what the design cannot separate or what remains unmeasured, rather than turn into either a universal endorsement or a universal rejection.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The changed-factors example makes the confounding step explicit; a favourable average cannot establish a spiritual mechanism.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The changed-factors example makes the confounding step explicit; a favourable average cannot establish a spiritual mechanism.
+
+**Teaching method:**
+
+- explanation: The changed-factors example makes the confounding step explicit; a favourable average cannot establish a spiritual mechanism.
+- application: ['On the fictional Riverside Farm, one bed receives differently processed compost and a preparation while another keeps its earlier manure practice. The first bed looks stronger after a wetter season. The grower can record the changes and investigate them, but cannot call this an isolated preparation effect. On paper, the learner redesigns the comparison: identify the question, maintain comparable manure and other care, document allocation and record the same defined outcome. No experimental result is supplied. The example shows how the question changes what counts as a useful control.']
+- feedback: [{'question': 'What can a DOK BIODYN–BIOORG difference most directly address?', 'options': ['The measured contrast between the described management systems', 'The preparation effect isolated from manure and nutrient differences', 'The direct measurement of astrality'], 'answer': 0, 'explanation': 'The comparison includes several management differences. Its result belongs to the whole-system contrast and defined outcome.'}, {'question': 'If a well-matched, replicated hypothetical trial supports an effect of a named preparation contrast, what follows?', 'options': ['Every claim about cosmic or etheric action is thereby verified', 'Every crop and climate must produce the same result', 'The effect is supported within the tested conditions; its proposed mechanism remains a further question'], 'answer': 2, 'explanation': 'A more specific design can support a more specific effect claim. It does not automatically establish the mechanism or transfer the outcome universally.'}, {'type': 'reflection', 'question': 'Explain the difference between “the bed changed,” “the treatment caused the change,” and “the change occurred through an etheric process.”', 'explanation': 'The first describes an outcome. The second needs a comparison that separates the treatment from alternatives. The third adds a mechanism claim requiring its own support. State what the available records establish and where uncertainty remains.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Biodynamics as a Whole
+
+[English](../../docs/biodynamics/lessons/24.html) · [Português](../../docs/pt/biodynamics/lessons/24.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How do soil, plants, animals, landscape, fertility, rhythms and human work form one understandable agricultural relationship?
+
+**Learning criterion:**
+
+Synthesize a farm portrait with observable and interpreted layers
+
+**Essential concepts:**
+
+- A particular place mediates soil, water, warmth and the plant’s environment
+- Plant growth connects that environment with food, feed and residues
+- Animals and landscape participate in the proposed living relationships
+- Manure and optional compost routes reconnect organic material with soil
+- Preparations and problem-specific indications are proposed within continuing agricultural care
+- New growth, human work and recorded outside flows reshape the next cycle
+
+**Prerequisite:**
+
+Soil, plant, animal, fertility and evidence lessons
+
+**Connections:**
+
+- Portrait of a Living Place turns the course’s connected model into a sustained practice of attention. The part synthesis then relates historical understanding, later development and measured evidence to the questions the portrait leaves open.
+
+**Misconception and feedback:**
+
+- A whole model can be coherently reconstructed without claiming every proposed cause is established. A portrait should mark missing inputs, unidentified organisms and uncertain destinations. Historical source understanding, later certification and research each contribute different information; none should silently supply what another layer has not established.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The worked whole-farm explanation integrates material returns, conditions and human work; three visits are not a long-term carbon study.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The worked whole-farm explanation integrates material returns, conditions and human work; three visits are not a long-term carbon study.
+
+**Teaching method:**
+
+- explanation: The worked whole-farm explanation integrates material returns, conditions and human work; three visits are not a long-term carbon study.
+- application: ['The fictional Riverside Farm cannot be understood from its preparation list alone. A dry season changes hay supply and introduces purchased feed; animal manure still returns toward soil, while vegetable sales carry products outward. The orchard shades one edge and supports observed animal life. The grower records these relationships before interpreting them through Steiner’s model. This makes the farm individuality concrete: dependencies and limitations remain visible. It does not calculate spiritual forces from a diagram or make the holding a sealed system.']
+- feedback: [{'question': 'What makes a living-place portrait a reconstruction of the whole model?', 'options': ['Listing preparation names without their agricultural relationships', 'Showing reciprocal conditions and flows, alongside the attributed interpretation and its limits', 'Claiming that every outside input makes the place a failure'], 'answer': 1, 'explanation': 'The whole consists of connections among conditions, plants, animals, landscape, fertility and work. The economic qualification and evidence distinctions remain part of that account.'}, {'question': 'What can three dated visits establish in the final project?', 'options': ['A documented sequence of observations and questions, with changing conditions', 'A verified long-term carbon-stock increase without sampling', 'Direct measurement of etheric life and cosmic causation'], 'answer': 0, 'explanation': 'Three visits create a useful longitudinal record. They do not replace a defined carbon study or measure the proposed spiritual activity.'}, {'type': 'reflection', 'question': 'Reconstruct one relationship from soil to plants, animals or residues and back toward soil. Where do history, current practice and research enter?', 'explanation': 'Describe actual or documented flows and unknowns. Explain Steiner’s proposed interpretation separately, cite a current standard only for its applicable requirement, and use measured research for the outcome it actually addresses.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
 
 ## Reading the collection: Goethe, colour and artistic renewal
 
@@ -2695,6 +5091,2144 @@ Fresh fidelity to original witnesses remains unverified; pedagogical review does
 **Source limit:**
 
 Existing Koepke notes only. Peter/Monica are constructed scenes; Holtzapfel is a separately signed contributor; quoted Steiner passages are mediated through Koepke. Earlier recovered diagram/capture claims are retained, not independently reverified here.
+
+## Why does Cook begin with her own kitchen?
+
+[English](../../docs/foodwise/lessons/01.html) · [Português](../../docs/pt/foodwise/lessons/01.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Cook begin with her own kitchen?
+
+**Learning criterion:**
+
+Explain how biography generates inquiry without proving health claims
+
+**Essential concepts:**
+
+A child gleans missed peas, watches a compost heap become dark soil, and later discovers how a meal can bring strangers into conversation. Cook’s introduction makes these ordinary experiences the beginning of her inquiry.
+
+**Prerequisite:**
+
+Everyday meal experience
+
+**Connections:**
+
+The same connection can begin with a pot of soup made from vegetables already at home. Understanding need not start with costly equipment or unusual ingredients.
+
+**Misconception and feedback:**
+
+It shows how observation and practical work generated Cook’s questions about quality and community. Her experiences explain the inquiry, but do not prove every health claim.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The kitchen/Emerson narrative gives practical judgment a role and limits personal testimony.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The kitchen/Emerson narrative gives practical judgment a role and limits personal testimony.
+
+**Teaching method:**
+
+- explanation: The kitchen/Emerson narrative gives practical judgment a role and limits personal testimony.
+- application: The same connection can begin with a pot of soup made from vegetables already at home. Understanding need not start with costly equipment or unusual ingredients.
+- feedback: It shows how observation and practical work generated Cook’s questions about quality and community. Her experiences explain the inquiry, but do not prove every health claim.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What changes when people begin to cultivate food?
+
+[English](../../docs/foodwise/lessons/02.html) · [Português](../../docs/pt/foodwise/lessons/02.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What changes when people begin to cultivate food?
+
+**Learning criterion:**
+
+Explain cultivation as changed relationships with place and time
+
+**Essential concepts:**
+
+A grain can be gathered today, stored for another season, or saved as seed. Each choice creates a different relationship with the future.
+
+**Prerequisite:**
+
+Biography versus general evidence
+
+**Connections:**
+
+Saving seed and planning tomorrow’s lunch both involve anticipating a need, although they operate at different scales.
+
+**Misconception and feedback:**
+
+It separates harvest from immediate consumption and helps support a stable community and a division of work.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The teaching connects settled cultivation with work and community instead of reducing it to a date list.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The teaching connects settled cultivation with work and community instead of reducing it to a date list.
+
+**Teaching method:**
+
+- explanation: The teaching connects settled cultivation with work and community instead of reducing it to a date list.
+- application: Saving seed and planning tomorrow’s lunch both involve anticipating a need, although they operate at different scales.
+- feedback: It separates harvest from immediate consumption and helps support a stable community and a division of work.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What does the Persian plough story teach?
+
+[English](../../docs/foodwise/lessons/03.html) · [Português](../../docs/pt/foodwise/lessons/03.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What does the Persian plough story teach?
+
+**Learning criterion:**
+
+Interpret the Persian plough story as a cultural account
+
+**Essential concepts:**
+
+In the legend Cook retells, Yima receives tools and a charge to care for the earth. Cultivation is presented as a responsibility, not simply a way to obtain more food.
+
+**Prerequisite:**
+
+Cultivation and narrative interpretation
+
+**Connections:**
+
+A garden boundary can protect a crop, but it also creates questions about access, shared water and neighbours.
+
+**Misconception and feedback:**
+
+A myth can convey meanings and recurring relationships. A dated settlement requires archaeological evidence. Cook brings both into her narrative, and their roles should remain distinct.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The story is used to explain purposeful earth-work while its spiritual/historical status stays attributed.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The story is used to explain purposeful earth-work while its spiritual/historical status stays attributed.
+
+**Teaching method:**
+
+- explanation: The story is used to explain purposeful earth-work while its spiritual/historical status stays attributed.
+- application: A garden boundary can protect a crop, but it also creates questions about access, shared water and neighbours.
+- feedback: A myth can convey meanings and recurring relationships. A dated settlement requires archaeological evidence. Cook brings both into her narrative, and their roles should remain distinct.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Why does the Nile belong in a story about bread?
+
+[English](../../docs/foodwise/lessons/04.html) · [Português](../../docs/pt/foodwise/lessons/04.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does the Nile belong in a story about bread?
+
+**Learning criterion:**
+
+Connect water, grain and organized work
+
+**Essential concepts:**
+
+Bread begins before the bakery: water, soil, sowing and harvest set the conditions for the flour. Cook’s Egyptian story makes this connection vivid.
+
+**Prerequisite:**
+
+Cultivation and collective work
+
+**Connections:**
+
+A modern flour packet conceals much of this work. Asking how it reached the shelf restores part of the loaf’s biography.
+
+**Misconception and feedback:**
+
+It joins seasonal agriculture with milling, fermentation, cooking and shared work.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The Nile explanation links bread with seasonal conditions and human organization, making the historical connection intelligible.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The Nile explanation links bread with seasonal conditions and human organization, making the historical connection intelligible.
+
+**Teaching method:**
+
+- explanation: The Nile explanation links bread with seasonal conditions and human organization, making the historical connection intelligible.
+- application: A modern flour packet conceals much of this work. Asking how it reached the shelf restores part of the loaf’s biography.
+- feedback: It joins seasonal agriculture with milling, fermentation, cooking and shared work.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Why tell the story of Demeter and Persephone?
+
+[English](../../docs/foodwise/lessons/05.html) · [Português](../../docs/pt/foodwise/lessons/05.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why tell the story of Demeter and Persephone?
+
+**Learning criterion:**
+
+Explain the seasonal meaning of Demeter and Persephone
+
+**Essential concepts:**
+
+A seed disappears into the earth and later returns as a plant. Cook uses a familiar myth to invite attention to this rhythm of disappearance and return.
+
+**Prerequisite:**
+
+Myth as meaningful narrative
+
+**Connections:**
+
+A jar of grain looks static, but it carries a history of ripening and a potential for new growth.
+
+**Misconception and feedback:**
+
+It expresses cultural meaning and the rhythm of life, loss and renewal. A nutrient table answers a different question about composition.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Seasonal loss and return are interpreted without presenting myth as empirical agricultural history.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Seasonal loss and return are interpreted without presenting myth as empirical agricultural history.
+
+**Teaching method:**
+
+- explanation: Seasonal loss and return are interpreted without presenting myth as empirical agricultural history.
+- application: A jar of grain looks static, but it carries a history of ripening and a potential for new growth.
+- feedback: It expresses cultural meaning and the rhythm of life, loss and renewal. A nutrient table answers a different question about composition.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What do banquets and monasteries reveal about food?
+
+[English](../../docs/foodwise/lessons/06.html) · [Português](../../docs/pt/foodwise/lessons/06.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What do banquets and monasteries reveal about food?
+
+**Learning criterion:**
+
+Compare what banquets and monasteries organize
+
+**Essential concepts:**
+
+A display of extravagant dishes and a garden worked through the seasons represent different ways of organizing a meal.
+
+**Prerequisite:**
+
+Food and community
+
+**Connections:**
+
+A family celebration can be generous without making abundance a competition. Passing on a technique may matter as much as serving a spectacular dish.
+
+**Misconception and feedback:**
+
+How social arrangements and values shape food, labour, hospitality and the survival of practical knowledge.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The contrast teaches status, hospitality, discipline and shared work rather than listing institutions.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The contrast teaches status, hospitality, discipline and shared work rather than listing institutions.
+
+**Teaching method:**
+
+- explanation: The contrast teaches status, hospitality, discipline and shared work rather than listing institutions.
+- application: A family celebration can be generous without making abundance a competition. Passing on a technique may matter as much as serving a spectacular dish.
+- feedback: How social arrangements and values shape food, labour, hospitality and the survival of practical knowledge.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## How did flavour change the world of trade?
+
+[English](../../docs/foodwise/lessons/07.html) · [Português](../../docs/pt/foodwise/lessons/07.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How did flavour change the world of trade?
+
+**Learning criterion:**
+
+Explain flavour as a motive in trade and power
+
+**Essential concepts:**
+
+A clove is tiny, yet the demand for spices helped shape trade routes and voyages. The size of an ingredient does not measure its historical importance.
+
+**Prerequisite:**
+
+Food practices have social organization
+
+**Connections:**
+
+In Brazil, cinnamon in a fruit dish and cloves in a festive preparation connect familiar cooking with distant plant histories.
+
+**Misconception and feedback:**
+
+The first explains what is being used; the second explains how its flavour, value and availability became part of a cuisine.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The spice account links desire for flavour to transport and exchange, with the wider consequences visible.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The spice account links desire for flavour to transport and exchange, with the wider consequences visible.
+
+**Teaching method:**
+
+- explanation: The spice account links desire for flavour to transport and exchange, with the wider consequences visible.
+- application: In Brazil, cinnamon in a fruit dish and cloves in a festive preparation connect familiar cooking with distant plant histories.
+- feedback: The first explains what is being used; the second explains how its flavour, value and availability became part of a cuisine.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What changed when food became an industrial product?
+
+[English](../../docs/foodwise/lessons/08.html) · [Português](../../docs/pt/foodwise/lessons/08.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What changed when food became an industrial product?
+
+**Learning criterion:**
+
+Distinguish preservation from combining ingredients industrially
+
+**Essential concepts:**
+
+A food can travel farther and last longer, yet the eater may know less about where it came from. Cook asks us to notice both sides of that change.
+
+**Prerequisite:**
+
+Trade, processing and food origin
+
+**Connections:**
+
+Compare frozen vegetables with a highly formulated snack by looking at their actual ingredients and preparation, not a single “processed” label.
+
+**Misconception and feedback:**
+
+Because Cook values some transformations. Each technique changes food differently and must be examined in its context.
+
+**Identified conceptual gap:**
+
+Add a concrete freezing-versus-prepared-dish comparison so processing becomes an analysable change.
+
+**Gap addressed:**
+
+- {'file': 'content/foodwise/course.json', 'id': 8, 'field': 'connection', 'before': 'Compare frozen vegetables with a highly formulated snack by looking at their actual ingredients and preparation, not a single “processed” label.', 'beforePt': 'Compare legumes congelados e um lanche muito formulado pelos ingredientes e pelo preparo, não por um único rótulo de “processado”.', 'after': 'Compare two changes to a vegetable: freezing it for later use and combining it with other ingredients in a prepared dish. Both involve processing, but they change different things. The first comparison asks about storage and preparation; the second also asks about the resulting ingredient mixture. Naming the operation makes Cook’s question answerable: what work is saved, what properties change, and who benefits? A single processed/unprocessed label cannot supply those answers.', 'pt': 'Compare duas mudanças num legume: congelá-lo para uso posterior e combiná-lo com outros ingredientes num prato pronto. Ambas envolvem processamento, mas mudam coisas diferentes. A primeira comparação pergunta sobre conservação e preparo; a segunda também pergunta sobre a mistura resultante. Nomear a operação torna a questão de Cook investigável: que trabalho se poupa, que propriedades mudam e quem se beneficia? Um rótulo único de processado ou não processado não fornece essas respostas.', 'reason': 'Complete a comparison of named processes rather than simply instructing a package comparison.'}
+
+**Teaching method:**
+
+- explanation: Add a concrete freezing-versus-prepared-dish comparison so processing becomes an analysable change.
+- application: Compare frozen vegetables with a highly formulated snack by looking at their actual ingredients and preparation, not a single “processed” label.
+- feedback: Because Cook values some transformations. Each technique changes food differently and must be examined in its context.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What does it mean to feed the soil?
+
+[English](../../docs/foodwise/lessons/09.html) · [Português](../../docs/pt/foodwise/lessons/09.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What does it mean to feed the soil?
+
+**Learning criterion:**
+
+Explain the soil–food connection without equating frameworks
+
+**Essential concepts:**
+
+Cook’s childhood compost heap changed scraps into material that could support another season’s growth. Waste and nourishment were not separate worlds.
+
+**Prerequisite:**
+
+Cultivation and fertility
+
+**Connections:**
+
+A vegetable’s story includes the soil that supported it, not only the fertilizer named on a bag.
+
+**Misconception and feedback:**
+
+Because she emphasizes interactions, structure and ongoing transformation that support the plant, rather than an ingredient list alone.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The soil argument distinguishes compost relationships from additional anthroposophical interpretation.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The soil argument distinguishes compost relationships from additional anthroposophical interpretation.
+
+**Teaching method:**
+
+- explanation: The soil argument distinguishes compost relationships from additional anthroposophical interpretation.
+- application: A vegetable’s story includes the soil that supported it, not only the fertilizer named on a bag.
+- feedback: Because she emphasizes interactions, structure and ongoing transformation that support the plant, rather than an ingredient list alone.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## How does a biodynamic farm become an organism?
+
+[English](../../docs/foodwise/lessons/10.html) · [Português](../../docs/pt/foodwise/lessons/10.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does a biodynamic farm become an organism?
+
+**Learning criterion:**
+
+Trace the farm circuit and distinguish shopping labels
+
+**Essential concepts:**
+
+Imagine crops, livestock, compost, water and hedgerows as parts of one working whole. That is the starting image Cook uses.
+
+**Prerequisite:**
+
+Soil and fertility returns
+
+**Connections:**
+
+A whole-grain product need not be organic, and an organic product need not be whole grain. The labels answer different questions.
+
+**Misconception and feedback:**
+
+It focuses on exchanges, dependence and the farm’s individual context, including the spiritual relationships Cook attributes to it.
+
+**Identified conceptual gap:**
+
+Replace a generic connection with material flow and separate wholegrain, organic and fresh questions.
+
+**Gap addressed:**
+
+- {'file': 'content/foodwise/course.json', 'id': 10, 'field': 'connection', 'before': 'A whole-grain product need not be organic, and an organic product need not be whole grain. The labels answer different questions.', 'beforePt': 'Um produto integral não precisa ser orgânico, e um orgânico não precisa ser integral. Os rótulos respondem a perguntas distintas.', 'after': 'A field supplies fodder to animals; manure returns toward the soil; crops leave as food. Those arrows explain why the parts belong together, while an imported feed arrow makes the boundary permeable. Cook adds a spiritual interpretation of this individuality. By contrast, whole-grain describes what milling retains, organic concerns a different production dimension, and freshness concerns time and condition. One product can answer those questions differently; none of the labels alone explains the entire farm or meal.', 'pt': 'Um campo fornece forragem aos animais; o esterco retorna ao solo; as culturas saem como alimento. Essas setas explicam por que as partes se relacionam, enquanto uma seta de ração comprada torna a fronteira permeável. Cook acrescenta uma interpretação espiritual dessa individualidade. Já integral descreve o que a moagem conserva, orgânico diz respeito a outra dimensão da produção e frescor envolve tempo e condição. Um produto pode responder diferentemente a essas perguntas; nenhum rótulo sozinho explica toda a fazenda ou refeição.', 'reason': 'Connect a worked farm flow with the distinct dimensions hidden by quality labels.'}
+
+**Teaching method:**
+
+- explanation: Replace a generic connection with material flow and separate wholegrain, organic and fresh questions.
+- application: A whole-grain product need not be organic, and an organic product need not be whole grain. The labels answer different questions.
+- feedback: It focuses on exchanges, dependence and the farm’s individual context, including the spiritual relationships Cook attributes to it.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Can a shopper share responsibility for a harvest?
+
+[English](../../docs/foodwise/lessons/11.html) · [Português](../../docs/pt/foodwise/lessons/11.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Can a shopper share responsibility for a harvest?
+
+**Learning criterion:**
+
+Explain shared responsibility beyond buying a product
+
+**Essential concepts:**
+
+In community-supported agriculture, the harvest is not merely a product that appears on a shelf. The eater enters a continuing relationship with a farm.
+
+**Prerequisite:**
+
+Farm cycle and harvest uncertainty
+
+**Connections:**
+
+At a Brazilian feira, asking what is in season is a small way to connect the meal with local work and conditions.
+
+**Misconception and feedback:**
+
+It recognizes farming as a living process with uncertainty, rather than expecting the producer alone to absorb every loss.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The subscription/harvest relationship explains shared risk rather than treating ethical shopping as a guarantee.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The subscription/harvest relationship explains shared risk rather than treating ethical shopping as a guarantee.
+
+**Teaching method:**
+
+- explanation: The subscription/harvest relationship explains shared risk rather than treating ethical shopping as a guarantee.
+- application: At a Brazilian feira, asking what is in season is a small way to connect the meal with local work and conditions.
+- feedback: It recognizes farming as a living process with uncertainty, rather than expecting the producer alone to absorb every loss.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What does the fourfold human being mean here?
+
+[English](../../docs/foodwise/lessons/12.html) · [Português](../../docs/pt/foodwise/lessons/12.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What does the fourfold human being mean here?
+
+**Learning criterion:**
+
+Distinguish four aspects of one eating experience
+
+**Essential concepts:**
+
+A meal involves a body, a living rhythm, sensations and someone who chooses. Cook uses the fourfold account to keep these aspects in view.
+
+**Prerequisite:**
+
+Ordinary sensation, life and self-directed activity
+
+**Connections:**
+
+The same food can be part of a hurried refuelling break or an attentive shared meal. Cook wants that difference included in the question of nourishment.
+
+**Misconception and feedback:**
+
+They describe interacting organizations in Cook’s anthroposophical framework, rather than an anatomical inventory.
+
+**Identified conceptual gap:**
+
+Bread supplies one coherent physical/etheric/astral/I example; no invisible aspect is claimed as measured.
+
+**Gap addressed:**
+
+- {'file': 'content/foodwise/course.json', 'id': 12, 'field': 'connection', 'before': 'The same food can be part of a hurried refuelling break or an attentive shared meal. Cook wants that difference included in the question of nourishment.', 'beforePt': 'O mesmo alimento pode integrar um abastecimento apressado ou uma refeição compartilhada com atenção. Cook quer incluir essa diferença na alimentação.', 'after': 'Consider someone preparing and sharing bread. The physical account describes materials and bodily actions; Cook’s etheric account asks about living formation and rhythm; the astral account concerns aroma, pleasure and desire; the I concerns a person’s choice to prepare and share. These are readings of the same event, not four separate courses in a meal. The example helps organize the vocabulary without claiming that a pleasant aroma measures an astral body or that a regular mealtime proves etheric activity.', 'pt': 'Considere alguém preparando e compartilhando pão. A descrição física trata dos materiais e atos corporais; a descrição etérica de Cook pergunta pela formação viva e pelo ritmo; a astral trata do aroma, prazer e desejo; o Eu diz respeito à escolha de preparar e compartilhar. São leituras do mesmo acontecimento, não quatro pratos separados numa refeição. O exemplo organiza o vocabulário sem afirmar que um aroma agradável mede um corpo astral ou que um horário regular comprova atividade etérica.', 'reason': 'Apply all four terms to one event and explain their coexistence, with no subtle-body measurement claim.'}
+
+**Teaching method:**
+
+- explanation: Bread supplies one coherent physical/etheric/astral/I example; no invisible aspect is claimed as measured.
+- application: The same food can be part of a hurried refuelling break or an attentive shared meal. Cook wants that difference included in the question of nourishment.
+- feedback: They describe interacting organizations in Cook’s anthroposophical framework, rather than an anatomical inventory.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Why is digestion a transformation rather than a transfer?
+
+[English](../../docs/foodwise/lessons/13.html) · [Português](../../docs/pt/foodwise/lessons/13.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why is digestion a transformation rather than a transfer?
+
+**Learning criterion:**
+
+Explain digestion as active transformation
+
+**Essential concepts:**
+
+A slice of bread does not become an unchanged slice inside a person. Chewing and successive digestive processes change its form and relationships.
+
+**Prerequisite:**
+
+Fourfold account
+
+**Connections:**
+
+Cooking already begins some transformations outside the body. This connects the kitchen with the book’s discussion of inward work.
+
+**Misconception and feedback:**
+
+Separate the digestive sequence from Cook’s spiritual interpretation of assimilation, while explaining how she connects them.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The transfer-versus-transformation contrast gives the reader a reasoning step, with modern and spiritual meanings distinguished.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The transfer-versus-transformation contrast gives the reader a reasoning step, with modern and spiritual meanings distinguished.
+
+**Teaching method:**
+
+- explanation: The transfer-versus-transformation contrast gives the reader a reasoning step, with modern and spiritual meanings distinguished.
+- application: Cooking already begins some transformations outside the body. This connects the kitchen with the book’s discussion of inward work.
+- feedback: Separate the digestive sequence from Cook’s spiritual interpretation of assimilation, while explaining how she connects them.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## How do the senses prepare us for a meal?
+
+[English](../../docs/foodwise/lessons/14.html) · [Português](../../docs/pt/foodwise/lessons/14.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How do the senses prepare us for a meal?
+
+**Learning criterion:**
+
+Explain how perception enters the meal
+
+**Essential concepts:**
+
+The smell of bread can recall a place long before the first bite.
+
+**Prerequisite:**
+
+Digestion and lived eating
+
+**Connections:**
+
+Compare an apple’s aroma, surface and sound when cut. Describe observations before assigning meanings.
+
+**Misconception and feedback:**
+
+They shape attention, memory and the experience of eating, alongside the food itself.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The senses are connected to anticipation and attention; this is not a claim that attractive presentation ensures nutrition.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The senses are connected to anticipation and attention; this is not a claim that attractive presentation ensures nutrition.
+
+**Teaching method:**
+
+- explanation: The senses are connected to anticipation and attention; this is not a claim that attractive presentation ensures nutrition.
+- application: Compare an apple’s aroma, surface and sound when cut. Describe observations before assigning meanings.
+- feedback: They shape attention, memory and the experience of eating, alongside the food itself.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What questions does vegetarianism raise?
+
+[English](../../docs/foodwise/lessons/15.html) · [Português](../../docs/pt/foodwise/lessons/15.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What questions does vegetarianism raise?
+
+**Learning criterion:**
+
+Explain vegetarianism as a question of judgment
+
+**Essential concepts:**
+
+A food choice may begin with ethics, habit, cost, religion or taste.
+
+**Prerequisite:**
+
+Individuality and food transformation
+
+**Connections:**
+
+Ask what an ingredient label tells you, and what it leaves unanswered about the farm.
+
+**Misconception and feedback:**
+
+No. Production methods, breeding and care still need consideration.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Ethical/practical considerations and individual circumstances prevent a universal diet rule.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Ethical/practical considerations and individual circumstances prevent a universal diet rule.
+
+**Teaching method:**
+
+- explanation: Ethical/practical considerations and individual circumstances prevent a universal diet rule.
+- application: Ask what an ingredient label tells you, and what it leaves unanswered about the farm.
+- feedback: No. Production methods, breeding and care still need consideration.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Why begin with the grass plant?
+
+[English](../../docs/foodwise/lessons/16.html) · [Português](../../docs/pt/foodwise/lessons/16.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why begin with the grass plant?
+
+**Learning criterion:**
+
+Recognize the grass plant as the basis of grain foods
+
+**Essential concepts:**
+
+A cereal is a cultivated grass, not merely a packet of grain.
+
+**Prerequisite:**
+
+Plant parts and cultivation
+
+**Connections:**
+
+Look at a cereal plant photograph and locate root, stem, leaf and seed-bearing structure.
+
+**Misconception and feedback:**
+
+The production of additional shoots from the plant’s base.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Plant structure connects ordinary grain to its growing form rather than treating cereals as interchangeable packets.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Plant structure connects ordinary grain to its growing form rather than treating cereals as interchangeable packets.
+
+**Teaching method:**
+
+- explanation: Plant structure connects ordinary grain to its growing form rather than treating cereals as interchangeable packets.
+- application: Look at a cereal plant photograph and locate root, stem, leaf and seed-bearing structure.
+- feedback: The production of additional shoots from the plant’s base.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Why are there different forms of wheat?
+
+[English](../../docs/foodwise/lessons/17.html) · [Português](../../docs/pt/foodwise/lessons/17.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why are there different forms of wheat?
+
+**Learning criterion:**
+
+Distinguish wheat forms and their culinary consequences
+
+**Essential concepts:**
+
+Bread, pasta and cracked grain use wheat in different ways.
+
+**Prerequisite:**
+
+Grass and grain structure
+
+**Connections:**
+
+Compare the ingredient lists of pasta, wholemeal flour and cracked wheat.
+
+**Misconception and feedback:**
+
+No. Spelt is wheat and contains gluten; see the current guidance in Sources.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The account keeps crop variation and preparation linked; a name is not a nutritional ranking.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The account keeps crop variation and preparation linked; a name is not a nutritional ranking.
+
+**Teaching method:**
+
+- explanation: The account keeps crop variation and preparation linked; a name is not a nutritional ranking.
+- application: Compare the ingredient lists of pasta, wholemeal flour and cracked wheat.
+- feedback: No. Spelt is wheat and contains gluten; see the current guidance in Sources.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What changes when rice is polished?
+
+[English](../../docs/foodwise/lessons/18.html) · [Português](../../docs/pt/foodwise/lessons/18.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What changes when rice is polished?
+
+**Learning criterion:**
+
+Explain what polishing changes in rice
+
+**Essential concepts:**
+
+A grain’s colour can reveal part of its processing history.
+
+**Prerequisite:**
+
+Grain structure and processing
+
+**Connections:**
+
+Compare brown and white rice from the same variety if available.
+
+**Misconception and feedback:**
+
+Bran and germ, beyond the husk already removed.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The before/after grain description makes removal of layers concrete without inferring a universal diet prescription.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The before/after grain description makes removal of layers concrete without inferring a universal diet prescription.
+
+**Teaching method:**
+
+- explanation: The before/after grain description makes removal of layers concrete without inferring a universal diet prescription.
+- application: Compare brown and white rice from the same variety if available.
+- feedback: Bran and germ, beyond the husk already removed.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Where are maize flowers and seeds?
+
+[English](../../docs/foodwise/lessons/19.html) · [Português](../../docs/pt/foodwise/lessons/19.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Where are maize flowers and seeds?
+
+**Learning criterion:**
+
+Locate maize reproductive structures
+
+**Essential concepts:**
+
+Maize makes its flowering structures unusually easy to distinguish.
+
+**Prerequisite:**
+
+Grass-plant structure
+
+**Connections:**
+
+Find the tassel and ear in a photograph before looking at a bag of kernels.
+
+**Misconception and feedback:**
+
+No. They occupy different positions and have different roles in reproduction.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The spatial account of flowers and grain corrects a likely confusion between cob and the whole plant.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The spatial account of flowers and grain corrects a likely confusion between cob and the whole plant.
+
+**Teaching method:**
+
+- explanation: The spatial account of flowers and grain corrects a likely confusion between cob and the whole plant.
+- application: Find the tassel and ear in a photograph before looking at a bag of kernels.
+- feedback: No. They occupy different positions and have different roles in reproduction.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Why distinguish millet from sorghum?
+
+[English](../../docs/foodwise/lessons/20.html) · [Português](../../docs/pt/foodwise/lessons/20.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why distinguish millet from sorghum?
+
+**Learning criterion:**
+
+Distinguish millet and sorghum without collapsing names
+
+**Essential concepts:**
+
+Cook groups these grains in her sevenfold picture, but a grouping is not a botanical identity.
+
+**Prerequisite:**
+
+Grains and crop diversity
+
+**Connections:**
+
+Locate the exact grain name on a packet rather than relying on a general cereal label.
+
+**Misconception and feedback:**
+
+No. A symbolic grouping can include botanically distinct cereals.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The lesson addresses identification and culinary diversity; related everyday uses do not make species identical.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The lesson addresses identification and culinary diversity; related everyday uses do not make species identical.
+
+**Teaching method:**
+
+- explanation: The lesson addresses identification and culinary diversity; related everyday uses do not make species identical.
+- application: Locate the exact grain name on a packet rather than relying on a general cereal label.
+- feedback: No. A symbolic grouping can include botanically distinct cereals.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What does pearling do to barley?
+
+[English](../../docs/foodwise/lessons/21.html) · [Português](../../docs/pt/foodwise/lessons/21.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What does pearling do to barley?
+
+**Learning criterion:**
+
+Explain pearling as a process
+
+**Essential concepts:**
+
+Whole hulled barley and pearled barley can look similar but cook differently.
+
+**Prerequisite:**
+
+Grain layers and polishing
+
+**Connections:**
+
+Compare the packet descriptions before selecting a soup cooking time.
+
+**Misconception and feedback:**
+
+Additional outer layers have been abraded away.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The removal process connects barley form with preparation; the label is explained rather than merely defined.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The removal process connects barley form with preparation; the label is explained rather than merely defined.
+
+**Teaching method:**
+
+- explanation: The removal process connects barley form with preparation; the label is explained rather than merely defined.
+- application: Compare the packet descriptions before selecting a soup cooking time.
+- feedback: Additional outer layers have been abraded away.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## How do oats and rye enter everyday food?
+
+[English](../../docs/foodwise/lessons/22.html) · [Português](../../docs/pt/foodwise/lessons/22.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How do oats and rye enter everyday food?
+
+**Learning criterion:**
+
+Compare oats and rye through everyday uses
+
+**Essential concepts:**
+
+Porridge and dark bread reveal two different ways of using a grain.
+
+**Prerequisite:**
+
+Grain processing and preparation
+
+**Connections:**
+
+Compare a rolled oat with an intact grain: which presents more surface to water?
+
+**Misconception and feedback:**
+
+No. Both contain gluten.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Familiar foods carry the comparison; crop identity, processing and use remain distinct questions.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Familiar foods carry the comparison; crop identity, processing and use remain distinct questions.
+
+**Teaching method:**
+
+- explanation: Familiar foods carry the comparison; crop identity, processing and use remain distinct questions.
+- application: Compare a rolled oat with an intact grain: which presents more surface to water?
+- feedback: No. Both contain gluten.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## How can a grain rhythm remain creative?
+
+[English](../../docs/foodwise/lessons/23.html) · [Português](../../docs/pt/foodwise/lessons/23.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How can a grain rhythm remain creative?
+
+**Learning criterion:**
+
+Explain a grain rhythm without making it compulsory
+
+**Essential concepts:**
+
+A weekly pattern should make variety easier, rather than become another household burden.
+
+**Prerequisite:**
+
+Different grains and practical meal planning
+
+**Connections:**
+
+Choose two grains for a realistic week. Adapt the pattern to your household.
+
+**Misconception and feedback:**
+
+Following it rigidly without variety, attention or practical judgement.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The week pattern is framed as a creative organizing device, not a physiological necessity.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The week pattern is framed as a creative organizing device, not a physiological necessity.
+
+**Teaching method:**
+
+- explanation: The week pattern is framed as a creative organizing device, not a physiological necessity.
+- application: Choose two grains for a realistic week. Adapt the pattern to your household.
+- feedback: Following it rigidly without variety, attention or practical judgement.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What is the threefold plant picture?
+
+[English](../../docs/foodwise/lessons/24.html) · [Português](../../docs/pt/foodwise/lessons/24.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What is the threefold plant picture?
+
+**Learning criterion:**
+
+Separate plant-part identification from spiritual correspondence
+
+**Essential concepts:**
+
+A plant can be observed as root, leaf-and-stem region, and flower-and-fruit region.
+
+**Prerequisite:**
+
+Fourfold human account and plant structure
+
+**Connections:**
+
+Place a carrot, a leafy vegetable and an apple beside one another. Identify the parts before discussing correspondences.
+
+**Misconception and feedback:**
+
+No. It is an interpretive relationship in this framework.
+
+**Identified conceptual gap:**
+
+Add the root/leaf/fruit reasoning steps and explicitly stop before clinical inference.
+
+**Gap addressed:**
+
+- {'file': 'content/foodwise/course.json', 'id': 24, 'field': 'connection', 'before': 'Place a carrot, a leafy vegetable and an apple beside one another. Identify the parts before discussing correspondences.', 'beforePt': 'Compare cenoura, verdura e maçã. Identifique as partes antes das correspondências.', 'after': 'A carrot, a leafy vegetable and an apple let us first distinguish root, leaf and fruit as plant parts. Cook then relates those regions to nerve-sense, rhythmic and metabolic activity. The second step changes the question from what part this is to how she interprets its relationship to the human being. It does not establish a direct treatment effect. Putting all three on a plate cannot by itself demonstrate balance in three human systems; the meal and the eater remain wholes.', 'pt': 'Uma cenoura, uma verdura e uma maçã permitem primeiro distinguir raiz, folha e fruto como partes vegetais. Cook relaciona então essas regiões à atividade neurossensorial, rítmica e metabólica. O segundo passo muda a pergunta: de que parte se trata para como ela interpreta sua relação com o ser humano. Isso não estabelece um efeito terapêutico direto. Colocar as três num prato não demonstra, por si só, equilíbrio em três sistemas humanos; refeição e pessoa continuam sendo conjuntos.', 'reason': 'Show the exact step from plant identification to human correspondence, not merely a warning about treatments.'}
+
+**Teaching method:**
+
+- explanation: Add the root/leaf/fruit reasoning steps and explicitly stop before clinical inference.
+- application: Place a carrot, a leafy vegetable and an apple beside one another. Identify the parts before discussing correspondences.
+- feedback: No. It is an interpretive relationship in this framework.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Can one plant family feed us different parts?
+
+[English](../../docs/foodwise/lessons/25.html) · [Português](../../docs/pt/foodwise/lessons/25.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Can one plant family feed us different parts?
+
+**Learning criterion:**
+
+Distinguish plant family from edible organ
+
+**Essential concepts:**
+
+A turnip, cabbage and broccoli challenge the idea that all vegetables are equivalent shapes.
+
+**Prerequisite:**
+
+Threefold plant picture
+
+**Connections:**
+
+Identify which plant part your next vegetable dish uses.
+
+**Misconception and feedback:**
+
+Its round edible structure is an enlarged stem, showing why shape alone can mislead.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Examples within one family show why botanical kinship does not determine the part eaten.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Examples within one family show why botanical kinship does not determine the part eaten.
+
+**Teaching method:**
+
+- explanation: Examples within one family show why botanical kinship does not determine the part eaten.
+- application: Identify which plant part your next vegetable dish uses.
+- feedback: Its round edible structure is an enlarged stem, showing why shape alone can mislead.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What does ripening change?
+
+[English](../../docs/foodwise/lessons/26.html) · [Português](../../docs/pt/foodwise/lessons/26.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What does ripening change?
+
+**Learning criterion:**
+
+Describe ripening as change
+
+**Essential concepts:**
+
+A ripening fruit changes aroma, colour and texture as well as taste.
+
+**Prerequisite:**
+
+Plant organs and food preparation
+
+**Connections:**
+
+Compare two stages of an apple’s ripeness without assuming one observation explains all fruit.
+
+**Misconception and feedback:**
+
+No. Aesthetic or spiritual meaning and measured physiological effects are different kinds of claim.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The explanation connects observable changes with use while keeping interpretation separate from a blanket quality verdict.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The explanation connects observable changes with use while keeping interpretation separate from a blanket quality verdict.
+
+**Teaching method:**
+
+- explanation: The explanation connects observable changes with use while keeping interpretation separate from a blanket quality verdict.
+- application: Compare two stages of an apple’s ripeness without assuming one observation explains all fruit.
+- feedback: No. Aesthetic or spiritual meaning and measured physiological effects are different kinds of claim.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What should we notice about nightshades?
+
+[English](../../docs/foodwise/lessons/27.html) · [Português](../../docs/pt/foodwise/lessons/27.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What should we notice about nightshades?
+
+**Learning criterion:**
+
+Explain why nightshade identity is not a uniform health conclusion
+
+**Essential concepts:**
+
+A potato is a stem tuber; a tomato is a fruit. Their family relationship does not make them the same food.
+
+**Prerequisite:**
+
+Family versus edible part
+
+**Connections:**
+
+Compare the edible structures of potato and tomato. Use purchased culinary ingredients only.
+
+**Misconception and feedback:**
+
+No. It is a stem tuber.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The account keeps botanical grouping and individual foods distinct; no self-directed avoidance prescription follows.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The account keeps botanical grouping and individual foods distinct; no self-directed avoidance prescription follows.
+
+**Teaching method:**
+
+- explanation: The account keeps botanical grouping and individual foods distinct; no self-directed avoidance prescription follows.
+- application: Compare the edible structures of potato and tomato. Use purchased culinary ingredients only.
+- feedback: No. It is a stem tuber.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What connects legumes with the soil?
+
+[English](../../docs/foodwise/lessons/28.html) · [Português](../../docs/pt/foodwise/lessons/28.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What connects legumes with the soil?
+
+**Learning criterion:**
+
+Connect legumes with soil relationships
+
+**Essential concepts:**
+
+A bean has a place in a dish and a plant has relationships below ground.
+
+**Prerequisite:**
+
+Soil fertility and plant families
+
+**Connections:**
+
+Compare a lentil, pea and bean; separate seed observations from underground processes you cannot see.
+
+**Misconception and feedback:**
+
+No. She distinguishes agricultural dependence from varied culinary use.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The existing explanation links plant/soil relations to cooking questions without turning spiritual language into chemistry.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The existing explanation links plant/soil relations to cooking questions without turning spiritual language into chemistry.
+
+**Teaching method:**
+
+- explanation: The existing explanation links plant/soil relations to cooking questions without turning spiritual language into chemistry.
+- application: Compare a lentil, pea and bean; separate seed observations from underground processes you cannot see.
+- feedback: No. She distinguishes agricultural dependence from varied culinary use.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Where do different sweeteners come from?
+
+[English](../../docs/foodwise/lessons/29.html) · [Português](../../docs/pt/foodwise/lessons/29.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Where do different sweeteners come from?
+
+**Learning criterion:**
+
+Compare sweeteners by origin and transformation
+
+**Essential concepts:**
+
+Nectar, cane stems, beet roots and tree sap enter different routes to sweetness.
+
+**Prerequisite:**
+
+Cultivation and processing
+
+**Connections:**
+
+Read one sweetener label and identify its origin and processing.
+
+**Misconception and feedback:**
+
+Taste, concentration, dietary needs and the recipe’s function also matter.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Different source plants and processes make the comparison concrete, avoiding a single natural-versus-artificial ranking.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Different source plants and processes make the comparison concrete, avoiding a single natural-versus-artificial ranking.
+
+**Teaching method:**
+
+- explanation: Different source plants and processes make the comparison concrete, avoiding a single natural-versus-artificial ranking.
+- application: Read one sweetener label and identify its origin and processing.
+- feedback: Taste, concentration, dietary needs and the recipe’s function also matter.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Why does bread need time?
+
+[English](../../docs/foodwise/lessons/30.html) · [Português](../../docs/pt/foodwise/lessons/30.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does bread need time?
+
+**Learning criterion:**
+
+Explain waiting as active bread-making judgment
+
+**Essential concepts:**
+
+A dough transforms between mixing and baking; pauses are part of the work.
+
+**Prerequisite:**
+
+Grain transformation and preparation
+
+**Connections:**
+
+Identify which steps in a trusted bread recipe are active work and which are waiting.
+
+**Misconception and feedback:**
+
+No. Fermentation and dough development continue during the pauses.
+
+**Identified conceptual gap:**
+
+The dough example explains why mixing is not completion and why time changes the next action.
+
+**Gap addressed:**
+
+- {'file': 'content/foodwise/course.json', 'id': 30, 'field': 'connection', 'before': 'Identify which steps in a trusted bread recipe are active work and which are waiting.', 'beforePt': 'Identifique trabalho ativo e espera numa receita de pão confiável.', 'after': 'Imagine a baker who mixes dough and immediately asks why there is no finished loaf. Mixing combines ingredients, but it does not complete fermentation or baking. Waiting can therefore be an active decision within a process: the baker observes what has changed before choosing the next step. This differs from leaving every dough for the same arbitrary time. The example explains Cook’s craft judgment without inventing temperatures or quantities missing from the supplied OCR.', 'pt': 'Imagine alguém que mistura a massa e logo pergunta por que ainda não há pão pronto. Misturar reúne ingredientes, mas não conclui a fermentação nem o cozimento. Esperar pode, portanto, ser uma decisão ativa dentro de um processo: a pessoa observa o que mudou antes de escolher a etapa seguinte. Isso difere de deixar toda massa pelo mesmo tempo arbitrário. O exemplo explica o discernimento artesanal de Cook sem inventar temperaturas ou quantidades ausentes no OCR fornecido.', 'reason': 'Explain why waiting is a reasoned process decision rather than an empty pause or a universal time rule.'}
+
+**Teaching method:**
+
+- explanation: The dough example explains why mixing is not completion and why time changes the next action.
+- application: Identify which steps in a trusted bread recipe are active work and which are waiting.
+- feedback: No. Fermentation and dough development continue during the pauses.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## How can milk become different foods?
+
+[English](../../docs/foodwise/lessons/31.html) · [Português](../../docs/pt/foodwise/lessons/31.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How can milk become different foods?
+
+**Learning criterion:**
+
+Trace different foods from milk processes
+
+**Essential concepts:**
+
+Yoghurt, cheese and butter show different transformations of one starting material.
+
+**Prerequisite:**
+
+Transformation and practical judgment
+
+**Connections:**
+
+Look for the process and allergen statement on a dairy product label.
+
+**Misconception and feedback:**
+
+No. Product composition and the individual condition still matter.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The explanation differentiates processes rather than treating dairy products as unchanged milk with new names.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The explanation differentiates processes rather than treating dairy products as unchanged milk with new names.
+
+**Teaching method:**
+
+- explanation: The explanation differentiates processes rather than treating dairy products as unchanged milk with new names.
+- application: Look for the process and allergen statement on a dairy product label.
+- feedback: No. Product composition and the individual condition still matter.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What is the story inside an oil bottle?
+
+[English](../../docs/foodwise/lessons/32.html) · [Português](../../docs/pt/foodwise/lessons/32.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What is the story inside an oil bottle?
+
+**Learning criterion:**
+
+Explain oil through origin and extraction
+
+**Essential concepts:**
+
+An oil can come from a seed or from the fleshy part of a fruit.
+
+**Prerequisite:**
+
+Plant parts and processing
+
+**Connections:**
+
+Identify the plant part and processing named on an oil label.
+
+**Misconception and feedback:**
+
+No. Olive oil comes mainly from the flesh of the olive fruit.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The bottle is connected to a plant and production choices; the reader can ask distinct origin/process questions.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The bottle is connected to a plant and production choices; the reader can ask distinct origin/process questions.
+
+**Teaching method:**
+
+- explanation: The bottle is connected to a plant and production choices; the reader can ask distinct origin/process questions.
+- application: Identify the plant part and processing named on an oil label.
+- feedback: No. Olive oil comes mainly from the flesh of the olive fruit.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Why discuss salt alongside soil minerals?
+
+[English](../../docs/foodwise/lessons/33.html) · [Português](../../docs/pt/foodwise/lessons/33.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why discuss salt alongside soil minerals?
+
+**Learning criterion:**
+
+Distinguish kitchen salt from soil-mineral relationships
+
+**Essential concepts:**
+
+Salt crystals and living soil belong to very different kinds of relationship.
+
+**Prerequisite:**
+
+Soil fertility and food ingredients
+
+**Connections:**
+
+Observe a pinch of salt dissolving in water; distinguish what you saw from what the image might suggest.
+
+**Misconception and feedback:**
+
+No. Symbolic meaning does not provide a clinical dosage.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The shared word mineral is unpacked across contexts, preventing a direct soil-to-diet prescription.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The shared word mineral is unpacked across contexts, preventing a direct soil-to-diet prescription.
+
+**Teaching method:**
+
+- explanation: The shared word mineral is unpacked across contexts, preventing a direct soil-to-diet prescription.
+- application: Observe a pinch of salt dissolving in water; distinguish what you saw from what the image might suggest.
+- feedback: No. Symbolic meaning does not provide a clinical dosage.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Which plant part flavours the meal?
+
+[English](../../docs/foodwise/lessons/34.html) · [Português](../../docs/pt/foodwise/lessons/34.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Which plant part flavours the meal?
+
+**Learning criterion:**
+
+Identify the plant part contributing flavour
+
+**Essential concepts:**
+
+Leaves, seeds, bark, flower buds and rhizomes can all be seasonings.
+
+**Prerequisite:**
+
+Plant parts and sensory attention
+
+**Connections:**
+
+Compare the aroma of whole and crushed coriander seed.
+
+**Misconception and feedback:**
+
+Clove. Cinnamon is bark and ginger is a rhizome.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Concrete herbs/spices link observation with culinary use without a medicinal claim.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Concrete herbs/spices link observation with culinary use without a medicinal claim.
+
+**Teaching method:**
+
+- explanation: Concrete herbs/spices link observation with culinary use without a medicinal claim.
+- application: Compare the aroma of whole and crushed coriander seed.
+- feedback: Clove. Cinnamon is bark and ginger is a rhizome.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What travels with coffee, tea and cocoa?
+
+[English](../../docs/foodwise/lessons/35.html) · [Português](../../docs/pt/foodwise/lessons/35.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What travels with coffee, tea and cocoa?
+
+**Learning criterion:**
+
+Connect stimulants with cultivation, trade and experience
+
+**Essential concepts:**
+
+A familiar drink carries processing, trade and social ritual.
+
+**Prerequisite:**
+
+Trade history and food effects
+
+**Connections:**
+
+Compare the ingredient lists of cocoa powder and a chocolate bar.
+
+**Misconception and feedback:**
+
+Finished products include processing and often additional ingredients.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Coffee/tea/cocoa are placed in social and sensory relationships; author interpretations remain attributed.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Coffee/tea/cocoa are placed in social and sensory relationships; author interpretations remain attributed.
+
+**Teaching method:**
+
+- explanation: Coffee/tea/cocoa are placed in social and sensory relationships; author interpretations remain attributed.
+- application: Compare the ingredient lists of cocoa powder and a chocolate bar.
+- feedback: Finished products include processing and often additional ingredients.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Why does water receive its own chapter?
+
+[English](../../docs/foodwise/lessons/36.html) · [Português](../../docs/pt/foodwise/lessons/36.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does water receive its own chapter?
+
+**Learning criterion:**
+
+Explain water's role beyond an ingredient list
+
+**Essential concepts:**
+
+Water connects the field, the plant and the cooking pot.
+
+**Prerequisite:**
+
+Cultivation, transformation and cooking
+
+**Connections:**
+
+Observe dry and cooked oats and describe what water and heat changed.
+
+**Misconception and feedback:**
+
+Hydration and heat transfer contribute to swelling and softening.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The explanation connects growing and preparation, keeping water's practical role distinct from broader spiritual interpretations.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The explanation connects growing and preparation, keeping water's practical role distinct from broader spiritual interpretations.
+
+**Teaching method:**
+
+- explanation: The explanation connects growing and preparation, keeping water's practical role distinct from broader spiritual interpretations.
+- application: Observe dry and cooked oats and describe what water and heat changed.
+- feedback: Hydration and heat transfer contribute to swelling and softening.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## How do we plan a meal that can actually happen?
+
+[English](../../docs/foodwise/lessons/37.html) · [Português](../../docs/pt/foodwise/lessons/37.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How do we plan a meal that can actually happen?
+
+**Learning criterion:**
+
+Plan concurrent work around the longest task
+
+**Essential concepts:**
+
+Time, budget, season and the people eating belong in the plan.
+
+**Prerequisite:**
+
+Cooking transformations and available time
+
+**Connections:**
+
+Build a meal from ingredients already available; identify the step that takes longest.
+
+**Misconception and feedback:**
+
+Food availability, dietary needs, preferences, time, cost and season.
+
+**Identified conceptual gap:**
+
+Give a complete schedule decision including when to simplify the menu instead of asking for a plan.
+
+**Gap addressed:**
+
+- {'file': 'content/foodwise/course.json', 'id': 37, 'field': 'connection', 'before': 'Build a meal from ingredients already available; identify the step that takes longest.', 'beforePt': 'Monte uma refeição com o disponível e identifique a etapa mais longa.', 'after': 'For an invented meal, a grain needs the longest preparation, vegetables need washing and cutting, and the table can be set while the first stage proceeds. Beginning with the grain allows the shorter tasks to fit around it. If only a short interval is available, changing the menu may be more realistic than rushing every step. This is a dependency plan: choices about time, available food and people change one another. It illustrates practical judgment rather than prescribing one ideal plate.', 'pt': 'Numa refeição inventada, um grão exige o preparo mais demorado, os legumes precisam ser lavados e cortados e a mesa pode ser posta durante a primeira etapa. Começar pelo grão permite encaixar as tarefas menores ao redor dele. Se houver apenas um intervalo curto, mudar o cardápio pode ser mais realista que apressar todas as etapas. É um plano de dependências: escolhas de tempo, alimentos disponíveis e pessoas modificam-se mutuamente. Ele ilustra discernimento prático, não prescreve um prato ideal.', 'reason': 'Give a completed scheduling example showing dependencies and a reason to change the plan.'}
+
+**Teaching method:**
+
+- explanation: Give a complete schedule decision including when to simplify the menu instead of asking for a plan.
+- application: Build a meal from ingredients already available; identify the step that takes longest.
+- feedback: Food availability, dietary needs, preferences, time, cost and season.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## How does heat become a cooking tool?
+
+[English](../../docs/foodwise/lessons/38.html) · [Português](../../docs/pt/foodwise/lessons/38.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does heat become a cooking tool?
+
+**Learning criterion:**
+
+Explain heat by the change sought
+
+**Essential concepts:**
+
+Steaming, simmering and roasting bring different conditions to a vegetable.
+
+**Prerequisite:**
+
+Planning and food preparation
+
+**Connections:**
+
+Use the original lentil soup activity if you want to observe softening.
+
+**Misconception and feedback:**
+
+Water, steam, surfaces and oven air deliver heat and affect moisture differently.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The teaching connects method to transformation, so a cooking technique is a reasoned choice.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The teaching connects method to transformation, so a cooking technique is a reasoned choice.
+
+**Teaching method:**
+
+- explanation: The teaching connects method to transformation, so a cooking technique is a reasoned choice.
+- application: Use the original lentil soup activity if you want to observe softening.
+- feedback: Water, steam, surfaces and oven air deliver heat and affect moisture differently.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What makes a meal something shared?
+
+[English](../../docs/foodwise/lessons/39.html) · [Português](../../docs/pt/foodwise/lessons/39.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What makes a meal something shared?
+
+**Learning criterion:**
+
+Connect a shared meal with its whole chain of work
+
+**Essential concepts:**
+
+Washing vegetables, setting a table and welcoming someone are parts of the meal.
+
+**Prerequisite:**
+
+Soil, purchasing, timing and community
+
+**Connections:**
+
+Invite a willing helper to wash produce or set the table; keep hot pans and sharp tools with the adult.
+
+**Misconception and feedback:**
+
+Everyday choices connect preparation and companionship with growers, soil and economic relationships.
+
+**Identified conceptual gap:**
+
+The soup example completes the soil-to-table argument and shows where individual judgment enters.
+
+**Gap addressed:**
+
+- {'file': 'content/foodwise/course.json', 'id': 39, 'field': 'connection', 'before': 'Invite a willing helper to wash produce or set the table; keep hot pans and sharp tools with the adult.', 'beforePt': 'Convide alguém a lavar alimentos ou pôr a mesa; panelas quentes e facas ficam com o adulto.', 'after': 'A simple shared soup reconnects the book’s scales. The vegetables depend on soil and growers; buying them enters an economic relationship; preparation transforms them; inviting someone to help or eat makes the result social. None of these steps alone is the whole meaning of nourishment for Cook. The same chain can be considered in an inexpensive meal and adjusted when time, access or willingness changes. Participation remains an invitation, not a measure of someone’s worth.', 'pt': 'Uma sopa simples compartilhada reconecta as escalas do livro. Os legumes dependem do solo e de quem cultiva; comprá-los participa de uma relação econômica; o preparo os transforma; convidar alguém a ajudar ou comer torna o resultado social. Nenhuma etapa sozinha é todo o significado de nutrição para Cook. A mesma cadeia pode ser considerada numa refeição barata e ajustada quando mudam tempo, acesso ou disposição. Participar continua sendo convite, não medida do valor de alguém.', 'reason': 'Provide a completed soil-to-social synthesis rather than another isolated invitation.'}
+
+**Teaching method:**
+
+- explanation: The soup example completes the soil-to-table argument and shows where individual judgment enters.
+- application: Invite a willing helper to wash produce or set the table; keep hot pans and sharp tools with the adult.
+- feedback: Everyday choices connect preparation and companionship with growers, soil and economic relationships.
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
 
 ## From Theosophy to a path of conscious development
 
@@ -10981,6 +15515,1586 @@ No. Units and input meaning still matter. The result is 1,200 cents for three no
 
 Original Waldorf Markdown records and current derived teaching are present; new examples are course-authored. Earlier historical attributions have not been freshly verified.
 
+## Reading Theosophy: purpose and approach
+
+[English](../../docs/lessons/00.html) · [Português](../../docs/pt/lessons/00.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What does Steiner ask of a reader who has not undertaken spiritual investigation?
+
+**Learning criterion:**
+
+Distinguish understanding a report from independent investigation
+
+**Essential concepts:**
+
+- label: Higher sense
+- definition: Steiner uses this expression for a developed capacity through which he claims supersensible realities become available to experience.
+
+**Prerequisite:**
+
+No previous technical vocabulary
+
+**Connections:**
+
+The Introduction establishes the proposed access to knowledge. Chapter I now asks what the human being is, beginning with perception, personal experience and understanding.
+
+**Misconception and feedback:**
+
+Understanding Steiner’s account is a task the reader can undertake before deciding whether to accept or independently verify its claims.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The traveler and higher-sense analogies are explained with their limits, not used as proof.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The traveler and higher-sense analogies are explained with their limits, not used as proof.
+
+**Teaching method:**
+
+- explanation: The traveler and higher-sense analogies are explained with their limits, not used as proof.
+- application: You can follow a traveler’s explanation of how two places are connected without having visited either. This course example illustrates the difference between understanding a report and possessing the experience behind it; it does not establish the truth of a spiritual report.
+- feedback: [{'question': 'According to the Introduction, how does understanding a communicated account differ from discovering its contents?', 'options': ['Understanding requires identical firsthand experiences before reading can begin.', 'Discovery requires developed investigative capacities; understanding can begin through thoughtful engagement with the account.', 'Understanding means accepting every statement without examining its relationships.'], 'answer': 1, 'explanation': 'Steiner distinguishes the capacity used to investigate from the thinking through which another person may understand the reported findings.'}, {'question': 'Why does the selected passage distinguish higher seeing from being a scholar?', 'options': ['Perception alone does not supply the informed knowledge and judgment needed for scholarly teaching.', 'All sensory knowledge is irrelevant to spiritual inquiry.', 'The reader must become a teacher before studying the book.'], 'answer': 0, 'explanation': 'The passage compares possessing a perceptive capacity with having scholarly understanding; it does not treat them as the same achievement.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Encounter, personal response and understanding
+
+[English](../../docs/lessons/01.html) · [Português](../../docs/pt/lessons/01.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Steiner introduce body, soul and spirit through one experience?
+
+**Learning criterion:**
+
+Distinguish body, personal response and truth in one event
+
+**Essential concepts:**
+
+- label: Body, soul, spirit
+- definition: At this stage, Steiner distinguishes sensory access, inward personal significance and knowledge of relationships through these three terms.
+
+**Prerequisite:**
+
+Report versus experience
+
+**Connections:**
+
+Steiner next gives separate attention to corporeal, soul and spiritual existence. Read those short source sections as developments of the opening.
+
+**Misconception and feedback:**
+
+The opening presents three relationships of one human being. It has not yet introduced the later technical classification of human members.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The encounter supplies a shared concrete event, avoiding three unrelated definitions.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The encounter supplies a shared concrete event, avoiding three unrelated definitions.
+
+**Teaching method:**
+
+- explanation: The encounter supplies a shared concrete event, avoiding three unrelated definitions.
+- application: A listener dislikes a piece of music but can still recognize its repeated rhythm. This course example separates a personal response from understanding a relationship in the same encounter.
+- feedback: [{'question': 'Which part of the meadow example belongs specifically to the observer’s inner history?', 'options': ['The remembered enjoyment of the earlier visit.', 'The continued physical existence of the first flowers.', 'The species relationship considered independently of this visit.'], 'answer': 0, 'explanation': 'The first flowers disappear, while their enjoyment can remain as this person’s memory.'}, {'question': 'What does the stars example distinguish?', 'options': ['True understanding from all use of thinking.', 'A private delight from a relationship concerning the stars.', 'Three unrelated worlds with no human connection.'], 'answer': 1, 'explanation': 'Steiner contrasts the observer’s delight with knowledge whose significance concerns the stars rather than that person’s liking.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Bodily foundation and inward activity
+
+[English](../../docs/lessons/02.html) · [Português](../../docs/pt/lessons/02.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does Steiner connect embodiment with sensation, willing and reflective action?
+
+**Learning criterion:**
+
+Connect bodily support with sensation and reflective action
+
+**Essential concepts:**
+
+- label: Willing
+- definition: In the soul section, Steiner describes willing as the outward expression of inward life through action.
+
+**Prerequisite:**
+
+Body/soul/spirit distinction
+
+**Connections:**
+
+The next reading examines material organization and living form within the long fourth source section.
+
+**Misconception and feedback:**
+
+Steiner distinguishes sensation, feeling and willing. Describing soul life only as emotion leaves out both its reception of impressions and its outward activity.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The explanation supplies the mediation step without making embodiment identical to material reductionism.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The explanation supplies the mediation step without making embodiment identical to material reductionism.
+
+**Teaching method:**
+
+- explanation: The explanation supplies the mediation step without making embodiment identical to material reductionism.
+- application: Someone hears a bell, feels irritated and wants to stop it. Checking whether the bell warns another person changes what the listener does. This course example illustrates how reflection can guide an impulse while the original irritation remains.
+- feedback: [{'question': 'Which action illustrates willing in the sense of the soul section?', 'options': ['A bell producing an air vibration.', 'A listener experiencing the sound without responding.', 'A listener choosing to approach the bell.'], 'answer': 2, 'explanation': 'Willing expresses inward life in outward action; the vibration and the inward sensation serve different roles.'}, {'question': 'Why does Steiner discuss thinking about actions as well as thinking about perceptions?', 'options': ['He connects thinking both with knowing things and with giving life reasonable coherence.', 'He treats every immediate impulse as an adequate reason.', 'He removes bodily conditions from the account.'], 'answer': 0, 'explanation': 'Reflection can seek knowledge of an object and can examine how an act is directed.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Material organization and living form
+
+[English](../../docs/lessons/03.html) · [Português](../../docs/pt/lessons/03.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Steiner distinguish ether-body from physical body?
+
+**Learning criterion:**
+
+Distinguish physical material from formative life
+
+**Essential concepts:**
+
+- label: Ether-body / life-body
+- definition: Steiner uses these names for the supersensible life-organizing member that, in his account, sustains and shapes a living physical body.
+
+**Prerequisite:**
+
+Embodiment and organization
+
+**Connections:**
+
+The next reading begins where he asks how a bodily and living process relates to a sensation experienced inwardly.
+
+**Misconception and feedback:**
+
+Life organization is distinct from inward sensation. At this stage the chapter has not explained what must be added for the experience of color or pleasure.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Living form and material replacement make the distinction intelligible while ether-body remains an attributed account.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Living form and material replacement make the distinction intelligible while ether-body remains an attributed account.
+
+**Teaching method:**
+
+- explanation: Living form and material replacement make the distinction intelligible while ether-body remains an attributed account.
+- application: A growing plant replaces and incorporates materials while maintaining a recognizable developing form. This course example clarifies the phenomenon Steiner wants to explain; observing it does not by itself establish his proposed supersensible organization.
+- feedback: [{'question': 'Which description best identifies ether-body within this account?', 'options': ['The chemical element responsible for thought.', 'An additional physical sensory organ.', 'The life-organizing member distinguished from material composition.'], 'answer': 2, 'explanation': 'Ether-body names the organization Steiner attributes to living form and its maintenance.'}, {'question': 'What role does the quartz and oak comparison play?', 'options': ['It introduces a distinction between mineral formation and the organization of living form.', 'It demonstrates that every reader has directly perceived ether-body.', 'It identifies life with pleasure.'], 'answer': 0, 'explanation': 'The comparison supplies a distinction for the argument; the claimed spiritual perception is a further part of Steiner’s account.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Thinking, truth and the three soul members
+
+[English](../../docs/lessons/04.html) · [Português](../../docs/pt/lessons/04.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What changes when thought seeks truth rather than only serving a desire?
+
+**Learning criterion:**
+
+Explain thinking beyond the service of desire
+
+**Essential concepts:**
+
+- label: Consciousness-soul
+- definition: Within Steiner’s account, consciousness-soul is the part of soul life in which truth and goodness become alive with a significance independent of personal liking.
+
+**Prerequisite:**
+
+Sensation and personal response
+
+**Connections:**
+
+The chapter next introduces the I, the inward centre that gathers these experiences and opens toward spirit.
+
+**Misconception and feedback:**
+
+Consciousness-soul is more specific than ordinary consciousness. The source does not reserve all awareness for this one soul member.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The progression through soul members uses truth-directed judgment to explain the distinction.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The progression through soul members uses truth-directed judgment to explain the distinction.
+
+**Teaching method:**
+
+- explanation: The progression through soul members uses truth-directed judgment to explain the distinction.
+- application: A person can compose a clever reply to win an argument, or examine whether the criticism is justified even when correction is unwelcome. This course example distinguishes serving a wish from examining validity.
+- feedback: [{'question': 'A plan successfully satisfying a desire shows which role of thinking described here?', 'options': ['Thinking serving sentient life through the intellectual-soul.', 'Proof that the plan’s purpose is independently good.', 'The absence of all inward experience.'], 'answer': 0, 'explanation': 'Practical thought can organize a desire without its success establishing the desire’s truth or goodness.'}, {'question': 'Why is consciousness-soul distinguished from ordinary consciousness?', 'options': ['Only unconscious sensations can be felt.', 'It concerns participation in the true and good, rather than every instance of awareness.', 'Steiner denies any consciousness to animals.'], 'answer': 1, 'explanation': 'The source makes ordinary consciousness broader and uses consciousness-soul for a particular spiritual orientation of soul life.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## The I: inward centre and spiritual openness
+
+[English](../../docs/lessons/05.html) · [Português](../../docs/pt/lessons/05.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does Steiner distinguish the I from the experiences it gathers?
+
+**Learning criterion:**
+
+Distinguish the I from changing experiences
+
+**Essential concepts:**
+
+- label: I
+- definition: Steiner describes the I as the inward centre that gathers bodily and soul experiences, acts through them and can receive spiritual content.
+
+**Prerequisite:**
+
+Soul members and truth
+
+**Connections:**
+
+The next reading asks how spiritual truth can be received and individualized through the I, and how Steiner names the spiritual members.
+
+**Misconception and feedback:**
+
+I does not simply mean selfishness. Steiner’s account includes receiving truth and goodness beyond a private preference.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Inward continuity and spiritual openness are related without reducing the I to a bundle of feelings.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Inward continuity and spiritual openness are related without reducing the I to a bundle of feelings.
+
+**Teaching method:**
+
+- explanation: Inward continuity and spiritual openness are related without reducing the I to a bundle of feelings.
+- application: Two people can say that the same table is heavy, but each uses I to refer to their own standpoint in carrying it. This course example clarifies self-reference; it does not establish every further spiritual claim Steiner makes about the I.
+- feedback: [{'question': 'What makes I distinctive in the chapter’s naming example?', 'options': ['All speakers use it to identify one public object.', 'Each speaker uses it to refer to themself from within.', 'It means the same as a momentary wish.'], 'answer': 1, 'explanation': 'The contrast concerns the inward reference of I compared with a common object-name.'}, {'question': 'Which relationship best describes the I’s role in this section?', 'options': ['It gathers bodily and soul experiences while opening toward spirit.', 'It replaces the body with a spoken name.', 'It limits the person to whatever impulse occurs first.'], 'answer': 0, 'explanation': 'Steiner relates the I both to experiences gathered through body and soul and to the spiritual content it can receive.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## One human being, related classifications
+
+[English](../../docs/lessons/06.html) · [Português](../../docs/pt/lessons/06.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does the chapter present different lists of human members?
+
+**Learning criterion:**
+
+Explain why different classifications count differently
+
+**Essential concepts:**
+
+- label: Astral-body
+- definition: In the chapter’s fourfold account, Steiner uses astral-body for soul-body and sentient-soul considered together.
+
+**Prerequisite:**
+
+Human members and their relations
+
+**Connections:**
+
+The chapter synthesis offers one optional reconstruction of these relationships. Chapter II then asks about the continuity and destiny of the individuality introduced here.
+
+**Misconception and feedback:**
+
+The first sevenfold list groups pairs from nine members; the final sevenfold list adds transformed aspects to a fourfold account. Their equal counts do not make their contents identical.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The lists are compared by their grouping purpose, not presented as competing arithmetic facts.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The lists are compared by their grouping purpose, not presented as competing arithmetic facts.
+
+**Teaching method:**
+
+- explanation: The lists are compared by their grouping purpose, not presented as competing arithmetic facts.
+- application: An orchestra can be described by individual instruments or by its sections. Changing the grouping does not require a different orchestra. This course example clarifies grouping only; the source’s claim about spiritual transformation requires its own explanation.
+- feedback: [{'question': 'Why does the first sevenfold arrangement contain two fewer entries than the ninefold one?', 'options': ['The spiritual members are all discarded.', 'Two pairs are joined as unities in earthly life.', 'The physical body is counted twice.'], 'answer': 1, 'explanation': 'Soul-body/sentient-soul and consciousness-soul/spirit-self are the two joined pairs.'}, {'question': 'Which relationship belongs to the concluding transformation account?', 'options': ['Life-spirit is simply renamed bodily sensation.', 'Intellectual-soul is removed because thinking no longer matters.', 'Spirit-self is described as transmuted astral-body through the I’s reception of spirit.'], 'answer': 2, 'explanation': 'The concluding account relates spirit-self, life-spirit and spirit-man to transformed astral, life and physical organization.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Memory and the fruits of experience
+
+[English](../../docs/lessons/07.html) · [Português](../../docs/pt/lessons/07.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What remains from an experience when its immediate perception has passed?
+
+**Learning criterion:**
+
+Explain how experience bears fruit after perception ends
+
+**Essential concepts:**
+
+- label: Fruits of experience
+- definition: Steiner uses this expression for the capacities acquired through assimilating experience, which can remain when memories of individual episodes fade.
+
+**Prerequisite:**
+
+Personal experience and individuality
+
+**Connections:**
+
+The next paragraph changes the scope of inquiry. Steiner asks whether spiritual form, like bodily form, requires a history preceding this earthly life.
+
+**Misconception and feedback:**
+
+Remembering an episode and retaining a capacity are different results. Knowing how to read does not require recalling every attempt through which it was learned.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Memory is related to capacities rather than treated as a warehouse of unchanged sensations.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Memory is related to capacities rather than treated as a warehouse of unchanged sensations.
+
+**Teaching method:**
+
+- explanation: Memory is related to capacities rather than treated as a warehouse of unchanged sensations.
+- application: Someone practises tying a knot and later forgets the particular practice session while retaining the skill. This course example distinguishes a remembered event from an acquired ability.
+- feedback: [{'question': 'Which result is a fruit of experience in Steiner’s learning example?', 'options': ['The ability to read after individual practice episodes have faded.', 'The present sight of each letter before any learning.', 'An unchanged picture of every earlier practice session.'], 'answer': 0, 'explanation': 'The source distinguishes the retained reading ability from the separate experiences through which it was acquired.'}, {'question': 'Why are remembrance and action discussed together?', 'options': ['They require the external object to remain physically present.', 'They make something enduring in two directions: inwardly and in the outer world.', 'They show that the soul receives impressions but cannot alter anything.'], 'answer': 1, 'explanation': 'Remembrance brings an earlier encounter into present soul life; action leaves continuing effects in the world.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Biography and spiritual individuality
+
+[English](../../docs/lessons/08.html) · [Português](../../docs/pt/lessons/08.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Steiner argue that individuality calls for a spiritual history before birth?
+
+**Learning criterion:**
+
+Reconstruct the argument for spiritual biography
+
+**Essential concepts:**
+
+- label: Spiritual individuality
+- definition: Here Steiner means the distinctive spiritual configuration and development expressed through a person’s predispositions and biography, whose continuity he distinguishes from inherited bodily form.
+
+**Prerequisite:**
+
+Memory and enduring capacities
+
+**Connections:**
+
+Steiner returns to Chapter I’s members to explain how bodily inheritance and spiritual learning can both shape an earthly life.
+
+**Misconception and feedback:**
+
+Calling a spiritual individual its own species is an analogy within Steiner’s argument. It does not classify each person as a separate biological species.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The analogy and inference are distinguished from independent evidence for pre-birth history.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The analogy and inference are distinguished from independent evidence for pre-birth history.
+
+**Teaching method:**
+
+- explanation: The analogy and inference are distinguished from independent evidence for pre-birth history.
+- application: A family tree records how someone is related to others. A biography explains that person’s particular development and undertakings. This course example clarifies the two explanatory questions; it does not establish an earlier incarnation.
+- feedback: [{'question': 'What does the Mr. Smith example establish within the argument?', 'options': ['A description of the father supplies the son’s complete biography.', 'Describing relatives or species membership does not describe this individual’s own development.', 'A biography concerns only bodily measurements.'], 'answer': 1, 'explanation': 'Steiner uses the example to identify the particular significance that an individual biography has beyond a description of family or species.'}, {'question': 'Which step takes the argument beyond describing differences between people?', 'options': ['The claim that similar surroundings never affect anyone.', 'The classification of each person as a new biological species.', 'The inference that definite spiritual individuality requires its own history preceding birth.'], 'answer': 2, 'explanation': 'The cross-life conclusion depends on this explanatory extension from definite individuality to a prior history of that same spirit.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Deeds, destiny and karma
+
+[English](../../docs/lessons/09.html) · [Português](../../docs/pt/lessons/09.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does Steiner connect the continuing effects of deeds with destiny across repeated lives?
+
+**Learning criterion:**
+
+Explain deed consequences and their proposed continuation
+
+**Essential concepts:**
+
+- label: Karma
+- definition: Steiner names the self-created fate relating the soul’s present field of life to the spiritual individuality’s previous actions karma.
+
+**Prerequisite:**
+
+Memory, biography and individuality
+
+**Connections:**
+
+The chapter synthesis brings these relations together. Chapter III then investigates the physical, soul and spiritual worlds presupposed by this account of continuity.
+
+**Misconception and feedback:**
+
+Karma and reincarnation are related but distinct: one concerns the effects of action, the other the spirit’s repeated embodiment. The source’s account does not identify a particular person’s earlier deeds.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The account connects action to changed relationships, with the cross-life extension marked as the teaching.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The account connects action to changed relationships, with the cross-life extension marked as the teaching.
+
+**Teaching method:**
+
+- explanation: The account connects action to changed relationships, with the cross-life extension marked as the teaching.
+- application: Someone repairs a fence. The fence remains changed, and the person may become more skilled at the repair. This course example illustrates the outward and inward sides of one deed; the extension across earthly lives belongs to Steiner’s argument.
+- feedback: [{'question': 'What does the comparison with migration explain?', 'options': ['A new location necessarily removes every consequence of an earlier life.', 'Developed capacities can shape how someone meets entirely new surroundings.', 'A mechanic and a bank clerk must meet identical circumstances.'], 'answer': 1, 'explanation': 'The migration example shows why a changed field of action need not erase the relation created by earlier capacities and deeds.'}, {'question': 'Which set preserves the chapter’s final distinctions?', 'options': ['Body: karma; soul: bodily heredity; spirit: ordinary memory alone.', 'Body: reincarnation; soul: physical form; spirit: parental inheritance.', 'Body: heredity; soul: karma; spirit: reincarnation.'], 'answer': 2, 'explanation': 'The source distinguishes inherited embodiment, the soul’s self-created fate and the spirit’s repeated embodiment.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Three worlds and their organs of perception
+
+[English](../../docs/lessons/10.html) · [Português](../../docs/pt/lessons/10.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Steiner distinguish worlds by the organs through which they are known?
+
+**Learning criterion:**
+
+Distinguish worlds by claimed access
+
+**Essential concepts:**
+
+- label: Sense
+- definition: Steiner uses sense comparatively for an organ of perception, including the soul and spiritual organs he describes.
+
+**Prerequisite:**
+
+Body/soul/spirit and spiritual biography
+
+**Connections:**
+
+Steiner next identifies the two forces that organize relations within the soul world: sympathy and antipathy.
+
+**Misconception and feedback:**
+
+The three worlds are distinguished by qualities and access, rather than placed in three separate physical locations.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Organs of perception explain the distinction; non-perception is not supplied as proof.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Organs of perception explain the distinction; non-perception is not supplied as proof.
+
+**Teaching method:**
+
+- explanation: Organs of perception explain the distinction; non-perception is not supplied as proof.
+- application: Two readers see the same musical notation, but a trained musician recognizes relationships that the beginner misses. This course example clarifies the difference between having an object before oneself and developing a capacity to apprehend it.
+- feedback: [{'question': 'In Steiner’s account, why can bodily senses alone leave aspects of reality undisclosed?', 'options': ['They are the organs through which physical qualities become perceptible.', 'Physical objects have no relationship to soul or spirit.', 'The soul world is simply too far away to see.'], 'answer': 0, 'explanation': 'The argument relates what becomes perceptible to the capacities of the corresponding organ.'}, {'question': 'What does the ivory-ball comparison help distinguish?', 'options': ['Good feelings from morally bad feelings.', 'Interaction by physical impact from interaction by inner affinity.', 'Solid matter from very thin physical matter.'], 'answer': 1, 'explanation': 'Steiner contrasts physical laws with the inner qualities governing the soul formations he describes.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## After death: desire, bodily organs and release
+
+[English](../../docs/lessons/11.html) · [Português](../../docs/pt/lessons/11.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What happens when desire persists but its bodily means of satisfaction are gone?
+
+**Learning criterion:**
+
+Explain desire without its bodily means
+
+**Essential concepts:**
+
+- label: Kamaloca
+- definition: In this section, Steiner uses Kamaloca for the soul’s postmortem condition of desires still connected with bodily existence.
+
+**Prerequisite:**
+
+Soul regions and embodied sensation
+
+**Connections:**
+
+Steiner next applies the seven soul-region relationships to the different attachments that must be released.
+
+**Misconception and feedback:**
+
+Purification concerns bodily attachment; karma concerns relationships that can be worked out in another embodiment. Their roles are not interchangeable.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The separation of desire and organ makes the purification account intelligible without an empirical after-death claim.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The separation of desire and organ makes the purification account intelligible without an empirical after-death claim.
+
+**Teaching method:**
+
+- explanation: The separation of desire and organ makes the purification account intelligible without an empirical after-death claim.
+- application: A person can want to hear a familiar recording after the player has broken. Desire and its means of satisfaction are distinguishable. This course example clarifies that relation, without establishing the source’s account of life after death.
+- feedback: [{'question': 'What does the food example distinguish?', 'options': ['Pleasure and desire in the soul from the organs needed for their satisfaction.', 'A physical palate that remains unchanged after bodily death.', 'Karma from every consequence of earthly activity.'], 'answer': 0, 'explanation': 'The example turns on the proposed persistence of desire after the bodily means of satisfying it are unavailable.'}, {'question': 'What remains available for spiritual life in this account?', 'options': ['Every bodily appetite exactly as it was.', 'Fruits of experience that can live on with the spirit.', 'Only the physical matter of the body.'], 'answer': 1, 'explanation': 'The source distinguishes spiritually retainable fruits from experience tied solely to the completed body.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Spirit-land: creative archetypes and their regions
+
+[English](../../docs/lessons/12.html) · [Português](../../docs/pt/lessons/12.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does Steiner distinguish living archetypes from ordinary abstract thoughts?
+
+**Learning criterion:**
+
+Distinguish living archetypes from abstract concepts
+
+**Essential concepts:**
+
+- label: Archetype
+- definition: Steiner describes an archetype as a living, creative spiritual being whose activity underlies forms and beings in physical or soul existence.
+
+**Prerequisite:**
+
+Spiritual world and kinds of perception
+
+**Connections:**
+
+The next reading follows the human spirit within this world, asking how earthly experience becomes new capacity.
+
+**Misconception and feedback:**
+
+The archetype is more than an abstract generalization from sensory examples in this account. Ordinary thoughts are its shadowy reflections.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The explanation contrasts creative activity with ordinary conceptual copies, preventing a static-template reading.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The explanation contrasts creative activity with ordinary conceptual copies, preventing a static-template reading.
+
+**Teaching method:**
+
+- explanation: The explanation contrasts creative activity with ordinary conceptual copies, preventing a static-template reading.
+- application: A composer’s musical idea can generate several arrangements while preserving recognizable relationships. This course example clarifies formative possibility; the source additionally proposes archetypes independent of a human creator.
+- feedback: [{'question': 'What belongs to the first spiritual region?', 'options': ['Only living processes, with physical form excluded.', 'Archetypes of physical forms considered apart from life.', 'Only the soul’s wishes after death.'], 'answer': 1, 'explanation': 'Steiner includes physical forms of living beings here, while their life belongs to a distinct region.'}, {'question': 'How are the higher three regions introduced?', 'options': ['As a shared source of creative impulses for the archetypes.', 'As three separately specified bodily organs.', 'As fixed physical floors above the lower four.'], 'answer': 0, 'explanation': 'The initial description groups their creative role; it does not provide three independent physical mechanisms.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Earthly experience becomes spiritual faculty
+
+[English](../../docs/lessons/13.html) · [Português](../../docs/pt/lessons/13.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why are earthly action and the spiritual interval mutually necessary in Steiner’s account?
+
+**Learning criterion:**
+
+Explain how experience becomes capacity and returns to action
+
+**Essential concepts:**
+
+- label: Spiritual faculty
+- definition: Here Steiner describes spiritual faculty as a living capacity developed from the fruits of earthly experience during the spirit’s interval between embodiments.
+
+**Prerequisite:**
+
+Memory, archetypes and spiritual interval
+
+**Connections:**
+
+Steiner next distinguishes given earthly relationships from human cultural creation and follows the enduring Self into the higher regions.
+
+**Misconception and feedback:**
+
+The proposed spiritual interval is directed toward further earthly tasks. The account does not make embodied experience dispensable.
+
+**Identified conceptual gap:**
+
+Add a garden planning loop that illustrates learning while explicitly not proving reincarnation.
+
+**Gap addressed:**
+
+- {'file': 'content/theosophy-guided-chapter-3.json', 'id': 13, 'field': 'example', 'before': 'A gardener’s observations during one growing season can change the judgment used to plan the next. This course example clarifies how experience can become capacity rather than remain a list of remembered events.', 'beforePt': 'As observações de uma pessoa que cultiva um jardim durante uma estação podem mudar o discernimento empregado no planejamento da seguinte. Este exemplo do curso esclarece como a experiência pode tornar-se capacidade, em vez de permanecer lista de acontecimentos lembrados.', 'after': 'A gardener remembers that a bed stayed shaded longer than expected. Next season, the remembered episode becomes a capacity to consider the changing light before placing plants. The plan uses that capacity, but the next season still supplies new experience that may correct it. This shows why experience and developed judgment need one another in the architect comparison. Steiner extends the relation to an interval between earthly lives; the garden example clarifies the relation without establishing that extension.', 'pt': 'Uma pessoa lembra que um canteiro ficou sombreado por mais tempo que o esperado. Na estação seguinte, o episódio lembrado torna-se capacidade de considerar a luz variável antes de distribuir as plantas. O plano usa essa capacidade, mas a nova estação ainda oferece experiências que podem corrigi-lo. Isso mostra por que experiência e discernimento desenvolvido precisam um do outro na comparação do arquiteto. Steiner estende a relação ao intervalo entre vidas terrestres; o jardim esclarece a relação sem estabelecer essa extensão.', 'reason': 'Explain the reciprocal plan/experience cycle with an actual change in judgment.'}
+
+**Teaching method:**
+
+- explanation: Add a garden planning loop that illustrates learning while explicitly not proving reincarnation.
+- application: A gardener’s observations during one growing season can change the judgment used to plan the next. This course example clarifies how experience can become capacity rather than remain a list of remembered events.
+- feedback: [{'question': 'What does the architect comparison explain?', 'options': ['A plan makes all experience at the building site unnecessary.', 'Experience from completed work can enrich the capacity for later work.', 'Every subsequent building must be perfect.'], 'answer': 1, 'explanation': 'The plan and the practical experience have different but connected roles.'}, {'question': 'Which qualification does Steiner give?', 'options': ['A particular later life can be less perfect despite the general developmental pattern.', 'All lives improve equally in every visible respect.', 'Earthly experience contributes nothing to spiritual faculty.'], 'answer': 0, 'explanation': 'The text calls the progression a general outline and allows irregularities across individual lives.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Culture, enduring Self and spiritual purposes
+
+[English](../../docs/lessons/14.html) · [Português](../../docs/pt/lessons/14.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What carries experience across incarnations and relates it to spiritual aims?
+
+**Learning criterion:**
+
+Connect enduring Self with cultural purposes
+
+**Essential concepts:**
+
+- label: Bearer of Causes / Causal Body
+- definition: Steiner uses these names for the enduring Self as the bearer of capacities and results across incarnations, rather than for an additional physical organ.
+
+**Prerequisite:**
+
+Spiritual capacity and repeated lives
+
+**Connections:**
+
+Steiner next returns to physical existence and explains how all three worlds can work together within it.
+
+**Misconception and feedback:**
+
+Spiritual purpose and enduring individuality are not identical with the public success of one biography. The passage distinguishes what is realized in an embodiment from the Self’s developing capacities and aims.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Individual continuity and shared cultural aims are related without erasing the person's development.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Individual continuity and shared cultural aims are related without erasing the person's development.
+
+**Teaching method:**
+
+- explanation: Individual continuity and shared cultural aims are related without erasing the person's development.
+- application: A craftsperson’s lasting judgment can survive changes in workplace, tools and projects. This course example clarifies the difference between a continuing capacity and one outward situation; reincarnation is the source’s further account of continuity.
+- feedback: [{'question': 'Why does Steiner call the Self a Bearer of Causes?', 'options': ['It carries results and capacities from former incarnations into later ones.', 'It replaces the physical body with another physical organ.', 'It removes every relationship to past experience.'], 'answer': 0, 'explanation': 'The name expresses continuity of the fruits borne by the enduring Self.'}, {'question': 'What distinguishes the fourth region’s human application?', 'options': ['Only unsatisfied food desires are addressed.', 'Its activity concerns purely external impact between minerals.', 'It concerns the fruits of original human cultural creation.'], 'answer': 2, 'explanation': 'The fourth region develops artistic, scientific, technical and civic creations, while remaining related to their earthly conditions.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## The three worlds at work in nature and thinking
+
+[English](../../docs/lessons/15.html) · [Português](../../docs/pt/lessons/15.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does Steiner relate physical form, life, sensation and thought to spiritual formative activity?
+
+**Learning criterion:**
+
+Relate nature's organizations to the three worlds
+
+**Essential concepts:**
+
+- label: Elementary Kingdom
+- definition: Steiner uses Elementary Kingdom for a realm of archetypal or formative beings whose activity is expressed in physical form, living formation or soul life.
+
+**Prerequisite:**
+
+Physical, life, sensation and thought distinctions
+
+**Connections:**
+
+Steiner extends this account to beings whose expression belongs to collective soul life or purely spiritual existence.
+
+**Misconception and feedback:**
+
+The three elementary kingdoms describe formative activity; the visible kingdoms describe beings in which it is expressed. They occupy different explanatory roles.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The synthesis uses previously established distinctions to explain nature rather than adding unexplained labels.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The synthesis uses previously established distinctions to explain nature rather than adding unexplained labels.
+
+**Teaching method:**
+
+- explanation: The synthesis uses previously established distinctions to explain nature rather than adding unexplained labels.
+- application: Observing new leaves appear on a seedling differs from identifying the cause of their formation. This course example separates the observed change from the additional spiritual explanation proposed in the source.
+- feedback: [{'question': 'What distinguishes a plant from a completed crystal in this passage?', 'options': ['The plant retains living formative activity as well as shape.', 'The crystal possesses animal feeling.', 'The plant has shape but cannot produce further shape.'], 'answer': 0, 'explanation': 'The source contrasts completed form with the continuing capacity for living formation.'}, {'question': 'What does Note 3 clarify about animals?', 'options': ['They have an independent human I identical with ours.', 'Thought is excluded from every aspect of animal existence.', 'Thought is attributed to a group ego rather than an independent I living in the animal.'], 'answer': 2, 'explanation': 'The note distinguishes the proposed locus of thought, rather than simply denying thought altogether.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Collective spirits and other forms of embodiment
+
+[English](../../docs/lessons/16.html) · [Português](../../docs/pt/lessons/16.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What forms of embodiment does Steiner assign to beings beyond visible nature?
+
+**Learning criterion:**
+
+Explain non-human embodiment within the model
+
+**Essential concepts:**
+
+- label: Folk Spirit / National Spirit
+- definition: Steiner uses these names for a spiritual being expressed through a people’s common soul life and embodied in soul-world substance.
+
+**Prerequisite:**
+
+Nature and spiritual formative activity
+
+**Connections:**
+
+Steiner next returns to the individual human being and describes thought and feeling as objects of the proposed spiritual perception.
+
+**Misconception and feedback:**
+
+The collective being proposed here is not a fixed personal description of every individual in a people. Its claimed shared activity and each individual’s life are different levels of the account.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The examples distinguish forms of embodiment from ordinary visible individual bodies.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The examples distinguish forms of embodiment from ordinary visible individual bodies.
+
+**Teaching method:**
+
+- explanation: The examples distinguish forms of embodiment from ordinary visible individual bodies.
+- application: A song shared at a festival is an observable cultural practice. Steiner’s account proposes a further spiritual foundation for collective life. This course example distinguishes the practice from the kind of being the passage describes.
+- feedback: [{'question': 'What supplies the Folk Spirit’s body in this account?', 'options': ['The same sensory materials as a human physical body.', 'Soul-world substance.', 'A visible atmospheric cloud.'], 'answer': 1, 'explanation': 'The comparison distinguishes a soul-world body from physical embodiment.'}, {'question': 'What further form of existence does the passage mention?', 'options': ['Beings whose vestment belongs to Spirit-land alone.', 'Elemental beings visible as ordinary physical animals.', 'Only beings with physical bodies.'], 'answer': 0, 'explanation': 'Steiner extends the account beyond both physical bodies and soul-world bodies.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Thought-forms and the threefold human aura
+
+[English](../../docs/lessons/17.html) · [Português](../../docs/pt/lessons/17.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does Steiner’s aura account reconnect thought and soul activity with body, soul and spirit?
+
+**Learning criterion:**
+
+Explain aura descriptions as an attributed account of activity
+
+**Essential concepts:**
+
+- label: Threefold aura
+- definition: Steiner describes three interpenetrating aura aspects as the supersensible expression of bodily influence, soul life and eternal spiritual activity.
+
+**Prerequisite:**
+
+Thought, feeling and threefold constitution
+
+**Connections:**
+
+The chapter synthesis brings these relationships together. Chapter IV then changes the question from the worlds described to the path by which Steiner says they can be known.
+
+**Misconception and feedback:**
+
+The three aspects interpenetrate rather than form three separate shells. The first aspect includes bodily-rooted selflessness as well as impulses of desire.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The relation of activity to description is explained; colour language is not made an ordinary diagnostic test.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The relation of activity to description is explained; colour language is not made an ordinary diagnostic test.
+
+**Teaching method:**
+
+- explanation: The relation of activity to description is explained; colour language is not made an ordinary diagnostic test.
+- application: The same thoughtful act may serve personal advantage or a concern for someone else. This course example clarifies why motive adds information beyond intellectual ability; it does not make either motive visible as a physical colour.
+- feedback: [{'question': 'What distinguishes the three aura aspects in the explanation?', 'options': ['Three physical colours, each with one fixed personality meaning.', 'Their roles as bodily influence, soul life and eternal spiritual activity.', 'Three shells that never interpenetrate.'], 'answer': 1, 'explanation': 'The source relates the three aspects to body, soul and spirit and states that they interpenetrate.'}, {'question': 'Why does mother-love matter in this account?', 'options': ['It shows that the first aura can express naturally selfless impulses.', 'It makes the second and third aspects unnecessary.', 'It proves that every first-aura impulse is selfish.'], 'answer': 0, 'explanation': 'The first aspect reflects bodily influence on soul, which the source does not equate with selfishness in every case.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Thinking and receiving communicated knowledge
+
+[English](../../docs/lessons/18.html) · [Português](../../docs/pt/lessons/18.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Steiner begin personal knowledge with thoughtful reception of an account communicated by another?
+
+**Learning criterion:**
+
+Explain why thoughtful reception precedes personal knowledge
+
+**Essential concepts:**
+
+- label: Thought as a living force
+- definition: Steiner describes thought as an activity capable of working within the learner and awakening capacities, rather than as a merely abstract copy of someone else’s account.
+
+**Prerequisite:**
+
+Report/investigation distinction and three worlds
+
+**Connections:**
+
+Receptivity alone is not the whole condition. Steiner next asks how personal pleasure, pain, sympathy and antipathy affect the way things are valued and understood.
+
+**Misconception and feedback:**
+
+Understanding a communicated account does not mean that the learner has already perceived or independently confirmed what it describes. Steiner presents understanding as a beginning of the path.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The opening epistemic distinction returns as a practice of examining meaning, not merely believing authority.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The opening epistemic distinction returns as a practice of examining meaning, not merely believing authority.
+
+**Teaching method:**
+
+- explanation: The opening epistemic distinction returns as a practice of examining meaning, not merely believing authority.
+- application: A reader encounters a historical account that challenges a familiar explanation. They first reconstruct its reasoning accurately and then examine its evidence. This course example illustrates receptive thinking while leaving the account’s truth open to assessment.
+- feedback: [{'question': 'What first step does Steiner propose to someone seeking personal knowledge of the higher worlds?', 'options': ['Thoughtfully consider and work through communicated descriptions.', 'Accept a teacher’s statements solely because of the teacher’s authority.', 'Reject every description until personal vision has already occurred.'], 'answer': 0, 'explanation': 'He makes thoughtful reception of another investigator’s account the beginning, while rejecting blind faith as its intended form.'}, {'question': 'Why does Steiner distinguish living thinking from pleasing inner pictures?', 'options': ['He treats every vivid inner picture as sufficient spiritual knowledge.', 'He considers all thinking irrelevant to personal perception.', 'He requires an ordered activity of thought rather than vividness alone.'], 'answer': 2, 'explanation': 'The chapter gives thinking a grounding role. A succession of images may be agreeable without supplying the firmness or understanding he requires.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Feeling and equanimity
+
+[English](../../docs/lessons/19.html) · [Português](../../docs/pt/lessons/19.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does Steiner propose changing the relation between feeling and action?
+
+**Learning criterion:**
+
+Distinguish equanimity from suppression
+
+**Essential concepts:**
+
+- label: Equanimity
+- definition: Within this account, equanimity preserves sensitivity to pleasure and pain while allowing them to communicate qualities instead of immediately governing conduct.
+
+**Prerequisite:**
+
+Feeling and reflective action
+
+**Connections:**
+
+Feeling has been given a receptive role. Steiner next asks what order thinking and willing must acquire when inquiry moves beyond the correction supplied by sensory facts.
+
+**Misconception and feedback:**
+
+Equanimity is not emotional numbness. Steiner rejects eradicating sympathy and antipathy; he describes a more delicate feeling that is less governed by immediate personal reaction.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The explanation connects changed response with felt experience, so steadiness need not mean emotional numbness.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The explanation connects changed response with felt experience, so steadiness need not mean emotional numbness.
+
+**Teaching method:**
+
+- explanation: The explanation connects changed response with felt experience, so steadiness need not mean emotional numbness.
+- application: A reader initially dislikes a poem’s abrupt rhythm. By rereading, they notice how the interruption expresses a change in the speaker’s situation. Their dislike remains a real response, but it no longer supplies the whole judgment. This course example illustrates the change of attention.
+- feedback: [{'question': 'What change does Steiner propose for sympathy and antipathy?', 'options': ['They should be eliminated so that nothing can affect the learner.', 'They should remain, while ceasing to dictate immediate verdicts and actions.', 'They should decide every action before its object is understood.'], 'answer': 1, 'explanation': 'He explicitly rejects blunting feeling and instead connects restraint of automatic reaction with finer sensitivity.'}, {'question': 'What does the comparison between the eye and the hand clarify?', 'options': ['An impression can be received without itself carrying out the resulting action.', 'Feeling must disappear before a person can act.', 'The first pleasurable impression guarantees a correct judgment.'], 'answer': 0, 'explanation': 'The comparison separates reception from action. Transformed feeling is to convey an impression rather than simply compel conduct.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Ordered thinking and educated will
+
+[English](../../docs/lessons/20.html) · [Português](../../docs/pt/lessons/20.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What must guide thinking and action when ordinary sensory facts no longer supply correction?
+
+**Learning criterion:**
+
+Explain why thinking and will need internal correction
+
+**Essential concepts:**
+
+- label: Regulated thinking
+- definition: Steiner requires thought connections to follow their content and laws rather than arbitrary succession, preferred conclusions or personal impulses.
+
+**Prerequisite:**
+
+Thoughtful reception and equanimity
+
+**Connections:**
+
+With thinking and willing joined, Steiner returns to transformed feeling. He then connects this inner development with attention to the eternal, action from within and the final account of initiation.
+
+**Misconception and feedback:**
+
+Inner discipline is not a guarantee that every premise is true. The mathematical comparison concerns orderly relations among thoughts; Steiner’s further claims concern the spiritual significance he attributes to that discipline.
+
+**Identified conceptual gap:**
+
+The invalid rose inference and tree counterexample show logical correction, followed by willingness to acknowledge it.
+
+**Gap addressed:**
+
+- {'file': 'content/theosophy-guided-chapter-4.json', 'id': 20, 'field': 'example', 'before': 'A reader notices a flaw in an argument supporting a favorite opinion. They examine the steps, revise their conclusion and acknowledge the correction despite disappointment. This course example illustrates allowing a recognized requirement to govern both thinking and action.', 'beforePt': 'Uma pessoa percebe uma falha num argumento que sustenta sua opinião preferida. Examina os passos, revê a conclusão e reconhece a correção apesar da decepção. Este exemplo do curso ilustra permitir que uma exigência reconhecida oriente pensamento e ação.', 'after': 'A reader argues: all roses are plants, so all plants must be roses. A tree is enough to expose the mistaken reversal. The first statement sorts roses within plants; it does not limit all plants to roses. Revising the conclusion follows the relation between the claims rather than the reader’s preference. Acknowledging the correction then adds an act of will to the correction in thought. This ordinary example clarifies ordered inference and action; it does not establish that sincerity guarantees every spiritual judgment.', 'pt': 'Uma pessoa argumenta: todas as rosas são plantas, portanto todas as plantas devem ser rosas. Uma árvore basta para expor a inversão equivocada. A primeira afirmação situa rosas entre plantas; não limita todas as plantas às rosas. Rever a conclusão acompanha a relação entre as afirmações, não a preferência de quem lê. Reconhecer a correção acrescenta então um ato de vontade à correção no pensar. Esse exemplo comum esclarece inferência ordenada e ação; não estabelece que a sinceridade garanta todo juízo espiritual.', 'reason': 'Replace an unspecified flaw with an actual inference, counterexample and explained correction.'}
+
+**Teaching method:**
+
+- explanation: The invalid rose inference and tree counterexample show logical correction, followed by willingness to acknowledge it.
+- application: A reader notices a flaw in an argument supporting a favorite opinion. They examine the steps, revise their conclusion and acknowledge the correction despite disappointment. This course example illustrates allowing a recognized requirement to govern both thinking and action.
+- feedback: [{'question': 'What is the role of mathematics in this passage?', 'options': ['It is compulsory before anyone can develop healthy thinking.', 'It illustrates disciplined connections, while Steiner allows other ways of developing healthy thinking.', 'It permits a preferred conclusion to replace an unwanted result.'], 'answer': 1, 'explanation': 'Steiner recommends the discipline illustrated by mathematics, then expressly says healthy thinking is possible without its study.'}, {'question': 'What should guide action in the corresponding discipline of will?', 'options': ['The greatest immediate pleasure, regardless of what the person recognizes as right.', 'The reward that benefits the seeker personally.', 'The good that has been recognized, even when acting on it is unrewarding.'], 'answer': 2, 'explanation': 'He extends the demand for inner lawfulness to willing and contrasts recognition of the good with personal advantage and the fruits of action.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## The eternal, freedom and initiation
+
+[English](../../docs/lessons/21.html) · [Português](../../docs/pt/lessons/21.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does knowledge of the eternal become a path toward freedom and initiation without erasing individuality?
+
+**Learning criterion:**
+
+Relate freedom and initiation without erasing individuality
+
+**Essential concepts:**
+
+- label: Freedom
+- definition: In this chapter, Steiner calls freedom action from an inner being whose motives accord with the Eternal in things. He presents it as an ideal to develop toward, rather than arbitrary satisfaction of a wish.
+
+**Prerequisite:**
+
+Disciplined thought, feeling and will
+
+**Connections:**
+
+The chapter synthesis connects receptive thought, transformed feeling, educated willing and freedom. The final book synthesis then asks how this proposed way of knowing relates to the human constitution, reincarnation, destiny and the three worlds.
+
+**Misconception and feedback:**
+
+Participation in the All-Spirit does not mean the disappearance of personality. Steiner describes its highest development while preserving the individual’s contribution to the whole.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Eternal orientation is related to free agency rather than absorption into an anonymous whole.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Eternal orientation is related to free agency rather than absorption into an anonymous whole.
+
+**Teaching method:**
+
+- explanation: Eternal orientation is related to free agency rather than absorption into an anonymous whole.
+- application: In a choir, each voice can retain its distinctive timbre while contributing to one performance. The whole need not make every voice identical. This course comparison clarifies preserved individuality; Steiner’s own comparison uses differently colored circles.
+- feedback: [{'question': 'How is freedom understood in this passage?', 'options': ['As following whichever sensory impression is strongest.', 'As acting from an inner being whose motives accord with the Eternal.', 'As carrying out any arbitrary personal wish.'], 'answer': 1, 'explanation': 'Steiner links freedom with inward action oriented to the Eternal and distinguishes that ideal from being driven by impressions or arbitrary wishes.'}, {'question': 'What do the differently colored circles illustrate?', 'options': ['Individuality disappears completely in a uniform whole.', 'Participation is possible only if the individual remains entirely separate.', 'Each individuality remains within the whole and contributes its own power.'], 'answer': 2, 'explanation': 'Each color keeps its existence in the combined picture. The comparison supports the stated preservation and development of personality.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## How the four chapters fit together
+
+[English](../../docs/lessons/22.html) · [Português](../../docs/pt/lessons/22.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Why does Theosophy move from the human being to repeated lives, three worlds and a path of knowledge?
+
+**Learning criterion:**
+
+Explain why the four chapters form one argument
+
+**Essential concepts:**
+
+- Body and life-body — the physical organization and formative life Steiner distinguishes in a living human being.
+- Soul — sentient-soul, intellectual-soul and consciousness-soul distinguish the inward life mediating between body and spirit.
+- I and spiritual individuality — the self-referential centre and the continuing spiritual formation described by Steiner.
+- Fruits of experience — capacities assimilated from events, distinct from memories of those events.
+- Reincarnation and karma — repeated embodiments of spirit and the soul’s relation to the continuing consequences of deeds.
+- Soul world and spirit-land — sympathy and antipathy organize soul relationships, while living archetypes characterize spiritual formation.
+- Path of knowledge — cultivation of receptive attention, ordered thinking, feeling and will toward investigation.
+
+**Prerequisite:**
+
+Constitution, destiny, worlds and path
+
+**Connections:**
+
+- I. Human constitution: body, soul and spirit describe different relationships to experience
+- II. Continuing individuality: experience yields capacities, while deeds form relations with the world
+- III. Three worlds: bodily, soul and spiritual life are placed within corresponding realms
+- III. Death and return: attachment is released and experience assimilated before renewed embodiment
+- IV. Knowledge: the reader now asks how the described realities could become objects of investigation
+- IV. The path: thinking, feeling and will are cultivated toward conscious spiritual perception
+
+**Misconception and feedback:**
+
+- Body, soul and spirit name interrelated aspects; they are not three separate people.
+- A remembered episode differs from the capacity acquired through it.
+- Bodily heredity, reincarnation and karma answer different questions about continuity.
+- Soul regions and spiritual regions have distinct organizing principles; their descriptions are not physical geography.
+- A comparison drawn from ordinary experience differs from a description claimed on the basis of spiritual perception.
+- Understanding a communicated account differs from personally investigating its objects.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The existing synthesis supplies a connected model and unresolved questions, not just an assignment to summarize.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The existing synthesis supplies a connected model and unresolved questions, not just an assignment to summarize.
+
+**Teaching method:**
+
+- explanation: The existing synthesis supplies a connected model and unresolved questions, not just an assignment to summarize.
+- application: Chapter I distinguishes body, soul and spirit within human experience and explains the I and the members of constitution. Chapter II asks how an individuality develops through time: memories can fade while acquired capacities remain, and deeds continue through their effects. Steiner extends those relationships to reincarnation and karma. Chapter III situates them in the physical world, soul world and spirit-land, describing release from bodily attachments, assimilation of experience and return to earthly life. The learning example helps explain a capacity’s persistence without an unchanged memory; the post-mortem regions are presented as spiritual descriptions. Chapter IV responds to the resulting question of knowledge by describing how thinking, feeling and will can be cultivated for investigation. Understanding this architecture means following the different kinds of argument and description, together with the book’s distinction between comprehending an account and investigating it oneself.
+- feedback: {'task': 'Explain the architecture of Theosophy as a whole. Show how the distinctions in Chapter I make the questions in Chapters II and III possible, and why the book ends with Chapter IV. Identify one transition where an ordinary example supports an argument and one where Steiner presents a spiritual description.', 'model': 'Chapter I distinguishes body, soul and spirit within human experience and explains the I and the members of constitution. Chapter II asks how an individuality develops through time: memories can fade while acquired capacities remain, and deeds continue through their effects. Steiner extends those relationships to reincarnation and karma. Chapter III situates them in the physical world, soul world and spirit-land, describing release from bodily attachments, assimilation of experience and return to earthly life. The learning example helps explain a capacity’s persistence without an unchanged memory; the post-mortem regions are presented as spiritual descriptions. Chapter IV responds to the resulting question of knowledge by describing how thinking, feeling and will can be cultivated for investigation. Understanding this architecture means following the different kinds of argument and description, together with the book’s distinction between comprehending an account and investigating it oneself.'}
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Sensation and its bodily mediation
+
+[English](../../docs/lessons/23.html) · [Português](../../docs/pt/lessons/23.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+What distinguishes sentient-soul from the organization supporting sensation?
+
+**Learning criterion:**
+
+Distinguish sensation from its supporting organization
+
+**Essential concepts:**
+
+- label: Sentient-soul
+- definition: Steiner uses this term for inwardly experienced sensation and its related desires, aversions, impulses and passions.
+
+**Prerequisite:**
+
+Physical and etheric organization
+
+**Connections:**
+
+The next reading asks how thinking changes this inward life, first by serving needs and then by seeking truth and goodness.
+
+**Misconception and feedback:**
+
+Soul-body concerns organization supporting sentient activity; sentient-soul concerns inwardly lived experience. The chapter relates them without treating the terms as interchangeable.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Sentient-soul is separated from mediation instead of adding a redundant label to the physical senses.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Sentient-soul is separated from mediation instead of adding a redundant label to the physical senses.
+
+**Teaching method:**
+
+- explanation: Sentient-soul is separated from mediation instead of adding a redundant label to the physical senses.
+- application: A description of someone’s eye movements does not describe how a color appears to that person from within. This course example clarifies two standpoints in Steiner’s argument; it is not an independent proof of his classification.
+- feedback: [{'question': 'Which distinction is central to the blue-color discussion?', 'options': ['The difference between a bodily process and the inward experience of a sensation.', 'The claim that physical eyes have no role in sensation.', 'The identification of all sensation with moral goodness.'], 'answer': 0, 'explanation': 'Steiner preserves bodily and living processes while distinguishing the sensation experienced inwardly.'}, {'question': 'How does this section relate soul-body and sentient-soul?', 'options': ['It treats both as names for the physical brain alone.', 'It separates all inward experience from bodily support.', 'It differentiates bodily mediation from inward experience while relating them closely.'], 'answer': 2, 'explanation': 'The sentient-soul depends on living bodily organization; soul-body mediates that relationship.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Spiritual content and spiritual individuality
+
+[English](../../docs/lessons/24.html) · [Português](../../docs/pt/lessons/24.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does Steiner relate spirit-self, life-spirit and spirit-man?
+
+**Learning criterion:**
+
+Relate universal content to individual spiritual development
+
+**Essential concepts:**
+
+- label: Spirit-self
+- definition: Steiner names the spiritual content received and individualized through the I spirit-self, distinguishing it from consciousness-soul’s bearing of truth.
+
+**Prerequisite:**
+
+I and truth-directed thinking
+
+**Connections:**
+
+The next reading brings the distinctions together and explains why the source uses nine, seven and four members in different arrangements.
+
+**Misconception and feedback:**
+
+Intuition here is the chapter’s term for spiritual revelation. A strong feeling of certainty, by itself, does not explain that meaning.
+
+**Identified conceptual gap:**
+
+Add a corrected calculation whose truth is shared but whose future practice belongs to the individual.
+
+**Gap addressed:**
+
+- {'file': 'content/theosophy-guided-chapter-1.json', 'id': 24, 'field': 'example', 'before': 'A learner can recognize a valid principle and gradually make it part of how they judge and act. This course example helps distinguish acknowledging a truth from integrating it into a life; it does not prove the spiritual members described by Steiner.', 'beforePt': 'Uma pessoa pode reconhecer um princípio válido e, gradualmente, incorporá-lo à maneira de julgar e agir. Este exemplo do curso ajuda a distinguir reconhecer uma verdade e integrá-la à vida; não prova os membros espirituais descritos por Steiner.', 'after': 'A learner recognizes that a criticism of their calculation is correct. The result is not made true by being accepted; it can be checked by another person. When the learner changes how they check future calculations, the recognized content also becomes part of their individual activity. This distinguishes the truth’s validity from its reception into a life. It helps explain consciousness-soul and spirit-self without claiming that this ordinary correction proves the spiritual members or completes their development.', 'pt': 'Uma pessoa reconhece que a crítica a seu cálculo está correta. O resultado não se torna verdadeiro por ser aceito; outra pessoa pode verificá-lo. Quando muda a maneira de conferir cálculos futuros, o conteúdo reconhecido também passa a integrar sua atividade individual. Isso distingue a validade da verdade de sua recepção numa vida. Ajuda a explicar alma da consciência e si-mesmo espiritual sem afirmar que essa correção comum prova os membros espirituais ou completa seu desenvolvimento.', 'reason': 'Complete the valid-truth versus individualized-reception comparison with a particular correction.'}
+
+**Teaching method:**
+
+- explanation: Add a corrected calculation whose truth is shared but whose future practice belongs to the individual.
+- application: A learner can recognize a valid principle and gradually make it part of how they judge and act. This course example helps distinguish acknowledging a truth from integrating it into a life; it does not prove the spiritual members described by Steiner.
+- feedback: [{'question': 'What distinguishes spirit-self from consciousness-soul in this passage?', 'options': ['Spirit-self makes truth valid only when an individual likes it.', 'Spirit-self means the same as physical sensation.', 'Spirit-self concerns spiritual truth received and individualized by the I.'], 'answer': 2, 'explanation': 'The distinction concerns individual spiritual reception, not changing truth into a private preference.'}, {'question': 'Which relationship preserves the three spiritual terms?', 'options': ['Spirit-man names spiritual individuality; life-spirit its spiritual life; spirit-self spiritual content individualized in the I.', 'All three identify separate visible organs.', 'Life-spirit means the same as momentary pleasure.'], 'answer': 0, 'explanation': 'The account differentiates the spiritual being, its life and the individualized spiritual content rather than presenting three synonyms.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Sympathy, antipathy and the seven soul regions
+
+[English](../../docs/lessons/25.html) · [Português](../../docs/pt/lessons/25.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How do attraction and exclusion organize Steiner’s seven soul regions?
+
+**Learning criterion:**
+
+Explain sympathy/antipathy across the soul regions
+
+**Essential concepts:**
+
+- label: Sympathy and antipathy
+- definition: Steiner calls attraction toward union sympathy, and exclusion that maintains separate identity antipathy.
+
+**Prerequisite:**
+
+Soul world and feeling
+
+**Connections:**
+
+Before applying the regions, he returns to the soul’s place between body and spirit and asks what bodily death changes.
+
+**Misconception and feedback:**
+
+The fourth region is inward sympathy, while the higher three are freely outward sympathy. They are not simply stronger versions of the first region’s desire.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The organizing relation gives the sevenfold sequence a rationale rather than a list to memorize.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The organizing relation gives the sevenfold sequence a rationale rather than a list to memorize.
+
+**Teaching method:**
+
+- explanation: The organizing relation gives the sevenfold sequence a rationale rather than a list to memorize.
+- application: A reader can seek a book solely for facts that confirm a preferred opinion, or attend to its argument even where it is unfamiliar. This course example clarifies appropriation versus receptive interest; it does not classify the reader into a soul region.
+- feedback: [{'question': 'Which description belongs to Flowing Excitability?', 'options': ['Antipathy completely excludes every outside impression.', 'The two forces balance, allowing relatively neutral reception.', 'Sympathy serves only the desire to possess an object.'], 'answer': 1, 'explanation': 'The source distinguishes balanced reception from both greed and the enjoyment later added to a sensation.'}, {'question': 'What changes in the higher three regions?', 'options': ['Sympathy becomes freely outward and enlivening.', 'The regions become seven separate physical places.', 'Every instance of sympathy disappears.'], 'answer': 0, 'explanation': 'Steiner describes receiving and enlivening other beings beyond the closed life of the formation.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Purification through the seven soul regions
+
+[English](../../docs/lessons/26.html) · [Português](../../docs/pt/lessons/26.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does each soul region release a different kind of attachment?
+
+**Learning criterion:**
+
+Relate different attachments to stages of release
+
+**Essential concepts:**
+
+- label: Purification
+- definition: Steiner describes purification as the release of bodily-dependent attachments through the soul-world forces to which those attachments have affinity.
+
+**Prerequisite:**
+
+Sympathy/antipathy and post-death desire
+
+**Connections:**
+
+Steiner describes Spirit-land before following the released spirit through it, so that the next account has an intelligible setting.
+
+**Misconception and feedback:**
+
+The regions differentiate kinds of attachment. Their interpenetration and affinity-dependent action prevent treating the list as a uniform schedule for every person.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Each region is connected with a kind of attachment, preserving the account's internal differences.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Each region is connected with a kind of attachment, preserving the account's internal differences.
+
+**Teaching method:**
+
+- explanation: Each region is connected with a kind of attachment, preserving the account's internal differences.
+- application: Someone can value a concert for sensory enjoyment, for the pleasure of performing, or for a meaning understood through it. This course example distinguishes orientations within a similar activity; it does not establish their postmortem consequences.
+- feedback: [{'question': 'What distinguishes the fourth-region application?', 'options': ['It concerns only the speed of external impressions.', 'It concerns identification of the self with the physical body.', 'It is the same appetite example repeated without change.'], 'answer': 1, 'explanation': 'The fourth region transforms bodily self-identification and its corresponding feeling of emptiness.'}, {'question': 'Why is one fixed timetable inaccurate for these regions?', 'options': ['Steiner relates duration and experience to the soul’s affinity with them.', 'The text says every soul spends exactly equal time in each.', 'The list contains no differences between attachments.'], 'answer': 0, 'explanation': 'Corresponding attachments determine whether and how the purifying influence is experienced.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Inherited traits and capacities carried forward
+
+[English](../../docs/lessons/27.html) · [Português](../../docs/pt/lessons/27.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+How does Steiner distinguish inherited tendencies from an individuality’s acquired spiritual capacities?
+
+**Learning criterion:**
+
+Distinguish inheritance from acquired spiritual capacity
+
+**Essential concepts:**
+
+- label: Acquired capacities
+- definition: Steiner describes these as enduring fruits of learning appropriated by spirit-self; he extends the account to capacities that an individuality brings into an earthly life.
+
+**Prerequisite:**
+
+Biography and individuality
+
+**Connections:**
+
+Experience becomes enduring within the spirit. The next reading considers the other direction introduced at the chapter’s opening: deeds that become enduring outside the actor.
+
+**Misconception and feedback:**
+
+Steiner does allow inherited personal tendencies. Spiritual continuity in this reading concerns the individuality’s fruits, rather than an unchanged personality or a remembered catalogue of previous lives.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The inherited-tendency contrast explains the author's distinction without denying ordinary heredity.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The inherited-tendency contrast explains the author's distinction without denying ordinary heredity.
+
+**Teaching method:**
+
+- explanation: The inherited-tendency contrast explains the author's distinction without denying ordinary heredity.
+- application: A musician may resemble a parent in temperament while developing a distinctive skill through practice. This course example separates the questions of a family resemblance and an acquired capacity; it does not establish the source of a talent before birth.
+- feedback: [{'question': 'What does Goethe’s account of parental traits illustrate here?', 'options': ['Steiner excludes every personal tendency from heredity.', 'Some personal qualities can be inherited, while essential spiritual individuality is distinguished from them.', 'Spirit-self is another name for a parent’s physical body.'], 'answer': 1, 'explanation': 'The source allows hereditary tendencies through soul-body and sentient-soul while distinguishing them from essential spiritual individuality.'}, {'question': 'How does the argument move from learning during life to capacities present early in life?', 'options': ['Steiner interprets the latter as fruits of experience acquired in a previous life.', 'It says learning leaves no lasting effect.', 'It identifies talent with a complete memory of every former episode.'], 'answer': 0, 'explanation': 'The source extends its fruits-of-learning account across lives; the extension concerns retained capacities, not complete episodic recall.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
 ## What meditation is meant to teach
 
 [English](../../docs/meditation/00.html) · [Português](../../docs/pt/meditation/00.html)
@@ -12165,6 +18279,1051 @@ Fresh fidelity to original witnesses remains unverified; pedagogical review does
 **Source limit:**
 
 Existing 33-capture upload notes only. Upload translator/edition/date remain unidentified; the Dawson GA 68d parallel does not supply the upload metadata. Malformed sentences and native repetitions are not silently repaired.
+
+## How to read this nutrition anthology
+
+[English](../../docs/nutrition/00.html) · [Português](../../docs/pt/nutrition/00.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Distinguish anthology voices, argument and evidence.
+
+**Learning criterion:**
+
+Distinguish source voice, argument and evidence
+
+**Essential concepts:**
+
+- Anthology versus continuous lecture sequence
+- Editorial voice versus lecturer
+- Interpretation, argument and evidence
+- Capture order versus printed pagination
+
+**Prerequisite:**
+
+No prior specialist knowledge
+
+**Connections:**
+
+The orientation separates anthology editing, lecture transcription and capture locators before introducing concepts.
+
+**Misconception and feedback:**
+
+The orientation separates anthology editing, lecture transcription and capture locators before introducing concepts.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The orientation separates anthology editing, lecture transcription and capture locators before introducing concepts.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The orientation separates anthology editing, lecture transcription and capture locators before introducing concepts.
+
+**Teaching method:**
+
+- explanation: The orientation separates anthology editing, lecture transcription and capture locators before introducing concepts.
+- application: [{'prompt': 'Describe the three things you will record when reading a passage.', 'model': 'Record what Steiner claims, how the passage supports the chapter’s argument, and what evidence would be needed to assess it. Include the capture number and identify editorial material separately.'}, {'prompt': 'Explain why the lecture transcription note matters without using it to dismiss the entire book.', 'model': 'Capture 117 warns of unrevised records and possible faulty passages. This calls for care with wording and context, not automatic rejection of every claim. Short quoted passages should be checked against the supplied images.'}]
+- feedback: [{'question': 'What kind of book is this?', 'options': ['A continuous textbook written in one year.', 'A themed anthology of lecture extracts from different dates and audiences.', 'A modern medical treatment manual.'], 'answer': 1, 'explanation': 'The editor arranged extracts from 1906–1924 into twelve themed chapters. Chapter numbers are not one continuous lecture sequence.'}, {'question': 'What does “PDF capture 11” identify?', 'options': ['The eleventh image in the supplied PDF.', 'Printed book page 11 in every edition.', 'Lecture number 11 of GA 68.'], 'answer': 0, 'explanation': 'The supplied PDF consists of Kindle screenshots. Their order is a stable locator for this course; it is not the book’s printed pagination.'}, {'question': 'How should an italic chapter headnote be read?', 'options': ['Automatically as the lecturer’s own words.', 'As a modern experiment.', 'As editorial framing, distinguished from the lecture extract.'], 'answer': 2, 'explanation': 'The anthology combines editorial material and historical lecture extracts. Keep those voices separate, particularly the retrospective BSE comparison.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Food, freedom and the body as an instrument
+
+[English](../../docs/nutrition/01.html) · [Português](../../docs/pt/nutrition/01.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain why the opening question concerns both food and human freedom.
+
+**Learning criterion:**
+
+Explain the body-as-instrument argument without reductionism
+
+**Essential concepts:**
+
+- What question is being asked?
+- Why the instrument image matters
+- Explanation before prescription
+- Carry the question forward
+
+**Prerequisite:**
+
+Orientation and evidence levels
+
+**Connections:**
+
+The instrument metaphor is an explanation of Steiner’s position, not evidence that a separate spiritual agent has been demonstrated. Nutrition does affect bodily functioning; this course studies the additional interpretation he gives it.
+
+**Misconception and feedback:**
+
+The instrument metaphor is an explanation of Steiner’s position, not evidence that a separate spiritual agent has been demonstrated. Nutrition does affect bodily functioning; this course studies the additional interpretation he gives it.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The instrument analogy explains bodily support without making food either irrelevant or a complete explanation of individuality.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The instrument analogy explains bodily support without making food either irrelevant or a complete explanation of individuality.
+
+**Teaching method:**
+
+- explanation: The instrument analogy explains bodily support without making food either irrelevant or a complete explanation of individuality.
+- application: [{'prompt': 'Describe the instrument image in your own words. Explain what it allows Steiner to accept and what it allows him to reject. Cite capture 9 or 10.', 'model': 'A good answer accepts that bodily nourishment affects what a person can do, while rejecting the claim that food alone explains thinking and individuality. It should identify both sides of the analogy, rather than merely saying “food is important.”'}, {'prompt': 'Explain how a lesson could teach this chapter while respecting the freedom described in the excerpt.', 'model': 'Present the argument, distinguish interpretation from established physiology, and invite a reasoned response. Understanding the claim should not require agreement with it or adopting a diet.'}]
+- feedback: [{'question': 'What is the main disagreement with the material reading of Feuerbach’s saying?', 'options': ['Food has no effect on the human body.', 'Every person must adopt one prescribed diet.', 'Food affects the bodily instrument but does not completely explain the human being.'], 'answer': 2, 'explanation': 'The distinction concerns explanatory completeness. Steiner does not deny nourishment, and the opening explicitly rejects agitation for a diet.'}, {'question': 'What does the instrument comparison distinguish?', 'options': ['A measured nutrient from an unmeasured nutrient.', 'The condition of the body from the activity it enables.', 'Cooked food from raw food.'], 'answer': 1, 'explanation': 'Like an instrument and its performance, bodily fitness and spiritual activity are related without being treated as identical.'}, {'question': 'What is the reader’s next task after understanding a claim?', 'options': ['Examine its grounds before deciding what follows.', 'Treat the word “fact” as sufficient verification.', 'Skip the explanation and follow a rule.'], 'answer': 0, 'explanation': 'Understanding the author’s reasoning and establishing its truth are different tasks. Freedom depends on informed judgement, not automatic acceptance.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## The fourfold human being and food transformation
+
+[English](../../docs/nutrition/02.html) · [Português](../../docs/pt/nutrition/02.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Describe the fourfold account and connect it to the plant–animal contrast.
+
+**Learning criterion:**
+
+Relate fourfold organization to transformation
+
+**Essential concepts:**
+
+- Four elements, one interacting being
+- Plants and animals as comparisons
+- Why food origin enters the argument
+- From food to stimulants
+
+**Prerequisite:**
+
+Instrument versus activity
+
+**Connections:**
+
+The fourfold account is anthroposophical interpretation. Plants also respire; the book’s contrast between plant and human gas processes should not be taken as a complete account of photosynthesis or respiration.
+
+**Misconception and feedback:**
+
+The fourfold account is anthroposophical interpretation. Plants also respire; the book’s contrast between plant and human gas processes should not be taken as a complete account of photosynthesis or respiration.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The fourfold table and plant/animal contrast make the reason for transformation explicit.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The fourfold table and plant/animal contrast make the reason for transformation explicit.
+
+**Teaching method:**
+
+- explanation: The fourfold table and plant/animal contrast make the reason for transformation explicit.
+- application: [{'prompt': 'Use the four terms to describe how Steiner interprets a living human being. Include one relationship between terms, not just four definitions.', 'model': 'Describe physical embodiment, etheric life, astral experience and I self-awareness, then explain that each influences the others and is expressed physically.'}, {'prompt': 'Explain the plant–animal distinction without turning it into a dietary command. Cite two captures from 14–18.', 'model': 'Reconstruct the claim about inner transformative work, mention individual constitution, and separate that account from deciding what any person should eat.'}]
+- feedback: [{'question': 'What does “all the others” refer to in the excerpt?', 'options': ['Four vitamins.', 'The interacting physical, etheric, astral and I organizations.', 'Four isolated organs acting independently.'], 'answer': 1, 'explanation': 'Capture 11 stresses reciprocal organization rather than isolated compartments or a nutrient list.'}, {'question': 'Why is plant nourishment associated with inner activity here?', 'options': ['Steiner says the human being must perform more transformation instead of receiving animal preparation.', 'Plants contain no substances.', 'All animal food is forbidden.'], 'answer': 0, 'explanation': 'The claim concerns who performs the formative work. Its qualified dietary discussion does not become a universal ban.'}, {'question': 'Which description belongs to the I in this chapter?', 'options': ['A digestive enzyme.', 'The same thing as appetite alone.', 'The bearer of self-awareness.'], 'answer': 2, 'explanation': 'The astral body bears desire and sensation; the I is distinguished through self-awareness.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## From mineral substance to warmth ether
+
+[English](../../docs/nutrition/03.html) · [Português](../../docs/pt/nutrition/03.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Trace the proposed transformation of a mineral and explain why childhood milk enters the chapter.
+
+**Learning criterion:**
+
+Trace the mineral-to-warmth-ether proposal
+
+**Essential concepts:**
+
+- Inside is not the laboratory
+- The sequence of the argument
+- Why milk is an age-specific example
+- Where the reasoning becomes a disease claim
+
+**Prerequisite:**
+
+Fourfold organization
+
+**Connections:**
+
+Warmth ether and spiritual hierarchies are not measured stages of modern digestion. Diabetes is explained medically through problems with insulin production or action, not failure to transform minerals into warmth ether. The child/milk passage is historical interpretation, not an infant-feeding plan.
+
+**Misconception and feedback:**
+
+Warmth ether and spiritual hierarchies are not measured stages of modern digestion. Diabetes is explained medically through problems with insulin production or action, not failure to transform minerals into warmth ether. The child/milk passage is historical interpretation, not an infant-feeding plan.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Intermediate stages and childhood milk are explained as historical claims, not child-feeding advice.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Intermediate stages and childhood milk are explained as historical claims, not child-feeding advice.
+
+**Teaching method:**
+
+- explanation: Intermediate stages and childhood milk are explained as historical claims, not child-feeding advice.
+- application: [{'prompt': 'Describe the transformation sequence as Steiner presents it, and distinguish warmth ether from ordinary heat.', 'model': 'Name incorporation, warmth ether, cosmic spiritual forces and resolidification. Warmth ether is a proposed spiritual condition, not simply warming food.'}, {'prompt': 'Explain why the diabetes passage is an additional step in the argument. What would you need to evaluate it?', 'model': 'It applies a spiritual model to a specific disease. Independent physiological and clinical evidence would be needed; repeating the model does not supply that evidence.'}]
+- feedback: [{'question': 'Which sequence belongs to capture 21?', 'options': ['Mineral → warmth ether → cosmic formative influence → embodied form.', 'Mineral → unchanged bone fragment with no transformation.', 'Milk → nicotine → cosmic influence.'], 'answer': 0, 'explanation': 'The spiritual reception occurs during the proposed warmth-ether condition before renewed embodiment.'}, {'question': 'Why does Steiner introduce milk for children?', 'options': ['He says age never changes nourishment.', 'He identifies it as a mineral fertilizer.', 'He says it eases a transformation the growing organism cannot yet fully perform.'], 'answer': 2, 'explanation': 'The example is about age-dependent formative strength: milk is said to reduce the growing organism’s work of transforming lifeless substances.'}, {'question': 'Which claim needs separate medical evidence?', 'options': ['That the excerpt is in chapter 2.', 'That incomplete warmth-ether transformation explains diabetes.', 'That the chapter uses calcium phosphate as an example.'], 'answer': 1, 'explanation': 'A textual observation establishes what the book says; it does not validate the disease mechanism.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Plant reversal, animal organization, milk and honey
+
+[English](../../docs/nutrition/04.html) · [Português](../../docs/pt/nutrition/04.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain the root–flower reversal and how milk and honey complete this chapter.
+
+**Learning criterion:**
+
+Explain reversal and the milk/honey relation
+
+**Essential concepts:**
+
+- The plant is read as a direction of striving
+- What is reversed?
+- Why the animal is treated differently
+- The milk–honey pairing
+
+**Prerequisite:**
+
+Transformation and warmth ether
+
+**Connections:**
+
+The reversal and cosmic history are Steiner’s spiritual interpretations. The milk–honey symbolism is not a feeding recommendation; honey must not be given to children under 12 months because of infant botulism risk.
+
+**Misconception and feedback:**
+
+The reversal and cosmic history are Steiner’s spiritual interpretations. The milk–honey symbolism is not a feeding recommendation; honey must not be given to children under 12 months because of infant botulism risk.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Root/flower direction is made explicit before milk and honey enter the chapter's argument.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Root/flower direction is made explicit before milk and honey enter the chapter's argument.
+
+**Teaching method:**
+
+- explanation: Root/flower direction is made explicit before milk and honey enter the chapter's argument.
+- application: [{'prompt': 'Describe an outside plant and then Steiner’s inward reversal. Name the direction and human region for root and flower forces.', 'model': 'Outside: root below, flower above. In his account of human transformation: root forces toward the head and flower forces toward the lower organization. Distinguish forces from intact tissues.'}, {'prompt': 'Connect the milk and honey discussion with the chapter’s opening mineral discussion.', 'model': 'Both concern transforming nourishment into formative support. Milk eases childhood shaping; honey is interpreted through later formative forces. The whole chapter asks how incorporation serves human form.'}]
+- feedback: [{'question': 'What does the plant reversal refer to?', 'options': ['An intact plant rotating inside the stomach.', 'Flowers becoming chemical minerals before they are eaten.', 'A proposed reversal of root and flower force directions in human organization.'], 'answer': 2, 'explanation': 'The text concerns formative relationships, illustrated through a physical analogy.'}, {'question': 'Which pairing appears near the end of the chapter?', 'options': ['Both foods with identical capacities at every age.', 'Milk with childhood shaping, honey with corresponding later-life forces.', 'Honey with mineral fertilizer, milk with nicotine.'], 'answer': 1, 'explanation': 'The pairing extends the age-related formation argument introduced earlier.'}, {'question': 'How should the handkerchief demonstration be used?', 'options': ['As an illustration of the proposed inversion, not proof of its spiritual mechanism.', 'As a clinical experiment establishing every claim.', 'As evidence that root tissue reaches the head intact.'], 'answer': 0, 'explanation': 'An analogy makes a relationship easier to picture but cannot by itself establish that the relationship occurs.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Cosmic nourishment and the problem of spiritual independence
+
+[English](../../docs/nutrition/05.html) · [Português](../../docs/pt/nutrition/05.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain the earth–cosmos contrast and why sugar is described as a counterweight to selflessness.
+
+**Learning criterion:**
+
+Connect cosmic nourishment with independent activity
+
+**Essential concepts:**
+
+- Read for the intended audience
+- Milk, plants and meat
+- Sugar and two meanings of selfhood
+- Supports can become substitutes
+
+**Prerequisite:**
+
+Earthly/cosmic contrast
+
+**Connections:**
+
+Cosmic food relationships and sugar-produced ego-character are spiritual claims. The text does not establish that eating sugar improves personality or that national character follows sugar consumption. Coffee/tea descriptions are not reliable personality tests.
+
+**Misconception and feedback:**
+
+Cosmic food relationships and sugar-produced ego-character are spiritual claims. The text does not establish that eating sugar improves personality or that national character follows sugar consumption. Coffee/tea descriptions are not reliable personality tests.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Sugar is explained in its claimed counterweight role; that role is not made a dietary recommendation.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Sugar is explained in its claimed counterweight role; that role is not made a dietary recommendation.
+
+**Teaching method:**
+
+- explanation: Sugar is explained in its claimed counterweight role; that role is not made a dietary recommendation.
+- application: [{'prompt': 'Explain the contrast between moral selflessness and bodily ego-character using capture 35.', 'model': 'Steiner distinguishes giving up moral self-centredness from losing practical individuality. Sugar is proposed as a bodily support for the latter; that proposal is not established nutritional psychology.'}, {'prompt': 'Compare the coffee scaffold with the body-as-instrument image in lesson 1. Where does independence become an issue?', 'model': 'Both images describe support for activity. Coffee becomes problematic in this argument if the support replaces the person’s own thinking effort rather than enabling it.'}]
+- feedback: [{'question': 'What does “innocent” distinguish in the sugar passage?', 'options': ['A scientific proof of national superiority.', 'Bodily individual stability from moral selfishness.', 'A food with no physiological effects.'], 'answer': 1, 'explanation': 'Steiner wants a bodily counterweight to moral selflessness without recommending moral egotism.'}, {'question': 'Why can milk be called ballast in this chapter?', 'options': ['It is said to preserve engagement with earthly life during spiritual development.', 'It has no relation to childhood or embodiment.', 'It prohibits spiritual practice.'], 'answer': 0, 'explanation': 'Ballast names a balancing role, not a rejection of spiritual development.'}, {'question': 'Which wording best respects the chapter’s audience?', 'options': ['Every person has experimentally measured these cosmic effects.', 'The chapter is a calorie-comparison study.', 'Steiner describes experiences he associates with esoteric development.'], 'answer': 2, 'explanation': 'Audience and purpose affect what kind of claim is being made and what background is assumed.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## The living body as an opponent of decay
+
+[English](../../docs/nutrition/06.html) · [Português](../../docs/pt/nutrition/06.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Reconstruct the decay–rancidity–fermentation model and its use in the potato discussion.
+
+**Learning criterion:**
+
+Reconstruct decay, rancidity and fermentation correspondences
+
+**Essential concepts:**
+
+- Why quantities are questioned
+- Three processes, three opponents
+- The potato as a test case
+- Living observation, dead examination and dose
+
+**Prerequisite:**
+
+Fourfold organization and transformation
+
+**Connections:**
+
+The spiritual opponents of decay are not established digestive mechanisms. The text’s protein figures, potato/materialism linkage and historical metal remedies must not be treated as current nutritional or treatment advice. Modern nutrient digestion is explained through enzymes, absorption and metabolism.
+
+**Misconception and feedback:**
+
+The spiritual opponents of decay are not established digestive mechanisms. The text’s protein figures, potato/materialism linkage and historical metal remedies must not be treated as current nutritional or treatment advice. Modern nutrient digestion is explained through enzymes, absorption and metabolism.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The table exposes the argument and the potato disease claim is separately identified as requiring evidence.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The table exposes the argument and the potato disease claim is separately identified as requiring evidence.
+
+**Teaching method:**
+
+- explanation: The table exposes the argument and the potato disease claim is separately identified as requiring evidence.
+- application: [{'prompt': 'Describe the three processes and their proposed opponents. Explain why this is a dynamic account.', 'model': 'Protein decay/etheric, fat rancidity/astral, starch-sugar fermentation/I. The living organism continuously acts on substances rather than merely storing them.'}, {'prompt': 'Reconstruct the potato-to-thinking chain and mark the point where evidence beyond nutrient composition is required.', 'model': 'Show food choice → claimed digestive/head demand → claimed effect on thinking. Neither spiritual head control nor the psychological outcome follows from starch content alone.'}]
+- feedback: [{'question': 'What role does the I have in this chapter’s model?', 'options': ['Opposing fermentation, in relation to warmth.', 'Being identical with protein itself.', 'Replacing all physical processes with no bodily conditions.'], 'answer': 0, 'explanation': 'Capture 44 links the I with warmth and the opposition to starch/sugar fermentation.'}, {'question': 'Why does Steiner question “more protein means better nourished”?', 'options': ['He says no protein is needed.', 'He believes all quantities have identical effects.', 'Excess can burden the activity that must transform and manage it.'], 'answer': 2, 'explanation': 'The argument concerns the work and balance of nourishment, not elimination of protein.'}, {'question': 'Which conclusion is not established merely by potatoes containing starch?', 'options': ['That starch is a carbohydrate.', 'That potatoes cause materialistic thinking.', 'That the chapter uses potatoes as an example.'], 'answer': 1, 'explanation': 'A chemical classification does not prove the chapter’s later psychological causal claim.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Food quality begins before the meal
+
+[English](../../docs/nutrition/07.html) · [Português](../../docs/pt/nutrition/07.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Connect protein transformation, cultivation and appetite without confusing analogy with evidence.
+
+**Learning criterion:**
+
+Connect cultivation, protein and appetite
+
+**Essential concepts:**
+
+- The dismantled watch
+- From transformation to cultivation
+- What the fertilizer comparison does and does not show
+- Appetite and the child’s refusal
+
+**Prerequisite:**
+
+Transformation and formative roles
+
+**Connections:**
+
+The claim that breathed nitrogen directly supplies human protein is inconsistent with ordinary human nutrition: people obtain usable nitrogen through dietary compounds. The watch is an analogy, not a digestive pathway. The chapter’s carrot/worm and fertilizer claims need independent evidence.
+
+**Misconception and feedback:**
+
+The claim that breathed nitrogen directly supplies human protein is inconsistent with ordinary human nutrition: people obtain usable nitrogen through dietary compounds. The watch is an analogy, not a digestive pathway. The chapter’s carrot/worm and fertilizer claims need independent evidence.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The analogy is explained but explicitly distinguished from a demonstrated physiological mechanism.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The analogy is explained but explicitly distinguished from a demonstrated physiological mechanism.
+
+**Teaching method:**
+
+- explanation: The analogy is explained but explicitly distinguished from a demonstrated physiological mechanism.
+- application: [{'prompt': 'Trace the chapter’s movement from the watch to the field and then to the child. Explain the common idea.', 'model': 'Each example resists treating nourishment as a fixed list of substances: food is reorganized, its growth history matters, and an individual responds to it.'}, {'prompt': 'Describe a comparison that could test one fertilizer claim while avoiding a merely nostalgic judgement.', 'model': 'Compare similar crops under specified soil and fertilizer conditions, measure relevant composition and outcomes, and allow results to challenge the claim. “It used to be better” is not sufficient.'}]
+- feedback: [{'question': 'Why is cultivation part of the argument?', 'options': ['He treats all growth conditions as irrelevant.', 'He replaces nutrition with a recipe collection.', 'Steiner thinks the food’s living history affects its quality.'], 'answer': 2, 'explanation': 'The excerpt shifts attention upstream from the meal to plant and soil life.'}, {'question': 'What can the watch analogy establish on its own?', 'options': ['Proof that mineral fertilizer never supports crop protein.', 'How to picture dismantling and reorganization.', 'Proof that protein becomes free chemical elements in digestion.'], 'answer': 1, 'explanation': 'An analogy illustrates a proposed relationship; it cannot establish its biological mechanism.'}, {'question': 'What is the careful reading of the child-refusal example?', 'options': ['It asks adults to consider individual bodily responses rather than apply an abstract plan coercively.', 'Every disliked food is poisonous.', 'Every craving supplies a reliable diagnosis.'], 'answer': 0, 'explanation': 'Attention to individual response is the argument; universal diagnostic claims do not follow.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Following food through the digestive secretions
+
+[English](../../docs/nutrition/08.html) · [Português](../../docs/pt/nutrition/08.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Follow the secretions in the text and distinguish physiological terms from spiritual interpretation.
+
+**Learning criterion:**
+
+Follow secretions and distinguish terms from interpretation
+
+**Essential concepts:**
+
+- Begin with the meal as a process
+- The sequence and its explanatory purpose
+- Liver perception and kidney thinking
+- From chyme to absorption
+
+**Prerequisite:**
+
+Digestive transformation
+
+**Connections:**
+
+Present physiology explains digestive secretions through enzymes, organs, nerves and hormones. Bile assists fat digestion. Liver “perception,” kidney “thinking,” and specific dream imagery are additional spiritual interpretations, not established organ functions.
+
+**Misconception and feedback:**
+
+Present physiology explains digestive secretions through enzymes, organs, nerves and hormones. Bile assists fat digestion. Liver “perception,” kidney “thinking,” and specific dream imagery are additional spiritual interpretations, not established organ functions.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Named organs and enzymes are located; bile is correctly kept distinct from an enzyme.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Named organs and enzymes are located; bile is correctly kept distinct from an enzyme.
+
+**Teaching method:**
+
+- explanation: Named organs and enzymes are located; bile is correctly kept distinct from an enzyme.
+- application: [{'prompt': 'Describe the route from the mouth to the intestine using the four secretions named in capture 59.', 'model': 'Saliva/ptyalin in the mouth; gastric secretion/pepsin in the stomach; pancreatic secretion/trypsin in the intestine; bile from the liver. Note that the chapter adds a spiritual interpretation to these stages.'}, {'prompt': 'Explain the difference between “the liver secretes bile” and “the liver perceives chyme.”', 'model': 'The first names a physiological function. The second attributes a soul-like capacity and is a further interpretive claim. The tears analogy helps picture it but does not establish it.'}]
+- feedback: [{'question': 'Which substance in the chapter’s sequence is not itself a digestive enzyme?', 'options': ['Trypsin.', 'Bile.', 'Pepsin.'], 'answer': 1, 'explanation': 'Bile assists fat digestion; pepsin and trypsin are protein-digesting enzymes.'}, {'question': 'What work does the onion-and-tears analogy do?', 'options': ['It illustrates Steiner’s proposed connection between perception and bile secretion.', 'It proves that kidneys think in the ordinary sense.', 'It identifies onions as the only digestible food.'], 'answer': 0, 'explanation': 'The analogy motivates the interpretation, but is not evidence establishing unconscious organ consciousness.'}, {'question': 'How does this chapter connect with the opening chapters?', 'options': ['It denies any bodily processing of food.', 'It replaces freedom with one required menu.', 'It presents nourishment as successive transformation rather than simple transfer.'], 'answer': 2, 'explanation': 'Transformation remains the connecting idea even when the explanatory vocabulary changes.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## From digestion to thinking and willing
+
+[English](../../docs/nutrition/09.html) · [Português](../../docs/pt/nutrition/09.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Locate the argumentative step from digestive processes to a spiritual explanation of thought.
+
+**Learning criterion:**
+
+Identify the step from digestion to spiritual thought
+
+**Essential concepts:**
+
+- Transformation continues beyond the secretions
+- Water, support and upright organization
+- Salt and phosphorus as an argument
+- Recognize the inference, not just the labels
+
+**Prerequisite:**
+
+Secretions and physiological vocabulary
+
+**Connections:**
+
+The salt/thinking and phosphorus/willing mapping is not an established mechanism or a supplementation guide. Do not reproduce the match-tip or phosphorus example as an experiment. Organized nervous systems, unlike isolated substances, are relevant to modern explanations of thought.
+
+**Misconception and feedback:**
+
+The salt/thinking and phosphorus/willing mapping is not an established mechanism or a supplementation guide. Do not reproduce the match-tip or phosphorus example as an experiment. Organized nervous systems, unlike isolated substances, are relevant to modern explanations of thought.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The explanation makes the additional inference visible instead of hiding it in familiar anatomy.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The explanation makes the additional inference visible instead of hiding it in familiar anatomy.
+
+**Teaching method:**
+
+- explanation: The explanation makes the additional inference visible instead of hiding it in familiar anatomy.
+- application: [{'prompt': 'Explain capture 65 as an argument: starting contrast, proposed answer and one unanswered question.', 'model': 'Contrast isolated salt/phosphorus with thinking/willing in a living human. Steiner answers with soul-spirit. Ask whether biological organization could explain the contrast without establishing that proposed agent.'}, {'prompt': 'Describe how the fluid discussion prepares the move to thinking. Cite capture 63 or 64 and capture 65.', 'model': 'The chapter directs attention to organization and relationships beyond isolated solids, then attributes the use of matter for thinking and willing to soul-spirit. State the connection without treating the inference as proof.'}]
+- feedback: [{'question': 'What is the purpose of contrasting isolated salt with human thinking?', 'options': ['To argue that soul-spirit uses material substances.', 'To prescribe increasing salt until thoughts improve.', 'To say digestion never changes food.'], 'answer': 0, 'explanation': 'The contrast supports Steiner’s proposed agent; it is not a dosing instruction.'}, {'question': 'What alternative has the comparison not excluded?', 'options': ['That the chapter discusses phosphorus.', 'That the author uses examples.', 'That organized biological systems behave differently from isolated substances.'], 'answer': 2, 'explanation': 'Showing an isolated ingredient lacks a capacity does not show that an organized system of ingredients cannot have it.'}, {'question': 'Which claim belongs to the author’s spiritual interpretation?', 'options': ['A glass-of-water analogy appears in the chapter.', 'The soul-spirit uses dispersed phosphorus for willing.', 'The chapter follows a discussion of secretions.'], 'answer': 1, 'explanation': 'Distinguish the substantive spiritual claim from verifiable observations about the text.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Plants, preparation and work outside the body
+
+[English](../../docs/nutrition/10.html) · [Português](../../docs/pt/nutrition/10.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain the relationship between plant processes, human transformation and cooking.
+
+**Learning criterion:**
+
+Explain cooking as external work in the model
+
+**Essential concepts:**
+
+- What plants contribute
+- Root, tuber and human region
+- Cooking as transferred work
+- The transition to fat
+
+**Prerequisite:**
+
+Transformation and inward work
+
+**Connections:**
+
+Cooking can change digestibility and food properties, but the chapter’s universal dismissal of raw diets and its spiritual organ mapping exceed the evidence supplied. Carrot-based worm treatment and national-character claims in this section are historical assertions, not established guidance.
+
+**Misconception and feedback:**
+
+Cooking can change digestibility and food properties, but the chapter’s universal dismissal of raw diets and its spiritual organ mapping exceed the evidence supplied. Carrot-based worm treatment and national-character claims in this section are historical assertions, not established guidance.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The preparation argument shows why cooking enters the chapter without equating all food processing.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The preparation argument shows why cooking enters the chapter without equating all food processing.
+
+**Teaching method:**
+
+- explanation: The preparation argument shows why cooking enters the chapter without equating all food processing.
+- application: [{'prompt': 'Describe the chain from plant growth to preparation to human processing. Use the cooking passage as the middle step.', 'model': 'Plants form food substances; preparation changes the food before eating; the body still transforms and assimilates it. Steiner interprets the sequence as distribution of formative work.'}, {'prompt': 'Choose one sentence from captures 70–74 and classify it as botanical description, practical preparation claim or spiritual interpretation. Explain your choice.', 'model': 'For example, “potato is a tuber” is botanical; cooking eases processing is a practical claim; root forces chiefly support the head is spiritual attribution. Classification must follow what the sentence asserts.'}]
+- feedback: [{'question': 'What does the excerpt say cooking and grinding transfer?', 'options': ['Human thinking into a potato.', 'All digestion into the kitchen so the body does nothing.', 'Part of the preparatory work from inside the body to outside it.'], 'answer': 2, 'explanation': 'Preparation is said to relieve some inward work; it does not eliminate bodily digestion.'}, {'question': 'Which is the botanical distinction made about a potato?', 'options': ['It is a cereal grain.', 'The commonly eaten part is a tuber.', 'The commonly eaten part is its fruit.'], 'answer': 1, 'explanation': 'The tuber distinction precedes the separate claims about inward processing.'}, {'question': 'What would be an overgeneralization from the potato example?', 'options': ['All raw-food diets inevitably lead to collapse.', 'The author compares raw and cooked potatoes.', 'Grinding changes the form of grain.'], 'answer': 0, 'explanation': 'A particular food comparison does not establish a universal outcome for all raw-food patterns.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Individual diets, animal feeding and access to food
+
+[English](../../docs/nutrition/11.html) · [Português](../../docs/pt/nutrition/11.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain why the chapter’s dietary preference is qualified and distinguish the BSE headnote from the lecture.
+
+**Learning criterion:**
+
+Explain qualifications on diet and separate editorial BSE framing
+
+**Essential concepts:**
+
+- Preference is not a universal command
+- Protein and continuous renewal
+- Read the ox example and the headnote separately
+- Why access closes the discussion
+
+**Prerequisite:**
+
+Individuality, transformation and author voice
+
+**Connections:**
+
+CDC describes BSE as a prion disease, with strong evidence of spread through contaminated feed. The headnote’s prediction claim does not validate Steiner’s urate theory. Racial/intestine-length generalizations are unsupported and should not be used to infer anyone’s digestive ability.
+
+**Misconception and feedback:**
+
+CDC describes BSE as a prion disease, with strong evidence of spread through contaminated feed. The headnote’s prediction claim does not validate Steiner’s urate theory. Racial/intestine-length generalizations are unsupported and should not be used to infer anyone’s digestive ability.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Access and circumstance qualify dietary preference; the later editor's comparison is not assigned to Steiner.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Access and circumstance qualify dietary preference; the later editor's comparison is not assigned to Steiner.
+
+**Teaching method:**
+
+- explanation: Access and circumstance qualify dietary preference; the later editor's comparison is not assigned to Steiner.
+- application: [{'prompt': 'Describe the difference between Steiner’s personal vegetarian example and a universal claim about outcomes. Cite capture 77.', 'model': 'His experience supports his own testimony. A universal outcome would need wider evidence. His explicit individual qualification also prevents converting the testimony into a rule.'}, {'prompt': 'Explain the three layers of the ox/BSE passage: lecture mechanism, editor’s comparison and modern explanation.', 'model': 'The lecture attributes madness to unused forces and urates; the editor relates this to BSE; modern evidence identifies prions and contaminated feed. Similar context does not establish identical cause.'}]
+- feedback: [{'question': 'What does the individual-matter qualification limit?', 'options': ['The distinction between editor and lecturer.', 'Turning a general dietary preference into a rule for everyone.', 'Any need to consider digestive capacity.'], 'answer': 1, 'explanation': 'Capture 77 explicitly says capacity must be considered before changing diet.'}, {'question': 'Who makes the retrospective BSE comparison at the chapter opening?', 'options': ['The editorial headnote.', 'A modern controlled experiment reported in the lecture.', 'The ox speaking in the example.'], 'answer': 0, 'explanation': 'The headnote is later editorial framing; the lecture proposes a different mechanism involving urates.'}, {'question': 'Why does the food-market discussion matter?', 'options': ['It proves wealth guarantees spiritual development.', 'It removes the need to understand individual constitution.', 'It shows that access and social arrangements condition dietary choice.'], 'answer': 2, 'explanation': 'The ending extends the analysis from bodily capacity to the conditions in which people choose.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Food as stimulus and the heart as compacted light
+
+[English](../../docs/nutrition/12.html) · [Português](../../docs/pt/nutrition/12.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain the stronger claim that food stimulates formation rather than supplying the body’s real substance.
+
+**Learning criterion:**
+
+Distinguish food-as-stimulus from material supply
+
+**Essential concepts:**
+
+- Plant organs set up the question
+- A stronger account of nourishment
+- The armchair image
+- Continuity and tension
+
+**Prerequisite:**
+
+Previous transformation account
+
+**Connections:**
+
+Biology describes organs as built and maintained using matter and energy, including absorbed nutrients. The heart-as-compacted-light claim and universal seven-year replacement are not established descriptions of tissue formation. This lesson explains their role in Steiner’s argument.
+
+**Misconception and feedback:**
+
+Biology describes organs as built and maintained using matter and energy, including absorbed nutrients. The heart-as-compacted-light claim and universal seven-year replacement are not established descriptions of tissue formation. This lesson explains their role in Steiner’s argument.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The stronger formation claim is named and its tension with material nourishment is preserved.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The stronger formation claim is named and its tension with material nourishment is preserved.
+
+**Teaching method:**
+
+- explanation: The stronger formation claim is named and its tension with material nourishment is preserved.
+- application: [{'prompt': 'Explain the heart passage without either endorsing it or replacing it with a different scientific statement.', 'model': 'Steiner claims food stimulates a process in which cosmic light forms the organ. Attribute the claim clearly; do not call it established physiology or reduce it to plants using sunlight.'}, {'prompt': 'Compare the armchair with the instrument image from chapter 1. Then identify what is added in chapter 8.', 'model': 'Both distinguish bodily support from the human being’s activity or experience. Chapter 8 adds the account of cosmic/light formation and nourishment chiefly as stimulus.'}]
+- feedback: [{'question': 'What is food’s main role in the stronger claim of chapter 8?', 'options': ['Stimulating formation from the cosmic, light-imbued environment.', 'Providing unchanged pieces of heart tissue.', 'Having no relation to embodiment or self-experience.'], 'answer': 0, 'explanation': 'The text assigns nourishment a stimulus and support role while locating true formation elsewhere.'}, {'question': 'What does the armchair distinguish?', 'options': ['An enzyme from bile.', 'A root from a tuber.', 'The support from the being who experiences it.'], 'answer': 2, 'explanation': 'The chair/occupant analogy separates bodily support and the real human being in the author’s account.'}, {'question': 'What is lost if “compacted light” is reduced to photosynthesis?', 'options': ['The distinction between chapter numbers.', 'The chapter’s stronger spiritual claim about organ formation.', 'The fact that the passage contains a heart example.'], 'answer': 1, 'explanation': 'An ordinary plant-energy explanation is not the same claim as direct cosmic formation of organs.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Four food groups, fourfold organization and social consequences
+
+[English](../../docs/nutrition/13.html) · [Português](../../docs/pt/nutrition/13.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Compare the chapter’s nutrient mapping with chapter 4 and trace the move to social reform.
+
+**Learning criterion:**
+
+Compare nutrient mappings by purpose
+
+**Essential concepts:**
+
+- Four groups are assigned functions
+- Compare rather than merge the mappings
+- The potato argument expands
+- Why farming becomes social reform
+
+**Prerequisite:**
+
+Chapter 4 mapping and fourfold account
+
+**Connections:**
+
+The nutrient/fourfold mappings and potato–hydrocephalus claim are not established physiology. The book supplies no sound basis for treating potatoes as a cause of that condition. Its social argument can be analyzed without accepting the proposed developmental mechanism.
+
+**Misconception and feedback:**
+
+The nutrient/fourfold mappings and potato–hydrocephalus claim are not established physiology. The book supplies no sound basis for treating potatoes as a cause of that condition. Its social argument can be analyzed without accepting the proposed developmental mechanism.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The side-by-side table preserves the differing mappings instead of manufacturing agreement.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The side-by-side table preserves the differing mappings instead of manufacturing agreement.
+
+**Teaching method:**
+
+- explanation: The side-by-side table preserves the differing mappings instead of manufacturing agreement.
+- application: [{'prompt': 'Write both mappings for the etheric, astral and I, then explain the different questions they answer.', 'model': 'Chapter 4: etheric opposes protein decay, astral fat rancidity, I fermentation. Chapter 9: etheric/fats, astral/carbohydrates, I/salts. Distinguish process-opposition from chief field and leave any unresolved tension visible.'}, {'prompt': 'Describe how chapter 9 connects nutrition with social reform. Identify one premise that needs independent evidence.', 'model': 'The argument links nourishment to human capacities and then agriculture to social reform. Its proposed dietary/developmental mechanisms require independent evidence before supporting policy conclusions.'}]
+- feedback: [{'question': 'Which is the chief-field pairing in capture 90?', 'options': ['Etheric body and salts.', 'I and protein.', 'Etheric body and fats.'], 'answer': 2, 'explanation': 'Chapter 9 assigns etheric/fats, astral/carbohydrates, I/salts and physical/protein.'}, {'question': 'How should chapter 4 and chapter 9 be compared?', 'options': ['Treat them as identical lists without checking terms.', 'Distinguish opposing a process from naming a chief nutrient field, while recording the difference.', 'Erase one mapping so the book appears perfectly uniform.'], 'answer': 1, 'explanation': 'A careful comparison retains both source statements and their explanatory purposes.'}, {'question': 'What additional evidence is required for the developmental potato claim?', 'options': ['Evidence establishing the proposed cause of the medical condition.', 'Only confirmation that a potato is a tuber.', 'Only agreement with the social conclusion.'], 'answer': 0, 'explanation': 'Botanical classification and political concern do not establish a medical causal chain.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Alcohol, public understanding and freedom
+
+[English](../../docs/nutrition/14.html) · [Português](../../docs/pt/nutrition/14.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Trace the alcohol argument from bodily effects to the role of public education.
+
+**Learning criterion:**
+
+Explain the move from alcohol effects to public education
+
+**Essential concepts:**
+
+- Immediate stimulation and the later cost
+- Long-term effects and exposure
+- Why an immediate comparison can mislead
+- Freedom requires comprehensible knowledge
+
+**Prerequisite:**
+
+Freedom and inward activity
+
+**Connections:**
+
+Alcohol can cause serious short- and long-term harm. Severe withdrawal can involve seizures or delirium and require medical care; historical bloodletting and further drinking are not treatment guidance. NIAAA describes medically supported assessment and treatment. Steiner’s marrow and reproductive mechanisms are not established by the lecture.
+
+**Misconception and feedback:**
+
+Alcohol can cause serious short- and long-term harm. Severe withdrawal can involve seizures or delirium and require medical care; historical bloodletting and further drinking are not treatment guidance. NIAAA describes medically supported assessment and treatment. Steiner’s marrow and reproductive mechanisms are not established by the lecture.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The freedom argument is taught without treating it as evidence for the asserted bodily mechanism.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The freedom argument is taught without treating it as evidence for the asserted bodily mechanism.
+
+**Teaching method:**
+
+- explanation: The freedom argument is taught without treating it as evidence for the asserted bodily mechanism.
+- application: [{'prompt': 'Describe the movement of the chapter in three stages: immediate effect, longer-term harm and social response.', 'model': 'Name stimulation/depletion, the proposed bodily and generational consequences, and the preference for accessible education that reaches judgement and feeling. Attribute disputed mechanisms.'}, {'prompt': 'Compare the final freedom passage with the opening excerpt in lesson 1. Is the book’s purpose only to list harmful foods?', 'model': 'Both passages prioritize understanding before directing conduct. The specific substances serve the larger question of embodied agency, although factual accuracy still matters.'}]
+- feedback: [{'question': 'Why does Steiner question the contaminated-water comparison?', 'options': ['He thinks time scale never matters.', 'Immediate outcomes can miss longer-term alcohol harm.', 'He says contaminated water is harmless.'], 'answer': 1, 'explanation': 'The issue is what harm and time period the comparison counts.'}, {'question': 'What does capture 104 say about laws?', 'options': ['They may be needed, but comprehensible enlightenment receives priority.', 'All laws are categorically useless.', 'Laws replace the need for understanding.'], 'answer': 0, 'explanation': 'The closing argument acknowledges laws while emphasizing informed freedom.'}, {'question': 'What should follow from the freedom principle for this course?', 'options': ['Present every historical mechanism as medically established.', 'Demand a pledge to follow a dietary rule.', 'Make claims understandable and assess their grounds so readers can judge.'], 'answer': 2, 'explanation': 'Freedom is supported by accurate, comprehensible information, not automatic acceptance.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Nicotine, bodily rhythm and construction–breakdown
+
+[English](../../docs/nutrition/15.html) · [Português](../../docs/pt/nutrition/15.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Reconstruct the rhythm argument and distinguish it from present cardiovascular knowledge.
+
+**Learning criterion:**
+
+Reconstruct the nicotine rhythm argument
+
+**Essential concepts:**
+
+- A chain rather than an isolated effect
+- Where the mechanism must be checked
+- Poison, remedy and judgement
+- Why bone cells enter at the end
+
+**Prerequisite:**
+
+Construction/breakdown and attributed physiology
+
+**Connections:**
+
+The heart pumps blood, and normal resting pulse varies rather than being fixed at 72. CDC describes smoking as harmful to many organs. The historical therapeutic nicotine suggestion is not a reason to smoke or use tobacco as treatment.
+
+**Misconception and feedback:**
+
+The heart pumps blood, and normal resting pulse varies rather than being fixed at 72. CDC describes smoking as harmful to many organs. The historical therapeutic nicotine suggestion is not a reason to smoke or use tobacco as treatment.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Historical causal language and present cardiovascular context are separated; no stimulant prescription is added.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Historical causal language and present cardiovascular context are separated; no stimulant prescription is added.
+
+**Teaching method:**
+
+- explanation: Historical causal language and present cardiovascular context are separated; no stimulant prescription is added.
+- application: [{'prompt': 'Draw or describe the proposed nicotine chain. Mark which links would need evidence rather than follow from the ratio alone.', 'model': 'Nicotine → faster circulation/pulse → altered pulse/breath relation → alleged oxygen imbalance → anxiety/organ effects. Each causal transition needs evidence; arithmetic alone does not establish it.'}, {'prompt': 'Explain how the final bone example complicates a simple “life fights destruction” reading of chapter 4.', 'model': 'Some breakdown belongs to renewal, so living organization must coordinate construction and resorption. Damaging breakdown and functional renewal are not identical.'}]
+- feedback: [{'question': 'What role do the 72 and 18 figures play in Steiner’s argument?', 'options': ['They illustrate the proposed coordination of pulse and breathing.', 'They establish an unvarying law for every person.', 'They count two kinds of vitamins.'], 'answer': 0, 'explanation': 'The ratio is used to picture coordination; it is not a fixed rule of human physiology.'}, {'question': 'Which claim conflicts with current cardiovascular physiology?', 'options': ['That the chapter discusses circulation.', 'That construction and breakdown both occur in bone.', 'That the heart is not a pump.'], 'answer': 2, 'explanation': 'The heart’s contractions pump blood; reconstructing the source claim does not require accepting it.'}, {'question': 'Why include bone-building and bone-resorbing activities?', 'options': ['To remove any distinction between nicotine and food.', 'To show that constructive and breakdown processes can jointly support life.', 'To prove all tissue damage is beneficial.'], 'answer': 1, 'explanation': 'The closing example concerns organized renewal, not indiscriminate approval of damage.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## Health, medicine and the use of freed capacities
+
+[English](../../docs/nutrition/16.html) · [Português](../../docs/pt/nutrition/16.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Explain why the final chapter connects nourishment with knowledge, practice and independent thinking.
+
+**Learning criterion:**
+
+Explain why freed capacities require personal activity
+
+**Essential concepts:**
+
+- Nature, poison and method
+- The physician and the activity of knowing
+- Rice, duck and independent thinking
+- Why diet alone is not development
+
+**Prerequisite:**
+
+Inner work and independent thought
+
+**Connections:**
+
+The clinical validity of remedies requires evidence; the chapter’s spiritual methods and rice/duck thinking mechanism do not establish it. Vegetarianism does not require anthroposophical practice to prevent the brain damage alleged here. The lesson concerns the argument for active development rather than automatic effects.
+
+**Misconception and feedback:**
+
+The clinical validity of remedies requires evidence; the chapter’s spiritual methods and rice/duck thinking mechanism do not establish it. Vegetarianism does not require anthroposophical practice to prevent the brain damage alleged here. The lesson concerns the argument for active development rather than automatic effects.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: Knowledge and practice are related explicitly, preventing a food-produces-spiritual-progress reading.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: Knowledge and practice are related explicitly, preventing a food-produces-spiritual-progress reading.
+
+**Teaching method:**
+
+- explanation: Knowledge and practice are related explicitly, preventing a food-produces-spiritual-progress reading.
+- application: [{'prompt': 'Explain how the final excerpt changes a simplistic reading of the vegetarian passages.', 'model': 'Earlier passages associate vegetarian food with inward activity, but the closing chapter denies that the diet automatically supplies developed consciousness. Explain the additional role assigned to active practice and distinguish it from established medical claims.'}, {'prompt': 'Write a paragraph connecting the first and last chapters through the ideas of instrument, support and activity.', 'model': 'Both chapters distinguish the human being’s activity from its bodily conditions. Nourishment supports the instrument; understanding and practice remain tasks for the person. Mention that this reconstructs Steiner’s view rather than proving every physiological mechanism.'}]
+- feedback: [{'question': 'What does the closing excerpt reject?', 'options': ['Any relationship between bodily conditions and activity.', 'The need to understand the preceding chapters.', 'Automatic spiritual attainment through a food choice alone.'], 'answer': 2, 'explanation': 'Diet is treated as a condition or support; active development is still required in the author’s account.'}, {'question': 'What distinction is made in the rice/duck example?', 'options': ['Every rice eater is already spiritually developed.', 'Being clever is not identical with thinking independently.', 'Rice and duck have identical roles in the example.'], 'answer': 1, 'explanation': 'Steiner’s example concerns the source and independence of thinking, and explicitly qualifies simple dietary conclusions.'}, {'question': 'What is required to assess a treatment described in the chapter?', 'options': ['Evidence of its effects, beyond an appealing picture of nature or the physician.', 'Only a metaphor about an artist.', 'Only the physician’s commitment to the theory.'], 'answer': 0, 'explanation': 'A conception of healing does not by itself establish safety or effectiveness.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
+
+## What is this book teaching about nourishment?
+
+[English](../../docs/nutrition/17.html) · [Português](../../docs/pt/nutrition/17.html)
+
+**Scope:**
+
+Individual review of existing core explanation, worked application, distinctions and optional feedback against the stated learning aim. Derived repository content only; not fresh source verification.
+
+**Learning objective:**
+
+Connect transformation, support, freedom and evidential limits.
+
+**Learning criterion:**
+
+Synthesize recurring threads and preserve unresolved tensions
+
+**Essential concepts:**
+
+- Formation and transformation
+- Inner work and support
+- Individuality and social conditions
+- Understanding and freedom
+- Unresolved nutrient mappings and causal evidence
+
+**Prerequisite:**
+
+All sixteen chapter lessons
+
+**Connections:**
+
+The concluding explanation connects transformation, support and freedom; feedback names contrasts without resolving unavailable source questions.
+
+**Misconception and feedback:**
+
+The concluding explanation connects transformation, support and freedom; feedback names contrasts without resolving unavailable source questions.
+
+**Identified conceptual gap:**
+
+No additional conceptual gap identified for this criterion: The concluding explanation connects transformation, support and freedom; feedback names contrasts without resolving unavailable source questions.
+
+**Gap addressed:**
+
+- decision: Retain
+- reason: The concluding explanation connects transformation, support and freedom; feedback names contrasts without resolving unavailable source questions.
+
+**Teaching method:**
+
+- explanation: The concluding explanation connects transformation, support and freedom; feedback names contrasts without resolving unavailable source questions.
+- application: [{'prompt': 'Write 400–600 words answering: What does this book mean by nourishment? Use the explanations from at least three lessons and connect their concepts; full-book references are optional.', 'model': 'A strong response connects bodily support (chapter 1), transformation and formative forces (chapter 2 or 6), particular food effects, and independent activity (chapter 12). It explains the freedom theme using chapter 10, distinguishes editorial framing, and identifies one claim requiring evidence. The aim is a connected argument, not a list of foods.'}, {'prompt': 'Choose one analogy and one causal claim from the book. Explain what each contributes and why they require different forms of assessment.', 'model': 'For example, the watch makes dismantling/reorganization imaginable, while the potato–hydrocephalus passage alleges a medical cause. The analogy can be assessed for clarity and limits; the causal assertion requires independent biological and clinical evidence.'}, {'prompt': 'Describe one unresolved tension across chapters. Quote or paraphrase both sides with capture references before proposing an interpretation.', 'model': 'Possible comparisons include chapter 4 versus chapter 9 nutrient mappings, chapter 2’s transformed mineral contribution versus chapter 8’s food-as-stimulus emphasis, or inward work versus work spared by cooking. Describe the exact difference, explain each context and state what remains unresolved.'}]
+- feedback: [{'question': 'Which thread connects the instrument, inward transformation and final practice passages?', 'options': ['Food alone automatically produces spiritual development.', 'Nourishment conditions activity, but does not replace the person’s own activity.', 'Every chapter uses an identical nutrient mapping.'], 'answer': 1, 'explanation': 'Chapters 1, 2 and 12 connect bodily support, transformation and active development. The source rejects automatic attainment through a menu.'}, {'question': 'How should two different nutrient mappings be handled?', 'options': ['Record each with its chapter and explanatory purpose, and identify remaining tensions.', 'Silently remove one mapping.', 'Assume the lists are identical without reading their terms.'], 'answer': 0, 'explanation': 'Chapter 4 names opponents of decay processes; chapter 9 names chief fields. A source-based comparison preserves both and does not hide differences.'}, {'question': 'What is needed to support a historical disease mechanism?', 'options': ['An appealing metaphor alone.', 'The statement that the author respects freedom.', 'Independent evidence for the proposed causal chain.'], 'answer': 2, 'explanation': 'Ethical aims and vivid analogies do not validate physiological mechanisms. Comprehension, argument analysis and evidence assessment remain distinct.'}]
+
+**Remaining gap:**
+
+Fresh comparison with original source witnesses remains blocked.
+
+**Source limit:**
+
+Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
 
 ## The two questions: knowledge and freedom
 

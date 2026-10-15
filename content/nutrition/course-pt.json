@@ -1,0 +1,1374 @@
+{
+  "language": "pt-BR",
+  "title": "Nutrição: alimento, saúde e desenvolvimento espiritual",
+  "translationStatus": "Condensed pedagogical translation of existing English course explanations and activities; not a full translation of the book. Existing English excerpts retained and labelled. No fresh original-source or medical verification.",
+  "lessons": [
+    {
+      "id": 0,
+      "title": "Como ler esta antologia de nutrição",
+      "focus": "Distinga o que o livro afirma, como argumenta e como uma afirmação pode ser avaliada.",
+      "sections": [
+        {
+          "title": "O livro e suas vozes",
+          "text": "Nutrition: Food, Health and Spiritual Development reúne palestras de Rudolf Steiner selecionadas por Christian von Arnim. A edição de 2012 registra direitos de seleção e tradução de 2008. Os doze capítulos temáticos usam falas de 1906–1924; não formam um curso contínuo proferido de uma só vez. Introduções editoriais e palavras do palestrante têm funções distintas."
+        },
+        {
+          "title": "Públicos e registros",
+          "text": "A introdução editorial, nas capturas 6–8, explica a organização e destaca a liberdade individual. A nota da captura 117 adverte que muitos registros não foram revistos por Steiner e podem conter erros. Algumas falas pressupõem formação antroposófica; outras se dirigem ao público ou a trabalhadores. Essas diferenças ajudam a compreender mudanças de tom e de ênfase."
+        },
+        {
+          "title": "Três perguntas",
+          "text": "Primeiro reconstrua a afirmação: o que o autor está dizendo? Depois explique sua função: que conclusão ela apoia? Só então examine sua justificação: que observações ou evidências a sustentariam? Uma analogia pode esclarecer uma relação sem provar uma causa. Os exemplos, explicações e respostas desta versão permitem estudar essas diferenças sem exigir adesão às ideias do autor."
+        },
+        {
+          "title": "Como usar as lições",
+          "text": "Comece pela questão e pela explicação, consulte termos e compare sua resposta com o comentário opcional. O livro integral é um aprofundamento, não condição para responder. Os números localizam imagens na sequência de 118 capturas digitais, não páginas impressas. Esta versão é uma adaptação traduzida e condensada do curso inglês existente; preserva seus conceitos, qualificações e atividades. Não é tradução integral da antologia nem nova conferência dos originais. Os pequenos excertos permanecem em inglês e são identificados como tal."
+        }
+      ],
+      "context": "Estudar afirmações históricas não as transforma em orientação alimentar ou tratamento. As distinções de evidência e as referências do curso inglês são preservadas; não foram reavaliadas como pesquisa médica nesta tradução.",
+      "checks": [
+        {
+          "question": "Que tipo de livro está sendo estudado?",
+          "options": [
+            "Um manual contínuo escrito num único ano.",
+            "Uma antologia temática de trechos de palestras de diferentes datas e públicos.",
+            "Um manual médico atual."
+          ],
+          "answer": 1,
+          "explanation": "O editor organiza trechos de 1906–1924 em doze capítulos. A numeração não corresponde a uma sequência única de palestras."
+        },
+        {
+          "question": "O que identifica a captura 11 do PDF?",
+          "options": [
+            "A décima primeira imagem no arquivo fornecido.",
+            "A página impressa 11 em todas as edições.",
+            "A palestra 11 da GA 68."
+          ],
+          "answer": 0,
+          "explanation": "A captura localiza uma imagem da versão digital; paginação impressa e número de palestra são referências diferentes."
+        },
+        {
+          "question": "Como ler uma introdução editorial em itálico?",
+          "options": [
+            "Sempre como palavras do palestrante.",
+            "Como um experimento moderno.",
+            "Como enquadramento editorial, separado do trecho da palestra."
+          ],
+          "answer": 2,
+          "explanation": "O caso da comparação retrospectiva com a BSE torna especialmente importante distinguir editor e palestrante."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Quais três coisas você registraria ao ler um trecho?",
+          "model": "A afirmação de Steiner, o papel dela no argumento e a evidência necessária para avaliá-la. Acrescentaria a captura e identificaria material editorial separadamente."
+        },
+        {
+          "prompt": "Por que a nota sobre transcrição importa sem invalidar automaticamente o livro?",
+          "model": "A captura 117 admite registros não revistos e possíveis falhas. Isso pede atenção à redação e ao contexto; não demonstra que toda afirmação é falsa. As citações devem ser conferidas no testemunho original quando ele estiver disponível."
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Alimento, liberdade e corpo como instrumento",
+      "focus": "Explique por que a questão inicial envolve alimento e liberdade humana.",
+      "sections": [
+        {
+          "title": "A questão de abertura",
+          "text": "Steiner parte da máxima atribuída a Feuerbach de que o ser humano é aquilo que come. A pergunta não é apenas se a comida afeta a saúde, mas se pensar e agir podem ser explicados inteiramente como resultados materiais da digestão. Ele aceita a importância das condições corporais e rejeita que sejam uma explicação completa da pessoa."
+        },
+        {
+          "title": "Instrumento e atividade",
+          "text": "Nas capturas 9–10, um instrumento mal ajustado ilustra como condições corporais podem dificultar a atividade chamada espiritual. Mas o instrumento não é o músico nem a finalidade da música. A imagem permite reconhecer a importância da alimentação sem reduzir a individualidade a ela. A pergunta passa da matéria ingerida ao apoio corporal que torna uma atividade possível."
+        },
+        {
+          "title": "Explicar antes de prescrever",
+          "text": "O trecho distingue explicar um efeito de ordenar uma conduta. Steiner deseja que a pessoa compreenda e julgue. Chamá-lo de fato expressa a confiança do autor, não dispensa o exame de suas razões. Reconstruir uma afirmação, avaliar sua justificação e decidir como agir são três tarefas distintas. A primeira pode ser realizada mesmo quando a segunda permanece controversa."
+        },
+        {
+          "title": "Uma questão que continua",
+          "text": "Os próximos capítulos desenvolvem o modelo espiritual que dá sentido ao instrumento. Retomam se o alimento apoia atividade interior ou oferece atividade preparada externamente que pode substituí-la. O fio condutor é como a nutrição condiciona uma pessoa sem determiná-la inteiramente. Com esse fio, os alimentos particulares deixam de ser uma lista de itens permitidos ou proibidos e entram no argumento sobre a vida humana."
+        }
+      ],
+      "context": "A metáfora esclarece a posição de Steiner; não demonstra um agente espiritual separado. O curso preserva a distinção entre condições corporais e a interpretação adicional que ele lhes atribui.",
+      "checks": [
+        {
+          "question": "Qual é a divergência central com a leitura material da máxima?",
+          "options": [
+            "O alimento não afeta o corpo.",
+            "Todos devem seguir uma dieta prescrita.",
+            "O alimento afeta o instrumento corporal, mas não explica inteiramente o ser humano."
+          ],
+          "answer": 2,
+          "explanation": "A questão é a abrangência da explicação. Steiner não nega a nutrição, e a abertura rejeita a propaganda de uma dieta."
+        },
+        {
+          "question": "O que a comparação do instrumento distingue?",
+          "options": [
+            "Um nutriente medido de outro não medido.",
+            "A condição do corpo e a atividade que ele possibilita.",
+            "Comida cozida e crua."
+          ],
+          "answer": 1,
+          "explanation": "Condição corporal e atividade espiritual são relacionadas, mas não identificadas, como instrumento e execução."
+        },
+        {
+          "question": "Depois de compreender a afirmação, qual é a próxima tarefa?",
+          "options": [
+            "Examinar suas razões antes de decidir o que segue dela.",
+            "Tomar a palavra fato como verificação suficiente.",
+            "Ignorar a explicação e seguir uma regra."
+          ],
+          "answer": 0,
+          "explanation": "Compreender o raciocínio e estabelecer sua verdade são tarefas diferentes. A liberdade envolve julgamento informado."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Explique o que a imagem do instrumento aceita e rejeita.",
+          "model": "Ela aceita que a alimentação e a condição corporal afetam o que podemos realizar. Rejeita que isso baste para explicar pensamento e individualidade: o instrumento condiciona a execução sem ser idêntico à atividade que possibilita."
+        },
+        {
+          "prompt": "Como ensinar o capítulo respeitando a liberdade discutida?",
+          "model": "Apresentar o argumento, distinguir a interpretação da fisiologia estabelecida e permitir uma resposta fundamentada. Compreender não exige concordar nem adotar uma dieta."
+        }
+      ],
+      "chapter": 1,
+      "start": 9,
+      "end": 10
+    },
+    {
+      "id": 2,
+      "title": "O ser humano quádruplo e a transformação dos alimentos",
+      "focus": "Relacione os quatro membros à comparação entre plantas e animais.",
+      "sections": [
+        {
+          "title": "Uma organização em interação",
+          "text": "A captura 11 nomeia corpo físico, corpo etérico, corpo astral e Eu. O etérico é apresentado como organização vital que resiste à decomposição; o astral porta prazer, dor e desejo; o Eu, autoconsciência. Não são quatro compartimentos anatômicos. Glândulas, nervos e sangue aparecem como expressões físicas dessas organizações invisíveis, que influenciam umas às outras."
+        },
+        {
+          "title": "Plantas e animais",
+          "text": "Na descrição de Steiner, compartilhamos vida com plantas e experiência sensível com animais; o Eu distingue a autoconsciência humana. As capturas 12–13 contrapõem formação vegetal e dissolução acompanhada de atividade interior no ser humano. Algo produzido fora é desfeito e reorganizado dentro. A luz interior pertence ao vocabulário espiritual, não significa que a digestão brilhe literalmente."
+        },
+        {
+          "title": "Quem realiza o trabalho?",
+          "text": "Nas capturas 14–16, alimento vegetal exigiria mais atividade formadora própria, enquanto alimento animal ofereceria trabalho já realizado pelo animal. As afirmações adicionais sobre caráter e órgãos ultrapassam o que essa comparação estabelece. Steiner também considera a constituição individual: uma tendência geral não fornece uma regra alimentar igual para todas as pessoas."
+        },
+        {
+          "title": "A questão dos estimulantes",
+          "text": "Álcool, café, chá e leite prolongam a pergunta nas capturas 17–18. O álcool substituiria atividade do Eu; café e chá afetariam de modos diferentes a organização do pensar; o leite ocuparia posição de apoio. O problema recorrente é distinguir estímulo à atividade própria de um suporte que pode tomar seu lugar. Os capítulos posteriores retomam os exemplos, por isso importa compreender a relação, não memorizar um cardápio."
+        }
+      ],
+      "context": "O quadro quádruplo é interpretação antroposófica. Plantas também respiram; a oposição de processos gasosos não é uma descrição completa da fotossíntese e respiração.",
+      "checks": [
+        {
+          "question": "A que se refere a interação de todos os outros no trecho?",
+          "options": [
+            "A quatro vitaminas.",
+            "Às organizações física, etérica, astral e do Eu.",
+            "A quatro órgãos isolados."
+          ],
+          "answer": 1,
+          "explanation": "A captura 11 destaca influência recíproca, não compartimentos independentes."
+        },
+        {
+          "question": "Por que o alimento vegetal é associado à atividade interior?",
+          "options": [
+            "Porque a pessoa realizaria mais transformação em vez de receber preparo animal.",
+            "Porque plantas não contêm substâncias.",
+            "Porque todo alimento animal é proibido."
+          ],
+          "answer": 0,
+          "explanation": "A afirmação trata de quem realiza o trabalho formador. Suas qualificações impedem convertê-la em proibição universal."
+        },
+        {
+          "question": "Qual papel cabe ao Eu?",
+          "options": [
+            "Uma enzima digestiva.",
+            "Apenas o apetite.",
+            "Portador da autoconsciência."
+          ],
+          "answer": 2,
+          "explanation": "Desejo e sensação são atribuídos ao astral; o Eu se distingue pela autoconsciência."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Use os quatro termos incluindo uma relação entre eles.",
+          "model": "O físico nomeia a existência corporal; o etérico, a vida; o astral, a experiência; o Eu, a autoconsciência. No modelo, cada organização atua sobre as outras e se expressa fisicamente, em vez de constituir um órgão separado."
+        },
+        {
+          "prompt": "Explique a comparação vegetal/animal sem ordenar uma dieta.",
+          "model": "Steiner atribui ao vegetal uma exigência maior de transformação própria e ao animal um preparo anterior. Ele acrescenta a constituição individual. Explicar essa relação não decide o que uma pessoa concreta deve comer."
+        }
+      ],
+      "chapter": 1,
+      "start": 11,
+      "end": 18,
+      "table": {
+        "headers": [
+          "Termo no capítulo 1",
+          "Sentido no argumento",
+          "Expressão corporal indicada"
+        ],
+        "rows": [
+          [
+            "Físico",
+            "Organização corporal visível",
+            "Órgãos dos sentidos"
+          ],
+          [
+            "Etérico",
+            "Atividade vital e formativa",
+            "Glândulas"
+          ],
+          [
+            "Astral",
+            "Sensação, desejo, prazer e dor",
+            "Sistema nervoso"
+          ],
+          [
+            "Eu",
+            "Autoconsciência",
+            "Atividade do sangue"
+          ]
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Da substância mineral ao éter de calor",
+      "focus": "Acompanhe a transformação proposta e o papel do leite na infância.",
+      "sections": [
+        {
+          "title": "O interior não é um recipiente",
+          "text": "O capítulo 2 pergunta se a substância incorporada permanece igual à estudada fora do organismo. Steiner rejeita a imagem de uma retorta: a incorporação mudaria também sua relação com forças espirituais formadoras. A afirmação de que nada permanece terrestre é mais forte que observar alterações digestivas comuns; ela propõe transformação espiritual."
+        },
+        {
+          "title": "A sequência proposta",
+          "text": "Na captura 21, o mineral atravessa condições fluidas até o éter de calor. Nessa condição receberia forças cósmicas e das hierarquias superiores, depois se solidificaria novamente para participar da forma dos órgãos. O fosfato de cálcio nos ossos exemplifica a ordem: transformação, recepção de forças formadoras e nova corporificação. Éter de calor não significa simplesmente comida aquecida."
+        },
+        {
+          "title": "Por que entra o leite?",
+          "text": "Segundo Steiner, a criança ainda não possui força suficiente para a transformação completa da matéria sem vida. O leite estaria mais próximo do organismo vivo e facilitaria a formação corporal. O exemplo relaciona alimento e capacidade em desenvolvimento, em vez de atribuir o mesmo papel a uma substância em qualquer idade. Ele prepara a comparação posterior entre leite e mel."
+        },
+        {
+          "title": "Uma inferência sobre doença",
+          "text": "A captura 22 aplica o modelo a depósitos e diabetes, atribuindo-os a falhas na transformação. Trata-se de um passo adicional: uma descrição metafísica é usada para explicar uma doença específica. Repetir a sequência não fornece evidência desse mecanismo. Compreender sua função no argumento e avaliar sua validade clínica continuam sendo perguntas separadas."
+        }
+      ],
+      "context": "Éter de calor e hierarquias não são etapas medidas da digestão moderna. O curso inglês contrapõe a explicação médica da diabetes por problemas de produção ou ação da insulina. A passagem sobre leite não é plano de alimentação infantil.",
+      "checks": [
+        {
+          "question": "Qual sequência pertence à captura 21?",
+          "options": [
+            "Mineral → éter de calor → influência cósmica formadora → forma corporal.",
+            "Mineral → osso inalterado.",
+            "Leite → nicotina → influência cósmica."
+          ],
+          "answer": 0,
+          "explanation": "A recepção espiritual ocorre na condição de éter de calor antes da nova corporificação."
+        },
+        {
+          "question": "Por que o autor introduz leite na infância?",
+          "options": [
+            "Porque a idade nunca importa.",
+            "Porque o leite é adubo mineral.",
+            "Porque facilitaria uma transformação ainda não plenamente realizada pelo organismo em crescimento."
+          ],
+          "answer": 2,
+          "explanation": "O exemplo se refere à capacidade formadora ligada à idade."
+        },
+        {
+          "question": "Qual afirmação precisa de evidência médica separada?",
+          "options": [
+            "O trecho está no capítulo 2.",
+            "A transformação incompleta em éter de calor explica a diabetes.",
+            "O capítulo cita fosfato de cálcio."
+          ],
+          "answer": 1,
+          "explanation": "Localizar uma afirmação no texto não valida a causa de doença que ela propõe."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Descreva a sequência e distinga éter de calor de calor comum.",
+          "model": "O mineral seria incorporado, passaria ao éter de calor, receberia forças espirituais e se solidificaria na formação dos órgãos. É uma condição espiritual proposta, não apenas aumento de temperatura."
+        },
+        {
+          "prompt": "Por que a passagem sobre diabetes é um passo adicional?",
+          "model": "Ela usa o modelo para atribuir uma causa a uma doença. Seriam necessárias evidências fisiológicas e clínicas independentes; o próprio modelo não fornece essa verificação."
+        }
+      ],
+      "chapter": 2,
+      "start": 20,
+      "end": 22
+    },
+    {
+      "id": 4,
+      "title": "Inversão vegetal, organização animal, leite e mel",
+      "focus": "Explique a inversão raiz/flor e sua ligação com a formação humana.",
+      "sections": [
+        {
+          "title": "Direções no vegetal",
+          "text": "Nas capturas 23–25, raízes se vinculam à terra e flores alcançam a luz. Steiner interpreta essas tendências numa evolução cósmica em que o terrestre emerge do espiritual e o vegetal se dirige novamente para fora. Anseio, consciência e castigo são imagens dessa leitura espiritual; não relatórios de emoções humanas sentidas por flores."
+        },
+        {
+          "title": "O que se inverte?",
+          "text": "Na planta externa, a raiz fica abaixo e a flor acima. Na digestão humana descrita pelo autor, forças da raiz se dirigem para cima, à cabeça, e forças florais para baixo. A demonstração com lenço ilustra a inversão de relações. Não afirma que uma raiz engolida viaje intacta ao crânio. O organismo completaria um movimento rumo ao espírito iniciado pelo vegetal."
+        },
+        {
+          "title": "A comparação com o animal",
+          "text": "As capturas 26–28 contrastam a postura humana ereta com a organização mais horizontal do animal. Steiner atribui a isso relações espirituais distintas com as forças vegetais. Seres elementais e consciência animal entram como compromissos adicionais de sua visão, não como conclusões provadas pelo lenço. Ele também adverte contra projetar simplesmente a experiência humana nos animais."
+        },
+        {
+          "title": "Formação em idades diferentes",
+          "text": "Nas capturas 28–30, o leite apoia a formação da criança; o mel apoiaria forças correspondentes em outra fase da vida. A colônia de abelhas recebe uma interpretação semelhante à organização da cabeça, e a combinação bíblica ganha significado espiritual. O capítulo liga substâncias, plantas, animais e idade num argumento sobre forma, não numa lista independente de alimentos."
+        }
+      ],
+      "context": "A inversão e a história cósmica são interpretações de Steiner. A simbologia leite/mel não é recomendação alimentar. Preserva-se a ressalva do curso inglês: mel não deve ser dado a menores de 12 meses pelo risco de botulismo infantil.",
+      "checks": [
+        {
+          "question": "A que se refere a inversão vegetal?",
+          "options": [
+            "Uma planta intacta gira no estômago.",
+            "Flores se tornam minerais antes de serem comidas.",
+            "Uma inversão proposta das direções das forças de raiz e flor."
+          ],
+          "answer": 2,
+          "explanation": "A demonstração ilustra relações formadoras, não deslocamento de tecidos intactos."
+        },
+        {
+          "question": "Qual associação encerra o capítulo?",
+          "options": [
+            "Ambos os alimentos têm funções idênticas em todas as idades.",
+            "Leite com formação infantil e mel com forças correspondentes mais tarde.",
+            "Mel com fertilizante e leite com nicotina."
+          ],
+          "answer": 1,
+          "explanation": "A comparação prolonga a questão da formação em diferentes fases da vida."
+        },
+        {
+          "question": "Como usar a demonstração do lenço?",
+          "options": [
+            "Como ilustração, não prova do mecanismo espiritual.",
+            "Como experimento clínico conclusivo.",
+            "Como prova de que a raiz chega intacta à cabeça."
+          ],
+          "answer": 0,
+          "explanation": "Uma analogia torna uma relação imaginável sem demonstrar sua ocorrência."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Compare a planta externa com a inversão humana proposta.",
+          "model": "Fora, a raiz está abaixo e a flor acima. No modelo, forças radiculares seguem à cabeça e forças florais à organização inferior. Forças atribuídas e tecidos intactos são conceitos distintos."
+        },
+        {
+          "prompt": "Relacione leite e mel à discussão inicial dos minerais.",
+          "model": "As duas discussões tratam da transformação da nutrição em apoio formador. Leite facilitaria a formação infantil; mel é interpretado por forças formadoras posteriores. O tema comum é a contribuição da incorporação à forma humana."
+        }
+      ],
+      "chapter": 2,
+      "start": 23,
+      "end": 30,
+      "table": {
+        "headers": [
+          "Planta externa",
+          "Direção atribuída na organização humana"
+        ],
+        "rows": [
+          [
+            "Raiz abaixo",
+            "Forças da raiz em direção à cabeça"
+          ],
+          [
+            "Flor acima",
+            "Forças da flor em direção ao organismo inferior"
+          ]
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Nutrição cósmica e independência espiritual",
+      "focus": "Distinga abertura espiritual, estabilidade individual e apoio externo.",
+      "sections": [
+        {
+          "title": "O público da fala",
+          "text": "O capítulo 3 trata de mudanças que Steiner associa ao desenvolvimento esotérico. Diferentemente da abertura pública, pressupõe formação espiritual. Leite, vegetais e carne são comparados pelas relações com terra e cosmos que uma pessoa mais sensível perceberia, não primeiro por calorias. A atribuição a esse público é parte necessária da compreensão."
+        },
+        {
+          "title": "Leite como lastro",
+          "text": "Nas capturas 31–33, o leite apoiaria a participação terrestre sem prender inteiramente à terra; vegetais se relacionariam a uma esfera solar ou cósmica; carne ligaria mais fortemente às condições terrestres. O lastro do leite equilibraria uma prática espiritual que enfraquecesse o compromisso com tarefas terrenas. A questão é abertura espiritual junto à responsabilidade da vida encarnada."
+        },
+        {
+          "title": "Dois sentidos de individualidade",
+          "text": "A captura 35 distingue altruísmo moral e estabilidade individual corporal. O açúcar é proposto como contrapeso físico que permitiria buscar abnegação sem perder a capacidade terrestre de julgar e agir. O termo inocente separa esse caráter corporal do egoísmo moral. Não se trata apenas de elogio ao prazer, mas de uma função atribuída no modelo espiritual."
+        },
+        {
+          "title": "Apoio ou substituição",
+          "text": "Café aparece como andaime para pensar coerentemente; chá favoreceria dispersão; chocolate recebe caracterização polêmica. A questão é se estímulos apoiam uma capacidade própria ou passam a substituí-la. As generalizações sobre caráter nacional e consumo também presentes são afirmações a examinar, não testes de personalidade nem razões para classificar povos."
+        }
+      ],
+      "context": "As relações cósmicas e o caráter do Eu produzido pelo açúcar são afirmações espirituais. O texto não estabelece melhora de personalidade pelo açúcar nem caráter nacional pelo consumo. Café e chá não fornecem testes confiáveis de caráter.",
+      "checks": [
+        {
+          "question": "O que inocente distingue na passagem do açúcar?",
+          "options": [
+            "Uma prova de superioridade nacional.",
+            "Estabilidade individual corporal e egoísmo moral.",
+            "Um alimento sem efeitos fisiológicos."
+          ],
+          "answer": 1,
+          "explanation": "O autor procura um contrapeso corporal à abnegação sem recomendar egocentrismo moral."
+        },
+        {
+          "question": "Por que o leite é chamado de lastro?",
+          "options": [
+            "Por preservar, na descrição, a participação terrestre durante o desenvolvimento espiritual.",
+            "Por não ter relação com encarnação.",
+            "Por proibir prática espiritual."
+          ],
+          "answer": 0,
+          "explanation": "Lastro nomeia equilíbrio, não rejeição do desenvolvimento."
+        },
+        {
+          "question": "Qual formulação respeita o público do capítulo?",
+          "options": [
+            "Todos mediram experimentalmente esses efeitos.",
+            "É um estudo comparativo de calorias.",
+            "Steiner descreve experiências associadas ao desenvolvimento esotérico."
+          ],
+          "answer": 2,
+          "explanation": "Público e finalidade definem o contexto da afirmação."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Explique altruísmo moral e caráter corporal do Eu.",
+          "model": "Abandonar o autocentramento moral não é perder individualidade prática. O açúcar recebe a função proposta de apoiar esta última, sem que isso constitua psicologia nutricional estabelecida."
+        },
+        {
+          "prompt": "Compare o andaime do café com o instrumento da primeira lição.",
+          "model": "Ambos apoiam uma atividade. A independência entra quando o apoio substitui o esforço próprio do pensar, em vez de torná-lo possível; esse é o problema na argumentação de Steiner."
+        }
+      ],
+      "chapter": 3,
+      "start": 31,
+      "end": 37
+    },
+    {
+      "id": 6,
+      "title": "O corpo vivo diante da decomposição",
+      "focus": "Reconstrua o modelo de decomposição, rancificação e fermentação.",
+      "sections": [
+        {
+          "title": "Quantidade e trabalho",
+          "text": "O capítulo questiona recomendações históricas de proteína e a ideia de que mais substância significa automaticamente melhor nutrição. Receber alimento cria tarefas para um organismo vivo; excesso poderia representar trabalho que ele não consegue administrar. As quantidades antigas das capturas 38–39 pertencem à controvérsia histórica, não são recomendações atuais."
+        },
+        {
+          "title": "Três oposições",
+          "text": "Nas capturas 40–44, o etérico se oporia à decomposição proteica, o astral à rancificação das gorduras e o Eu à fermentação de açúcar e amido. Sólido, líquido e gasoso são completados pelo calor ligado ao Eu. As substâncias são interpretadas por atividades contínuas que impediriam seu comportamento exterior ao corpo, e não como material simplesmente armazenado."
+        },
+        {
+          "title": "A cadeia da batata",
+          "text": "O autor atribui ao consumo excessivo de batatas uma sobrecarga da atividade da cabeça que controlaria a fermentação. Depois relaciona essa carga a prejuízo do pensar e materialismo. Há passos diferentes: escolha alimentar, demanda digestiva, atividade da cabeça e caráter do pensamento. Saber que batatas contêm amido não comprova as transições causais seguintes."
+        },
+        {
+          "title": "Observar vida e avaliar dose",
+          "text": "Nas capturas 47–49, o estudo da pessoa viva é contrastado com o de órgãos mortos; respostas em estâncias e doses completam a defesa de observação dinâmica. A vantagem atribuída ao método também precisa ser avaliada. Arsênico e outros remédios históricos pertencem ao período e ao raciocínio do texto; não são instruções para reproduzir tratamentos."
+        }
+      ],
+      "context": "Os oponentes espirituais da decomposição não são mecanismos digestivos estabelecidos. As quantidades históricas, a ligação batata/materialismo e remédios metálicos não são orientações atuais. O curso inglês distingue digestão por enzimas, absorção e metabolismo.",
+      "checks": [
+        {
+          "question": "Qual papel é atribuído ao Eu?",
+          "options": [
+            "Opor-se à fermentação em relação ao calor.",
+            "Ser idêntico à proteína.",
+            "Eliminar todos os processos físicos."
+          ],
+          "answer": 0,
+          "explanation": "A captura 44 relaciona Eu, calor e oposição à fermentação de açúcar e amido."
+        },
+        {
+          "question": "Por que mais proteína não significa automaticamente melhor nutrição no argumento?",
+          "options": [
+            "Porque nenhuma proteína é necessária.",
+            "Porque todas as quantidades são iguais.",
+            "Porque o excesso pode sobrecarregar a atividade transformadora."
+          ],
+          "answer": 2,
+          "explanation": "A questão é trabalho e equilíbrio, não eliminação de proteínas."
+        },
+        {
+          "question": "O que o amido da batata não estabelece por si só?",
+          "options": [
+            "Que amido é carboidrato.",
+            "Que batata causa pensamento materialista.",
+            "Que o capítulo usa batatas como exemplo."
+          ],
+          "answer": 1,
+          "explanation": "Uma classificação química não prova a conclusão psicológica."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Descreva os três processos e seus oponentes.",
+          "model": "Decomposição proteica/etérico, rancificação/astral e fermentação de amido e açúcar/Eu. O modelo é dinâmico porque o organismo atuaria continuamente sobre as substâncias, em vez de apenas guardá-las."
+        },
+        {
+          "prompt": "Onde a cadeia batata/pensamento exige evidência adicional?",
+          "model": "Após identificar o alimento, são alegadas demanda digestiva e da cabeça, seguidas de efeito no pensar. Nem o controle espiritual da cabeça nem o resultado psicológico decorrem apenas da presença de amido."
+        }
+      ],
+      "chapter": 4,
+      "start": 38,
+      "end": 49,
+      "table": {
+        "headers": [
+          "Processo ligado ao alimento",
+          "Oponente no capítulo 4",
+          "Condição associada"
+        ],
+        "rows": [
+          [
+            "Putrefação da proteína",
+            "Corpo etérico",
+            "Líquido"
+          ],
+          [
+            "Rancificação da gordura",
+            "Corpo astral",
+            "Gás/ar"
+          ],
+          [
+            "Fermentação do amido e do açúcar",
+            "Eu",
+            "Calor"
+          ]
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "A qualidade do alimento começa antes da refeição",
+      "focus": "Conecte transformação, cultivo e resposta individual, distinguindo analogia de evidência.",
+      "sections": [
+        {
+          "title": "O relógio desmontado",
+          "text": "A captura 50 compara o processamento proteico à desmontagem de um relógio: desfazer uma organização permitiria outra. A imagem ilustra transformação em vez de transferência intacta. Não prova a afirmação mais forte de redução das proteínas aos elementos químicos. A comparação contemporânea do curso usa peptídeos menores e aminoácidos."
+        },
+        {
+          "title": "Do alimento ao cultivo",
+          "text": "Nas capturas 51–52, a qualidade da proteína vegetal depende, para Steiner, do modo de crescimento. Solo vivo e esterco se contrapõem ao fertilizante mineral; a vaca seria um laboratório mais adequado porque seu produto passou por processos vitais. O argumento pergunta pela história do alimento, não só pelos ingredientes presentes no prato."
+        },
+        {
+          "title": "Uma comparação a investigar",
+          "text": "A afirmação de que adubo mineral fortalece principalmente raízes e não oferece proteína vegetal apropriada é uma hipótese agrícola específica. Ela não decorre necessariamente de valorizar o solo vivo. Sua avaliação exigiria comparar culturas, solo, composição e resultados relevantes. A memória de que o grão antigo parecia melhor não basta para estabelecer a causa."
+        },
+        {
+          "title": "Apetite e recusa",
+          "text": "A privação de gordura e a criança que recusa cenoura são usadas para defender atenção às respostas corporais. O autor se opõe a forçar comida apenas porque um plano abstrato a considera adequada. Isso amplia a atenção à pessoa inteira; não demonstra que todo desejo identifica uma deficiência nem que todo alimento recusado seja nocivo."
+        }
+      ],
+      "context": "A afirmação de que nitrogênio respirado fornece diretamente proteína humana é distinguida da obtenção de nitrogênio utilizável por compostos alimentares. O relógio não é uma via digestiva. As afirmações sobre fertilizantes e cenoura/vermes exigem evidência independente.",
+      "checks": [
+        {
+          "question": "Por que o cultivo entra no argumento?",
+          "options": [
+            "Porque condições de crescimento são irrelevantes.",
+            "Porque o livro vira um receituário.",
+            "Porque Steiner considera a história viva do alimento importante para sua qualidade."
+          ],
+          "answer": 2,
+          "explanation": "A discussão recua do prato para planta e solo."
+        },
+        {
+          "question": "O que o relógio estabelece por si só?",
+          "options": [
+            "Que adubo mineral nunca favorece proteína vegetal.",
+            "Uma maneira de imaginar desmontagem e reorganização.",
+            "Que proteínas se tornam elementos químicos livres na digestão."
+          ],
+          "answer": 1,
+          "explanation": "A analogia ilustra uma relação; não demonstra seu mecanismo biológico."
+        },
+        {
+          "question": "Qual leitura cuidadosa cabe à recusa da criança?",
+          "options": [
+            "Considerar a resposta individual em vez de aplicar um plano coercivamente.",
+            "Todo alimento recusado é venenoso.",
+            "Todo desejo fornece diagnóstico."
+          ],
+          "answer": 0,
+          "explanation": "Atenção à resposta não implica regras diagnósticas universais."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "O que liga relógio, campo e criança?",
+          "model": "O relógio destaca reorganização, o campo acrescenta a história de crescimento e a criança acrescenta resposta individual. Os três recusam reduzir nutrição a uma lista fixa de substâncias."
+        },
+        {
+          "prompt": "Como investigar a afirmação sobre fertilizantes?",
+          "model": "Comparar culturas semelhantes sob condições descritas de solo e adubação, medir composição e resultados pertinentes e permitir que os dados contrariem a proposta. Nostalgia não substitui essa comparação."
+        }
+      ],
+      "chapter": 5,
+      "start": 50,
+      "end": 56
+    },
+    {
+      "id": 8,
+      "title": "Acompanhar as secreções digestivas",
+      "focus": "Distinga a sequência fisiológica da interpretação espiritual acrescentada.",
+      "sections": [
+        {
+          "title": "A refeição como processo",
+          "text": "As capturas 57–58 acompanham paladar, saliva e estômago. Steiner destaca percepção e condições corporais na experiência da refeição. Quimo nomeia a mistura parcialmente digerida; ptialina é o nome histórico da amilase salivar; pepsina aparece no estômago. O interesse está nas mudanças sucessivas, não numa substância intacta atravessando um tubo."
+        },
+        {
+          "title": "Quatro líquidos, papéis diferentes",
+          "text": "A captura 59 acrescenta tripsina pancreática e bile do fígado. A sequência sustenta a ideia de uma inteligência do organismo inacessível à consciência comum centrada na cabeça. Porém os quatro itens não são idênticos: a bile auxilia a digestão, mas não é uma enzima digestiva. Preservar essa diferença permite reconstruir a argumentação sem confundir funções."
+        },
+        {
+          "title": "Percepção e pensamento atribuídos aos órgãos",
+          "text": "O fígado é descrito como percebendo e os rins como pensando. A comparação entre secreção biliar e lágrimas provocadas por cebola ou raiz-forte passa de uma resposta familiar a uma atividade anímica inconsciente proposta. Sonhos com serpentes são interpretados por processos intestinais. A imagem torna compreensível a intenção do autor; não demonstra essas capacidades nos órgãos."
+        },
+        {
+          "title": "Da transformação à absorção",
+          "text": "O final acompanha o quimo rumo à linfa e ao sangue. A transformação contínua liga o capítulo aos anteriores. Na comparação atual preservada do curso inglês, a maioria dos nutrientes absorvidos entra no sangue e a linfa tem papel importante no transporte de gorduras absorvidas. A sequência linear de Steiner não é uma descrição contemporânea completa dessas vias."
+        }
+      ],
+      "context": "A fisiologia explica secreções por enzimas, órgãos, nervos e hormônios. Percepção hepática, pensamento renal e imagens específicas de sonhos são interpretações adicionais, não funções estabelecidas.",
+      "checks": [
+        {
+          "question": "Qual item não é, por si mesmo, enzima digestiva?",
+          "options": [
+            "Tripsina.",
+            "Bile.",
+            "Pepsina."
+          ],
+          "answer": 1,
+          "explanation": "A bile auxilia a digestão das gorduras; pepsina e tripsina são enzimas que digerem proteínas."
+        },
+        {
+          "question": "Qual função tem a analogia cebola/lágrimas?",
+          "options": [
+            "Ilustrar a ligação proposta entre percepção e secreção biliar.",
+            "Provar que rins pensam no sentido comum.",
+            "Identificar cebola como único alimento digerível."
+          ],
+          "answer": 0,
+          "explanation": "A analogia motiva a interpretação sem estabelecer consciência dos órgãos."
+        },
+        {
+          "question": "Como o capítulo se liga aos anteriores?",
+          "options": [
+            "Nega processamento corporal.",
+            "Impõe um cardápio.",
+            "Apresenta nutrição como transformação sucessiva, não transferência simples."
+          ],
+          "answer": 2,
+          "explanation": "A transformação permanece central mesmo quando muda o vocabulário explicativo."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Descreva a sequência das quatro secreções.",
+          "model": "Saliva/ptialina na boca; secreção gástrica/pepsina no estômago; secreção pancreática/tripsina no intestino; bile vinda do fígado. O capítulo acrescenta uma interpretação espiritual a essas etapas."
+        },
+        {
+          "prompt": "Distinga secretar bile e perceber o quimo.",
+          "model": "Secretar bile nomeia uma função fisiológica. Perceber o quimo atribui uma capacidade semelhante à da alma. A analogia das lágrimas ajuda a imaginar a segunda, mas não a verifica."
+        }
+      ],
+      "chapter": 6,
+      "start": 57,
+      "end": 60,
+      "table": {
+        "headers": [
+          "Local ou origem",
+          "Termo no capítulo 6",
+          "Distinção de leitura"
+        ],
+        "rows": [
+          [
+            "Boca",
+            "Ptialina",
+            "Nome histórico da amilase salivar"
+          ],
+          [
+            "Estômago",
+            "Pepsina",
+            "Enzima que digere proteínas"
+          ],
+          [
+            "Pâncreas",
+            "Tripsina",
+            "Enzima que digere proteínas"
+          ],
+          [
+            "Fígado",
+            "Bile",
+            "Secreção que auxilia a digestão de gorduras; não é enzima"
+          ]
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": "Da digestão ao pensar e querer",
+      "focus": "Identifique a inferência dos processos digestivos para uma explicação espiritual do pensamento.",
+      "sections": [
+        {
+          "title": "Transformação além das secreções",
+          "text": "As capturas 61–62 distinguem carboidratos, proteínas, gorduras e minerais, abordam álcool endógeno e usam um copo de água como comparação. A intenção é mostrar que incorporar alimento não equivale a lançar substâncias num recipiente. A analogia não estabelece todas as vias propostas nem a estimativa exagerada da água corporal presente no capítulo."
+        },
+        {
+          "title": "Fluidos e organização",
+          "text": "Nas capturas 63–64, movimento de líquidos, excreção e sustentação do cérebro por fluido dirigem a atenção a relações perdidas quando se estudam apenas órgãos sólidos isolados. A organização corporal, não apenas a massa de um órgão, possibilitaria atividade humana. A discussão de enxaqueca e ácido úrico acrescenta uma causa de doença que precisa ser avaliada separadamente."
+        },
+        {
+          "title": "Sal e fósforo",
+          "text": "A captura 65 relaciona sais ao pensar e fósforo disperso ao querer. Steiner pergunta por que sal isolado não pensa nem fósforo queimando desenvolve vontade, embora uma pessoa possa fazê-lo. Sua resposta é a alma-espírito usando materiais sem se reduzir a eles. Isso esclarece a explicação proposta, mas não exclui que sistemas biológicos organizados tenham capacidades ausentes em ingredientes isolados."
+        },
+        {
+          "title": "Identificar a inferência",
+          "text": "Memorizar sal igual a pensamento perde a finalidade da passagem. A conclusão é que algo atua pela matéria; a captura 66 critica atenção exclusiva a estruturas mortas. A insuficiência de uma substância isolada demonstra um agente separado ou apenas a inadequação de modelar um cérebro organizado por um ingrediente? O texto oferece uma resposta; a inferência continua aberta ao exame."
+        }
+      ],
+      "context": "As relações sal/pensar e fósforo/querer não são mecanismo estabelecido nem guia de suplementação. Não se deve reproduzir o exemplo de fósforo ou pontas de fósforos como experimento. O contraste com sistemas nervosos organizados permanece explícito.",
+      "checks": [
+        {
+          "question": "Para que serve o contraste entre sal isolado e pensamento humano?",
+          "options": [
+            "Argumentar que alma-espírito usa substâncias materiais.",
+            "Prescrever mais sal para pensar melhor.",
+            "Negar transformação digestiva."
+          ],
+          "answer": 0,
+          "explanation": "O contraste apoia o agente proposto; não fornece dose."
+        },
+        {
+          "question": "Que alternativa a comparação não excluiu?",
+          "options": [
+            "Que o capítulo menciona fósforo.",
+            "Que o autor usa exemplos.",
+            "Que sistemas organizados se comportam diferentemente de substâncias isoladas."
+          ],
+          "answer": 2,
+          "explanation": "A ausência de uma capacidade num ingrediente não demonstra sua ausência num sistema organizado."
+        },
+        {
+          "question": "Qual é uma interpretação espiritual do autor?",
+          "options": [
+            "O capítulo contém a analogia do copo.",
+            "Alma-espírito usa fósforo disperso para querer.",
+            "O capítulo segue a discussão das secreções."
+          ],
+          "answer": 1,
+          "explanation": "A segunda atribui um mecanismo; as demais descrevem o texto."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Reconstrua contraste, resposta e questão restante.",
+          "model": "Substâncias isoladas não pensam ou querem, mas uma pessoa viva o faz. Steiner propõe alma-espírito. Resta perguntar se a organização biológica explica o contraste sem estabelecer esse agente separado."
+        },
+        {
+          "prompt": "Como a discussão dos fluidos prepara o pensar?",
+          "model": "Ela dirige a atenção à organização e às relações além dos sólidos isolados; depois o autor atribui à alma-espírito o uso da matéria no pensar e querer. A conexão torna o argumento claro, sem prová-lo."
+        }
+      ],
+      "chapter": 6,
+      "start": 61,
+      "end": 66
+    },
+    {
+      "id": 10,
+      "title": "Plantas, preparo e trabalho fora do corpo",
+      "focus": "Conecte processos vegetais, preparação culinária e transformação humana.",
+      "sections": [
+        {
+          "title": "O que antecede a refeição",
+          "text": "Após a introdução editorial e uma pergunta dos trabalhadores, o capítulo 7 distingue nutrientes e compara vida vegetal e animal. Plantas formam substâncias orgânicas e entram em relações gasosas recíprocas com animais. Isso prepara uma história de transformações anterior à ingestão. A descrição ampla da fotossíntese não significa que plantas nunca respirem."
+        },
+        {
+          "title": "Raiz, tubérculo e região humana",
+          "text": "Nas capturas 70–72, raízes ricas em minerais são relacionadas à cabeça, folhas ao peito e frutos à organização inferior. A batata é distinguida como tubérculo, antes de receber demandas interiores atribuídas. Identificar uma parte botânica não estabelece, por si só, a região humana sobre a qual suas forças atuariam."
+        },
+        {
+          "title": "Trabalho transferido para a cozinha",
+          "text": "Moer, assar e cozinhar realizariam fora parte do trabalho preparatório que caberia ao organismo. Batatas cruas e cozidas exemplificam o argumento. O corpo ainda precisa digerir; a transferência não significa que a cozinha faça tudo. Tampouco um exemplo sustenta a afirmação universal de que qualquer regime de alimentos crus levaria inevitavelmente ao colapso corporal."
+        },
+        {
+          "title": "A formação de gordura",
+          "text": "As capturas 73–74 distinguem receber gordura e formar a própria. O foco volta à atividade e à organização, não à simples posse da substância. Crescimento vegetal, preparo e processamento corporal formam uma cadeia, mas são níveis distintos: botânica, técnica culinária e interpretação espiritual podem estar relacionadas no texto sem fornecer o mesmo tipo de evidência."
+        }
+      ],
+      "context": "O cozimento pode alterar propriedades e digestibilidade; isso não valida o mapeamento espiritual dos órgãos ou a rejeição universal de regimes crus. Tratamento de vermes com cenoura e afirmações de caráter nacional permanecem históricos, não orientação estabelecida.",
+      "checks": [
+        {
+          "question": "O que cozinhar e moer transferem no argumento?",
+          "options": [
+            "Pensamento humano à batata.",
+            "Toda a digestão à cozinha.",
+            "Parte do trabalho preparatório de dentro para fora do corpo."
+          ],
+          "answer": 2,
+          "explanation": "Preparação alivia parte do trabalho, sem eliminar digestão."
+        },
+        {
+          "question": "Qual distinção botânica é feita?",
+          "options": [
+            "Batata é cereal.",
+            "A parte normalmente comida é tubérculo.",
+            "A parte normalmente comida é fruto."
+          ],
+          "answer": 1,
+          "explanation": "A identificação precede a atribuição de efeitos interiores."
+        },
+        {
+          "question": "Qual seria uma generalização indevida?",
+          "options": [
+            "Todo regime cru inevitavelmente causa colapso.",
+            "O autor compara batatas cruas e cozidas.",
+            "Moer muda a forma do grão."
+          ],
+          "answer": 0,
+          "explanation": "Um caso particular não estabelece resultado universal para regimes diferentes."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Descreva a cadeia vegetal–preparo–organismo.",
+          "model": "Plantas formam substâncias; preparo modifica o alimento antes da ingestão; o organismo ainda transforma e assimila. Steiner interpreta essa sequência como distribuição de trabalho formador."
+        },
+        {
+          "prompt": "Distinga três tipos de afirmação nas capturas 70–74.",
+          "model": "Batata ser tubérculo é descrição botânica; preparo aliviar processamento é uma afirmação prática; forças radiculares apoiarem a cabeça é atribuição espiritual. A classificação depende do que cada frase afirma."
+        }
+      ],
+      "chapter": 7,
+      "start": 67,
+      "end": 74
+    },
+    {
+      "id": 11,
+      "title": "Dietas individuais, alimentação animal e acesso",
+      "focus": "Preserve a qualificação individual e distinga a introdução sobre BSE da palestra.",
+      "sections": [
+        {
+          "title": "Preferência não é ordem universal",
+          "text": "Steiner relata maior resistência em sua experiência vegetariana, no contexto de realizar trabalho formador próprio. A captura 77, porém, exige considerar a capacidade individual antes de mudar a dieta. Um relato pessoal ilustra sua posição; não demonstra resultados idênticos para todos. Constituição e preferência geral não são conceitos intercambiáveis."
+        },
+        {
+          "title": "Renovação não é relógio uniforme",
+          "text": "As capturas 77–79 relacionam capacidade digestiva à transformação da proteína vegetal e ao excesso. O corpo é descrito em renovação contínua. Isso se conecta à atividade recorrente na antologia, mas a substituição integral de todo o corpo em sete ou oito anos é uma simplificação incorreta: tecidos e células têm ritmos diferentes. A pergunta sobre renovação pode ser preservada sem aceitar o calendário universal."
+        },
+        {
+          "title": "Três camadas no caso do boi",
+          "text": "A captura 80 imagina carne oferecida a um boi e atribui loucura a forças não usadas e uratos que chegariam ao cérebro. A introdução editorial da captura 67 relaciona retrospectivamente isso à epidemia de BSE. O curso inglês distingue a explicação moderna por príons e alimentação contaminada. Palestra, comparação editorial e explicação atual são três camadas; semelhança de contexto alimentar não verifica o mecanismo dos uratos."
+        },
+        {
+          "title": "Escolha também depende de acesso",
+          "text": "Após generalizações raciais sem fundamento, o capítulo discute mercados voltados a pacientes ricos de estâncias. A análise passa do indivíduo à organização social do acesso à comida. Escolhas dependem de circunstâncias além de intenções. Descrever constituição individual sem considerar disponibilidade e condições econômicas deixa incompleta essa parte do argumento."
+        }
+      ],
+      "context": "A referência existente ao CDC descreve BSE como doença por príons. A comparação editorial não valida a teoria dos uratos. Generalizações raciais e sobre comprimento intestinal não devem ser usadas para inferir capacidade digestiva de alguém.",
+      "checks": [
+        {
+          "question": "O que a qualificação individual limita?",
+          "options": [
+            "A distinção entre editor e palestrante.",
+            "Transformar preferência geral em regra para todos.",
+            "A consideração da capacidade digestiva."
+          ],
+          "answer": 1,
+          "explanation": "A captura 77 pede atenção à capacidade individual antes da mudança."
+        },
+        {
+          "question": "Quem faz a comparação retrospectiva com BSE?",
+          "options": [
+            "A introdução editorial.",
+            "Um experimento moderno apresentado na palestra.",
+            "O boi do exemplo."
+          ],
+          "answer": 0,
+          "explanation": "O enquadramento é posterior; a palestra descreve uratos."
+        },
+        {
+          "question": "Por que o mercado de alimentos importa?",
+          "options": [
+            "Prova que riqueza garante desenvolvimento espiritual.",
+            "Elimina a constituição individual.",
+            "Mostra que acesso e organização social condicionam a escolha."
+          ],
+          "answer": 2,
+          "explanation": "O final amplia a questão para as condições em que se escolhe."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Distinga o relato vegetariano pessoal de um resultado universal.",
+          "model": "O relato é testemunho da experiência de Steiner. Generalizar exigiria evidência mais ampla; sua própria qualificação individual também impede transformar o testemunho numa regra."
+        },
+        {
+          "prompt": "Explique as três camadas boi/BSE.",
+          "model": "A palestra propõe forças não usadas e uratos; o editor associa isso à BSE posterior; a explicação moderna usa príons e alimento contaminado. Um contexto parecido não implica a mesma causa."
+        }
+      ],
+      "chapter": 7,
+      "start": 75,
+      "end": 82
+    },
+    {
+      "id": 12,
+      "title": "Alimento como estímulo e coração como luz condensada",
+      "focus": "Explique a afirmação mais forte de formação cósmica, sem reduzi-la à fotossíntese.",
+      "sections": [
+        {
+          "title": "Partes vegetais como preparação",
+          "text": "As capturas 83–84 retomam raízes, flores e tubérculos. Beterraba e rabanete são associados a pensar e sonhos; batatas recebem outra relação com fome e trabalho interior. A comparação depende do padrão raiz/cabeça e flor/organização inferior do capítulo 2. Ler em conjunto revela estrutura recorrente, não uma nova lista desconectada de efeitos."
+        },
+        {
+          "title": "Uma afirmação mais forte",
+          "text": "Nas capturas 85–86, o argumento vai além de transformar o alimento. O ser humano seria formado por forças cósmicas e luz ambientais; a comida estimularia essa construção. O coração condensa a afirmação. Substituí-la pelo fato de plantas usarem luz solar apagaria a tese espiritual sobre formação de órgãos, diferente da explicação biológica de construção dos tecidos."
+        },
+        {
+          "title": "A poltrona interior",
+          "text": "A comida é comparada a uma poltrona que apoia a experiência corporal de dureza e maciez. O suporte não é quem nele se senta. Como o instrumento do capítulo 1, a imagem distingue condições corporais e ser humano. Aqui, porém, vem acompanhada da afirmação mais forte sobre formação cósmica, que a analogia sozinha não verifica."
+        },
+        {
+          "title": "Continuidade e tensão",
+          "text": "O capítulo 2 descreve mineral transformado e novamente solidificado como base de órgãos; o capítulo 8 enfatiza formação cósmica e alimento como estímulo. Ambos rejeitam transferência material inalterada, mas diferem na ênfase e na linguagem. A síntese deve registrar a continuidade e perguntar como cada passagem entende a contribuição material, sem reescrevê-las silenciosamente como uma única explicação moderna."
+        }
+      ],
+      "context": "A biologia descreve construção e manutenção de órgãos com matéria e energia, incluindo nutrientes absorvidos. Coração como luz condensada e renovação universal em sete anos não são descrições estabelecidas da formação de tecidos.",
+      "checks": [
+        {
+          "question": "Qual papel principal recebe o alimento na afirmação mais forte?",
+          "options": [
+            "Estimular formação a partir do ambiente cósmico luminoso.",
+            "Fornecer pedaços intactos de coração.",
+            "Não ter relação com corporificação."
+          ],
+          "answer": 0,
+          "explanation": "O texto desloca a formação principal e atribui à comida estímulo e suporte."
+        },
+        {
+          "question": "O que distingue a poltrona?",
+          "options": [
+            "Enzima e bile.",
+            "Raiz e tubérculo.",
+            "Suporte e ser que o experimenta."
+          ],
+          "answer": 2,
+          "explanation": "O ocupante e seu apoio não são identificados."
+        },
+        {
+          "question": "O que se perde ao reduzir luz condensada à fotossíntese?",
+          "options": [
+            "Números dos capítulos.",
+            "A afirmação espiritual mais forte sobre órgãos.",
+            "A existência de um exemplo de coração."
+          ],
+          "answer": 1,
+          "explanation": "Energia vegetal e formação cósmica direta dos órgãos não são a mesma tese."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Explique o coração sem endossar nem substituir a afirmação.",
+          "model": "Steiner atribui à comida um estímulo para que luz cósmica forme o órgão. Isso identifica sua tese; não a torna fisiologia estabelecida nem a reduz ao uso vegetal da luz solar."
+        },
+        {
+          "prompt": "Compare poltrona e instrumento.",
+          "model": "Ambos distinguem apoio corporal e atividade ou experiência humana. O capítulo 8 acrescenta a formação cósmica luminosa e a função principalmente estimulante da nutrição."
+        }
+      ],
+      "chapter": 8,
+      "start": 83,
+      "end": 86
+    },
+    {
+      "id": 13,
+      "title": "Nutrientes, organização quádrupla e consequências sociais",
+      "focus": "Compare os dois mapeamentos e acompanhe a passagem à reforma social.",
+      "sections": [
+        {
+          "title": "Substâncias com funções atribuídas",
+          "text": "Sais se relacionam ao pensar; carboidratos à forma e fala; gorduras ao preenchimento da forma; proteínas à vida e origem física. A analogia máquina/ferro indica que atividade espiritual requer condições materiais, sem ser idêntica a elas. Steiner não descarta as substâncias: dá-lhes papéis dentro de uma organização maior."
+        },
+        {
+          "title": "Comparar sem fundir",
+          "text": "Na captura 90, físico corresponde a proteína, etérico a gorduras, astral a carboidratos e Eu a sais. No capítulo 4, etérico se opõe à decomposição proteica, astral à rancificação e Eu à fermentação. Um quadro nomeia campos principais; o outro, oposição a processos. Essa diferença evita falsa equivalência, mas não resolve toda tensão teórica. Ambos devem permanecer registrados."
+        },
+        {
+          "title": "A cadeia da batata se amplia",
+          "text": "As capturas 90–92 contrastam fruto ou grão com tubérculo e associam batatas a problemas reprodutivos e de desenvolvimento, incluindo hidrocefalia. A cadeia depende das relações astrais e etéricas propostas. Identificar um tubérculo não comprova a causa de uma condição médica; a passagem não deve ser usada para explicar deficiência nem atribuir culpa pela condição de uma criança."
+        },
+        {
+          "title": "Da nutrição à organização social",
+          "text": "A captura 93 afirma que mudar apenas relações de capital não resolveria questões sociais se a alimentação fosse ignorada. O percurso vai de condições materiais a efeitos alegados sobre capacidades humanas e daí à agricultura e à sociedade. Avaliar a conclusão social exige examinar suas premissas fisiológicas; uma preocupação política não fornece a evidência médica ausente."
+        }
+      ],
+      "context": "Os mapeamentos quádruplos e a ligação batata/hidrocefalia não são fisiologia estabelecida. O livro não fornece base adequada para tratar batatas como causa dessa condição. O argumento social pode ser analisado sem aceitar o mecanismo.",
+      "checks": [
+        {
+          "question": "Qual é uma associação da captura 90?",
+          "options": [
+            "Etérico e sais.",
+            "Eu e proteína.",
+            "Etérico e gorduras."
+          ],
+          "answer": 2,
+          "explanation": "O quadro associa etérico/gorduras, astral/carboidratos, Eu/sais e físico/proteína."
+        },
+        {
+          "question": "Como comparar os capítulos 4 e 9?",
+          "options": [
+            "Tratá-los como listas idênticas.",
+            "Distinguir oposição a processo e campo principal, preservando a diferença.",
+            "Apagar uma lista."
+          ],
+          "answer": 1,
+          "explanation": "A comparação mantém as duas formulações e suas finalidades."
+        },
+        {
+          "question": "Que evidência exige a afirmação sobre desenvolvimento?",
+          "options": [
+            "Evidência da causa proposta para a condição médica.",
+            "Apenas confirmar que batata é tubérculo.",
+            "Apenas concordar com a conclusão social."
+          ],
+          "answer": 0,
+          "explanation": "Classificação botânica e preocupação política não estabelecem causalidade médica."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Escreva os dois quadros e suas perguntas.",
+          "model": "No capítulo 4, etérico combate decomposição proteica, astral rancificação e Eu fermentação. No 9, etérico/gorduras, astral/carboidratos e Eu/sais nomeiam campos principais. Distinguir funções não elimina automaticamente toda tensão."
+        },
+        {
+          "prompt": "Como a reforma social se liga à nutrição?",
+          "model": "A nutrição afetaria capacidades humanas, levando a agricultura ao centro da reforma social. As causas alimentares e de desenvolvimento propostas precisam de evidência independente antes de sustentar conclusões de política pública."
+        }
+      ],
+      "chapter": 9,
+      "start": 87,
+      "end": 93,
+      "table": {
+        "headers": [
+          "Organização",
+          "Capítulo 4: atividade contra um processo",
+          "Capítulo 9: campo principal"
+        ],
+        "rows": [
+          [
+            "Físico",
+            "Condição sólida",
+            "Proteína"
+          ],
+          [
+            "Etérico",
+            "Decomposição da proteína",
+            "Gorduras"
+          ],
+          [
+            "Astral",
+            "Rancificação da gordura",
+            "Carboidratos"
+          ],
+          [
+            "Eu",
+            "Fermentação de amido/açúcar",
+            "Sais"
+          ]
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "title": "Álcool, compreensão pública e liberdade",
+      "focus": "Acompanhe efeitos alegados, duração e resposta social.",
+      "sections": [
+        {
+          "title": "Estímulo e custo posterior",
+          "text": "As capturas 94–96 interpretam álcool como aceleração interna, desequilíbrio entre razão e paixão e esgotamento posterior. Beber novamente é descrito como restauração aparente que consumiria capacidade restante. A intenção é relacionar sensação imediata e consequências menos visíveis. Delírio e sangria pertencem à explicação histórica, não a um protocolo de tratamento."
+        },
+        {
+          "title": "Exposição e longo prazo",
+          "text": "As capturas 97–101 passam a medula, renovação sanguínea e consequências reprodutivas e geracionais. A fábrica de fósforos destaca vias de entrada de uma substância e condições ocupacionais, além do rótulo simples de veneno ou remédio. Os exemplos não estabelecem os mecanismos sexuais e sanguíneos propostos. Reconhecer danos do álcool não verifica toda a explicação de Steiner."
+        },
+        {
+          "title": "Comparações podem contar coisas diferentes",
+          "text": "A captura 102 questiona comparar apenas danos imediatos de água contaminada e álcool. Importam duração e tipo de resultado medido. As capturas seguintes tratam de proibição, substituição por outro intoxicante e explicação que alcance sentimento e intelecto. É uma discussão sobre qualidade da compreensão pública, não só sobre a existência de dano."
+        },
+        {
+          "title": "Liberdade e precisão",
+          "text": "O encerramento pede que a ciência explique efeitos em linguagem compreensível para permitir decisão própria. A captura 104 admite necessidade de leis enquanto prioriza esclarecimento; não declara toda lei inútil. A finalidade ética deve ser distinguida da confiança nos mecanismos descritos. Uma explicação acessível também precisa ser exata: liberdade não exige aceitar uma causa histórica sem evidência."
+        }
+      ],
+      "context": "Preservam-se as ressalvas do curso inglês: álcool pode causar danos graves; abstinência severa pode envolver convulsões ou delírio e precisar de cuidado médico. Sangria e mais bebida não são orientação de tratamento. As referências existentes incluem NIAAA.",
+      "checks": [
+        {
+          "question": "Por que questionar a comparação com água contaminada?",
+          "options": [
+            "Porque duração nunca importa.",
+            "Porque resultados imediatos podem omitir dano posterior.",
+            "Porque água contaminada é inofensiva."
+          ],
+          "answer": 1,
+          "explanation": "A comparação precisa definir qual dano e qual período conta."
+        },
+        {
+          "question": "Qual posição aparece sobre leis?",
+          "options": [
+            "Podem ser necessárias, mas o esclarecimento compreensível tem prioridade.",
+            "Todas são categoricamente inúteis.",
+            "Substituem toda compreensão."
+          ],
+          "answer": 0,
+          "explanation": "O argumento reconhece leis sem abandonar a liberdade informada."
+        },
+        {
+          "question": "O que o princípio de liberdade exige do curso?",
+          "options": [
+            "Tratar todos os mecanismos antigos como verificados.",
+            "Exigir promessa alimentar.",
+            "Tornar afirmações compreensíveis e examinar suas razões."
+          ],
+          "answer": 2,
+          "explanation": "Compreensão e precisão permitem julgamento, não adesão automática."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Resuma as três etapas do capítulo.",
+          "model": "Estímulo e esgotamento iniciam a explicação, seguidos de consequências corporais e geracionais propostas. A resposta social prioriza educação acessível, julgamento e sentimento, mantendo os mecanismos controversos atribuídos."
+        },
+        {
+          "prompt": "Relacione abertura e encerramento.",
+          "model": "Ambos priorizam compreensão antes de dirigir conduta. Os exemplos de substâncias servem à questão maior de atividade humana corporificada, mas essa finalidade não dispensa exatidão factual."
+        }
+      ],
+      "chapter": 10,
+      "start": 94,
+      "end": 104
+    },
+    {
+      "id": 15,
+      "title": "Nicotina, ritmo corporal e renovação",
+      "focus": "Distinga coordenação proposta, inferência causal e conhecimento cardiovascular.",
+      "sections": [
+        {
+          "title": "Uma relação entre processos",
+          "text": "A captura 105 usa 72 pulsações e 18 respirações por minuto para apresentar uma proporção de quatro para um como regulação corporal. A nicotina aceleraria circulação e atividade cardíaca. O objetivo é conectar uma substância à relação entre processos, não tomar um órgão isolado como explicação completa."
+        },
+        {
+          "title": "O mecanismo precisa de exame",
+          "text": "A captura 106 imagina aumento do pulso sem mudança respiratória correspondente, depois deduz alteração de oxigênio, ansiedade e dano orgânico. Cada ligação causal exige evidência. Os números não são leis fixas de todas as pessoas. A afirmação de que o coração não bombeia contraria a fisiologia atual. É possível reconstruir a intenção sistêmica e identificar falhas no mecanismo."
+        },
+        {
+          "title": "Veneno e remédio",
+          "text": "O texto retoma a ideia de que um veneno pode ter uso medicinal em certas condições, propõe exceções terapêuticas para nicotina e interpreta fumar pela capacidade de julgamento. Essas afirmações precisam permanecer atribuídas, não virar conselhos. A introdução editorial é outra voz; enquadramento favorável não valida tratamento nem transforma a hipótese em resultado clínico."
+        },
+        {
+          "title": "Construção e reabsorção",
+          "text": "As capturas 108–109 tratam de formação e reabsorção óssea em relação a trabalho e participação interior. A conclusão é que construir e desfazer podem cooperar na renovação. Isso complica a imagem simples de vida lutando contra toda destruição: decomposição danosa e reabsorção funcional não são idênticas. Uma descrição do conjunto deve preservar essa diferença."
+        }
+      ],
+      "context": "O coração bombeia sangue; pulso de repouso varia. O curso inglês remete ao CDC sobre danos do tabagismo. A sugestão histórica de nicotina terapêutica não é razão para fumar ou usar tabaco como tratamento.",
+      "checks": [
+        {
+          "question": "Qual função têm 72 e 18 no argumento?",
+          "options": [
+            "Ilustrar coordenação proposta de pulso e respiração.",
+            "Fixar uma lei invariável.",
+            "Contar vitaminas."
+          ],
+          "answer": 0,
+          "explanation": "A proporção representa coordenação, não uma norma fixa de toda fisiologia humana."
+        },
+        {
+          "question": "Qual afirmação conflita com a fisiologia cardiovascular?",
+          "options": [
+            "O capítulo trata de circulação.",
+            "Há formação e reabsorção óssea.",
+            "O coração não é uma bomba."
+          ],
+          "answer": 2,
+          "explanation": "Contrações cardíacas bombeiam sangue; compreender o texto não exige aceitar sua negação."
+        },
+        {
+          "question": "Por que o capítulo termina com osso?",
+          "options": [
+            "Para igualar nicotina e alimento.",
+            "Para mostrar construção e desfazimento cooperando na vida.",
+            "Para aprovar qualquer dano."
+          ],
+          "answer": 1,
+          "explanation": "A conclusão trata de renovação organizada, não de benefício de todo dano."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Descreva a cadeia da nicotina e seus limites.",
+          "model": "Nicotina → pulso/circulação mais rápidos → mudança na relação com respiração → desequilíbrio de oxigênio alegado → ansiedade e efeitos orgânicos. A aritmética da proporção não estabelece essas transições causais."
+        },
+        {
+          "prompt": "Como o osso modifica a leitura de vida contra destruição?",
+          "model": "Parte do desfazimento participa da renovação. A organização viva precisa coordenar formação e reabsorção; isso difere de considerar qualquer lesão benéfica."
+        }
+      ],
+      "chapter": 11,
+      "start": 105,
+      "end": 109
+    },
+    {
+      "id": 16,
+      "title": "Saúde, medicina e capacidades liberadas",
+      "focus": "Conecte nutrição, conhecimento, prática e pensar independente.",
+      "sections": [
+        {
+          "title": "Natureza e método",
+          "text": "As capturas 110–111 retomam dose e relação matéria/espírito, apresentando Paracelso e Hahnemann como caminhos distintos de cura. Steiner valoriza especialização e considera-a insuficiente para o organismo inteiro. Seu tratamento favorável da clarividência pertence à posição espiritual-científica que defende, não constitui evidência clínica de eficácia."
+        },
+        {
+          "title": "A atividade de conhecer",
+          "text": "As capturas 112–113 relacionam compreensão médica ao caráter e desenvolvimento do médico. Café e lógica, chá e dispersão reaparecem como relações entre substância e atividade interior. O médico é imaginado como artista que continua processos naturais, não mero montador de intervenções. Essa concepção de julgamento não substitui testar efeitos de um tratamento."
+        },
+        {
+          "title": "Arroz, pato e independência",
+          "text": "Na captura 114, digestão rápida do arroz é contraposta à digestão demorada de pato selvagem. Forças poupadas poderiam servir ao pensar, segundo Steiner; porém ser esperto não é pensar independentemente. Equilíbrio proteico também é ligado ao domínio das ideias. Os exemplos conectam trabalho corporal e iniciativa mental sem estabelecer os mecanismos alimentares particulares alegados."
+        },
+        {
+          "title": "Dieta não realiza o desenvolvimento",
+          "text": "O final diz que capacidades liberadas pelo vegetarianismo precisariam ser usadas espiritualmente e alega efeitos desfavoráveis se isso não ocorrer. A afirmação de dano cerebral sem prática espiritual não tem sustentação. O ponto argumentativo que permanece é distinto: uma escolha alimentar não constitui, por si só, realização espiritual. O corpo pode condicionar o instrumento, enquanto compreender e cultivar atividade continuam tarefas da pessoa."
+        }
+      ],
+      "context": "Remédios exigem evidência clínica. Métodos espirituais e a comparação arroz/pato não a fornecem. Vegetarianismo não exige prática antroposófica para prevenir o dano cerebral alegado. O curso explica desenvolvimento ativo, não efeitos automáticos.",
+      "checks": [
+        {
+          "question": "O que o encerramento rejeita?",
+          "options": [
+            "Qualquer relação corpo/atividade.",
+            "A necessidade de compreender o livro.",
+            "Realização espiritual automática por uma escolha alimentar."
+          ],
+          "answer": 2,
+          "explanation": "No argumento, dieta é apoio ou condição; desenvolvimento ativo continua necessário."
+        },
+        {
+          "question": "Que distinção aparece no exemplo arroz/pato?",
+          "options": [
+            "Comer arroz já é realização espiritual.",
+            "Esperteza não é o mesmo que pensar independentemente.",
+            "Arroz e pato têm papéis iguais."
+          ],
+          "answer": 1,
+          "explanation": "O autor qualifica conclusões dietéticas simples ao perguntar pela independência do pensar."
+        },
+        {
+          "question": "O que avalia um tratamento?",
+          "options": [
+            "Evidência de efeitos além de uma imagem atraente da natureza ou do médico.",
+            "Somente a metáfora do artista.",
+            "Somente compromisso com a teoria."
+          ],
+          "answer": 0,
+          "explanation": "Uma concepção de cura não demonstra segurança ou eficácia."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Como o final modifica uma leitura simplista do vegetarianismo?",
+          "model": "Passagens anteriores o associam a atividade interior, mas o encerramento nega consciência desenvolvida automaticamente por dieta. Acrescenta prática ativa; essa relação argumentativa deve ser separada das afirmações médicas sem sustentação."
+        },
+        {
+          "prompt": "Conecte primeiro e último capítulos.",
+          "model": "Ambos distinguem atividade humana de condições corporais. Nutrição apoia o instrumento, mas compreensão e prática continuam tarefas próprias. Isso reconstrói a visão de Steiner sem demonstrar todos os mecanismos fisiológicos propostos."
+        }
+      ],
+      "chapter": 12,
+      "start": 110,
+      "end": 114
+    },
+    {
+      "id": 17,
+      "title": "O que esta antologia entende por nutrição?",
+      "focus": "Conecte os capítulos sem apagar diferenças nem transformar o livro em dieta.",
+      "sections": [
+        {
+          "title": "Retomar a pergunta",
+          "text": "O livro começa perguntando se o ser humano é simplesmente aquilo que come. Corpo como instrumento, nutrição como transformação e alimento relacionado a vida, sensação e individualidade desenvolvem a resposta. Os exemplos particulares servem a uma concepção da atividade humana corporificada. Uma síntese explica essas relações em vez de reproduzir uma tabela de alimentos."
+        },
+        {
+          "title": "Quatro fios",
+          "text": "Formação e transformação ligam os capítulos 1, 2, 4 e 6. Trabalho interior e apoio externo atravessam 3, 7 e 12. Constituição individual, cultivo e acesso aproximam 5, 7 e 9. Compreensão e liberdade unem 1 e 10. Os fios se cruzam: um apoio corporal pode favorecer atividade sem substituí-la, e a escolha individual depende também das condições sociais."
+        },
+        {
+          "title": "Preservar as tensões",
+          "text": "Compare os mapeamentos das capturas 44 e 90: oposição a decomposição e campos principais não são a mesma relação. Compare também formação mineral na captura 21 com alimento como estímulo na 86, e qualificações dietéticas nas 77 e 114. Nomear funções diferentes ajuda a interpretar, mas não deve fingir que toda tensão desapareceu. Afirmações médicas, raciais e nacionais sem fundamento permanecem objetos de análise, não conclusões adotadas."
+        },
+        {
+          "title": "Uma síntese possível",
+          "text": "A comida condiciona a atividade sem realizá-la automaticamente. O instrumento da abertura reconhece apoio corporal; os capítulos de transformação perguntam pelo trabalho realizado; o encerramento volta ao cultivo da capacidade própria. Essa continuidade torna a antologia inteligível, mas não verifica suas causas médicas ou espirituais. Explicar um argumento, compreender uma analogia e estabelecer uma causa são realizações diferentes. A resposta final pode conservar uma pergunta em aberto e indicar a evidência que lhe seria pertinente."
+        }
+      ],
+      "context": "As referências e qualificações do curso inglês são preservadas. Esta síntese não certifica mecanismos históricos nem exige dieta ou prática espiritual. A adaptação portuguesa não representa conferência independente dos originais.",
+      "checks": [
+        {
+          "question": "Que fio liga instrumento, transformação e prática final?",
+          "options": [
+            "Alimento produz desenvolvimento espiritual automaticamente.",
+            "Nutrição condiciona atividade, mas não substitui a atividade própria.",
+            "Todos os capítulos têm o mesmo quadro de nutrientes."
+          ],
+          "answer": 1,
+          "explanation": "Os capítulos conectam apoio, transformação e desenvolvimento ativo e rejeitam realização automática por cardápio."
+        },
+        {
+          "question": "Como lidar com mapeamentos diferentes?",
+          "options": [
+            "Registrar capítulo e finalidade de cada um, preservando tensões.",
+            "Apagar uma das listas.",
+            "Presumir identidade sem comparar termos."
+          ],
+          "answer": 0,
+          "explanation": "O capítulo 4 trata de oposição a processos e o 9 de campos principais. A comparação deve manter ambos."
+        },
+        {
+          "question": "O que sustenta uma causa histórica de doença?",
+          "options": [
+            "Somente metáfora atraente.",
+            "A afirmação de respeito à liberdade.",
+            "Evidência independente da cadeia causal."
+          ],
+          "answer": 2,
+          "explanation": "Finalidades éticas e analogias não validam mecanismos fisiológicos."
+        }
+      ],
+      "written": [
+        {
+          "prompt": "Explique o significado de nutrição conectando ao menos três lições.",
+          "model": "O instrumento da primeira lição reconhece condições corporais sem reduzir a pessoa a elas. A transformação pergunta pelo trabalho de incorporação. O encerramento exige atividade própria, não realização automática pela dieta. A liberdade pede compreender antes de agir; isso não confirma, por exemplo, a cadeia médica atribuída às batatas."
+        },
+        {
+          "prompt": "Compare uma analogia e uma causa proposta.",
+          "model": "O relógio torna desmontagem e reorganização imagináveis. A passagem batata/hidrocefalia alega uma causa médica. Podemos examinar clareza e limites da analogia, mas a causa exige evidência biológica e clínica independente."
+        },
+        {
+          "prompt": "Apresente uma tensão sem apagá-la.",
+          "model": "Na captura 44 o etérico se opõe à decomposição proteica; na 90 seu campo principal são gorduras. Função de oposição e campo de atuação são perguntas diferentes. Essa distinção permite ler as duas formulações, sem afirmar que resolve toda a relação teórica entre elas."
+        }
+      ]
+    }
+  ]
+}

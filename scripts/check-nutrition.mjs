@@ -67,3 +67,37 @@ if(process.env.NUTRITION_SOURCE_MD) {
  for(const l of c.lessons)assert.ok(norm(captures[l.excerpt.capture-1]).includes(norm(l.excerpt.text)),`Excerpt mismatch in lesson ${l.id}`);
 }
 console.log('Passed: nutrition chapter/capture coverage, 16 short verified excerpts, 54 checks, 37 response models, paper answers, source locators and discovery links.');
+// Translation delivery is distinct from original-source verification.
+const pt=JSON.parse(fs.readFileSync('content/nutrition/course-pt.json','utf8'));
+assert.deepEqual(pt.lessons.map(l=>l.id),Array.from({length:18},(_,i)=>i));
+assert.match(pt.translationStatus,/Condensed pedagogical translation/);
+let ptChecks=0,ptResponses=0;
+for(const l of pt.lessons){
+ const name=String(l.id).padStart(2,'0')+'.html';
+ const h=fs.readFileSync('docs/pt/nutrition/'+name,'utf8');
+ const en=fs.readFileSync('docs/nutrition/'+name,'utf8');
+ assert.match(h,/<html lang="pt-BR">/);
+ assert.ok(h.includes('../../nutrition/'+name),'English language partner');
+ assert.ok(en.includes('../pt/nutrition/'+name),'Portuguese language partner');
+ assert.equal((h.match(/class="nutrition-quiz"/g)||[]).length,3);
+ assert.deepEqual([...h.matchAll(/data-answer="(\d)"/g)].map(m=>+m[1]),[...en.matchAll(/data-answer="(\d)"/g)].map(m=>+m[1]));
+ assert.ok(l.sections.every(s=>s.title&&s.text.length>80));
+ assert.ok(l.checks.every(q=>q.options.length===3&&q.explanation.length>40));
+ assert.ok(l.written.every(w=>w.prompt&&w.model.length>60));
+ const source=c.lessons.find(x=>x.id===l.id);
+ if(source){
+  assert.deepEqual([l.chapter,l.start,l.end],[source.chapter,source.start,source.end]);
+  assert.match(h,/<blockquote lang="en">/);
+  assert.deepEqual(l.table?.rows.map(r=>r.length),source.table?.rows.map(r=>r.length));
+ }
+ ptChecks+=l.checks.length;ptResponses+=l.written.length;
+}
+assert.equal(ptChecks,54);assert.equal(ptResponses,37);
+const ptPrint=fs.readFileSync('docs/pt/nutrition/print.html','utf8');
+assert.equal((ptPrint.match(/<h1>/g)||[]).length,1);
+assert.equal((ptPrint.match(/class="nutrition-quiz"/g)||[]).length,54);
+assert.equal((ptPrint.match(/<textarea/g)||[]).length,37);
+const ptSources=fs.readFileSync('docs/pt/nutrition/sources.html','utf8');
+for(let i=1;i<=118;i++)assert.ok(ptSources.includes(`id="capture-${i}"`));
+assert.ok(!fs.readFileSync('docs/pt/nutrition/index.html','utf8').includes('As lições completas estão em inglês'));
+console.log('Portuguese Nutrition: 18 condensed teaching counterparts, 54 aligned checks, 37 responses, five comparison tables, 118 inherited locators, reciprocal language navigation and paper edition.');

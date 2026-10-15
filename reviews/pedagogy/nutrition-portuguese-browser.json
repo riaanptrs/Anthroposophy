@@ -1,0 +1,13 @@
+{
+  "pages": 18,
+  "width": 390,
+  "javaScript": true,
+  "status": "passed",
+  "checks": [
+    "Portuguese empty/wrong/correct/retry feedback",
+    "native answer disclosure",
+    "responses unsaved after reload",
+    "no browser errors",
+    "no external requests"
+  ]
+}
