@@ -130,3 +130,6 @@ buildFoundationsClarity();
 
 const {buildAgricultureClarity}=await import('./build-agriculture-clarity.mjs');
 buildAgricultureClarity();
+
+const {buildHumanitiesClarity}=await import('./build-humanities-clarity.mjs');
+buildHumanitiesClarity();
