@@ -192,5 +192,17 @@
       "exitCode": 0,
       "output": "Passed Waldorf: 98 routes, 62 source fingerprints, states, source panels, titles, anchors, and integration."
     }
+  ],
+  "rerunAfterSampleReview": [
+    "check-freedom-clarity",
+    "check-freedom-source",
+    "check-freedom-route",
+    "check-freedom-lectures",
+    "check-site",
+    "check-portuguese",
+    "check-learning-system",
+    "check-guided-study",
+    "check-passage-study",
+    "check-teaching-approach"
   ]
 }
