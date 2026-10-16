@@ -19325,1117 +19325,885 @@ Fresh comparison with original source witnesses remains blocked.
 
 Original book/lecture witnesses unavailable in selected workspace. Existing quotations, capture references and verification labels inherited; none freshly verified.
 
-## The two questions: knowledge and freedom
+## Two questions to carry through the book
 
 [English](../../docs/philosophy-of-freedom/lessons/00.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/00.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Begin from Steiner’s own prefaces and learn how the inquiry into knowledge supports the inquiry into free action.
-
-**Learning criterion:**
-
-Explain why the inquiry into free motives depends on the account of thinking, without deriving later spiritual research from GA 4.
+How do we understand what happens, and what moves us to act?
 
 **Essential concepts:**
 
-Thinking: the activity of forming and understanding conceptual connections. Thought: a content or product of that activity. Percept: observed content; perception is the observing process. Mental picture / representation: a concept individualized through an encounter. Intuition: inward apprehension of conceptual content.
+Knowing and acting; explanation versus motive
 
 **Prerequisite:**
 
-- No specialist prerequisite beyond the orientation given in this lesson.
+None
 
 **Connections:**
 
-Explain why the inquiry into free motives depends on the account of thinking, without deriving later spiritual research from GA 4.
+Changed meeting notice connects correction of knowledge with a separate question about helping
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Why does the course begin with knowing rather than rules for conduct?
-- The preface connects freedom with the nature of the human being and the thinking through which motives are grasped. Part I develops the foundation required by Part II; identifying a choice alone does not settle its freedom.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+Confidence or helpfulness proves freedom
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+The two investigations previously arrived as abstract programmatic claims
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Follow one mistaken arrival through correction, then ask a different question about volunteering
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Is choosing enough?
+## What makes you say yes?
 
 [English](../../docs/philosophy-of-freedom/lessons/01.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/01.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Explain why Steiner connects freedom with knowing how a motive arises, rather than with available options alone.
-
-**Learning criterion:**
-
-Distinguish selection, execution and origin of motive in the cancelled-meeting example; state what the stone analogy leaves unanswered.
+Separate what you do from the reason that moves you.
 
 **Essential concepts:**
 
-Motive: the reason or represented aim moving an action. Blind impulse: an urge followed without clear knowledge of its ground. Knowing doer: the person whose understanding participates in acting. Necessity: determination whose relation to freedom is being investigated.
+Motive; awareness; constraint; execution
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 00
+00
 
 **Connections:**
 
-Distinguish selection, execution and origin of motive in the cancelled-meeting example; state what the stone analogy leaves unanswered.
+Helping a friend connects social approval with voluntary-looking conduct
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Why is choosing Tuesday not yet proof of freedom?
-- It identifies a selected option. The chapter asks how its motive came about and whether conscious understanding changes its determining character.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+Recognizing fear or having options is sufficient freedom
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+The opening needed to pose the question without borrowing the later answer
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Compare the same yes under three influences and distinguish a broken car from a constrained decision
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Why do we seek explanations?
+## Why is seeing not always understanding?
 
 [English](../../docs/philosophy-of-freedom/lessons/02.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/02.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Reconstruct the self–world problem and the chapter’s distinct objections to proposed accounts of unity.
-
-**Learning criterion:**
-
-Explain why renaming thought as matter or matter as thought does not yet resolve the experienced self–world relation.
+Notice the question between an event and its explanation.
 
 **Essential concepts:**
 
-Dualism: an account treating two principles as fundamentally distinct. Monism: an account seeking one underlying reality. Materialism: priority of material processes. Spiritualism: priority of spirit. Self–world contrast: the experienced relation between the questioner and the world being understood.
+Self/world; dualism; monism
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 00
+01
 
 **Connections:**
 
-Explain why renaming thought as matter or matter as thought does not yet resolve the experienced self–world relation.
+A moving tree connects everyday explanation with the philosophical division
 
-**Misconception and feedback:**
+**Misconception:**
 
-- What connects the need for an explanation with the self–world problem?
-- We confront appearances as questioners, yet belong to the world we question. Understanding seeks the connection that this experienced contrast leaves unresolved.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+Naming one reality already explains the relation
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+Labels for positions needed a concrete problem they must solve
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Ask what each position explains about the tree and the thinker
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## What do we add by thinking?
+## Seeing a sequence, explaining a connection
 
 [English](../../docs/philosophy-of-freedom/lessons/03.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/03.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Practise separating an observed sequence, its conceptual explanation and a prediction based on that explanation.
-
-**Learning criterion:**
-
-Separate the supplied collision sequence, its conceptual explanation and a conditional prediction requiring additional quantities.
+Distinguish the event from the thinking that explains it.
 
 **Essential concepts:**
 
-Observation: encounter with a content of experience, including inward content. Conceptual connection: an understood relation among concepts. Prediction: a conclusion about a further occurrence under specified conditions.
+Observation; explanation; prediction; inward experience
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 02
+02; optional practice for 04
 
 **Connections:**
 
-Separate the supplied collision sequence, its conceptual explanation and a conditional prediction requiring additional quantities.
+Billiard collision connects explanatory relations to limits of prediction
 
-**Misconception and feedback:**
+**Misconception:**
 
-- What does thinking add to the billiard sequence?
-- A conceptual connection among the observed details. It does not push the balls or create the occurrence.
-
-**Identified conceptual gap:**
-
-The opening asked learners to invent the observed sequence before distinguishing it from a prediction.
+Thinking causes the collision; an experienced dream proves an external horse
 
 **Gap addressed:**
 
-- before: Imagine two billiard balls. One approaches the other, contact occurs and their movements change. Write the sequence before trying to explain it. Then cover the part of the imagined table beyond the point of impact: what could you infer, and what have you actually seen?
-- after: Two billiard balls are initially still. One is struck, approaches the other and makes contact; afterwards both move. That is the supplied sequence. Calling the contact a collision connects these moments through a concept; predicting exactly where each ball goes requires further information about direction, speed and conditions. The sequence supports a question about causation but does not, by itself, supply those missing quantities.
-- pt: Duas bolas de bilhar estão inicialmente paradas. Uma recebe uma tacada, aproxima-se da outra e faz contato; depois, ambas se movem. Essa é a sequência fornecida. Chamar o contato de colisão relaciona os momentos por um conceito; prever exatamente para onde cada bola vai exige informações adicionais sobre direção, velocidade e condições. A sequência sustenta uma pergunta sobre causalidade, mas não fornece, sozinha, essas grandezas ausentes.
-- paragraphIndex: 0
+A distinction between noticing a sequence and understanding it needed demonstration
 
 **Teaching method:**
 
-Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+Explain motion, missing initial conditions and the scope of a dream report
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Thinking: make a connection, then examine it
+## Thinking, then noticing how you thought
 
 [English](../../docs/philosophy-of-freedom/lessons/04.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/04.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Reconstruct Steiner’s argument for observing thinking as the starting point of knowledge, including the objections answered in 1918.
-
-**Learning criterion:**
-
-Reconstruct the calculation, then distinguish thinking it from reflecting on that completed activity and from remembering its result.
+Distinguish remembering a result from reconstructing its reasons.
 
 **Essential concepts:**
 
-Exceptional state: making thinking itself an object of observation. Thought-image: content that may arise without active elaboration. Active thinking: forming and examining conceptual connections. Epistemic starting point: the basis proposed for understanding what exists, distinct from its origin in time.
+Thinking as activity; retrospective observation; application
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 03
+02
 
 **Connections:**
 
-Reconstruct the calculation, then distinguish thinking it from reflecting on that completed activity and from remembering its result.
+Bracketed arithmetic distinguishes recalled answer from understood operations
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Why is recalling “five” different from observing the thinking?
-- Recall gives a result. The exercise asks you to reconstruct the connections that produced it and then make that activity the object of fresh thinking.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+A correct answer proves the entire philosophical account
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+The special epistemic role of thinking needed a learner-accessible action
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Calculate five, reconstruct the steps, and test the wrong bracketing
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Perception, representation and an argument to test
+## What you see and what you remember
 
 [English](../../docs/philosophy-of-freedom/lessons/05.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/05.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Explain how the chapter distinguishes conceptual activity, percept and mental picture, then reconstruct its criticism of critical idealism.
-
-**Learning criterion:**
-
-Distinguish changed viewpoint, object, percept and retained representation; identify the premise borrowed by the representation-only proof.
+Separate an appearance, its explanation and a remembered encounter.
 
 **Essential concepts:**
 
-Percept: content encountered through observation, including inward content. Concept: a thought-content related within a conceptual whole. Idea: a fuller or more comprehensive concept. Mental picture / representation: the inward after-effect connected with a particular encounter. Critical idealism: the position whose proof of knowledge restricted to mental pictures is examined here.
+Percept; appearance; representation; argument consistency
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 04
+04
 
 **Connections:**
 
-Distinguish changed viewpoint, object, percept and retained representation; identify the premise borrowed by the representation-only proof.
+Tilted card connects perspective and memory without erasing the object
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Is a percept the act of perceiving, or only an external sensation?
-- Neither. It is the encountered content of observation; the chapter also includes feelings and thinking as first observed.
-
-**Identified conceptual gap:**
-
-The card illustration named four categories without completing their viewpoint/recall relationship.
+Changing appearance proves no object; failed argument proves the opposite
 
 **Gap addressed:**
 
-- before: Look at a circular card face-on and then tilted. Its visible outline becomes narrower. Put it out of sight and recall the encounter. Distinguish the card, the encountered appearance, the concept of a circle and what remains as your mental picture.
-- after: A circular card viewed face-on has a round outline; tilted, it presents a narrower outline. The changed appearance belongs to the encounter from a changed viewpoint. It does not require the card to have been cut into a new shape. After the card is put away, recalling either view supplies a representation of the encounter. Object, appearance, explanatory concept and remembered representation therefore have different roles before the chapter asks how they are related.
-- pt: Um cartão circular visto de frente apresenta contorno redondo; inclinado, apresenta contorno mais estreito. A aparência modificada pertence ao encontro a partir de outro ponto de vista. Isso não exige que o cartão tenha sido recortado numa forma nova. Depois de guardá-lo, lembrar qualquer vista oferece uma representação do encontro. Objeto, aparência, conceito explicativo e representação lembrada têm, portanto, papéis diferentes antes de o capítulo perguntar como se relacionam.
-- paragraphIndex: 0
+Perception debates introduced technical positions too quickly
 
 **Teaching method:**
 
-Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+Compare card, view and recollection, then explain two objections separately
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Does perception give us only representations?
+## Does the explanation undermine itself?
 
 [English](../../docs/philosophy-of-freedom/lessons/06.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/06.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Practise reconstructing a proof and testing whether it applies its own conclusion consistently.
-
-**Learning criterion:**
-
-Explain the proof’s inconsistent treatment of perceived organs and its separate unobserved transition from brain process to sensation.
+Test an argument fairly before accepting or rejecting it.
 
 **Essential concepts:**
 
-Premise: a statement used to support a conclusion. Consistency: applying the same standard to the argument’s foundations and result. Evidential gap: a claimed connection not established by the observations offered. Naive realism: accepting immediate percepts as independently existing just as they appear.
+Premise consistency; explanatory gap; historical voices
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 05
+05
 
 **Connections:**
 
-Explain the proof’s inconsistent treatment of perceived organs and its separate unobserved transition from brain process to sensation.
+Argument about organs applies its conclusion to its own starting evidence
 
-**Misconception and feedback:**
+**Misconception:**
 
-- What is the borrowed premise?
-- Perceived organs and processes are treated as objectively valid causes, although the argument’s conclusion classifies perceived objects generally as mental pictures.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+More brain detail alone resolves a logical inconsistency
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+The two objections needed separate reasons and bounded conclusions
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Follow the argument back to its premises and distinguish an unproved claim from a false one
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Knowing: unite percept and concept
+## How a bud and a flower belong together
 
 [English](../../docs/philosophy-of-freedom/lessons/07.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/07.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Reconstruct Steiner's account of knowing, including the criticism of idealism, the conceptual side of reality and the 1918 addition.
-
-**Learning criterion:**
-
-Explain how the rose’s successive percepts and concept belong together, without claiming that thinking physically grows the flower.
+Explain what observation and an understood relationship each contribute.
 
 **Essential concepts:**
 
-Percept: content encountered through observation; concept: intelligible content grasped through thinking; intuition: the inward appearance of conceptual content; critical idealism: the position being examined about the representative character of perception; synthesis: joining percept and concept in knowing.
+Percept/concept; development; intuition
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 04
-- philosophy-of-freedom lesson 05
+05
 
 **Connections:**
 
-Explain how the rose’s successive percepts and concept belong together, without claiming that thinking physically grows the flower.
+Rosebud and flower connect moments through an intelligible process
 
-**Misconception and feedback:**
+**Misconception:**
 
-- What does the collapsing-house analogy establish?
-- It challenges a proof that rejects the naive-realistic premises supporting its conclusion. The failure of that proof alone does not establish that every idealist conclusion is false.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+Thinking grows the plant; intuition means a hunch
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+The conceptual relation needed both usefulness and limits of application
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Explain the relation, then change the case to a dried bud
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Shared concepts and the thinking that grasps them
+## Different drawings, one idea
 
 [English](../../docs/philosophy-of-freedom/lessons/08.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/08.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Distinguish shared conceptual content, individual apprehension and representation, then reconstruct the thinking exception in the 1918 addition.
-
-**Learning criterion:**
-
-Distinguish shared conceptual content from different drawings, personal encounters and remembered representations.
+See what we share when we understand a triangle.
 
 **Essential concepts:**
 
-Conceptual content: the relation understood; individual apprehension: a person's act of understanding it; subjective percept: inward content made an object of observation; representation: a concept retaining reference to a particular encounter; naive realism of thinking: Steiner's proposed direct access to thinking's activity.
+Concept; representation; common conceptual content
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 07
+07
 
 **Connections:**
 
-Distinguish shared conceptual content from different drawings, personal encounters and remembered representations.
+Different triangles distinguish relation from visual similarity
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Must the drawings or feelings match for conceptual content to be shared?
-- No. Different percepts and personal responses can accompany understanding of the same conceptual relation.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+Shared word or similar picture proves identical understanding
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+Shared concepts needed a simple example that does not claim too much
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Compare two triangles and an open outline, keeping the stronger philosophical claim explicit
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Individuality: representation, experience and feeling
+## Recognizing your own bicycle
 
 [English](../../docs/philosophy-of-freedom/lessons/09.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/09.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Explain the individualized concept, two kinds of recognition and the distinct roles of experience and feeling in personal life.
-
-**Learning criterion:**
-
-Distinguish recognition of a kind from recognition of the same individual object using the bicycle example.
+Distinguish a shared concept from a memory of one particular thing.
 
 **Essential concepts:**
 
-Representation or mental picture: a concept retaining reference to a particular percept; individualized concept: the same relation expressed in conceptual terms; experience: the connected range of particular encounters and concepts; feeling: the individual relation expressed in pleasure or displeasure; recognition: identifying either a kind or the same object again.
+Individualized concept; feeling; experience
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 07
-- philosophy-of-freedom lesson 08
+07
 
 **Connections:**
 
-Distinguish recognition of a kind from recognition of the same individual object using the bicycle example.
+Recognizing a bicycle connects general understanding with personal memory
 
-**Misconception and feedback:**
+**Misconception:**
 
-- What makes a concept individualized in a representation?
-- It retains its reference to a particular perceptual encounter. The term does not mean that a general concept becomes an arbitrary private opinion.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+A shared concept eliminates individual experience
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+Representation needed an account beyond an inner photograph
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Distinguish kind, this object and its personal significance
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Limits to knowledge: a research gap or a second world?
+## Not knowing yet
 
 [English](../../docs/philosophy-of-freedom/lessons/10.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/10.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Reconstruct the monist answer to dualism and distinguish present research limits, sensory limitations and proposed absolute unknowability.
-
-**Learning criterion:**
-
-Explain why a present observational gap does not entail an inaccessible second reality; distinguish lack of evidence from a metaphysical premise.
+Distinguish an unanswered question from a claim that knowledge is impossible.
 
 **Essential concepts:**
 
-Monism: percept and concept as complementary sides of one reality; dualism: the two-world account criticized in this chapter; thing-in-itself: supposed reality placed beyond the experienced object; induction: a conditional inference from observations; research limit: a present obstacle of observation, circumstances or understanding.
+Present ignorance; absolute limit; monism
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 05
-- philosophy-of-freedom lesson 07
-- philosophy-of-freedom lesson 09
+07; 09
 
 **Connections:**
 
-Explain why a present observational gap does not entail an inaccessible second reality; distinguish lack of evidence from a metaphysical premise.
+Wilting plant connects missing records with claims about knowability
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Does Steiner's denial of absolute limits mean that current investigators know everything?
-- No. He recognizes obstacles arising from circumstances and particular organization. He denies that knowing, understood as joining percept and concept, requires an inaccessible second world.
-
-**Identified conceptual gap:**
-
-The research-gap example asked a question without showing what reconsideration of a proposed explanation would look like.
+Rejecting absolute limits means knowing every fact
 
 **Gap addressed:**
 
-- before: A plant in your study room begins to wilt. You know its appearance but have not recorded its light, water or temperature. This is a gap in the investigation. Claiming that its real cause must belong to an unknowable world would be a different judgment. What information and conceptual relations could turn the present puzzle into an intelligible process?
-- after: A plant begins to wilt, but its recent light, water and temperature have not been recorded. Naming insufficient water is a possible explanation, not yet a finding. A record showing wet soil would require reconsidering that proposal rather than declaring the plant unknowable. This is a research gap: relevant observations and their relations are missing. A claim that the cause belongs in principle to an inaccessible second world would add a different premise, not follow from the missing record.
-- pt: Uma planta começa a murchar, mas não há registro recente de luz, água e temperatura. Nomear falta de água oferece uma explicação possível, ainda não um resultado estabelecido. Um registro de solo molhado exigiria reconsiderar a proposta, em vez de declarar a planta incognoscível. Trata-se de uma lacuna de investigação: faltam observações pertinentes e suas relações. Afirmar que a causa pertence por princípio a um segundo mundo inacessível acrescentaria outra premissa; não decorreria do registro ausente.
-- paragraphIndex: 0
+The scope of the denial of limits needed careful qualification
 
 **Teaching method:**
 
-Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+Separate missing evidence from an in-principle claim; retain indirect inquiry
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Thinking, feeling and willing as factors of life
+## Feeling moved, understanding, acting
 
 [English](../../docs/philosophy-of-freedom/lessons/11.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/11.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Explain the directions of feeling and willing, the criticism of making either a universal principle, and the 1918 account of living thinking.
-
-**Learning criterion:**
-
-Explain feeling’s personal significance and willing’s outward direction while retaining thinking’s contribution to understanding both.
+Understand why the strength of an experience does not by itself explain its truth.
 
 **Essential concepts:**
 
-Cognition: establishing conceptual relations among percepts; feeling: the object's individually experienced relation to the subject; willing: the subject's active relation toward the object; thelism: philosophy that treats will as the world principle; living thinking: actively experienced conceptual activity rather than its remembered abstraction.
+Feeling; willing; living thinking
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 07
-- philosophy-of-freedom lesson 09
+04; 09
 
 **Connections:**
 
-Explain feeling’s personal significance and willing’s outward direction while retaining thinking’s contribution to understanding both.
+Music connects understanding, emotion and participation
 
-**Misconception and feedback:**
+**Misconception:**
 
-- How do feeling and willing differ in direction here?
-- Feeling expresses the encountered object's relation to me as subject; willing expresses my relation toward what is objective through activity.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+Intensity establishes universal truth; thinking must be cold
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+The critique of feeling-based knowledge could sound dismissive of feeling
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Respect the experienced feeling while limiting what it establishes; identify the stronger spiritual claim
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## The idea of freedom: motive, driving force and moral intuition
+## What actually moves a helpful action?
 
 [English](../../docs/philosophy-of-freedom/lessons/12.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/12.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Explain when motive and driving force coincide in ethical individualism and how this differs from instinct, habit, authority or a fixed moral rule.
-
-**Learning criterion:**
-
-Distinguish motive, driving force and their proposed coincidence in moral intuition; helpful appearance alone does not establish freedom.
+Distinguish understanding an ethical idea from being moved by praise or command.
 
 **Essential concepts:**
 
-Motive: conceptual content supplying an action's aim; driving force: what makes the motive effective for the individual; characterological disposition: enduring representations and feelings shaping response; practical reason: pure thinking as driving force; ethical individualism: realization of concrete, individually grasped moral intuitions.
+Motive; driving force; moral intuition; ethical individualism
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 04
-- philosophy-of-freedom lesson 11
+01; 04; 07; 11
 
 **Connections:**
 
-Distinguish motive, driving force and their proposed coincidence in moral intuition; helpful appearance alone does not establish freedom.
+Accessible meeting materials link ethical content with possible approval-seeking
 
-**Misconception and feedback:**
+**Misconception:**
 
-- How do motive and driving force differ, and when do they coincide?
-- The motive supplies the action's conceptual aim; the driving force makes that aim effective for the individual. At Steiner's highest level both are the understood ideal content of moral intuition.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+Awareness, helpful results or private wishes establish free ethical action
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+The distinction between a stated aim and what actually moves it needed direct explanation
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Compare three volunteers and test what would remain unknown about their motives
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## A free deed among other people
+## Different solutions, shared freedom
 
 [English](../../docs/philosophy-of-freedom/lessons/13.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/13.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Examine the developmental and social arguments of ethical individualism without confusing individuality with an arbitrary impulse or compulsory agreement.
-
-**Learning criterion:**
-
-Reconstruct the conditional shared-world premise of the harmony claim without concluding that all ordinary proposals are compatible.
+Consider another person’s ethical idea without assuming agreement.
 
 **Essential concepts:**
 
-Free deed: an act determined by individually grasped ideal content; moral standard: a general rule with a developmental role; social maxim: love for one's action joined with understanding another's will; free spirit: the realized ideal of human freedom; social order: an outcome of individual life that also supports its development.
+Other persons' will; shared world of ideas; conditional harmony
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 12
+12
 
 **Connections:**
 
-Reconstruct the conditional shared-world premise of the harmony claim without concluding that all ordinary proposals are compatible.
+Audio versus written guides connect disagreement with missing information
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Does saying an idea is mine establish that it is a free moral intuition?
-- No. The chapter distinguishes understood ideal content from blind instinct and asks about its place in the wider moral context.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+Calling both proposals intuitive resolves their conflict
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+Harmony needed conditions rather than a blanket assertion about actual disagreements
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Ask the participant, restate each proposal and identify unresolved factual or ethical differences
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Freedom develops within a real world
+## A rule you can make your own
 
 [English](../../docs/philosophy-of-freedom/lessons/14.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/14.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Explain how monism distinguishes imposed action from individual ethical insight while recognizing actual constraints.
-
-**Learning criterion:**
-
-Explain how a received rule can become an understood aim while real constraints and mixed motives remain.
+Examine the source of an action, whether it follows a rule or breaks one.
 
 **Essential concepts:**
 
-Monism — the account locating percept and concept within one experienceable reality; metaphysical realism — an explanation invoking a merely inferred reality behind experience; compulsion — a determining constraint; free spirit — the developing individual whose act is sustained by ideal intuition.
+Authority; internalized command; appropriation; development
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 12
+12
 
 **Connections:**
 
-Explain how a received rule can become an understood aim while real constraints and mixed motives remain.
+Returning tools connects a shared rule with different sources of conduct
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Does moving an authority's command into an inner voice establish freedom?
-- No. The voice may still function as an independent command. The question is whether individually apprehended ethical content determines the act.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+An inner command is free; every inherited rule is unfree
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+Internal versus external location had to be separated from free understanding
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Compare fear of sanction with understood access and test the possibility of rationalization
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## A purpose is an idea that guides action
+## An aim is present before its result
 
 [English](../../docs/philosophy-of-freedom/lessons/15.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/15.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Distinguish a represented aim from causation, lawful organization, and an assumed purpose of the world.
-
-**Learning criterion:**
-
-Separate a present represented purpose, practical causes and actual outcome; give an intended failure and an unintended effect.
+Distinguish an intended purpose from an effect that happens afterward.
 
 **Essential concepts:**
 
-Purpose — an intended result represented as a reason for action; cause — what brings about an effect; lawfulness — an intelligible connection among phenomena; mental picture — an individualized representation relating an idea to a possible or experienced event.
+Purpose; present representation; effect; natural order
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 07
-- philosophy-of-freedom lesson 14
+07; 12
 
 **Connections:**
 
-Separate a present represented purpose, practical causes and actual outcome; give an intended failure and an unintended effect.
+Library shelving distinguishes an intended result from an unplanned conversation
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Does the future result physically act backward on the doer?
-- No. A present mental picture of the intended result guides present action. The later result may differ from what was intended.
-
-**Identified conceptual gap:**
-
-The final purpose comparison remained a list of tasks rather than a supplied interpretation of failed and unintended outcomes.
+Future events cause past actions; later usefulness proves intention
 
 **Gap addressed:**
 
-- before: Return to the display. Separate what you intended, the present representation that guided you, the practical causes through which shelves moved, and what readers actually did. Then compare this with the plant: lawful development is observable and interpretable, but an imagined intention has not thereby been identified. Finally consider a shared project whose result exceeds any one member's plan. Purpose, causal explanation, and emergent joint outcome answer different questions; the chapter's account asks us to keep them explicit.
-- after: In the display example, easier access is the intended outcome; the present representation of that outcome guides arranging the shelves; bodily work moves them; readers’ later use shows what actually resulted. If nobody finds the books more easily, the purpose was present but unfulfilled. If an unplanned conversation begins beside the display, it is an effect without necessarily having been the purpose. A lawful sequence, an intended aim and an actual result are therefore distinguishable even within one project.
-- pt: No exemplo da exposição, o acesso mais fácil é o resultado pretendido; sua representação presente orienta a organização das estantes; o trabalho corporal as move; o uso posterior pelos leitores mostra o resultado efetivo. Se ninguém encontra os livros com mais facilidade, o propósito existiu, mas não se realizou. Se começa uma conversa não planejada junto à exposição, há um efeito que não era necessariamente seu propósito. Sequência causal, objetivo pretendido e resultado efetivo são, portanto, distintos mesmo num único projeto.
-- paragraphIndex: 7
+Purpose required an explicit causal sequence and a failed-plan case
 
 **Teaching method:**
 
-Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+Trace aim, work and result; qualify the transfer to nature
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## From ethical insight to a workable deed
+## From an ethical idea to a workable action
 
 [English](../../docs/philosophy-of-freedom/lessons/16.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/16.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Connect moral intuition, imagination and technique, and distinguish freedom of motive from the ability to carry out an action.
-
-**Learning criterion:**
-
-Trace ethical reason, imagined response and practical technique when a participant requests audio rather than adjustable text.
+Understand moral intuition, imagination and technique through one concrete change.
 
 **Essential concepts:**
 
-Moral intuition — apprehension of ethical ideal content; moral imagination — forming a concrete possible deed from that content; moral technique — knowledge and skill for transforming real circumstances; historical development — actual emergence over time, distinct from logical deduction.
+Moral intuition; imagination; technique; novelty
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 12
-- philosophy-of-freedom lesson 15
+12; 15
 
 **Connections:**
 
-Trace ethical reason, imagined response and practical technique when a participant requests audio rather than adjustable text.
+Accessible audio connects ethical content with form, conditions and collaboration
 
-**Misconception and feedback:**
+**Misconception:**
 
-- What changes when the participant asks for audio rather than a digital copy?
-- The ethical aim of enabling participation can remain, while the imagined form and practical technique change. Ask what works for the person instead of defending the initial proposal.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+Good intentions supply skill; success or novelty proves freedom
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+Three terms needed one worked process without becoming a freedom checklist
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Develop a digital proposal into an audio plan with feedback and practical conditions
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Practice: a new response and its actual means
+## Improve the plan without confusing the questions
 
 [English](../../docs/philosophy-of-freedom/lessons/17.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/17.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Apply the three roles of moral action and explain why an action's history does not settle its present motive.
-
-**Learning criterion:**
-
-Explain why neither an old rule nor a novel format establishes freedom, then connect the need, purpose and workable means.
+Use intuition, imagination and technique to diagnose a practical difficulty.
 
 **Essential concepts:**
 
-Technical capacity — practical ability to carry out a proposal; productive contribution — formation of new concrete ethical content; historical origin — influences and development preceding an act; determining reason — what sustains this present act.
+Form revision; technique; collaboration; motive
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 16
+16
 
 **Connections:**
 
-Explain why neither an old rule nor a novel format establishes freedom, then connect the need, purpose and workable means.
+An inaccessible file format connects diagnosis with redesign
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Does a new format prove a new free motive?
-- No. A novel response can still be copied or pursued for praise; the determining reason must be examined.
-
-**Identified conceptual gap:**
-
-The optional practice asked what two positions left unexplained but did not resolve their different errors in the opening.
+An unusable format refutes the ethical aim
 
 **Gap addressed:**
 
-- before: Your group has always distributed printed notes. A member asks for audio. One organizer says that nothing can change because the rule is old; another says that any new format is automatically freer. What has each left unexplained? Sketch the member's need, the proposed response, and the reasons for adopting it.
-- after: A group has always distributed printed notes, and a member asks for audio. Keeping print simply because the rule is old leaves its present purpose unexamined. Choosing audio simply because it is new leaves its suitability and motive unexamined. A reasoned response begins with the member’s actual access need: preserve the aim of participation, consider an appropriate format, and check whether it works. Neither age nor novelty answers those questions for us.
-- pt: Um grupo sempre distribuiu notas impressas, e um participante pede áudio. Manter a impressão apenas porque a regra é antiga deixa seu propósito presente sem exame. Escolher áudio apenas porque é novo deixa sua adequação e seu motivo sem exame. Uma resposta fundamentada começa pela necessidade real de acesso: conservar o propósito de participação, considerar um formato adequado e conferir se funciona. Nem antiguidade nem novidade respondem a essas perguntas por nós.
-- paragraphIndex: 0
+The distinctions needed use under failure, not merely definitions
 
 **Teaching method:**
 
-Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+Locate the obstacle, compare old/new formats and revise the concrete form
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Why a particular aim can be worth pursuing
+## Why pleasure is not the whole question
 
 [English](../../docs/philosophy-of-freedom/lessons/18.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/18.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Reconstruct the debate about pleasure, pain and desire, then explain the qualified claim that ethical ideals can sustain willing.
-
-**Learning criterion:**
-
-Distinguish pleasure–pain balance, particular desire, satisfaction and hindrance; explain why enjoyable ethical action need not be selfish.
+Distinguish a balance of pleasant feelings from the satisfaction of a particular aim.
 
 **Essential concepts:**
 
-Optimism — the philosophical claim that the world is fundamentally good; pessimism — the opposed assessment of existence through suffering; eudemonism — the account valuing life through a surplus of pleasure; value of satisfaction — its relation to a particular desire; ethical desire — wanting directed by apprehended ethical content.
+Pleasure/pain; willing; particular satisfaction; judgment
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 12
-- philosophy-of-freedom lesson 16
+12
 
 **Connections:**
 
-Distinguish pleasure–pain balance, particular desire, satisfaction and hindrance; explain why enjoyable ethical action need not be selfish.
+Book repair versus film connects desired content with noninterchangeable pleasures
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Does the chapter deny that pleasure and pain can be compared?
-- No. It allows approximate comparison and pleasure-based choice among interchangeable alternatives. It disputes treating that balance as the sole explanation of every concrete aim.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+Pleasure makes help selfish; strong desire makes it ethical
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+The balance-of-feelings debate needed an ordinary choice and safeguards against moralizing hardship
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Explain partial tradeoffs and distinguish mistaken applause from an unreal feeling
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Practice: satisfaction, desire and obstacles
+## Partial fulfillment is still particular
 
 [English](../../docs/philosophy-of-freedom/lessons/19.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/19.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Distinguish a balance of pleasure and pain from the value of fulfilling a particular desire.
-
-**Learning criterion:**
-
-Compare one unit meeting needs of two and four units, and explain why an equally pleasant substitute need not meet the particular aim.
+Notice what a comparison of satisfaction can and cannot show.
 
 **Essential concepts:**
 
-Partial fulfillment — some satisfaction with demand still unmet; interchangeability — alternatives adequately meeting the same aim; hindrance — a difficulty affecting the pursuit of an aim; determining ethical content — the understood ideal that sustains an act in Steiner's freedom account.
+Partial fulfillment; proportion; ethical evaluation
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 18
+18
 
 **Connections:**
 
-Compare one unit meeting needs of two and four units, and explain why an equally pleasant substitute need not meet the particular aim.
+One of two versus one of four covers makes a relation visible
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Is a pleasant substitute always enough?
-- No. A specific desire may require its particular object: amusement does not repair a book or supply food. Some alternatives are interchangeable, but that must be established.
-
-**Identified conceptual gap:**
-
-Partial satisfaction was illustrated but the changed denominator was not worked numerically.
+A satisfaction ratio measures human worth or freedom
 
 **Gap addressed:**
 
-- before: Use the bread example without turning hunger into abstract entertainment. If the need is for two pieces and only one is obtained, some satisfaction exists while the need remains partly unmet. An equally enjoyable walk does not supply the missing food. Likewise, a pleasant film does not preserve the book. Where you genuinely want only some amusement and accept either activity, pleasure comparison can be relevant. Establish interchangeability rather than assume it.
-- after: In the bread illustration, one piece meets half of a two-piece need, but only a quarter of a four-piece need. The satisfaction supplied is unchanged; the proportion of the particular need met changes. A pleasant walk supplies neither missing piece, so equal enjoyment would not make it interchangeable with food. The numbers clarify a relation, not a measure of human worth or a nutritional prescription. In the repair example, a film likewise cannot substitute for the object being repaired unless the actual aim was merely some amusement.
-- pt: Na ilustração do pão, um pedaço atende metade de uma necessidade de dois pedaços, mas apenas um quarto de uma necessidade de quatro. A satisfação oferecida permanece igual; muda a proporção da necessidade específica atendida. Uma caminhada agradável não fornece nenhum pedaço ausente, portanto igual prazer não a tornaria intercambiável com alimento. Os números esclarecem uma relação, não medem valor humano nem prescrevem alimentação. No exemplo do conserto, um filme tampouco substitui o objeto reparado, a menos que o propósito real fosse apenas algum entretenimento.
-- paragraphIndex: 2
+The ratio needed limits so it did not become a measure of persons
 
 **Teaching method:**
 
-Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+Calculate two fractions, then name omitted qualities and a reason to seek expert help
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## Understand the individual beyond the category
+## Meet the person beyond the category
 
 [English](../../docs/philosophy-of-freedom/lessons/20.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/20.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Distinguish shared characteristics from a person's own reasons, and read the chapter's historical group claims critically.
-
-**Learning criterion:**
-
-Reconstruct another person’s stated aim before judging it; distinguish observable quietness from an inferred preference and critique racial generalization.
+Distinguish what you observe from what you assume about an individual.
 
 **Essential concepts:**
 
-Genus / generic — a general kind or characteristics shared within a grouping; individuality — the particular thinking and aims expressed by this person; inference — a conclusion drawn from an observation; self-determination — here, action sustained by personally apprehended ethical content.
+Individuality; group description; inference; ethical understanding
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 09
-- philosophy-of-freedom lesson 12
+09; 12
 
 **Connections:**
 
-Reconstruct another person’s stated aim before judging it; distinguish observable quietness from an inferred preference and critique racial generalization.
+A quiet member who wants to lead connects observed conduct with corrected assumptions
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Does being quiet show that a member does not want to lead?
-- No. Quiet behavior is observed; the alleged preference is an inference needing examination. The person's own explanation can change your understanding.
-
-**Identified conceptual gap:**
-
-No additional conceptual gap identified within this lesson’s stated scope. The existing explanation already supports the criterion; preserve it rather than add a repeated example.
+Group membership determines vocation; understanding requires agreement
 
 **Gap addressed:**
 
-- decision: Retained after individual review; no prose change counted.
+Historical generalizations needed visible qualification alongside the individuality argument
 
 **Teaching method:**
 
-Retain the existing explanation, distinctions and application; use the stated criterion to assess its adequacy.
+Separate observation and inference, ask the person and reject stereotyping as individual evidence
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
-## The whole argument: monism, free action and understanding others
+## Bring knowing and acting together
 
 [English](../../docs/philosophy-of-freedom/lessons/21.html) · [Português](../../docs/pt/philosophy-of-freedom/lessons/21.html)
 
 **Scope:**
 
-Core lesson explanation, existing main example and primary feedback; ancillary source guides retained. Learning criterion is explicit in this private audit, not a public rubric.
+Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.
 
 **Learning objective:**
 
-Connect both halves of the book, explain the conclusion and appendix, and identify what the philosophical argument does and does not establish.
-
-**Learning criterion:**
-
-Connect knowing circumstances with ethical intuition, imagination and technique, without treating successful help as proof of free willing.
+Connect the book’s two inquiries without treating a useful example as proof.
 
 **Essential concepts:**
 
-Monism of thought: the unity grasped through percept and conceptual content in experienced thinking. Ethical individualism: acting from individually understood ethical content. Moral imagination: a concrete possible expression of an ethical idea. Moral technique: knowledge and skill for realizing it. Other minds: the question of knowing another person’s conscious content.
+Unity of knowing; ethical content; spiritual thinking; other minds
 
 **Prerequisite:**
 
-- philosophy-of-freedom lesson 07
-- philosophy-of-freedom lesson 12
-- philosophy-of-freedom lesson 16
-- philosophy-of-freedom lesson 20
+04; 07; 12; 16; 20
 
 **Connections:**
 
-Connect knowing circumstances with ethical intuition, imagination and technique, without treating successful help as proof of free willing.
+A shared table and access change connect the two parts of the book
 
-**Misconception and feedback:**
+**Misconception:**
 
-- Why is Part I necessary for the argument about free deeds?
-- The first conclusion addition says ethical self-observation is insufficient if intuitive thinking is dependent on an external source. The account of self-sustaining, experienced thinking provides the book’s proposed basis for freedom in actions proceeding from intuitions.
-
-**Identified conceptual gap:**
-
-The ending assigned a portfolio; it needed a concise completed connection between knowing and acting.
+A useful example or stated reason proves the whole philosophy
 
 **Gap addressed:**
 
-- before: Complete the course by showing both knowing and acting in one portfolio. Include an observed situation, the conceptual connection you reconstructed, the person’s particular circumstances, a possible ethical reason, a concrete imagined deed, practical requirements and a way to examine its result. Name what could still determine you through habit, fear or approval. Acknowledge any disagreement or unresolved premise. The destination is a clearer capacity to understand and take responsibility for a reason, rather than a certificate that every deed is free.
-- after: The small-print case connects the argument without collapsing its steps. Knowing that a participant cannot use the handout identifies a circumstance; it does not yet provide the ethical aim. Grasping participation as a reason, imagining an audio version and obtaining the skills to deliver it add distinct contributions. A usable recording shows practical success, while the question of freedom still concerns what determined the deed. This final distinction prevents both a correct explanation and a helpful outcome from being treated as certificates of free willing.
-- pt: O caso das letras pequenas relaciona o argumento sem fundir suas etapas. Saber que uma pessoa não consegue usar o material identifica uma circunstância; ainda não oferece o propósito ético. Compreender a participação como razão, imaginar uma versão em áudio e obter as habilidades para entregá-la acrescentam contribuições distintas. Uma gravação utilizável mostra êxito prático, enquanto a questão da liberdade ainda diz respeito ao que determinou o ato. Essa distinção final impede que uma explicação correta ou um resultado útil sejam tratados como certificados de querer livre.
-- paragraphIndex: 9
+Synthesis needed the dependence of freedom on the thinking argument, not a checklist of good behavior
 
 **Teaching method:**
 
-Replace the identified weak explanatory step with direct reasoning in the existing lesson structure; retain source and questions.
+Work through knowledge, ethical content, form and execution while stating what remains unproved
 
 **Source limit:**
 
-Existing repository notes and attributed teaching only. Original witnesses are unavailable for fresh fidelity review; no new quotation or locator introduced.
+Fresh original-source fidelity review: original Wilson PDF/Markdown and lecture transcripts unavailable locally. Existing source records inherited; no new quotations or locators.
 
 ## Practical and Impractical Thinking
 

@@ -20,7 +20,7 @@ Audited does not mean rewritten. Retained means an individual review found the c
 | meditation | 9 | 9 | 9 | 9 | 0 | 9 | 0 |
 | mystery-temperaments | 15 | 15 | 15 | 3 | 12 | 15 | 0 |
 | nutrition | 18 | 18 | 18 | 0 | 18 | 18 | 0 |
-| philosophy-of-freedom | 22 | 22 | 22 | 7 | 15 | 22 | 0 |
+| philosophy-of-freedom | 22 | 22 | 22 | 22 | 0 | 22 | 0 |
 | practical-thinking | 13 | 13 | 13 | 13 | 0 | 13 | 0 |
 | temperaments | 11 | 11 | 11 | 2 | 9 | 11 | 0 |
 | theosophy | 24 | 24 | 24 | 24 | 0 | 24 | 0 |
@@ -31,8 +31,10 @@ Audited does not mean rewritten. Retained means an individual review found the c
 | waldorf | 62 | 98 | 62 | 62 | 0 | 98 | 0 |
 | what-is-biodynamics | 14 | 14 | 14 | 5 | 9 | 14 | 0 |
 
-Total: **487 authored units**, 523 English lesson/support routes and 523 Portuguese counterparts. **487 scoped audits: 241 revised and 246 retained. 0 authored units await individual audit**, plus 36 Waldorf inherited/support routes not counted as independent lessons.
+Total: **487 authored units**, 523 English lesson/support routes and 523 Portuguese counterparts. **487 scoped audits: 256 revised and 231 retained. 0 authored units await individual audit**, plus 36 Waldorf inherited/support routes not counted as independent lessons.
 
 The earlier 108 primary-goal passes have narrower scope than the later conceptual reviews. See each ledger entry’s scope and criterion. Nutrition has 18 condensed Portuguese teaching counterparts, including questions and feedback; excerpts and documentary page notes remain explicitly in English. Threefold Society covers only its supplied opening; specialist limitations and missing source witnesses remain even where the current teaching unit is audited.
 
 Pending original-source verification is separate from pending teaching work. No unchanged Library network failure was retried in the subsequent conceptual batches.
+
+The Philosophy of Freedom clarity pass revises all 22 bilingual first readings while preserving earlier detailed teaching. This adds 15 formerly retained units to the revised count; it does not add 22 new units. See [the review](FREEDOM-CLARITY-REVIEW.md) and [individual ledger](freedom-clarity-ledger.json).

@@ -389,28 +389,28 @@ Nutrition now has 18 condensed Portuguese teaching counterparts. Excerpts and do
 
 | Chapter / lesson | A | R | Checks | Portuguese |
 | --- | --- | --- | --- | --- |
-| [The two questions: knowledge and freedom](../../docs/philosophy-of-freedom/lessons/00.html) | yes | retained | pass | present |
-| [Is choosing enough?](../../docs/philosophy-of-freedom/lessons/01.html) | yes | retained | pass | present |
-| [Why do we seek explanations?](../../docs/philosophy-of-freedom/lessons/02.html) | yes | retained | pass | present |
-| [What do we add by thinking?](../../docs/philosophy-of-freedom/lessons/03.html) | yes | yes | pass | present |
-| [Thinking: make a connection, then examine it](../../docs/philosophy-of-freedom/lessons/04.html) | yes | retained | pass | present |
-| [Perception, representation and an argument to test](../../docs/philosophy-of-freedom/lessons/05.html) | yes | yes | pass | present |
-| [Does perception give us only representations?](../../docs/philosophy-of-freedom/lessons/06.html) | yes | retained | pass | present |
-| [Knowing: unite percept and concept](../../docs/philosophy-of-freedom/lessons/07.html) | yes | retained | pass | present |
-| [Shared concepts and the thinking that grasps them](../../docs/philosophy-of-freedom/lessons/08.html) | yes | retained | pass | present |
-| [Individuality: representation, experience and feeling](../../docs/philosophy-of-freedom/lessons/09.html) | yes | retained | pass | present |
-| [Limits to knowledge: a research gap or a second world?](../../docs/philosophy-of-freedom/lessons/10.html) | yes | yes | pass | present |
-| [Thinking, feeling and willing as factors of life](../../docs/philosophy-of-freedom/lessons/11.html) | yes | retained | pass | present |
-| [The idea of freedom: motive, driving force and moral intuition](../../docs/philosophy-of-freedom/lessons/12.html) | yes | retained | pass | present |
-| [A free deed among other people](../../docs/philosophy-of-freedom/lessons/13.html) | yes | retained | pass | present |
-| [Freedom develops within a real world](../../docs/philosophy-of-freedom/lessons/14.html) | yes | retained | pass | present |
-| [A purpose is an idea that guides action](../../docs/philosophy-of-freedom/lessons/15.html) | yes | yes | pass | present |
-| [From ethical insight to a workable deed](../../docs/philosophy-of-freedom/lessons/16.html) | yes | retained | pass | present |
-| [Practice: a new response and its actual means](../../docs/philosophy-of-freedom/lessons/17.html) | yes | yes | pass | present |
-| [Why a particular aim can be worth pursuing](../../docs/philosophy-of-freedom/lessons/18.html) | yes | retained | pass | present |
-| [Practice: satisfaction, desire and obstacles](../../docs/philosophy-of-freedom/lessons/19.html) | yes | yes | pass | present |
-| [Understand the individual beyond the category](../../docs/philosophy-of-freedom/lessons/20.html) | yes | retained | pass | present |
-| [The whole argument: monism, free action and understanding others](../../docs/philosophy-of-freedom/lessons/21.html) | yes | yes | pass | present |
+| [Two questions to carry through the book](../../docs/philosophy-of-freedom/lessons/00.html) | yes | yes | pass | present |
+| [What makes you say yes?](../../docs/philosophy-of-freedom/lessons/01.html) | yes | yes | pass | present |
+| [Why is seeing not always understanding?](../../docs/philosophy-of-freedom/lessons/02.html) | yes | yes | pass | present |
+| [Seeing a sequence, explaining a connection](../../docs/philosophy-of-freedom/lessons/03.html) | yes | yes | pass | present |
+| [Thinking, then noticing how you thought](../../docs/philosophy-of-freedom/lessons/04.html) | yes | yes | pass | present |
+| [What you see and what you remember](../../docs/philosophy-of-freedom/lessons/05.html) | yes | yes | pass | present |
+| [Does the explanation undermine itself?](../../docs/philosophy-of-freedom/lessons/06.html) | yes | yes | pass | present |
+| [How a bud and a flower belong together](../../docs/philosophy-of-freedom/lessons/07.html) | yes | yes | pass | present |
+| [Different drawings, one idea](../../docs/philosophy-of-freedom/lessons/08.html) | yes | yes | pass | present |
+| [Recognizing your own bicycle](../../docs/philosophy-of-freedom/lessons/09.html) | yes | yes | pass | present |
+| [Not knowing yet](../../docs/philosophy-of-freedom/lessons/10.html) | yes | yes | pass | present |
+| [Feeling moved, understanding, acting](../../docs/philosophy-of-freedom/lessons/11.html) | yes | yes | pass | present |
+| [What actually moves a helpful action?](../../docs/philosophy-of-freedom/lessons/12.html) | yes | yes | pass | present |
+| [Different solutions, shared freedom](../../docs/philosophy-of-freedom/lessons/13.html) | yes | yes | pass | present |
+| [A rule you can make your own](../../docs/philosophy-of-freedom/lessons/14.html) | yes | yes | pass | present |
+| [An aim is present before its result](../../docs/philosophy-of-freedom/lessons/15.html) | yes | yes | pass | present |
+| [From an ethical idea to a workable action](../../docs/philosophy-of-freedom/lessons/16.html) | yes | yes | pass | present |
+| [Improve the plan without confusing the questions](../../docs/philosophy-of-freedom/lessons/17.html) | yes | yes | pass | present |
+| [Why pleasure is not the whole question](../../docs/philosophy-of-freedom/lessons/18.html) | yes | yes | pass | present |
+| [Partial fulfillment is still particular](../../docs/philosophy-of-freedom/lessons/19.html) | yes | yes | pass | present |
+| [Meet the person beyond the category](../../docs/philosophy-of-freedom/lessons/20.html) | yes | yes | pass | present |
+| [Bring knowing and acting together](../../docs/philosophy-of-freedom/lessons/21.html) | yes | yes | pass | present |
 
 ## practical-thinking
 

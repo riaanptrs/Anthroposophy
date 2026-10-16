@@ -57,6 +57,8 @@ for ledger_name in ['foundations-introduction-ledger.json','threefold-revision-l
     if (OUT/ledger_name).exists():conceptual_ledgers.update(read(OUT/ledger_name))
 waldorf_items=json.loads(subprocess.check_output(['node','--input-type=module','-e',"import {loadWaldorfContent} from './scripts/waldorf-content.mjs';console.log(JSON.stringify(loadWaldorfContent().map(({source,route})=>({source,route}))));"],cwd=ROOT,text=True))
 waldorf_routes={item['route']:item['source'] for item in waldorf_items}
+freedom_clarity={r['id']:r for r in read(OUT/'freedom-clarity-ledger.json')} if (OUT/'freedom-clarity-ledger.json').exists() else {}
+freedom_validation=read(OUT/'freedom-clarity-validation.json') if (OUT/'freedom-clarity-validation.json').exists() else {}
 records=[]
 for path in sorted(paths):
     rel=str(path.relative_to(DOCS));partner=DOCS/'pt'/rel
@@ -90,6 +92,10 @@ for path in sorted(paths):
     if row['path'] in conceptual_ledgers:
         row['audit']=conceptual_ledgers[row['path']]
         row['coverage'].update(pedagogicallyAudited=True,rewritten=row['audit'].get('rewritten',True),conceptualExplanationReviewed=True,existingFeedbackReviewed=True)
+    if route=='philosophy-of-freedom' and int(path.stem) in freedom_clarity:
+        item=freedom_clarity[int(path.stem)]
+        row['audit']={'scope':'Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.','learningObjective':item['learningObjectiveEn'],'essentialConcepts':item['essentialConcepts'],'prerequisite':item['prerequisites'],'interestingConnections':item['interestingConnection'],'misconception':item['misconception'],'missingExplanationAddressed':item['missingExplanationAddressed'],'teachingMethod':item['concreteTeachingMethod'],'sourceLimit':item['sourceBlocked'],'rewritten':True,'auditDecision':'audited-rewritten','ledger':'freedom-clarity-ledger.json'}
+        row['coverage'].update(pedagogicallyAudited=True,rewritten=True,conceptualExplanationReviewed=True,existingFeedbackReviewed=True,validated=bool(freedom_validation.get('buildPassed')) and bool(freedom_validation.get('results')) and all(r['exitCode']==0 for r in freedom_validation['results']))
     records.append(row)
 # Exact registered files, plus source filenames held only in later ledgers.
 registered=read(ROOT/'content/source-register.json')

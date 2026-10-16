@@ -245,7 +245,7 @@ for (const relative of files) {
   if(relative.includes('philosophy-of-freedom')) {
    const lang=relative.startsWith('pt')?'pt':'en';
    const lesson=freedomLessons.find(l=>l.id===Number(path.basename(relative,'.html')));
-   if(!lesson||!html.includes(lesson[lang].title)||answerDetails!==lesson[lang].checks.length+1) errors.push(`${relative}: missing lesson or answers`);
+   if(!lesson||!html.includes(esc(lesson[lang].title))||(html.match(/class="knowledge-check"/g)||[]).length!==lesson[lang].checks.length||(html.match(/class="deeper-check"/g)||[]).length!==lesson[lang].deeper.checks.length) errors.push(`${relative}: missing lesson or introductory/deeper answers`);
    if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong language`);
    if(/For both drafts|Assess both drafts|student draft|Visual plan and/.test(html))errors.push(`${relative}: editorial notes leaked`);
    continue;

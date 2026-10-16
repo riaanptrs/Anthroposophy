@@ -117,17 +117,22 @@ for(const lang of ['en','pt']) {
     const chapterHref=chapter.includes('#')?relative(reading,file)+chapter.slice(chapter.indexOf('#')):relative(reading,chapter);
     const context=`<section class="learning-context"><nav class="learning-breadcrumb" aria-label="${t('Reading location','Localização da leitura')}"><a href="${relative(reading,books)}">${t('Study the Books','Estude os livros')}</a> → <a href="${relative(reading,file)}">${esc(title(course,lang))}</a> → <a href="${relative(reading,file)}#part-${part.id}">${esc(title(part,lang))}</a> → <a href="${chapterHref}">${esc(title(group,lang))}</a></nav><p class="learning-position">${t('Reading','Leitura')} ${group.lessonIds.indexOf(id)+1} / ${group.lessonIds.length} · ${course.lessonIds.indexOf(id)+1} / ${course.lessons.length} ${t('in the course','no curso')}</p></section>`;
     html=html.replace(/(<main\b[^>]*>)/,'$1'+context);
-    html=html.replace(/(<p class="lead">[\s\S]*?<\/p>)/,`$1<p class="learning-question"><strong>${esc(q)}</strong></p>`);
+    if(course.route!=='philosophy-of-freedom')html=html.replace(/(<p class="lead">[\s\S]*?<\/p>)/,`$1<p class="learning-question"><strong>${esc(q)}</strong></p>`);
     html=html.replace(/<h2 class="study-question">[\s\S]*?<\/h2>/,`<h2 class="study-question">${t('Explain the relationship in your own words','Explique a relação com suas palavras')}</h2>`);
     // Convert the first source check to an accessible choice. Retain its original response under the explanation.
     const heading=/(<h2>(?:Check your understanding|Confira sua compreensão|Check the connection|Confira a relação|Confira o que entendeu|Check what you understood)<\/h2>)/;
     if(!heading.test(html))throw Error('Missing check section '+reading);
+    if(course.route==='philosophy-of-freedom'){
+     // Keep the short lesson's questions visible; retain the earlier source quiz as optional depth.
+     html=html.replace(heading,all=>`<details class="freedom-source-check"><summary>${t('Optional source comparison question','Pergunta opcional de comparação com a fonte')}</summary>${quiz({...check,type:'choice'},lang,'book-'+course.route+'-'+n(id))}</details>`+all);
+    }else{
     html=html.replace(heading,(all)=>all+quiz({...check,type:'choice'},lang,'book-'+course.route+'-'+n(id)));
     // A source question plus its annotated answer stays as further reading, rather than a duplicate test item.
     const after=html.indexOf('class="learning-quiz"'),start=html.indexOf('</fieldset>',after)+11;
     const tail=html.slice(start),original=tail.startsWith('<div class="knowledge-check">')?wholeElement(tail,'<div class="knowledge-check">'):tail.match(/^<p>[\s\S]*?<\/p><details>[^]*?<\/details>/)?.[0];
     if(!original)throw Error('Missing original source check '+reading);
     html=html.slice(0,start)+`<details class="guided-deep-study" data-deep-study><summary>${t('Original open question and answer','Pergunta aberta original e resposta')}</summary>${original}</details>`+tail.slice(original.length);
+    }
     if(check.additionalReflection)html=html.replace('</fieldset>','</fieldset>'+quiz({...check.additionalReflection,type:'reflection'},lang,'book-reflection-'+n(id)));
     // Supplementary sources remain complete and are opened on demand; the source chapter explanation stays open.
     for(const marker of ['<section class="companion-reading"','<aside class="freedom-source"','<section class="lecture-guide"']) {

@@ -8,7 +8,8 @@ assert.deepEqual(freedomCore.map(id=>lessons.find(l=>l.id===id).chapter),Array.f
 for(const [id,parent] of Object.entries(freedomPractice))assert.equal(lessons.find(l=>l.id===Number(id)).chapter,lessons.find(l=>l.id===parent).chapter,'Optional practice must stay with its chapter');
 for(const l of lessons)for(const lang of ['en','pt']){
   const v=l[lang];
-  assert.ok(v.paragraphs.length>=(freedomCore.includes(l.id)?7:5),`Missing chapter teaching ${l.id}/${lang}`);
+  assert.ok(v.paragraphs.length>=4,`Missing introductory teaching ${l.id}/${lang}`);
+  assert.ok(v.deeper.paragraphs.length>=(freedomCore.includes(l.id)?7:5),`Missing retained chapter argument ${l.id}/${lang}`);
   assert.ok(v.paragraphs.every(p=>typeof p==='string'&&p.trim()));
   assert.equal(v.checks.length,3,'Retain three explained comprehension questions');
   assert.ok(v.activity.trim()&&v.reading.includes('PDF')&&typeof v.terms==='string'&&v.terms.trim(),'Missing source, activity or terminology');

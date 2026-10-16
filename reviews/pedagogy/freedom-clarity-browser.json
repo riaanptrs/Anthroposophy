@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "pages": 44,
+  "viewportCases": 88,
+  "widths": [
+    1280,
+    320
+  ],
+  "javascript": false,
+  "checks": [
+    "all first-reading paragraphs visible",
+    "familiar situation precedes explanation",
+    "notebook prompts optional",
+    "three visible questions and keyboard-operable explained answers",
+    "deeper argument closed and keyboard-operable",
+    "one h1 and correct language",
+    "no duplicate IDs",
+    "no horizontal overflow",
+    "main/header links and fragments",
+    "local assets"
+  ],
+  "limits": [
+    "No learner study",
+    "No fresh original-source verification",
+    "No external URL availability test"
+  ]
+}

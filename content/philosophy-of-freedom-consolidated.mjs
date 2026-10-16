@@ -1,3 +1,4 @@
+import fs from 'node:fs';
 // Active bilingual GA 4 course, revised against all 166 pages of the supplied Wilson 2012 edition.
 // Stable IDs retain sixteen core steps, six optional practices and existing notebook keys.
 export const freedomCore=[0,1,2,4,5,7,9,10,11,12,14,15,16,18,20,21];
@@ -1516,3 +1517,16 @@ export const freedomConsolidated=[
     "sourceUrl": "https://rsarchive.org/Books/GA004/English/RSP1964/GA004_conmon.html"
   }
 ];
+
+// A shorter first reading with the earlier detailed teaching preserved verbatim.
+// This editorial layer does not change source records, quotations or notebook IDs.
+const clearLessons=JSON.parse(fs.readFileSync(new URL('./philosophy-of-freedom-clear-lessons.json',import.meta.url),'utf8'));
+if(clearLessons.length!==freedomConsolidated.length)throw Error('Incomplete Freedom clarity layer');
+for(const lesson of freedomConsolidated){
+ const clear=clearLessons.find(row=>row.id===lesson.id);
+ if(!clear)throw Error(`Missing clear lesson ${lesson.id}`);
+ for(const lang of ['en','pt']){
+  const original=lesson[lang];
+  lesson[lang]={...original,...clear[lang],deeper:{paragraphs:original.paragraphs,checks:original.checks,activity:original.activity,takeaway:original.takeaway,terms:original.terms}};
+ }
+}

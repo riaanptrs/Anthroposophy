@@ -48,7 +48,8 @@ for(const [course,total] of Object.entries(expected))for(let id=0;id<total;id++)
   assert.ok(h.includes('class="source-excerpt"')&&h.includes('class="passage-credit"'),file+' missing source or attribution');
   if(course!=='meditation'){
    const core=h.indexOf('id="study-explanation"'),example=h.indexOf('class="worked-example"'),attempt=h.indexOf('data-note-field="first"');
-   assert.ok(meaning<core&&core<example&&example<attempt,file+' must teach before asking for an answer');
+   if(course==='philosophy-of-freedom')assert.ok(meaning<example&&example<core&&core<attempt,file+' familiar situation and explanation must precede optional notebook');
+   else assert.ok(meaning<core&&core<example&&example<attempt,file+' must teach before asking for an answer');
    assert.match(h,/<details class="guided-reveal" open\b/,file+' hidden teaching');
   }
   checked++;

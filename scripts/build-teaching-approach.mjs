@@ -31,6 +31,23 @@ export function buildTeachingApproach() {
    const example=wholeElement(html,'<section class="bio-example">');
    if(attempt&&example){html=html.replace(attempt,'').replace(example,example+attempt);}
   }
+  // The Freedom first reading begins with its situation, even after the
+  // retained passage/notebook builders have rearranged the legacy reading layer.
+  if(/^(?:pt\/)?philosophy-of-freedom\/lessons\//.test(name)) {
+   const scene=wholeElement(html,'<section class="worked-example">');
+   const explanation=wholeElement(html,'<details class="guided-reveal"');
+   if(!scene||!explanation)throw Error('Missing Freedom first-reading structure '+file);
+   html=html.replace(scene,'').replace(explanation,scene+explanation);
+   for(const [marker,label] of [
+    ['<section class="study-attempt">',t('Optional notebook: explain and apply','Caderno opcional: explique e aplique')],
+    ['<section class="study-notebook">',t('Optional notebook: revisit your understanding','Caderno opcional: retome sua compreensão')],
+    ['<div class="study-guidebar">',t('Reading controls','Controles de leitura')]
+   ]) {
+    const element=wholeElement(html,marker);
+    if(!element)throw Error('Missing retained Freedom control '+file);
+    html=html.replace(element,`<details class="freedom-notebook"><summary>${label}</summary>${element}</details>`);
+   }
+  }
   const sourceTask=wholeElement(html,'<section class="study-return">');
   if(sourceTask) html=html.replace(sourceTask,`<details class="course-source-study" data-optional-source-task><summary>${t('Optional: connect the included excerpt with your explanation','Opcional: relacione o trecho incluído à sua explicação')}</summary>${sourceTask}</details>`);
   html=html.replace(/(<main\b)/,'$1 data-teaching-approach="concept-first"');

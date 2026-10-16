@@ -1,5 +1,7 @@
 # Whole-project pedagogical review
 
+Historical baseline report for `b933e03`. The subsequent local [Philosophy of Freedom clarity review](FREEDOM-CLARITY-REVIEW.md) supersedes this report’s Freedom revision count. Current aggregate coverage is in [COURSE-CHECKLIST.md](COURSE-CHECKLIST.md).
+
 Review branch: `review/pedagogical-redevelopment` in `riaanptrs/Anthroposophy`. No merge, deployment, new quotation, changed credential, paid service or publication of original source files. Generated teaching pages are included for review.
 
 The current catalogue contains **24 course/companion groups, 487 authored teaching units, 523 English lesson/support routes and 523 Portuguese counterparts**. Every authored unit now has an individual scoped teaching audit: **241 revised and 246 deliberately retained**. The **36 additional Waldorf routes** are inherited grade views or navigation/support pages, checked separately rather than counted as newly taught chapters. These counts are not unique chapters in Steiner's books: orientations, syntheses, optional practice and parallel reading/concept courses have separate identities.
