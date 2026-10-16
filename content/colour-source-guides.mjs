@@ -437,7 +437,7 @@ export const colourLessonRevisions = [
     "pt": {
       "title": "Luz, escuridão e o observador vivo",
       "goal": "Acompanhe a passagem das cores do amanhecer e do céu à relação proposta entre percepção, vida e materiais artísticos.",
-      "key": "Steiner chama de vermelha a luz vista através da escuridão, como em sua descrição das nuvens iluminadas do amanhecer vistas de um lugar escuro; e de azul a escuridão vista através da luz, como o espaço escuro visto através do ar iluminado. Essas disposições sustentam sua crítica à explicação newtoniana da luz branca. Ele trata então o olho como um pequeno organismo completo: o sangue sustenta a vida, os nervos sustentam a consciência, e a cor supostamente age sobre ambos. O vermelho provocaria destruição e reposição por meio do oxigênio; o azul preservaria essas estruturas e transmitiria bem-estar interior. O argumento trata, portanto, de um observador vivo, além dos nomes das cores.",
+      "key": "Steiner chama de vermelha a luz vista através da escuridão, como em sua descrição das nuvens iluminadas do amanhecer vistas de um lugar escuro; e de azul a escuridão vista através da luz, como o espaço escuro visto através do ar iluminado. Essas disposições sustentam sua crítica à explicação newtoniana da luz branca. Ele trata então o olho como um pequeno organismo completo: o sangue sustenta a vida, os nervos sustentam a consciência, e a cor supostamente age sobre ambos. O vermelho provocaria destruição e reposição por meio do oxigênio; o azul preservaria essas estruturas e transmitiria bem-estar interior. O argumento trata, portanto, de um observador vivo, não apenas dos nomes das cores.",
       "context": "Esta conversa com os trabalhadores também relaciona cores vegetais amarelas com processos da flor e cores azuis com processos da raiz; termina com uma narrativa espiritual de nômades adormecidos que receberiam o céu estrelado como imagem interior de oxigênio. São partes da unidade entre cosmos, organismo e arte proposta por Steiner. A edição assinala lacunas reais do registro taquigráfico, especialmente na discussão do arco-íris. As afirmações fisiológicas, químicas e terapêuticas são históricas; a óptica atmosférica e a fotorrecepção da retina oferecem explicações diferentes.",
       "activity": "Depois de ler o guia, faça dois estudos comuns de cor ou descrições escritas: nuvens iluminadas de tons quentes sobre um primeiro plano escuro, e um céu azul acima de uma paisagem. Identifique o que está iluminado, onde fica o observador e o que existe entre ele e o motivo. Depois resuma o contraste corporal entre vermelho e azul, atribuindo-o ao autor. Use materiais artísticos prontos; a atividade dispensa exposição corporal ou extração de pigmentos.",
       "takeaway": "A palestra procura tornar a cor uma relação entre mundo, observador e processos vivos; a observação artística e a fisiologia proposta são afirmações distintas.",
@@ -1121,7 +1121,7 @@ export const colourSourceGuides = [
         }
       ],
       "question": "Como o movimento da cor sustenta a defesa do Goetheanum?",
-      "answer": "Steiner afirma que a cor faz a forma imóvel participar de forças espirituais vivas. Um edifício formado e colorido a partir dessa experiência poderia expressar uma visão de mundo, além de abrigar instrução verbal; o Goetheanum é apresentado como tentativa inicial dessa união cultural."
+      "answer": "Steiner afirma que a cor faz a forma imóvel participar de forças espirituais vivas. Um edifício formado e colorido a partir dessa experiência poderia expressar uma visão de mundo, em vez de apenas abrigar instrução verbal; o Goetheanum é apresentado como tentativa inicial dessa união cultural."
     }
   },
   {
@@ -1167,7 +1167,7 @@ export const colourSourceGuides = [
         {
           "title": "Reverência e preservação ativa de si",
           "paragraphs": [
-            "A saudação de Ano-Novo de Steiner começa com uma polaridade: a devoção reverente aos mundos espirituais precisa da força correspondente de desenvolvimento interior. As experiências deveriam ajudar a alma a crescer sem perder sua presença de si. Ele interpreta a lua cheia na virada do ano como indicação para contemplar essas atitudes nessa ordem. Diante da guerra, espera que uma visão espiritual sentida interiormente transforme a criação e a apreciação artística. Essa arte futura aprofundaria sua união com a natureza exterior, em vez de rejeitá-la. A mudança desejada é um encontro interior moral e espiritual com o que cor, som e forma revelam, além de uma impressão sensorial mais forte."
+            "A saudação de Ano-Novo de Steiner começa com uma polaridade: a devoção reverente aos mundos espirituais precisa da força correspondente de desenvolvimento interior. As experiências deveriam ajudar a alma a crescer sem perder sua presença de si. Ele interpreta a lua cheia na virada do ano como indicação para contemplar essas atitudes nessa ordem. Diante da guerra, espera que uma visão espiritual sentida interiormente transforme a criação e a apreciação artística. Essa arte futura aprofundaria sua união com a natureza exterior, em vez de rejeitá-la. A mudança desejada é um encontro interior moral e espiritual com o que cor, som e forma revelam, não simplesmente uma impressão sensorial mais forte."
           ],
           "reading": "Capturas 59–60; nota 25."
         },
@@ -1181,7 +1181,7 @@ export const colourSourceGuides = [
         {
           "title": "O som como janela espiritual",
           "paragraphs": [
-            "O argumento sonoro acompanha o cromático sem oferecer uma fórmula entre cor e altura musical. Steiner imagina entrar por um som, levando-o consigo para a vida espiritual. A tônica absoluta abre um mundo silencioso e ameaça dissolver uma alma ainda pouco fortalecida. A segunda traz sons suaves de consolo. A terça traz sons amigos cujas combinações variam conforme a disposição, oferecendo recursos à composição. Pela quarta, os sons anteriores persistem como lembranças que passam da luminosidade à tristeza profunda e produzem modulação expressiva. A quinta estimula e enriquece a vida interior da alma. A ênfase está na realidade espiritual além do som sensorial e na preparação criativa por participação interior, além das relações convencionais entre alturas musicais."
+            "O argumento sonoro acompanha o cromático sem oferecer uma fórmula entre cor e altura musical. Steiner imagina entrar por um som, levando-o consigo para a vida espiritual. A tônica absoluta abre um mundo silencioso e ameaça dissolver uma alma ainda pouco fortalecida. A segunda traz sons suaves de consolo. A terça traz sons amigos cujas combinações variam conforme a disposição, oferecendo recursos à composição. Pela quarta, os sons anteriores persistem como lembranças que passam da luminosidade à tristeza profunda e produzem modulação expressiva. A quinta estimula e enriquece a vida interior da alma. A ênfase está na realidade espiritual além do som sensorial e na preparação criativa por participação interior, não apenas nas relações convencionais entre alturas musicais."
           ],
           "reading": "Capturas 63–65."
         },
@@ -1494,7 +1494,7 @@ export const colourSourceGuides = [
         {
           "title": "Por que a cor também é perspectiva temporal",
           "paragraphs": [
-            "Um movimento lembrado explica a relação pretendida. Folhas vermelha e verde produzem uma impressão; semanas depois, os mesmos gestos com folhas brancas podem evocá-la. Steiner faz então uma afirmação mais forte sobre a natureza: o próprio olho seria formado por imaginação viva, e a cor de uma pedra preciosa despertaria a criação divina que a formou há muito tempo. O verde da primavera recordaria, de modo semelhante, a criação vegetal durante a antiga evolução solar. A cor se torna memória cósmica objetiva, além da sensação presente. A analogia das folhas ajuda a explicar a afirmação, mas a lembrança comum não estabelece a história espiritual da pedra."
+            "Um movimento lembrado explica a relação pretendida. Folhas vermelha e verde produzem uma impressão; semanas depois, os mesmos gestos com folhas brancas podem evocá-la. Steiner faz então uma afirmação mais forte sobre a natureza: o próprio olho seria formado por imaginação viva, e a cor de uma pedra preciosa despertaria a criação divina que a formou há muito tempo. O verde da primavera recordaria, de modo semelhante, a criação vegetal durante a antiga evolução solar. A cor se torna memória cósmica objetiva, não simplesmente uma sensação presente. A analogia das folhas ajuda a explicar a afirmação, mas a lembrança comum não estabelece a história espiritual da pedra."
           ],
           "reading": "Capturas 105–106."
         },
@@ -1567,7 +1567,7 @@ export const colourSourceGuides = [
         {
           "title": "Beleza como aparecimento de uma natureza interior",
           "paragraphs": [
-            "Steiner começa com o gênio da linguagem, entendido expressamente como ser espiritual real. Suas relações entre palavras alemãs vinculam a beleza à aparência resplandecente e a feiura ao ódio do observador diante do que se oculta. Esse é seu ponto de partida interpretativo, não uma etimologia que possa ser simplesmente transferida a todas as línguas. A beleza significa espírito que se torna perceptível numa forma exterior. Mesmo um motivo feio ou repulsivo pode tornar-se artisticamente belo ao revelar uma realidade espiritual. O critério diz respeito à força reveladora da obra, além da aparência agradável ou da aprovação moral de seu assunto."
+            "Steiner começa com o gênio da linguagem, entendido expressamente como ser espiritual real. Suas relações entre palavras alemãs vinculam a beleza à aparência resplandecente e a feiura ao ódio do observador diante do que se oculta. Esse é seu ponto de partida interpretativo, não uma etimologia que possa ser simplesmente transferida a todas as línguas. A beleza significa espírito que se torna perceptível numa forma exterior. Mesmo um motivo feio ou repulsivo pode tornar-se artisticamente belo ao revelar uma realidade espiritual. O critério diz respeito à força reveladora da obra, não à aparência agradável ou à aprovação moral de seu assunto."
           ],
           "reading": "Capturas 112–113."
         },

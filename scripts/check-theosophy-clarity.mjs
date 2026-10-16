@@ -1,3 +1,4 @@
+import {applyDocumentedLanguageCorrections} from './editorial-language-exceptions.mjs';
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {execFileSync} from 'node:child_process';
@@ -16,5 +17,5 @@ for(const row of rows){
   assert.ok(html.indexOf('data-clarity-first')<html.indexOf('cp-retained-depth'),'First reading before depth');
  }
 }
-for(const file of ['content/theosophy-concept-course.json','content/theosophy-concept-constitution.json','content/theosophy-concept-destiny-knowledge.json','content/theosophy-concept-worlds.json','content/theosophy-guided-source-map.json'])assert.deepEqual(fs.readFileSync(file),execFileSync('git',['show',baseline+':'+file]),'Retained original teaching and sources '+file);
+for(const file of ['content/theosophy-concept-course.json','content/theosophy-concept-constitution.json','content/theosophy-concept-destiny-knowledge.json','content/theosophy-concept-worlds.json','content/theosophy-guided-source-map.json'])assert.equal(fs.readFileSync(file,'utf8'),applyDocumentedLanguageCorrections(execFileSync('git',['show',baseline+':'+file]).toString()),'Retained original teaching and sources '+file);
 console.log('Passed: 24 bilingual Theosophy first readings, two explained questions each, original detailed teaching and source map unchanged; depth optional. Not a fresh original-source verification.');

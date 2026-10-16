@@ -1,3 +1,4 @@
+import {applyDocumentedLanguageCorrections} from './editorial-language-exceptions.mjs';
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {execFileSync} from 'node:child_process';
@@ -14,7 +15,7 @@ for(const r of temperamentClarity){
   const file=clarityRoute(r,lang),html=fs.readFileSync(file,'utf8'),first=wholeElement(html,'<section class="batch-first-reading"');
   assert.equal(r[lang].checks.length,2);
   for(const text of [...r[lang].paragraphs,...r[lang].checks.flat()])assert.ok(stripLinks(first).includes(esc(text)),file+' full authored text');
-  const old=execFileSync('git',['show',baseline+':'+file],{maxBuffer:4e6}).toString(),tag=old.match(/<main\b[^>]*>/)[0],main=wholeElement(old,tag),heading=main.match(/<h1\b[^>]*>[\s\S]*?<\/h1>/)[0],nav=wholeElement(main,'<nav class="lesson-navigation"');
+  const old=applyDocumentedLanguageCorrections(execFileSync('git',['show',baseline+':'+file],{maxBuffer:4e6}).toString()),tag=old.match(/<main\b[^>]*>/)[0],main=wholeElement(old,tag),heading=main.match(/<h1\b[^>]*>[\s\S]*?<\/h1>/)[0],nav=wholeElement(main,'<nav class="lesson-navigation"');
   const depth=wholeElement(html,'<details class="batch-retained-depth"'),context=wholeElement(depth,'<aside class="temperament-source-context"');
   assert.equal(depth.slice(depth.indexOf('</summary>')+10,-10).replace(context,''),main.slice(tag.length,-7).replace(heading,'').replace(nav,''),file+' complete old teaching retained');
   assert.ok(html.includes(tag)&&html.includes(heading)&&html.includes(nav));
@@ -29,7 +30,7 @@ for(const lang of ['en','pt']){
    const note=stripLinks(wholeElement(html,'<aside class="temperament-source-context"'));
    for(const word of ['GA 295',lang==='pt'?'data':'birthday',lang==='pt'?'depressão':'depression',lang==='pt'?'TDAH':'ADHD'])assert.ok(note.includes(word),file+' missing correction '+word);
    if(['understand-temperament','mystery-temperaments'].includes(course)){
-    const old=execFileSync('git',['show',baseline+':'+file],{maxBuffer:4e6}).toString();
+    const old=applyDocumentedLanguageCorrections(execFileSync('git',['show',baseline+':'+file],{maxBuffer:4e6}).toString());
     const oldTag=old.match(/<main\b[^>]*>/)[0],oldMain=wholeElement(old,oldTag);
     const heading=oldMain.match(/<h1\b[^>]*>[\s\S]*?<\/h1>/)[0],nav=wholeElement(oldMain,'<nav class="lesson-navigation"');
     const depth=wholeElement(html,'<details class="batch-retained-depth"');

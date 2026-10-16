@@ -9,7 +9,7 @@ class Parser(HTMLParser):
   super().__init__(convert_charrefs=True);self.path=path;self.stack=[];self.blocks=[];self.rootlang='';self.quotes=0
  def handle_starttag(self,tag,attrs):
   
-  if tag in BLOCKS or tag in {'div','section','br'}:
+  if tag in BLOCKS or tag in {'div','section','br','span'}:
    for f in self.stack:
     if f['capture']:f['text'].append(' ')
   a=dict(attrs);prev=self.stack[-1] if self.stack else {};lang=a.get('lang',prev.get('lang','en'));quote=prev.get('quote',False) or tag=='blockquote';skip=prev.get('skip',False) or tag in SKIP
@@ -33,6 +33,9 @@ class Parser(HTMLParser):
    if s.startswith('PT:'):f['lang']='pt-BR'
    if f['capture'] and s and not f['skip']:self.blocks.append({'text':s,'lang':f['lang'],'quote':f['quote'],'kind':f['tag']})
   del self.stack[i:]
+  if tag in BLOCKS or tag in {'div','section','span'}:
+   for f in self.stack:
+    if f['capture']:f['text'].append(' ')
 records={};pages=[]
 for p in sorted(Path('docs').rglob('*.html')):
  parser=Parser(str(p));parser.feed(p.read_text());pages.append({'path':str(p),'language':parser.rootlang,'blocks':len(parser.blocks),'quoteBlocks':parser.quotes})

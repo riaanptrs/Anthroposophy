@@ -18,7 +18,7 @@ for(const b of input.uniqueBlocks){
   if(word.length<2)continue;checked++;
   if(!cache.has(key))cache.set(key,spellers[lang].spell(word)||(lang==='en'&&us.spell(word)));
   if(cache.get(key))continue;
-  if(!unknown.has(key))unknown.set(key,{language:lang,word,blocks:0,examples:[]});
+  if(!unknown.has(key))unknown.set(key,{language:lang,word,acceptedOtherLanguage:lang==='pt'?(spellers.en.spell(word)||us.spell(word)):spellers.pt.spell(word),blocks:0,examples:[]});
   const r=unknown.get(key);r.blocks++;if(r.examples.length<3)r.examples.push({text:b.text,path:b.pages[0],block:b.id});
  }
 }

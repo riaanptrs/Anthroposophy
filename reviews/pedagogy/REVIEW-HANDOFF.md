@@ -21,7 +21,7 @@ The final catalogue spacing changes passed the site and learning-system validato
 
 ## Remaining work and limitations
 
-The draft remains unmerged and unpublished for parent review. Publication and the separately requested comprehensive postpublication language pass have not occurred. A local spelling scan covers all HTML, but remaining dictionary flags have not all received editorial disposition; no claim of complete linguistic certification is made.
+The checked revision is ready for the explicitly authorized publication. The prepublication bilingual editorial pass is complete; all dictionary flags have dispositions and substantive answer/translation corrections are validated. See LANGUAGE-EDITORIAL-REVIEW.md for measured scope and limits. Publication and the separate final postpublication pass are the next steps.
 
 Unavailable original uploads remain explicitly recorded in source-availability and chapter ledgers. The two temperament companions use retained teaching; fresh comparison with their original PDFs/Markdown remains pending. Nutrition’s original upload is unavailable; its exact filename is not established. Foodwise’s original PDF and damaged recipe captures remain unavailable for fresh verification. Its three original course recipes are untested. Waldorf’s retained source Markdown is available, while inherited attributions are not all independently verified.
 

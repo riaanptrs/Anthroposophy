@@ -96,7 +96,7 @@ Fold a sheet along a vertical axis and compare corresponding points of a simple 
 
 Trace uma linha vertical e uma curva à esquerda. Antes de desenhar à direita, descreva onde ficariam três pontos refletidos.
 
-O apêndice passa da conclusão de uma figura incompleta à reflexão imaginada na água e a relações variáveis entre contornos internos e externos. Projeções externas recebem respostas para dentro; arranjos fechados tornam-se formas abertas que se prolongam. As palavras selecionadas de Steiner enfatizam ensino inventivo e flexível e antecipação interior, além de copiar uma folha fixa de padrões.
+O apêndice passa da conclusão de uma figura incompleta à reflexão imaginada na água e a relações variáveis entre contornos internos e externos. Projeções externas recebem respostas para dentro; arranjos fechados tornam-se formas abertas que se prolongam. As palavras selecionadas de Steiner enfatizam ensino inventivo e flexível e antecipação interior, em vez de copiar uma folha fixa de padrões.
 
 Na reflexão estrita, cada ponto fica à mesma distância do eixo no lado oposto. Um ponto dois centímetros à esquerda e um centímetro acima de uma linha de referência torna-se um ponto dois centímetros à direita, na mesma altura. A resposta entre interior e exterior é outra tarefa: uma saliência externa pode receber um contorno interno sem conservar distâncias iguais dos dois lados de um eixo. A primeira relação tem uma regra geométrica verificável; a segunda pede uma transformação pensada. Distingui-las evita avaliar uma variação criativa como reflexão fracassada ou justificar uma reflexão imprecisa como invenção livre.
 

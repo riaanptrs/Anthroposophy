@@ -179,7 +179,7 @@ export const lukeSourceGuides = [
         {
           "title": "Conhecimento comum e Imaginação",
           "paragraphs": [
-            "O conhecimento comum começa com percepções sensoriais que a razão e outras capacidades da alma tornam compreensíveis. Steiner apresenta, em seguida, três níveis propostos de conhecimento suprassensível: Imaginação, Inspiração e Intuição. Esses nomes técnicos se referem a modos de encontrar um mundo espiritual, além dos sentidos comuns de devaneio, entusiasmo criativo ou palpite repentino.",
+            "O conhecimento comum começa com percepções sensoriais que a razão e outras capacidades da alma tornam compreensíveis. Steiner apresenta, em seguida, três níveis propostos de conhecimento suprassensível: Imaginação, Inspiração e Intuição. Esses nomes técnicos se referem a modos de encontrar um mundo espiritual, não aos sentidos comuns de devaneio, entusiasmo criativo ou palpite repentino.",
             "Para explicar a Imaginação, ele pede que representemos as cores de uma planta separadas de sua forma sólida. Fazer apenas isso produz uma imagem mental sem vida; a percepção espiritual que ele afirma existir encontraria cores vivas que expressam seres espirituais. A ilustração ajuda o ouvinte a compreender sua descrição. Imaginar cores flutuantes não constitui essa percepção nem um teste que a comprove. Nesse relato, a Imaginação percebe os seres de uma perspectiva externa."
           ],
           "reading": "Capturas 15–16 do PDF enviado: conhecimento comum e ilustração das cores da planta."

@@ -1,0 +1,1422 @@
+[
+  {
+    "flag": 0,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de sua aparência",
+    "new": "e não apenas por sua aparência",
+    "before": "As leguminosas recebem atenção especial como coletoras de nitrogênio. Ele compara seu lugar na comunidade vegetal com órgãos respiratórios do corpo humano: nessa imagem, levam nitrogênio para baixo, em direção ao calcário do solo. A analogia mostra por que uma espécie deve ser considerada por sua função no conjunto, além de sua aparência. A explicação atual da fixação de nitrogênio envolve associações com microrganismos, um quadro explicativo diferente da analogia espiritual da palestra.",
+    "after": "As leguminosas recebem atenção especial como coletoras de nitrogênio. Ele compara seu lugar na comunidade vegetal com órgãos respiratórios do corpo humano: nessa imagem, levam nitrogênio para baixo, em direção ao calcário do solo. A analogia mostra por que uma espécie deve ser considerada por sua função no conjunto, e não apenas por sua aparência. A explicação atual da fixação de nitrogênio envolve associações com microrganismos, um quadro explicativo diferente da analogia espiritual da palestra.",
+    "files": [
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/agriculture-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 3,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de apenas conter uma reação",
+    "new": "em vez de apenas conter uma reação",
+    "before": "Considere uma amiga fictícia que parece ríspida. Antes de responder, pergunte o que ela quis dizer e ouça a resposta. Você ainda pode discordar ou estabelecer um limite. O que mudou foi a qualidade da atenção. Isso ilustra como a firmeza pode apoiar o cuidado e a compreensão, além de apenas conter uma reação.",
+    "after": "Considere uma amiga fictícia que parece ríspida. Antes de responder, pergunte o que ela quis dizer e ouça a resposta. Você ainda pode discordar ou estabelecer um limite. O que mudou foi a qualidade da atenção. Isso ilustra como a firmeza pode apoiar o cuidado e a compreensão, em vez de apenas conter uma reação.",
+    "files": [
+      {
+        "file": "content/anthroposophy-connections.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 7,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além dos nomes das cores",
+    "new": "não apenas dos nomes das cores",
+    "before": "Steiner chama de vermelha a luz vista através da escuridão, como em sua descrição das nuvens iluminadas do amanhecer vistas de um lugar escuro; e de azul a escuridão vista através da luz, como o espaço escuro visto através do ar iluminado. Essas disposições sustentam sua crítica à explicação newtoniana da luz branca. Ele trata então o olho como um pequeno organismo completo: o sangue sustenta a vida, os nervos sustentam a consciência, e a cor supostamente age sobre ambos. O vermelho provocaria destruição e reposição por meio do oxigênio; o azul preservaria essas estruturas e transmitiria bem-estar interior. O argumento trata, portanto, de um observador vivo, além dos nomes das cores.",
+    "after": "Steiner chama de vermelha a luz vista através da escuridão, como em sua descrição das nuvens iluminadas do amanhecer vistas de um lugar escuro; e de azul a escuridão vista através da luz, como o espaço escuro visto através do ar iluminado. Essas disposições sustentam sua crítica à explicação newtoniana da luz branca. Ele trata então o olho como um pequeno organismo completo: o sangue sustenta a vida, os nervos sustentam a consciência, e a cor supostamente age sobre ambos. O vermelho provocaria destruição e reposição por meio do oxigênio; o azul preservaria essas estruturas e transmitiria bem-estar interior. O argumento trata, portanto, de um observador vivo, não apenas dos nomes das cores.",
+    "files": [
+      {
+        "file": "content/colour-source-guides.mjs",
+        "occurrences": 1
+      },
+      {
+        "file": "content/humanities-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 8,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de abrigar instrução verbal",
+    "new": "em vez de apenas abrigar instrução verbal",
+    "before": "Steiner afirma que a cor faz a forma imóvel participar de forças espirituais vivas. Um edifício formado e colorido a partir dessa experiência poderia expressar uma visão de mundo, além de abrigar instrução verbal; o Goetheanum é apresentado como tentativa inicial dessa união cultural.",
+    "after": "Steiner afirma que a cor faz a forma imóvel participar de forças espirituais vivas. Um edifício formado e colorido a partir dessa experiência poderia expressar uma visão de mundo, em vez de apenas abrigar instrução verbal; o Goetheanum é apresentado como tentativa inicial dessa união cultural.",
+    "files": [
+      {
+        "file": "content/colour-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 9,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de uma impressão sensorial mais forte",
+    "new": "não simplesmente uma impressão sensorial mais forte",
+    "before": "A saudação de Ano-Novo de Steiner começa com uma polaridade: a devoção reverente aos mundos espirituais precisa da força correspondente de desenvolvimento interior. As experiências deveriam ajudar a alma a crescer sem perder sua presença de si. Ele interpreta a lua cheia na virada do ano como indicação para contemplar essas atitudes nessa ordem. Diante da guerra, espera que uma visão espiritual sentida interiormente transforme a criação e a apreciação artística. Essa arte futura aprofundaria sua união com a natureza exterior, em vez de rejeitá-la. A mudança desejada é um encontro interior moral e espiritual com o que cor, som e forma revelam, além de uma impressão sensorial mais forte.",
+    "after": "A saudação de Ano-Novo de Steiner começa com uma polaridade: a devoção reverente aos mundos espirituais precisa da força correspondente de desenvolvimento interior. As experiências deveriam ajudar a alma a crescer sem perder sua presença de si. Ele interpreta a lua cheia na virada do ano como indicação para contemplar essas atitudes nessa ordem. Diante da guerra, espera que uma visão espiritual sentida interiormente transforme a criação e a apreciação artística. Essa arte futura aprofundaria sua união com a natureza exterior, em vez de rejeitá-la. A mudança desejada é um encontro interior moral e espiritual com o que cor, som e forma revelam, não simplesmente uma impressão sensorial mais forte.",
+    "files": [
+      {
+        "file": "content/colour-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 11,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de copiar uma folha fixa de padrões",
+    "new": "em vez de copiar uma folha fixa de padrões",
+    "before": "O apêndice passa da conclusão de uma figura incompleta à reflexão imaginada na água e a relações variáveis entre contornos internos e externos. Projeções externas recebem respostas para dentro; arranjos fechados tornam-se formas abertas que se prolongam. As palavras selecionadas de Steiner enfatizam ensino inventivo e flexível e antecipação interior, além de copiar uma folha fixa de padrões.",
+    "after": "O apêndice passa da conclusão de uma figura incompleta à reflexão imaginada na água e a relações variáveis entre contornos internos e externos. Projeções externas recebem respostas para dentro; arranjos fechados tornam-se formas abertas que se prolongam. As palavras selecionadas de Steiner enfatizam ensino inventivo e flexível e antecipação interior, em vez de copiar uma folha fixa de padrões.",
+    "files": [
+      {
+        "file": "content/encountering-self-source-guides.mjs",
+        "occurrences": 1
+      },
+      {
+        "file": "content/humanities-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 12,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de saber se a criança simplesmente perde algo valioso",
+    "new": "em vez de apenas perguntar se a criança perde algo valioso",
+    "before": "Koepke começa com sua colega Gerda Langen admirando pinturas do primeiro ano escolar. Ela recorda a fantasia que desaparece e retorna de outra maneira. Sua lembrança de uma palestra de Steiner compara um rio que some sob a terra e reaparece com mudanças da vida anímica. Koepke qualifica abertamente sua recordação: é vívida, mas não palavra por palavra. A transição do nono ano, entre troca dos dentes e puberdade, pertence sobretudo à explicação anímica e espiritual. A pergunta orientadora é como uma capacidade anterior se transforma, além de saber se a criança simplesmente perde algo valioso.",
+    "after": "Koepke começa com sua colega Gerda Langen admirando pinturas do primeiro ano escolar. Ela recorda a fantasia que desaparece e retorna de outra maneira. Sua lembrança de uma palestra de Steiner compara um rio que some sob a terra e reaparece com mudanças da vida anímica. Koepke qualifica abertamente sua recordação: é vívida, mas não palavra por palavra. A transição do nono ano, entre troca dos dentes e puberdade, pertence sobretudo à explicação anímica e espiritual. A pergunta orientadora é como uma capacidade anterior se transforma, em vez de apenas perguntar se a criança perde algo valioso.",
+    "files": [
+      {
+        "file": "content/encountering-self-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 13,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de uma exigência dirigida a Peter",
+    "new": "não uma exigência dirigida apenas a Peter",
+    "before": "O professor hesita em criticar o pai de Peter e pergunta como ele mesmo receberia uma correção. O pai desfaz a tensão ao reconhecer sua própria atitude de saber tudo. Mais tarde, o professor admite que não havia renovado o contato com a família por mais de dois anos. A autoeducação adulta é, portanto, um movimento essencial da narrativa, além de uma exigência dirigida a Peter. A lembrança infantil da mãe acrescenta que a compreensão interior pode ser real antes que alguém consiga expressá-la em palavras.",
+    "after": "O professor hesita em criticar o pai de Peter e pergunta como ele mesmo receberia uma correção. O pai desfaz a tensão ao reconhecer sua própria atitude de saber tudo. Mais tarde, o professor admite que não havia renovado o contato com a família por mais de dois anos. A autoeducação adulta é, portanto, um movimento essencial da narrativa, não uma exigência dirigida apenas a Peter. A lembrança infantil da mãe acrescenta que a compreensão interior pode ser real antes que alguém consiga expressá-la em palavras.",
+    "files": [
+      {
+        "file": "content/encountering-self-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 14,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de semelhança numérica sugestiva",
+    "new": "não apenas uma semelhança numérica sugestiva",
+    "before": "A abertura afirma que a transição se liga a grandes acontecimentos cósmicos e reflete forças vistas nos movimentos do Sol e da Lua. O final avança: o professor deve conhecer as leis do crescimento corporal, cujos arquétipos podem ser descobertos nos astros, e usar essa compreensão para conduzir o crescimento anímico-espiritual. O autor oferece, assim, uma explicação espiritual do desenvolvimento, além de semelhança numérica sugestiva. Ensiná-la fielmente exige registrar essa força e sua base na perspectiva de Koepke. O leitor pode explicar o argumento e questionar a inferência da geometria orbital para uma criança específica.",
+    "after": "A abertura afirma que a transição se liga a grandes acontecimentos cósmicos e reflete forças vistas nos movimentos do Sol e da Lua. O final avança: o professor deve conhecer as leis do crescimento corporal, cujos arquétipos podem ser descobertos nos astros, e usar essa compreensão para conduzir o crescimento anímico-espiritual. O autor oferece, assim, uma explicação espiritual do desenvolvimento, não apenas uma semelhança numérica sugestiva. Ensiná-la fielmente exige registrar essa força e sua base na perspectiva de Koepke. O leitor pode explicar o argumento e questionar a inferência da geometria orbital para uma criança específica.",
+    "files": [
+      {
+        "file": "content/encountering-self-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 15,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de uma comparação decorativa de figuras",
+    "new": "não uma comparação decorativa de figuras",
+    "before": "Koepke estende à formação dos dentes a inversão discutida no apêndice lunar. Afirma que a imagem cósmica aparece tanto no organismo inteiro quanto na formação dentária. Atribui então a Steiner um auxílio eficaz pelo desenho de formas, cultivado em correspondência exata com o aparecimento dos dentes permanentes. O resultado afirmado é fortalecer as forças que constroem o corpo. Esse é o passo mais forte do argumento, além de uma comparação decorativa de figuras. Identifique-o explicitamente antes de perguntar o que a tabela ou um exercício escolar pode de fato demonstrar.",
+    "after": "Koepke estende à formação dos dentes a inversão discutida no apêndice lunar. Afirma que a imagem cósmica aparece tanto no organismo inteiro quanto na formação dentária. Atribui então a Steiner um auxílio eficaz pelo desenho de formas, cultivado em correspondência exata com o aparecimento dos dentes permanentes. O resultado afirmado é fortalecer as forças que constroem o corpo. Esse é o passo mais forte do argumento, não uma comparação decorativa de figuras. Identifique-o explicitamente antes de perguntar o que a tabela ou um exercício escolar pode de fato demonstrar.",
+    "files": [
+      {
+        "file": "content/encountering-self-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 16,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "ilustra a prosa, além de um modelo simples de espelhamento",
+    "new": "ilustra a prosa, em vez de apresentar um modelo simples de espelhamento",
+    "before": "A captura seguinte muda deliberadamente a regra. A simetria perfeita anterior se rompe; as formas relacionam-se livremente com o centro, em vez de seguir simetria estrita. A figura nativa organiza três lóbulos com curvas externas variadas e linhas dirigidas a uma região central comum; ilustra a prosa, além de um modelo simples de espelhamento. O autor acrescenta que a escrita cursiva pode ser introduzida nessa idade. Leia isso como terceiro passo proposto numa progressão escolar. Repetir apenas reflexão especular nos três anos, ou omitir a passagem para uma relação mais livre com o centro, deturparia o apêndice.",
+    "after": "A captura seguinte muda deliberadamente a regra. A simetria perfeita anterior se rompe; as formas relacionam-se livremente com o centro, em vez de seguir simetria estrita. A figura nativa organiza três lóbulos com curvas externas variadas e linhas dirigidas a uma região central comum; ilustra a prosa, em vez de apresentar um modelo simples de espelhamento. O autor acrescenta que a escrita cursiva pode ser introduzida nessa idade. Leia isso como terceiro passo proposto numa progressão escolar. Repetir apenas reflexão especular nos três anos, ou omitir a passagem para uma relação mais livre com o centro, deturparia o apêndice.",
+    "files": [
+      {
+        "file": "content/encountering-self-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 17,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de uma única regra mecânica de espelhamento",
+    "new": "não uma única regra mecânica de espelhamento",
+    "before": "A continuação explica que uma projeção do contorno externo deve receber movimento para dentro na linha interna. Um arranjo posterior parte de três formas internas e acrescenta formas externas correspondentes para produzir um conjunto harmonioso. Depois muda para contornos externos que deixam de se encontrar e se prolongam para longe, com resposta interna que se volta para dentro. A imagem lúdica de um ponto que foge ajuda a imaginar essa transformação. São relações complementares, além de uma única regra mecânica de espelhamento. A fonte chama o objetivo de “simetrias assimétricas”. As figuras legíveis permitem explicar a progressão, em vez de descrevê-la como ausente.",
+    "after": "A continuação explica que uma projeção do contorno externo deve receber movimento para dentro na linha interna. Um arranjo posterior parte de três formas internas e acrescenta formas externas correspondentes para produzir um conjunto harmonioso. Depois muda para contornos externos que deixam de se encontrar e se prolongam para longe, com resposta interna que se volta para dentro. A imagem lúdica de um ponto que foge ajuda a imaginar essa transformação. São relações complementares, não uma única regra mecânica de espelhamento. A fonte chama o objetivo de “simetrias assimétricas”. As figuras legíveis permitem explicar a progressão, em vez de descrevê-la como ausente.",
+    "files": [
+      {
+        "file": "content/encountering-self-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 18,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de acumular afirmações sobre ela",
+    "new": "em vez de acumular afirmações sobre ela",
+    "before": "Em O Cristianismo como fato místico, Steiner usa “Mistérios” para comunidades nas quais alguém era preparado para transformar a percepção e a vida. O termo não significa apenas um enigma sem solução. Seu argumento trata de tornar-se capaz de receber e viver uma realidade espiritual, além de acumular afirmações sobre ela. Isso ajuda a compreender por que Brian dedica tanto tempo às capacidades, à biografia e às relações antes do Jordão.",
+    "after": "Em O Cristianismo como fato místico, Steiner usa “Mistérios” para comunidades nas quais alguém era preparado para transformar a percepção e a vida. O termo não significa apenas um enigma sem solução. Seu argumento trata de tornar-se capaz de receber e viver uma realidade espiritual, em vez de acumular afirmações sobre ela. Isso ajuda a compreender por que Brian dedica tanto tempo às capacidades, à biografia e às relações antes do Jordão.",
+    "files": [
+      {
+        "file": "content/esoteric-christianity/clarifications.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 19,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de reativar o cadáver material comum",
+    "new": "em vez de reativar o cadáver material comum",
+    "before": "A palestra VII interpreta a ressurreição como restauração e comunicação de uma realidade formativa incorruptível, além de reativar o cadáver material comum. Isso esclarece a recomendação de Brian após a narrativa do Jordão. Abre a pergunta pelo que o Cristo oferece através do Gólgota, exigindo estudo posterior. A explicação breve define corretamente a próxima questão; não transforma o curso da preparação num ensino completo da ressurreição.",
+    "after": "A palestra VII interpreta a ressurreição como restauração e comunicação de uma realidade formativa incorruptível, em vez de reativar o cadáver material comum. Isso esclarece a recomendação de Brian após a narrativa do Jordão. Abre a pergunta pelo que o Cristo oferece através do Gólgota, exigindo estudo posterior. A explicação breve define corretamente a próxima questão; não transforma o curso da preparação num ensino completo da ressurreição.",
+    "files": [
+      {
+        "file": "content/esoteric-christianity/clarifications.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 20,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de um sentimento específico dentro desse fluxo",
+    "new": "não a um sentimento específico dentro desse fluxo",
+    "before": "Uma pessoa pode dizer que uma lembrança, sentimento ou decisão é sua. O eu diz respeito à individualidade que relaciona essas experiências consigo mesma, além de um sentimento específico dentro desse fluxo.",
+    "after": "Uma pessoa pode dizer que uma lembrança, sentimento ou decisão é sua. O eu diz respeito à individualidade que relaciona essas experiências consigo mesma, não a um sentimento específico dentro desse fluxo.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 21,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além do organismo físico cuja vida terminou",
+    "new": "não o organismo físico cuja vida terminou",
+    "before": "O que continuaria é a individualidade espiritual, além do organismo físico cuja vida terminou. Essa distinção permite perguntar como uma vida pode ter significado além de sua duração corporal.",
+    "after": "O que continuaria é a individualidade espiritual, não o organismo físico cuja vida terminou. Essa distinção permite perguntar como uma vida pode ter significado além de sua duração corporal.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 22,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de repetir os membros da constituição humana em outra lista",
+    "new": "em vez de repetir os membros da constituição humana em outra lista",
+    "before": "A descrição diferencia arquétipos das formas corporais, da vida e da experiência anímica. Essas distinções organizam tipos de atividade criadora, além de repetir os membros da constituição humana em outra lista.",
+    "after": "A descrição diferencia arquétipos das formas corporais, da vida e da experiência anímica. Essas distinções organizam tipos de atividade criadora, em vez de repetir os membros da constituição humana em outra lista.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 23,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de uma classificação",
+    "new": "não apenas de uma classificação",
+    "before": "A palavra pode nomear uma categoria em nosso pensar. Um arquétipo vivo é descrito como atividade espiritual criadora da qual surgem formas. O conceito trata de uma origem ativa, além de uma classificação.",
+    "after": "A palavra pode nomear uma categoria em nosso pensar. Um arquétipo vivo é descrito como atividade espiritual criadora da qual surgem formas. O conceito trata de uma origem ativa, não apenas de uma classificação.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/learning-lessons-13-24.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/foundations-introduction-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 24,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de um rótulo cotidiano para uma pessoa",
+    "new": "não de um rótulo cotidiano para uma pessoa",
+    "before": "Luciférico e ahrimânico designam influências diferentes na concepção espiritual de Steiner. Seu significado depende da relação ou tendência discutida, além de um rótulo cotidiano para uma pessoa.",
+    "after": "Luciférico e ahrimânico designam influências diferentes na concepção espiritual de Steiner. Seu significado depende da relação ou tendência discutida, não de um rótulo cotidiano para uma pessoa.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 25,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de acumular experiências marcantes",
+    "new": "em vez de acumular experiências marcantes",
+    "before": "O desenvolvimento espiritual relaciona atenção, pensar claro e preparação moral. A mudança pretendida trata de como a pessoa percebe, compreende e age, além de acumular experiências marcantes.",
+    "after": "O desenvolvimento espiritual relaciona atenção, pensar claro e preparação moral. A mudança pretendida trata de como a pessoa percebe, compreende e age, em vez de acumular experiências marcantes.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 26,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de uma fantasia mais vívida",
+    "new": "não simplesmente uma fantasia mais vívida",
+    "before": "A fantasia pode produzir deliberadamente uma imagem mental. Imaginação é a afirmação especializada de perceber imagens vivas de seres espirituais. O termo descreve outro tipo proposto de conhecimento, além de uma fantasia mais vívida.",
+    "after": "A fantasia pode produzir deliberadamente uma imagem mental. Imaginação é a afirmação especializada de perceber imagens vivas de seres espirituais. O termo descreve outro tipo proposto de conhecimento, não simplesmente uma fantasia mais vívida.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/learning-lessons-13-24.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/foundations-introduction-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 27,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de verificar se havia várias opções disponíveis",
+    "new": "em vez de apenas verificar se havia várias opções disponíveis",
+    "before": "Uma pessoa pode escolher enquanto é conduzida por um impulso que ainda não compreendeu. A liberdade pergunta o que determina a ação, além de verificar se havia várias opções disponíveis.",
+    "after": "Uma pessoa pode escolher enquanto é conduzida por um impulso que ainda não compreendeu. A liberdade pergunta o que determina a ação, em vez de apenas verificar se havia várias opções disponíveis.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 28,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de nomear um acontecimento passado",
+    "new": "em vez de apenas nomear um acontecimento passado",
+    "before": "O ensino relaciona amor e transformação gradual da vida terrestre. Seu significado trata de como relações e atividades humanas podem expressar esse impulso ao longo do tempo, além de nomear um acontecimento passado.",
+    "after": "O ensino relaciona amor e transformação gradual da vida terrestre. Seu significado trata de como relações e atividades humanas podem expressar esse impulso ao longo do tempo, em vez de apenas nomear um acontecimento passado.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 29,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de uma descrição completa de toda criança de determinada idade",
+    "new": "não uma descrição completa de toda criança de determinada idade",
+    "before": "Descrições do desenvolvimento relacionam capacidades em transformação ao apoio adequado. O mapa oferece uma pergunta sobre a relação da criança com o mundo, além de uma descrição completa de toda criança de determinada idade.",
+    "after": "Descrições do desenvolvimento relacionam capacidades em transformação ao apoio adequado. O mapa oferece uma pergunta sobre a relação da criança com o mundo, não uma descrição completa de toda criança de determinada idade.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 30,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de esperar comportamentos idênticos",
+    "new": "em vez de esperar comportamentos idênticos",
+    "before": "Use-o para formular uma pergunta sobre capacidades e examine a tarefa, a experiência e a resposta de cada criança. Escolha e reveja o apoio individual, além de esperar comportamentos idênticos.",
+    "after": "Use-o para formular uma pergunta sobre capacidades e examine a tarefa, a experiência e a resposta de cada criança. Escolha e reveja o apoio individual, em vez de esperar comportamentos idênticos.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/learning-lessons-25-36.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/foundations-introduction-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 31,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de administrar cada parte isoladamente",
+    "new": "em vez de administrar cada parte isoladamente",
+    "before": "Solo, culturas, animais, esterco, forragem e paisagem afetam uns aos outros. A individualidade agrícola considera como essas relações podem formar um conjunto funcional, além de administrar cada parte isoladamente.",
+    "after": "Solo, culturas, animais, esterco, forragem e paisagem afetam uns aos outros. A individualidade agrícola considera como essas relações podem formar um conjunto funcional, em vez de administrar cada parte isoladamente.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 32,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de supor que a experiência já contém toda essa interpretação",
+    "new": "sem supor que a experiência já contém toda essa interpretação",
+    "before": "Descreva a forma ou relação espacial específica e a experiência que ela convida a realizar. Depois, identifique a interpretação espiritual como explicação adicional, além de supor que a experiência já contém toda essa interpretação.",
+    "after": "Descreva a forma ou relação espacial específica e a experiência que ela convida a realizar. Depois, identifique a interpretação espiritual como explicação adicional, sem supor que a experiência já contém toda essa interpretação.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/learning-lessons-25-36.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/foundations-introduction-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 34,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de possuir conhecimento",
+    "new": "não simplesmente possuir conhecimento",
+    "before": "Uma pessoa aprende uma habilidade necessária à comunidade e depois ensina outras a utilizá-la. A preparação ganha coerência antes de sua ocasião futura. Sua finalidade é atender à necessidade, além de possuir conhecimento.",
+    "after": "Uma pessoa aprende uma habilidade necessária à comunidade e depois ensina outras a utilizá-la. A preparação ganha coerência antes de sua ocasião futura. Sua finalidade é atender à necessidade, não simplesmente possuir conhecimento.",
+    "files": [
+      {
+        "file": "content/humanities-clear-lessons.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/esoteric-christianity/module-3.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 35,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de ornamentá-los",
+    "new": "em vez de apenas ornamentá-los",
+    "before": "Comece pela ordem narrativa. Zacarias serve no Templo e recebe o anúncio de um filho, João, para Isabel. Maria recebe o anúncio referente a Jesus. Depois visita Isabel, e João se move no ventre materno. Isabel cumprimenta Maria, e o cântico de Maria amplia a cena em direção aos humildes e famintos. Essas relações preparam os nascimentos, além de ornamentá-los.",
+    "after": "Comece pela ordem narrativa. Zacarias serve no Templo e recebe o anúncio de um filho, João, para Isabel. Maria recebe o anúncio referente a Jesus. Depois visita Isabel, e João se move no ventre materno. Isabel cumprimenta Maria, e o cântico de Maria amplia a cena em direção aos humildes e famintos. Essas relações preparam os nascimentos, em vez de apenas ornamentá-los.",
+    "files": [
+      {
+        "file": "content/humanities-clear-lessons.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/esoteric-christianity/module-4.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 36,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de expressar benevolência geral",
+    "new": "em vez de apenas expressar benevolência geral",
+    "before": "Alguém fora de seu círculo precisa de uma orientação clara. Reservar tempo para ajudar torna concreta a compaixão. O ato atende a uma necessidade específica, além de expressar benevolência geral.",
+    "after": "Alguém fora de seu círculo precisa de uma orientação clara. Reservar tempo para ajudar torna concreta a compaixão. O ato atende a uma necessidade específica, em vez de apenas expressar benevolência geral.",
+    "files": [
+      {
+        "file": "content/humanities-clear-lessons.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/esoteric-christianity/module-4.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 37,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de qualquer alegação de superioridade moral",
+    "new": "não por alegações de superioridade moral",
+    "before": "Perceba uma necessidade, pergunte se a ajuda é desejada e escolha uma ação adequada. Se o resultado diferir da expectativa, ajuste. Cuidado e compreensão crescem pela atenção às consequências, além de qualquer alegação de superioridade moral.",
+    "after": "Perceba uma necessidade, pergunte se a ajuda é desejada e escolha uma ação adequada. Se o resultado diferir da expectativa, ajuste. Cuidado e compreensão crescem pela atenção às consequências, não por alegações de superioridade moral.",
+    "files": [
+      {
+        "file": "content/humanities-clear-lessons.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/esoteric-christianity/module-6.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 44,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além da influência deixada na memória de outras pessoas",
+    "new": "não apenas como a influência deixada na memória de outras pessoas",
+    "before": "O trecho selecionado trata das regiões superiores do mundo espiritual. Seu “ele” se refere ao espírito humano. Steiner afirma que o Eu duradouro vivencia as intenções subjacentes ao trabalho terrestre, carrega capacidades adquiridas em diferentes encarnações e prepara novas atividades. Apresenta esse Eu como um ser real que continua, além da influência deixada na memória de outras pessoas.",
+    "after": "O trecho selecionado trata das regiões superiores do mundo espiritual. Seu “ele” se refere ao espírito humano. Steiner afirma que o Eu duradouro vivencia as intenções subjacentes ao trabalho terrestre, carrega capacidades adquiridas em diferentes encarnações e prepara novas atividades. Apresenta esse Eu como um ser real que continua, não apenas como a influência deixada na memória de outras pessoas.",
+    "files": [
+      {
+        "file": "content/learning-lessons-13-24.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 45,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de uma lista de substâncias químicas",
+    "new": "não simplesmente uma lista de substâncias químicas",
+    "before": "A palestra relaciona a Primeira ao calor na existência de Saturno; a Segunda à luz e à sua sombra, o ar, na existência do Sol; e a Terceira à mediação entre luz e escuridão: a cor, com a água como reflexo, na existência da Lua. O trecho reúne as manifestações da Segunda e da Terceira. Descreve a expressão dos seres pela natureza, além de uma lista de substâncias químicas.",
+    "after": "A palestra relaciona a Primeira ao calor na existência de Saturno; a Segunda à luz e à sua sombra, o ar, na existência do Sol; e a Terceira à mediação entre luz e escuridão: a cor, com a água como reflexo, na existência da Lua. O trecho reúne as manifestações da Segunda e da Terceira. Descreve a expressão dos seres pela natureza, não simplesmente uma lista de substâncias químicas.",
+    "files": [
+      {
+        "file": "content/learning-lessons-13-24.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 46,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de conformidade com uma ordem externa",
+    "new": "em vez de mera conformidade com uma ordem externa",
+    "before": "O motivo é a ideia ou razão que dirige uma ação; a força impulsora diz respeito ao que move a pessoa em direção a ela. Steiner não identifica todo desejo com intuição moral. Esta fornece conteúdo ético apreendido pelo indivíduo, além de conformidade com uma ordem externa.",
+    "after": "O motivo é a ideia ou razão que dirige uma ação; a força impulsora diz respeito ao que move a pessoa em direção a ela. Steiner não identifica todo desejo com intuição moral. Esta fornece conteúdo ético apreendido pelo indivíduo, em vez de mera conformidade com uma ordem externa.",
+    "files": [
+      {
+        "file": "content/learning-lessons-25-36.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 47,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de aumento da idade",
+    "new": "não apenas aumento da idade",
+    "before": "Desenvolvimento significa mudança de capacidades e relações, além de aumento da idade. Koepke situa a transição dos nove anos no segundo setênio. Seu diagrama acompanha uma ênfase variável e mostra a cooperação dos sistemas dentro do conjunto.",
+    "after": "Desenvolvimento significa mudança de capacidades e relações, não apenas aumento da idade. Koepke situa a transição dos nove anos no segundo setênio. Seu diagrama acompanha uma ênfase variável e mostra a cooperação dos sistemas dentro do conjunto.",
+    "files": [
+      {
+        "file": "content/learning-lessons-25-36.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 48,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de acrescentar quantidades de nutrientes",
+    "new": "em vez de simplesmente acrescentar quantidades de nutrientes",
+    "before": "Courtney considera os preparados uma forma de trabalhar com forças vivas, além de acrescentar quantidades de nutrientes. Descreve materiais e relata experiências práticas, mas este capítulo é sua argumentação introdutória. Seus relatos e sua explicação espiritual proposta precisam ser identificados separadamente de evidências controladas sobre resultados agrícolas.",
+    "after": "Courtney considera os preparados uma forma de trabalhar com forças vivas, em vez de simplesmente acrescentar quantidades de nutrientes. Descreve materiais e relata experiências práticas, mas este capítulo é sua argumentação introdutória. Seus relatos e sua explicação espiritual proposta precisam ser identificados separadamente de evidências controladas sobre resultados agrícolas.",
+    "files": [
+      {
+        "file": "content/learning-lessons-25-36.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/what-is-biodynamics.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 49,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de linhas que imitam espaço escultórico",
+    "new": "não apenas de linhas que imitam espaço escultórico",
+    "before": "A explicação de Steiner sobre as artes atribui tarefas distintas a cor, forma construída e movimento. O trecho começa pela pintura numa superfície plana: a profundidade vivenciada pode surgir das relações cromáticas, além de linhas que imitam espaço escultórico.",
+    "after": "A explicação de Steiner sobre as artes atribui tarefas distintas a cor, forma construída e movimento. O trecho começa pela pintura numa superfície plana: a profundidade vivenciada pode surgir das relações cromáticas, não apenas de linhas que imitam espaço escultórico.",
+    "files": [
+      {
+        "file": "content/learning-lessons-25-36.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 55,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "a introdução de Steiner fornece a finalidade mais ampla.",
+    "new": "a introdução de Steiner fornece a finalidade mais ampla, não esta atividade específica.",
+    "before": "Ao final, registre uma mudança de compreensão. Essa revisão é sugestão do curso; a introdução de Steiner fornece a finalidade mais ampla.",
+    "after": "Ao final, registre uma mudança de compreensão. Essa revisão é sugestão do curso; a introdução de Steiner fornece a finalidade mais ampla, não esta atividade específica.",
+    "files": [
+      {
+        "file": "content/meditation-course.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 63,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "O coração bombeia sangue; pulso de repouso varia. O curso inglês remete ao CDC sobre danos do tabagismo.",
+    "new": "O coração bombeia sangue, e o pulso normal em repouso varia, em vez de ser fixo em 72 batimentos por minuto. O CDC descreve danos do tabagismo a muitos órgãos.",
+    "before": "O coração bombeia sangue; pulso de repouso varia. O curso inglês remete ao CDC sobre danos do tabagismo. A sugestão histórica de nicotina terapêutica não é razão para fumar ou usar tabaco como tratamento.",
+    "after": "O coração bombeia sangue, e o pulso normal em repouso varia, em vez de ser fixo em 72 batimentos por minuto. O CDC descreve danos do tabagismo a muitos órgãos. A sugestão histórica de nicotina terapêutica não é razão para fumar ou usar tabaco como tratamento.",
+    "files": [
+      {
+        "file": "content/nutrition-clear-lessons.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/nutrition/course-pt.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 66,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de adivinhar",
+    "new": "não de praticar adivinhações",
+    "before": "“Onde compreendemos” delimita o exercício. Preveja a partir de condições conhecidas, compare com o acontecimento e investigue divergências. É uma maneira de corrigir uma compreensão, além de adivinhar.",
+    "after": "“Onde compreendemos” delimita o exercício. Preveja a partir de condições conhecidas, compare com o acontecimento e investigue divergências. É uma maneira de corrigir uma compreensão, não de praticar adivinhações.",
+    "files": [
+      {
+        "file": "content/passage-study.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 67,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além da lembrança interior",
+    "new": "não apenas da lembrança interior",
+    "before": "As palavras “relação com o mundo” tratam do que um ato deixa fora da pessoa, além da lembrança interior. Na página anterior, cortar um ramo muda o que pode acontecer depois. Relacione isso à outra direção do capítulo: lembranças tornam-se representações presentes, enquanto seus frutos podem permanecer como habilidades. Explique o efeito externo e a capacidade interior antes de acompanhar a ampliação posterior para o destino.",
+    "after": "As palavras “relação com o mundo” tratam do que um ato deixa fora da pessoa, não apenas da lembrança interior. Na página anterior, cortar um ramo muda o que pode acontecer depois. Relacione isso à outra direção do capítulo: lembranças tornam-se representações presentes, enquanto seus frutos podem permanecer como habilidades. Explique o efeito externo e a capacidade interior antes de acompanhar a ampliação posterior para o destino.",
+    "files": [
+      {
+        "file": "content/passage-study.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 68,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de retornar às imagens antigas",
+    "new": "não simplesmente um retorno às imagens antigas",
+    "before": "A direção é uma forma renovada de conhecer, além de retornar às imagens antigas. A discussão de linguagem e abstração pergunta o que se perdeu e como isso pode ser transformado.",
+    "after": "A direção é uma forma renovada de conhecer, não simplesmente um retorno às imagens antigas. A discussão de linguagem e abstração pergunta o que se perdeu e como isso pode ser transformado.",
+    "files": [
+      {
+        "file": "content/passage-study.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 69,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de transmitir uma moral rápida",
+    "new": "não apenas transmitir uma moral rápida",
+    "before": "A frase oferece um critério ao projeto final: uma história deve sustentar compreensão renovada, além de transmitir uma moral rápida. Explique a ideia antroposófica, adapte-a ao público e revise-a conforme a resposta recebida.",
+    "after": "A frase oferece um critério ao projeto final: uma história deve sustentar compreensão renovada, não apenas transmitir uma moral rápida. Explique a ideia antroposófica, adapte-a ao público e revise-a conforme a resposta recebida.",
+    "files": [
+      {
+        "file": "content/passage-study.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 109,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de uma coleção de cenas lembradas",
+    "new": "não apenas a uma coleção de cenas lembradas",
+    "before": "O capítulo precisa dessa distinção antes de perguntar o que uma individualidade poderia levar adiante. Sua concepção de continuidade diz respeito ao desenvolvimento assimilado, além de uma coleção de cenas lembradas.",
+    "after": "O capítulo precisa dessa distinção antes de perguntar o que uma individualidade poderia levar adiante. Sua concepção de continuidade diz respeito ao desenvolvimento assimilado, não apenas a uma coleção de cenas lembradas.",
+    "files": [
+      {
+        "file": "content/theosophy-guided-chapter-2.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 114,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de oferecer exercício corporal",
+    "new": "em vez de apenas oferecer exercício corporal",
+    "before": "Sua intenção específica é relacionar movimento e expressão, além de oferecer exercício corporal. Os alunos trabalham tempo, direção e relações entre seu movimento e a forma do grupo.",
+    "after": "Sua intenção específica é relacionar movimento e expressão, em vez de apenas oferecer exercício corporal. Os alunos trabalham tempo, direção e relações entre seu movimento e a forma do grupo.",
+    "files": [
+      {
+        "file": "content/waldorf-teaching-course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 115,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "preparar para compreender a tecnologia, além de obedecer a proibições",
+    "new": "preparar os alunos para compreender a tecnologia, em vez de apenas obedecer a uma proibição",
+    "before": "Políticas escolares e condições domésticas variam. Acessibilidade, privacidade, distração e habilidades práticas exigem atenção explícita. A abordagem deve explicar suas escolhas e preparar para compreender a tecnologia, além de obedecer a proibições.",
+    "after": "Políticas escolares e condições domésticas variam. Acessibilidade, privacidade, distração e habilidades práticas exigem atenção explícita. A abordagem deve explicar suas escolhas e preparar os alunos para compreender a tecnologia, em vez de apenas obedecer a uma proibição.",
+    "files": [
+      {
+        "file": "content/waldorf-teaching-course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 116,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de descrevê-los",
+    "new": "não apenas descrevê-los",
+    "before": "O planejamento curricular enfatiza causas, leis e relações exatas por volta do sexto ano. Física, construção geométrica e matemática comercial oferecem situações em que é preciso explicar resultados, além de descrevê-los.",
+    "after": "O planejamento curricular enfatiza causas, leis e relações exatas por volta do sexto ano. Física, construção geométrica e matemática comercial oferecem situações em que é preciso explicar resultados, não apenas descrevê-los.",
+    "files": [
+      {
+        "file": "content/waldorf-teaching-course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 118,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de um calendário geral",
+    "new": "em vez de esperar que um calendário geral de desenvolvimento resolva essas dificuldades",
+    "before": "A intenção é construir uma ponte entre vivência e habilidades formais. Verifique reconhecimento e uso fora da primeira imagem ou história. Dificuldades de leitura, linguagem, atenção ou coordenação exigem resposta oportuna, além de um calendário geral.",
+    "after": "A intenção é construir uma ponte entre vivência e habilidades formais. Verifique reconhecimento e uso fora da primeira imagem ou história. Dificuldades de leitura, linguagem, atenção ou coordenação exigem resposta oportuna, em vez de esperar que um calendário geral de desenvolvimento resolva essas dificuldades.",
+    "files": [
+      {
+        "file": "content/waldorf-teaching-course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 125,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além da celebração de um único ponto de vista",
+    "new": "não pela celebração de um único ponto de vista como se fosse toda a história",
+    "before": "Narrativas de descoberta precisam perguntar quem já conhecia um lugar ou processo e quem viveu as consequências da expansão. A independência intelectual se desenvolve por evidências e comparações justas, além da celebração de um único ponto de vista.",
+    "after": "Narrativas de descoberta precisam perguntar quem já conhecia um lugar ou processo e quem viveu as consequências da expansão. A independência intelectual se desenvolve por evidências e comparações justas, não pela celebração de um único ponto de vista como se fosse toda a história.",
+    "files": [
+      {
+        "file": "content/waldorf-teaching-course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 128,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além do objeto acabado",
+    "new": "não apenas o objeto acabado",
+    "before": "A avaliação inclui processo e explicação, além do objeto acabado. Adapte ferramentas e exigências preservando a finalidade. Correções demonstram compreensão quando o aluno consegue explicá-las.",
+    "after": "A avaliação inclui processo e explicação, não apenas o objeto acabado. Adapte ferramentas e exigências preservando a finalidade. Correções demonstram compreensão quando o aluno consegue explicá-las.",
+    "files": [
+      {
+        "file": "content/waldorf-teaching-course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 129,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de precisão ou apresentação pública",
+    "new": "não apenas precisão ou apresentação pública",
+    "before": "O progresso deve incluir compreensão, além de precisão ou apresentação pública. Ofereça participação acessível e comentários adequados à experiência. Histórias da música precisam reconhecer tradições e contextos variados.",
+    "after": "O progresso deve incluir compreensão, não apenas precisão ou apresentação pública. Ofereça participação acessível e comentários adequados à experiência. Histórias da música precisam reconhecer tradições e contextos variados.",
+    "files": [
+      {
+        "file": "content/waldorf-teaching-course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 130,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de repetir mais ou supor que a família deva ensinar todo o currículo",
+    "new": "não simplesmente mais repetição ou a suposição de que a família deva ensinar todo o currículo",
+    "before": "Escola e casa têm funções complementares. Escute a criança, combine expectativas realistas e converse sobre dificuldades específicas. Problemas persistentes exigem um plano conjunto, além de repetir mais ou supor que a família deva ensinar todo o currículo.",
+    "after": "Escola e casa têm funções complementares. Escute a criança, combine expectativas realistas e converse sobre dificuldades específicas. Problemas persistentes exigem um plano conjunto, não simplesmente mais repetição ou a suposição de que a família deva ensinar todo o currículo.",
+    "files": [
+      {
+        "file": "content/waldorf-teaching-course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 131,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de copiar com capricho a página do professor",
+    "new": "não simplesmente de copiar com capricho a página do professor",
+    "before": "O caderno elaborado pelo aluno pode exigir selecionar, organizar e explicar ideias. Seu valor depende da compreensão, além de copiar com capricho a página do professor.",
+    "after": "O caderno elaborado pelo aluno pode exigir selecionar, organizar e explicar ideias. Seu valor depende da compreensão, não simplesmente de copiar com capricho a página do professor.",
+    "files": [
+      {
+        "file": "content/waldorf-teaching-course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 132,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além de quatro tarefas isoladas",
+    "new": "em vez de quatro tarefas isoladas",
+    "before": "A conclusão reúne densidade, gravidade e magnetismo ascendentes com amor e sacrifício descendentes. Os insetos também irradiam substância espiritualizada que, segundo Steiner, atrai os seres humanos à encarnação. O crescimento torna-se circuito entre planta, animais, Terra e cosmos, além de quatro tarefas isoladas.",
+    "after": "A conclusão reúne densidade, gravidade e magnetismo ascendentes com amor e sacrifício descendentes. Os insetos também irradiam substância espiritualizada que, segundo Steiner, atrai os seres humanos à encarnação. O crescimento torna-se circuito entre planta, animais, Terra e cosmos, em vez de quatro tarefas isoladas.",
+    "files": [
+      {
+        "file": "content/what-is-biodynamics.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": 134,
+    "reason": "Restore contrast, qualification or omitted explanation in original course prose; not a source quotation.",
+    "old": "além da ideia geral de interação entre sistemas",
+    "new": "não uma afirmação genérica de interação entre sistemas",
+    "before": "As capturas 73–74 apresentam as organizações metabólica e de membros, rítmica e neurossensorial; depois deixam temporariamente de lado a esfera rítmica. Steiner diz que a eliminação produz, embaixo, uma contraparte espiritual do cérebro físico de cima. O processo inferior interrompe a meio caminho seu desenvolvimento físico e passa ao espiritual; acima, alcança realização física. Chama o cérebro de metamorfose superior da eliminação e usa isso para relacionar doenças intestinais e cerebrais e sua cura. São afirmações fisiológicas e médicas explícitas, além da ideia geral de interação entre sistemas.",
+    "after": "As capturas 73–74 apresentam as organizações metabólica e de membros, rítmica e neurossensorial; depois deixam temporariamente de lado a esfera rítmica. Steiner diz que a eliminação produz, embaixo, uma contraparte espiritual do cérebro físico de cima. O processo inferior interrompe a meio caminho seu desenvolvimento físico e passa ao espiritual; acima, alcança realização física. Chama o cérebro de metamorfose superior da eliminação e usa isso para relacionar doenças intestinais e cerebrais e sua cura. São afirmações fisiológicas e médicas explícitas, não uma afirmação genérica de interação entre sistemas.",
+    "files": [
+      {
+        "file": "content/what-is-biodynamics.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "reason": "Independent bilingual editorial review: agreement, closing purpose or evidence qualification. Original course prose, not quotation.",
+    "old": "Assim chegam-se a dez esboços.",
+    "new": "Assim chega-se a dez esboços.",
+    "files": [
+      {
+        "file": "content/understand-temperament.mjs",
+        "occurrences": 1
+      },
+      {
+        "file": "content/temperament-companions-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "reason": "Independent bilingual editorial review: agreement, closing purpose or evidence qualification. Original course prose, not quotation.",
+    "old": "Ligue a explicação do temperamento à finalidade de compreensão humana responsiva e amor do fechamento.",
+    "new": "Relacione a explicação do temperamento à finalidade última da palestra: compreensão humana atenta e amor.",
+    "files": [
+      {
+        "file": "content/four-temperaments-source-guides.mjs",
+        "occurrences": 1
+      },
+      {
+        "file": "content/learning-system-catalogue.json",
+        "occurrences": 4
+      },
+      {
+        "file": "content/temperaments-clear-lessons.json",
+        "occurrences": 2
+      }
+    ]
+  },
+  {
+    "reason": "Independent bilingual editorial review: agreement, closing purpose or evidence qualification. Original course prose, not quotation.",
+    "old": "A afirmação de que nitrogênio respirado fornece diretamente proteína humana é distinguida da obtenção de nitrogênio utilizável por compostos alimentares.",
+    "new": "A afirmação de que nitrogênio respirado fornece diretamente proteína humana é incompatível com a nutrição humana tal como é compreendida atualmente: as pessoas obtêm nitrogênio utilizável por meio de compostos alimentares.",
+    "files": [
+      {
+        "file": "content/nutrition-clear-lessons.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/nutrition/course-pt.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "old": "O corpo pode condicionar o instrumento",
+    "new": "A alimentação pode condicionar o instrumento",
+    "reason": "Restore subject or purchased-only constraint; independent editorial finding.",
+    "files": [
+      {
+        "file": "content/nutrition-clear-lessons.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/nutrition/course-pt.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "old": "Compare batata e tomate usando apenas ingredientes culinários conhecidos.",
+    "new": "Compare batata e tomate usando apenas ingredientes culinários comprados.",
+    "reason": "Restore subject or purchased-only constraint; independent editorial finding.",
+    "files": [
+      {
+        "file": "content/foodwise/course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-0",
+    "old": "além dos sentidos comuns de devaneio, entusiasmo criativo ou palpite repentino",
+    "new": "não aos sentidos comuns de devaneio, entusiasmo criativo ou palpite repentino",
+    "before": "O conhecimento comum começa com percepções sensoriais que a razão e outras capacidades da alma tornam compreensíveis. Steiner apresenta, em seguida, três níveis propostos de conhecimento suprassensível: Imaginação, Inspiração e Intuição. Esses nomes técnicos se referem a modos de encontrar um mundo espiritual, além dos sentidos comuns de devaneio, entusiasmo criativo ou palpite repentino.",
+    "after": "O conhecimento comum começa com percepções sensoriais que a razão e outras capacidades da alma tornam compreensíveis. Steiner apresenta, em seguida, três níveis propostos de conhecimento suprassensível: Imaginação, Inspiração e Intuição. Esses nomes técnicos se referem a modos de encontrar um mundo espiritual, não aos sentidos comuns de devaneio, entusiasmo criativo ou palpite repentino.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/according-to-luke-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-4",
+    "old": "além de comentar uma passagem comovente",
+    "new": "não apenas comentar uma passagem comovente",
+    "before": "Uma síntese deve reconstruir um argumento, além de comentar uma passagem comovente. Identifique a pergunta, as premissas, as distinções e a conclusão. Depois apresente separadamente sua avaliação e proposta prática. Esta atividade final é um trabalho original do curso; não é uma palestra adicional de Steiner.",
+    "after": "Uma síntese deve reconstruir um argumento, não apenas comentar uma passagem comovente. Identifique a pergunta, as premissas, as distinções e a conclusão. Depois apresente separadamente sua avaliação e proposta prática. Esta atividade final é um trabalho original do curso; não é uma palestra adicional de Steiner.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/according-to-luke.mjs",
+        "occurrences": 1
+      },
+      {
+        "file": "content/humanities-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-12",
+    "old": "além da descrição de um objeto isolado",
+    "new": "não apenas a descrição de um objeto isolado",
+    "before": "Compreender um processo agrícola vivo exige suas relações, além da descrição de um objeto isolado.",
+    "after": "Compreender um processo agrícola vivo exige suas relações, não apenas a descrição de um objeto isolado.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/agriculture-passages.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-33",
+    "old": "além do mero sentimento",
+    "new": "em vez de mero sentimento",
+    "before": "Sua finalidade é prática e também explicativa. Um autoconhecimento maior deve ajudar a compreender outra pessoa e agir com cuidado e consideração. Ele descreve um amor cristão não possessivo e incondicional, expresso em atos, além do mero sentimento. Preserve as duas partes ao comparar as fontes: Childs oferece uma explicação espiritual e uma finalidade ética. O encontro atento do curso é um modo original de praticar esta última, com espaço para revisar a compreensão.",
+    "after": "Sua finalidade é prática e também explicativa. Um autoconhecimento maior deve ajudar a compreender outra pessoa e agir com cuidado e consideração. Ele descreve um amor cristão não possessivo e incondicional, expresso em atos, em vez de mero sentimento. Preserve as duas partes ao comparar as fontes: Childs oferece uma explicação espiritual e uma finalidade ética. O encontro atento do curso é um modo original de praticar esta última, com espaço para revisar a compreensão.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/childs-temperament-core-additions.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-39",
+    "old": "além das relações convencionais entre alturas musicais",
+    "new": "não apenas nas relações convencionais entre alturas musicais",
+    "before": "O argumento sonoro acompanha o cromático sem oferecer uma fórmula entre cor e altura musical. Steiner imagina entrar por um som, levando-o consigo para a vida espiritual. A tônica absoluta abre um mundo silencioso e ameaça dissolver uma alma ainda pouco fortalecida. A segunda traz sons suaves de consolo. A terça traz sons amigos cujas combinações variam conforme a disposição, oferecendo recursos à composição. Pela quarta, os sons anteriores persistem como lembranças que passam da luminosidade à tristeza profunda e produzem modulação expressiva. A quinta estimula e enriquece a vida interior da alma. A ênfase está na realidade espiritual além do som sensorial e na preparação criativa por participação interior, além das relações convencionais entre alturas musicais.",
+    "after": "O argumento sonoro acompanha o cromático sem oferecer uma fórmula entre cor e altura musical. Steiner imagina entrar por um som, levando-o consigo para a vida espiritual. A tônica absoluta abre um mundo silencioso e ameaça dissolver uma alma ainda pouco fortalecida. A segunda traz sons suaves de consolo. A terça traz sons amigos cujas combinações variam conforme a disposição, oferecendo recursos à composição. Pela quarta, os sons anteriores persistem como lembranças que passam da luminosidade à tristeza profunda e produzem modulação expressiva. A quinta estimula e enriquece a vida interior da alma. A ênfase está na realidade espiritual além do som sensorial e na preparação criativa por participação interior, não apenas nas relações convencionais entre alturas musicais.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/colour-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-41",
+    "old": "além da sensação presente",
+    "new": "não simplesmente uma sensação presente",
+    "before": "Um movimento lembrado explica a relação pretendida. Folhas vermelha e verde produzem uma impressão; semanas depois, os mesmos gestos com folhas brancas podem evocá-la. Steiner faz então uma afirmação mais forte sobre a natureza: o próprio olho seria formado por imaginação viva, e a cor de uma pedra preciosa despertaria a criação divina que a formou há muito tempo. O verde da primavera recordaria, de modo semelhante, a criação vegetal durante a antiga evolução solar. A cor se torna memória cósmica objetiva, além da sensação presente. A analogia das folhas ajuda a explicar a afirmação, mas a lembrança comum não estabelece a história espiritual da pedra.",
+    "after": "Um movimento lembrado explica a relação pretendida. Folhas vermelha e verde produzem uma impressão; semanas depois, os mesmos gestos com folhas brancas podem evocá-la. Steiner faz então uma afirmação mais forte sobre a natureza: o próprio olho seria formado por imaginação viva, e a cor de uma pedra preciosa despertaria a criação divina que a formou há muito tempo. O verde da primavera recordaria, de modo semelhante, a criação vegetal durante a antiga evolução solar. A cor se torna memória cósmica objetiva, não simplesmente uma sensação presente. A analogia das folhas ajuda a explicar a afirmação, mas a lembrança comum não estabelece a história espiritual da pedra.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/colour-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-42",
+    "old": "além da aparência agradável ou da aprovação moral de seu assunto",
+    "new": "não à aparência agradável ou à aprovação moral de seu assunto",
+    "before": "Steiner começa com o gênio da linguagem, entendido expressamente como ser espiritual real. Suas relações entre palavras alemãs vinculam a beleza à aparência resplandecente e a feiura ao ódio do observador diante do que se oculta. Esse é seu ponto de partida interpretativo, não uma etimologia que possa ser simplesmente transferida a todas as línguas. A beleza significa espírito que se torna perceptível numa forma exterior. Mesmo um motivo feio ou repulsivo pode tornar-se artisticamente belo ao revelar uma realidade espiritual. O critério diz respeito à força reveladora da obra, além da aparência agradável ou da aprovação moral de seu assunto.",
+    "after": "Steiner começa com o gênio da linguagem, entendido expressamente como ser espiritual real. Suas relações entre palavras alemãs vinculam a beleza à aparência resplandecente e a feiura ao ódio do observador diante do que se oculta. Esse é seu ponto de partida interpretativo, não uma etimologia que possa ser simplesmente transferida a todas as línguas. A beleza significa espírito que se torna perceptível numa forma exterior. Mesmo um motivo feio ou repulsivo pode tornar-se artisticamente belo ao revelar uma realidade espiritual. O critério diz respeito à força reveladora da obra, não à aparência agradável ou à aprovação moral de seu assunto.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/colour-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-45",
+    "old": "A transformação, além da simples perda.",
+    "new": "A transformação, em vez da simples perda.",
+    "before": "A transformação, além da simples perda. A conversa lembrada com Gerda Langen apresenta a fantasia que retorna de outra forma; a imagem do rio é uma analogia, não prova de uma sequência universal.",
+    "after": "A transformação, em vez da simples perda. A conversa lembrada com Gerda Langen apresenta a fantasia que retorna de outra forma; a imagem do rio é uma analogia, não prova de uma sequência universal.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/encountering-self-source-guides.mjs",
+        "occurrences": 1
+      },
+      {
+        "file": "content/humanities-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-57",
+    "old": "além dos sentimentos que surgem durante uma prática espiritual",
+    "new": "não apenas os sentimentos que surgem durante uma prática espiritual",
+    "before": "Ciência espiritual é o nome usado por Steiner para investigar uma realidade espiritual além da percepção sensorial comum. Seu objeto inclui o ser humano e o mundo, além dos sentimentos que surgem durante uma prática espiritual.",
+    "after": "Ciência espiritual é o nome usado por Steiner para investigar uma realidade espiritual além da percepção sensorial comum. Seu objeto inclui o ser humano e o mundo, não apenas os sentimentos que surgem durante uma prática espiritual.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-59",
+    "old": "além da aparência da ponte",
+    "new": "não apenas da aparência da ponte",
+    "before": "Ao entender por que uma ponte suporta uma carga, você relaciona o que observa a uma explicação. O pensar trata desse trabalho de compreensão, além da aparência da ponte.",
+    "after": "Ao entender por que uma ponte suporta uma carga, você relaciona o que observa a uma explicação. O pensar trata desse trabalho de compreensão, não apenas da aparência da ponte.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-60",
+    "old": "além da ideia de duas partes ausentes",
+    "new": "não à ausência de duas partes",
+    "before": "Uma descrição distingue nove membros da constituição humana. Uma descrição agrupada reúne pares relacionados e conta sete. A diferença numérica corresponde a uma forma de organizar distinções, além da ideia de duas partes ausentes.",
+    "after": "Uma descrição distingue nove membros da constituição humana. Uma descrição agrupada reúne pares relacionados e conta sete. A diferença numérica corresponde a uma forma de organizar distinções, não à ausência de duas partes.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-63",
+    "old": "além da ideia de uma sala material com endereço geográfico",
+    "new": "não como uma sala material com endereço geográfico",
+    "before": "As sete regiões distinguem condições da experiência anímica. Uma região é entendida, portanto, por sua relação característica, além da ideia de uma sala material com endereço geográfico.",
+    "after": "As sete regiões distinguem condições da experiência anímica. Uma região é entendida, portanto, por sua relação característica, não como uma sala material com endereço geográfico.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/foundations-concept-development.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-71",
+    "old": "além da repetição das palavras",
+    "new": "em vez de apenas repetir suas palavras",
+    "before": "Trabalhar com o sentido e o movimento de uma meditação real, além da repetição das palavras.",
+    "after": "Trabalhar com o sentido e o movimento de uma meditação real, em vez de apenas repetir suas palavras.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/learning-system-catalogue.json",
+        "occurrences": 2
+      },
+      {
+        "file": "content/meditation-course.mjs",
+        "occurrences": 1
+      },
+      {
+        "file": "content/foundations-introduction-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-82",
+    "old": "além do vínculo instintivo",
+    "new": "em vez de apenas um vínculo instintivo",
+    "before": "O palestrante situa a pergunta numa história espiritual. A percepção direta da orientação divina recua, tornando possíveis a incerteza e o erro. A independência tem, assim, um custo: podemos entender mal, negligenciar pessoas e agir destrutivamente. Mas também torna possível um retorno consciente à relação. O amor pode se tornar algo compreendido e oferecido livremente, além do vínculo instintivo. Essa é a estrutura teológica do argumento.",
+    "after": "O palestrante situa a pergunta numa história espiritual. A percepção direta da orientação divina recua, tornando possíveis a incerteza e o erro. A independência tem, assim, um custo: podemos entender mal, negligenciar pessoas e agir destrutivamente. Mas também torna possível um retorno consciente à relação. O amor pode se tornar algo compreendido e oferecido livremente, em vez de apenas um vínculo instintivo. Essa é a estrutura teológica do argumento.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/humanities-clear-lessons.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/esoteric-christianity/module-2.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-83",
+    "old": "além da capacidade",
+    "new": "não apenas capacidade",
+    "before": "As histórias patriarcais mostram que a inteligência permanece eticamente aberta. A esperteza de Jacó inclui engano na história da bênção. A interpretação e administração de José ajudam a enfrentar a fome. A inteligência pode manipular ou servir; possuí-la não decide como será usada. Uma lição sobre preparação precisa incluir finalidade, além da capacidade.",
+    "after": "As histórias patriarcais mostram que a inteligência permanece eticamente aberta. A esperteza de Jacó inclui engano na história da bênção. A interpretação e administração de José ajudam a enfrentar a fome. A inteligência pode manipular ou servir; possuí-la não decide como será usada. Uma lição sobre preparação precisa incluir finalidade, não apenas capacidade.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/humanities-clear-lessons.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/esoteric-christianity/module-3.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-84",
+    "old": "além da simples falta de informações",
+    "new": "não simplesmente falta de informações",
+    "before": "Imagine reconhecer uma qualidade familiar de bondade em alguém desconhecido. A experiência comum esclarece o reconhecimento de uma qualidade; não demonstra a proposta de contrapartes espirituais. Inocência significa aqui abertura preservada, além da simples falta de informações.",
+    "after": "Imagine reconhecer uma qualidade familiar de bondade em alguém desconhecido. A experiência comum esclarece o reconhecimento de uma qualidade; não demonstra a proposta de contrapartes espirituais. Inocência significa aqui abertura preservada, não simplesmente falta de informações.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/humanities-clear-lessons.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/esoteric-christianity/module-4.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-94",
+    "old": "além do conteúdo a ser aprendido",
+    "new": "não apenas ao conteúdo a ser aprendido",
+    "before": "A descrição do desenvolvimento na GA 13 pergunta quais capacidades estão surgindo em uma vida humana. Para a questão da educação Waldorf, isso oferece uma base antropológica: o ensino é considerado em relação ao ser humano em crescimento, além do conteúdo a ser aprendido.",
+    "after": "A descrição do desenvolvimento na GA 13 pergunta quais capacidades estão surgindo em uma vida humana. Para a questão da educação Waldorf, isso oferece uma base antropológica: o ensino é considerado em relação ao ser humano em crescimento, não apenas ao conteúdo a ser aprendido.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/introduction-anthroposophy-lesson-24.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-95",
+    "old": "além da mudança material",
+    "new": "não apenas a mudança material",
+    "before": "Uma pedra pode aquecer, mas uma muda desenvolve e mantém uma forma viva. Steiner introduz corpo etérico ou vital para explicar a organização viva, além da mudança material.",
+    "after": "Uma pedra pode aquecer, mas uma muda desenvolve e mantém uma forma viva. Steiner introduz corpo etérico ou vital para explicar a organização viva, não apenas a mudança material.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/learning-lessons-01-12.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-99",
+    "old": "além da escolha isolada ou de um impulso não examinado",
+    "new": "não apenas a escolha isolada ou um impulso não examinado",
+    "before": "Liberdade envolve o que determina o ato: ideia ética apreendida individualmente, além da escolha isolada ou de um impulso não examinado.",
+    "after": "Liberdade envolve o que determina o ato: ideia ética apreendida individualmente, não apenas a escolha isolada ou um impulso não examinado.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/learning-lessons-25-36.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-115",
+    "old": "além da cor",
+    "new": "não apenas a cor",
+    "before": "Observe o contraste de forma e movimento, além da cor. Leia-o segundo a distinção das pp. 143–144 entre visão física e experiência espiritual da cor. Depois, a p. 152 inclui impulsos naturalmente altruístas na primeira aura; “natureza animal” não significa simplesmente maldade. Explique os três aspectos interpenetrantes antes de aplicar qualquer nome de cor.",
+    "after": "Observe o contraste de forma e movimento, não apenas a cor. Leia-o segundo a distinção das pp. 143–144 entre visão física e experiência espiritual da cor. Depois, a p. 152 inclui impulsos naturalmente altruístas na primeira aura; “natureza animal” não significa simplesmente maldade. Explique os três aspectos interpenetrantes antes de aplicar qualquer nome de cor.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/passage-study.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-118",
+    "old": "Observe a atividade além da resposta.",
+    "new": "Observe a atividade, não apenas a resposta.",
+    "before": "Observe a atividade além da resposta. O exercício torna compreensível o ponto de partida proposto por Steiner; não resolve todas as objeções sobre o pensar ou sua relação com o corpo.",
+    "after": "Observe a atividade, não apenas a resposta. O exercício torna compreensível o ponto de partida proposto por Steiner; não resolve todas as objeções sobre o pensar ou sua relação com o corpo.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/philosophy-of-freedom-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-127",
+    "old": "Investigue a decisão, além de sua execução",
+    "new": "Investigue a decisão, não apenas sua execução",
+    "before": "Investigue a decisão, além de sua execução",
+    "after": "Investigue a decisão, não apenas sua execução",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/philosophy-of-freedom-lecture-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-143",
+    "old": "além de teorias abstratas ou sermões morais",
+    "new": "em vez de permanecer em teorias abstratas ou sermões morais",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation. Exact phrase also occurs within the earlier shorter paragraph.",
+    "files": [
+      {
+        "file": "content/four-temperaments-source-guides.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-173",
+    "old": "além da mera vivacidade",
+    "new": "em vez de mera vivacidade",
+    "before": "Ele exige uma atividade ordenada de pensamento, além da mera vivacidade.",
+    "after": "Ele exige uma atividade ordenada de pensamento, em vez de mera vivacidade.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/theosophy-guided-chapter-4.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-178",
+    "old": "além da uniformidade corporal",
+    "new": "não a uniformidade corporal",
+    "before": "Atividades corporais têm objetivos diferentes; jogos, educação física e euritmia não são equivalentes. Ofereça participação acessível e avalie a relação pretendida, além da uniformidade corporal.",
+    "after": "Atividades corporais têm objetivos diferentes; jogos, educação física e euritmia não são equivalentes. Ofereça participação acessível e avalie a relação pretendida, não a uniformidade corporal.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/waldorf-teaching-course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "expanded-182",
+    "old": "além de nomes poéticos para partes da planta",
+    "new": "não simplesmente nomes poéticos para partes da planta",
+    "before": "A palestra começa reunindo natureza visível e invisível. Steiner descreve os elementais como seres espirituais reais, revelados pela Imaginação e Inspiração, com atividades e formas de consciência distintas, além de nomes poéticos para partes da planta.",
+    "after": "A palestra começa reunindo natureza visível e invisível. Steiner descreve os elementais como seres espirituais reais, revelados pela Imaginação e Inspiração, com atividades e formas de consciência distintas, não simplesmente nomes poéticos para partes da planta.",
+    "reason": "Expanded contrast review including short strings and além do/da/dos. Original teaching, not quotation.",
+    "files": [
+      {
+        "file": "content/what-is-biodynamics.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "old": "ideal a aproximar",
+    "new": "ideal do qual se aproximar",
+    "reason": "Independent editorial finding: grammar or locator spacing in course prose.",
+    "files": [
+      {
+        "file": "content/agriculture-checks.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 2
+      },
+      {
+        "file": "content/agriculture-clear-lessons.json",
+        "occurrences": 3
+      }
+    ]
+  },
+  {
+    "old": "a substantive different account",
+    "new": "a substantively different account",
+    "reason": "Independent editorial finding: grammar or locator spacing in course prose.",
+    "files": [
+      {
+        "file": "content/agriculture-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "old": "rather than supply the later complete day-category system",
+    "new": "rather than supplying the later complete day-category system",
+    "reason": "Independent editorial finding: grammar or locator spacing in course prose.",
+    "files": [
+      {
+        "file": "content/biodynamic-part-5.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/agriculture-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "old": "At capture144 Steiner",
+    "new": "At capture 144, Steiner",
+    "reason": "Independent editorial finding: grammar or locator spacing in course prose.",
+    "files": [
+      {
+        "file": "content/agriculture-checks.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/agriculture-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "old": "Na captura144 Steiner",
+    "new": "Na captura 144, Steiner",
+    "reason": "Independent editorial finding: grammar or locator spacing in course prose.",
+    "files": [
+      {
+        "file": "content/agriculture-checks.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/agriculture-clear-lessons.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "old": "capture144",
+    "new": "capture 144",
+    "reason": "Independent editorial finding: grammar or locator spacing in course prose.",
+    "files": [
+      {
+        "file": "content/agriculture-passages.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "old": "captura144",
+    "new": "captura 144",
+    "reason": "Independent editorial finding: grammar or locator spacing in course prose.",
+    "files": [
+      {
+        "file": "content/agriculture-passages.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 1
+      }
+    ]
+  }
+]

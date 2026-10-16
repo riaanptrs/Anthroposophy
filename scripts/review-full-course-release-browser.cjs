@@ -58,6 +58,6 @@ async function loadCases(){
   }
   assert.deepEqual(failures,[],'missing local assets');
   const result={pages:cases.length,viewportCases:tested,widths:[1280,320],javaScript:false,checks:['visible core teaching','language','keyboard disclosure','overflow','local and linked fragments','all main/header links','loaded assets'],status:'passed'};
-  fs.writeFileSync(process.env.REVIEW_ROUTES_JSON?'reviews/pedagogy/remaining-final-changed-browser.json':'reviews/pedagogy/full-course-release-browser.json',JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify(result));
+  fs.writeFileSync(process.env.REVIEW_REPORT||(process.env.REVIEW_ROUTES_JSON?'reviews/pedagogy/remaining-final-changed-browser.json':'reviews/pedagogy/full-course-release-browser.json'),JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify(result));
  }finally{await browser.close();}
 })().catch(e=>{console.error(e);process.exitCode=1;});

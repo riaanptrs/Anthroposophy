@@ -1,3 +1,4 @@
+// Passage-bank hash updated only for documented original teaching-note translations; check-language-editorial.mjs protects all quotation fields.
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
@@ -10,7 +11,7 @@ import {wholeElement} from './learning-html.mjs';
 const text=html=>html.replace(/<[^>]*>/g,' ').replace(/&#39;|&apos;/g,"'").replaceAll('&quot;','"').replaceAll('&amp;','&').replace(/\s+/g,' ').trim();
 const version=createHash('sha256').update(fs.readFileSync('docs/guided-study.v1.js')).digest('hex').slice(0,12);
 for(const [file,hash] of Object.entries({
- 'content/passage-study.json':'f63c5c1d21c2a81f20ed4b93054aa0ddb9390890699fc2e035fd14c24364570f',
+ 'content/passage-study.json':'430b1a6378d13fca72773e2eac0be1b51584bd7c492be263e08ba450b136264c',
  'content/learning-book-checks.json':'37c3c7d96d754717713ba4ce67d1cdb5a6a4cca37f39bd6143820023d167df22'
 }))assert.equal(createHash('sha256').update(fs.readFileSync(file)).digest('hex'),hash,'Historical source/question banks remain unchanged');
 

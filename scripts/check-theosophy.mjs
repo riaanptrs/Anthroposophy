@@ -1,3 +1,4 @@
+// Passage-bank hash updated only for documented original teaching-note translations; check-language-editorial.mjs protects all quotation fields.
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
@@ -80,7 +81,7 @@ assert.ok(registry.some(s=>s.sha256==='ca555e2d7a13477b94b3012a53e929350756f9d9e
 // The guided book course follows the newly supplied, PDF-verified edition.
 assert.equal(JSON.parse(fs.readFileSync('content/passage-study.json','utf8')).length,177,'Historical passage bank changed');
 assert.equal(JSON.parse(fs.readFileSync('content/learning-book-checks.json','utf8')).length,185,'Historical comprehension bank changed');
-for(const [name,hash] of [['passage-study.json','f63c5c1d21c2a81f20ed4b93054aa0ddb9390890699fc2e035fd14c24364570f'],['learning-book-checks.json','37c3c7d96d754717713ba4ce67d1cdb5a6a4cca37f39bd6143820023d167df22']]){
+for(const [name,hash] of [['passage-study.json','430b1a6378d13fca72773e2eac0be1b51584bd7c492be263e08ba450b136264c'],['learning-book-checks.json','37c3c7d96d754717713ba4ce67d1cdb5a6a4cca37f39bd6143820023d167df22']]){
  assert.equal(createHash('sha256').update(fs.readFileSync('content/'+name)).digest('hex'),hash,'Historical bank must remain byte-identical: '+name);
 }
 const course=loadTheosophyCourse(),source=course.source;

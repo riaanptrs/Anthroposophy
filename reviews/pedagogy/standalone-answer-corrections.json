@@ -1,0 +1,650 @@
+[
+  {
+    "course": "foundations",
+    "id": 1,
+    "language": "en",
+    "question": "Which description best introduces Rudolf Steiner?",
+    "before": "Steiner’s work includes philosophy, spiritual teaching, education and the arts. Agriculture was one later field of activity.",
+    "after": "An Austrian philosopher, lecturer and educator who developed anthroposophy. Steiner’s work includes philosophy, spiritual teaching, education and the arts. Agriculture was one later field of activity.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 1,
+    "language": "pt",
+    "question": "Que descrição apresenta melhor Rudolf Steiner?",
+    "before": "A atuação de Steiner inclui filosofia, ensino espiritual, educação e artes. A agricultura foi um de seus campos posteriores de atividade.",
+    "after": "Um filósofo, conferencista e educador austríaco que desenvolveu a antroposofia. A atuação de Steiner inclui filosofia, ensino espiritual, educação e artes. A agricultura foi um de seus campos posteriores de atividade.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 2,
+    "language": "en",
+    "question": "Which statement best describes the scope introduced here?",
+    "before": "The proposed inquiry is broader than any educational method or classification. Applications need their own source context.",
+    "after": "Anthroposophy investigates humanity and the cosmos through a proposed spiritual account that can inform applications. The proposed inquiry is broader than any educational method or classification. Applications need their own source context.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 2,
+    "language": "pt",
+    "question": "Que afirmação descreve melhor o alcance apresentado aqui?",
+    "before": "A investigação proposta é mais ampla que qualquer método educativo ou classificação. Aplicações exigem seu próprio contexto de origem.",
+    "after": "Antroposofia investiga humanidade e cosmos por uma concepção espiritual proposta, que pode orientar aplicações. A investigação proposta é mais ampla que qualquer método educativo ou classificação. Aplicações exigem seu próprio contexto de origem.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 3,
+    "language": "en",
+    "question": "Which distinction is essential to the proposed method?",
+    "before": "The text distinguishes thoughtful understanding from the investigator’s claimed perception. Agreement is another question.",
+    "after": "A reader can understand an account while direct discovery requires the capacities Steiner describes. The text distinguishes thoughtful understanding from the investigator’s claimed perception. Agreement is another question.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 3,
+    "language": "pt",
+    "question": "Que distinção é essencial ao método proposto?",
+    "before": "O texto distingue compreensão atenta da percepção alegada pelo investigador. A concordância é outra questão.",
+    "after": "Um leitor pode compreender uma concepção enquanto a descoberta direta exige as capacidades descritas por Steiner. O texto distingue compreensão atenta da percepção alegada pelo investigador. A concordância é outra questão.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 4,
+    "language": "en",
+    "question": "What is supposed to develop in the selected comparison?",
+    "before": "The passage proposes organs of supersensible perception by analogy with bodily senses; it is not a description of extra physical anatomy.",
+    "after": "A capacity for soul and spiritual perception within the person. The passage proposes organs of supersensible perception by analogy with bodily senses; it is not a description of extra physical anatomy.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 4,
+    "language": "pt",
+    "question": "O que deve se desenvolver na comparação selecionada?",
+    "before": "O trecho propõe órgãos de percepção suprassensível por analogia com os sentidos corporais; não descreve anatomia física adicional.",
+    "after": "Uma capacidade de percepção anímica e espiritual na pessoa. O trecho propõe órgãos de percepção suprassensível por analogia com os sentidos corporais; não descreve anatomia física adicional.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 5,
+    "language": "en",
+    "question": "What belongs to soul in the two visits to the meadow?",
+    "before": "The joy is retained as personal experience. The flowers and the understood relationship have different connections with time and the observer.",
+    "after": "The observer’s remembered earlier joy. The joy is retained as personal experience. The flowers and the understood relationship have different connections with time and the observer.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 5,
+    "language": "pt",
+    "question": "O que pertence à alma nas duas visitas ao campo?",
+    "before": "A alegria é conservada como experiência pessoal. As flores e a relação compreendida têm diferentes relações com o tempo e com o observador.",
+    "after": "A alegria anterior lembrada pelo observador. A alegria é conservada como experiência pessoal. As flores e a relação compreendida têm diferentes relações com o tempo e com o observador.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 6,
+    "language": "en",
+    "question": "Which description most directly concerns the physical member?",
+    "before": "The tissues and heat transfer provide the material side. Personal feeling and deliberate response concern further aspects of the same encounter.",
+    "after": "The hand’s tissues and the physical transfer of heat. The tissues and heat transfer provide the material side. Personal feeling and deliberate response concern further aspects of the same encounter.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 6,
+    "language": "pt",
+    "question": "Que descrição trata mais diretamente do membro físico?",
+    "before": "Os tecidos e a transferência de calor oferecem o lado material. Sentimento pessoal e resposta deliberada tratam de outros aspectos do mesmo encontro.",
+    "after": "Os tecidos da mão e a transferência física de calor. Os tecidos e a transferência de calor oferecem o lado material. Sentimento pessoal e resposta deliberada tratam de outros aspectos do mesmo encontro.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 7,
+    "language": "en",
+    "question": "Which difference does the seedling/stone comparison introduce?",
+    "before": "The comparison introduces organized living development. The source’s qualification retains inorganic laws within the organism.",
+    "after": "Living formation is distinguished from a physical change alone. The comparison introduces organized living development. The source’s qualification retains inorganic laws within the organism.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 7,
+    "language": "pt",
+    "question": "Que diferença a comparação entre muda e pedra apresenta?",
+    "before": "A comparação apresenta desenvolvimento vivo organizado. A ressalva da fonte conserva as leis inorgânicas dentro do organismo.",
+    "after": "A formação viva se distingue de uma mudança física isolada. A comparação apresenta desenvolvimento vivo organizado. A ressalva da fonte conserva as leis inorgânicas dentro do organismo.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 8,
+    "language": "en",
+    "question": "Which terms are joined as astral body in the grouping discussed here?",
+    "before": "The grouping joins the sentient bodily organization with the soul’s experienced sensation. The other pairs answer different questions.",
+    "after": "Soul body and sentient soul. The grouping joins the sentient bodily organization with the soul’s experienced sensation. The other pairs answer different questions.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 8,
+    "language": "pt",
+    "question": "Que termos são reunidos como corpo astral no agrupamento estudado aqui?",
+    "before": "O agrupamento reúne a organização corporal senciente e a sensação vivenciada pela alma. Os outros pares respondem a perguntas diferentes.",
+    "after": "Corpo anímico e alma senciente. O agrupamento reúne a organização corporal senciente e a sensação vivenciada pela alma. Os outros pares respondem a perguntas diferentes.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 9,
+    "language": "en",
+    "question": "What does the selected spirit-self comparison locate within the I?",
+    "before": "The passage places sensation and spirit self within the I. Its surrounding discussion distinguishes their sources and the individuality receiving them.",
+    "after": "Both bodily sensation and the proposed spiritual revelation, from different directions. The passage places sensation and spirit self within the I. Its surrounding discussion distinguishes their sources and the individuality receiving them.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 9,
+    "language": "pt",
+    "question": "O que a comparação selecionada do si-mesmo espiritual situa no Eu?",
+    "before": "O trecho situa sensação e si-mesmo espiritual no Eu. A discussão ao redor distingue suas origens e a individualidade que os recebe.",
+    "after": "A sensação corporal e a revelação espiritual proposta, vindas de direções diferentes. O trecho situa sensação e si-mesmo espiritual no Eu. A discussão ao redor distingue suas origens e a individualidade que os recebe.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 10,
+    "language": "en",
+    "question": "How do feeling and willing differ in direction in this account?",
+    "before": "The chapter distinguishes receiving personal significance from directing activity toward the object. Both still require conceptual understanding.",
+    "after": "Feeling concerns an encounter’s relation to me; willing concerns my active relation toward it. The chapter distinguishes receiving personal significance from directing activity toward the object. Both still require conceptual understanding.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 10,
+    "language": "pt",
+    "question": "Como diferem as direções do sentir e do querer nessa concepção?",
+    "before": "O capítulo distingue receber um significado pessoal de dirigir atividade ao objeto. Ambos ainda exigem compreensão conceitual.",
+    "after": "Sentir trata da relação do encontro comigo; querer, de minha relação ativa com ele. O capítulo distingue receber um significado pessoal de dirigir atividade ao objeto. Ambos ainda exigem compreensão conceitual.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 11,
+    "language": "en",
+    "question": "Why does the first grouping reduce nine distinctions to seven groups?",
+    "before": "Joining two pairs reduces the group count by two while retaining the distinctions within each pair.",
+    "after": "Soul body/sentient soul and consciousness soul/spirit self are each taken as a unity. Joining two pairs reduces the group count by two while retaining the distinctions within each pair.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 11,
+    "language": "pt",
+    "question": "Por que o primeiro agrupamento reduz nove distinções a sete grupos?",
+    "before": "Reunir dois pares reduz em dois a quantidade de grupos, mantendo as distinções em cada par.",
+    "after": "Corpo anímico/alma senciente e alma da consciência/si-mesmo espiritual são tomados, cada par, como uma unidade. Reunir dois pares reduz em dois a quantidade de grupos, mantendo as distinções em cada par.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 12,
+    "language": "en",
+    "question": "What persists initially in the selected food example?",
+    "before": "The passage explicitly separates the continuing desire from the lost bodily organ. Purification concerns release from such dependence.",
+    "after": "A desire can remain after its bodily means of satisfaction are gone. The passage explicitly separates the continuing desire from the lost bodily organ. Purification concerns release from such dependence.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 12,
+    "language": "pt",
+    "question": "O que inicialmente permanece no exemplo selecionado da alimentação?",
+    "before": "O trecho separa explicitamente o desejo que permanece do órgão corporal perdido. Purificação trata da liberação dessa dependência.",
+    "after": "Um desejo pode permanecer depois de perder seus meios corporais de satisfação. O trecho separa explicitamente o desejo que permanece do órgão corporal perdido. Purificação trata da liberação dessa dependência.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 13,
+    "language": "en",
+    "question": "What does Steiner say carries the lasting fruits of earthly experience?",
+    "before": "His account makes the spiritual individuality the bearer of acquired fruits; bodily dependence and passing attachments have a different role.",
+    "after": "The enduring spiritual individuality His account makes the spiritual individuality the bearer of acquired fruits; bodily dependence and passing attachments have a different role.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 13,
+    "language": "pt",
+    "question": "O que, segundo Steiner, carrega os frutos duradouros da experiência terrestre?",
+    "before": "Seu relato apresenta a individualidade espiritual como portadora dos frutos adquiridos; a dependência corporal e os vínculos passageiros têm outro papel.",
+    "after": "A individualidade espiritual duradoura Seu relato apresenta a individualidade espiritual como portadora dos frutos adquiridos; a dependência corporal e os vínculos passageiros têm outro papel.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 14,
+    "language": "en",
+    "question": "What does “spiritual heredity” mean in this argument?",
+    "before": "Steiner proposes that the same individuality carries its own acquired fruits; he distinguishes this from bodily heredity.",
+    "after": "Receiving the fruits of one’s own spiritual history Steiner proposes that the same individuality carries its own acquired fruits; he distinguishes this from bodily heredity.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 14,
+    "language": "pt",
+    "question": "O que significa “hereditariedade espiritual” nesse argumento?",
+    "before": "Steiner propõe que a mesma individualidade carrega seus próprios frutos adquiridos; distingue isso da hereditariedade corporal.",
+    "after": "Receber os frutos da própria história espiritual Steiner propõe que a mesma individualidade carrega seus próprios frutos adquiridos; distingue isso da hereditariedade corporal.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 15,
+    "language": "en",
+    "question": "Which pair expresses the two consequences discussed here?",
+    "before": "The reading follows a deed both into its outward effects and into the capacities and dispositions left within its actor.",
+    "after": "Changed surroundings and changed capacities in the actor The reading follows a deed both into its outward effects and into the capacities and dispositions left within its actor.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 15,
+    "language": "pt",
+    "question": "Que par expressa as duas consequências discutidas aqui?",
+    "before": "A leitura acompanha um ato tanto em seus efeitos exteriores quanto nas capacidades e disposições deixadas em quem o realizou.",
+    "after": "Circunstâncias modificadas e capacidades modificadas em quem age A leitura acompanha um ato tanto em seus efeitos exteriores quanto nas capacidades e disposições deixadas em quem o realizou.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 16,
+    "language": "en",
+    "question": "What does the architect comparison principally explain?",
+    "before": "The architect carries improved ability into another design. Steiner extends that pattern to preparation between embodiments.",
+    "after": "How experience can enrich capacities and later work The architect carries improved ability into another design. Steiner extends that pattern to preparation between embodiments.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 16,
+    "language": "pt",
+    "question": "O que a comparação com o arquiteto explica principalmente?",
+    "before": "O arquiteto leva uma capacidade aprimorada para outro projeto. Steiner amplia esse padrão à preparação entre encarnações.",
+    "after": "Como a experiência pode enriquecer capacidades e trabalhos posteriores O arquiteto leva uma capacidade aprimorada para outro projeto. Steiner amplia esse padrão à preparação entre encarnações.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 17,
+    "language": "en",
+    "question": "What is sympathy in this technical account?",
+    "before": "The term describes a relation among soul formations. Everyday liking illustrates only part of its proposed meaning.",
+    "after": "A force seeking attraction and union The term describes a relation among soul formations. Everyday liking illustrates only part of its proposed meaning.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 17,
+    "language": "pt",
+    "question": "O que é simpatia nesse relato técnico?",
+    "before": "O termo descreve uma relação entre formações anímicas. O agrado cotidiano ilustra apenas parte de seu sentido proposto.",
+    "after": "Uma força que busca atração e união O termo descreve uma relação entre formações anímicas. O agrado cotidiano ilustra apenas parte de seu sentido proposto.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 18,
+    "language": "en",
+    "question": "Who are the “master builders” in the selected passage?",
+    "before": "The preceding text identifies archetypes as creative beings. The sentence depends on that antecedent.",
+    "after": "Living spiritual archetypes The preceding text identifies archetypes as creative beings. The sentence depends on that antecedent.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 18,
+    "language": "pt",
+    "question": "Quem são os “construtores” do trecho selecionado?",
+    "before": "O texto anterior identifica os arquétipos como seres criadores. A frase depende desse antecedente.",
+    "after": "Arquétipos espirituais vivos O texto anterior identifica os arquétipos como seres criadores. A frase depende desse antecedente.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 19,
+    "language": "en",
+    "question": "What does the selected passage associate with the Second and Third Hierarchies?",
+    "before": "The sentence summarises their manifestations through light and colour within the lecture’s spiritual evolution account.",
+    "after": "The Second with light and the Third with colour The sentence summarises their manifestations through light and colour within the lecture’s spiritual evolution account.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 19,
+    "language": "pt",
+    "question": "O que o trecho associa à Segunda e à Terceira Hierarquias?",
+    "before": "A frase resume suas manifestações pela luz e pela cor no relato da evolução espiritual da palestra.",
+    "after": "A Segunda à luz e a Terceira à cor A frase resume suas manifestações pela luz e pela cor no relato da evolução espiritual da palestra.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 20,
+    "language": "en",
+    "question": "What does “Old Moon” mean in this lesson?",
+    "before": "The stage names belong to a proposed sequence of world-existence. They are not interchangeable with present astronomical objects.",
+    "after": "A cosmic condition in Steiner’s spiritual evolution account The stage names belong to a proposed sequence of world-existence. They are not interchangeable with present astronomical objects.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 20,
+    "language": "pt",
+    "question": "O que significa “Antiga Lua” nesta lição?",
+    "before": "Os nomes dos estágios pertencem a uma sequência proposta da existência do mundo. Não são intercambiáveis com os objetos astronômicos atuais.",
+    "after": "Uma condição cósmica no relato de evolução espiritual de Steiner Os nomes dos estágios pertencem a uma sequência proposta da existência do mundo. Não são intercambiáveis com os objetos astronômicos atuais.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 21,
+    "language": "en",
+    "question": "Which description matches the distinction introduced here?",
+    "before": "The overview distinguishes the two proposed influences. It does not classify all art, technology or individual people under either name.",
+    "after": "Luciferic exaltation and ahrimanic hardening describe different directions The overview distinguishes the two proposed influences. It does not classify all art, technology or individual people under either name.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 21,
+    "language": "pt",
+    "question": "Que descrição corresponde à distinção apresentada aqui?",
+    "before": "O panorama distingue as duas influências propostas. Não classifica toda arte, tecnologia ou pessoa sob qualquer um desses nomes.",
+    "after": "Exaltação luciférica e endurecimento ahrimânico descrevem direções diferentes O panorama distingue as duas influências propostas. Não classifica toda arte, tecnologia ou pessoa sob qualquer um desses nomes.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 22,
+    "language": "en",
+    "question": "Why does the three-steps rule give priority to character?",
+    "before": "The surrounding text binds the pursuit of knowledge to dignity, freedom and the rejection of selfish advantage.",
+    "after": "To prevent knowledge becoming selfish power over others The surrounding text binds the pursuit of knowledge to dignity, freedom and the rejection of selfish advantage.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 22,
+    "language": "pt",
+    "question": "Por que a regra dos três passos dá prioridade ao caráter?",
+    "before": "O texto ao redor vincula a busca do conhecimento à dignidade, à liberdade e à rejeição da vantagem egoísta.",
+    "after": "Para impedir que o conhecimento se torne poder egoísta sobre os outros O texto ao redor vincula a busca do conhecimento à dignidade, à liberdade e à rejeição da vantagem egoísta.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 23,
+    "language": "en",
+    "question": "What distinguishes technical Imagination from ordinary fantasy in this account?",
+    "before": "Steiner intends a mode of perception, not merely a mental construction. The distinction explains his claim without verifying it.",
+    "after": "It names a claimed perception of living spiritual images Steiner intends a mode of perception, not merely a mental construction. The distinction explains his claim without verifying it.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 23,
+    "language": "pt",
+    "question": "O que distingue a Imaginação técnica da fantasia comum nesse relato?",
+    "before": "Steiner pretende um modo de percepção, não apenas uma construção mental. A distinção explica sua afirmação sem verificá-la.",
+    "after": "Nomeia uma percepção alegada de imagens espirituais vivas Steiner pretende um modo de percepção, não apenas uma construção mental. A distinção explica sua afirmação sem verificá-la.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 24,
+    "language": "en",
+    "question": "What relationship does the street-and-conversation comparison explain?",
+    "before": "Inspiration is compared with receiving the being’s own expression, beyond what its outward appearance shows.",
+    "after": "The difference between appearance and a being’s self-expression Inspiration is compared with receiving the being’s own expression, beyond what its outward appearance shows.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 24,
+    "language": "pt",
+    "question": "Que relação a comparação da rua e da conversa explica?",
+    "before": "A Inspiração é comparada a receber a expressão do próprio ser, além do que sua aparência exterior mostra.",
+    "after": "A diferença entre aparência e expressão de si de um ser A Inspiração é comparada a receber a expressão do próprio ser, além do que sua aparência exterior mostra.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 25,
+    "language": "en",
+    "question": "What distinguishes Intuition in the assigned Luke section?",
+    "before": "The lecture places participation beyond the images of Imagination and inward expression of Inspiration.",
+    "after": "Participating in a spiritual being through developed spiritual love The lecture places participation beyond the images of Imagination and inward expression of Inspiration.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 25,
+    "language": "pt",
+    "question": "O que distingue a Intuição na seção de Lucas?",
+    "before": "A palestra situa a participação além das imagens da Imaginação e da expressão interior da Inspiração.",
+    "after": "Participar de um ser espiritual pelo amor espiritual desenvolvido A palestra situa a participação além das imagens da Imaginação e da expressão interior da Inspiração.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 26,
+    "language": "en",
+    "question": "Which distinction correctly separates the three ethical capacities?",
+    "before": "The ethical idea, concrete form and actual means are related but different in Steiner’s argument.",
+    "after": "Intuition supplies ethical content; imagination forms an action; technique concerns its realization The ethical idea, concrete form and actual means are related but different in Steiner’s argument.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 26,
+    "language": "pt",
+    "question": "Que distinção separa corretamente as três capacidades éticas?",
+    "before": "Ideia ética, forma concreta e meios reais são relacionados, mas diferentes no argumento de Steiner.",
+    "after": "Intuição fornece conteúdo ético; imaginação forma uma ação; técnica envolve sua realização Ideia ética, forma concreta e meios reais são relacionados, mas diferentes no argumento de Steiner.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 27,
+    "language": "en",
+    "question": "What changes at the baptism in Steiner’s account?",
+    "before": "The baptism marks a distinct stage: Christ enters the human life prepared earlier.",
+    "after": "The Christ being enters the prepared Nathan Jesus The baptism marks a distinct stage: Christ enters the human life prepared earlier.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 27,
+    "language": "pt",
+    "question": "O que muda no batismo na explicação de Steiner?",
+    "before": "O batismo marca uma etapa distinta: Cristo entra na vida humana preparada anteriormente.",
+    "after": "O Ser de Cristo entra no Jesus natânico preparado O batismo marca uma etapa distinta: Cristo entra na vida humana preparada anteriormente.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 28,
+    "language": "en",
+    "question": "What does the selected conclusion connect?",
+    "before": "The conclusion presents spirit and love as acting toward transformation of Earth, not a guarantee about each outcome.",
+    "after": "Spiritual love with the gradual transformation of earthly existence The conclusion presents spirit and love as acting toward transformation of Earth, not a guarantee about each outcome.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 28,
+    "language": "pt",
+    "question": "O que a conclusão selecionada relaciona?",
+    "before": "A conclusão apresenta espírito e amor atuando na transformação da Terra, sem garantir cada resultado.",
+    "after": "Amor espiritual e transformação gradual da existência terrena A conclusão apresenta espírito e amor atuando na transformação da Terra, sem garantir cada resultado.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 29,
+    "language": "en",
+    "question": "Which statement preserves the distinctions in this overview?",
+    "before": "The roles differ; the account does not classify living groups or make Christ a third equivalent adversary.",
+    "after": "Christ has a distinct role in transforming different one-sided influences The roles differ; the account does not classify living groups or make Christ a third equivalent adversary.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 29,
+    "language": "pt",
+    "question": "Que afirmação preserva as distinções desta visão inicial?",
+    "before": "Os papéis diferem; a explicação não classifica grupos nem faz de Cristo um adversário equivalente.",
+    "after": "Cristo tem papel distinto na transformação de influências unilaterais diferentes Os papéis diferem; a explicação não classifica grupos nem faz de Cristo um adversário equivalente.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 30,
+    "language": "en",
+    "question": "Why do Diagram 1’s arrows matter?",
+    "before": "Shading indicates emphasis; the arrows preserve cooperation within the whole.",
+    "after": "They show two systems supporting the one receiving emphasis Shading indicates emphasis; the arrows preserve cooperation within the whole.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 30,
+    "language": "pt",
+    "question": "Por que as setas do Diagrama 1 importam?",
+    "before": "O sombreado indica ênfase; as setas preservam a cooperação do conjunto.",
+    "after": "Mostram dois sistemas apoiando aquele que recebe destaque O sombreado indica ênfase; as setas preservam a cooperação do conjunto.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 31,
+    "language": "en",
+    "question": "What does the drawing passage ask of the teacher?",
+    "before": "The passage emphasizes inventive teaching and the learner’s inward activity.",
+    "after": "Invent tasks that help learners imagine a fitting completion The passage emphasizes inventive teaching and the learner’s inward activity.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 31,
+    "language": "pt",
+    "question": "O que o trecho de desenho solicita do professor?",
+    "before": "O trecho enfatiza ensino inventivo e atividade interior do estudante.",
+    "after": "Inventar tarefas que ajudem a imaginar uma conclusão adequada O trecho enfatiza ensino inventivo e atividade interior do estudante.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 32,
+    "language": "en",
+    "question": "Which combination gives Courtney’s three defining features?",
+    "before": "He names a living individuality, work in relation to celestial rhythms, and specially made preparations. He particularly emphasizes the preparations.",
+    "after": "Farm/Earth as living, celestial relationships and preparations He names a living individuality, work in relation to celestial rhythms, and specially made preparations. He particularly emphasizes the preparations.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 32,
+    "language": "pt",
+    "question": "Qual conjunto apresenta as três características definidoras de Courtney?",
+    "before": "Ele nomeia a individualidade viva, o trabalho em relação aos ritmos celestes e os preparados especiais. Dá destaque particular aos preparados.",
+    "after": "Fazenda/Terra como vivas, relações celestes e preparados Ele nomeia a individualidade viva, o trabalho em relação aos ritmos celestes e os preparados especiais. Dá destaque particular aos preparados.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 33,
+    "language": "en",
+    "question": "What must remain visible when reading the iron discussion?",
+    "before": "The author acknowledges uncertainty before presenting iron claims; the warning does not verify those claims.",
+    "after": "Its therapeutic claims follow an admission of uncertainty The author acknowledges uncertainty before presenting iron claims; the warning does not verify those claims.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 33,
+    "language": "pt",
+    "question": "O que deve permanecer visível ao ler a discussão do ferro?",
+    "before": "O autor reconhece incerteza antes das afirmações sobre ferro; a advertência não as verifica.",
+    "after": "Suas afirmações terapêuticas vêm após admitir incerteza O autor reconhece incerteza antes das afirmações sobre ferro; a advertência não as verifica.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 34,
+    "language": "en",
+    "question": "What does colour perspective emphasize?",
+    "before": "The flat surface remains fixed while colour can produce experienced approach or recession.",
+    "after": "Experienced near and far through colours’ relationships The flat surface remains fixed while colour can produce experienced approach or recession.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 34,
+    "language": "pt",
+    "question": "O que a perspectiva da cor enfatiza?",
+    "before": "A superfície plana permanece fixa; a cor pode produzir avanço ou recuo vivenciados.",
+    "after": "Próximo e distante vivenciados pelas relações cromáticas A superfície plana permanece fixa; a cor pode produzir avanço ou recuo vivenciados.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 35,
+    "language": "en",
+    "question": "Which division of responsibilities matches the supplied preface?",
+    "before": "The preface differentiates responsibilities while insisting on cooperation. It explicitly places hours and conditions of labor in the rights sphere.",
+    "after": "Educators administer education; associations coordinate economic activity; equal rights include working hours and conditions The preface differentiates responsibilities while insisting on cooperation. It explicitly places hours and conditions of labor in the rights sphere.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 35,
+    "language": "pt",
+    "question": "Que divisão de responsabilidades corresponde ao prefácio fornecido?",
+    "before": "O prefácio distingue responsabilidades e insiste na cooperação. Ele situa expressamente as horas e condições de trabalho na esfera dos direitos.",
+    "after": "Educadores administram a educação; associações coordenam a atividade econômica; a igualdade nos direitos inclui horas e condições de trabalho O prefácio distingue responsabilidades e insiste na cooperação. Ele situa expressamente as horas e condições de trabalho na esfera dos direitos.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 36,
+    "language": "en",
+    "question": "What boundary does the selected GA 4 addition state?",
+    "before": "The philosophical foundation and the particular later descriptions are related without forming that automatic deduction.",
+    "after": "Later spiritual descriptions cannot be deduced from GA 4 alone The philosophical foundation and the particular later descriptions are related without forming that automatic deduction.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  },
+  {
+    "course": "foundations",
+    "id": 36,
+    "language": "pt",
+    "question": "Que limite a adição selecionada de GA 4 afirma?",
+    "before": "Fundamento filosófico e descrições posteriores se relacionam sem formar essa dedução automática.",
+    "after": "As descrições espirituais posteriores não podem ser deduzidas apenas de GA 4 Fundamento filosófico e descrições posteriores se relacionam sem formar essa dedução automática.",
+    "reason": "Restore the correct response previously left behind in the optional multiple-choice lesson; the new standalone answer must name it before explaining it."
+  }
+]

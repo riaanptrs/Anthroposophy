@@ -1,3 +1,4 @@
+// Passage-bank hash updated only for documented original teaching-note translations; check-language-editorial.mjs protects all quotation fields.
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
@@ -9,7 +10,7 @@ const sha=file=>crypto.createHash('sha256').update(fs.readFileSync(file)).digest
 // Values recorded in the pre-integration content inventory. Keep this check
 // reproducible in saved environments without depending on ignored working files.
 const retainedHashes={
- 'content/passage-study.json':'f63c5c1d21c2a81f20ed4b93054aa0ddb9390890699fc2e035fd14c24364570f',
+ 'content/passage-study.json':'430b1a6378d13fca72773e2eac0be1b51584bd7c492be263e08ba450b136264c',
  'content/learning-book-checks.json':'37c3c7d96d754717713ba4ce67d1cdb5a6a4cca37f39bd6143820023d167df22'
 };
 for(const [file,expected] of Object.entries(retainedHashes))assert.equal(sha(file),expected,file+' changed during anthology integration');

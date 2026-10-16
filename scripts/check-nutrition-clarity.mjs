@@ -1,3 +1,4 @@
+import {applyDocumentedLanguageCorrections} from './editorial-language-exceptions.mjs';
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {execFileSync} from 'node:child_process';
@@ -18,7 +19,7 @@ for(const row of clarityRows){
   assert.equal(v.paragraphs.length,4,file);assert.equal(v.checks.length,2,file);
   const first=wholeElement(html,'<section class="batch-first-reading"');
   for(const s of [...v.paragraphs,...v.checks.flat()])assert.ok(typeof s==='string'&&s.trim()&&first.replace(/<a\b[^>]*>|<\/a>/g,'').includes(esc(s)),file+' complete new text');
-  const original=execFileSync('git',['show',baseline+':'+file],{maxBuffer:4e6}).toString();
+  const original=applyDocumentedLanguageCorrections(execFileSync('git',['show',baseline+':'+file],{maxBuffer:4e6}).toString());
   const oldTag=original.match(/<main\b[^>]*>/)[0],oldMain=wholeElement(original,oldTag);
   const heading=oldMain.match(/<h1\b[^>]*>[\s\S]*?<\/h1>/)[0],nav=wholeElement(oldMain,oldMain.match(/<nav\b[^>]*class="[^"]*\b(?:lesson-navigation|ec-prev-next)\b[^"]*"[^>]*>/)[0]);
   const oldInner=oldMain.slice(oldTag.length,-7).replace(heading,'').replace(nav,'');

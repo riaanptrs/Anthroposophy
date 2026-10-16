@@ -281,7 +281,7 @@ Compare two dated sowing records and circle everything that differed besides lun
 
 **Which relationship is actually distinguished in Lecture 1?**
 
-Moon influence is related to water, while distant-planet influences through silica are related to warmth. The source differentiates mediators and formative roles rather than supply the later complete day-category system.
+Moon influence is related to water, while distant-planet influences through silica are related to warmth. The source differentiates mediators and formative roles rather than supplying the later complete day-category system.
 
 **What should a record contain before someone interprets different germination as a lunar-date effect?**
 

@@ -1,5 +1,5 @@
 {
-  "status": "prepublication-scan-complete-editorial-triage-in-progress",
+  "status": "editorial-triage-complete",
   "pages": 1587,
   "uniqueBlocks": 58511,
   "tokensChecked": 1141755,
@@ -14,11 +14,11 @@
     "Quotation identity and source fidelity require source witnesses.",
     "A clean automated scan cannot establish comprehension or perfect translation."
   ],
-  "unclassifiedDictionaryFlags": 4073,
+  "unclassifiedDictionaryFlags": 0,
   "reviewedCorrections": [
     "Restored missing spaces in eight English catalogue source summaries.",
     "Corrected Portuguese Foodwise terminology and meaning omissions, Waldorf wording and an Esoteric Christianity comparison; see final audit and commit history."
   ],
   "publication": "Draft PR #1; not merged or deployed.",
-  "remaining": "Comprehensive final spelling, grammar, comprehension and translation QA remains pending; this automated scan is not that editorial sign-off."
+  "remaining": "Final postpublication pass pending; see LANGUAGE-EDITORIAL-REVIEW.md for substantive review scope and limits."
 }
