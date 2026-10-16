@@ -125,3 +125,5 @@ const {buildRemainingClarity}=await import('./build-remaining-clarity.mjs');
 buildRemainingClarity();
 const {buildTemperamentsClarity}=await import('./build-temperaments-clarity.mjs');
 buildTemperamentsClarity();
+const {buildFoundationsClarity}=await import('./build-foundations-clarity.mjs');
+buildFoundationsClarity();

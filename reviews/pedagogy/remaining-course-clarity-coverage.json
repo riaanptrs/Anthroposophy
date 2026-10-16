@@ -114,12 +114,12 @@
     "portugueseRoutes": 36,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
-    "newClarityStatus": "pending",
-    "newClarityUnits": 0,
-    "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "pending; existing attributions inherited",
+    "newClarityStatus": "completed",
+    "newClarityUnits": 36,
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "Existing derived explanations and source records retained; no fresh original-book comparison",
     "newClarityDraftUnits": 36,
-    "newClarityDraftStatus": "Saved checkpoint; not integrated or validated; paused for temperament priority"
+    "newClarityDraftStatus": "Checkpoint integrated and validated in the 73-unit batch"
   },
   {
     "course": "higher-worlds",
@@ -146,10 +146,10 @@
     "portugueseRoutes": 28,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
-    "newClarityStatus": "pending",
-    "newClarityUnits": 0,
-    "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "pending; existing attributions inherited"
+    "newClarityStatus": "completed",
+    "newClarityUnits": 28,
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "Existing derived explanations and source records retained; no fresh original-book comparison"
   },
   {
     "course": "learn/esoteric-christianity",
@@ -176,10 +176,10 @@
     "portugueseRoutes": 9,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
-    "newClarityStatus": "pending",
-    "newClarityUnits": 0,
-    "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "pending; existing attributions inherited"
+    "newClarityStatus": "completed",
+    "newClarityUnits": 9,
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "Existing derived explanations and source records retained; no fresh original-book comparison"
   },
   {
     "course": "mystery-temperaments",

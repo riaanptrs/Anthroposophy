@@ -38,5 +38,5 @@ for(const lang of ['en','pt']){
  for(const marker of ['id="practical-guide"','19190821d01.html','GA015_c03.html','Gilbert Childs','The Mystery of Temperaments'])assert.ok(guide.includes(marker));
  assert.equal((wholeElement(guide,'<section id="practical-guide"').match(/<tr>/g)||[]).length,5,'Same situation comparison: header plus four portraits');
 }
-assert.equal(JSON.parse(fs.readFileSync('content/foundations-introduction-clear-lessons.json')).length,36,'Earlier draft checkpoint retained');
+assert.equal(JSON.parse(fs.readFileSync('content/foundations-introduction-clear-lessons.json')).filter(r=>r.course==='foundations').length,36,'Earlier draft checkpoint retained');
 console.log('Passed: 23 bilingual first readings, 46 retained complete original bodies, contextual corrections on all 102 family lesson pages, 56 book-companion pages otherwise unchanged, four-portrait comparison and source/birth distinctions.');
