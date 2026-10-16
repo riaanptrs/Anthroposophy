@@ -11,12 +11,13 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 12,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
     "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
     "priorAuditRewritten": 12,
-    "priorAuditRetained": 0
+    "priorAuditRetained": 0,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "agriculture",
@@ -30,13 +31,14 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 18,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Blocked for original witnesses; existing derived explanations retained. FDA/EPA practical guidance reviewed separately.",
     "newClarityComposition": "New opening and practical bridge, selected existing explanation and revised optional questions; full original retained as depth",
     "validated": true,
     "sourceBlocked": true,
     "priorAuditRewritten": 18,
-    "priorAuditRetained": 0
+    "priorAuditRetained": 0,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "ancient-myths",
@@ -50,12 +52,13 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 8,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
     "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
     "priorAuditRewritten": 8,
-    "priorAuditRetained": 0
+    "priorAuditRetained": 0,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "biodynamics",
@@ -69,13 +72,14 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 24,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Blocked for original witnesses; existing derived explanations retained. FDA/EPA practical guidance reviewed separately.",
     "newClarityComposition": "New opening and practical bridge, selected existing explanation and revised optional questions; full original retained as depth",
     "validated": true,
     "sourceBlocked": true,
     "priorAuditRewritten": 24,
-    "priorAuditRetained": 0
+    "priorAuditRetained": 0,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "colour",
@@ -89,12 +93,13 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 14,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
     "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
     "priorAuditRewritten": 14,
-    "priorAuditRetained": 0
+    "priorAuditRetained": 0,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "encountering-the-self",
@@ -108,12 +113,13 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 17,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
     "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
     "priorAuditRewritten": 17,
-    "priorAuditRetained": 0
+    "priorAuditRetained": 0,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "foodwise",
@@ -127,13 +133,14 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 39,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "pending; existing attributions inherited",
     "priorAuditRewritten": 7,
     "priorAuditRetained": 32,
     "validated": true,
     "newClarityComposition": "39 direct readings reviewed; 26 generic activities replaced, translation/terminology corrected, 23 ingredient profiles and three untested recipes reviewed.",
-    "sourceBlocked": true
+    "sourceBlocked": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "foundations",
@@ -147,13 +154,14 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 36,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Existing derived explanations and source records retained; no fresh original-book comparison",
     "newClarityDraftUnits": 36,
     "newClarityDraftStatus": "Checkpoint integrated and validated in the 73-unit batch",
     "priorAuditRewritten": 36,
     "priorAuditRetained": 0,
-    "validated": true
+    "validated": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "higher-worlds",
@@ -167,11 +175,12 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 19,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "blocked for fresh original-source comparison; existing derived teaching and attributions retained",
     "priorAuditRewritten": 5,
     "priorAuditRetained": 14,
-    "validated": true
+    "validated": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "introduction-to-anthroposophy",
@@ -185,11 +194,12 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 28,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Existing derived explanations and source records retained; no fresh original-book comparison",
     "priorAuditRewritten": 28,
     "priorAuditRetained": 0,
-    "validated": true
+    "validated": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "learn/esoteric-christianity",
@@ -203,12 +213,13 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 24,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
     "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
     "priorAuditRewritten": 24,
-    "priorAuditRetained": 0
+    "priorAuditRetained": 0,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "meditation",
@@ -222,11 +233,12 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 9,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Existing derived explanations and source records retained; no fresh original-book comparison",
     "priorAuditRewritten": 9,
     "priorAuditRetained": 0,
-    "validated": true
+    "validated": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "mystery-temperaments",
@@ -240,14 +252,15 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 15,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Fresh original-book comparison pending; retained local teaching reviewed.",
     "contextCorrectedUnits": 15,
     "priorAuditRewritten": 3,
     "priorAuditRetained": 12,
     "validated": true,
     "newClarityComposition": "Short bilingual readings with original everyday comparisons, selected retained explanation and optional explained answers; full earlier teaching preserved.",
-    "sourceBlocked": true
+    "sourceBlocked": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "nutrition",
@@ -261,13 +274,14 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 18,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Fresh original-book comparison pending; retained local teaching reviewed.",
     "priorAuditRewritten": 0,
     "priorAuditRetained": 18,
     "validated": true,
     "newClarityComposition": "Short bilingual readings with original everyday comparisons, selected retained explanation and optional explained answers; full earlier teaching preserved.",
-    "sourceBlocked": true
+    "sourceBlocked": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "philosophy-of-freedom",
@@ -281,11 +295,12 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 22,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "pending; existing attributions inherited",
     "priorAuditRewritten": 22,
     "priorAuditRetained": 0,
-    "validated": true
+    "validated": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "practical-thinking",
@@ -299,11 +314,12 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 13,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "blocked for fresh original-source comparison; existing derived teaching and attributions retained",
     "priorAuditRewritten": 13,
     "priorAuditRetained": 0,
-    "validated": true
+    "validated": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "temperaments",
@@ -317,11 +333,12 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 11,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Selected online GA 57/GA 295/GA 15 passages checked; missing original Childs/Mystery witnesses remain unverified",
     "priorAuditRewritten": 2,
     "priorAuditRetained": 9,
-    "validated": true
+    "validated": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "theosophy",
@@ -335,11 +352,12 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 24,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "pending; existing attributions inherited",
     "priorAuditRewritten": 24,
     "priorAuditRetained": 0,
-    "validated": true
+    "validated": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "theosophy-reading",
@@ -353,11 +371,12 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 28,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "blocked for fresh original-source comparison; existing derived teaching and attributions retained",
     "priorAuditRewritten": 3,
     "priorAuditRetained": 25,
-    "validated": true
+    "validated": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "toward-threefold-society",
@@ -371,12 +390,13 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 7,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
     "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
     "priorAuditRewritten": 7,
-    "priorAuditRetained": 0
+    "priorAuditRetained": 0,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "understand-temperament",
@@ -390,14 +410,15 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 13,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Fresh original-book comparison pending; retained local teaching reviewed.",
     "contextCorrectedUnits": 13,
     "priorAuditRewritten": 2,
     "priorAuditRetained": 11,
     "validated": true,
     "newClarityComposition": "Short bilingual readings with original everyday comparisons, selected retained explanation and optional explained answers; full earlier teaching preserved.",
-    "sourceBlocked": true
+    "sourceBlocked": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "understanding-temperaments",
@@ -411,11 +432,12 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 12,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Selected online GA 57/GA 295/GA 15 passages checked; missing original Childs/Mystery witnesses remain unverified",
     "priorAuditRewritten": 1,
     "priorAuditRetained": 11,
-    "validated": true
+    "validated": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "waldorf",
@@ -429,13 +451,14 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 62,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "pending; existing attributions inherited",
     "priorAuditRewritten": 62,
     "priorAuditRetained": 0,
     "validated": true,
     "newClarityComposition": "62 substantive bilingual readings retained after review; four PT wording corrections, status count corrected, regeneration guard added; 36 support routes separately reviewed.",
-    "sourceBlocked": true
+    "sourceBlocked": true,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   },
   {
     "course": "what-is-biodynamics",
@@ -449,12 +472,13 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 14,
-    "publicationStatus": "local review branch; unpublished",
+    "publicationStatus": "Published in 4376130; postpublication language refinement tracked in follow-up review",
     "sourceReverification": "Blocked for original witnesses; existing derived explanations retained. FDA/EPA practical guidance reviewed separately.",
     "newClarityComposition": "New opening and practical bridge, selected existing explanation and revised optional questions; full original retained as depth",
     "validated": true,
     "sourceBlocked": true,
     "priorAuditRewritten": 14,
-    "priorAuditRetained": 0
+    "priorAuditRetained": 0,
+    "languageReview": "Completed layered bilingual editorial pass; see LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json for measured scope and limitations."
   }
 ]

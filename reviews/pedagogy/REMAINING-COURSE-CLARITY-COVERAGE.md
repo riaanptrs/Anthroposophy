@@ -33,4 +33,4 @@ Waldorf’s 36 support routes (72 language pages), Foodwise’s 23 ingredient pr
 
 Source-blocked chapters remain teachable from retained material. Fresh original-witness verification is explicitly pending where unavailable; consult source-availability.json, temperament-source-access.json and the chapter ledgers for exact materials and limitations. No unavailable book was represented as newly inspected.
 
-Publication is not yet performed. The requested whole-site language QA after initial publication remains a separate pending step.
+Initial publication succeeded at `437613039b6fd2f0d92a6a6daa902818697576b8`. The prepublication editorial review and final postpublication pass are documented in LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json. The follow-up publication records the final Nutrition wording refinement.
