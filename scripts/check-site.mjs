@@ -385,7 +385,7 @@ for(const prefix of ['', 'pt/'])for(const route of ['index.html','sources.html',
 
 // Nutrition has eighteen teaching counterparts and translated support routes.
 const nutritionCourse=JSON.parse(fs.readFileSync('content/nutrition/course.json','utf8'));
-for(const prefix of ['', 'pt/'])for(const route of ['index.html','print.html','sources.html',...Array.from({length:nutritionCourse.lessons.length+2},(_,i)=>String(i).padStart(2,'0')+'.html')])expectedRoutes.add(prefix+'nutrition/'+route);
+for(const prefix of ['', 'pt/'])for(const route of ['index.html','print.html','first-readings.html','sources.html',...Array.from({length:nutritionCourse.lessons.length+2},(_,i)=>String(i).padStart(2,'0')+'.html')])expectedRoutes.add(prefix+'nutrition/'+route);
 expectedRoutes.add('nutrition/teacher-plans.html');
 for(const route of platformRoutes)expectedRoutes.add(route);
 for(const prefix of ['', 'pt/']){

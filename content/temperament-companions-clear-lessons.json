@@ -1,0 +1,1626 @@
+[
+  {
+    "course": "understand-temperament",
+    "id": 0,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "A second author, a broader application",
+      "goal": "Read Childs alongside Steiner while keeping their voices distinct.",
+      "paragraphs": [
+        "One reader treats a description of a reliable worker as a useful question. Another decides that every quiet person must suit the same job.",
+        "Gilbert Childs’s guide develops the four temperaments through personality, psychological classifications, four portraits, work, partnerships and a spiritual account. It has nine chapters and two appendices. Childs promises accurate classification and prediction, and links temperament to bodily constitution and appearance. The course teaches these as his claims while distinguishing its own practical exercises. The epigraph on heredity and previous lives is credited to Rudolf Steiner; the book’s chapter arguments belong to Childs.",
+        "The first can ask about actual experience; the second has turned a portrait into a decision rule. Our aim is better understanding of people, including ourselves.",
+        "Two authors can use the same four names while asking different questions. Childs extends the scheme into work, relationships and bodily hypotheses. Keeping those extensions attributed makes comparison possible: agreement in vocabulary does not mean Steiner made every later claim. A practical response can be useful while its proposed explanation remains uncertain."
+      ],
+      "checks": [
+        [
+          "Who wrote the chapter arguments, and whose voice is the intermediary epigraph?",
+          "Gilbert Childs wrote the book. The epigraph about heredity and previous earthly lives is explicitly credited to Rudolf Steiner."
+        ],
+        [
+          "Does shared vocabulary make every later claim Steiner’s?",
+          "Two authors can use the same four names while asking different questions. Childs extends the scheme into work, relationships and bodily hypotheses. Keeping those extensions attributed makes comparison possible: agreement in vocabulary does not mean Steiner made every later claim. A practical response can be useful while its proposed explanation remains uncertain."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Um segundo autor, aplicações mais amplas",
+      "goal": "Leia Childs ao lado de Steiner, distinguindo suas vozes.",
+      "paragraphs": [
+        "Uma pessoa trata a descrição de um trabalhador confiável como uma pergunta útil. Outra decide que toda pessoa quieta deve servir ao mesmo emprego.",
+        "O guia de Gilbert Childs desenvolve os quatro temperamentos por personalidade, classificações psicológicas, quatro retratos, trabalho, relações e uma explicação espiritual. Tem nove capítulos e dois apêndices. Childs promete classificação e previsão precisas e relaciona o temperamento à constituição e à aparência corporais. O curso ensina isso como afirmações do autor, distinguindo seus próprios exercícios práticos. A epígrafe sobre hereditariedade e vidas anteriores é atribuída a Rudolf Steiner; os argumentos dos capítulos pertencem a Childs.",
+        "A primeira pode perguntar pela experiência concreta; a segunda transforma um retrato em regra de decisão. Buscamos compreender melhor as pessoas, inclusive nós mesmos.",
+        "Dois autores podem usar os mesmos quatro nomes e fazer perguntas diferentes. Childs amplia o esquema para trabalho, relações e hipóteses corporais. Manter a atribuição dessas ampliações permite comparar: concordar no vocabulário não significa que Steiner tenha feito todas as afirmações posteriores. Uma resposta prática pode ser útil mesmo quando sua explicação proposta permanece incerta."
+      ],
+      "checks": [
+        [
+          "Quem escreveu os argumentos dos capítulos, e de quem é a voz da epígrafe sobre o intermediário?",
+          "Gilbert Childs escreveu o livro. A epígrafe sobre hereditariedade e vidas terrenas anteriores é expressamente atribuída a Rudolf Steiner."
+        ],
+        [
+          "Um vocabulário compartilhado torna toda afirmação posterior uma afirmação de Steiner?",
+          "Dois autores podem usar os mesmos quatro nomes e fazer perguntas diferentes. Childs amplia o esquema para trabalho, relações e hipóteses corporais. Manter a atribuição dessas ampliações permite comparar: concordar no vocabulário não significa que Steiner tenha feito todas as afirmações posteriores. Uma resposta prática pode ser útil mesmo quando sua explicação proposta permanece incerta."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 1,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Chapter 1: the same, only different",
+      "goal": "Distinguish a recurring tendency from the way a person uses it.",
+      "paragraphs": [
+        "Two people act quickly. One checks who will be affected before volunteering; the other promises on everyone’s behalf. Speed alone does not tell us the quality of their choices.",
+        "Childs treats temperament as basic tendencies dealt at birth like cards, individuality as the way the cards are played, personality as expressed in deeds and outlook, and character as habitual characteristic responses rather than moral respectability in this distinction. His historical table joins four temperaments with elements and humours. None is best: all four occur in unequal proportions. Yet he also claims visible bodily constitution and reliable prediction, and supplies an attention/perseverance chart as a clue.",
+        "The same broad tendency can be expressed differently. Observe the action and its circumstances before praising or blaming a type.",
+        "A person may sustain attention while repairing something and lose patience during a meeting. Describe both situations before deciding that one trait explains the person. Childs’s distinction between shared tendencies and individual use invites us to look for how a quality operates, rather than replace a person’s history with a category."
+      ],
+      "checks": [
+        [
+          "How do the cards distinguish temperament from individuality?",
+          "Temperament supplies basic tendencies at birth; individuality concerns their use. Personality is expressed in actual deeds, so a shared tendency does not determine the quality of an action."
+        ],
+        [
+          "Why compare the repair task and the meeting before assigning a label?",
+          "A person may sustain attention while repairing something and lose patience during a meeting. Describe both situations before deciding that one trait explains the person. Childs’s distinction between shared tendencies and individual use invites us to look for how a quality operates, rather than replace a person’s history with a category."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Capítulo 1: iguais, mas diferentes",
+      "goal": "Distinga uma tendência recorrente do modo como alguém a utiliza.",
+      "paragraphs": [
+        "Duas pessoas agem depressa. Uma verifica quem será afetado antes de se oferecer; outra promete em nome de todos. A rapidez não informa, sozinha, a qualidade das escolhas.",
+        "Childs trata o temperamento como tendências básicas distribuídas ao nascer como cartas, a individualidade como o modo de jogá-las, a personalidade como expressa em atos e perspectivas e o caráter como respostas características habituais, em vez de respeitabilidade moral nessa distinção. Seu quadro histórico reúne quatro temperamentos, elementos e humores. Nenhum é o melhor: os quatro aparecem em proporções desiguais. Ainda assim, ele também afirma uma constituição corporal visível e uma previsão confiável e oferece um diagrama de atenção/perseverança como indício.",
+        "Uma tendência ampla pode se expressar de modos diferentes. Observe a ação e suas circunstâncias antes de elogiar ou culpar um tipo.",
+        "Uma pessoa pode manter a atenção ao consertar algo e perder a paciência numa reunião. Descreva as duas situações antes de decidir que um traço explica a pessoa. A distinção de Childs entre tendências compartilhadas e uso individual convida a observar como uma qualidade atua, em vez de substituir a história da pessoa por uma categoria."
+      ],
+      "checks": [
+        [
+          "Como as cartas distinguem o temperamento da individualidade?",
+          "O temperamento oferece tendências básicas ao nascer; a individualidade trata de seu uso. A personalidade se expressa em atos efetivos, portanto uma tendência compartilhada não determina a qualidade de uma ação."
+        ],
+        [
+          "Por que comparar o conserto e a reunião antes de atribuir um rótulo?",
+          "Uma pessoa pode manter a atenção ao consertar algo e perder a paciência numa reunião. Descreva as duas situações antes de decidir que um traço explica a pessoa. A distinção de Childs entre tendências compartilhadas e uso individual convida a observar como uma qualidade atua, em vez de substituir a história da pessoa por uma categoria."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 2,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Chapter 2: reading the psychological map",
+      "goal": "Separate the axes Childs combines and examine what each is meant to explain.",
+      "paragraphs": [
+        "A quiet learner proposes many possible designs, then carefully evaluates one. Another enjoys groups but prefers a known procedure.",
+        "Childs joins three classifications: phlegmatic and melancholic are introvert/reflective and convergent; choleric and sanguine are extrovert/active and divergent. Phlegmatic and sanguine are stable, choleric and melancholic unstable. Stable sanguinity means a consistent pattern of changeability. His combined table associates introverts with personality difficulties and extroverts with behavioural difficulties. He then develops polarities, child guidance and age overlays. The course reads these as linked authorial claims, not interchangeable measurements of intelligence or mental health.",
+        "The quiet designer generates alternatives during one stage and narrows them against criteria during another. Quietness describes outward participation; generating and narrowing describe operations of thought. In Childs’s map, stability is a third question: whether a characteristic pattern persists. A repeatedly changing focus can therefore be stable in his special use of that word. It need not mean dependable completion or calm feeling. Keeping these questions separate lets us reconstruct his combined table without assuming that one observed behaviour measures all three axes.",
+        "Quiet participation does not tell us whether someone is generating many possibilities or concentrating on one. Those are different questions. Ask what the person is doing and what conditions help them contribute; do not let a single visible behaviour stand in for every psychological axis. Childs’s technical use of stable also needs its own definition."
+      ],
+      "checks": [
+        [
+          "How does the source classify the melancholic and the sanguine across the three axes?",
+          "Melancholic is introvert/reflective, convergent and unstable. Sanguine is extrovert/active, divergent and stable."
+        ],
+        [
+          "Does quiet participation reveal every psychological axis?",
+          "Quiet participation does not tell us whether someone is generating many possibilities or concentrating on one. Those are different questions. Ask what the person is doing and what conditions help them contribute; do not let a single visible behaviour stand in for every psychological axis. Childs’s technical use of stable also needs its own definition."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Capítulo 2: ler o mapa psicológico",
+      "goal": "Separe os eixos combinados por Childs e examine o que cada um pretende explicar.",
+      "paragraphs": [
+        "Uma pessoa quieta propõe muitos desenhos e depois avalia um com cuidado. Outra gosta de grupos, mas prefere um procedimento conhecido.",
+        "Childs reúne três classificações: fleumático e melancólico são introvertidos/reflexivos e convergentes; colérico e sanguíneo são extrovertidos/ativos e divergentes. Fleumático e sanguíneo são estáveis, colérico e melancólico instáveis. A estabilidade sanguínea significa um padrão constante de variabilidade. Seu quadro combinado associa introvertidos a dificuldades de personalidade e extrovertidos a dificuldades comportamentais. Depois, desenvolve polaridades, orientação infantil e tonalidades por idade. O curso lê isso como afirmações relacionadas do autor, não medidas intercambiáveis de inteligência ou saúde mental.",
+        "A pessoa quieta gera alternativas numa etapa e as reduz segundo critérios em outra. A quietude descreve a participação exterior; gerar e selecionar descrevem operações do pensar. No mapa de Childs, estabilidade é uma terceira questão: se um padrão característico persiste. Um foco que muda repetidamente pode, portanto, ser estável nesse uso específico da palavra. Isso não precisa significar conclusão confiável de tarefas nem tranquilidade emocional. Separar as perguntas permite reconstruir sua tabela combinada sem presumir que um comportamento observado meça os três eixos.",
+        "Participar em silêncio não revela se alguém está gerando muitas possibilidades ou se concentrando em uma. São perguntas diferentes. Observe o que a pessoa faz e quais condições favorecem sua contribuição; não deixe que um comportamento visível substitua todos os eixos psicológicos. O uso técnico de estável em Childs também exige definição própria."
+      ],
+      "checks": [
+        [
+          "Como a fonte classifica melancólico e sanguíneo nos três eixos?",
+          "Melancólico é introvertido/reflexivo, convergente e instável. Sanguíneo é extrovertido/ativo, divergente e estável."
+        ],
+        [
+          "A participação silenciosa revela todos os eixos psicológicos?",
+          "Participar em silêncio não revela se alguém está gerando muitas possibilidades ou se concentrando em uma. São perguntas diferentes. Observe o que a pessoa faz e quais condições favorecem sua contribuição; não deixe que um comportamento visível substitua todos os eixos psicológicos. O uso técnico de estável em Childs também exige definição própria."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 3,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Chapter 3: initiative, determination and correction",
+      "goal": "Explore how purposeful energy can make room for feedback.",
+      "paragraphs": [
+        "A project leader has organized a repair efficiently but overlooked an unstable support. A colleague names the specific problem and suggests a joint check.",
+        "Childs’s choleric portrait centres on strength of will: courage, initiative, perseverance, enterprise and practical leadership, alongside obstinacy, impatience and insistence on one’s own way. He predicts particular sensitivity to criticism and possible rage or despondency when pride is wounded. His handling rules are to let the person work, offer practical labour, keep advice until requested, appreciate real effort and avoid flattery. Our feedback agreement adds a way to name and check an actual error.",
+        "Recognizing the useful preparation does not require concealing the defect. Competence includes the ability to revise a plan.",
+        "A capable organizer who makes a mistake can acknowledge it and repair the plan. Respect for competence need not depend on pretending to be infallible. In this course adaptation, the useful response joins a clear task with room for correction; neither humiliation nor withholding needed help is required to cultivate persistence."
+      ],
+      "checks": [
+        [
+          "What positive and difficult expressions arise from will in the portrait?",
+          "Courage, initiative, perseverance and enterprise can support useful leadership; the same determination can become obstinacy, impatience and insistence on one’s own way."
+        ],
+        [
+          "Can acknowledging a mistake be compatible with competence?",
+          "A capable organizer who makes a mistake can acknowledge it and repair the plan. Respect for competence need not depend on pretending to be infallible. In this course adaptation, the useful response joins a clear task with room for correction; neither humiliation nor withholding needed help is required to cultivate persistence."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Capítulo 3: iniciativa, determinação e correção",
+      "goal": "Explore como a energia dirigida pode acolher uma avaliação.",
+      "paragraphs": [
+        "Uma pessoa organizou um conserto com eficiência, mas não percebeu um apoio instável. Uma colega nomeia o problema específico e propõe conferir juntas.",
+        "O retrato colérico de Childs se concentra na força de vontade: coragem, iniciativa, perseverança, empreendimento e liderança prática, junto de obstinação, impaciência e insistência na própria maneira. Ele prevê sensibilidade particular à crítica e possível raiva ou abatimento quando o orgulho é ferido. Suas regras de trato são deixar a pessoa trabalhar, oferecer ajuda prática, reservar os conselhos até que sejam pedidos, apreciar o esforço real e evitar a bajulação. Nosso acordo de revisão acrescenta uma forma de nomear e conferir um erro efetivo.",
+        "Reconhecer a preparação útil não exige esconder o defeito. A competência inclui a capacidade de revisar um plano.",
+        "Uma pessoa competente na organização pode reconhecer um erro e corrigir o plano. Respeitar a competência não exige fingir infalibilidade. Nesta adaptação do curso, a resposta útil combina uma tarefa clara com espaço para correção; nem humilhação nem recusa de ajuda necessária são exigidas para cultivar persistência."
+      ],
+      "checks": [
+        [
+          "Que expressões positivas e difíceis surgem da vontade no retrato?",
+          "Coragem, iniciativa, perseverança e empreendimento podem apoiar uma liderança útil; a mesma determinação pode se tornar obstinação, impaciência e insistência na própria maneira."
+        ],
+        [
+          "Reconhecer um erro pode ser compatível com a competência?",
+          "Uma pessoa competente na organização pode reconhecer um erro e corrigir o plano. Respeitar a competência não exige fingir infalibilidade. Nesta adaptação do curso, a resposta útil combina uma tarefa clara com espaço para correção; nem humilhação nem recusa de ajuda necessária são exigidas para cultivar persistência."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 4,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Chapter 4: enthusiasm, change and following through",
+      "goal": "Explain how Childs links sanguine responsiveness with both social strengths and difficulty sustaining work.",
+      "paragraphs": [
+        "Someone proposes a lively community event and immediately begins discussing the next idea. A friend asks which one task they are willing to finish this week.",
+        "Childs uses Air and levity to organize the sanguine portrait: quick movement, lively perception, sociability, imagination and an appetite for novelty. The same susceptibility to fresh impressions makes attention changeable and projects difficult to finish. He praises intuition, criticism, optimism and resilience, yet claims weak memory and concentration impede sustained study. Social surroundings and admired people strongly influence this imitative temperament.",
+        "The response keeps the energy of invention while clarifying responsibility. It does not assume that imaginative people cannot follow through.",
+        "Enthusiasm becomes useful to a group when someone chooses a manageable next step and completes it. A lively participant might agree to prepare one invitation before proposing another event. The point is to connect interest with completion, not infer unreliability from body shape, gender or a cheerful manner."
+      ],
+      "checks": [
+        [
+          "How does the Air analogy join sanguine strengths and limitations?",
+          "Childs associates Air with lightness and rapid change. These support lively movement, responsiveness and invention, while the continual arrival of new impressions weakens sustained attention and completion."
+        ],
+        [
+          "How can enthusiasm become a completed contribution?",
+          "Enthusiasm becomes useful to a group when someone chooses a manageable next step and completes it. A lively participant might agree to prepare one invitation before proposing another event. The point is to connect interest with completion, not infer unreliability from body shape, gender or a cheerful manner."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Capítulo 4: entusiasmo, mudança e continuidade",
+      "goal": "Explique como Childs relaciona a responsividade sanguínea tanto às forças sociais quanto à dificuldade de manter o trabalho.",
+      "paragraphs": [
+        "Alguém propõe um evento comunitário animado e logo começa a discutir outra ideia. Um amigo pergunta qual pequena tarefa a pessoa aceita terminar naquela semana.",
+        "Childs usa Ar e leveza para organizar o retrato sanguíneo: movimento rápido, percepção viva, sociabilidade, imaginação e desejo de novidade. A mesma suscetibilidade a impressões novas torna a atenção variável e dificulta concluir projetos. Elogia intuição, crítica, otimismo e capacidade de recuperação, mas afirma que memória e concentração fracas prejudicam o estudo continuado. O meio social e as pessoas admiradas influenciam intensamente esse temperamento imitativo.",
+        "A resposta preserva a energia inventiva e esclarece a responsabilidade. Não presume que pessoas imaginativas sejam incapazes de concluir.",
+        "O entusiasmo se torna útil ao grupo quando alguém escolhe um próximo passo viável e o conclui. Uma pessoa animada pode combinar preparar um convite antes de propor outro evento. O objetivo é relacionar interesse e conclusão, não deduzir falta de confiabilidade da forma corporal, do gênero ou de um jeito alegre."
+      ],
+      "checks": [
+        [
+          "Como a analogia com o Ar une forças e limitações sanguíneas?",
+          "Childs associa o Ar à leveza e à mudança rápida. Elas sustentam movimento vivo, responsividade e invenção, enquanto a chegada contínua de novas impressões enfraquece atenção continuada e conclusão."
+        ],
+        [
+          "Como o entusiasmo pode se tornar uma contribuição concluída?",
+          "O entusiasmo se torna útil ao grupo quando alguém escolhe um próximo passo viável e o conclui. Uma pessoa animada pode combinar preparar um convite antes de propor outro evento. O objetivo é relacionar interesse e conclusão, não deduzir falta de confiabilidade da forma corporal, do gênero ou de um jeito alegre."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 5,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Chapter 5: steadiness, privacy and participation",
+      "goal": "Explain Childs’s contrast between phlegmatic outward calm and inward complexity, and its practical consequences.",
+      "paragraphs": [
+        "A colleague says little in a fast meeting but sends a careful suggestion afterwards. The next agenda includes the question in advance and accepts written comments.",
+        "Water is Childs’s symbol for an even surface with hidden depths. Phlegmatic people are described as patient, tolerant and protective of inner harmony, yet resistant to disturbance, change and initiative. Low confidence slows their response; preparation and practice supposedly lead to durable learning, meticulous work and reliability. Their quietness can conceal reflection, sympathetic listening and useful advice.",
+        "The change addresses the conditions of participation instead of assuming that silence means no ideas.",
+        "A quiet colleague may contribute more after receiving an agenda in advance. Offering time to prepare changes the conditions of participation; it does not establish a permanent temperament or decide which job that person should have. The response can be reconsidered in light of what the colleague actually finds helpful."
+      ],
+      "checks": [
+        [
+          "Why does the Water analogy include both flatness and hidden depth?",
+          "The apparently still surface represents outward evenness, while the water’s depths represent a strong inner life that Childs says is disclosed only to a favoured few."
+        ],
+        [
+          "Does offering an agenda in advance establish a permanent type?",
+          "A quiet colleague may contribute more after receiving an agenda in advance. Offering time to prepare changes the conditions of participation; it does not establish a permanent temperament or decide which job that person should have. The response can be reconsidered in light of what the colleague actually finds helpful."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Capítulo 5: constância, privacidade e participação",
+      "goal": "Explique o contraste de Childs entre calma exterior e complexidade interior fleumáticas e suas consequências práticas.",
+      "paragraphs": [
+        "Uma colega fala pouco numa reunião rápida, mas envia depois uma sugestão cuidadosa. A pauta seguinte traz a pergunta antecipadamente e aceita comentários escritos.",
+        "A Água é o símbolo de Childs para uma superfície uniforme com profundidades ocultas. As pessoas fleumáticas são descritas como pacientes, tolerantes e protetoras da harmonia interior, mas resistentes a perturbação, mudança e iniciativa. Pouca confiança retarda sua resposta; preparação e prática supostamente conduzem a aprendizagem duradoura, trabalho minucioso e confiabilidade. Seu silêncio pode ocultar reflexão, escuta solidária e conselho útil.",
+        "A mudança trata das condições de participação em vez de presumir que silêncio significa ausência de ideias.",
+        "Uma pessoa reservada pode contribuir mais ao receber a pauta com antecedência. Oferecer tempo de preparo muda as condições de participação; não estabelece um temperamento permanente nem decide qual trabalho a pessoa deve exercer. A resposta pode ser revista conforme o que ela realmente considera útil."
+      ],
+      "checks": [
+        [
+          "Por que a analogia com a Água inclui uniformidade e profundidade oculta?",
+          "A superfície aparentemente imóvel representa uniformidade exterior; as profundidades representam a vida interior forte que, segundo Childs, só se revela a poucas pessoas privilegiadas."
+        ],
+        [
+          "Oferecer a pauta com antecedência estabelece um tipo permanente?",
+          "Uma pessoa reservada pode contribuir mais ao receber a pauta com antecedência. Oferecer tempo de preparo muda as condições de participação; não estabelece um temperamento permanente nem decide qual trabalho a pessoa deve exercer. A resposta pode ser revista conforme o que ela realmente considera útil."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 6,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Chapter 6: sensitivity, self-concern and practical compassion",
+      "goal": "Explain Childs’s proposed movement from melancholic inward suffering to care for others, while identifying its assumptions.",
+      "paragraphs": [
+        "A friend repeatedly raises a worry about a difficult appointment. Instead of calling it a personality habit, you ask what part is most concerning and what help would be welcome.",
+        "Childs uses Earth and gravity to portray melancholic seriousness and heaviness. He contrasts inward mental preoccupation and variable moods with the phlegmatic search for bodily comfort and stable calm. Heightened sensitivity, a wish for understanding and a need for security can, in his account, become worry, fixed opinions and subtle demands for attention. Familiarity with suffering can also be redirected into practical compassion and philanthropic work.",
+        "The response treats the concern as something to understand. It neither diagnoses the friend nor assumes that reassurance alone will settle the matter.",
+        "When someone expresses worry, first establish what they are worried about. Listening and agreeing on one practical step differ from accusing the person of inventing pain or manufacturing a more distressing story. The course keeps those historical proposals visible as the author’s claims while teaching an honest, considerate alternative."
+      ],
+      "checks": [
+        [
+          "How does Childs distinguish melancholic from phlegmatic introversion?",
+          "He describes melancholics as inwardly concerned with mental problems and unstable moods, whereas phlegmatics focus on bodily wellbeing and stable inner harmony. Both seek security in his model."
+        ],
+        [
+          "How does honest listening differ from manufacturing a more distressing story?",
+          "When someone expresses worry, first establish what they are worried about. Listening and agreeing on one practical step differ from accusing the person of inventing pain or manufacturing a more distressing story. The course keeps those historical proposals visible as the author’s claims while teaching an honest, considerate alternative."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Capítulo 6: sensibilidade, preocupação consigo e compaixão prática",
+      "goal": "Explique a passagem proposta por Childs do sofrimento interior melancólico ao cuidado com outros, identificando suas suposições.",
+      "paragraphs": [
+        "Uma amiga menciona repetidamente a preocupação com um compromisso difícil. Em vez de chamá-la de hábito de personalidade, você pergunta o que mais preocupa e qual ajuda seria bem-vinda.",
+        "Childs usa Terra e gravidade para retratar seriedade e peso melancólicos. Contrapõe a preocupação mental interior e os estados de ânimo variáveis à busca fleumática de conforto corporal e calma estável. Sensibilidade intensa, desejo de compreensão e necessidade de segurança podem, em sua concepção, tornar-se preocupação, opiniões fixas e exigências sutis de atenção. A familiaridade com o sofrimento também pode ser dirigida à compaixão prática e ao trabalho filantrópico.",
+        "A resposta trata a preocupação como algo a compreender. Não diagnostica a amiga nem presume que apenas tranquilizá-la resolverá tudo.",
+        "Quando alguém manifesta preocupação, primeiro procure compreender com o que a pessoa se preocupa. Escutar e combinar um passo prático diferem de acusá-la de inventar dor ou fabricar uma história mais angustiante. O curso mantém visíveis essas propostas históricas como afirmações do autor, enquanto ensina uma alternativa honesta e atenciosa."
+      ],
+      "checks": [
+        [
+          "Como Childs distingue a introversão melancólica da fleumática?",
+          "Descreve os melancólicos como interiormente voltados a problemas mentais e estados de ânimo instáveis; os fleumáticos buscam bem-estar corporal e harmonia interior estável. Ambos procuram segurança em seu modelo."
+        ],
+        [
+          "Como a escuta honesta difere de fabricar uma história mais angustiante?",
+          "Quando alguém manifesta preocupação, primeiro procure compreender com o que a pessoa se preocupa. Escutar e combinar um passo prático diferem de acusá-la de inventar dor ou fabricar uma história mais angustiante. O curso mantém visíveis essas propostas históricas como afirmações do autor, enquanto ensina uma alternativa honesta e atenciosa."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 7,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Chapter 7: cooperation in the workplace",
+      "goal": "Explain how Childs connects mutual dependence, enduring temperament, developed behaviour and occupational fit.",
+      "paragraphs": [
+        "A team needs planning, public communication and careful checking. Rather than assigning these by supposed temperament, members discuss experience, volunteer for roles and agree on support.",
+        "Childs begins with mutual dependence and rejects workplace status games. He says temperament retains its essential attributes, while behaviour can mature and be refined; disciplined practice may bring secondary and other temperamental qualities into use. His occupational portraits connect choleric initiative with leadership, phlegmatic regularity with dependable work, sanguine sociability with fast-moving people-facing work, and melancholic empathy with continuity and caring work. He also gives aptitude, application, guided hands-on experience and changing circumstances a place.",
+        "The team can revise the arrangement using what happens in the work. It preserves the chapter’s concern for fit without treating a type as a hiring rule.",
+        "A team can distribute tasks by demonstrated skills, interests and available time, then revisit the arrangement. If someone learns a new skill, the task allocation can change. This makes the book’s tension between enduring constitution and self-development concrete: no speculative type should prevent attention to actual growth."
+      ],
+      "checks": [
+        [
+          "What does Childs distinguish from changing a person’s temperament?",
+          "Refining or modifying characteristic behaviour as the person matures, and learning to call on secondary and eventually other temperamental qualities."
+        ],
+        [
+          "What should happen to task allocation when someone learns a new skill?",
+          "A team can distribute tasks by demonstrated skills, interests and available time, then revisit the arrangement. If someone learns a new skill, the task allocation can change. This makes the book’s tension between enduring constitution and self-development concrete: no speculative type should prevent attention to actual growth."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Capítulo 7: cooperação no trabalho",
+      "goal": "Explique como Childs liga dependência mútua, permanência do temperamento, desenvolvimento do comportamento e adequação profissional.",
+      "paragraphs": [
+        "Uma equipe precisa de planejamento, comunicação pública e conferência cuidadosa. Em vez de distribuir por suposto temperamento, seus membros discutem experiências, oferecem-se para papéis e combinam apoio.",
+        "Childs começa pela dependência mútua e rejeita disputas de posição no trabalho. Afirma que o temperamento conserva seus atributos essenciais, mas o comportamento pode amadurecer e ser refinado; a prática disciplinada pode tornar utilizáveis qualidades do temperamento secundário e dos demais. Seus retratos profissionais ligam iniciativa colérica à liderança, regularidade fleumática ao trabalho confiável, sociabilidade sanguínea ao contato rápido com pessoas e empatia melancólica à continuidade e ao cuidado. Também dá lugar à aptidão, à aplicação, à experiência prática orientada e às mudanças de circunstância.",
+        "A equipe pode revisar a organização pelo que acontece no trabalho. Preserva a preocupação com a adequação sem transformar o tipo em regra de contratação.",
+        "Uma equipe pode distribuir tarefas conforme habilidades demonstradas, interesses e tempo disponível, revendo depois o acordo. Se alguém aprende uma habilidade nova, a distribuição pode mudar. Isso torna concreta a tensão do livro entre constituição duradoura e desenvolvimento pessoal: nenhum tipo especulativo deve impedir a atenção ao crescimento real."
+      ],
+      "checks": [
+        [
+          "O que Childs distingue de mudar o temperamento de uma pessoa?",
+          "Refinar ou modificar o comportamento característico com o amadurecimento e aprender a mobilizar qualidades secundárias e, depois, de outros temperamentos."
+        ],
+        [
+          "O que deve acontecer com a distribuição de tarefas quando alguém aprende uma habilidade nova?",
+          "Uma equipe pode distribuir tarefas conforme habilidades demonstradas, interesses e tempo disponível, revendo depois o acordo. Se alguém aprende uma habilidade nova, a distribuição pode mudar. Isso torna concreta a tensão do livro entre constituição duradoura e desenvolvimento pessoal: nenhum tipo especulativo deve impedir a atenção ao crescimento real."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 8,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Chapter 8: compatibility as a question, not a verdict",
+      "goal": "Explain all ten source sketches under Childs’s own caricature and mixed-temperament qualifications.",
+      "paragraphs": [
+        "One partner enjoys spontaneous outings while another wants advance notice. Calling the pairing incompatible settles nothing about what each needs or what they can agree.",
+        "Childs considers four same-type and six different-type pairings. He explicitly calls the sketches deliberately skewed verbal caricatures and says secondary tendencies, personality, health, upbringing, education and unexpected responses qualify prediction. Within that frame he explores shared force and rivalry, lively ideas and staying power, methodical restraint, conflicting control, doubled changeability, grounded counterbalance, divergent needs for novelty and security, doubled inertia, manipulation and resentment, and sensitivity seeking reciprocity. Similarity and difference can each help or intensify difficulty in his account.",
+        "Four labels give sixteen ordered choices if the first and second positions matter. Childs treats A with B as the same pairing as B with A: the twelve unlike ordered choices become six pairs, while the four same-type pairs remain. That yields ten sketches. This counting convention says nothing about whether two partners have identical roles. In the outing scene, useful discussion still specifies notice, freedom to decline and how shared plans are made. A symmetric table is not evidence of equal needs or a prediction of the relationship’s fate.",
+        "There are ten unordered pairings of four types: four pairs of the same type and six mixed pairs. Counting possible combinations organizes Childs’s discussion; it cannot predict a relationship. Whether an invitation is welcome depends on the people’s wishes and circumstances, including their freedom to decline."
+      ],
+      "checks": [
+        [
+          "Why does Childs count ten combinations rather than sixteen?",
+          "He treats reversed labels as the same pair: four same-type pairs plus six different-type pairs."
+        ],
+        [
+          "Does counting ten pairings predict whether an invitation is welcome?",
+          "There are ten unordered pairings of four types: four pairs of the same type and six mixed pairs. Counting possible combinations organizes Childs’s discussion; it cannot predict a relationship. Whether an invitation is welcome depends on the people’s wishes and circumstances, including their freedom to decline."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Capítulo 8: compatibilidade como pergunta, não veredito",
+      "goal": "Explique os dez retratos da fonte com as ressalvas de Childs sobre caricatura e temperamentos combinados.",
+      "paragraphs": [
+        "Uma pessoa gosta de passeios espontâneos; outra deseja aviso antecipado. Chamar a combinação de incompatível não esclarece necessidades nem acordos possíveis.",
+        "Childs considera quatro pares do mesmo tipo e seis de tipos diferentes. Chama os retratos explicitamente de caricaturas verbais deliberadamente distorcidas e afirma que tendências secundárias, personalidade, saúde, criação, educação e respostas inesperadas limitam a previsão. Nesse quadro, explora força compartilhada e rivalidade, ideias vivas e persistência, contenção metódica, controle conflitante, variabilidade duplicada, contrapeso concreto, necessidades divergentes de novidade e segurança, inércia duplicada, manipulação e ressentimento e sensibilidade que busca reciprocidade. Em sua explicação, semelhanças e diferenças podem ajudar ou intensificar dificuldades.",
+        "Quatro rótulos dão dezesseis escolhas ordenadas se a primeira e a segunda posições importarem. Childs trata A com B como o mesmo par que B com A: as doze escolhas ordenadas de tipos diferentes tornam-se seis pares, enquanto os quatro pares de mesmo tipo permanecem. Assim chegam-se a dez esboços. Essa convenção de contagem nada diz sobre os parceiros terem papéis idênticos. Na cena do passeio, uma conversa útil ainda especifica antecedência, liberdade de recusar e modo de fazer planos comuns. Uma tabela simétrica não comprova necessidades iguais nem prevê o destino da relação.",
+        "Há dez pares não ordenados de quatro tipos: quatro do mesmo tipo e seis mistos. Contar combinações possíveis organiza a discussão de Childs; não prevê uma relação. Se um convite é bem-vindo depende dos desejos e das circunstâncias das pessoas, inclusive da liberdade de recusá-lo."
+      ],
+      "checks": [
+        [
+          "Por que Childs conta dez combinações, não dezesseis?",
+          "Trata os rótulos invertidos como o mesmo par: quatro pares do mesmo tipo e seis de tipos diferentes."
+        ],
+        [
+          "Contar dez pares prevê se um convite será bem-vindo?",
+          "Há dez pares não ordenados de quatro tipos: quatro do mesmo tipo e seis mistos. Contar combinações possíveis organiza a discussão de Childs; não prevê uma relação. Se um convite é bem-vindo depende dos desejos e das circunstâncias das pessoas, inclusive da liberdade de recusá-lo."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 9,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Chapter 9: spiritual explanation and practical love",
+      "goal": "Trace Childs’s spirit, reincarnation and fourfold premises into his argument for practical, non-possessive love.",
+      "paragraphs": [
+        "A person recognizes impatience in a conversation and chooses to ask what the other person needs before offering advice.",
+        "Childs asks how the temperamental cards are acquired. He opposes a solely inherited/mechanical explanation to a spirit–body model in which soul arises through their interaction. Assuming eternal spirit, he argues for birthlessness as the counterpart of deathlessness, then declares repeated earthly embodiments the consequence; he also reports the claim that people choose parents before birth. He cites Steiner on temperament mediating heredity and individuality, then maps I/fire/choleric, astral/air/sanguine, etheric/water/phlegmatic and physical/earth/melancholic. His conclusion connects shared human constitution and self-knowledge with appropriate action and non-possessive, unconditional love.",
+        "The action illustrates attentive concern without demonstrating reincarnation. Its usefulness can be discussed at the level of the encounter.",
+        "A spiritual account of individuality and repeated lives gives the book a wider horizon than behaviour alone. Understanding that horizon does not authorize blaming someone for harm by claiming they chose it before birth. In a present relationship, care begins with the person’s actual needs and freedom, not a speculative explanation imposed on their life."
+      ],
+      "checks": [
+        [
+          "What premise supports Childs’s move from deathlessness to birthlessness?",
+          "He treats spirit as eternal and indestructible; what possesses eternity must, in his argument, have existed before birth as well as after death."
+        ],
+        [
+          "Does understanding a reincarnation premise authorize blaming someone for harm?",
+          "A spiritual account of individuality and repeated lives gives the book a wider horizon than behaviour alone. Understanding that horizon does not authorize blaming someone for harm by claiming they chose it before birth. In a present relationship, care begins with the person’s actual needs and freedom, not a speculative explanation imposed on their life."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Capítulo 9: explicação espiritual e amor prático",
+      "goal": "Acompanhe as premissas de Childs sobre espírito, reencarnação e constituição quádrupla até seu argumento pelo amor prático e não possessivo.",
+      "paragraphs": [
+        "Alguém reconhece sua impaciência numa conversa e escolhe perguntar do que a outra pessoa precisa antes de oferecer conselho.",
+        "Childs pergunta como adquirimos nossas cartas temperamentais. Contrapõe à explicação apenas herdada e mecânica um modelo de espírito e corpo no qual a alma surge da interação entre ambos. Pressupondo um espírito eterno, argumenta pela existência sem nascimento como contraparte da existência sem morte e depois declara as encarnações terrenas repetidas sua consequência; também relata a ideia de escolhermos os pais antes de nascer. Cita Steiner sobre a mediação do temperamento entre herança e individualidade e relaciona Eu/fogo/colérico, astral/ar/sanguíneo, etérico/água/fleumático e físico/terra/melancólico. A conclusão liga constituição humana compartilhada e autoconhecimento à ação adequada e ao amor não possessivo e incondicional.",
+        "A ação ilustra cuidado atento sem demonstrar reencarnação. Sua utilidade pode ser discutida no nível do encontro.",
+        "Uma concepção espiritual de individualidade e vidas repetidas dá ao livro um horizonte mais amplo que o comportamento. Compreender esse horizonte não autoriza culpar alguém por um dano alegando que o escolheu antes de nascer. Numa relação presente, o cuidado começa pelas necessidades e pela liberdade da pessoa, não por uma explicação especulativa imposta à sua vida."
+      ],
+      "checks": [
+        [
+          "Que premissa sustenta a passagem de Childs da existência sem morte à existência sem nascimento?",
+          "Ele trata o espírito como eterno e indestrutível; em seu argumento, o que possui eternidade deve ter existido antes do nascimento e depois da morte."
+        ],
+        [
+          "Compreender uma premissa de reencarnação autoriza culpar alguém por um dano?",
+          "Uma concepção espiritual de individualidade e vidas repetidas dá ao livro um horizonte mais amplo que o comportamento. Compreender esse horizonte não autoriza culpar alguém por um dano alegando que o escolheu antes de nascer. Numa relação presente, o cuidado começa pelas necessidades e pela liberdade da pessoa, não por uma explicação especulativa imposta à sua vida."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 10,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Appendix I: spirit, appearance and conscious practice",
+      "goal": "Explain Childs's physiognomic premise and his proposal to cultivate compensating qualities.",
+      "paragraphs": [
+        "An observer calls someone lazy after seeing them sitting apart. The person may be resting after work, waiting for instructions or simply choosing solitude.",
+        "Childs makes his spiritual premise explicit: spirit precedes matter, and outward bodily form expresses inward being. He consequently proposes that build, face and movement disclose temperament, while acknowledging mixtures, age and individual ego activity. The appendix then shifts from recognizing other people to using the qualities of all four temperaments deliberately. Energetic work, comfortable rest, holiday variety and responses to misfortune illustrate capacities he believes everyone possesses.",
+        "Several explanations fit the same observation. The missing information concerns the situation and person, not a more elaborate physical stereotype.",
+        "Someone sitting quietly may be resting, waiting or listening. Appearance alone does not decide among those possibilities. For self-education, a more informative question is which action one wants to practise: pausing before interrupting, finishing a small task or asking another person what they need. These actions can be observed without treating physique as destiny."
+      ],
+      "checks": [
+        [
+          "What premise supports Childs's interpretation of outward form?",
+          "He holds that spirit precedes matter and bodily form expresses inward spiritual being. This is his stated explanatory premise, not a conclusion established by seeing someone's features."
+        ],
+        [
+          "What alternatives might explain someone sitting quietly?",
+          "Someone sitting quietly may be resting, waiting or listening. Appearance alone does not decide among those possibilities. For self-education, a more informative question is which action one wants to practise: pausing before interrupting, finishing a small task or asking another person what they need. These actions can be observed without treating physique as destiny."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Apêndice I: espírito, aparência e prática consciente",
+      "goal": "Explique a premissa fisiognômica de Childs e sua proposta de cultivar qualidades compensatórias.",
+      "paragraphs": [
+        "Alguém chama uma pessoa de preguiçosa por vê-la sentada à parte. Ela pode estar descansando depois do trabalho, esperando instruções ou escolhendo ficar só.",
+        "Childs explicita sua premissa espiritual: o espírito antecede a matéria, e a forma corporal exterior expressa o ser interior. Propõe, assim, que constituição, rosto e movimento revelam o temperamento, reconhecendo também combinações, idade e atividade individual do Eu. O apêndice passa então do reconhecimento de outras pessoas ao uso deliberado das qualidades dos quatro temperamentos. Trabalho enérgico, descanso confortável, variedade nas férias e respostas à adversidade ilustram capacidades que, segundo ele, todos possuem.",
+        "Várias explicações cabem na mesma observação. A informação ausente diz respeito à situação e à pessoa, não a um estereótipo físico mais elaborado.",
+        "Alguém sentado em silêncio pode estar descansando, esperando ou escutando. A aparência, sozinha, não decide entre essas possibilidades. Para a autoeducação, uma pergunta mais esclarecedora é qual ação se deseja praticar: fazer uma pausa antes de interromper, concluir uma tarefa pequena ou perguntar do que outra pessoa precisa. Essas ações podem ser observadas sem tratar a constituição física como destino."
+      ],
+      "checks": [
+        [
+          "Qual premissa sustenta a interpretação de Childs da forma exterior?",
+          "Ele considera que o espírito antecede a matéria e que a forma corporal expressa o ser espiritual interior. É sua premissa explicativa declarada, não uma conclusão estabelecida pela observação dos traços de alguém."
+        ],
+        [
+          "Que alternativas podem explicar alguém sentado em silêncio?",
+          "Alguém sentado em silêncio pode estar descansando, esperando ou escutando. A aparência, sozinha, não decide entre essas possibilidades. Para a autoeducação, uma pergunta mais esclarecedora é qual ação se deseja praticar: fazer uma pausa antes de interromper, concluir uma tarefa pequena ou perguntar do que outra pessoa precisa. Essas ações podem ser observadas sem tratar a constituição física como destino."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 11,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Appendix II: reconstructing the four-body-type hypothesis",
+      "goal": "Follow the stages of Childs's proposed model and distinguish correspondence from supporting evidence.",
+      "paragraphs": [
+        "A library sorts books into three sizes and four subjects. Nobody needs to invent a fourth size merely because there are four subjects.",
+        "Childs returns to the mismatch between four temperaments and three somatotypes. After discussing three embryonic layers and Martigny's fourth, chordoblastic category, he proposes two broad builds, leptomorphic and eurymorphic, each with a moderate and an extreme form. His final arrangement is melancholic as extreme leptomorph, sanguine as moderate leptomorph, choleric as moderate eurymorph and phlegmatic as extreme eurymorph. He assigns head, lungs, heart/blood and digestion to these four respectively, with mesodermal interfaces supposed to explain the moderate forms.",
+        "The analogy isolates the logical issue: a numerical mismatch is not automatically a contradiction. Whether two classifications are connected needs independent evidence.",
+        "Matching the number of categories does not demonstrate a biological connection. A proposed body–temperament relation needs observations that could also show the proposal to be mistaken. Otherwise, a diagram merely restates the assumption it was meant to explain. Reconstructing Childs’s stages accurately is therefore different from accepting their causal link."
+      ],
+      "checks": [
+        [
+          "How does Childs's final model produce four body types?",
+          "He proposes two broad physiques, leptomorphic and eurymorphic, each in an extreme and a moderate form. These become melancholic/sanguine and phlegmatic/choleric respectively; he rejects a separate mesomorphic category at the end."
+        ],
+        [
+          "What would evidence need to do beyond repeating a diagram’s assumptions?",
+          "Matching the number of categories does not demonstrate a biological connection. A proposed body–temperament relation needs observations that could also show the proposal to be mistaken. Otherwise, a diagram merely restates the assumption it was meant to explain. Reconstructing Childs’s stages accurately is therefore different from accepting their causal link."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Apêndice II: reconstruir a hipótese dos quatro tipos corporais",
+      "goal": "Acompanhe as etapas do modelo proposto por Childs e distinga correspondência de evidência que a sustente.",
+      "paragraphs": [
+        "Uma biblioteca organiza livros em três tamanhos e quatro assuntos. Não é necessário inventar um quarto tamanho porque existem quatro assuntos.",
+        "Childs retoma a diferença entre quatro temperamentos e três somatotipos. Depois de discutir três folhetos embrionários e a quarta categoria de Martigny, a cordoblástica, propõe duas constituições amplas, leptomórfica e eurimórfica, cada uma moderada ou extrema. Sua organização final é: melancólico como leptomorfo extremo, sanguíneo como leptomorfo moderado, colérico como eurimorfo moderado e fleumático como eurimorfo extremo. Associa a eles, respectivamente, cabeça, pulmões, coração/sangue e digestão, supondo que interfaces com o mesoderma expliquem as formas moderadas.",
+        "A analogia isola a questão lógica: diferença numérica não é automaticamente contradição. A ligação entre classificações precisa de evidência independente.",
+        "Igualar o número de categorias não demonstra uma conexão biológica. Uma relação proposta entre corpo e temperamento precisa de observações que também possam mostrar que a proposta está equivocada. Caso contrário, um diagrama apenas repete a suposição que deveria explicar. Reconstruir com precisão as etapas de Childs é, portanto, diferente de aceitar seu vínculo causal."
+      ],
+      "checks": [
+        [
+          "Como o modelo final de Childs produz quatro tipos corporais?",
+          "Ele propõe duas constituições amplas, leptomórfica e eurimórfica, cada uma extrema ou moderada. Tornam-se, respectivamente, melancólico/sanguíneo e fleumático/colérico; ao final, rejeita uma categoria mesomórfica separada."
+        ],
+        [
+          "O que a evidência precisaria fazer além de repetir as suposições de um diagrama?",
+          "Igualar o número de categorias não demonstra uma conexão biológica. Uma relação proposta entre corpo e temperamento precisa de observações que também possam mostrar que a proposta está equivocada. Caso contrário, um diagrama apenas repete a suposição que deveria explicar. Reconstruir com precisão as etapas de Childs é, portanto, diferente de aceitar seu vínculo causal."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "understand-temperament",
+    "id": 12,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Synthesis: from the book's model to a considerate action",
+      "goal": "Connect Childs's nine chapters and appendices in an accurately sourced, reviewable application.",
+      "paragraphs": [
+        "A team disagrees about a deadline. The revised account identifies different assumptions about completion and proposes a check-in, instead of blaming incompatible temperaments.",
+        "The book moves from shared tendencies and individual uses of them through psychological axes, four portraits, work, partnerships and spiritual explanation. The appendices make its claims about appearance and bodily constitution explicit. Childs's stated social purpose is better understanding and practical, non-possessive concern. He returns repeatedly to all four qualities being available within each person, so a dominant tendency does not exhaust the resources one can practise.",
+        "The improvement is visible in the shared task and agreement. It leaves room for further information and correction.",
+        "A disagreement about a deadline may arise because one person means a first draft and another means a finished result. Clarifying that difference and agreeing on a check-in changes the shared task. This is a useful synthesis because the action has an observable purpose and can be revised; it does not depend on correctly labelling either person."
+      ],
+      "checks": [
+        [
+          "What connects the portraits, social chapters and final practice?",
+          "Childs intends knowledge of oneself and others to support considerate social action, drawing on the qualities of all four temperaments. A synthesis should explain that purpose and connect it with a particular situation."
+        ],
+        [
+          "How can clarifying the meaning of a deadline improve the shared task?",
+          "A disagreement about a deadline may arise because one person means a first draft and another means a finished result. Clarifying that difference and agreeing on a check-in changes the shared task. This is a useful synthesis because the action has an observable purpose and can be revised; it does not depend on correctly labelling either person."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Síntese: do modelo do livro a uma ação atenciosa",
+      "goal": "Relacione os nove capítulos e os apêndices numa aplicação revisável e com fontes precisas.",
+      "paragraphs": [
+        "Uma equipe discorda sobre um prazo. O relato revisado identifica suposições diferentes sobre conclusão e propõe uma conferência, em vez de culpar temperamentos incompatíveis.",
+        "O livro parte de tendências compartilhadas e seus usos individuais, passando pelos eixos psicológicos, quatro retratos, trabalho, relações e explicação espiritual. Os apêndices explicitam suas afirmações sobre aparência e constituição corporal. A finalidade social declarada por Childs é compreender melhor e exercer um cuidado prático, não possessivo. Ele retoma a disponibilidade das quatro qualidades em cada pessoa; uma tendência dominante não esgota os recursos que se podem praticar.",
+        "A melhoria aparece na tarefa e no acordo compartilhados. Deixa espaço para informação adicional e correção.",
+        "Um desacordo sobre um prazo pode surgir porque uma pessoa pensa num primeiro rascunho e outra, num resultado concluído. Esclarecer a diferença e combinar um momento para conferir o andamento muda a tarefa compartilhada. Essa é uma síntese útil porque a ação tem uma finalidade observável e pode ser revista; não depende de rotular corretamente nenhuma das pessoas."
+      ],
+      "checks": [
+        [
+          "O que relaciona os retratos, os capítulos sociais e a prática final?",
+          "Childs pretende que o conhecimento de si e dos outros sustente uma ação social atenciosa, mobilizando qualidades dos quatro temperamentos. Uma síntese deve explicar essa finalidade e relacioná-la a uma situação concreta."
+        ],
+        [
+          "Como esclarecer o significado de um prazo pode melhorar a tarefa compartilhada?",
+          "Um desacordo sobre um prazo pode surgir porque uma pessoa pensa num primeiro rascunho e outra, num resultado concluído. Esclarecer a diferença e combinar um momento para conferir o andamento muda a tarefa compartilhada. Essa é uma síntese útil porque a ação tem uma finalidade observável e pode ser revista; não depende de rotular corretamente nenhuma das pessoas."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 0,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "From the individual enigma to an art of living",
+      "goal": "Follow the supplied text’s argument and distinguish its wording from course explanations and parallel editions.",
+      "paragraphs": [
+        "A reader recognizes the four temperament names in two different texts. She assumes the second text has nothing more to ask. Another reader compares the passages about approaching a particular person.",
+        "The opening asks how knowledge of human beings can enter our feelings and conduct toward a particular person. Its path leads from the individual enigma through heredity and reincarnating individuality, temperament as their meeting, four members and their predominance, the four temperamental portraits, and proposals for education and self-education. These fifteen lessons divide a continuous supplied text; they are course divisions, not fifteen original chapters or lectures. The course paraphrases essential concepts in consistent language and places short, exact selections beside their explanations.",
+        "A shared classification does not make every treatment identical. This course follows the supplied text’s movement from the individual enigma to an art of living with others.",
+        "Recognizing a term is only the beginning of understanding an argument. Here the movement matters: a view of individuality leads toward questions about meeting and educating people. Ask what changes in the encounter when the concept is understood. The fifteen course lessons divide that movement for teaching; they are not fifteen original lectures."
+      ],
+      "checks": [
+        [
+          "What unifies the text’s subjects?",
+          "The question of how spiritual knowledge of the person can become feeling, understanding and conduct in everyday encounters."
+        ],
+        [
+          "Are the fifteen lessons fifteen original lectures?",
+          "Recognizing a term is only the beginning of understanding an argument. Here the movement matters: a view of individuality leads toward questions about meeting and educating people. Ask what changes in the encounter when the concept is understood. The fifteen course lessons divide that movement for teaching; they are not fifteen original lectures."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Do enigma individual a uma arte de viver",
+      "goal": "Acompanhe o argumento do texto fornecido e distinga sua redação das explicações do curso e das edições paralelas.",
+      "paragraphs": [
+        "Uma leitora reconhece os quatro nomes de temperamento em dois textos. Supõe que o segundo não acrescenta perguntas. Outra compara os trechos sobre o encontro com uma pessoa particular.",
+        "A abertura pergunta como o conhecimento do ser humano pode entrar em nossos sentimentos e na conduta diante de uma pessoa particular. O percurso passa pelo enigma individual, pela hereditariedade e pela individualidade que reencarna, pelo temperamento como encontro dessas correntes, pelos quatro membros e sua predominância, pelos quatro retratos temperamentais e pelas propostas de educação e autoeducação. Estas quinze lições dividem um texto contínuo fornecido; são divisões do curso, não quinze capítulos ou palestras originais. O curso explica os conceitos essenciais com linguagem consistente e aproxima breves seleções exatas de suas explicações.",
+        "Uma classificação compartilhada não torna todas as abordagens idênticas. Este curso acompanha a passagem do enigma individual à arte de conviver.",
+        "Reconhecer um termo é apenas o começo da compreensão de um argumento. Aqui, importa o percurso: uma visão da individualidade conduz a perguntas sobre encontrar e educar pessoas. Pergunte o que muda no encontro quando se compreende o conceito. As quinze lições dividem esse percurso para ensinar; não são quinze palestras originais."
+      ],
+      "checks": [
+        [
+          "O que une os assuntos do texto?",
+          "A pergunta sobre como o conhecimento espiritual da pessoa pode tornar-se sentimento, compreensão e conduta nos encontros cotidianos."
+        ],
+        [
+          "As quinze lições são quinze palestras originais?",
+          "Reconhecer um termo é apenas o começo da compreensão de um argumento. Aqui, importa o percurso: uma visão da individualidade conduz a perguntas sobre encontrar e educar pessoas. Pergunte o que muda no encontro quando se compreende o conceito. As quinze lições dividem esse percurso para ensinar; não são quinze palestras originais."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 1,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "General human nature and the particular person",
+      "goal": "Explain the intermediate role of temperament without losing the individual person.",
+      "paragraphs": [
+        "A colleague speaks little in meetings but tells detailed stories during a walk. Your first description was simply “quiet.”",
+        "The opening distinguishes the enigma of the human being in general from the enigma of each person we meet. Knowledge of general human nature does not yet explain this individual. Temperament names an intermediate level: recurring qualities shared by groups, differently mixed and expressed in each person. The text explicitly says that four groups cannot define the particular case exactly. Its further claim is that the visible exterior expresses a more complex inner being, which spiritual science seeks to understand. For Steiner, this understanding matters because social life and our feelings toward others depend on how we meet their individuality.",
+        "The second encounter asks you to refine the first description. Neither scene alone supplies a complete explanation of the person.",
+        "Someone may speak little in a formal meeting and freely during a walk with a friend. Both observations belong to the same person. A temperament description becomes less useful when it erases the conditions of the encounter. Mixed tendencies and individual circumstances keep the classification subordinate to the person being understood."
+      ],
+      "checks": [
+        [
+          "What distinguishes the general from the individual enigma?",
+          "The first concerns human nature as a whole; the second concerns the unique person encountered in life."
+        ],
+        [
+          "What is lost if a label erases the difference between a meeting and a walk?",
+          "Someone may speak little in a formal meeting and freely during a walk with a friend. Both observations belong to the same person. A temperament description becomes less useful when it erases the conditions of the encounter. Mixed tendencies and individual circumstances keep the classification subordinate to the person being understood."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Natureza humana geral e pessoa particular",
+      "goal": "Explique o papel intermediário do temperamento mantendo a pessoa individual em vista.",
+      "paragraphs": [
+        "Uma colega fala pouco nas reuniões, mas conta histórias detalhadas durante uma caminhada. Sua primeira descrição foi apenas “quieta”.",
+        "A abertura distingue o enigma do ser humano em geral do enigma de cada pessoa que encontramos. Conhecer a natureza humana geral ainda não explica este indivíduo. O temperamento nomeia um nível intermediário: qualidades recorrentes compartilhadas por grupos, combinadas e expressas de modo diferente em cada pessoa. O texto afirma explicitamente que os quatro grupos não definem exatamente o caso particular. Sua afirmação adicional é que o exterior visível expressa um ser interior mais complexo, que a ciência espiritual procura compreender. Para Steiner, essa compreensão importa porque a vida social e nossos sentimentos diante dos outros dependem de como encontramos sua individualidade.",
+        "O segundo encontro pede uma revisão da primeira descrição. Nenhuma das cenas explica inteiramente a pessoa.",
+        "Alguém pode falar pouco numa reunião formal e livremente durante uma caminhada com um amigo. As duas observações pertencem à mesma pessoa. Uma descrição de temperamento se torna menos útil quando apaga as condições do encontro. Tendências combinadas e circunstâncias individuais mantêm a classificação subordinada à pessoa que se procura compreender."
+      ],
+      "checks": [
+        [
+          "O que distingue o enigma geral do individual?",
+          "O primeiro concerne à natureza humana como um todo; o segundo, à pessoa singular encontrada na vida."
+        ],
+        [
+          "O que se perde se um rótulo apaga a diferença entre uma reunião e uma caminhada?",
+          "Alguém pode falar pouco numa reunião formal e livremente durante uma caminhada com um amigo. As duas observações pertencem à mesma pessoa. Uma descrição de temperamento se torna menos útil quando apaga as condições do encontro. Tendências combinadas e circunstâncias individuais mantêm a classificação subordinada à pessoa que se procura compreender."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 2,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Heredity and the individuality carried through lives",
+      "goal": "Reconstruct both streams and the source’s argument about inherited instruments and individual capacities.",
+      "paragraphs": [
+        "Two siblings learn the same instrument at different speeds. Their family includes several musicians.",
+        "Steiner describes one stream through parents and ancestors and a second through an enduring spiritual individuality. In his account, this individuality lives between earthly existences, enters a new life, and brings dispositions acquired through previous incarnations. Karma concerns the continuing effects of its earlier activity. Heredity supplies bodily conditions through which those capacities can become manifest. The musical-family discussion concedes inherited instruments while disputing an explanation of individuality entirely by ancestry. The mineral, plant and animal comparisons distinguish persistence of form from the proposed persistence of individually acquired experience.",
+        "The observation raises questions about learning and family history. It does not by itself decide between all possible explanations.",
+        "Siblings can share family circumstances and still act differently. That observation explains why a question about individuality arises; it does not by itself prove reincarnation. Steiner answers through two currents, hereditary embodiment and enduring spiritual individuality. An accurate explanation states both the question and the spiritual premise of his answer."
+      ],
+      "checks": [
+        [
+          "What does each stream contribute in the source?",
+          "Heredity supplies inherited conditions and traits; individuality brings a spiritual continuity with dispositions acquired in earlier lives."
+        ],
+        [
+          "Does difference between siblings prove reincarnation?",
+          "Siblings can share family circumstances and still act differently. That observation explains why a question about individuality arises; it does not by itself prove reincarnation. Steiner answers through two currents, hereditary embodiment and enduring spiritual individuality. An accurate explanation states both the question and the spiritual premise of his answer."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Hereditariedade e individualidade através das vidas",
+      "goal": "Reconstrua as duas correntes e o argumento sobre instrumentos herdados e capacidades individuais.",
+      "paragraphs": [
+        "Dois irmãos aprendem o mesmo instrumento em ritmos diferentes. Há vários músicos na família.",
+        "Steiner descreve uma corrente pelos pais e antepassados e uma segunda por uma individualidade espiritual duradoura. Nessa explicação, a individualidade vive entre existências terrestres, ingressa numa nova vida e traz disposições adquiridas em encarnações anteriores. O carma concerne aos efeitos continuados de sua atividade anterior. A hereditariedade fornece condições corporais pelas quais essas capacidades podem manifestar-se. A discussão da família de músicos admite instrumentos herdados e contesta a explicação da individualidade inteiramente pela ancestralidade. As comparações com minerais, plantas e animais distinguem a permanência da forma da permanência proposta da experiência adquirida individualmente.",
+        "A observação levanta perguntas sobre aprendizagem e história familiar. Não decide, sozinha, entre todas as explicações possíveis.",
+        "Irmãos podem compartilhar circunstâncias familiares e ainda agir de maneiras diferentes. Essa observação explica por que surge uma pergunta sobre individualidade; não prova, por si só, a reencarnação. Steiner responde por meio de duas correntes: corporeidade hereditária e individualidade espiritual duradoura. Uma explicação precisa declara a pergunta e a premissa espiritual da resposta."
+      ],
+      "checks": [
+        [
+          "O que cada corrente contribui na fonte?",
+          "A hereditariedade fornece condições e traços herdados; a individualidade traz continuidade espiritual e disposições adquiridas em vidas anteriores."
+        ],
+        [
+          "A diferença entre irmãos prova a reencarnação?",
+          "Irmãos podem compartilhar circunstâncias familiares e ainda agir de maneiras diferentes. Essa observação explica por que surge uma pergunta sobre individualidade; não prova, por si só, a reencarnação. Steiner responde por meio de duas correntes: corporeidade hereditária e individualidade espiritual duradoura. Uma explicação precisa declara a pergunta e a premissa espiritual da resposta."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 3,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Temperament as reciprocal colouring",
+      "goal": "Explain why the source needs a mediator between inherited conditions and individuality.",
+      "paragraphs": [
+        "A player chooses a musical phrase but must work with the possibilities of the instrument. The resulting performance involves both.",
+        "After introducing two streams, Steiner asks how qualities developed by individuality can live within inherited bodily conditions. Temperament is his answer: it stands between the hereditary line and the continuing individual core, giving their meeting a particular colouring. The streams adapt to each other rather than simply remaining side by side. Blue and yellow meeting in green illustrates that reciprocal relation. The source also describes temperament as balancing the eternal and the perishable: the individuality enduring through lives and the inherited constitution of a particular earthly existence.",
+        "A phrase containing a long sustained note may need a different expression on a plucked instrument than on a bowed one. The player adjusts the phrasing to what the instrument can do, while the chosen phrase determines which of its possibilities are used. This is the reciprocal aspect of the analogy: neither intention nor conditions alone describes the performance. It clarifies why the source speaks of mutual colouring rather than two unchanged streams sitting side by side. It does not model how a spiritual individuality enters a body.",
+        "A musician adapts to an instrument’s possibilities while shaping the sound through intention. The analogy makes reciprocal influence easier to imagine. In Steiner’s account, temperament is the particular way individuality and inherited organization meet, not a third independent person added between them. The musical image clarifies the relationship without proving its spiritual premises."
+      ],
+      "checks": [
+        [
+          "Why does the source need temperament as a mediator?",
+          "It must explain how a continuing individual core and inherited bodily conditions can join in one particular human life."
+        ],
+        [
+          "Is temperament a third independent person between heredity and individuality?",
+          "A musician adapts to an instrument’s possibilities while shaping the sound through intention. The analogy makes reciprocal influence easier to imagine. In Steiner’s account, temperament is the particular way individuality and inherited organization meet, not a third independent person added between them. The musical image clarifies the relationship without proving its spiritual premises."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Temperamento como coloração recíproca",
+      "goal": "Explique por que a fonte precisa de uma mediação entre condições herdadas e individualidade.",
+      "paragraphs": [
+        "Uma musicista escolhe uma frase, mas precisa trabalhar com as possibilidades do instrumento. A execução envolve ambos.",
+        "Depois de apresentar duas correntes, Steiner pergunta como qualidades desenvolvidas pela individualidade podem viver em condições corporais herdadas. O temperamento é sua resposta: situa-se entre a linha hereditária e o núcleo individual contínuo, dando uma coloração particular ao encontro. As correntes adaptam-se uma à outra, em vez de apenas permanecerem lado a lado. O azul e o amarelo encontrando-se no verde ilustram essa relação recíproca. A fonte também descreve o temperamento como equilíbrio entre o eterno e o perecível: a individualidade que atravessa vidas e a constituição herdada de uma existência terrestre particular.",
+        "Uma frase com uma nota longa sustentada pode exigir expressão diferente num instrumento de cordas dedilhadas e num de arco. A pessoa ajusta o fraseado ao que o instrumento permite, enquanto a frase escolhida determina quais possibilidades dele serão usadas. Esse é o aspecto recíproco da analogia: nem intenção nem condições descrevem sozinhas a execução. Ele esclarece por que a fonte fala de coloração mútua, em vez de duas correntes inalteradas lado a lado. Não modela como uma individualidade espiritual entra num corpo.",
+        "Um músico se adapta às possibilidades do instrumento e molda o som por sua intenção. A analogia facilita imaginar uma influência recíproca. No relato de Steiner, o temperamento é a maneira particular como individualidade e organização herdada se encontram, não uma terceira pessoa independente acrescentada entre elas. A imagem musical esclarece a relação sem provar suas premissas espirituais."
+      ],
+      "checks": [
+        [
+          "Por que a fonte precisa do temperamento como mediador?",
+          "Precisa explicar como um núcleo individual contínuo e condições corporais herdadas podem unir-se numa vida humana particular."
+        ],
+        [
+          "O temperamento é uma terceira pessoa independente entre hereditariedade e individualidade?",
+          "Um músico se adapta às possibilidades do instrumento e molda o som por sua intenção. A analogia facilita imaginar uma influência recíproca. No relato de Steiner, o temperamento é a maneira particular como individualidade e organização herdada se encontram, não uma terceira pessoa independente acrescentada entre elas. A imagem musical esclarece a relação sem provar suas premissas espirituais."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 4,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Four members: interaction and predominance",
+      "goal": "Define the four members and explain all four temperament pairings as relationships within one human being.",
+      "paragraphs": [
+        "Four people play in an ensemble. One instrument carries the melody during a passage; the others remain part of the music.",
+        "The physical body belongs to the world of physical and chemical laws. The etheric body is the formative life organization which, in this account, maintains the living form. The astral body bears sensation, pleasure, pain, desire and inner movement. The I brings self-consciousness and continuing individuality. All four belong to the same person and act upon one another. Their relative predominance gives temperament its colouring: I/choleric, astral/sanguine, etheric/phlegmatic and physical/melancholic. The source places the physical and etheric nearer the hereditary stream and the astral and I nearer the individual core, while describing their interaction rather than two isolated halves.",
+        "Emphasis differs from exclusive presence. This limited comparison helps correct the idea that each temperament possesses only one member.",
+        "Predominance makes sense only when all the members remain present. A melody may stand out within an ensemble without becoming the entire ensemble. Likewise, the adult mapping associates I/choleric, astral/sanguine, etheric/phlegmatic and physical/melancholic within a cooperating whole. Keep this mapping distinct from the different child-development mapping discussed in GA 295."
+      ],
+      "checks": [
+        [
+          "What distinguishes etheric from astral in the source?",
+          "Etheric names formative life-maintaining activity; astral names the bearer of sensation, desire, pleasure and suffering."
+        ],
+        [
+          "Does predominance mean possessing only one of the four members?",
+          "Predominance makes sense only when all the members remain present. A melody may stand out within an ensemble without becoming the entire ensemble. Likewise, the adult mapping associates I/choleric, astral/sanguine, etheric/phlegmatic and physical/melancholic within a cooperating whole. Keep this mapping distinct from the different child-development mapping discussed in GA 295."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Quatro membros: interação e predominância",
+      "goal": "Defina os quatro membros e explique os quatro pares temperamentais como relações num só ser humano.",
+      "paragraphs": [
+        "Quatro pessoas tocam num conjunto. Um instrumento conduz a melodia num trecho; os demais continuam na música.",
+        "O corpo físico pertence ao mundo das leis físicas e químicas. O corpo etérico é a organização formativa da vida que, nessa explicação, mantém a forma viva. O corpo astral porta sensação, prazer, dor, desejo e movimento interior. O eu traz autoconsciência e individualidade contínua. Os quatro pertencem à mesma pessoa e atuam uns sobre os outros. Sua predominância relativa dá coloração ao temperamento: eu/colérico, astral/sanguíneo, etérico/fleumático e físico/melancólico. A fonte aproxima físico e etérico da corrente hereditária, e astral e eu do núcleo individual, descrevendo sua interação, em vez de duas metades isoladas.",
+        "Ênfase é diferente de presença exclusiva. A comparação ajuda a corrigir a ideia de que cada temperamento possui apenas um membro.",
+        "A predominância só faz sentido quando todos os membros permanecem presentes. Uma melodia pode se destacar num conjunto sem se tornar o conjunto inteiro. Da mesma forma, o esquema adulto associa Eu/colérico, astral/sanguíneo, etérico/fleumático e físico/melancólico dentro de um todo cooperante. Distinga esse esquema daquele, diferente, discutido na GA 295 sobre o desenvolvimento infantil."
+      ],
+      "checks": [
+        [
+          "O que distingue etérico de astral na fonte?",
+          "Etérico nomeia a atividade formativa que mantém a vida; astral nomeia o portador de sensação, desejo, prazer e sofrimento."
+        ],
+        [
+          "Predominância significa possuir apenas um dos quatro membros?",
+          "A predominância só faz sentido quando todos os membros permanecem presentes. Uma melodia pode se destacar num conjunto sem se tornar o conjunto inteiro. Da mesma forma, o esquema adulto associa Eu/colérico, astral/sanguíneo, etérico/fleumático e físico/melancólico dentro de um todo cooperante. Distinga esse esquema daquele, diferente, discutido na GA 295 sobre o desenvolvimento infantil."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 5,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Four portraits: members, direction and response",
+      "goal": "Explain each portrait through its proposed predominant member and direction of experience.",
+      "paragraphs": [
+        "In a fictional workshop, one person presses toward a goal, another tries each new material, a third settles into a familiar rhythm, and a fourth dwells on a difficulty.",
+        "Steiner relates the choleric to ego predominance and outward assertion; the sanguine to astral predominance and quickly changing impressions; the phlegmatic to etheric predominance and inward well-being; the melancholic to physical predominance and experienced resistance. These are connected explanations of how the whole person acts, not four isolated lists of traits.",
+        "These actions give us different directions to describe. A single scene cannot identify a permanent constitution or a cause of distress.",
+        "In a workshop, one participant asks for a goal, another explores a new possibility, another wants a dependable rhythm and another notices a difficulty. These contributions can help explain four emphases. They do not establish four permanent constitutions: the same person may make different contributions when the task changes."
+      ],
+      "checks": [
+        [
+          "How does the sanguine portrait differ from the phlegmatic portrait?",
+          "The sanguine is explained through astral mobility and changing outward impressions; the phlegmatic through etheric life and inward contentment."
+        ],
+        [
+          "Does a workshop contribution establish a permanent constitution?",
+          "In a workshop, one participant asks for a goal, another explores a new possibility, another wants a dependable rhythm and another notices a difficulty. These contributions can help explain four emphases. They do not establish four permanent constitutions: the same person may make different contributions when the task changes."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Quatro retratos: membros, direção e resposta",
+      "goal": "Explique cada retrato pelo membro que a fonte apresenta como predominante e pela direção da experiência.",
+      "paragraphs": [
+        "Numa oficina fictícia, alguém insiste numa meta, outra pessoa experimenta cada material novo, uma terceira mantém um ritmo familiar e uma quarta se detém numa dificuldade.",
+        "Steiner relaciona o colérico à predominância do eu e à afirmação exterior; o sanguíneo à predominância astral e às impressões rapidamente variáveis; o fleumático à predominância etérica e ao bem-estar interior; o melancólico à predominância física e à resistência vivida. São explicações relacionadas de como a pessoa inteira age, não quatro listas isoladas de traços.",
+        "As ações oferecem direções diferentes para descrever. Uma cena não identifica uma constituição permanente nem a causa de sofrimento.",
+        "Numa oficina, uma pessoa pede uma meta, outra explora uma possibilidade nova, outra deseja um ritmo confiável e outra percebe uma dificuldade. Essas contribuições ajudam a explicar quatro ênfases. Não estabelecem quatro constituições permanentes: a mesma pessoa pode contribuir de modos diferentes quando a tarefa muda."
+      ],
+      "checks": [
+        [
+          "Como o retrato sanguíneo difere do fleumático?",
+          "O sanguíneo é explicado pela mobilidade astral e por impressões exteriores variáveis; o fleumático, pela vida etérica e pelo contentamento interior."
+        ],
+        [
+          "Uma contribuição numa oficina estabelece uma constituição permanente?",
+          "Numa oficina, uma pessoa pede uma meta, outra explora uma possibilidade nova, outra deseja um ritmo confiável e outra percebe uma dificuldade. Essas contribuições ajudam a explicar quatro ênfases. Não estabelecem quatro constituições permanentes: a mesma pessoa pode contribuir de modos diferentes quando a tarefa muda."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 6,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Appearance: the source’s signs and its qualification",
+      "goal": "Explain the appearance argument, including its proportion qualification and its proposed causal link.",
+      "paragraphs": [
+        "An observer sees someone walking slowly and concludes that the person has little interest in the world. Later the person says they were carrying a fragile object.",
+        "Steiner links choleric ego strength with constrained growth, firm gaze and a forceful step; sanguine astral mobility with flexible form, changing expression and a light gait; phlegmatic inner comfort with bodily fullness and shuffling; melancholic resistance with a lowered head and a heavy, measured step. He also proposes dark and blue eye correspondences. These are claims about how an inner constitution becomes outward form.",
+        "The new information changes the interpretation without changing the original observation.",
+        "A person carrying a fragile object may walk slowly and carefully. The movement has an immediate explanation that does not require a temperament diagnosis. When reading historical descriptions of gait or appearance, preserve the author’s association while asking what else could produce the observed behaviour. A visible sign is not its own explanation."
+      ],
+      "checks": [
+        [
+          "What kind of relationship does Steiner propose between constitution and movement?",
+          "He interprets gaze, gait and bodily form as expressions of an inner spiritual constitution. These are attributed correspondences; observing a movement does not by itself establish its inner cause."
+        ],
+        [
+          "Why ask about the fragile object before interpreting a slow gait?",
+          "A person carrying a fragile object may walk slowly and carefully. The movement has an immediate explanation that does not require a temperament diagnosis. When reading historical descriptions of gait or appearance, preserve the author’s association while asking what else could produce the observed behaviour. A visible sign is not its own explanation."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Aparência: os sinais e a ressalva da fonte",
+      "goal": "Explique o argumento sobre aparência, incluindo sua ressalva proporcional e a ligação causal proposta.",
+      "paragraphs": [
+        "Uma pessoa vê alguém andando devagar e conclui que tem pouco interesse pelo mundo. Depois descobre que carregava um objeto frágil.",
+        "Steiner relaciona a força do eu colérico ao crescimento contido, ao olhar firme e ao passo vigoroso; a mobilidade astral sanguínea à forma flexível, à expressão variável e à marcha leve; o conforto interior fleumático à corpulência e ao arrastar dos pés; a resistência melancólica à cabeça baixa e ao passo pesado e medido. Propõe também correspondências com olhos escuros e azuis. São afirmações sobre como a constituição interior se torna forma exterior.",
+        "A informação nova muda a interpretação sem mudar a observação inicial.",
+        "Uma pessoa carregando um objeto frágil pode andar devagar e com cuidado. O movimento tem uma explicação imediata que não exige diagnóstico de temperamento. Ao ler descrições históricas de andar ou aparência, preserve a associação do autor e pergunte o que mais poderia produzir o comportamento observado. Um sinal visível não é sua própria explicação."
+      ],
+      "checks": [
+        [
+          "Que relação Steiner propõe entre constituição e movimento?",
+          "Ele interpreta olhar, andar e forma corporal como expressões de uma constituição espiritual interior. São correspondências atribuídas ao autor; observar um movimento não estabelece, por si só, sua causa interior."
+        ],
+        [
+          "Por que perguntar pelo objeto frágil antes de interpretar um andar lento?",
+          "Uma pessoa carregando um objeto frágil pode andar devagar e com cuidado. O movimento tem uma explicação imediata que não exige diagnóstico de temperamento. Ao ler descrições históricas de andar ou aparência, preserve a associação do autor e pergunte o que mais poderia produzir o comportamento observado. Um sinal visível não é sua própria explicação."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 7,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Mixtures and guidance: preserve variety, redirect one-sidedness",
+      "goal": "Connect the mixture qualification and the value of variety with the lecture’s educational purpose.",
+      "paragraphs": [
+        "A determined learner is patient during construction but impatient during group decisions. A teacher wants to preserve the useful persistence while improving the discussion.",
+        "The four portraits are schematic: each person has a basic temperament mixed with others. Steiner describes Napoleon as choleric and also strongly phlegmatic. Temperamental variety makes life rich and can support achievement; exaggerated one-sidedness narrows its expression. Education is therefore to guide a temperament on an appropriate path rather than level everyone into sameness.",
+        "Persistence helps the learner stay with a difficult joint during construction. In a discussion, the same refusal to stop may prevent another person from contributing. A reviewable change could be to hear each proposal before choosing which design to pursue, then use persistence in carrying out that shared choice. The capacity remains available; its timing and object change. If the learner already listens well when meetings are unhurried, the group should also reconsider its pace. Guidance concerns a relation between capacity and situation, not erasing a difference or diagnosing a constitution.",
+        "Persistence in building something and impatience in a discussion can occur in the same person. A practical response might keep the constructive challenge while making room to listen before deciding. This develops an action in context; it does not convert a temperamental portrait into a psychiatric prediction."
+      ],
+      "checks": [
+        [
+          "Are the four types presented as pure descriptions of actual people?",
+          "No. The lecture calls them schematic and explicitly says a basic temperament is mixed with others."
+        ],
+        [
+          "How could persistence be preserved while improving participation in discussion?",
+          "Persistence in building something and impatience in a discussion can occur in the same person. A practical response might keep the constructive challenge while making room to listen before deciding. This develops an action in context; it does not convert a temperamental portrait into a psychiatric prediction."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Combinações e orientação: preserve a variedade, redirecione a unilateralidade",
+      "goal": "Relacione a ressalva sobre combinações e o valor da variedade ao objetivo educativo da palestra.",
+      "paragraphs": [
+        "Uma aprendiz determinada é paciente na construção, mas impaciente em decisões coletivas. A professora quer preservar a persistência útil e melhorar a discussão.",
+        "Os quatro retratos são esquemáticos: cada pessoa tem um temperamento básico misturado aos demais. Steiner descreve Napoleão como colérico e também muito fleumático. A variedade temperamental enriquece a vida e pode favorecer realizações; a unilateralidade exagerada restringe sua expressão. A educação deve orientar o temperamento por uma via adequada, em vez de nivelar todas as pessoas.",
+        "A persistência ajuda a pessoa a continuar diante de uma junção difícil na construção. Numa discussão, a mesma recusa em parar pode impedir a contribuição de outra pessoa. Uma mudança revisável seria ouvir cada proposta antes de escolher o projeto e depois empregar a persistência na realização dessa escolha comum. A capacidade continua disponível; mudam seu momento e seu objeto. Se a pessoa já escuta bem em reuniões sem pressa, o grupo também deve reconsiderar o ritmo. Orientar diz respeito à relação entre capacidade e situação, não a apagar uma diferença nem diagnosticar uma constituição.",
+        "Persistência ao construir algo e impaciência numa discussão podem ocorrer na mesma pessoa. Uma resposta prática pode manter o desafio construtivo e abrir espaço para escutar antes de decidir. Isso desenvolve uma ação em contexto; não transforma um retrato temperamental em previsão psiquiátrica."
+      ],
+      "checks": [
+        [
+          "Os quatro tipos são apresentados como descrições puras de pessoas reais?",
+          "Não. A palestra os chama de esquemáticos e afirma explicitamente que um temperamento básico se combina com os demais."
+        ],
+        [
+          "Como preservar a persistência e melhorar a participação numa discussão?",
+          "Persistência ao construir algo e impaciência numa discussão podem ocorrer na mesma pessoa. Uma resposta prática pode manter o desafio construtivo e abrir espaço para escutar antes de decidir. Isso desenvolve uma ação em contexto; não transforma um retrato temperamental em previsão psiquiátrica."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 8,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Sanguine education: present interest, personal affection and arranged variety",
+      "goal": "Explain the two proposed educational routes and distinguish them from our bounded return-to-interest activity.",
+      "paragraphs": [
+        "A learner leaves several drawings unfinished but repeatedly returns to a book about birds. An adult notices the return before giving advice.",
+        "Steiner begins with what the child has: easily awakened, mobile interest. Observation should identify an interest that genuinely returns. He then proposes lasting affection for a suitable person as a route toward continuity, contrasting it with punishment and sermons. A second route arranges objects that appeal to the child and periods where passing interest is fitting, with withdrawal and return.",
+        "The existing interest supplies a possible starting point. The next step still needs the learner’s participation.",
+        "An interest in birds can become a chosen return to the same observation spot and a small completed record. Continuity grows through a meaningful connection, not necessarily through removing every competing interest. The course adaptation invites participation; it does not make affection or access to valued objects depend on compliance."
+      ],
+      "checks": [
+        [
+          "Why does the source begin with what is present rather than what is missing?",
+          "It proposes shaping existing sanguine mobility instead of trying to impose another member’s characteristic response by force."
+        ],
+        [
+          "How can bird observation connect interest with continuity?",
+          "An interest in birds can become a chosen return to the same observation spot and a small completed record. Continuity grows through a meaningful connection, not necessarily through removing every competing interest. The course adaptation invites participation; it does not make affection or access to valued objects depend on compliance."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Educação sanguínea: interesse presente, afeto pessoal e variedade organizada",
+      "goal": "Explique as duas vias educativas propostas e diferencie-as de nossa atividade delimitada de retorno ao interesse.",
+      "paragraphs": [
+        "Uma criança deixa desenhos inacabados, mas volta frequentemente a um livro de pássaros. Um adulto percebe esse retorno antes de aconselhar.",
+        "Steiner começa pelo que a criança tem: interesse móvel e facilmente despertado. A observação deve identificar um interesse que realmente retorne. Ele propõe então afeto duradouro por uma pessoa adequada como via para a continuidade, contrastando-o com castigo e sermões. Uma segunda via organiza objetos que atraem a criança e períodos em que o interesse passageiro é pertinente, com retirada e devolução.",
+        "O interesse existente oferece um começo possível. O próximo passo ainda precisa da participação da criança.",
+        "O interesse por aves pode se tornar um retorno escolhido ao mesmo ponto de observação e um pequeno registro concluído. A continuidade cresce por uma conexão significativa, não necessariamente pela retirada de todo interesse concorrente. A adaptação do curso convida à participação; não condiciona afeto nem acesso a objetos valorizados à obediência."
+      ],
+      "checks": [
+        [
+          "Por que a fonte começa pelo que está presente, em vez do que falta?",
+          "Propõe orientar a mobilidade sanguínea existente, em vez de impor pela força a resposta característica de outro membro."
+        ],
+        [
+          "Como a observação de aves pode relacionar interesse e continuidade?",
+          "O interesse por aves pode se tornar um retorno escolhido ao mesmo ponto de observação e um pequeno registro concluído. A continuidade cresce por uma conexão significativa, não necessariamente pela retirada de todo interesse concorrente. A adaptação do curso convida à participação; não condiciona afeto nem acesso a objetos valorizados à obediência."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 9,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Choleric education: earned respect and real resistance",
+      "goal": "Explain the source's two choleric routes and distinguish their historical form from this lesson's activity.",
+      "paragraphs": [
+        "A learner insists that a model bridge must stand. The teacher tries a joint, finds it unstable and says, “Let us test another way.”",
+        "Steiner proposes respect for an educator's demonstrated competence and an environment offering resistance. The child’s force is to meet something real outside itself, rather than be answered only by reprimands. Both routes work with the tendency already present.",
+        "Showing how to investigate a difficulty can express competence while acknowledging a mistake.",
+        "A teacher who discovers an error in a model bridge can name the error and work out a correction. Competence includes knowing how to revise. An attainable challenge can therefore cultivate persistence without an infallible adult or a defeat deliberately arranged for the learner. This is an adaptation of the educational aim, not a claim that every historical proposal is suitable."
+      ],
+      "checks": [
+        [
+          "What does the choleric educational route emphasize?",
+          "Respect for demonstrated competence and a real challenge outside the child. The course adapts that aim through attainable tasks and honest correction rather than infallibility or deliberately imposed defeat."
+        ],
+        [
+          "Why can correcting a model bridge teach competence?",
+          "A teacher who discovers an error in a model bridge can name the error and work out a correction. Competence includes knowing how to revise. An attainable challenge can therefore cultivate persistence without an infallible adult or a defeat deliberately arranged for the learner. This is an adaptation of the educational aim, not a claim that every historical proposal is suitable."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Educação colérica: respeito conquistado e resistência real",
+      "goal": "Explique as duas vias coléricas da fonte e distinga sua forma histórica da atividade desta lição.",
+      "paragraphs": [
+        "Uma criança insiste que uma ponte de brinquedo fique em pé. A professora testa uma união, vê que está instável e diz: “Vamos testar outro jeito.”",
+        "Steiner propõe respeito pela competência demonstrada do educador e um ambiente que ofereça resistência. A força da criança deve encontrar algo real fora de si, em vez de receber apenas repreensões. As duas vias trabalham com a tendência já presente.",
+        "Mostrar como investigar uma dificuldade pode expressar competência e reconhecer um erro.",
+        "Uma professora que descobre um erro numa ponte em miniatura pode nomeá-lo e elaborar uma correção. A competência inclui saber revisar. Um desafio viável pode, assim, cultivar persistência sem um adulto infalível nem uma derrota deliberadamente preparada para quem aprende. Essa é uma adaptação da finalidade educativa, não uma afirmação de que toda proposta histórica é adequada."
+      ],
+      "checks": [
+        [
+          "O que a orientação educativa para o colérico enfatiza?",
+          "Respeito pela competência demonstrada e um desafio real externo à criança. O curso adapta essa finalidade por meio de tarefas viáveis e correção honesta, em vez de infalibilidade ou derrota deliberadamente imposta."
+        ],
+        [
+          "Por que corrigir uma ponte em miniatura pode ensinar competência?",
+          "Uma professora que descobre um erro numa ponte em miniatura pode nomeá-lo e elaborar uma correção. A competência inclui saber revisar. Um desafio viável pode, assim, cultivar persistência sem um adulto infalível nem uma derrota deliberadamente preparada para quem aprende. Essa é uma adaptação da finalidade educativa, não uma afirmação de que toda proposta histórica é adequada."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 10,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Melancholic education: lived experience and compassion",
+      "goal": "Explain the proposed turn from inward sorrow toward another person's suffering, including the source's stated limit.",
+      "paragraphs": [
+        "A learner is sad about missing an outing. Later, after being heard, they choose to send a message to another friend who also missed it.",
+        "The melancholic route begins with existing sensitivity. Steiner proposes an educator whose words convey lived adversity, so the child's capacity to feel sorrow can become compassion for a real life beyond its own. This differs from both affection for a person and respect for competence.",
+        "Concern for someone else can coexist with one’s own disappointment. It need not cancel the first feeling.",
+        "After a missed outing, someone may want company, a chance to talk or simply time. A caring response asks rather than assumes. An invitation to help another person can be meaningful when freely chosen; arranging suffering or using another person’s distress as a lesson would change the character of that invitation."
+      ],
+      "checks": [
+        [
+          "Why does the source emphasize an educator tested by life?",
+          "It proposes that credible experience of adversity can reach the melancholic child and direct inward sensitivity toward compassion for another person's fate."
+        ],
+        [
+          "What changes when an invitation to help becomes arranged suffering?",
+          "After a missed outing, someone may want company, a chance to talk or simply time. A caring response asks rather than assumes. An invitation to help another person can be meaningful when freely chosen; arranging suffering or using another person’s distress as a lesson would change the character of that invitation."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Educação melancólica: experiência vivida e compaixão",
+      "goal": "Explique a passagem proposta da tristeza interior ao sofrimento de outra pessoa, incluindo o limite declarado pela fonte.",
+      "paragraphs": [
+        "Uma criança fica triste por perder um passeio. Depois de ser ouvida, escolhe enviar uma mensagem a uma amiga que também não foi.",
+        "A via melancólica começa pela sensibilidade existente. Steiner propõe um educador cujas palavras expressem adversidade vivida, para que a capacidade infantil de sentir tristeza se torne compaixão por uma vida real além da própria. Isso difere tanto do afeto por alguém quanto do respeito pela competência.",
+        "O cuidado com alguém pode coexistir com a própria decepção. Não precisa cancelar o primeiro sentimento.",
+        "Depois de perder um passeio, alguém pode desejar companhia, uma conversa ou apenas tempo. Uma resposta atenciosa pergunta em vez de presumir. Um convite para ajudar outra pessoa pode ter sentido quando é escolhido livremente; provocar sofrimento ou usar a angústia alheia como lição mudaria o caráter do convite."
+      ],
+      "checks": [
+        [
+          "Por que a fonte destaca um educador provado pela vida?",
+          "Propõe que a experiência confiável da adversidade alcance a criança melancólica e dirija sua sensibilidade interior à compaixão pelo destino de outra pessoa."
+        ],
+        [
+          "O que muda quando um convite para ajudar se torna sofrimento provocado?",
+          "Depois de perder um passeio, alguém pode desejar companhia, uma conversa ou apenas tempo. Uma resposta atenciosa pergunta em vez de presumir. Um convite para ajudar outra pessoa pode ter sentido quando é escolhido livremente; provocar sofrimento ou usar a angústia alheia como lição mudaria o caráter do convite."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 11,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Phlegmatic education: the interests of companions",
+      "goal": "Reconstruct the indirect route through shared interests and distinguish it from the other three educational routes.",
+      "paragraphs": [
+        "A learner watches a friend planting seeds. The friend offers two roles: fill a pot or draw a label. The learner asks which plant needs the largest pot.",
+        "Steiner proposes that a phlegmatic child can be reached through companions with varied interests. Another child's engagement mediates between the world and the learner. The same section also recommends objects and events toward which indifference would be fitting; both parts belong to its environmental approach.",
+        "A question may already show engagement, even before the person joins the practical work.",
+        "A shared seed-planting activity may invite interest through companionship and a manageable task. Participation might begin with one question or watching a friend, rather than immediate enthusiasm. Noticing that small engagement is more useful than declaring the learner lazy or insisting that everyone show interest in the same way."
+      ],
+      "checks": [
+        [
+          "Why are companions central to the phlegmatic route?",
+          "The source proposes that the interests of other children awaken personal interest indirectly where direct demands or objects alone do not."
+        ],
+        [
+          "Could a single question count as meaningful participation?",
+          "A shared seed-planting activity may invite interest through companionship and a manageable task. Participation might begin with one question or watching a friend, rather than immediate enthusiasm. Noticing that small engagement is more useful than declaring the learner lazy or insisting that everyone show interest in the same way."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Educação fleumática: os interesses dos companheiros",
+      "goal": "Reconstrua a via indireta dos interesses compartilhados e distinga-a das outras três vias educativas.",
+      "paragraphs": [
+        "Uma criança observa uma amiga plantando sementes. A amiga oferece dois papéis: encher o vaso ou desenhar a etiqueta. A criança pergunta qual planta precisa do vaso maior.",
+        "Steiner propõe alcançar a criança fleumática por companheiros com interesses variados. O envolvimento de outra criança faz a mediação entre o mundo e o aprendiz. O mesmo trecho recomenda objetos e acontecimentos diante dos quais a indiferença seria adequada; as duas partes integram sua abordagem do ambiente.",
+        "Uma pergunta já pode mostrar interesse, antes da participação prática.",
+        "Uma atividade compartilhada de plantio pode despertar interesse pela companhia e por uma tarefa viável. A participação pode começar com uma pergunta ou observando um colega, em vez de entusiasmo imediato. Perceber esse pequeno envolvimento é mais útil que declarar a pessoa preguiçosa ou exigir que todos demonstrem interesse do mesmo modo."
+      ],
+      "checks": [
+        [
+          "Por que os companheiros são centrais à via fleumática?",
+          "A fonte propõe que os interesses de outras crianças despertem indiretamente o interesse pessoal onde exigências diretas ou objetos isolados não conseguem fazê-lo."
+        ],
+        [
+          "Uma única pergunta pode contar como participação significativa?",
+          "Uma atividade compartilhada de plantio pode despertar interesse pela companhia e por uma tarefa viável. A participação pode começar com uma pergunta ou observando um colega, em vez de entusiasmo imediato. Perceber esse pequeno envolvimento é mais útil que declarar a pessoa preguiçosa ou exigir que todos demonstrem interesse do mesmo modo."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 12,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Adult self-education: reason works indirectly",
+      "goal": "Reconstruct the four adult prescriptions and explain how the course's bounded exercise adapts their shared principle.",
+      "paragraphs": [
+        "A learner keeps switching between books. Instead of saying “concentrate,” they choose a five-minute comparison of two paragraphs and write one connection.",
+        "The source assigns reason an indirect role: choose circumstances in which an existing tendency can operate, rather than merely command it to disappear. Adult self-education applies this principle through different situations for sanguine, choleric, melancholic and phlegmatic tendencies. The aim is to address troublesome one-sidedness while retaining the variety of human life.",
+        "The two-paragraph task uses the very movement that was disrupting study: attention shifts from one passage to the other to find a connection. The purpose gives that shift a direction, the five-minute boundary limits its extent, and the written connection supplies a completion point. Reason acts by arranging the work rather than commanding a different inner type. If the learner only alternates without finding a relation, the next change might be two shorter passages or one explicit comparison question. The result guides that revision; it does not verify the historical cure claims.",
+        "An adult who notices scattered attention might choose a brief comparison of two objects and return to one relevant difference. The practice works with an available tendency instead of attacking the whole personality. Its value is considered through the person’s experience and choices, not as a promised cure or proof of a spiritual constitution."
+      ],
+      "checks": [
+        [
+          "Why is reason given an indirect role in self-education?",
+          "It can help choose circumstances in which an existing tendency works differently. This aims to address one-sidedness through activity rather than merely commanding the tendency to disappear."
+        ],
+        [
+          "Does a useful attention practice prove a spiritual constitution?",
+          "An adult who notices scattered attention might choose a brief comparison of two objects and return to one relevant difference. The practice works with an available tendency instead of attacking the whole personality. Its value is considered through the person’s experience and choices, not as a promised cure or proof of a spiritual constitution."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Autoeducação adulta: a razão age indiretamente",
+      "goal": "Reconstrua as quatro prescrições adultas e explique como o exercício delimitado do curso adapta seu princípio comum.",
+      "paragraphs": [
+        "Uma pessoa troca continuamente de livro. Em vez de dizer “concentre-se”, escolhe comparar dois parágrafos por cinco minutos e escrever uma ligação.",
+        "A fonte atribui à razão uma função indireta: escolher circunstâncias em que uma tendência existente possa agir, em vez de simplesmente ordenar seu desaparecimento. A autoeducação adulta aplica esse princípio por situações diferentes para tendências sanguíneas, coléricas, melancólicas e fleumáticas. O objetivo é trabalhar a unilateralidade que causa dificuldades, conservando a variedade da vida humana.",
+        "A tarefa de dois parágrafos usa o próprio movimento que interrompia o estudo: a atenção passa de um trecho ao outro para encontrar uma conexão. O objetivo dá direção a essa passagem, o limite de cinco minutos restringe sua extensão e a conexão escrita oferece um ponto de conclusão. A razão atua organizando o trabalho, em vez de ordenar outro tipo interior. Se a pessoa apenas alterna sem encontrar relação, a próxima mudança pode ser usar trechos menores ou uma pergunta explícita de comparação. O resultado orienta essa revisão; não confirma as afirmações históricas de cura.",
+        "Um adulto que percebe atenção dispersa pode escolher uma comparação breve entre dois objetos e voltar a uma diferença pertinente. A prática trabalha com uma tendência disponível, em vez de atacar a personalidade inteira. Seu valor é considerado pela experiência e pelas escolhas da pessoa, não como cura prometida nem prova de uma constituição espiritual."
+      ],
+      "checks": [
+        [
+          "Por que a razão recebe um papel indireto na autoeducação?",
+          "Ela pode ajudar a escolher circunstâncias em que uma tendência existente atue de modo diferente. Isso procura lidar com a unilateralidade por meio da atividade, em vez de simplesmente ordenar que a tendência desapareça."
+        ],
+        [
+          "Uma prática útil de atenção prova uma constituição espiritual?",
+          "Um adulto que percebe atenção dispersa pode escolher uma comparação breve entre dois objetos e voltar a uma diferença pertinente. A prática trabalha com uma tendência disponível, em vez de atacar a personalidade inteira. Seu valor é considerado pela experiência e pelas escolhas da pessoa, não como cura prometida nem prova de uma constituição espiritual."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 13,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Social understanding: knowledge becomes responsive conduct",
+      "goal": "Explain the closing connection between individuality, feeling, a fitting response and love.",
+      "paragraphs": [
+        "You prepare advice for a friend, then learn that they mainly want someone to listen. You change the form of help.",
+        "The conclusion asks knowledge to become feeling, tact and conduct in a particular encounter. The individual enigma is not solved merely by assigning a category: understanding becomes real in how one person responds to another, offering love or a different response according to what is asked.",
+        "A response can become more fitting when the other person contributes to its direction.",
+        "A friend may initially offer advice, then learn that the other person wants to be heard. Changing from advice to listening is a concrete correction in conduct. The concept becomes useful when it improves responsiveness to this person, rather than protecting the first interpretation from correction."
+      ],
+      "checks": [
+        [
+          "Why is naming someone's temperament insufficient for the closing social aim?",
+          "The conclusion asks knowledge to become feeling and fitting conduct toward an individual, rather than remain an abstract category or a general instruction."
+        ],
+        [
+          "Why might changing from advice to listening be a successful correction?",
+          "A friend may initially offer advice, then learn that the other person wants to be heard. Changing from advice to listening is a concrete correction in conduct. The concept becomes useful when it improves responsiveness to this person, rather than protecting the first interpretation from correction."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Compreensão social: o conhecimento se torna conduta responsiva",
+      "goal": "Explique a ligação final entre individualidade, sentimento, resposta adequada e amor.",
+      "paragraphs": [
+        "Você prepara conselhos para uma amiga e descobre que ela deseja principalmente ser ouvida. Muda a forma de ajuda.",
+        "A conclusão pede que o conhecimento se torne sentimento, tato e conduta num encontro particular. O enigma individual não se resolve apenas atribuindo uma categoria: a compreensão se realiza na resposta de uma pessoa à outra, oferecendo amor ou outra resposta conforme o que é pedido.",
+        "Uma resposta pode se tornar mais adequada quando a outra pessoa participa de sua direção.",
+        "Um amigo pode oferecer conselhos e depois perceber que a outra pessoa deseja ser ouvida. Mudar do conselho para a escuta é uma correção concreta da conduta. O conceito se torna útil quando melhora a resposta a essa pessoa, em vez de proteger a interpretação inicial contra revisão."
+      ],
+      "checks": [
+        [
+          "Por que nomear o temperamento de alguém é insuficiente para o objetivo social final?",
+          "A conclusão pede que o conhecimento se torne sentimento e conduta adequada ao indivíduo, em vez de permanecer categoria abstrata ou instrução geral."
+        ],
+        [
+          "Por que mudar do conselho para a escuta pode ser uma correção bem-sucedida?",
+          "Um amigo pode oferecer conselhos e depois perceber que a outra pessoa deseja ser ouvida. Mudar do conselho para a escuta é uma correção concreta da conduta. O conceito se torna útil quando melhora a resposta a essa pessoa, em vez de proteger a interpretação inicial contra revisão."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  },
+  {
+    "course": "mystery-temperaments",
+    "id": 14,
+    "composition": {
+      "newParagraphs": [
+        3
+      ],
+      "retainedFields": [
+        "example",
+        "key",
+        "explanation"
+      ]
+    },
+    "en": {
+      "title": "Synthesis: from temperament to the individual encounter",
+      "goal": "Connect the source's explanatory framework, educational routes and social aim in a source-supported account.",
+      "paragraphs": [
+        "A learner revises “my teammate never participates” after noticing careful preparation and asking about preferred roles. They propose a task together and agree to review it.",
+        "The text moves from the enigma of each person to two streams, temperament as mediation, fourfold predominance, distinct educational routes, indirect self-education and responsive social understanding. Synthesis explains these relationships instead of using a list of types as a complete explanation of someone.",
+        "The revised account includes information missing from the first judgment and an action that can be reconsidered.",
+        "A final account can describe what happened, explain one idea from the text and propose a response whose effect can be reconsidered. Keep those three levels distinct. A more considerate encounter is a practical achievement; it does not retrospectively prove every claim about reincarnation, bodily organization or temperament."
+      ],
+      "checks": [
+        [
+          "How does the framework connect individuality, temperament and the four members?",
+          "The source proposes hereditary and reincarnating streams meeting through temperament; the differing predominance of I, astral, etheric and physical members expresses the four temperamental tendencies within a whole human being."
+        ],
+        [
+          "Does a more considerate encounter prove every spiritual claim?",
+          "A final account can describe what happened, explain one idea from the text and propose a response whose effect can be reconsidered. Keep those three levels distinct. A more considerate encounter is a practical achievement; it does not retrospectively prove every claim about reincarnation, bodily organization or temperament."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Síntese: do temperamento ao encontro individual",
+      "goal": "Relacione a explicação da fonte, as vias educativas e o objetivo social num relato sustentado por trechos.",
+      "paragraphs": [
+        "Uma leitora revê “meu colega nunca participa” ao perceber preparação cuidadosa e perguntar sobre papéis preferidos. Propõem uma tarefa juntos e combinam revisá-la.",
+        "O texto passa do enigma de cada pessoa às duas correntes, ao temperamento como mediação, à predominância quádrupla, às vias educativas distintas, à autoeducação indireta e à compreensão social responsiva. A síntese explica essas relações, em vez de usar uma lista de tipos como explicação completa de alguém.",
+        "O relato revisado inclui informação ausente do primeiro juízo e uma ação que pode ser reconsiderada.",
+        "Um relato final pode descrever o ocorrido, explicar uma ideia do texto e propor uma resposta cujo efeito possa ser reconsiderado. Mantenha esses três níveis distintos. Um encontro mais atencioso é uma realização prática; não prova retrospectivamente todas as afirmações sobre reencarnação, organização corporal ou temperamento."
+      ],
+      "checks": [
+        [
+          "Como a explicação relaciona individualidade, temperamento e quatro membros?",
+          "A fonte propõe correntes hereditária e reencarnante que se encontram pelo temperamento; a predominância variável de eu, astral, etérico e físico expressa as quatro tendências temperamentais no ser humano inteiro."
+        ],
+        [
+          "Um encontro mais atencioso prova todas as afirmações espirituais?",
+          "Um relato final pode descrever o ocorrido, explicar uma ideia do texto e propor uma resposta cujo efeito possa ser reconsiderado. Mantenha esses três níveis distintos. Um encontro mais atencioso é uma realização prática; não prova retrospectivamente todas as afirmações sobre reencarnação, organização corporal ou temperamento."
+        ]
+      ]
+    },
+    "sourceReview": {
+      "en": "This revision uses the retained course explanations. Fresh comparison with the original book is pending; the detailed source notes below record earlier work.",
+      "pt": "Esta revisão usa as explicações mantidas no curso. A nova comparação com o livro original está pendente; as notas detalhadas de fonte abaixo registram o trabalho anterior."
+    }
+  }
+]

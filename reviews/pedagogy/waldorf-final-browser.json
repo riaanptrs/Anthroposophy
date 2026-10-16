@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "routes": 196,
+  "fullRoutePasses": 4,
+  "routeCases": 784,
+  "widths": [
+    1280,
+    390,
+    320
+  ],
+  "noJavaScriptWidth": 320,
+  "originalRecordsChecked": 62,
+  "limits": [
+    "Browser checks do not establish source fidelity or pedagogical effectiveness"
+  ]
+}

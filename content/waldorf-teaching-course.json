@@ -217,7 +217,7 @@
           "O professor passa da imagem à relação que ela expressa. Os alunos comparam exemplos, nomeiam características relevantes e usam o conceito de modo independente. A imaginação favorece essa passagem; uma imagem marcante não é a explicação completa.",
           "Explicite os limites da analogia. Uma história sobre um rio pode apresentar movimento, mas a explicação científica depois exige observação e mecanismos. As imagens devem abrir a investigação e favorecer a precisão."
         ],
-        "example": "Imagine uma ponte de história com dois vãos iguais. Desenhe dois segmentos iguais, retire as torres e mantenha os segmentos. Cada um é metade do comprimento total. A imagem deu um contexto memorável; a divisão igual explica o conceito. Numa ponte com vãos desiguais, cada vão não seria metade. A característica relevante é a igualdade, não a presença de uma ponte.",
+        "example": "Imagine, numa história, uma ponte com dois vãos iguais. Desenhe dois segmentos iguais, retire as torres e mantenha os segmentos. Cada um é metade do comprimento total. A imagem deu um contexto memorável; a divisão igual explica o conceito. Numa ponte com vãos desiguais, cada vão não seria metade. A característica relevante é a igualdade, não a presença de uma ponte.",
         "question": "Uma nova imagem tem vãos de 3 e 5 unidades. Cada um pode ser chamado de metade porque a história tinha dois vãos?",
         "answer": "Não. Duas partes não precisam ser iguais. Metade do total 8 seria 4. A imagem apoia o conceito quando o aluno identifica e transfere a relação relevante, não apenas um detalhe da história."
       }
@@ -1727,7 +1727,7 @@
         "goal": "Interprete dados de posição e distinga a descrição do movimento de uma explicação de suas causas.",
         "paragraphs": [
           "O percurso da física parte de fenômenos observáveis e comparáveis e desenvolve modelos e relações quantitativas. Som, luz, calor e movimento exigem conceitos distintos, mesmo com métodos semelhantes.",
-          "Num movimento retilíneo sem inversão de sentido, a velocidade média escalar num intervalo é a distância percorrida dividida pelo tempo decorrido. Por isso, uma tabela de posições precisa ser lida subtraindo posições e tempos sucessivos; uma posição não é uma velocidade. O padrão resultante descreve o movimento. Explicar por que ele muda é outra pergunta, sobre interações e condições, que os dados de posição sozinhos podem não resolver.",
+          "Num movimento retilíneo sem inversão de sentido, a velocidade escalar média num intervalo é a distância percorrida dividida pelo tempo decorrido. Por isso, uma tabela de posições precisa ser lida subtraindo posições e tempos sucessivos; uma posição não é uma velocidade. O padrão resultante descreve o movimento. Explicar por que ele muda é outra pergunta, sobre interações e condições, que os dados de posição sozinhos podem não resolver.",
           "Uma demonstração marcante não prova todas as interpretações associadas. Considere causas alternativas, limites de medida e repetição. Demonstrações escolares exigem supervisão e protocolos adequados."
         ],
         "example": "Estes são dados didáticos inventados, não medidas de um experimento. Nos tempos 0, 1, 2 e 3 segundos, o carrinho A está a 0, 2, 4 e 6 metros da partida; B está a 0, 1, 3 e 6 metros. Subtraia posições sucessivas. A percorre 2, 2 e 2 metros nos intervalos iguais de um segundo: sua velocidade média em cada intervalo é 2 m/s. B percorre 1, 2 e 3 metros: sua velocidade média por intervalo aumenta. Ambos percorrem 6 metros em 3 segundos e têm a mesma média total, 2 m/s. Portanto, uma média total esconde padrões diferentes. Os dados descrevem o movimento; não estabelecem que força o produziu.",
@@ -2082,7 +2082,7 @@
         "paragraphs": [
           "Histórias oferecem sequências para acompanhar, imaginar e recontar. Desenvolvem vocabulário, atenção a motivos e relações e um contexto compartilhado.",
           "A finalidade precisa estar clara. Recontar verifica sequência; comparar respostas desenvolve interpretação; relacionar imagem e letra apresenta um símbolo. São objetivos diferentes.",
-          "As histórias exigem contexto cultural e discussão adequada. Distinga narrativa imaginativa, história factual e explicação científica. Um relato marcante deve levar à compreensão mais clara, além de responder indistintamente a todas as perguntas."
+          "As histórias exigem contexto cultural e discussão adequada. Distinga narrativa imaginativa, história factual e explicação científica. Um relato marcante deve levar à compreensão mais clara, sem se tornar uma resposta indistinta a todas as perguntas."
         ],
         "example": "Numa história original de três frases, Jo promete levar uma corda. Jo esquece. O grupo adia a construção de um modelo porque aquela era a única ligação entre as peças. Recontar verifica a sequência. Explicar o adiamento relaciona material ausente e tarefa. Outro final pode preservar a relação: se encontram barbante adequado, podem continuar. O trabalho narrativo desenvolve linguagem causal, não só memória de nomes.",
         "question": "Se Jo lembra a corda e o grupo ainda adia, a explicação antiga pode ser repetida?",
@@ -2136,7 +2136,7 @@
         "paragraphs": [
           "As políticas costumam enfatizar experiência direta e escolha cuidadosa do momento de introduzir ferramentas digitais. A realização varia; o argumento pedagógico precisa se relacionar a tarefas concretas.",
           "Pergunte o que o dispositivo permite e qual processo substitui. Ele pode ampliar acesso ou comunicação e exigir escolhas sobre atenção, privacidade e confiabilidade das informações.",
-          "Uma política útil prepara para uso competente e permite adaptações. A organização doméstica deve considerar as condições familiares, além de presumir uma regra única para todos."
+          "Uma política útil prepara para uso competente e permite adaptações. A organização doméstica deve considerar as condições familiares, sem presumir que uma regra única sirva para todos os alunos e atividades."
         ],
         "example": "Um aluno usa ditado por voz para explicar por que 3/6 = 1/2. A ferramenta transcreve; ele fornece a razão: três partes iguais pintadas e três sem pintura dividem igualmente o todo. Isso preserva uma finalidade matemática quando digitar é uma barreira. Se a finalidade fosse escrever a ortografia sem ajuda, o resultado não demonstraria essa habilidade. Examine o processo fornecido pela ferramenta e a compreensão ainda exigida do aluno.",
         "question": "Se o software também escreve a explicação da fração, é a mesma adaptação?",

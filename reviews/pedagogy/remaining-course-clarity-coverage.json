@@ -14,7 +14,9 @@
     "publicationStatus": "local review branch; unpublished",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
-    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained"
+    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
+    "priorAuditRewritten": 12,
+    "priorAuditRetained": 0
   },
   {
     "course": "agriculture",
@@ -32,7 +34,9 @@
     "sourceReverification": "Blocked for original witnesses; existing derived explanations retained. FDA/EPA practical guidance reviewed separately.",
     "newClarityComposition": "New opening and practical bridge, selected existing explanation and revised optional questions; full original retained as depth",
     "validated": true,
-    "sourceBlocked": true
+    "sourceBlocked": true,
+    "priorAuditRewritten": 18,
+    "priorAuditRetained": 0
   },
   {
     "course": "ancient-myths",
@@ -49,7 +53,9 @@
     "publicationStatus": "local review branch; unpublished",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
-    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained"
+    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
+    "priorAuditRewritten": 8,
+    "priorAuditRetained": 0
   },
   {
     "course": "biodynamics",
@@ -67,7 +73,9 @@
     "sourceReverification": "Blocked for original witnesses; existing derived explanations retained. FDA/EPA practical guidance reviewed separately.",
     "newClarityComposition": "New opening and practical bridge, selected existing explanation and revised optional questions; full original retained as depth",
     "validated": true,
-    "sourceBlocked": true
+    "sourceBlocked": true,
+    "priorAuditRewritten": 24,
+    "priorAuditRetained": 0
   },
   {
     "course": "colour",
@@ -84,7 +92,9 @@
     "publicationStatus": "local review branch; unpublished",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
-    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained"
+    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
+    "priorAuditRewritten": 14,
+    "priorAuditRetained": 0
   },
   {
     "course": "encountering-the-self",
@@ -101,22 +111,29 @@
     "publicationStatus": "local review branch; unpublished",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
-    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained"
+    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
+    "priorAuditRewritten": 17,
+    "priorAuditRetained": 0
   },
   {
     "course": "foodwise",
     "authoredUnits": 39,
     "englishRoutes": 39,
     "audited": 39,
-    "rewritten": 7,
-    "retained": 32,
+    "rewritten": 26,
+    "retained": 13,
     "portugueseRoutes": 39,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
-    "newClarityStatus": "pending",
-    "newClarityUnits": 0,
-    "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "pending; existing attributions inherited"
+    "newClarityStatus": "completed",
+    "newClarityUnits": 39,
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "pending; existing attributions inherited",
+    "priorAuditRewritten": 7,
+    "priorAuditRetained": 32,
+    "validated": true,
+    "newClarityComposition": "39 direct readings reviewed; 26 generic activities replaced, translation/terminology corrected, 23 ingredient profiles and three untested recipes reviewed.",
+    "sourceBlocked": true
   },
   {
     "course": "foundations",
@@ -133,22 +150,28 @@
     "publicationStatus": "local review branch; unpublished",
     "sourceReverification": "Existing derived explanations and source records retained; no fresh original-book comparison",
     "newClarityDraftUnits": 36,
-    "newClarityDraftStatus": "Checkpoint integrated and validated in the 73-unit batch"
+    "newClarityDraftStatus": "Checkpoint integrated and validated in the 73-unit batch",
+    "priorAuditRewritten": 36,
+    "priorAuditRetained": 0,
+    "validated": true
   },
   {
     "course": "higher-worlds",
     "authoredUnits": 19,
     "englishRoutes": 19,
     "audited": 19,
-    "rewritten": 5,
-    "retained": 14,
+    "rewritten": 19,
+    "retained": 0,
     "portugueseRoutes": 19,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 19,
     "publicationStatus": "local review branch; unpublished",
-    "sourceReverification": "blocked for fresh original-source comparison; existing derived teaching and attributions retained"
+    "sourceReverification": "blocked for fresh original-source comparison; existing derived teaching and attributions retained",
+    "priorAuditRewritten": 5,
+    "priorAuditRetained": 14,
+    "validated": true
   },
   {
     "course": "introduction-to-anthroposophy",
@@ -163,7 +186,10 @@
     "newClarityStatus": "completed",
     "newClarityUnits": 28,
     "publicationStatus": "local review branch; unpublished",
-    "sourceReverification": "Existing derived explanations and source records retained; no fresh original-book comparison"
+    "sourceReverification": "Existing derived explanations and source records retained; no fresh original-book comparison",
+    "priorAuditRewritten": 28,
+    "priorAuditRetained": 0,
+    "validated": true
   },
   {
     "course": "learn/esoteric-christianity",
@@ -180,7 +206,9 @@
     "publicationStatus": "local review branch; unpublished",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
-    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained"
+    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
+    "priorAuditRewritten": 24,
+    "priorAuditRetained": 0
   },
   {
     "course": "meditation",
@@ -195,38 +223,51 @@
     "newClarityStatus": "completed",
     "newClarityUnits": 9,
     "publicationStatus": "local review branch; unpublished",
-    "sourceReverification": "Existing derived explanations and source records retained; no fresh original-book comparison"
+    "sourceReverification": "Existing derived explanations and source records retained; no fresh original-book comparison",
+    "priorAuditRewritten": 9,
+    "priorAuditRetained": 0,
+    "validated": true
   },
   {
     "course": "mystery-temperaments",
     "authoredUnits": 15,
     "englishRoutes": 15,
     "audited": 15,
-    "rewritten": 3,
-    "retained": 12,
+    "rewritten": 15,
+    "retained": 0,
     "portugueseRoutes": 15,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
-    "newClarityStatus": "pending",
-    "newClarityUnits": 0,
-    "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "Original PDF/Markdown bytes absent; metadata and derived notes available. Book-specific expansion provisional.",
-    "contextCorrectedUnits": 15
+    "newClarityStatus": "completed",
+    "newClarityUnits": 15,
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "Fresh original-book comparison pending; retained local teaching reviewed.",
+    "contextCorrectedUnits": 15,
+    "priorAuditRewritten": 3,
+    "priorAuditRetained": 12,
+    "validated": true,
+    "newClarityComposition": "Short bilingual readings with original everyday comparisons, selected retained explanation and optional explained answers; full earlier teaching preserved.",
+    "sourceBlocked": true
   },
   {
     "course": "nutrition",
     "authoredUnits": 18,
     "englishRoutes": 18,
     "audited": 18,
-    "rewritten": 0,
-    "retained": 18,
+    "rewritten": 18,
+    "retained": 0,
     "portugueseRoutes": 18,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
-    "newClarityStatus": "pending",
-    "newClarityUnits": 0,
-    "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "pending; existing attributions inherited"
+    "newClarityStatus": "completed",
+    "newClarityUnits": 18,
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "Fresh original-book comparison pending; retained local teaching reviewed.",
+    "priorAuditRewritten": 0,
+    "priorAuditRetained": 18,
+    "validated": true,
+    "newClarityComposition": "Short bilingual readings with original everyday comparisons, selected retained explanation and optional explained answers; full earlier teaching preserved.",
+    "sourceBlocked": true
   },
   {
     "course": "philosophy-of-freedom",
@@ -240,8 +281,11 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 22,
-    "publicationStatus": "approved Freedom revision deployed at 8bae0c2",
-    "sourceReverification": "pending; existing attributions inherited"
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "pending; existing attributions inherited",
+    "priorAuditRewritten": 22,
+    "priorAuditRetained": 0,
+    "validated": true
   },
   {
     "course": "practical-thinking",
@@ -256,22 +300,28 @@
     "newClarityStatus": "completed",
     "newClarityUnits": 13,
     "publicationStatus": "local review branch; unpublished",
-    "sourceReverification": "blocked for fresh original-source comparison; existing derived teaching and attributions retained"
+    "sourceReverification": "blocked for fresh original-source comparison; existing derived teaching and attributions retained",
+    "priorAuditRewritten": 13,
+    "priorAuditRetained": 0,
+    "validated": true
   },
   {
     "course": "temperaments",
     "authoredUnits": 11,
     "englishRoutes": 11,
     "audited": 11,
-    "rewritten": 2,
-    "retained": 9,
+    "rewritten": 11,
+    "retained": 0,
     "portugueseRoutes": 11,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 11,
     "publicationStatus": "local review branch; unpublished",
-    "sourceReverification": "Selected online GA 57/GA 295/GA 15 passages checked; missing original Childs/Mystery witnesses remain unverified"
+    "sourceReverification": "Selected online GA 57/GA 295/GA 15 passages checked; missing original Childs/Mystery witnesses remain unverified",
+    "priorAuditRewritten": 2,
+    "priorAuditRetained": 9,
+    "validated": true
   },
   {
     "course": "theosophy",
@@ -285,23 +335,29 @@
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 24,
-    "publicationStatus": "Theosophy clarity revision local and unpublished",
-    "sourceReverification": "pending; existing attributions inherited"
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "pending; existing attributions inherited",
+    "priorAuditRewritten": 24,
+    "priorAuditRetained": 0,
+    "validated": true
   },
   {
     "course": "theosophy-reading",
     "authoredUnits": 28,
     "englishRoutes": 28,
     "audited": 28,
-    "rewritten": 3,
-    "retained": 25,
+    "rewritten": 28,
+    "retained": 0,
     "portugueseRoutes": 28,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 28,
     "publicationStatus": "local review branch; unpublished",
-    "sourceReverification": "blocked for fresh original-source comparison; existing derived teaching and attributions retained"
+    "sourceReverification": "blocked for fresh original-source comparison; existing derived teaching and attributions retained",
+    "priorAuditRewritten": 3,
+    "priorAuditRetained": 25,
+    "validated": true
   },
   {
     "course": "toward-threefold-society",
@@ -318,53 +374,68 @@
     "publicationStatus": "local review branch; unpublished",
     "sourceReverification": "Existing local teaching reviewed; no fresh original-witness comparison",
     "validated": true,
-    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained"
+    "newClarityComposition": "Curated direct teaching with new chapter-specific application bridges and revised questions; full original retained",
+    "priorAuditRewritten": 7,
+    "priorAuditRetained": 0
   },
   {
     "course": "understand-temperament",
     "authoredUnits": 13,
     "englishRoutes": 13,
     "audited": 13,
-    "rewritten": 2,
-    "retained": 11,
+    "rewritten": 13,
+    "retained": 0,
     "portugueseRoutes": 13,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
-    "newClarityStatus": "pending",
-    "newClarityUnits": 0,
-    "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "Original PDF/Markdown bytes absent; metadata and derived notes available. Book-specific expansion provisional.",
-    "contextCorrectedUnits": 13
+    "newClarityStatus": "completed",
+    "newClarityUnits": 13,
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "Fresh original-book comparison pending; retained local teaching reviewed.",
+    "contextCorrectedUnits": 13,
+    "priorAuditRewritten": 2,
+    "priorAuditRetained": 11,
+    "validated": true,
+    "newClarityComposition": "Short bilingual readings with original everyday comparisons, selected retained explanation and optional explained answers; full earlier teaching preserved.",
+    "sourceBlocked": true
   },
   {
     "course": "understanding-temperaments",
     "authoredUnits": 12,
     "englishRoutes": 12,
     "audited": 12,
-    "rewritten": 1,
-    "retained": 11,
+    "rewritten": 12,
+    "retained": 0,
     "portugueseRoutes": 12,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
     "newClarityStatus": "completed",
     "newClarityUnits": 12,
     "publicationStatus": "local review branch; unpublished",
-    "sourceReverification": "Selected online GA 57/GA 295/GA 15 passages checked; missing original Childs/Mystery witnesses remain unverified"
+    "sourceReverification": "Selected online GA 57/GA 295/GA 15 passages checked; missing original Childs/Mystery witnesses remain unverified",
+    "priorAuditRewritten": 1,
+    "priorAuditRetained": 11,
+    "validated": true
   },
   {
     "course": "waldorf",
     "authoredUnits": 62,
     "englishRoutes": 98,
     "audited": 62,
-    "rewritten": 62,
-    "retained": 0,
+    "rewritten": 0,
+    "retained": 62,
     "portugueseRoutes": 98,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
-    "newClarityStatus": "pending",
-    "newClarityUnits": 0,
-    "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "pending; existing attributions inherited"
+    "newClarityStatus": "completed",
+    "newClarityUnits": 62,
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "pending; existing attributions inherited",
+    "priorAuditRewritten": 62,
+    "priorAuditRetained": 0,
+    "validated": true,
+    "newClarityComposition": "62 substantive bilingual readings retained after review; four PT wording corrections, status count corrected, regeneration guard added; 36 support routes separately reviewed.",
+    "sourceBlocked": true
   },
   {
     "course": "what-is-biodynamics",
@@ -382,6 +453,8 @@
     "sourceReverification": "Blocked for original witnesses; existing derived explanations retained. FDA/EPA practical guidance reviewed separately.",
     "newClarityComposition": "New opening and practical bridge, selected existing explanation and revised optional questions; full original retained as depth",
     "validated": true,
-    "sourceBlocked": true
+    "sourceBlocked": true,
+    "priorAuditRewritten": 14,
+    "priorAuditRetained": 0
   }
 ]

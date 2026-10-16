@@ -21,9 +21,11 @@ for(const row of clarityRows){
   const original=execFileSync('git',['show',baseline+':'+file],{maxBuffer:4e6}).toString();
   const oldTag=original.match(/<main\b[^>]*>/)[0],oldMain=wholeElement(original,oldTag);
   const heading=oldMain.match(/<h1\b[^>]*>[\s\S]*?<\/h1>/)[0],nav=wholeElement(oldMain,oldMain.match(/<nav\b[^>]*class="[^"]*\b(?:lesson-navigation|ec-prev-next)\b[^"]*"[^>]*>/)[0]);
-  const oldInner=oldMain.slice(oldTag.length,-7).replace(heading,'').replace(nav,'');
+  let oldInner=oldMain.slice(oldTag.length,-7).replace(heading,'').replace(nav,'');
+  // Explicit editorial correction: the previous PT translation changed comparison into addition.
+  if(row.course==='learn/esoteric-christianity'&&row.id==='ec1-21'&&lang==='pt')oldInner=oldInner.replace('Perceber a diferença esclarece a comparação com o Pai-Nosso, além de tratar os textos como simples inversões de palavras.','Perceber a diferença esclarece a comparação com o Pai-Nosso melhor do que tratar os textos como simples inversões de palavras.');
   const depth=wholeElement(html,'<details class="batch-retained-depth"');
-  assert.equal(depth.slice(depth.indexOf('</summary>')+10,-10),oldInner,file+' exact retained original content');
+  assert.equal(depth.slice(depth.indexOf('</summary>')+10,-10),oldInner,file+' original content retained, allowing the documented PT comparative correction');
   assert.ok(html.includes(oldTag)&&html.includes(heading)&&html.includes(nav),file+' main hooks, title, navigation preserved');
   assert.ok(html.indexOf(first)<html.indexOf(depth)&&html.indexOf(depth)<html.indexOf(nav),file+' reading-depth-navigation order');
  }

@@ -30,7 +30,12 @@ for(const lang of ['en','pt']){
    for(const word of ['GA 295',lang==='pt'?'data':'birthday',lang==='pt'?'depressão':'depression',lang==='pt'?'TDAH':'ADHD'])assert.ok(note.includes(word),file+' missing correction '+word);
    if(['understand-temperament','mystery-temperaments'].includes(course)){
     const old=execFileSync('git',['show',baseline+':'+file],{maxBuffer:4e6}).toString();
-    const removed=html.replace(wholeElement(html,'<aside class="temperament-source-context"'),'').replace(wholeElement(html,'<p class="temperament-guide-link"'),'');assert.equal(removed,old,file+' source companion unchanged apart from contextual additions');
+    const oldTag=old.match(/<main\b[^>]*>/)[0],oldMain=wholeElement(old,oldTag);
+    const heading=oldMain.match(/<h1\b[^>]*>[\s\S]*?<\/h1>/)[0],nav=wholeElement(oldMain,'<nav class="lesson-navigation"');
+    const depth=wholeElement(html,'<details class="batch-retained-depth"');
+    const removed=depth.slice(depth.indexOf('</summary>')+10,-10).replace(wholeElement(depth,'<aside class="temperament-source-context"'),'').replace(wholeElement(depth,'<p class="temperament-guide-link"'),'');
+    assert.equal(removed,oldMain.slice(oldTag.length,-7).replace(heading,'').replace(nav,''),file+' complete companion teaching preserved beneath new first reading');
+    assert.ok(html.includes(heading)&&html.includes(nav),file+' companion heading and navigation retained');
    }
   }
  }
@@ -39,4 +44,4 @@ for(const lang of ['en','pt']){
  assert.equal((wholeElement(guide,'<section id="practical-guide"').match(/<tr>/g)||[]).length,5,'Same situation comparison: header plus four portraits');
 }
 assert.equal(JSON.parse(fs.readFileSync('content/foundations-introduction-clear-lessons.json')).filter(r=>r.course==='foundations').length,36,'Earlier draft checkpoint retained');
-console.log('Passed: 23 bilingual first readings, 46 retained complete original bodies, contextual corrections on all 102 family lesson pages, 56 book-companion pages otherwise unchanged, four-portrait comparison and source/birth distinctions.');
+console.log('Passed: 23 bilingual first readings, 46 retained complete original bodies, contextual corrections on all 102 family lesson pages, 56 book-companion original bodies preserved beneath new first readings, four-portrait comparison and source/birth distinctions.');

@@ -133,3 +133,9 @@ buildAgricultureClarity();
 
 const {buildHumanitiesClarity}=await import('./build-humanities-clarity.mjs');
 buildHumanitiesClarity();
+
+const {buildNutritionClarity}=await import('./build-nutrition-clarity.mjs');
+buildNutritionClarity();
+
+const {buildCompanionClarity}=await import('./build-temperament-companions-clarity.mjs');
+buildCompanionClarity();
