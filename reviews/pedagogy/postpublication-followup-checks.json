@@ -1,0 +1,17 @@
+[
+  {
+    "script": "scripts/check-nutrition-clarity.mjs",
+    "exitCode": 0,
+    "output": "Passed: 18 bilingual Nutrition units, full first readings and explained answers; 36 original bodies preserved against 6d5a197.\n"
+  },
+  {
+    "script": "scripts/check-language-editorial.mjs",
+    "exitCode": 0,
+    "output": "Passed: all 177 passage quotation records unchanged; documented note corrections; Nutrition answer-topic regressions; 72 standalone Foundations answers; visible recipe qualifications.\nPassed: independent meaning, grammar, safety-constraint and locator findings rendered in both course layers.\n"
+  },
+  {
+    "script": "scripts/check-site.mjs",
+    "exitCode": 0,
+    "output": "Passed: 1587 pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.\n"
+  }
+]

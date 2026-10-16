@@ -1,0 +1,51 @@
+{
+  "initialPublication": {
+    "sha": "437613039b6fd2f0d92a6a6daa902818697576b8",
+    "workflowRun": 38881463250,
+    "deployJob": 116909028304,
+    "status": "success",
+    "completedAt": "2026-10-16T09:35:41Z",
+    "url": "https://riaanptrs.github.io/Anthroposophy/",
+    "artifactId": 12037168265,
+    "artifactZipSha256": "78c5852502f3fd7f5dd01586f9fff65dacbde1277e8ae19edd8fcc82b7fb9b92"
+  },
+  "publicEndpointVerification": {
+    "status": "blocked",
+    "shellResult": "CONNECT tunnel failed: HTTP 403 from environment proxy",
+    "webReaderResult": "URL not accessible via this tool",
+    "classification": "network/tool limitation, not an automatic approval rejection",
+    "targets": [
+      "https://riaanptrs.github.io/Anthroposophy/",
+      "https://riaanptrs.github.io/Anthroposophy/pt/nutrition/05.html"
+    ]
+  },
+  "postpublicationLanguage": {
+    "htmlPages": 1587,
+    "uniqueProseBlocks": 58591,
+    "tokenOccurrences": 1144244,
+    "bilingualAuthoringPairs": 17049,
+    "dictionaryFlags": 4047,
+    "newUnclassifiedFlags": 0,
+    "oldCorrectedFullParagraphsOnTeachingPages": 0,
+    "unexplainedEnglishParagraphCandidatesInPortugueseTeachingPages": 0,
+    "finalRefinement": "Nutrition 05: replace excessive selflessness with bodily stabilizing role during spiritual development in both languages, avoiding a misleading moral implication. The explicit non-advice qualification remains."
+  },
+  "finalPublication": "Follow-up commit publishes the final Nutrition refinement; the exact merge SHA and successful Pages run are recorded in the follow-up PR and final delivery receipt.",
+  "independentFindings": "All reported answer, meaning, grammar, purchased-ingredient and locator corrections are asserted in scripts/check-language-editorial.mjs.",
+  "browser": {
+    "pages": 1587,
+    "viewportCases": 3174,
+    "status": "passed",
+    "scope": "Local generated content matching the published revision; direct live fetching blocked."
+  },
+  "finalRefinementValidation": {
+    "changedHtmlPages": 4,
+    "viewportCases": 8,
+    "staticChecks": [
+      "check-nutrition-clarity",
+      "check-language-editorial",
+      "check-site"
+    ],
+    "status": "passed"
+  }
+}
