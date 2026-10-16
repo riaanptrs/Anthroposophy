@@ -20,7 +20,7 @@ The batch's composition is recorded per unit in `content/agriculture-clear-lesso
 - Browser checks cover complete visible prose in authored order, two optional explained answers operated by keyboard, closed/openable original depth, visible navigation, language, one heading, local links/fragments, assets, duplicate IDs and horizontal overflow.
 - `check-agriculture-clarity.mjs` verifies exact course order, bilingual composition and preservation of every original body against `4f931f4`.
 
-The first browser invocation used an incorrect dependency search path and stopped before opening pages. Rerunning with the installed Playwright path completed all cases. This was an execution configuration issue, not a page failure. No learner trial has been conducted; software checks do not validate pedagogical outcomes or spiritual/agronomic claims.
+The first browser invocation used an incorrect dependency search path and stopped before opening pages. Rerunning with the installed Playwright path completed all cases. This was an execution configuration issue, not a page failure. A final copyedit supplied missing sentence punctuation between selected answers and their explanations; the full build, all 43 validators and all 224 browser cases passed again afterward. No learner trial has been conducted; software checks do not validate pedagogical outcomes or spiritual/agronomic claims.
 
 ## Review deliverables
 

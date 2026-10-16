@@ -14,7 +14,7 @@ On paper, follow one week's feed from its origin to the animals and onward to ma
 
 **Which explanation preserves Steiner's qualification?**
 
-A farm should approach internal self-support, although complete self-containment cannot be achieved Lecture 2 presents self-containment as a direction to approach and expressly limits its full implementation. Appropriate livestock is part of the ideal, not a substitute for examining the whole.
+A farm should approach internal self-support, although complete self-containment cannot be achieved. Lecture 2 presents self-containment as a direction to approach and expressly limits its full implementation. Appropriate livestock is part of the ideal, not a substitute for examining the whole.
 
 **How could a garden without livestock use the farm-individuality question, and where would the analogy need qualification?**
 
@@ -32,7 +32,7 @@ No papel, acompanhe a alimentação de uma semana desde sua origem até os anima
 
 **Qual explicação preserva a ressalva de Steiner?**
 
-Uma fazenda deve se aproximar da sustentação interna, embora a autossustentação completa não possa ser alcançada A Palestra 2 apresenta a autossustentação como uma direção da qual se aproximar e limita expressamente sua implementação completa. A criação adequada faz parte do ideal, sem substituir o exame do todo.
+Uma fazenda deve se aproximar da sustentação interna, embora a autossustentação completa não possa ser alcançada. A Palestra 2 apresenta a autossustentação como uma direção da qual se aproximar e limita expressamente sua implementação completa. A criação adequada faz parte do ideal, sem substituir o exame do todo.
 
 **Como uma horta sem criação animal poderia usar a questão da individualidade agrícola, e onde a analogia precisaria de ressalvas?**
 
@@ -50,7 +50,7 @@ Draw two arrows: harvested products going out and suitable residues returning th
 
 **What does Steiner mean when he calls compost’s astrality more stable?**
 
-He distinguishes qualities within his attributed spiritual fertility model The stability claim compares proposed etheric and astral activity. It is not a universal experimental ranking or a guarantee against losses.
+He distinguishes qualities within his attributed spiritual fertility model. The stability claim compares proposed etheric and astral activity. It is not a universal experimental ranking or a guarantee against losses.
 
 **Draw a fertility map with at least two return paths and one outside flow. What belongs in an observation column, and what belongs in Steiner’s interpretation?**
 
@@ -68,7 +68,7 @@ Desenhe duas setas: produtos colhidos saindo e resíduos adequados retornando po
 
 **O que Steiner quer dizer ao chamar a astralidade do composto de mais estável?**
 
-Distingue qualidades dentro de seu modelo espiritual de fertilidade A afirmação de estabilidade compara atividades etérica e astral propostas. Não é uma classificação experimental universal nem garantia contra perdas.
+Distingue qualidades dentro de seu modelo espiritual de fertilidade. A afirmação de estabilidade compara atividades etérica e astral propostas. Não é uma classificação experimental universal nem garantia contra perdas.
 
 **Desenhe um mapa de fertilidade com pelo menos dois caminhos de retorno e um fluxo externo. O que pertence à coluna de observações e o que pertence à interpretação de Steiner?**
 
