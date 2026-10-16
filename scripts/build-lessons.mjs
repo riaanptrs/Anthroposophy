@@ -119,3 +119,7 @@ buildConceptPlatform({model:conceptualCourse});
 // Apply the common pedagogy after every course has rendered its own content.
 const {buildTeachingApproach}=await import('./build-teaching-approach.mjs');
 buildTeachingApproach();
+
+// Short bilingual readings follow the owner renderers and shared teaching transforms.
+const {buildRemainingClarity}=await import('./build-remaining-clarity.mjs');
+buildRemainingClarity();
