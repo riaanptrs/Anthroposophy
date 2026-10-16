@@ -123,3 +123,5 @@ buildTeachingApproach();
 // Short bilingual readings follow the owner renderers and shared teaching transforms.
 const {buildRemainingClarity}=await import('./build-remaining-clarity.mjs');
 buildRemainingClarity();
+const {buildTemperamentsClarity}=await import('./build-temperaments-clarity.mjs');
+buildTemperamentsClarity();

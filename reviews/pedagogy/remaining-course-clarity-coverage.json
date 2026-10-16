@@ -117,7 +117,9 @@
     "newClarityStatus": "pending",
     "newClarityUnits": 0,
     "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "pending; existing attributions inherited"
+    "sourceReverification": "pending; existing attributions inherited",
+    "newClarityDraftUnits": 36,
+    "newClarityDraftStatus": "Saved checkpoint; not integrated or validated; paused for temperament priority"
   },
   {
     "course": "higher-worlds",
@@ -192,7 +194,8 @@
     "newClarityStatus": "pending",
     "newClarityUnits": 0,
     "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "pending; existing attributions inherited"
+    "sourceReverification": "Original PDF/Markdown bytes absent; metadata and derived notes available. Book-specific expansion provisional.",
+    "contextCorrectedUnits": 15
   },
   {
     "course": "nutrition",
@@ -249,10 +252,10 @@
     "portugueseRoutes": 11,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
-    "newClarityStatus": "pending",
-    "newClarityUnits": 0,
-    "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "pending; existing attributions inherited"
+    "newClarityStatus": "completed",
+    "newClarityUnits": 11,
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "Selected online GA 57/GA 295/GA 15 passages checked; missing original Childs/Mystery witnesses remain unverified"
   },
   {
     "course": "theosophy",
@@ -312,7 +315,8 @@
     "newClarityStatus": "pending",
     "newClarityUnits": 0,
     "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "pending; existing attributions inherited"
+    "sourceReverification": "Original PDF/Markdown bytes absent; metadata and derived notes available. Book-specific expansion provisional.",
+    "contextCorrectedUnits": 13
   },
   {
     "course": "understanding-temperaments",
@@ -324,10 +328,10 @@
     "portugueseRoutes": 12,
     "pendingAuthoredUnits": 0,
     "baselineAudit": "Earlier scoped pedagogical audit retained; not a new clarity pass",
-    "newClarityStatus": "pending",
-    "newClarityUnits": 0,
-    "publicationStatus": "no changes in this clarity batch",
-    "sourceReverification": "pending; existing attributions inherited"
+    "newClarityStatus": "completed",
+    "newClarityUnits": 12,
+    "publicationStatus": "local review branch; unpublished",
+    "sourceReverification": "Selected online GA 57/GA 295/GA 15 passages checked; missing original Childs/Mystery witnesses remain unverified"
   },
   {
     "course": "waldorf",

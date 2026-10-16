@@ -1,0 +1,174 @@
+{
+  "checked": "2026-10-16",
+  "scope": "Accessible /workspace and /tmp paths; source register and upload modules. Parent independently checks Library.",
+  "currentOriginalBytesFound": false,
+  "records": [
+    {
+      "filename": "Understand your temperament.md",
+      "bytes": 190931,
+      "sha256": "1fb970c84ef83a079dd66792fbfab5ee3e91dcd6e5c3b505f0b7887cc47d15ec",
+      "registered": "2026-09-12",
+      "contents_in_repository": false,
+      "availablePath": null,
+      "availability": "missing in selected workspace",
+      "role": "text capture/OCR or transcript witness; consult edition ledger, not an original print/PDF",
+      "blocksIndependentTeaching": false
+    },
+    {
+      "filename": "The Mystery of Temperaments.md",
+      "sha256": "634c3c52fc1454f0b0f4daf7523c9a4b2d5b3efb6b353287ae5f98ef790a43f3",
+      "bytes": 100774,
+      "registered": "2026-10-01",
+      "contents_in_repository": false,
+      "capture_pages": 33,
+      "course": "mystery-temperaments",
+      "format": "markdown",
+      "author": "Rudolf Steiner",
+      "translator": null,
+      "publisher": null,
+      "publication_year": null,
+      "lecture_date": null,
+      "ga": null,
+      "identity_evidence_captures": [
+        1,
+        2
+      ],
+      "notes": [
+        "mystery-temperaments-page-notes-front-and-foundation.md",
+        "mystery-temperaments-page-notes-portraits-and-education.md",
+        "mystery-temperaments-page-notes-guidance-and-conclusion.md"
+      ],
+      "limitations": "Translation and edition details unidentified; repeated/damaged expressions belong to the native PDF.",
+      "availablePath": null,
+      "availability": "missing in selected workspace",
+      "role": "text capture/OCR or transcript witness; consult edition ledger, not an original print/PDF",
+      "blocksIndependentTeaching": false
+    },
+    {
+      "filename": "understand your temperament.pdf",
+      "sha256": "9a07e6670bc0de850de829493fd97a2999ec7c8cabb0758a7efc9ecd1a0a7ac9",
+      "bytes": 16029699,
+      "registered": "2026-09-30",
+      "contents_in_repository": false,
+      "capture_pages": 97,
+      "course": "understand-temperament",
+      "format": "pdf",
+      "publisher": "Rudolf Steiner Press",
+      "publication_year": 2012,
+      "first_publication_year": 1995,
+      "copyright_year": 1995,
+      "author": "Gilbert Childs",
+      "isbn": "9781855843585",
+      "edition_evidence_capture": 4,
+      "notes": [
+        "childs-temperament-page-notes-front-and-psychology.md",
+        "childs-temperament-page-notes-portraits.md",
+        "childs-temperament-page-notes-work-relationships-and-love.md",
+        "childs-temperament-page-notes-appendices-and-references.md"
+      ],
+      "availablePath": null,
+      "availability": "missing in selected workspace",
+      "role": "book/publication witness; edition and canonical/comparison role are course-specific",
+      "blocksIndependentTeaching": false
+    },
+    {
+      "filename": "understand your temperament.md",
+      "sha256": "c30a70d8d2a005a3c868b8a0e77a2ebc32293a2b66a1fc866587356bb2cbaf3c",
+      "bytes": 262597,
+      "registered": "2026-09-30",
+      "contents_in_repository": false,
+      "capture_pages": 97,
+      "course": "understand-temperament",
+      "format": "markdown",
+      "publisher": "Rudolf Steiner Press",
+      "publication_year": 2012,
+      "first_publication_year": 1995,
+      "copyright_year": 1995,
+      "author": "Gilbert Childs",
+      "isbn": "9781855843585",
+      "edition_evidence_capture": 4,
+      "notes": [
+        "childs-temperament-page-notes-front-and-psychology.md",
+        "childs-temperament-page-notes-portraits.md",
+        "childs-temperament-page-notes-work-relationships-and-love.md",
+        "childs-temperament-page-notes-appendices-and-references.md"
+      ],
+      "availablePath": null,
+      "availability": "missing in selected workspace",
+      "role": "text capture/OCR or transcript witness; consult edition ledger, not an original print/PDF",
+      "blocksIndependentTeaching": false
+    },
+    {
+      "filename": "The Mystery of Temperaments.pdf",
+      "sha256": "269c9abccada07a1659094d6288851cda71d9794560d5b6eed8bf53fc0af7a0b",
+      "bytes": 6108177,
+      "registered": "2026-10-01",
+      "contents_in_repository": false,
+      "capture_pages": 33,
+      "course": "mystery-temperaments",
+      "format": "pdf",
+      "author": "Rudolf Steiner",
+      "translator": null,
+      "publisher": null,
+      "publication_year": null,
+      "lecture_date": null,
+      "ga": null,
+      "identity_evidence_captures": [
+        1,
+        2
+      ],
+      "notes": [
+        "mystery-temperaments-page-notes-front-and-foundation.md",
+        "mystery-temperaments-page-notes-portraits-and-education.md",
+        "mystery-temperaments-page-notes-guidance-and-conclusion.md"
+      ],
+      "limitations": "Translation and edition details unidentified; repeated/damaged expressions belong to the native PDF.",
+      "availablePath": null,
+      "availability": "missing in selected workspace",
+      "role": "book/publication witness; edition and canonical/comparison role are course-specific",
+      "blocksIndependentTeaching": false
+    }
+  ],
+  "courseMapping": {
+    "understand-temperament": {
+      "author": "Gilbert Childs",
+      "title": "Understand Your Temperament! A Guide to the Four Temperaments: Choleric, Sanguine, Phlegmatic, Melancholic",
+      "units": 13,
+      "edition": "Rudolf Steiner Press / Sophia Books 2012; first published 1995; ISBN 9781855843585",
+      "evidence": "Existing upload record; not a fresh original inspection"
+    },
+    "mystery-temperaments": {
+      "author": "Rudolf Steiner",
+      "title": "The Mystery of Temperaments",
+      "units": 15,
+      "edition": "Publisher, translator, year, lecture date and GA number unidentified in retained upload metadata",
+      "evidence": "Existing title/author record; parallel GA 57 lecture does not establish upload identity"
+    },
+    "understanding-temperaments": {
+      "units": 12,
+      "role": "Combined teaching course linking both books and GA 57"
+    },
+    "temperaments": {
+      "units": 11,
+      "role": "Separate GA 57 4 March 1909 companion"
+    }
+  },
+  "onlinePrimaryChecks": [
+    {
+      "url": "https://rsarchive.org/Lectures/GA057/English/eLib2014/19090304p02.html",
+      "scope": "Origins, mixed portraits, constitutional relationships; online translation distinct from missing uploaded edition"
+    },
+    {
+      "url": "https://rsarchive.org/Lectures/GA295/English/AP1997/19190821d01.html",
+      "scope": "Discussion One paragraphs 5–9: explicit child/adult difference"
+    },
+    {
+      "url": "https://rsarchive.org/Books/GA015/English/AP1992/GA015_c03.html",
+      "scope": "Chapter 3 paragraphs 14–18: cosmic incarnation and horoscope claims; no birthday-to-four-temperament formula supplied"
+    }
+  ],
+  "researchLimits": "Parent supplied published research findings. Local web retrieval of modern research full text met a browser challenge and the birth-date study endpoint returned an error. No numerical research claims or sweeping denial of all possible seasonal effects added. Modern reference retained as a distinct research framework, not validation of spiritual correspondences.",
+  "blockedAction": "Fresh comparison of Childs and Mystery original books and any further book-specific expansion",
+  "reason": "Original PDF/Markdown bytes not found; metadata and derived notes are available",
+  "denied": false
+}

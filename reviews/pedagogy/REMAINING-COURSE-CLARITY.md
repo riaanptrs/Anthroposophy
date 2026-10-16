@@ -1,6 +1,6 @@
 # Current clarity-pass coverage
 
-This checklist distinguishes the current clarity pass from earlier pedagogical audits. All 487 units have an earlier scoped audit; 106 now have completed short first readings. The remaining 381 units in 19 groups are pending this clarity pass. Freedom was previously published; every later clarity batch remains local and unpublished.
+129 of 487 authored units have completed the clarity pass. 358 units in 17 groups remain pending. Earlier scoped audits do not count as new clarity rewriting. Freedom was previously published; all later changes remain local and unpublished.
 
 | Course / companion | Units | New clarity pass | Publication |
 | --- | ---: | --- | --- |
@@ -20,17 +20,19 @@ This checklist distinguishes the current clarity pass from earlier pedagogical a
 | nutrition | 18 | pending | no changes in this clarity batch |
 | philosophy-of-freedom | 22 | completed | approved Freedom revision deployed at 8bae0c2 |
 | practical-thinking | 13 | completed | local review branch; unpublished |
-| temperaments | 11 | pending | no changes in this clarity batch |
+| temperaments | 11 | completed | local review branch; unpublished |
 | theosophy | 24 | completed | Theosophy clarity revision local and unpublished |
 | theosophy-reading | 28 | completed | local review branch; unpublished |
 | toward-threefold-society | 7 | pending | no changes in this clarity batch |
 | understand-temperament | 13 | pending | no changes in this clarity batch |
-| understanding-temperaments | 12 | pending | no changes in this clarity batch |
+| understanding-temperaments | 12 | completed | local review branch; unpublished |
 | waldorf | 62 | pending | no changes in this clarity batch |
 | what-is-biodynamics | 14 | pending | no changes in this clarity batch |
 
-The Theosophy conceptual course and its 28-unit source-reading companion have separate identities. The 36 Waldorf support/grade routes are additional to its 62 authored topics. All groups have English and Portuguese counterparts; Nutrition documentary excerpts retain their existing English-only qualification.
+Foundations: 36 bilingual drafts checkpointed, not integrated or validated. Introduction (28) and Meditation and Inner Life (9) inspected but not drafted in this batch. These 73 units remain pending.
 
-Completed current batch: 28 companion readings, 13 Practical Thinking units (12 core and one optional forecast) and 19 Higher Worlds units, in both languages. See `remaining-clarity-ledger.json` for every unit and `REMAINING-CLARITY-REVIEW.md` for checks and source limits.
+Temperament priority: 12 combined-course units and 11 GA 57 companion units complete in both languages. The Childs (13) and Mystery (15) companions received historical/context corrections only; their short-reading rewrite remains pending and further book-specific expansion is provisional until originals can be checked.
 
-Later batches: temperaments and human development; spiritual/cultural courses; agriculture/nutrition; Waldorf. Source-blocked does not mean independently authored teaching must stop. No publication is authorized for these batches.
+The 36 Waldorf support/grade routes are additional to its 62 authored topics. English/Portuguese counterparts are retained throughout; Nutrition documentary excerpts retain their existing English-only qualification.
+
+See `TEMPERAMENTS-CLARITY-REVIEW.md`, `temperaments-clarity-ledger.json` and `temperament-source-access.json` for the priority batch and exact original-file limits. No additional publication is authorized.

@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "pages": 64,
+  "viewportCases": 128,
+  "widths": [
+    1280,
+    320
+  ],
+  "javascript": false,
+  "checks": [
+    "28 source-companion lessons in both languages retain visible contextual corrections",
+    "four bilingual indexes link practical guide",
+    "four same-situation portrait links",
+    "single h1 and correct language",
+    "local links and fragments",
+    "no duplicate IDs or missing assets",
+    "no horizontal page overflow; comparison table scrolls within container"
+  ],
+  "limits": [
+    "No original PDF/Markdown verification",
+    "No learner study"
+  ]
+}

@@ -3,8 +3,8 @@ import {linkTerms} from './link-constitution.mjs';
 import {esc,n,relative,wholeElement} from './learning-html.mjs';
 export const clarityRows=JSON.parse(fs.readFileSync(new URL('../content/remaining-course-clear-lessons.json',import.meta.url),'utf8'));
 export const clarityRoute=(row,lang)=>`docs/${lang==='pt'?'pt/':''}${row.course==='theosophy-reading'?'lessons':row.course+'/lessons'}/${n(row.id)}.html`;
-export function buildRemainingClarity(){
- for(const row of clarityRows)for(const lang of ['en','pt']){
+export function buildRemainingClarity(rows=clarityRows){
+ for(const row of rows)for(const lang of ['en','pt']){
   const file=clarityRoute(row,lang),v=row[lang],pt=lang==='pt';let html=fs.readFileSync(file,'utf8');
   if(html.includes('data-batch-clarity-first'))throw Error('Clarity pass requires freshly rendered input: '+file);
   const mainTag=html.match(/<main\b[^>]*>/)?.[0],main=mainTag&&wholeElement(html,mainTag);
@@ -14,9 +14,9 @@ export function buildRemainingClarity(){
   const retained=main.slice(mainTag.length,-7).replace(heading,'').replace(nav,'');
   const index=`docs/${pt?'pt/':''}${row.course==='theosophy-reading'?'read/theosophy':row.course}/index.html`;
   let first=`<section class="batch-first-reading" data-batch-clarity-first="${row.course}/${n(row.id)}">${v.paragraphs.map(p=>`<p>${esc(p)}</p>`).join('')}<h2>${pt?'Duas perguntas — opcionais':'Two questions — optional'}</h2>${v.checks.map(([q,a])=>`<div class="batch-clarity-check"><p>${esc(q)}</p><details class="batch-clarity-answer"><summary>${pt?'Ver uma explicação':'See an explanation'}</summary><p>${esc(a)}</p></details></div>`).join('')}</section>`;
-  if(row.course==='higher-worlds')first=linkTerms('<body>'+first+'</body>',relative(file,`docs/${pt?'pt/':''}reference/human-constitution.html`)).html.slice(6,-7);
+  if(['higher-worlds','temperaments','understanding-temperaments'].includes(row.course))first=linkTerms('<body>'+first+'</body>',relative(file,`docs/${pt?'pt/':''}reference/human-constitution.html`)).html.slice(6,-7);
   html=html.replace(main,`${mainTag}<p class="breadcrumb"><a href="${relative(file,index)}">← ${pt?'Curso completo':'Full course'}</a></p>${heading}${first}<details class="batch-retained-depth"><summary>${pt?'Leitura completa, fontes e outras práticas — opcional':'Full reading, sources and further practice — optional'}</summary>${retained}</details>${nav}</main>`);
   fs.writeFileSync(file,html);
  }
- console.log('Built 60 bilingual first readings; full teaching retained as optional depth.');
+ console.log(`Built ${rows.length} bilingual first readings; full teaching retained as optional depth.`);
 }
