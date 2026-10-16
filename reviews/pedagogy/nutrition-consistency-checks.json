@@ -1,0 +1,34 @@
+{
+  "checks": [
+    {
+      "script": "scripts/check-nutrition.mjs",
+      "exitCode": 0,
+      "output": "Passed: nutrition chapter/capture coverage, 16 short verified excerpts, 54 checks, 37 response models, paper answers, source locators and discovery links.\nPortuguese Nutrition: 18 condensed teaching counterparts, 54 aligned checks, 37 responses, five comparison tables, 118 inherited locators, reciprocal language navigation and paper edition.\n"
+    },
+    {
+      "script": "scripts/check-nutrition-clarity.mjs",
+      "exitCode": 0,
+      "output": "Passed: 18 bilingual Nutrition units, full first readings and explained answers; 36 original bodies preserved against 6d5a197.\n"
+    },
+    {
+      "script": "scripts/check-language-editorial.mjs",
+      "exitCode": 0,
+      "output": "Passed: all 177 passage quotation records unchanged; documented note corrections; Nutrition answer-topic regressions; 72 standalone Foundations answers; visible recipe qualifications.\nPassed: independent meaning, grammar, safety-constraint and locator findings rendered in both course layers.\n"
+    },
+    {
+      "script": "scripts/check-site.mjs",
+      "exitCode": 0,
+      "output": "Passed: 1587 pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.\n"
+    }
+  ],
+  "changedPages": [
+    "nutrition/05.html",
+    "nutrition/index.html",
+    "nutrition/print.html",
+    "nutrition/sources.html",
+    "pt/nutrition/05.html",
+    "pt/nutrition/print.html",
+    "pt/nutrition/sources.html"
+  ],
+  "quotationPreservation": "All blockquotes on changed pages and every Nutrition excerpt field unchanged."
+}
