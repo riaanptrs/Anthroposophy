@@ -61,7 +61,7 @@ for (const relative of files) {
  const file = path.join(root,relative), html = fs.readFileSync(file,'utf8');
  const normalized=relative.replaceAll('\\','/'),platformOwned=isConceptPlatformOwned(normalized,html);
  if(html.includes('data-concept-platform-owned="true"')&&!platformOwned)errors.push(`${relative}: conceptual ownership outside exact route manifest`);
- const answerDetails=(html.match(/<details(?! class="(?:guided-|course-source-study))\b/g)||[]).length;
+ const answerDetails=(html.match(/<details(?! class="(?:guided-|course-source-study|batch-clarity-answer|batch-retained-depth))\b/g)||[]).length;
  const ids = [...html.matchAll(/\sid="([^"]+)"/g)].map(m=>m[1]);
  if(new Set(ids).size!==ids.length) errors.push(`${relative}: duplicate id`);
  if((html.match(/<h1\b/g)||[]).length!==1) errors.push(`${relative}: expected one h1`);
@@ -385,7 +385,7 @@ for(const prefix of ['', 'pt/'])for(const route of ['index.html','sources.html',
 
 // Nutrition has eighteen teaching counterparts and translated support routes.
 const nutritionCourse=JSON.parse(fs.readFileSync('content/nutrition/course.json','utf8'));
-for(const prefix of ['', 'pt/'])for(const route of ['index.html','print.html','sources.html',...Array.from({length:nutritionCourse.lessons.length+2},(_,i)=>String(i).padStart(2,'0')+'.html')])expectedRoutes.add(prefix+'nutrition/'+route);
+for(const prefix of ['', 'pt/'])for(const route of ['index.html','print.html','first-readings.html','sources.html',...Array.from({length:nutritionCourse.lessons.length+2},(_,i)=>String(i).padStart(2,'0')+'.html')])expectedRoutes.add(prefix+'nutrition/'+route);
 expectedRoutes.add('nutrition/teacher-plans.html');
 for(const route of platformRoutes)expectedRoutes.add(route);
 for(const prefix of ['', 'pt/']){

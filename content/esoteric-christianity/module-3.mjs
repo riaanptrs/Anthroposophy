@@ -28,7 +28,7 @@ Os magos pertencem a essa corrente de sabedoria adquirida. Mateus narra sua busc
 Dois livros exigem cuidado. O Livro da Abelha preserva uma tradição atribuída a Zaradusht numa compilação cristã medieval. Não é uma transcrição de testemunhas da Babilônia antiga. A proposta de catorze encarnações vem do estudo de Andrew Welburn, citado pelo palestrante quando reconhece que Steiner não dá esse número ali. Podemos compreender a preparação persistente sem inventar uma lista de catorze vidas.
 
 O gesto prático é servir ao longo do tempo. Cultiva-se uma capacidade para uma necessidade além do reconhecimento pessoal imediato. A palestra dá a esse gesto uma escala cósmica; uma analogia cotidiana ajuda a compreender sua direção sem estabelecer as identidades espirituais como cronologia histórica.`,
- 'Uma pessoa aprende uma habilidade necessária à comunidade e depois ensina outras a utilizá-la. A preparação ganha coerência antes de sua ocasião futura. Sua finalidade é atender à necessidade, além de possuir conhecimento.',
+ 'Uma pessoa aprende uma habilidade necessária à comunidade e depois ensina outras a utilizá-la. A preparação ganha coerência antes de sua ocasião futura. Sua finalidade é atender à necessidade, não simplesmente possuir conhecimento.',
  'Nomes como Zarathas e Nazaratos pertencem ao relato de continuidade espiritual do palestrante. A série não estabelece historicamente todas as identidades, uma diferença exata de idade ou uma data de nascimento a partir de conjunções.',
  'Durante cinco minutos, identifique uma capacidade que possa cultivar para ajudar alguém. Escolha um próximo passo realista, sem alegar uma conquista espiritual.'
 ]);
@@ -91,7 +91,7 @@ O “caminho exterior” significa encontrar sentido espiritual pela atenção a
 
 Observação e inferência continuam distintas. Você pode descrever folhas caídas numa planta. Pode inferir falta de água. Mas outras condições poderiam explicar a aparência. Observar solo e circunstâncias melhora o julgamento. O raciocínio torna-se mais útil quando responde àquilo que realmente se observa. A interpretação espiritual acrescenta outra camada; deve ser identificada, não introduzida como se fosse observação direta.
 
-As histórias patriarcais mostram que a inteligência permanece eticamente aberta. A esperteza de Jacó inclui engano na história da bênção. A interpretação e administração de José ajudam a enfrentar a fome. A inteligência pode manipular ou servir; possuí-la não decide como será usada. Uma lição sobre preparação precisa incluir finalidade, além da capacidade.
+As histórias patriarcais mostram que a inteligência permanece eticamente aberta. A esperteza de Jacó inclui engano na história da bênção. A interpretação e administração de José ajudam a enfrentar a fome. A inteligência pode manipular ou servir; possuí-la não decide como será usada. Uma lição sobre preparação precisa incluir finalidade, não apenas capacidade.
 
 O retrato de Abraão como primeiro pensador moderno pertence à história espiritual do palestrante. Não é uma história estabelecida da invenção da matemática. O simbolismo do cabelo na comparação Jacó–Esaú também é uma interpretação da fonte, não um diagnóstico de pessoas vivas. Podemos praticar diretamente observação cuidadosa, inferência refletida e responsabilidade pelo uso do conhecimento.`,
  'Duas pessoas veem a mesma planta com folhas caídas. Uma rega imediatamente; outra verifica se o vaso já está encharcado. A segunda acrescenta observação antes de agir pela inferência. A intenção de cuidar ganha eficácia pela atenção precisa.',

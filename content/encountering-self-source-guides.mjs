@@ -39,7 +39,7 @@ export const encounteringSelfLessonRevisions = [
       "checks": [
         [
           "O que destaca a imagem de capacidades que desaparecem e retornam?",
-          "A transformação, além da simples perda. A conversa lembrada com Gerda Langen apresenta a fantasia que retorna de outra forma; a imagem do rio é uma analogia, não prova de uma sequência universal."
+          "A transformação, em vez da simples perda. A conversa lembrada com Gerda Langen apresenta a fantasia que retorna de outra forma; a imagem do rio é uma analogia, não prova de uma sequência universal."
         ],
         [
           "Por que separar idade, ano escolar e as vozes do livro?",
@@ -810,7 +810,7 @@ export const encounteringSelfLessonRevisions = [
     "pt": {
       "title": "Desenho de formas: completar, refletir e transformar",
       "goal": "Explique a sequência de tarefas espaciais e atribua os trechos de Steiner por meio do livro de Koepke.",
-      "key": "O apêndice passa da conclusão de uma figura incompleta à reflexão imaginada na água e a relações variáveis entre contornos internos e externos. Projeções externas recebem respostas para dentro; arranjos fechados tornam-se formas abertas que se prolongam. As palavras selecionadas de Steiner enfatizam ensino inventivo e flexível e antecipação interior, além de copiar uma folha fixa de padrões.",
+      "key": "O apêndice passa da conclusão de uma figura incompleta à reflexão imaginada na água e a relações variáveis entre contornos internos e externos. Projeções externas recebem respostas para dentro; arranjos fechados tornam-se formas abertas que se prolongam. As palavras selecionadas de Steiner enfatizam ensino inventivo e flexível e antecipação interior, em vez de copiar uma folha fixa de padrões.",
       "context": "As figuras nativas são legíveis neste arquivo. As notas atribuem o trecho de completar a A Modern Art of Education e a reflexão e exemplos posteriores a Kingdom of Childhood. São palavras de Steiner citadas no volume traduzido de Koepke; os originais não foram verificados independentemente. O final afirma desenvolvimento dos corpos físico e de forças formativas durante o sono; nosso diagrama de reflexão ilustra geometria, não esse efeito.",
       "activity": "Complete o exercício de reflexão existente e explique uma correção. Depois crie um contorno interno que responda a uma projeção externa e compare sua regra com a reflexão estrita. Identifique nas notas a fonte do trecho e a afirmação separada sobre sono e corpo.",
       "takeaway": "Observe, imagine, complete e revise; distinga reflexão exata, resposta livre de contornos e efeito espiritual atribuído a elas.",
@@ -937,7 +937,7 @@ export const encounteringSelfSourceGuides = [
         {
           "title": "Capacidades anteriores mudam de forma",
           "paragraphs": [
-            "Koepke começa com sua colega Gerda Langen admirando pinturas do primeiro ano escolar. Ela recorda a fantasia que desaparece e retorna de outra maneira. Sua lembrança de uma palestra de Steiner compara um rio que some sob a terra e reaparece com mudanças da vida anímica. Koepke qualifica abertamente sua recordação: é vívida, mas não palavra por palavra. A transição do nono ano, entre troca dos dentes e puberdade, pertence sobretudo à explicação anímica e espiritual. A pergunta orientadora é como uma capacidade anterior se transforma, além de saber se a criança simplesmente perde algo valioso."
+            "Koepke começa com sua colega Gerda Langen admirando pinturas do primeiro ano escolar. Ela recorda a fantasia que desaparece e retorna de outra maneira. Sua lembrança de uma palestra de Steiner compara um rio que some sob a terra e reaparece com mudanças da vida anímica. Koepke qualifica abertamente sua recordação: é vívida, mas não palavra por palavra. A transição do nono ano, entre troca dos dentes e puberdade, pertence sobretudo à explicação anímica e espiritual. A pergunta orientadora é como uma capacidade anterior se transforma, em vez de apenas perguntar se a criança perde algo valioso."
           ],
           "reading": "Introdução, capturas 8–9; passagem selecionada, 8, coluna 1."
         },
@@ -1012,7 +1012,7 @@ export const encounteringSelfSourceGuides = [
         {
           "title": "O educador também precisa de autoeducação",
           "paragraphs": [
-            "O professor hesita em criticar o pai de Peter e pergunta como ele mesmo receberia uma correção. O pai desfaz a tensão ao reconhecer sua própria atitude de saber tudo. Mais tarde, o professor admite que não havia renovado o contato com a família por mais de dois anos. A autoeducação adulta é, portanto, um movimento essencial da narrativa, além de uma exigência dirigida a Peter. A lembrança infantil da mãe acrescenta que a compreensão interior pode ser real antes que alguém consiga expressá-la em palavras.",
+            "O professor hesita em criticar o pai de Peter e pergunta como ele mesmo receberia uma correção. O pai desfaz a tensão ao reconhecer sua própria atitude de saber tudo. Mais tarde, o professor admite que não havia renovado o contato com a família por mais de dois anos. A autoeducação adulta é, portanto, um movimento essencial da narrativa, não uma exigência dirigida apenas a Peter. A lembrança infantil da mãe acrescenta que a compreensão interior pode ser real antes que alguém consiga expressá-la em palavras.",
             "As dificuldades materiais da família também importam: alimentar seis pessoas deixa pouco tempo para leitura ou música. O professor reconhece essas circunstâncias antes de tentar falar. Examinar o ambiente inclui, portanto, compreender responsabilidades adultas, além de perceber a resposta da criança."
           ],
           "reading": "Capturas 13 e 15."
@@ -1896,7 +1896,7 @@ export const encounteringSelfSourceGuides = [
         {
           "title": "Apresente a afirmação adicional sobre desenvolvimento",
           "paragraphs": [
-            "A abertura afirma que a transição se liga a grandes acontecimentos cósmicos e reflete forças vistas nos movimentos do Sol e da Lua. O final avança: o professor deve conhecer as leis do crescimento corporal, cujos arquétipos podem ser descobertos nos astros, e usar essa compreensão para conduzir o crescimento anímico-espiritual. O autor oferece, assim, uma explicação espiritual do desenvolvimento, além de semelhança numérica sugestiva. Ensiná-la fielmente exige registrar essa força e sua base na perspectiva de Koepke. O leitor pode explicar o argumento e questionar a inferência da geometria orbital para uma criança específica."
+            "A abertura afirma que a transição se liga a grandes acontecimentos cósmicos e reflete forças vistas nos movimentos do Sol e da Lua. O final avança: o professor deve conhecer as leis do crescimento corporal, cujos arquétipos podem ser descobertos nos astros, e usar essa compreensão para conduzir o crescimento anímico-espiritual. O autor oferece, assim, uma explicação espiritual do desenvolvimento, não apenas uma semelhança numérica sugestiva. Ensiná-la fielmente exige registrar essa força e sua base na perspectiva de Koepke. O leitor pode explicar o argumento e questionar a inferência da geometria orbital para uma criança específica."
           ],
           "reading": "Captura 67, colunas esquerda e direita."
         },
@@ -1955,7 +1955,7 @@ export const encounteringSelfSourceGuides = [
         {
           "title": "Leia o argumento antes da tabela",
           "paragraphs": [
-            "Koepke estende à formação dos dentes a inversão discutida no apêndice lunar. Afirma que a imagem cósmica aparece tanto no organismo inteiro quanto na formação dentária. Atribui então a Steiner um auxílio eficaz pelo desenho de formas, cultivado em correspondência exata com o aparecimento dos dentes permanentes. O resultado afirmado é fortalecer as forças que constroem o corpo. Esse é o passo mais forte do argumento, além de uma comparação decorativa de figuras. Identifique-o explicitamente antes de perguntar o que a tabela ou um exercício escolar pode de fato demonstrar."
+            "Koepke estende à formação dos dentes a inversão discutida no apêndice lunar. Afirma que a imagem cósmica aparece tanto no organismo inteiro quanto na formação dentária. Atribui então a Steiner um auxílio eficaz pelo desenho de formas, cultivado em correspondência exata com o aparecimento dos dentes permanentes. O resultado afirmado é fortalecer as forças que constroem o corpo. Esse é o passo mais forte do argumento, não uma comparação decorativa de figuras. Identifique-o explicitamente antes de perguntar o que a tabela ou um exercício escolar pode de fato demonstrar."
           ],
           "reading": "Captura 68, coluna esquerda."
         },
@@ -1969,7 +1969,7 @@ export const encounteringSelfSourceGuides = [
         {
           "title": "Observe a mudança do terceiro ano",
           "paragraphs": [
-            "A captura seguinte muda deliberadamente a regra. A simetria perfeita anterior se rompe; as formas relacionam-se livremente com o centro, em vez de seguir simetria estrita. A figura nativa organiza três lóbulos com curvas externas variadas e linhas dirigidas a uma região central comum; ilustra a prosa, além de um modelo simples de espelhamento. O autor acrescenta que a escrita cursiva pode ser introduzida nessa idade. Leia isso como terceiro passo proposto numa progressão escolar. Repetir apenas reflexão especular nos três anos, ou omitir a passagem para uma relação mais livre com o centro, deturparia o apêndice."
+            "A captura seguinte muda deliberadamente a regra. A simetria perfeita anterior se rompe; as formas relacionam-se livremente com o centro, em vez de seguir simetria estrita. A figura nativa organiza três lóbulos com curvas externas variadas e linhas dirigidas a uma região central comum; ilustra a prosa, em vez de apresentar um modelo simples de espelhamento. O autor acrescenta que a escrita cursiva pode ser introduzida nessa idade. Leia isso como terceiro passo proposto numa progressão escolar. Repetir apenas reflexão especular nos três anos, ou omitir a passagem para uma relação mais livre com o centro, deturparia o apêndice."
           ],
           "reading": "Captura 69, coluna esquerda e figura."
         },
@@ -2042,7 +2042,7 @@ export const encounteringSelfSourceGuides = [
         {
           "title": "Acompanhe a transformação nas duas páginas",
           "paragraphs": [
-            "A continuação explica que uma projeção do contorno externo deve receber movimento para dentro na linha interna. Um arranjo posterior parte de três formas internas e acrescenta formas externas correspondentes para produzir um conjunto harmonioso. Depois muda para contornos externos que deixam de se encontrar e se prolongam para longe, com resposta interna que se volta para dentro. A imagem lúdica de um ponto que foge ajuda a imaginar essa transformação. São relações complementares, além de uma única regra mecânica de espelhamento. A fonte chama o objetivo de “simetrias assimétricas”. As figuras legíveis permitem explicar a progressão, em vez de descrevê-la como ausente."
+            "A continuação explica que uma projeção do contorno externo deve receber movimento para dentro na linha interna. Um arranjo posterior parte de três formas internas e acrescenta formas externas correspondentes para produzir um conjunto harmonioso. Depois muda para contornos externos que deixam de se encontrar e se prolongam para longe, com resposta interna que se volta para dentro. A imagem lúdica de um ponto que foge ajuda a imaginar essa transformação. São relações complementares, não uma única regra mecânica de espelhamento. A fonte chama o objetivo de “simetrias assimétricas”. As figuras legíveis permitem explicar a progressão, em vez de descrevê-la como ausente."
           ],
           "reading": "Captura 71, colunas esquerda e central; figuras nativas."
         },

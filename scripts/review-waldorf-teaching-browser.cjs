@@ -51,7 +51,7 @@ const manifest=JSON.parse(fs.readFileSync('content/waldorf-teaching-manifest.jso
  }
  for(const width of [390,320]){
   const ctx=await context({viewport:{width,height:900}}),p=await ctx.newPage();
-  for(const route of ['learn/waldorf/index.html','pt/learn/waldorf/index.html','pt/learn/waldorf/grades/grade-6/index.html','pt/learn/waldorf/grades/grade-6/curriculum.html','pt/learn/waldorf/parents/home-life.html','learn/waldorf/foundations/what-is-waldorf.html']){
+  for(const route of manifest.pages){
    await p.goto('http://course.test/Anthroposophy/'+route);
    assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Mobile overflow '+width+' '+route);
   }
@@ -68,9 +68,19 @@ const manifest=JSON.parse(fs.readFileSync('content/waldorf-teaching-manifest.jso
  assert.equal(await page.locator('[data-optional-source]').getAttribute('open'),null);await page.locator('[data-optional-source] > summary').click();assert.ok(await page.locator('.wf-verified-source blockquote').isVisible());
  await page.locator('nav[aria-label="Idioma"] a').click();assert.ok(page.url().includes('/learn/waldorf/foundations/what-is-waldorf.html'));
  const nojs=await context({javaScriptEnabled:false,viewport:{width:320,height:900}}),plain=await nojs.newPage();
- await plain.goto('http://course.test/pt/learn/waldorf/parents/home-life.html');assert.ok(await plain.locator('#wf-teaching-concept').isVisible());await plain.locator('.answer-explanation > summary').first().click();assert.ok(await plain.locator('.answer-explanation p').first().isVisible());
+ for(const route of manifest.pages){
+  await plain.goto('http://course.test/'+route);assert.equal(await plain.locator('h1').count(),1,route);
+  assert.ok(await plain.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'No-JS mobile overflow '+route);
+  const article=plain.locator('article.wf-teaching');
+  if(await article.count()){
+   for(const paragraph of await article.locator('#wf-teaching-concept > p').all())assert.ok(await paragraph.isVisible(),route+' visible teaching');
+   const answer=article.locator('.answer-explanation').first();await answer.locator('summary').focus();await plain.keyboard.press('Enter');assert.ok(await answer.locator('p').first().isVisible(),route+' native answer');
+  }
+ }
+
  const blocked=await context();await blocked.addInitScript(()=>Object.defineProperty(window,'localStorage',{get(){throw new DOMException('Blocked','SecurityError');}}));
  const blockedPage=await blocked.newPage();await blockedPage.goto('http://course.test/pt/learn/waldorf/parents/home-life.html');await blockedPage.locator('[data-wf-save]').check();await blockedPage.locator('[data-wf-mark]').click();assert.ok((await blockedPage.locator('[data-wf-study-status]').textContent()).includes('indisponível'));
  assert.deepEqual(errors,[]);assert.deepEqual(requests,[]);await browser.close();
+ fs.writeFileSync('reviews/pedagogy/waldorf-final-browser.json',JSON.stringify({status:'passed',routes:manifest.pages.length,fullRoutePasses:4,routeCases:manifest.pages.length*4,widths:[1280,390,320],noJavaScriptWidth:320,originalRecordsChecked:62,limits:['Browser checks do not establish source fidelity or pedagogical effectiveness']},null,2)+'\n');
  console.log(`Passed Waldorf browser: ${manifest.pages.length} routes, English/PT models, 320/390px layouts, Portuguese search, inherited reading marks across languages, real source excerpts, no-JavaScript and blocked-storage access.`);
 })().catch(error=>{console.error(error);process.exit(1)});

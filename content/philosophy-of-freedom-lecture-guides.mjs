@@ -271,7 +271,7 @@ export const freedomLectureGuides=[
       "answer": "It identifies an influence, but does not yet explain your relation to it: did you follow it automatically, understand it and merely obey it, or actively grasp a reason for a deed? Chapter 1 asks whether these forms of motivation determine us in the same way and therefore turns to the investigation of thinking."
     },
     "pt": {
-      "title": "Investigue a decisão, além de sua execução",
+      "title": "Investigue a decisão, não apenas sua execução",
       "paragraphs": [
         "Os exemplos cotidianos de escolha de Brian Gray tornam visível uma distinção: ter várias opções ainda não explica por que uma delas se torna sua intenção. O mesmo vale para ter permissão para executá-la. O capítulo 1 pergunta como a decisão surge em você. Uma ação impedida e um motivo acolhido sem exame apresentam perguntas diferentes; uma ação sem obstáculos não demonstra, por si só, liberdade.",
         "O exemplo do café ajuda a explicar a objeção de Hartmann: disposições diferentes podem produzir respostas diferentes e ainda assim determiná-las. Steiner pergunta, portanto, se um motivo compreendido pela investigação consciente atua como um impulso cego. Gray às vezes passa rapidamente à atividade original ou amada; mantenha aberta a pergunta do capítulo. Nomear sua razão, deliberar ou fazer algo incomum ainda não completa o argumento do livro sobre a ação livre.",

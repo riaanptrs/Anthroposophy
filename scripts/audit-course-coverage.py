@@ -59,6 +59,8 @@ waldorf_items=json.loads(subprocess.check_output(['node','--input-type=module','
 waldorf_routes={item['route']:item['source'] for item in waldorf_items}
 freedom_clarity={r['id']:r for r in read(OUT/'freedom-clarity-ledger.json')} if (OUT/'freedom-clarity-ledger.json').exists() else {}
 freedom_validation=read(OUT/'freedom-clarity-validation.json') if (OUT/'freedom-clarity-validation.json').exists() else {}
+theosophy_clarity={r['id']:r for r in read(OUT/'theosophy-clarity-ledger.json')} if (OUT/'theosophy-clarity-ledger.json').exists() else {}
+theosophy_validation=read(OUT/'theosophy-clarity-validation.json') if (OUT/'theosophy-clarity-validation.json').exists() else {}
 records=[]
 for path in sorted(paths):
     rel=str(path.relative_to(DOCS));partner=DOCS/'pt'/rel
@@ -96,6 +98,10 @@ for path in sorted(paths):
         item=freedom_clarity[int(path.stem)]
         row['audit']={'scope':'Complete bilingual first-reading revision; earlier detailed teaching preserved. Editorial clarity review, not a learner study or fresh source verification.','learningObjective':item['learningObjectiveEn'],'essentialConcepts':item['essentialConcepts'],'prerequisite':item['prerequisites'],'interestingConnections':item['interestingConnection'],'misconception':item['misconception'],'missingExplanationAddressed':item['missingExplanationAddressed'],'teachingMethod':item['concreteTeachingMethod'],'sourceLimit':item['sourceBlocked'],'rewritten':True,'auditDecision':'audited-rewritten','ledger':'freedom-clarity-ledger.json'}
         row['coverage'].update(pedagogicallyAudited=True,rewritten=True,conceptualExplanationReviewed=True,existingFeedbackReviewed=True,validated=bool(freedom_validation.get('buildPassed')) and bool(freedom_validation.get('results')) and all(r['exitCode']==0 for r in freedom_validation['results']))
+    if route=='theosophy' and path.stem in theosophy_clarity:
+        item=theosophy_clarity[path.stem]
+        row['audit']={'scope':'Complete bilingual clarity first reading; original full conceptual teaching preserved as optional depth. Separate from the source-reading companion.','learningObjective':item['learningObjectiveEn'],'essentialConcepts':item['essentialConcepts'],'prerequisite':item['prerequisites'],'interestingConnections':item['interestingConnections'],'misconceptionAndCorrection':item['misconceptionAndFeedback'],'identifiedGap':item['identifiedClarityGap'],'missingExplanationAddressed':item['after']['en']['paragraphs'],'teachingMethod':item['teachingMethod'],'sourceLimit':item['sourceFidelity'],'rewritten':True,'auditDecision':'audited-rewritten','ledger':'theosophy-clarity-ledger.json'}
+        row['coverage'].update(pedagogicallyAudited=True,rewritten=True,clarityPassCompleted=True,conceptualExplanationReviewed=True,existingFeedbackReviewed=True,validated=bool(theosophy_validation.get('buildPassed')) and bool(theosophy_validation.get('results')) and all(r['exitCode']==0 for r in theosophy_validation['results']))
     records.append(row)
 # Exact registered files, plus source filenames held only in later ledgers.
 registered=read(ROOT/'content/source-register.json')

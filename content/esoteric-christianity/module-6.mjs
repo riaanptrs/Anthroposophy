@@ -131,7 +131,7 @@ A imagem da Pedra Fundamental oferece um destino prático. O calor convida ao in
 Suponha que surja um mal-entendido num grupo. Você pode repetir uma acusação pronta ou perguntar o que cada pessoa quis dizer. A observação corrige uma suposição; o calor torna possível receber a correção; uma resposta escolhida restaura uma relação viável. O exercício é criação didática original, não repetição da preparação espiritual.
 
 Concluir significa explicar relações e localizar perguntas posteriores. A GA 131 abre o estudo da ressurreição; Teosofia apoia o vocabulário; Pensar Prático apoia observação e julgamento; Meditação oferece continuação voluntária. A compreensão deve deixar espaço ao aprendizado e à realidade de outra pessoa.`,
- 'Perceba uma necessidade, pergunte se a ajuda é desejada e escolha uma ação adequada. Se o resultado diferir da expectativa, ajuste. Cuidado e compreensão crescem pela atenção às consequências, além de qualquer alegação de superioridade moral.',
+ 'Perceba uma necessidade, pergunte se a ajuda é desejada e escolha uma ação adequada. Se o resultado diferir da expectativa, ajuste. Cuidado e compreensão crescem pela atenção às consequências, não por alegações de superioridade moral.',
  'Concluir lições não prova iniciação, clarividência ou posição espiritual. Decorar todos os nomes cósmicos importa menos que explicar corretamente participantes, acontecimentos e camadas das fontes.',
  'Prática opcional de três dias: perceba uma necessidade, escolha livremente, aja com cuidado e observe. Não exige diário nem entrega. As seis questões finais permitem revisar sem nota mínima.'
 ]);

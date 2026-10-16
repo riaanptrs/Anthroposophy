@@ -1,0 +1,954 @@
+[
+  {
+    "course": "nutrition",
+    "id": 0,
+    "composition": {
+      "newParagraphs": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "en": {
+      "title": "How to read this nutrition anthology",
+      "goal": "Distinguish a claim, its role in an argument and the evidence needed to assess it.",
+      "paragraphs": [
+        "Imagine someone saying that the body is like a musical instrument. First ask what the comparison means: bodily conditions can support or hinder activity. Then ask what it establishes. An image can clarify a relationship without proving that a separate spiritual agent exists. This distinction lets us understand Steiner’s account seriously while examining its grounds.",
+        "Nutrition: Food, Health and Spiritual Development brings together Rudolf Steiner’s lecture extracts selected by Christian von Arnim. Its twelve thematic chapters draw on talks from 1906–1924, addressed to different audiences. Editorial introductions and the lecturer’s words are distinct voices; a later editor’s comparison is not automatically a claim made in the original lecture.",
+        "The recurring question is how nourishment conditions human activity without replacing individuality. The lessons connect bodily support, inward transformation, cultivation, access to food and spiritual development. They explain the anthroposophical framework directly and identify where historical assertions go beyond, or conflict with, established physiology.",
+        "Begin with the short explanation and use the optional questions if useful. The complete earlier lesson, excerpts and further practice remain available below. Capture numbers locate images in the previously supplied 118-image file, not printed pages. Original-witness comparison has not been repeated for this revision; historical source notes are retained as records of earlier work."
+      ],
+      "checks": [
+        [
+          "Why can an analogy be useful without proving a cause?",
+          "It makes a relationship intelligible. Establishing a cause requires evidence beyond the resemblance used in the analogy."
+        ],
+        [
+          "Why distinguish an editor from a lecturer?",
+          "An anthology may place later interpretation beside an earlier lecture. Keeping the voices separate prevents attributing the editor’s retrospective claims to the lecturer."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Como ler esta antologia de nutrição",
+      "goal": "Distinga uma afirmação, seu papel no argumento e a evidência necessária para avaliá-la.",
+      "paragraphs": [
+        "Imagine alguém dizendo que o corpo é como um instrumento musical. Primeiro, pergunte o que a comparação significa: condições corporais podem apoiar ou dificultar a atividade. Depois, pergunte o que ela estabelece. Uma imagem pode esclarecer uma relação sem provar que existe um agente espiritual separado. Essa distinção permite compreender seriamente o relato de Steiner e examinar seus fundamentos.",
+        "Nutrition: Food, Health and Spiritual Development reúne trechos de palestras de Rudolf Steiner selecionados por Christian von Arnim. Seus doze capítulos temáticos usam falas de 1906–1924, dirigidas a públicos diferentes. Introduções editoriais e palavras do palestrante são vozes distintas; uma comparação posterior do editor não é automaticamente uma afirmação da palestra original.",
+        "A pergunta recorrente é como a alimentação condiciona a atividade humana sem substituir a individualidade. As lições relacionam apoio corporal, transformação interior, cultivo, acesso aos alimentos e desenvolvimento espiritual. Explicam diretamente a estrutura antroposófica e identificam onde afirmações históricas ultrapassam a fisiologia estabelecida ou entram em conflito com ela.",
+        "Comece pela explicação breve e use as perguntas opcionais se forem úteis. A lição anterior completa, os excertos e outras práticas continuam disponíveis abaixo. Os números das capturas localizam imagens no arquivo de 118 imagens fornecido anteriormente, não páginas impressas. A comparação com o original não foi repetida nesta revisão; as notas históricas de fonte foram mantidas como registros do trabalho anterior."
+      ],
+      "checks": [
+        [
+          "Por que uma analogia pode ser útil sem provar uma causa?",
+          "Ela torna uma relação compreensível. Estabelecer uma causa exige evidências além da semelhança usada na analogia."
+        ],
+        [
+          "Por que distinguir editor e palestrante?",
+          "Uma antologia pode colocar uma interpretação posterior ao lado de uma palestra anterior. Separar as vozes evita atribuir ao palestrante afirmações retrospectivas do editor."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 1,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Food, freedom and the body as an instrument",
+      "goal": "Explain why the opening question concerns both food and human freedom.",
+      "paragraphs": [
+        "A musician may need a well-tuned instrument, yet tuning alone does not compose a piece of music. Steiner uses this distinction to ask how nourishment supports human activity without completely explaining individuality. The analogy gives a relationship to consider; it does not demonstrate the existence of a separate spiritual musician.",
+        "Steiner begins with the saying attributed to Feuerbach, “A man is what he eats.” The issue is not simply whether food affects health. It is whether a person’s thinking and action can be explained entirely as the material result of digestion. Steiner accepts that bodily conditions matter but rejects their use as a complete explanation of the person. This distinction is the foundation of the anthology: nourishment belongs to a larger account of human life.",
+        "In captures 9–10, the body is compared with an instrument. A poorly adjusted instrument cannot perform its task well; similarly, bodily conditions can obstruct the activity Steiner calls spiritual. Yet an instrument is not identical with the musician or the purpose of the music. The image allows him to acknowledge food’s importance without reducing individuality to food. It also changes the dietary question from “What material enters me?” to “What kind of bodily support makes activity possible?”",
+        "The instrument metaphor is an explanation of Steiner’s position, not evidence that a separate spiritual agent has been demonstrated. Nutrition does affect bodily functioning; this course studies the additional interpretation he gives it."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain bodily support without reducing individuality to food?",
+          "Steiner begins with the saying attributed to Feuerbach, “A man is what he eats.” The issue is not simply whether food affects health. It is whether a person’s thinking and action can be explained entirely as the material result of digestion. Steiner accepts that bodily conditions matter but rejects their use as a complete explanation of the person. This distinction is the foundation of the anthology: nourishment belongs to a larger account of human life."
+        ],
+        [
+          "Does tuning an instrument compose its music? What does that clarify about nourishment?",
+          "A musician may need a well-tuned instrument, yet tuning alone does not compose a piece of music. Steiner uses this distinction to ask how nourishment supports human activity without completely explaining individuality. The analogy gives a relationship to consider; it does not demonstrate the existence of a separate spiritual musician."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Alimento, liberdade e corpo como instrumento",
+      "goal": "Explique por que a questão inicial envolve alimento e liberdade humana.",
+      "paragraphs": [
+        "Um músico pode precisar de um instrumento bem afinado, mas afinar o instrumento não compõe uma peça musical. Steiner usa essa distinção para perguntar como a alimentação sustenta a atividade humana sem explicar inteiramente a individualidade. A analogia apresenta uma relação a considerar; não demonstra a existência de um músico espiritual separado.",
+        "Steiner parte da máxima atribuída a Feuerbach de que o ser humano é aquilo que come. A pergunta não é apenas se a comida afeta a saúde, mas se pensar e agir podem ser explicados inteiramente como resultados materiais da digestão. Ele aceita a importância das condições corporais e rejeita que sejam uma explicação completa da pessoa.",
+        "Nas capturas 9–10, um instrumento mal ajustado ilustra como condições corporais podem dificultar a atividade chamada espiritual. Mas o instrumento não é o músico nem a finalidade da música. A imagem permite reconhecer a importância da alimentação sem reduzir a individualidade a ela. A pergunta passa da matéria ingerida ao apoio corporal que torna uma atividade possível.",
+        "A metáfora esclarece a posição de Steiner; não demonstra um agente espiritual separado. O curso preserva a distinção entre condições corporais e a interpretação adicional que ele lhes atribui."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica o apoio corporal sem reduzir a individualidade ao alimento?",
+          "Steiner parte da máxima atribuída a Feuerbach de que o ser humano é aquilo que come. A pergunta não é apenas se a comida afeta a saúde, mas se pensar e agir podem ser explicados inteiramente como resultados materiais da digestão. Ele aceita a importância das condições corporais e rejeita que sejam uma explicação completa da pessoa."
+        ],
+        [
+          "Afinar um instrumento compõe sua música? O que isso esclarece sobre a alimentação?",
+          "Um músico pode precisar de um instrumento bem afinado, mas afinar o instrumento não compõe uma peça musical. Steiner usa essa distinção para perguntar como a alimentação sustenta a atividade humana sem explicar inteiramente a individualidade. A analogia apresenta uma relação a considerar; não demonstra a existência de um músico espiritual separado."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 2,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "The fourfold human being and food transformation",
+      "goal": "Describe the fourfold account and connect it to the plant–animal contrast.",
+      "paragraphs": [
+        "Consider preparing bread, smelling it and deciding to share it. Materials and bodily movement, living processes, sensory pleasure and deliberate choice are different aspects of the same event. The fourfold account gives these aspects a spiritual interpretation. It should not turn one person into four separate people or make pleasure a measurement of an astral body.",
+        "Capture 11 identifies physical body, etheric body, astral body and I. The etheric is described as the life organization resisting decay; the astral bears pleasure, pain and desire; the I bears self-awareness. These are not four separate anatomical compartments. The excerpt insists on reciprocal influence. Glands, nerves and blood are presented as outward expressions of etheric, astral and I activity, so a physical organ is read as expressing an invisible organization.",
+        "Captures 14–16 contrast performing formative work oneself with receiving something already prepared by an animal. Steiner regards plant nourishment as requiring more of the human being’s own activity, while animal food can provide a shortcut. His claims about character and organs go beyond what the comparison itself establishes. He also qualifies the contrast through individual constitution: explaining a general tendency does not yield one rule for every eater.",
+        "The fourfold account is anthroposophical interpretation. Plants also respire; the book’s contrast between plant and human gas processes should not be taken as a complete account of photosynthesis or respiration."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain the fourfold human being?",
+          "Capture 11 identifies physical body, etheric body, astral body and I. The etheric is described as the life organization resisting decay; the astral bears pleasure, pain and desire; the I bears self-awareness. These are not four separate anatomical compartments. The excerpt insists on reciprocal influence. Glands, nerves and blood are presented as outward expressions of etheric, astral and I activity, so a physical organ is read as expressing an invisible organization."
+        ],
+        [
+          "Does enjoying the aroma of bread measure an astral body?",
+          "Consider preparing bread, smelling it and deciding to share it. Materials and bodily movement, living processes, sensory pleasure and deliberate choice are different aspects of the same event. The fourfold account gives these aspects a spiritual interpretation. It should not turn one person into four separate people or make pleasure a measurement of an astral body."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "O ser humano quádruplo e a transformação dos alimentos",
+      "goal": "Relacione os quatro membros à comparação entre plantas e animais.",
+      "paragraphs": [
+        "Considere preparar pão, sentir seu aroma e decidir compartilhá-lo. Materiais e movimentos corporais, processos vitais, prazer sensorial e escolha deliberada são aspectos diferentes do mesmo acontecimento. A concepção quádrupla lhes dá uma interpretação espiritual. Ela não deve transformar uma pessoa em quatro pessoas separadas nem tornar o prazer uma medida do corpo astral.",
+        "A captura 11 nomeia corpo físico, corpo etérico, corpo astral e Eu. O etérico é apresentado como organização vital que resiste à decomposição; o astral porta prazer, dor e desejo; o Eu, autoconsciência. Não são quatro compartimentos anatômicos. Glândulas, nervos e sangue aparecem como expressões físicas dessas organizações invisíveis, que influenciam umas às outras.",
+        "Nas capturas 14–16, alimento vegetal exigiria mais atividade formadora própria, enquanto alimento animal ofereceria trabalho já realizado pelo animal. As afirmações adicionais sobre caráter e órgãos ultrapassam o que essa comparação estabelece. Steiner também considera a constituição individual: uma tendência geral não fornece uma regra alimentar igual para todas as pessoas.",
+        "O quadro quádruplo é interpretação antroposófica. Plantas também respiram; a oposição de processos gasosos não é uma descrição completa da fotossíntese e respiração."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica o ser humano quádruplo?",
+          "A captura 11 nomeia corpo físico, corpo etérico, corpo astral e Eu. O etérico é apresentado como organização vital que resiste à decomposição; o astral porta prazer, dor e desejo; o Eu, autoconsciência. Não são quatro compartimentos anatômicos. Glândulas, nervos e sangue aparecem como expressões físicas dessas organizações invisíveis, que influenciam umas às outras."
+        ],
+        [
+          "Sentir prazer com o aroma do pão mede um corpo astral?",
+          "Considere preparar pão, sentir seu aroma e decidir compartilhá-lo. Materiais e movimentos corporais, processos vitais, prazer sensorial e escolha deliberada são aspectos diferentes do mesmo acontecimento. A concepção quádrupla lhes dá uma interpretação espiritual. Ela não deve transformar uma pessoa em quatro pessoas separadas nem tornar o prazer uma medida do corpo astral."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 3,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "From mineral substance to warmth ether",
+      "goal": "Trace the proposed transformation of a mineral and explain why childhood milk enters the chapter.",
+      "paragraphs": [
+        "Clay can be softened, shaped and hardened again. That familiar sequence helps us imagine a change of form, but it does not explain Steiner’s warmth ether. His account adds a spiritual stage and cosmic formative activity. Understanding the sequence means identifying that additional claim, rather than treating a familiar transformation as proof of it.",
+        "Capture 21 describes mineral substance passing through fluid and other conditions into warmth ether. At that stage it is said to receive forces from cosmic spaces and the higher hierarchies. It then resolidifies and contributes to the form of organs. The important order is transformation, reception of formative forces, and renewed embodiment. Calcium phosphate in bone is his example: its organization is attributed to this intervening spiritual process.",
+        "A child, Steiner says, has not yet developed sufficient strength to perform the full transformation of lifeless matter. Milk is closer to the living organism and therefore eases the work of shaping the growing body. The example connects nourishment with developmental capacity, rather than presenting one food as equally suitable for every age. It also anticipates the later pairing of milk and honey.",
+        "Warmth ether and spiritual hierarchies are not measured stages of modern digestion. Diabetes is explained medically through problems with insulin production or action, not failure to transform minerals into warmth ether. The child/milk passage is historical interpretation, not an infant-feeding plan."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain the proposed mineral transformation?",
+          "Capture 21 describes mineral substance passing through fluid and other conditions into warmth ether. At that stage it is said to receive forces from cosmic spaces and the higher hierarchies. It then resolidifies and contributes to the form of organs. The important order is transformation, reception of formative forces, and renewed embodiment. Calcium phosphate in bone is his example: its organization is attributed to this intervening spiritual process."
+        ],
+        [
+          "Does shaping clay establish the existence of warmth ether?",
+          "Clay can be softened, shaped and hardened again. That familiar sequence helps us imagine a change of form, but it does not explain Steiner’s warmth ether. His account adds a spiritual stage and cosmic formative activity. Understanding the sequence means identifying that additional claim, rather than treating a familiar transformation as proof of it."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Da substância mineral ao éter de calor",
+      "goal": "Acompanhe a transformação proposta e o papel do leite na infância.",
+      "paragraphs": [
+        "A argila pode ser amolecida, moldada e endurecida novamente. Essa sequência conhecida ajuda a imaginar uma mudança de forma, mas não explica o éter de calor de Steiner. Seu relato acrescenta uma etapa espiritual e uma atividade formativa cósmica. Compreender a sequência exige identificar essa afirmação adicional, em vez de tratar uma transformação conhecida como prova dela.",
+        "Na captura 21, o mineral atravessa condições fluidas até o éter de calor. Nessa condição receberia forças cósmicas e das hierarquias superiores, depois se solidificaria novamente para participar da forma dos órgãos. O fosfato de cálcio nos ossos exemplifica a ordem: transformação, recepção de forças formadoras e nova corporificação. Éter de calor não significa simplesmente comida aquecida.",
+        "Segundo Steiner, a criança ainda não possui força suficiente para a transformação completa da matéria sem vida. O leite estaria mais próximo do organismo vivo e facilitaria a formação corporal. O exemplo relaciona alimento e capacidade em desenvolvimento, em vez de atribuir o mesmo papel a uma substância em qualquer idade. Ele prepara a comparação posterior entre leite e mel.",
+        "Éter de calor e hierarquias não são etapas medidas da digestão moderna. O curso inglês contrapõe a explicação médica da diabetes por problemas de produção ou ação da insulina. A passagem sobre leite não é plano de alimentação infantil."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica a transformação mineral proposta?",
+          "Na captura 21, o mineral atravessa condições fluidas até o éter de calor. Nessa condição receberia forças cósmicas e das hierarquias superiores, depois se solidificaria novamente para participar da forma dos órgãos. O fosfato de cálcio nos ossos exemplifica a ordem: transformação, recepção de forças formadoras e nova corporificação. Éter de calor não significa simplesmente comida aquecida."
+        ],
+        [
+          "Moldar argila estabelece a existência do éter de calor?",
+          "A argila pode ser amolecida, moldada e endurecida novamente. Essa sequência conhecida ajuda a imaginar uma mudança de forma, mas não explica o éter de calor de Steiner. Seu relato acrescenta uma etapa espiritual e uma atividade formativa cósmica. Compreender a sequência exige identificar essa afirmação adicional, em vez de tratar uma transformação conhecida como prova dela."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 4,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Plant reversal, animal organization, milk and honey",
+      "goal": "Explain the root–flower reversal and how milk and honey complete this chapter.",
+      "paragraphs": [
+        "Turning a diagram upside down changes the relationship of its parts on the page. Steiner’s plant reversal similarly asks us to follow directions and relationships: root forces toward the head, flower forces toward the lower organization. Neither image says that a swallowed carrot travels intact to the head. The diagram makes his correspondence intelligible without establishing it as physiology.",
+        "In the external plant, roots are below and blossoms above. In human digestion, Steiner says the direction of the root’s forces becomes upward toward the head, while the flower’s forces are directed downward. His handkerchief demonstration illustrates an inversion of relationships. It does not say that a swallowed root physically travels intact into the skull. The human organism is presented as completing a movement toward spirit that the plant begins in nature.",
+        "Captures 28–30 return to formative forces: milk is associated with shaping the child, while honey is associated with supporting corresponding forces later in life. The bee colony is interpreted through a head-like organization, and the biblical pairing of milk and honey is given a spiritual meaning. The chapter therefore runs from substances through plant and animal relationships to age-specific nourishment; these examples belong to one argument about form, not an unrelated menu.",
+        "The reversal and cosmic history are Steiner’s spiritual interpretations. The milk–honey symbolism is not a feeding recommendation; honey must not be given to children under 12 months because of infant botulism risk."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain the root–flower reversal?",
+          "In the external plant, roots are below and blossoms above. In human digestion, Steiner says the direction of the root’s forces becomes upward toward the head, while the flower’s forces are directed downward. His handkerchief demonstration illustrates an inversion of relationships. It does not say that a swallowed root physically travels intact into the skull. The human organism is presented as completing a movement toward spirit that the plant begins in nature."
+        ],
+        [
+          "Does the root–head correspondence describe an intact carrot moving to the head?",
+          "Turning a diagram upside down changes the relationship of its parts on the page. Steiner’s plant reversal similarly asks us to follow directions and relationships: root forces toward the head, flower forces toward the lower organization. Neither image says that a swallowed carrot travels intact to the head. The diagram makes his correspondence intelligible without establishing it as physiology."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Inversão vegetal, organização animal, leite e mel",
+      "goal": "Explique a inversão raiz/flor e sua ligação com a formação humana.",
+      "paragraphs": [
+        "Virar um diagrama de cabeça para baixo muda a relação entre suas partes na página. A inversão da planta em Steiner também pede atenção a direções e relações: forças da raiz em direção à cabeça, forças da flor em direção à organização inferior. Nenhuma dessas imagens diz que uma cenoura engolida chega intacta à cabeça. O diagrama torna a correspondência compreensível sem estabelecê-la como fisiologia.",
+        "Na planta externa, a raiz fica abaixo e a flor acima. Na digestão humana descrita pelo autor, forças da raiz se dirigem para cima, à cabeça, e forças florais para baixo. A demonstração com lenço ilustra a inversão de relações. Não afirma que uma raiz engolida viaje intacta ao crânio. O organismo completaria um movimento rumo ao espírito iniciado pelo vegetal.",
+        "Nas capturas 28–30, o leite apoia a formação da criança; o mel apoiaria forças correspondentes em outra fase da vida. A colônia de abelhas recebe uma interpretação semelhante à organização da cabeça, e a combinação bíblica ganha significado espiritual. O capítulo liga substâncias, plantas, animais e idade num argumento sobre forma, não numa lista independente de alimentos.",
+        "A inversão e a história cósmica são interpretações de Steiner. A simbologia leite/mel não é recomendação alimentar. Preserva-se a ressalva do curso inglês: mel não deve ser dado a menores de 12 meses pelo risco de botulismo infantil."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica a inversão entre raiz e flor?",
+          "Na planta externa, a raiz fica abaixo e a flor acima. Na digestão humana descrita pelo autor, forças da raiz se dirigem para cima, à cabeça, e forças florais para baixo. A demonstração com lenço ilustra a inversão de relações. Não afirma que uma raiz engolida viaje intacta ao crânio. O organismo completaria um movimento rumo ao espírito iniciado pelo vegetal."
+        ],
+        [
+          "A correspondência raiz–cabeça descreve uma cenoura intacta indo até a cabeça?",
+          "Virar um diagrama de cabeça para baixo muda a relação entre suas partes na página. A inversão da planta em Steiner também pede atenção a direções e relações: forças da raiz em direção à cabeça, forças da flor em direção à organização inferior. Nenhuma dessas imagens diz que uma cenoura engolida chega intacta à cabeça. O diagrama torna a correspondência compreensível sem estabelecê-la como fisiologia."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 5,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Cosmic nourishment and the problem of spiritual independence",
+      "goal": "Explain the earth–cosmos contrast and why sugar is described as a counterweight to selflessness.",
+      "paragraphs": [
+        "Someone can give generously and still need to keep an appointment or make a decision. Moral selflessness does not mean losing the practical capacity to act as an individual. This distinction helps explain why Steiner pairs spiritual openness with earthly stability. His further assignment of that stabilizing role to sugar remains a separate claim, not a conclusion drawn from the everyday example.",
+        "Captures 31–33 describe milk as supporting earthly citizenship without confining a person entirely to earth. Plant food is related to a wider solar or cosmic sphere, while meat is described as binding more strongly to earthly conditions. Milk can serve as ballast for someone whose spiritual practice might otherwise weaken engagement with earthly tasks. The organizing question is balance between spiritual openness and the responsibilities of embodied life.",
+        "Capture 35 distinguishes moral selflessness from a bodily sense of individual stability. Steiner proposes sugar as a physical counterweight: the person can strive for moral selflessness while retaining the capacity to judge and act on earth. “Innocent” matters because bodily ego-character is not being equated with moral selfishness. The passage is not simply praising indulgence; it assigns a role in his account of spiritual development.",
+        "Cosmic food relationships and sugar-produced ego-character are spiritual claims. The text does not establish that eating sugar improves personality or that national character follows sugar consumption. Coffee/tea descriptions are not reliable personality tests."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain sugar and two meanings of selfhood?",
+          "Steiner distinguishes moral selflessness from the bodily stability needed to judge and act as an individual. He assigns sugar a physical counterweight to excessive selflessness, calling this bodily ego-character “innocent” because it is not the same as moral selfishness. This explains his proposed spiritual relationship; it does not establish that eating sugar improves selfhood or provide dietary advice."
+        ],
+        [
+          "Does the distinction between generosity and practical individuality demonstrate a stabilizing effect of sugar?",
+          "Someone can give generously and still need to keep an appointment or make a decision. Moral selflessness does not mean losing the practical capacity to act as an individual. This distinction helps explain why Steiner pairs spiritual openness with earthly stability. His further assignment of that stabilizing role to sugar remains a separate claim, not a conclusion drawn from the everyday example."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Nutrição cósmica e independência espiritual",
+      "goal": "Distinga abertura espiritual, estabilidade individual e apoio externo.",
+      "paragraphs": [
+        "Alguém pode agir com generosidade e ainda precisar cumprir um compromisso ou tomar uma decisão. O altruísmo moral não significa perder a capacidade prática de agir como indivíduo. Essa distinção ajuda a explicar por que Steiner associa abertura espiritual e estabilidade terrena. A atribuição desse papel estabilizador ao açúcar continua sendo uma afirmação adicional, não uma conclusão extraída do exemplo cotidiano.",
+        "Nas capturas 31–33, o leite apoiaria a participação terrestre sem prender inteiramente à terra; vegetais se relacionariam a uma esfera solar ou cósmica; carne ligaria mais fortemente às condições terrestres. O lastro do leite equilibraria uma prática espiritual que enfraquecesse o compromisso com tarefas terrenas. A questão é abertura espiritual junto à responsabilidade da vida encarnada.",
+        "A captura 35 distingue altruísmo moral e estabilidade individual corporal. O açúcar é proposto como contrapeso físico que permitiria buscar abnegação sem perder a capacidade terrestre de julgar e agir. O termo inocente separa esse caráter corporal do egoísmo moral. Não se trata apenas de elogio ao prazer, mas de uma função atribuída no modelo espiritual.",
+        "As relações cósmicas e o caráter do Eu produzido pelo açúcar são afirmações espirituais. O texto não estabelece melhora de personalidade pelo açúcar nem caráter nacional pelo consumo. Café e chá não fornecem testes confiáveis de caráter."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica o açúcar e dois sentidos de individualidade?",
+          "Steiner distingue o altruísmo moral da estabilidade corporal necessária para julgar e agir como indivíduo. Atribui ao açúcar um contrapeso físico à abnegação excessiva e chama esse caráter corporal do Eu de “inocente” porque não equivale ao egoísmo moral. Isso esclarece a relação espiritual proposta por ele; não demonstra que comer açúcar melhore a individualidade nem constitui orientação alimentar."
+        ],
+        [
+          "A distinção entre generosidade e individualidade prática demonstra um efeito estabilizador do açúcar?",
+          "Alguém pode agir com generosidade e ainda precisar cumprir um compromisso ou tomar uma decisão. O altruísmo moral não significa perder a capacidade prática de agir como indivíduo. Essa distinção ajuda a explicar por que Steiner associa abertura espiritual e estabilidade terrena. A atribuição desse papel estabilizador ao açúcar continua sendo uma afirmação adicional, não uma conclusão extraída do exemplo cotidiano."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 6,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "The living body as an opponent of decay",
+      "goal": "Reconstruct the decay–rancidity–fermentation model and its use in the potato discussion.",
+      "paragraphs": [
+        "A pantry stores food; a living organism continually changes what it receives. This difference clarifies why Steiner asks about activity rather than quantity alone. His next step assigns opposition to decay, rancidity and fermentation to different spiritual members. The contrast with storage helps explain the question, while those particular assignments require their own justification.",
+        "Captures 40–44 assign protein decay to the etheric body’s opposition, fat rancidity to the astral body’s opposition and sugar/starch fermentation to the I’s opposition. The quoted solid/fluid/gas pattern is completed by warmth in relation to the I. This explains why warmth, breathing and life forces recur: substances are interpreted through ongoing activities that prevent them from behaving as they would outside a living body.",
+        "Captures 44–46 say that excessive potato consumption burdens head activity, which Steiner associates with controlling fermentation. He then links this burden to impaired thinking and materialism. Separate the chain into steps: dietary choice, digestive demand, head activity, character of thinking. The last steps are additional causal assertions. Knowing that potatoes contain starch does not establish that they cause a materialistic worldview.",
+        "The spiritual opponents of decay are not established digestive mechanisms. The text’s protein figures, potato/materialism linkage and historical metal remedies must not be treated as current nutritional or treatment advice. Modern nutrient digestion is explained through enzymes, absorption and metabolism."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain three processes and their spiritual opponents?",
+          "Captures 40–44 assign protein decay to the etheric body’s opposition, fat rancidity to the astral body’s opposition and sugar/starch fermentation to the I’s opposition. The quoted solid/fluid/gas pattern is completed by warmth in relation to the I. This explains why warmth, breathing and life forces recur: substances are interpreted through ongoing activities that prevent them from behaving as they would outside a living body."
+        ],
+        [
+          "Why is a pantry an incomplete model of nourishment?",
+          "A pantry stores food; a living organism continually changes what it receives. This difference clarifies why Steiner asks about activity rather than quantity alone. His next step assigns opposition to decay, rancidity and fermentation to different spiritual members. The contrast with storage helps explain the question, while those particular assignments require their own justification."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "O corpo vivo diante da decomposição",
+      "goal": "Reconstrua o modelo de decomposição, rancificação e fermentação.",
+      "paragraphs": [
+        "Uma despensa armazena alimentos; um organismo vivo transforma continuamente o que recebe. Essa diferença esclarece por que Steiner pergunta pela atividade, e não apenas pela quantidade. Em seguida, ele atribui a oposição à decomposição, à rancidez e à fermentação a diferentes membros espirituais. O contraste com o armazenamento ajuda a explicar a pergunta, mas essas atribuições específicas exigem justificativa própria.",
+        "Nas capturas 40–44, o etérico se oporia à decomposição proteica, o astral à rancificação das gorduras e o Eu à fermentação de açúcar e amido. Sólido, líquido e gasoso são completados pelo calor ligado ao Eu. As substâncias são interpretadas por atividades contínuas que impediriam seu comportamento exterior ao corpo, e não como material simplesmente armazenado.",
+        "O autor atribui ao consumo excessivo de batatas uma sobrecarga da atividade da cabeça que controlaria a fermentação. Depois relaciona essa carga a prejuízo do pensar e materialismo. Há passos diferentes: escolha alimentar, demanda digestiva, atividade da cabeça e caráter do pensamento. Saber que batatas contêm amido não comprova as transições causais seguintes.",
+        "Os oponentes espirituais da decomposição não são mecanismos digestivos estabelecidos. As quantidades históricas, a ligação batata/materialismo e remédios metálicos não são orientações atuais. O curso inglês distingue digestão por enzimas, absorção e metabolismo."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica três processos e seus oponentes espirituais?",
+          "Nas capturas 40–44, o etérico se oporia à decomposição proteica, o astral à rancificação das gorduras e o Eu à fermentação de açúcar e amido. Sólido, líquido e gasoso são completados pelo calor ligado ao Eu. As substâncias são interpretadas por atividades contínuas que impediriam seu comportamento exterior ao corpo, e não como material simplesmente armazenado."
+        ],
+        [
+          "Por que uma despensa é um modelo incompleto da nutrição?",
+          "Uma despensa armazena alimentos; um organismo vivo transforma continuamente o que recebe. Essa diferença esclarece por que Steiner pergunta pela atividade, e não apenas pela quantidade. Em seguida, ele atribui a oposição à decomposição, à rancidez e à fermentação a diferentes membros espirituais. O contraste com o armazenamento ajuda a explicar a pergunta, mas essas atribuições específicas exigem justificativa própria."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 7,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Food quality begins before the meal",
+      "goal": "Connect protein transformation, cultivation and appetite without confusing analogy with evidence.",
+      "paragraphs": [
+        "Two loaves may have similar ingredient lists while involving different soils, growers and preparation. Asking about that history broadens attention beyond the finished product. It does not settle which cultivation method produces a better outcome: that comparison needs a defined outcome and observations. Steiner’s cultivation argument combines this useful historical question with stronger claims about plant quality.",
+        "Capture 50 compares processing protein with taking a watch apart: the parts must be released from their existing arrangement before a new organization can be made. This illustrates Steiner’s emphasis on transformation rather than direct transfer of ready-made structures. It does not prove his stronger claim that protein must be reduced to its chemical elements. Modern digestion describes protein breakdown into smaller peptides and amino acids.",
+        "Captures 51–52 say that the quality of plant protein depends on how the plant grows. Soil is treated as living, and manure is contrasted with mineral fertilizer. Steiner calls the cow a more adequate “laboratory” than the chemist’s mixture because its product has passed through life processes. Within his argument, the quality of nourishment cannot be understood by listing ingredients at the meal: the history of the food also matters.",
+        "The claim that breathed nitrogen directly supplies human protein is inconsistent with ordinary human nutrition: people obtain usable nitrogen through dietary compounds. The watch is an analogy, not a digestive pathway. The chapter’s carrot/worm and fertilizer claims need independent evidence."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain food quality before the meal?",
+          "For Steiner, nourishment begins with how the plant grows: he contrasts living soil and manure with mineral fertilizer and treats the cow’s life processes as relevant to the manure’s quality. Thus an ingredient list at the meal omits the food’s history. This reconstructs his cultivation argument; comparing actual nutritional or agricultural outcomes still requires independent evidence."
+        ],
+        [
+          "Do similar ingredient lists settle every question about how two loaves were produced?",
+          "Two loaves may have similar ingredient lists while involving different soils, growers and preparation. Asking about that history broadens attention beyond the finished product. It does not settle which cultivation method produces a better outcome: that comparison needs a defined outcome and observations. Steiner’s cultivation argument combines this useful historical question with stronger claims about plant quality."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "A qualidade do alimento começa antes da refeição",
+      "goal": "Conecte transformação, cultivo e resposta individual, distinguindo analogia de evidência.",
+      "paragraphs": [
+        "Dois pães podem ter listas de ingredientes semelhantes, embora envolvam solos, produtores e preparos diferentes. Perguntar por essa história amplia a atenção para além do produto pronto. Isso não decide qual método de cultivo produz um resultado melhor: a comparação precisa definir o resultado e reunir observações. O argumento de Steiner combina essa pergunta sobre a origem com afirmações mais fortes sobre a qualidade vegetal.",
+        "A captura 50 compara o processamento proteico à desmontagem de um relógio: desfazer uma organização permitiria outra. A imagem ilustra transformação em vez de transferência intacta. Não prova a afirmação mais forte de redução das proteínas aos elementos químicos. A comparação contemporânea do curso usa peptídeos menores e aminoácidos.",
+        "Nas capturas 51–52, a qualidade da proteína vegetal depende, para Steiner, do modo de crescimento. Solo vivo e esterco se contrapõem ao fertilizante mineral; a vaca seria um laboratório mais adequado porque seu produto passou por processos vitais. O argumento pergunta pela história do alimento, não só pelos ingredientes presentes no prato.",
+        "A afirmação de que nitrogênio respirado fornece diretamente proteína humana é incompatível com a nutrição humana tal como é compreendida atualmente: as pessoas obtêm nitrogênio utilizável por meio de compostos alimentares. O relógio não é uma via digestiva. As afirmações sobre fertilizantes e cenoura/vermes exigem evidência independente."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica a qualidade do alimento antes da refeição?",
+          "Para Steiner, a nutrição começa no modo como a planta cresce: ele contrapõe solo vivo e esterco ao fertilizante mineral e considera os processos vitais da vaca relevantes para a qualidade do esterco. Assim, listar os ingredientes da refeição deixa de fora a história do alimento. Isso reconstrói seu argumento sobre o cultivo; comparar resultados nutricionais ou agrícolas reais ainda exige evidências independentes."
+        ],
+        [
+          "Listas de ingredientes semelhantes resolvem todas as perguntas sobre como dois pães foram produzidos?",
+          "Dois pães podem ter listas de ingredientes semelhantes, embora envolvam solos, produtores e preparos diferentes. Perguntar por essa história amplia a atenção para além do produto pronto. Isso não decide qual método de cultivo produz um resultado melhor: a comparação precisa definir o resultado e reunir observações. O argumento de Steiner combina essa pergunta sobre a origem com afirmações mais fortes sobre a qualidade vegetal."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 8,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Following food through the digestive secretions",
+      "goal": "Follow the secretions in the text and distinguish physiological terms from spiritual interpretation.",
+      "paragraphs": [
+        "A sequence of kitchen stations might wash, cut and cook an ingredient; each station does a different job. This is a limited analogy for following a process rather than imagining unchanged food moving through a tube. In the digestive account, identifying the secretions and their roles comes before considering Steiner’s additional language of organ perception and thinking.",
+        "Captures 57–58 follow food from tasting and saliva to stomach processing. Steiner emphasizes that perception and bodily conditions affect how the meal is experienced. Chyme names the partly digested mixture; ptyalin is the historical term for salivary amylase. Pepsin is introduced in the stomach. The chapter is interested in successive changes, not in an unchanged substance passing through a tube.",
+        "Capture 59 adds pancreatic trypsin and then bile from the liver. These form the chapter’s sequence of four liquids. The process is used to support the claim that the organism performs an intelligence not available to ordinary head-centred awareness. The distinctions matter: bile is a secretion that assists digestion, but it is not itself a digestive enzyme; the four items are not four identical substances.",
+        "Present physiology explains digestive secretions through enzymes, organs, nerves and hormones. Bile assists fat digestion. Liver “perception,” kidney “thinking,” and specific dream imagery are additional spiritual interpretations, not established organ functions."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain the digestive sequence?",
+          "Captures 57–58 follow food from tasting and saliva to stomach processing. Steiner emphasizes that perception and bodily conditions affect how the meal is experienced. Chyme names the partly digested mixture; ptyalin is the historical term for salivary amylase. Pepsin is introduced in the stomach. The chapter is interested in successive changes, not in an unchanged substance passing through a tube."
+        ],
+        [
+          "What does following a sequence reveal that imagining an unchanged substance misses?",
+          "A sequence of kitchen stations might wash, cut and cook an ingredient; each station does a different job. This is a limited analogy for following a process rather than imagining unchanged food moving through a tube. In the digestive account, identifying the secretions and their roles comes before considering Steiner’s additional language of organ perception and thinking."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Acompanhar as secreções digestivas",
+      "goal": "Distinga a sequência fisiológica da interpretação espiritual acrescentada.",
+      "paragraphs": [
+        "Uma sequência de etapas na cozinha pode lavar, cortar e cozinhar um ingrediente; cada etapa cumpre uma função distinta. Essa analogia limitada ajuda a acompanhar um processo, em vez de imaginar alimentos inalterados passando por um tubo. No relato da digestão, identificar as secreções e suas funções vem antes de considerar a linguagem adicional de Steiner sobre percepção e pensamento dos órgãos.",
+        "As capturas 57–58 acompanham paladar, saliva e estômago. Steiner destaca percepção e condições corporais na experiência da refeição. Quimo nomeia a mistura parcialmente digerida; ptialina é o nome histórico da amilase salivar; pepsina aparece no estômago. O interesse está nas mudanças sucessivas, não numa substância intacta atravessando um tubo.",
+        "A captura 59 acrescenta tripsina pancreática e bile do fígado. A sequência sustenta a ideia de uma inteligência do organismo inacessível à consciência comum centrada na cabeça. Porém os quatro itens não são idênticos: a bile auxilia a digestão, mas não é uma enzima digestiva. Preservar essa diferença permite reconstruir a argumentação sem confundir funções.",
+        "A fisiologia explica secreções por enzimas, órgãos, nervos e hormônios. Percepção hepática, pensamento renal e imagens específicas de sonhos são interpretações adicionais, não funções estabelecidas."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica a sequência digestiva?",
+          "As capturas 57–58 acompanham paladar, saliva e estômago. Steiner destaca percepção e condições corporais na experiência da refeição. Quimo nomeia a mistura parcialmente digerida; ptialina é o nome histórico da amilase salivar; pepsina aparece no estômago. O interesse está nas mudanças sucessivas, não numa substância intacta atravessando um tubo."
+        ],
+        [
+          "O que acompanhar uma sequência revela que a imagem de uma substância inalterada deixa de mostrar?",
+          "Uma sequência de etapas na cozinha pode lavar, cortar e cozinhar um ingrediente; cada etapa cumpre uma função distinta. Essa analogia limitada ajuda a acompanhar um processo, em vez de imaginar alimentos inalterados passando por um tubo. No relato da digestão, identificar as secreções e suas funções vem antes de considerar a linguagem adicional de Steiner sobre percepção e pensamento dos órgãos."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 9,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "From digestion to thinking and willing",
+      "goal": "Locate the argumentative step from digestive processes to a spiritual explanation of thought.",
+      "paragraphs": [
+        "A pile of bicycle parts cannot carry a rider, while an assembled bicycle can. The difference shows why an isolated material is not always an adequate model of an organized whole. Likewise, showing that isolated salt cannot think does not by itself decide between a spiritual explanation of thinking and an explanation involving organized biological systems.",
+        "Capture 65 associates salts with thinking and dispersed phosphorus with willing. Steiner asks why isolated salt does not think and burning phosphorus does not develop will, while a human being can think and will. His answer is the quoted soul-spirit: a living agent that uses materials rather than being reducible to them. The contrast makes his proposed explanation clear, but does not rule out explanations involving organized biological systems.",
+        "A common reading mistake is to memorize “salt equals thought” and miss the chapter’s purpose. The conclusion is that something acts through matter. Capture 66 then criticizes an approach that sees only dead structures. Evaluate the inferential step explicitly: does the failure of an isolated substance to think demonstrate a separate soul-spirit, or does it show that isolated substances are not sufficient models of an organized brain? The text offers one answer; the question remains open to scrutiny.",
+        "The salt/thinking and phosphorus/willing mapping is not an established mechanism or a supplementation guide. Do not reproduce the match-tip or phosphorus example as an experiment. Organized nervous systems, unlike isolated substances, are relevant to modern explanations of thought."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain the salt-and-thinking argument?",
+          "Capture 65 associates salts with thinking and dispersed phosphorus with willing. Steiner asks why isolated salt does not think and burning phosphorus does not develop will, while a human being can think and will. His answer is the quoted soul-spirit: a living agent that uses materials rather than being reducible to them. The contrast makes his proposed explanation clear, but does not rule out explanations involving organized biological systems."
+        ],
+        [
+          "Why does the fact that isolated salt cannot think fail to settle the explanation of thought?",
+          "A pile of bicycle parts cannot carry a rider, while an assembled bicycle can. The difference shows why an isolated material is not always an adequate model of an organized whole. Likewise, showing that isolated salt cannot think does not by itself decide between a spiritual explanation of thinking and an explanation involving organized biological systems."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Da digestão ao pensar e querer",
+      "goal": "Identifique a inferência dos processos digestivos para uma explicação espiritual do pensamento.",
+      "paragraphs": [
+        "Um monte de peças de bicicleta não transporta uma pessoa, mas uma bicicleta montada pode transportá-la. A diferença mostra por que um material isolado nem sempre é um modelo adequado de um conjunto organizado. Da mesma forma, mostrar que o sal isolado não pensa não decide, por si só, entre uma explicação espiritual do pensamento e uma explicação que envolve sistemas biológicos organizados.",
+        "A captura 65 relaciona sais ao pensar e fósforo disperso ao querer. Steiner pergunta por que sal isolado não pensa nem fósforo queimando desenvolve vontade, embora uma pessoa possa fazê-lo. Sua resposta é a alma-espírito usando materiais sem se reduzir a eles. Isso esclarece a explicação proposta, mas não exclui que sistemas biológicos organizados tenham capacidades ausentes em ingredientes isolados.",
+        "Memorizar sal igual a pensamento perde a finalidade da passagem. A conclusão é que algo atua pela matéria; a captura 66 critica atenção exclusiva a estruturas mortas. A insuficiência de uma substância isolada demonstra um agente separado ou apenas a inadequação de modelar um cérebro organizado por um ingrediente? O texto oferece uma resposta; a inferência continua aberta ao exame.",
+        "As relações sal/pensar e fósforo/querer não são mecanismo estabelecido nem guia de suplementação. Não se deve reproduzir o exemplo de fósforo ou pontas de fósforos como experimento. O contraste com sistemas nervosos organizados permanece explícito."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica o argumento sobre sal e pensamento?",
+          "A captura 65 relaciona sais ao pensar e fósforo disperso ao querer. Steiner pergunta por que sal isolado não pensa nem fósforo queimando desenvolve vontade, embora uma pessoa possa fazê-lo. Sua resposta é a alma-espírito usando materiais sem se reduzir a eles. Isso esclarece a explicação proposta, mas não exclui que sistemas biológicos organizados tenham capacidades ausentes em ingredientes isolados."
+        ],
+        [
+          "Por que o fato de o sal isolado não pensar não resolve a explicação do pensamento?",
+          "Um monte de peças de bicicleta não transporta uma pessoa, mas uma bicicleta montada pode transportá-la. A diferença mostra por que um material isolado nem sempre é um modelo adequado de um conjunto organizado. Da mesma forma, mostrar que o sal isolado não pensa não decide, por si só, entre uma explicação espiritual do pensamento e uma explicação que envolve sistemas biológicos organizados."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 10,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Plants, preparation and work outside the body",
+      "goal": "Explain the relationship between plant processes, human transformation and cooking.",
+      "paragraphs": [
+        "Grinding grain and cooking a meal are work performed before eating. Steiner uses preparation outside the body to explain his question about work remaining inside it. The relationship is easier to understand when the actual operation is named. It does not follow that one observation about a cooked food establishes a rule for every food or every person.",
+        "Captures 70–72 relate mineral-rich roots to the head, leaves to the chest and fruit to the lower organism. The potato is correctly distinguished as a tuber rather than an ordinary root. Steiner then assigns it different demands on inward work. Separating botanical description from spiritual attribution is essential: identifying the eaten plant organ does not by itself establish which human region its forces chiefly affect.",
+        "The excerpt states the governing analogy. Grinding, baking and cooking carry out a preparatory activity outside the body, easing what the organism must do inside. Raw and cooked potatoes are his concrete comparison. This is a useful place to test comprehension by describing the work being transferred, rather than simply repeating “cooking is good.” The chapter’s stronger claim that a raw-food regime must ultimately collapse the body is not established by that one example.",
+        "Cooking can change digestibility and food properties, but the chapter’s universal dismissal of raw diets and its spiritual organ mapping exceed the evidence supplied. Carrot-based worm treatment and national-character claims in this section are historical assertions, not established guidance."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain preparation outside the body?",
+          "Grinding, baking and cooking perform preparatory work outside the body that, in Steiner’s comparison, reduces the work remaining inside. The organism still has to digest the food. His raw-versus-cooked potato example illustrates the proposed transfer; it does not establish a universal rule that raw-food diets inevitably cause bodily collapse."
+        ],
+        [
+          "Can one example of cooking establish a dietary rule for everyone?",
+          "Grinding grain and cooking a meal are work performed before eating. Steiner uses preparation outside the body to explain his question about work remaining inside it. The relationship is easier to understand when the actual operation is named. It does not follow that one observation about a cooked food establishes a rule for every food or every person."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Plantas, preparo e trabalho fora do corpo",
+      "goal": "Conecte processos vegetais, preparação culinária e transformação humana.",
+      "paragraphs": [
+        "Moer cereais e cozinhar uma refeição são trabalhos realizados antes de comer. Steiner usa o preparo fora do corpo para explicar sua pergunta sobre o trabalho que resta dentro dele. A relação fica mais clara quando se nomeia a operação concreta. Disso não decorre que uma observação sobre um alimento cozido estabeleça uma regra para todos os alimentos ou todas as pessoas.",
+        "Nas capturas 70–72, raízes ricas em minerais são relacionadas à cabeça, folhas ao peito e frutos à organização inferior. A batata é distinguida como tubérculo, antes de receber demandas interiores atribuídas. Identificar uma parte botânica não estabelece, por si só, a região humana sobre a qual suas forças atuariam.",
+        "Moer, assar e cozinhar realizariam fora parte do trabalho preparatório que caberia ao organismo. Batatas cruas e cozidas exemplificam o argumento. O corpo ainda precisa digerir; a transferência não significa que a cozinha faça tudo. Tampouco um exemplo sustenta a afirmação universal de que qualquer regime de alimentos crus levaria inevitavelmente ao colapso corporal.",
+        "O cozimento pode alterar propriedades e digestibilidade; isso não valida o mapeamento espiritual dos órgãos ou a rejeição universal de regimes crus. Tratamento de vermes com cenoura e afirmações de caráter nacional permanecem históricos, não orientação estabelecida."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica o preparo fora do corpo?",
+          "Moer, assar e cozinhar realizam trabalho preparatório fora do corpo que, na comparação de Steiner, reduz o trabalho restante dentro dele. O organismo ainda precisa digerir o alimento. O exemplo de batatas cruas e cozidas ilustra essa transferência proposta; não estabelece uma regra universal de que dietas de alimentos crus causem inevitavelmente colapso corporal."
+        ],
+        [
+          "Um exemplo de cozimento pode estabelecer uma regra alimentar para todas as pessoas?",
+          "Moer cereais e cozinhar uma refeição são trabalhos realizados antes de comer. Steiner usa o preparo fora do corpo para explicar sua pergunta sobre o trabalho que resta dentro dele. A relação fica mais clara quando se nomeia a operação concreta. Disso não decorre que uma observação sobre um alimento cozido estabeleça uma regra para todos os alimentos ou todas as pessoas."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 11,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Individual diets, animal feeding and access to food",
+      "goal": "Explain why the chapter’s dietary preference is qualified and distinguish the BSE headnote from the lecture.",
+      "paragraphs": [
+        "An attractive menu is not an available meal if a household cannot obtain its ingredients. This everyday distinction connects dietary choice with the chapter’s closing concern about access. It also explains why a general preference cannot settle every individual decision. The lecture’s claims about digestive mechanisms must still be assessed separately from its argument about circumstances and freedom.",
+        "Captures 75–77 continue the distinction between receiving animal-prepared nourishment and performing one’s own formative work. Steiner presents his own vegetarian experience as supporting greater stamina. Yet the quoted qualification says that an individual’s capacity must first be considered. Within this argument, a general preference cannot replace judgement about constitution. Personal experience illustrates his position but does not establish identical results for everyone.",
+        "Captures 81–82 include unsupported racial generalizations and then discuss food markets serving wealthy spa patients. The chapter thus leaves individual stomachs and asks how social arrangements determine what food people can obtain. This expands freedom: choices depend on circumstances as well as intentions. An account of nourishment that ignores access is incomplete even if it gives detailed instructions to individual eaters.",
+        "CDC describes BSE as a prion disease, with strong evidence of spread through contaminated feed. The headnote’s prediction claim does not validate Steiner’s urate theory. Racial/intestine-length generalizations are unsupported and should not be used to infer anyone’s digestive ability."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain the limits of a universal dietary rule?",
+          "Captures 75–77 continue the distinction between receiving animal-prepared nourishment and performing one’s own formative work. Steiner presents his own vegetarian experience as supporting greater stamina. Yet the quoted qualification says that an individual’s capacity must first be considered. Within this argument, a general preference cannot replace judgement about constitution. Personal experience illustrates his position but does not establish identical results for everyone."
+        ],
+        [
+          "How can an attractive menu still leave someone without a practicable choice?",
+          "An attractive menu is not an available meal if a household cannot obtain its ingredients. This everyday distinction connects dietary choice with the chapter’s closing concern about access. It also explains why a general preference cannot settle every individual decision. The lecture’s claims about digestive mechanisms must still be assessed separately from its argument about circumstances and freedom."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Dietas individuais, alimentação animal e acesso",
+      "goal": "Preserve a qualificação individual e distinga a introdução sobre BSE da palestra.",
+      "paragraphs": [
+        "Um cardápio atraente não se torna uma refeição disponível se a família não consegue obter os ingredientes. Essa distinção cotidiana relaciona a escolha alimentar à preocupação final do capítulo com o acesso. Também explica por que uma preferência geral não resolve todas as decisões individuais. As afirmações da palestra sobre mecanismos digestivos ainda precisam ser avaliadas separadamente do argumento sobre circunstâncias e liberdade.",
+        "Steiner relata maior resistência em sua experiência vegetariana, no contexto de realizar trabalho formador próprio. A captura 77, porém, exige considerar a capacidade individual antes de mudar a dieta. Um relato pessoal ilustra sua posição; não demonstra resultados idênticos para todos. Constituição e preferência geral não são conceitos intercambiáveis.",
+        "Após generalizações raciais sem fundamento, o capítulo discute mercados voltados a pacientes ricos de estâncias. A análise passa do indivíduo à organização social do acesso à comida. Escolhas dependem de circunstâncias além de intenções. Descrever constituição individual sem considerar disponibilidade e condições econômicas deixa incompleta essa parte do argumento.",
+        "A referência existente ao CDC descreve BSE como doença por príons. A comparação editorial não valida a teoria dos uratos. Generalizações raciais e sobre comprimento intestinal não devem ser usadas para inferir capacidade digestiva de alguém."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica os limites de uma regra alimentar universal?",
+          "Steiner relata maior resistência em sua experiência vegetariana, no contexto de realizar trabalho formador próprio. A captura 77, porém, exige considerar a capacidade individual antes de mudar a dieta. Um relato pessoal ilustra sua posição; não demonstra resultados idênticos para todos. Constituição e preferência geral não são conceitos intercambiáveis."
+        ],
+        [
+          "Como um cardápio atraente ainda pode deixar alguém sem uma escolha viável?",
+          "Um cardápio atraente não se torna uma refeição disponível se a família não consegue obter os ingredientes. Essa distinção cotidiana relaciona a escolha alimentar à preocupação final do capítulo com o acesso. Também explica por que uma preferência geral não resolve todas as decisões individuais. As afirmações da palestra sobre mecanismos digestivos ainda precisam ser avaliadas separadamente do argumento sobre circunstâncias e liberdade."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 12,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Food as stimulus and the heart as compacted light",
+      "goal": "Explain the stronger claim that food stimulates formation rather than supplying the body’s real substance.",
+      "paragraphs": [
+        "Sunlight helps a plant grow, but that observation is not identical to saying that a human heart is compacted light. Steiner’s claim concerns cosmic spiritual formation and assigns food the role of stimulus. Keeping the stronger claim visible allows a fair comparison with his earlier account of transformed mineral matter contributing to organs. Agreement on the importance of transformation does not erase that difference.",
+        "Captures 85–86 move beyond “food is transformed.” Steiner now says the human being is formed from an environment of cosmic forces and light, while eaten food chiefly stimulates that construction. The excerpt compresses this claim into the heart. Do not soften it into the ordinary fact that plants use sunlight: the argument attributes the organ’s formation to a spiritual, light-imbued environment in a way that differs from biological accounts of tissue building.",
+        "Food is compared with an inner armchair that supports bodily self-experience. A person feels hardness and softness as someone feels the support of a chair, but the support is not the one who sits in it. The image returns to chapter 1’s instrument distinction: bodily conditions support a human being whom Steiner does not identify entirely with those conditions. In this chapter the distinction is combined with a much stronger account of cosmic formation.",
+        "Biology describes organs as built and maintained using matter and energy, including absorbed nutrients. The heart-as-compacted-light claim and universal seven-year replacement are not established descriptions of tissue formation. This lesson explains their role in Steiner’s argument."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain food as a stimulus to formation?",
+          "Captures 85–86 move beyond “food is transformed.” Steiner now says the human being is formed from an environment of cosmic forces and light, while eaten food chiefly stimulates that construction. The excerpt compresses this claim into the heart. Do not soften it into the ordinary fact that plants use sunlight: the argument attributes the organ’s formation to a spiritual, light-imbued environment in a way that differs from biological accounts of tissue building."
+        ],
+        [
+          "Is plant dependence on sunlight equivalent to the heart-as-compacted-light claim?",
+          "Sunlight helps a plant grow, but that observation is not identical to saying that a human heart is compacted light. Steiner’s claim concerns cosmic spiritual formation and assigns food the role of stimulus. Keeping the stronger claim visible allows a fair comparison with his earlier account of transformed mineral matter contributing to organs. Agreement on the importance of transformation does not erase that difference."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Alimento como estímulo e coração como luz condensada",
+      "goal": "Explique a afirmação mais forte de formação cósmica, sem reduzi-la à fotossíntese.",
+      "paragraphs": [
+        "A luz solar contribui para o crescimento de uma planta, mas essa observação não equivale a dizer que o coração humano é luz condensada. A afirmação de Steiner trata de formação espiritual cósmica e atribui ao alimento o papel de estímulo. Manter visível essa afirmação mais forte permite compará-la com o relato anterior de matéria mineral transformada que contribui para os órgãos. Concordar sobre a importância da transformação não elimina essa diferença.",
+        "Nas capturas 85–86, o argumento vai além de transformar o alimento. O ser humano seria formado por forças cósmicas e luz ambientais; a comida estimularia essa construção. O coração condensa a afirmação. Substituí-la pelo fato de plantas usarem luz solar apagaria a tese espiritual sobre formação de órgãos, diferente da explicação biológica de construção dos tecidos.",
+        "A comida é comparada a uma poltrona que apoia a experiência corporal de dureza e maciez. O suporte não é quem nele se senta. Como o instrumento do capítulo 1, a imagem distingue condições corporais e ser humano. Aqui, porém, vem acompanhada da afirmação mais forte sobre formação cósmica, que a analogia sozinha não verifica.",
+        "A biologia descreve construção e manutenção de órgãos com matéria e energia, incluindo nutrientes absorvidos. Coração como luz condensada e renovação universal em sete anos não são descrições estabelecidas da formação de tecidos."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica o alimento como estímulo à formação?",
+          "Nas capturas 85–86, o argumento vai além de transformar o alimento. O ser humano seria formado por forças cósmicas e luz ambientais; a comida estimularia essa construção. O coração condensa a afirmação. Substituí-la pelo fato de plantas usarem luz solar apagaria a tese espiritual sobre formação de órgãos, diferente da explicação biológica de construção dos tecidos."
+        ],
+        [
+          "A dependência vegetal da luz solar equivale à afirmação de que o coração é luz condensada?",
+          "A luz solar contribui para o crescimento de uma planta, mas essa observação não equivale a dizer que o coração humano é luz condensada. A afirmação de Steiner trata de formação espiritual cósmica e atribui ao alimento o papel de estímulo. Manter visível essa afirmação mais forte permite compará-la com o relato anterior de matéria mineral transformada que contribui para os órgãos. Concordar sobre a importância da transformação não elimina essa diferença."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 13,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Four food groups, fourfold organization and social consequences",
+      "goal": "Compare the chapter’s nutrient mapping with chapter 4 and trace the move to social reform.",
+      "paragraphs": [
+        "A list of who maintains a building differs from a list of which rooms each person uses. Similarly, a spiritual member’s proposed opposition to a decay process is not the same relation as a nutrient’s assigned chief field. Naming the question answered by each mapping prevents a false contradiction or a false agreement. It does not prove either mapping or remove every tension between them.",
+        "Captures 87–90 distinguish salts, carbohydrates, fats and protein. Salts are related to thinking; carbohydrates to form and speech; fats to filling the form; protein to life and physical origin. The machinery/iron analogy suggests that spiritual activity needs material conditions, even though the activity is not identified with those conditions. Steiner therefore does not simply dismiss substances; he assigns them roles in a larger organization.",
+        "Capture 90 associates physical body with protein, etheric with fats, astral with carbohydrates and I with salts. In chapter 4, etheric opposed protein decay, astral opposed fat rancidity and I opposed fermentation. These are different sets of relationships: one names a chief field, the other an activity against a process. This distinction helps a reader avoid false equivalence, but it does not resolve every theoretical tension. Record both and explain which question each mapping is answering.",
+        "The nutrient/fourfold mappings and potato–hydrocephalus claim are not established physiology. The book supplies no sound basis for treating potatoes as a cause of that condition. Its social argument can be analyzed without accepting the proposed developmental mechanism."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain the relationship between nutrients and fourfold organization?",
+          "This chapter associates physical body with protein, etheric body with fats, astral body with carbohydrates and I with salts. Earlier, a different mapping named the members opposing decay, rancidity and fermentation. Naming a chief field differs from naming opposition to a process. The distinction clarifies the two spiritual mappings without proving them or resolving every tension."
+        ],
+        [
+          "Why ask which question each nutrient mapping answers before comparing them?",
+          "A list of who maintains a building differs from a list of which rooms each person uses. Similarly, a spiritual member’s proposed opposition to a decay process is not the same relation as a nutrient’s assigned chief field. Naming the question answered by each mapping prevents a false contradiction or a false agreement. It does not prove either mapping or remove every tension between them."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Nutrientes, organização quádrupla e consequências sociais",
+      "goal": "Compare os dois mapeamentos e acompanhe a passagem à reforma social.",
+      "paragraphs": [
+        "Uma lista de quem cuida da manutenção de um edifício difere de uma lista dos cômodos que cada pessoa usa. Da mesma forma, a oposição atribuída a um membro espiritual diante de um processo de decomposição não é a mesma relação que o campo principal atribuído a um nutriente. Nomear a pergunta respondida por cada esquema evita uma falsa contradição ou concordância. Isso não prova os esquemas nem elimina todas as tensões entre eles.",
+        "Sais se relacionam ao pensar; carboidratos à forma e fala; gorduras ao preenchimento da forma; proteínas à vida e origem física. A analogia máquina/ferro indica que atividade espiritual requer condições materiais, sem ser idêntica a elas. Steiner não descarta as substâncias: dá-lhes papéis dentro de uma organização maior.",
+        "Na captura 90, físico corresponde a proteína, etérico a gorduras, astral a carboidratos e Eu a sais. No capítulo 4, etérico se opõe à decomposição proteica, astral à rancificação e Eu à fermentação. Um quadro nomeia campos principais; o outro, oposição a processos. Essa diferença evita falsa equivalência, mas não resolve toda tensão teórica. Ambos devem permanecer registrados.",
+        "Os mapeamentos quádruplos e a ligação batata/hidrocefalia não são fisiologia estabelecida. O livro não fornece base adequada para tratar batatas como causa dessa condição. O argumento social pode ser analisado sem aceitar o mecanismo."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica a relação entre nutrientes e organização quádrupla?",
+          "Este capítulo associa corpo físico a proteínas, corpo etérico a gorduras, corpo astral a carboidratos e Eu a sais. Antes, outro quadro nomeava os membros que se opõem à decomposição, à rancificação e à fermentação. Nomear um campo principal difere de nomear a oposição a um processo. A distinção esclarece os dois quadros espirituais sem comprová-los nem resolver toda tensão."
+        ],
+        [
+          "Por que perguntar qual questão cada esquema de nutrientes responde antes de compará-los?",
+          "Uma lista de quem cuida da manutenção de um edifício difere de uma lista dos cômodos que cada pessoa usa. Da mesma forma, a oposição atribuída a um membro espiritual diante de um processo de decomposição não é a mesma relação que o campo principal atribuído a um nutriente. Nomear a pergunta respondida por cada esquema evita uma falsa contradição ou concordância. Isso não prova os esquemas nem elimina todas as tensões entre eles."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 14,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Alcohol, public understanding and freedom",
+      "goal": "Trace the alcohol argument from bodily effects to the role of public education.",
+      "paragraphs": [
+        "A comparison can change when we change its time span. A choice that seems convenient today may create costs later. This simple point helps explain Steiner’s objection to judging alcohol only by an immediate comparison with contaminated water. It does not validate his proposed bodily mechanisms: a useful question about time and consequences still needs accurate evidence.",
+        "Capture 102 challenges comparisons in which contaminated water produces more immediate harm than alcohol. Steiner asks the listener to examine time scale and the kind of outcome counted. Captures 103–104 then consider prohibition, substitution with another intoxicant, and whether explanation reaches feeling as well as intellect. This is an argument about the quality of public understanding, not merely a dispute about whether substances can be harmful.",
+        "The closing passage says science should explain effects in terms ordinary people can grasp so that they can decide for themselves. It returns directly to the opening chapter’s opposition to agitation. Steiner does not say that laws are never needed; capture 104 explicitly acknowledges them while giving priority to enlightenment. Distinguish this ethical aim from his confidence that the mechanisms he describes are true: accessible explanation must also be accurate.",
+        "Alcohol can cause serious short- and long-term harm. Severe withdrawal can involve seizures or delirium and require medical care; historical bloodletting and further drinking are not treatment guidance. NIAAA describes medically supported assessment and treatment. Steiner’s marrow and reproductive mechanisms are not established by the lecture."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain public understanding and freedom?",
+          "Capture 102 challenges comparisons in which contaminated water produces more immediate harm than alcohol. Steiner asks the listener to examine time scale and the kind of outcome counted. Captures 103–104 then consider prohibition, substitution with another intoxicant, and whether explanation reaches feeling as well as intellect. This is an argument about the quality of public understanding, not merely a dispute about whether substances can be harmful."
+        ],
+        [
+          "Why might a comparison based only on immediate consequences be incomplete?",
+          "A comparison can change when we change its time span. A choice that seems convenient today may create costs later. This simple point helps explain Steiner’s objection to judging alcohol only by an immediate comparison with contaminated water. It does not validate his proposed bodily mechanisms: a useful question about time and consequences still needs accurate evidence."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Álcool, compreensão pública e liberdade",
+      "goal": "Acompanhe efeitos alegados, duração e resposta social.",
+      "paragraphs": [
+        "Uma comparação pode mudar quando alteramos seu intervalo de tempo. Uma escolha que parece conveniente hoje pode gerar custos depois. Esse ponto simples ajuda a explicar a objeção de Steiner a avaliar o álcool apenas por uma comparação imediata com água contaminada. Isso não valida os mecanismos corporais que ele propõe: uma pergunta útil sobre tempo e consequências ainda precisa de evidências corretas.",
+        "A captura 102 questiona comparar apenas danos imediatos de água contaminada e álcool. Importam duração e tipo de resultado medido. As capturas seguintes tratam de proibição, substituição por outro intoxicante e explicação que alcance sentimento e intelecto. É uma discussão sobre qualidade da compreensão pública, não só sobre a existência de dano.",
+        "O encerramento pede que a ciência explique efeitos em linguagem compreensível para permitir decisão própria. A captura 104 admite necessidade de leis enquanto prioriza esclarecimento; não declara toda lei inútil. A finalidade ética deve ser distinguida da confiança nos mecanismos descritos. Uma explicação acessível também precisa ser exata: liberdade não exige aceitar uma causa histórica sem evidência.",
+        "Preservam-se as ressalvas do curso inglês: álcool pode causar danos graves; abstinência severa pode envolver convulsões ou delírio e precisar de cuidado médico. Sangria e mais bebida não são orientação de tratamento. As referências existentes incluem NIAAA."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica a compreensão pública e a liberdade?",
+          "A captura 102 questiona comparar apenas danos imediatos de água contaminada e álcool. Importam duração e tipo de resultado medido. As capturas seguintes tratam de proibição, substituição por outro intoxicante e explicação que alcance sentimento e intelecto. É uma discussão sobre qualidade da compreensão pública, não só sobre a existência de dano."
+        ],
+        [
+          "Por que uma comparação baseada apenas em consequências imediatas pode ser incompleta?",
+          "Uma comparação pode mudar quando alteramos seu intervalo de tempo. Uma escolha que parece conveniente hoje pode gerar custos depois. Esse ponto simples ajuda a explicar a objeção de Steiner a avaliar o álcool apenas por uma comparação imediata com água contaminada. Isso não valida os mecanismos corporais que ele propõe: uma pergunta útil sobre tempo e consequências ainda precisa de evidências corretas."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 15,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Nicotine, bodily rhythm and construction–breakdown",
+      "goal": "Reconstruct the rhythm argument and distinguish it from present cardiovascular knowledge.",
+      "paragraphs": [
+        "Repair sometimes requires removing damaged material before rebuilding. This everyday example explains why breakdown and construction need not always be enemies. Steiner’s closing discussion asks us to distinguish destructive damage from activity involved in renewal. That distinction can clarify his argument without confirming a fixed pulse-to-breath ratio or his denial that the heart pumps blood.",
+        "Capture 105 begins with nicotine and circulation, then gives the familiar figures of 72 pulse beats and 18 breaths per minute. Steiner treats their four-to-one ratio as an expression of bodily regulation. Nicotine is said to accelerate circulation and heart activity. The aim is to connect a substance to a relationship among processes, rather than treat a single organ as the entire explanation.",
+        "Captures 108–109 turn to bone-building and bone-resorbing activities, in connection with work and inward engagement. The larger idea is that construction and breakdown can both be necessary: not every destructive process is simply an enemy of life. This qualifies the earlier image of opposing decay. Ask which breakdown participates in renewal and which damages organization; a whole-system description must preserve that distinction.",
+        "The heart pumps blood, and normal resting pulse varies rather than being fixed at 72. CDC describes smoking as harmful to many organs. The historical therapeutic nicotine suggestion is not a reason to smoke or use tobacco as treatment."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain bodily rhythm?",
+          "Capture 105 begins with nicotine and circulation, then gives the familiar figures of 72 pulse beats and 18 breaths per minute. Steiner treats their four-to-one ratio as an expression of bodily regulation. Nicotine is said to accelerate circulation and heart activity. The aim is to connect a substance to a relationship among processes, rather than treat a single organ as the entire explanation."
+        ],
+        [
+          "Does recognizing constructive breakdown validate a fixed pulse-to-breath ratio?",
+          "Repair sometimes requires removing damaged material before rebuilding. This everyday example explains why breakdown and construction need not always be enemies. Steiner’s closing discussion asks us to distinguish destructive damage from activity involved in renewal. That distinction can clarify his argument without confirming a fixed pulse-to-breath ratio or his denial that the heart pumps blood."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Nicotina, ritmo corporal e renovação",
+      "goal": "Distinga coordenação proposta, inferência causal e conhecimento cardiovascular.",
+      "paragraphs": [
+        "Um reparo às vezes exige retirar material danificado antes de reconstruir. Esse exemplo cotidiano explica por que decomposição e construção nem sempre precisam ser opostas. A discussão final de Steiner pede que se distinga dano destrutivo de atividade envolvida na renovação. Essa distinção esclarece seu argumento sem confirmar uma proporção fixa entre pulso e respiração nem sua negação de que o coração bombeia sangue.",
+        "A captura 105 usa 72 pulsações e 18 respirações por minuto para apresentar uma proporção de quatro para um como regulação corporal. A nicotina aceleraria circulação e atividade cardíaca. O objetivo é conectar uma substância à relação entre processos, não tomar um órgão isolado como explicação completa.",
+        "As capturas 108–109 tratam de formação e reabsorção óssea em relação a trabalho e participação interior. A conclusão é que construir e desfazer podem cooperar na renovação. Isso complica a imagem simples de vida lutando contra toda destruição: decomposição danosa e reabsorção funcional não são idênticas. Uma descrição do conjunto deve preservar essa diferença.",
+        "O coração bombeia sangue, e o pulso normal em repouso varia, em vez de ser fixo em 72 batimentos por minuto. O CDC descreve danos do tabagismo a muitos órgãos. A sugestão histórica de nicotina terapêutica não é razão para fumar ou usar tabaco como tratamento."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica o ritmo corporal?",
+          "A captura 105 usa 72 pulsações e 18 respirações por minuto para apresentar uma proporção de quatro para um como regulação corporal. A nicotina aceleraria circulação e atividade cardíaca. O objetivo é conectar uma substância à relação entre processos, não tomar um órgão isolado como explicação completa."
+        ],
+        [
+          "Reconhecer uma decomposição que contribui para a renovação valida uma proporção fixa entre pulso e respiração?",
+          "Um reparo às vezes exige retirar material danificado antes de reconstruir. Esse exemplo cotidiano explica por que decomposição e construção nem sempre precisam ser opostas. A discussão final de Steiner pede que se distinga dano destrutivo de atividade envolvida na renovação. Essa distinção esclarece seu argumento sem confirmar uma proporção fixa entre pulso e respiração nem sua negação de que o coração bombeia sangue."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 16,
+    "composition": {
+      "newParagraphs": [
+        0
+      ],
+      "retainedFields": [
+        "sections",
+        "context"
+      ]
+    },
+    "en": {
+      "title": "Health, medicine and the use of freed capacities",
+      "goal": "Explain why the final chapter connects nourishment with knowledge, practice and independent thinking.",
+      "paragraphs": [
+        "Finishing a chore early creates available time, but it does not decide how that time will be used. This limited analogy clarifies the final chapter’s distinction between freeing capacity and developing it. Steiner applies the distinction to digestion and thinking. The practical idea of active cultivation does not establish his proposed food mechanisms or his unsupported warning about brain damage.",
+        "Capture 114 compares a person who finishes digesting rice quickly with one occupied longer by digesting wild duck. Steiner proposes that spared digestive forces can be used in thinking, but says cleverness and independent thinking are not the same. Protein balance is connected with mastery of ideas. The argument links bodily work and mental agency; its particular food-to-thinking mechanisms are not established by the examples.",
+        "The final passage says that a vegetarian must use freed capacities through spiritual activity; otherwise the spared forces are claimed to act unfavourably. The closing excerpt rejects automatic elevation through a menu. This brings the book back to its starting problem: food can condition the instrument, but a person must cultivate activity. Treat the claims of brain damage without spiritual practice as unsupported, while retaining the clear argumentative point that dietary change alone does not establish spiritual attainment.",
+        "The clinical validity of remedies requires evidence; the chapter’s spiritual methods and rice/duck thinking mechanism do not establish it. Vegetarianism does not require anthroposophical practice to prevent the brain damage alleged here. The lesson concerns the argument for active development rather than automatic effects."
+      ],
+      "checks": [
+        [
+          "How does this chapter explain diet and active development?",
+          "Capture 114 compares a person who finishes digesting rice quickly with one occupied longer by digesting wild duck. Steiner proposes that spared digestive forces can be used in thinking, but says cleverness and independent thinking are not the same. Protein balance is connected with mastery of ideas. The argument links bodily work and mental agency; its particular food-to-thinking mechanisms are not established by the examples."
+        ],
+        [
+          "Does having more available time determine what someone will learn?",
+          "Finishing a chore early creates available time, but it does not decide how that time will be used. This limited analogy clarifies the final chapter’s distinction between freeing capacity and developing it. Steiner applies the distinction to digestion and thinking. The practical idea of active cultivation does not establish his proposed food mechanisms or his unsupported warning about brain damage."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "Saúde, medicina e capacidades liberadas",
+      "goal": "Conecte nutrição, conhecimento, prática e pensar independente.",
+      "paragraphs": [
+        "Terminar uma tarefa cedo libera tempo, mas não decide como esse tempo será usado. Essa analogia limitada esclarece a distinção do capítulo final entre liberar uma capacidade e desenvolvê-la. Steiner aplica a distinção à digestão e ao pensamento. A ideia prática de desenvolvimento ativo não estabelece os mecanismos alimentares propostos nem a advertência sem fundamento sobre danos cerebrais.",
+        "Na captura 114, digestão rápida do arroz é contraposta à digestão demorada de pato selvagem. Forças poupadas poderiam servir ao pensar, segundo Steiner; porém ser esperto não é pensar independentemente. Equilíbrio proteico também é ligado ao domínio das ideias. Os exemplos conectam trabalho corporal e iniciativa mental sem estabelecer os mecanismos alimentares particulares alegados.",
+        "O final diz que capacidades liberadas pelo vegetarianismo precisariam ser usadas espiritualmente e alega efeitos desfavoráveis se isso não ocorrer. A afirmação de dano cerebral sem prática espiritual não tem sustentação. O ponto argumentativo que permanece é distinto: uma escolha alimentar não constitui, por si só, realização espiritual. A alimentação pode condicionar o instrumento, enquanto compreender e cultivar atividade continuam tarefas da pessoa.",
+        "Remédios exigem evidência clínica. Métodos espirituais e a comparação arroz/pato não a fornecem. Vegetarianismo não exige prática antroposófica para prevenir o dano cerebral alegado. O curso explica desenvolvimento ativo, não efeitos automáticos."
+      ],
+      "checks": [
+        [
+          "Como o capítulo explica a alimentação e o desenvolvimento ativo?",
+          "Na captura 114, digestão rápida do arroz é contraposta à digestão demorada de pato selvagem. Forças poupadas poderiam servir ao pensar, segundo Steiner; porém ser esperto não é pensar independentemente. Equilíbrio proteico também é ligado ao domínio das ideias. Os exemplos conectam trabalho corporal e iniciativa mental sem estabelecer os mecanismos alimentares particulares alegados."
+        ],
+        [
+          "Ter mais tempo disponível determina o que alguém aprenderá?",
+          "Terminar uma tarefa cedo libera tempo, mas não decide como esse tempo será usado. Essa analogia limitada esclarece a distinção do capítulo final entre liberar uma capacidade e desenvolvê-la. Steiner aplica a distinção à digestão e ao pensamento. A ideia prática de desenvolvimento ativo não estabelece os mecanismos alimentares propostos nem a advertência sem fundamento sobre danos cerebrais."
+        ]
+      ]
+    }
+  },
+  {
+    "course": "nutrition",
+    "id": 17,
+    "composition": {
+      "newParagraphs": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "en": {
+      "title": "What does this anthology mean by nourishment?",
+      "goal": "Connect bodily support, transformation and independent activity without erasing differences.",
+      "paragraphs": [
+        "A prepared meal can support someone’s work, but it cannot make their decisions for them. This everyday distinction brings us back to the opening instrument image. Across the anthology, nourishment conditions activity while the person’s own activity remains essential. The point is a relationship, not a list of foods that automatically confer spiritual development.",
+        "Steiner’s account adds inward transformation and formative spiritual forces to bodily support. His cultivation discussions extend the question beyond the plate, while his concern with access shows that choice depends on circumstances. These connections make the chapters intelligible as a sustained inquiry, even though the anthology combines different dates and audiences.",
+        "The connections do not erase tensions. Opposing a decay process and naming a nutrient’s chief field are different relationships; transformed minerals contributing to organs and food chiefly stimulating cosmic formation also differ in emphasis. A careful synthesis states those differences before proposing an interpretation. It does not quietly replace every historical claim with a modern explanation.",
+        "Understanding is therefore an achievement distinct from agreement. We can explain why the instrument, transformation and active-development passages belong together while asking for independent evidence about a proposed disease mechanism. No menu, bodily type or successful analogy establishes a person’s moral worth or spiritual attainment."
+      ],
+      "checks": [
+        [
+          "Why does bodily support not amount to automatic spiritual development?",
+          "Support makes activity possible or easier; it does not perform the person’s thinking, choosing or cultivation of capacity. This connects the opening instrument image to the final emphasis on active development."
+        ],
+        [
+          "Should a synthesis hide different nutrient mappings?",
+          "No. It should state each relation and its explanatory purpose, then identify any unresolved tension. Naming different purposes helps interpretation without proving the mappings."
+        ]
+      ]
+    },
+    "pt": {
+      "title": "O que esta antologia entende por nutrição?",
+      "goal": "Relacione apoio corporal, transformação e atividade própria sem apagar diferenças.",
+      "paragraphs": [
+        "Uma refeição preparada pode sustentar o trabalho de alguém, mas não pode tomar suas decisões. Essa distinção cotidiana nos leva de volta à imagem inicial do instrumento. Ao longo da antologia, a alimentação condiciona a atividade, enquanto a atividade própria da pessoa permanece essencial. O ponto é uma relação, não uma lista de alimentos que conferem desenvolvimento espiritual automaticamente.",
+        "O relato de Steiner acrescenta transformação interior e forças formativas espirituais ao apoio corporal. Suas discussões sobre cultivo ampliam a pergunta para além do prato, enquanto a preocupação com o acesso mostra que a escolha depende das circunstâncias. Essas relações tornam os capítulos compreensíveis como uma investigação contínua, embora a antologia reúna datas e públicos diferentes.",
+        "As relações não apagam tensões. Opor-se a um processo de decomposição e indicar o campo principal de um nutriente são relações diferentes; minerais transformados que contribuem para órgãos e alimentos que sobretudo estimulam a formação cósmica também diferem em ênfase. Uma síntese cuidadosa declara essas diferenças antes de propor uma interpretação. Não substitui silenciosamente cada afirmação histórica por uma explicação moderna.",
+        "Compreender é, portanto, uma realização distinta de concordar. Podemos explicar por que as passagens sobre instrumento, transformação e desenvolvimento ativo se relacionam e ainda pedir evidências independentes sobre um mecanismo de doença proposto. Nenhum cardápio, tipo corporal ou analogia bem-sucedida estabelece o valor moral ou a realização espiritual de uma pessoa."
+      ],
+      "checks": [
+        [
+          "Por que o apoio corporal não equivale ao desenvolvimento espiritual automático?",
+          "O apoio possibilita ou facilita a atividade; não realiza o pensamento, a escolha ou o desenvolvimento das capacidades da pessoa. Isso relaciona a imagem inicial do instrumento à ênfase final no desenvolvimento ativo."
+        ],
+        [
+          "Uma síntese deve ocultar esquemas diferentes de nutrientes?",
+          "Não. Deve declarar cada relação e sua finalidade explicativa, identificando depois qualquer tensão não resolvida. Nomear finalidades distintas ajuda a interpretação sem provar os esquemas."
+        ]
+      ]
+    }
+  }
+]

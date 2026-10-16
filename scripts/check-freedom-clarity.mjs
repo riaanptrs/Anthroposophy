@@ -1,3 +1,4 @@
+import {applyDocumentedLanguageCorrections} from './editorial-language-exceptions.mjs';
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {execFileSync} from 'node:child_process';
@@ -24,5 +25,5 @@ for(const l of lessons){
   if(html.includes('id="lecture-guide"'))assert.ok(html.includes('<details class="freedom-deeper-lecture">'),'Lecture separate and optional');
  }
 }
-for(const file of ['content/passage-study.json','content/philosophy-of-freedom-lecture-guides.mjs','content/philosophy-of-freedom-page-notes-front-and-appendix.md','content/philosophy-of-freedom-page-notes-chapters1-4.md','content/philosophy-of-freedom-page-notes-chapters5-9.md','content/philosophy-of-freedom-page-notes-chapters10-14.md'])assert.deepEqual(fs.readFileSync(file),execFileSync('git',['show',baseline+':'+file]),`Source record unchanged: ${file}`);
+for(const file of ['content/passage-study.json','content/philosophy-of-freedom-lecture-guides.mjs','content/philosophy-of-freedom-page-notes-front-and-appendix.md','content/philosophy-of-freedom-page-notes-chapters1-4.md','content/philosophy-of-freedom-page-notes-chapters5-9.md','content/philosophy-of-freedom-page-notes-chapters10-14.md'])assert.equal(fs.readFileSync(file,'utf8'),applyDocumentedLanguageCorrections(execFileSync('git',['show',baseline+':'+file]).toString()),`Source record unchanged: ${file}`);
 console.log('Passed: 22 bilingual short readings; all earlier explanations, questions, terms and activities retained; chapter/source IDs, quotations, lecture guides and page ledgers unchanged. This verifies preservation, not fresh source fidelity.');

@@ -84,7 +84,7 @@
       "question": "Como Steiner qualifica a autossuficiência completa?",
       "options": [
         "É plenamente alcançável em qualquer fazenda",
-        "É um ideal a aproximar, embora não seja inteiramente alcançável",
+        "É um ideal do qual se aproximar, embora não seja inteiramente alcançável",
         "Exige ignorar o entorno da fazenda"
       ],
       "answer": 1,
@@ -400,7 +400,7 @@
         "Their local observations are irrelevant because every farm is identical."
       ],
       "answer": 1,
-      "explanation": "At capture144 Steiner rejects the merely implementing role and says that the basis of the work in Dornach must first come from the farmers."
+      "explanation": "At capture 144, Steiner rejects the merely implementing role and says that the basis of the work in Dornach must first come from the farmers."
     },
     "pt": {
       "question": "Que papel o discurso ao Círculo atribui aos agricultores?",
@@ -410,7 +410,7 @@
         "Suas observações locais são irrelevantes porque todas as propriedades são iguais."
       ],
       "answer": 1,
-      "explanation": "Na captura144 Steiner recusa o papel de mero executor e diz que a base do trabalho de Dornach deve vir primeiro dos agricultores."
+      "explanation": "Na captura 144, Steiner recusa o papel de mero executor e diz que a base do trabalho de Dornach deve vir primeiro dos agricultores."
     }
   }
 ]

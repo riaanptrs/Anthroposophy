@@ -1,0 +1,98 @@
+{
+  "checked": "2026-10-16",
+  "scope": "Specific modern context and terminology only; not verification of anthroposophical original books or all medical literature.",
+  "reviewed": [
+    {
+      "title": "FDA food handling",
+      "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling",
+      "scope": "Hygiene, chilling, shallow containers, reheating. The 24-hour activity limit is editorial, not an FDA shelf-life rule.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "NIH B12",
+      "url": "https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/",
+      "scope": "Reliable B12 sources; no personalized dosing introduced.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "CDC raw milk",
+      "url": "https://www.cdc.gov/food-safety/foods/raw-milk.html",
+      "scope": "Pasteurized milk and dairy; farm hygiene does not guarantee raw-milk safety.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "NIDDK digestion",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "scope": "Digestive transformations, secretions and absorption; separate from warmth ether and organ soul activity.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "NIDDK diabetes",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes",
+      "scope": "Insulin production/action context, separate from historical mineral-transformation claims.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "CDC BSE",
+      "url": "https://www.cdc.gov/mad-cow/php/animal-health/",
+      "scope": "Prion and contaminated-feed context; not verification of the anthology’s urate mechanism.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "NIAAA alcohol",
+      "url": "https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/alcohol-use-disorder-risk-diagnosis-recovery",
+      "scope": "Severe withdrawal and medical assessment; no historical treatment adopted.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "NHLBI heart",
+      "url": "https://www.nhlbi.nih.gov/health/heart/heart-beats",
+      "scope": "Heart pumping and variation in resting pulse; no fixed 72-beat rule.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "CDC smoking",
+      "url": "https://www.cdc.gov/tobacco/about/index.html",
+      "scope": "Smoking harms; historical nicotine treatment suggestions are not adopted.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "CDC botulism",
+      "url": "https://www.cdc.gov/botulism/prevention/index.html",
+      "scope": "No honey under 12 months.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "NIDDK celiac",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/eating-diet-nutrition",
+      "scope": "Gluten grains, oat cross-contact and individual suitability.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "FDA microwaves",
+      "url": "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens",
+      "scope": "Correct use of compliant ovens; spiritual preferences do not establish disease claims.",
+      "access": "Relevant body text read"
+    },
+    {
+      "title": "Soratto et al. painço",
+      "url": "https://www.scielo.br/j/cagro/a/Ttf9YYCcYsXkgfHhvs7KmfJ/?format=html&lang=pt",
+      "scope": "Primary research title/abstract identify painço and proso millet; no fertilizer recommendation derived.",
+      "access": "Relevant body text read"
+    }
+  ],
+  "partial": [
+    {
+      "title": "Embrapa milheto publication",
+      "url": "https://www.embrapa.br/busca-de-publicacoes/-/publicacao/480586/comportamento-de-variedades-de-milheto-pennisetum-glaucum-l-r-br-para-producao-de-massa",
+      "access": "Indexed primary publication metadata only; full page unavailable"
+    },
+    {
+      "title": "Embrapa Sistema de Produção: Cultivo do Milheto PDF",
+      "access": "Fetch timed out; no claim of full PDF review"
+    }
+  ],
+  "retainedWithoutFreshCheck": [
+    "Earlier NHS vegan-diet reference"
+  ]
+}

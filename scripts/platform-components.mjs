@@ -102,6 +102,13 @@ function workedCase(example, lang) {
   return `<section class="cp-explanation" data-concept-section="worked-example"><h2>${esc(example.title)}</h2><p>${esc(example.explanation)}</p><details class="cp-course-notes"><summary>${t(lang, 'Optional: try a changed situation', 'Opcional: experimente uma situação diferente')}</summary><p>${esc(example.question)}</p><details><summary>${t(lang, 'Explore the reasoning', 'Explore o raciocínio')}</summary><p>${esc(example.answer)}</p></details></details></section>`;
 }
 
+const theosophyClarity = JSON.parse(fs.readFileSync(new URL('../content/theosophy-clear-lessons.json', import.meta.url), 'utf8'));
+function firstReading(id, lang) {
+  const row=theosophyClarity.find(item=>item.id===id),v=row?.[lang];
+  if(!v||v.paragraphs.length<4||v.checks.length!==2)throw Error(`Incomplete Theosophy first reading ${id}/${lang}`);
+  return `<section class="cp-first-reading" data-clarity-first><h2>${t(lang,'Start with a familiar situation','Comece com uma situação familiar')}</h2>${paragraphs(v.paragraphs)}<h2>${t(lang,'Optional questions with explanations','Perguntas opcionais com explicações')}</h2>${v.checks.map(([question,answer])=>`<div class="cp-clarity-check"><p>${esc(question)}</p><details><summary>${t(lang,'Explore the reasoning','Explore o raciocínio')}</summary><p>${esc(answer)}</p></details></div>`).join('')}</section>`;
+}
+
 export function renderConceptLesson(lesson, {course, lessons, concepts, practices, lang, file}) {
   const v = lesson[lang], order = orderFor(course,lessons), position = order.indexOf(lesson.id);
   if (position < 0 || !v?.title || !v.question) throw new Error('Lesson is absent from its course or language');
@@ -124,6 +131,8 @@ export function renderConceptLesson(lesson, {course, lessons, concepts, practice
     `<nav class="cp-breadcrumb" aria-label="${t(lang,'Course location','Localização no curso')}">${link(file,`${courseRoute(course)}/index.html`,value(course,lang,'title'),lang)}<span>${t(lang,'Lesson','Lição')} ${position+1} ${t(lang,'of','de')} ${order.length}</span></nav>`,
     `<header class="cp-lesson-heading"><p class="cp-label">${esc(value(module,lang,'title'))}</p><h1>${esc(v.title)}</h1><p class="cp-question">${esc(v.question)}</p></header>`,
     moduleNavigation(lesson.id,{course,lessons,lang,file}),
+    firstReading(lesson.id,lang),
+    `<details class="cp-deeper cp-retained-depth"><summary>${t(lang,'Go deeper: the full explanation, connections and practices','Aprofunde: explicação completa, conexões e práticas')}</summary>`,
     `<section class="cp-experience" id="begin-with-experience" data-concept-section="experience"><div class="cp-label">${t(lang,'Observe','Observe')}</div><h2>${t(lang,'Begin with experience','Comece com a experiência')}</h2>${paragraphs(v.experience)}</section>`,
     `<section class="cp-central-idea" id="central-idea" data-concept-section="central"><div class="cp-label">${t(lang,'Steiner’s account','A concepção de Steiner')}</div><h2>${t(lang,'The central idea','A ideia central')}</h2><p>${esc(v.centralIdea)}</p></section>`,
     `<section class="cp-terminology" id="useful-terminology" data-concept-section="terminology"><h2>${t(lang,'Useful terminology','Terminologia útil')}</h2><dl>${terms.map(term => `<dt>${link(file,conceptRoute(term),value(term,lang,'term'),lang)}</dt><dd>${esc(value(term,lang,'definition'))}</dd>`).join('')}</dl></section>`,
@@ -135,6 +144,7 @@ export function renderConceptLesson(lesson, {course, lessons, concepts, practice
     `<section class="cp-reflection" id="reflection" data-concept-section="reflection"><h2>${t(lang,'Reflect in your own words','Reflita com suas palavras')}</h2><p class="cp-reflection-question">${esc(v.reflection.question)}</p><details class="cp-course-notes"><summary>${t(lang,'Reveal course notes','Revelar notas do curso')}</summary>${paragraphs(v.reflection.notes)}</details></section>`,
     `<section class="cp-takeaways" id="takeaways" data-concept-section="takeaways"><h2>${t(lang,'What to remember','O que lembrar')}</h2>${list(v.takeaways)}</section>`,
     v.deeper?.length ? `<section class="cp-deeper-study" id="deeper-study" data-concept-section="deeper"><h2>${t(lang,'Optional deeper study','Aprofundamento opcional')}</h2>${v.deeper.map(item => `<details class="cp-deeper"><summary>${esc(item.title)}</summary>${paragraphs(item.paragraphs)}</details>`).join('')}</section>` : '',
+    '</details>',
     studyControls(lang),
     sourceReferences(lesson.sources,{course,lang,file}),
     `<nav class="cp-lesson-navigation" aria-label="${t(lang,'Lesson navigation','Navegação das lições')}">${previous ? link(file,lessonRoute(course,previous),'← '+value(previous,lang,'title'),lang) : link(file,`${courseRoute(course)}/index.html`,t(lang,'← Course introduction','← Introdução do curso'),lang)}${next ? link(file,lessonRoute(course,next),value(next,lang,'title')+' →',lang,'class="cp-next"') : link(file,`${courseRoute(course)}/index.html`,t(lang,'Return to the course map →','Retornar ao mapa do curso →'),lang,'class="cp-next"')}</nav></article>`
@@ -167,6 +177,8 @@ export function renderCourseSynthesis({course, lessons, concepts, practices, lan
     `<nav class="cp-breadcrumb" aria-label="${t(lang,'Course location','Localização no curso')}">${link(file,`${courseRoute(course)}/index.html`,value(course,lang,'title'),lang)}<span>${t(lang,'Whole-course synthesis','Síntese do curso')}</span></nav>`,
     `<h1>${esc(v.title)}</h1><p class="cp-question">${esc(v.question)}</p>`,
     moduleNavigation(synthesis.id,{course,lessons,lang,file}),
+    firstReading(synthesis.id,lang),
+    `<details class="cp-deeper cp-retained-depth"><summary>${t(lang,'Go deeper: the complete course map and review','Aprofunde: mapa completo do curso e revisão')}</summary>`,
     workedCase(v.workedExample, lang),
     `<section class="cp-synthesis-map" data-concept-section="connections"><h2>${t(lang,'The whole picture','A visão do conjunto')}</h2><ul class="cp-map-clusters">${map}</ul></section>`,
     `<section class="cp-takeaways" data-concept-section="takeaways"><h2>${t(lang,'What to keep in view','O que considerar no conjunto')}</h2>${list(v.takeaways)}</section>`,
@@ -174,6 +186,7 @@ export function renderCourseSynthesis({course, lessons, concepts, practices, lan
     `<section class="cp-glossary" data-concept-section="glossary"><h2>${t(lang,'A connected glossary','Um glossário conectado')}</h2><dl>${concepts.map(concept=>`<dt>${link(file,conceptRoute(concept),value(concept,lang,'term'),lang)}</dt><dd>${esc(value(concept,lang,'definition'))}</dd>`).join('')}</dl></section>`,
     `<section class="cp-practice-overview" data-concept-section="practice-overview"><h2>${t(lang,'Practices to return to','Práticas para retomar')}</h2><ul>${practices.map(practice=>`<li><h3>${link(file,practiceRoute(practice),value(practice,lang,'title'),lang)}</h3><p>${esc(value(practice,lang,'purpose'))}</p></li>`).join('')}</ul></section>`,
     `<section class="cp-continuing"><h2>${t(lang,'Continue your study','Continue seu estudo')}</h2><ul>${v.continuing.map(item=>{if(!/^[a-z0-9/-]+\.html$/.test(item.route)||item.route.split('/').some(part=>part==='..'||part==='.')||item.route.startsWith('/'))throw new Error('Invalid further-study route');return `<li><h3>${link(file,item.route,item.title,lang)}</h3><p>${esc(item.description)}</p></li>`;}).join('')}</ul></section>`,
+    '</details>',
     studyControls(lang), sourceReferences(synthesis.sources,{course,lang,file}),
     `<nav class="cp-lesson-navigation" aria-label="${t(lang,'Lesson navigation','Navegação das lições')}">${link(file,lessonRoute(course,previous),'← '+value(previous,lang,'title'),lang)}${link(file,`${courseRoute(course)}/index.html`,t(lang,'Return to the course map →','Retornar ao mapa do curso →'),lang,'class="cp-next"')}</nav></article>`
   ].join('');

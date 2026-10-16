@@ -28,7 +28,7 @@ O menino natânico é relacionado a esse aspecto preservado, também chamado Ad�
 A visitação adquire outro sentido por essa relação. Lucas narra o movimento de João no ventre quando Maria cumprimenta Isabel. O palestrante o interpreta como reconhecimento da contraparte que chega. Lucas não narra explicitamente a sequência de reencarnações. Manter o acontecimento bíblico e a explicação espiritual juntos, mas distinguíveis, permite compreender ambos.
 
 A identidade da mãe exige outra atribuição. Em P1 01:43:53–01:44:52, o palestrante chama expressamente a identificação de Maria com Eva celeste de conjectura própria e diz não ter palavras de Steiner para prová-la. A confiança posterior não apaga esse limite. A proposta pode ser considerada como pergunta opcional; o papel da alma natânica não depende de transformar a conjectura em doutrina estabelecida.`,
- 'Imagine reconhecer uma qualidade familiar de bondade em alguém desconhecido. A experiência comum esclarece o reconhecimento de uma qualidade; não demonstra a proposta de contrapartes espirituais. Inocência significa aqui abertura preservada, além da simples falta de informações.',
+ 'Imagine reconhecer uma qualidade familiar de bondade em alguém desconhecido. A experiência comum esclarece o reconhecimento de uma qualidade; não demonstra a proposta de contrapartes espirituais. Inocência significa aqui abertura preservada, não simplesmente falta de informações.',
  'Inocência preservada não autoriza ignorar limites ou discernimento prático. A linguagem de alma irmã tampouco torna João e Jesus intercambiáveis. Suas funções diferem na visitação e no Jordão.',
  'Durante três minutos, recorde um momento de bondade espontânea. Considere sua abertura e um limite sensato que poderia preservá-la. Não precisa compartilhar a situação.'
 ]);
@@ -52,7 +52,7 @@ Listening does not require abandoning judgment. Mary’s question shows an encou
  'Anunciação, visitação e resposta atenta','Como as relações iniciais de Lucas preparam a história?',
  'Distinguir as duas anunciações|Ordenar a visitação|Explicar atenção às pessoas e necessidades',
  'A abertura de Lucas, lida na palestra, relaciona a promessa sobre João, a mensagem a Maria e seu encontro com Isabel.',
- `Comece pela ordem narrativa. Zacarias serve no Templo e recebe o anúncio de um filho, João, para Isabel. Maria recebe o anúncio referente a Jesus. Depois visita Isabel, e João se move no ventre materno. Isabel cumprimenta Maria, e o cântico de Maria amplia a cena em direção aos humildes e famintos. Essas relações preparam os nascimentos, além de ornamentá-los.
+ `Comece pela ordem narrativa. Zacarias serve no Templo e recebe o anúncio de um filho, João, para Isabel. Maria recebe o anúncio referente a Jesus. Depois visita Isabel, e João se move no ventre materno. Isabel cumprimenta Maria, e o cântico de Maria amplia a cena em direção aos humildes e famintos. Essas relações preparam os nascimentos, em vez de apenas ornamentá-los.
 
 Existem duas anunciações, com pessoas e respostas diferentes. A pergunta de Zacarias concerne à possibilidade do nascimento em idade avançada. A de Maria concerne ao cumprimento do anúncio. Nas duas cenas, alguém é interpelado por algo que ultrapassa a situação conhecida. É preciso compreender a sequência antes de acrescentar a interpretação espiritual.
 
@@ -94,7 +94,7 @@ A apresentação do bebê acrescenta outra cena. Simeão recebe a criança e rec
 A base de conhecimento fornecida registra uma verificação pontual da GA 114, de 16 de setembro de 1909: Steiner relaciona Simeão a Asita, o sábio ligado ao bodisatva ainda bebê. A identificação é mais precisa que a descrição de um acompanhante doméstico na transcrição. No relato de Steiner, a tristeza por não assistir à realização anterior torna-se reconhecimento da irradiação de Buda no menino natânico. A explicação acrescenta uma relação entre vidas à cena de Lucas.
 
 A atribuição cuidadosa torna o relato compreensível. Lucas narra Simeão e Ana; Steiner fornece a relação com Asita; o palestrante enfatiza a compaixão universal; o curso acrescenta uma prática cotidiana. Isso não exige afirmar que os próprios budistas interpretam Buda através de Lucas ou que ninguém antes de Buda tenha cuidado de um desconhecido.`,
- 'Alguém fora de seu círculo precisa de uma orientação clara. Reservar tempo para ajudar torna concreta a compaixão. O ato atende a uma necessidade específica, além de expressar benevolência geral.',
+ 'Alguém fora de seu círculo precisa de uma orientação clara. Reservar tempo para ajudar torna concreta a compaixão. O ato atende a uma necessidade específica, em vez de apenas expressar benevolência geral.',
  'O relato apresenta uma relação antroposófica entre tradições, sem substituir a compreensão budista.',
  'Escolha um pequeno ato útil para alguém fora de sua casa. Respeite o que a pessoa realmente deseja; compaixão útil inclui escutar. Três a dez minutos bastam.'
 ]);
