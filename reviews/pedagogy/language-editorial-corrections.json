@@ -1418,5 +1418,61 @@
         "occurrences": 1
       }
     ]
+  },
+  {
+    "old": "Explain the earth–cosmos contrast and why sugar is described as a counterweight to selflessness.",
+    "new": "Explain the earth–cosmos contrast and the bodily stabilizing role Steiner assigns to sugar during spiritual development.",
+    "reason": "Bounded postpublication Nutrition 05 consistency correction in authored focus, quiz explanation and capture summary. No quoted source words changed.",
+    "files": [
+      {
+        "file": "content/nutrition/course.json",
+        "occurrences": 1
+      },
+      {
+        "file": "content/nutrition-clear-lessons.json",
+        "occurrences": 1
+      },
+      {
+        "file": "reviews/pedagogy/REMAINING-FINAL-AUDIT.md",
+        "occurrences": 2
+      },
+      {
+        "file": "reviews/pedagogy/remaining-final-ledger.json",
+        "occurrences": 2
+      }
+    ]
+  },
+  {
+    "old": "Steiner wants a bodily counterweight to moral selflessness without recommending moral egotism.",
+    "new": "Steiner assigns sugar a bodily stabilizing role during spiritual development and distinguishes bodily individual stability from moral selfishness. This is his spiritual interpretation, not an established nutritional benefit or dietary advice.",
+    "reason": "Bounded postpublication Nutrition 05 consistency correction in authored focus, quiz explanation and capture summary. No quoted source words changed.",
+    "files": [
+      {
+        "file": "content/nutrition/course.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "old": "O autor procura um contrapeso corporal à abnegação sem recomendar egocentrismo moral.",
+    "new": "Steiner atribui ao açúcar um papel de estabilização corporal durante o desenvolvimento espiritual e distingue a estabilidade individual corporal do egoísmo moral. Essa é sua interpretação espiritual, não um benefício nutricional estabelecido nem orientação alimentar.",
+    "reason": "Bounded postpublication Nutrition 05 consistency correction in authored focus, quiz explanation and capture summary. No quoted source words changed.",
+    "files": [
+      {
+        "file": "content/nutrition/course-pt.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "old": "Sugar as a counterweight to selflessness; unsupported generalizations about national personality.",
+    "new": "Sugar’s proposed bodily stabilizing role during spiritual development; unsupported generalizations about national personality.",
+    "reason": "Bounded postpublication Nutrition 05 consistency correction in authored focus, quiz explanation and capture summary. No quoted source words changed.",
+    "files": [
+      {
+        "file": "content/nutrition/course.json",
+        "occurrences": 1
+      }
+    ]
   }
 ]

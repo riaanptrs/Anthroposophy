@@ -39,3 +39,8 @@ const independentFindings=[
 ];
 for(const [route,phrase]of independentFindings)assert.ok(fs.readFileSync('docs/'+route,'utf8').replace(/<[^>]+>/g,'').includes(phrase),'Independent editorial correction rendered: '+route);
 console.log('Passed: independent meaning, grammar, safety-constraint and locator findings rendered in both course layers.');
+// Keep retained Nutrition explanations aligned with the short answer without editing quotations.
+for(const file of ['content/nutrition/course.json','content/nutrition/course-pt.json','content/nutrition-clear-lessons.json']){
+ const text=fs.readFileSync(file,'utf8');
+ assert.doesNotMatch(text,/counterweight to (?:moral )?selflessness|contrapeso corporal à abnegação/,'Nutrition bodily/moral distinction remains consistent: '+file);
+}

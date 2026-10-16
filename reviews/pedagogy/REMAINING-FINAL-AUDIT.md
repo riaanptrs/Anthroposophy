@@ -108,7 +108,7 @@ Source-blocked means fresh original-witness comparison is unavailable or incompl
 
 **Decision:** curated-reading-with-new-application
 
-**Objective:** Explain the earth–cosmos contrast and why sugar is described as a counterweight to selflessness.
+**Objective:** Explain the earth–cosmos contrast and the bodily stabilizing role Steiner assigns to sugar during spiritual development.
 
 **Prerequisites:** Suggested preparation: Plant reversal, animal organization, milk and honey — Explain the root–flower reversal and how milk and honey complete this chapter. This lesson also explains the terms it uses.
 
@@ -130,7 +130,7 @@ Source-blocked means fresh original-witness comparison is unavailable or incompl
 
 **Objective:** Reconstruct the decay–rancidity–fermentation model and its use in the potato discussion.
 
-**Prerequisites:** Suggested preparation: Cosmic nourishment and the problem of spiritual independence — Explain the earth–cosmos contrast and why sugar is described as a counterweight to selflessness. This lesson also explains the terms it uses.
+**Prerequisites:** Suggested preparation: Cosmic nourishment and the problem of spiritual independence — Explain the earth–cosmos contrast and the bodily stabilizing role Steiner assigns to sugar during spiritual development. This lesson also explains the terms it uses.
 
 **Essential concepts:** Captures 40–44 assign protein decay to the etheric body’s opposition, fat rancidity to the astral body’s opposition and sugar/starch fermentation to the I’s opposition. The quoted solid/fluid/gas pattern is completed by warmth in relation to the I. This explains why warmth, breathing and life forces recur: substances are interpreted through ongoing activities that prevent them from behaving as they would outside a living body. Captures 44–46 say that excessive potato consumption burdens head activity, which Steiner associates with controlling fermentation. He then links this burden to impaired thinking and materialism. Separate the chain into steps: dietary choice, digestive demand, head activity, character of thinking. The last steps are additional causal assertions. Knowing that potatoes contain starch does not establish that they cause a materialistic worldview.
 

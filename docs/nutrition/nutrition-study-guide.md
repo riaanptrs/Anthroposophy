@@ -303,7 +303,7 @@ Model response: Both concern transforming nourishment into formative support. Mi
 
 Chapter 3; PDF captures 31–37.
 
-Explain the earth–cosmos contrast and why sugar is described as a counterweight to selflessness.
+Explain the earth–cosmos contrast and the bodily stabilizing role Steiner assigns to sugar during spiritual development.
 
 > Eating sugar creates a kind of ‘innocent ego-character’,
 
@@ -336,7 +336,7 @@ Cosmic food relationships and sugar-produced ego-character are spiritual claims.
    B. Bodily individual stability from moral selfishness.
    C. A food with no physiological effects.
 
-Answer: B. Steiner wants a bodily counterweight to moral selflessness without recommending moral egotism.
+Answer: B. Steiner assigns sugar a bodily stabilizing role during spiritual development and distinguishes bodily individual stability from moral selfishness. This is his spiritual interpretation, not an established nutritional benefit or dietary advice.
 
 2. Why can milk be called ballast in this chapter?
    A. It is said to preserve engagement with earthly life during spiritual development.
