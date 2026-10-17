@@ -1,0 +1,68 @@
+{
+  "checks": [
+    {
+      "route": "according-to-luke/lessons/01.html",
+      "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/01.html",
+      "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "check": "Explicit mark-to-save consent, original progress namespace, bilingual completion",
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/subjects/physics.html",
+      "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+      "status": "passed"
+    },
+    {
+      "check": "Portuguese catalogue search, accents, empty results, pagination",
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/subjects/physics.html",
+      "check": "200% equivalent reflow, drawer resize, complete print and restored disclosures",
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/first-readings.html",
+      "check": "200% equivalent reflow, drawer resize, complete print and restored disclosures",
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "check": "200% equivalent reflow, drawer resize, complete print and restored disclosures",
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/01.html",
+      "check": "200% equivalent reflow, drawer resize, complete print and restored disclosures",
+      "status": "passed"
+    },
+    {
+      "check": "Blocked storage leaves reading and navigation usable",
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

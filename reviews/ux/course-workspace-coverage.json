@@ -1,0 +1,6529 @@
+{
+  "courses": [
+    {
+      "id": "according-to-luke",
+      "home": "according-to-luke/index.html",
+      "lessons": 12,
+      "groups": 3
+    },
+    {
+      "id": "agriculture",
+      "home": "agriculture/index.html",
+      "lessons": 18,
+      "groups": 3
+    },
+    {
+      "id": "ancient-myths",
+      "home": "ancient-myths/index.html",
+      "lessons": 8,
+      "groups": 2
+    },
+    {
+      "id": "biodynamics",
+      "home": "biodynamics/index.html",
+      "lessons": 24,
+      "groups": 6
+    },
+    {
+      "id": "colour",
+      "home": "colour/index.html",
+      "lessons": 14,
+      "groups": 4
+    },
+    {
+      "id": "encountering-the-self",
+      "home": "encountering-the-self/index.html",
+      "lessons": 17,
+      "groups": 5
+    },
+    {
+      "id": "foodwise",
+      "home": "foodwise/index.html",
+      "lessons": 39,
+      "groups": 7
+    },
+    {
+      "id": "higher-worlds",
+      "home": "higher-worlds/index.html",
+      "lessons": 19,
+      "groups": 4
+    },
+    {
+      "id": "introduction-to-anthroposophy",
+      "home": "introduction-to-anthroposophy/index.html",
+      "lessons": 28,
+      "groups": 7
+    },
+    {
+      "id": "learn/esoteric-christianity",
+      "home": "learn/esoteric-christianity/index.html",
+      "lessons": 24,
+      "groups": 6
+    },
+    {
+      "id": "foundations",
+      "home": "learn/foundations/index.html",
+      "lessons": 36,
+      "groups": 8
+    },
+    {
+      "id": "waldorf",
+      "home": "learn/waldorf/index.html",
+      "lessons": 62,
+      "groups": 5
+    },
+    {
+      "id": "theosophy-reading",
+      "home": "read/theosophy/index.html",
+      "lessons": 28,
+      "groups": 3
+    },
+    {
+      "id": "meditation",
+      "home": "meditation/index.html",
+      "lessons": 9,
+      "groups": 3
+    },
+    {
+      "id": "mystery-temperaments",
+      "home": "mystery-temperaments/index.html",
+      "lessons": 15,
+      "groups": 4
+    },
+    {
+      "id": "nutrition",
+      "home": "nutrition/index.html",
+      "lessons": 18,
+      "groups": 14
+    },
+    {
+      "id": "philosophy-of-freedom",
+      "home": "philosophy-of-freedom/index.html",
+      "lessons": 22,
+      "groups": 4
+    },
+    {
+      "id": "practical-thinking",
+      "home": "practical-thinking/index.html",
+      "lessons": 13,
+      "groups": 5
+    },
+    {
+      "id": "temperaments",
+      "home": "temperaments/index.html",
+      "lessons": 11,
+      "groups": 3
+    },
+    {
+      "id": "toward-threefold-society",
+      "home": "toward-threefold-society/index.html",
+      "lessons": 7,
+      "groups": 2
+    },
+    {
+      "id": "understand-temperament",
+      "home": "understand-temperament/index.html",
+      "lessons": 13,
+      "groups": 4
+    },
+    {
+      "id": "understanding-temperaments",
+      "home": "understanding-temperaments/index.html",
+      "lessons": 12,
+      "groups": 3
+    },
+    {
+      "id": "what-is-biodynamics",
+      "home": "what-is-biodynamics/index.html",
+      "lessons": 14,
+      "groups": 5
+    }
+  ],
+  "pages": [
+    {
+      "page": "according-to-luke/index.html",
+      "course": "according-to-luke",
+      "role": "overview"
+    },
+    {
+      "page": "according-to-luke/lessons/00.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "according-to-luke/lessons/01.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "according-to-luke/lessons/02.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "according-to-luke/lessons/03.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "according-to-luke/lessons/04.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "according-to-luke/lessons/05.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "according-to-luke/lessons/06.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "according-to-luke/lessons/07.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "according-to-luke/lessons/08.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "according-to-luke/lessons/09.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "according-to-luke/lessons/10.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "according-to-luke/lessons/11.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/chapters/lectures-lecture-1.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "agriculture/chapters/lectures-lecture-2.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "agriculture/chapters/lectures-lecture-3.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "agriculture/chapters/lectures-lecture-4.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "agriculture/chapters/lectures-lecture-5.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "agriculture/chapters/lectures-lecture-6.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "agriculture/chapters/lectures-lecture-7.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "agriculture/chapters/lectures-lecture-8.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "agriculture/index.html",
+      "course": "agriculture",
+      "role": "overview"
+    },
+    {
+      "page": "agriculture/lessons/00.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/01.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/02.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/03.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/04.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/05.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/06.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/07.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/08.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/09.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/10.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/11.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/12.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/13.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/14.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/15.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/16.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "agriculture/lessons/17.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "ancient-myths/index.html",
+      "course": "ancient-myths",
+      "role": "overview"
+    },
+    {
+      "page": "ancient-myths/lessons/00.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "ancient-myths/lessons/01.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "ancient-myths/lessons/02.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "ancient-myths/lessons/03.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "ancient-myths/lessons/04.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "ancient-myths/lessons/05.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "ancient-myths/lessons/06.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "ancient-myths/lessons/07.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/background.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "biodynamics/index.html",
+      "course": "biodynamics",
+      "role": "overview"
+    },
+    {
+      "page": "biodynamics/lessons/01.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/02.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/03.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/04.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/05.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/06.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/07.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/08.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/09.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/10.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/11.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/12.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/13.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/14.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/15.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/16.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/17.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/18.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/19.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/20.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/21.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/22.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/23.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/lessons/24.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "biodynamics/parts/agricultural-question.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "biodynamics/parts/biodynamics-today.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "biodynamics/parts/challenges-rhythms.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "biodynamics/parts/earth-soil-plant.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "biodynamics/parts/farm-organism.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "biodynamics/parts/preparations.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "biodynamics/practice/index.html",
+      "course": "biodynamics",
+      "role": "section"
+    },
+    {
+      "page": "biodynamics/sources.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "books/index.html",
+      "course": null,
+      "role": "catalogue"
+    },
+    {
+      "page": "colour/index.html",
+      "course": "colour",
+      "role": "overview"
+    },
+    {
+      "page": "colour/lessons/00.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/01.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/02.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/03.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/04.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/05.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/06.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/07.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/08.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/09.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/10.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/11.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/12.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "colour/lessons/13.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/index.html",
+      "course": "encountering-the-self",
+      "role": "overview"
+    },
+    {
+      "page": "encountering-the-self/lessons/00.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/01.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/02.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/03.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/04.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/05.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/06.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/07.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/08.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/09.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/10.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/11.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/12.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/13.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/14.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/15.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "encountering-the-self/lessons/16.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/glossary.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/index.html",
+      "course": "foodwise",
+      "role": "overview"
+    },
+    {
+      "page": "foodwise/ingredients/apple.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/barley.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/beans.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/carrot.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/cinnamon.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/clove.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/coriander.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/ginger.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/index.html",
+      "course": "foodwise",
+      "role": "section"
+    },
+    {
+      "page": "foodwise/ingredients/leafy-greens.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/lentils.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/maize.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/millet.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/oats.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/olive-oil.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/peas.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/potato.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/rice.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/rosemary.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/rye.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/sorghum.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/soya.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/tomato.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/ingredients/wheat.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/kitchen/index.html",
+      "course": "foodwise",
+      "role": "section"
+    },
+    {
+      "page": "foodwise/kitchen/lentil-soup.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/kitchen/oat-porridge.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/kitchen/roasted-roots.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/lessons/01.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/02.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/03.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/04.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/05.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/06.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/07.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/08.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/09.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/10.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/11.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/12.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/13.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/14.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/15.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/16.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/17.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/18.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/19.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/20.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/21.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/22.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/23.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/24.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/25.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/26.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/27.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/28.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/29.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/30.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/31.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/32.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/33.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/34.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/35.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/36.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/37.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/38.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/lessons/39.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "foodwise/modules/grains.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/modules/ingredients.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/modules/kitchen.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/modules/nourishment.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/modules/plants.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/modules/soil.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/modules/story.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "foodwise/sources.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "higher-worlds/chapters/consciousness-results.html",
+      "course": "higher-worlds",
+      "role": "reference"
+    },
+    {
+      "page": "higher-worlds/chapters/initiation-stages-enlightenment.html",
+      "course": "higher-worlds",
+      "role": "reference"
+    },
+    {
+      "page": "higher-worlds/chapters/initiation-stages-seven-conditions.html",
+      "course": "higher-worlds",
+      "role": "reference"
+    },
+    {
+      "page": "higher-worlds/chapters/preparation-conditions-and-tranquillity.html",
+      "course": "higher-worlds",
+      "role": "reference"
+    },
+    {
+      "page": "higher-worlds/index.html",
+      "course": "higher-worlds",
+      "role": "overview"
+    },
+    {
+      "page": "higher-worlds/lessons/00.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/01.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/02.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/03.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/04.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/05.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/06.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/07.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/08.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/09.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/10.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/11.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/12.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/13.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/14.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/15.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/16.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/17.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "higher-worlds/lessons/18.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/index.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "overview"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/01.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/02.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/03.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/04.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/05.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/06.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/07.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/08.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/09.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/10.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/11.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/12.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/13.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/14.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/15.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/16.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/17.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/18.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/19.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/20.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/21.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/22.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/23.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/24.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/25.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/26.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/27.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/lessons/28.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "introduction-to-anthroposophy/parts/applications.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "introduction-to-anthroposophy/parts/human-being.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "introduction-to-anthroposophy/parts/human-destiny.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "introduction-to-anthroposophy/parts/knowledge-freedom.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "introduction-to-anthroposophy/parts/larger-worldview.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "introduction-to-anthroposophy/parts/orientation.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "introduction-to-anthroposophy/parts/three-worlds.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "introduction-to-anthroposophy/source-notes.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "learn/esoteric-christianity/glossary.html",
+      "course": "learn/esoteric-christianity",
+      "role": "reference"
+    },
+    {
+      "page": "learn/esoteric-christianity/index.html",
+      "course": "learn/esoteric-christianity",
+      "role": "overview"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-02.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-03.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-04.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-05.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-06.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-07.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-08.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-09.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-10.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-11.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-12.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-13.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-14.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-15.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-16.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-17.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-18.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-19.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-20.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-21.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-22.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-23.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/lessons/ec1-24.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/esoteric-christianity/sequence.html",
+      "course": "learn/esoteric-christianity",
+      "role": "reference"
+    },
+    {
+      "page": "learn/esoteric-christianity/sources.html",
+      "course": "learn/esoteric-christianity",
+      "role": "reference"
+    },
+    {
+      "page": "learn/foundations/index.html",
+      "course": "foundations",
+      "role": "overview"
+    },
+    {
+      "page": "learn/index.html",
+      "course": null,
+      "role": "catalogue"
+    },
+    {
+      "page": "learn/lessons/01.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/02.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/03.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/04.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/05.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/06.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/07.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/08.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/09.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/10.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/11.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/12.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/13.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/14.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/15.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/16.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/17.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/18.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/19.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/20.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/21.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/22.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/23.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/24.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/25.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/26.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/27.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/28.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/29.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/30.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/31.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/32.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/33.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/34.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/35.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/lessons/36.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/development/adolescence-judgment.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/development/age-12-causality.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/development/ages-7-9.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/development/ages-9-12.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/development/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "learn/waldorf/development/nine-year-change.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/development/puberty-authority.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/development/school-readiness.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/anthroposophy-and-education.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/assessment.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/class-teacher.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/development-determines-curriculum.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/eurythmy.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/first-waldorf-school.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/foreign-languages.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/handwork.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/imagination-before-abstraction.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "learn/waldorf/foundations/main-lesson-books.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/main-lesson.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/music.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/rhythm-repetition-sleep.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/seven-year-periods.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/teaching-through-art.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/technology.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/thinking-feeling-willing.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/what-is-waldorf.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/foundations/whole-human-being.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-1/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-1/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-1/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-1/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-2/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-2/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-2/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-2/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-3/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-3/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-3/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-3/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-4/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-4/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-4/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-4/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-5/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-5/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-5/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-5/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-6/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-6/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-6/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-6/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-7/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-7/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-7/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-7/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-8/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-8/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-8/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-8/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-9/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-9/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-9/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/grades/grade-9/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/grades/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "learn/waldorf/index.html",
+      "course": "waldorf",
+      "role": "overview"
+    },
+    {
+      "page": "learn/waldorf/orientation.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/parents/advanced-child.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/arts.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/assessment.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/class-teacher.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/high-school.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/home-life.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "learn/waldorf/parents/learning-differences.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/reading.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/religion.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/science.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/storytelling.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/struggling-child.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/technology.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/parents/textbooks.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/sources/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "learn/waldorf/status.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "learn/waldorf/subjects/arts.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/chemistry.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/foreign-languages.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/geography.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/handwork.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/history.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "learn/waldorf/subjects/language.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/mathematics.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/movement-eurythmy.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/music.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/natural-science.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/physics.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/waldorf/subjects/technology.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/00.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/01.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/02.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/03.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/04.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/05.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/06.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/07.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/08.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/09.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/10.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/11.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/12.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/13.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/14.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/15.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/16.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/17.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/18.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/19.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/20.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/21.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/22.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/23.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/24.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/25.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/26.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "lessons/27.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "meditation/00.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "meditation/01.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "meditation/02.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "meditation/03.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "meditation/04.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "meditation/05.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "meditation/06.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "meditation/07.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "meditation/08.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "meditation/index.html",
+      "course": "meditation",
+      "role": "overview"
+    },
+    {
+      "page": "mystery-temperaments/chapters/framework-individual-and-two-streams.html",
+      "course": "mystery-temperaments",
+      "role": "reference"
+    },
+    {
+      "page": "mystery-temperaments/chapters/framework-members-and-portraits.html",
+      "course": "mystery-temperaments",
+      "role": "reference"
+    },
+    {
+      "page": "mystery-temperaments/index.html",
+      "course": "mystery-temperaments",
+      "role": "overview"
+    },
+    {
+      "page": "mystery-temperaments/lessons/00.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/01.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/02.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/03.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/04.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/05.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/06.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/07.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/08.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/09.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/10.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/11.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/12.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/13.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "mystery-temperaments/lessons/14.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/00.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/01.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/02.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/03.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/04.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/05.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/06.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/07.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/08.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/09.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/10.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/11.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/12.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/13.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/14.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/15.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/16.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/17.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "nutrition/first-readings.html",
+      "course": "nutrition",
+      "role": "reference"
+    },
+    {
+      "page": "nutrition/index.html",
+      "course": "nutrition",
+      "role": "overview"
+    },
+    {
+      "page": "nutrition/print.html",
+      "course": "nutrition",
+      "role": "reference"
+    },
+    {
+      "page": "nutrition/sources.html",
+      "course": "nutrition",
+      "role": "reference"
+    },
+    {
+      "page": "nutrition/teacher-plans.html",
+      "course": "nutrition",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-1.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-2.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-3.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-4.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-5.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-6.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-7.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/reality-of-freedom-chapter-10.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/reality-of-freedom-chapter-11.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/reality-of-freedom-chapter-12.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/reality-of-freedom-chapter-13.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/reality-of-freedom-chapter-14.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/reality-of-freedom-chapter-8.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/chapters/reality-of-freedom-chapter-9.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/index.html",
+      "course": "philosophy-of-freedom",
+      "role": "overview"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/00.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/01.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/02.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/03.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/04.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/05.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/06.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/07.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/08.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/09.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/10.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/11.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/12.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/13.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/14.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/15.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/16.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/17.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/18.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/19.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/20.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/lessons/21.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/index.html",
+      "course": "practical-thinking",
+      "role": "overview"
+    },
+    {
+      "page": "practical-thinking/lessons/00.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/01.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/02.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/03.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/04.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/05.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/06.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/07.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/08.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/09.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/10.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/11.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/lessons/12.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "practical-thinking/parts/judgment.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "practical-thinking/parts/observation.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "practical-thinking/parts/practical.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "practical-thinking/parts/training.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "practical-thinking/source-notes.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "practical-thinking/tools.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "pt/according-to-luke/index.html",
+      "course": "according-to-luke",
+      "role": "overview"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/00.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/01.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/02.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/03.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/04.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/05.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/06.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/07.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/08.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/09.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/10.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/according-to-luke/lessons/11.html",
+      "course": "according-to-luke",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/chapters/lectures-lecture-1.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "pt/agriculture/chapters/lectures-lecture-2.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "pt/agriculture/chapters/lectures-lecture-3.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "pt/agriculture/chapters/lectures-lecture-4.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "pt/agriculture/chapters/lectures-lecture-5.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "pt/agriculture/chapters/lectures-lecture-6.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "pt/agriculture/chapters/lectures-lecture-7.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "pt/agriculture/chapters/lectures-lecture-8.html",
+      "course": "agriculture",
+      "role": "reference"
+    },
+    {
+      "page": "pt/agriculture/index.html",
+      "course": "agriculture",
+      "role": "overview"
+    },
+    {
+      "page": "pt/agriculture/lessons/00.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/01.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/02.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/03.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/04.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/05.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/06.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/07.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/08.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/09.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/10.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/11.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/12.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/13.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/14.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/15.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/16.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/agriculture/lessons/17.html",
+      "course": "agriculture",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/ancient-myths/index.html",
+      "course": "ancient-myths",
+      "role": "overview"
+    },
+    {
+      "page": "pt/ancient-myths/lessons/00.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/ancient-myths/lessons/01.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/ancient-myths/lessons/02.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/ancient-myths/lessons/03.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/ancient-myths/lessons/04.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/ancient-myths/lessons/05.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/ancient-myths/lessons/06.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/ancient-myths/lessons/07.html",
+      "course": "ancient-myths",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/background.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/biodynamics/index.html",
+      "course": "biodynamics",
+      "role": "overview"
+    },
+    {
+      "page": "pt/biodynamics/lessons/01.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/02.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/03.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/04.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/05.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/06.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/07.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/08.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/09.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/10.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/11.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/12.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/13.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/14.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/15.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/16.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/17.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/18.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/19.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/20.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/21.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/22.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/23.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/lessons/24.html",
+      "course": "biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/biodynamics/parts/agricultural-question.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/biodynamics/parts/biodynamics-today.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/biodynamics/parts/challenges-rhythms.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/biodynamics/parts/earth-soil-plant.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/biodynamics/parts/farm-organism.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/biodynamics/parts/preparations.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/biodynamics/practice/index.html",
+      "course": "biodynamics",
+      "role": "section"
+    },
+    {
+      "page": "pt/biodynamics/sources.html",
+      "course": "biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/books/index.html",
+      "course": null,
+      "role": "catalogue"
+    },
+    {
+      "page": "pt/colour/index.html",
+      "course": "colour",
+      "role": "overview"
+    },
+    {
+      "page": "pt/colour/lessons/00.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/01.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/02.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/03.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/04.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/05.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/06.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/07.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/08.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/09.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/10.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/11.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/12.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/colour/lessons/13.html",
+      "course": "colour",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/index.html",
+      "course": "encountering-the-self",
+      "role": "overview"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/00.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/01.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/02.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/03.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/04.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/05.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/06.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/07.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/08.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/09.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/10.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/11.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/12.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/13.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/14.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/15.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/encountering-the-self/lessons/16.html",
+      "course": "encountering-the-self",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/glossary.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/index.html",
+      "course": "foodwise",
+      "role": "overview"
+    },
+    {
+      "page": "pt/foodwise/ingredients/apple.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/barley.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/beans.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/carrot.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/cinnamon.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/clove.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/coriander.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/ginger.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/index.html",
+      "course": "foodwise",
+      "role": "section"
+    },
+    {
+      "page": "pt/foodwise/ingredients/leafy-greens.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/lentils.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/maize.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/millet.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/oats.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/olive-oil.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/peas.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/potato.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/rice.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/rosemary.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/rye.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/sorghum.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/soya.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/tomato.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/ingredients/wheat.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/kitchen/index.html",
+      "course": "foodwise",
+      "role": "section"
+    },
+    {
+      "page": "pt/foodwise/kitchen/lentil-soup.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/kitchen/oat-porridge.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/kitchen/roasted-roots.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/lessons/01.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/02.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/03.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/04.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/05.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/06.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/07.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/08.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/09.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/10.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/11.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/12.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/13.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/14.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/15.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/16.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/17.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/18.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/19.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/20.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/21.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/22.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/23.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/24.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/25.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/26.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/27.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/28.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/29.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/30.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/31.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/32.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/33.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/34.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/35.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/36.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/37.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/38.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/lessons/39.html",
+      "course": "foodwise",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/foodwise/modules/grains.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/modules/ingredients.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/modules/kitchen.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/modules/nourishment.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/modules/plants.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/modules/soil.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/modules/story.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/foodwise/sources.html",
+      "course": "foodwise",
+      "role": "reference"
+    },
+    {
+      "page": "pt/higher-worlds/chapters/consciousness-results.html",
+      "course": "higher-worlds",
+      "role": "reference"
+    },
+    {
+      "page": "pt/higher-worlds/chapters/initiation-stages-enlightenment.html",
+      "course": "higher-worlds",
+      "role": "reference"
+    },
+    {
+      "page": "pt/higher-worlds/chapters/initiation-stages-seven-conditions.html",
+      "course": "higher-worlds",
+      "role": "reference"
+    },
+    {
+      "page": "pt/higher-worlds/chapters/preparation-conditions-and-tranquillity.html",
+      "course": "higher-worlds",
+      "role": "reference"
+    },
+    {
+      "page": "pt/higher-worlds/index.html",
+      "course": "higher-worlds",
+      "role": "overview"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/00.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/01.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/02.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/03.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/04.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/05.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/06.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/07.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/08.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/09.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/10.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/11.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/12.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/13.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/14.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/15.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/16.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/17.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/higher-worlds/lessons/18.html",
+      "course": "higher-worlds",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/index.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "overview"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/03.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/04.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/05.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/06.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/07.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/08.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/09.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/10.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/11.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/12.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/13.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/14.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/15.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/16.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/17.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/18.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/19.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/20.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/21.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/22.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/23.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/24.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/25.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/26.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/27.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/lessons/28.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/parts/applications.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/parts/human-being.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/parts/human-destiny.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/parts/knowledge-freedom.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/parts/larger-worldview.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/parts/orientation.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/parts/three-worlds.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "pt/introduction-to-anthroposophy/source-notes.html",
+      "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/glossary.html",
+      "course": "learn/esoteric-christianity",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/index.html",
+      "course": "learn/esoteric-christianity",
+      "role": "overview"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-02.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-03.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-04.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-05.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-06.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-07.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-08.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-09.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-10.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-11.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-12.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-13.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-14.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-15.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-16.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-17.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-18.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-19.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-20.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-21.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-22.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-23.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/lessons/ec1-24.html",
+      "course": "learn/esoteric-christianity",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/sequence.html",
+      "course": "learn/esoteric-christianity",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/esoteric-christianity/sources.html",
+      "course": "learn/esoteric-christianity",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/foundations/index.html",
+      "course": "foundations",
+      "role": "overview"
+    },
+    {
+      "page": "pt/learn/index.html",
+      "course": null,
+      "role": "catalogue"
+    },
+    {
+      "page": "pt/learn/lessons/01.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/02.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/03.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/04.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/05.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/06.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/07.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/08.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/09.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/10.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/11.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/12.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/13.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/14.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/15.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/16.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/17.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/18.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/19.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/20.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/21.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/22.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/23.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/24.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/25.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/26.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/27.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/28.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/29.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/30.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/31.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/32.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/33.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/34.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/35.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/lessons/36.html",
+      "course": "foundations",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/development/age-12-causality.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/development/ages-7-9.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/development/ages-9-12.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/development/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "pt/learn/waldorf/development/nine-year-change.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/development/puberty-authority.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/development/school-readiness.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/anthroposophy-and-education.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/assessment.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/class-teacher.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/development-determines-curriculum.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/eurythmy.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/first-waldorf-school.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/foreign-languages.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/handwork.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/imagination-before-abstraction.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/main-lesson-books.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/main-lesson.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/music.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/rhythm-repetition-sleep.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/seven-year-periods.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/teaching-through-art.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/technology.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/thinking-feeling-willing.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/what-is-waldorf.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/foundations/whole-human-being.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-1/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-1/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-1/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-1/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-2/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-2/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-2/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-2/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-3/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-3/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-3/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-3/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-4/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-4/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-4/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-4/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-5/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-5/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-5/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-5/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-6/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-6/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-6/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-6/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-7/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-7/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-7/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-7/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-8/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-8/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-8/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-8/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-9/child.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-9/curriculum.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-9/index.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/grade-9/why-now.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/grades/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "pt/learn/waldorf/index.html",
+      "course": "waldorf",
+      "role": "overview"
+    },
+    {
+      "page": "pt/learn/waldorf/orientation.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/advanced-child.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/arts.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/assessment.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/class-teacher.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/high-school.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/home-life.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/learning-differences.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/reading.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/religion.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/science.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/storytelling.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/struggling-child.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/technology.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/parents/textbooks.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/sources/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "pt/learn/waldorf/status.html",
+      "course": "waldorf",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/arts.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/chemistry.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/foreign-languages.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/geography.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/handwork.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/history.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/index.html",
+      "course": "waldorf",
+      "role": "section"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/language.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/mathematics.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/movement-eurythmy.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/music.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/natural-science.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/physics.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/waldorf/subjects/technology.html",
+      "course": "waldorf",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/00.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/01.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/02.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/03.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/04.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/05.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/06.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/07.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/08.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/09.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/10.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/11.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/12.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/13.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/14.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/15.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/16.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/17.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/18.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/19.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/20.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/21.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/22.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/23.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/24.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/25.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/26.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/lessons/27.html",
+      "course": "theosophy-reading",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/meditation/00.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/meditation/01.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/meditation/02.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/meditation/03.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/meditation/04.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/meditation/05.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/meditation/06.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/meditation/07.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/meditation/08.html",
+      "course": "meditation",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/meditation/index.html",
+      "course": "meditation",
+      "role": "overview"
+    },
+    {
+      "page": "pt/mystery-temperaments/chapters/framework-individual-and-two-streams.html",
+      "course": "mystery-temperaments",
+      "role": "reference"
+    },
+    {
+      "page": "pt/mystery-temperaments/chapters/framework-members-and-portraits.html",
+      "course": "mystery-temperaments",
+      "role": "reference"
+    },
+    {
+      "page": "pt/mystery-temperaments/index.html",
+      "course": "mystery-temperaments",
+      "role": "overview"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/00.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/01.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/02.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/03.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/04.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/05.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/06.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/07.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/08.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/09.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/10.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/11.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/12.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/13.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/mystery-temperaments/lessons/14.html",
+      "course": "mystery-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/00.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/01.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/02.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/03.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/04.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/05.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/06.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/07.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/08.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/09.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/10.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/11.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/12.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/13.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/14.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/15.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/16.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/17.html",
+      "course": "nutrition",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/nutrition/first-readings.html",
+      "course": "nutrition",
+      "role": "reference"
+    },
+    {
+      "page": "pt/nutrition/index.html",
+      "course": "nutrition",
+      "role": "overview"
+    },
+    {
+      "page": "pt/nutrition/print.html",
+      "course": "nutrition",
+      "role": "reference"
+    },
+    {
+      "page": "pt/nutrition/sources.html",
+      "course": "nutrition",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-1.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-2.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-3.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-4.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-5.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-6.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/knowledge-of-freedom-chapter-7.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/reality-of-freedom-chapter-10.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/reality-of-freedom-chapter-11.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/reality-of-freedom-chapter-12.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/reality-of-freedom-chapter-13.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/reality-of-freedom-chapter-14.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/reality-of-freedom-chapter-8.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/chapters/reality-of-freedom-chapter-9.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/index.html",
+      "course": "philosophy-of-freedom",
+      "role": "overview"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/00.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/01.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/02.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/03.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/04.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/05.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/06.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/07.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/08.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/09.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/10.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/11.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/12.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/13.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/14.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/15.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/16.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/17.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/18.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/19.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/20.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/lessons/21.html",
+      "course": "philosophy-of-freedom",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/index.html",
+      "course": "practical-thinking",
+      "role": "overview"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/00.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/01.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/02.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/03.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/04.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/05.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/06.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/07.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/08.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/09.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/10.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/11.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/lessons/12.html",
+      "course": "practical-thinking",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/practical-thinking/parts/judgment.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "pt/practical-thinking/parts/observation.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "pt/practical-thinking/parts/practical.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "pt/practical-thinking/parts/training.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "pt/practical-thinking/source-notes.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "pt/practical-thinking/tools.html",
+      "course": "practical-thinking",
+      "role": "reference"
+    },
+    {
+      "page": "pt/read/theosophy/index.html",
+      "course": "theosophy-reading",
+      "role": "overview"
+    },
+    {
+      "page": "pt/temperaments/chapters/lecture-four-portraits.html",
+      "course": "temperaments",
+      "role": "reference"
+    },
+    {
+      "page": "pt/temperaments/chapters/lecture-mixtures-and-education.html",
+      "course": "temperaments",
+      "role": "reference"
+    },
+    {
+      "page": "pt/temperaments/chapters/lecture-two-streams-and-members.html",
+      "course": "temperaments",
+      "role": "reference"
+    },
+    {
+      "page": "pt/temperaments/index.html",
+      "course": "temperaments",
+      "role": "overview"
+    },
+    {
+      "page": "pt/temperaments/lessons/00.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/temperaments/lessons/01.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/temperaments/lessons/02.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/temperaments/lessons/03.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/temperaments/lessons/04.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/temperaments/lessons/05.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/temperaments/lessons/06.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/temperaments/lessons/07.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/temperaments/lessons/08.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/temperaments/lessons/09.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/temperaments/lessons/10.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/toward-threefold-society/chapters/preface-preface-1920.html",
+      "course": "toward-threefold-society",
+      "role": "reference"
+    },
+    {
+      "page": "pt/toward-threefold-society/index.html",
+      "course": "toward-threefold-society",
+      "role": "overview"
+    },
+    {
+      "page": "pt/toward-threefold-society/lessons/00.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/toward-threefold-society/lessons/01.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/toward-threefold-society/lessons/02.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/toward-threefold-society/lessons/03.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/toward-threefold-society/lessons/04.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/toward-threefold-society/lessons/05.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/toward-threefold-society/lessons/06.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/chapters/chapters-chapter-1.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "pt/understand-temperament/chapters/chapters-chapter-2.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "pt/understand-temperament/chapters/chapters-chapter-3.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "pt/understand-temperament/chapters/chapters-chapter-4.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "pt/understand-temperament/chapters/chapters-chapter-5.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "pt/understand-temperament/chapters/chapters-chapter-6.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "pt/understand-temperament/chapters/chapters-chapter-7.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "pt/understand-temperament/chapters/chapters-chapter-8.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "pt/understand-temperament/chapters/chapters-chapter-9.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "pt/understand-temperament/index.html",
+      "course": "understand-temperament",
+      "role": "overview"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/00.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/01.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/02.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/03.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/04.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/05.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/06.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/07.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/08.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/09.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/10.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/11.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understand-temperament/lessons/12.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/index.html",
+      "course": "understanding-temperaments",
+      "role": "overview"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/00.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/01.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/02.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/03.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/04.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/05.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/06.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/07.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/08.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/09.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/10.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/understanding-temperaments/lessons/11.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/chapters/agriculture-agriculture-1.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/what-is-biodynamics/chapters/agriculture-agriculture-2.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/what-is-biodynamics/chapters/agriculture-agriculture-3.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/what-is-biodynamics/chapters/elementals-elementals-1.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/what-is-biodynamics/chapters/elementals-elementals-2.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/what-is-biodynamics/chapters/orientation-introduction.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/what-is-biodynamics/chapters/spiritual-beings-spiritual-1.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/what-is-biodynamics/chapters/spiritual-beings-spiritual-2.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "pt/what-is-biodynamics/index.html",
+      "course": "what-is-biodynamics",
+      "role": "overview"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/00.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/01.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/02.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/03.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/04.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/05.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/06.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/07.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/08.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/09.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/10.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/11.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/12.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/what-is-biodynamics/lessons/13.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "read/theosophy/index.html",
+      "course": "theosophy-reading",
+      "role": "overview"
+    },
+    {
+      "page": "temperaments/chapters/lecture-four-portraits.html",
+      "course": "temperaments",
+      "role": "reference"
+    },
+    {
+      "page": "temperaments/chapters/lecture-mixtures-and-education.html",
+      "course": "temperaments",
+      "role": "reference"
+    },
+    {
+      "page": "temperaments/chapters/lecture-two-streams-and-members.html",
+      "course": "temperaments",
+      "role": "reference"
+    },
+    {
+      "page": "temperaments/index.html",
+      "course": "temperaments",
+      "role": "overview"
+    },
+    {
+      "page": "temperaments/lessons/00.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "temperaments/lessons/01.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "temperaments/lessons/02.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "temperaments/lessons/03.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "temperaments/lessons/04.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "temperaments/lessons/05.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "temperaments/lessons/06.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "temperaments/lessons/07.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "temperaments/lessons/08.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "temperaments/lessons/09.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "temperaments/lessons/10.html",
+      "course": "temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "toward-threefold-society/chapters/preface-preface-1920.html",
+      "course": "toward-threefold-society",
+      "role": "reference"
+    },
+    {
+      "page": "toward-threefold-society/index.html",
+      "course": "toward-threefold-society",
+      "role": "overview"
+    },
+    {
+      "page": "toward-threefold-society/lessons/00.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "toward-threefold-society/lessons/01.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "toward-threefold-society/lessons/02.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "toward-threefold-society/lessons/03.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "toward-threefold-society/lessons/04.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "toward-threefold-society/lessons/05.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "toward-threefold-society/lessons/06.html",
+      "course": "toward-threefold-society",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/chapters/chapters-chapter-1.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "understand-temperament/chapters/chapters-chapter-2.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "understand-temperament/chapters/chapters-chapter-3.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "understand-temperament/chapters/chapters-chapter-4.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "understand-temperament/chapters/chapters-chapter-5.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "understand-temperament/chapters/chapters-chapter-6.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "understand-temperament/chapters/chapters-chapter-7.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "understand-temperament/chapters/chapters-chapter-8.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "understand-temperament/chapters/chapters-chapter-9.html",
+      "course": "understand-temperament",
+      "role": "reference"
+    },
+    {
+      "page": "understand-temperament/index.html",
+      "course": "understand-temperament",
+      "role": "overview"
+    },
+    {
+      "page": "understand-temperament/lessons/00.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/01.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/02.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/03.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/04.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/05.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/06.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/07.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/08.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/09.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/10.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/11.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understand-temperament/lessons/12.html",
+      "course": "understand-temperament",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/index.html",
+      "course": "understanding-temperaments",
+      "role": "overview"
+    },
+    {
+      "page": "understanding-temperaments/lessons/00.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/lessons/01.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/lessons/02.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/lessons/03.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/lessons/04.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/lessons/05.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/lessons/06.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/lessons/07.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/lessons/08.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/lessons/09.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/lessons/10.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "understanding-temperaments/lessons/11.html",
+      "course": "understanding-temperaments",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/chapters/agriculture-agriculture-1.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "what-is-biodynamics/chapters/agriculture-agriculture-2.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "what-is-biodynamics/chapters/agriculture-agriculture-3.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "what-is-biodynamics/chapters/elementals-elementals-1.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "what-is-biodynamics/chapters/elementals-elementals-2.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "what-is-biodynamics/chapters/orientation-introduction.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "what-is-biodynamics/chapters/spiritual-beings-spiritual-1.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "what-is-biodynamics/chapters/spiritual-beings-spiritual-2.html",
+      "course": "what-is-biodynamics",
+      "role": "reference"
+    },
+    {
+      "page": "what-is-biodynamics/index.html",
+      "course": "what-is-biodynamics",
+      "role": "overview"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/00.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/01.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/02.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/03.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/04.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/05.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/06.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/07.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/08.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/09.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/10.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/11.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/12.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    },
+    {
+      "page": "what-is-biodynamics/lessons/13.html",
+      "course": "what-is-biodynamics",
+      "role": "lesson"
+    }
+  ]
+}

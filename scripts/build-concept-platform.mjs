@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import {applyTheosophyWorkspace} from './theosophy-workspace.mjs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {loadConceptCourse} from '../content/theosophy-concept-course.mjs';
@@ -29,10 +30,10 @@ export function buildConceptPlatform({docsDir = 'docs', model = loadConceptCours
     const target = path.resolve(output, local);
     if (!target.startsWith(output + path.sep)) throw new Error('Output escapes docs');
     fs.mkdirSync(path.dirname(target), {recursive:true});
-    fs.writeFileSync(target, renderPlatformPage(file, title, body, lang, {partner, description, role}));
+    fs.writeFileSync(target, applyTheosophyWorkspace(renderPlatformPage(file, title, body, lang, {partner, description, role}), file));
     rendered.push(local);
   };
-  for (const name of ['concept-platform.css', 'concept-platform.js', 'visual-identity.css']) fs.copyFileSync(new URL(`./assets/${name}`, import.meta.url), path.join(output, name));
+  for (const name of ['concept-platform.css', 'concept-platform.js', 'visual-identity.css', 'theosophy-workspace.css', 'theosophy-workspace.js']) fs.copyFileSync(new URL(`./assets/${name}`, import.meta.url), path.join(output, name));
   copyVisualAssets(docsDir);
   const architecture = buildPlatformArchitecture({course, lessons, concepts, practices, renderPage:renderPlatformPage, docsDir});
   for (const lang of ['en', 'pt']) {

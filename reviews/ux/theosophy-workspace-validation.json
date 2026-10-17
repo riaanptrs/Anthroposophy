@@ -1,0 +1,620 @@
+{
+  "pages": 50,
+  "widths": [
+    390,
+    1440
+  ],
+  "cases": [
+    {
+      "route": "theosophy/index.html",
+      "width": 390,
+      "passed": true,
+      "height": 4477
+    },
+    {
+      "route": "pt/theosophy/index.html",
+      "width": 390,
+      "passed": true,
+      "height": 4670
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "passed": true,
+      "height": 9475
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "passed": true,
+      "height": 9780
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 390,
+      "passed": true,
+      "height": 7599
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 390,
+      "passed": true,
+      "height": 7884
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 390,
+      "passed": true,
+      "height": 9187
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 390,
+      "passed": true,
+      "height": 9741
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 390,
+      "passed": true,
+      "height": 8171
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 390,
+      "passed": true,
+      "height": 8662
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 390,
+      "passed": true,
+      "height": 8326
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 390,
+      "passed": true,
+      "height": 8888
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 390,
+      "passed": true,
+      "height": 9540
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 390,
+      "passed": true,
+      "height": 9830
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 390,
+      "passed": true,
+      "height": 9273
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 390,
+      "passed": true,
+      "height": 9679
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 390,
+      "passed": true,
+      "height": 9878
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 390,
+      "passed": true,
+      "height": 10517
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 390,
+      "passed": true,
+      "height": 11836
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 390,
+      "passed": true,
+      "height": 12731
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 390,
+      "passed": true,
+      "height": 9166
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 390,
+      "passed": true,
+      "height": 9850
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 390,
+      "passed": true,
+      "height": 7916
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 390,
+      "passed": true,
+      "height": 8592
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 390,
+      "passed": true,
+      "height": 9425
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 390,
+      "passed": true,
+      "height": 10013
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 390,
+      "passed": true,
+      "height": 9215
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 390,
+      "passed": true,
+      "height": 9567
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 390,
+      "passed": true,
+      "height": 12076
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 390,
+      "passed": true,
+      "height": 12513
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 390,
+      "passed": true,
+      "height": 13144
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 390,
+      "passed": true,
+      "height": 13688
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 390,
+      "passed": true,
+      "height": 10756
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 390,
+      "passed": true,
+      "height": 11538
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 390,
+      "passed": true,
+      "height": 10024
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 390,
+      "passed": true,
+      "height": 10578
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 390,
+      "passed": true,
+      "height": 12644
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 390,
+      "passed": true,
+      "height": 13563
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 390,
+      "passed": true,
+      "height": 9765
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 390,
+      "passed": true,
+      "height": 10428
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 390,
+      "passed": true,
+      "height": 10174
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 390,
+      "passed": true,
+      "height": 10675
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 390,
+      "passed": true,
+      "height": 9175
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 390,
+      "passed": true,
+      "height": 9691
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 390,
+      "passed": true,
+      "height": 9427
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 390,
+      "passed": true,
+      "height": 9757
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 390,
+      "passed": true,
+      "height": 8405
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 390,
+      "passed": true,
+      "height": 8844
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 390,
+      "passed": true,
+      "height": 21786
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 390,
+      "passed": true,
+      "height": 22728
+    },
+    {
+      "route": "theosophy/index.html",
+      "width": 1440,
+      "passed": true,
+      "height": 3248
+    },
+    {
+      "route": "pt/theosophy/index.html",
+      "width": 1440,
+      "passed": true,
+      "height": 3280
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6911
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6986
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 1440,
+      "passed": true,
+      "height": 5729
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 1440,
+      "passed": true,
+      "height": 5885
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6868
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7059
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6135
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6234
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6271
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6492
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6966
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7059
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6755
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6981
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7340
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7366
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 1440,
+      "passed": true,
+      "height": 8362
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 1440,
+      "passed": true,
+      "height": 8673
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6644
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7100
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 1440,
+      "passed": true,
+      "height": 5912
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6125
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6870
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7178
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6633
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6859
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 1440,
+      "passed": true,
+      "height": 8198
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 1440,
+      "passed": true,
+      "height": 8341
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 1440,
+      "passed": true,
+      "height": 8879
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 1440,
+      "passed": true,
+      "height": 9078
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7703
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7979
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7217
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7383
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 1440,
+      "passed": true,
+      "height": 8721
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 1440,
+      "passed": true,
+      "height": 9154
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6960
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7176
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7169
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7385
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6924
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6946
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6813
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 1440,
+      "passed": true,
+      "height": 7040
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6292
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 1440,
+      "passed": true,
+      "height": 6378
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 1440,
+      "passed": true,
+      "height": 15192
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 1440,
+      "passed": true,
+      "height": 15599
+    }
+  ],
+  "checks": [
+    "All 50 generated main documents byte-identical to baseline: content, anchors, source references and storage hooks",
+    "100 EN/PT viewport cases: preserved authored paragraphs/headings, links/anchors, single H1, unique IDs, expanded depth, no horizontal overflow, footer clear of bottom bar",
+    "48 mobile lesson drawers: keyboard opening, modal focus containment, Escape and focus return",
+    "Opt-in saving only; original storage keys; study state/bookmark; EN/PT independent notes; reload, export and delete",
+    "Direct deep anchors; mobile-to-desktop drawer resize; Portuguese long labels; 200% zoom-equivalent reflow at 720x500 CSS px",
+    "Print expands all authored content, hides fixed chrome, restores disclosure state afterward",
+    "No-JavaScript original reading, depth disclosure and navigation fallback"
+  ],
+  "errors": [],
+  "status": "passed"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "cases": 2,
+  "widths": [
+    390,
+    1440
+  ],
+  "pagesIncluded": 50,
+  "networkRequests": [],
+  "checks": [
+    "standalone inline assets",
+    "course, next lesson, language and long lesson navigation",
+    "mobile drawer",
+    "deeper reading",
+    "preview-only storage namespace"
+  ],
+  "limitations": [
+    "Tested under a local intercepted HTTPS origin; managed browser blocks file:// navigation",
+    "Android device and Library HTML viewer execution not directly tested"
+  ]
+}
