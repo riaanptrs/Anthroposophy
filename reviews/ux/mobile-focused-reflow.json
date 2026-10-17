@@ -1,0 +1,582 @@
+{
+  "status": "passed",
+  "results": [
+    {
+      "route": "learn/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    }
+  ],
+  "failures": []
+}
