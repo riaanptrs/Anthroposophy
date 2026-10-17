@@ -139,3 +139,7 @@ buildNutritionClarity();
 
 const {buildCompanionClarity}=await import('./build-temperament-companions-clarity.mjs');
 buildCompanionClarity();
+
+// Layout enhancement comes last and preserves every owner-rendered main document.
+const {buildCourseWorkspace}=await import('./build-course-workspace.mjs');
+buildCourseWorkspace();
