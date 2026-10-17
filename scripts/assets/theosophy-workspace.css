@@ -117,6 +117,18 @@ body.tw-drawer-open { overflow:hidden; }
 }
 
 body.tw-lesson .tw-drawer-heading { position:sticky; top:-22px; z-index:1; padding:12px 0; background:var(--tw-paper); }
+
+/* Keep user-enlarged text inside the available inline space. */
+body.tw-lesson .tw-toolbar{flex-wrap:wrap}
+body.tw-lesson .tw-toolbar>*{min-inline-size:0;max-inline-size:100%;overflow-wrap:anywhere}
+body.tw-lesson .tw-position{white-space:normal}
+body.tw-lesson .cp-main>article{box-sizing:border-box;max-inline-size:min(100%,740px)}
+body.tw-lesson .tw-drawer-heading{flex-wrap:wrap}
+@media(max-width:1000px){
+ body.tw-ready[data-visual-identity]>header{display:flex;flex-wrap:wrap}
+ body.tw-ready[data-visual-identity]>header .brand{white-space:normal;min-inline-size:0;max-inline-size:100%;overflow-wrap:anywhere;flex-wrap:wrap}
+ body.tw-ready[data-visual-identity]>header>nav{min-inline-size:0;max-inline-size:100%;flex-wrap:wrap}
+}
 body.tw-lesson .tw-drawer .system-nav { display:grid; grid-template-columns:1fr; border-top:1px solid var(--tw-line); padding-top:16px; }
 body.tw-lesson .tw-drawer .system-nav a { min-height:44px; padding:10px; }
 body.tw-overview .tw-module { margin:0; padding:0; border:0; }

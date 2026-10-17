@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "route": "learn/lessons/01.html",
+      "status": "passed",
+      "definitionLink": "02.html"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "status": "passed",
+      "definitionLink": "02.html"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "status": "passed",
+      "definitionLink": null
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "status": "passed",
+      "definitionLink": null
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "status": "passed",
+      "definitionLink": null
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "status": "passed",
+      "definitionLink": null
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "status": "passed",
+      "definitionLink": "01.html"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "status": "passed",
+      "definitionLink": "01.html"
+    }
+  ]
+}

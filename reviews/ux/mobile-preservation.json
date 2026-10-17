@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "baseline": "fdb2e7ad869e20c2076bdd8995eb8f2895c92441",
+  "changedMainDocuments": [
+    "docs/introduction-to-anthroposophy/lessons/01.html",
+    "docs/introduction-to-anthroposophy/lessons/02.html",
+    "docs/learn/lessons/01.html",
+    "docs/learn/lessons/02.html",
+    "docs/pt/introduction-to-anthroposophy/lessons/01.html",
+    "docs/pt/introduction-to-anthroposophy/lessons/02.html",
+    "docs/pt/learn/lessons/01.html",
+    "docs/pt/learn/lessons/02.html"
+  ],
+  "otherMainDocumentsUnchanged": 1579
+}

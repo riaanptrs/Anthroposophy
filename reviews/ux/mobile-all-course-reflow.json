@@ -1,0 +1,3606 @@
+{
+  "status": "passed",
+  "results": [
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "agriculture/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/agriculture/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "ancient-myths/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/ancient-myths/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "biodynamics/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/biodynamics/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "colour/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/colour/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "encountering-the-self/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/encountering-the-self/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "foodwise/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/foodwise/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/esoteric-christianity/lessons/ec1-01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "meditation/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/meditation/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "mystery-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/mystery-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "nutrition/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/nutrition/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "toward-threefold-society/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/toward-threefold-society/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "understand-temperament/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understand-temperament/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "understanding-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/understanding-temperaments/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "what-is-biodynamics/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/what-is-biodynamics/lessons/00.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    }
+  ],
+  "failures": []
+}

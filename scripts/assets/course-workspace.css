@@ -114,3 +114,17 @@ body.cw-overview .cw-hero{grid-template-columns:minmax(0,1fr) 140px}
 @media(max-width:600px){body.cw-overview .cw-hero{grid-template-columns:minmax(0,1fr) 76px}}
 
 body.cw-overview .cw-overview-lead,body.cw-overview .cw-resume{grid-column:1/-1;font-size:18px;line-height:1.6;margin:8px 0}
+
+/* Enlarged mobile text must participate in layout, not widen non-wrapping chrome. */
+body.cw-lesson .cw-toolbar{flex-wrap:wrap}
+body.cw-lesson .cw-toolbar>*{min-inline-size:0;max-inline-size:100%;overflow-wrap:anywhere}
+body.cw-lesson .cw-position{white-space:normal}
+body.cw-lesson main#main>.cw-reading{box-sizing:border-box;max-inline-size:min(100%,760px)}
+body.cw-lesson .cw-reading>:is(section,header,details,nav,div){min-inline-size:0;max-inline-size:100%;box-sizing:border-box}
+body.cw-lesson .cw-section-links>*{min-inline-size:0;max-inline-size:100%;box-sizing:border-box;overflow-wrap:anywhere}
+body.cw-lesson .cw-drawer-heading{flex-wrap:wrap}
+@media(max-width:1000px){
+ body.cw-ready[data-visual-identity]>header{display:flex;flex-wrap:wrap}
+ body.cw-ready[data-visual-identity]>header .brand{white-space:normal;min-inline-size:0;max-inline-size:100%;overflow-wrap:anywhere;flex-wrap:wrap}
+ body.cw-ready[data-visual-identity]>header>nav{min-inline-size:0;max-inline-size:100%;flex-wrap:wrap}
+}
