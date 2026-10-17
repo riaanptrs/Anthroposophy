@@ -2,15 +2,15 @@
 
 Review branch: `redesign/course-learning-workspace`.
 Layout baseline: `798a3b7d997c786be901ef8d34ba225c72a45345`.
-This continuation prepares reviewable changes only. It does not merge or deploy them.
+Publication authorization was supplied after the initial review delivery. Publication proceeds only after checking preservation against the published main commit above.
 
 The courses now use a focused reading column, a desktop curriculum sidebar and a mobile Chapters drawer. Compact overviews put chapter selection before optional course guidance. The Learn and Books catalogues have bilingual, accent-insensitive search and pagination. The implementation retains the source-owned lesson order, including optional practices and Waldorf branches.
 
 ## Coverage and pedagogical evidence
 
-The existing pedagogical redevelopment covers 24 course groups and 487 authored teaching units: 487 scoped audits, 256 revised units and 231 individually retained units. The 36 additional Waldorf grade/support routes are tracked separately. These are teaching-unit counts, not unique original book chapters. This continuation changes presentation and navigation; it does not count existing teaching as newly rewritten.
+The existing pedagogical redevelopment covers 24 course groups and 487 authored teaching units: 487 scoped audits, 412 revised units and 75 individually retained units. The previously reported 256/231 totals came from an earlier checklist and are superseded by the final clarity coverage. The 36 additional Waldorf grade/support routes are tracked separately. These are teaching-unit counts, not unique original book chapters. This continuation changes presentation and navigation; it does not count existing teaching as newly rewritten.
 
-- [Per-course checklist](../pedagogy/COURSE-CHECKLIST.md): audited, revised and retained counts and bilingual coverage.
+- [Final per-course coverage](../pedagogy/REMAINING-COURSE-CLARITY-COVERAGE.md): current revised and retained counts and bilingual coverage.
 - [Individual lesson audits](../pedagogy/COMPLETED-LESSON-AUDIT.md): objectives, concepts, prerequisites, connections, misconceptions, gaps, teaching methods and source limits.
 - [Chapter census](../pedagogy/chapter-coverage.json): every English route and Portuguese counterpart with content evidence.
 - [Source inventory](../pedagogy/source-availability.json) and [exact source requests](../pedagogy/SOURCE-REQUEST.md): unavailable witnesses, their roles and work that can proceed independently.
@@ -64,4 +64,8 @@ Source-fidelity verification remains separate from teaching and software validat
 
 Nutrition's Portuguese teaching is a condensed adaptation; quoted excerpts and documentary capture notes remain labelled English. Threefold Society covers only the supplied opening, not an entire GA 23 edition. Spiritual teachings retain their attribution and are not newly presented as established empirical or medical findings. This layout pass adds no quotations, page references or health claims.
 
-Browser validation uses local Chromium. It is not a screen-reader certification or a physical Android/Safari device test. No merge, deployment, paid service, credential change or external message is part of this review delivery.
+Browser validation uses local Chromium. It is not a screen-reader certification or a physical Android/Safari device test. The later publication authorization covers the existing repository publication workflow; no paid service or credential change is required.
+
+## Published content preservation
+
+`course-workspace-main-preservation.json` compares every main document against published main `350061aee27dfabec08db99effaa97f3eeda3749`, independently of the preview baseline. No teaching body or authored content file changed. The layout does not roll back the final clarity work.
