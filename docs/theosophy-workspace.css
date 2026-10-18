@@ -123,6 +123,8 @@ body.tw-lesson .tw-toolbar{flex-wrap:wrap}
 body.tw-lesson .tw-toolbar>*{min-inline-size:0;max-inline-size:100%;overflow-wrap:anywhere}
 body.tw-lesson .tw-position{white-space:normal}
 body.tw-lesson .cp-main>article{box-sizing:border-box;max-inline-size:min(100%,740px)}
+/* Long Portuguese lead-question words must reflow under mobile text autosizing. */
+body.tw-lesson .cp-question{overflow-wrap:anywhere;hyphens:auto}
 body.tw-lesson .tw-drawer-heading{flex-wrap:wrap}
 @media(max-width:1000px){
  body.tw-ready[data-visual-identity]>header{display:flex;flex-wrap:wrap}

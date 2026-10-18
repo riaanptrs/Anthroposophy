@@ -11,9 +11,15 @@ async function setup(browser,options={}) {
  return context;
 }
 (async()=>{
- // Generated lesson bodies, source references, text, hooks and links are byte-identical.
- for(const r of routes){const before=cp.execFileSync('git',['show','350061a:docs/'+r],{encoding:'utf8'}),after=fs.readFileSync('docs/'+r,'utf8');assert.equal(after.match(/<main[\s\S]*<\/main>/)[0],before.match(/<main[\s\S]*<\/main>/)[0],r+' preserved main document');}
- report.checks.push('All 50 generated main documents byte-identical to baseline: content, anchors, source references and storage hooks');
+ // Teaching prose may change; existing source records, study hooks and deep links may not.
+ for(const r of routes){
+  const before=cp.execFileSync('git',['show','62b44bdfa6d6dc7c156e1e0f39825c96fbf6b3ea:docs/'+r],{encoding:'utf8'}),after=fs.readFileSync('docs/'+r,'utf8');
+  for(const [,id] of before.matchAll(/\bid="([^"]+)"/g))assert.ok(after.includes(`id="${id}"`),r+' preserved anchor '+id);
+  for(const field of ['course','order','routes','lesson'])assert.deepEqual(after.match(new RegExp(`data-concept-${field}="[^"]*"`,'g')),before.match(new RegExp(`data-concept-${field}="[^"]*"`,'g')),r+' preserved '+field);
+  assert.deepEqual(after.match(/<section class="cp-sources"[\s\S]*?<\/section>/g),before.match(/<section class="cp-sources"[\s\S]*?<\/section>/g),r+' preserved source records');
+  assert.deepEqual(after.match(/<section class="cp-study-controls"[\s\S]*?<\/section>/g),before.match(/<section class="cp-study-controls"[\s\S]*?<\/section>/g),r+' preserved study controls');
+ }
+ report.checks.push('All 50 generated pages preserve original anchors, source records, progress IDs/order/routes and study controls; approved teaching prose may change');
  const browser=await chromium.launch({executablePath:'/usr/bin/chromium',args:['--no-sandbox']});
  try {
  for(const width of report.widths){const ctx=await setup(browser,{viewport:{width,height:width===390?844:1000}});const page=await ctx.newPage();page.on('pageerror',e=>report.errors.push(e.message));

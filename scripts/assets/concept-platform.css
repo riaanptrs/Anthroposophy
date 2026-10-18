@@ -138,6 +138,13 @@
   .concept-platform-page .cp-control-row > label { width:100%; }
   .concept-platform-page .cp-course-hero .cp-actions { flex-direction:column; align-items:flex-start; }
 }
+.concept-platform-page .cp-reading-role-map { margin:24px 0; }
+.concept-platform-page .cp-reading-role-map figcaption { font-weight:600; margin-bottom:12px; }
+.concept-platform-page .cp-reading-role-map dl { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; margin:0; }
+.concept-platform-page .cp-reading-role-map dl > div { min-width:0; padding:16px; border:1px solid var(--cp-line,#c8c4ba); border-radius:8px; }
+.concept-platform-page .cp-reading-role-map dt { font-weight:700; margin:0 0 8px; }
+.concept-platform-page .cp-reading-role-map dd { margin:0; overflow-wrap:anywhere; }
+@media(max-width:640px) { .concept-platform-page .cp-reading-role-map dl { grid-template-columns:minmax(0,1fr); } }
 @media(prefers-reduced-motion:reduce) { .concept-platform-page { scroll-behavior:auto; } }
 @media print {
   .concept-platform-page { background:white; color:#222; }

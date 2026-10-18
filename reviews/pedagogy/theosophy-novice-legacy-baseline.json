@@ -1,0 +1,73 @@
+{
+  "historicalScript": "scripts/check-final-course-preservation.py",
+  "failure": "content/agriculture.json unexpected change outside approved conceptual field",
+  "baseline": "62b44bdfa6d6dc7c156e1e0f39825c96fbf6b3ea",
+  "evidence": [
+    {
+      "file": "scripts/check-final-course-preservation.py",
+      "unchangedFromMain": true,
+      "sha256": "5bc525d2e2b738be44c378a987d98758f95f4fa4e4585ed11f8da29c835f7317"
+    },
+    {
+      "file": "content/agriculture.json",
+      "unchangedFromMain": true,
+      "sha256": "87e245d4a32a760eaade8bf2f4c938b0ad5d93965c1b5c0b2ce3e013a3c85841"
+    },
+    {
+      "file": "content/foodwise/course.json",
+      "unchangedFromMain": true,
+      "sha256": "0c4bd096683fb6f3eb65872de2af5f500419c6c9e9b3913fc7e7bccec9d78515"
+    },
+    {
+      "file": "content/theosophy-guided-chapter-1.json",
+      "unchangedFromMain": true,
+      "sha256": "b69ebb66ce84065f2003064fd20763a69ab7bd849d93023c1006f222bc7607f6"
+    },
+    {
+      "file": "content/theosophy-guided-chapter-3.json",
+      "unchangedFromMain": true,
+      "sha256": "99d705cfcc71c639302d2de7fcc932780ef60248a9c3416ddbdfbd3f477d4625"
+    },
+    {
+      "file": "content/theosophy-guided-chapter-4.json",
+      "unchangedFromMain": true,
+      "sha256": "723dd477a683f34bf472dd136350965b1c9e081182ed82c547068c763080fad4"
+    },
+    {
+      "file": "content/nutrition/course.json",
+      "unchangedFromMain": true,
+      "sha256": "044806280efded8155b4860643443aa3d15f7949c57ab68488b6148b2c25149a"
+    },
+    {
+      "file": "content/biodynamic-part-1.json",
+      "unchangedFromMain": true,
+      "sha256": "36805109a9950e664f409526d4ae85ac660be66c6b48791d1f3b80509d8f7196"
+    },
+    {
+      "file": "content/biodynamic-part-2.json",
+      "unchangedFromMain": true,
+      "sha256": "f8e4e1cef954fc85c141af6d06ef0a5e3de1988086b29b2695cb408db031a1b4"
+    },
+    {
+      "file": "content/biodynamic-part-3.json",
+      "unchangedFromMain": true,
+      "sha256": "9e8fe7c78b10ed2a8a73128599945afa8b8ef3b52a92f1a9f8e1f4b5b36ad9bc"
+    },
+    {
+      "file": "content/biodynamic-part-4.json",
+      "unchangedFromMain": true,
+      "sha256": "0f2d1e0e684be08058ff60db48fcd00556b7c685f30ebcf9687f0dc034a116f2"
+    },
+    {
+      "file": "content/biodynamic-part-5.json",
+      "unchangedFromMain": true,
+      "sha256": "5109c8bbb84c9a7ba4cfd210528e2b43787b19f14894d8509b28a255e079b3fa"
+    },
+    {
+      "file": "content/biodynamic-part-6.json",
+      "unchangedFromMain": true,
+      "sha256": "1fad55b7b586455fa93e4f738aaa94d107b18fb28e22aca52c714adb21d387d7"
+    }
+  ],
+  "note": "Historical Python script predates documented editorial corrections. All files it checks and the script itself are byte-identical to current main. Documented active suite is scripts/check-*.mjs."
+}
