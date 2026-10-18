@@ -1,0 +1,849 @@
+{
+  "date": "2026-10-18",
+  "status": "passed-active-suite",
+  "baseline": "62b44bdfa6d6dc7c156e1e0f39825c96fbf6b3ea",
+  "build": {
+    "command": "node scripts/build-all.mjs",
+    "exit": 0,
+    "logSha256": "a910611d7ee880564b04c5eb5189ee9ee8e9e55b788f46b0019e4de24bf9b17f"
+  },
+  "activeValidators": [
+    {
+      "script": "scripts/check-agriculture-clarity.mjs",
+      "exit": 0,
+      "seconds": 1.19,
+      "summary": "Passed: 56 bilingual agriculture units, full prose and explained answers, exact preservation of 112 original bodies against 4f931f4.\n"
+    },
+    {
+      "script": "scripts/check-agriculture-source.mjs",
+      "exit": 0,
+      "seconds": 0.12,
+      "summary": "Agriculture source checks passed: 370 Markdown captures, eight lectures, four discussions, 18 bilingual readings and honest OCR-only provenance.\n"
+    },
+    {
+      "script": "scripts/check-ancient-myths.mjs",
+      "exit": 0,
+      "seconds": 0.1,
+      "summary": "Passed: all seven lectures in eight bilingual lessons, preserved study tools, reading assignments, language partners and four paired course connections.\n"
+    },
+    {
+      "script": "scripts/check-biodynamic-agriculture.mjs",
+      "exit": 0,
+      "seconds": 0.25,
+      "summary": "Biodynamic Agriculture checks passed: 68 paired-course pages, 24 source-led lessons, six syntheses, isolated study identities, library, links and publication gate.\n"
+    },
+    {
+      "script": "scripts/check-biodynamics-source.mjs",
+      "exit": 0,
+      "seconds": 0.12,
+      "summary": "Passed: 135 reviewed captures, seven anthology chapters from three lecture cycles, 14 short attributed bilingual source selections/readings, and unchanged 177-record registry/185-pair question bank.\n"
+    },
+    {
+      "script": "scripts/check-childs-temperament-source.mjs",
+      "exit": 0,
+      "seconds": 0.2,
+      "summary": "Passed: Childs 97 page records, nine chapters and two appendices, verified 2012/1995 edition, thirteen bilingual source guides, four teaching tables, two updated primary-source uses and 26 companion lesson pages.\n"
+    },
+    {
+      "script": "scripts/check-colour-source.mjs",
+      "exit": 0,
+      "seconds": 0.09,
+      "summary": "Passed: Colour 158 page records, verified edition and translator credits, twelve corrected lecture ranges, fourteen bilingual reading guides, attributed diagrams and 28 lesson pages.\n"
+    },
+    {
+      "script": "scripts/check-concept-platform.mjs",
+      "exit": 0,
+      "seconds": 0.99,
+      "summary": "Concept platform passed: 23 teaching lessons + synthesis, 44 concepts, 13 practices, 178 bilingual prototype pages, 1587 pages with four-area navigation; optional private preservation baseline unavailable.\n"
+    },
+    {
+      "script": "scripts/check-constitution.mjs",
+      "exit": 0,
+      "seconds": 0.92,
+      "summary": "Passed: 1911 terminology links on 215 pages; bilingual targets, anchors, teaching diagrams, text preservation and idempotence.\n"
+    },
+    {
+      "script": "scripts/check-encountering-self-source.mjs",
+      "exit": 0,
+      "seconds": 0.06,
+      "summary": "Passed: Encountering the Self 76 page records, verified 1989 English edition particulars, distinct author voices, 17 bilingual source guides/selections, six teaching tables and retained drawing, three paired connections and 34 lesson pages.\n"
+    },
+    {
+      "script": "scripts/check-esoteric-christianity.mjs",
+      "exit": 0,
+      "seconds": 0.15,
+      "summary": "Esoteric Christianity: 48 lessons, 34 bilingual book clarifications, 120 questions, 8 reviewed resources; matching languages, explanations, source locators and local links verified.\n"
+    },
+    {
+      "script": "scripts/check-foodwise.mjs",
+      "exit": 0,
+      "seconds": 0.05,
+      "summary": "Foodwise checks passed: chapter coverage, bilingual explanations, optional questions, original untested recipes and source limits.\n"
+    },
+    {
+      "script": "scripts/check-foundations-clarity.mjs",
+      "exit": 0,
+      "seconds": 1.68,
+      "summary": "Passed: 73 bilingual units in exact course order; four paragraphs (six/seven for the expanded beginner definitions) and two explained questions each; all 146 original lesson bodies preserved exactly against d00ff60 with heading and navigation moved outside optional depth.\n"
+    },
+    {
+      "script": "scripts/check-freedom-clarity.mjs",
+      "exit": 0,
+      "seconds": 0.21,
+      "summary": "Passed: 22 bilingual short readings; all earlier explanations, questions, terms and activities retained; chapter/source IDs, quotations, lecture guides and page ledgers unchanged. This verifies preservation, not fresh source fidelity.\n"
+    },
+    {
+      "script": "scripts/check-freedom-lectures.mjs",
+      "exit": 0,
+      "seconds": 0.07,
+      "summary": "Passed: seventeen fingerprinted lecture sources, 11,351 recorded transcript lines, twenty-one bilingual guides, 42 lesson outputs, explained questions and preserved book precedence.\n"
+    },
+    {
+      "script": "scripts/check-freedom-route.mjs",
+      "exit": 0,
+      "seconds": 0.07,
+      "summary": "Passed: 16 core steps cover the prefaces, all 14 chapters and conclusion; six optional practices return to their parent; both language paths are complete.\n"
+    },
+    {
+      "script": "scripts/check-freedom-source.mjs",
+      "exit": 0,
+      "seconds": 0.1,
+      "summary": "Passed: 166 page records, fourteen chapters and appendix, sixteen Wilson source selections, 44 bilingual lesson pages and preserved study identities.\n"
+    },
+    {
+      "script": "scripts/check-guided-notebook.mjs",
+      "exit": 0,
+      "seconds": 0.13,
+      "summary": "t (3.167319ms)\n✔ pt: disabling, reopening and re-enabling restores notes without rewriting them (1.0188ms)\n✔ pt: edits made while saving is off merge with untouched and unknown saved fields (0.940452ms)\n✔ pt: intentionally clearing one note preserves the other notes and completion (0.935945ms)\n✔ pt: a pending edit flushes before opt-out and later off-session edits remain unsaved (0.968243ms)\n✔ pt: completion changes only after an explicit toggle (1.273625ms)\n✔ pt: note saving merges the latest untouched fields and completion (0.666347ms)\n✔ pt: corrupt records survive consent, input and page exit until explicit deletion (3.568596ms)\n✔ pt: blocked storage keeps text exportable and retries without losing old notes (2.608394ms)\n✔ pt: deleting cancels pending saves and removes both languages without resurrection (0.897517ms)\n✔ pt: failed automatic writes retain edits for retry and report an unsaved opt-out (0.996928ms)\n✔ pt: storage read denial during an active session retains edits and announces export (0.817176ms)\n✔ pt: failed deletion keeps the notebook and visible edits intact (0.822594ms)\n✔ pt: opt-out in another tab stops automatic saving but keeps local edits for later consent (0.834853ms)\n✔ pt: another tab's delete cannot be undone by a pending timer or page exit (1.685439ms)\nℹ tests 28\nℹ suites 0\nℹ pass 28\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 65.519243\n"
+    },
+    {
+      "script": "scripts/check-guided-study.mjs",
+      "exit": 0,
+      "seconds": 0.62,
+      "summary": "Passed: 143 retained bilingual notebook pairs, 19 source-bearing collections and their explicit credits in both reading hubs, guided sequence, note controls, lab coverage, static fallback and exact platform navigation. Explicitly owned Theosophy, Practical Thinking, Biodynamic Agriculture and conceptual pages have separate teaching checks.\n"
+    },
+    {
+      "script": "scripts/check-higher-worlds.mjs",
+      "exit": 0,
+      "seconds": 0.09,
+      "summary": "Passed: 108 page records, nineteen source selections, 38 bilingual lessons, current PDF credits and four retained Theosophy comparison records.\n"
+    },
+    {
+      "script": "scripts/check-humanities-clarity.mjs",
+      "exit": 0,
+      "seconds": 2.25,
+      "summary": "Passed: 82 bilingual humanities units, complete first readings and explained answers; 164 original bodies preserved against 7da2cf5.\n"
+    },
+    {
+      "script": "scripts/check-introduction-anthroposophy.mjs",
+      "exit": 0,
+      "seconds": 0.41,
+      "summary": "Passed: Introduction architecture (28 lessons, seven parts), 74 available bilingual pages and 132 comprehension questions; provenance, navigation, source locators and isolated progress.\n"
+    },
+    {
+      "script": "scripts/check-language-editorial.mjs",
+      "exit": 0,
+      "seconds": 0.16,
+      "summary": "Passed: all 177 passage quotation records unchanged; documented note corrections; Nutrition answer-topic regressions; 72 standalone Foundations answers; visible recipe qualifications.\nPassed: independent meaning, grammar, safety-constraint and locator findings rendered in both course layers.\n"
+    },
+    {
+      "script": "scripts/check-learning-system.mjs",
+      "exit": 0,
+      "seconds": 0.57,
+      "summary": "Passed: 36 retained bilingual Foundations lessons, attributed source/section teaching, unscored mixed checks, 16 preserved source structures, 57 paired chapter landings, 232 bilingual readings (185 retained pairs), all 21 collections discoverable, three homepage entries and exact four-area navigation.\n"
+    },
+    {
+      "script": "scripts/check-luke-source.mjs",
+      "exit": 0,
+      "seconds": 0.08,
+      "summary": "Passed: GA114 2001 Creeger edition evidence, 21 page notes, separate editorial/lecture passages, six bilingual source guides with explicit Lecture 2 scope, cognition comparisons and 24 bilingual lessons.\n"
+    },
+    {
+      "script": "scripts/check-meditation.mjs",
+      "exit": 0,
+      "seconds": 0.06,
+      "summary": "Passed: 18 meditation sessions, two indexes, six complete selected texts per language, Foundation Stone ending, source attribution, navigation and reflection controls.\n"
+    },
+    {
+      "script": "scripts/check-mystery-temperaments-source.mjs",
+      "exit": 0,
+      "seconds": 0.09,
+      "summary": "Passed: Mystery 33 page records, unidentified uploaded edition kept separate from its parallel, fifteen bilingual source guides and exact-source selections, two teaching tables, scoped combined-course additions and 30 companion lesson pages.\n"
+    },
+    {
+      "script": "scripts/check-nutrition-clarity.mjs",
+      "exit": 0,
+      "seconds": 0.45,
+      "summary": "Passed: 18 bilingual Nutrition units, full first readings and explained answers; 36 original bodies preserved against 6d5a197.\n"
+    },
+    {
+      "script": "scripts/check-nutrition.mjs",
+      "exit": 0,
+      "seconds": 0.08,
+      "summary": "Passed: nutrition chapter/capture coverage, 16 short verified excerpts, 54 checks, 37 response models, paper answers, source locators and discovery links.\nPortuguese Nutrition: 18 condensed teaching counterparts, 54 aligned checks, 37 responses, five comparison tables, 118 inherited locators, reciprocal language navigation and paper edition.\n"
+    },
+    {
+      "script": "scripts/check-passage-study.mjs",
+      "exit": 0,
+      "seconds": 0.14,
+      "summary": "Passed: all thirteen historical source collections, 185 retained assignments and 370 bilingual routes; legacy source credits and reading-before-practice order. Revised Theosophy and Practical Thinking have separate primary-source checks.\n"
+    },
+    {
+      "script": "scripts/check-portuguese.mjs",
+      "exit": 0,
+      "seconds": 0.27,
+      "summary": "Portuguese checks passed: 732 paired pages, 177 localized passage records, 148 source descriptions. English-only: 0 Waldorf, 1 Nutrition, 122 research notes.\n"
+    },
+    {
+      "script": "scripts/check-practical-thinking.mjs",
+      "exit": 0,
+      "seconds": 0.14,
+      "summary": "Passed: 12 source-first Practical Thinking lessons, retained optional forecasting, four bilingual syntheses, exact Adams excerpts, full 19-section source map, stable old route identities and narrow builder ownership (40 pages).\n"
+    },
+    {
+      "script": "scripts/check-practice-courses.mjs",
+      "exit": 0,
+      "seconds": 0.16,
+      "summary": "Passed: 12 source-first Practical Thinking core lessons plus its retained optional forecast, 12 bilingual temperament practice lessons, distinct source library, preserved temperament notebooks, source links, table and Philosophy of Freedom bridges.\n"
+    },
+    {
+      "script": "scripts/check-remaining-clarity.mjs",
+      "exit": 0,
+      "seconds": 1.44,
+      "summary": "Passed: 60 bilingual units in exact course order; four paragraphs and two explained questions each; all 120 original lesson bodies preserved exactly against 386bca2 with heading and navigation moved outside optional depth.\n"
+    },
+    {
+      "script": "scripts/check-site.mjs",
+      "exit": 0,
+      "seconds": 2.38,
+      "summary": "Passed: 1587 pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.\n"
+    },
+    {
+      "script": "scripts/check-teaching-approach.mjs",
+      "exit": 0,
+      "seconds": 0.13,
+      "summary": "Teaching approach passed: 726 retained pages; 36 bilingual Foundations lessons with three concept steps and applied checks; 62 bilingual Waldorf lessons.\n"
+    },
+    {
+      "script": "scripts/check-temperament-companions-clarity.mjs",
+      "exit": 0,
+      "seconds": 0.74,
+      "summary": "Passed: 28 bilingual temperament companion units; 56 original bodies preserved against 6d5a197.\n"
+    },
+    {
+      "script": "scripts/check-temperament-refinement.mjs",
+      "exit": 0,
+      "seconds": 0.07,
+      "summary": "Passed: 24 temperament pages, concise bilingual openings, preserved deeper sources and notebooks, two attributed comparison charts, comparative checks and complete final model; source/question banks unchanged.\n"
+    },
+    {
+      "script": "scripts/check-temperaments-clarity.mjs",
+      "exit": 0,
+      "seconds": 1.08,
+      "summary": "Passed: 23 bilingual first readings, 46 retained complete original bodies, contextual corrections on all 102 family lesson pages, 56 book-companion original bodies preserved beneath new first readings, four-portrait comparison and source/birth distinctions.\n"
+    },
+    {
+      "script": "scripts/check-temperaments-source.mjs",
+      "exit": 0,
+      "seconds": 0.06,
+      "summary": "Passed: The Four Temperaments 23 page records, complete lecture and notes, verified 2012/2008 edition, eleven bilingual book guides, ten supplied-source main-course uses and 22 book lesson pages.\n"
+    },
+    {
+      "script": "scripts/check-theosophy-clarity.mjs",
+      "exit": 0,
+      "seconds": 0.2,
+      "summary": "Passed: 24 bilingual Theosophy readings, explained answers, accessible role map, main synthesis case, preserved study/source graph and synthesis anchors. Not a fresh original-PDF verification.\n"
+    },
+    {
+      "script": "scripts/check-theosophy.mjs",
+      "exit": 0,
+      "seconds": 0.1,
+      "summary": "Passed: 94 PDF-reviewed primary captures, 28 guided reading routes, 56 bilingual readings and 108 comprehension questions; four chapter syntheses and intact 1971 research/177-passage/185-question banks.\n"
+    },
+    {
+      "script": "scripts/check-thinking-depth.mjs",
+      "exit": 0,
+      "seconds": 0.09,
+      "summary": "Passed: 12 revised bilingual core lessons plus forecasting, 32 retained bilingual depth-data blocks, optional introductory examples and cloud study, source-first teaching and stable exercise destinations.\n"
+    },
+    {
+      "script": "scripts/check-threefold-source.mjs",
+      "exit": 0,
+      "seconds": 0.06,
+      "summary": "Passed: seven bilingual introduction/preface readings and retrieval checks, distinct source voices, Markdown-only locators, bounded beginner source, and unchanged 177-record registry/185-pair bank.\n"
+    },
+    {
+      "script": "scripts/check-waldorf-provenance.mjs",
+      "exit": 0,
+      "seconds": 0.04,
+      "summary": "Passed readable provenance: explicit titles, unresolved sources, section scope, combined categories, and original labels.\n"
+    },
+    {
+      "script": "scripts/check-waldorf-teaching.mjs",
+      "exit": 0,
+      "seconds": 0.19,
+      "summary": "Passed Waldorf teaching: 62 complete bilingual topics, 196 paired pages, nine curriculum tables per language, 124 authored changed-case prompts, three credited excerpt translations and original source fingerprints.\n"
+    },
+    {
+      "script": "scripts/check-waldorf.mjs",
+      "exit": 0,
+      "seconds": 0.21,
+      "summary": "Passed Waldorf: 98 routes, 62 source fingerprints, states, source panels, titles, anchors, and integration.\n"
+    }
+  ],
+  "browser": {
+    "report": "theosophy-novice-browser.json",
+    "pages": 50,
+    "viewportCases": 100,
+    "widths": [
+      390,
+      1440
+    ],
+    "status": "passed",
+    "checks": [
+      "All 50 generated pages preserve original anchors, source records, progress IDs/order/routes and study controls; approved teaching prose may change",
+      "100 EN/PT viewport cases: preserved authored paragraphs/headings, links/anchors, single H1, unique IDs, expanded depth, no horizontal overflow, footer clear of bottom bar",
+      "48 mobile lesson drawers: keyboard opening, modal focus containment, Escape and focus return",
+      "Opt-in saving only; original storage keys; study state/bookmark; EN/PT independent notes; reload, export and delete",
+      "Direct deep anchors; mobile-to-desktop drawer resize; Portuguese long labels; 200% zoom-equivalent reflow at 720x500 CSS px",
+      "Print expands all authored content, hides fixed chrome, restores disclosure state afterward",
+      "No-JavaScript original reading, depth disclosure and navigation fallback"
+    ]
+  },
+  "noJavaScript": {
+    "report": "theosophy-clarity-browser.json",
+    "pages": 48,
+    "viewportCases": 96,
+    "widths": [
+      320,
+      1280
+    ],
+    "status": "passed"
+  },
+  "mobile": {
+    "report": "theosophy-novice-mobile.json",
+    "cases": 648,
+    "widths": [
+      320,
+      360,
+      390,
+      412
+    ],
+    "textScales": [
+      1,
+      1.5,
+      2
+    ],
+    "status": "passed",
+    "regression": "Includes previous Foundations/Introduction clipping cases; actual text ranges checked against layout viewport; deliberately clipped paragraph is a negative control.",
+    "fixed": "Long Portuguese lead-question words wrap under text autosizing.",
+    "lastEditSupplement": {
+      "status": "passed",
+      "results": [
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 320,
+          "factor": 1,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 320,
+          "factor": 1,
+          "status": "passed"
+        },
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 320,
+          "factor": 1.5,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 320,
+          "factor": 1.5,
+          "status": "passed"
+        },
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 320,
+          "factor": 2,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 320,
+          "factor": 2,
+          "status": "passed"
+        },
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 360,
+          "factor": 1,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 360,
+          "factor": 1,
+          "status": "passed"
+        },
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 360,
+          "factor": 1.5,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 360,
+          "factor": 1.5,
+          "status": "passed"
+        },
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 360,
+          "factor": 2,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 360,
+          "factor": 2,
+          "status": "passed"
+        },
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 390,
+          "factor": 1,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 390,
+          "factor": 1,
+          "status": "passed"
+        },
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 390,
+          "factor": 1.5,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 390,
+          "factor": 1.5,
+          "status": "passed"
+        },
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 390,
+          "factor": 2,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 390,
+          "factor": 2,
+          "status": "passed"
+        },
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 412,
+          "factor": 1,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 412,
+          "factor": 1,
+          "status": "passed"
+        },
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 412,
+          "factor": 1.5,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 412,
+          "factor": 1.5,
+          "status": "passed"
+        },
+        {
+          "route": "theosophy/lessons/mind-soul.html",
+          "width": 412,
+          "factor": 2,
+          "status": "passed"
+        },
+        {
+          "route": "pt/theosophy/lessons/mind-soul.html",
+          "width": 412,
+          "factor": 2,
+          "status": "passed"
+        }
+      ],
+      "failures": []
+    }
+  },
+  "sequentialNavigation": {
+    "status": "passed",
+    "pages": 48,
+    "languages": [
+      "en",
+      "pt-BR"
+    ],
+    "githubPagesPrefix": "/Anthroposophy/",
+    "routes": [
+      {
+        "number": 1,
+        "lang": "en",
+        "id": "body-soul-spirit",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/body-soul-spirit.html"
+      },
+      {
+        "number": 2,
+        "lang": "en",
+        "id": "physical-body",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/physical-body.html"
+      },
+      {
+        "number": 3,
+        "lang": "en",
+        "id": "life-and-etheric-body",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/life-and-etheric-body.html"
+      },
+      {
+        "number": 4,
+        "lang": "en",
+        "id": "sentience-and-astral-body",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/sentience-and-astral-body.html"
+      },
+      {
+        "number": 5,
+        "lang": "en",
+        "id": "human-i",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/human-i.html"
+      },
+      {
+        "number": 6,
+        "lang": "en",
+        "id": "sentient-soul",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/sentient-soul.html"
+      },
+      {
+        "number": 7,
+        "lang": "en",
+        "id": "mind-soul",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/mind-soul.html"
+      },
+      {
+        "number": 8,
+        "lang": "en",
+        "id": "consciousness-soul",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/consciousness-soul.html"
+      },
+      {
+        "number": 9,
+        "lang": "en",
+        "id": "spiritual-transformation",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/spiritual-transformation.html"
+      },
+      {
+        "number": 10,
+        "lang": "en",
+        "id": "memory-and-individuality",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/memory-and-individuality.html"
+      },
+      {
+        "number": 11,
+        "lang": "en",
+        "id": "reincarnation",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/reincarnation.html"
+      },
+      {
+        "number": 12,
+        "lang": "en",
+        "id": "karma-and-action",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/karma-and-action.html"
+      },
+      {
+        "number": 13,
+        "lang": "en",
+        "id": "three-worlds",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/three-worlds.html"
+      },
+      {
+        "number": 14,
+        "lang": "en",
+        "id": "soul-affinities",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/soul-affinities.html"
+      },
+      {
+        "number": 15,
+        "lang": "en",
+        "id": "death-and-release",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/death-and-release.html"
+      },
+      {
+        "number": 16,
+        "lang": "en",
+        "id": "living-archetypes",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/living-archetypes.html"
+      },
+      {
+        "number": 17,
+        "lang": "en",
+        "id": "life-between-lives",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/life-between-lives.html"
+      },
+      {
+        "number": 18,
+        "lang": "en",
+        "id": "nature-and-spiritual-beings",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/nature-and-spiritual-beings.html"
+      },
+      {
+        "number": 19,
+        "lang": "en",
+        "id": "thought-forms-and-aura",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/thought-forms-and-aura.html"
+      },
+      {
+        "number": 20,
+        "lang": "en",
+        "id": "understanding-and-knowledge",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/understanding-and-knowledge.html"
+      },
+      {
+        "number": 21,
+        "lang": "en",
+        "id": "receptivity-and-equanimity",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/receptivity-and-equanimity.html"
+      },
+      {
+        "number": 22,
+        "lang": "en",
+        "id": "thinking-and-willing",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/thinking-and-willing.html"
+      },
+      {
+        "number": 23,
+        "lang": "en",
+        "id": "freedom-and-initiation",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/freedom-and-initiation.html"
+      },
+      {
+        "number": 24,
+        "lang": "en",
+        "id": "whole-picture",
+        "route": "https://riaanptrs.github.io/Anthroposophy/theosophy/lessons/whole-picture.html"
+      },
+      {
+        "number": 1,
+        "lang": "pt",
+        "id": "body-soul-spirit",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/body-soul-spirit.html"
+      },
+      {
+        "number": 2,
+        "lang": "pt",
+        "id": "physical-body",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/physical-body.html"
+      },
+      {
+        "number": 3,
+        "lang": "pt",
+        "id": "life-and-etheric-body",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/life-and-etheric-body.html"
+      },
+      {
+        "number": 4,
+        "lang": "pt",
+        "id": "sentience-and-astral-body",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/sentience-and-astral-body.html"
+      },
+      {
+        "number": 5,
+        "lang": "pt",
+        "id": "human-i",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/human-i.html"
+      },
+      {
+        "number": 6,
+        "lang": "pt",
+        "id": "sentient-soul",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/sentient-soul.html"
+      },
+      {
+        "number": 7,
+        "lang": "pt",
+        "id": "mind-soul",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/mind-soul.html"
+      },
+      {
+        "number": 8,
+        "lang": "pt",
+        "id": "consciousness-soul",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/consciousness-soul.html"
+      },
+      {
+        "number": 9,
+        "lang": "pt",
+        "id": "spiritual-transformation",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/spiritual-transformation.html"
+      },
+      {
+        "number": 10,
+        "lang": "pt",
+        "id": "memory-and-individuality",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/memory-and-individuality.html"
+      },
+      {
+        "number": 11,
+        "lang": "pt",
+        "id": "reincarnation",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/reincarnation.html"
+      },
+      {
+        "number": 12,
+        "lang": "pt",
+        "id": "karma-and-action",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/karma-and-action.html"
+      },
+      {
+        "number": 13,
+        "lang": "pt",
+        "id": "three-worlds",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/three-worlds.html"
+      },
+      {
+        "number": 14,
+        "lang": "pt",
+        "id": "soul-affinities",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/soul-affinities.html"
+      },
+      {
+        "number": 15,
+        "lang": "pt",
+        "id": "death-and-release",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/death-and-release.html"
+      },
+      {
+        "number": 16,
+        "lang": "pt",
+        "id": "living-archetypes",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/living-archetypes.html"
+      },
+      {
+        "number": 17,
+        "lang": "pt",
+        "id": "life-between-lives",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/life-between-lives.html"
+      },
+      {
+        "number": 18,
+        "lang": "pt",
+        "id": "nature-and-spiritual-beings",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/nature-and-spiritual-beings.html"
+      },
+      {
+        "number": 19,
+        "lang": "pt",
+        "id": "thought-forms-and-aura",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/thought-forms-and-aura.html"
+      },
+      {
+        "number": 20,
+        "lang": "pt",
+        "id": "understanding-and-knowledge",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/understanding-and-knowledge.html"
+      },
+      {
+        "number": 21,
+        "lang": "pt",
+        "id": "receptivity-and-equanimity",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/receptivity-and-equanimity.html"
+      },
+      {
+        "number": 22,
+        "lang": "pt",
+        "id": "thinking-and-willing",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/thinking-and-willing.html"
+      },
+      {
+        "number": 23,
+        "lang": "pt",
+        "id": "freedom-and-initiation",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/freedom-and-initiation.html"
+      },
+      {
+        "number": 24,
+        "lang": "pt",
+        "id": "whole-picture",
+        "route": "https://riaanptrs.github.io/Anthroposophy/pt/theosophy/lessons/whole-picture.html"
+      }
+    ]
+  },
+  "visualReview": {
+    "status": "reviewed",
+    "views": [
+      "EN/PT four-role map, two columns at 1280px",
+      "EN/PT four-role map, one column at 390px",
+      "Portuguese lead question at 200% mobile text",
+      "Lessons 4, 9, 16 and 24 desktop captures"
+    ],
+    "limits": "Chromium emulation; no physical Android or iOS device test."
+  },
+  "contentFingerprints": [
+    {
+      "path": "content/theosophy-clear-lessons.json",
+      "sha256": "c705b4aa5d76674f13d421b4a5074093921f2e0fb9454e4bb4fd97b97a00300d"
+    },
+    {
+      "path": "content/theosophy-concept-constitution.json",
+      "sha256": "569912e38561d396f597f35ff7142c660a8b8d9ffbfff5c8e2e148a5c9818c8b"
+    },
+    {
+      "path": "content/theosophy-concept-course.json",
+      "sha256": "10337a4fe40ec283568a9c2d1f53f6bd66f55eb5e24273b034543c5e1686c740"
+    },
+    {
+      "path": "content/theosophy-concept-destiny-knowledge.json",
+      "sha256": "6942e4df45489bcbafd62a6d1219632146d7a2fdc6cffb7cde94bfa063a7556c"
+    },
+    {
+      "path": "content/theosophy-concept-worlds.json",
+      "sha256": "d65d16fea28481533a2ce581634380c43b6ca790e5a55cbf219515a790148448"
+    }
+  ],
+  "preservation": {
+    "sourceLedgerUnchanged": true,
+    "sourceAssignmentsUnchanged": true,
+    "studyIdsOrderRoutesUnchanged": true,
+    "synthesisAnchorsPreserved": true,
+    "onlyCanonicalContentChanged": [
+      "theosophy-clear-lessons.json",
+      "theosophy-concept-course.json",
+      "theosophy-concept-constitution.json",
+      "theosophy-concept-worlds.json",
+      "theosophy-concept-destiny-knowledge.json"
+    ]
+  },
+  "historicalCheck": {
+    "script": "scripts/check-final-course-preservation.py",
+    "status": "pre-existing failure",
+    "reason": "Historical snapshot omits subsequent documented editorial corrections; script and all inspected content byte-identical to current main.",
+    "evidence": "theosophy-novice-legacy-baseline.json"
+  },
+  "sourceLimits": [
+    "Supplied Teosophy new.pdf and matching Markdown/OCR witness unavailable in checkout; no fresh original-source inspection.",
+    "Retained capture analysis and separately identified 1971 parallel edition used; no new quotations or locators."
+  ],
+  "learningLimits": [
+    "Editorial novice simulation, not recruited-learner research.",
+    "No empirical validation of supersensible claims."
+  ]
+}

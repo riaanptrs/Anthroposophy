@@ -1,0 +1,3894 @@
+{
+  "status": "passed",
+  "results": [
+    {
+      "route": "learn/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 320,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 320,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 320,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 360,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 360,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 360,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 390,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 390,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 390,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 412,
+      "factor": 1,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 412,
+      "factor": 1.5,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "theosophy/lessons/whole-picture.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/theosophy/lessons/whole-picture.html",
+      "width": 412,
+      "factor": 2,
+      "status": "passed"
+    }
+  ],
+  "failures": []
+}

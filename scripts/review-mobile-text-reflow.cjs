@@ -19,7 +19,9 @@ for(const width of [320,360,390,412])for(const factor of [1,1.5,2]){
    // checkVisibility alone does not exclude descendants of closed disclosures.
    if([...function*(e){for(;e;e=e.parentElement)yield e;}(e)].some(a=>a.tagName==='DETAILS'&&!a.open&&!a.querySelector(':scope>summary')?.contains(e)))continue;
    const range=document.createRange();range.selectNodeContents(n);
-   for(const r of range.getClientRects()){if(!r.width||!r.height)continue;let left=0,right=innerWidth;
+   // Mobile Chromium can enlarge innerWidth after overflow. The layout viewport
+   // remains the constraint; using innerWidth would miss the overflowing word.
+   for(const r of range.getClientRects()){if(!r.width||!r.height)continue;let left=0,right=document.documentElement.clientWidth;
     for(let a=e;a;a=a.parentElement){const s=getComputedStyle(a);if(/hidden|clip|auto|scroll/.test(s.overflowX)){const b=a.getBoundingClientRect();left=Math.max(left,b.left+a.clientLeft);right=Math.min(right,b.left+a.clientLeft+a.clientWidth);}}
     if(r.left<left-1||r.right>right+1){issues.push({text:n.textContent.trim().slice(0,85),left:r.left,right:r.right,clipLeft:left,clipRight:right,element:e.tagName+'.'+e.className});break;}
    }
@@ -27,12 +29,12 @@ for(const width of [320,360,390,412])for(const factor of [1,1.5,2]){
  };
  const measurement=await p.evaluate(inspect);
  if(route===routes[0]&&width===320&&factor===1){
- await p.evaluate(()=>{const e=document.querySelector(".batch-first-reading>p");e.dataset.originalStyle=e.getAttribute("style")||"";e.style.whiteSpace="nowrap";e.style.overflow="hidden";});
+ await p.evaluate(()=>{const e=document.querySelector(".batch-first-reading>p,.cp-first-reading>p");e.dataset.originalStyle=e.getAttribute("style")||"";e.style.whiteSpace="nowrap";e.style.overflow="hidden";});
  const clipped=await p.evaluate(inspect);assert.equal(clipped.scrollWidth,measurement.scrollWidth,'clipping negative control should preserve document width');assert.ok(clipped.issues.length>0,"detector misses clipped paragraph");
- await p.evaluate(()=>{const e=document.querySelector(".batch-first-reading>p");e.setAttribute("style",e.dataset.originalStyle);delete e.dataset.originalStyle;});
+ await p.evaluate(()=>{const e=document.querySelector(".batch-first-reading>p,.cp-first-reading>p");e.setAttribute("style",e.dataset.originalStyle);delete e.dataset.originalStyle;});
  }
  assert.equal(measurement.issues.length,0,JSON.stringify(measurement));assert.ok(measurement.scrollWidth<=width+1,'document overflow');
- if(/(?:learn\/lessons\/01|introduction-to-anthroposophy\/lessons\/02)\.html$/.test(route)){
+ if(route.includes('theosophy/lessons/')||/(?:learn\/lessons\/01|introduction-to-anthroposophy\/lessons\/02)\.html$/.test(route)){
  await p.evaluate(()=>document.querySelectorAll('main details').forEach(e=>{if(!e.closest('dialog,aside'))e.open=true;}));const expanded=await p.evaluate(inspect);assert.equal(expanded.issues.length,0,'expanded '+JSON.stringify(expanded));
  await p.evaluate(()=>document.querySelectorAll('.batch-retained-depth').forEach(e=>e.open=false));
  }
