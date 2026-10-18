@@ -19,6 +19,15 @@ for(const width of [320,360,390,412])for(const factor of [1,1.5,2]){
    // checkVisibility alone does not exclude descendants of closed disclosures.
    if([...function*(e){for(;e;e=e.parentElement)yield e;}(e)].some(a=>a.tagName==='DETAILS'&&!a.open&&!a.querySelector(':scope>summary')?.contains(e)))continue;
    const range=document.createRange();range.selectNodeContents(n);
+   // A labelled, keyboard-focusable table region intentionally scrolls sideways.
+   // Its cells must contain their text; the region is tested for scrolling below.
+   const region=e.closest('[data-table-scroll][role="region"][tabindex="0"][aria-label]');
+   const cell=region&&e.closest('th,td,caption');
+   if(cell&&/auto|scroll/.test(getComputedStyle(region).overflowX)){
+    const box=cell.getBoundingClientRect();
+    for(const r of range.getClientRects())if(r.width&&(r.left<box.left-1||r.right>box.right+1))issues.push({text:n.textContent.trim().slice(0,85),element:cell.tagName,reason:'text clipped inside scrollable table cell'});
+    continue;
+   }
    // Mobile Chromium can enlarge innerWidth after overflow. The layout viewport
    // remains the constraint; using innerWidth would miss the overflowing word.
    for(const r of range.getClientRects()){if(!r.width||!r.height)continue;let left=0,right=document.documentElement.clientWidth;
@@ -34,8 +43,17 @@ for(const width of [320,360,390,412])for(const factor of [1,1.5,2]){
  await p.evaluate(()=>{const e=document.querySelector(".batch-first-reading>p,.cp-first-reading>p");e.setAttribute("style",e.dataset.originalStyle);delete e.dataset.originalStyle;});
  }
  assert.equal(measurement.issues.length,0,JSON.stringify(measurement));assert.ok(measurement.scrollWidth<=width+1,'document overflow');
- if(route.includes('theosophy/lessons/')||/(?:learn\/lessons\/\d{2}|introduction-to-anthroposophy\/lessons\/02)\.html$/.test(route)){
+ if(route.includes('theosophy/lessons/')||route.includes('biodynamics/lessons/')||/(?:learn\/lessons\/\d{2}|introduction-to-anthroposophy\/lessons\/02)\.html$/.test(route)){
  await p.evaluate(()=>document.querySelectorAll('main details').forEach(e=>{if(!e.closest('dialog,aside'))e.open=true;}));const expanded=await p.evaluate(inspect);assert.equal(expanded.issues.length,0,'expanded '+JSON.stringify(expanded));
+ for(const region of await p.locator('main [data-table-scroll]').all()){
+  assert.equal(await region.getAttribute('role'),'region');assert.equal(await region.getAttribute('tabindex'),'0');assert.ok(await region.getAttribute('aria-label'));
+  if(await region.evaluate(e=>e.scrollWidth>e.clientWidth+1)){
+   await region.focus();await p.keyboard.press('ArrowRight');
+   await p.waitForFunction(el=>el.scrollLeft>0,await region.elementHandle());
+   assert.ok(await region.evaluate(e=>{e.scrollLeft=e.scrollWidth;return e.scrollLeft>=e.scrollWidth-e.clientWidth-1;}),'last table columns reachable');
+   await region.evaluate(e=>e.scrollLeft=0);
+  }
+ }
  await p.evaluate(()=>document.querySelectorAll('.batch-retained-depth').forEach(e=>e.open=false));
  }
  const drawer=p.locator('.cw-chapters,.tw-chapters');await drawer.click();assert.ok(await p.locator('dialog').evaluate(e=>e.open));assert.ok(await p.evaluate(()=>document.querySelector('dialog').scrollWidth<=document.querySelector('dialog').clientWidth+1),'drawer overflow');await p.keyboard.press('Escape');

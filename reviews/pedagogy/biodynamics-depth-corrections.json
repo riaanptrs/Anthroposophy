@@ -1,0 +1,34 @@
+[
+  {
+    "lesson": 3,
+    "language": "en",
+    "source": "content/biodynamic-part-1.json",
+    "field": "en.proposal[1]",
+    "old": "an approximate analogy with a diaphragm:",
+    "new": "an approximate analogy with a diaphragm, the muscular partition between chest and abdomen:"
+  },
+  {
+    "lesson": 3,
+    "language": "pt",
+    "source": "content/biodynamic-part-1.json",
+    "field": "pt.proposal[1]",
+    "old": "uma analogia aproximada com o diafragma:",
+    "new": "uma analogia aproximada com o diafragma, a divisória muscular entre tórax e abdome:"
+  },
+  {
+    "lesson": 22,
+    "language": "en",
+    "source": "content/biodynamic-part-6.json",
+    "field": "en.modernContext[0]",
+    "old": "Yield tables use dry matter (position 17).",
+    "new": "Yield tables use dry matter, the mass after water is removed (position 17), so different water contents do not masquerade as different amounts of crop material."
+  },
+  {
+    "lesson": 22,
+    "language": "pt",
+    "source": "content/biodynamic-part-6.json",
+    "field": "pt.modernContext[0]",
+    "old": "As tabelas de rendimento usam matéria seca (posição 17).",
+    "new": "As tabelas de rendimento usam matéria seca, a massa depois de retirar a água (posição 17), para que teores de água diferentes não pareçam quantidades diferentes de material colhido."
+  }
+]

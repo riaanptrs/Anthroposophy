@@ -1,0 +1,506 @@
+{
+  "date": "2026-10-18",
+  "status": "passed",
+  "baseline": "98c7eccc61cc25415d4aef4e5f2e2100dd6e8ccf",
+  "branch": "improve/biodynamics-novice-clarity",
+  "scope": "All 24 beginner lessons in English and Portuguese. This receipt records the final generated content and scripts before commit; publication status is separate.",
+  "build": {
+    "exitCode": 0,
+    "files": 1651,
+    "unchangedByRebuild": true,
+    "changed": []
+  },
+  "staticValidators": [
+    {
+      "script": "scripts/check-agriculture-clarity.mjs",
+      "exitCode": 0,
+      "seconds": 0.81,
+      "output": "Passed: 56 bilingual agriculture units, complete prose/answers and accessible relationship tables; 112 original detailed bodies preserved against 4f931f4 with four recorded Biodynamics explanations.\n"
+    },
+    {
+      "script": "scripts/check-agriculture-source.mjs",
+      "exitCode": 0,
+      "seconds": 0.05,
+      "output": "Agriculture source checks passed: 370 Markdown captures, eight lectures, four discussions, 18 bilingual readings and honest OCR-only provenance.\n"
+    },
+    {
+      "script": "scripts/check-ancient-myths.mjs",
+      "exitCode": 0,
+      "seconds": 0.04,
+      "output": "Passed: all seven lectures in eight bilingual lessons, preserved study tools, reading assignments, language partners and four paired course connections.\n"
+    },
+    {
+      "script": "scripts/check-biodynamic-agriculture.mjs",
+      "exitCode": 0,
+      "seconds": 0.1,
+      "output": "Biodynamic Agriculture checks passed: 68 paired-course pages, 24 source-led lessons, six syntheses, isolated study identities, library, links and publication gate.\n"
+    },
+    {
+      "script": "scripts/check-biodynamics-source.mjs",
+      "exitCode": 0,
+      "seconds": 0.06,
+      "output": "Passed: 135 reviewed captures, seven anthology chapters from three lecture cycles, 14 short attributed bilingual source selections/readings, and unchanged 177-record registry/185-pair question bank.\n"
+    },
+    {
+      "script": "scripts/check-childs-temperament-source.mjs",
+      "exitCode": 0,
+      "seconds": 0.06,
+      "output": "Passed: Childs 97 page records, nine chapters and two appendices, verified 2012/1995 edition, thirteen bilingual source guides, four teaching tables, two updated primary-source uses and 26 companion lesson pages.\n"
+    },
+    {
+      "script": "scripts/check-colour-source.mjs",
+      "exitCode": 0,
+      "seconds": 0.04,
+      "output": "Passed: Colour 158 page records, verified edition and translator credits, twelve corrected lecture ranges, fourteen bilingual reading guides, attributed diagrams and 28 lesson pages.\n"
+    },
+    {
+      "script": "scripts/check-concept-platform.mjs",
+      "exitCode": 0,
+      "seconds": 0.71,
+      "output": "Concept platform passed: 23 teaching lessons + synthesis, 44 concepts, 13 practices, 178 bilingual prototype pages, 1587 pages with four-area navigation; optional private preservation baseline unavailable.\n"
+    },
+    {
+      "script": "scripts/check-constitution.mjs",
+      "exitCode": 0,
+      "seconds": 0.71,
+      "output": "Passed: 1927 terminology links on 215 pages; bilingual targets, anchors, teaching diagrams, text preservation and idempotence.\n"
+    },
+    {
+      "script": "scripts/check-encountering-self-source.mjs",
+      "exitCode": 0,
+      "seconds": 0.06,
+      "output": "Passed: Encountering the Self 76 page records, verified 1989 English edition particulars, distinct author voices, 17 bilingual source guides/selections, six teaching tables and retained drawing, three paired connections and 34 lesson pages.\n"
+    },
+    {
+      "script": "scripts/check-esoteric-christianity.mjs",
+      "exitCode": 0,
+      "seconds": 0.09,
+      "output": "Esoteric Christianity: 48 lessons, 34 bilingual book clarifications, 120 questions, 8 reviewed resources; matching languages, explanations, source locators and local links verified.\n"
+    },
+    {
+      "script": "scripts/check-foodwise.mjs",
+      "exitCode": 0,
+      "seconds": 0.04,
+      "output": "Foodwise checks passed: chapter coverage, bilingual explanations, optional questions, original untested recipes and source limits.\n"
+    },
+    {
+      "script": "scripts/check-foundations-clarity.mjs",
+      "exitCode": 0,
+      "seconds": 1.18,
+      "output": "Passed: 73 bilingual units in exact course order; complete prose and two explained questions each; 72 Foundations pages preserve source evidence, links, anchors and study hooks against deployed 0424fb1, with accessible bilingual relationship aids. All 74 Introduction/Meditation bodies remain exact against d00ff60.\n"
+    },
+    {
+      "script": "scripts/check-freedom-clarity.mjs",
+      "exitCode": 0,
+      "seconds": 0.15,
+      "output": "Passed: 22 bilingual short readings; all earlier explanations, questions, terms and activities retained; chapter/source IDs, quotations, lecture guides and page ledgers unchanged. This verifies preservation, not fresh source fidelity.\n"
+    },
+    {
+      "script": "scripts/check-freedom-lectures.mjs",
+      "exitCode": 0,
+      "seconds": 0.06,
+      "output": "Passed: seventeen fingerprinted lecture sources, 11,351 recorded transcript lines, twenty-one bilingual guides, 42 lesson outputs, explained questions and preserved book precedence.\n"
+    },
+    {
+      "script": "scripts/check-freedom-route.mjs",
+      "exitCode": 0,
+      "seconds": 0.04,
+      "output": "Passed: 16 core steps cover the prefaces, all 14 chapters and conclusion; six optional practices return to their parent; both language paths are complete.\n"
+    },
+    {
+      "script": "scripts/check-freedom-source.mjs",
+      "exitCode": 0,
+      "seconds": 0.07,
+      "output": "Passed: 166 page records, fourteen chapters and appendix, sixteen Wilson source selections, 44 bilingual lesson pages and preserved study identities.\n"
+    },
+    {
+      "script": "scripts/check-guided-notebook.mjs",
+      "exitCode": 0,
+      "seconds": 0.08,
+      "output": "✔ en: disabling, reopening and re-enabling restores notes without rewriting them (3.875767ms)\n✔ en: edits made while saving is off merge with untouched and unknown saved fields (1.754752ms)\n✔ en: intentionally clearing one note preserves the other notes and completion (0.744435ms)\n✔ en: a pending edit flushes before opt-out and later off-session edits remain unsaved (1.771252ms)\n✔ en: completion changes only after an explicit toggle (0.909635ms)\n✔ en: note saving merges the latest untouched fields and completion (0.747059ms)\n✔ en: corrupt records survive consent, input and page exit until explicit deletion (3.013424ms)\n✔ en: blocked storage keeps text exportable and retries without losing old notes (1.302969ms)\n✔ en: deleting cancels pending saves and removes both languages without resurrection (0.991658ms)\n✔ en: failed automatic writes retain edits for retry and report an unsaved opt-out (0.874702ms)\n✔ en: storage read denial during an active session retains edits and announces export (0.796804ms)\n✔ en: failed deletion keeps the notebook and visible edits intact (0.792758ms)\n✔ en: opt-out in another tab stops automatic saving but keeps local edits for later consent (0.72795ms)\n✔ en: another tab's delete cannot be undone by a pending timer or page exit (1.683534ms)\n✔ pt: disabling, reopening and re-enabling restores notes without rewriting them (1.078089ms)\n✔ pt: edits made while saving is off merge with untouched and unknown saved fields (0.618324ms)\n✔ pt: intentionally clearing one note preserves the other notes and completion (0.607408ms)\n✔ pt: a pending edit flushes before opt-out and later off-session edits remain unsaved (0.621429ms)\n✔ pt: completion changes only after an explicit toggle (0.61553ms)\n✔ pt: note saving merges the latest untouched fields and completion (0.566587ms)\n✔ pt: corrupt records survive consent, input and page exit until explicit deletion (2.432096ms)\n✔ pt: blocked storage keeps text exportable and retries without losing old notes (1.559416ms)\n✔ pt: deleting cancels pending saves and removes both languages without resurrection (0.630743ms)\n✔ pt: failed automatic writes retain edits for retry and report an unsaved opt-out (0.640598ms)\n✔ pt: storage read denial during an active session retains edits and announces export (0.573146ms)\n✔ pt: failed deletion keeps the notebook and visible edits intact (0.770755ms)\n✔ pt: opt-out in another tab stops automatic saving but keeps local edits for later consent (0.571784ms)\n✔ pt: another tab's delete cannot be undone by a pending timer or page exit (1.368989ms)\nℹ tests 28\nℹ suites 0\nℹ pass 28\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 44.514819\n"
+    },
+    {
+      "script": "scripts/check-guided-study.mjs",
+      "exitCode": 0,
+      "seconds": 0.45,
+      "output": "Passed: 143 retained bilingual notebook pairs, 19 source-bearing collections and their explicit credits in both reading hubs, guided sequence, note controls, lab coverage, static fallback and exact platform navigation. Explicitly owned Theosophy, Practical Thinking, Biodynamic Agriculture and conceptual pages have separate teaching checks.\n"
+    },
+    {
+      "script": "scripts/check-higher-worlds.mjs",
+      "exitCode": 0,
+      "seconds": 0.06,
+      "output": "Passed: 108 page records, nineteen source selections, 38 bilingual lessons, current PDF credits and four retained Theosophy comparison records.\n"
+    },
+    {
+      "script": "scripts/check-humanities-clarity.mjs",
+      "exitCode": 0,
+      "seconds": 1.31,
+      "output": "Passed: 82 bilingual humanities units, complete first readings and explained answers; 164 original bodies preserved against 7da2cf5.\n"
+    },
+    {
+      "script": "scripts/check-introduction-anthroposophy.mjs",
+      "exitCode": 0,
+      "seconds": 0.26,
+      "output": "Passed: Introduction architecture (28 lessons, seven parts), 74 available bilingual pages and 132 comprehension questions; provenance, navigation, source locators and isolated progress.\n"
+    },
+    {
+      "script": "scripts/check-language-editorial.mjs",
+      "exitCode": 0,
+      "seconds": 0.11,
+      "output": "Passed: all 177 passage quotation records unchanged; documented note corrections; Nutrition answer-topic regressions; 72 standalone Foundations answers; visible recipe qualifications.\nPassed: independent meaning, grammar, safety-constraint and locator findings rendered in both course layers.\n"
+    },
+    {
+      "script": "scripts/check-learning-system.mjs",
+      "exitCode": 0,
+      "seconds": 0.41,
+      "output": "Passed: 36 retained bilingual Foundations lessons, attributed source/section teaching, unscored mixed checks, 16 preserved source structures, 57 paired chapter landings, 232 bilingual readings (185 retained pairs), all 21 collections discoverable, three homepage entries and exact four-area navigation.\n"
+    },
+    {
+      "script": "scripts/check-luke-source.mjs",
+      "exitCode": 0,
+      "seconds": 0.04,
+      "output": "Passed: GA114 2001 Creeger edition evidence, 21 page notes, separate editorial/lecture passages, six bilingual source guides with explicit Lecture 2 scope, cognition comparisons and 24 bilingual lessons.\n"
+    },
+    {
+      "script": "scripts/check-meditation.mjs",
+      "exitCode": 0,
+      "seconds": 0.04,
+      "output": "Passed: 18 meditation sessions, two indexes, six complete selected texts per language, Foundation Stone ending, source attribution, navigation and reflection controls.\n"
+    },
+    {
+      "script": "scripts/check-mystery-temperaments-source.mjs",
+      "exitCode": 0,
+      "seconds": 0.05,
+      "output": "Passed: Mystery 33 page records, unidentified uploaded edition kept separate from its parallel, fifteen bilingual source guides and exact-source selections, two teaching tables, scoped combined-course additions and 30 companion lesson pages.\n"
+    },
+    {
+      "script": "scripts/check-nutrition-clarity.mjs",
+      "exitCode": 0,
+      "seconds": 0.26,
+      "output": "Passed: 18 bilingual Nutrition units, full first readings and explained answers; 36 original bodies preserved against 6d5a197.\n"
+    },
+    {
+      "script": "scripts/check-nutrition.mjs",
+      "exitCode": 0,
+      "seconds": 0.04,
+      "output": "Passed: nutrition chapter/capture coverage, 16 short verified excerpts, 54 checks, 37 response models, paper answers, source locators and discovery links.\nPortuguese Nutrition: 18 condensed teaching counterparts, 54 aligned checks, 37 responses, five comparison tables, 118 inherited locators, reciprocal language navigation and paper edition.\n"
+    },
+    {
+      "script": "scripts/check-passage-study.mjs",
+      "exitCode": 0,
+      "seconds": 0.07,
+      "output": "Passed: all thirteen historical source collections, 185 retained assignments and 370 bilingual routes; legacy source credits and reading-before-practice order. Revised Theosophy and Practical Thinking have separate primary-source checks.\n"
+    },
+    {
+      "script": "scripts/check-portuguese.mjs",
+      "exitCode": 0,
+      "seconds": 0.15,
+      "output": "Portuguese checks passed: 732 paired pages, 177 localized passage records, 148 source descriptions. English-only: 0 Waldorf, 1 Nutrition, 122 research notes.\n"
+    },
+    {
+      "script": "scripts/check-practical-thinking.mjs",
+      "exitCode": 0,
+      "seconds": 0.06,
+      "output": "Passed: 12 source-first Practical Thinking lessons, retained optional forecasting, four bilingual syntheses, exact Adams excerpts, full 19-section source map, stable old route identities and narrow builder ownership (40 pages).\n"
+    },
+    {
+      "script": "scripts/check-practice-courses.mjs",
+      "exitCode": 0,
+      "seconds": 0.08,
+      "output": "Passed: 12 source-first Practical Thinking core lessons plus its retained optional forecast, 12 bilingual temperament practice lessons, distinct source library, preserved temperament notebooks, source links, table and Philosophy of Freedom bridges.\n"
+    },
+    {
+      "script": "scripts/check-remaining-clarity.mjs",
+      "exitCode": 0,
+      "seconds": 0.88,
+      "output": "Passed: 60 bilingual units in exact course order; four paragraphs and two explained questions each; all 120 original lesson bodies preserved exactly against 386bca2 with heading and navigation moved outside optional depth.\n"
+    },
+    {
+      "script": "scripts/check-site.mjs",
+      "exitCode": 0,
+      "seconds": 1.62,
+      "output": "Passed: 1587 pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.\n"
+    },
+    {
+      "script": "scripts/check-teaching-approach.mjs",
+      "exitCode": 0,
+      "seconds": 0.12,
+      "output": "Teaching approach passed: 726 retained pages; 36 bilingual Foundations lessons with three concept steps and applied checks; 62 bilingual Waldorf lessons.\n"
+    },
+    {
+      "script": "scripts/check-temperament-companions-clarity.mjs",
+      "exitCode": 0,
+      "seconds": 0.57,
+      "output": "Passed: 28 bilingual temperament companion units; 56 original bodies preserved against 6d5a197.\n"
+    },
+    {
+      "script": "scripts/check-temperament-refinement.mjs",
+      "exitCode": 0,
+      "seconds": 0.06,
+      "output": "Passed: 24 temperament pages, concise bilingual openings, preserved deeper sources and notebooks, two attributed comparison charts, comparative checks and complete final model; source/question banks unchanged.\n"
+    },
+    {
+      "script": "scripts/check-temperaments-clarity.mjs",
+      "exitCode": 0,
+      "seconds": 0.96,
+      "output": "Passed: 23 bilingual first readings, 46 retained complete original bodies, contextual corrections on all 102 family lesson pages, 56 book-companion original bodies preserved beneath new first readings, four-portrait comparison and source/birth distinctions.\n"
+    },
+    {
+      "script": "scripts/check-temperaments-source.mjs",
+      "exitCode": 0,
+      "seconds": 0.05,
+      "output": "Passed: The Four Temperaments 23 page records, complete lecture and notes, verified 2012/2008 edition, eleven bilingual book guides, ten supplied-source main-course uses and 22 book lesson pages.\n"
+    },
+    {
+      "script": "scripts/check-theosophy-clarity.mjs",
+      "exitCode": 0,
+      "seconds": 0.15,
+      "output": "Passed: 24 bilingual Theosophy readings, explained answers, accessible role map, main synthesis case, preserved study/source graph and synthesis anchors. Not a fresh original-PDF verification.\n"
+    },
+    {
+      "script": "scripts/check-theosophy.mjs",
+      "exitCode": 0,
+      "seconds": 0.08,
+      "output": "Passed: 94 PDF-reviewed primary captures, 28 guided reading routes, 56 bilingual readings and 108 comprehension questions; four chapter syntheses and intact 1971 research/177-passage/185-question banks.\n"
+    },
+    {
+      "script": "scripts/check-thinking-depth.mjs",
+      "exitCode": 0,
+      "seconds": 0.07,
+      "output": "Passed: 12 revised bilingual core lessons plus forecasting, 32 retained bilingual depth-data blocks, optional introductory examples and cloud study, source-first teaching and stable exercise destinations.\n"
+    },
+    {
+      "script": "scripts/check-threefold-source.mjs",
+      "exitCode": 0,
+      "seconds": 0.05,
+      "output": "Passed: seven bilingual introduction/preface readings and retrieval checks, distinct source voices, Markdown-only locators, bounded beginner source, and unchanged 177-record registry/185-pair bank.\n"
+    },
+    {
+      "script": "scripts/check-waldorf-provenance.mjs",
+      "exitCode": 0,
+      "seconds": 0.03,
+      "output": "Passed readable provenance: explicit titles, unresolved sources, section scope, combined categories, and original labels.\n"
+    },
+    {
+      "script": "scripts/check-waldorf-teaching.mjs",
+      "exitCode": 0,
+      "seconds": 0.16,
+      "output": "Passed Waldorf teaching: 62 complete bilingual topics, 196 paired pages, nine curriculum tables per language, 124 authored changed-case prompts, three credited excerpt translations and original source fingerprints.\n"
+    },
+    {
+      "script": "scripts/check-waldorf.mjs",
+      "exitCode": 0,
+      "seconds": 0.19,
+      "output": "Passed Waldorf: 98 routes, 62 source fingerprints, states, source panels, titles, anchors, and integration.\n"
+    }
+  ],
+  "noJavaScript": {
+    "status": "passed",
+    "pages": 112,
+    "viewportCases": 224,
+    "widths": [
+      1280,
+      320
+    ],
+    "javascript": false,
+    "checks": [
+      "complete main prose visible in authored order",
+      "two visible questions with keyboard-operable explained answers",
+      "retained depth closed and keyboard-operable",
+      "language and single heading",
+      "local links and anchors",
+      "assets",
+      "no duplicate IDs",
+      "no horizontal overflow"
+    ],
+    "limits": [
+      "No learner study",
+      "No fresh source-fidelity verification"
+    ]
+  },
+  "mobile": {
+    "status": "passed",
+    "cases": 576,
+    "widths": [
+      320,
+      360,
+      390,
+      412
+    ],
+    "textScales": [
+      1,
+      1.5,
+      2
+    ],
+    "routes": [
+      "biodynamics/lessons/01.html",
+      "biodynamics/lessons/02.html",
+      "biodynamics/lessons/03.html",
+      "biodynamics/lessons/04.html",
+      "biodynamics/lessons/05.html",
+      "biodynamics/lessons/06.html",
+      "biodynamics/lessons/07.html",
+      "biodynamics/lessons/08.html",
+      "biodynamics/lessons/09.html",
+      "biodynamics/lessons/10.html",
+      "biodynamics/lessons/11.html",
+      "biodynamics/lessons/12.html",
+      "biodynamics/lessons/13.html",
+      "biodynamics/lessons/14.html",
+      "biodynamics/lessons/15.html",
+      "biodynamics/lessons/16.html",
+      "biodynamics/lessons/17.html",
+      "biodynamics/lessons/18.html",
+      "biodynamics/lessons/19.html",
+      "biodynamics/lessons/20.html",
+      "biodynamics/lessons/21.html",
+      "biodynamics/lessons/22.html",
+      "biodynamics/lessons/23.html",
+      "biodynamics/lessons/24.html",
+      "pt/biodynamics/lessons/01.html",
+      "pt/biodynamics/lessons/02.html",
+      "pt/biodynamics/lessons/03.html",
+      "pt/biodynamics/lessons/04.html",
+      "pt/biodynamics/lessons/05.html",
+      "pt/biodynamics/lessons/06.html",
+      "pt/biodynamics/lessons/07.html",
+      "pt/biodynamics/lessons/08.html",
+      "pt/biodynamics/lessons/09.html",
+      "pt/biodynamics/lessons/10.html",
+      "pt/biodynamics/lessons/11.html",
+      "pt/biodynamics/lessons/12.html",
+      "pt/biodynamics/lessons/13.html",
+      "pt/biodynamics/lessons/14.html",
+      "pt/biodynamics/lessons/15.html",
+      "pt/biodynamics/lessons/16.html",
+      "pt/biodynamics/lessons/17.html",
+      "pt/biodynamics/lessons/18.html",
+      "pt/biodynamics/lessons/19.html",
+      "pt/biodynamics/lessons/20.html",
+      "pt/biodynamics/lessons/21.html",
+      "pt/biodynamics/lessons/22.html",
+      "pt/biodynamics/lessons/23.html",
+      "pt/biodynamics/lessons/24.html"
+    ],
+    "failures": [],
+    "checks": [
+      "collapsed and expanded reading text fits its available space",
+      "document and chapter drawer do not overflow",
+      "labelled table regions keep cell text intact, scroll by keyboard and expose final columns",
+      "deliberately clipped paragraph is detected by the negative control"
+    ],
+    "rawReceipt": "/workspace/biodynamics-novice-review/mobile-final/text-reflow.json",
+    "rawReceiptSha256": "f457652047c7b88624807c3da83fe46914f0ba4c028f0810e4d0ec4173c0f9d4"
+  },
+  "interactions": {
+    "status": "passed",
+    "checks": [
+      {
+        "language": "en",
+        "lessons": 24,
+        "check": "Overview start; all next routes; optional answers by keyboard; original sources and six fields; quiz feedback; chapter drawer; final practice destination",
+        "status": "passed"
+      },
+      {
+        "language": "pt",
+        "lessons": 24,
+        "check": "Overview start; all next routes; optional answers by keyboard; original sources and six fields; quiz feedback; chapter drawer; final practice destination",
+        "status": "passed"
+      },
+      {
+        "check": "Saving opt-in; all six EN/PT notes separate; completion shared; reload; export current language; deletion limited to this bilingual lesson",
+        "status": "passed"
+      },
+      {
+        "check": "Denied storage preserves reading and chapter navigation",
+        "status": "passed"
+      }
+    ],
+    "errors": []
+  },
+  "preservation": {
+    "otherAgricultureAuthoringRowsUnchanged": 32,
+    "publicPagesChanged": 48,
+    "allOtherPublicPagesUnchanged": true,
+    "partFilesCompared": 6,
+    "onlyPartTextChanges": "Four exact EN/PT explanations in biodynamics-depth-corrections.json",
+    "sourceQuotesLocatorsFlagsSafetyAndStudyIdsUnchanged": true,
+    "retainedDepth": "112 original bilingual agriculture bodies match the documented baseline after four recorded clarifications and pre-existing documented language corrections."
+  },
+  "editorial": {
+    "auditedLessons": 24,
+    "rereadMainReadingAndAnswersEN": 24,
+    "rereadMainReadingAndAnswersPT": 24,
+    "fullEnglishLessonsReadBeforeEditing": 24,
+    "changedDepthExplanationsReadENPT": 4,
+    "pairedPartSynthesesReadAndRetained": 6,
+    "pairedPracticeEntriesReadAndRetained": 14,
+    "visualChecks": [
+      "English and Portuguese lesson 5 relationship table at a 360px viewport",
+      "English lesson 13 and Portuguese lesson 22 reading captures"
+    ],
+    "scopeLimit": "No recruited learner study; no claim of a complete fresh human reread of unchanged Portuguese optional depth."
+  },
+  "harnessCorrections": [
+    "Final next link is in the shared workspace pagination after layout initialization.",
+    "Language-switch assertions wait for the destination load and confirm saved completion before navigating. Focused note checks and the full corrected sweep passed.",
+    "The text checker recognizes explicitly labelled, focusable table scroll regions and tests their scroll behavior; it still detects ordinary clipped text."
+  ],
+  "generatedPageSha256": {
+    "docs/biodynamics/lessons/01.html": "ebf4a61d91bcbae9cb18c4a76d7f5ad3816d98e251701ab258f2b61263021e78",
+    "docs/biodynamics/lessons/02.html": "33673d205b8a70f05aa1ef043284042b845f29c37a2f8e61a745f14bce4a68a6",
+    "docs/biodynamics/lessons/03.html": "043b397caf1cc4913cf6e5ac631fc90cff0bdf63d8bf9faf93135ea4ed8f2707",
+    "docs/biodynamics/lessons/04.html": "c2ffac1302baf428e400969947199e8485e1e214c75572b81b891f90cbd78c51",
+    "docs/biodynamics/lessons/05.html": "43209c6e570f32484d0f1fe573a155927a517c95e3fc37e04aa2aacc2976d6ac",
+    "docs/biodynamics/lessons/06.html": "482b6804a28a4f5e21e1304691e8588e6a8f7ebed12aa7d4dde29abe5cdc63d7",
+    "docs/biodynamics/lessons/07.html": "7803f44a361051056d6814f8ee2c3a4b7677284460dfc77b6334b4a5575901a6",
+    "docs/biodynamics/lessons/08.html": "a7ef521cf1c88ecc98620ba8b6c121fabb6e2270d993d8621b752d5f4b3fbbeb",
+    "docs/biodynamics/lessons/09.html": "90200551072427454fdb0871ada74cc9dcfc60e50f4bfe3cbb91b0eae7e5f9fe",
+    "docs/biodynamics/lessons/10.html": "5f8f00e6cf3fc077067e58b6073cb17b989fe0635ffd5c76e6e81365cad92da6",
+    "docs/biodynamics/lessons/11.html": "f3b8503a8fc94ce4589b814cf53843ac90ebfaf423ec635e8e8bb3307f659574",
+    "docs/biodynamics/lessons/12.html": "7c206b4ebf0b577f98ae273000dafbdcfc6b45fe116a0a92c012df6fb04a27c6",
+    "docs/biodynamics/lessons/13.html": "25db588d05c2ed62ea19293722591c15ac03f1fc3830b7f453f4d082f28bfdc2",
+    "docs/biodynamics/lessons/14.html": "1a9485d1344224556c99dacaa002369c368baf0fd6273b47518adc6b176383d6",
+    "docs/biodynamics/lessons/15.html": "99407b0c468937ca048a2a8b8cbe3250979f2add8491d005fd884432ae2230e5",
+    "docs/biodynamics/lessons/16.html": "22a65033af830f71551980da33a95b6bb35090c59cb6c790b2ff97c63d8a9b07",
+    "docs/biodynamics/lessons/17.html": "32c1e81f7737649fcad813eea6e556466870b0c2a77747b908e674063e58489a",
+    "docs/biodynamics/lessons/18.html": "7ffbb44cd33a734a11529d91d03a6c177a474a3fffb349237507eaafb1f99d61",
+    "docs/biodynamics/lessons/19.html": "b36c82e2801d53723c35cac33818d53ee38f75c8d600377df46bf2fd71d2b29c",
+    "docs/biodynamics/lessons/20.html": "d77579397176dacbad17a341a799d58192f9195e90a22c7310dcb8cd1cc3f51a",
+    "docs/biodynamics/lessons/21.html": "ca1dcb11f20f7a76c099154daabc2c99a81c4e085c6bed4060d6979056f79b3c",
+    "docs/biodynamics/lessons/22.html": "ed0bd5d88e8ff8db87d030dea31fdc6642b1dd24d8b5284493c9e0c9acb3854f",
+    "docs/biodynamics/lessons/23.html": "9b59f72e3d3077aa7d0403068cb8aa67b974ca58ad92bee1067b9648a2fe1858",
+    "docs/biodynamics/lessons/24.html": "af6528c1ee5dec7abb1c3e61d4eb6381be32901744e7e7781d1b0a9a0be73573",
+    "docs/pt/biodynamics/lessons/01.html": "9123e484ff08dc50eef65068ffbd493f29e4a399bb087f6c7f05fafe2b06fbd3",
+    "docs/pt/biodynamics/lessons/02.html": "282dacda620bb08638193456198cdbb2acc5a63de2606f9dd315d910b4e00f2b",
+    "docs/pt/biodynamics/lessons/03.html": "3c6f93880871a41aa57137c260ac954cd094a6bc7d7de59b933562c4c0043477",
+    "docs/pt/biodynamics/lessons/04.html": "31ca7940276cf8b25178fd32844b00a6a95602d7033b9b8b2456c8ebfcdcad9f",
+    "docs/pt/biodynamics/lessons/05.html": "8118b4efa21df749c25ae5a24471d4a1fe3ab6c50a06ca92be7fe167a5e030d9",
+    "docs/pt/biodynamics/lessons/06.html": "69232757598efb2e3f18c052953a5e87053ee497c58717b096bcce618076edd7",
+    "docs/pt/biodynamics/lessons/07.html": "e5cc172182b438acaab119ab56daf6fbc35afe1129a24e07d0014cba8f9535ea",
+    "docs/pt/biodynamics/lessons/08.html": "932753dd059b3a2d1d0b18d67db563c2f058847f494252e531a15ce4121bbd25",
+    "docs/pt/biodynamics/lessons/09.html": "50cef6610f52bc6286088d482a0228a3b74ffcc1155e83f57f5975fe010d550b",
+    "docs/pt/biodynamics/lessons/10.html": "5788900cfd26ddf8642acd1ad07541c654d75f6ad0296a2dd55fdf26d5831729",
+    "docs/pt/biodynamics/lessons/11.html": "2b3a2d5459fdf29777fbd416c51a476848319b0d7f5088df1956601de96609fc",
+    "docs/pt/biodynamics/lessons/12.html": "0f1c77d7efc847f28b2d59b88b67047eb4bb6dd9b03a1718d991f15c8c1e9bc1",
+    "docs/pt/biodynamics/lessons/13.html": "a3c74190946da007c8299f6a93f932943afddb0ebbfc8028eff2ebca6a1ea27a",
+    "docs/pt/biodynamics/lessons/14.html": "fe3e7f4b8f96070997c743b80356d11d67302baca05d380ea7acf68abf93540d",
+    "docs/pt/biodynamics/lessons/15.html": "e119261e91226258e149a6baae492113634394b558b74d062c7b6452a24ccb94",
+    "docs/pt/biodynamics/lessons/16.html": "5a5f3dbf4f023c8e30bb6c0f0fac1ed14bb399c8100b24566d8e18baa105e350",
+    "docs/pt/biodynamics/lessons/17.html": "7eb0b565b2d952c202ca00fc1b88653085e1141fa9d6d03f313d63fa2664f0c6",
+    "docs/pt/biodynamics/lessons/18.html": "0ce6f7d0cbe71bfade51f17fa4e294e578b9bf103d9d2d04c5a967ae0468c8bd",
+    "docs/pt/biodynamics/lessons/19.html": "99aa9fc9dc7fa6b5a219be97d3e0e78484bd4c1308217d98347e5ef39e71f212",
+    "docs/pt/biodynamics/lessons/20.html": "7e78498a37eed0126b4cb85761f02ea0a33deb68665d04c60e9e81f6f73cf347",
+    "docs/pt/biodynamics/lessons/21.html": "ed97a4ec0cdf1c8ae956c1cc5bfad05cb3fe90190bc0c97d28e5b7c9e86c2379",
+    "docs/pt/biodynamics/lessons/22.html": "a5536e175e7a62ea35995c77215debe15beb79d2a5e2d4148266e66e9f93bab0",
+    "docs/pt/biodynamics/lessons/23.html": "545fc1fe954bc83fcf19f8d94b64096c3a923cfb69744f4e2b05128afe277427",
+    "docs/pt/biodynamics/lessons/24.html": "a89df539a17a13df1c3f28d35f94b12e63476886a301a672b9caca541d8913fd"
+  },
+  "reviewScriptSha256": {
+    "scripts/check-agriculture-clarity.mjs": "20181d77df00f0ef135afef569003689fc4a6d70cf73dc5cefd1337397e10120",
+    "scripts/review-mobile-text-reflow.cjs": "1e57d4ce13fbae9a7e67a560d81934668e84d8c02f9b5c5a11cafccd072ccb1f",
+    "scripts/review-biodynamics-novice.cjs": "c5145bfd54a2dc26b7d9aca93f0f20af8138d91468a94c36a075b96ac933b414"
+  },
+  "sourceVerification": "See biodynamics-novice-sources.json for each fresh modern check and exact missing historical witnesses. All 24 lessons remain blocked for fresh verification against the missing original uploads/PDFs.",
+  "artifactRoot": "/workspace/biodynamics-novice-review"
+}
