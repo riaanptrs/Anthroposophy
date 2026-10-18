@@ -1,0 +1,110 @@
+{
+  "reviewed": "2026-10-18",
+  "scope": "Fresh checks of the modern claims used in the novice revision. This supplements, and does not relabel, the section-level October 2 evidence register. No complete original Agriculture upload was accessible in this workspace.",
+  "sources": [
+    {
+      "title": "FiBL DOK trial",
+      "url": "https://www.fibl.org/en/locations/switzerland/departments/soil-sciences/bw-projekte/dok-trial",
+      "extent": "Official project description, history, location and systems compared.",
+      "supports": "Introduction of DOK as the long-term Swiss farming-system comparison run by FiBL and Agroscope; the German initials and 1978 start.",
+      "status": "checked"
+    },
+    {
+      "title": "The DOK Trial, FiBL 2024 dossier",
+      "url": "https://www.fibl.org/fileadmin/documents/shop/1741-dok-dossier-en.pdf",
+      "extent": "PDF positions 9–11: NOFERT, plot design and fertilisation differences; positions 32–33: carbon sampling, concentration and stock. Relevant text read through the web tool; shell download failed with tunnel 403.",
+      "supports": "Repeated plots, management packages, NOFERT receiving 500/501, topsoil sampling and the scoped 12% carbon-stock result retained in lesson 22.",
+      "boundary": "No new preparation-specific efficacy claim; no claim of reading every underlying paper or the full dossier in this pass.",
+      "status": "checked at stated extent"
+    },
+    {
+      "title": "Organic farming in comparison, FiBL 2024 fact sheet",
+      "url": "https://www.fibl.org/fileadmin/documents/shop/1787-dok-factsheet.pdf",
+      "extent": "PDF positions 1–6, particularly yield discussion at position 3.",
+      "supports": "Retained 15% mean organic yield difference over six rotation periods, with crop differences and limits. The course continues to attribute these summaries to FiBL.",
+      "status": "checked"
+    },
+    {
+      "title": "Demeter standard landing page",
+      "url": "https://demeter.net/certification/standard/",
+      "extent": "Certification explanation, annual inspection, language/version and national-application notices; official English PDF link.",
+      "supports": "Plain introduction to certification in lesson 21. The official linked English edition remains 2026.",
+      "status": "checked"
+    },
+    {
+      "title": "International Demeter Biodynamic Standard 2026",
+      "url": "https://demeter.net/wp-content/uploads/2025/11/2026_Int_Dem_bio_Standard_eng.pdf",
+      "extent": "Cover; section 6.2 at actual PDF positions 69–70 and Appendix 8 opening at position 122.",
+      "supports": "Required preparation measures and scope versus Appendix 8 recommendations.",
+      "boundary": "The contents page lists different numbers. Existing course references use actual PDF positions and were retained. No rates or new operating instructions were added; no fresh whole-standard review is claimed.",
+      "status": "checked at stated extent"
+    },
+    {
+      "title": "NRCS Soil Health",
+      "url": "https://www.nrcs.usda.gov/conservation-basics/soil/soil-health",
+      "extent": "Definition, functions and soil-health principles.",
+      "supports": "Biological/functional soil care remains distinct from Steiner's attributed etheric account.",
+      "status": "checked"
+    },
+    {
+      "title": "NRCS Soil Health Testing",
+      "url": "https://www.nrcs.usda.gov/conservation-basics/soil/soil-health/soil-health-testing",
+      "extent": "Test properties, sampling and interpretation sections. Resolved from the current Soil Health page after the older shorter path failed.",
+      "supports": "Biological, physical and chemical assessment, with methods and sampling context.",
+      "status": "checked"
+    },
+    {
+      "title": "NRCS Soil Organic Carbon Stock Monitoring, CEMA 221, October 2024",
+      "url": "https://www.nrcs.usda.gov/sites/default/files/2024-12/FY25_CEMA%20221_Soil%20Carbon%20Stock%20Monitoring_10-2024.pdf",
+      "extent": "Definition and monitoring scope on PDF positions 1–2; stock definition on position 6.",
+      "supports": "The retained distinction between three observation visits and a carbon-stock monitoring programme over years.",
+      "boundary": "Used for the measurement distinction, not as advice on current funding eligibility.",
+      "status": "checked at stated extent"
+    },
+    {
+      "title": "FDA FSMA Final Rule on Produce Safety",
+      "url": "https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-produce-safety",
+      "extent": "Biological soil amendments of animal origin and stabilised compost sections.",
+      "supports": "Retained raw-manure contamination and validated-treatment boundaries. Burial, smell or a spiritual description do not establish produce safety.",
+      "boundary": "United States guidance remains explicitly labelled; no universal application interval or recipe added.",
+      "status": "checked at stated extent"
+    },
+    {
+      "title": "EPA Integrated Pest Management Principles",
+      "url": "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles",
+      "extent": "Action thresholds; monitoring and identification; prevention.",
+      "supports": "Organism identification and actual damage precede proportionate management; presence alone does not require intervention.",
+      "status": "checked at stated extent"
+    },
+    {
+      "title": "Oregon State University Extension: Vegetative plant parts",
+      "url": "https://extension.oregonstate.edu/catalog/em-9904-vegetative-plant-parts",
+      "extent": "Roots, vascular cambium, leaves and vegetative propagation sections.",
+      "supports": "Brief ordinary-botany orientation in lessons 6, 9 and 17.",
+      "status": "checked at stated extent"
+    },
+    {
+      "title": "Oregon State University Extension: Reproductive plant parts",
+      "url": "https://extension.oregonstate.edu/catalog/em-9900-reproductive-plant-parts",
+      "extent": "Seed formation, seeds and germination sections.",
+      "supports": "Flower/seed orientation in lesson 6; no source passage is converted into a claim about Steiner's seed-chaos mechanism.",
+      "status": "checked at stated extent"
+    }
+  ],
+  "missingHistoricalWitnesses": [
+    {
+      "path": "/workspace/attachments/be19ef4a-98de-4156-ab90-6d1646331553/Agriculture.md",
+      "edition": "Creeger/Gardner 1993, retained canonical Markdown ledger",
+      "exists": false,
+      "blocks": "Fresh comparison of all retained quotations, wording, capture boundaries and source interpretations with the supplied original witness."
+    },
+    {
+      "path": "/workspace/attachments/e2f3c0bb-2e8c-4a90-a9ab-d493d9da6e87/Agriculture course.md",
+      "edition": "Adams comparator, retained translation ledger",
+      "exists": false,
+      "blocks": "Fresh resolution of the documented translation disagreements; no disputed procedure or quantity was harmonised."
+    }
+  ],
+  "historicalPdfStatus": "Original PDFs, historical drawings and printed-folio mapping remain unverified; existing pdfVerified=false and printedPages=null are unchanged.",
+  "continuingWork": "Retained teaching, original excerpts and provenance remained usable for explanatory repairs. Modern official sources were checked through the web tool. No missing-source access or newly verified original quotation is claimed."
+}

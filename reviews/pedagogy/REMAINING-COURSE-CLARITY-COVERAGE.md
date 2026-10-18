@@ -34,3 +34,7 @@ Waldorf’s 36 support routes (72 language pages), Foodwise’s 23 ingredient pr
 Source-blocked chapters remain teachable from retained material. Fresh original-witness verification is explicitly pending where unavailable; consult source-availability.json, temperament-source-access.json and the chapter ledgers for exact materials and limitations. No unavailable book was represented as newly inspected.
 
 Initial publication succeeded at `437613039b6fd2f0d92a6a6daa902818697576b8`. The prepublication editorial review and final postpublication pass are documented in LANGUAGE-EDITORIAL-REVIEW.md and postpublication-language-review.json. The follow-up publication records the final Nutrition wording refinement.
+
+## Biodynamics novice deepening — 18 October 2026
+
+The complete 24-lesson beginner Biodynamic Agriculture course received a further sequential novice review and targeted English/Portuguese repairs. All 24 were audited, revised and validated; fresh original-witness verification remains source-blocked. The six paired syntheses and fourteen paired practice entries were read and retained. See [the chapter report](BIODYNAMICS-NOVICE-REVIEW.md), [individual audit and before/after text](biodynamics-novice-audit.json), [source access](biodynamics-novice-sources.json) and [final validation](biodynamics-novice-validation.json). These 24 units are already included in the table above; aggregate counts are unchanged.
