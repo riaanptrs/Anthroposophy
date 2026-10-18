@@ -25,9 +25,25 @@ for(const row of clarityRows){
   const heading=oldMain.match(/<h1\b[^>]*>[\s\S]*?<\/h1>/)[0],nav=wholeElement(oldMain,oldMain.match(/<nav\b[^>]*class="[^"]*\blesson-navigation\b[^"]*"[^>]*>/)[0]);
   const oldInner=oldMain.slice(oldTag.length,-7).replace(heading,'').replace(nav,'');
   const depth=wholeElement(html,'<details class="batch-retained-depth"');
-  assert.equal(depth.slice(depth.indexOf('</summary>')+10,-10),oldInner,file+' exact retained original content');
+  if(row.course==='foundations'){
+   // Foundations now permits audited teaching repairs. Preserve source evidence,
+   // stable navigation and study hooks against the deployed pre-revision version.
+   const deployed=execFileSync('git',['show','0424fb1a79f3965eb059e230b6a0bb3f17087471:'+file],{maxBuffer:4e6}).toString();
+   for(const tag of ['<section class="learning-source"','<details class="guided-deep-study"'])
+    assert.equal(wholeElement(html,tag),wholeElement(deployed,tag),file+' preserved source evidence '+tag);
+   const ids=[...deployed.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
+   for(const id of ids)assert.ok(html.includes(`id="${id}"`),file+' retained anchor '+id);
+   for(const href of [...deployed.matchAll(/\bhref="([^"]+)"/g)].map(m=>m[1]))assert.ok(html.includes(`href="${href}"`),file+' retained link '+href);
+   for(const hook of ['data-learning-id','data-learning-save','data-learning-note','data-learning-complete','data-learning-export','data-learning-delete'])assert.ok(html.includes(hook),file+' study hook '+hook);
+   if(v.relationshipTable){
+    const table=wholeElement(first,'<table class="foundation-relationships"');assert.ok(table,file+' relationship aid');
+    for(const s of [v.relationshipTable.caption,...v.relationshipTable.headers,...v.relationshipTable.rows.flat()])assert.ok(table.replace(/<a\b[^>]*>|<\/a>/g,'').includes(esc(s)),file+' complete table text');
+    assert.equal((table.match(/scope="col"/g)||[]).length,2);assert.equal((table.match(/scope="row"/g)||[]).length,v.relationshipTable.rows.length);
+    assert.deepEqual(v.relationshipTable.rows.map(r=>r.length),row[lang==='pt'?'en':'pt'].relationshipTable.rows.map(r=>r.length));
+   }
+  }else assert.equal(depth.slice(depth.indexOf('</summary>')+10,-10),oldInner,file+' exact retained original content');
   assert.ok(html.includes(oldTag)&&html.includes(heading)&&html.includes(nav),file+' main hooks, title, navigation preserved');
   assert.ok(html.indexOf(first)<html.indexOf(depth)&&html.indexOf(depth)<html.indexOf(nav),file+' reading-depth-navigation order');
  }
 }
-console.log('Passed: 73 bilingual units in exact course order; four paragraphs (six/seven for the expanded beginner definitions) and two explained questions each; all 146 original lesson bodies preserved exactly against d00ff60 with heading and navigation moved outside optional depth.');
+console.log('Passed: 73 bilingual units in exact course order; complete prose and two explained questions each; 72 Foundations pages preserve source evidence, links, anchors and study hooks against deployed 0424fb1, with accessible bilingual relationship aids. All 74 Introduction/Meditation bodies remain exact against d00ff60.');

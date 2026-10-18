@@ -15,7 +15,11 @@ for(const [id,en,pt]of [[5,'sugar','açúcar'],[7,'plant','planta'],[10,'Grindin
 }
 const originals=['01-12','13-24','25-36'].flatMap(n=>JSON.parse(fs.readFileSync('content/learning-lessons-'+n+'.json')));
 const foundations=JSON.parse(fs.readFileSync('content/foundations-introduction-clear-lessons.json')).filter(r=>r.course==='foundations');
-for(const r of foundations)for(const lang of ['en','pt']){const q=originals.find(o=>o.id===r.id)[lang].checks[0];assert.ok(r[lang].checks[0][1].startsWith(q.options[q.answer]),'Standalone answer names correct response '+r.id);}
+for(const r of foundations)for(const lang of ['en','pt']){
+ const reflection=originals.find(o=>o.id===r.id)[lang].checks.find(q=>q.type==='reflection');
+ assert.deepEqual(r[lang].checks[0],[reflection.question,reflection.explanation],'Standalone applied question and explained answer match deeper practice '+r.id);
+ assert.match(reflection.explanation,/[.!?]$/,'Complete answer punctuation '+r.id);
+}
 const food=JSON.parse(fs.readFileSync('content/foodwise/course.json'));
 for(const lang of ['en','pt'])for(const recipe of food.recipes){
  // All recipe pages must visibly qualify the original, untested course material.

@@ -34,7 +34,7 @@ for(const width of [320,360,390,412])for(const factor of [1,1.5,2]){
  await p.evaluate(()=>{const e=document.querySelector(".batch-first-reading>p,.cp-first-reading>p");e.setAttribute("style",e.dataset.originalStyle);delete e.dataset.originalStyle;});
  }
  assert.equal(measurement.issues.length,0,JSON.stringify(measurement));assert.ok(measurement.scrollWidth<=width+1,'document overflow');
- if(route.includes('theosophy/lessons/')||/(?:learn\/lessons\/01|introduction-to-anthroposophy\/lessons\/02)\.html$/.test(route)){
+ if(route.includes('theosophy/lessons/')||/(?:learn\/lessons\/\d{2}|introduction-to-anthroposophy\/lessons\/02)\.html$/.test(route)){
  await p.evaluate(()=>document.querySelectorAll('main details').forEach(e=>{if(!e.closest('dialog,aside'))e.open=true;}));const expanded=await p.evaluate(inspect);assert.equal(expanded.issues.length,0,'expanded '+JSON.stringify(expanded));
  await p.evaluate(()=>document.querySelectorAll('.batch-retained-depth').forEach(e=>e.open=false));
  }

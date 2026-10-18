@@ -21,7 +21,9 @@ const plain=s=>s.replace(/\s+/g,' ').trim();
     assert.equal(await page.locator('h1').count(),1,route);
     assert.equal(await page.locator('html').getAttribute('lang'),lang==='pt'?'pt-BR':'en');
     const first=page.locator('[data-batch-clarity-first]');
-    const paras=await first.locator(':scope > p').allInnerTexts();assert.deepEqual(paras.map(plain),v.paragraphs.map(plain),route+' complete prose in authored order');
+    const paras=await first.locator(':scope > p').allInnerTexts(),expected=[...v.paragraphs];
+    if(lesson.definitionLink)expected.splice(1,0,lesson.definitionLink[lang]);
+    assert.deepEqual(paras.map(plain),expected.map(plain),route+' complete prose and definition link in authored order');
     for(const p of await first.locator(':scope > p').all())assert.ok(await p.isVisible(),route+' visible prose without JS');
     const checks=first.locator('.batch-clarity-check');assert.equal(await checks.count(),2);
     for(let i=0;i<2;i++){

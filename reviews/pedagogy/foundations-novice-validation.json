@@ -1,0 +1,664 @@
+{
+  "reviewDate": "2026-10-18",
+  "baseline": "0424fb1a79f3965eb059e230b6a0bb3f17087471",
+  "build": {
+    "command": "node scripts/build-all.mjs",
+    "exitCode": 0
+  },
+  "activeContentChecks": [
+    {
+      "script": "scripts/check-agriculture-clarity.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-agriculture-source.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-ancient-myths.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-biodynamic-agriculture.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-biodynamics-source.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-childs-temperament-source.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-colour-source.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-concept-platform.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-constitution.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-encountering-self-source.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-esoteric-christianity.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-foodwise.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-foundations-clarity.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-freedom-clarity.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-freedom-lectures.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-freedom-route.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-freedom-source.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-guided-notebook.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-guided-study.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-higher-worlds.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-humanities-clarity.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-introduction-anthroposophy.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-language-editorial.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-learning-system.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-luke-source.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-meditation.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-mystery-temperaments-source.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-nutrition-clarity.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-nutrition.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-passage-study.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-portuguese.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-practical-thinking.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-practice-courses.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-remaining-clarity.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-site.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-teaching-approach.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-temperament-companions-clarity.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-temperament-refinement.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-temperaments-clarity.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-temperaments-source.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-theosophy-clarity.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-theosophy.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-thinking-depth.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-threefold-source.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-waldorf-provenance.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-waldorf-teaching.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-waldorf.mjs",
+      "exitCode": 0
+    }
+  ],
+  "sequentialBrowser": {
+    "script": "scripts/review-foundations-novice.cjs",
+    "languages": [
+      "en",
+      "pt-BR"
+    ],
+    "lessonsPerLanguage": 36,
+    "capturedPages": 72,
+    "actualOverviewEntryAndNextLinks": true,
+    "pathPrefix": "/Anthroposophy/",
+    "errors": 0
+  },
+  "noJavaScript": {
+    "status": "passed",
+    "pages": 146,
+    "viewportCases": 292,
+    "widths": [
+      1280,
+      320
+    ],
+    "javascript": false,
+    "checks": [
+      "complete main prose visible in authored order",
+      "two visible questions with keyboard-operable explained answers",
+      "retained depth closed and keyboard-operable",
+      "language and single heading",
+      "local links and anchors",
+      "assets",
+      "no duplicate IDs",
+      "no horizontal overflow"
+    ],
+    "limits": [
+      "No learner study",
+      "No fresh source-fidelity verification"
+    ]
+  },
+  "mobile": {
+    "script": "scripts/review-mobile-text-reflow.cjs",
+    "routes": 72,
+    "widths": [
+      320,
+      360,
+      390,
+      412
+    ],
+    "textFactors": [
+      1,
+      1.5,
+      2
+    ],
+    "finalCoverage": 864,
+    "finalUnresolvedFailures": 0,
+    "initialFullRunPassed": 863,
+    "initialFullRunFailures": [
+      {
+        "route": "learn/lessons/02.html",
+        "width": 390,
+        "factor": 1.5,
+        "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('body.cw-ready,body.tw-ready') to be visible\u001b[22m\n"
+      }
+    ],
+    "retest": {
+      "passed": 24,
+      "failed": 0,
+      "routes": [
+        "learn/lessons/02.html",
+        "pt/learn/lessons/12.html"
+      ],
+      "reason": "Repeat the one initialization timeout that occurred during a concurrent rebuild, and cover the final Portuguese lesson 12 prose correction at every width/text factor. Other pages are unchanged from the full run."
+    },
+    "expandedOptionalDepthIncluded": true,
+    "earlierLayoutRepairs": "Shortened two Portuguese answer choices containing independently overwide words at 320px/2x in lessons 5 and 31; both pass final full-run coverage."
+  },
+  "studyControls": {
+    "checks": [
+      "No storage before consent; shared completion, language-specific notes, reload, export and deletion in both languages",
+      "Final navigation returns to Foundations overview",
+      "Visible captioned relationship aids in both languages; keyboard drawer close returns focus",
+      "Complete print with disclosure state restored",
+      "Blocked storage preserves reading and next navigation"
+    ]
+  },
+  "sharedWorkspaceInteractionRegression": {
+    "checks": [
+      {
+        "route": "according-to-luke/lessons/01.html",
+        "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+        "status": "passed"
+      },
+      {
+        "route": "practical-thinking/lessons/01.html",
+        "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+        "status": "passed"
+      },
+      {
+        "route": "biodynamics/lessons/01.html",
+        "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+        "status": "passed"
+      },
+      {
+        "route": "introduction-to-anthroposophy/lessons/01.html",
+        "check": "Explicit mark-to-save consent, original progress namespace, bilingual completion",
+        "status": "passed"
+      },
+      {
+        "route": "learn/lessons/01.html",
+        "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+        "status": "passed"
+      },
+      {
+        "route": "learn/waldorf/subjects/physics.html",
+        "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+        "status": "passed"
+      },
+      {
+        "route": "learn/esoteric-christianity/lessons/ec1-01.html",
+        "check": "GitHub Pages prefix; opt-in saving; controls enabled; language switch; shared completion; separate notes where supported",
+        "status": "passed"
+      },
+      {
+        "check": "Portuguese catalogue search, accents, empty results, pagination",
+        "status": "passed"
+      },
+      {
+        "route": "pt/learn/waldorf/subjects/physics.html",
+        "check": "200% equivalent reflow, drawer resize, complete print and restored disclosures",
+        "status": "passed"
+      },
+      {
+        "route": "pt/nutrition/first-readings.html",
+        "check": "200% equivalent reflow, drawer resize, complete print and restored disclosures",
+        "status": "passed"
+      },
+      {
+        "route": "pt/foodwise/lessons/01.html",
+        "check": "200% equivalent reflow, drawer resize, complete print and restored disclosures",
+        "status": "passed"
+      },
+      {
+        "route": "pt/practical-thinking/lessons/01.html",
+        "check": "200% equivalent reflow, drawer resize, complete print and restored disclosures",
+        "status": "passed"
+      },
+      {
+        "check": "Blocked storage leaves reading and navigation usable",
+        "status": "passed"
+      }
+    ],
+    "status": "passed"
+  },
+  "visualInspection": [
+    "Portuguese lesson 11 mobile grouping table",
+    "English lesson 27 mobile sequence table",
+    "Portuguese lesson 36 mobile synthesis table",
+    "English and Portuguese lesson 2 desktop reading"
+  ],
+  "scope": {
+    "changedGeneratedPages": 72,
+    "allOtherGeneratedPagesUnchanged": true,
+    "introductionAndMeditationSourceRowsUnchanged": true,
+    "publishedTheosophyUnchanged": true,
+    "sourceEvidenceSectionsUnchangedAgainstBaseline": true
+  },
+  "historicalCheck": {
+    "script": "scripts/check-final-course-preservation.py",
+    "status": "pre-existing-failure",
+    "oldBaseline": "8069072f4b60b51db50a69178f26a9dbd674a858",
+    "failure": "content/agriculture.json unexpected change outside approved conceptual field",
+    "fileUnchangedAgainstCurrentBaseline": true,
+    "sha256": "87e245d4a32a760eaade8bf2f4c938b0ad5d93965c1b5c0b2ce3e013a3c85841"
+  },
+  "limits": [
+    "Editorial simulation, not an actual learner study.",
+    "No new complete inspection of all originally uploaded books/PDFs.",
+    "Live site HTTPS is blocked by the environment tunnel (403); local browser tests use the real path prefix. Deployment verification is separate."
+  ],
+  "testedPageManifest": [
+    {
+      "path": "docs/learn/lessons/01.html",
+      "sha256": "da3a9e880403387b86c0a57aa43b70f6e3c1bb66cc5db86771dea27ff2347344"
+    },
+    {
+      "path": "docs/learn/lessons/02.html",
+      "sha256": "bd4f40645c4822e53447e223954788f0800d6051cb04c2d84f6c3b6f4023c570"
+    },
+    {
+      "path": "docs/learn/lessons/03.html",
+      "sha256": "f6b0cc2f6e7977996bb8d87071180b3d1b3c02b896e60b3e64eb53fef917a418"
+    },
+    {
+      "path": "docs/learn/lessons/04.html",
+      "sha256": "e666da8445d90f661b35c632e71d7229c1f7f1185e3fca7fb647a16ec89ee695"
+    },
+    {
+      "path": "docs/learn/lessons/05.html",
+      "sha256": "886b6abd10fecbe17b205e9973060a71a2cf48b5743dbc48a3a814cff8bb025d"
+    },
+    {
+      "path": "docs/learn/lessons/06.html",
+      "sha256": "014a77fad83445eb13ce71a6551413b87cef272a415ad04d8533a6193555e34a"
+    },
+    {
+      "path": "docs/learn/lessons/07.html",
+      "sha256": "be208b105100c7c0045725acbfb119cd1f14947fa872b12b5c27760848a89357"
+    },
+    {
+      "path": "docs/learn/lessons/08.html",
+      "sha256": "1b99c6199219c3e5969d375be93165b8828a563477c731d7819e37efaadfd191"
+    },
+    {
+      "path": "docs/learn/lessons/09.html",
+      "sha256": "71415cfa8d9d39ab0d88fca4f390b3df55b8b4db8e7d24820cf468e2a46beb4b"
+    },
+    {
+      "path": "docs/learn/lessons/10.html",
+      "sha256": "8b1f8b7be07680a5decdfa97409e05b2e0510bdd86ff0060386ecaee559427a5"
+    },
+    {
+      "path": "docs/learn/lessons/11.html",
+      "sha256": "f7a5d9dcdeae63e2bd00b5eb3bbc99baff922de235fca9ed5c43a81b9e189693"
+    },
+    {
+      "path": "docs/learn/lessons/12.html",
+      "sha256": "50bb9980aef6967aa295ef621e84adad6ad852d3a9e99e77a3bb0b3ae768f5a0"
+    },
+    {
+      "path": "docs/learn/lessons/13.html",
+      "sha256": "e7d35fad10f0a00f6839dad3a05e97969f2d156ed82f07a566e5514a748dc1e0"
+    },
+    {
+      "path": "docs/learn/lessons/14.html",
+      "sha256": "cecfed799c3621f9e5f9c230aa8346318811b8e9a23b0f3fc15f838ac975b529"
+    },
+    {
+      "path": "docs/learn/lessons/15.html",
+      "sha256": "667170814b1e8ef8fe1410f4ca0cc402cd1f9b4ba8c56acfc9c0d765e6514665"
+    },
+    {
+      "path": "docs/learn/lessons/16.html",
+      "sha256": "7d281ae0d2614ddc57ba97c19a56f739cc03fb183b3e6e7f369cf9f1ea742620"
+    },
+    {
+      "path": "docs/learn/lessons/17.html",
+      "sha256": "20f88c9de18c43d4b91b902e212f951b1141b077adebc5ca38e76dba69df2138"
+    },
+    {
+      "path": "docs/learn/lessons/18.html",
+      "sha256": "1141d9a0fbf0c4bd2ebd2f7fc170772d07989e55d9343632a953d66bd2755dd0"
+    },
+    {
+      "path": "docs/learn/lessons/19.html",
+      "sha256": "cf54ab18bdca263c91fb7a406d1570fa9e149956778a29ced37760bbd2b94efe"
+    },
+    {
+      "path": "docs/learn/lessons/20.html",
+      "sha256": "8b9c286f6fdfe68874a14158d5d335bea81f7e4c2f229b63fa6923f295f52707"
+    },
+    {
+      "path": "docs/learn/lessons/21.html",
+      "sha256": "596bd18efacfd9855d493c06b520b26da96a112b49d762b63b3a12f467c82dfb"
+    },
+    {
+      "path": "docs/learn/lessons/22.html",
+      "sha256": "f572d58fb02529df06a9bd8f43306abeeb1dd6d5360c04691873f52051071480"
+    },
+    {
+      "path": "docs/learn/lessons/23.html",
+      "sha256": "d0d5eb31715b3455ffce6596c7bd5cfc03381c3c09b5f3a600c43c575172c530"
+    },
+    {
+      "path": "docs/learn/lessons/24.html",
+      "sha256": "c48e33282bb8fdcbf64092e789d2cc6a38daaeed216a0fe43b2f6c76a5d746a0"
+    },
+    {
+      "path": "docs/learn/lessons/25.html",
+      "sha256": "eba5741a024e719d2c1443948fbf7b3f4dec4f2598e725d47bc93e44963dc1e2"
+    },
+    {
+      "path": "docs/learn/lessons/26.html",
+      "sha256": "711e0eca2ec050c1a70eda7744ea38b44ed7e9a9c863552c2f01fb96c885634e"
+    },
+    {
+      "path": "docs/learn/lessons/27.html",
+      "sha256": "d6af2c438c0de73f081c3e89fc155240f5d31a9bfd93137a6c292cbe115d8264"
+    },
+    {
+      "path": "docs/learn/lessons/28.html",
+      "sha256": "be6725ba5d371cbb529625a55f4a4b69829e07e7a9b15c29c0e39ea19488593b"
+    },
+    {
+      "path": "docs/learn/lessons/29.html",
+      "sha256": "25c2755f106d3fce40b3d4434e34b9a80d33be0c7943d09a2b846bd227562626"
+    },
+    {
+      "path": "docs/learn/lessons/30.html",
+      "sha256": "337f21acb4aacf41490353c0cb69b3a3d688ac5de0287c9d1c514e549fc39bae"
+    },
+    {
+      "path": "docs/learn/lessons/31.html",
+      "sha256": "13d95c79109d28788e7f0972373bd8798f4816a69a4f1fc63da1641070a20b50"
+    },
+    {
+      "path": "docs/learn/lessons/32.html",
+      "sha256": "353f5d4e36fc591d711813a7a752270e677c61459232950678fca233f2431287"
+    },
+    {
+      "path": "docs/learn/lessons/33.html",
+      "sha256": "a44cf03d27f965b11503b00bdf07fd9a995e0cf313e166c598a0550d7b327597"
+    },
+    {
+      "path": "docs/learn/lessons/34.html",
+      "sha256": "0a7a235adbdd152b4f088cc39af299f1c82db32991aaad29ec0bcd72e65c9c8a"
+    },
+    {
+      "path": "docs/learn/lessons/35.html",
+      "sha256": "27b706551efa31a568105dce5cc9a9418e27139f86fdb84f1142656b67c3f5c2"
+    },
+    {
+      "path": "docs/learn/lessons/36.html",
+      "sha256": "a44ebe897aad493b609dabb626928ea12b87788a697ed25c9a5bcc614330e144"
+    },
+    {
+      "path": "docs/pt/learn/lessons/01.html",
+      "sha256": "e5738d5b98699261e796d7b17743870eb433b336da24f09df46a1fbbbfc54692"
+    },
+    {
+      "path": "docs/pt/learn/lessons/02.html",
+      "sha256": "b689240e24f6b249ab4e98e6b8afc5260d82d277adca687b09cf565e1f1603b0"
+    },
+    {
+      "path": "docs/pt/learn/lessons/03.html",
+      "sha256": "c1b96283c1ca3db6a018bbe0677938f90dd09aec990a5a9fa87c9124c6eaa3e0"
+    },
+    {
+      "path": "docs/pt/learn/lessons/04.html",
+      "sha256": "70ad3281ee3c2c656eb5a1598cb0fc6aff436b14d9885c8f94a6fa49c553d469"
+    },
+    {
+      "path": "docs/pt/learn/lessons/05.html",
+      "sha256": "dda28a8fd89907910d54a45c7bb37f9c100769a29a360c8bf33698f0f3b06fd5"
+    },
+    {
+      "path": "docs/pt/learn/lessons/06.html",
+      "sha256": "cc56a5c8697dcec47b697b8650bf0884cb4c6f8a69f90b20e81733375961db15"
+    },
+    {
+      "path": "docs/pt/learn/lessons/07.html",
+      "sha256": "67612071eaca0eb7174ab467a35bb9034a4fa9b85ec1b0429c2ad57422bb731c"
+    },
+    {
+      "path": "docs/pt/learn/lessons/08.html",
+      "sha256": "f5a99461e5a664001618de25a56f893f6dbda9474bfdb739ed76a2a3eb83c47a"
+    },
+    {
+      "path": "docs/pt/learn/lessons/09.html",
+      "sha256": "701672ee677239a793745fcc70b0f5ce913aef711499b3a92fedf5e2afeda9e2"
+    },
+    {
+      "path": "docs/pt/learn/lessons/10.html",
+      "sha256": "dad420abda6fb4b06f29405547f034096d84f14f4c452327788f40237ca9fc85"
+    },
+    {
+      "path": "docs/pt/learn/lessons/11.html",
+      "sha256": "10274219ce74d8010d4f06372c60b219362a901087361c501b6efe599adc458b"
+    },
+    {
+      "path": "docs/pt/learn/lessons/12.html",
+      "sha256": "073dfc68058b7f53d0113ca2995d082ac4b8acd5387604615dba898312198058"
+    },
+    {
+      "path": "docs/pt/learn/lessons/13.html",
+      "sha256": "9c80e436586f9445b90f4cf9bc36bd91269962019a8d462d9d910c2bb436910d"
+    },
+    {
+      "path": "docs/pt/learn/lessons/14.html",
+      "sha256": "8da863b425093e9a445d4d071fd9e38172c8cdc401cadce7317a07553ee1b4c8"
+    },
+    {
+      "path": "docs/pt/learn/lessons/15.html",
+      "sha256": "4c95f669cca23c3bb5e7e69cb880ebbe5569623419e480ff64c6aa3c2f767c8b"
+    },
+    {
+      "path": "docs/pt/learn/lessons/16.html",
+      "sha256": "ba5b4089db54a96116fd07a9610a76dc665d691b022662467a81ecc296016ab6"
+    },
+    {
+      "path": "docs/pt/learn/lessons/17.html",
+      "sha256": "a659595f898c5dec1d85e2c45e52c480319cf3f574a75b1f1861c562887265ac"
+    },
+    {
+      "path": "docs/pt/learn/lessons/18.html",
+      "sha256": "8c4fddaa2d44d1378381a7d25d0286d3f0893ad8e82c03e35b189e4a500de03a"
+    },
+    {
+      "path": "docs/pt/learn/lessons/19.html",
+      "sha256": "5af0671c74a632258ba1d6629540a44c8aa682738991f4b4202be4523ed41490"
+    },
+    {
+      "path": "docs/pt/learn/lessons/20.html",
+      "sha256": "6974a529e19358b6388dfd41e2f853646a47a76d317a9608354d00b02a2e6d87"
+    },
+    {
+      "path": "docs/pt/learn/lessons/21.html",
+      "sha256": "d94cc8ee04b70c8b17b1c16ea488d0d0fbb25f7483dfcdf3874d5255fdb2f6b1"
+    },
+    {
+      "path": "docs/pt/learn/lessons/22.html",
+      "sha256": "2f618576b616b8b76a96dd75a5c653de79ecd808e173004b433acc1e799f21a8"
+    },
+    {
+      "path": "docs/pt/learn/lessons/23.html",
+      "sha256": "696b8bb927c0bfae0e6b158da517dfce98bf2cb15760d75a88d63d9cbf28f3f0"
+    },
+    {
+      "path": "docs/pt/learn/lessons/24.html",
+      "sha256": "5253ed546477eae8349a40793e08e0ada75f3c9104230c0a71845b574c9456d2"
+    },
+    {
+      "path": "docs/pt/learn/lessons/25.html",
+      "sha256": "67c11312454cfdb5d1a10bbdce5ab4254aeb0b6c0a8056b90a99ee195cadde9b"
+    },
+    {
+      "path": "docs/pt/learn/lessons/26.html",
+      "sha256": "bef632d4873406802b73f214c14d09cd25adc0d63b13c39b2f7d5632c494ac83"
+    },
+    {
+      "path": "docs/pt/learn/lessons/27.html",
+      "sha256": "1f95f90ca333669d652b770501202e1ec9aa5915ec360dc4ff1c8cbb9c46bb67"
+    },
+    {
+      "path": "docs/pt/learn/lessons/28.html",
+      "sha256": "2de0bdbd790e85b7cb30073edfbf7de50387bd57f2b8ee13ee54eca18e3cd4dc"
+    },
+    {
+      "path": "docs/pt/learn/lessons/29.html",
+      "sha256": "d6a5040f23f994a79552f6f5f9bf295a2b5b86818ff4e9657adadd921531aff3"
+    },
+    {
+      "path": "docs/pt/learn/lessons/30.html",
+      "sha256": "4c48c7026a0a5fb9d828246280c25f23eb4911268fd4a831b4c67df6ad4f6e8e"
+    },
+    {
+      "path": "docs/pt/learn/lessons/31.html",
+      "sha256": "15bbe8760d8783645a5505621c83285dc352749dd21cfd033a9f786dee0b90ea"
+    },
+    {
+      "path": "docs/pt/learn/lessons/32.html",
+      "sha256": "a6af688da44b6ff3604c852e3cd05cbfb58a586838fcafc03cf1720499e9ffef"
+    },
+    {
+      "path": "docs/pt/learn/lessons/33.html",
+      "sha256": "d5ddc4c06f017b92ecfb0c8652277311e299d0deb1ab6d7eda2d03bb851d9368"
+    },
+    {
+      "path": "docs/pt/learn/lessons/34.html",
+      "sha256": "d3ded0a12657ffe2d7552f3d3cd0d061aa9352fdcb7ec8ebad70a33d09771f58"
+    },
+    {
+      "path": "docs/pt/learn/lessons/35.html",
+      "sha256": "63ac6e2b937debbbf3fdbb571b9875f65259c31c0aff63f0e4c2f76a360447a9"
+    },
+    {
+      "path": "docs/pt/learn/lessons/36.html",
+      "sha256": "3d38b60178415696d04caae5cefcae5f5e1afa5717be701ed067bd65e5291c10"
+    }
+  ]
+}
