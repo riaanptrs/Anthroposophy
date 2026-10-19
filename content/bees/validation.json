@@ -1,0 +1,296 @@
+[
+  {
+    "script": "scripts/check-agriculture-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.91,
+    "output": "Passed: 56 bilingual agriculture units, complete prose/answers and accessible relationship tables; 112 original detailed bodies preserved against 4f931f4 with four recorded Biodynamics explanations.\n"
+  },
+  {
+    "script": "scripts/check-agriculture-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.05,
+    "output": "Agriculture source checks passed: 370 Markdown captures, eight lectures, four discussions, 18 bilingual readings and honest OCR-only provenance.\n"
+  },
+  {
+    "script": "scripts/check-ancient-myths.mjs",
+    "exitCode": 0,
+    "seconds": 0.03,
+    "output": "Passed: all seven lectures in eight bilingual lessons, preserved study tools, reading assignments, language partners and four paired course connections.\n"
+  },
+  {
+    "script": "scripts/check-bees.mjs",
+    "exitCode": 0,
+    "seconds": 0.08,
+    "output": "Bees checks passed: 56 bilingual pages, 23 lessons, eight main lectures, 119 captures, explained questions, partner links, shared workspace, public/private source boundary.\n"
+  },
+  {
+    "script": "scripts/check-biodynamic-agriculture.mjs",
+    "exitCode": 0,
+    "seconds": 0.1,
+    "output": "Biodynamic Agriculture checks passed: 68 paired-course pages, 24 source-led lessons, six syntheses, isolated study identities, library, links and publication gate.\n"
+  },
+  {
+    "script": "scripts/check-biodynamics-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.06,
+    "output": "Passed: 135 reviewed captures, seven anthology chapters from three lecture cycles, 14 short attributed bilingual source selections/readings, and unchanged 177-record registry/185-pair question bank.\n"
+  },
+  {
+    "script": "scripts/check-childs-temperament-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.05,
+    "output": "Passed: Childs 97 page records, nine chapters and two appendices, verified 2012/1995 edition, thirteen bilingual source guides, four teaching tables, two updated primary-source uses and 26 companion lesson pages.\n"
+  },
+  {
+    "script": "scripts/check-colour-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.04,
+    "output": "Passed: Colour 158 page records, verified edition and translator credits, twelve corrected lecture ranges, fourteen bilingual reading guides, attributed diagrams and 28 lesson pages.\n"
+  },
+  {
+    "script": "scripts/check-concept-platform.mjs",
+    "exitCode": 0,
+    "seconds": 0.64,
+    "output": "Concept platform passed: 23 teaching lessons + synthesis, 44 concepts, 13 practices, 178 bilingual prototype pages, 1643 pages with four-area navigation; optional private preservation baseline unavailable.\n"
+  },
+  {
+    "script": "scripts/check-constitution.mjs",
+    "exitCode": 0,
+    "seconds": 0.68,
+    "output": "Passed: 1947 terminology links on 223 pages; bilingual targets, anchors, teaching diagrams, text preservation and idempotence.\n"
+  },
+  {
+    "script": "scripts/check-encountering-self-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.05,
+    "output": "Passed: Encountering the Self 76 page records, verified 1989 English edition particulars, distinct author voices, 17 bilingual source guides/selections, six teaching tables and retained drawing, three paired connections and 34 lesson pages.\n"
+  },
+  {
+    "script": "scripts/check-esoteric-christianity.mjs",
+    "exitCode": 0,
+    "seconds": 0.09,
+    "output": "Esoteric Christianity: 48 lessons, 34 bilingual book clarifications, 120 questions, 8 reviewed resources; matching languages, explanations, source locators and local links verified.\n"
+  },
+  {
+    "script": "scripts/check-foodwise.mjs",
+    "exitCode": 0,
+    "seconds": 0.04,
+    "output": "Foodwise checks passed: chapter coverage, bilingual explanations, optional questions, original untested recipes and source limits.\n"
+  },
+  {
+    "script": "scripts/check-foundations-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 1.2,
+    "output": "Passed: 73 bilingual units in exact course order; complete prose and two explained questions each; 72 Foundations pages preserve source evidence, links, anchors and study hooks against deployed 0424fb1, with accessible bilingual relationship aids. All 74 Introduction/Meditation bodies remain exact against d00ff60.\n"
+  },
+  {
+    "script": "scripts/check-freedom-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.17,
+    "output": "Passed: 22 bilingual short readings; all earlier explanations, questions, terms and activities retained; chapter/source IDs, quotations, lecture guides and page ledgers unchanged. This verifies preservation, not fresh source fidelity.\n"
+  },
+  {
+    "script": "scripts/check-freedom-lectures.mjs",
+    "exitCode": 0,
+    "seconds": 0.05,
+    "output": "Passed: seventeen fingerprinted lecture sources, 11,351 recorded transcript lines, twenty-one bilingual guides, 42 lesson outputs, explained questions and preserved book precedence.\n"
+  },
+  {
+    "script": "scripts/check-freedom-route.mjs",
+    "exitCode": 0,
+    "seconds": 0.04,
+    "output": "Passed: 16 core steps cover the prefaces, all 14 chapters and conclusion; six optional practices return to their parent; both language paths are complete.\n"
+  },
+  {
+    "script": "scripts/check-freedom-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.06,
+    "output": "Passed: 166 page records, fourteen chapters and appendix, sixteen Wilson source selections, 44 bilingual lesson pages and preserved study identities.\n"
+  },
+  {
+    "script": "scripts/check-guided-notebook.mjs",
+    "exitCode": 0,
+    "seconds": 0.08,
+    "output": "✔ en: disabling, reopening and re-enabling restores notes without rewriting them (4.204633ms)\n✔ en: edits made while saving is off merge with untouched and unknown saved fields (1.742207ms)\n✔ en: intentionally clearing one note preserves the other notes and completion (0.959825ms)\n✔ en: a pending edit flushes before opt-out and later off-session edits remain unsaved (1.670811ms)\n✔ en: completion changes only after an explicit toggle (0.797094ms)\n✔ en: note saving merges the latest untouched fields and completion (0.847839ms)\n✔ en: corrupt records survive consent, input and page exit until explicit deletion (3.348472ms)\n✔ en: blocked storage keeps text exportable and retries without losing old notes (1.50838ms)\n✔ en: deleting cancels pending saves and removes both languages without resurrection (1.019925ms)\n✔ en: failed automatic writes retain edits for retry and report an unsaved opt-out (0.89569ms)\n✔ en: storage read denial during an active session retains edits and announces export (0.628002ms)\n✔ en: failed deletion keeps the notebook and visible edits intact (0.729924ms)\n✔ en: opt-out in another tab stops automatic saving but keeps local edits for later consent (0.718627ms)\n✔ en: another tab's delete cannot be undone by a pending timer or page exit (1.42734ms)\n✔ pt: disabling, reopening and re-enabling restores notes without rewriting them (1.344477ms)\n✔ pt: edits made while saving is off merge with untouched and unknown saved fields (0.676094ms)\n✔ pt: intentionally clearing one note preserves the other notes and completion (0.756964ms)\n✔ pt: a pending edit flushes before opt-out and later off-session edits remain unsaved (0.59267ms)\n✔ pt: completion changes only after an explicit toggle (0.985033ms)\n✔ pt: note saving merges the latest untouched fields and completion (0.662153ms)\n✔ pt: corrupt records survive consent, input and page exit until explicit deletion (2.441936ms)\n✔ pt: blocked storage keeps text exportable and retries without losing old notes (1.52194ms)\n✔ pt: deleting cancels pending saves and removes both languages without resurrection (0.695833ms)\n✔ pt: failed automatic writes retain edits for retry and report an unsaved opt-out (0.614293ms)\n✔ pt: storage read denial during an active session retains edits and announces export (0.566511ms)\n✔ pt: failed deletion keeps the notebook and visible edits intact (0.503378ms)\n✔ pt: opt-out in another tab stops automatic saving but keeps local edits for later consent (0.73389ms)\n✔ pt: another tab's delete cannot be undone by a pending timer or page exit (1.539696ms)\nℹ tests 28\nℹ suites 0\nℹ pass 28\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 44.857128\n"
+  },
+  {
+    "script": "scripts/check-guided-study.mjs",
+    "exitCode": 0,
+    "seconds": 0.43,
+    "output": "Passed: 143 retained bilingual notebook pairs, 20 source-bearing collections and their explicit credits in both reading hubs, guided sequence, note controls, lab coverage, static fallback and exact platform navigation. Explicitly owned Theosophy, Practical Thinking, Biodynamic Agriculture and conceptual pages have separate teaching checks.\n"
+  },
+  {
+    "script": "scripts/check-higher-worlds.mjs",
+    "exitCode": 0,
+    "seconds": 0.06,
+    "output": "Passed: 108 page records, nineteen source selections, 38 bilingual lessons, current PDF credits and four retained Theosophy comparison records.\n"
+  },
+  {
+    "script": "scripts/check-humanities-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 1.39,
+    "output": "Passed: 82 bilingual humanities units, complete first readings and explained answers; 164 original bodies preserved against 7da2cf5.\n"
+  },
+  {
+    "script": "scripts/check-introduction-anthroposophy.mjs",
+    "exitCode": 0,
+    "seconds": 0.25,
+    "output": "Passed: Introduction architecture (28 lessons, seven parts), 74 available bilingual pages and 132 comprehension questions; provenance, navigation, source locators and isolated progress.\n"
+  },
+  {
+    "script": "scripts/check-language-editorial.mjs",
+    "exitCode": 0,
+    "seconds": 0.1,
+    "output": "Passed: all 177 passage quotation records unchanged; documented note corrections; Nutrition answer-topic regressions; 72 standalone Foundations answers; visible recipe qualifications.\nPassed: independent meaning, grammar, safety-constraint and locator findings rendered in both course layers.\n"
+  },
+  {
+    "script": "scripts/check-learning-system.mjs",
+    "exitCode": 0,
+    "seconds": 0.4,
+    "output": "Passed: 36 retained bilingual Foundations lessons, attributed source/section teaching, unscored mixed checks, 16 preserved source structures, 57 paired chapter landings, 232 bilingual readings (185 retained pairs), all 22 collections discoverable, three homepage entries and exact four-area navigation.\n"
+  },
+  {
+    "script": "scripts/check-luke-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.04,
+    "output": "Passed: GA114 2001 Creeger edition evidence, 21 page notes, separate editorial/lecture passages, six bilingual source guides with explicit Lecture 2 scope, cognition comparisons and 24 bilingual lessons.\n"
+  },
+  {
+    "script": "scripts/check-meditation.mjs",
+    "exitCode": 0,
+    "seconds": 0.03,
+    "output": "Passed: 18 meditation sessions, two indexes, six complete selected texts per language, Foundation Stone ending, source attribution, navigation and reflection controls.\n"
+  },
+  {
+    "script": "scripts/check-mystery-temperaments-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.05,
+    "output": "Passed: Mystery 33 page records, unidentified uploaded edition kept separate from its parallel, fifteen bilingual source guides and exact-source selections, two teaching tables, scoped combined-course additions and 30 companion lesson pages.\n"
+  },
+  {
+    "script": "scripts/check-nutrition-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.29,
+    "output": "Passed: 18 bilingual Nutrition units, full first readings and explained answers; 36 original bodies preserved against 6d5a197.\n"
+  },
+  {
+    "script": "scripts/check-nutrition.mjs",
+    "exitCode": 0,
+    "seconds": 0.04,
+    "output": "Passed: nutrition chapter/capture coverage, 16 short verified excerpts, 54 checks, 37 response models, paper answers, source locators and discovery links.\nPortuguese Nutrition: 18 condensed teaching counterparts, 54 aligned checks, 37 responses, five comparison tables, 118 inherited locators, reciprocal language navigation and paper edition.\n"
+  },
+  {
+    "script": "scripts/check-passage-study.mjs",
+    "exitCode": 0,
+    "seconds": 0.07,
+    "output": "Passed: all thirteen historical source collections, 185 retained assignments and 370 bilingual routes; legacy source credits and reading-before-practice order. Revised Theosophy and Practical Thinking have separate primary-source checks.\n"
+  },
+  {
+    "script": "scripts/check-portuguese.mjs",
+    "exitCode": 0,
+    "seconds": 0.15,
+    "output": "Portuguese checks passed: 760 paired pages, 177 localized passage records, 148 source descriptions. English-only: 0 Waldorf, 1 Nutrition, 122 research notes.\n"
+  },
+  {
+    "script": "scripts/check-practical-thinking.mjs",
+    "exitCode": 0,
+    "seconds": 0.06,
+    "output": "Passed: 12 source-first Practical Thinking lessons, retained optional forecasting, four bilingual syntheses, exact Adams excerpts, full 19-section source map, stable old route identities and narrow builder ownership (40 pages).\n"
+  },
+  {
+    "script": "scripts/check-practice-courses.mjs",
+    "exitCode": 0,
+    "seconds": 0.08,
+    "output": "Passed: 12 source-first Practical Thinking core lessons plus its retained optional forecast, 12 bilingual temperament practice lessons, distinct source library, preserved temperament notebooks, source links, table and Philosophy of Freedom bridges.\n"
+  },
+  {
+    "script": "scripts/check-remaining-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.93,
+    "output": "Passed: 60 bilingual units in exact course order; four paragraphs and two explained questions each; all 120 original lesson bodies preserved exactly against 386bca2 with heading and navigation moved outside optional depth.\n"
+  },
+  {
+    "script": "scripts/check-site.mjs",
+    "exitCode": 0,
+    "seconds": 1.67,
+    "output": "Passed: 1643 pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.\n"
+  },
+  {
+    "script": "scripts/check-teaching-approach.mjs",
+    "exitCode": 0,
+    "seconds": 0.12,
+    "output": "Teaching approach passed: 772 retained pages; 36 bilingual Foundations lessons with three concept steps and applied checks; 62 bilingual Waldorf lessons.\n"
+  },
+  {
+    "script": "scripts/check-temperament-companions-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.65,
+    "output": "Passed: 28 bilingual temperament companion units; 56 original bodies preserved against 6d5a197.\n"
+  },
+  {
+    "script": "scripts/check-temperament-refinement.mjs",
+    "exitCode": 0,
+    "seconds": 0.07,
+    "output": "Passed: 24 temperament pages, concise bilingual openings, preserved deeper sources and notebooks, two attributed comparison charts, comparative checks and complete final model; source/question banks unchanged.\n"
+  },
+  {
+    "script": "scripts/check-temperaments-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 1.06,
+    "output": "Passed: 23 bilingual first readings, 46 retained complete original bodies, contextual corrections on all 102 family lesson pages, 56 book-companion original bodies preserved beneath new first readings, four-portrait comparison and source/birth distinctions.\n"
+  },
+  {
+    "script": "scripts/check-temperaments-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.05,
+    "output": "Passed: The Four Temperaments 23 page records, complete lecture and notes, verified 2012/2008 edition, eleven bilingual book guides, ten supplied-source main-course uses and 22 book lesson pages.\n"
+  },
+  {
+    "script": "scripts/check-theosophy-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.16,
+    "output": "Passed: 24 bilingual Theosophy readings, explained answers, accessible role map, main synthesis case, preserved study/source graph and synthesis anchors. Not a fresh original-PDF verification.\n"
+  },
+  {
+    "script": "scripts/check-theosophy.mjs",
+    "exitCode": 0,
+    "seconds": 0.08,
+    "output": "Passed: 94 PDF-reviewed primary captures, 28 guided reading routes, 56 bilingual readings and 108 comprehension questions; four chapter syntheses and intact 1971 research/177-passage/185-question banks.\n"
+  },
+  {
+    "script": "scripts/check-thinking-depth.mjs",
+    "exitCode": 0,
+    "seconds": 0.06,
+    "output": "Passed: 12 revised bilingual core lessons plus forecasting, 32 retained bilingual depth-data blocks, optional introductory examples and cloud study, source-first teaching and stable exercise destinations.\n"
+  },
+  {
+    "script": "scripts/check-threefold-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.04,
+    "output": "Passed: seven bilingual introduction/preface readings and retrieval checks, distinct source voices, Markdown-only locators, bounded beginner source, and unchanged 177-record registry/185-pair bank.\n"
+  },
+  {
+    "script": "scripts/check-waldorf-provenance.mjs",
+    "exitCode": 0,
+    "seconds": 0.03,
+    "output": "Passed readable provenance: explicit titles, unresolved sources, section scope, combined categories, and original labels.\n"
+  },
+  {
+    "script": "scripts/check-waldorf-teaching.mjs",
+    "exitCode": 0,
+    "seconds": 0.15,
+    "output": "Passed Waldorf teaching: 62 complete bilingual topics, 196 paired pages, nine curriculum tables per language, 124 authored changed-case prompts, three credited excerpt translations and original source fingerprints.\n"
+  },
+  {
+    "script": "scripts/check-waldorf.mjs",
+    "exitCode": 0,
+    "seconds": 0.19,
+    "output": "Passed Waldorf: 98 routes, 62 source fingerprints, states, source panels, titles, anchors, and integration.\n"
+  },
+  {
+    "script": "scripts/check-bees-interactions.mjs",
+    "exitCode": 0,
+    "seconds": 0.06,
+    "output": "Bees interaction harness passed: option-specific feedback, retry, opt-in persistence, bilingual mark continuity, separate notes, export, scoped deletion and blocked storage. Visual browser behavior remains unverified.\n"
+  }
+]

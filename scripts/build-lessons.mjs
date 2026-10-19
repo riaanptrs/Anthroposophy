@@ -109,6 +109,7 @@ if (fs.existsSync(biodynamicMetadataFile)) {
 await import('./build-nutrition.mjs');
 await import('./build-foodwise.mjs');
 await import('./build-esoteric-christianity.mjs');
+await import('./build-bees.mjs');
 await import('./build-waldorf.mjs');
 await import('./build-waldorf-teaching.mjs');
 buildLinks();

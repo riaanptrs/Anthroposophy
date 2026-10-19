@@ -1,0 +1,972 @@
+{
+  "edition": "Rudolf Steiner, Bees, translated by Thomas Braatz, Anthroposophic Press, 1998, ISBN 9780880104579",
+  "pdfCaptures": 119,
+  "locators": "One-based supplied PDF capture numbers; most captures show two printed book pages. Boundary captures can contain two sections.",
+  "sources": [
+    {
+      "name": "Bees _ nine lectures on the nature of bees -- Rudolf Steiner; David Adams; Thomas Braatz; Gunther Hauk -- SteinerBooks, Hudson, N_Y_, 1998 -- Steiner -- isbn13 9780880104579 -- 2ea02672affdff02e692f757141f9f51  (1).md",
+      "sha256": "44b271c860d5804dbe15d1c540d4434fc2471e166c230d5428a00a363794c43c",
+      "bytes": 434416
+    },
+    {
+      "name": "Bees _ nine lectures on the nature of bees -- Rudolf Steiner; David Adams; Thomas Braatz; Gunther Hauk -- SteinerBooks, Hudson, N_Y_, 1998 -- Steiner -- isbn13 9780880104579 -- 2ea02672affdff02e692f757141f9f51  (1).pdf",
+      "sha256": "cf93af003d2b78cf658d1977473a0bd6f27bc3bfc7e2283e54667fd20f6449ea",
+      "bytes": 1953310
+    }
+  ],
+  "review": "Sequential reading of lecture and supplementary text. Embedded PDF text used to resolve noisy Markdown and spread order. Covers and blackboard plates visually inspected; no claim of full visual checking of every printed line or German inscription.",
+  "pages": [
+    {
+      "capture": 1,
+      "en": "Cover and edition title; no lecture argument.",
+      "pt": "Capa e título da edição; sem argumento de palestra.",
+      "extractionWarning": true,
+      "visualReview": true,
+      "method": "PDF image"
+    },
+    {
+      "capture": 2,
+      "en": "Title page credits Steiner and translator Thomas Braatz.",
+      "pt": "Folha de rosto atribui autoria a Steiner e tradução a Thomas Braatz.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 3,
+      "en": "Copyright translation sources GA 348 and GA 351 and contents.",
+      "pt": "Direitos fontes da tradução GA 348 e GA 351 e sumário.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 4,
+      "en": "Contents conclude; Hauk introduces technology and holistic knowledge.",
+      "pt": "Fim do sumário; Hauk apresenta tecnologia e conhecimento integral.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 5,
+      "en": "Hauk describes anthroposophy and retrospectively interprets queen breeding warnings.",
+      "pt": "Hauk descreve antroposofia e interpreta retrospectivamente alertas sobre criação de rainhas.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 6,
+      "en": "Hauk connects husbandry choices environmental pressures and ethical responsibility.",
+      "pt": "Hauk relaciona manejo pressões ambientais e responsabilidade ética.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 7,
+      "en": "Prelude begins with colony wisdom and proposed cosmic influences.",
+      "pt": "Prelúdio começa com sabedoria da colônia e influências cósmicas propostas.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 8,
+      "en": "Love Venus collective activity flowers and honey form one spiritual picture.",
+      "pt": "Amor Vênus atividade coletiva flores e mel compõem uma imagem espiritual.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 9,
+      "en": "Prelude closes with honey and cosmos; Lecture One opens with nectar gathering.",
+      "pt": "Prelúdio termina com mel e cosmos; primeira palestra começa com coleta de néctar.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 10,
+      "en": "Pollen wax and hexagonal cells; proposed effects of the larva’s surroundings.",
+      "pt": "Pólen cera e células hexagonais; efeitos propostos do ambiente da larva.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 11,
+      "en": "Development intervals become a proposed Sun and Earth polarity.",
+      "pt": "Intervalos de desenvolvimento recebem uma polaridade proposta entre Sol e Terra.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 12,
+      "en": "Reproduction unfertilized eggs and the mating flight in the cosmic account.",
+      "pt": "Reprodução ovos não fecundados e voo nupcial na descrição cósmica.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 13,
+      "en": "Nectar processing pollen collection and proposed smell and taste orientation.",
+      "pt": "Processamento do néctar coleta de pólen e orientação proposta por olfato e paladar.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 14,
+      "en": "Swarming is explained through a luminous queen eyes and venom.",
+      "pt": "Enxameação explicada por rainha luminosa olhos e veneno.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 15,
+      "en": "Hive and human head analogy; workers blood and formative construction.",
+      "pt": "Analogia entre colmeia e cabeça; operárias sangue e construção formadora.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 16,
+      "en": "Honey bodily form aging and childhood; includes outdated infant feeding advice.",
+      "pt": "Mel forma corporal envelhecimento e infância; inclui orientação infantil ultrapassada.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 17,
+      "en": "Plant flourishing and warnings about delayed effects of artificial queen breeding.",
+      "pt": "Desenvolvimento vegetal e alertas sobre efeitos tardios da criação artificial de rainhas.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 18,
+      "en": "Wax candles reverence and the concluding head and hive comparison.",
+      "pt": "Cera velas reverência e conclusão da comparação entre cabeça e colmeia.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 19,
+      "en": "Lecture Two opens with ultraviolet experiments and the light-reactive chemical analogy.",
+      "pt": "Segunda palestra começa com experimentos ultravioleta e analogia com substância fotossensível.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 20,
+      "en": "Chemical stimulation is distinguished from a claim about visual experience.",
+      "pt": "Estímulo químico é distinguido da afirmação sobre experiência visual.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 21,
+      "en": "Color warmth mousetrap and flytrap analogies; chemical constitution discussion.",
+      "pt": "Cor calor analogias da ratoeira e planta carnívora; constituição química.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 22,
+      "en": "Steiner disputes vision interpretations and criticizes scientific authority.",
+      "pt": "Steiner contesta interpretações da visão e critica autoridade científica.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 23,
+      "en": "Müller objects about swarming before emergence; Steiner revises the luminous account.",
+      "pt": "Müller contesta enxameação antes da emergência; Steiner revê a explicação luminosa.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 24,
+      "en": "Light disturbance and warnings against projecting human perception onto animals.",
+      "pt": "Perturbação pela luz e alerta contra projetar percepção humana nos animais.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 25,
+      "en": "Animal chemical senses and Müller’s question about supplementary sugar feeding.",
+      "pt": "Sentidos químicos animais e pergunta de Müller sobre alimentação com açúcar.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 26,
+      "en": "Steiner interprets chamomile and salt as aids to food transformation.",
+      "pt": "Steiner interpreta camomila e sal como auxiliares da transformação alimentar.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 27,
+      "en": "Lecture Three begins with Emrich’s report on children receiving honey and milk.",
+      "pt": "Terceira palestra começa com relato de Emrich sobre crianças recebendo mel e leite.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 28,
+      "en": "Milk component experiment and Steiner’s criticism of the vitamin explanation.",
+      "pt": "Experimento dos componentes do leite e crítica de Steiner à explicação vitamínica.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 29,
+      "en": "Naming versus explaining; printed authority and practical experience.",
+      "pt": "Nomear e explicar; autoridade impressa e experiência prática.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 30,
+      "en": "Age dentition and proposed differences between milk and honey nourishment.",
+      "pt": "Idade dentição e diferenças propostas entre nutrição por leite e mel.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 31,
+      "en": "Quartz geometry and the proposed fluid formative process in humans.",
+      "pt": "Geometria do quartzo e processo formador fluido proposto no ser humano.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 32,
+      "en": "Crystal formation held back in life; comparison with wax cells.",
+      "pt": "Formação cristalina contida na vida; comparação com células de cera.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 33,
+      "en": "Milk honey and mineral forces; proposed mediation and limits of quantity.",
+      "pt": "Leite mel e forças minerais; mediação proposta e limites de quantidade.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 34,
+      "en": "Historical silica remedies and distinction between genuine and imitation honey.",
+      "pt": "Remédios históricos de sílica e distinção entre mel genuíno e imitação.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 35,
+      "en": "Question about announcing a beekeeper’s death and reports of colony losses.",
+      "pt": "Pergunta sobre anunciar a morte do apicultor e relatos de perdas de colônias.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 36,
+      "en": "Calculating horse example; Steiner proposes sensitivity to unexpressed thought.",
+      "pt": "Exemplo do cavalo calculador; Steiner propõe sensibilidade ao pensamento não expresso.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 37,
+      "en": "Fear anger familiarity bodily emanations and beekeeper relationships.",
+      "pt": "Medo raiva familiaridade emanações corporais e relações com o apicultor.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 38,
+      "en": "Spring rain nectar and zodiacal interpretation of seasonal conditions.",
+      "pt": "Chuva primaveril néctar e interpretação zodiacal das condições sazonais.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 39,
+      "en": "Lecture Three ends on folk sayings; Lecture Four opens with profit and honey.",
+      "pt": "Terceira palestra termina com ditados; quarta começa com lucro e mel.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 40,
+      "en": "Müller details costs feeding breeding and objections to long-term predictions.",
+      "pt": "Müller detalha custos alimentação criação e objeções às previsões de longo prazo.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 41,
+      "en": "Recognition across bodily change and the hive as a continuing whole.",
+      "pt": "Reconhecimento apesar da mudança corporal e colmeia como todo contínuo.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 42,
+      "en": "Farm sidelines gifts honey prices and intensified dairy production.",
+      "pt": "Tarefas agrícolas presentes preços do mel e produção leiteira intensificada.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 43,
+      "en": "Delayed husbandry consequences and enclosing a dead mouse in the hive.",
+      "pt": "Consequências tardias do manejo e isolamento de camundongo morto na colmeia.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 44,
+      "en": "Whole-organism effects long time spans and the qualified breeding warning.",
+      "pt": "Efeitos no organismo inteiro prazos longos e alerta ponderado sobre criação.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 45,
+      "en": "Economic conditions price formation and the need to consider real circumstances.",
+      "pt": "Condições econômicas formação de preços e atenção às circunstâncias reais.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 46,
+      "en": "Profit and wages; question about honey intolerance and historical diagnosis.",
+      "pt": "Lucro e salários; pergunta sobre intolerância ao mel e diagnóstico histórico.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 47,
+      "en": "Historical remedies electric light and proposed zodiacal influences.",
+      "pt": "Remédios históricos luz elétrica e influências zodiacais propostas.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 48,
+      "en": "Lecture Four closes with inquiry; Lecture Five opens with comb eating and disease.",
+      "pt": "Quarta palestra termina com investigação; quinta começa com ingestão de favos e doenças.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 49,
+      "en": "Limits of observation on wax eating; straw and wooden hive environments.",
+      "pt": "Limites da observação sobre ingestão de cera; ambientes de palha e madeira.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 50,
+      "en": "Proposed internal-fluid balance and seasonal flower provisioning.",
+      "pt": "Equilíbrio proposto dos fluidos internos e oferta sazonal de flores.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 51,
+      "en": "Compensating for modernization; debate about regional forage and foreign plants.",
+      "pt": "Compensar a modernização; debate sobre alimento regional e plantas estrangeiras.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 52,
+      "en": "Local adaptation vine analogy and historical prenatal honey claims.",
+      "pt": "Adaptação local analogia da videira e afirmações históricas sobre mel antes da gestação.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 53,
+      "en": "Spiritual inquiry and gall wasps altering plant growth around developing young.",
+      "pt": "Investigação espiritual e vespas alterando crescimento vegetal ao redor das crias.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 54,
+      "en": "Galls as developmental shelter; fig cultivation and its historical account.",
+      "pt": "Galhas como abrigo de desenvolvimento; cultivo de figos e relato histórico.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 55,
+      "en": "Caprification interpreted as altered reproduction and increased sweetness.",
+      "pt": "Caprificação interpretada como reprodução alterada e aumento da doçura.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 56,
+      "en": "Claimed wasp-to-bee origin and wax formation compared with a fig tree.",
+      "pt": "Origem alegada de abelhas a partir de vespas e comparação da cera com figueira.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 57,
+      "en": "The hive as externalized tree; Hahn’s question-and-answer report begins.",
+      "pt": "Colmeia como árvore exteriorizada; início do relato de perguntas de Hahn.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 58,
+      "en": "Hahn’s tentative foulbrood and Atlantis reports; Lecture Six opens on caste development.",
+      "pt": "Relatos de Hahn sobre cria pútrida e Atlântida; sexta palestra começa com castas.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 59,
+      "en": "Sun and Earth account of mating fertilization and male and female eggs.",
+      "pt": "Descrição por Sol e Terra de acasalamento fecundação e ovos masculinos e femininos.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 60,
+      "en": "I-organization circulation venom and the danger of unsuitable treatment.",
+      "pt": "Organização do Eu circulação veneno e perigo de tratamento inadequado.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 61,
+      "en": "Historical venom therapy and insistence on considering the individual constitution.",
+      "pt": "Terapia histórica com veneno e atenção à constituição individual.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 62,
+      "en": "Rheumatism gout alcohol and Müller’s contrasting sting experiences.",
+      "pt": "Reumatismo gota álcool e experiências contrastantes de Müller com ferroadas.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 63,
+      "en": "Unsafe historical sting-immunity claims; honey labeling and drone discussion.",
+      "pt": "Afirmações históricas inseguras de imunidade; rotulagem do mel e discussão dos zangões.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 64,
+      "en": "Developmental plasticity claims; hive health and paper-building wasps.",
+      "pt": "Afirmações de plasticidade; saúde da colmeia e vespas que constroem papel.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 65,
+      "en": "Wasps’ paper cells ants’ building materials and aphid honeydew.",
+      "pt": "Células de papel materiais das formigas e melato dos pulgões.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 66,
+      "en": "Ants tending aphids; nourishment compared with differences in construction.",
+      "pt": "Formigas cuidando de pulgões; nutrição comparada às diferenças de construção.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 67,
+      "en": "Lecture Seven begins with adaptive nests and the limits of the word instinct.",
+      "pt": "Sétima palestra começa com ninhos adaptativos e limites da palavra instinto.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 68,
+      "en": "Colony-level wisdom and historical descriptions of agricultural ants.",
+      "pt": "Sabedoria da colônia e descrições históricas de formigas agricultoras.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 69,
+      "en": "Seed harvesting and parasitoid wasps using caterpillars as developmental hosts.",
+      "pt": "Coleta de sementes e vespas parasitoides usando lagartas como hospedeiras.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 70,
+      "en": "Parasitoid development; question whether insects simply rob plants.",
+      "pt": "Desenvolvimento parasitoide; pergunta se insetos apenas roubam plantas.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 71,
+      "en": "Old Moon cosmology living clouds and renewed criticism of vitamin explanations.",
+      "pt": "Cosmologia da Antiga Lua nuvens vivas e nova crítica às vitaminas.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 72,
+      "en": "Proposed earlier plant and animal unity; formic acid enters the argument.",
+      "pt": "Unidade anterior proposta de plantas e animais; entrada do ácido fórmico no argumento.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 73,
+      "en": "Formic acid venom and proposed life-supporting functions.",
+      "pt": "Ácido fórmico veneno e funções propostas de sustentação da vida.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 74,
+      "en": "Insects as healers and forest-floor renewal through proposed acid distribution.",
+      "pt": "Insetos como curadores e renovação florestal pela distribuição proposta de ácido.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 75,
+      "en": "Rotting matter agricultural ants and the claimed renewal of earthly life.",
+      "pt": "Matéria em decomposição formigas agricultoras e renovação alegada da vida terrestre.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 76,
+      "en": "Reciprocity instinctive smell and conclusion about giving as well as taking.",
+      "pt": "Reciprocidade olfato instintivo e conclusão sobre dar além de receber.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 77,
+      "en": "Lecture Eight begins with intelligence in nature Fabre and the wood bee.",
+      "pt": "Oitava palestra começa com inteligência na natureza Fabre e abelha carpinteira.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 78,
+      "en": "Wood bee nesting chambers provisions and the described emergence route.",
+      "pt": "Câmaras do ninho provisões e rota de saída descrita da abelha carpinteira.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 79,
+      "en": "Building foresight and historical formic-acid diagnosis of memory problems.",
+      "pt": "Previsão construtiva e diagnóstico histórico de memória pelo ácido fórmico.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 80,
+      "en": "Organ-specific remedy claims and the proposed work of transformation.",
+      "pt": "Afirmações de remédios por órgão e trabalho proposto da transformação.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 81,
+      "en": "Laboratory conversion of oxalic acid used as an analogy for human processes.",
+      "pt": "Conversão laboratorial do ácido oxálico como analogia de processos humanos.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 82,
+      "en": "Microcosm macrocosm etheric life and astral transformation.",
+      "pt": "Microcosmo macrocosmo vida etérica e transformação astral.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 83,
+      "en": "Soul processes dead wood and rejuvenation attributed to insects.",
+      "pt": "Processos anímicos madeira morta e rejuvenescimento atribuído aos insetos.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 84,
+      "en": "Earth’s seasonal renewal and the unestablished telegraphy and ant claim.",
+      "pt": "Renovação sazonal da Terra e afirmação não estabelecida sobre formigas e telegrafia.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 85,
+      "en": "Human death swarming and the proposed reincarnation correspondence.",
+      "pt": "Morte humana enxameação e correspondência proposta com reencarnação.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 86,
+      "en": "Juniper birds Christmas imagery and the closing seasonal greeting.",
+      "pt": "Zimbro aves imagens natalinas e saudação final.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 87,
+      "en": "Editorial wood bee note provides another nesting account; Table II appears.",
+      "pt": "Nota editorial fornece outra descrição do ninho; aparece a prancha II.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 88,
+      "en": "Blackboard Tables III to V show organism light and quartz relationships.",
+      "pt": "Pranchas III a V mostram relações de organismo luz e quartzo.",
+      "extractionWarning": true,
+      "visualReview": true,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 89,
+      "en": "Blackboard Tables VI to IX show formative relationships recognition plants and insects.",
+      "pt": "Pranchas VI a IX mostram formação reconhecimento plantas e insetos.",
+      "extractionWarning": true,
+      "visualReview": true,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 90,
+      "en": "Blackboard Tables X to XIII show nests plants and transformation diagrams.",
+      "pt": "Pranchas X a XIII mostram ninhos plantas e diagramas de transformação.",
+      "extractionWarning": true,
+      "visualReview": true,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 91,
+      "en": "Appendix opens with the Berlin 29 September 1905 consciousness extract.",
+      "pt": "Apêndice começa com excerto sobre consciência de Berlim de 29 de setembro de 1905.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 92,
+      "en": "Future Venus hive consciousness; 1 June 1908 elemental-being extract begins.",
+      "pt": "Consciência da colmeia e futuro Vênus; começa excerto de 1º de junho de 1908.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 93,
+      "en": "Group souls animal individuality and elemental beings at plant and insect meetings.",
+      "pt": "Almas grupais individualidade animal e seres elementares no encontro de planta e inseto.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 94,
+      "en": "Bee and blossom etheric aura; Düsseldorf 21 April 1909 question begins.",
+      "pt": "Aura etérica de abelha e flor; começa pergunta de Düsseldorf de 21 de abril de 1909.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 95,
+      "en": "Group-soul comparison; two 10 November 1923 contexts on head honey and breeding.",
+      "pt": "Comparação de almas grupais; dois contextos de 10 de novembro sobre cabeça mel e criação.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 96,
+      "en": "Breeding prediction; repeated Hahn report; 30 December 1923 extract begins.",
+      "pt": "Previsão sobre criação; relato de Hahn repetido; começa excerto de 30 de dezembro de 1923.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 97,
+      "en": "Etheric support of gall development and comparison between quartz and wax cells.",
+      "pt": "Apoio etérico ao desenvolvimento das galhas e comparação entre quartzo e cera.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 98,
+      "en": "Quartz-forming powers; 2 January 1924 extract begins with fig cultivation.",
+      "pt": "Forças formadoras do quartzo; excerto de 2 de janeiro de 1924 começa com figos.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 99,
+      "en": "Metamorphosis fig and hive comparison and colony continuity with a beekeeper.",
+      "pt": "Metamorfose comparação entre figo e colmeia e continuidade com o apicultor.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 100,
+      "en": "Beuys Queen Bee artwork and afterword title; artistic reception begins.",
+      "pt": "Obra Rainha-abelha de Beuys e título do posfácio; início da recepção artística.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 101,
+      "en": "Adams introduces Beuys and the audience interested in Steiner’s influence on art.",
+      "pt": "Adams apresenta Beuys e o interesse pela influência de Steiner na arte.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 102,
+      "en": "Social sculpture artistic materials and Beuys’s early contact with anthroposophy.",
+      "pt": "Escultura social materiais artísticos e primeiros contatos com a antroposofia.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 103,
+      "en": "Study groups independent creativity and the expanded concept of art.",
+      "pt": "Grupos de estudo criatividade independente e conceito ampliado de arte.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 104,
+      "en": "Art and social life; nature study and Beuys’s developing artistic direction.",
+      "pt": "Arte e vida social; estudo da natureza e direção artística de Beuys.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 105,
+      "en": "Fluxus energies animals and the lectures as sources for artistic development.",
+      "pt": "Fluxus energias animais e palestras como fontes do desenvolvimento artístico.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 106,
+      "en": "Spiritual qualities of substances and polarities in the theory of sculpture.",
+      "pt": "Qualidades espirituais das substâncias e polaridades na teoria da escultura.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 107,
+      "en": "Metals warmth wax and movement between fluidity and fixed form.",
+      "pt": "Metais calor cera e movimento entre fluidez e forma fixa.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 108,
+      "en": "Queen-bee works and Christian interpretations of creativity and love.",
+      "pt": "Obras da rainha-abelha e interpretações cristãs de criatividade e amor.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 109,
+      "en": "Christ nature fat materials and honey’s cultural and spiritual associations.",
+      "pt": "Cristo natureza gordura e associações culturais e espirituais do mel.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 110,
+      "en": "How to Explain Pictures to a Dead Hare; honey gold and living thought.",
+      "pt": "Como explicar imagens a uma lebre morta; mel ouro e pensamento vivo.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 111,
+      "en": "Honey Pump at the Workplace and the Free International University discussions.",
+      "pt": "Bomba de mel no local de trabalho e debates da Universidade Internacional Livre.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 112,
+      "en": "Thinking feeling willing circulation social threefolding and cooperation.",
+      "pt": "Pensar sentir querer circulação trimembração social e cooperação.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 113,
+      "en": "Social sculpture preserves human participation and individuality; Adams concludes.",
+      "pt": "Escultura social preserva participação e individualidade humanas; conclusão de Adams.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 114,
+      "en": "Index begins; a reference aid rather than an additional teaching chapter.",
+      "pt": "Início do índice remissivo; recurso de consulta sem novo capítulo didático.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 115,
+      "en": "Index entries continue; use them to locate themes in the printed edition.",
+      "pt": "Continuação do índice; serve para localizar temas na edição impressa.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 116,
+      "en": "Index entries continue; no independent lecture argument.",
+      "pt": "Continuação do índice; sem argumento de palestra independente.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 117,
+      "en": "Index entries continue; no independent lecture argument.",
+      "pt": "Continuação do índice; sem argumento de palestra independente.",
+      "extractionWarning": false,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 118,
+      "en": "Index concludes; printed page references are not PDF capture numbers.",
+      "pt": "Fim do índice; páginas impressas não são números de captura PDF.",
+      "extractionWarning": true,
+      "visualReview": false,
+      "method": "PDF embedded text and supplied Markdown"
+    },
+    {
+      "capture": 119,
+      "en": "Back cover marketing summary and publication credits; not a lecture source.",
+      "pt": "Contracapa com resumo promocional e créditos; não é fonte de palestra.",
+      "extractionWarning": true,
+      "visualReview": true,
+      "method": "PDF image"
+    }
+  ]
+}

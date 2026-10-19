@@ -1,4 +1,6 @@
 import fs from 'node:fs';
+import {title as beesTitle,lessons as beesLessons} from '../content/bees/course.mjs';
+import {sections as beesSections} from '../content/bees/reference.mjs';
 import {modules as esotericModules} from '../content/esoteric-christianity/course.mjs';
 import {loadWaldorfContent} from './waldorf-content.mjs';
 const read=f=>JSON.parse(fs.readFileSync('content/'+f,'utf8'));
@@ -10,6 +12,7 @@ export function workspaceCourses(){
  const homes={foundations:'learn/foundations/index.html','theosophy-reading':'read/theosophy/index.html',waldorf:'learn/waldorf/index.html'};
  const result=[];
  for(const id of [...new Set(coverage.map(r=>r.course))]){
+  if(id==='learn/bees')continue; // Bees owns its source-defined adapter below.
   if(id==='theosophy')continue; // Approved semantic Theosophy has its own layout and storage UI.
   const home=homes[id]||id+'/index.html';
   const rows=coverage.filter(r=>r.course===id);
@@ -42,5 +45,7 @@ export function workspaceCourses(){
   const known=new Set(lessons.map(l=>l.route));groups=groups.map(g=>({...g,routes:[...new Set(g.routes)].filter(r=>known.has(r))})).filter(g=>g.routes.length);
   result.push({id,home,en:title(home),pt:title('pt/'+home),lessons,groups});
  }
+ const beeRoute=l=>'learn/bees/lessons/'+String(l.id).padStart(2,'0')+'.html';
+ result.push({id:'bees',home:'learn/bees/index.html',en:beesTitle.en,pt:beesTitle.pt,lessons:beesLessons.map(l=>({route:beeRoute(l),en:l.en.title,pt:l.pt.title})),groups:[...beesSections.filter(s=>s.id!=='drawings').map(s=>({en:s.en,pt:s.pt,routes:beesLessons.filter(l=>l.section===s.id).map(beeRoute)})),{en:'Final synthesis',pt:'Síntese final',routes:[beeRoute(beesLessons.at(-1))]}]});
  return result;
 }

@@ -88,6 +88,7 @@ function rebase(html, from, to) {
 // These labels describe subjects, not spiritual correspondences assigned to
 // the decorative colours and symbols. The source credits stay on every entry.
 const courseThemes = {
+  bees: ['Nature and bees', 'Natureza e abelhas'],
   foundations: ['Foundations', 'Fundamentos'],
   'introduction-to-anthroposophy': ['Foundations', 'Fundamentos'],
   theosophy: ['The human being', 'O ser humano'],

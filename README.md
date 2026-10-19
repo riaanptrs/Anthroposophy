@@ -72,6 +72,20 @@ An optional private preview uses `node scripts/build-biodynamic-agriculture.mjs 
 
 Quotations are checked against their actual canonical Markdown captures, with capture locators explicitly distinguished from printed pages. The native PDFs and historical drawings remain uninspected; PDF-inspection flags stay false, and the course uses original teaching diagrams rather than claimed historical reproductions. Modern teaching references have been reviewed within their recorded scope. All 28 release validators and 290 browser checks pass; source and preservation evidence is recorded in the rebuild review.
 
+**Bees in the View of Rudolf Steiner** begins at
+`docs/learn/bees/index.html`, with complete Brazilian Portuguese teaching under
+`docs/pt/learn/bees/`. Its 23 lessons follow the prelude and eight main lectures,
+then the appendix, David Adams’s Beuys afterword and a final synthesis. Gunther
+Hauk’s introduction and Hahn’s reported answers retain their own attributions.
+Chapter ideas and a glossary accompany the 119-capture source ledger, original
+examples, explained checks, optional observations, local opt-in notes, printable
+lessons and downloadable study guides. The uploaded books remain private.
+
+Edit `content/bees/course.mjs`, `reference.mjs` and `source-map.json`, then run
+`node scripts/build-all.mjs` and `node scripts/check-bees.mjs`. The separate
+`check-bees-interactions.mjs` exercises feedback and storage in a DOM harness;
+it does not replace visual browser QA. See [the source and implementation review](content/bees/review.md).
+
 A bilingual learning website for studying Anthroposophy in English and Brazilian Portuguese.
 
 Research, source comparisons, lecture timestamps, illustration briefs and future improvements are tracked in the [research index](content/research-index.md). The [source register](content/source-register.json) identifies reviewed input files by filename and fingerprint. Full source books and lecture transcripts remain local; they are not backed up by this repository.

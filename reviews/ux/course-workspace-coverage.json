@@ -137,6 +137,12 @@
       "home": "what-is-biodynamics/index.html",
       "lessons": 14,
       "groups": 5
+    },
+    {
+      "id": "bees",
+      "home": "learn/bees/index.html",
+      "lessons": 23,
+      "groups": 13
     }
   ],
   "pages": [
@@ -1413,6 +1419,146 @@
     {
       "page": "introduction-to-anthroposophy/source-notes.html",
       "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "learn/bees/chapters.html",
+      "course": "bees",
+      "role": "reference"
+    },
+    {
+      "page": "learn/bees/glossary.html",
+      "course": "bees",
+      "role": "reference"
+    },
+    {
+      "page": "learn/bees/index.html",
+      "course": "bees",
+      "role": "overview"
+    },
+    {
+      "page": "learn/bees/lessons/01.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/02.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/03.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/04.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/05.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/06.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/07.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/08.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/09.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/10.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/11.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/12.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/13.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/14.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/15.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/16.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/17.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/18.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/19.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/20.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/21.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/22.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/lessons/23.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/bees/print.html",
+      "course": "bees",
+      "role": "reference"
+    },
+    {
+      "page": "learn/bees/sources.html",
+      "course": "bees",
       "role": "reference"
     },
     {
@@ -4188,6 +4334,146 @@
     {
       "page": "pt/introduction-to-anthroposophy/source-notes.html",
       "course": "introduction-to-anthroposophy",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/bees/chapters.html",
+      "course": "bees",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/bees/glossary.html",
+      "course": "bees",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/bees/index.html",
+      "course": "bees",
+      "role": "overview"
+    },
+    {
+      "page": "pt/learn/bees/lessons/01.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/02.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/03.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/04.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/05.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/06.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/07.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/08.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/09.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/10.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/11.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/12.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/13.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/14.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/15.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/16.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/17.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/18.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/19.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/20.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/21.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/22.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/lessons/23.html",
+      "course": "bees",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/bees/print.html",
+      "course": "bees",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/bees/sources.html",
+      "course": "bees",
       "role": "reference"
     },
     {

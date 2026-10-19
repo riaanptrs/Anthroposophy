@@ -42,3 +42,7 @@ The fonts were converted to WOFF2 and subset with fontTools 4.61.1, using Brotli
 | `unfolding.svg` | A general growth motif for introductory learning |
 
 Images are decorative in the interface: written course names and descriptions carry the meaning. The symbol family does not replace teaching diagrams or historical source drawings.
+
+`illustrations/bees.svg` is an original editorial SVG for the Bees course,
+created for this repository. It depicts a bee, comb and flower; it is not a
+historical Steiner drawing or a scientific anatomical diagram.
