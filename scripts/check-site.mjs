@@ -424,6 +424,8 @@ if(nativeBiodynamicData)for(const prefix of ['', 'pt/']){
  }
 }
 for(const route of waldorfRoutes())for(const prefix of ['', 'pt/'])expectedRoutes.add(prefix+route);
+// The family guide is a course supplement, outside the original topic inventory.
+for(const prefix of ['', 'pt/'])expectedRoutes.add(prefix+'learn/waldorf/family-guide.html');
 const courseFiles=files.filter(f=>f!=='learning-review.html').map(f=>f.replaceAll(path.sep,'/'));
 if(courseFiles.length!==expectedRoutes.size)errors.push(`Expected ${expectedRoutes.size} learning, book, chapter, research and reference HTML pages, got ${courseFiles.length}`);
 const actualRoutes=new Set(courseFiles);
