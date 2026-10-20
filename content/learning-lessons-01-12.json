@@ -2,16 +2,15 @@
   {
     "id": 1,
     "en": {
-      "intro": "Rudolf Steiner (1861–1925) was an Austrian philosopher, lecturer and educator who developed anthroposophy. His work connects questions about knowledge and freedom with a spiritual understanding of human life, and with practical work in education and the arts.",
+      "intro": "Rudolf Steiner (1861–1925) was an Austrian philosopher, spiritual researcher, lecturer and educator who developed anthroposophy. His life’s work explored the human being and our relationship with the natural and spiritual worlds. This lesson introduces his life and the main fields of his work, so you can recognise the person behind the ideas we will study.",
       "meaning": [
-        "Steiner grew up in a family connected with the railway. Machines, the natural landscape and geometry interested him from childhood. He later studied scientific subjects in Vienna and read philosophy. These interests help explain a question that runs through his work: how can we understand both the world around us and our own activity of thinking?",
-        "An important early occupation was editing Goethe’s scientific writings. Goethe studied living forms through their development: a plant changes from leaf to flower and fruit while remaining one living organism. Steiner’s work with these writings encouraged him to explore how thinking can follow a changing living process, as well as describe an isolated object.",
-        "His philosophical book The Philosophy of Freedom examines knowledge and free action. It asks what thinking contributes to understanding and how a person can act from a moral idea they have understood individually. In Theosophy, Steiner develops a spiritual account of body, soul and spirit, reincarnation, karma and the path of knowledge. These are two important parts of his work that this site teaches in separate courses.",
-        "Anthroposophy became the name of his broader spiritual work. Alongside books and lectures, Steiner worked with colleagues on education, drama, architecture and eurythmy, an art of expressive movement through speech and music. In 1919, he helped establish the first Waldorf school in Stuttgart. His agricultural lectures of 1924 later became a foundation for biodynamic agriculture. These activities show how he sought to bring his ideas into everyday human work.",
-        "The useful picture to retain is a thinker, teacher and initiator of practical work. His life connects scientific and philosophical interests, spiritual teaching, artistic activity and education. The courses will develop these subjects one at a time, explaining the ideas and giving you examples through which to understand them."
+        "Steiner grew up in a family connected with the railway. He was interested in the natural landscape, machines and geometry, and later studied scientific subjects in Vienna. Early in his career, he edited the scientific writings of Johann Wolfgang von Goethe, the German poet and natural researcher. Working with Goethe’s studies of nature deepened his interest in understanding living things through their development.",
+        "Questions about knowledge and freedom became central to Steiner’s philosophical writing. In The Philosophy of Freedom, he explored thinking and the possibility of acting from an individually understood moral insight. His books and lectures also developed a spiritual understanding of the human being and the world. This wider work became known as anthroposophy. Theosophy is one of his introductory books on this subject. The next lesson will explain anthroposophy more fully.",
+        "Steiner brought this understanding into practical work with teachers, artists and other collaborators. In 1919, he helped establish the first Waldorf school in Stuttgart, Germany. He also worked in drama, architecture and eurythmy, an art of expressive movement connected with speech and music. His agricultural lectures in 1924 became a foundation for biodynamic agriculture. Education, art and agriculture therefore belong to the story of his life: each grew from his concern to bring spiritual understanding into everyday human activity.",
+        "The connection running through these fields is Steiner’s exploration of the human being and our relationship with the world. His biography gives us a first picture of how study, spiritual research and practical work developed during one life. Later lessons will introduce the ideas and activities individually."
       ],
       "keyConcept": "Rudolf Steiner developed anthroposophy and worked across philosophy, spiritual teaching, education and the arts.",
-      "example": "One question is how a person comes to understand an idea; another is how a teacher can help a child understand it. Steiner’s philosophical work and educational work address these related questions in different settings. Studying him therefore means learning both his ideas and the activities they inspired.",
+      "example": "Imagine encountering a Waldorf school, a building designed by Steiner and a biodynamic farm. These belong to education, architecture and agriculture: three fields introduced in his biography. Their connection is the work Steiner and his collaborators undertook to bring anthroposophy into practical life.",
       "distinction": "Anthroposophy is the broader spiritual conception. Waldorf education is one educational movement connected with it. Knowing this relationship helps you place the different courses on the site.",
       "connection": "We have identified Steiner and the main areas of his work. Next, we will explain what anthroposophy means and how its ideas fit together.",
       "checks": [
@@ -19,12 +18,12 @@
           "type": "choice",
           "question": "Which description best introduces Rudolf Steiner?",
           "options": [
-            "An Austrian philosopher, lecturer and educator who developed anthroposophy.",
-            "A writer whose only subject was farming.",
-            "The translator of all the books on this site."
+            "An Austrian philosopher, spiritual researcher, lecturer and educator who developed anthroposophy.",
+            "An educator who founded Waldorf schooling and worked only on classroom teaching.",
+            "A natural researcher whose work ended with editing Goethe’s writings."
           ],
           "answer": 0,
-          "explanation": "Steiner’s work includes philosophy, spiritual teaching, education and the arts. Agriculture was one later field of activity."
+          "explanation": "Steiner’s work developed from early scientific and philosophical interests into spiritual research, books, lectures and practical work in education, art and agriculture."
         },
         {
           "type": "true-false",
@@ -38,24 +37,23 @@
         },
         {
           "type": "reflection",
-          "question": "A class learns more about plants after a lesson inspired by Steiner. What does that result help assess?",
-          "explanation": "It helps assess this teaching activity and what the learners understood. It does not establish every philosophical or spiritual claim in Steiner’s work. The shared interest in development connects the fields without giving them identical evidence."
+          "question": "Name two practical fields in which Steiner worked, and describe his contribution to each.",
+          "explanation": "For example, in education he helped establish the first Waldorf school in 1919. In agriculture, his lectures of 1924 became a foundation for biodynamic agriculture. You could also name his work in drama, architecture or eurythmy. These activities brought his spiritual understanding into practical life."
         }
       ],
       "coverageNote": "Historical orientation draws on the reviewed autobiographical context used in Introduction to Anthroposophy, Lesson 2, and the school and Agriculture course records. The book links offer further study; this lesson is an introduction to Steiner’s work.",
       "sourceSection": "Rudolf Steiner, The Story of My Life (GA 28), biographical context reviewed for Introduction to Anthroposophy, Lesson 2; The Philosophy of Freedom and Theosophy, introductory material; Understanding Waldorf Education, the first Waldorf school; Agriculture Course (GA 327), Koberwitz, June 1924."
     },
     "pt": {
-      "intro": "Rudolf Steiner (1861–1925) foi um filósofo, conferencista e educador austríaco que desenvolveu a antroposofia. Sua obra relaciona questões sobre conhecimento e liberdade a uma compreensão espiritual da vida humana e ao trabalho prático na educação e nas artes.",
+      "intro": "Rudolf Steiner (1861–1925) foi um filósofo, pesquisador espiritual, conferencista e educador austríaco que desenvolveu a antroposofia. Sua obra explorou o ser humano e nossa relação com os mundos natural e espiritual. Esta lição apresenta sua vida e os principais campos de sua atuação, para que você conheça a pessoa por trás das ideias que estudaremos.",
       "meaning": [
-        "Steiner cresceu em uma família ligada à ferrovia. Desde a infância, interessava-se pelas máquinas, pela paisagem natural e pela geometria. Mais tarde, estudou disciplinas científicas em Viena e leu filosofia. Esses interesses ajudam a compreender uma pergunta recorrente em sua obra: como podemos entender tanto o mundo ao redor quanto nossa própria atividade de pensar?",
-        "Um trabalho importante no início de sua trajetória foi editar os escritos científicos de Goethe. Goethe estudava as formas vivas em seu desenvolvimento: uma planta passa das folhas às flores e aos frutos, permanecendo um único organismo vivo. Esse trabalho levou Steiner a investigar como o pensar pode acompanhar um processo vivo em transformação, além de descrever um objeto isolado.",
-        "Seu livro filosófico A Filosofia da Liberdade examina o conhecimento e a ação livre. Pergunta o que o pensar acrescenta à compreensão e como uma pessoa pode agir a partir de uma ideia moral compreendida individualmente. Em Teosofia, Steiner desenvolve uma concepção espiritual de corpo, alma e espírito, reencarnação, carma e caminho do conhecimento. São duas partes importantes de sua obra, ensinadas em cursos distintos neste site.",
-        "Antroposofia tornou-se o nome de seu trabalho espiritual mais amplo. Além dos livros e das palestras, Steiner trabalhou com colaboradores na educação, no teatro, na arquitetura e na euritmia, uma arte de movimento expressivo por meio da fala e da música. Em 1919, ajudou a estabelecer a primeira escola Waldorf em Stuttgart. Suas palestras agrícolas de 1924 tornaram-se posteriormente uma base da agricultura biodinâmica. Essas atividades mostram sua intenção de levar as ideias ao trabalho humano cotidiano.",
-        "A imagem principal a guardar é a de um pensador, professor e iniciador de atividades práticas. Sua trajetória relaciona interesses científicos e filosóficos, ensino espiritual, atividade artística e educação. Os cursos desenvolverão esses assuntos um de cada vez, explicando as ideias e oferecendo exemplos que ajudem a compreendê-las."
+        "Steiner cresceu em uma família ligada à ferrovia. Interessava-se pela paisagem natural, pelas máquinas e pela geometria, e mais tarde estudou disciplinas científicas em Viena. No início da carreira, editou os escritos científicos de Johann Wolfgang von Goethe, poeta e pesquisador da natureza alemão. O trabalho com os estudos de Goethe aprofundou seu interesse em compreender os seres vivos por meio de seu desenvolvimento.",
+        "As questões sobre o conhecimento e a liberdade tornaram-se centrais nos escritos filosóficos de Steiner. Em A Filosofia da Liberdade, explorou o pensar e a possibilidade de agir a partir de uma compreensão moral individual. Seus livros e palestras também desenvolveram uma compreensão espiritual do ser humano e do mundo. Esse trabalho mais amplo ficou conhecido como antroposofia. Teosofia é um de seus livros introdutórios sobre o assunto. A próxima lição explicará a antroposofia com mais detalhes.",
+        "Steiner levou essa compreensão ao trabalho prático com professores, artistas e outros colaboradores. Em 1919, ajudou a estabelecer a primeira escola Waldorf em Stuttgart, na Alemanha. Também atuou no teatro, na arquitetura e na euritmia, uma arte de movimento expressivo relacionada à fala e à música. Suas palestras agrícolas de 1924 tornaram-se uma base da agricultura biodinâmica. Educação, arte e agricultura fazem parte, portanto, de sua trajetória: cada campo nasceu de sua preocupação em levar a compreensão espiritual à atividade humana cotidiana.",
+        "O fio que percorre esses campos é a investigação de Steiner sobre o ser humano e nossa relação com o mundo. Sua biografia oferece uma primeira imagem de como estudo, pesquisa espiritual e trabalho prático se desenvolveram ao longo de uma vida. As próximas lições apresentarão as ideias e atividades individualmente."
       ],
       "keyConcept": "Rudolf Steiner desenvolveu a antroposofia e atuou na filosofia, no ensino espiritual, na educação e nas artes.",
-      "example": "Uma pergunta é como uma pessoa chega a compreender uma ideia; outra é como um professor pode ajudar uma criança a compreendê-la. O trabalho filosófico e o trabalho educativo de Steiner abordam essas perguntas relacionadas em contextos diferentes. Estudá-lo envolve conhecer suas ideias e as atividades que elas inspiraram.",
+      "example": "Imagine conhecer uma escola Waldorf, um edifício projetado por Steiner e uma fazenda biodinâmica. Eles pertencem à educação, à arquitetura e à agricultura: três campos apresentados em sua biografia. Sua ligação é o trabalho de Steiner e seus colaboradores para levar a antroposofia à vida prática.",
       "distinction": "A antroposofia é a concepção espiritual mais ampla. A educação Waldorf é um movimento educativo relacionado a ela. Entender essa relação ajuda a situar os diferentes cursos do site.",
       "connection": "Conhecemos Steiner e as principais áreas de sua atuação. A seguir, explicaremos o que significa antroposofia e como suas ideias se relacionam.",
       "checks": [
@@ -63,12 +61,12 @@
           "type": "choice",
           "question": "Que descrição apresenta melhor Rudolf Steiner?",
           "options": [
-            "Um filósofo, conferencista e educador austríaco que desenvolveu a antroposofia.",
-            "Um escritor cujo único assunto era a agricultura.",
-            "O tradutor de todos os livros deste site."
+            "Um filósofo, pesquisador espiritual, conferencista e educador austríaco que desenvolveu a antroposofia.",
+            "Um educador que fundou o ensino Waldorf e se dedicou apenas às aulas escolares.",
+            "Um pesquisador da natureza cujo trabalho terminou com a edição dos escritos de Goethe."
           ],
           "answer": 0,
-          "explanation": "A atuação de Steiner inclui filosofia, ensino espiritual, educação e artes. A agricultura foi um de seus campos posteriores de atividade."
+          "explanation": "A atuação de Steiner desenvolveu-se a partir de seus primeiros interesses científicos e filosóficos e abrangeu pesquisa espiritual, livros, palestras e trabalho prático na educação, na arte e na agricultura."
         },
         {
           "type": "true-false",
@@ -82,8 +80,8 @@
         },
         {
           "type": "reflection",
-          "question": "Uma turma aprende mais sobre plantas após uma aula inspirada em Steiner. O que esse resultado ajuda a avaliar?",
-          "explanation": "Ajuda a avaliar essa atividade de ensino e o que os estudantes compreenderam. Não estabelece toda afirmação filosófica ou espiritual da obra de Steiner. O interesse compartilhado pelo desenvolvimento conecta os campos sem lhes dar evidências idênticas."
+          "question": "Cite dois campos práticos em que Steiner atuou e descreva sua contribuição em cada um.",
+          "explanation": "Por exemplo, na educação ajudou a estabelecer a primeira escola Waldorf em 1919. Na agricultura, suas palestras de 1924 tornaram-se uma base da agricultura biodinâmica. Você também pode citar seu trabalho no teatro, na arquitetura ou na euritmia. Essas atividades levaram sua compreensão espiritual à vida prática."
         }
       ],
       "coverageNote": "A orientação histórica utiliza o contexto autobiográfico revisto na Lição 2 de Introdução à Antroposofia e os registros sobre a primeira escola e o Curso de Agricultura. Os links oferecem aprofundamento; esta lição apresenta o trabalho de Steiner.",
