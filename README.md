@@ -23,6 +23,13 @@ with an explained answer. Each grade has a curriculum/purpose table and three fo
 views. All 98 routes have language counterparts, including Home Life,
 orientation, source review and coverage pages.
 
+The bilingual parent overview at `docs/learn/waldorf/family-guide.html`
+explains main lesson blocks, continuing practice, the grade 1–8 journey and
+everyday family life. It is linked from the course home, parent questions and
+Home Life. Edit `content/waldorf-family-guide.mjs`; the Waldorf teaching builder
+renders both languages. Its original synthesis draws on the supplied Waldorf
+Essentials guides; grade 6 is supported only by their overview charts.
+
 Edit `content/waldorf-teaching-course.json` and
 `scripts/build-waldorf-teaching.mjs` for the current teaching. The original
 62 Markdown records in `waldorf-course/` remain byte-identical. English pages

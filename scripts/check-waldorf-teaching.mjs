@@ -4,13 +4,22 @@ import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
 import {loadWaldorfContent,waldorfRoutes} from './waldorf-content.mjs';
 import {esc,wholeElement,relative} from './learning-html.mjs';
+import {familyGuide} from '../content/waldorf-family-guide.mjs';
 const json=file=>JSON.parse(fs.readFileSync(file,'utf8'));
 const course=json('content/waldorf-teaching-course.json'),manifest=json('content/waldorf-teaching-manifest.json'),sources=json('content/waldorf-verified-excerpts.json');
 const items=loadWaldorfContent();
+for(const lang of ['en','pt']) {
+ const base='docs/'+(lang==='pt'?'pt/':'')+'learn/waldorf/',guide=familyGuide[lang];
+ const html=fs.readFileSync(base+'family-guide.html','utf8');
+ assert.equal(guide.grades.length,8);
+ for(const text of [...guide.intro,...guide.learning.flat(),...guide.family.flat(),...guide.roots,...guide.begin,guide.source,...guide.grades.flat()])assert.ok(html.includes(esc(text)),'Parent guide retains authored content: '+lang);
+ for(let grade=1;grade<=8;grade++)assert.ok(html.includes(`href="grades/grade-${grade}/index.html"`));
+ for(const route of ['index.html','parents/index.html','parents/home-life.html'])assert.ok(fs.readFileSync(base+route,'utf8').includes('family-guide.html'),'Parent guide is discoverable: '+lang+'/'+route);
+}
 assert.equal(course.lessons.length,62);
 assert.equal(new Set(course.lessons.map(row=>row.source)).size,62);
 assert.deepEqual([...course.lessons.map(row=>row.source)].sort(),items.map(row=>row.source).sort());
-assert.deepEqual([...manifest.pages].sort(),[...waldorfRoutes(),...waldorfRoutes().map(route=>'pt/'+route)].sort());
+assert.deepEqual([...manifest.pages].sort(),[...waldorfRoutes(),...waldorfRoutes().map(route=>'pt/'+route),'learn/waldorf/family-guide.html','pt/learn/waldorf/family-guide.html'].sort());
 assert.deepEqual(manifest.originalSourceFingerprints,items.map(({source,sha256})=>({source,sha256})));
 const plain=html=>html.replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');
 for(const row of course.lessons){
@@ -76,4 +85,4 @@ for(const route of manifest.pages){
   if(match[2])assert.ok(fs.readFileSync(target,'utf8').includes(`id="${match[2]}"`),file+' anchor '+match[2]);
  }
 }
-console.log('Passed Waldorf teaching: 62 complete bilingual topics, 196 paired pages, nine curriculum tables per language, 124 authored changed-case prompts, three credited excerpt translations and original source fingerprints.');
+console.log(`Passed Waldorf teaching: 62 complete bilingual topics, ${manifest.pages.length} paired pages, nine curriculum tables per language, 124 authored changed-case prompts, three credited excerpt translations and original source fingerprints.`);
