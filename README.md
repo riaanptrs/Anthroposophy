@@ -1,5 +1,12 @@
 # Anthroposophy
 
+The [direct teaching revision](reviews/pedagogy/TEACHING-COURSE-RESET.md)
+revises all 36 beginner Foundations explanations in English and Brazilian
+Portuguese. Topic-specific steps teach the concepts before optional source
+study, with explained questions and visible lesson-to-lesson links. The review
+also maps presentation problems and revision priorities across 25 course and
+companion groups; those other courses have not been rewritten in this change.
+
 An unmerged [pedagogical redevelopment review](reviews/pedagogy/REVIEW.md)
 tracks all current lesson routes and adds bilingual worked cases throughout
 Theosophy, Meditation, Practical Thinking and all 62 Waldorf topics. Its checklist distinguishes scoped teaching passes

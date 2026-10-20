@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-20",
+  "scope": {
+    "revisedCourse": "Beginner Foundations",
+    "authoredLessons": 36,
+    "languages": [
+      "en",
+      "pt-BR"
+    ],
+    "generatedLessonPages": 72,
+    "otherCourseRewrites": 0,
+    "reviewMapGroups": 25,
+    "reviewMapMethod": "Opening and midpoint presentation samples, plus existing course content and prior review records."
+  },
+  "build": {
+    "command": "node scripts/build-all.mjs",
+    "status": "passed"
+  },
+  "validators": [
+    {
+      "script": "scripts/check-agriculture-clarity.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-agriculture-source.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-ancient-myths.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-bees-interactions.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-bees.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-biodynamic-agriculture.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-biodynamics-source.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-childs-temperament-source.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-colour-source.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-concept-platform.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-constitution.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-encountering-self-source.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-esoteric-christianity.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-foodwise.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-foundations-clarity.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-freedom-clarity.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-freedom-lectures.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-freedom-route.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-freedom-source.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-guided-notebook.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-guided-study.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-higher-worlds.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-humanities-clarity.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-introduction-anthroposophy.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-language-editorial.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-learning-system.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-luke-source.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-meditation.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-mystery-temperaments-source.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-nutrition-clarity.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-nutrition.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-passage-study.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-portuguese.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-practical-thinking.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-practice-courses.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-remaining-clarity.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-site.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-teaching-approach.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-temperament-companions-clarity.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-temperament-refinement.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-temperaments-clarity.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-temperaments-source.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-theosophy-clarity.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-theosophy.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-thinking-depth.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-threefold-source.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-waldorf-provenance.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-waldorf-teaching.mjs",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "script": "scripts/check-waldorf.mjs",
+      "status": "passed",
+      "exitCode": 0
+    }
+  ],
+  "browser": {
+    "status": "passed",
+    "lessons": 36,
+    "languages": [
+      "en",
+      "pt-BR"
+    ],
+    "cases": 144,
+    "configurations": [
+      {
+        "javascript": false,
+        "width": 1280
+      },
+      {
+        "javascript": true,
+        "width": 390
+      }
+    ],
+    "checks": [
+      "complete visible explanation and topic headings",
+      "learning question and prerequisite context",
+      "next lesson before optional sources",
+      "keyboard answer disclosures with source notes closed",
+      "enhanced course workspace",
+      "language and single title",
+      "no horizontal overflow",
+      "no script errors or missing local assets"
+    ],
+    "limits": [
+      "No learner-comprehension study",
+      "No fresh original-source verification"
+    ]
+  },
+  "preservation": {
+    "status": "passed",
+    "comparedWith": "HEAD at start of change",
+    "unchanged": [
+      "28 Introduction lessons and 9 Meditation sessions sharing the clarity data file",
+      "source fields and quotations",
+      "original detailed explanations and choice checks",
+      "lesson routes, language counterparts and saved-note hooks"
+    ],
+    "permittedDetailedChanges": [
+      "beginner reflection prompts and explained answers",
+      "beginner transitions",
+      "matching concept-development transfer records"
+    ]
+  },
+  "whitespaceCheck": "passed",
+  "limits": [
+    "Local revision; no deployment performed",
+    "Other courses have a sampled review map, not completed rewrites",
+    "No learner-comprehension study or fresh source-fidelity verification"
+  ]
+}

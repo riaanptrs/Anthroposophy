@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "lessons": 36,
+  "languages": [
+    "en",
+    "pt-BR"
+  ],
+  "cases": 144,
+  "configurations": [
+    {
+      "javascript": false,
+      "width": 1280
+    },
+    {
+      "javascript": true,
+      "width": 390
+    }
+  ],
+  "checks": [
+    "complete visible explanation and topic headings",
+    "learning question and prerequisite context",
+    "next lesson before optional sources",
+    "keyboard answer disclosures with source notes closed",
+    "enhanced course workspace",
+    "language and single title",
+    "no horizontal overflow",
+    "no script errors or missing local assets"
+  ],
+  "limits": [
+    "No learner-comprehension study",
+    "No fresh original-source verification"
+  ]
+}

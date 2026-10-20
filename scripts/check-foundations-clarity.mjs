@@ -16,7 +16,7 @@ for(const row of clarityRows){
  assert.equal(row.en.paragraphs.length,row.pt.paragraphs.length);
  for(const lang of ['en','pt']){
   const file=clarityRoute(row,lang),html=fs.readFileSync(file,'utf8'),v=row[lang];
-  const count=row.course==='foundations'&&row.id===2?6:row.course==='introduction-to-anthroposophy'&&row.id===1?7:4;
+  const count=row.course==='introduction-to-anthroposophy'&&row.id===1?7:4;
   assert.equal(v.paragraphs.length,count,file);assert.equal(v.checks.length,2,file);
   const first=wholeElement(html,'<section class="batch-first-reading"');
   for(const s of [...v.paragraphs,...v.checks.flat()])assert.ok(typeof s==='string'&&s.trim()&&first.replace(/<a\b[^>]*>|<\/a>/g,'').includes(esc(s)),file+' complete new text');
@@ -26,6 +26,14 @@ for(const row of clarityRows){
   const oldInner=oldMain.slice(oldTag.length,-7).replace(heading,'').replace(nav,'');
   const depth=wholeElement(html,'<details class="batch-retained-depth"');
   if(row.course==='foundations'){
+   assert.equal(v.paragraphHeadings.length,v.paragraphs.length,file+' explained steps');
+   for(const title of v.paragraphHeadings)assert.ok(first.includes(`<h2>${esc(title)}</h2>`),file+' step heading');
+   const context=wholeElement(html,'<section class="foundation-orientation"');
+   assert.ok(context.replace(/<a\b[^>]*>|<\/a>/g,'').includes(esc(v.goal)),file+' visible learning question');
+   if(row.id>1)assert.ok(context.includes(`href="${String(row.id-1).padStart(2,'0')}.html"`),file+' prerequisite');
+   const next=wholeElement(html,'<section class="foundation-next"');
+   assert.ok(next&&html.indexOf(next)<html.indexOf(depth),file+' continuation before optional sources');
+   if(row.id<36)assert.ok(next.includes(`href="${String(row.id+1).padStart(2,'0')}.html"`),file+' visible next lesson');
    // Foundations now permits audited teaching repairs. Preserve source evidence,
    // stable navigation and study hooks against the deployed pre-revision version.
    const deployed=execFileSync('git',['show','0424fb1a79f3965eb059e230b6a0bb3f17087471:'+file],{maxBuffer:4e6}).toString();
