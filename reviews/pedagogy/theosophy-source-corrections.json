@@ -1,0 +1,1077 @@
+{
+  "date": "2026-10-20",
+  "baseline": "a37d5ab010300df24216f11c666ee9068dfbc96d",
+  "status": "implemented and locally validated",
+  "scope": {
+    "auditedLessonPairs": 24,
+    "correctionGroups": 13,
+    "textEdits": 40,
+    "generatedPagesChanged": 26,
+    "sourceReferenceAdditions": 1
+  },
+  "sourceEvidence": {
+    "edition": "Elizabeth Douglas Shields translation (1910), Delhi Open Books reissue",
+    "ocrCapturesRead": 94,
+    "targetedPdfCapturesVisuallyChecked": [
+      2,
+      3,
+      4,
+      13,
+      17,
+      21,
+      22,
+      26,
+      29,
+      30,
+      31,
+      38,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      59,
+      60,
+      61,
+      73,
+      74,
+      78,
+      79,
+      80,
+      81,
+      87,
+      88,
+      89,
+      93,
+      94
+    ],
+    "visuallyCheckedPdfSha256": "3aeb457dfa7e1b77ee6746d5c807bb6ab70eb1be960e8b19cb867d73a2c55dc8",
+    "historicalLedgerPreserved": true,
+    "historicalLedgerPdfSha256": "809fa64f1d20a4311c8c12060a0157cb0d55399afb19d33d529def1efacd9911",
+    "limits": [
+      "The supplied PDF has a different byte identity from the historical ledger file.",
+      "The targeted visual check is not a fresh image-by-image collation of all 94 captures.",
+      "No published Portuguese source was supplied; Portuguese teaching was checked for semantic parity against the English source.",
+      "Visible source anomalies at captures 17 and 38 were not silently rewritten as quotations."
+    ]
+  },
+  "corrections": [
+    {
+      "id": "C01",
+      "title": "Restore the joined sentient member in lesson 18",
+      "lessonNumbers": [
+        18
+      ],
+      "sourceCaptures": [
+        73,
+        74
+      ],
+      "reason": "The passage uses sentient soul-body, the joined member. Naming only sentient body narrows its scope.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-concept-worlds.json",
+          "pointer": "/lessons/5/en/explanation/3",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-worlds.json",
+          "pointer": "/lessons/5/pt/explanation/3",
+          "language": "pt"
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "title": "Preserve the strength of the demand on willing",
+      "lessonNumbers": [
+        22
+      ],
+      "sourceCaptures": [
+        88,
+        89
+      ],
+      "reason": "The source calls for the recognized good itself to determine the action. It does not merely ask that private reward be one motive among others. Enjoyment may accompany an act without deciding its aim.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/lessons/5/en/centralIdea",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/lessons/5/pt/centralIdea",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/lessons/5/en/explanation/2",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/lessons/5/pt/explanation/2",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/practices/4/en/sourceBasis",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/practices/4/pt/sourceBasis",
+          "language": "pt"
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "title": "Teach the painful dimension of release",
+      "lessonNumbers": [
+        15
+      ],
+      "sourceCaptures": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "reason": "The current explanation is accurate about selective release but largely omits the source’s explicit account of suffering from unfulfilled bodily desire. The source also includes subtler attachments in apparently unselfish activity.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-concept-worlds.json",
+          "pointer": "/lessons/2/en/explanation/1",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-clear-lessons.json",
+          "pointer": "/14/en/paragraphs/0",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-worlds.json",
+          "pointer": "/lessons/2/pt/explanation/1",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-clear-lessons.json",
+          "pointer": "/14/pt/paragraphs/0",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-concept-worlds.json",
+          "pointer": "/lessons/2/en/explanation/3",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-worlds.json",
+          "pointer": "/lessons/2/pt/explanation/3",
+          "language": "pt"
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "title": "Clarify the distinct sentient body",
+      "lessonNumbers": [
+        4
+      ],
+      "sourceCaptures": [
+        21,
+        22
+      ],
+      "reason": "The source explicitly describes a distinct member and the finer etheric organization united with the sentient soul; functional language alone can sound like ordinary anatomy.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-concept-constitution.json",
+          "pointer": "/lessons/3/en/explanation/1",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-constitution.json",
+          "pointer": "/lessons/3/pt/explanation/1",
+          "language": "pt"
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "title": "Distinguish the I from its visible effects",
+      "lessonNumbers": [
+        5
+      ],
+      "sourceCaptures": [
+        26
+      ],
+      "reason": "This explicit qualification connects the I lesson to the aura account and prevents an inference that the spiritual observer sees the I as an object.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-concept-constitution.json",
+          "pointer": "/lessons/4/en/explanation/1",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-constitution.json",
+          "pointer": "/lessons/4/pt/explanation/1",
+          "language": "pt"
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "title": "Clarify the Portuguese joined member label",
+      "lessonNumbers": [
+        9
+      ],
+      "sourceCaptures": [
+        29,
+        30,
+        31
+      ],
+      "reason": "The existing right column is correct. The left label resembles the course’s term for sentient body alone; use an explicit pedagogical paraphrase, not a claim of a literal historical translation.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-concept-constitution.json",
+          "pointer": "/lessons/8/pt/comparisons/0/rows/2/0",
+          "language": "pt"
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "title": "State the author’s assessment of the reincarnation argument",
+      "lessonNumbers": [
+        11
+      ],
+      "sourceCaptures": [
+        36,
+        41
+      ],
+      "reason": "The course may examine the premises critically, but should make clear that Steiner himself presents the reasoning as compelling, including conviction through pure logic in the chapter’s conclusion.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/lessons/1/en/explanation/3",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/lessons/1/pt/explanation/3",
+          "language": "pt"
+        }
+      ],
+      "addedSource": {
+        "chapter": 2,
+        "captures": [
+          39,
+          41
+        ],
+        "readingIds": [
+          9
+        ]
+      }
+    },
+    {
+      "id": "C08",
+      "title": "Explain the life spirit role in continuity",
+      "lessonNumbers": [
+        11
+      ],
+      "sourceCaptures": [
+        38
+      ],
+      "reason": "The current note distinguishes two names without teaching the relation that Chapter II assigns to them.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/lessons/1/en/deeper/0/paragraphs/0",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/lessons/1/pt/deeper/0/paragraphs/0",
+          "language": "pt"
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "title": "Use consistent Portuguese names for the soul regions",
+      "lessonNumbers": [
+        14
+      ],
+      "sourceCaptures": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "reason": "Short and full teaching currently name the same regions differently. The full table provides the course’s existing canonical labels.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-clear-lessons.json",
+          "pointer": "/13/pt/paragraphs/1",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-clear-lessons.json",
+          "pointer": "/13/pt/paragraphs/1",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-concept-worlds.json",
+          "pointer": "/lessons/1/pt/workedExample/explanation",
+          "language": "pt"
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "title": "Explain Spiritual Word as disclosure of being",
+      "lessonNumbers": [
+        16
+      ],
+      "sourceCaptures": [
+        61,
+        94
+      ],
+      "reason": "Creative expression is too general to convey the specific transition from tones to the disclosure of a being’s nature or eternal name.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-concept-worlds.json",
+          "pointer": "/lessons/3/en/deeper/2/paragraphs/0",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-worlds.json",
+          "pointer": "/lessons/3/pt/deeper/2/paragraphs/0",
+          "language": "pt"
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "title": "Retain the interpersonal thought claim",
+      "lessonNumbers": [
+        19
+      ],
+      "sourceCaptures": [
+        75,
+        76
+      ],
+      "reason": "The source describes a thought about another person as streaming to and acting on that person; the current text concentrates on the thinker’s inward expression.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-concept-worlds.json",
+          "pointer": "/lessons/6/en/explanation/0",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-worlds.json",
+          "pointer": "/lessons/6/pt/explanation/0",
+          "language": "pt"
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "title": "Teach what the education of feeling is meant to disclose",
+      "lessonNumbers": [
+        21
+      ],
+      "sourceCaptures": [
+        85,
+        86
+      ],
+      "reason": "The source concerns learning the qualities of what is encountered through feeling, not only delaying a response. Preserve that pedagogical step before the stronger claim of spiritual organs.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/lessons/4/en/explanation/2",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-concept-destiny-knowledge.json",
+          "pointer": "/lessons/4/pt/explanation/2",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-clear-lessons.json",
+          "pointer": "/20/en/paragraphs/3",
+          "language": "en"
+        },
+        {
+          "file": "content/theosophy-clear-lessons.json",
+          "pointer": "/20/pt/paragraphs/3",
+          "language": "pt"
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "title": "Normalize minor Portuguese terminology",
+      "lessonNumbers": [
+        2,
+        5,
+        6,
+        7,
+        9,
+        24
+      ],
+      "sourceCaptures": [
+        15,
+        16,
+        20,
+        21,
+        22,
+        23,
+        24,
+        29,
+        30,
+        31,
+        74
+      ],
+      "reason": "Use the terms already taught in the course. These are clarity refinements; they are not evidence of a different doctrine or a verified alternative Portuguese source translation.",
+      "editedFields": [
+        {
+          "file": "content/theosophy-clear-lessons.json",
+          "pointer": "/1/pt/checks/1/1",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-clear-lessons.json",
+          "pointer": "/4/pt/checks/0/1",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-concept-constitution.json",
+          "pointer": "/lessons/5/pt/workedExample/explanation",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-concept-constitution.json",
+          "pointer": "/lessons/6/pt/workedExample/explanation",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-concept-constitution.json",
+          "pointer": "/lessons/8/pt/workedExample/explanation",
+          "language": "pt"
+        },
+        {
+          "file": "content/theosophy-concept-course.json",
+          "pointer": "/synthesis/pt/reviewQuestions/7/notes/0",
+          "language": "pt"
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "number": 1,
+      "id": "body-soul-spirit",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [],
+      "status": "audited; no correction required",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 2,
+      "id": "physical-body",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C13"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 3,
+      "id": "life-and-etheric-body",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [],
+      "status": "audited; no correction required",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 4,
+      "id": "sentience-and-astral-body",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C04"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 5,
+      "id": "human-i",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C05",
+        "C13"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 6,
+      "id": "sentient-soul",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C13"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 7,
+      "id": "mind-soul",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C13"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 8,
+      "id": "consciousness-soul",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [],
+      "status": "audited; no correction required",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 9,
+      "id": "spiritual-transformation",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C06",
+        "C13"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 10,
+      "id": "memory-and-individuality",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [],
+      "status": "audited; no correction required",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 11,
+      "id": "reincarnation",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C07",
+        "C08"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 12,
+      "id": "karma-and-action",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [],
+      "status": "audited; no correction required",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 13,
+      "id": "three-worlds",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [],
+      "status": "audited; no correction required",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 14,
+      "id": "soul-affinities",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C09"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 15,
+      "id": "death-and-release",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C03"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 16,
+      "id": "living-archetypes",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C10"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 17,
+      "id": "life-between-lives",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [],
+      "status": "audited; no correction required",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 18,
+      "id": "nature-and-spiritual-beings",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C01"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 19,
+      "id": "thought-forms-and-aura",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C11"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 20,
+      "id": "understanding-and-knowledge",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [],
+      "status": "audited; no correction required",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 21,
+      "id": "receptivity-and-equanimity",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C12"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 22,
+      "id": "thinking-and-willing",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C02"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 23,
+      "id": "freedom-and-initiation",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [],
+      "status": "audited; no correction required",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    },
+    {
+      "number": 24,
+      "id": "whole-picture",
+      "auditedLanguages": [
+        "en",
+        "pt"
+      ],
+      "correctionIds": [
+        "C13"
+      ],
+      "status": "corrected and validated",
+      "renderedLanguagesValidated": [
+        "en",
+        "pt"
+      ]
+    }
+  ],
+  "validation": {
+    "build": "node scripts/build-all.mjs",
+    "buildPassed": true,
+    "checks": [
+      {
+        "script": "scripts/check-agriculture-clarity.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-agriculture-source.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-ancient-myths.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-bees-interactions.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-bees.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-biodynamic-agriculture.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-biodynamics-source.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-childs-temperament-source.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-colour-source.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-concept-platform.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-constitution.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-encountering-self-source.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-esoteric-christianity.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-foodwise.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-foundations-clarity.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-freedom-clarity.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-freedom-lectures.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-freedom-route.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-freedom-source.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-guided-notebook.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-guided-study.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-higher-worlds.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-humanities-clarity.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-introduction-anthroposophy.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-language-editorial.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-learning-system.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-luke-source.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-meditation.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-mystery-temperaments-source.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-nutrition-clarity.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-nutrition.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-passage-study.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-portuguese.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-practical-thinking.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-practice-courses.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-remaining-clarity.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-site.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-teaching-approach.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-temperament-companions-clarity.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-temperament-refinement.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-temperaments-clarity.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-temperaments-source.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-theosophy-clarity.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-theosophy.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-thinking-depth.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-threefold-source.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-waldorf-provenance.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-waldorf-teaching.mjs",
+        "status": "passed"
+      },
+      {
+        "script": "scripts/check-waldorf.mjs",
+        "status": "passed"
+      }
+    ],
+    "browser": {
+      "status": "passed",
+      "pages": 48,
+      "viewportCases": 96,
+      "widths": [
+        1280,
+        320
+      ],
+      "javascript": false,
+      "checks": [
+        "complete main prose visible in authored order",
+        "two visible questions with keyboard-operable explained answers",
+        "retained depth closed and keyboard-operable",
+        "language and single heading",
+        "local links and anchors",
+        "assets",
+        "no duplicate IDs",
+        "no horizontal overflow"
+      ],
+      "limits": [
+        "No learner study",
+        "No fresh source-fidelity verification"
+      ]
+    },
+    "sitePages": 1643,
+    "whitespaceCheckPassed": true,
+    "unrelatedTrackedFilesUnchanged": true,
+    "beesUnchanged": true,
+    "historicalSourceMapUnchanged": true,
+    "idsAndSavedStudyKeysUnchanged": true
+  }
+}
