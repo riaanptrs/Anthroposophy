@@ -24,10 +24,10 @@
  }
  if(config.role==='catalogue'){
   const cards=[...main.querySelectorAll('.identity-directory-course,.identity-course-card,.platform-directory > li,.platform-card')];if(!cards.length)return;
-  const heading=main.querySelector('h1'),intro=main.querySelector('.lead');const guidance=make('details','cw-panel cw-catalogue-guidance');guidance.append(make('summary','',say('Learning paths and course guidance','Percursos de aprendizagem e orientação')));
+  const heading=main.querySelector('h1'),intro=main.querySelector('.lead'),startHere=main.querySelector('.course-start-here');const guidance=make('details','cw-panel cw-catalogue-guidance');guidance.append(make('summary','',say('Learning paths and course guidance','Percursos de aprendizagem e orientação')));
   const grid=make('div','cw-catalogue-grid');cards.forEach(c=>{c.classList.add('cw-course-card');grid.append(c);});
   for(const n of [...main.childNodes])guidance.append(n);
-  main.append(heading);if(intro)main.append(intro);
+  main.append(heading);if(intro)main.append(intro);if(startHere)main.append(startHere);
   const label=make('label','cw-search-label',say('Find a course','Encontre um curso')),input=make('input');input.type='search';input.placeholder=say('Search by title or subject','Busque por título ou assunto');label.append(input);
   const status=make('p','cw-results');status.setAttribute('role','status');const controls=make('nav','cw-catalogue-pages');controls.setAttribute('aria-label',say('Course results pages','Páginas dos resultados de cursos'));
   const previous=make('button','',say('Previous page','Página anterior')),next=make('button','',say('Next page','Próxima página'));previous.type=next.type='button';controls.append(previous,next);
@@ -39,7 +39,8 @@
   const course=config.course,heading=main.querySelector('h1');const original=make('div','cw-original-overview');while(main.firstChild)original.append(main.firstChild);
   const hero=make('section','cw-hero');hero.append(heading);const artwork=original.querySelector('.identity-course-art');if(artwork)hero.append(artwork);
   const lead=[...original.querySelectorAll('.lead,.subtitle,.cp-lead')].find(e=>e.textContent.trim().length>35&&e.textContent.trim().length<260);if(lead){lead.classList.add('cw-overview-lead');hero.append(lead);}
-  const resume=original.querySelector('[data-study-resume],[data-ec-resume],[data-learning-resume]');if(resume){resume.classList.add('cw-resume');hero.append(resume);}
+  const resume=original.querySelector('[data-study-resume],[data-ec-resume],[data-learning-resume],[data-intro-continue]');if(resume){resume.classList.add('cw-resume');hero.append(resume);}
+  for(const summary of original.querySelectorAll('[data-intro-progress],[data-learning-progress-summary]')){summary.classList.add('cw-count');hero.append(summary);}
   const first=course.lessons[0];const start=anchor(first.route,say('Begin the course','Comece o curso'));start.className='cw-start';hero.append(start,make('p','cw-count',say(`${course.lessons.length} lessons · choose a chapter or read in order`,`${course.lessons.length} lições · escolha um capítulo ou leia em sequência`)));
   const nav=curriculum(course);const wrapper=make('section','cw-overview-curriculum');wrapper.id='workspace-curriculum';wrapper.append(make('h2','',say('Your course curriculum','Currículo do curso')),nav);
   const about=make('details','cw-panel');about.append(make('summary','',say('About this course, sources and study tools','Sobre o curso, fontes e ferramentas de estudo')),original);
@@ -47,6 +48,19 @@
   document.body.classList.add('cw-ready','cw-overview');
  } else {
   const course=config.course,reading=make('article','cw-reading');while(main.firstChild)reading.append(main.firstChild);main.append(reading);
+  // Essential teaching belongs beside its questions. Move existing nodes so
+  // anchors, accessible descriptions, listeners and study identities survive.
+  const firstReading=reading.querySelector('.batch-first-reading');
+  if(firstReading&&course.id==='introduction-to-anthroposophy'){
+   const questions=firstReading.querySelector('.batch-clarity-check')?.previousElementSibling;
+   for(const selector of ['#member-cards','#world-relationships','#death-transition','#concept-architecture']){
+    const aid=reading.querySelector(selector);if(aid)firstReading.insertBefore(aid,questions||null);
+   }
+   for(const selector of ['#pathways','.intro-progress-controls']){const tool=reading.querySelector(selector);if(tool)firstReading.after(tool);}
+  }
+  if(firstReading&&course.id==='foundations'){
+   const notebook=reading.querySelector('.learning-notebook');if(notebook)firstReading.after(notebook);
+  }
   const nav=curriculum(course),side=make('aside','cw-sidebar');side.setAttribute('aria-label',say('Course navigation','Navegação do curso'));side.append(nav);main.prepend(side);
   const resources=make('details','cw-module cw-resources');resources.append(make('summary','',say('Course resources','Recursos do curso')));
   for(const old of [...reading.querySelectorAll('.wf-breadcrumb,.wf-nav,.foodwise-nav,.learning-breadcrumb,.bio-breadcrumb,.ec-reference-nav')])if(!old.closest('details'))resources.append(old);
@@ -60,15 +74,18 @@
   const oldLinks=oldSequence?[...oldSequence.querySelectorAll('a')]:[];
   const previous=oldLinks.find(a=>/←|previous|anterior/i.test(a.textContent));const next=oldLinks.find(a=>/→|next|próxim|seguinte/i.test(a.textContent)&&a!==previous);
   const bar=make('nav','cw-pagination');bar.setAttribute('aria-label',say('Lesson navigation','Navegação das lições'));
-  const addDirection=(original,fallback,text)=>{if(!original&&!fallback)return;const a=original?original.cloneNode(true):anchor(fallback.route,fallback[lang]);const title=a.textContent;a.replaceChildren(make('span','cw-direction',text),make('span','cw-nav-title',title));a.removeAttribute('id');for(const attr of [...a.attributes])if(attr.name.startsWith('data-'))a.removeAttribute(attr.name);bar.append(a);};
+  const addDirection=(original,fallback,text)=>{if(!original&&!fallback)return;const a=original?original.cloneNode(true):anchor(fallback.route,fallback[lang]);let title=a.textContent.replace(/[←→]/g,'').replace(/^\s*(?:previous|next|anterior|próxima|seguinte)\s*:?\s*/i,'').trim();if(!title){const destination=course.lessons.find(l=>url(l.route)===a.pathname);title=destination?.[lang]||fallback?.[lang]||course[lang];}a.replaceChildren(make('span','cw-direction',text),make('span','cw-nav-title',title));a.removeAttribute('id');for(const attr of [...a.attributes])if(attr.name.startsWith('data-'))a.removeAttribute(attr.name);bar.append(a);};
   addDirection(previous,index>0?course.lessons[index-1]:{route:course.home,[lang]:course[lang]},say('← Previous','← Anterior'));
   if(index>=0)addDirection(next,course.lessons[index+1]||{route:course.home,[lang]:course[lang]},index===course.lessons.length-1&&!next?say('Course overview →','Visão geral →'):say('Next →','Próxima →'));
   else if(next)addDirection(next,null,say('Next →','Próxima →'));
-  main.append(bar);
+  main.append(bar);if(oldSequence)oldSequence.hidden=true;
+  if(course.id==='introduction-to-anthroposophy'&&index===course.lessons.length-1&&reading.querySelector('#pathways')){
+   const last=bar.lastElementChild;last.href='#pathways';last.querySelector('.cw-direction').textContent=say('Next study →','Próximo estudo →');
+  }
   const contents=make('nav','cw-section-links');contents.setAttribute('aria-label',say('In this lesson','Nesta lição'));
   const depth=reading.querySelector('.batch-retained-depth,.cp-retained-depth,.wf-original-record,.wf-retained-record');
   if(depth){depth.id||='workspace-depth';const a=make('a','',say('Go deeper','Aprofundar'));a.href='#'+depth.id;contents.append(a);}
-  const studies=[...reading.querySelectorAll('.study-notebook,.learning-notebook,.ec-study-controls,.wf-study,.thought-study')].filter(e=>!e.closest('.cw-panel'));
+  const studies=[...reading.querySelectorAll('.study-notebook,.learning-notebook,.ec-study-controls,.wf-study,.thought-study')].filter(e=>!e.closest('.cw-panel')&&!(course.id==='foundations'&&e.matches('.learning-notebook')));
   studies.forEach((e,i)=>{const d=fold(e,say('Personal study','Estudo pessoal'),'workspace-study-'+i);if(i===0){const a=make('a','',say('My study','Meu estudo'));a.href='#'+d.id;contents.append(a);}});
   const thought=reading.querySelector('.thought-practice');if(thought&&!studies.length){thought.id||='workspace-practice-study';const a=make('a','',say('My study','Meu estudo'));a.href='#'+thought.id;contents.append(a);}
   const sectionIndex=make('details','cw-page-index');sectionIndex.append(make('summary','',say('On this page','Nesta página')));const list=make('ul');

@@ -41,7 +41,10 @@ for(const row of clarityRows){
     assert.equal(wholeElement(html,tag),wholeElement(deployed,tag),file+' preserved source evidence '+tag);
    const ids=[...deployed.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
    for(const id of ids)assert.ok(html.includes(`id="${id}"`),file+' retained anchor '+id);
-   for(const href of [...deployed.matchAll(/\bhref="([^"]+)"/g)].map(m=>m[1]))assert.ok(html.includes(`href="${href}"`),file+' retained link '+href);
+   // Asset fingerprints change after a style fix; preserve destination paths
+   // and all learning links while allowing those content-derived versions.
+   const stableAssets=s=>s.replace(/((?:\.css|\.js)\?v=)[a-f0-9]+/g,'$1VERSION');
+   for(const href of [...deployed.matchAll(/\bhref="([^"]+)"/g)].map(m=>m[1]))assert.ok(stableAssets(html).includes(`href="${stableAssets(href)}"`),file+' retained link '+href);
    for(const hook of ['data-learning-id','data-learning-save','data-learning-note','data-learning-complete','data-learning-export','data-learning-delete'])assert.ok(html.includes(hook),file+' study hook '+hook);
    if(v.relationshipTable){
     const table=wholeElement(first,'<table class="foundation-relationships"');assert.ok(table,file+' relationship aid');

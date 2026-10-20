@@ -128,3 +128,17 @@ body.cw-lesson .cw-drawer-heading{flex-wrap:wrap}
  body.cw-ready[data-visual-identity]>header .brand{white-space:normal;min-inline-size:0;max-inline-size:100%;overflow-wrap:anywhere;flex-wrap:wrap}
  body.cw-ready[data-visual-identity]>header>nav{min-inline-size:0;max-inline-size:100%;flex-wrap:wrap}
 }
+
+/* Beginner orientation and a quieter reading frame. */
+.course-start-here{padding:22px 26px;margin:24px 0;border:1px solid #b9c9bd;border-left:5px solid #4b7563;border-radius:12px;background:#eef3eb;max-width:850px;box-sizing:border-box}
+.course-start-here h2{margin:0 0 12px}
+.course-start-here p{line-height:1.6;margin:12px 0}
+.course-start-here a{display:inline-block;min-height:44px;padding:10px 0;box-sizing:border-box;font-weight:600}
+body.cw-lesson main#main h1{font-size:clamp(29px,3vw,40px);margin:8px 0 16px}
+body.cw-lesson .cw-section-links{margin:12px 0;padding-bottom:12px}
+body.cw-lesson .intro-progress-controls{border-top:1px solid var(--cw-line);padding-top:16px;margin:28px 0}
+body.cw-lesson .intro-progress-controls h2{font-size:21px!important}
+body.cw-lesson .intro-progress-controls p{font-size:16px;line-height:1.5}
+body.cw-lesson .clarity-activity{margin:24px 0}
+body.cw-lesson .clarity-activity>summary{padding:14px;cursor:pointer;color:var(--cw-purple)}
+@media(max-width:600px){.course-start-here{padding:16px 18px}body.cw-lesson .cw-nav-title{display:none}body.cw-lesson .cw-pagination{padding-top:6px;padding-bottom:calc(6px + env(safe-area-inset-bottom))}}
