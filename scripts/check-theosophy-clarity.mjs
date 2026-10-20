@@ -2,7 +2,8 @@ import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {execFileSync} from 'node:child_process';
 import {loadConceptCourse} from '../content/theosophy-concept-course.mjs';
-// The approved novice revisions change teaching prose, not source provenance or saved-study identities.
+// Preserve the original study graph, with two explicit source-audit corrections:
+// the reincarnation argument's reference and the willing practice's attribution.
 const baseline='62b44bdfa6d6dc7c156e1e0f39825c96fbf6b3ea';
 const model=loadConceptCourse(),rows=JSON.parse(fs.readFileSync('content/theosophy-clear-lessons.json','utf8'));
 assert.deepEqual(rows.map(r=>r.id),model.course.lessonIds,'One clear reading per course unit in order');
@@ -36,6 +37,18 @@ const before=file=>execFileSync('git',['show',baseline+':'+file],{encoding:'utf8
 const structure=value=>Array.isArray(value)?value.map(structure):value&&typeof value==='object'?Object.fromEntries(Object.entries(value).filter(([key])=>!['en','pt'].includes(key)).map(([key,item])=>[key,structure(item)])):value;
 for(const file of ['content/theosophy-concept-course.json','content/theosophy-concept-constitution.json','content/theosophy-concept-destiny-knowledge.json','content/theosophy-concept-worlds.json']){
  const old=JSON.parse(before(file)),current=JSON.parse(fs.readFileSync(file,'utf8'));
+ if(file==='content/theosophy-concept-destiny-knowledge.json'){
+  const reincarnation=old.lessons.find(entry=>entry.id==='reincarnation');
+  reincarnation.sources.push({chapter:2,captures:[39,41],readingIds:[9]});
+  const practice=old.practices.find(entry=>entry.id==='follow-reasons-into-action');
+  for(const [lang,from,to] of [
+   ['en','guided by a recognized good instead of private reward alone','guided by the recognized good itself, rather than by private reward'],
+   ['pt','orientado por um bem reconhecido, em vez de apenas pela recompensa pessoal','orientado pelo próprio bem reconhecido, em vez de pela recompensa pessoal']
+  ]){
+   assert.ok(practice[lang].sourceBasis.includes(from),'Known pre-audit attribution '+lang);
+   practice[lang].sourceBasis=practice[lang].sourceBasis.replace(from,to);
+  }
+ }
  assert.deepEqual(structure(current),structure(old),'Source and study graph preserved '+file);
  for(const kind of ['lessons','concepts','practices'])for(const entry of current[kind]??[]){
   const original=old[kind].find(item=>item.id===entry.id);
@@ -44,4 +57,4 @@ for(const file of ['content/theosophy-concept-course.json','content/theosophy-co
 }
 const sourceMap='content/theosophy-guided-source-map.json';
 assert.equal(fs.readFileSync(sourceMap,'utf8'),before(sourceMap),'Original capture ledger unchanged');
-console.log('Passed: 24 bilingual Theosophy readings, explained answers, accessible role map, main synthesis case, preserved study/source graph and synthesis anchors. Not a fresh original-PDF verification.');
+console.log('Passed: 24 bilingual Theosophy readings, explained answers, accessible role map, main synthesis case, preserved study graph with exact approved source corrections and synthesis anchors. Not a fresh original-PDF verification.');
