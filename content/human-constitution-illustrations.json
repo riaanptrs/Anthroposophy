@@ -2,7 +2,7 @@
   "title": "Original human constitution course illustrations",
   "language": "en",
   "created": "2026-10-21",
-  "status": "Embedded in Foundations lessons 5 and 11 and an optional human-constitution reference gallery.",
+  "status": "Embedded in Foundations lessons 5, 7 and 11, with the constitution comparison gallery on the reference page.",
   "primarySource": {
     "title": "Rudolf Steiner, Theosophy, Chapter I: The Essential Nature of Man",
     "url": "https://rsarchive.org/Books/GA009/English/AP1971/GA009_c01.html",
@@ -143,6 +143,35 @@
           "O Eu atua sobre os três membros fundamentais. Steiner relaciona a organização astral transformada ao si-mesmo espiritual, a organização vital transformada ao espírito vital e a organização física transformada ao homem-espírito.",
           "A ordem habitual da lista é corpo físico, corpo vital, corpo astral, Eu, si-mesmo espiritual, espírito vital e homem-espírito. O diagrama superior inverte a ordem dos aspectos transformados para que as setas não se cruzem.",
           "Essas setas expressam a concepção de desenvolvimento espiritual de Steiner. Não descrevem os dois pares da lista agrupada de sete. As cores acompanham cada relação e não seguem as cores das famílias corpo–alma–espírito das outras imagens."
+        ]
+      }
+    },
+    {
+      "title": "More than growing bigger",
+      "alt": "Four stages of a bean seedling show an emerging root, a rising shoot, unfolding leaves and a more developed plant with branching roots.",
+      "suggestedLesson": 7,
+      "id": "life-body-seedling",
+      "file": "assets/constitution-illustrations/life-body-seedling.png",
+      "generationFile": "exec-2fc31394-e928-426e-b1d7-841ca637f0fc.png",
+      "width": 1536,
+      "height": 1024,
+      "includeInGallery": false,
+      "en": {
+        "title": "More than growing bigger",
+        "alt": "Four stages of a bean seedling show an emerging root, a rising shoot, unfolding leaves and a more developed plant with branching roots.",
+        "description": [
+          "Read the sequence from left to right: a root emerges from a bean seed; a shoot rises; leaves unfold; the young plant develops more leaves and branching roots. The arrows indicate successive stages, not a fixed number of days.",
+          "Notice that new organs form and roots and leaves develop together. The seedling changes its organization as well as its size.",
+          "These visible changes introduce the question of living formation. Maintenance also includes the continuing activity that sustains the plant. The picture illustrates observable development as a starting point for understanding Steiner’s account of the life body; it does not depict a supersensible member."
+        ]
+      },
+      "pt": {
+        "title": "Mais do que aumentar de tamanho",
+        "alt": "Quatro etapas de uma muda de feijão mostram uma raiz surgindo, um broto crescendo, folhas se abrindo e uma planta mais desenvolvida com raízes ramificadas.",
+        "description": [
+          "Leia a sequência da esquerda para a direita: uma raiz surge da semente de feijão; um broto cresce; folhas se abrem; a planta jovem desenvolve mais folhas e raízes ramificadas. As setas indicam etapas sucessivas, não um número fixo de dias.",
+          "Observe que novos órgãos se formam e raízes e folhas se desenvolvem juntas. A muda muda sua organização, além de seu tamanho.",
+          "Essas mudanças visíveis apresentam a questão da formação viva. A manutenção inclui também a atividade contínua que sustenta a planta. A imagem ilustra o desenvolvimento observável como ponto de partida para compreender a concepção de corpo vital de Steiner; não representa um membro suprassensível."
         ]
       }
     }
