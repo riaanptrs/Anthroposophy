@@ -25,6 +25,13 @@ export function buildRemainingClarity(rows=clarityRows){
    const marker=Number.isInteger(after)?`<p>${esc(v.paragraphs[after])}</p>`:`<h2>${pt?'Duas perguntas — opcionais':'Two questions — optional'}</h2>`;
    first=first.replace(marker,Number.isInteger(after)?marker+relationshipTable(v.relationshipTable):relationshipTable(v.relationshipTable)+marker);
   }
+  for(const step of v.optionalSteps||[]){
+   const i=step.paragraph;
+   if(!Number.isInteger(i)||!v.paragraphs[i]||!v.paragraphHeadings?.[i])throw Error('Invalid optional step: '+file);
+   const content=`<h2>${esc(v.paragraphHeadings[i])}</h2><p>${esc(v.paragraphs[i])}</p>${(row.illustrations||[]).filter(image=>image.afterParagraph===i).map(image=>constitutionIllustration(image.id,lang,file)).join('')}`;
+   if(!first.includes(content))throw Error('Optional step content missing: '+file);
+   first=first.replace(content,`<details class="clarity-further-study"><summary>${esc(step.label)}</summary>${content}</details>`);
+  }
   if(v.activity)first=first.replace(/<\/section>$/,`<details class="clarity-activity"><summary>${esc(v.activity.title)}</summary><p>${esc(v.activity.prompt)}</p><details><summary>${pt?'Veja um exemplo de resposta':'See an example response'}</summary><p>${esc(v.activity.example)}</p></details></details></section>`);
   if(['nutrition','understand-temperament','mystery-temperaments','higher-worlds','temperaments','understanding-temperaments','foundations','meditation','agriculture','what-is-biodynamics','according-to-luke','ancient-myths','encountering-the-self','learn/esoteric-christianity','colour','toward-threefold-society'].includes(row.course))first=linkTerms('<body>'+first+'</body>',relative(file,`docs/${pt?'pt/':''}reference/human-constitution.html`)).html.slice(6,-7);
   const foundation=row.course==='foundations';

@@ -21,10 +21,18 @@ const plain=s=>s.replace(/\s+/g,' ').trim();
     assert.equal(await page.locator('h1').count(),1,route);
     assert.equal(await page.locator('html').getAttribute('lang'),lang==='pt'?'pt-BR':'en');
     const first=page.locator('[data-batch-clarity-first]');
-    const paras=await first.locator(':scope > p').allInnerTexts(),expected=[...v.paragraphs];
+    const paras=await first.locator(':scope > p').allInnerTexts(),expected=v.paragraphs.filter((_,i)=>!v.optionalSteps?.some(step=>step.paragraph===i));
     if(lesson.definitionLink)expected.splice(1,0,lesson.definitionLink[lang]);
     assert.deepEqual(paras.map(plain),expected.map(plain),route+' complete prose and definition link in authored order');
     for(const p of await first.locator(':scope > p').all())assert.ok(await p.isVisible(),route+' visible prose without JS');
+    for(const [i,step]of (v.optionalSteps||[]).entries()){
+     const extra=first.locator('details.clarity-further-study').nth(i);
+     assert.equal(await extra.getAttribute('open'),null);
+     assert.equal(await extra.locator(':scope > p').isVisible(),false);
+     await extra.locator(':scope > summary').focus();await page.keyboard.press('Enter');
+     assert.equal(plain(await extra.locator(':scope > p').innerText()),plain(v.paragraphs[step.paragraph]));
+     await extra.locator(':scope > summary').focus();await page.keyboard.press('Enter');
+    }
     const checks=first.locator('.batch-clarity-check');assert.equal(await checks.count(),2);
     for(let i=0;i<2;i++){
      const check=checks.nth(i),answer=check.locator('details');assert.ok(await check.locator(':scope > p').isVisible());
