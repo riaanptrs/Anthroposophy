@@ -49,7 +49,14 @@ for(const row of clarityRows){
    if(v.relationshipTable){
     const table=wholeElement(first,'<table class="foundation-relationships"');assert.ok(table,file+' relationship aid');
     for(const s of [v.relationshipTable.caption,...v.relationshipTable.headers,...v.relationshipTable.rows.flat()])assert.ok(table.replace(/<a\b[^>]*>|<\/a>/g,'').includes(esc(s)),file+' complete table text');
-    assert.equal((table.match(/scope="col"/g)||[]).length,2);assert.equal((table.match(/scope="row"/g)||[]).length,v.relationshipTable.rows.length);
+    assert.equal((table.match(/scope="col"/g)||[]).length,v.relationshipTable.headers.length);assert.equal((table.match(/scope="row"/g)||[]).length,v.relationshipTable.rows.length);
+    for(const cells of v.relationshipTable.rows)assert.equal(cells.length,v.relationshipTable.headers.length,file+' cells match column headings');
+    if(Number.isInteger(v.relationshipTableAfterParagraph)){
+     const i=v.relationshipTableAfterParagraph;
+     const unlinked=first.replace(/<a\b[^>]*>|<\/a>/g,''),tableStart=unlinked.indexOf('<table class="foundation-relationships"');
+     assert.ok(tableStart>unlinked.indexOf(esc(v.paragraphs[i])),file+' table follows pair explanations');
+     if(v.paragraphs[i+1])assert.ok(tableStart<unlinked.indexOf(esc(v.paragraphs[i+1])),file+' table precedes development');
+    }
     assert.deepEqual(v.relationshipTable.rows.map(r=>r.length),row[lang==='pt'?'en':'pt'].relationshipTable.rows.map(r=>r.length));
    }
   }else assert.equal(depth.slice(depth.indexOf('</summary>')+10,-10),oldInner,file+' exact retained original content');

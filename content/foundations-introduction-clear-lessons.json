@@ -569,129 +569,147 @@
     "id": 11,
     "en": {
       "paragraphs": [
-        "Steiner uses several lists to explain the same human being. A member is a distinguishable aspect of that being, not a detachable object. His ninefold description distinguishes bodily support, inward soul life and spiritual development more finely than the fourfold account of physical, life, astral and I.",
-        "Start with one response to criticism. Feeling hurt illustrates sentient soul. Thinking about the speaker's reasons illustrates intellectual soul. Asking whether the criticism is true despite your dislike illustrates consciousness soul. These are distinctions within inward life, rather than three people or fixed personality types.",
-        "Steiner then describes spiritual transformation. Spirit self concerns spiritual content made individual through the I. Life spirit and spirit man concern deeper transformation of life and physical organization. These describe his proposed development; recognizing an error in an everyday example is not a measurement of those achievements.",
-        "There are also two different sevenfold lists. One groups related terms from the ninefold account; the developmental list starts with physical, life, astral and I and adds spirit self, life spirit and spirit man. Grouping asks how aspects belong together; transformation asks how they develop. The comparison table below keeps those purposes distinct. Next we ask what changes at death."
+        "Steiner’s ninefold description names physical body, life body, soul body; sentient soul, intellectual soul, consciousness soul; spirit self, life spirit and spirit man. These are distinguishable aspects of one human being, not nine detachable objects. For example, feeling hurt by criticism illustrates sentient soul; considering the reasons illustrates intellectual soul; asking whether the criticism is true despite your dislike illustrates consciousness soul. Separating the terms helps explain different roles. Grouping some terms helps explain how those roles belong together.",
+        "In Steiner’s account, soul body is the bodily organization through which sensations are mediated; sentient soul is the inward life that experiences sensations, pleasure, pain and desire. They are distinguished because the bodily mediation of an experience and inwardly living through it have different roles. They are grouped because the sentient soul permeates the soul body and works with it as a unity in earthly life. Hearing music and feeling moved by it can help illustrate the connection between bodily mediation and inward experience; the example does not define every aspect of either term.",
+        "Consciousness soul concerns receiving truth and goodness independently of personal likes and dislikes. Spirit self concerns that same spiritual content taken into the I and made part of the individual’s own being. The distinction is between truth as something independent of me and that truth as received into my spiritual individuality. Steiner groups them because consciousness soul is where this spiritual content enters the individual’s conscious life. These are connected aspects, not interchangeable names. In the table, these two pairings give seven entries while keeping all nine distinctions represented.",
+        "Now set that grouping aside. A different sevenfold account starts with four members: physical body, life body, astral body and I. It then considers three transformed aspects: spirit self, life spirit and spirit man. Steiner describes the I transforming astral, life and physical organization respectively. This list asks how the human being develops spiritually; the table above asks which aspects work together. The shared total of seven does not make the two lists identical. Next we ask what changes at death."
       ],
       "title": "The Soul and Spiritual Members of the Human Being",
-      "goal": "Why do the counts of human members change between the lists?",
+      "goal": "Why distinguish these aspects, and why group some of them together?",
       "checks": [
         [
-          "A criticism hurts, you consider its reasons, then accept a true point you dislike. Explain the three soul distinctions.",
-          "Hurt illustrates sentient soul; considering reasons illustrates intellectual soul; orienting to truth despite dislike illustrates consciousness soul. These are related aspects of one inward response, not separate personalities or evidence of a spiritual rank."
+          "When soul body and sentient soul share one entry, does that mean they have the same role?",
+          "No. Soul body mediates sensation; sentient soul inwardly experiences sensations, feelings and desires. They share an entry because they work together as a unity in earthly life, while their different roles remain meaningful."
         ],
         [
-          "Why is “seven means nine minus two” an inadequate explanation here?",
-          "Grouping joins distinctions that remain meaningful within the account. Subtraction suggests they have disappeared. The transformation-based sevenfold sequence also begins from a different question and cannot be explained by subtraction."
+          "Why distinguish consciousness soul from spirit self if they are grouped together?",
+          "Consciousness soul receives truth independently of personal preference; spirit self is that spiritual content taken into the I and individualized. Steiner distinguishes these aspects to explain their roles and groups them to express their connection in conscious spiritual life."
         ]
       ],
       "relationshipTable": {
         "caption": "How nine distinctions become seven groups — an original reading aid",
         "headers": [
           "Ninefold distinctions",
-          "Grouped sevenfold entry"
+          "Grouped sevenfold entry",
+          "Why these belong together"
         ],
         "rows": [
           [
             "Physical body",
-            "Physical body"
+            "Physical body",
+            "Remains a separate entry."
           ],
           [
             "Life body",
-            "Life body"
+            "Life body",
+            "Remains a separate entry."
           ],
           [
             "Soul body + sentient soul",
-            "Sentient soul body"
+            "Sentient soul body",
+            "Bodily mediation and inward experience work together in earthly life."
           ],
           [
             "Intellectual soul",
-            "Intellectual soul"
+            "Intellectual soul",
+            "Remains a separate entry."
           ],
           [
             "Consciousness soul + spirit self",
-            "Spirit-filled consciousness soul"
+            "Spirit-filled consciousness soul",
+            "Spiritual truth is received into conscious life and individualized through the I."
           ],
           [
             "Life spirit",
-            "Life spirit"
+            "Life spirit",
+            "Remains a separate entry."
           ],
           [
             "Spirit man",
-            "Spirit man"
+            "Spirit man",
+            "Remains a separate entry."
           ]
         ]
       },
       "paragraphHeadings": [
-        "Why the account uses several lists",
-        "Three ways of responding to criticism",
-        "The proposed spiritual transformation",
-        "Grouping and development"
-      ]
+        "Why distinguish aspects of one human being?",
+        "First pair: soul body and sentient soul",
+        "Second pair: consciousness soul and spirit self",
+        "A different sevenfold description: spiritual development"
+      ],
+      "relationshipTableAfterParagraph": 2
     },
     "pt": {
       "paragraphs": [
-        "Steiner usa várias listas para explicar o mesmo ser humano. Um membro é um aspecto distinguível desse ser, não um objeto separável. Sua descrição em nove membros distingue suporte corporal, vida anímica interior e desenvolvimento espiritual com mais detalhe que a descrição em quatro membros: físico, vital, astral e Eu.",
-        "Comece com uma resposta a uma crítica. Sentir-se magoado ilustra a alma da sensação. Pensar nas razões de quem falou ilustra a alma intelectual. Perguntar se a crítica é verdadeira, apesar de seu desagrado, ilustra a alma da consciência. São distinções dentro da vida interior, e não três pessoas ou tipos fixos de personalidade.",
-        "Steiner descreve então a transformação espiritual. O si espiritual diz respeito ao conteúdo espiritual individualizado pelo eu. Espírito vital e homem espírito dizem respeito à transformação mais profunda da organização vital e física. Descrevem o desenvolvimento proposto por ele; reconhecer um erro cotidiano não mede essas realizações.",
-        "Existem também duas listas diferentes de sete membros. Uma agrupa termos relacionados da descrição de nove; a lista de desenvolvimento começa com físico, vital, astral e eu e acrescenta si espiritual, espírito vital e homem espírito. Agrupar pergunta como os aspectos se relacionam; transformar pergunta como se desenvolvem. A tabela abaixo distingue essas finalidades. A seguir, perguntaremos o que muda na morte."
+        "A descrição de nove membros de Steiner nomeia corpo físico, corpo vital, corpo anímico; alma senciente, alma intelectual, alma da consciência; si-mesmo espiritual, espírito vital e homem-espírito. São aspectos distinguíveis de um só ser humano, não nove objetos separáveis. Por exemplo, sentir-se magoado por uma crítica ilustra a alma senciente; considerar as razões ilustra a alma intelectual; perguntar se a crítica é verdadeira apesar do desagrado ilustra a alma da consciência. Separar os termos ajuda a explicar funções diferentes. Agrupar alguns termos ajuda a explicar como essas funções se relacionam.",
+        "Na concepção de Steiner, o corpo anímico é a organização corporal que medeia as sensações; a alma senciente é a vida interior que vivencia sensações, prazer, dor e desejo. São distinguidos porque a mediação corporal de uma experiência e sua vivência interior têm funções diferentes. São agrupados porque a alma senciente permeia o corpo anímico e atua com ele como uma unidade na vida terrestre. Ouvir música e sentir-se comovido pode ilustrar a ligação entre mediação corporal e experiência interior; o exemplo não define todos os aspectos de cada termo.",
+        "A alma da consciência diz respeito a receber verdade e bondade independentemente de gostos e desgostos pessoais. O si-mesmo espiritual diz respeito a esse mesmo conteúdo espiritual acolhido pelo Eu e integrado ao ser individual. A distinção é entre a verdade como algo independente de mim e essa verdade acolhida em minha individualidade espiritual. Steiner os agrupa porque a alma da consciência é onde esse conteúdo espiritual entra na vida consciente individual. São aspectos ligados, não nomes intercambiáveis. Na tabela, esses dois pares produzem sete entradas, mantendo representadas todas as nove distinções.",
+        "Agora deixe esse agrupamento de lado. Outra descrição de sete membros começa com quatro: corpo físico, corpo vital, corpo astral e Eu. Depois considera três aspectos transformados: si-mesmo espiritual, espírito vital e homem-espírito. Steiner descreve o Eu transformando, respectivamente, as organizações astral, vital e física. Essa lista pergunta como o ser humano se desenvolve espiritualmente; a tabela acima pergunta quais aspectos atuam juntos. O total comum de sete não torna as listas idênticas. A seguir, perguntaremos o que muda na morte."
       ],
       "title": "Os membros anímicos e espirituais do ser humano",
-      "goal": "Por que a contagem dos membros humanos muda entre as listas?",
+      "goal": "Por que distinguir esses aspectos e por que agrupar alguns deles?",
       "checks": [
         [
-          "Uma crítica magoa, você considera suas razões e aceita um ponto verdadeiro de que não gosta. Explique as três distinções da alma.",
-          "A mágoa ilustra a alma da sensação; considerar razões ilustra a alma intelectual; orientar-se pela verdade apesar do desagrado ilustra a alma da consciência. São aspectos relacionados de uma resposta interior, e não personalidades separadas ou evidência de posição espiritual."
+          "Quando corpo anímico e alma senciente aparecem numa só entrada, isso significa que têm a mesma função?",
+          "Não. O corpo anímico medeia a sensação; a alma senciente vivencia interiormente sensações, sentimentos e desejos. Compartilham uma entrada porque atuam como uma unidade na vida terrestre, mas suas funções diferentes continuam tendo significado."
         ],
         [
-          "Por que “sete significa nove menos dois” é uma explicação inadequada aqui?",
-          "O agrupamento reúne distinções que continuam tendo significado na concepção. Subtrair sugere que elas desapareceram. A sequência em sete partes baseada na transformação também parte de outra pergunta e não se explica por subtração."
+          "Por que distinguir alma da consciência e si-mesmo espiritual se são agrupados?",
+          "A alma da consciência recebe a verdade independentemente da preferência pessoal; o si-mesmo espiritual é esse conteúdo espiritual acolhido pelo Eu e individualizado. Steiner distingue esses aspectos para explicar suas funções e os agrupa para expressar sua ligação na vida espiritual consciente."
         ]
       ],
       "relationshipTable": {
         "caption": "Como nove distinções formam sete grupos — apoio de leitura original",
         "headers": [
           "Distinções em nove membros",
-          "Entrada no agrupamento em sete"
+          "Entrada no agrupamento em sete",
+          "Por que pertencem ao mesmo grupo"
         ],
         "rows": [
           [
             "Corpo físico",
-            "Corpo físico"
+            "Corpo físico",
+            "Permanece uma entrada separada."
           ],
           [
             "Corpo vital",
-            "Corpo vital"
+            "Corpo vital",
+            "Permanece uma entrada separada."
           ],
           [
             "Corpo anímico + alma senciente",
-            "Corpo anímico senciente"
+            "Corpo anímico senciente",
+            "Mediação corporal e vivência interior atuam juntas na vida terrestre."
           ],
           [
             "Alma intelectual",
-            "Alma intelectual"
+            "Alma intelectual",
+            "Permanece uma entrada separada."
           ],
           [
             "Alma da consciência + si-mesmo espiritual",
-            "Alma da consciência preenchida pelo espírito"
+            "Alma da consciência preenchida pelo espírito",
+            "A verdade espiritual é acolhida na vida consciente e individualizada pelo Eu."
           ],
           [
             "Espírito vital",
-            "Espírito vital"
+            "Espírito vital",
+            "Permanece uma entrada separada."
           ],
           [
             "Homem-espírito",
-            "Homem-espírito"
+            "Homem-espírito",
+            "Permanece uma entrada separada."
           ]
         ]
       },
       "paragraphHeadings": [
-        "Por que a concepção usa várias listas",
-        "Três modos de responder a uma crítica",
-        "A transformação espiritual proposta",
-        "Agrupamento e desenvolvimento"
-      ]
+        "Por que distinguir aspectos de um só ser humano?",
+        "Primeiro par: corpo anímico e alma senciente",
+        "Segundo par: alma da consciência e si-mesmo espiritual",
+        "Outra descrição de sete membros: desenvolvimento espiritual"
+      ],
+      "relationshipTableAfterParagraph": 2
     }
   },
   {
