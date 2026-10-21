@@ -2,7 +2,7 @@
   "title": "Original human constitution course illustrations",
   "language": "en",
   "created": "2026-10-21",
-  "status": "Embedded in Foundations lessons 5, 7 and 11, with the constitution comparison gallery on the reference page.",
+  "status": "Embedded in Foundations lessons 5, 7, 8 and 11, with the constitution comparison gallery on the reference page.",
   "primarySource": {
     "title": "Rudolf Steiner, Theosophy, Chapter I: The Essential Nature of Man",
     "url": "https://rsarchive.org/Books/GA009/English/AP1971/GA009_c01.html",
@@ -172,6 +172,35 @@
           "Leia a sequência da esquerda para a direita: uma raiz surge da semente de feijão; um broto cresce; folhas se abrem; a planta jovem desenvolve mais folhas e raízes ramificadas. As setas indicam etapas sucessivas, não um número fixo de dias.",
           "Observe que novos órgãos se formam e raízes e folhas se desenvolvem juntas. A muda muda sua organização, além de seu tamanho.",
           "Essas mudanças visíveis apresentam a questão da formação viva. A manutenção inclui também a atividade contínua que sustenta a planta. A imagem ilustra o desenvolvimento observável como ponto de partida para compreender a concepção de corpo vital de Steiner; não representa um membro suprassensível."
+        ]
+      }
+    },
+    {
+      "id": "astral-body-bell",
+      "title": "One sound, different inward experiences",
+      "alt": "Two listeners hear one bell. One finds it irritating and wants it to stop; the other enjoys it and wants it to continue.",
+      "file": "assets/constitution-illustrations/astral-body-bell.png",
+      "generationFile": "exec-019d984e-e757-4173-bef9-3b39dc4a01b5.png",
+      "suggestedLesson": 8,
+      "includeInGallery": false,
+      "width": 1536,
+      "height": 1024,
+      "en": {
+        "title": "One sound, different inward experiences",
+        "alt": "Two listeners hear one bell. One finds it irritating and wants it to stop; the other enjoys it and wants it to continue.",
+        "description": [
+          "One bell vibrates. Both listeners hear it, but their inward responses differ. One experiences irritation and wants the sound to stop; the other experiences enjoyment and wants it to continue.",
+          "Hearing the tone is a sensation; irritation and enjoyment are feelings; wanting the sound to stop or continue expresses desire. These are aspects of the lived encounter, whereas the bell’s vibration is a physical event.",
+          "In Steiner’s account, the astral body is the sentient member associated with the capacity for inward experience. A particular feeling or desire is one changing content of experience, not the astral body itself. The picture illustrates this distinction; it does not show the appearance of an astral body."
+        ]
+      },
+      "pt": {
+        "title": "Um som, experiências interiores diferentes",
+        "alt": "Duas pessoas ouvem um sino. Uma sente irritação e quer que o som pare; a outra sente prazer e quer que continue.",
+        "description": [
+          "Um sino vibra. As duas pessoas o ouvem, mas suas respostas interiores diferem. Uma vivencia irritação e quer que o som pare; a outra vivencia prazer e quer que continue.",
+          "Ouvir o som é uma sensação; irritação e prazer são sentimentos; querer que o som pare ou continue expressa desejo. São aspectos do encontro vivido, enquanto a vibração do sino é um acontecimento físico.",
+          "Na concepção de Steiner, o corpo astral é o membro senciente associado à capacidade de experiência interior. Um sentimento ou desejo particular é um conteúdo mutável da experiência, não o próprio corpo astral. A imagem ilustra essa distinção; não mostra a aparência de um corpo astral."
         ]
       }
     }

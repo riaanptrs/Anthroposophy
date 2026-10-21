@@ -462,7 +462,13 @@
         "Como o desejo dá direção",
         "Capacidade e conteúdo específico"
       ]
-    }
+    },
+    "illustrations": [
+      {
+        "id": "astral-body-bell",
+        "afterParagraph": 2
+      }
+    ]
   },
   {
     "course": "foundations",
