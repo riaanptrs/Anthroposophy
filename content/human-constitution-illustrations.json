@@ -1,0 +1,150 @@
+{
+  "title": "Original human constitution course illustrations",
+  "language": "en",
+  "created": "2026-10-21",
+  "status": "Embedded in Foundations lessons 5 and 11 and an optional human-constitution reference gallery.",
+  "primarySource": {
+    "title": "Rudolf Steiner, Theosophy, Chapter I: The Essential Nature of Man",
+    "url": "https://rsarchive.org/Books/GA009/English/AP1971/GA009_c01.html",
+    "scope": "Body, soul and spirit; nine distinctions; grouped sevenfold description; fourfold foundation and transformed members."
+  },
+  "visualResearch": [
+    {
+      "title": "AnthroWiki: Members",
+      "url": "https://en.anthro.wiki/Members",
+      "use": "Compared the aligned ninefold, sevenfold and threefold chart; retained the course's full grouped labels rather than adopting the chart's shortened middle-column labels."
+    },
+    {
+      "title": "Understanding and Applying the Fourfold Approach to the Human Being",
+      "url": "https://research.camphill.edu/wp-content/uploads/2019/12/Bruell-Understanding-the-Fourfold-Human-Being.pdf",
+      "locator": "PDF page 58 (zero-based page 57), Diagram 2",
+      "use": "Reviewed the flowering-tree visual metaphor and bridge between body, soul and spirit. The final threefold picture instead uses an original flower-encounter design grounded in Theosophy."
+    },
+    {
+      "title": "Yoga Vidya: Anthroposophie",
+      "url": "https://wiki.yoga-vidya.de/Anthroposophie",
+      "use": "Reviewed the three-family schematic in image search; avoided using astral body as an automatic replacement for soul body in the ninefold diagram."
+    }
+  ],
+  "designNotes": [
+    "Original compositions generated for this course; external pictures are research references, not embedded assets.",
+    "The first three diagrams use terracotta, teal and violet to distinguish body, soul and spirit families. The developmental diagram uses colours to trace each transformation relationship, rather than the three-family legend.",
+    "Labels and counts checked against the course and Theosophy. Grouping and transformation are presented in separate images.",
+    "Colours, card positions and connectors are teaching conventions, not bodily locations, aura measurements or literal material layers.",
+    "Supply the accompanying lesson text and accessible descriptions whenever embedding images. Text inside raster images is English; Portuguese artwork has not been produced."
+  ],
+  "illustrations": [
+    {
+      "title": "One human being, three perspectives",
+      "alt": "Three panels show one encounter with a flower: body meets the flower through the senses, soul experiences joy, and spirit seeks to understand its growth.",
+      "suggestedLesson": 5,
+      "id": "threefold-human-being",
+      "file": "assets/constitution-illustrations/threefold-human-being.png",
+      "generationFile": "exec-c5dc45dc-0065-4eac-b421-34c8886dc209.png",
+      "width": 1774,
+      "height": 887,
+      "en": {
+        "title": "One human being, three perspectives",
+        "alt": "Three panels show one encounter with a flower: body meets the flower through the senses, soul experiences joy, and spirit seeks to understand its growth.",
+        "description": [
+          "Body: the senses give access to the flower’s appearance. Soul: the encounter becomes a personal experience of joy. Spirit: the person seeks to understand the plant’s growth and relationships beyond personal preference.",
+          "These are three aspects of one encounter. The picture does not assign body, soul and spirit to separate anatomical regions."
+        ]
+      },
+      "pt": {
+        "title": "Um ser humano, três perspectivas",
+        "alt": "Três painéis mostram um encontro com uma flor: o corpo dá acesso pelos sentidos; a alma vivencia alegria; o espírito procura compreender seu crescimento.",
+        "description": [
+          "Corpo: os sentidos dão acesso à aparência da flor. Alma: o encontro se torna uma experiência pessoal de alegria. Espírito: a pessoa procura compreender o crescimento e as relações da planta além da preferência pessoal.",
+          "São três aspectos de um encontro. A imagem não atribui corpo, alma e espírito a regiões anatômicas separadas."
+        ]
+      }
+    },
+    {
+      "title": "The ninefold description",
+      "alt": "Nine cards in three families: body contains physical body, life body and soul body; soul contains sentient soul, intellectual soul and consciousness soul; spirit contains spirit self, life spirit and spirit man.",
+      "suggestedLesson": 11,
+      "id": "ninefold-human-being",
+      "file": "assets/constitution-illustrations/ninefold-human-being.png",
+      "generationFile": "exec-a6026c91-ed64-412b-a6e2-0a861ae89215.png",
+      "width": 1536,
+      "height": 1024,
+      "en": {
+        "title": "The ninefold description",
+        "alt": "Nine cards in three families: body contains physical body, life body and soul body; soul contains sentient soul, intellectual soul and consciousness soul; spirit contains spirit self, life spirit and spirit man.",
+        "description": [
+          "Body: physical body concerns material organization; life body concerns living formation and maintenance; soul body concerns bodily mediation of sensation.",
+          "Soul: sentient soul concerns sensations, feelings and desires; intellectual soul concerns thought within practical soul life; consciousness soul concerns truth beyond personal preference.",
+          "Spirit: spirit self concerns spiritual content individualized through the I; life spirit and spirit man concern transformation of life and physical organization respectively.",
+          "Read down each column. Cards on the same horizontal line do not imply a one-to-one correspondence."
+        ]
+      },
+      "pt": {
+        "title": "A descrição de nove membros",
+        "alt": "Nove cartões em três famílias: corpo físico, corpo vital e corpo anímico; alma senciente, alma intelectual e alma da consciência; si-mesmo espiritual, espírito vital e homem-espírito.",
+        "description": [
+          "Corpo: corpo físico diz respeito à organização material; corpo vital, à formação e manutenção vivas; corpo anímico, à mediação corporal da sensação.",
+          "Alma: alma senciente diz respeito a sensações, sentimentos e desejos; alma intelectual, ao pensar na vida anímica prática; alma da consciência, à verdade além da preferência pessoal.",
+          "Espírito: si-mesmo espiritual diz respeito ao conteúdo espiritual individualizado pelo Eu; espírito vital e homem-espírito, à transformação das organizações vital e física, respectivamente.",
+          "Leia cada coluna de cima para baixo. Cartões na mesma linha horizontal não indicam uma correspondência direta."
+        ]
+      }
+    },
+    {
+      "title": "Nine distinctions, seven groups",
+      "alt": "Nine labelled distinctions connect to seven entries. Soul body and sentient soul join as sentient soul body. Consciousness soul and spirit self join as spirit-filled consciousness soul. The other five entries stay individually named.",
+      "suggestedLesson": 11,
+      "id": "ninefold-to-sevenfold-grouping",
+      "file": "assets/constitution-illustrations/ninefold-to-sevenfold-grouping.png",
+      "generationFile": "exec-3dadeb92-3dae-47fc-918f-b030350c6532.png",
+      "width": 1536,
+      "height": 1024,
+      "en": {
+        "title": "Nine distinctions, seven groups",
+        "alt": "Nine labelled distinctions connect to seven entries. Soul body and sentient soul join as sentient soul body. Consciousness soul and spirit self join as spirit-filled consciousness soul. The other five entries stay individually named.",
+        "description": [
+          "Soul body and sentient soul share the entry “sentient soul body”: bodily mediation and inward experience work together in earthly life.",
+          "Consciousness soul and spirit self share the entry “spirit-filled consciousness soul”: spiritual truth is received and individualized through the I.",
+          "Physical body, life body, intellectual soul, life spirit and spirit man each keep their own entry. All nine distinctions are represented in seven groups. The braces indicate grouping, not transformation."
+        ]
+      },
+      "pt": {
+        "title": "Nove distinções, sete grupos",
+        "alt": "Nove distinções se ligam a sete entradas. Corpo anímico e alma senciente formam uma entrada; alma da consciência e si-mesmo espiritual formam outra. As cinco restantes mantêm suas entradas individuais.",
+        "description": [
+          "Corpo anímico e alma senciente compartilham a entrada “corpo anímico senciente”: mediação corporal e vivência interior atuam juntas na vida terrestre.",
+          "Alma da consciência e si-mesmo espiritual compartilham a entrada “alma da consciência preenchida pelo espírito”: a verdade espiritual é acolhida e individualizada pelo Eu.",
+          "Corpo físico, corpo vital, alma intelectual, espírito vital e homem-espírito mantêm suas próprias entradas. Todas as nove distinções estão representadas em sete grupos. As chaves indicam agrupamento, não transformação."
+        ]
+      }
+    },
+    {
+      "title": "A different sevenfold account",
+      "alt": "The I works on physical, life and astral members. Three arrows show physical body toward spirit man, life body toward life spirit, and astral body toward spirit self. A separate strip lists the seven entries in their usual order.",
+      "suggestedLesson": 11,
+      "id": "sevenfold-spiritual-development",
+      "file": "assets/constitution-illustrations/sevenfold-spiritual-development.png",
+      "generationFile": "exec-16ff2cf5-9dd5-490e-bb9d-14544a74c141.png",
+      "width": 1536,
+      "height": 1024,
+      "en": {
+        "title": "A different sevenfold account",
+        "alt": "The I works on physical, life and astral members. Three arrows show physical body toward spirit man, life body toward life spirit, and astral body toward spirit self. A separate strip lists the seven entries in their usual order.",
+        "description": [
+          "The I works on all three foundational members. Steiner relates transformed astral organization to spirit self, transformed life organization to life spirit, and transformed physical organization to spirit man.",
+          "The usual list order is physical body, life body, astral body, I, spirit self, life spirit and spirit man. The upper diagram reverses the order of the three transformed aspects so that arrows do not cross.",
+          "These arrows express Steiner’s account of spiritual development. They do not describe the two pairings in the grouped sevenfold list. Colours trace each relationship and do not follow the body–soul–spirit family colours of the other pictures."
+        ]
+      },
+      "pt": {
+        "title": "Outra descrição de sete membros",
+        "alt": "O Eu atua sobre os membros físico, vital e astral. As setas ligam corpo físico a homem-espírito, corpo vital a espírito vital e corpo astral a si-mesmo espiritual. A faixa inferior lista os sete membros na ordem habitual.",
+        "description": [
+          "O Eu atua sobre os três membros fundamentais. Steiner relaciona a organização astral transformada ao si-mesmo espiritual, a organização vital transformada ao espírito vital e a organização física transformada ao homem-espírito.",
+          "A ordem habitual da lista é corpo físico, corpo vital, corpo astral, Eu, si-mesmo espiritual, espírito vital e homem-espírito. O diagrama superior inverte a ordem dos aspectos transformados para que as setas não se cruzem.",
+          "Essas setas expressam a concepção de desenvolvimento espiritual de Steiner. Não descrevem os dois pares da lista agrupada de sete. As cores acompanham cada relação e não seguem as cores das famílias corpo–alma–espírito das outras imagens."
+        ]
+      }
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import {linkTerms} from './link-constitution.mjs';
+import {constitutionIllustration,illustrationStyles} from './render-constitution-illustrations.mjs';
 import {esc,n,relative,wholeElement} from './learning-html.mjs';
 export const clarityRows=JSON.parse(fs.readFileSync(new URL('../content/remaining-course-clear-lessons.json',import.meta.url),'utf8'));
 export const clarityRoute=(row,lang)=>`docs/${lang==='pt'?'pt/':''}${row.course==='theosophy-reading'?'lessons':row.course==='foundations'?'learn/lessons':row.course==='meditation'?'meditation':row.course==='nutrition'?'nutrition':row.course+'/lessons'}/${n(row.id)}.html`;
@@ -18,7 +19,7 @@ export function buildRemainingClarity(rows=clarityRows){
   if(!main||!heading||!nav)throw Error('Missing lesson structure: '+file);
   const retained=main.slice(mainTag.length,-7).replace(heading,'').replace(nav,'');
   const index=`docs/${pt?'pt/':''}${row.course==='theosophy-reading'?'read/theosophy':row.course==='foundations'?'learn/foundations':row.course}/index.html`;
-  let first=`<section class="batch-first-reading" data-batch-clarity-first="${row.course}/${n(row.id)}">${v.paragraphs.map((p,i)=>`${v.paragraphHeadings?`<h2>${esc(v.paragraphHeadings[i])}</h2>`:''}<p>${esc(p)}</p>${i===0&&row.definitionLink?`<p class="clarity-introduction-link"><a href="${esc(row.definitionLink.href)}">${esc(row.definitionLink[lang])}</a></p>`:''}`).join('')}<h2>${pt?'Duas perguntas — opcionais':'Two questions — optional'}</h2>${v.checks.map(([q,a])=>`<div class="batch-clarity-check"><p>${esc(q)}</p><details class="batch-clarity-answer"><summary>${pt?'Ver uma explicação':'See an explanation'}</summary><p>${esc(a)}</p></details></div>`).join('')}${row.references?.length?`<aside class="clarity-practical-references"><p>${pt?'Orientação prática complementar:':'Further practical guidance:'} ${row.references.map(ref=>`<a href="${esc(ref.url)}">${esc(ref[lang])}</a>`).join('; ')}</p></aside>`:''}${row.sourceReview?`<aside class="clarity-source-review"><p>${esc(row.sourceReview[lang])}</p></aside>`:''}</section>`;
+  let first=`<section class="batch-first-reading" data-batch-clarity-first="${row.course}/${n(row.id)}">${v.paragraphs.map((p,i)=>`${v.paragraphHeadings?`<h2>${esc(v.paragraphHeadings[i])}</h2>`:''}<p>${esc(p)}</p>${(row.illustrations||[]).filter(image=>image.afterParagraph===i).map(image=>constitutionIllustration(image.id,lang,file)).join('')}${i===0&&row.definitionLink?`<p class="clarity-introduction-link"><a href="${esc(row.definitionLink.href)}">${esc(row.definitionLink[lang])}</a></p>`:''}`).join('')}<h2>${pt?'Duas perguntas — opcionais':'Two questions — optional'}</h2>${v.checks.map(([q,a])=>`<div class="batch-clarity-check"><p>${esc(q)}</p><details class="batch-clarity-answer"><summary>${pt?'Ver uma explicação':'See an explanation'}</summary><p>${esc(a)}</p></details></div>`).join('')}${row.references?.length?`<aside class="clarity-practical-references"><p>${pt?'Orientação prática complementar:':'Further practical guidance:'} ${row.references.map(ref=>`<a href="${esc(ref.url)}">${esc(ref[lang])}</a>`).join('; ')}</p></aside>`:''}${row.sourceReview?`<aside class="clarity-source-review"><p>${esc(row.sourceReview[lang])}</p></aside>`:''}</section>`;
   if(v.relationshipTable){
    const after=v.relationshipTableAfterParagraph;
    const marker=Number.isInteger(after)?`<p>${esc(v.paragraphs[after])}</p>`:`<h2>${pt?'Duas perguntas — opcionais':'Two questions — optional'}</h2>`;
@@ -34,6 +35,7 @@ export function buildRemainingClarity(rows=clarityRows){
   const continuation=foundation?`<section class="foundation-next"><h2>${pt?'Continue passo a passo':'Continue step by step'}</h2><a class="button" href="${following?n(following.id)+'.html':relative(file,index)}">${following?`${pt?'Próxima lição':'Next lesson'}: ${esc(following[lang].title)}`:(pt?'Retome o mapa do curso':'Return to the course map')} →</a></section>`:'';
   const depthLabel=foundation?(pt?'Fontes, comentários anteriores e notas salvas — opcional':'Sources, earlier commentary and saved notes — optional'):(pt?'Leitura completa, fontes e outras práticas — opcional':'Full reading, sources and further practice — optional');
   html=html.replace(main,`${mainTag}<p class="breadcrumb"><a href="${relative(file,index)}">← ${pt?'Curso completo':'Full course'}</a></p>${heading}${context}${first}${continuation}<details class="batch-retained-depth"><summary>${depthLabel}</summary>${retained}</details>${nav}</main>`);
+  if(row.illustrations?.length)html=html.replace('</head>',illustrationStyles(file)+'</head>');
   fs.writeFileSync(file,html);
  }
  console.log(`Built ${rows.length} bilingual first readings; full teaching retained as optional depth.`);

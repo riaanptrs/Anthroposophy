@@ -282,7 +282,13 @@
         "O que permanece depois do som",
         "Diferença e concordância"
       ]
-    }
+    },
+    "illustrations": [
+      {
+        "id": "threefold-human-being",
+        "afterParagraph": 0
+      }
+    ]
   },
   {
     "course": "foundations",
@@ -710,7 +716,21 @@
         "Outra descrição de sete membros: desenvolvimento espiritual"
       ],
       "relationshipTableAfterParagraph": 2
-    }
+    },
+    "illustrations": [
+      {
+        "id": "ninefold-human-being",
+        "afterParagraph": 0
+      },
+      {
+        "id": "ninefold-to-sevenfold-grouping",
+        "afterParagraph": 2
+      },
+      {
+        "id": "sevenfold-spiritual-development",
+        "afterParagraph": 3
+      }
+    ]
   },
   {
     "course": "foundations",

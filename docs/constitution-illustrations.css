@@ -1,0 +1,10 @@
+.constitution-illustration{margin:1.8rem 0;max-width:100%;min-width:0}
+.constitution-illustration-image{display:block;border-radius:8px;overflow:hidden}
+.constitution-illustration img{display:block;width:100%;max-width:100%;height:auto}
+.constitution-illustration figcaption{font-size:.95rem;line-height:1.6;margin-top:.7rem}
+.constitution-illustration figcaption p{margin:.5rem 0}
+.constitution-illustration-description,.constitution-illustration-gallery{border:1px solid #d8d2c8;border-radius:8px;padding:.7rem 1rem;margin:.8rem 0}
+.constitution-illustration summary{cursor:pointer;font-weight:600}
+.constitution-illustration-image:focus-visible{outline:3px solid #694b80;outline-offset:4px}
+.constitution-illustration-gallery{margin-top:1.5rem}
+@media print{.constitution-illustration{break-inside:avoid}.constitution-illustration img{max-height:18cm;object-fit:contain}.constitution-illustration-description{display:block}}
