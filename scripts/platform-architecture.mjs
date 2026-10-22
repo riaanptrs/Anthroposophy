@@ -192,6 +192,15 @@ export function buildPlatformArchitecture({course = {}, lessons = [], concepts =
       {route:'concepts/index.html', title:t('Explore a concept', 'Explore um conceito'), text:t('Find a clear explanation and follow its relationships.', 'Encontre uma explicação clara e acompanhe suas relações.')}
     ];
     const featured = [theosophy, ...['philosophy-of-freedom', 'higher-worlds'].map(id => collections.find(item => item.id === id))];
+    const waldorfEntries = [
+      {id:'waldorf', route:'learn/waldorf/family-guide.html',
+        en:{title:'Start with the family guide', description:'Understand how Waldorf learning works, follow the journey through Grades 1–8, and explore practical ideas for everyday family life.', credit:'A practical introduction for parents'},
+        pt:{title:'Comece pelo guia para famílias', description:'Entenda como funciona a aprendizagem Waldorf, acompanhe o percurso do 1º ao 8º ano e conheça ideias práticas para o cotidiano familiar.', credit:'Uma introdução prática para famílias'}},
+      {id:'waldorf', route:'learn/waldorf/index.html',
+        en:{title:'Understanding Waldorf Education', description:'Explore child development, Grades 1–9, subject pathways and parent questions through 62 lessons with examples and explained answers.', credit:'Full course · English and Brazilian Portuguese'},
+        pt:{title:'Compreendendo a educação Waldorf', description:'Explore o desenvolvimento infantil, do 1º ao 9º ano, os percursos por matéria e as dúvidas das famílias em 62 lições com exemplos e respostas comentadas.', credit:'Curso completo · Português brasileiro e inglês'}}
+    ];
+    const waldorfHome = cardSection(home, 'waldorf-for-parents', t('Waldorf education for parents', 'Educação Waldorf para famílias'), waldorfEntries, lang);
     const hero = `<section class="platform-hero learning-hero identity-home-hero" id="intro">
       <div class="identity-hero-copy">
         <p class="identity-eyebrow">${t('Ideas · Observation · Practice', 'Ideias · Observação · Prática')}</p>
@@ -205,6 +214,7 @@ export function buildPlatformArchitecture({course = {}, lessons = [], concepts =
       <h2 id="entry-heading">${t('Where would you like to begin?', 'Por onde você gostaria de começar?')}</h2>
       <div class="identity-entry-paths">${entries.map(item => `<article class="identity-entry-path"><h3>${link(home, item.route, item.title, lang)}</h3><p>${esc(item.text)}</p></article>`).join('')}</div>
     </section>
+    ${waldorfHome}
     <section id="courses">
       <div class="identity-section-heading"><h2>${t('Explore the ideas', 'Explore as ideias')}</h2>${link(home, 'learn/index.html', t('All courses', 'Todos os cursos'), lang)}</div>
       <div class="platform-grid learning-grid identity-featured-courses">${featured.map(item => card(home, item, lang)).join('')}</div>
