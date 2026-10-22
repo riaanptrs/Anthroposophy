@@ -1519,55 +1519,119 @@
     "id": 20,
     "en": {
       "paragraphs": [
-        "Cosmic evolution in Steiner’s account means changing conditions of world-existence together with developing human capacities. Old Saturn, Old Sun, Old Moon and Earth name such conditions. In the Colour lectures, warmth, light, colour and life express the changing activity of spiritual beings. These names describe a spiritual history, not a journey to today’s astronomical objects.",
-        "Read the names in order: Old Saturn, Old Sun, Old Moon, Earth. They name changing conditions of world-existence in Steiner's spiritual history. In the account introduced here, warmth, light, colour and life express changing spiritual activity. The sequence concerns transformation of conditions, rather than travel between today's astronomical objects.",
-        "Development also relates what has become manifest to what is still possible. A seed already has a form while its later growth has yet to unfold. Steiner's discussion gives light a relationship to earlier spiritual thinking and darkness to germinating future will. That meaning would be lost if darkness were automatically equated with evil.",
-        "Keep the two scales distinct: cosmic conditions concern the proposed development of a world; reincarnation concerns an individuality's repeated earthly lives. Both involve development, but they are different sequences. Next we study Lucifer and Ahriman, names for spiritual influences within Steiner's account of human freedom and earthly existence."
+        "Lesson 19 connected spiritual beings with earlier conditions of existence. Here, a world condition means a phase in how the world is constituted: the forms of existence and activity that characterize it. Steiner describes the world itself as developing. Old Saturn, Old Sun, Old Moon and Earth name successive conditions in that proposed spiritual history, not places someone travels to. “Old Moon” therefore does not simply mean the Moon visible in the sky today.",
+        "A seed, a flowering plant and fruit are different phases of a developing organism. This comparison helps explain what a developmental sequence means; the phases are not separate destinations. It does not establish Steiner’s cosmic history or assign each plant phase to a cosmic condition. Read his names in order: Old Saturn, Old Sun, Old Moon, Earth. The table below introduces their associations with warmth, light, colour and life in the Colour account. These associations are starting points, not complete definitions of the conditions.",
+        "Keep world development distinct from an individual’s repeated lives. Cosmic evolution concerns changes in world-existence; reincarnation concerns a spiritual individuality living through different earthly bodies and biographies. Steiner places human development within the larger history, but the two sequences are not interchangeable. A person’s successive incarnations are not a journey from today’s Saturn to the Sun and Moon. The next lesson examines Lucifer and Ahriman as spiritual influences within his account of human freedom and earthly existence.",
+        "The Colour passage also approaches past and future through light and darkness. Steiner relates light to earlier spiritual thinking becoming manifest and darkness to will still germinating toward a future. The distinction concerns what has become manifest and what is still developing. Reading darkness automatically as evil would replace that specific relationship with a different moral opposition. This is a further spiritual interpretation in the lecture, rather than something needed to identify the four world conditions or a claim about physical light alone."
       ],
       "title": "Cosmic Evolution",
-      "goal": "How does Steiner connect cosmic history with developing human consciousness?",
+      "goal": "What do Old Saturn, Old Sun, Old Moon and Earth name in Steiner’s account?",
       "checks": [
         [
-          "Put Old Saturn, Old Sun, Old Moon and Earth in order and explain what sort of sequence this is.",
-          "The order is Old Saturn, Old Sun, Old Moon, Earth. These are proposed successive conditions of world-existence in Steiner's spiritual cosmology. They are not destinations in space or an individual's successive incarnations."
+          "Why does “Old Moon” name a developmental condition rather than a destination in space?",
+          "It names a phase of world-existence in Steiner’s proposed sequence: Old Saturn, Old Sun, Old Moon, Earth. The name concerns how the world is constituted at that phase, rather than a journey to today’s Moon."
         ],
         [
-          "A learner equates darkness with evil in this account. Which relationship has been lost?",
-          "The lesson relates darkness to germinating will and future possibility, while light relates to earlier spiritual thinking. The words have a specific developmental context here; substituting a simple moral opposition removes that relationship."
+          "How does cosmic evolution differ from reincarnation in this account?",
+          "Cosmic evolution concerns the development of world conditions. Reincarnation concerns one spiritual individuality’s repeated earthly lives. Steiner relates human development to the larger history, but the two sequences describe different scales and subjects."
         ]
       ],
       "paragraphHeadings": [
-        "Changing conditions of existence",
-        "The sequence from Saturn to Earth",
-        "Past activity and future possibility",
-        "Cosmic history and individual lives"
-      ]
+        "What a world condition means",
+        "A developmental sequence",
+        "World development and individual lives",
+        "Light, darkness, past and future"
+      ],
+      "relationshipTable": {
+        "caption": "Four conditions and their associations in Colour — an introductory reading aid",
+        "headers": [
+          "Condition",
+          "Association in this account"
+        ],
+        "rows": [
+          [
+            "Old Saturn",
+            "Warmth."
+          ],
+          [
+            "Old Sun",
+            "Light."
+          ],
+          [
+            "Old Moon",
+            "Colour."
+          ],
+          [
+            "Earth",
+            "Life."
+          ]
+        ]
+      },
+      "optionalSteps": [
+        {
+          "paragraph": 3,
+          "label": "Further study: light and darkness in the Colour passage"
+        }
+      ],
+      "relationshipTableAfterParagraph": 1
     },
     "pt": {
       "paragraphs": [
-        "Evolução cósmica, na concepção de Steiner, significa condições mutáveis da existência do mundo junto com o desenvolvimento de capacidades humanas. Antigo Saturno, Antigo Sol, Antiga Lua e Terra nomeiam essas condições. Nas palestras de Cor, calor, luz, cor e vida expressam a atividade mutável de seres espirituais. Esses nomes descrevem uma história espiritual, não uma viagem aos objetos astronômicos atuais.",
-        "Leia os nomes em ordem: Antigo Saturno, Antigo Sol, Antiga Lua, Terra. Nomeiam condições modificadas da existência do mundo na história espiritual de Steiner. Na concepção apresentada aqui, calor, luz, cor e vida expressam mudanças na atividade espiritual. A sequência trata da transformação de condições, em vez de viagens entre os astros atuais.",
-        "Desenvolvimento também relaciona o que já se manifestou com o que ainda é possível. Uma semente já tem forma, enquanto seu crescimento posterior ainda está por acontecer. A discussão de Steiner relaciona a luz ao pensar espiritual anterior e a escuridão ao querer futuro em germinação. Esse sentido se perderia se escuridão fosse automaticamente igualada ao mal.",
-        "Distinga as duas escalas: condições cósmicas dizem respeito ao desenvolvimento proposto de um mundo; reencarnação diz respeito às vidas terrenas repetidas de uma individualidade. Ambas envolvem desenvolvimento, mas são sequências diferentes. A seguir, estudaremos Lúcifer e Ahriman, nomes de influências espirituais na concepção de Steiner sobre liberdade humana e existência terrena."
+        "A Lição 19 relacionou seres espirituais a condições anteriores de existência. Aqui, uma condição do mundo significa uma fase de como o mundo é constituído: as formas de existência e atividade que o caracterizam. Steiner descreve o próprio mundo como algo que se desenvolve. Antigo Saturno, Antigo Sol, Antiga Lua e Terra nomeiam condições sucessivas nessa história espiritual proposta, não lugares aos quais alguém viaja. “Antiga Lua” não significa, portanto, simplesmente a Lua visível hoje no céu.",
+        "Uma semente, uma planta florida e um fruto são fases diferentes de um organismo em desenvolvimento. A comparação ajuda a explicar o que significa uma sequência de desenvolvimento; as fases não são destinos separados. Ela não estabelece a história cósmica de Steiner nem atribui cada fase da planta a uma condição cósmica. Leia os nomes dele em ordem: Antigo Saturno, Antigo Sol, Antiga Lua, Terra. A tabela abaixo apresenta suas relações com calor, luz, cor e vida no relato de Cor. Essas relações são pontos de partida, não definições completas das condições.",
+        "Distinga o desenvolvimento do mundo das vidas repetidas de um indivíduo. A evolução cósmica trata de mudanças na existência do mundo; a reencarnação trata de uma individualidade espiritual vivendo através de diferentes corpos e biografias terrestres. Steiner situa o desenvolvimento humano nessa história maior, mas as duas sequências não são intercambiáveis. As encarnações sucessivas de alguém não são uma viagem do Saturno atual ao Sol e à Lua. A próxima lição examina Lúcifer e Ahriman como influências espirituais na concepção de Steiner sobre liberdade humana e existência terrena.",
+        "A passagem de Cor também aborda passado e futuro por meio da luz e da escuridão. Steiner relaciona a luz ao pensar espiritual anterior que se manifesta e a escuridão à vontade ainda germinante em direção ao futuro. A distinção trata do que já se manifestou e do que ainda se desenvolve. Ler a escuridão automaticamente como mal substituiria essa relação específica por outra oposição moral. É uma interpretação espiritual adicional da palestra, não algo necessário para identificar as quatro condições do mundo nem uma afirmação apenas sobre luz física."
       ],
       "title": "A evolução cósmica",
-      "goal": "Como Steiner relaciona a história cósmica ao desenvolvimento da consciência humana?",
+      "goal": "O que Antigo Saturno, Antigo Sol, Antiga Lua e Terra nomeiam na concepção de Steiner?",
       "checks": [
         [
-          "Coloque Antigo Saturno, Antigo Sol, Antiga Lua e Terra em ordem e explique que tipo de sequência é essa.",
-          "A ordem é Antigo Saturno, Antigo Sol, Antiga Lua, Terra. São condições sucessivas propostas da existência do mundo na cosmologia espiritual de Steiner. Não são destinos no espaço nem encarnações sucessivas de uma individualidade."
+          "Por que “Antiga Lua” nomeia uma condição de desenvolvimento, e não um destino no espaço?",
+          "Ela nomeia uma fase da existência do mundo na sequência proposta por Steiner: Antigo Saturno, Antigo Sol, Antiga Lua, Terra. O nome trata de como o mundo é constituído nessa fase, e não de uma viagem à Lua atual."
         ],
         [
-          "Um estudante iguala escuridão ao mal nessa concepção. Que relação foi perdida?",
-          "A lição relaciona a escuridão ao querer em germinação e à possibilidade futura; a luz, ao pensar espiritual anterior. As palavras têm aqui um contexto específico de desenvolvimento; substituir isso por uma oposição moral simples apaga a relação."
+          "Como a evolução cósmica difere da reencarnação nessa concepção?",
+          "A evolução cósmica trata do desenvolvimento das condições do mundo. A reencarnação trata das vidas terrenas repetidas de uma individualidade espiritual. Steiner relaciona o desenvolvimento humano à história maior, mas as duas sequências descrevem escalas e assuntos diferentes."
         ]
       ],
       "paragraphHeadings": [
-        "Condições de existência que se transformam",
-        "A sequência de Saturno à Terra",
-        "Atividade passada e possibilidade futura",
-        "História cósmica e vidas individuais"
-      ]
+        "O que significa uma condição do mundo",
+        "Uma sequência de desenvolvimento",
+        "Desenvolvimento do mundo e vidas individuais",
+        "Luz, escuridão, passado e futuro"
+      ],
+      "relationshipTable": {
+        "caption": "Quatro condições e suas relações em Cor — apoio de leitura introdutório",
+        "headers": [
+          "Condição",
+          "Relação nesse relato"
+        ],
+        "rows": [
+          [
+            "Antigo Saturno",
+            "Calor."
+          ],
+          [
+            "Antigo Sol",
+            "Luz."
+          ],
+          [
+            "Antiga Lua",
+            "Cor."
+          ],
+          [
+            "Terra",
+            "Vida."
+          ]
+        ]
+      },
+      "optionalSteps": [
+        {
+          "paragraph": 3,
+          "label": "Aprofundamento: luz e escuridão na passagem de Cor"
+        }
+      ],
+      "relationshipTableAfterParagraph": 1
     }
   },
   {
