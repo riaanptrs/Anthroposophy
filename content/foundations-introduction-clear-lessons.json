@@ -1735,10 +1735,10 @@
     "id": 22,
     "en": {
       "paragraphs": [
-        "Spiritual development in Steiner’s account joins attention and clear thought with moral preparation. Respect for another person’s freedom and honesty about one’s own motives belong to the proposed way of knowing. Developing a capacity also means taking responsibility for how it is used.",
-        "Concentration improves the ability to stay with a subject, but does not decide the purpose it serves. Someone can listen closely to understand another person or to manipulate them. This is why Steiner's path joins development of attention with honesty, self-examination and respect for freedom.",
-        "Try an ordinary, optional listening exercise: let someone explain a small difficulty, summarize what you understood and invite correction. If they correct you, return to their words instead of defending your first account. Accuracy develops through attending; respect develops through allowing the other person to speak for themselves.",
-        "Review the result by separating their words, your assumptions and the response you chose. The aim is a more accurate and responsible relationship to experience. It does not certify supersensible perception. The next three lessons explain Imagination, Inspiration and Intuition as distinct proposed modes of spiritual knowing, rather than badges earned by completing exercises."
+        "Spiritual development in Steiner’s account joins attention and clear thought with moral preparation. Here, moral preparation includes being honest about your motives, accepting correction and respecting another person’s freedom to speak and decide. Lesson 21 showed why a useful capacity needs a responsible relationship to the people and circumstances it concerns. Developing attention likewise involves responsibility for how it is used.",
+        "Concentration helps you stay with a subject, but does not decide the purpose it serves. Someone can listen closely to understand another person or to pressure them more effectively. Steiner’s path therefore asks learners to examine both their attention and their conduct: am I trying to understand what this person means, or looking for a way to make them do what I want?",
+        "Consider this everyday listening example. A colleague says, “I’m struggling to finish this task.” You assume they want advice and ask, “Would suggestions help?” They reply, “Actually, I need uninterrupted time.” You can revise your assumption and ask whether you could help protect that time. Accuracy means taking their correction seriously; respect means letting them explain their need rather than deciding it for them. As an optional course exercise, try summarising what someone has said and inviting correction.",
+        "When reviewing the conversation, separate what the person said, what you assumed and what you chose to do. This makes it easier to notice whether you listened accurately and allowed them to speak for themselves. The exercise illustrates attention and responsibility. It does not demonstrate supersensible perception, Steiner’s proposed perception beyond the ordinary senses. The next three lessons introduce Imagination, Inspiration and Intuition as distinct proposed modes of spiritual knowing, rather than achievements automatically earned by completing an exercise."
       ],
       "title": "Spiritual Development",
       "goal": "Why does the proposed path join knowledge with character and ordinary responsibility?",
@@ -1748,23 +1748,45 @@
           "No. The use of attention undermines the other person’s freedom. Steiner’s moral preparation concerns the purpose and conduct of knowing, not concentration alone. A respectful use would allow the person to explain and decide for themselves."
         ],
         [
-          "What would a thoughtful review of an attention exercise consider?",
-          "It would consider the exercise’s purpose, the attention actually sustained, and its relationship to conduct. An unusual sensation alone does not explain whether those capacities have developed."
+          "The person corrects your summary of what they need. What would you do next, and why?",
+          "Return to what they actually said, revise your assumption and check that you now understand. Ask whether any help is wanted rather than insisting on your first solution. This joins accurate attention with respect for their freedom; being corrected is an opportunity to improve understanding."
         ]
       ],
       "paragraphHeadings": [
-        "Attention and moral preparation",
-        "Why concentration needs a purpose",
-        "A listening exercise worked through",
-        "Review accuracy and responsibility"
-      ]
+        "What moral preparation means",
+        "Why the purpose of attention matters",
+        "Listening and accepting correction",
+        "Review words, assumptions and actions"
+      ],
+      "relationshipTable": {
+        "caption": "Reviewing the listening example — a course reading aid",
+        "headers": [
+          "What to separate",
+          "In this conversation"
+        ],
+        "rows": [
+          [
+            "What the person said",
+            "“I’m struggling to finish this task,” followed by “I need uninterrupted time.”"
+          ],
+          [
+            "What I assumed",
+            "They wanted advice. Their correction gave me a reason to revise this."
+          ],
+          [
+            "What I chose to do",
+            "Ask whether I could help protect their time, leaving them free to accept or decline."
+          ]
+        ]
+      },
+      "relationshipTableAfterParagraph": 3
     },
     "pt": {
       "paragraphs": [
-        "O desenvolvimento espiritual, na concepção de Steiner, une atenção e pensamento claro à preparação moral. Respeitar a liberdade de outra pessoa e ser honesto sobre os próprios motivos fazem parte do modo de conhecer proposto. Desenvolver uma capacidade também significa assumir responsabilidade por seu uso.",
-        "Concentrar-se melhora a capacidade de permanecer num tema, mas não decide a finalidade a que ela serve. Alguém pode escutar atentamente para compreender outra pessoa ou para manipulá-la. Por isso, o caminho de Steiner reúne o desenvolvimento da atenção com honestidade, autoexame e respeito à liberdade.",
-        "Experimente um exercício cotidiano opcional: deixe alguém explicar uma pequena dificuldade, resuma o que compreendeu e convide a pessoa a corrigi-lo. Se houver correção, retorne às palavras dela em vez de defender sua primeira interpretação. A precisão se desenvolve pela atenção; o respeito, ao permitir que a outra pessoa fale por si.",
-        "Reveja o resultado separando as palavras da pessoa, suas suposições e a resposta escolhida. A finalidade é uma relação mais precisa e responsável com a experiência. Isso não certifica percepção suprassensível. As próximas três lições explicam Imaginação, Inspiração e Intuição como modos distintos de conhecimento espiritual propostos, em vez de títulos conquistados ao completar exercícios."
+        "O desenvolvimento espiritual, na concepção de Steiner, une atenção e pensamento claro à preparação moral. Aqui, preparação moral inclui ser honesto sobre os próprios motivos, aceitar correções e respeitar a liberdade de outra pessoa para falar e decidir. A Lição 21 mostrou por que uma capacidade útil precisa de uma relação responsável com as pessoas e circunstâncias envolvidas. Desenvolver a atenção também implica responsabilidade por seu uso.",
+        "A concentração ajuda a permanecer num tema, mas não decide a finalidade a que serve. Alguém pode escutar atentamente para compreender outra pessoa ou para pressioná-la com mais eficácia. Por isso, o caminho de Steiner pede que se examinem tanto a atenção quanto a conduta: estou tentando compreender o que essa pessoa quer dizer ou procurando um jeito de fazê-la agir como eu quero?",
+        "Considere este exemplo cotidiano de escuta. Uma colega diz: “Estou com dificuldade para terminar esta tarefa.” Você supõe que ela quer conselhos e pergunta: “Sugestões ajudariam?” Ela responde: “Na verdade, preciso de um tempo sem interrupções.” Você pode rever sua suposição e perguntar se poderia ajudar a preservar esse tempo. A precisão exige levar a correção a sério; o respeito exige deixar que ela explique sua necessidade, em vez de decidi-la por ela. Como exercício opcional do curso, experimente resumir o que alguém disse e convidar a pessoa a corrigir seu entendimento.",
+        "Ao rever a conversa, separe o que a pessoa disse, o que você supôs e o que escolheu fazer. Isso ajuda a perceber se escutou com precisão e permitiu que ela falasse por si. O exercício ilustra atenção e responsabilidade. Não demonstra percepção suprassensível, a percepção além dos sentidos comuns proposta por Steiner. As próximas três lições apresentam Imaginação, Inspiração e Intuição como modos distintos de conhecimento espiritual propostos, em vez de conquistas automaticamente obtidas ao completar um exercício."
       ],
       "title": "O desenvolvimento espiritual",
       "goal": "Por que o caminho proposto une conhecimento, caráter e responsabilidade cotidiana?",
@@ -1774,16 +1796,38 @@
           "Não. Esse uso da atenção prejudica a liberdade da outra pessoa. A preparação moral de Steiner trata da finalidade e da conduta do conhecer, não apenas da concentração. Um uso respeitoso permitiria à pessoa explicar e decidir por si mesma."
         ],
         [
-          "O que uma revisão ponderada de um exercício de atenção consideraria?",
-          "Consideraria a finalidade do exercício, a atenção efetivamente mantida e sua relação com a conduta. Uma sensação incomum, sozinha, não explica se essas capacidades se desenvolveram."
+          "A pessoa corrige seu resumo do que ela precisa. O que você faria em seguida, e por quê?",
+          "Retorne ao que ela realmente disse, reveja sua suposição e verifique se agora compreendeu. Pergunte se ela deseja alguma ajuda, em vez de insistir na sua primeira solução. Isso une atenção precisa ao respeito pela liberdade alheia; receber uma correção é uma oportunidade de melhorar a compreensão."
         ]
       ],
       "paragraphHeadings": [
-        "Atenção e preparo moral",
-        "Por que a concentração precisa de uma finalidade",
-        "Um exercício de escuta explicado",
-        "Rever precisão e responsabilidade"
-      ]
+        "O que significa preparação moral",
+        "Por que a finalidade da atenção importa",
+        "Escutar e aceitar correções",
+        "Rever palavras, suposições e ações"
+      ],
+      "relationshipTable": {
+        "caption": "Revisão do exemplo de escuta — apoio de leitura do curso",
+        "headers": [
+          "O que separar",
+          "Nesta conversa"
+        ],
+        "rows": [
+          [
+            "O que a pessoa disse",
+            "“Estou com dificuldade para terminar esta tarefa”, seguido de “Preciso de um tempo sem interrupções.”"
+          ],
+          [
+            "O que supus",
+            "Ela queria conselhos. Sua correção me deu uma razão para rever isso."
+          ],
+          [
+            "O que escolhi fazer",
+            "Perguntar se poderia ajudar a preservar seu tempo, deixando-a livre para aceitar ou recusar."
+          ]
+        ]
+      },
+      "relationshipTableAfterParagraph": 3
     }
   },
   {
