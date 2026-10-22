@@ -28,7 +28,7 @@ export function buildRemainingClarity(rows=clarityRows){
   for(const step of v.optionalSteps||[]){
    const i=step.paragraph;
    if(!Number.isInteger(i)||!v.paragraphs[i]||!v.paragraphHeadings?.[i])throw Error('Invalid optional step: '+file);
-   const content=`<h2>${esc(v.paragraphHeadings[i])}</h2><p>${esc(v.paragraphs[i])}</p>${(row.illustrations||[]).filter(image=>image.afterParagraph===i).map(image=>constitutionIllustration(image.id,lang,file)).join('')}`;
+   const content=`<h2>${esc(v.paragraphHeadings[i])}</h2><p>${esc(v.paragraphs[i])}</p>${v.relationshipTable&&v.relationshipTableAfterParagraph===i?relationshipTable(v.relationshipTable):''}${(row.illustrations||[]).filter(image=>image.afterParagraph===i).map(image=>constitutionIllustration(image.id,lang,file)).join('')}`;
    if(!first.includes(content))throw Error('Optional step content missing: '+file);
    first=first.replace(content,`<details class="clarity-further-study"><summary>${esc(step.label)}</summary>${content}</details>`);
   }
