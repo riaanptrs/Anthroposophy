@@ -55,7 +55,7 @@
       "keyConcept": "Rudolf Steiner desenvolveu a antroposofia e atuou na filosofia, no ensino espiritual, na educação e nas artes.",
       "example": "Imagine conhecer uma escola Waldorf, um edifício projetado por Steiner e uma fazenda biodinâmica. Eles pertencem à educação, à arquitetura e à agricultura: três campos apresentados em sua biografia. Sua ligação é o trabalho de Steiner e seus colaboradores para levar a antroposofia à vida prática.",
       "distinction": "A antroposofia é a concepção espiritual mais ampla. A educação Waldorf é um movimento educativo relacionado a ela. Entender essa relação ajuda a situar os diferentes cursos do site.",
-      "connection": "A primeira escola Waldorf abriu em Stuttgart em 1919 com a orientação educativa de Steiner; suas palestras agrícolas de 1924 se tornaram uma base da biodinâmica. Temos assim um mapa: investigação sobre conhecimento e liberdade, uma concepção espiritual da vida humana e aplicações práticas. A seguir, explicaremos essa concepção antes de estudar seus termos específicos.",
+      "connection": "A primeira escola Waldorf foi inaugurada em Stuttgart em 1919 com a orientação educativa de Steiner; suas palestras agrícolas de 1924 se tornaram uma base da biodinâmica. Temos assim um mapa: investigação sobre conhecimento e liberdade, uma concepção espiritual da vida humana e aplicações práticas. A seguir, explicaremos essa concepção antes de estudar seus termos específicos.",
       "checks": [
         {
           "type": "choice",
@@ -347,7 +347,7 @@
         {
           "type": "reflection",
           "question": "Alguém memoriza os nomes de duas notas, mas não distingue os sons. Explique informação, capacidade, percepção e julgamento.",
-          "explanation": "Os nomes são informação lembrada. Distinguir alturas é uma capacidade; ouvir os sons específicos é percepção; decidir qual é mais agudo é um julgamento. Isso torna compreensível a sequência proposta por Steiner, enquanto percepção espiritual permanece uma afirmação adicional."
+          "explanation": "Os nomes são informações memorizadas. Distinguir alturas é uma capacidade; ouvir os sons específicos é percepção; decidir qual é mais agudo é um julgamento. Isso torna compreensível a sequência proposta por Steiner, enquanto a percepção espiritual permanece uma afirmação adicional."
         }
       ],
       "coverageNote": "A comparação com olho e ouvido explica uma capacidade proposta. Não comprova órgãos suprassensíveis nem promete uma realização; a preparação mais ampla pertence a Como conhecer os mundos superiores."
@@ -408,7 +408,7 @@
       "keyConcept": "O corpo se relaciona com o mundo; a alma vivencia e conserva impressões; o espírito participa da compreensão daquilo que pertence às próprias coisas.",
       "example": "Duas pessoas observam as mesmas estrelas. Ambas veem as luzes, mas uma sente admiração e a outra saudade de casa. Ainda assim, podem examinar a mesma explicação de seu movimento aparente. Este exemplo do curso separa resposta pessoal de uma relação compreensível compartilhada.",
       "distinction": "Corpo–alma–espírito não é outra forma de escrever físico–etérico–astral ou pensar–sentir–querer. Cada classificação responde a uma pergunta específica e precisa de seu contexto.",
-      "connection": "Dois ouvintes podem discordar sobre gostar da melodia e concordar sobre as notas. Para explicar isso, identifique o som compartilhado, o sentimento de cada pessoa e a relação que ambas compreendem. Esse é o mapa trimembrado básico. A seguir, examinaremos a organização corporal e distinguiremos vida, experiência sensível e individualidade.",
+      "connection": "Dois ouvintes podem discordar sobre gostar da melodia e concordar sobre as notas. Para explicar isso, identifique o som compartilhado, o sentimento de cada pessoa e a relação que ambas compreendem. Esse é o mapa trimembrado básico. A seguir, examinaremos a organização corporal e distinguiremos vida, experiência senciente e individualidade.",
       "checks": [
         {
           "type": "choice",
@@ -577,7 +577,7 @@
       "intro": "Uma pedra pode aquecer, mas uma muda desenvolve e mantém uma forma viva. Steiner introduz corpo etérico ou vital para explicar a organização viva, não apenas a mudança material.",
       "meaning": [
         "Observe uma muda durante alguns dias. Ela faz mais do que aumentar de tamanho: raízes se alongam, folhas se abrem e suas partes se desenvolvem juntas como uma planta viva. Steiner chama de corpo etérico, ou corpo vital, a atividade formativa que, segundo ele, dá forma a esse todo vivo e o sustenta. “Formativa” se refere ao modo como um ser vivo adquire e mantém sua forma.",
-        "O corpo vital também diz respeito à manutenção e à renovação na concepção de Steiner. Um adulto em grande parte parou de crescer em altura, mas seus tecidos continuam se renovando e ferimentos podem cicatrizar. Esses processos oferecem outro ponto de partida para compreender o que ele chama de sustentar uma organização viva. A ideia inclui, portanto, formar, manter e renovar um ser vivo, e não apenas aumentar seu tamanho. “Corpo” significa aqui um membro organizado do ser, não outro objeto material ao lado do corpo físico.",
+        "O corpo vital também diz respeito à manutenção e à renovação na concepção de Steiner. Um adulto, em grande parte, já parou de crescer em altura, mas seus tecidos continuam se renovando e ferimentos podem cicatrizar. Esses processos oferecem outro ponto de partida para compreender o que ele chama de sustentar uma organização viva. A ideia inclui, portanto, formar, manter e renovar um ser vivo, e não apenas aumentar seu tamanho. “Corpo” significa aqui um membro organizado do ser, não outro objeto material ao lado do corpo físico.",
         "Mantenha a observação distinta da explicação. A formação de raízes, a abertura de folhas e a renovação de tecidos são processos vivos observáveis. A biologia os estuda em termos físicos e químicos. Steiner propõe um membro formativo suprassensível para explicar a organização viva; observar o crescimento, por si só, não estabelece essa afirmação adicional. Ele não quer dizer que leis físicas e químicas deixam de valer no organismo. O corpo vital é sua concepção espiritual de como o todo vivo é formado e sustentado.",
         "Agora podemos fazer outra pergunta: estar vivo também significa sentir interiormente prazer ou dor? Uma muda crescendo em direção à luz mostra uma resposta viva; essa observação, sozinha, não diz se ela gosta da luz. No esquema de Steiner, as organizações física e vital explicam a planta como ser vivo. A experiência senciente interior introduz o membro astral, que examinaremos a seguir."
       ],
@@ -595,7 +595,7 @@
             "Supõe-se que uma muda gosta da luz."
           ],
           "answer": 0,
-          "explanation": "Porque Steiner relaciona o corpo vital com formar, manter e renovar um organismo vivo, não apenas aumentar seu tamanho. A renovação de tecidos e a cicatrização num adulto ajudam a ilustrar por que a manutenção da vida importa depois que o crescimento em altura em grande parte terminou."
+          "explanation": "Porque Steiner relaciona o corpo vital com formar, manter e renovar um organismo vivo, não apenas aumentar seu tamanho. A renovação de tecidos e a cicatrização num adulto ajudam a ilustrar por que a manutenção da vida continua importante depois que o crescimento em altura, em grande parte, terminou."
         },
         {
           "type": "true-false",
@@ -610,7 +610,7 @@
         {
           "type": "reflection",
           "question": "Por que “o corpo vital faz as coisas aumentarem de tamanho” seria uma explicação incompleta?",
-          "explanation": "Porque Steiner relaciona o corpo vital com formar, manter e renovar um organismo vivo, não apenas aumentar seu tamanho. A renovação de tecidos e a cicatrização num adulto ajudam a ilustrar por que a manutenção da vida importa depois que o crescimento em altura em grande parte terminou."
+          "explanation": "Porque Steiner relaciona o corpo vital com formar, manter e renovar um organismo vivo, não apenas aumentar seu tamanho. A renovação de tecidos e a cicatrização num adulto ajudam a ilustrar por que a manutenção da vida continua importante depois que o crescimento em altura, em grande parte, terminou."
         }
       ],
       "coverageNote": "A frase selecionada apresenta uma relação de dependência, não a definição inteira. O capítulo ao redor desenvolve vida formativa e senciência; observar uma planta não comprova a explicação suprassensível."
@@ -665,9 +665,9 @@
       "intro": "Processos vivos e experiência interior são perguntas diferentes. Steiner usa corpo astral para o membro senciente, pelo qual sensações e respostas pertencem a um ser que vivencia.",
       "meaning": [
         "Uma planta cresce e mantém sua forma viva. Ouvir um som, sentir desconforto ou desejar algo apresenta outra pergunta: como o encontro é vivenciado por dentro? Steiner relaciona essa experiência interior ao corpo astral, também chamado membro senciente. “Senciente” significa ter experiência interior. O termo inclui sensação, sentimento e desejo, e não apenas emoções.",
-        "Um sino vibra e você ouve seu som. A vibração é um acontecimento físico; ouvir o som é sua experiência interior dele. Antes mesmo de decidir se gosta do som, você o ouve. Ouvir já é uma experiência interior. Irritação ou prazer acrescenta sentimento. Por isso, na concepção de Steiner, “corpo astral” significa mais do que um corpo emocional.",
+        "Um sino vibra e você ouve seu som. A vibração é um acontecimento físico; ouvir o som é sua experiência interior desse acontecimento. Antes mesmo de decidir se gosta do som, você o ouve. Ouvir já é uma experiência interior. Irritação ou prazer acrescenta sentimento. Por isso, na concepção de Steiner, “corpo astral” significa mais do que um corpo emocional.",
         "O desejo acrescenta uma direção à experiência: uma pessoa irritada quer que o sino pare. Outra gosta do mesmo sino e quer que continue. Podemos distinguir três aspectos: ouvir o som é sensação; irritação ou prazer é sentimento; querer que o som pare ou continue é desejo. O corpo físico, o corpo vital e o membro astral cooperam no ser que vivencia.",
-        "O som que você ouve e o sentimento que ele desperta podem mudar. Steiner usa “corpo astral” para o membro associado a vivenciar esses conteúdos mutáveis, não para um som, sentimento ou desejo particular. Uma melodia lembrada é outra experiência particular, não o membro inteiro. Teosofia depois reúne a mediação corporal da sensação, chamada corpo anímico, e a experiência vivida interiormente, chamada alma senciente, sob o nome corpo astral. A Lição 11 examina esse agrupamento mais de perto. A seguir, perguntaremos como alguém reconhece experiências como suas e trabalha numa resposta."
+        "O som que você ouve e o sentimento que ele desperta podem mudar. Steiner usa “corpo astral” para o membro associado a vivenciar esses conteúdos mutáveis, não para um som, sentimento ou desejo particular. Uma melodia lembrada é outra experiência particular, não o membro inteiro. Mais adiante, Teosofia reúne a mediação corporal da sensação, chamada corpo anímico, e a experiência vivida interiormente, chamada alma senciente, sob o nome corpo astral. A Lição 11 examina esse agrupamento mais de perto. A seguir, perguntaremos como alguém reconhece experiências como suas e trabalha numa resposta."
       ],
       "keyConcept": "Corpo astral nomeia o membro que Steiner relaciona à sensação interior, ao sentimento e ao desejo. Não significa um sentimento isolado nem apenas emoções.",
       "example": "O sino vibra; você ouve seu som. Ouvir já é experiência interior, mesmo sem gostar ou desgostar do som. A irritação acrescenta sentimento; querer que o sino pare acrescenta desejo.",
@@ -758,7 +758,7 @@
         "O Eu pode trabalhar sobre os outros membros, sem ser um supervisor separado que controla corpos independentes. As descrições posteriores de transformação desenvolvem essa afirmação. Aqui a pergunta principal é como uma experiência mutável pode se relacionar conscientemente com quem a vivencia."
       ],
       "keyConcept": "O Eu nomeia, na concepção de Steiner, a individualidade espiritual que reconhece experiências como suas e pode trabalhar gradualmente com elas.",
-      "example": "Suponha que você acuse alguém enquanto está com raiva e depois descubra que sua acusação era falsa. Reconhecer a raiva como sua já ilustra consciência de si. Examinar as evidências e reconhecer o erro ilustra trabalhar sobre sua resposta; pedir desculpas pode pôr essa compreensão revista em ação. A evidência não se torna verdadeira porque você a prefere. O exemplo trata de assumir responsabilidade pela resposta, e não de provar que você alcançou uma etapa espiritual.",
+      "example": "Suponha que você acuse alguém enquanto está com raiva e depois descubra que sua acusação era falsa. Reconhecer a raiva como sua já ilustra consciência de si. Examinar as evidências e reconhecer o erro ilustra o trabalho sobre sua resposta; pedir desculpas pode pôr essa compreensão revista em ação. A evidência não se torna verdadeira porque você a prefere. O exemplo trata de assumir responsabilidade pela resposta, e não de provar que você alcançou uma etapa espiritual.",
       "distinction": "Eu ou Ego não significa simplesmente egoísmo, personalidade comum ou todo pensamento passageiro. Eu, alma da consciência e si-mesmo espiritual são termos relacionados, mas distintos.",
       "connection": "Aqui, “Eu” não significa ser egoísta ou dar importância excessiva a si mesmo. Também não significa um controlador interior capaz de comandar instantaneamente cada sentimento. O Eu não desaparece quando você comete um erro ou encontra dificuldade para mudar um hábito. Steiner descreve uma individualidade que pode trabalhar gradualmente com suas experiências. As relações mais detalhadas com alma da consciência e si-mesmo espiritual aparecem na explicação opcional e na Lição 11. A seguir, distinguiremos pensar, sentir e querer como três atividades envolvidas em responder.",
       "checks": [
@@ -771,7 +771,7 @@
             "Ficar sem Eu sempre que cometo um erro."
           ],
           "answer": 0,
-          "explanation": "Irritação é o sentimento. Reconhecer “esta irritação é minha” relaciona a experiência consigo. Considerar como responder significa examinar o que fazer com ela. Steiner relaciona essas duas últimas relações ao Eu; elas não exigem que o sentimento desapareça nem garantem controle perfeito."
+          "explanation": "Irritação é o sentimento. Reconhecer “esta irritação é minha” relaciona a experiência a si mesmo. Considerar como responder significa examinar o que fazer com ela. Steiner relaciona esses dois últimos aspectos ao Eu; elas não exigem que o sentimento desapareça nem garantem controle perfeito."
         },
         {
           "type": "true-false",
@@ -786,7 +786,7 @@
         {
           "type": "reflection",
           "question": "O que muda entre sentir irritação, reconhecê-la como sua e considerar como responder?",
-          "explanation": "Irritação é o sentimento. Reconhecer “esta irritação é minha” relaciona a experiência consigo. Considerar como responder significa examinar o que fazer com ela. Steiner relaciona essas duas últimas relações ao Eu; elas não exigem que o sentimento desapareça nem garantem controle perfeito."
+          "explanation": "Irritação é o sentimento. Reconhecer “esta irritação é minha” relaciona a experiência a si mesmo. Considerar como responder significa examinar o que fazer com ela. Steiner relaciona esses dois últimos aspectos ao Eu; elas não exigem que o sentimento desapareça nem garantem controle perfeito."
         }
       ],
       "coverageNote": "O trecho trata do si-mesmo espiritual no Eu. Leia-o com as distinções ao redor sobre Eu e alma da consciência; uma resposta deliberada comum não detecta a individualidade espiritual."
@@ -837,7 +837,7 @@
       "coverageNote": "This passage belongs to the philosophical argument about intuitive thinking. It does not establish the later stage of supersensible Intuition or the training account of separated soul activities."
     },
     "pt": {
-      "intro": "Pensar, sentir e querer são atividades distinguíveis numa única vida. A filosofia da liberdade pergunta como pertencem umas às outras sem fazer de uma experiência imediata a explicação inteira da realidade.",
+      "intro": "Pensar, sentir e querer são atividades distinguíveis numa única vida. A Filosofia da Liberdade pergunta como pertencem umas às outras sem fazer de uma experiência imediata a explicação inteira da realidade.",
       "meaning": [
         "O pensar relaciona o que encontramos por conceitos. O sentir expressa como um encontro se relaciona comigo pessoalmente; o querer expressa minha relação ativa com aquilo que encontro. Essas direções podem ocorrer no mesmo acontecimento. Um sentimento intenso ou intenção imediata ainda exige compreensão para explicar seu lugar nesse acontecimento.",
         "Steiner critica teorias que elevam sentimento ou vontade pessoais a um princípio universal. Sua objeção não retira nenhuma dessas atividades da vida. Trata de considerar suficiente um tipo de experiência interior para explicar tudo, esquecendo as relações conceituais necessárias para compreendê-lo.",
@@ -847,7 +847,7 @@
       "keyConcept": "O pensar compreende relações; o sentir torna um encontro pessoalmente significativo; o querer dirige a pessoa à atividade. A distinção não divide a pessoa.",
       "example": "Uma vizinha não consegue chegar a uma consulta. Você sente preocupação, supõe que ela precisa de conselhos e começa a explicar. Ela diz que já sabe o que fazer, mas não tem transporte. A preocupação é seu sentimento; a suposição equivocada é sua interpretação. O pensar pode rever essa interpretação enquanto você escuta. A preocupação pode se aprofundar ao compreender a dificuldade, enquanto o querer dirige seu esforço para uma resposta mais adequada.",
       "distinction": "Pensar, sentir e querer não são uma tradução direta dos membros físico, etérico e astral. Pensar intuitivo aqui também não significa qualquer palpite repentino nem a etapa posterior de Intuição suprassensível.",
-      "connection": "Pensar, sentir e querer se influenciam, em vez de seguir uma ordem rígida. A preocupação pode motivar atenção mais cuidadosa; perguntar sobre transporte pode revelar uma dificuldade que muda sua compreensão e seu plano. São atividades da pessoa. Não correspondem diretamente a corpo físico, corpo vital e corpo astral: as três atividades e os membros corporais descrevem relações diferentes. A seguir, usaremos essas distinções para compreender o vocabulário mais detalhado da alma.",
+      "connection": "Pensar, sentir e querer se influenciam, em vez de seguir uma ordem rígida. A preocupação pode motivar atenção mais cuidadosa; perguntar sobre transporte pode revelar uma dificuldade que muda sua compreensão e seu plano. São atividades da pessoa. Não correspondem diretamente ao corpo físico, ao corpo vital e ao corpo astral: as três atividades e os membros corporais descrevem relações diferentes. A seguir, usaremos essas distinções para compreender o vocabulário mais detalhado da alma.",
       "checks": [
         {
           "type": "choice",
@@ -926,7 +926,7 @@
     "pt": {
       "intro": "O mesmo ser humano aparece em descrições tríplices, quádruplas, de sete e de nove membros. As contagens acompanham relações e perguntas organizadoras diferentes, não anatomias materiais concorrentes.",
       "meaning": [
-        "Alguém critica você. Sentir-se magoado ilustra a alma senciente. Pensar no que a pessoa quer dizer e em como responder ilustra a alma intelectual. Perguntar se a crítica é verdadeira, mesmo que desagrade, ilustra a alma da consciência. São aspectos distinguíveis de uma vida interior. Não correspondem diretamente a pensar, sentir e querer: o pensar participa tanto de considerar uma resposta prática quanto de examinar o que é verdadeiro. A descrição de nove membros situa essas três distinções da alma na descrição mais ampla de nove membros de Steiner, entre corpo, alma e espírito. Comece pelas funções; use os nomes para distingui-las.",
+        "Alguém critica você. Sentir-se magoado ilustra a alma senciente. Pensar no que a pessoa quer dizer e em como responder ilustra a alma intelectual. Perguntar se a crítica é verdadeira, mesmo que desagrade, ilustra a alma da consciência. São aspectos distinguíveis de uma vida interior. Não correspondem diretamente a pensar, sentir e querer: o pensar participa tanto de considerar uma resposta prática quanto de examinar o que é verdadeiro. A descrição de nove membros situa essas três distinções da alma na concepção mais ampla de Steiner, entre corpo, alma e espírito. Comece pelas funções; use os nomes para distingui-las.",
         "Na concepção de Steiner, o corpo anímico diz respeito à mediação corporal da sensação; a alma senciente diz respeito a vivenciá-la interiormente. Ouvir um som já envolve experiência interior; prazer ou irritação acrescenta sentimento. A distinção é, portanto, entre mediação corporal e experiência vivida, não entre ouvir e sentir. Steiner agrupa corpo anímico e alma senciente porque atuam juntos como uma unidade na vida terrestre. Suas funções diferentes continuam tendo significado nessa unidade. Esse é o par por trás do nome agrupado corpo astral, apresentado na Lição 8.",
         "A alma da consciência diz respeito a receber verdade e bondade independentemente de gostos e desgostos pessoais. O si-mesmo espiritual diz respeito a esse mesmo conteúdo espiritual acolhido pelo Eu e integrado ao ser individual. A distinção é entre a verdade como algo independente de mim e essa verdade acolhida em minha individualidade espiritual. Steiner os agrupa porque a alma da consciência é onde esse conteúdo espiritual entra na vida consciente individual. São aspectos ligados, não nomes intercambiáveis. Na tabela, esses dois pares produzem sete entradas, mantendo representadas todas as nove distinções.",
         "Outra descrição de sete membros pergunta sobre o desenvolvimento espiritual. Começa com corpo físico, corpo vital, corpo astral e Eu e depois considera três aspectos transformados: si-mesmo espiritual, espírito vital e homem-espírito. Steiner descreve o Eu transformando a organização astral em direção ao si-mesmo espiritual, a organização vital em direção ao espírito vital e a organização física em direção ao homem-espírito. Essa descrição trata da transformação espiritual proposta; a descrição anterior de sete agrupa aspectos relacionados. Ambas contam sete, mas organizam relações diferentes."
