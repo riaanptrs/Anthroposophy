@@ -2507,17 +2507,17 @@
     "id": 30,
     "en": {
       "paragraphs": [
-        "Developmental maps ask which capacities are changing and what support may be appropriate. They do not provide a complete description of every child at a given age.",
-        "Development concerns changing capacities and their cooperation. Following a spoken explanation, handling materials and judging an argument are different demands. A learner may manage one and need help with another. Age provides context, while experience, the task and the learner's actual response help determine suitable support.",
-        "In the developmental account introduced here, head-related activity, heart and breathing, and metabolism and limbs receive changing emphasis. Emphasis means one system is foregrounded while the others support it; it does not mean the other systems stop working. This describes the author's interpretation of development, rather than an individual readiness test.",
-        "Suppose two children of the same age struggle with fractions. One understands when sharing physical pieces; the other can explain verbally but misreads the notation. The same age label does not select the same help. Identify the difficulty, choose support and check what changes. Next we use this teaching cycle in a Waldorf example."
+        "We now move from spiritual accounts to their proposed applications in education. A developmental map is a broad account of how capacities may change across childhood. It can suggest what to look for and what support to consider, but it is not a timetable every child follows exactly. This lesson draws on Hermann Koepke’s Encountering the Self, an anthroposophical interpretation of childhood development. Begin with the individual learner and the task as well as the map.",
+        "Suppose two children of the same age struggle with written fractions. One can share physical pieces equally but has difficulty connecting those pieces with a written fraction. Try placing the pieces beside the matching symbols and ask the child to explain the connection. The other can explain the sharing verbally but misreads the notation. Try clarifying what each number in the fraction represents, then check it against a sharing example. These are possible responses to observed difficulties, rather than fixed types of learner.",
+        "Review what happens after offering support. Can each child explain the fraction and use the notation in another example? If difficulty remains, ask what is confusing and revise the support. Age gives context; the learner’s experience, the task and their response provide further information. A developmental map can guide a question, while observation helps decide what to try and whether it helped. The next lesson follows this cycle of observation, teaching and review in a Waldorf example.",
+        "For closer study, Koepke describes changing emphasis among head-related activity, heart and breathing, and metabolism and limbs. His diagram’s arrows show the other two systems supporting the one receiving developmental emphasis. Emphasis therefore means changing cooperation within a whole, not that the other systems stop working. These bodily and spiritual relationships are his anthroposophical interpretation, rather than direct measurements of an individual child’s readiness. The detailed age markings and source explanation are retained in the optional source reading."
       ],
       "title": "Human Development",
-      "goal": "How do capacities change, and why is an age map different from observing a person?",
+      "goal": "Why might two children of the same age need different help with the same task?",
       "checks": [
         [
-          "A developmental map emphasizes one bodily system. Does it imply that the other systems stop contributing?",
-          "No. In Koepke’s diagram, the other two support the system receiving emphasis. The point is changing cooperation within a whole. It does not establish an individual child’s readiness for a task."
+          "Why might two children of the same age need different help with written fractions?",
+          "The shared age does not identify the particular difficulty. One child may need to connect physical pieces with symbols; another may need clarification of the notation. Observe what each can do, try suitable support and check their understanding in another example. These are possibilities to investigate, not permanent learner types."
         ],
         [
           "Two children of the same age respond differently to a task. How should you use a developmental map?",
@@ -2525,25 +2525,52 @@
         ]
       ],
       "paragraphHeadings": [
-        "Changing capacities in development",
-        "Match support to the task",
-        "Emphasis and cooperation",
-        "Two learners with different needs"
-      ]
+        "What a developmental map means",
+        "Two children working with fractions",
+        "Check what the support changes",
+        "Koepke’s bodily-system interpretation"
+      ],
+      "relationshipTable": {
+        "caption": "Possible teaching responses to observed difficulties — a course reading aid",
+        "headers": [
+          "What the learner does",
+          "Support to try",
+          "What to check next"
+        ],
+        "rows": [
+          [
+            "Shares physical pieces but struggles to connect them with written fractions.",
+            "Place the pieces beside the matching written fraction and discuss the connection.",
+            "Can the child connect the pieces and symbols in a new example?"
+          ],
+          [
+            "Explains sharing verbally but misreads fraction notation.",
+            "Clarify what each number represents and relate it to the sharing.",
+            "Can the child explain and use the notation in another example?"
+          ]
+        ]
+      },
+      "optionalSteps": [
+        {
+          "paragraph": 3,
+          "label": "Further study: emphasis and cooperation in Koepke’s developmental account"
+        }
+      ],
+      "relationshipTableAfterParagraph": 1
     },
     "pt": {
       "paragraphs": [
-        "Mapas de desenvolvimento perguntam quais capacidades estão mudando e qual apoio pode ser adequado. Não oferecem uma descrição completa de toda criança de determinada idade.",
-        "Desenvolvimento diz respeito à mudança das capacidades e de sua cooperação. Seguir uma explicação oral, manusear materiais e julgar um argumento são exigências diferentes. Um estudante pode realizar uma e precisar de ajuda em outra. A idade oferece contexto; experiência, tarefa e resposta efetiva ajudam a determinar o apoio adequado.",
-        "Na concepção de desenvolvimento apresentada aqui, atividade relacionada à cabeça, coração e respiração, metabolismo e membros recebem ênfases variáveis. Ênfase significa que um sistema está em primeiro plano enquanto os outros o apoiam; não significa que os demais deixem de funcionar. Isso descreve a interpretação do autor, em vez de um teste individual de prontidão.",
-        "Suponha que duas crianças da mesma idade tenham dificuldade com frações. Uma compreende ao repartir peças concretas; a outra explica verbalmente, mas interpreta mal a notação. A mesma categoria etária não seleciona a mesma ajuda. Identifique a dificuldade, escolha um apoio e confira a mudança. A seguir, usaremos esse ciclo de ensino num exemplo Waldorf."
+        "Agora passamos das concepções espirituais às suas aplicações propostas na educação. Um mapa do desenvolvimento é uma descrição ampla de como as capacidades podem mudar ao longo da infância. Pode sugerir o que observar e que apoio considerar, mas não é um cronograma que toda criança segue exatamente. Esta lição se baseia em Encountering the Self, de Hermann Koepke, uma interpretação antroposófica do desenvolvimento infantil. Considere o estudante individual e a tarefa, junto com o mapa.",
+        "Suponha que duas crianças da mesma idade tenham dificuldade com frações escritas. Uma consegue repartir peças concretas igualmente, mas tem dificuldade para relacioná-las a uma fração escrita. Experimente colocar as peças ao lado dos símbolos correspondentes e peça à criança que explique a relação. A outra consegue explicar verbalmente a divisão, mas interpreta mal a notação. Experimente esclarecer o que cada número da fração representa e depois conferir isso num exemplo de repartição. São respostas possíveis a dificuldades observadas, em vez de tipos fixos de estudante.",
+        "Reveja o que acontece depois de oferecer apoio. Cada criança consegue explicar a fração e usar a notação em outro exemplo? Se a dificuldade continuar, pergunte o que está confuso e reveja o apoio. A idade oferece contexto; a experiência do estudante, a tarefa e sua resposta fornecem outras informações. Um mapa do desenvolvimento pode orientar uma pergunta, enquanto a observação ajuda a decidir o que experimentar e se isso ajudou. A próxima lição acompanha esse ciclo de observação, ensino e revisão num exemplo Waldorf.",
+        "Para um estudo mais próximo, Koepke descreve mudanças de ênfase entre a atividade relacionada à cabeça, coração e respiração, e metabolismo e membros. As setas de seu diagrama mostram os outros dois sistemas apoiando aquele que recebe ênfase no desenvolvimento. Ênfase significa, portanto, cooperação em mudança dentro de um todo, não que os outros sistemas deixem de funcionar. Essas relações corporais e espirituais são sua interpretação antroposófica, em vez de medidas diretas da prontidão de uma criança específica. As marcações etárias detalhadas e a explicação da fonte permanecem na leitura opcional das fontes."
       ],
       "title": "O desenvolvimento humano",
-      "goal": "Como as capacidades mudam e por que um mapa etário difere de observar uma pessoa?",
+      "goal": "Por que duas crianças da mesma idade podem precisar de ajudas diferentes na mesma tarefa?",
       "checks": [
         [
-          "Um mapa do desenvolvimento destaca um sistema corporal. Isso implica que os demais deixam de contribuir?",
-          "Não. No diagrama de Koepke, os outros dois apoiam o sistema que recebe destaque. O ponto é a cooperação em mudança dentro de um todo. Isso não estabelece a prontidão de uma criança específica para uma tarefa."
+          "Por que duas crianças da mesma idade podem precisar de ajudas diferentes com frações escritas?",
+          "A mesma idade não identifica a dificuldade específica. Uma criança pode precisar relacionar peças concretas a símbolos; outra pode precisar de esclarecimento da notação. Observe o que cada uma consegue fazer, experimente um apoio adequado e confira a compreensão em outro exemplo. São possibilidades a investigar, não tipos permanentes de estudante."
         ],
         [
           "Duas crianças da mesma idade respondem de modo diferente a uma tarefa. Como utilizar um mapa do desenvolvimento?",
@@ -2551,11 +2578,38 @@
         ]
       ],
       "paragraphHeadings": [
-        "Capacidades que mudam no desenvolvimento",
-        "Ajuste o apoio à tarefa",
-        "Ênfase e cooperação",
-        "Dois estudantes com necessidades diferentes"
-      ]
+        "O que significa um mapa do desenvolvimento",
+        "Duas crianças trabalhando com frações",
+        "Confira o que o apoio modifica",
+        "A interpretação dos sistemas corporais em Koepke"
+      ],
+      "relationshipTable": {
+        "caption": "Respostas educativas possíveis a dificuldades observadas — apoio de leitura do curso",
+        "headers": [
+          "O que o estudante faz",
+          "Apoio a experimentar",
+          "O que conferir em seguida"
+        ],
+        "rows": [
+          [
+            "Reparte peças concretas, mas tem dificuldade para relacioná-las a frações escritas.",
+            "Coloque as peças ao lado da fração escrita correspondente e converse sobre a relação.",
+            "A criança consegue relacionar peças e símbolos num novo exemplo?"
+          ],
+          [
+            "Explica verbalmente a repartição, mas interpreta mal a notação da fração.",
+            "Esclareça o que cada número representa e relacione isso à repartição.",
+            "A criança consegue explicar e usar a notação em outro exemplo?"
+          ]
+        ]
+      },
+      "optionalSteps": [
+        {
+          "paragraph": 3,
+          "label": "Aprofundamento: ênfase e cooperação na concepção de desenvolvimento de Koepke"
+        }
+      ],
+      "relationshipTableAfterParagraph": 1
     }
   },
   {
