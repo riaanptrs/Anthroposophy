@@ -2027,17 +2027,17 @@
     "id": 25,
     "en": {
       "paragraphs": [
-        "Spiritual Intuition, in Steiner’s first lecture on Luke, means conscious participation in a spiritual being’s inner nature through developed spiritual love. It goes beyond perceiving an image or receiving the being’s communication. This is the lecture’s claimed spiritual capacity, distinct from a quick guess or everyday empathy.",
-        "The sequence concerns a changing relationship to what is known. Imagination perceives spiritual expression; Inspiration receives the being's self-expression; Intuition, in the account introduced here, participates consciously in the being's inner nature. It is not simply an image becoming stronger or an explanation becoming more detailed.",
-        "Steiner gives developed spiritual love a cognitive role: openness to the being is part of how it is known. Ordinary affection helps us understand why care can oppose self-centred projection, but does not by itself amount to the spiritual participation claimed. The technical term refers to a proposed faculty of knowledge.",
-        "A hunch that feels certain still needs grounds; its immediacy does not make it spiritual Intuition. Keep that distinct also from moral intuition, the ethical insight studied next. Shared vocabulary does not make the two tasks identical: one concerns a claimed mode of spiritual cognition, the other the understood source of a deed."
+        "Lesson 23 introduced Imagination: spiritual beings are said to appear through living images. Lesson 24 introduced Inspiration: their own communication makes their qualities and relationships understood. In the same lecture on Luke, Steiner calls a further way of knowing Intuition. He describes conscious participation in a spiritual being’s inner nature. Each term names a different relationship to the being, rather than a stronger version of the same experience.",
+        "Here, “participation” means that Steiner proposes knowing a being from within, beyond perceiving its image or receiving its communication. He says developed spiritual love makes this possible. Love therefore has a role in knowing in his account; it is not described only as a feeling of affection. This is what “a cognitive role” means: a role in how something becomes known. His claim concerns a developed spiritual capacity, rather than simply feeling close to someone or being confident that you understand them.",
+        "Consider a friend who says she needs quiet after a difficult night. You listen, accept her explanation and offer to postpone your visit. This illustrates consideration and openness to what she tells you, instead of assuming that your wishes explain her needs. It can help us understand why care matters to a relationship. It does not demonstrate the spiritual participation Steiner describes or give you complete access to your friend’s inner life. The everyday example explains one limited point, while his claim goes further.",
+        "In everyday speech, an intuition can mean a hunch: a quick feeling that something is true. Suddenness, confidence or even a correct guess does not establish the spiritual capacity described here. The next lesson introduces moral intuition, an individually understood ethical idea that can guide an action. That is another use of the word in Steiner’s work. Keep the present sequence clear: spiritual images, the being’s own communication, then conscious participation in its inner nature."
       ],
       "title": "Intuition",
-      "goal": "How does Steiner distinguish spiritual Intuition from an ordinary hunch?",
+      "goal": "What does spiritual Intuition add to Imagination and Inspiration in Steiner’s account?",
       "checks": [
         [
-          "Explain the change from Imagination through Inspiration to Intuition without calling it increasing vividness.",
-          "The relationships are perceiving spiritual expression, receiving a being's self-expression and conscious participation in its inner nature. The account proposes different modes of knowing, rather than simply stronger pictures or more confident guesses."
+          "What changes in how a spiritual being is known across Imagination, Inspiration and Intuition?",
+          "Steiner describes three relationships: perceiving the being through living images, understanding its own communication, and consciously participating in its inner nature through developed spiritual love. The change concerns the way of knowing, rather than only greater vividness or confidence."
         ],
         [
           "Someone has a sudden, confident guess and calls it spiritual Intuition. What is missing from that explanation?",
@@ -2045,25 +2045,47 @@
         ]
       ],
       "paragraphHeadings": [
-        "Conscious spiritual participation",
-        "Three relationships of knowing",
-        "The cognitive role of love",
-        "Intuition and a confident hunch"
-      ]
+        "Connecting the three modes of knowing",
+        "Participation and the role of spiritual love",
+        "What the friend example illustrates",
+        "A hunch and moral intuition"
+      ],
+      "relationshipTable": {
+        "caption": "Three modes of knowing in Steiner’s Luke lecture — a course reading aid",
+        "headers": [
+          "Mode",
+          "Relationship to the spiritual being"
+        ],
+        "rows": [
+          [
+            "Imagination",
+            "Perceiving the being through living spiritual images."
+          ],
+          [
+            "Inspiration",
+            "Understanding the being’s qualities and relationships through its own communication."
+          ],
+          [
+            "Intuition",
+            "Consciously participating in the being’s inner nature through developed spiritual love."
+          ]
+        ]
+      },
+      "relationshipTableAfterParagraph": 1
     },
     "pt": {
       "paragraphs": [
-        "Intuição espiritual, na primeira palestra de Steiner sobre Lucas, significa participação consciente na natureza interior de um ser espiritual por meio de amor espiritual desenvolvido. Vai além de perceber uma imagem ou receber a comunicação do ser. É a capacidade espiritual afirmada pela palestra, distinta de uma suposição rápida ou da empatia cotidiana.",
-        "A sequência diz respeito à mudança da relação com o que é conhecido. A Imaginação percebe a expressão espiritual; a Inspiração recebe a expressão do próprio ser; a Intuição, na concepção apresentada aqui, participa conscientemente de sua natureza interior. Não é apenas uma imagem que se intensifica ou uma explicação que ganha detalhes.",
-        "Steiner dá ao amor espiritual desenvolvido um papel cognitivo: a abertura ao ser faz parte do modo de conhecê-lo. O afeto comum ajuda a compreender por que o cuidado pode se opor à projeção autocentrada, mas não constitui sozinho a participação espiritual afirmada. O termo técnico se refere a uma faculdade proposta de conhecimento.",
-        "Um palpite que parece certo ainda precisa de fundamentos; ser imediato não o torna Intuição espiritual. Distinga isso também da intuição moral, a compreensão ética estudada a seguir. O vocabulário compartilhado não torna idênticas as tarefas: uma diz respeito a um modo afirmado de conhecimento espiritual; a outra, à origem compreendida de uma ação."
+        "A Lição 23 apresentou a Imaginação: seres espirituais, segundo Steiner, aparecem por meio de imagens vivas. A Lição 24 apresentou a Inspiração: a comunicação dos próprios seres permite compreender suas qualidades e relações. Na mesma palestra sobre Lucas, Steiner chama de Intuição um modo adicional de conhecer. Ele descreve uma participação consciente na natureza interior de um ser espiritual. Cada termo nomeia uma relação diferente com o ser, em vez de uma versão mais intensa da mesma experiência.",
+        "Aqui, “participação” significa que Steiner propõe conhecer um ser a partir de seu interior, além de perceber sua imagem ou receber sua comunicação. Ele afirma que o amor espiritual desenvolvido torna isso possível. O amor tem, portanto, um papel no conhecer em sua concepção; não é descrito apenas como sentimento de afeto. É isso que significa “um papel cognitivo”: um papel no modo como algo se torna conhecido. Sua afirmação trata de uma capacidade espiritual desenvolvida, em vez de apenas sentir proximidade com alguém ou ter certeza de compreendê-lo.",
+        "Considere uma amiga que diz precisar de silêncio depois de uma noite difícil. Você escuta, aceita a explicação e oferece adiar sua visita. Isso ilustra consideração e abertura ao que ela diz, em vez de supor que seus próprios desejos expliquem as necessidades dela. Pode ajudar a compreender por que o cuidado importa numa relação. Não demonstra a participação espiritual descrita por Steiner nem lhe dá acesso completo à vida interior da amiga. O exemplo cotidiano explica um ponto limitado, enquanto a afirmação dele vai além.",
+        "Na fala cotidiana, uma intuição pode significar um palpite: uma impressão rápida de que algo é verdadeiro. A rapidez, a confiança ou mesmo um palpite correto não estabelecem a capacidade espiritual descrita aqui. A próxima lição apresenta a intuição moral, uma ideia ética compreendida individualmente que pode orientar uma ação. Esse é outro uso da palavra na obra de Steiner. Mantenha clara a sequência atual: imagens espirituais, a comunicação do próprio ser e, depois, participação consciente em sua natureza interior."
       ],
       "title": "A Intuição",
-      "goal": "Como Steiner distingue Intuição espiritual de um palpite comum?",
+      "goal": "O que a Intuição espiritual acrescenta à Imaginação e à Inspiração na concepção de Steiner?",
       "checks": [
         [
-          "Explique a mudança de Imaginação a Inspiração e Intuição sem chamá-la de aumento de nitidez.",
-          "As relações são perceber a expressão espiritual, receber a expressão do próprio ser e participar conscientemente de sua natureza interior. A concepção propõe modos diferentes de conhecer, em vez de apenas imagens mais fortes ou palpites mais confiantes."
+          "O que muda no modo de conhecer um ser espiritual ao passar por Imaginação, Inspiração e Intuição?",
+          "Steiner descreve três relações: perceber o ser por meio de imagens vivas, compreender sua própria comunicação e participar conscientemente de sua natureza interior por meio do amor espiritual desenvolvido. A mudança trata do modo de conhecer, e não apenas de maior nitidez ou confiança."
         ],
         [
           "Alguém tem um palpite súbito e confiante e o chama de Intuição espiritual. O que falta nessa explicação?",
@@ -2071,11 +2093,33 @@
         ]
       ],
       "paragraphHeadings": [
-        "Participação espiritual consciente",
-        "Três relações de conhecimento",
-        "O papel cognitivo do amor",
-        "Intuição e um palpite confiante"
-      ]
+        "Relacionar os três modos de conhecer",
+        "Participação e o papel do amor espiritual",
+        "O que o exemplo da amiga ilustra",
+        "Um palpite e a intuição moral"
+      ],
+      "relationshipTable": {
+        "caption": "Três modos de conhecer na palestra de Steiner sobre Lucas — apoio de leitura do curso",
+        "headers": [
+          "Modo",
+          "Relação com o ser espiritual"
+        ],
+        "rows": [
+          [
+            "Imaginação",
+            "Perceber o ser por meio de imagens espirituais vivas."
+          ],
+          [
+            "Inspiração",
+            "Compreender as qualidades e relações do ser por meio da comunicação dele próprio."
+          ],
+          [
+            "Intuição",
+            "Participar conscientemente da natureza interior do ser por meio do amor espiritual desenvolvido."
+          ]
+        ]
+      },
+      "relationshipTableAfterParagraph": 1
     }
   },
   {
