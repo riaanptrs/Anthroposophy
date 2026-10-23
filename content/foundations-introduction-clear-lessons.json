@@ -2677,55 +2677,99 @@
     "id": 32,
     "en": {
       "paragraphs": [
-        "Biodynamic agriculture combines whole-farm organization with a spiritual conception of nature. In his introduction to What Is Biodynamics?, Hugh J. Courtney identifies a living farm and Earth, celestial relationships, and specially made preparations. Farm individuality means considering soil, crops, animals and human work as interdependent parts of a functioning whole.",
-        "Trace a farm relationship: crops supply animal feed; animals produce manure; managed manure returns nutrients and organic matter to soil; soil conditions influence later crops. Farm individuality means planning these interdependencies together with the place and the people doing the work. Self-containment is an aim to examine, rather than an assumption that no farm needs outside resources.",
-        "Add more animals and follow the change. Feed demand rises and manure supply grows. If crops cannot provide enough feed, imports increase; if manure exceeds the land's capacity to use it well, management must change. More of one part therefore does not automatically improve the whole.",
-        "Biodynamics also includes horn manure, horn silica and compost preparations, with spiritual explanations of living forces and celestial relationships. Nutrient cycling explains interdependence; it does not by itself explain or establish those further claims. Next we examine another application, medicine, where describing a person and demonstrating treatment benefit are different tasks."
+        "Lesson 31 considered an educational application of anthroposophy. Biodynamic agriculture applies a spiritual conception of nature to farming. Hugh J. Courtney’s introduction to What Is Biodynamics? identifies three features: the farm and Earth understood as living, agricultural work related to celestial rhythms, and specially made preparations. “Farm individuality” means considering the soil, crops, animals, landscape and human work as interdependent parts of a particular farm.",
+        "Follow one practical relationship: crops supply animal feed; animals produce manure; managed manure returns nutrients and organic matter to soil; soil conditions affect later crops. Whole-farm planning considers these connections together. The aim of greater self-containment invites questions about what the farm can supply and what it must obtain elsewhere; it does not mean assuming that every farm can do without outside resources.",
+        "Suppose the farm adds animals. Feed demand rises and manure supply grows. Check whether crops can supply the additional feed and whether the land can use the manure appropriately. If not, reconsider animal numbers, crop planning or outside inputs. More animals do not automatically improve the whole. This example illustrates interdependence; it does not establish the spiritual explanations that also belong to biodynamics.",
+        "Celestial rhythms here means proposed relationships between agricultural work and the Sun, Moon and planets. Preparations are specially made materials used in biodynamic practice, including horn manure, horn silica and compost preparations. Courtney describes their intended role in terms of living forces, beyond nutrient quantities alone, and acknowledges unresolved research about calendar results. These proposals need their own explanation and evidence. The next lesson considers medicine, where describing a person and demonstrating treatment benefit are also different tasks."
       ],
       "title": "Biodynamic Agriculture",
-      "goal": "How do farm individuality, celestial rhythms and preparations fit together?",
+      "goal": "How does biodynamics connect whole-farm planning with its further spiritual proposals?",
       "checks": [
         [
-          "A farm adds more animals without changing its feed plan. What should a whole-farm explanation trace?",
-          "More animals need feed and produce manure; this reconnects stocking with crops, soil and available resources. Those practical relationships must be examined. Explaining them does not establish Courtney’s further claims about preparations or celestial influences."
+          "A farm adds animals. What would you check before calling this an improvement?",
+          "Trace the extra feed needed, the manure produced, the crops and soil involved, and available resources. Ask whether the revised arrangement works for this farm. These practical checks explain whole-farm relationships; they do not establish claims about celestial rhythms or preparations."
         ],
         [
-          "Why would a list of preparations give an incomplete explanation of biodynamics?",
-          "It names one practice but leaves out the conception of the farm and the relationships among soil, plants, animals, manure and rhythms. Explain what the preparations are intended to contribute within that whole."
+          "Why does explaining the manure cycle not explain the whole biodynamic proposal?",
+          "The cycle explains practical interdependence. Courtney also describes the farm and Earth as living within a living cosmos, relates work to celestial rhythms, and gives preparations a role involving living forces. Those further premises and proposed effects need their own examination."
         ]
       ],
       "paragraphHeadings": [
-        "The farm as an interdependent whole",
-        "Follow feed, manure, soil and crops",
-        "What adding animals changes",
-        "Preparations and further spiritual claims"
-      ]
+        "Three features of biodynamics",
+        "Follow the farm’s practical relationships",
+        "What changes when animals are added",
+        "Rhythms, preparations and their proposed role"
+      ],
+      "relationshipTable": {
+        "caption": "Courtney’s three features — an introductory reading aid",
+        "headers": [
+          "Feature",
+          "Meaning in this account"
+        ],
+        "rows": [
+          [
+            "Living farm and Earth",
+            "Consider the farm’s interdependencies within a spiritual conception of living nature."
+          ],
+          [
+            "Celestial relationships",
+            "Relate agricultural work to proposed influences of the Sun, Moon and planets."
+          ],
+          [
+            "Preparations",
+            "Use specially made materials intended to work with living forces."
+          ]
+        ]
+      },
+      "relationshipTableAfterParagraph": 0
     },
     "pt": {
       "paragraphs": [
-        "A agricultura biodinâmica combina a organização da propriedade como um todo com uma concepção espiritual da natureza. Na introdução de O que é biodinâmica?, Hugh J. Courtney identifica a fazenda e a Terra como vivas, as relações celestes e os preparados especiais. Individualidade agrícola significa considerar solo, culturas, animais e trabalho humano como partes interdependentes de um todo em funcionamento.",
-        "Acompanhe uma relação agrícola: culturas fornecem alimento aos animais; animais produzem esterco; o esterco manejado devolve nutrientes e matéria orgânica ao solo; as condições do solo influenciam culturas posteriores. Individualidade agrícola significa planejar essas interdependências junto com o lugar e as pessoas que trabalham. A autonomia é uma finalidade a examinar, e não a suposição de que nenhuma fazenda precisa de recursos externos.",
-        "Acrescente animais e acompanhe a mudança. A demanda por alimento cresce e a oferta de esterco aumenta. Se as culturas não fornecerem alimento suficiente, crescem as importações; se o esterco exceder a capacidade de uso adequado da terra, o manejo precisa mudar. Mais de uma parte não melhora automaticamente o todo.",
-        "A biodinâmica também inclui preparados de esterco de chifre, sílica de chifre e compostagem, com explicações espirituais de forças vitais e relações celestes. A ciclagem de nutrientes explica a interdependência; não explica nem estabelece sozinha essas afirmações adicionais. A seguir, examinaremos outra aplicação, a medicina, na qual descrever uma pessoa e demonstrar benefício terapêutico são tarefas diferentes."
+        "A Lição 31 considerou uma aplicação educativa da antroposofia. A agricultura biodinâmica aplica à agricultura uma concepção espiritual da natureza. A introdução de Hugh J. Courtney a What Is Biodynamics? identifica três características: a propriedade e a Terra compreendidas como vivas, o trabalho agrícola relacionado a ritmos celestes e os preparados especiais. “Individualidade agrícola” significa considerar solo, culturas, animais, paisagem e trabalho humano como partes interdependentes de uma propriedade específica.",
+        "Acompanhe uma relação prática: as culturas fornecem alimento aos animais; os animais produzem esterco; o esterco manejado devolve nutrientes e matéria orgânica ao solo; as condições do solo afetam as culturas seguintes. O planejamento da propriedade considera essas ligações em conjunto. A finalidade de maior autossuficiência convida a perguntar o que a propriedade pode fornecer e o que precisa obter fora; não significa supor que toda propriedade dispense recursos externos.",
+        "Suponha que a propriedade acrescente animais. A demanda de alimento aumenta e a produção de esterco cresce. Confira se as culturas podem fornecer o alimento adicional e se a terra pode aproveitar o esterco adequadamente. Se não, reconsidere o número de animais, o planejamento das culturas ou os insumos externos. Mais animais não melhoram automaticamente o conjunto. O exemplo ilustra interdependência; não estabelece as explicações espirituais que também pertencem à biodinâmica.",
+        "Ritmos celestes significa aqui relações propostas entre o trabalho agrícola e o Sol, a Lua e os planetas. Preparados são materiais elaborados especialmente para a prática biodinâmica, incluindo esterco de chifre, sílica de chifre e preparados de composto. Courtney descreve seu papel pretendido em termos de forças vivas, além de quantidades de nutrientes, e reconhece pesquisas ainda inconclusivas sobre resultados de calendários. Essas propostas precisam de explicação e evidência próprias. A próxima lição considera a medicina, na qual descrever uma pessoa e demonstrar benefício terapêutico também são tarefas diferentes."
       ],
       "title": "A agricultura biodinâmica",
-      "goal": "Como se relacionam a individualidade da fazenda, os ritmos celestes e os preparados?",
+      "goal": "Como a biodinâmica relaciona o planejamento da propriedade às suas propostas espirituais adicionais?",
       "checks": [
         [
-          "Uma propriedade acrescenta animais sem mudar o plano de alimentação. O que uma explicação da propriedade como um todo deve acompanhar?",
-          "Mais animais precisam de alimento e produzem esterco; isso reconecta a quantidade de animais às culturas, ao solo e aos recursos disponíveis. Essas relações práticas precisam ser examinadas. Explicá-las não estabelece as afirmações adicionais de Courtney sobre preparados ou influências celestes."
+          "Uma propriedade acrescenta animais. O que você conferiria antes de chamar isso de melhoria?",
+          "Acompanhe o alimento adicional necessário, o esterco produzido, as culturas e o solo envolvidos e os recursos disponíveis. Pergunte se a organização revista funciona para essa propriedade. Essas verificações práticas explicam relações do conjunto; não estabelecem afirmações sobre ritmos celestes ou preparados."
         ],
         [
-          "Por que uma lista de preparados daria uma explicação incompleta da biodinâmica?",
-          "Ela nomeia uma prática, mas exclui a concepção da fazenda e as relações entre solo, plantas, animais, esterco e ritmos. Explique o que os preparados pretendem acrescentar a esse conjunto."
+          "Por que explicar o ciclo do esterco não explica toda a proposta biodinâmica?",
+          "O ciclo explica a interdependência prática. Courtney também descreve a propriedade e a Terra como vivas num cosmos vivo, relaciona o trabalho a ritmos celestes e atribui aos preparados um papel envolvendo forças vivas. Essas premissas adicionais e os efeitos propostos precisam de exame próprio."
         ]
       ],
       "paragraphHeadings": [
-        "A fazenda como um todo interdependente",
-        "Acompanhe alimento, esterco, solo e culturas",
+        "Três características da biodinâmica",
+        "Acompanhe as relações práticas da propriedade",
         "O que muda ao acrescentar animais",
-        "Preparados e afirmações espirituais adicionais"
-      ]
+        "Ritmos, preparados e seu papel proposto"
+      ],
+      "relationshipTable": {
+        "caption": "As três características de Courtney — apoio introdutório de leitura",
+        "headers": [
+          "Característica",
+          "Significado nessa concepção"
+        ],
+        "rows": [
+          [
+            "Propriedade e Terra vivas",
+            "Considerar as interdependências da propriedade numa concepção espiritual da natureza viva."
+          ],
+          [
+            "Relações celestes",
+            "Relacionar o trabalho agrícola a influências propostas do Sol, da Lua e dos planetas."
+          ],
+          [
+            "Preparados",
+            "Utilizar materiais elaborados especialmente para atuar sobre forças vivas."
+          ]
+        ]
+      },
+      "relationshipTableAfterParagraph": 0
     }
   },
   {
@@ -2733,55 +2777,99 @@
     "id": 33,
     "en": {
       "paragraphs": [
-        "Anthroposophical medicine brings Steiner's spiritual account of the human being into an approach to health and illness. This introduction explains the relationship between its constitutional framework, an interpretation of symptoms and a treatment claim through a historical school-doctor example.",
-        "The constitutional vocabulary supplies a way of asking about physical organization, life processes, inward experience and individuality together. Applying that vocabulary to health is an interpretive framework. It does not, on its own, identify the cause of a symptom or show that a particular intervention helps.",
-        "Work through a historical argument: an author reports recurring complaints, links them to development and proposes a remedy. Reporting concerns what happened; explanation concerns why; treatment concerns what changes the outcome. A plausible description can leave both the proposed cause and the remedy unestablished.",
-        "In Holtzapfel's school-doctor contribution, spiritual-development interpretations accompany uncertainty about the condition and claims for iron preparations. Those claims require evidence beyond the interpretation. Recurrent symptoms call for appropriate medical assessment, not diagnosis from age or spiritual vocabulary. Next we return to artistic applications, where we can directly compare forms and experiences."
+        "Anthroposophical medicine brings a spiritual account of the human being into an approach to health and illness. Its constitutional vocabulary asks about bodily organization, life processes, inward experience and individuality together. That gives a framework for interpreting a person’s condition. It does not by itself identify the cause of a symptom or demonstrate that a treatment helps. Here we study a narrow historical example by school doctor Walter Holtzapfel in Hermann Koepke’s book.",
+        "Consider a fictional child who repeatedly reports stomach pain. Recording when the pain occurs and seeking appropriate medical assessment concern the reported problem. Suggesting why it occurs is a further step. Claiming that a particular remedy improves the outcome is another. A symptom record can help describe the situation while leaving both its cause and an effective treatment unresolved.",
+        "Holtzapfel describes recurring complaints around the ninth-year transition and connects them with bodily processes and the I’s development. He acknowledges uncertainty about the explanation and the absence of a specific treatment, yet proceeds to claims about iron preparations. Distinguish his reported observations, his spiritual-development interpretation and his therapeutic proposal. These are his words and claims, rather than Steiner’s own medical testimony.",
+        "A treatment claim needs evidence about benefit and harm beyond the interpretation used to propose it. The historical passage cannot decide what causes an individual child’s pain or select a remedy for them. Recurrent symptoms call for appropriate medical assessment. Understanding Holtzapfel’s argument means keeping its steps and uncertainties visible. The next lesson returns to art, where we can compare changes in colour, space and movement with the experiences they invite."
       ],
       "title": "Anthroposophical Medicine",
-      "goal": "How can we study a historical medical explanation while keeping its author and uncertainty visible?",
+      "goal": "How do observation, a proposed cause and a treatment claim differ?",
       "checks": [
         [
-          "A historical author reports recurring symptoms and then claims a remedy helps. Has the description established the benefit?",
-          "No. Describing a pattern, explaining a cause and showing treatment benefit are different tasks. Holtzapfel’s admitted uncertainty remains relevant even after his therapeutic proposal. The passage cannot select a remedy for an individual child."
+          "A source describes recurring symptoms, proposes a cause and recommends a remedy. Which of these steps shows that the remedy helps?",
+          "None establishes benefit simply by being stated. The symptom report describes a problem, the proposed cause interprets it, and the remedy recommendation makes a treatment claim. Benefit and harm require evidence beyond those statements."
         ],
         [
-          "A historical passage describes a symptom and recommends a remedy. What should you distinguish?",
-          "Distinguish the observation, the proposed explanation and the treatment claim. Explain their relationship accurately, while recognising that using a remedy requires evidence and clinical judgement beyond this lesson."
+          "Why should the author’s uncertainty remain visible beside the iron-preparation claims?",
+          "Holtzapfel’s therapeutic proposal follows an admission of uncertainty. Keeping both visible prevents a proposed explanation and remedy from appearing to be verified treatment. The chapter is a historical contribution, not instructions for treating an individual child."
         ]
       ],
       "paragraphHeadings": [
-        "A constitutional approach to health",
-        "Framework, symptom and cause",
-        "Work through a treatment argument",
-        "What a remedy claim requires"
-      ]
+        "A view of the whole person",
+        "Start with what was reported",
+        "Identify the historical author’s argument",
+        "Ask what supports a treatment claim"
+      ],
+      "relationshipTable": {
+        "caption": "Three steps in a historical medical argument — a reading aid",
+        "headers": [
+          "Step",
+          "What it says"
+        ],
+        "rows": [
+          [
+            "Observation",
+            "The child reports recurring symptoms."
+          ],
+          [
+            "Proposed explanation",
+            "The author connects the pattern with bodily and spiritual development."
+          ],
+          [
+            "Treatment claim",
+            "The author proposes that a remedy helps; that benefit needs separate support."
+          ]
+        ]
+      },
+      "relationshipTableAfterParagraph": 2
     },
     "pt": {
       "paragraphs": [
-        "A medicina antroposófica leva a concepção espiritual do ser humano de Steiner a uma abordagem da saúde e da doença. Esta introdução explica a relação entre seu modelo de constituição, uma interpretação de sintomas e uma afirmação terapêutica por meio de um exemplo histórico de medicina escolar.",
-        "O vocabulário da constituição oferece um modo de perguntar conjuntamente pela organização física, processos vitais, experiência interior e individualidade. Aplicar esse vocabulário à saúde é uma estrutura interpretativa. Sozinha, ela não identifica a causa de um sintoma nem mostra que determinada intervenção ajuda.",
-        "Acompanhe um argumento histórico: um autor relata queixas recorrentes, relaciona-as ao desenvolvimento e propõe um remédio. Relatar trata do que aconteceu; explicar trata do porquê; tratar trata do que modifica o resultado. Uma descrição plausível pode deixar sem comprovação tanto a causa proposta quanto o remédio.",
-        "Na contribuição de Holtzapfel como médico escolar, interpretações do desenvolvimento espiritual acompanham incerteza sobre a condição e afirmações sobre preparados de ferro. Essas afirmações precisam de evidências além da interpretação. Sintomas recorrentes pedem avaliação médica adequada, em vez de diagnóstico pela idade ou pelo vocabulário espiritual. A seguir, retornamos às aplicações artísticas, nas quais podemos comparar diretamente formas e experiências."
+        "A medicina antroposófica leva uma concepção espiritual do ser humano a uma abordagem da saúde e da doença. Seu vocabulário constitucional considera em conjunto organização corporal, processos vitais, experiência interior e individualidade. Isso oferece uma estrutura para interpretar a condição da pessoa. Não identifica, por si só, a causa de um sintoma nem demonstra que um tratamento ajuda. Aqui estudamos um exemplo histórico limitado do médico escolar Walter Holtzapfel no livro de Hermann Koepke.",
+        "Considere uma criança fictícia que relata repetidamente dor de barriga. Registrar quando a dor ocorre e buscar avaliação médica adequada dizem respeito ao problema relatado. Sugerir por que ocorre é um passo adicional. Afirmar que determinado remédio melhora o resultado é outro. Um registro dos sintomas pode ajudar a descrever a situação enquanto sua causa e um tratamento eficaz continuam sem resolução.",
+        "Holtzapfel descreve queixas recorrentes perto da transição dos nove anos e as relaciona a processos corporais e ao desenvolvimento do Eu. Reconhece incerteza sobre a explicação e ausência de um tratamento específico, mas depois apresenta afirmações sobre preparados de ferro. Distinga as observações relatadas, a interpretação do desenvolvimento espiritual e a proposta terapêutica. São palavras e afirmações dele, em vez de testemunho médico do próprio Steiner.",
+        "Uma afirmação terapêutica precisa de evidência sobre benefícios e danos além da interpretação usada para propô-la. A passagem histórica não pode decidir a causa da dor de uma criança específica nem selecionar um remédio para ela. Sintomas recorrentes pedem avaliação médica adequada. Compreender o argumento de Holtzapfel exige manter visíveis seus passos e incertezas. A próxima lição retorna à arte, na qual podemos comparar mudanças de cor, espaço e movimento com as experiências que convidam."
       ],
       "title": "A medicina antroposófica",
-      "goal": "Como estudar uma explicação médica histórica mantendo autoria e incerteza visíveis?",
+      "goal": "Como diferem observação, causa proposta e afirmação terapêutica?",
       "checks": [
         [
-          "Um autor histórico relata sintomas recorrentes e depois afirma que um remédio ajuda. A descrição estabeleceu o benefício?",
-          "Não. Descrever um padrão, explicar uma causa e demonstrar benefício terapêutico são tarefas diferentes. A incerteza admitida por Holtzapfel continua relevante depois de sua proposta terapêutica. O trecho não permite escolher um remédio para uma criança específica."
+          "Uma fonte descreve sintomas recorrentes, propõe uma causa e recomenda um remédio. Qual desses passos demonstra que o remédio ajuda?",
+          "Nenhum estabelece benefício apenas por ser afirmado. O relato dos sintomas descreve um problema, a causa proposta o interpreta e a recomendação do remédio faz uma afirmação terapêutica. Benefícios e danos precisam de evidência além dessas afirmações."
         ],
         [
-          "Um trecho histórico descreve um sintoma e recomenda um remédio. O que distinguir?",
-          "Distinga a observação, a explicação proposta e a afirmação de tratamento. Explique sua relação com precisão, reconhecendo que utilizar um remédio exige evidência e julgamento clínico além desta lição."
+          "Por que a incerteza do autor deve continuar visível junto às afirmações sobre preparados de ferro?",
+          "A proposta terapêutica de Holtzapfel vem depois de uma admissão de incerteza. Manter ambas visíveis impede que uma explicação e um remédio propostos pareçam tratamento verificado. O capítulo é uma contribuição histórica, não instruções para tratar uma criança específica."
         ]
       ],
       "paragraphHeadings": [
-        "Uma abordagem constitucional da saúde",
-        "Modelo, sintoma e causa",
-        "Acompanhe um argumento terapêutico",
-        "O que exige uma afirmação sobre remédios"
-      ]
+        "Uma visão da pessoa inteira",
+        "Comece pelo que foi relatado",
+        "Identifique o argumento do autor histórico",
+        "Pergunte o que sustenta uma afirmação terapêutica"
+      ],
+      "relationshipTable": {
+        "caption": "Três passos num argumento médico histórico — apoio de leitura",
+        "headers": [
+          "Passo",
+          "O que afirma"
+        ],
+        "rows": [
+          [
+            "Observação",
+            "A criança relata sintomas recorrentes."
+          ],
+          [
+            "Explicação proposta",
+            "O autor relaciona o padrão ao desenvolvimento corporal e espiritual."
+          ],
+          [
+            "Afirmação terapêutica",
+            "O autor propõe que um remédio ajuda; esse benefício precisa de apoio próprio."
+          ]
+        ]
+      },
+      "relationshipTableAfterParagraph": 2
     }
   },
   {
@@ -2789,59 +2877,63 @@
     "id": 34,
     "en": {
       "paragraphs": [
-        "Painting works with colour and surface; architecture, with built forms and spaces; eurythmy, with expressive movement shaped through speech and music. Each medium offers different relationships to experience. Colour perspective, our example here, concerns colours seeming to approach or recede on a flat surface.",
-        "In painting, keep two shapes fixed and change their colours. If one now seems nearer, the perceived colour relationship changed while the flat surface and geometry stayed the same. This is colour perspective. Linear perspective produces depicted depth through arrangements of lines, such as edges converging toward a vanishing point.",
-        "Architecture works with paths, entrances, proportions and enclosed or open space. A narrow entrance opening into a large room can change the experience of movement. Eurythmy uses expressive movement in relation to speech and music. Each medium therefore offers specific relationships; the word 'artistic' does not explain all of them in the same way.",
-        "Begin by describing a particular change and its experienced effect. Steiner adds spiritual interpretations of colour, built form and movement; those require their own explanation beyond the observation. Next we extend the question of appropriate relationships to social life: which kinds of decision should guide culture, rights and the economy?"
+        "Painting works with colour and surface; architecture with built forms and spaces; eurythmy with expressive movement related to speech and music. These are different artistic media: the materials and activities through which each art works. This lesson uses a simple colour comparison to show why describing a particular experience comes before explaining the spiritual meaning Steiner gives it.",
+        "Compare panels A and B below. The shapes, spacing and background are the same; the red and blue exchange places. Does either colour seem nearer or farther away? Describe what you notice, including if you notice no clear depth effect. Colour perspective concerns experienced approach and recession through colour relationships. The surface remains flat. Linear perspective uses another means, such as drawn edges converging toward a vanishing point. This exercise explores perception rather than setting a correct answer for every viewer.",
+        "Architecture shapes paths, entrances, proportions and enclosed or open space. Moving through a narrow entrance into a large room can change the experience of space. Eurythmy gives speech and musical relationships expressive movement; here it is introduced as an art, rather than taught as a set of exercises. An effect in one medium does not explain every other medium. Compare the particular colour, spatial form or movement involved.",
+        "First describe what changed and what you experienced. Then identify Steiner’s spiritual interpretation as a further explanation. His Colour lectures connect the arts with spiritual meanings; a pleasing colour combination or spacious room alone does not establish those claims. The source reading retains the fuller interpretations and the limits of the eurythmy coverage. Next we turn to social life: which kinds of judgment should guide culture, rights and the economy?"
       ],
       "title": "Art, Architecture and Eurythmy",
-      "goal": "How do colour, form and movement become expressions of a spiritual account?",
+      "goal": "How can we describe an artistic experience before interpreting its spiritual meaning?",
       "checks": [
         [
-          "The shapes and their positions stay fixed, but one colour now seems nearer. What changed?",
-          "The experienced colour relationship changed, not the physical depth of the surface or the drawn geometry. This helps explain colour perspective. The observation alone does not establish the spiritual interpretation Steiner adds."
+          "In the colour comparison, what stays fixed and what can change in your experience?",
+          "The shapes, spacing, background and flat surface stay fixed while the colours exchange places. The experienced near–far relationship may change, or a viewer may report no clear effect. Describing that response is different from establishing Steiner’s spiritual interpretation."
         ],
         [
-          "How would you explain an architectural experience without confusing it with a spiritual interpretation?",
-          "Describe the particular form or spatial relationship and the experience it invites. Then identify the spiritual interpretation as a further explanation, rather than assuming the experience already contains every part of it."
+          "How would you describe the experience of entering a large room without assuming its spiritual meaning?",
+          "Name the spatial change, such as moving from a narrow entrance into a larger enclosure, and describe your response. Identify any spiritual interpretation separately as an explanation to examine. The experience does not automatically establish every claim attached to it."
         ]
       ],
       "paragraphHeadings": [
-        "Three artistic media",
-        "How colour can suggest depth",
-        "Space, movement, speech and music",
-        "Observation and interpretation"
+        "Different arts, different materials",
+        "Compare colour while keeping shapes fixed",
+        "Architecture and eurythmy",
+        "Describe the experience, then the interpretation"
       ]
     },
     "pt": {
       "paragraphs": [
-        "A pintura trabalha com cor e superfície; a arquitetura, com formas construídas e espaços; a euritmia, com movimento expressivo organizado pela fala e pela música. Cada meio oferece relações diferentes para vivenciar. A perspectiva cromática, nosso exemplo aqui, trata de cores que parecem se aproximar ou se afastar numa superfície plana.",
-        "Na pintura, conserve duas formas e mude suas cores. Se uma agora parece mais próxima, a relação cromática percebida mudou, enquanto superfície plana e geometria permaneceram iguais. Isso é perspectiva cromática. A perspectiva linear produz profundidade representada por arranjos de linhas, como bordas que convergem para um ponto de fuga.",
-        "A arquitetura trabalha com percursos, entradas, proporções e espaços fechados ou abertos. Uma entrada estreita que se abre para uma sala ampla pode modificar a experiência do movimento. A euritmia usa o movimento expressivo em relação à fala e à música. Cada meio oferece relações específicas; a palavra 'artístico' não explica todos do mesmo modo.",
-        "Comece descrevendo uma mudança específica e seu efeito vivenciado. Steiner acrescenta interpretações espirituais da cor, da forma construída e do movimento; elas precisam de explicação própria além da observação. A seguir, ampliaremos a pergunta sobre relações adequadas para a vida social: que tipos de decisão devem orientar cultura, direitos e economia?"
+        "A pintura trabalha com cor e superfície; a arquitetura, com formas construídas e espaços; a euritmia, com movimento expressivo relacionado à fala e à música. São meios artísticos diferentes: os materiais e atividades pelos quais cada arte trabalha. Esta lição usa uma comparação simples de cores para mostrar por que descrever uma experiência específica vem antes de explicar o significado espiritual que Steiner lhe atribui.",
+        "Compare os painéis A e B abaixo. As formas, os espaços entre elas e o fundo são iguais; vermelho e azul trocam de lugar. Alguma cor parece mais próxima ou distante? Descreva o que percebe, inclusive se não notar um efeito claro de profundidade. Perspectiva cromática trata da aproximação e do afastamento percebidos pelas relações entre cores. A superfície continua plana. A perspectiva linear usa outro meio, como bordas desenhadas convergindo para um ponto de fuga. O exercício explora a percepção, em vez de definir uma resposta correta para todos.",
+        "A arquitetura organiza caminhos, entradas, proporções e espaços fechados ou abertos. Passar por uma entrada estreita para uma sala ampla pode mudar a experiência do espaço. A euritmia dá movimento expressivo às relações da fala e da música; aqui é apresentada como arte, em vez de ensinada como uma série de exercícios. Um efeito num meio não explica todos os outros. Compare a cor, a forma espacial ou o movimento específico envolvido.",
+        "Primeiro descreva o que mudou e o que você vivenciou. Depois identifique a interpretação espiritual de Steiner como uma explicação adicional. Suas palestras de Cor relacionam as artes a significados espirituais; uma combinação agradável de cores ou uma sala ampla, sozinhas, não estabelecem essas afirmações. A leitura das fontes mantém as interpretações mais amplas e os limites da cobertura de euritmia. A seguir, passamos à vida social: que tipos de julgamento devem orientar cultura, direitos e economia?"
       ],
       "title": "Arte, arquitetura e euritmia",
-      "goal": "Como cor, forma e movimento se tornam expressões de uma concepção espiritual?",
+      "goal": "Como descrever uma experiência artística antes de interpretar seu significado espiritual?",
       "checks": [
         [
-          "As formas e suas posições permanecem fixas, mas uma cor agora parece mais próxima. O que mudou?",
-          "Mudou a relação cromática vivenciada, não a profundidade física da superfície nem a geometria desenhada. Isso ajuda a explicar a perspectiva cromática. A observação, sozinha, não estabelece a interpretação espiritual acrescentada por Steiner."
+          "Na comparação de cores, o que permanece fixo e o que pode mudar na sua experiência?",
+          "As formas, os espaços entre elas, o fundo e a superfície plana permanecem fixos enquanto as cores trocam de lugar. A relação percebida de proximidade e distância pode mudar, ou alguém pode relatar nenhum efeito claro. Descrever essa resposta difere de estabelecer a interpretação espiritual de Steiner."
         ],
         [
-          "Como explicar uma experiência arquitetônica sem confundi-la com uma interpretação espiritual?",
-          "Descreva a forma ou relação espacial específica e a experiência que ela convida a realizar. Depois, identifique a interpretação espiritual como explicação adicional, sem supor que a experiência já contém toda essa interpretação."
+          "Como você descreveria a experiência de entrar numa sala ampla sem presumir seu significado espiritual?",
+          "Nomeie a mudança espacial, como passar de uma entrada estreita para um recinto maior, e descreva sua resposta. Identifique qualquer interpretação espiritual separadamente, como explicação a examinar. A experiência não estabelece automaticamente toda afirmação associada a ela."
         ]
       ],
       "paragraphHeadings": [
-        "Três meios artísticos",
-        "Como a cor pode sugerir profundidade",
-        "Espaço, movimento, fala e música",
-        "Observação e interpretação"
+        "Artes diferentes, materiais diferentes",
+        "Compare cores mantendo as formas fixas",
+        "Arquitetura e euritmia",
+        "Descreva a experiência e depois a interpretação"
       ]
     },
     "sourceReview": {
       "en": "Colour supplies reviewed artistic and architectural discussions. Eurythmy appears in Koepke’s curriculum context; GA 279 is further reading, not a locally reviewed movement-training source.",
       "pt": "Colour oferece discussões artísticas e arquitetônicas revistas. A euritmia aparece no contexto curricular de Koepke; GA 279 é leitura posterior, não fonte local revista de treinamento de movimentos."
+    },
+    "learningDiagram": {
+      "id": "colour-perspective",
+      "afterParagraph": 1
     }
   },
   {
@@ -2849,55 +2941,107 @@
     "id": 35,
     "en": {
       "paragraphs": [
-        "Social threefolding distinguishes cultural life, rights and economic life by their tasks. Cultural work develops capacities; rights concern people as equals; economic activity relates production, distribution and consumption.",
-        "The guiding principles are freedom in cultural life, equality in rights and cooperation directed toward others' needs in economic life. Culture includes education and the development of capacities; rights concern equal legal standing; the economy concerns producing, distributing and consuming what people need. The proposal differentiates tasks, rather than dividing people into three classes.",
-        "A school needs educational judgment, fair legal conditions and resources. Suppose a donor offers materials only if he selects every lesson. His contribution addresses an economic need, but does not give him educational expertise or superior rights. Educators must judge the teaching while respecting rights and acknowledging actual resource limits.",
-        "One teacher participates in all three spheres. Independence therefore means that money, political power or expertise should not automatically decide every kind of question. Cooperation remains necessary because teaching needs resources and legal protection. Next we bring the course together through one situation connecting human capacities, responsibility and shared institutions."
+        "A school needs teaching, fair legal conditions and resources. Suppose a donor offers materials on condition that he chooses every lesson. The money may meet a real need, but does it supply educational judgment or give him greater legal standing? Steiner’s proposal of social threefolding separates these kinds of responsibility while asking how they can cooperate in one society.",
+        "Cultural life includes education, art and the development of capacities; its guiding principle is freedom to exercise the judgment appropriate to that work. Rights concern people’s equal legal standing; their principle is equality. Economic life concerns production, distribution and consumption; its principle is cooperation directed toward others’ needs. In the reviewed preface, economic associations bring producers, distributors and consumers into shared judgment. These are three tasks, rather than three classes of people.",
+        "Return to the donor. Educators need to judge the teaching, while respecting equal rights and considering available resources. A contribution does not automatically authorize control of the curriculum. Cultural freedom here means independence of judgment, not free tuition or exemption from rights. Steiner’s preface places working hours and conditions of labour in the rights sphere; they are not settled by prices alone. Funding and supplies still require practical economic cooperation.",
+        "One teacher takes part in all three spheres: teaching, sharing equal legal standing and depending on resources and exchange. Independence means that the relevant kind of judgment can guide each task; cooperation means meeting the others’ needs and responsibilities. This is a proposal to examine, rather than a complete funding model demonstrated by the example. The final lesson brings the course together through one situation connecting capacities, responsibility and shared institutions."
       ],
       "title": "Social Threefolding",
-      "goal": "Why distinguish cultural life, rights and economic life?",
+      "goal": "Which responsibilities should guide teaching, equal rights and a school’s resources?",
       "checks": [
         [
-          "State the guiding principle of each sphere, then explain why a donor cannot settle every school decision.",
-          "Cultural life calls for freedom, rights for equality, and economic life for cooperation directed to needs. A donation supplies resources, but does not by itself supply educational judgment or superior rights. The three tasks must cooperate while retaining appropriate independence."
+          "How would you respond to a donor who offers materials only if he chooses every lesson?",
+          "Distinguish the economic contribution from educational judgment and equal rights. Discuss resources and their conditions without treating money as authority over every decision. Educators remain responsible for teaching within legal rights, and practical funding questions still need cooperation."
         ],
         [
-          "Explain how one school involves all three spheres without making them identical.",
-          "Teaching and educational judgement belong to cultural life; equal legal standing concerns rights; funding, supplies and work involve economic relations. The proposal distinguishes their questions while seeking cooperation."
+          "How does one teacher take part in all three spheres?",
+          "Teaching involves cultural judgment; equal legal standing and working conditions concern rights; supplies, resources and exchange involve economic relationships. The same person participates in all three. Distinguishing their questions does not isolate them from one another."
         ]
       ],
       "paragraphHeadings": [
-        "Three tasks in social life",
-        "Freedom, equality and cooperation",
-        "A donation with a condition",
-        "Independent judgment and shared work"
-      ]
+        "One school, different kinds of decision",
+        "The three spheres and their principles",
+        "A donor’s offer and its limits",
+        "Independence with cooperation"
+      ],
+      "relationshipTable": {
+        "caption": "Three responsibilities in one school — a course reading aid",
+        "headers": [
+          "Sphere",
+          "Guiding principle",
+          "School question"
+        ],
+        "rows": [
+          [
+            "Cultural life",
+            "Freedom",
+            "What teaching serves the learners, judged by educators?"
+          ],
+          [
+            "Rights",
+            "Equality",
+            "What equal legal standing and working conditions must be respected?"
+          ],
+          [
+            "Economic life",
+            "Cooperation directed to needs",
+            "How can materials, resources and contributions be coordinated?"
+          ]
+        ]
+      },
+      "relationshipTableAfterParagraph": 1
     },
     "pt": {
       "paragraphs": [
-        "A trimembração social distingue vida cultural, direitos e vida econômica por suas tarefas. O trabalho cultural desenvolve capacidades; os direitos tratam das pessoas como iguais; a atividade econômica relaciona produção, distribuição e consumo.",
-        "Os princípios orientadores são liberdade na vida cultural, igualdade nos direitos e cooperação voltada às necessidades alheias na vida econômica. A cultura inclui educação e desenvolvimento de capacidades; os direitos dizem respeito à igualdade jurídica; a economia, à produção, distribuição e consumo do que as pessoas precisam. A proposta distingue tarefas, em vez de dividir pessoas em três classes.",
-        "Uma escola precisa de julgamento educativo, condições jurídicas justas e recursos. Suponha que um doador ofereça materiais apenas se escolher todas as lições. Sua contribuição atende a uma necessidade econômica, mas não lhe dá conhecimento educativo nem direitos superiores. Os educadores precisam julgar o ensino respeitando direitos e reconhecendo os limites reais de recursos.",
-        "Um professor participa das três esferas. Independência significa, portanto, que dinheiro, poder político ou especialização não devem decidir automaticamente todo tipo de questão. A cooperação continua necessária porque ensinar precisa de recursos e proteção jurídica. A seguir, reuniremos o curso numa situação que relaciona capacidades humanas, responsabilidade e instituições compartilhadas."
+        "Uma escola precisa de ensino, condições jurídicas justas e recursos. Suponha que um doador ofereça materiais com a condição de escolher todas as aulas. O dinheiro pode atender a uma necessidade real, mas fornece julgamento educativo ou lhe dá posição jurídica superior? A proposta de trimembração social de Steiner distingue esses tipos de responsabilidade e pergunta como podem cooperar numa sociedade.",
+        "A vida cultural inclui educação, arte e desenvolvimento de capacidades; seu princípio orientador é a liberdade para exercer o julgamento adequado a esse trabalho. Os direitos tratam da posição jurídica igual das pessoas; seu princípio é a igualdade. A vida econômica trata de produção, distribuição e consumo; seu princípio é a cooperação voltada às necessidades alheias. No prefácio revisado, associações econômicas reúnem produtores, distribuidores e consumidores num julgamento compartilhado. São três tarefas, em vez de três classes de pessoas.",
+        "Retome o doador. Educadores precisam julgar o ensino, respeitando direitos iguais e considerando os recursos disponíveis. Uma contribuição não autoriza automaticamente controlar o currículo. Liberdade cultural significa aqui independência de julgamento, não ensino gratuito nem dispensa de direitos. O prefácio de Steiner situa horários e condições de trabalho na esfera dos direitos; eles não são decididos apenas pelos preços. Financiamento e materiais ainda exigem cooperação econômica prática.",
+        "Um professor participa das três esferas: ensina, compartilha posição jurídica igual e depende de recursos e trocas. Independência significa que o tipo adequado de julgamento pode orientar cada tarefa; cooperação significa atender às necessidades e responsabilidades das outras. É uma proposta a examinar, em vez de um modelo completo de financiamento demonstrado pelo exemplo. A última lição reúne o curso numa situação que relaciona capacidades, responsabilidade e instituições compartilhadas."
       ],
       "title": "A trimembração social",
-      "goal": "Por que distinguir vida cultural, direitos e vida econômica?",
+      "goal": "Que responsabilidades devem orientar ensino, igualdade de direitos e recursos de uma escola?",
       "checks": [
         [
-          "Diga o princípio orientador de cada esfera e explique por que um doador não pode decidir tudo numa escola.",
-          "A vida cultural pede liberdade; os direitos, igualdade; a vida econômica, cooperação voltada às necessidades. Uma doação oferece recursos, mas não oferece por si julgamento educativo nem direitos superiores. As três tarefas precisam cooperar conservando independência adequada."
+          "Como você responderia a um doador que oferece materiais apenas se puder escolher todas as aulas?",
+          "Distinga a contribuição econômica do julgamento educativo e dos direitos iguais. Discuta recursos e condições sem tratar o dinheiro como autoridade sobre toda decisão. Educadores continuam responsáveis pelo ensino dentro dos direitos legais, e questões práticas de financiamento ainda precisam de cooperação."
         ],
         [
-          "Explique como uma escola envolve as três esferas sem torná-las idênticas.",
-          "Ensino e julgamento educativo pertencem à vida cultural; igualdade perante a lei trata dos direitos; financiamento, materiais e trabalho envolvem relações econômicas. A proposta distingue suas perguntas e busca cooperação."
+          "Como um professor participa das três esferas?",
+          "Ensinar envolve julgamento cultural; posição jurídica igual e condições de trabalho dizem respeito aos direitos; materiais, recursos e trocas envolvem relações econômicas. A mesma pessoa participa das três. Distinguir suas perguntas não as isola umas das outras."
         ]
       ],
       "paragraphHeadings": [
-        "Três tarefas da vida social",
-        "Liberdade, igualdade e cooperação",
-        "Uma doação com condição",
-        "Julgamento independente e trabalho compartilhado"
-      ]
+        "Uma escola, decisões de tipos diferentes",
+        "As três esferas e seus princípios",
+        "A oferta de um doador e seus limites",
+        "Independência com cooperação"
+      ],
+      "relationshipTable": {
+        "caption": "Três responsabilidades numa escola — apoio de leitura do curso",
+        "headers": [
+          "Esfera",
+          "Princípio orientador",
+          "Pergunta da escola"
+        ],
+        "rows": [
+          [
+            "Vida cultural",
+            "Liberdade",
+            "Que ensino atende aos estudantes, segundo o julgamento dos educadores?"
+          ],
+          [
+            "Direitos",
+            "Igualdade",
+            "Que posição jurídica igual e condições de trabalho devem ser respeitadas?"
+          ],
+          [
+            "Vida econômica",
+            "Cooperação voltada às necessidades",
+            "Como coordenar materiais, recursos e contribuições?"
+          ]
+        ]
+      },
+      "relationshipTableAfterParagraph": 1
     },
     "sourceReview": {
       "en": "All fourteen supplied OCR Markdown blocks were reviewed: front matter, Smith’s introduction and Steiner’s 1920 preface. The four main chapters, Preliminary Remarks, closing appeal and historical notes are absent. Quotations are checked against the transcription only; no native PDF, printed page or column verification is claimed.",
@@ -2909,105 +3053,107 @@
     "id": 36,
     "en": {
       "paragraphs": [
-        "You teach someone to repair a shared object. Understanding connects its parts; concern gives the task significance; willing carries out the repair. Repetition can turn particular attempts into a capacity.",
-        "Follow a shared repair lesson. Bodily senses encounter the broken object; feeling makes another person's need significant; thinking identifies the fault; willing carries out the repair. The I can recognize impatience and choose to explain a step carefully. Repeated practice can develop a capacity that outlasts this particular lesson.",
-        "Now widen the view. The repaired object is an outward consequence; the learner's skill is an inward fruit. The teaching method concerns cultural judgment; access and fair treatment raise questions of rights; tools and materials raise economic questions. These concepts illuminate different relationships within one event without becoming interchangeable.",
-        "Steiner's reincarnation, karma, spiritual worlds and cosmic evolution place such development within a wider spiritual history. Those are additional teachings, rather than conclusions proved by the repair. To explain the worldview, connect constitution to experience, experience to development, development to responsible deeds, and deeds to shared life. Choose a topic you can now explain and a further claim you want to investigate."
+        "Imagine teaching someone to repair a loose chair. Bodily senses encounter its parts; thinking identifies the loose joint; feeling gives the task personal significance; willing carries out the work. The I can recognize impatience and choose to explain a step carefully. These ideas describe different relationships within one situation, rather than interchangeable names for the same activity.",
+        "After practising with support, the learner tries again and explains what makes the joint secure. Repetition can develop a skill, while a new case helps show what they understand. The repaired chair is an outward result; the acquired capacity is a change in the learner. This connects experience, education and development without requiring the claim that a single successful attempt establishes lasting mastery.",
+        "Widen the view to a community repair lesson. The teaching method concerns cultural judgment; access and fair treatment raise questions of rights; tools, materials and contributions involve economic relationships. The same people take part in these different responsibilities. Applying a worldview therefore also requires knowledge of the actual task and attention to those involved. A useful repair does not establish every claim in the worldview.",
+        "Steiner’s teachings about reincarnation, karma, spiritual worlds and cosmic evolution place development within a wider spiritual history. Those claims require their own sources and examination; they do not follow from the repair example alone. To complete your synthesis, choose two course ideas, explain each and show their connection in one situation. Then name a claim or question you want to investigate and a source to revisit. Accurate explanation and reasoned disagreement can both show understanding; agreement or a report of spiritual attainment is not required."
       ],
       "title": "How the Anthroposophical Worldview Fits Together",
-      "goal": "Can you connect the concepts while distinguishing their different claims and sources?",
+      "goal": "Can you explain a connection between course ideas and identify what still needs investigation?",
       "checks": [
         [
-          "A successful repair improved both the object and the learner’s skill. Does that establish reincarnation?",
-          "No. It illustrates outward consequence and acquired capacity. Reincarnation adds the claim that spiritual individuality continues through different bodily lives. The concepts connect in Steiner’s worldview, but the ordinary result does not supply all the grounds for that additional claim."
+          "Connect two course ideas through the repair lesson, explaining each before linking them.",
+          "For example, willing concerns carrying out the work; development concerns a changing capacity. Explain how guided attempts and later practice might improve the learner’s ability to act independently, then check a new case. The connection preserves both ideas rather than treating a finished chair as proof of every further spiritual claim."
         ],
         [
-          "Connect two course concepts through one concrete situation, explaining both before linking them.",
-          "For example, a teaching situation can connect thinking, feeling and willing with development: explain each activity, then show how an appropriate lesson supports the learner. A useful connection preserves both concepts and explains their relationship."
+          "Why does a successful repair not establish reincarnation?",
+          "It illustrates an outward result and possible acquired capacity within this life. Reincarnation adds the claim that spiritual individuality continues through different bodily lives. Explaining that connection in Steiner’s worldview is different from establishing the additional claim."
         ]
       ],
       "relationshipTable": {
-        "caption": "Connect the course without collapsing its claims",
+        "caption": "Follow the connections in the repair example — a course reading aid",
         "headers": [
           "Connection",
-          "What still needs its own explanation"
+          "What to explain or examine"
         ],
         "rows": [
           [
-            "Body, soul, spirit → one encounter",
-            "Material contact, inward response and understanding contribute differently."
+            "Human activities → one task",
+            "Sensing, thinking, feeling, willing and the I contribute differently."
           ],
           [
-            "Experience → capacity → further action",
-            "Learning in one life illustrates transformation; survival and reincarnation add spiritual claims."
+            "Practice → capacity",
+            "Check what the learner can explain and do in another case."
           ],
           [
-            "Knowledge → freedom → conduct",
-            "Understanding a reason, choosing a deed and realizing it require distinct work."
+            "Shared lesson → social responsibilities",
+            "Distinguish teaching judgment, equal rights and practical resources."
           ],
           [
-            "Worldview → education, farming, art and social life",
-            "An application needs its own field knowledge and assessment. Its usefulness does not prove the whole worldview."
+            "Development → wider spiritual teachings",
+            "Reincarnation and cosmic history add claims needing their own sources and examination."
           ]
         ]
       },
       "paragraphHeadings": [
-        "A connected view of human life",
-        "Explain one shared repair lesson",
-        "Inward development and outward consequences",
-        "How the wider spiritual claims connect"
-      ]
+        "Begin with one shared repair lesson",
+        "From an attempt to a capacity",
+        "Connect the lesson with shared life",
+        "Make your own synthesis and next question"
+      ],
+      "relationshipTableAfterParagraph": 2
     },
     "pt": {
       "paragraphs": [
-        "Você ensina alguém a consertar um objeto compartilhado. A compreensão conecta suas partes; a preocupação dá significado à tarefa; a vontade realiza o conserto. A repetição pode transformar tentativas particulares numa capacidade.",
-        "Acompanhe uma aula compartilhada de conserto. Os sentidos corporais encontram o objeto quebrado; o sentimento torna significativa a necessidade de outra pessoa; o pensar identifica a falha; o querer realiza o conserto. O eu pode reconhecer a impaciência e escolher explicar uma etapa com cuidado. A prática repetida pode desenvolver uma capacidade que dura além dessa aula.",
-        "Amplie agora a visão. O objeto consertado é uma consequência exterior; a habilidade do estudante é um fruto interior. O método de ensino envolve julgamento cultural; acesso e tratamento justo levantam questões de direitos; ferramentas e materiais levantam questões econômicas. Esses conceitos esclarecem relações diferentes num mesmo acontecimento sem se tornarem intercambiáveis.",
-        "Reencarnação, karma, mundos espirituais e evolução cósmica situam esse desenvolvimento numa história espiritual mais ampla em Steiner. São ensinamentos adicionais, e não conclusões provadas pelo conserto. Para explicar a concepção, relacione constituição e experiência, experiência e desenvolvimento, desenvolvimento e ações responsáveis, ações e vida compartilhada. Escolha um tema que agora consegue explicar e uma afirmação adicional que deseja investigar."
+        "Imagine ensinar alguém a consertar uma cadeira bamba. Os sentidos corporais encontram suas partes; o pensar identifica a junção solta; o sentir dá significado pessoal à tarefa; o querer realiza o trabalho. O Eu pode reconhecer a impaciência e escolher explicar um passo com cuidado. Essas ideias descrevem relações diferentes numa situação, em vez de nomes intercambiáveis para a mesma atividade.",
+        "Depois de praticar com apoio, o estudante tenta novamente e explica o que torna a junção firme. A repetição pode desenvolver uma habilidade, enquanto um caso novo ajuda a mostrar o que compreende. A cadeira consertada é um resultado externo; a capacidade adquirida é uma mudança no estudante. Isso relaciona experiência, educação e desenvolvimento sem exigir a afirmação de que uma tentativa bem-sucedida estabeleça domínio duradouro.",
+        "Amplie a visão para uma aula comunitária de conserto. O método de ensino envolve julgamento cultural; acesso e tratamento justo levantam questões de direitos; ferramentas, materiais e contribuições envolvem relações econômicas. As mesmas pessoas participam dessas responsabilidades diferentes. Aplicar uma visão de mundo também exige conhecimento da tarefa real e atenção às pessoas envolvidas. Um conserto útil não estabelece toda afirmação dessa visão de mundo.",
+        "Os ensinamentos de Steiner sobre reencarnação, carma, mundos espirituais e evolução cósmica situam o desenvolvimento numa história espiritual mais ampla. Essas afirmações precisam de fontes e exame próprios; não decorrem apenas do exemplo do conserto. Para concluir sua síntese, escolha duas ideias do curso, explique cada uma e mostre sua relação numa situação. Depois nomeie uma afirmação ou pergunta que deseja investigar e uma fonte a retomar. Explicação precisa e discordância fundamentada podem demonstrar compreensão; não se exige concordância nem relato de realização espiritual."
       ],
       "title": "Como a visão de mundo antroposófica se articula",
-      "goal": "Você consegue relacionar os conceitos distinguindo suas afirmações e fontes?",
+      "goal": "Você consegue explicar uma relação entre ideias do curso e identificar o que ainda precisa investigar?",
       "checks": [
         [
-          "Um conserto bem-sucedido melhorou tanto o objeto quanto a habilidade do estudante. Isso estabelece a reencarnação?",
-          "Não. Ilustra consequência exterior e capacidade adquirida. A reencarnação acrescenta a afirmação de que a individualidade espiritual continua por vidas corporais diferentes. Os conceitos se relacionam na visão de mundo de Steiner, mas o resultado comum não fornece todos os fundamentos dessa afirmação adicional."
+          "Relacione duas ideias do curso pela aula de conserto, explicando cada uma antes de ligá-las.",
+          "Por exemplo, querer diz respeito a realizar o trabalho; desenvolvimento trata de uma capacidade em mudança. Explique como tentativas orientadas e prática posterior podem melhorar a capacidade do estudante de agir com independência e depois confira um caso novo. A relação preserva as duas ideias, em vez de tratar a cadeira pronta como prova de toda afirmação espiritual adicional."
         ],
         [
-          "Relacione dois conceitos dos cursos por meio de uma situação concreta, explicando ambos antes de conectá-los.",
-          "Por exemplo, uma situação educativa pode relacionar pensar, sentir e querer ao desenvolvimento: explique cada atividade e mostre como uma lição adequada apoia o estudante. Uma conexão útil preserva os dois conceitos e explica sua relação."
+          "Por que um conserto bem-sucedido não estabelece reencarnação?",
+          "Ele ilustra um resultado externo e uma possível capacidade adquirida nesta vida. A reencarnação acrescenta a afirmação de que a individualidade espiritual continua por diferentes vidas corporais. Explicar essa relação na visão de mundo de Steiner difere de estabelecer a afirmação adicional."
         ]
       ],
       "relationshipTable": {
-        "caption": "Relacione o curso sem fundir suas afirmações",
+        "caption": "Acompanhe as relações no exemplo do conserto — apoio de leitura do curso",
         "headers": [
-          "Conexão",
-          "O que ainda exige explicação própria"
+          "Relação",
+          "O que explicar ou examinar"
         ],
         "rows": [
           [
-            "Corpo, alma, espírito → um encontro",
-            "Contato material, resposta interior e compreensão contribuem de modos diferentes."
+            "Atividades humanas → uma tarefa",
+            "Perceber pelos sentidos, pensar, sentir, querer e o Eu contribuem de formas diferentes."
           ],
           [
-            "Experiência → capacidade → nova ação",
-            "Aprender numa vida ilustra transformação; sobrevivência e reencarnação acrescentam afirmações espirituais."
+            "Prática → capacidade",
+            "Confira o que o estudante consegue explicar e fazer em outro caso."
           ],
           [
-            "Conhecimento → liberdade → conduta",
-            "Compreender um motivo, escolher um ato e realizá-lo exigem trabalhos distintos."
+            "Aula compartilhada → responsabilidades sociais",
+            "Distinga julgamento educativo, direitos iguais e recursos práticos."
           ],
           [
-            "Visão de mundo → educação, agricultura, arte e vida social",
-            "Uma aplicação precisa de conhecimento e avaliação de seu próprio campo. Sua utilidade não prova toda a visão de mundo."
+            "Desenvolvimento → ensinamentos espirituais mais amplos",
+            "Reencarnação e história cósmica acrescentam afirmações que precisam de fontes e exame próprios."
           ]
         ]
       },
       "paragraphHeadings": [
-        "Uma visão conectada da vida humana",
-        "Explique uma aula compartilhada de conserto",
-        "Desenvolvimento interior e consequências exteriores",
-        "Como se relacionam as afirmações espirituais mais amplas"
-      ]
+        "Comece com uma aula compartilhada de conserto",
+        "De uma tentativa a uma capacidade",
+        "Relacione a aula à vida compartilhada",
+        "Faça sua síntese e formule a próxima pergunta"
+      ],
+      "relationshipTableAfterParagraph": 2
     }
   },
   {
