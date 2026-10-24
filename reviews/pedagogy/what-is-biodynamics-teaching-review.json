@@ -1,0 +1,92 @@
+{
+  "reviewed": "2026-10-24",
+  "course": "what-is-biodynamics",
+  "scope": {
+    "lessons": 14,
+    "languages": [
+      "en",
+      "pt-BR"
+    ],
+    "source": "What Is Biodynamics? A Way to Heal and Revitalize the Earth",
+    "newImageWitnessPages": 139,
+    "retainedQuotationWitnessCaptures": 135
+  },
+  "teachingChanges": [
+    "Definition and whole-farm example before anthology provenance",
+    "Six connected explanatory steps and a visible learning goal in each first reading",
+    "Three-step worked example and two explained conceptual questions per lesson",
+    "Preparation families before numbers; roles and qualifications before recipes",
+    "Four plant regions explicitly grouped against three human functional systems",
+    "Four elemental activities including fire spirits and the return circuit",
+    "Separate observation, spiritual mechanism, prediction and evidence",
+    "Original role comparison tables for the horn pair and six compost preparations",
+    "Learner-focused index with optional source-numbering explanation"
+  ],
+  "images": {
+    "count": 7,
+    "method": "Native embedded-image extraction and margin/prose cropping; no reconstruction or AI relabelling",
+    "placement": {
+      "01": [
+        1
+      ],
+      "02": [
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "05": [
+        4
+      ]
+    },
+    "advancedOptionalFigures": [
+      5,
+      6,
+      7
+    ],
+    "credit": "Figures in Hugh J. Courtney’s introduction; illustrator not identified in supplied pages; SteinerBooks",
+    "guides": "Localized English and Portuguese alternatives and three reading steps per figure",
+    "limits": [
+      "Original handwritten labels remain English",
+      "Preparation annotation in figure 1 is already clipped in supplied page",
+      "Later lecture blackboard drawings are referred to but absent from this PDF",
+      "New image PDF positions do not renumber existing quotation captures"
+    ]
+  },
+  "sourceReview": {
+    "freshReading": "Courtney introduction and GA 136 / GA 230 selections in the registered canonical Markdown; new PDF contact sheets, native figure pages and neighbouring captions visually inspected",
+    "agricultureContext": "GA 327 lectures 4–6 reviewed in the preceding Agriculture work; anthology-specific notes and selected context rechecked",
+    "preservation": "All 14 complete prior lesson records, quotation wording and locators preserved; other 42 agriculture first-reading records unchanged",
+    "limits": [
+      "No claim of independently verifying spiritual mechanisms or field efficacy",
+      "No new full line-by-line collation of all 139 raster pages",
+      "No independent review of original German or laboratory studies"
+    ]
+  },
+  "portuguese": {
+    "method": "Parallel authored translation checked for meaning, grammar and consistent terminology",
+    "terms": [
+      "individualidade agrícola",
+      "éter de vida / químico / de luz / de calor",
+      "sistema neurossensorial / rítmico / metabólico-motor",
+      "camundongos for mice",
+      "preparados de composto"
+    ]
+  },
+  "validation": {
+    "build": "node scripts/build-all.mjs",
+    "checks": [
+      "check-biodynamics-source.mjs",
+      "check-biodynamics-teaching.mjs",
+      "check-agriculture-clarity.mjs",
+      "check-site.mjs",
+      "check-portuguese.mjs",
+      "check-learning-system.mjs"
+    ],
+    "browserReport": "what-is-biodynamics-browser.json",
+    "limits": [
+      "Automated browser review is not a learner study"
+    ]
+  }
+}

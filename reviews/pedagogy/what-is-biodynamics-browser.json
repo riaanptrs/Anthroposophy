@@ -1,0 +1,27 @@
+{
+  "reviewed": "2026-10-24",
+  "status": "passed",
+  "pages": 28,
+  "viewportCases": 56,
+  "imageCases": 28,
+  "widths": [
+    1280,
+    320
+  ],
+  "javascript": false,
+  "checks": [
+    "visible ordered bilingual teaching and learning goals",
+    "three-step worked examples",
+    "seven source images decoded with full-size links and localized alternatives",
+    "optional advanced figures open with keyboard",
+    "two keyboard-operable explained questions",
+    "retained source depth and navigation",
+    "local links and anchors",
+    "unique IDs",
+    "no horizontal overflow"
+  ],
+  "limits": [
+    "No learner study",
+    "Original handwriting remains English; bilingual guides explain it"
+  ]
+}

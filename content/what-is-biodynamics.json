@@ -5,8 +5,8 @@
   "titlePt": "O que é biodinâmica?",
   "editionEn": "SteinerBooks anthology, What Is Biodynamics? A Way to Heal and Revitalize the Earth. Introduction © 2005 Hugh J. Courtney; electronic-edition publication date not stated in the supplied capture. Chapter-specific translation credits are given with each passage.",
   "editionPt": "Antologia da SteinerBooks, What Is Biodynamics? A Way to Heal and Revitalize the Earth. Introdução © 2005 Hugh J. Courtney; a data de publicação da edição eletrônica não está indicada no arquivo fornecido. Os créditos de tradução de cada capítulo acompanham os trechos.",
-  "scopeEn": "Complete review of the supplied 135-capture anthology: Courtney’s introduction, seven selected Steiner lectures, chapter introductions, discussions, notes and further reading. It includes GA 136 lectures 1–2, GA 230 lectures 7–8 and GA 327 lectures 4–6. The complete eight-lecture Agriculture Course is now available as a separately reviewed companion course.",
-  "scopePt": "Revisão completa da antologia fornecida em 135 capturas: introdução de Courtney, sete palestras selecionadas de Steiner, apresentações dos capítulos, discussões, notas e bibliografia. Inclui as palestras 1–2 de GA 136, 7–8 de GA 230 e 4–6 de GA 327. O Curso de Agricultura completo, de oito palestras, está agora disponível como curso complementar com revisão própria.",
+  "scopeEn": "Learn biodynamics from the beginning: understand a living farm, the spiritual view of nature and the different roles of preparations through 14 bilingual lessons, worked examples and guided book illustrations. This anthology brings together GA 136, GA 230 and GA 327; the complete eight-lecture Agriculture Course is now available as a companion course.",
+  "scopePt": "Aprenda biodinâmica desde o início: compreenda a fazenda viva, a visão espiritual da natureza e as funções distintas dos preparados em 14 lições bilíngues, com exemplos comentados e ilustrações do livro explicadas passo a passo. A antologia reúne GA 136, GA 230 e GA 327; o Curso de Agricultura completo, com oito palestras, está disponível como curso complementar.",
   "lessons": [
     {
       "id": 0,
@@ -1780,5 +1780,6 @@
         "creditPt": "Hugh J. Courtney, introdução © 2005, na antologia da SteinerBooks. Tradução de estudo em português preparada para este curso; quebras e hifens de fim de linha normalizados."
       }
     }
-  ]
+  ],
+  "teachingRevision": "2026-10-24"
 }

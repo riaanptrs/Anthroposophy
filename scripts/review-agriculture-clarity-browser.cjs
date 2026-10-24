@@ -21,8 +21,8 @@ const plain=s=>s.replace(/\s+/g,' ').trim();
     assert.equal(await page.locator('h1').count(),1,route);
     assert.equal(await page.locator('html').getAttribute('lang'),lang==='pt'?'pt-BR':'en');
     const first=page.locator('[data-batch-clarity-first]');
-    const paras=await first.locator(':scope > p').allInnerTexts();assert.deepEqual(paras.map(plain),v.paragraphs.map(plain),route+' complete prose in authored order');
-    for(const p of await first.locator(':scope > p').all())assert.ok(await p.isVisible(),route+' visible prose without JS');
+    const paras=await first.locator(':scope > p:not(.clarity-learning-goal)').allInnerTexts();assert.deepEqual(paras.map(plain),v.paragraphs.map(plain),route+' complete prose in authored order');
+    for(const p of await first.locator(':scope > p:not(.clarity-learning-goal)').all())assert.ok(await p.isVisible(),route+' visible prose without JS');
     const checks=first.locator('.batch-clarity-check');assert.equal(await checks.count(),2);
     for(let i=0;i<2;i++){
      const check=checks.nth(i),answer=check.locator('details');assert.ok(await check.locator(':scope > p').isVisible());

@@ -1,0 +1,308 @@
+{
+  "source": {
+    "fileName": "What is biodinamics.pdf",
+    "sha256": "d259d2c869db60ab7aa4598f31b49d77a5497ad716cc2acdf2aa2c6bde5afb16",
+    "pages": 139,
+    "scope": "Selected figures and their neighbouring captions visually inspected. The PDF starts with contents and does not include the original quotation witness’s cover/imprint. Native embedded images extracted; only surrounding margins and prose cropped; no reconstruction, relabelling or AI redrawing.",
+    "quotationWitnessNote": "This 139-page image witness is distinct from the previously registered 135-capture quotation witness. Figure PDF page positions refer only to the new upload; quotation locators remain unchanged."
+  },
+  "figures": [
+    {
+      "id": "courtney-figure-01",
+      "figureNumber": 1,
+      "pdfPage": 5,
+      "captionPdfPage": 6,
+      "file": "assets/what-is-biodynamics/courtney-figure-01.png",
+      "sourceImageXref": 13,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        408,
+        293,
+        855,
+        560
+      ],
+      "width": 447,
+      "height": 267,
+      "bytes": 91992,
+      "sha256": "93b7960d16caabd6ec7cc58d900f8006368a41dcb6ceedfa72d9da9417176e39",
+      "en": {
+        "title": "Preparation families",
+        "alt": "Handwritten list of preparations 500–508; a bracket groups 502–507 as compost preparations.",
+        "steps": [
+          "Start with 500 horn manure and 501 horn silica: they form the soil/plant pair explained later.",
+          "Read the bracket as six compost preparations: yarrow, chamomile, nettle, oak bark, dandelion and valerian, numbered 502–507.",
+          "The final entry is horsetail, 508. Courtney argues for its inclusion; its status is debated in the introduction. The right-hand annotation is already clipped in the supplied page."
+        ]
+      },
+      "pt": {
+        "title": "Famílias de preparados",
+        "alt": "Lista manuscrita dos preparados 500–508; uma chave agrupa 502–507 como preparados de composto.",
+        "steps": [
+          "Comece por 500, esterco de chifre, e 501, sílica de chifre: formam o par solo/planta explicado adiante.",
+          "Leia a chave como seis preparados de composto: milefólio, camomila, urtiga, casca de carvalho, dente-de-leão e valeriana, numerados 502–507.",
+          "A última entrada é cavalinha, 508. Courtney defende sua inclusão; sua condição é debatida na introdução. A anotação à direita já está cortada na página fornecida."
+        ]
+      },
+      "creditEn": "Figure 1 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 5; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 1 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 5 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo.",
+      "sourceClipping": "Right-hand compost-preparation annotation already clipped in the supplied image; no invented text restored."
+    },
+    {
+      "id": "courtney-figure-02",
+      "figureNumber": 2,
+      "pdfPage": 15,
+      "captionPdfPage": 16,
+      "file": "assets/what-is-biodynamics/courtney-figure-02.png",
+      "sourceImageXref": 43,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        366,
+        22,
+        885,
+        561
+      ],
+      "width": 519,
+      "height": 539,
+      "bytes": 169875,
+      "sha256": "13ed9f370a820bd2816e6be9edfd7edda2cbc30afd15bd711d1f7c7877779868",
+      "en": {
+        "title": "The plant’s four regions",
+        "alt": "Upright flowering plant labelled root/earth, leaf/water, flower/air and fruit or seed/fire.",
+        "steps": [
+          "Read from the ground upward: root, leaf, flower, fruit or seed. There are four plant regions.",
+          "The handwritten labels associate them with earth, water, air and fire. These are traditional elemental correspondences in the introduction.",
+          "Keep leaf and flower as two cards. In the next figure they will be placed together beside one human functional grouping."
+        ]
+      },
+      "pt": {
+        "title": "As quatro regiões da planta",
+        "alt": "Planta ereta com rótulos raiz/terra, folha/água, flor/ar e fruto ou semente/fogo.",
+        "steps": [
+          "Leia do solo para cima: raiz, folha, flor e fruto ou semente. São quatro regiões vegetais.",
+          "Os rótulos manuscritos as associam a terra, água, ar e fogo. São correspondências com os elementos tradicionais na introdução.",
+          "Conserve folha e flor como dois cartões. Na figura seguinte, serão colocadas juntas ao lado de um agrupamento funcional humano."
+        ]
+      },
+      "creditEn": "Figure 2 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 15; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 2 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 15 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+    },
+    {
+      "id": "courtney-figure-03",
+      "figureNumber": 3,
+      "pdfPage": 16,
+      "captionPdfPage": 17,
+      "file": "assets/what-is-biodynamics/courtney-figure-03.png",
+      "sourceImageXref": 46,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        460,
+        145,
+        860,
+        567
+      ],
+      "width": 400,
+      "height": 422,
+      "bytes": 122472,
+      "sha256": "6ed4db8f7beeb1d621d00c4a34e06bc7791544dbe6a4968f23a9d28e08bc1dd1",
+      "en": {
+        "title": "Why the human figure is inverted",
+        "alt": "Inverted human figure aligns nerve/sense and thinking with earth, rhythmic and feeling with water and air, and metabolism and willing with fire.",
+        "steps": [
+          "Begin at the head below: nerve/sense and thinking correspond to the plant’s root/earth region.",
+          "The middle rhythmic/feeling region spans water and air. It receives both leaf and flower from the plant comparison; this is the two-to-one grouping.",
+          "The upper position in this inverted image is metabolic/willing life, corresponding to fruit or seed/fire. Three human functional groupings face four plant regions. This is an analogy, not organ identity."
+        ]
+      },
+      "pt": {
+        "title": "Por que a figura humana está invertida",
+        "alt": "Figura humana invertida alinha neurossensorial e pensar com terra, rítmico e sentir com água e ar, metabolismo e querer com fogo.",
+        "steps": [
+          "Comece pela cabeça abaixo: neurossensorial e pensar correspondem à região raiz/terra da planta.",
+          "A região intermediária rítmico/sentir abrange água e ar. Recebe tanto folha quanto flor da comparação vegetal; esse é o agrupamento de dois em um.",
+          "A posição superior na imagem invertida é a vida metabólica/do querer, correspondente a fruto ou semente/fogo. Três agrupamentos funcionais humanos ficam diante de quatro regiões vegetais. É uma analogia, não identidade de órgãos."
+        ]
+      },
+      "creditEn": "Figure 3 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 16; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 3 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 16 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+    },
+    {
+      "id": "courtney-figure-04",
+      "figureNumber": 4,
+      "pdfPage": 17,
+      "captionPdfPage": 18,
+      "file": "assets/what-is-biodynamics/courtney-figure-04.png",
+      "sourceImageXref": 49,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        444,
+        247,
+        835,
+        560
+      ],
+      "width": 391,
+      "height": 313,
+      "bytes": 89910,
+      "sha256": "0cb2a8661ef9422ac6f9c6d465375d3df0777025909930e10ff3e10856bd22ac",
+      "en": {
+        "title": "Four formative ethers",
+        "alt": "Four rows link warmth ether to warmth/fire, light ether to air/light, chemical or tone ether to water, and life ether to earth.",
+        "steps": [
+          "The left column names a proposed formative activity; the right names the element through which it is said to manifest. The arrow does not mean the two terms are identical.",
+          "Read the lecture’s plant sequence in reverse order to the drawing: life at roots, chemical activity, light, then warmth.",
+          "The Elementals lecture assigns these activities to gnomes, undines, sylphs and fire spirits. This figure comes from Courtney’s introduction; it is not a reproduced blackboard drawing from that lecture."
+        ]
+      },
+      "pt": {
+        "title": "Quatro éteres formativos",
+        "alt": "Quatro linhas relacionam éter de calor a calor/fogo, éter de luz a ar/luz, éter químico ou de som a água e éter de vida a terra.",
+        "steps": [
+          "A coluna esquerda nomeia uma atividade formativa proposta; a direita, o elemento pelo qual ela supostamente se manifesta. A seta não significa que os dois termos sejam idênticos.",
+          "Leia a sequência vegetal da palestra na ordem inversa à do desenho: vida nas raízes, atividade química, luz e, depois, calor.",
+          "A palestra sobre seres elementais atribui essas atividades a gnomos, ondinas, silfos e espíritos do fogo. Esta figura vem da introdução de Courtney; não é um desenho de quadro reproduzido daquela palestra."
+        ]
+      },
+      "creditEn": "Figure 4 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 17; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 4 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 17 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+    },
+    {
+      "id": "courtney-figure-05",
+      "figureNumber": 5,
+      "pdfPage": 18,
+      "captionPdfPage": 19,
+      "file": "assets/what-is-biodynamics/courtney-figure-05.png",
+      "sourceImageXref": 52,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        237,
+        53,
+        1038,
+        561
+      ],
+      "width": 801,
+      "height": 508,
+      "bytes": 288934,
+      "sha256": "1f1f82e4e4fa97623bfa5df1e42fa276ab7b616899cd5c43ca090fa7c8647250",
+      "en": {
+        "title": "Further study: geography and preparation polarities",
+        "alt": "Three handwritten columns associate earthly, mediating and cosmic poles with regions, limestone/clay/silica and preparation groups.",
+        "steps": [
+          "Read columns as Courtney’s correspondences: earthly—Americas—limestone—500; mediating—Europe/Africa—clay—502–507; cosmic—Asia/Australia—silica—501 and 508.",
+          "He argues that a region’s proposed emphasis may need balancing through the opposite preparation polarity. The diagram does not say to apply 500 only in the Americas.",
+          "These broad geographic associations are his interpretive extension. They do not replace assessment of a particular farm’s soil, climate or crop needs."
+        ]
+      },
+      "pt": {
+        "title": "Estudo adicional: geografia e polaridades dos preparados",
+        "alt": "Três colunas manuscritas associam polos terrestre, mediador e cósmico a regiões, calcário/argila/sílica e grupos de preparados.",
+        "steps": [
+          "Leia as colunas como correspondências de Courtney: terrestre—Américas—calcário—500; mediador—Europa/África—argila—502–507; cósmico—Ásia/Austrália—sílica—501 e 508.",
+          "Ele argumenta que a ênfase proposta para uma região pode precisar de equilíbrio pela polaridade oposta dos preparados. O desenho não diz para aplicar 500 apenas nas Américas.",
+          "Essas associações geográficas amplas são uma ampliação interpretativa sua. Não substituem a avaliação do solo, clima ou necessidades das culturas de uma fazenda específica."
+        ]
+      },
+      "creditEn": "Figure 5 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 18; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 5 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 18 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+    },
+    {
+      "id": "courtney-figure-06",
+      "figureNumber": 6,
+      "pdfPage": 21,
+      "captionPdfPage": 22,
+      "file": "assets/what-is-biodynamics/courtney-figure-06.png",
+      "sourceImageXref": 61,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        469,
+        193,
+        844,
+        557
+      ],
+      "width": 375,
+      "height": 364,
+      "bytes": 90170,
+      "sha256": "d9fd4b3c1e97827161288b18d0c52d4c87d9424f89f34f56e5580e6031c532f8",
+      "en": {
+        "title": "Further study: horsetail and the comet image",
+        "alt": "A horsetail shoot is placed beside a comet-like form with arrows comparing their shapes.",
+        "steps": [
+          "The handwritten Equisetum arvense identifies the plant Courtney is discussing. The neighbouring comet image is a spiritual comparison.",
+          "Follow the shape correspondence from branching plant to radiating comet. Courtney uses it to elaborate his account of cosmic forces and the importance of horsetail.",
+          "This is not a botanical identification key or evidence that horsetail controls weather. Do not infer an application method or an edible plant from the sketch."
+        ]
+      },
+      "pt": {
+        "title": "Estudo adicional: cavalinha e a imagem do cometa",
+        "alt": "Um broto de cavalinha aparece ao lado de uma forma semelhante a um cometa, com setas comparando seus formatos.",
+        "steps": [
+          "O nome manuscrito Equisetum arvense identifica a planta discutida por Courtney. A imagem vizinha do cometa é uma comparação espiritual.",
+          "Acompanhe a correspondência de formas entre planta ramificada e cometa radiante. Courtney a usa para ampliar sua descrição das forças cósmicas e da importância da cavalinha.",
+          "Isso não é uma chave de identificação botânica nem evidência de que a cavalinha controle o tempo. Não deduza do esboço um método de aplicação nem uma planta comestível."
+        ]
+      },
+      "creditEn": "Figure 6 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 21; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 6 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 21 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+    },
+    {
+      "id": "courtney-figure-07",
+      "figureNumber": 7,
+      "pdfPage": 25,
+      "captionPdfPage": 26,
+      "file": "assets/what-is-biodynamics/courtney-figure-07.png",
+      "sourceImageXref": 73,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        451,
+        25,
+        834,
+        557
+      ],
+      "width": 383,
+      "height": 532,
+      "bytes": 213708,
+      "sha256": "ee6b4ad26e24aad60ff79f7ca3838f558b309aecf9ccd1f358d1fb7c1ba3c8e3",
+      "en": {
+        "title": "Further study: Earth, subnature and spiritual chronology",
+        "alt": "Nine nested arches labelled as Earth spheres stand above correspondences with human members and dates in a spiritual chronology.",
+        "steps": [
+          "The arches organize nine spiritual spheres. The list below relates them to human members and a proposed chronology of Christ’s descent.",
+          "Courtney draws on other writers and reported interpretations for this wider picture. Read it as the later introduction’s synthesis, not a diagram supplied with the 1924 agricultural lectures.",
+          "The arches are not nine measured geological layers and the handwritten dates are not a scientific timescale. This optional image documents the argument’s spiritual scope; it does not establish earthquake prevention or physical effects of preparations."
+        ]
+      },
+      "pt": {
+        "title": "Estudo adicional: Terra, subnatureza e cronologia espiritual",
+        "alt": "Nove arcos encaixados, identificados como esferas terrestres, aparecem acima de correspondências com membros humanos e datas de uma cronologia espiritual.",
+        "steps": [
+          "Os arcos organizam nove esferas espirituais. A lista abaixo as relaciona a membros humanos e a uma cronologia proposta da descida do Cristo.",
+          "Courtney recorre a outros autores e interpretações relatadas para essa imagem mais ampla. Leia-a como síntese da introdução posterior, não como desenho fornecido com as palestras agrícolas de 1924.",
+          "Os arcos não são nove camadas geológicas medidas, e as datas manuscritas não são uma escala científica do tempo. Esta imagem opcional documenta o alcance espiritual do argumento; não estabelece prevenção de terremotos nem efeitos físicos dos preparados."
+        ]
+      },
+      "creditEn": "Figure 7 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 25; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 7 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 25 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+    }
+  ],
+  "schemaVersion": 1,
+  "reviewed": "2026-10-24"
+}
