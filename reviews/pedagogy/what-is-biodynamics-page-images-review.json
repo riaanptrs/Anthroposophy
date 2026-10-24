@@ -1,0 +1,35 @@
+{
+  "reviewed": "2026-10-24",
+  "sourceArchive": {
+    "fileName": "What is biodinamics-pages.zip",
+    "bytes": 27963971,
+    "sha256": "37e95c80447d9f4231d7e13536296b31f830465db87ecb8e47969999e29632c7",
+    "pageImages": 139
+  },
+  "comparison": {
+    "samePageCountAndDimensionsAsPdf": true,
+    "pdfPageImageEncoding": "JPEG",
+    "zipPageImageEncoding": "PNG",
+    "allPagesVisuallyInspectedInContactSheets": true,
+    "allSevenFigureCropsInspected": true,
+    "additionalFiguresFound": 0,
+    "note": "Pixel values differ due to encoding and screenshot capture; the page layouts and available figures match. No claim of a higher native resolution."
+  },
+  "action": "Replace seven existing illustrated-course crops with direct crops of supplied PNG pages. Preserve original dimensions, crop boxes, handwriting, placement and all bilingual teaching text. Update source credits and index provenance.",
+  "images": {
+    "previousBytes": 1067061,
+    "newBytes": 913845,
+    "reductionBytes": 153216
+  },
+  "preservation": [
+    "All course lesson text and source quotations unchanged",
+    "No complete book pages published",
+    "No invented or reconstructed drawing detail"
+  ],
+  "validation": [
+    "PNG hashes, dimensions and direct crop equality",
+    "Source and teaching checks",
+    "Local links and bilingual course checks",
+    "Browser image loading at mobile and desktop widths"
+  ]
+}

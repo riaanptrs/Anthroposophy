@@ -1,10 +1,18 @@
 {
   "source": {
-    "fileName": "What is biodinamics.pdf",
-    "sha256": "d259d2c869db60ab7aa4598f31b49d77a5497ad716cc2acdf2aa2c6bde5afb16",
+    "fileName": "What is biodinamics-pages.zip",
+    "sha256": "37e95c80447d9f4231d7e13536296b31f830465db87ecb8e47969999e29632c7",
     "pages": 139,
-    "scope": "Selected figures and their neighbouring captions visually inspected. The PDF starts with contents and does not include the original quotation witness’s cover/imprint. Native embedded images extracted; only surrounding margins and prose cropped; no reconstruction, relabelling or AI redrawing.",
-    "quotationWitnessNote": "This 139-page image witness is distinct from the previously registered 135-capture quotation witness. Figure PDF page positions refer only to the new upload; quotation locators remain unchanged."
+    "format": "ZIP containing 139 PNG page captures and one JSON manifest",
+    "scope": "All 139 page images inspected in contact sheets; seven figure crops inspected at native resolution. Cropped directly from supplied PNG page captures, avoiding the JPEG conversion in the PDF. Same dimensions and placement as the earlier PDF source; no new drawings found. Only surrounding margins and prose cropped; no reconstruction, relabelling or AI redrawing.",
+    "pdfWitness": {
+      "fileName": "What is biodinamics.pdf",
+      "sha256": "d259d2c869db60ab7aa4598f31b49d77a5497ad716cc2acdf2aa2c6bde5afb16",
+      "pages": 139,
+      "scope": "Selected figures and their neighbouring captions visually inspected. The PDF starts with contents and does not include the original quotation witness’s cover/imprint. Native embedded images extracted; only surrounding margins and prose cropped; no reconstruction, relabelling or AI redrawing.",
+      "quotationWitnessNote": "This 139-page image witness is distinct from the previously registered 135-capture quotation witness. Figure PDF page positions refer only to the new upload; quotation locators remain unchanged."
+    },
+    "quotationWitnessNote": "PNG page positions match the 139-page PDF. They are distinct from the unchanged earlier 135-capture quotation witness."
   },
   "figures": [
     {
@@ -13,7 +21,6 @@
       "pdfPage": 5,
       "captionPdfPage": 6,
       "file": "assets/what-is-biodynamics/courtney-figure-01.png",
-      "sourceImageXref": 13,
       "sourceImageSize": [
         1272,
         567
@@ -26,8 +33,8 @@
       ],
       "width": 447,
       "height": 267,
-      "bytes": 91992,
-      "sha256": "93b7960d16caabd6ec7cc58d900f8006368a41dcb6ceedfa72d9da9417176e39",
+      "bytes": 78099,
+      "sha256": "9549923b8b41a26404359fc9c813c2367da08a8364c813060a90eb2764714e64",
       "en": {
         "title": "Preparation families",
         "alt": "Handwritten list of preparations 500–508; a bracket groups 502–507 as compost preparations.",
@@ -46,9 +53,14 @@
           "A última entrada é cavalinha, 508. Courtney defende sua inclusão; sua condição é debatida na introdução. A anotação à direita já está cortada na página fornecida."
         ]
       },
-      "creditEn": "Figure 1 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 5; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
-      "creditPt": "Figura 1 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 5 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo.",
-      "sourceClipping": "Right-hand compost-preparation annotation already clipped in the supplied image; no invented text restored."
+      "creditEn": "Figure 1 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Cropped from supplied PNG page 5, matching page 5 of the PDF; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 1 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Recortada da imagem PNG fornecida da página 5, correspondente à página 5 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo.",
+      "sourceClipping": "Right-hand compost-preparation annotation already clipped in the supplied image; no invented text restored.",
+      "previousPdfCropSha256": "93b7960d16caabd6ec7cc58d900f8006368a41dcb6ceedfa72d9da9417176e39",
+      "previousPdfCropBytes": 91992,
+      "sourcePageFile": "What is biodinamics-pages/page-00005.png",
+      "sourcePageSha256": "70257e356c08a3730d86569713433224398716061c3cea7d2c5598128d2a623b",
+      "pdfWitnessImageXref": 13
     },
     {
       "id": "courtney-figure-02",
@@ -56,7 +68,6 @@
       "pdfPage": 15,
       "captionPdfPage": 16,
       "file": "assets/what-is-biodynamics/courtney-figure-02.png",
-      "sourceImageXref": 43,
       "sourceImageSize": [
         1272,
         567
@@ -69,8 +80,8 @@
       ],
       "width": 519,
       "height": 539,
-      "bytes": 169875,
-      "sha256": "13ed9f370a820bd2816e6be9edfd7edda2cbc30afd15bd711d1f7c7877779868",
+      "bytes": 143899,
+      "sha256": "1f43e5d55e611a2484f9b00a8bd11f81c06155088501855ff260b101545cccbd",
       "en": {
         "title": "The plant’s four regions",
         "alt": "Upright flowering plant labelled root/earth, leaf/water, flower/air and fruit or seed/fire.",
@@ -89,8 +100,13 @@
           "Conserve folha e flor como dois cartões. Na figura seguinte, serão colocadas juntas ao lado de um agrupamento funcional humano."
         ]
       },
-      "creditEn": "Figure 2 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 15; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
-      "creditPt": "Figura 2 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 15 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+      "creditEn": "Figure 2 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Cropped from supplied PNG page 15, matching page 15 of the PDF; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 2 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Recortada da imagem PNG fornecida da página 15, correspondente à página 15 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo.",
+      "previousPdfCropSha256": "13ed9f370a820bd2816e6be9edfd7edda2cbc30afd15bd711d1f7c7877779868",
+      "previousPdfCropBytes": 169875,
+      "sourcePageFile": "What is biodinamics-pages/page-00015.png",
+      "sourcePageSha256": "01b713d1ca5b09ef7f7f836cf8cd1a8c2bf97cc512fb629ef5ea3b33cc62a308",
+      "pdfWitnessImageXref": 43
     },
     {
       "id": "courtney-figure-03",
@@ -98,7 +114,6 @@
       "pdfPage": 16,
       "captionPdfPage": 17,
       "file": "assets/what-is-biodynamics/courtney-figure-03.png",
-      "sourceImageXref": 46,
       "sourceImageSize": [
         1272,
         567
@@ -111,8 +126,8 @@
       ],
       "width": 400,
       "height": 422,
-      "bytes": 122472,
-      "sha256": "6ed4db8f7beeb1d621d00c4a34e06bc7791544dbe6a4968f23a9d28e08bc1dd1",
+      "bytes": 103783,
+      "sha256": "fb4f3bc9c0f24f7f6c9a360f9cd98c9367289a45f9f826d55688dfee63c1e2ee",
       "en": {
         "title": "Why the human figure is inverted",
         "alt": "Inverted human figure aligns nerve/sense and thinking with earth, rhythmic and feeling with water and air, and metabolism and willing with fire.",
@@ -131,8 +146,13 @@
           "A posição superior na imagem invertida é a vida metabólica/do querer, correspondente a fruto ou semente/fogo. Três agrupamentos funcionais humanos ficam diante de quatro regiões vegetais. É uma analogia, não identidade de órgãos."
         ]
       },
-      "creditEn": "Figure 3 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 16; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
-      "creditPt": "Figura 3 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 16 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+      "creditEn": "Figure 3 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Cropped from supplied PNG page 16, matching page 16 of the PDF; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 3 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Recortada da imagem PNG fornecida da página 16, correspondente à página 16 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo.",
+      "previousPdfCropSha256": "6ed4db8f7beeb1d621d00c4a34e06bc7791544dbe6a4968f23a9d28e08bc1dd1",
+      "previousPdfCropBytes": 122472,
+      "sourcePageFile": "What is biodinamics-pages/page-00016.png",
+      "sourcePageSha256": "c4595b57310ef2cc1ae2649b0dd41e24478ab249fdec83c098f70033797f4300",
+      "pdfWitnessImageXref": 46
     },
     {
       "id": "courtney-figure-04",
@@ -140,7 +160,6 @@
       "pdfPage": 17,
       "captionPdfPage": 18,
       "file": "assets/what-is-biodynamics/courtney-figure-04.png",
-      "sourceImageXref": 49,
       "sourceImageSize": [
         1272,
         567
@@ -153,8 +172,8 @@
       ],
       "width": 391,
       "height": 313,
-      "bytes": 89910,
-      "sha256": "0cb2a8661ef9422ac6f9c6d465375d3df0777025909930e10ff3e10856bd22ac",
+      "bytes": 75217,
+      "sha256": "2d7ca9508c2c803f1906c31d7e676d29b9550693ab241b8946fd1ad4a4e661ec",
       "en": {
         "title": "Four formative ethers",
         "alt": "Four rows link warmth ether to warmth/fire, light ether to air/light, chemical or tone ether to water, and life ether to earth.",
@@ -173,8 +192,13 @@
           "A palestra sobre seres elementais atribui essas atividades a gnomos, ondinas, silfos e espíritos do fogo. Esta figura vem da introdução de Courtney; não é um desenho de quadro reproduzido daquela palestra."
         ]
       },
-      "creditEn": "Figure 4 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 17; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
-      "creditPt": "Figura 4 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 17 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+      "creditEn": "Figure 4 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Cropped from supplied PNG page 17, matching page 17 of the PDF; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 4 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Recortada da imagem PNG fornecida da página 17, correspondente à página 17 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo.",
+      "previousPdfCropSha256": "0cb2a8661ef9422ac6f9c6d465375d3df0777025909930e10ff3e10856bd22ac",
+      "previousPdfCropBytes": 89910,
+      "sourcePageFile": "What is biodinamics-pages/page-00017.png",
+      "sourcePageSha256": "ece08d4c8a5c620dd6cff0a8da6e904c147032db1bff450a344415fcfa7a3b11",
+      "pdfWitnessImageXref": 49
     },
     {
       "id": "courtney-figure-05",
@@ -182,7 +206,6 @@
       "pdfPage": 18,
       "captionPdfPage": 19,
       "file": "assets/what-is-biodynamics/courtney-figure-05.png",
-      "sourceImageXref": 52,
       "sourceImageSize": [
         1272,
         567
@@ -195,8 +218,8 @@
       ],
       "width": 801,
       "height": 508,
-      "bytes": 288934,
-      "sha256": "1f1f82e4e4fa97623bfa5df1e42fa276ab7b616899cd5c43ca090fa7c8647250",
+      "bytes": 257301,
+      "sha256": "0c315c66302337a684b63689eebc287478cd40310886840b6bc9945bead1719e",
       "en": {
         "title": "Further study: geography and preparation polarities",
         "alt": "Three handwritten columns associate earthly, mediating and cosmic poles with regions, limestone/clay/silica and preparation groups.",
@@ -215,8 +238,13 @@
           "Essas associações geográficas amplas são uma ampliação interpretativa sua. Não substituem a avaliação do solo, clima ou necessidades das culturas de uma fazenda específica."
         ]
       },
-      "creditEn": "Figure 5 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 18; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
-      "creditPt": "Figura 5 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 18 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+      "creditEn": "Figure 5 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Cropped from supplied PNG page 18, matching page 18 of the PDF; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 5 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Recortada da imagem PNG fornecida da página 18, correspondente à página 18 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo.",
+      "previousPdfCropSha256": "1f1f82e4e4fa97623bfa5df1e42fa276ab7b616899cd5c43ca090fa7c8647250",
+      "previousPdfCropBytes": 288934,
+      "sourcePageFile": "What is biodinamics-pages/page-00018.png",
+      "sourcePageSha256": "0687c463156f5aae629ddecd0119bc8bb7a4f832a523ca5d16d17b0cf9d8329f",
+      "pdfWitnessImageXref": 52
     },
     {
       "id": "courtney-figure-06",
@@ -224,7 +252,6 @@
       "pdfPage": 21,
       "captionPdfPage": 22,
       "file": "assets/what-is-biodynamics/courtney-figure-06.png",
-      "sourceImageXref": 61,
       "sourceImageSize": [
         1272,
         567
@@ -237,8 +264,8 @@
       ],
       "width": 375,
       "height": 364,
-      "bytes": 90170,
-      "sha256": "d9fd4b3c1e97827161288b18d0c52d4c87d9424f89f34f56e5580e6031c532f8",
+      "bytes": 73168,
+      "sha256": "29ac2507ec2a117d02333f4ef0a5c3be6ff6a2f1795b79b94ab548e2e7efe4d1",
       "en": {
         "title": "Further study: horsetail and the comet image",
         "alt": "A horsetail shoot is placed beside a comet-like form with arrows comparing their shapes.",
@@ -257,8 +284,13 @@
           "Isso não é uma chave de identificação botânica nem evidência de que a cavalinha controle o tempo. Não deduza do esboço um método de aplicação nem uma planta comestível."
         ]
       },
-      "creditEn": "Figure 6 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 21; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
-      "creditPt": "Figura 6 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 21 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+      "creditEn": "Figure 6 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Cropped from supplied PNG page 21, matching page 21 of the PDF; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 6 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Recortada da imagem PNG fornecida da página 21, correspondente à página 21 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo.",
+      "previousPdfCropSha256": "d9fd4b3c1e97827161288b18d0c52d4c87d9424f89f34f56e5580e6031c532f8",
+      "previousPdfCropBytes": 90170,
+      "sourcePageFile": "What is biodinamics-pages/page-00021.png",
+      "sourcePageSha256": "5e538d0e840f80897a07de31fb52c6a506b4692dd2008c01133d51f32bad970d",
+      "pdfWitnessImageXref": 61
     },
     {
       "id": "courtney-figure-07",
@@ -266,7 +298,6 @@
       "pdfPage": 25,
       "captionPdfPage": 26,
       "file": "assets/what-is-biodynamics/courtney-figure-07.png",
-      "sourceImageXref": 73,
       "sourceImageSize": [
         1272,
         567
@@ -279,8 +310,8 @@
       ],
       "width": 383,
       "height": 532,
-      "bytes": 213708,
-      "sha256": "ee6b4ad26e24aad60ff79f7ca3838f558b309aecf9ccd1f358d1fb7c1ba3c8e3",
+      "bytes": 182378,
+      "sha256": "f6df677cc156412b47f17589ad119db08d7b3beb517a61de39b63446acad8692",
       "en": {
         "title": "Further study: Earth, subnature and spiritual chronology",
         "alt": "Nine nested arches labelled as Earth spheres stand above correspondences with human members and dates in a spiritual chronology.",
@@ -299,10 +330,16 @@
           "Os arcos não são nove camadas geológicas medidas, e as datas manuscritas não são uma escala científica do tempo. Esta imagem opcional documenta o alcance espiritual do argumento; não estabelece prevenção de terremotos nem efeitos físicos dos preparados."
         ]
       },
-      "creditEn": "Figure 7 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Extracted from PDF page 25; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
-      "creditPt": "Figura 7 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Extraída da página 25 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo."
+      "creditEn": "Figure 7 in Hugh J. Courtney’s introduction to What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). Illustrator not identified in the supplied pages. Cropped from supplied PNG page 25, matching page 25 of the PDF; the figure number appears on the following page. Original handwritten English labels retained; use the guide below.",
+      "creditPt": "Figura 7 na introdução de Hugh J. Courtney a What Is Biodynamics? A Way to Heal and Revitalize the Earth (SteinerBooks). As páginas fornecidas não identificam o ilustrador. Recortada da imagem PNG fornecida da página 25, correspondente à página 25 do PDF; o número da figura aparece na página seguinte. Rótulos manuscritos originais em inglês preservados; use a explicação abaixo.",
+      "previousPdfCropSha256": "ee6b4ad26e24aad60ff79f7ca3838f558b309aecf9ccd1f358d1fb7c1ba3c8e3",
+      "previousPdfCropBytes": 213708,
+      "sourcePageFile": "What is biodinamics-pages/page-00025.png",
+      "sourcePageSha256": "31ec076434e257920adf17521660fc31af847675c11ddd178a578000dfa5a6b9",
+      "pdfWitnessImageXref": 73
     }
   ],
   "schemaVersion": 1,
-  "reviewed": "2026-10-24"
+  "reviewed": "2026-10-24",
+  "imageRevision": "2026-10-24"
 }
