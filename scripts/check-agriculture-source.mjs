@@ -18,8 +18,9 @@ assert.equal(map.sourceWitnesses.length,2);
 for(const [id,count] of [['creeger',192],['adams',178]]){
  const witness=map.sourceWitnesses.find(s=>s.id===id);
  assert.equal(witness.markdownCaptures,count);
- assert.equal(witness.pdfVisualVerification,false,'PDF images were unavailable');
- assert.equal(witness.pdfStatus,'unavailable-transfer-limit');
+ assert.equal(witness.pdfVisualVerification,false,'No whole-PDF verification is claimed');
+ assert.equal(witness.pdfStatus,id==='adams'?'partially-inspected':'unavailable-transfer-limit');
+ if(id==='adams')assert.equal(witness.visualReviewRegister,'agriculture-source-plates.json');
  const source=registered.filter(s=>s.filename===witness.filename);
  assert.equal(source.length,1);
  assert.equal(source[0].sha256,witness.sha256);
@@ -93,4 +94,4 @@ for(const lang of ['en','pt']){
  assert.ok(fs.readFileSync(base+'agriculture/index.html','utf8').includes('what-is-biodynamics/index.html'));
  assert.ok(fs.readFileSync(base+'what-is-biodynamics/index.html','utf8').includes('agriculture/index.html'));
 }
-console.log('Agriculture source checks passed: 370 Markdown captures, eight lectures, four discussions, 18 bilingual readings and honest OCR-only provenance.');
+console.log('Agriculture source checks passed: 370 Markdown captures, eight lectures, four discussions, 18 bilingual readings with Markdown quotation provenance and separately registered plate review.');

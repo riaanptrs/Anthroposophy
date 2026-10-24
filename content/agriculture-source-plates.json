@@ -1,0 +1,401 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-10-24",
+  "source": {
+    "title": "Agriculture Course: The Birth of the Biodynamic Method",
+    "author": "Rudolf Steiner",
+    "translator": "George Adams",
+    "publisher": "Rudolf Steiner Press",
+    "editionYear": 2012,
+    "translationFirstPublished": 1958,
+    "pdfFileName": "Agriculture course.pdf",
+    "pdfSha256": "db6493d07c9f31032314cd260c5879757ec0a7f7314122b37dcfbeba31ed1230",
+    "pdfPages": 180,
+    "visuallyInspectedPdfPages": [
+      2,
+      3,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178
+    ],
+    "scope": "Title/copyright and eight printed colour plates inspected visually; extracted crops also inspected. OCR of the scanned PDF is a reading aid, not verification of every page or of the canonical 1993 translation.",
+    "transformation": "Embedded 1272×567 images extracted, outer page margins cropped, saved as lossless PNG; printed lines, labels and colours preserved. No AI redrawing. These are the English-edition reproductions, not claimed to be unmodified German blackboard originals."
+  },
+  "plates": [
+    {
+      "id": "adams-plate-01",
+      "file": "assets/agriculture-plates/adams-plate-01.png",
+      "pdfPage": 171,
+      "imageXref": 511,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        187,
+        25,
+        1065,
+        553
+      ],
+      "width": 878,
+      "height": 528,
+      "sha256": "e3fe8973e10f30a45b8ca8c73141bf4defd8f312f99f0298e0ca9472e60f6363",
+      "bytes": 254150,
+      "drawingNumbers": [
+        1
+      ],
+      "sourceContexts": [
+        "Lecture 1"
+      ],
+      "en": {
+        "title": "A planetary cycle and the plant’s time scale",
+        "alt": "A white circle with two marked positions of Saturn and a line passing through the central Earth.",
+        "steps": [
+          "Find the central Earth, the outer circle and Saturn’s two positions. The drawing asks you to consider a relationship extending beyond the plant itself.",
+          "Read it with the perennial-plant example: Steiner relates the slower cycles of distant planets to processes lasting beyond a single growing season, including bark formation.",
+          "The circle represents a proposed relationship in the lecture. It is not a planting calendar or a measured diagram of an agricultural effect."
+        ]
+      },
+      "pt": {
+        "title": "Um ciclo planetário e a escala de tempo da planta",
+        "alt": "Um círculo branco com duas posições de Saturno assinaladas e uma linha que passa pela Terra, ao centro.",
+        "steps": [
+          "Localize a Terra ao centro, o círculo externo e as duas posições de Saturno. O desenho convida a considerar uma relação que vai além da própria planta.",
+          "Leia-o junto ao exemplo das plantas perenes: Steiner relaciona os ciclos mais lentos dos planetas distantes com processos que ultrapassam uma única estação de crescimento, incluindo a formação da casca.",
+          "O círculo representa uma relação proposta na palestra. Não é um calendário de plantio nem um diagrama de um efeito agrícola medido."
+        ]
+      }
+    },
+    {
+      "id": "adams-plate-02",
+      "file": "assets/agriculture-plates/adams-plate-02.png",
+      "pdfPage": 172,
+      "imageXref": 514,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        189,
+        25,
+        1063,
+        553
+      ],
+      "width": 874,
+      "height": 528,
+      "sha256": "37885bcb29763e337ebe1b84b20f229459f5f14fd57f96b71e253daf57e34748",
+      "bytes": 497069,
+      "drawingNumbers": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceContexts": [
+        "Lecture 2"
+      ],
+      "en": {
+        "title": "Above and below the soil surface",
+        "alt": "Drawings 2–5 show a soil boundary, planetary symbols, a plant, inward arrows around a centre and the front and hind regions of an animal.",
+        "steps": [
+          "Begin with drawing 2, the horizontal soil line. Above it the plate says “Dead Warmth”; below it, “Living Warmth”. These are terms in Steiner’s contrast between atmospheric and soil warmth, rather than thermometer readings.",
+          "Follow the planetary symbols on both sides. In the lecture, distant influences are received below through silica and conducted upward by clay; upper earthly activity is drawn downward through lime. Above and below are therefore crossing pathways.",
+          "Drawings 3–5 extend the account to plant form, seed formation and the animal. Study the soil relationship first; the whole sheet is not a single literal cross-section."
+        ]
+      },
+      "pt": {
+        "title": "Acima e abaixo da superfície do solo",
+        "alt": "Os desenhos 2–5 mostram a superfície do solo, símbolos planetários, uma planta, setas voltadas para um centro e as regiões anterior e posterior de um animal.",
+        "steps": [
+          "Comece pelo desenho 2, com a linha horizontal do solo. Acima está escrito “Dead Warmth” (calor morto); abaixo, “Living Warmth” (calor vivo). São termos do contraste de Steiner entre o calor atmosférico e o calor do solo, e não leituras de um termômetro.",
+          "Acompanhe os símbolos planetários dos dois lados. Na palestra, influências distantes são recebidas abaixo pela sílica e conduzidas para cima pela argila; a atividade terrestre superior é atraída para baixo pelo calcário. As duas vias, portanto, atravessam a superfície.",
+          "Os desenhos 3–5 ampliam a explicação para a forma da planta, a formação da semente e o animal. Estude primeiro a relação com o solo; a prancha inteira não representa um único corte literal."
+        ]
+      }
+    },
+    {
+      "id": "adams-plate-03",
+      "file": "assets/agriculture-plates/adams-plate-03.png",
+      "pdfPage": 173,
+      "imageXref": 517,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        187,
+        25,
+        1065,
+        553
+      ],
+      "width": 878,
+      "height": 528,
+      "sha256": "1ffecbc5162494a30dd99505b1223b776698c0927470257745dd2767264ee3f3",
+      "bytes": 327615,
+      "drawingNumbers": [
+        6
+      ],
+      "sourceContexts": [
+        "Lecture 3"
+      ],
+      "en": {
+        "title": "Form, life and their mediation",
+        "alt": "A green lattice interwoven with blue paths and small yellow connections, numbered 6.",
+        "steps": [
+          "Identify three visible features: the framework, the paths crossing it and the connections between them. The drawing brings several activities into one relationship.",
+          "Read the lecture’s roles alongside it: carbon bears formative structure; oxygen carries etheric life; nitrogen mediates between them. Sulfur mediates spiritual activity through physical carriers, while hydrogen releases formed organization toward the cosmos.",
+          "Use the picture to explain how structure and continuing life are connected in this account. It is neither a molecular model nor a five-ingredient fertilizer formula; the colour alone is not a chemical identification."
+        ]
+      },
+      "pt": {
+        "title": "Forma, vida e sua mediação",
+        "alt": "Uma trama verde entrelaçada com linhas azuis e pequenas ligações amarelas, numerada como desenho 6.",
+        "steps": [
+          "Identifique três elementos visíveis: a trama, as linhas que a atravessam e as ligações entre elas. O desenho reúne várias atividades em uma relação.",
+          "Leia junto os papéis apresentados na palestra: o carbono sustenta a estrutura formativa; o oxigênio carrega a vida etérica; o nitrogênio faz a mediação entre ambos. O enxofre medeia a atividade espiritual por meio dos portadores físicos, enquanto o hidrogênio libera a organização formada em direção ao cosmos.",
+          "Use a imagem para explicar como estrutura e vida contínua se relacionam nessa concepção. Ela não é um modelo molecular nem uma fórmula de adubo com cinco ingredientes; a cor, por si só, não identifica uma substância química."
+        ]
+      }
+    },
+    {
+      "id": "adams-plate-04",
+      "file": "assets/agriculture-plates/adams-plate-04.png",
+      "pdfPage": 174,
+      "imageXref": 520,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        187,
+        25,
+        1065,
+        553
+      ],
+      "width": 878,
+      "height": 528,
+      "sha256": "7ad83155b7084e22755183cee74208ad20946b14950c240bc872eaac61df93a5",
+      "bytes": 406695,
+      "drawingNumbers": [
+        7,
+        8,
+        9
+      ],
+      "sourceContexts": [
+        "Lecture 4",
+        "First Discussion"
+      ],
+      "en": {
+        "title": "Living surroundings and inward activity",
+        "alt": "A mound and tree in drawing 7, inward and outward arrows at boundaries in drawing 8, and a horn outline with an English size annotation in drawing 9.",
+        "steps": [
+          "Start at drawing 7: compare the humus-rich mound with the tree’s sheath. Steiner uses this comparison to extend plant life through the roots into their surroundings. Fertilizing then addresses that living soil relationship.",
+          "Move to drawing 8. The boundary has currents directed both inward and outward. In the lecture this prepares the contrast between horns returning formative activity inward and antlers releasing it outward.",
+          "Drawing 9 comes from the First Discussion’s question about horn size. Its printed measurement records that historical answer; the image is not a complete manufacturing or handling guide."
+        ]
+      },
+      "pt": {
+        "title": "O entorno vivo e a atividade dirigida para dentro",
+        "alt": "Um monte de terra e uma árvore no desenho 7, setas para dentro e para fora em limites no desenho 8 e o contorno de um chifre com uma anotação de tamanho em inglês no desenho 9.",
+        "steps": [
+          "Comece pelo desenho 7: compare o monte rico em húmus com o revestimento da árvore. Steiner usa essa comparação para estender a vida da planta pelas raízes até seu entorno. A adubação passa, assim, a atuar nessa relação com o solo vivo.",
+          "Passe ao desenho 8. O limite apresenta correntes dirigidas tanto para dentro quanto para fora. Na palestra, isso prepara o contraste entre chifres que devolvem atividade formativa para o interior e galhadas que a liberam para fora.",
+          "O desenho 9 vem da pergunta sobre o tamanho do chifre na Primeira Discussão. A medida impressa registra essa resposta histórica; a imagem não é um guia completo de fabricação ou manejo."
+        ]
+      }
+    },
+    {
+      "id": "adams-plate-05",
+      "file": "assets/agriculture-plates/adams-plate-05.png",
+      "pdfPage": 175,
+      "imageXref": 523,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        401,
+        25,
+        851,
+        295
+      ],
+      "width": 450,
+      "height": 270,
+      "sha256": "571ed11bdb5615780c1a93a812b5de79512c85707a06b3e79f220d324d8a102f",
+      "bytes": 103843,
+      "drawingNumbers": [
+        10
+      ],
+      "sourceContexts": [
+        "Second Discussion"
+      ],
+      "en": {
+        "title": "A preparation within the manure heap",
+        "alt": "Drawing 10 shows red curved rays from a small region inside a green arch-shaped boundary.",
+        "steps": [
+          "Locate the small preparation region and the surrounding boundary of the manure heap. This is a diagram from the Second Discussion, not a picture of a horn.",
+          "Trace the curved red lines. Steiner proposes that the preparation’s activity spreads through the manure and is returned at its surface when surrounded by the material. This explains why enclosure within the heap matters to his account.",
+          "The lines represent asserted radiations, not measured paths or nutrient quantities. The drawing explains the intended relationship; it does not establish an effect or supply a present-day compost-management protocol."
+        ]
+      },
+      "pt": {
+        "title": "Um preparado no interior do monte de esterco",
+        "alt": "O desenho 10 mostra raios vermelhos curvos que partem de uma pequena região dentro de um limite verde em forma de arco.",
+        "steps": [
+          "Localize a pequena região do preparado e o limite do monte de esterco ao redor. Este é um diagrama da Segunda Discussão, e não a imagem de um chifre.",
+          "Acompanhe as linhas vermelhas curvas. Steiner propõe que a atividade do preparado se espalha pelo esterco e retorna ao atingir sua superfície quando o material o envolve. Isso explica por que estar no interior do monte importa em sua concepção.",
+          "As linhas representam radiações afirmadas pelo autor, e não trajetórias ou quantidades de nutrientes medidas. O desenho explica a relação pretendida; não comprova um efeito nem fornece um protocolo atual de manejo de composto."
+        ]
+      }
+    },
+    {
+      "id": "adams-plate-06",
+      "file": "assets/agriculture-plates/adams-plate-06.png",
+      "pdfPage": 176,
+      "imageXref": 526,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        187,
+        25,
+        1065,
+        553
+      ],
+      "width": 878,
+      "height": 528,
+      "sha256": "4a164c0ada17dc687105f1b5c93a8d456d24a69605b027a0c41457b44bfd2387",
+      "bytes": 464924,
+      "drawingNumbers": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "sourceContexts": [
+        "Lecture 6",
+        "Third Discussion"
+      ],
+      "en": {
+        "title": "Reproduction, displaced activity and excess vitality",
+        "alt": "Drawings 11–14 show arrows across a soil boundary, a leafy plant and root, a Moon–soil–plant relationship and a chamomile flower.",
+        "steps": [
+          "Read the drawings separately. In 11, arrows returning upward from the soil belong to the account of reproduction. In 12, activity assigned to the leafy region is pictured as displaced toward roots in the nematode explanation.",
+          "Focus on 13 at the upper right: the Moon is above, with a plant and soil below. The coloured markings help present the claim that excessive water-mediated lunar vitality disrupts the normal path toward seed formation and creates a figurative second soil for fungi.",
+          "Drawing 14, the flower at the lower left, belongs to the Third Discussion’s identification of chamomile. It is not a symptom of the disease model. None of these drawings diagnoses an actual crop problem."
+        ]
+      },
+      "pt": {
+        "title": "Reprodução, atividade deslocada e vitalidade excessiva",
+        "alt": "Os desenhos 11–14 mostram setas que atravessam a superfície do solo, uma planta com folhas e raiz, uma relação Lua–solo–planta e uma flor de camomila.",
+        "steps": [
+          "Leia os desenhos separadamente. No 11, as setas que retornam para cima a partir do solo pertencem à explicação da reprodução. No 12, a atividade atribuída à região das folhas aparece deslocada para as raízes na explicação sobre nematoides.",
+          "Concentre-se no 13, no alto à direita: a Lua está acima, com uma planta e o solo abaixo. As marcas coloridas apresentam a afirmação de que a vitalidade lunar excessiva, mediada pela água, perturba o percurso normal até a formação da semente e cria um segundo solo figurado para os fungos.",
+          "O desenho 14, a flor no canto inferior esquerdo, pertence à identificação da camomila na Terceira Discussão. Não é um sintoma do modelo de doença. Nenhum desses desenhos diagnostica um problema real em uma cultura."
+        ]
+      }
+    },
+    {
+      "id": "adams-plate-07",
+      "file": "assets/agriculture-plates/adams-plate-07.png",
+      "pdfPage": 177,
+      "imageXref": 529,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        187,
+        25,
+        1065,
+        553
+      ],
+      "width": 878,
+      "height": 528,
+      "sha256": "ee832999f78208549a1b71c6ea625ae4ff08602c94f336a0403263cb53dc003d",
+      "bytes": 452862,
+      "drawingNumbers": [
+        15,
+        16,
+        17
+      ],
+      "sourceContexts": [
+        "Lecture 7"
+      ],
+      "en": {
+        "title": "The tree within a living landscape",
+        "alt": "Drawings 15–17 compare leafy shoots with a shared root region, show a tree crown and root with insect and larva labels, and contrast air–warmth with earth–water exchanges.",
+        "steps": [
+          "Begin with 15, at the upper right. Several shoots share a region beneath them. This prepares the analogy of a tree as raised living earth supporting many plant-like shoots.",
+          "In 16, at the left, distinguish the crown from the root region. The English labels include “Rich in astrality”, “Poorer in ether” and “Larva”. They identify spiritual relationships attributed to the tree and its animal surroundings, rather than anatomical measurements.",
+          "In 17, follow the labelled air, warmth, earth and water relationships. The sheet widens the unit of attention from an isolated tree to plant–animal exchange and landscape. Observed insects and birds belong in your record; their proposed spiritual roles need to be identified as such."
+        ]
+      },
+      "pt": {
+        "title": "A árvore em uma paisagem viva",
+        "alt": "Os desenhos 15–17 comparam brotos com folhas e uma região radicular comum, mostram copa e raiz com rótulos de inseto e larva e contrastam trocas de ar–calor com terra–água.",
+        "steps": [
+          "Comece pelo 15, no alto à direita. Vários brotos compartilham uma região abaixo deles. Isso prepara a analogia da árvore como terra viva elevada, sustentando muitos brotos semelhantes a pequenas plantas.",
+          "No 16, à esquerda, distinga a copa da região das raízes. Entre os rótulos em inglês estão “Rich in astrality” (rica em astralidade), “Poorer in ether” (mais pobre em éter) e “Larva”. Eles indicam relações espirituais atribuídas à árvore e aos animais de seu entorno, e não medidas anatômicas.",
+          "No 17, acompanhe as relações indicadas entre ar, calor, terra e água. A prancha amplia a atenção da árvore isolada para as trocas entre plantas e animais e para a paisagem. Insetos e aves observados entram no registro; os papéis espirituais propostos devem ser identificados como tais."
+        ]
+      }
+    },
+    {
+      "id": "adams-plate-08",
+      "file": "assets/agriculture-plates/adams-plate-08.png",
+      "pdfPage": 178,
+      "imageXref": 532,
+      "sourceImageSize": [
+        1272,
+        567
+      ],
+      "cropBoxPixels": [
+        187,
+        25,
+        1065,
+        553
+      ],
+      "width": 878,
+      "height": 528,
+      "sha256": "1dba1aa3f1616db97abe379b2da14c6c4e788897e29e3ae258bfc32db8aaf3a7",
+      "bytes": 534064,
+      "drawingNumbers": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "sourceContexts": [
+        "Lecture 8",
+        "Fourth Discussion"
+      ],
+      "en": {
+        "title": "Animal organization, manure and plant regions",
+        "alt": "Drawings 18–23 include a two-pole animal table, a plant between coloured upper and lower regions, stem and leaf forms, a crescent and two enclosed shapes.",
+        "steps": [
+          "Start with 18 at the upper left. “Nerve-Sensory” and “Metabolic-Limb org” label two animal poles. The table crosses earthly substance with cosmic forces, and cosmic substance with earthly forces. These are distinctions in Steiner’s spiritual physiology, not modern anatomical measurements.",
+          "In 19, at the right, the root region and upper plant belong to the manure–soil–plant account. In 20–21, below left, follow the change from slender stem growth to leafy form, used in the feeding discussion.",
+          "Drawings 22–23 belong to the Fourth Discussion: the crescent concerns lunar naming, and the enclosed shapes compare an organism’s transformation of received warmth with dead material. They are not additional animal organs. Read the sheet as several related arguments, rather than a single feeding prescription."
+        ]
+      },
+      "pt": {
+        "title": "Organização animal, esterco e regiões da planta",
+        "alt": "Os desenhos 18–23 incluem um quadro dos dois polos do animal, uma planta entre regiões coloridas superiores e inferiores, formas de caule e folha, uma crescente e duas formas envolvidas por contornos.",
+        "steps": [
+          "Comece pelo 18, no alto à esquerda. “Nerve-Sensory” (neurossensorial) e “Metabolic-Limb org” (organização metabólica e dos membros) nomeiam dois polos do animal. O quadro cruza substância terrestre com forças cósmicas e substância cósmica com forças terrestres. São distinções da fisiologia espiritual de Steiner, e não medidas da anatomia moderna.",
+          "No 19, à direita, a região das raízes e a parte superior da planta pertencem à explicação da relação esterco–solo–planta. Nos 20–21, embaixo à esquerda, acompanhe a passagem de um crescimento em caules finos para uma forma com folhas, usada na discussão da alimentação.",
+          "Os desenhos 22–23 pertencem à Quarta Discussão: a crescente trata da denominação das fases lunares, e as formas envolvidas por contornos comparam a transformação do calor recebido por um organismo com o que ocorre na matéria morta. Não são órgãos adicionais do animal. Leia a prancha como vários argumentos relacionados, e não como uma prescrição alimentar única."
+        ]
+      }
+    }
+  ]
+}

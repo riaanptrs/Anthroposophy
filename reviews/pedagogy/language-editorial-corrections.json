@@ -1474,5 +1474,151 @@
         "occurrences": 1
       }
     ]
+  },
+  {
+    "flag": "agriculture-visual-review-2026-10-24",
+    "reason": "Update the source-verification notice after visual inspection of the newly transferred Adams PDF plates; canonical quotations and their Markdown locators are unchanged.",
+    "old": "Primary study text: Rudolf Steiner, Spiritual Foundations for the Renewal of Agriculture, GA 327, translated by Catherine E. Creeger and Malcolm Gardner, edited by Malcolm Gardner; Bio-Dynamic Farming and Gardening Association, 1993. Compared with George Adams’s 1958 classic translation, reissued by Rudolf Steiner Press in 2012. Review uses the supplied OCR Markdown companions; PDF images were unavailable.",
+    "new": "Primary study text: Rudolf Steiner, Spiritual Foundations for the Renewal of Agriculture, GA 327, translated by Catherine E. Creeger and Malcolm Gardner, edited by Malcolm Gardner; Bio-Dynamic Farming and Gardening Association, 1993. Compared with George Adams’s 1958 classic translation, reissued by Rudolf Steiner Press in 2012. Quotations use the supplied OCR Markdown companions. Eight colour plates in the newly supplied Adams PDF were inspected and extracted; their PDF page numbers are separate from Markdown capture numbers.",
+    "files": [
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "agriculture-visual-review-2026-10-24",
+    "reason": "Update the source-verification notice after visual inspection of the newly transferred Adams PDF plates; canonical quotations and their Markdown locators are unchanged.",
+    "old": "Texto principal: Rudolf Steiner, Spiritual Foundations for the Renewal of Agriculture, GA 327, tradução de Catherine E. Creeger e Malcolm Gardner, edição de Malcolm Gardner; Bio-Dynamic Farming and Gardening Association, 1993. Comparado com a tradução clássica de George Adams de 1958, reeditada pela Rudolf Steiner Press em 2012. A revisão usa os arquivos Markdown em OCR fornecidos; as imagens dos PDFs não estavam disponíveis.",
+    "new": "Texto principal: Rudolf Steiner, Spiritual Foundations for the Renewal of Agriculture, GA 327, tradução de Catherine E. Creeger e Malcolm Gardner, edição de Malcolm Gardner; Bio-Dynamic Farming and Gardening Association, 1993. Comparado com a tradução clássica de George Adams de 1958, reeditada pela Rudolf Steiner Press em 2012. As citações usam os arquivos Markdown em OCR fornecidos. Oito pranchas coloridas do novo PDF de Adams foram inspecionadas e extraídas; seus números de página do PDF são distintos dos números das capturas do Markdown.",
+    "files": [
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "agriculture-visual-review-2026-10-24",
+    "reason": "Update the source-verification notice after visual inspection of the newly transferred Adams PDF plates; canonical quotations and their Markdown locators are unchanged.",
+    "old": "Capture numbers identify the supplied Markdown page blocks. The PDF images could not be transferred, so wording was checked in the supplied OCR Markdown and parallel passages were compared between editions where available. Drawings and page layout remain unverified.",
+    "new": "Capture numbers identify the supplied Markdown page blocks used for quotations. The 1993 PDF could not be transferred. The newly supplied Adams PDF has 180 pages: its title/copyright pages and eight colour plates on PDF pages 171–178 were visually inspected. Plate page numbers do not identify the canonical quotation’s location or verify the 1993 drawings.",
+    "files": [
+      {
+        "file": "scripts/build-agriculture.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "agriculture-visual-review-2026-10-24",
+    "reason": "Update the source-verification notice after visual inspection of the newly transferred Adams PDF plates; canonical quotations and their Markdown locators are unchanged.",
+    "old": "Os números das capturas identificam os blocos de páginas do Markdown fornecido. As imagens dos PDFs não puderam ser transferidas; o texto foi conferido no Markdown em OCR e as passagens paralelas foram comparadas entre as edições quando disponíveis. Os desenhos e o layout das páginas continuam sem verificação.",
+    "new": "Os números das capturas identificam os blocos do Markdown usados nas citações. O PDF de 1993 não pôde ser transferido. O novo PDF de Adams tem 180 páginas: as páginas de título e direitos autorais e as oito pranchas coloridas nas páginas 171–178 do PDF foram inspecionadas visualmente. Os números das páginas das pranchas não localizam a citação canônica nem verificam os desenhos de 1993.",
+    "files": [
+      {
+        "file": "scripts/build-agriculture.mjs",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "agriculture-portuguese-2026-10-24",
+    "reason": "Align retained Portuguese explanation with the reviewed first reading: grammar, clarity or English meaning; source quotations unchanged.",
+    "old": "ratos. Como eles retornam de terrenos vizinhos, prefere compreensão compartilhada e persuasão. Sua alternativa histórica usa cinzas de pele de rat",
+    "new": "camundongos. Como eles retornam de terrenos vizinhos, prefere compreensão compartilhada e persuasão. Sua alternativa histórica usa cinzas de pele de camundong",
+    "before": "Steiner critica venenos, iscas infectadas e regulamentação uniforme obrigatória no controle de ratos. Como eles retornam de terrenos vizinhos, prefere compreensão compartilhada e persuasão. Sua alternativa histórica usa cinzas de pele de rato relacionadas a Vênus e Escorpião; os animais supostamente carregam forças lunares interiormente e exigem relações zodiacais adicionais. A Terceira Discussão refere-se expressamente a Vênus astronômica diante da constelação visível, embora a frase “atrás do Sol” ainda exija interpretação cuidadosa. O curso apresenta a relação histórica, não um calendário de tratamento.",
+    "after": "Steiner critica venenos, iscas infectadas e regulamentação uniforme obrigatória no controle de camundongos. Como eles retornam de terrenos vizinhos, prefere compreensão compartilhada e persuasão. Sua alternativa histórica usa cinzas de pele de camundongo relacionadas a Vênus e Escorpião; os animais supostamente carregam forças lunares interiormente e exigem relações zodiacais adicionais. A Terceira Discussão refere-se expressamente a Vênus astronômica diante da constelação visível, embora a frase “atrás do Sol” ainda exija interpretação cuidadosa. O curso apresenta a relação histórica, não um calendário de tratamento.",
+    "files": [
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "agriculture-portuguese-2026-10-24",
+    "reason": "Align retained Portuguese explanation with the reviewed first reading: grammar, clarity or English meaning; source quotations unchanged.",
+    "old": "e sustentar",
+    "new": "ustentação interna",
+    "before": "A ideia prática organizadora é o ciclo forragem–animal–esterco–solo–planta. A fazenda deve sustentar animais apropriados, cultivar o que precisam e receber seu esterco, para que suas partes participem da sua individualidade. Steiner qualifica expressamente o ideal de se sustentar: deve ser buscado tanto quanto possível, mas as condições econômicas impedem a autossuficiência completa. Por isso, os experimentos precisam se ajustar a cada fazenda. A finalidade é uma relação coerente entre as partes, não uma proibição absoluta de todo insumo externo.",
+    "after": "A ideia prática organizadora é o ciclo forragem–animal–esterco–solo–planta. A fazenda deve sustentar animais apropriados, cultivar o que precisam e receber seu esterco, para que suas partes participem da sua individualidade. Steiner qualifica expressamente o ideal de sustentação interna: deve ser buscado tanto quanto possível, mas as condições econômicas impedem a autossuficiência completa. Por isso, os experimentos precisam se ajustar a cada fazenda. A finalidade é uma relação coerente entre as partes, não uma proibição absoluta de todo insumo externo.",
+    "files": [
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "agriculture-portuguese-2026-10-24",
+    "reason": "Align retained Portuguese explanation with the reviewed first reading: grammar, clarity or English meaning; source quotations unchanged.",
+    "old": "cenoura com linhaça, ou cenoura com feno fresco, ilustram funções complementares: uma sustenta a cabeça e a outra permite que forças atu",
+    "new": "os exemplos de cenoura com linhaça ou com feno fresco ilustram funções complementares: a cenoura sustentaria a cabeça, enquanto o alimento complementar permitiria que forças atuass",
+    "before": "Para bovinos jovens, cenoura com linhaça, ou cenoura com feno fresco, ilustram funções complementares: uma sustenta a cabeça e a outra permite que forças atuem pelo corpo. Para animais leiteiros, a forragem folhosa e o trevo ilustram a região intermediária e um processo de frutificação trazido à folhagem. Steiner afirma que a mudança com trevo pode aparecer na geração seguinte. Esse resultado previsto permanece uma afirmação a investigar; os exemplos não estabelecem combinações alimentares universalmente seguras nem substituem a atenção às necessidades nutricionais do animal.",
+    "after": "Para bovinos jovens, os exemplos de cenoura com linhaça ou com feno fresco ilustram funções complementares: a cenoura sustentaria a cabeça, enquanto o alimento complementar permitiria que forças atuassem pelo corpo. Para animais leiteiros, a forragem folhosa e o trevo ilustram a região intermediária e um processo de frutificação trazido à folhagem. Steiner afirma que a mudança com trevo pode aparecer na geração seguinte. Esse resultado previsto permanece uma afirmação a investigar; os exemplos não estabelecem combinações alimentares universalmente seguras nem substituem a atenção às necessidades nutricionais do animal.",
+    "files": [
+      {
+        "file": "content/agriculture.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "agriculture-portuguese-2026-10-24",
+    "reason": "Align retained Portuguese explanation with the reviewed first reading: grammar, clarity or English meaning; source quotations unchanged.",
+    "old": "aproximar dela",
+    "new": "buscar uma aproximação desse ideal",
+    "before": "No início da Palestra 2, Steiner chama a fazenda de uma espécie de individualidade independente. Diz imediatamente que a autossustentação completa não pode ser alcançada, embora se deva aproximar dela. Nesse ideal, a fazenda produziria aquilo de que precisa, incluindo uma composição adequada de animais. Adubos externos são comparados a remédios para uma fazenda adoecida. Essa comparação expressa seu ideal de saúde; deve ser lida junto à ressalva repetida, em vez de ser transformada em proibição absoluta de materiais externos.",
+    "after": "No início da Palestra 2, Steiner chama a fazenda de uma espécie de individualidade independente. Diz imediatamente que a autossustentação completa não pode ser alcançada, embora se deva buscar uma aproximação desse ideal. Nesse ideal, a fazenda produziria aquilo de que precisa, incluindo uma composição adequada de animais. Adubos externos são comparados a remédios para uma fazenda adoecida. Essa comparação expressa seu ideal de saúde; deve ser lida junto à ressalva repetida, em vez de ser transformada em proibição absoluta de materiais externos.",
+    "files": [
+      {
+        "file": "content/biodynamic-part-1.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "agriculture-portuguese-2026-10-24",
+    "reason": "Align retained Portuguese explanation with the reviewed first reading: grammar, clarity or English meaning; source quotations unchanged.",
+    "old": "",
+    "new": "ao ",
+    "before": "A urtiga difere novamente: fica enterrada sem envoltório animal durante um ano inteiro. Steiner a considera praticamente insubstituível e atribui sensibilidade ordenadora ao esterco e solo. Casca de carvalho, em crânio de animal doméstico exposto à água e matéria vegetal em decomposição, deve moderar atividade etérica excessiva pelo cálcio mantido no âmbito vivo. A afirmação sobre doenças diz respeito a muitas condições, não a uma cura demonstrada para todas as doenças vegetais.",
+    "after": "A urtiga difere novamente: fica enterrada sem envoltório animal durante um ano inteiro. Steiner a considera praticamente insubstituível e atribui sensibilidade ordenadora ao esterco e ao solo. Casca de carvalho, em crânio de animal doméstico exposto à água e matéria vegetal em decomposição, deve moderar atividade etérica excessiva pelo cálcio mantido no âmbito vivo. A afirmação sobre doenças diz respeito a muitas condições, não a uma cura demonstrada para todas as doenças vegetais.",
+    "files": [
+      {
+        "file": "content/biodynamic-part-4.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "agriculture-portuguese-2026-10-24",
+    "reason": "Align retained Portuguese explanation with the reviewed first reading: grammar, clarity or English meaning; source quotations unchanged.",
+    "old": "conveniente",
+    "new": "adequado",
+    "before": "Na Palestra 2, Steiner convida a testar sua afirmação de que uma combinação adequada de animais fornece esterco conveniente. Também expressa confiança de que experimentos a confirmariam. Isso é convite e previsão, não a apresentação de um resultado controlado moderno. A Palestra 8 espera que regras práticas surjam de muitos experimentos individualizados. A afirmação histórica oferece uma pergunta a reconstruir; a pesquisa atual precisa descrever tratamentos, medições e comparação próprios, em vez de tomar emprestada a certeza do palestrante.",
+    "after": "Na Palestra 2, Steiner convida a testar sua afirmação de que uma combinação adequada de animais fornece esterco adequado. Também expressa confiança de que experimentos a confirmariam. Isso é convite e previsão, não a apresentação de um resultado controlado moderno. A Palestra 8 espera que regras práticas surjam de muitos experimentos individualizados. A afirmação histórica oferece uma pergunta a reconstruir; a pesquisa atual precisa descrever tratamentos, medições e comparação próprios, em vez de tomar emprestada a certeza do palestrante.",
+    "files": [
+      {
+        "file": "content/biodynamic-part-6.json",
+        "occurrences": 1
+      }
+    ]
+  },
+  {
+    "flag": "agriculture-portuguese-2026-10-24",
+    "reason": "Align retained Portuguese explanation with the reviewed first reading: grammar, clarity or English meaning; source quotations unchanged.",
+    "old": "outro estatuto",
+    "new": "uma função distinta",
+    "before": "Os preparados entram nesse trabalho contínuo de fertilidade. Os dois tratamentos em chifres deveriam atuar de modo diferente por exposição invernal do esterco e estival do mineral; os seis ingredientes do esterco/composto têm papéis diferenciados. Seus números conhecidos são rótulos posteriores. A cavalinha integra a explicação da doença vegetal mediada pela água, com outro estatuto. Plantas indesejadas, danos animais e desenvolvimento vegetal anormal são problemas distintos, e ritmos servem a processos particulares. O sistema torna-se inteligível por essas conexões, sem transformar toda dificuldade em um diagnóstico ou toda indicação temporal em calendário universal.",
+    "after": "Os preparados entram nesse trabalho contínuo de fertilidade. Os dois tratamentos em chifres deveriam atuar de modo diferente por exposição invernal do esterco e estival do mineral; os seis ingredientes do esterco/composto têm papéis diferenciados. Seus números conhecidos são rótulos posteriores. A cavalinha integra a explicação da doença vegetal mediada pela água, com uma função distinta. Plantas indesejadas, danos animais e desenvolvimento vegetal anormal são problemas distintos, e ritmos servem a processos particulares. O sistema torna-se inteligível por essas conexões, sem transformar toda dificuldade em um diagnóstico ou toda indicação temporal em calendário universal.",
+    "files": [
+      {
+        "file": "content/biodynamic-part-6.json",
+        "occurrences": 1
+      }
+    ]
   }
 ]

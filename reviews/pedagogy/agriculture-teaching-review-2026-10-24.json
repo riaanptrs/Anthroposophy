@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-24",
+  "scope": {
+    "agricultureLessons": 18,
+    "biodynamicLessons": 24,
+    "languages": [
+      "en",
+      "pt-BR"
+    ],
+    "firstReadingsReviewed": 84,
+    "workedActivities": 42,
+    "sourcePlates": 8,
+    "bilingualPlatePlacements": 32
+  },
+  "sourceReading": {
+    "canonical": "All eight Creeger/Gardner GA 327 lecture bodies reread in the supplied Agriculture.md; existing complete capture/discussion review retained and relevant discussions revisited.",
+    "comparison": "Adams parallel passages and diagram references checked against the newly supplied PDF OCR; title/copyright and eight colour plates inspected visually. The two books translate the same eight lectures.",
+    "limitations": "The 1993 PDF exceeds the transfer limit. Its Markdown text supplies quotations; its plates have not been visually verified. The Adams PDF page sequence differs from the earlier Markdown capture sequence. Windows image folders were not accessible and were not needed for the eight extracted plates."
+  },
+  "teachingChanges": [
+    "42 worked explanation activities with model answers, aligned with each lesson’s goal.",
+    "Explanatory headings and paired tables for five substances, two horn preparations and six compost preparations.",
+    "Eight native PDF plate extracts, with bilingual descriptions, three-step reading guides and links to full-size images.",
+    "Drawing references distinguish lecture and discussion contexts and use Adams numbering.",
+    "Course introductions distinguish the 18-lesson lecture sequence from the 24-lesson topic sequence."
+  ],
+  "portugueseReview": {
+    "locale": "pt-BR",
+    "scope": "All 42 first readings compared with English, plus every new exercise, worked answer, table and plate guide; seven matching retained explanations aligned. This is not a new translation of the full historical books.",
+    "corrections": "Agreement, articles, natural phrasing, meteorological vocabulary, mouse/rat consistency and the complementary-feeding explanation.",
+    "sourceQuotesChanged": false
+  },
+  "verification": {
+    "build": "passed",
+    "sourceChecks": "passed; 370 registered Markdown captures and exact canonical quotation fingerprints/locators",
+    "preservation": "passed; 112 detailed bodies against historical baseline with explicitly documented changes",
+    "plateChecks": "passed; PNG dimensions, crop bounds, hashes, bilingual guidance and placements",
+    "siteLinks": "passed; 1645 HTML pages",
+    "portugueseCoverage": "passed; 761 paired pages",
+    "browserFull": {
+      "status": "passed",
+      "cases": 200,
+      "scope": "168 mobile/desktop language cases plus 32 no-JavaScript plate cases"
+    },
+    "browserFinalCorrections": {
+      "status": "passed",
+      "cases": 34,
+      "scope": "Seven affected lessons rechecked in both languages and both viewports, with available plates also checked without JavaScript."
+    },
+    "visualReview": "Final native crops inspected; representative English and Portuguese mobile plate screenshots inspected."
+  }
+}

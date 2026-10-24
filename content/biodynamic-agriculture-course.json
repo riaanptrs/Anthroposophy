@@ -132,5 +132,12 @@
     "instruction": "use the markdown files",
     "locators": "supplied Markdown capture markers, not printed book pages or PDF page positions"
   },
-  "diagramPolicy": "original-teaching-diagrams"
+  "diagramPolicy": "original-teaching-diagrams",
+  "teachingRevision": "2026-10-24",
+  "supplementarySourcePlates": {
+    "register": "agriculture-source-plates.json",
+    "plateCount": 8,
+    "reviewed": "2026-10-24",
+    "scope": "Adams PDF title/copyright and eight colour plates visually inspected; canonical quotations remain Markdown-based."
+  }
 }

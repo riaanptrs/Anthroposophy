@@ -21,8 +21,9 @@
       "markdownCaptures": 178,
       "edition": "Adams, 1958 translation; 2012 reissue",
       "pdfFile": "Agriculture course.pdf",
-      "pdfStatus": "unavailable-transfer-limit",
-      "pdfVisualVerification": false
+      "pdfStatus": "partially-inspected",
+      "pdfVisualVerification": false,
+      "visualReviewRegister": "agriculture-source-plates.json"
     }
   ],
   "locatorContract": "Capture numbers refer to supplied Markdown page blocks, not a claim of visual PDF inspection or inferred printed pagination. Displayed Kindle locations and edition-page tables retain their separate meanings.",
@@ -3942,11 +3943,12 @@
     }
   ],
   "limitations": [
-    "Both supplied PDFs exceed the executor transfer limit of 32 MiB; no visual PDF page, drawing or plate verification was performed.",
+    "The 1993 PDF exceeds the 32 MiB transfer limit and its drawings remain unverified. A newly supplied 180-page Adams PDF was transferred: title/copyright pages and colour plates on PDF pages 171–178 were visually inspected, as recorded separately in agriculture-source-plates.json. This does not verify all PDF text or the canonical 1993 PDF.",
     "The Creeger/Gardner export ends during Literature Cited at capture192, displayed88%; bibliography is partial, and the remaining index and colour plates are absent.",
     "Appendix A handwritten material has poor OCR; illegible details have not been reconstructed.",
     "Some wording, numerical and botanical details disagree between the translations and remain unresolved.",
     "Source study does not independently validate the proposed spiritual, agronomic or health mechanisms.",
-    "Full uploaded files remain private; public output contains original explanations, concise excerpts and authored notes."
-  ]
+    "Full uploaded files remain private; public output contains original explanations, concise excerpts, authored notes and eight credited plate extracts from the Adams PDF."
+  ],
+  "visualReviewUpdated": "2026-10-24"
 }

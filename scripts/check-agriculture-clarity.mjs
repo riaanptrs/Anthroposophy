@@ -37,11 +37,11 @@ for(const row of clarityRows){
   assert.ok(html.indexOf(first)<html.indexOf(depth)&&html.indexOf(depth)<html.indexOf(nav),file+' reading-depth-navigation order');
   if(v.relationshipTable){
    const table=wholeElement(first,'<table class="foundation-relationships"');
-   for(const s of [v.relationshipTable.caption,...v.relationshipTable.headers,...v.relationshipTable.rows.flat()])assert.ok(table.includes(esc(s)),file+' complete relationship table');
-   assert.equal((table.match(/scope="col"/g)||[]).length,2);
+   for(const s of [v.relationshipTable.caption,...v.relationshipTable.headers,...v.relationshipTable.rows.flat()])assert.ok(table.replace(/<a\b[^>]*>|<\/a>/g,'').includes(esc(s)),file+' complete relationship table');
+   assert.equal((table.match(/scope="col"/g)||[]).length,v.relationshipTable.headers.length);
    assert.equal((table.match(/scope="row"/g)||[]).length,v.relationshipTable.rows.length);
    assert.deepEqual(v.relationshipTable.rows.map(r=>r.length),row[lang==='pt'?'en':'pt'].relationshipTable.rows.map(r=>r.length));
   }
  }
 }
-console.log('Passed: 56 bilingual agriculture units, complete prose/answers and accessible relationship tables; 112 original detailed bodies preserved against 4f931f4 with four recorded Biodynamics explanations.');
+console.log('Passed: 56 bilingual agriculture units, complete prose/answers and accessible relationship tables; 112 original detailed bodies preserved against 4f931f4 with documented teaching, language and provenance corrections.');
