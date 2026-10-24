@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
+import {wholeElement} from './learning-html.mjs';
 import {mysteryLessons} from '../content/mystery-temperaments.mjs';
 import {mysteryTemperamentsSourceGuides} from '../content/mystery-temperaments-source-guides.mjs';
 import {mysteryTemperamentsUploadReview as review} from '../content/mystery-temperaments-upload.mjs';
@@ -69,7 +70,7 @@ for(const lang of ['en','pt']){
   assert.ok(html.includes(esc(lang==='pt'?book[l.id].locatorPt:book[l.id].locator)));
   assert.ok(html.includes('temperaments.css'));
   const visual={4:'mystery-four-member-map',7:'mystery-child-education-map'}[l.id];
-  if(visual){assert.ok(html.includes(`id="${visual}"`));assert.ok(html.includes('<caption>')&&html.includes('role="region"')&&html.includes('tabindex="0"'));assert.equal((html.match(/<th scope="row">/g)||[]).length,4);}
+  if(visual){assert.ok(html.includes(`id="${visual}"`));assert.ok(html.includes('<caption>')&&html.includes('role="region"')&&html.includes('tabindex="0"'));const originalMap=wholeElement(html,`<section class="temperaments-map" id="${visual}"`);assert.equal((originalMap.match(/<th scope="row">/g)||[]).length,4);}
   checked++;
  }
  assert.equal(temperamentCourse[7][lang].checks.length,3);

@@ -8,7 +8,7 @@
   ],
   "javascript": false,
   "checks": [
-    "complete main prose visible in authored order",
+    "complete authored prose in order; optional source detail opens by keyboard; visible learning aim and worked example",
     "two visible questions with keyboard-operable explained answers",
     "retained depth closed and keyboard-operable",
     "language and single heading",
@@ -19,6 +19,6 @@
   ],
   "limits": [
     "No learner study",
-    "No fresh source-fidelity verification"
+    "Quotation provenance checked separately against retained source witnesses; new book rereading recorded separately"
   ]
 }

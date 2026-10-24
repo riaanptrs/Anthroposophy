@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-24",
+  "books": [
+    {
+      "id": "four",
+      "markdown": {
+        "filename": "The four Temperments.md",
+        "bytes": 48612,
+        "sha256": "e8b5a8f7a2f6eb15854c1780a8fc57f32c2ba62b4d12ece1892b133ba32aca96"
+      },
+      "pdf": {
+        "filename": "The four Temperments.pdf",
+        "bytes": 2808010,
+        "sha256": "0df0788e9b82cf33221862e4bdb4be66301b28e67c7fa3e0754c6d22366892d1",
+        "pages": 29
+      },
+      "mainTextReadCaptures": [
+        7,
+        14
+      ],
+      "visuallyInspectedPdfPages": [
+        5
+      ],
+      "scope": "Main text read from Markdown; selected PDF identity pages visually inspected. OCR figure labels were read but do not amount to visual verification of every figure."
+    },
+    {
+      "id": "mystery",
+      "markdown": {
+        "filename": "The Mystery of tempermants.md",
+        "bytes": 104582,
+        "sha256": "9ffeb7dd0b03efa2088049c7c7514fc64e0fc889cf825cc5ddf33d93571bc90d"
+      },
+      "pdf": {
+        "filename": "The Mystery of tempermants.pdf",
+        "bytes": 6248018,
+        "sha256": "a80f6b42f53270e89aa5e51c9c945003a327115504b5a686ff65d05ab7863f82",
+        "pages": 32
+      },
+      "mainTextReadCaptures": [
+        3,
+        29
+      ],
+      "visuallyInspectedPdfPages": [
+        2
+      ],
+      "scope": "Main text read from Markdown; selected PDF identity pages visually inspected. OCR figure labels were read but do not amount to visual verification of every figure."
+    },
+    {
+      "id": "childs",
+      "markdown": {
+        "filename": "Undertand your tempermant.md",
+        "bytes": 284513,
+        "sha256": "6ced5eb0b06e0bd128341da95eda3b936ce745d58866c8733deae5eca48b8016"
+      },
+      "pdf": {
+        "filename": "Undertand your tempermant.pdf",
+        "bytes": 16551982,
+        "sha256": "d8d81732cd7664414494895bb3e92a57f0c2accfd76e9babb71c6f26889b8166",
+        "pages": 114
+      },
+      "mainTextReadCaptures": [
+        12,
+        111
+      ],
+      "visuallyInspectedPdfPages": [
+        5,
+        17
+      ],
+      "scope": "Main text read from Markdown; selected PDF identity pages visually inspected. OCR figure labels were read but do not amount to visual verification of every figure."
+    }
+  ],
+  "sourceAuthority": "Earlier quotation witnesses retained with their original fingerprints, page/column locators and notes. New source files are separately identified; their pagination is not substituted for old capture locators.",
+  "editionIdentity": {
+    "four": "Rudolf Steiner Press/Sophia Books 2012; B. Kelly translation, revised Matthew Barton 2008; GA 57 lecture identified in the notes as Berlin 4 March 1909.",
+    "childs": "Gilbert Childs; Rudolf Steiner Press/Sophia Books 2012; first published/copyright 1995; reprints 1998 and 2004.",
+    "mystery": "Rudolf Steiner and title identified; translator, publisher, year and lecture/GA identity not supplied by the inspected title page. A parallel publication does not identify this witness."
+  },
+  "teachingScope": {
+    "courses": {
+      "understanding-temperaments": 12,
+      "temperaments": 11,
+      "understand-temperament": 13,
+      "mystery-temperaments": 15
+    },
+    "bilingualLessons": 51,
+    "languages": [
+      "en",
+      "pt-BR"
+    ],
+    "method": "Define the concept, explain a relationship, work through an original situation, consider a response and answer an explanatory question. Dense companion book summaries retained as optional first-reading detail, complete original source teaching retained below.",
+    "historicalContext": "Adult/child constitutional correspondences remain source-specific. Historical body, illness and educational assertions remain attributed; voluntary course examples do not silently rewrite them as current protocols.",
+    "comparisonTables": 10
+  },
+  "status": "verified",
+  "verification": {
+    "build": "passed",
+    "sourceChecks": "All three retained book-source validators passed; quotation and original source/question banks unchanged.",
+    "preservation": "Passed against 76d3bd0 and 6d5a197: 102 original detailed lesson bodies preserved.",
+    "site": "1645 HTML pages checked for local links, anchors, paired teaching and required structures.",
+    "portuguese": "761 paired pages pass coverage checks; every new module, goal, worked example, question and table authored and reviewed in Brazilian Portuguese.",
+    "browser": {
+      "introductoryAndFourTemperamentsCases": 92,
+      "bookCompanionCases": 112,
+      "courseEntryCases": 16,
+      "widths": [
+        320,
+        1280
+      ],
+      "javascript": false,
+      "checks": [
+        "Visible learning goals, all authored paragraphs and worked cases",
+        "Optional source summaries and answer disclosures work by keyboard",
+        "Original detailed reading is available and navigation remains outside it",
+        "Correct language, local links and anchors, no duplicate IDs or horizontal overflow",
+        "Beginner entry available from all four course indexes"
+      ]
+    },
+    "visualInspection": "Representative final English and Portuguese mobile screenshots inspected; the newly supplied Childs attention chart visually cross-checked on PDF page 17.",
+    "limits": [
+      "No learner usability study was performed.",
+      "Reading and explaining a historical claim does not independently validate it.",
+      "New PDF figure labels were read from OCR except where selected visual inspection is explicitly recorded."
+    ]
+  }
+}

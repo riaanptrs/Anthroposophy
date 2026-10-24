@@ -16,7 +16,7 @@ for(const row of clarityRows){
  assert.equal(row.en.paragraphs.length,row.pt.paragraphs.length);
  for(const lang of ['en','pt']){
   const file=clarityRoute(row,lang),html=fs.readFileSync(file,'utf8'),v=row[lang];
-  assert.equal(v.paragraphs.length,4,file);assert.equal(v.checks.length,2,file);
+  assert.equal(v.paragraphs.length,5,file);assert.equal(v.checks.length,2,file);
   const first=wholeElement(html,'<section class="batch-first-reading"');
   for(const s of [...v.paragraphs,...v.checks.flat()])assert.ok(typeof s==='string'&&s.trim()&&first.replace(/<a\b[^>]*>|<\/a>/g,'').includes(esc(s)),file+' complete new text');
   const original=applyDocumentedLanguageCorrections(execFileSync('git',['show',baseline+':'+file],{maxBuffer:4e6}).toString());

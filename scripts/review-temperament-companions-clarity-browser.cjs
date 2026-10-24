@@ -2,6 +2,8 @@ const {chromium}=require('playwright');
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
 const lessons=JSON.parse(fs.readFileSync('content/temperament-companions-clear-lessons.json'));
 const plain=s=>s.replace(/\s+/g,' ').trim();
+const teaching=JSON.parse(fs.readFileSync('content/temperament-beginner-teaching.json'));
+const out=process.env.REVIEW_OUTPUT||'/tmp/temperament-revision/browser';fs.mkdirSync(out,{recursive:true});
 (async()=>{
  const browser=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||'/usr/bin/chromium',args:['--no-sandbox']});
  let tested=0;const missing=[];
@@ -21,8 +23,16 @@ const plain=s=>s.replace(/\s+/g,' ').trim();
     assert.equal(await page.locator('h1').count(),1,route);
     assert.equal(await page.locator('html').getAttribute('lang'),lang==='pt'?'pt-BR':'en');
     const first=page.locator('[data-batch-clarity-first]');
-    const paras=await first.locator(':scope > p').allInnerTexts();assert.deepEqual(paras.map(plain),v.paragraphs.map(plain),route+' complete prose in authored order');
-    for(const p of await first.locator(':scope > p').all())assert.ok(await p.isVisible(),route+' visible prose without JS');
+    assert.ok(await first.locator('.clarity-learning-goal').isVisible(),route+' visible learning aim');
+    const prose=first.locator(':scope > p:not(.clarity-learning-goal), :scope > details.clarity-further-study > p');
+    const paras=await prose.allTextContents();assert.deepEqual(paras.map(plain),v.paragraphs.map(plain),route+' complete prose in authored order');
+    for(const detail of await first.locator(':scope > details.clarity-further-study').all()){
+     assert.equal(await detail.getAttribute('open'),null);await detail.locator(':scope > summary').focus();await page.keyboard.press('Enter');assert.ok(await detail.locator('p').first().isVisible());
+    }
+    for(const paragraph of await prose.all())assert.ok(await paragraph.isVisible(),route+' accessible prose without JS');
+    const example=first.locator('[data-temperament-example]');assert.equal(await example.count(),1);assert.ok(await example.isVisible());
+    const m=teaching.modules[lesson.beginnerModule][lang];assert.deepEqual((await example.locator(':scope > p:not(.temperament-example-credit)').allInnerTexts()).map(plain),Object.values(m.workedExample).map(plain));
+    if(process.env.REVIEW_SCREENSHOTS==='1'&&width===320&&[0,2].includes(lesson.id))await example.screenshot({path:path.join(out,lesson.course+'-'+lesson.id+'-'+lang+'.png')});
     const checks=first.locator('.batch-clarity-check');assert.equal(await checks.count(),2);
     for(let i=0;i<2;i++){
      const check=checks.nth(i),answer=check.locator('details');assert.ok(await check.locator(':scope > p').isVisible());
@@ -42,6 +52,6 @@ const plain=s=>s.replace(/\s+/g,' ').trim();
    await context.close();console.log('Passed '+tested+' browser cases');
   }
   assert.deepEqual(missing,[]);
-  fs.writeFileSync('reviews/pedagogy/temperament-companions-clarity-browser.json',JSON.stringify({status:'passed',pages:56,viewportCases:tested,widths:[1280,320],javascript:false,checks:['complete main prose visible in authored order','two visible questions with keyboard-operable explained answers','retained depth closed and keyboard-operable','language and single heading','local links and anchors','assets','no duplicate IDs','no horizontal overflow'],limits:['No learner study','No fresh source-fidelity verification']},null,2)+'\n');
+  fs.writeFileSync('reviews/pedagogy/temperament-companions-clarity-browser.json',JSON.stringify({status:'passed',pages:56,viewportCases:tested,widths:[1280,320],javascript:false,checks:['complete authored prose in order; optional source detail opens by keyboard; visible learning aim and worked example','two visible questions with keyboard-operable explained answers','retained depth closed and keyboard-operable','language and single heading','local links and anchors','assets','no duplicate IDs','no horizontal overflow'],limits:['No learner study','Quotation provenance checked separately against retained source witnesses; new book rereading recorded separately']},null,2)+'\n');
  }finally{await browser.close();}
 })().catch(e=>{console.error(e);process.exitCode=1;});
