@@ -1,13 +1,13 @@
 {
-  "status": "published-ocr-edition",
+  "status": "published-with-partial-pdf-review",
   "author": "Wendy E. Cook",
   "title": {
     "en": "Foodwise: The Story of Food, from Soil to the Family Table",
     "pt": "Foodwise: A história dos alimentos, do solo à mesa da família"
   },
   "sourceStatus": {
-    "en": "This edition uses readable passages from the supplied OCR. The PDF was unavailable for visual checking; omitted columns, figures, quantities and uncertain wording are not treated as verified.",
-    "pt": "Esta edição usa passagens legíveis do OCR fornecido. O PDF não estava disponível para conferência visual; colunas omitidas, figuras, quantidades e trechos incertos não são tratados como verificados."
+    "en": "The supplied 71-page PDF has now been reviewed through the preface, introduction and complete first chapter, The History of Nutrition. Lessons 1–8 have expanded teaching checked against this source. Later chapters remain represented by the earlier OCR-based edition and await the remaining page images for a fresh book review.",
+    "pt": "O PDF fornecido, com 71 páginas, foi revisado até o prefácio, a introdução e o primeiro capítulo completo, A história da alimentação. As lições 1–8 têm ensino ampliado conferido nessa fonte. Os capítulos seguintes continuam representados pela edição anterior baseada em OCR e aguardam as imagens restantes para nova revisão do livro."
   },
   "modules": [
     {
@@ -365,7 +365,112 @@
       "ingredients": [],
       "recipe": null,
       "provenance": "attributed-paraphrase-from-readable-OCR",
-      "activityProvenance": "course-designed"
+      "activityProvenance": "course-designed",
+      "beginner": {
+        "reviewed": "2026-10-24",
+        "pdfPages": [
+          17,
+          27
+        ],
+        "steps": [
+          {
+            "title": {
+              "en": "A meal begins before the kitchen",
+              "pt": "A refeição começa antes da cozinha"
+            },
+            "text": {
+              "en": "Food connects a growing place with the person eating it. A bowl of soup depends on soil, plants, harvesting, transport, kitchen work and the conditions of the meal. Cook begins with her own life because these connections became visible to her through gardening and feeding people. Her starting question is what kind of relationship we create with the world through food.",
+              "pt": "O alimento conecta um lugar de cultivo à pessoa que o come. Uma sopa depende de solo, plantas, colheita, transporte, trabalho de cozinha e condições da refeição. Cook começa pela própria vida porque essas conexões se tornaram visíveis ao cultivar e alimentar pessoas. Sua pergunta inicial é que relação criamos com o mundo por meio da comida."
+            }
+          },
+          {
+            "title": {
+              "en": "What Cook learns from childhood",
+              "pt": "O que Cook aprende na infância"
+            },
+            "text": {
+              "en": "In wartime Bedfordshire she remembers rationing, gathering missed peas, storing fruit and returning organic material to compost. Scarcity made quantities and waste noticeable; the garden made seasons and transformation noticeable. These experiences help explain why she later values resourcefulness and practical knowledge. They are particular memories, not evidence that every historical household ate better than every modern one.",
+              "pt": "Na Bedfordshire do período de guerra, ela recorda racionamento, coleta de ervilhas deixadas no campo, armazenamento de frutas e retorno de matéria orgânica ao composto. A escassez tornou perceptíveis quantidades e desperdício; a horta tornou perceptíveis estações e transformação. Essas experiências ajudam a explicar seu apreço posterior pelo aproveitamento e pelo saber prático. São memórias particulares, não prova de que todo lar antigo comia melhor que todo lar atual."
+            }
+          },
+          {
+            "title": {
+              "en": "Why cooking is knowledge",
+              "pt": "Por que cozinhar é conhecimento"
+            },
+            "text": {
+              "en": "Cooking combines observation and judgement: how fresh an ingredient is, what can be afforded, which preparation needs time, and how people will share the result. Cook gives this work intellectual and artistic importance. At art school, experimentation on a small budget and lively shared meals showed her that cooking could support conversation as well as provide something to eat.",
+              "pt": "Cozinhar reúne observação e discernimento: frescor do ingrediente, custo possível, preparos que exigem tempo e maneira de compartilhar o resultado. Cook dá importância intelectual e artística a esse trabalho. Na escola de arte, experimentar com pouco dinheiro e compartilhar refeições animadas mostrou que a cozinha podia sustentar conversa além de fornecer comida."
+            }
+          },
+          {
+            "title": {
+              "en": "How her nutritional questions develop",
+              "pt": "Como surgem suas perguntas nutricionais"
+            },
+            "text": {
+              "en": "Her daughter’s illness, the family’s move toward vegetarian cooking, study of macrobiotics and later work at Emerson College changed her questions. She describes growing, cooking and studying as activities that inform one another. These accounts explain her path toward Steiner’s nutrition ideas; a personal improvement cannot establish the cause of an illness or the effectiveness of a treatment.",
+              "pt": "A doença da filha, a aproximação da família à cozinha vegetariana, o estudo da macrobiótica e o trabalho posterior no Emerson College mudaram suas perguntas. Ela descreve cultivo, cozinha e estudo como atividades que se esclarecem mutuamente. Esses relatos explicam seu caminho até as ideias nutricionais de Steiner; uma melhora pessoal não estabelece a causa de uma doença nem a eficácia de um tratamento."
+            }
+          },
+          {
+            "title": {
+              "en": "What she means by food quality",
+              "pt": "O que ela entende por qualidade alimentar"
+            },
+            "text": {
+              "en": "For Cook, quality includes the history of growth, freshness, preparation, sensory experience and human attention, together with her spiritual interpretation of living forces. Nutrient composition is one question within that larger picture. A learner should explain her wider meaning clearly, then distinguish measured nutrients, personal experience and spiritual claims rather than treating them as interchangeable.",
+              "pt": "Para Cook, qualidade inclui história do cultivo, frescor, preparo, experiência sensorial e atenção humana, junto à sua interpretação espiritual das forças vivas. A composição nutricional é uma pergunta dentro dessa visão mais ampla. É preciso explicar esse sentido ampliado e distinguir nutrientes medidos, experiência pessoal e afirmações espirituais, sem tratá-los como intercambiáveis."
+            }
+          },
+          {
+            "title": {
+              "en": "Follow one familiar meal",
+              "pt": "Acompanhe uma refeição conhecida"
+            },
+            "text": {
+              "en": "Choose a simple familiar meal and follow its connections. Ask where the ingredients grew, what processing changed them, what the cook does, and who shares the meal. This teaches Cook’s starting idea without requiring costly ingredients or an ideal household. The history lessons will show how those connections changed over time.",
+              "pt": "Escolha uma refeição simples e conhecida e acompanhe suas conexões. Pergunte onde cresceram os ingredientes, que processamento os mudou, o que faz quem cozinha e quem compartilha a refeição. Isso ensina o ponto de partida de Cook sem exigir ingredientes caros ou lar ideal. As lições de história mostrarão como essas conexões mudaram."
+            }
+          }
+        ],
+        "workedExample": {
+          "en": [
+            "Worked example: vegetable soup",
+            "Material: vegetables, water and other ingredients supply the substance of the dish.",
+            "Work: growing, storing, cutting and heating connect the field with the bowl.",
+            "Meaning: conversation and care give the meal a social dimension. Cook adds a spiritual interpretation of vitality; neither dimension replaces the need for food."
+          ],
+          "pt": [
+            "Exemplo comentado: sopa de legumes",
+            "Material: legumes, água e outros ingredientes fornecem a substância do prato.",
+            "Trabalho: cultivar, guardar, cortar e aquecer conecta o campo à tigela.",
+            "Sentido: conversa e cuidado dão dimensão social à refeição. Cook acrescenta interpretação espiritual da vitalidade; nenhuma dessas dimensões substitui a necessidade de alimentos."
+          ]
+        },
+        "checks": {
+          "en": [
+            [
+              "Why does Cook begin with a kitchen rather than a nutrient table?",
+              "Her question concerns the whole relationship from growing food to preparing and sharing it. Nutrients matter, but her inquiry also includes work, experience, community and spiritual interpretation."
+            ],
+            [
+              "What can her autobiography establish?",
+              "It explains how her questions and preferences developed. It cannot by itself establish a general medical cause or prove that every preference improves health."
+            ]
+          ],
+          "pt": [
+            [
+              "Por que Cook começa pela cozinha, e não por uma tabela nutricional?",
+              "Sua pergunta trata da relação inteira, do cultivo ao preparo e à partilha. Nutrientes importam, mas sua investigação inclui também trabalho, experiência, comunidade e interpretação espiritual."
+            ],
+            [
+              "O que sua autobiografia pode estabelecer?",
+              "Explica como surgiram perguntas e preferências. Sozinha, não estabelece causa médica geral nem prova que toda preferência melhore a saúde."
+            ]
+          ]
+        }
+      }
     },
     {
       "id": 2,
@@ -412,7 +517,112 @@
       ],
       "recipe": null,
       "provenance": "attributed-paraphrase-from-readable-OCR",
-      "activityProvenance": "course-designed"
+      "activityProvenance": "course-designed",
+      "beginner": {
+        "reviewed": "2026-10-24",
+        "pdfPages": [
+          30,
+          39
+        ],
+        "steps": [
+          {
+            "title": {
+              "en": "Finding food and producing food",
+              "pt": "Encontrar e produzir alimentos"
+            },
+            "text": {
+              "en": "Gathering, hunting, herding and cultivating are different ways of obtaining food, and communities have combined them in many ways. Cultivation means tending selected plants and their growing conditions. Domestication involves changes developed through repeated human selection over generations. Planting one seed is not the same thing as instantly creating a domesticated crop.",
+              "pt": "Coleta, caça, pastoreio e cultivo são maneiras distintas de obter alimentos, combinadas de muitas formas pelas comunidades. Cultivar significa cuidar de plantas selecionadas e das condições em que crescem. Domesticação envolve mudanças produzidas pela seleção humana repetida ao longo de gerações. Plantar uma semente não equivale a criar instantaneamente uma cultura domesticada."
+            }
+          },
+          {
+            "title": {
+              "en": "Why cultivation changes time",
+              "pt": "Por que cultivar muda o tempo"
+            },
+            "text": {
+              "en": "A grower acts now for a harvest later: preparing ground, keeping seed, observing water and weather, and protecting growth. This creates a continuing responsibility to a place. Compare finding a ripe fruit today with caring for a grain crop over a season. The second involves a longer chain of decisions and risks; it does not make the first form of knowledge simple or inferior.",
+              "pt": "Quem cultiva age agora para colher depois: prepara terreno, guarda sementes, observa água e tempo e protege o crescimento. Isso cria responsabilidade contínua por um lugar. Compare encontrar uma fruta madura hoje com cuidar de cereais durante uma estação. O segundo caso exige uma sequência mais longa de decisões e riscos; não torna o primeiro saber simples ou inferior."
+            }
+          },
+          {
+            "title": {
+              "en": "Why storage changes a community",
+              "pt": "Por que armazenar muda uma comunidade"
+            },
+            "text": {
+              "en": "Stored grain can bridge part of the interval between harvests and support people doing other work. It also raises questions: who controls the store, how is it protected, and who receives a share? Surplus is not the same as equal access. Food history therefore includes cooperation, ownership and power as well as agricultural techniques.",
+              "pt": "Grãos armazenados podem cobrir parte do intervalo entre colheitas e sustentar pessoas dedicadas a outros trabalhos. Também levantam perguntas: quem controla a reserva, como ela é protegida e quem recebe uma parte? Excedente não é o mesmo que acesso igual. A história dos alimentos inclui, portanto, cooperação, propriedade e poder, além de técnicas agrícolas."
+            }
+          },
+          {
+            "title": {
+              "en": "The kitchen is part of agricultural history",
+              "pt": "A cozinha integra a história agrícola"
+            },
+            "text": {
+              "en": "Cook describes the hearth, grinding grain, containers and cooking methods alongside fields and settlements. Harvested grain still needs processing before it becomes a usable meal. A quern, an oven or a storage vessel changes what a household can do with the crop. Studying agriculture while leaving out this labour would omit a large part of the food system.",
+              "pt": "Cook descreve lareira, moagem, recipientes e métodos de preparo ao lado de campos e povoamentos. O grão colhido ainda exige transformação antes de virar refeição utilizável. Uma mó, um forno ou um recipiente de armazenamento muda o que o lar consegue fazer com a colheita. Estudar agricultura deixando esse trabalho de fora omitiria grande parte do sistema alimentar."
+            }
+          },
+          {
+            "title": {
+              "en": "How Cook reads the change",
+              "pt": "Como Cook interpreta a mudança"
+            },
+            "text": {
+              "en": "She interprets settled cultivation as a change in consciousness: people become more engaged with earthly conditions and more responsible for what they produce. Myths express this meaning in her account. That interpretation is an additional claim, distinct from archaeological evidence such as tools, plant remains and settlement structures.",
+              "pt": "Ela interpreta o cultivo sedentário como mudança de consciência: as pessoas se envolvem mais nas condições terrestres e se responsabilizam pelo que produzem. Os mitos expressam esse sentido em sua exposição. Essa interpretação é uma afirmação adicional, distinta de evidências arqueológicas como utensílios, restos vegetais e estruturas de povoamento."
+            }
+          },
+          {
+            "title": {
+              "en": "Keep the account wider than one route",
+              "pt": "Amplie o relato além de um percurso"
+            },
+            "text": {
+              "en": "The development of farming occurred along several regional pathways. Cook’s chapter follows a selected route mainly through western and central Eurasia, with shorter references elsewhere. It is not a complete history of all peoples. Its spiritual sequence should not be turned into a ranking of the worth or intelligence of living cultures.",
+              "pt": "O desenvolvimento da agricultura ocorreu por vários percursos regionais. O capítulo segue uma rota selecionada, principalmente pela Eurásia ocidental e central, com referências mais breves a outras regiões. Não é história completa de todos os povos. Sua sequência espiritual não deve virar classificação do valor ou da inteligência de culturas vivas."
+            }
+          }
+        ],
+        "workedExample": {
+          "en": [
+            "Worked example: keep some grain for next year",
+            "Harvest: part can be eaten, part stored and part retained as seed.",
+            "Decision: eating the whole reserve now can conflict with a future crop; storage and allocation become shared questions.",
+            "Interpretation: this explains a change in responsibility. It does not prove one universal spiritual stage for all early farmers."
+          ],
+          "pt": [
+            "Exemplo comentado: guardar grãos para o próximo ano",
+            "Colheita: uma parte pode ser comida, outra armazenada e outra reservada como semente.",
+            "Decisão: consumir toda a reserva agora pode comprometer a próxima cultura; armazenamento e distribuição tornam-se questões compartilhadas.",
+            "Interpretação: isso explica uma mudança de responsabilidade. Não prova um estágio espiritual universal de todos os primeiros agricultores."
+          ]
+        },
+        "checks": {
+          "en": [
+            [
+              "Why is cultivation more than moving a wild plant into a garden?",
+              "It creates repeated care, selection and planning over time. Crop domestication and a settled food system involve continuing relationships, not a single planting event."
+            ],
+            [
+              "Does a surplus guarantee that everyone is well fed?",
+              "No. Storage, ownership and distribution determine access. A community can produce a surplus while some members lack food."
+            ]
+          ],
+          "pt": [
+            [
+              "Por que cultivar é mais que levar uma planta silvestre à horta?",
+              "Cria cuidado, seleção e planejamento repetidos no tempo. Domesticação e sistema alimentar sedentário envolvem relações contínuas, não um único plantio."
+            ],
+            [
+              "O excedente garante alimentação adequada para todos?",
+              "Não. Armazenamento, propriedade e distribuição determinam acesso. Uma comunidade pode produzir excedente e ainda ter pessoas sem comida."
+            ]
+          ]
+        }
+      }
     },
     {
       "id": 3,
@@ -456,7 +666,112 @@
       "ingredients": [],
       "recipe": null,
       "provenance": "attributed-paraphrase-from-readable-OCR",
-      "activityProvenance": "course-designed"
+      "activityProvenance": "course-designed",
+      "beginner": {
+        "reviewed": "2026-10-24",
+        "pdfPages": [
+          35,
+          38
+        ],
+        "steps": [
+          {
+            "title": {
+              "en": "Start with the story",
+              "pt": "Comece pela narrativa"
+            },
+            "text": {
+              "en": "Cook retells a Persian legend in which Ahura Mazda gives Yima a golden sword and a decorated whip. Yima is charged with enlarging and tending the inhabited earth and protecting a community. Begin by recognizing the kind of account: this is a sacred narrative that Cook interprets, not a dated report of an inventor demonstrating a tool.",
+              "pt": "Cook reconta uma lenda persa na qual Ahura Mazda dá a Yima uma espada de ouro e um chicote ornamentado. Yima recebe a tarefa de ampliar e cuidar da terra habitada e proteger uma comunidade. Reconheça primeiro o tipo de relato: é narrativa sagrada interpretada por Cook, não registro datado de um inventor demonstrando um utensílio."
+            }
+          },
+          {
+            "title": {
+              "en": "Why a sword can stand for a plough",
+              "pt": "Por que a espada representa o arado"
+            },
+            "text": {
+              "en": "She reads the golden sword as an image of the plough. Both divide or open a surface, but her interest is what the action means: cultivation joins work, earth and an ordering purpose. The image presents agriculture as a responsibility with spiritual significance, rather than merely an increase in technical efficiency.",
+              "pt": "Ela lê a espada de ouro como imagem do arado. Ambos dividem ou abrem uma superfície, mas seu interesse está no sentido da ação: o cultivo une trabalho, terra e finalidade ordenadora. A imagem apresenta a agricultura como responsabilidade de significado espiritual, além do aumento de eficiência técnica."
+            }
+          },
+          {
+            "title": {
+              "en": "A field creates continuing obligations",
+              "pt": "O campo cria obrigações contínuas"
+            },
+            "text": {
+              "en": "A cultivated field asks for attention beyond one day’s meal. Seed must be kept, animals cared for, water considered and a future harvest protected. Cook uses the story to make that continuing relationship intelligible. A person becomes a custodian of a place in her interpretation; cultivation is therefore also a change in how human activity is understood.",
+              "pt": "Um campo cultivado exige atenção além da refeição de um dia. É preciso guardar sementes, cuidar dos animais, considerar a água e proteger a próxima colheita. Cook usa a narrativa para tornar essa continuidade compreensível. Em sua interpretação, a pessoa se torna guardiã de um lugar; cultivar também muda a compreensão da atividade humana."
+            }
+          },
+          {
+            "title": {
+              "en": "Boundaries also create conflict",
+              "pt": "Limites também criam conflitos"
+            },
+            "text": {
+              "en": "Fences and stored resources raise questions about access. Land used by one group may restrict another group’s movement or grazing. Cook contrasts settled farmers with nomadic life, but this should not become a claim that mobile peoples lack ethics or knowledge. Her story brings a tension into view; it does not provide a neutral description of every pastoral society.",
+              "pt": "Cercas e reservas levantam perguntas sobre acesso. A terra usada por um grupo pode restringir o deslocamento ou pastoreio de outro. Cook contrasta agricultores sedentários com vida nômade, mas isso não deve virar afirmação de que povos móveis não têm ética ou conhecimento. A narrativa revela uma tensão; não descreve de modo neutro toda sociedade pastoril."
+            }
+          },
+          {
+            "title": {
+              "en": "How myth differs from evidence",
+              "pt": "Como mito difere de evidência"
+            },
+            "text": {
+              "en": "Archaeological claims need their own evidence: dated tools, plant remains, sites and the context in which they were found. A myth can explain what cultivation meant to its tellers without establishing when a plough first existed. Cook herself warns against fixing the related Cain-and-Abel image rigidly within chronological time.",
+              "pt": "Afirmações arqueológicas exigem evidências próprias: utensílios datados, restos vegetais, sítios e contexto dos achados. Um mito pode explicar o sentido do cultivo para quem o contava sem estabelecer quando existiu o primeiro arado. A própria Cook adverte contra fixar rigidamente a imagem relacionada de Caim e Abel no tempo cronológico."
+            }
+          },
+          {
+            "title": {
+              "en": "Use the story as a question",
+              "pt": "Use a narrativa como pergunta"
+            },
+            "text": {
+              "en": "Ask what duties accompany the power to cultivate. Who cares for fertility, who may use the land, and who benefits from the harvest? These are useful questions for a modern garden too. They carry the lesson of the narrative into practice without treating its sacred characters as an archaeological sequence.",
+              "pt": "Pergunte que deveres acompanham o poder de cultivar. Quem cuida da fertilidade, quem pode usar a terra e quem se beneficia da colheita? São perguntas úteis também numa horta atual. Levam a lição da narrativa à prática sem tratar seus personagens sagrados como sequência arqueológica."
+            }
+          }
+        ],
+        "workedExample": {
+          "en": [
+            "Worked example: a shared garden gains a fence",
+            "Benefit: a fence can protect crops and clarify who tends a bed.",
+            "Question: it may also block access previously used by others. Ask who agreed to the change and who receives the harvest.",
+            "Connection: the plough story opens questions of stewardship and boundaries; it does not settle them automatically."
+          ],
+          "pt": [
+            "Exemplo comentado: uma horta compartilhada recebe cerca",
+            "Benefício: a cerca pode proteger culturas e esclarecer quem cuida de um canteiro.",
+            "Pergunta: também pode bloquear acesso antes usado por outras pessoas. Pergunte quem concordou com a mudança e quem recebe a colheita.",
+            "Conexão: a narrativa do arado abre perguntas sobre cuidado e limites; não as resolve automaticamente."
+          ]
+        },
+        "checks": {
+          "en": [
+            [
+              "What does the golden sword mean in Cook’s reading?",
+              "It is an image of the plough and of human responsibility for cultivating and tending the earth. This is her interpretation of the sacred narrative."
+            ],
+            [
+              "Can the story date the invention of agriculture?",
+              "No. Dating requires independent historical or archaeological evidence. Symbolic meaning and a chronological claim are different kinds of explanation."
+            ]
+          ],
+          "pt": [
+            [
+              "O que significa a espada de ouro na leitura de Cook?",
+              "É imagem do arado e da responsabilidade humana de cultivar e cuidar da terra. Essa é sua interpretação da narrativa sagrada."
+            ],
+            [
+              "A narrativa permite datar a invenção da agricultura?",
+              "Não. A data exige evidência histórica ou arqueológica independente. Sentido simbólico e afirmação cronológica são explicações de tipos diferentes."
+            ]
+          ]
+        }
+      }
     },
     {
       "id": 4,
@@ -502,7 +817,112 @@
       ],
       "recipe": null,
       "provenance": "attributed-paraphrase-from-readable-OCR",
-      "activityProvenance": "course-designed"
+      "activityProvenance": "course-designed",
+      "beginner": {
+        "reviewed": "2026-10-24",
+        "pdfPages": [
+          39,
+          43
+        ],
+        "steps": [
+          {
+            "title": {
+              "en": "Begin with the river and the field",
+              "pt": "Comece pelo rio e pelo campo"
+            },
+            "text": {
+              "en": "A loaf begins with conditions that make grain possible. In Egypt, the Nile’s flood cycle, fertile sediment and cultivated land connected food to the river landscape. Cook asks the reader to see this setting before the finished bread. The river is part of the food story, not scenery outside it.",
+              "pt": "Um pão começa pelas condições que tornam possível o grão. No Egito, o ciclo das cheias do Nilo, os sedimentos férteis e a terra cultivada ligavam a alimentação à paisagem fluvial. Cook pede que o leitor veja esse contexto antes do pão pronto. O rio integra a história alimentar; não é cenário externo."
+            }
+          },
+          {
+            "title": {
+              "en": "A harvest requires coordination",
+              "pt": "A colheita exige coordenação"
+            },
+            "text": {
+              "en": "People needed to observe conditions, prepare ground, sow, harvest, store and distribute grain. Some worked directly in fields; others organized resources or transformed the harvest. A reliable food supply depended on relationships among these tasks. This helps explain why food could shape institutions and calendars as well as individual meals.",
+              "pt": "Era preciso observar condições, preparar terreno, semear, colher, guardar e distribuir grãos. Algumas pessoas trabalhavam diretamente no campo; outras organizavam recursos ou transformavam a colheita. Uma oferta confiável dependia das relações entre essas tarefas. Isso explica por que a alimentação podia moldar instituições e calendários, além das refeições individuais."
+            }
+          },
+          {
+            "title": {
+              "en": "Grain is not yet bread",
+              "pt": "Grão ainda não é pão"
+            },
+            "text": {
+              "en": "Grain must be separated from unwanted material, ground and prepared with water and heat. Leavening adds another transformation. Bread and beer were important Egyptian staples; fermentation connects farming with skilled preparation. A grain store, a mill and an oven therefore belong in the same account of nourishment.",
+              "pt": "É preciso separar o grão do material indesejado, moer e preparar com água e calor. A fermentação acrescenta outra transformação. Pão e cerveja eram alimentos básicos importantes no Egito; fermentar conecta agricultura e preparo especializado. Celeiro, moinho e forno pertencem, portanto, à mesma explicação da alimentação."
+            }
+          },
+          {
+            "title": {
+              "en": "A staple belongs within a cuisine",
+              "pt": "Um alimento básico integra uma culinária"
+            },
+            "text": {
+              "en": "Cook also names pulses, onions, leeks, garlic, dates, figs and other foods. These details matter because a staple is not the whole diet. The same grain can be combined with different foods and used by households with unequal resources. A description of an elite feast should not be assumed to describe an ordinary person’s daily meal.",
+              "pt": "Cook também nomeia leguminosas, cebola, alho-poró, alho, tâmaras, figos e outros alimentos. Esses detalhes importam porque um alimento básico não constitui toda a dieta. O mesmo grão pode integrar combinações diferentes e lares com recursos desiguais. A descrição de um banquete de elite não deve ser tomada como refeição diária de uma pessoa comum."
+            }
+          },
+          {
+            "title": {
+              "en": "Food can be payment and offering",
+              "pt": "Alimento pode ser pagamento e oferenda"
+            },
+            "text": {
+              "en": "Museum evidence shows food rations used as payment and food represented in offerings and tomb scenes. Bread therefore belonged to social exchange and religious life as well as eating. These examples help us ask what food does in a society: sustains bodies, rewards work, expresses obligations and carries symbolic meaning.",
+              "pt": "Evidências de museus mostram rações alimentares usadas como pagamento e alimentos representados em oferendas e cenas funerárias. O pão pertencia, portanto, à troca social e à vida religiosa, além do consumo. Esses exemplos ajudam a perguntar o que a comida faz numa sociedade: sustenta corpos, remunera trabalho, expressa obrigações e carrega sentido simbólico."
+            }
+          },
+          {
+            "title": {
+              "en": "Separate Cook’s spiritual interpretation",
+              "pt": "Distinga a interpretação espiritual de Cook"
+            },
+            "text": {
+              "en": "Cook additionally reads Egyptian astronomy, images and food through a spiritual history of consciousness. That is her interpretive layer. The chapter’s precise speculative quantities and claims about initiation should not replace archaeological evidence. We can understand her connection between nourishment and worldview while keeping the kind of evidence clear.",
+              "pt": "Cook também interpreta astronomia, imagens e alimentação egípcias por uma história espiritual da consciência. Essa é sua camada interpretativa. Quantidades especulativas precisas e afirmações sobre iniciação não devem substituir evidências arqueológicas. Podemos compreender a relação que propõe entre alimentação e visão de mundo mantendo claro o tipo de evidência."
+            }
+          }
+        ],
+        "workedExample": {
+          "en": [
+            "Worked example: trace a loaf backward",
+            "Kitchen: identify flour, water, preparation time and heat.",
+            "Food system: continue backward to grinding, grain storage, harvest and the growing conditions.",
+            "History: then ask who did that work and how bread was distributed. The loaf now reveals more than an ingredient list."
+          ],
+          "pt": [
+            "Exemplo comentado: acompanhe o pão de trás para frente",
+            "Cozinha: identifique farinha, água, tempo de preparo e calor.",
+            "Sistema alimentar: volte à moagem, reserva de grãos, colheita e condições de cultivo.",
+            "História: pergunte quem fez esse trabalho e como o pão foi distribuído. O pão agora revela mais que uma lista de ingredientes."
+          ]
+        },
+        "checks": {
+          "en": [
+            [
+              "Why include the Nile when teaching bread?",
+              "Because cultivation and the organization of the harvest depend on a landscape and coordinated work. The finished loaf conceals those relationships unless we trace them."
+            ],
+            [
+              "Why distinguish a feast from an everyday diet?",
+              "Social position and occasion change what is available and represented. A rich banquet cannot stand for every household."
+            ]
+          ],
+          "pt": [
+            [
+              "Por que incluir o Nilo ao ensinar sobre pão?",
+              "Porque cultivo e organização da colheita dependem da paisagem e do trabalho coordenado. O pão pronto esconde essas relações se não as acompanharmos."
+            ],
+            [
+              "Por que distinguir banquete e alimentação cotidiana?",
+              "Posição social e ocasião mudam o que está disponível e representado. Um banquete rico não representa todo lar."
+            ]
+          ]
+        }
+      }
     },
     {
       "id": 5,
@@ -550,7 +970,112 @@
       ],
       "recipe": null,
       "provenance": "attributed-paraphrase-from-readable-OCR",
-      "activityProvenance": "course-designed"
+      "activityProvenance": "course-designed",
+      "beginner": {
+        "reviewed": "2026-10-24",
+        "pdfPages": [
+          44,
+          49
+        ],
+        "steps": [
+          {
+            "title": {
+              "en": "Recognize a sacred food story",
+              "pt": "Reconheça uma narrativa sagrada sobre alimento"
+            },
+            "text": {
+              "en": "Cultures do more than grow and eat their staple crops: they tell stories about them. Demeter and Persephone belong to Greek religious tradition. The story gives language to dependence on fertility, loss and renewal. It should first be learned as a myth with cultural significance, rather than translated immediately into a claim about nutrients.",
+              "pt": "As culturas fazem mais que cultivar e comer seus alimentos básicos: contam histórias sobre eles. Deméter e Perséfone pertencem à tradição religiosa grega. A narrativa dá linguagem à dependência da fertilidade, à perda e à renovação. Primeiro, deve ser aprendida como mito de significado cultural, em vez de imediatamente convertida em afirmação sobre nutrientes."
+            }
+          },
+          {
+            "title": {
+              "en": "The mother and daughter",
+              "pt": "A mãe e a filha"
+            },
+            "text": {
+              "en": "In the myth, Demeter is associated with cultivated fertility and Persephone is taken into the underworld. Their separation and renewed relationship express a pattern of absence and return. Versions and interpretations differ. This is course background to the myth, not a claim that every detail is retold in the available history chapter.",
+              "pt": "No mito, Deméter associa-se à fertilidade cultivada e Perséfone é levada ao mundo subterrâneo. A separação e a relação renovada expressam um padrão de ausência e retorno. Versões e interpretações diferem. Esse é um contexto didático do mito, não a afirmação de que todos os detalhes são recontados no capítulo de história disponível."
+            }
+          },
+          {
+            "title": {
+              "en": "What Cook emphasizes in this chapter",
+              "pt": "O que Cook destaca neste capítulo"
+            },
+            "text": {
+              "en": "Cook’s history chapter connects Demeter with the fruitfulness of Earth and describes a barley drink within the Eleusinian Mysteries. Her point is that grain could be treated as sacred nourishment, part of a relationship between human life and a spiritual world. The chapter does not present a modern biochemical account of that ritual.",
+              "pt": "O capítulo de Cook relaciona Deméter à fecundidade da Terra e descreve uma bebida de cevada nos Mistérios de Elêusis. Seu ponto é que o cereal podia ser tratado como alimento sagrado, dentro de uma relação entre vida humana e mundo espiritual. O capítulo não apresenta explicação bioquímica moderna desse ritual."
+            }
+          },
+          {
+            "title": {
+              "en": "Growth includes interruption and return",
+              "pt": "Crescer inclui interrupção e retorno"
+            },
+            "text": {
+              "en": "A cereal’s life includes growth, ripening, the mature seed and the possibility of another crop. Food depends on a process extending through time, including periods when active growth is not visible. The myth offers one cultural way of expressing this dependence. Observing the plant is another way of learning about its actual development.",
+              "pt": "A vida de um cereal inclui crescimento, amadurecimento, semente madura e possibilidade de outra cultura. A comida depende de um processo no tempo, incluindo períodos sem crescimento ativo visível. O mito oferece uma maneira cultural de expressar essa dependência. Observar a planta é outra maneira de aprender seu desenvolvimento real."
+            }
+          },
+          {
+            "title": {
+              "en": "Symbol and plant observation",
+              "pt": "Símbolo e observação vegetal"
+            },
+            "text": {
+              "en": "Keep the two explanations distinct. A buried seed and Persephone’s descent can be compared symbolically, but the story does not explain germination through a biological mechanism. Nor does sacred importance establish a particular food as suitable for every person. Cultural meaning and dietary suitability are separate questions.",
+              "pt": "Mantenha distintas as explicações. Semente enterrada e descida de Perséfone podem ser comparadas simbolicamente, mas a narrativa não explica a germinação por um mecanismo biológico. Importância sagrada também não estabelece que determinado alimento sirva para todas as pessoas. Sentido cultural e adequação alimentar são perguntas distintas."
+            }
+          },
+          {
+            "title": {
+              "en": "Apply the distinction to a grain",
+              "pt": "Aplique a distinção a um cereal"
+            },
+            "text": {
+              "en": "Take a familiar grain and describe both dimensions: what the growing plant does and how people give its harvest meaning. Cook wants reverence for the processes supporting life. A learner can understand that aim without treating the myth as an experimental result or making a compulsory religious practice of a meal.",
+              "pt": "Escolha um cereal conhecido e descreva ambas as dimensões: o que faz a planta e como as pessoas dão sentido à colheita. Cook busca reverência pelos processos que sustentam a vida. É possível compreender esse objetivo sem tratar o mito como resultado experimental nem transformar uma refeição em prática religiosa obrigatória."
+            }
+          }
+        ],
+        "workedExample": {
+          "en": [
+            "Worked example: a seed and a story",
+            "Observe: record the seed, emerging root and shoot in an ordinary plant observation.",
+            "Interpret: a story of descent and return may give that sequence symbolic meaning.",
+            "Explain: the observation documents development; the myth expresses meaning. Neither has to pretend to do the other’s job."
+          ],
+          "pt": [
+            "Exemplo comentado: uma semente e uma narrativa",
+            "Observe: registre semente, raiz e broto emergentes numa observação vegetal habitual.",
+            "Interprete: uma narrativa de descida e retorno pode dar sentido simbólico à sequência.",
+            "Explique: a observação documenta o desenvolvimento; o mito expressa sentido. Não é preciso que um finja desempenhar a função do outro."
+          ]
+        },
+        "checks": {
+          "en": [
+            [
+              "What does the myth add to a history of grain?",
+              "It shows how a community gave cultural and religious meaning to fertility and renewal. It adds a history of meaning, not a nutrient analysis."
+            ],
+            [
+              "Does the myth demonstrate how seeds germinate?",
+              "No. Germination is a biological process; the myth provides symbolic and religious interpretation."
+            ]
+          ],
+          "pt": [
+            [
+              "O que o mito acrescenta à história dos cereais?",
+              "Mostra como uma comunidade deu sentido cultural e religioso à fertilidade e à renovação. Acrescenta uma história de significados, não análise de nutrientes."
+            ],
+            [
+              "O mito demonstra como as sementes germinam?",
+              "Não. Germinação é processo biológico; o mito oferece interpretação simbólica e religiosa."
+            ]
+          ]
+        }
+      }
     },
     {
       "id": 6,
@@ -595,7 +1120,112 @@
       "ingredients": [],
       "recipe": null,
       "provenance": "attributed-paraphrase-from-readable-OCR",
-      "activityProvenance": "course-designed"
+      "activityProvenance": "course-designed",
+      "beginner": {
+        "reviewed": "2026-10-24",
+        "pdfPages": [
+          50,
+          60
+        ],
+        "steps": [
+          {
+            "title": {
+              "en": "Institutions shape what a meal means",
+              "pt": "Instituições moldam o sentido da refeição"
+            },
+            "text": {
+              "en": "A meal may be a household necessity, a public display, a ritual or part of a working community. Cook moves from Roman banquets to Christian meals and monastic life to show that food takes different meanings within institutions. The ingredients alone cannot explain who is invited, who works or what the meal represents.",
+              "pt": "Uma refeição pode ser necessidade doméstica, exibição pública, ritual ou parte de uma comunidade de trabalho. Cook passa de banquetes romanos a refeições cristãs e vida monástica para mostrar sentidos diferentes da comida em instituições. Os ingredientes, sozinhos, não explicam quem é convidado, quem trabalha ou o que a refeição representa."
+            }
+          },
+          {
+            "title": {
+              "en": "A feast can display power",
+              "pt": "O banquete pode exibir poder"
+            },
+            "text": {
+              "en": "Her Roman examples emphasize luxury, elaborate presentation, imported spices and large-scale production. They show food used to demonstrate wealth and command resources. However, Petronius’s Trimalchio is a literary satirical figure. A description of his banquet must not become a statistical portrait of what all Romans ate.",
+              "pt": "Seus exemplos romanos destacam luxo, apresentação elaborada, especiarias importadas e produção em escala. Mostram alimento usado para demonstrar riqueza e mobilizar recursos. Entretanto, o Trimalquião de Petrônio é uma figura literária satírica. A descrição de seu banquete não deve virar retrato estatístico da alimentação de todos os romanos."
+            }
+          },
+          {
+            "title": {
+              "en": "Ordinary food needs its own evidence",
+              "pt": "A comida cotidiana exige evidência própria"
+            },
+            "text": {
+              "en": "Ask about ordinary households, workers, farmers and the people preparing a feast. Their resources and meals differed from those of an elite host. Cook’s strong contrast between Greek simplicity and Roman heaviness belongs to her selected cultural and spiritual portrait. It needs this qualification when used to teach history.",
+              "pt": "Pergunte por lares comuns, trabalhadores, agricultores e pessoas que preparavam o banquete. Seus recursos e refeições diferiam dos de um anfitrião de elite. O contraste forte entre simplicidade grega e peso romano pertence ao retrato cultural e espiritual selecionado por Cook. Ao ensinar história, é preciso essa ressalva."
+            }
+          },
+          {
+            "title": {
+              "en": "Monasteries connect land and skills",
+              "pt": "Mosteiros conectam terra e saberes"
+            },
+            "text": {
+              "en": "She describes monasteries linking vegetable plots, orchards, herbs, grain fields, animals, beehives, baking and brewing. The point is a coordinated community maintaining skills and supplies over time. The arrangement can be understood as a network of activities; it is not necessary to idealize every medieval institution to see that relationship.",
+              "pt": "Ela descreve mosteiros conectando hortas, pomares, ervas, campos de cereais, animais, colmeias, panificação e cervejaria. O ponto é uma comunidade coordenada mantendo saberes e provisões no tempo. O arranjo pode ser compreendido como rede de atividades; não é necessário idealizar toda instituição medieval para enxergar essa relação."
+            }
+          },
+          {
+            "title": {
+              "en": "Knowledge moves between cultures",
+              "pt": "O conhecimento circula entre culturas"
+            },
+            "text": {
+              "en": "The chapter also discusses Arabic and Persian scholarship, agriculture, cooking and the movement of learning into European centres. This matters because food knowledge does not follow a single isolated national line. Recipes, techniques, plants and texts pass between communities through many kinds of contact, including unequal encounters.",
+              "pt": "O capítulo também discute saberes árabes e persas, agricultura, cozinha e circulação do conhecimento até centros europeus. Isso importa porque o saber alimentar não segue uma única linha nacional isolada. Receitas, técnicas, plantas e textos passam entre comunidades por muitos tipos de contato, incluindo encontros desiguais."
+            }
+          },
+          {
+            "title": {
+              "en": "Ask who makes the system possible",
+              "pt": "Pergunte quem torna o sistema possível"
+            },
+            "text": {
+              "en": "Use the same questions today: where are the resources, who has access, who prepares the meal, and what knowledge survives? An institutional kitchen and a family kitchen operate at different scales, but both depend on coordinated work. Cook’s comparison becomes useful when it helps us notice those relationships.",
+              "pt": "Use hoje as mesmas perguntas: onde estão os recursos, quem tem acesso, quem prepara e que saberes sobrevivem? Cozinha institucional e cozinha familiar têm escalas distintas, mas ambas dependem de trabalho coordenado. A comparação de Cook torna-se útil quando ajuda a perceber essas relações."
+            }
+          }
+        ],
+        "workedExample": {
+          "en": [
+            "Worked example: compare a banquet and a weekly kitchen",
+            "For the banquet, list what displays wealth: rare ingredients, presentation, service and the guest list.",
+            "For the weekly kitchen, list what maintains continuity: stocks, time, skills, division of work and regular supplies.",
+            "Then ask about the workers in both. A history of meals includes labour and access as well as memorable dishes."
+          ],
+          "pt": [
+            "Exemplo comentado: compare banquete e cozinha semanal",
+            "No banquete, liste o que exibe riqueza: ingredientes raros, apresentação, serviço e convidados.",
+            "Na cozinha semanal, liste o que mantém continuidade: reservas, tempo, saberes, divisão de trabalho e provisões regulares.",
+            "Depois, pergunte pelos trabalhadores em ambos. A história das refeições inclui trabalho e acesso, além de pratos memoráveis."
+          ]
+        },
+        "checks": {
+          "en": [
+            [
+              "Why is Trimalchio’s feast not enough to describe Roman nutrition?",
+              "It is an elite literary satire. It can illustrate display and excess, but ordinary diets require other evidence."
+            ],
+            [
+              "What does the monastery example teach?",
+              "It connects cultivation, preparation, storage and transmission of skills within a continuing community. The relationship can be studied without idealizing the entire period."
+            ]
+          ],
+          "pt": [
+            [
+              "Por que o banquete de Trimalquião não basta para descrever a alimentação romana?",
+              "É sátira literária de elite. Pode ilustrar exibição e excesso, mas dietas comuns exigem outras evidências."
+            ],
+            [
+              "O que ensina o exemplo do mosteiro?",
+              "Conecta cultivo, preparo, armazenamento e transmissão de saberes numa comunidade contínua. Pode-se estudar a relação sem idealizar todo o período."
+            ]
+          ]
+        }
+      }
     },
     {
       "id": 7,
@@ -645,7 +1275,112 @@
       ],
       "recipe": null,
       "provenance": "attributed-paraphrase-from-readable-OCR",
-      "activityProvenance": "course-designed"
+      "activityProvenance": "course-designed",
+      "beginner": {
+        "reviewed": "2026-10-24",
+        "pdfPages": [
+          58,
+          63
+        ],
+        "steps": [
+          {
+            "title": {
+              "en": "A spice connects plant and trade",
+              "pt": "A especiaria conecta planta e comércio"
+            },
+            "text": {
+              "en": "A little pepper or cinnamon can connect a kitchen with distant growers, transport routes and trade. Cook uses the demand for flavour to show how ordinary appetite participates in large historical changes. Start with this concrete connection before considering her interpretation of spices and the awakening of the senses.",
+              "pt": "Um pouco de pimenta ou canela pode ligar uma cozinha a produtores distantes, transportes e comércio. Cook usa a procura por sabor para mostrar a participação do apetite cotidiano em grandes mudanças históricas. Comece por essa conexão concreta antes de considerar sua interpretação das especiarias e do despertar dos sentidos."
+            }
+          },
+          {
+            "title": {
+              "en": "Follow the actual plant part",
+              "pt": "Acompanhe a parte vegetal real"
+            },
+            "text": {
+              "en": "Spices come from different plant structures: cinnamon is bark, cloves are flower buds, peppercorns are fruits, and ginger is a rhizome or underground stem. Harvesting, drying and preparation bring particular aromas into a meal. The jar’s contents therefore have both a botanical origin and a history of human work.",
+              "pt": "Especiarias vêm de estruturas vegetais distintas: canela é casca; cravo, botão floral; grãos de pimenta, frutos; gengibre, rizoma ou caule subterrâneo. Colheita, secagem e preparo levam aromas específicos à refeição. O conteúdo do frasco tem, portanto, origem botânica e história de trabalho humano."
+            }
+          },
+          {
+            "title": {
+              "en": "Why small amounts could carry great value",
+              "pt": "Por que pequenas quantidades podiam valer muito"
+            },
+            "text": {
+              "en": "A product may be valuable because of demand, limited supply, difficult journeys and control over access. Traders and rulers could profit from controlling routes and sources. This helps explain why flavour belongs in histories of commerce and exploration. It does not mean that a spice’s market price measures its nutritional value.",
+              "pt": "Um produto pode valer muito por demanda, oferta limitada, viagens difíceis e controle do acesso. Comerciantes e governantes podiam lucrar controlando rotas e fontes. Isso explica por que o sabor integra histórias do comércio e das navegações. Não significa que o preço de uma especiaria meça seu valor nutricional."
+            }
+          },
+          {
+            "title": {
+              "en": "Exchange includes power",
+              "pt": "As trocas incluem poder"
+            },
+            "text": {
+              "en": "Trade networks existed before European expansion. European colonial companies later used violence and coercion to control parts of those networks. Food history must include the communities already growing and using the crops, and the enslaved or exploited people whose labour supported plantation systems. A list of foods “discovered” by travellers leaves that history incomplete.",
+              "pt": "Redes comerciais existiam antes da expansão europeia. Companhias coloniais europeias depois usaram violência e coerção para controlar partes dessas redes. A história alimentar precisa incluir comunidades que já cultivavam e usavam as plantas e pessoas escravizadas ou exploradas cujo trabalho sustentava plantações. Listar alimentos descobertos por viajantes deixa essa história incompleta."
+            }
+          },
+          {
+            "title": {
+              "en": "A crop travels with knowledge",
+              "pt": "A cultura agrícola viaja com saberes"
+            },
+            "text": {
+              "en": "When a plant moves, methods of selecting, preparing and using it matter too. A potato, chilli or grain did not begin its human history when Europeans encountered it. Cook follows many foods into European diets, but a wider account also asks about their Indigenous cultivation and the changes imposed by global trade.",
+              "pt": "Quando uma planta se desloca, importam também métodos de seleção, preparo e uso. Batata, pimenta ou cereal não começaram sua história humana no encontro com europeus. Cook acompanha muitos alimentos até dietas europeias, mas uma visão ampliada pergunta também por cultivo indígena e mudanças impostas pelo comércio global."
+            }
+          },
+          {
+            "title": {
+              "en": "Read Cook’s consciousness argument carefully",
+              "pt": "Leia com cuidado o argumento sobre consciência"
+            },
+            "text": {
+              "en": "She adds a spiritual argument that new tastes and stimulants accompany changing consciousness. Learn that as her interpretation, not as proof that one ingredient caused a whole historical period. A fuller explanation asks about trade, technology, institutions, labour and ideas together.",
+              "pt": "Ela acrescenta um argumento espiritual: novos sabores e estimulantes acompanham mudanças de consciência. Aprenda isso como interpretação sua, não como prova de que um ingrediente causou todo um período histórico. Uma explicação mais completa considera conjuntamente comércio, tecnologia, instituições, trabalho e ideias."
+            }
+          }
+        ],
+        "workedExample": {
+          "en": [
+            "Worked example: read a spice jar backward",
+            "Plant: identify the part used and the preparation that releases its flavour.",
+            "Route: ask where it grew and how it reached the seller.",
+            "People: ask who grew, processed and traded it. You have connected taste with a food system without making an unsupported health claim."
+          ],
+          "pt": [
+            "Exemplo comentado: leia um frasco de especiaria de trás para frente",
+            "Planta: identifique a parte usada e o preparo que libera seu sabor.",
+            "Percurso: pergunte onde cresceu e como chegou ao vendedor.",
+            "Pessoas: pergunte quem cultivou, processou e comercializou. Você conectou sabor e sistema alimentar sem afirmar benefício de saúde sem apoio."
+          ]
+        },
+        "checks": {
+          "en": [
+            [
+              "Why can a spice be historically important despite being eaten in tiny amounts?",
+              "Its demand, value and trade can influence journeys, institutions and labour far beyond its quantity in a meal."
+            ],
+            [
+              "What is missing from saying that Europeans discovered these foods?",
+              "The prior cultivation, knowledge and use of the peoples already living where the foods came from, as well as the power relationships involved in colonial exchange."
+            ]
+          ],
+          "pt": [
+            [
+              "Por que uma especiaria pode ter importância histórica mesmo em pequena quantidade?",
+              "Sua demanda, valor e comércio podem influenciar viagens, instituições e trabalho muito além da quantidade numa refeição."
+            ],
+            [
+              "O que falta ao dizer que europeus descobriram esses alimentos?",
+              "O cultivo, o conhecimento e o uso anteriores dos povos de origem, além das relações de poder das trocas coloniais."
+            ]
+          ]
+        }
+      }
     },
     {
       "id": 8,
@@ -691,7 +1426,112 @@
       "ingredients": [],
       "recipe": null,
       "provenance": "attributed-paraphrase-from-readable-OCR",
-      "activityProvenance": "course-designed"
+      "activityProvenance": "course-designed",
+      "beginner": {
+        "reviewed": "2026-10-24",
+        "pdfPages": [
+          63,
+          71
+        ],
+        "steps": [
+          {
+            "title": {
+              "en": "A food system changes scale",
+              "pt": "O sistema alimentar muda de escala"
+            },
+            "text": {
+              "en": "Industrialization changed the scale and organization of food. Mills, factories, transport networks and urban markets increasingly separated growers from distant consumers. Cook connects that change with the loss of direct knowledge about how food is produced. A shopper may recognize a brand while knowing little about the farm or the processing.",
+              "pt": "A industrialização mudou a escala e a organização dos alimentos. Moinhos, fábricas, transportes e mercados urbanos separaram cada vez mais produtores e consumidores distantes. Cook conecta a mudança à perda de conhecimento direto sobre a produção. Uma pessoa pode reconhecer a marca e saber pouco sobre a fazenda ou o processamento."
+            }
+          },
+          {
+            "title": {
+              "en": "Processing is a specific operation",
+              "pt": "Processamento é uma operação específica"
+            },
+            "text": {
+              "en": "Processing can mean grinding, cooking, fermenting, drying, freezing, refining or combining ingredients. These operations do different things. Cook values some transformations, especially skilled cooking and bread making, while criticizing others and the systems around them. Her argument should not become the rule that every processed food is harmful.",
+              "pt": "Processar pode significar moer, cozinhar, fermentar, secar, congelar, refinar ou combinar ingredientes. São operações diferentes. Cook valoriza algumas transformações, especialmente cozinha cuidadosa e panificação, enquanto critica outras e os sistemas envolvidos. Seu argumento não deve virar regra de que todo alimento processado faz mal."
+            }
+          },
+          {
+            "title": {
+              "en": "What preservation makes possible",
+              "pt": "O que a conservação permite"
+            },
+            "text": {
+              "en": "Preservation can extend usable life and make food available beyond one place or harvest. It can also change flavour, texture and composition. A useful history asks what a particular method accomplishes and what conditions it requires. Industrial transport could relieve a regional shortage while also creating new dependencies on distant suppliers.",
+              "pt": "Conservar pode prolongar a vida útil e disponibilizar alimento além de um lugar ou colheita. Também pode mudar sabor, textura e composição. Uma história útil pergunta o que cada método realiza e quais condições exige. Transportes industriais podiam aliviar escassez regional e também criar dependências de fornecedores distantes."
+            }
+          },
+          {
+            "title": {
+              "en": "What Cook criticizes",
+              "pt": "O que Cook critica"
+            },
+            "text": {
+              "en": "Her strongest criticism concerns treating people mainly as consumers and food mainly as a saleable commodity. Advertising, convenience, standardization and separation from farming can change choices and expectations. She asks what those choices support in the wider world. This ethical question is distinct from demonstrating that a particular additive causes a disease.",
+              "pt": "Sua crítica mais forte trata de considerar pessoas principalmente como consumidores e comida principalmente como mercadoria. Publicidade, conveniência, padronização e afastamento da agricultura podem mudar escolhas e expectativas. Ela pergunta o que essas escolhas sustentam no mundo. Essa questão ética difere de demonstrar que determinado aditivo causa uma doença."
+            }
+          },
+          {
+            "title": {
+              "en": "Correct two points about pasteurisation",
+              "pt": "Corrija dois pontos sobre pasteurização"
+            },
+            "text": {
+              "en": "The available chapter places Pasteur’s microbial work in 1895 and describes pasteurisation as sterilization. The course corrects this: the relevant work developed in the 1860s, and pasteurisation is a controlled treatment to reduce harmful microbes, not complete sterilization. A historical discussion of processing should not become a reason to use unsafe milk.",
+              "pt": "O capítulo disponível situa o trabalho microbiano de Pasteur em 1895 e descreve pasteurização como esterilização. O curso corrige: o trabalho relevante se desenvolveu na década de 1860, e pasteurização é tratamento controlado para reduzir microrganismos nocivos, não esterilização completa. Uma discussão histórica do processamento não deve virar motivo para usar leite inseguro."
+            }
+          },
+          {
+            "title": {
+              "en": "Make a comparison with useful criteria",
+              "pt": "Compare por critérios úteis"
+            },
+            "text": {
+              "en": "Compare foods through identifiable features: ingredients, processing, storage, cost, convenience, sensory qualities and the people involved. These criteria allow more useful judgement than “old is good” or “modern is bad”. Cook’s call for reconnection becomes practical when it helps someone ask better questions about a real purchase or meal.",
+              "pt": "Compare alimentos por características identificáveis: ingredientes, processamento, armazenamento, custo, conveniência, qualidades sensoriais e pessoas envolvidas. Esses critérios permitem julgar melhor que antigo é bom ou moderno é ruim. O convite de Cook à reconexão torna-se prático quando ajuda a perguntar melhor sobre compra ou refeição real."
+            }
+          }
+        ],
+        "workedExample": {
+          "en": [
+            "Worked example: fresh, frozen and canned vegetables",
+            "Identify the actual process and the storage needed for each product.",
+            "Compare the ingredients and how each option fits the household’s time, budget and intended dish.",
+            "Then ask Cook’s wider question about growing and trading relationships. A package category alone has not answered all those questions."
+          ],
+          "pt": [
+            "Exemplo comentado: legumes frescos, congelados e enlatados",
+            "Identifique o processo real e o armazenamento exigido por cada produto.",
+            "Compare ingredientes e adequação ao tempo, orçamento e prato pretendido do lar.",
+            "Depois, faça a pergunta mais ampla de Cook sobre relações de cultivo e comércio. A categoria da embalagem, sozinha, não respondeu a tudo isso."
+          ]
+        },
+        "checks": {
+          "en": [
+            [
+              "Why is “all processing destroys food” an inadequate reading?",
+              "Processing includes transformations Cook values, such as cooking and fermentation. Particular operations and their effects need to be distinguished."
+            ],
+            [
+              "What is the difference between pasteurisation and sterilization?",
+              "Pasteurisation uses a specified treatment to reduce harmful microbes; it is not complete sterilization. Storage and handling still matter."
+            ]
+          ],
+          "pt": [
+            [
+              "Por que dizer que todo processamento destrói o alimento é uma leitura inadequada?",
+              "Processamento inclui transformações valorizadas por Cook, como cozinhar e fermentar. É preciso distinguir operações específicas e seus efeitos."
+            ],
+            [
+              "Qual a diferença entre pasteurização e esterilização?",
+              "Pasteurização usa tratamento especificado para reduzir microrganismos nocivos; não é esterilização completa. Armazenamento e manejo continuam importantes."
+            ]
+          ]
+        }
+      }
     },
     {
       "id": 9,
@@ -3386,5 +4226,30 @@
         "pt": "Descrição interpretativa dos padrões de crescimento, não ação médica medida."
       }
     }
-  ]
+  ],
+  "teachingRevision": "2026-10-24",
+  "nutritionOrientation": {
+    "title": {
+      "en": "What does Cook mean by nourishment?",
+      "pt": "O que Cook entende por alimentação?"
+    },
+    "sourcePages": [
+      17,
+      27
+    ],
+    "paragraphs": {
+      "en": [
+        "In the available preface and introduction, Cook asks us to follow food from the growing earth through preparation to the person and the shared table. Her idea of nourishment includes material food, sensory experience, work, social relationships and a spiritual account of formative forces.",
+        "For example, bread can be studied as a prepared grain, a sequence of farming and baking work, an aroma and texture, and something shared. Cook wants these questions brought together. Calling music or a landscape nourishment uses the word more broadly than energy and nutrients; it does not make them substitutes for eating.",
+        "She also asks whether nutrition relates to changing consciousness and presents ideas she draws from Steiner about life forces and active assimilation. These are her spiritual questions and interpretations. They must be distinguished from measured nutrient composition and established physiological explanations.",
+        "The introduction explains her interest in vegetarianism, biodynamic food and individual differences through her biography. Personal testimony explains her path; it cannot by itself establish a medical cause or treatment. Her later nutrition chapters are not included in this 71-page upload and have not yet been freshly checked."
+      ],
+      "pt": [
+        "No prefácio e na introdução disponíveis, Cook pede que acompanhemos o alimento da terra cultivada ao preparo, à pessoa e à mesa compartilhada. Sua ideia de alimentação inclui comida material, experiência sensorial, trabalho, relações sociais e uma descrição espiritual das forças formativas.",
+        "Por exemplo, o pão pode ser estudado como cereal preparado, sequência de cultivo e panificação, aroma e textura e algo partilhado. Cook quer reunir essas perguntas. Chamar música ou paisagem de alimento amplia o sentido da palavra além de energia e nutrientes; não as torna substitutas da comida.",
+        "Ela também pergunta se a alimentação se relaciona às mudanças da consciência e apresenta ideias que recebe de Steiner sobre forças vivas e assimilação ativa. São suas perguntas e interpretações espirituais. Devem ser distinguidas de composição nutricional medida e explicações fisiológicas estabelecidas.",
+        "A introdução explica seu interesse por vegetarianismo, alimento biodinâmico e diferenças individuais por sua biografia. Testemunho pessoal explica o caminho; sozinho, não estabelece causa ou tratamento médico. Os capítulos posteriores de nutrição não constam deste envio de 71 páginas e ainda não receberam nova conferência."
+      ]
+    }
+  }
 }

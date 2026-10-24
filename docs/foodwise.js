@@ -8,3 +8,12 @@ for(const group of document.querySelectorAll('.foodwise-choice')){
 }
 const input=document.querySelector('[data-foodwise-search]');
 if(input){const norm=s=>s.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase();input.addEventListener('input',()=>{let count=0;for(const card of document.querySelectorAll('[data-foodwise-ingredients] article')){card.hidden=!norm(card.textContent).includes(norm(input.value.trim()));if(!card.hidden)count++;}document.querySelector('[data-foodwise-count]').textContent=`${count} ${document.documentElement.lang==='pt-BR'?'ingredientes encontrados':'ingredients found'}`;});}
+
+// Keep the introductory teaching visible after the course workspace is enhanced.
+function showFoodwiseOrientation(){
+ const orientation=document.querySelector('.foodwise-nutrition-orientation');
+ const hero=document.querySelector('.cw-hero');
+ if(orientation&&hero)hero.append(orientation);
+}
+if(document.readyState==='complete')showFoodwiseOrientation();
+else document.addEventListener('DOMContentLoaded',showFoodwiseOrientation,{once:true});

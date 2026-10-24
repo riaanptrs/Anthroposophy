@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 const c=JSON.parse(fs.readFileSync('content/foodwise/course.json','utf8'));
-assert.equal(c.status,'published-ocr-edition');assert.equal(c.lessons.length,39);assert.equal(c.modules.length,7);
+assert.equal(c.status,'published-with-partial-pdf-review');assert.equal(c.lessons.length,39);assert.equal(c.modules.length,7);
 assert.equal(c.ingredients.length,23);assert.equal(c.recipes.length,3);
 const chapters=new Set(c.lessons.flatMap(l=>l.chapters));for(let i=0;i<=20;i++)assert(chapters.has(i),`Chapter ${i} lacks teaching`);
 const ingredients=new Set(c.ingredients.map(i=>i.slug)),recipes=new Set(c.recipes.map(r=>r.slug));
@@ -23,3 +23,7 @@ for(const lang of ['en','pt']){
 assert.equal(c.lessons.filter(l=>l.choices).length,15);
 const audit=JSON.parse(fs.readFileSync('content/foodwise/source-audit.json','utf8'));assert.equal(audit.source.pdfDownloaded,false);assert.equal(audit.source.metadataVisualVerification,false);
 console.log('Foodwise checks passed: chapter coverage, bilingual explanations, optional questions, original untested recipes and source limits.');
+
+assert.equal(audit.additionalPdfReview.pages,71);assert.equal(audit.additionalPdfReview.completeBook,false);assert.equal(audit.additionalPdfReview.metadataVerified.edition,2009);
+assert.deepEqual(c.lessons.filter(l=>l.beginner).map(l=>l.id),[1,2,3,4,5,6,7,8]);
+for(const l of c.lessons.filter(l=>l.beginner)){assert.equal(l.beginner.steps.length,6);for(const lang of ['en','pt']){assert.equal(l.beginner.workedExample[lang].length,4);assert.equal(l.beginner.checks[lang].length,2);}}

@@ -4907,5 +4907,42 @@
       "completeness": "unverified"
     }
   ],
-  "publicationBasis": "User authorized publication using available OCR after the PDF transfer limit was disclosed. Selected readable passages support attributed paraphrases. No PDF page or complete column coverage is claimed."
+  "publicationBasis": "User authorized publication using available OCR after the PDF transfer limit was disclosed. Selected readable passages support attributed paraphrases. No PDF page or complete column coverage is claimed.",
+  "additionalPdfReview": {
+    "reviewed": "2026-10-24",
+    "fileName": "Foodwise.pdf",
+    "sha256": "748475b0d551fb03df231665d284ed08067fe715d7448125c7ff2da8545bf4c9",
+    "pages": 71,
+    "scope": "Front matter, preface, introduction and complete chapter 1 only. Chapter 2 and later nutrition chapters are absent. File positions do not renumber the previous 272 OCR captures.",
+    "metadataVerified": {
+      "firstPublication": 2003,
+      "edition": 2009,
+      "ISBN": "9781905570584",
+      "pdfPages": [
+        6,
+        7
+      ]
+    },
+    "readRanges": {
+      "preface": [
+        17,
+        19
+      ],
+      "introduction": [
+        20,
+        27
+      ],
+      "chapter1": [
+        30,
+        71
+      ]
+    },
+    "visualReview": "All 71 pages inspected as contact sheets; imprint pages 6–7 and the page-65 Pasteur passage inspected natively. All legible body text read from new OCR with image comparisons; figure captions read separately.",
+    "corrections": [
+      "PDF65: Pasteur microbiology date stated as 1895; course uses 1860s context.",
+      "PDF65: pasteurisation called sterilization; course distinguishes the processes.",
+      "Cook’s spiritual chronology and cultural characterizations are attributed rather than treated as archaeological facts."
+    ],
+    "completeBook": false
+  }
 }
