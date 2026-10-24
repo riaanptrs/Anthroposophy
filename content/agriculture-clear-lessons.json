@@ -4022,6 +4022,13 @@
         "id": "courtney-figure-01",
         "afterParagraph": 4
       }
+    ],
+    "references": [
+      {
+        "url": "../practical/index.html",
+        "en": "Detailed preparation guide: making, timing and application",
+        "pt": "Guia detalhado dos preparados: elaboração, épocas e aplicação"
+      }
     ]
   },
   {
@@ -4717,7 +4724,14 @@
       },
       "relationshipTableAfterParagraph": 5
     },
-    "showLearningGoal": true
+    "showLearningGoal": true,
+    "references": [
+      {
+        "url": "../practical/application.html",
+        "en": "Detailed preparation guide: making, timing and application",
+        "pt": "Guia detalhado dos preparados: elaboração, épocas e aplicação"
+      }
+    ]
   },
   {
     "course": "what-is-biodynamics",
@@ -4969,7 +4983,14 @@
       },
       "relationshipTableAfterParagraph": 5
     },
-    "showLearningGoal": true
+    "showLearningGoal": true,
+    "references": [
+      {
+        "url": "../practical/compost.html",
+        "en": "Detailed preparation guide: making, timing and application",
+        "pt": "Guia detalhado dos preparados: elaboração, épocas e aplicação"
+      }
+    ]
   },
   {
     "course": "what-is-biodynamics",
@@ -5151,6 +5172,11 @@
         "url": "https://www.epa.gov/safepestcontrol/integrated-pest-management-ipm-principles",
         "en": "EPA: identification, monitoring and proportionate pest management",
         "pt": "EPA: identificação, monitoramento e manejo proporcional de pragas"
+      },
+      {
+        "url": "../practical/508.html",
+        "en": "Detailed preparation guide: making, timing and application",
+        "pt": "Guia detalhado dos preparados: elaboração, épocas e aplicação"
       }
     ],
     "showLearningGoal": true

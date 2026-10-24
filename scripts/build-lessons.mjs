@@ -96,6 +96,7 @@ buildLinks();
 await import('./build-what-is-biodynamics.mjs');
 await import('./build-threefold-society.mjs');
 await import('./build-agriculture.mjs');
+await import('./build-preparation-practice.mjs');
 await import('./build-learning-system.mjs');
 // New beginner, chapter and research pages use the same illustrated terminology reference.
 buildLinks();

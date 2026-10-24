@@ -1,0 +1,1682 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-10-24",
+  "title": {
+    "en": "Making and using biodynamic preparations",
+    "pt": "Como elaborar e usar os preparados biodinâmicos"
+  },
+  "sources": [
+    {
+      "id": "books",
+      "title": "Supplied books: Courtney’s introduction; Steiner, GA 327 lectures 4–6 and discussions",
+      "route": "what-is-biodynamics/lessons/01.html#book-passage",
+      "kind": "Uploaded primary source; historical method and intended roles",
+      "titlePt": "Livros fornecidos: introdução de Courtney; Steiner, GA 327, palestras 4–6 e discussões"
+    },
+    {
+      "id": "bfdi",
+      "title": "Anne and Rolf Bucher — Biodynamic Preparations: Good Practice Manual (2020)",
+      "url": "https://www.biodynamic.org.uk/wp-content/uploads/2020/07/BIODYNAMIC.PREP_.MANUAL..pdf",
+      "kind": "Later practitioner manual; metric spray-rate example, pp. 23–24; site-dependent burial, pp. 9–10",
+      "titlePt": "Anne e Rolf Bucher — Biodynamic Preparations: Good Practice Manual (2020)"
+    },
+    {
+      "id": "jpi500",
+      "title": "Josephine Porter Institute — BD 500 instructions",
+      "url": "https://www.jpibiodynamics.org/pages/bd-500-horn-manure-instructions",
+      "kind": "Current supplier protocol; differs from metric worked example",
+      "titlePt": "Josephine Porter Institute — instruções do BD 500"
+    },
+    {
+      "id": "jpi501",
+      "title": "Josephine Porter Institute — BD 501 instructions",
+      "url": "https://www.jpibiodynamics.org/pages/bd-501-horn-silica-instructions",
+      "kind": "Current supplier protocol and crop/weather qualifications",
+      "titlePt": "Josephine Porter Institute — instruções do BD 501"
+    },
+    {
+      "id": "jpicompost",
+      "title": "Josephine Porter Institute — BD 502–507 compost instructions",
+      "url": "https://www.jpibiodynamics.org/pages/bd-502-507-compost-instructions",
+      "kind": "One complete-set placement protocol; no universal packet mass",
+      "titlePt": "Josephine Porter Institute — instruções de composto BD 502–507"
+    },
+    {
+      "id": "jpi508",
+      "title": "Josephine Porter Institute — fresh and fermented BD 508",
+      "url": "https://www.jpibiodynamics.org/pages/bd-508-horsetail-instructions",
+      "kind": "Two distinct recipes; US customary units",
+      "titlePt": "Josephine Porter Institute — BD 508 fresco e fermentado"
+    },
+    {
+      "id": "storage",
+      "title": "Josephine Porter Institute — preparation storage",
+      "url": "https://cdn.shopify.com/s/files/1/0017/4473/2221/files/How_to_Store_Biodynamic_Preparations_1.pdf?v=1699302303",
+      "kind": "Later storage guidance; different requirements for solids, silica and liquids",
+      "titlePt": "Josephine Porter Institute — armazenamento dos preparados"
+    },
+    {
+      "id": "abd501",
+      "title": "Associação Brasileira de Agricultura Biodinâmica — 501 chifre-sílica",
+      "url": "https://biodinamica.org.br/loja/product/preparado-biodinamico-501-chifre-silica/",
+      "kind": "Portuguese practitioner guidance; 4 g/ha in 50 L, one-hour stirring, early-morning application",
+      "titlePt": "Associação Brasileira de Agricultura Biodinâmica — 501 chifre-sílica"
+    },
+    {
+      "id": "demeter",
+      "title": "Biodynamic Federation – Demeter International — farm organism and preparation principles",
+      "url": "https://demeter.net/principle-standard/farm-organism-principles/",
+      "kind": "Animal-material sourcing and later certification context; verify current local requirements",
+      "titlePt": "Biodynamic Federation – Demeter International — princípios do organismo agrícola e dos preparados"
+    },
+    {
+      "id": "fda",
+      "title": "FDA — Guide to Minimize Microbial Food Safety Hazards for Fresh Fruits and Vegetables",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-guide-minimize-microbial-food-safety-hazards-fresh-fruits-and-vegetables",
+      "kind": "Food-hygiene context; manure can carry pathogens, including after inadequate treatment",
+      "titlePt": "FDA — guia para reduzir riscos microbiológicos em frutas e hortaliças frescas"
+    },
+    {
+      "id": "silica",
+      "title": "OSHA — crystalline silica overview",
+      "url": "https://www.osha.gov/silica-crystalline",
+      "kind": "Respirable quartz-dust hazard; not a biodynamic efficacy source",
+      "titlePt": "OSHA — informações sobre sílica cristalina"
+    }
+  ],
+  "pages": [
+    {
+      "id": "index",
+      "title": {
+        "en": "Practical guide: preparations 500–508",
+        "pt": "Guia prático: preparados 500–508"
+      },
+      "lead": {
+        "en": "Learn what to make, when to make it, how to store it, and where and when to apply it. Begin with the three preparation families, then follow the dedicated method for each material.",
+        "pt": "Aprenda o que elaborar, quando elaborar, como armazenar e onde e quando aplicar. Comece pelas três famílias de preparados e depois acompanhe o método próprio de cada material."
+      },
+      "sources": [
+        "books",
+        "demeter",
+        "fda",
+        "silica"
+      ],
+      "sections": [
+        {
+          "id": "start",
+          "title": {
+            "en": "Start with the task, not the number",
+            "pt": "Comece pela tarefa, não pelo número"
+          },
+          "paragraphs": {
+            "en": [
+              "Making a preparation and making a spray are different operations. A winter-matured horn-manure preparation may spend months underground; its spray is mixed in water on the day of application. Dried chamomile flowers are an ingredient for 503, not the finished preparation. This guide keeps ingredients, mature preparations and application mixtures distinct.",
+              "The field preparations are horn manure 500 for soil and horn silica 501 for aerial plant parts. Preparations 502–507 form the compost family: five matured solids and one valerian liquid. Horsetail 508 is a separate herbal decoction, with fresh and fermented versions. Do not give all nine the same stirring time, target surface or storage treatment."
+            ],
+            "pt": [
+              "Elaborar um preparado e preparar uma calda de aplicação são operações diferentes. O esterco de chifre maturado durante o inverno pode passar meses sob o solo; sua calda é misturada com água no dia da aplicação. Flores secas de camomila são um ingrediente do 503, não o preparado pronto. Este guia distingue ingredientes, preparados maturados e misturas de aplicação.",
+              "Os preparados de campo são o esterco de chifre 500, para o solo, e a sílica de chifre 501, para a parte aérea das plantas. Os preparados 502–507 formam a família do composto: cinco sólidos maturados e um líquido de valeriana. A cavalinha 508 é uma decocção vegetal separada, com versões fresca e fermentada. Não atribua aos nove o mesmo tempo de agitação, alvo ou tratamento de armazenamento."
+            ]
+          }
+        },
+        {
+          "id": "route",
+          "title": {
+            "en": "A practical learning sequence",
+            "pt": "Uma sequência prática de aprendizagem"
+          },
+          "steps": {
+            "en": [
+              "Read application and quantities first. Learn area, dose, carrier water, stirring and sprayer calibration before mixing a batch.",
+              "Read the page for the preparation you intend to use. Make a materials list and identify the season, maturation period and application target.",
+              "Read the shared storage page before obtaining finished material. A prepared substance can be spoiled by the wrong storage even when it was made well.",
+              "For a first season, obtaining mature preparations from a reliable maker lets you learn application immediately. Making them in a regional group teaches identification, animal-sheath handling and assessment of maturity.",
+              "Keep a dated record and a comparison area where practicable. Record ordinary soil care too. A crop response alone does not identify a spiritual or material cause."
+            ],
+            "pt": [
+              "Leia primeiro aplicação e quantidades. Aprenda área, dose, água de diluição, agitação e calibração do pulverizador antes de misturar uma quantidade.",
+              "Leia a página do preparado que pretende usar. Faça uma lista de materiais e identifique estação, período de maturação e alvo de aplicação.",
+              "Leia a página comum de armazenamento antes de obter material pronto. O armazenamento incorreto pode deteriorar uma substância bem elaborada.",
+              "Na primeira estação, obter preparados maturados de uma fonte confiável permite aprender a aplicação imediatamente. Elaborá-los num grupo regional ensina identificação, manejo dos envoltórios animais e avaliação da maturação.",
+              "Mantenha registros datados e uma área de comparação quando possível. Registre também os cuidados habituais com o solo. Uma resposta da cultura, sozinha, não identifica uma causa espiritual ou material."
+            ]
+          }
+        },
+        {
+          "id": "working",
+          "title": {
+            "en": "Set up the work area",
+            "pt": "Organize o local de trabalho"
+          },
+          "items": {
+            "en": [
+              "Use dedicated labelled containers, clean stirring tools, a timer, a measuring jug, a suitable balance, a strainer and a sprayer whose output you have measured with clean water.",
+              "Use gloves for manure, animal tissues and nettles; cover cuts, wash hands, and keep tools out of food preparation. Obtain animal materials through a lawful, traceable source and protect buried material from wildlife.",
+              "Use clean water and prevent runoff to wells, streams and irrigation supplies. A manure-derived preparation is not automatically hygienically safe because it looks earthy or has little smell. Check the applicable produce-safety and certification requirements before use on food crops.",
+              "Fine quartz dust can harm lungs. Obtain ready-made 501 or use a trained preparation-making group with appropriate dust controls. Do not dry-grind quartz in a kitchen blender, make airborne dust, or rely on an ordinary cloth face covering.",
+              "Check plant identity before harvest. Horsetail species are not interchangeable; the drawing in the course is an explanation, not an identification key."
+            ],
+            "pt": [
+              "Use recipientes exclusivos e identificados, utensílios limpos de agitação, cronômetro, jarra graduada, balança adequada, filtro e pulverizador cuja vazão tenha sido medida com água limpa.",
+              "Use luvas para esterco, tecidos animais e urtigas; cubra ferimentos, lave as mãos e mantenha os utensílios fora do preparo de alimentos. Obtenha materiais animais de fonte legal e rastreável e proteja o material enterrado de animais silvestres.",
+              "Use água limpa e impeça escoamento para poços, cursos d’água e fontes de irrigação. Um preparado derivado de esterco não se torna automaticamente seguro do ponto de vista higiênico por parecer terroso ou ter pouco cheiro. Verifique as exigências aplicáveis de segurança de alimentos e certificação antes do uso em culturas alimentares.",
+              "O pó fino de quartzo pode lesar os pulmões. Obtenha 501 pronto ou participe de um grupo de elaboração com controle adequado de poeira. Não moa quartzo a seco num liquidificador de cozinha, não produza poeira suspensa nem confie numa máscara comum de tecido.",
+              "Confira a identidade da planta antes da colheita. Espécies de cavalinha não são intercambiáveis; o desenho do curso é uma explicação, não uma chave de identificação."
+            ]
+          }
+        },
+        {
+          "id": "claims",
+          "title": {
+            "en": "What these instructions establish",
+            "pt": "O que estas instruções estabelecem"
+          },
+          "paragraphs": {
+            "en": [
+              "These pages teach the classical methods described in the supplied books and identify later practitioner protocols where numerical examples are used. A detailed recipe explains a practice; it does not by itself establish that the claimed spiritual mechanism or a disease-control effect is true. Ordinary fertility, water management, plant diagnosis and food hygiene remain part of the work.",
+              "The guide is not a certification standard. Product concentrations, local seasons, permitted animal materials and crop restrictions can differ. Follow the protocol and label for the preparation actually in your hand. Where the books give broad indications rather than a fixed specification, the guide says so instead of inventing a universal value."
+            ],
+            "pt": [
+              "Estas páginas ensinam os métodos clássicos descritos nos livros fornecidos e identificam protocolos posteriores de praticantes quando apresentam exemplos numéricos. Uma receita detalhada explica uma prática; por si, não estabelece a veracidade do mecanismo espiritual alegado nem de um efeito de controle de doenças. Fertilidade habitual, manejo da água, diagnóstico vegetal e higiene alimentar continuam fazendo parte do trabalho.",
+              "O guia não é uma norma de certificação. Concentrações dos produtos, estações locais, materiais animais permitidos e restrições por cultura podem diferir. Siga o protocolo e o rótulo do preparado que efetivamente tem em mãos. Quando os livros dão indicações amplas, em vez de uma especificação fixa, o guia informa isso e não inventa um valor universal."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "500",
+      "title": {
+        "en": "500: horn manure — making and soil application",
+        "pt": "500: esterco de chifre — elaboração e aplicação no solo"
+      },
+      "lead": {
+        "en": "A manure-filled cow horn is matured underground through the local winter. The recovered material is later stirred in water for a soil-directed spray.",
+        "pt": "Um chifre de vaca com esterco matura sob o solo durante o inverno local. O material recuperado é depois agitado em água para uma aplicação dirigida ao solo."
+      },
+      "sources": [
+        "books",
+        "bfdi",
+        "jpi500",
+        "storage",
+        "fda"
+      ],
+      "sections": [
+        {
+          "id": "materials",
+          "title": {
+            "en": "Materials and the intended role",
+            "pt": "Materiais e função pretendida"
+          },
+          "paragraphs": {
+            "en": [
+              "Classical horn manure uses fresh cow manure and a sound cow horn. It is intended to support the soil/root side of farming within Steiner’s account. The small field dose is an addition to ordinary fertility management, not enough material to replace the crop’s nutrient supply."
+            ],
+            "pt": [
+              "O esterco de chifre clássico usa esterco fresco de vaca e um chifre íntegro de vaca. Dentro da explicação de Steiner, destina-se a apoiar o lado solo/raízes da agricultura. A pequena dose de campo é um acréscimo ao manejo habitual da fertilidade, não uma quantidade suficiente para substituir os nutrientes exigidos pela cultura."
+            ]
+          },
+          "items": {
+            "en": [
+              "Fresh, well-formed cow dung with straw, stones and other foreign matter removed. Record the animal source; do not substitute manure species casually.",
+              "Sound empty cow horns from a traceable preparation-making source; gloves, a dedicated filling tool and a labelled batch container.",
+              "A marked burial site with suitable soil, a site sketch and a retrieval record. Choose a place outside drainage channels and waterlogged ground."
+            ],
+            "pt": [
+              "Esterco fresco e bem formado de vaca, sem palha, pedras ou outros materiais estranhos. Registre a origem animal; não troque casualmente a espécie de esterco.",
+              "Chifres vazios e íntegros de vaca, de fonte rastreável de elaboração; luvas, utensílio exclusivo de enchimento e recipiente de lote identificado.",
+              "Local de enterrio marcado, com solo adequado, croqui e registro de retirada. Escolha um lugar fora de canais de drenagem e de solo encharcado."
+            ]
+          }
+        },
+        {
+          "id": "making",
+          "title": {
+            "en": "Fill, bury and recover",
+            "pt": "Encha, enterre e retire"
+          },
+          "steps": {
+            "en": [
+              "Prepare the horn and manure with the maker’s hygiene procedure. Fill to the tip with manure, using a narrow tool and gentle tapping to reduce empty cavities. Fill consistently without adding soil or compost to the contents.",
+              "Label the batch and count the horns. Bury in autumn for the local winter; use the seasonal calendar rather than copying European months into the Southern Hemisphere.",
+              "Choose depth with the local maker according to fertile soil depth, drainage and frost. As a later reference, the Bucher manual describes a pit around 50–60 cm in suitable soil; the supplied translations give differing historical depths. This is not a reason to dig into a saturated or unsuitable subsoil.",
+              "Surround the horns with soil, backfill and mark the site so every horn can be found. Use the orientation shown by the local making protocol so water does not collect inside open horns.",
+              "Leave through winter. In spring, uncover carefully, reconcile the count and empty each horn into a clean labelled container. Keep outside soil and sheath fragments out of the preparation.",
+              "Have the first batch assessed by an experienced maker. Mature material is usually dark, cohesive and earthy; recognizably raw, green or strongly manure-like material needs further assessment. Colour and smell are quality observations, not pathogen tests."
+            ],
+            "pt": [
+              "Prepare chifre e esterco pelo procedimento de higiene do elaborador. Encha até a ponta com esterco, usando utensílio estreito e leves batidas para reduzir cavidades vazias. Encha uniformemente, sem acrescentar solo ou composto ao conteúdo.",
+              "Identifique o lote e conte os chifres. Enterre no outono para o inverno local; use o calendário sazonal em vez de copiar meses europeus para o Hemisfério Sul.",
+              "Escolha a profundidade com o elaborador local conforme camada fértil, drenagem e geadas. Como referência posterior, o manual de Bucher descreve uma cova de cerca de 50–60 cm em solo adequado; as traduções fornecidas apresentam profundidades históricas distintas. Isso não justifica escavar subsolo saturado ou inadequado.",
+              "Envolva os chifres com solo, preencha a cova e marque o lugar para encontrar todos. Use a orientação indicada pelo protocolo local para evitar acúmulo de água nos chifres abertos.",
+              "Deixe durante o inverno. Na primavera, descubra com cuidado, confira a quantidade e esvazie cada chifre num recipiente limpo e identificado. Mantenha solo externo e fragmentos do envoltório fora do preparado.",
+              "Peça a avaliação do primeiro lote a alguém experiente. O material maturado costuma ser escuro, coeso e terroso; material reconhecivelmente cru, verde ou com forte cheiro de esterco exige nova avaliação. Cor e cheiro são observações de qualidade, não testes de patógenos."
+            ]
+          }
+        },
+        {
+          "id": "storage",
+          "title": {
+            "en": "Store the concentrate, not a diluted spray",
+            "pt": "Armazene o concentrado, não a calda diluída"
+          },
+          "paragraphs": {
+            "en": [
+              "Keep the recovered material cool, dark and moist in its own labelled non-food container, protected from drying, freezing and contamination. Do not leave it in a sunlit window with 501. Follow the maker’s lid and storage-box instructions. Write down the retrieval date and inspect regularly. The shared storage page distinguishes moisture from waterlogging."
+            ],
+            "pt": [
+              "Mantenha o material recuperado fresco, escuro e úmido num recipiente próprio, identificado e sem uso alimentar, protegido de ressecamento, congelamento e contaminação. Não o deixe numa janela ensolarada com o 501. Siga as instruções do elaborador para tampa e caixa de armazenamento. Anote a data de retirada e inspecione regularmente. A página comum de armazenamento distingue umidade de encharcamento."
+            ]
+          }
+        },
+        {
+          "id": "application",
+          "title": {
+            "en": "How and when to apply",
+            "pt": "Como e quando aplicar"
+          },
+          "steps": {
+            "en": [
+              "Check that 500 is suitable for the intended food-crop use and observe applicable manure-derived-input restrictions. Keep it off edible plant surfaces.",
+              "Measure the treated area and use the application guide’s clearly identified metric example or the actual supplier’s directions. Do not translate a spoonful into grams without knowing the material’s density.",
+              "Add the measured concentrate to clean, mildly warm water in a roomy vessel. Stir with repeated vortex formation and reversal for one full hour. Filter for the nozzle after stirring.",
+              "Apply promptly to soil in coarse droplets, preferably late afternoon or early evening when soil is moist and conditions allow coverage without drift or runoff. Typical opportunities are soil preparation, sowing, planting and the start or end of the growing season.",
+              "Use the target and carrier-water volume to calibrate the equipment. The aim is even soil coverage, not washing the plants or irrigating the plot. If heavy rain, frozen ground, drought or saturated soil make the application unsuitable, choose a better window."
+            ],
+            "pt": [
+              "Confira se o 500 é apropriado para o uso pretendido na cultura alimentar e observe as restrições aplicáveis a insumos derivados de esterco. Mantenha-o fora das superfícies comestíveis das plantas.",
+              "Meça a área tratada e use o exemplo métrico claramente identificado no guia de aplicação ou as instruções do fornecedor efetivo. Não converta uma colherada em gramas sem conhecer a densidade do material.",
+              "Acrescente o concentrado medido à água limpa e levemente morna num recipiente espaçoso. Agite durante uma hora completa, formando e invertendo repetidamente o vórtice. Depois da agitação, filtre conforme o bico.",
+              "Aplique prontamente no solo em gotas grossas, de preferência no fim da tarde ou começo da noite, com solo úmido e condições que permitam cobertura sem deriva ou escoamento. Oportunidades típicas são preparo do solo, semeadura, plantio e início ou fim do ciclo de crescimento.",
+              "Use alvo e volume de água para calibrar o equipamento. O objetivo é cobertura uniforme do solo, não lavar plantas ou irrigar a área. Se chuva forte, solo congelado, seca ou saturação tornarem a aplicação inadequada, escolha outra janela."
+            ]
+          }
+        },
+        {
+          "id": "example",
+          "title": {
+            "en": "Worked decision: a dry seedbed",
+            "pt": "Decisão comentada: um canteiro seco"
+          },
+          "paragraphs": {
+            "en": [
+              "If a seedbed is powder-dry, choosing the right calendar symbol does not solve the moisture problem. First address soil and water conditions. Then calculate the dose for the actual area and plan a suitable evening application. Do not double the preparation because the soil is dry or omit ordinary organic-material management."
+            ],
+            "pt": [
+              "Se um canteiro está seco e pulverulento, escolher o símbolo certo do calendário não resolve o problema de umidade. Primeiro, cuide das condições do solo e da água. Depois, calcule a dose para a área real e planeje uma aplicação adequada ao entardecer. Não dobre o preparado porque o solo está seco nem omita o manejo habitual da matéria orgânica."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "501",
+      "title": {
+        "en": "501: horn silica — making and foliar application",
+        "pt": "501: sílica de chifre — elaboração e aplicação foliar"
+      },
+      "lead": {
+        "en": "Quartz in a cow horn is exposed through the local summer. Its very small application dose is used as a fine mist on established plant growth.",
+        "pt": "Quartzo num chifre de vaca é exposto durante o verão local. Sua dose muito pequena é aplicada como névoa fina sobre plantas estabelecidas."
+      },
+      "sources": [
+        "books",
+        "abd501",
+        "jpi501",
+        "storage",
+        "silica"
+      ],
+      "sections": [
+        {
+          "id": "materials",
+          "title": {
+            "en": "Use the right mineral and control dust",
+            "pt": "Use o mineral correto e controle a poeira"
+          },
+          "paragraphs": {
+            "en": [
+              "The classical material is finely ground quartz, not sand of unknown composition, lime or diatomaceous earth. Steiner also mentions orthoclase, but a mineral substitution changes the recipe and should not be made casually. Horn silica is intended as the plant-side complement to horn manure; its proposed light-related role does not make it a general nutrient spray.",
+              "For a beginner, obtain mature 501 or professionally prepared quartz paste through an experienced making group. Grinding, transferring and cleaning up dry quartz can create respirable crystalline silica. The traditional method is described below, but this guide does not turn uncontrolled dry grinding into a home exercise. Use dust-controlled equipment and appropriate occupational guidance."
+            ],
+            "pt": [
+              "O material clássico é quartzo finamente moído, não areia de composição desconhecida, cal ou terra de diatomáceas. Steiner também menciona ortoclásio, mas uma substituição mineral muda a receita e não deve ser casual. A sílica de chifre é concebida como complemento do esterco de chifre pelo lado da planta; sua função proposta em relação à luz não a torna um adubo foliar geral.",
+              "Para quem começa, obtenha 501 maturado ou pasta de quartzo preparada profissionalmente por meio de um grupo experiente. Moagem, transferência e limpeza de quartzo seco podem produzir sílica cristalina respirável. O método tradicional é descrito abaixo, mas o guia não transforma moagem a seco sem controle numa atividade doméstica. Use equipamento com controle de poeira e orientação ocupacional apropriada."
+            ]
+          }
+        },
+        {
+          "id": "making",
+          "title": {
+            "en": "Make the summer preparation",
+            "pt": "Elabore o preparado de verão"
+          },
+          "steps": {
+            "en": [
+              "Use an intact, prepared cow horn reserved for the batch and accurately identified finely ground quartz. Keep the mineral wet during the appropriate controlled preparation process.",
+              "Mix the quartz with clean water into the thin paste described in the book. Fill the horn consistently. Let the maker assess settling, excess water and how the opening is secured; these details vary between making methods.",
+              "Bury for the local summer at the group’s marked, well-drained site. This reverses 500’s winter exposure. Keep a separate record so 500 and 501 horns are not confused.",
+              "Retrieve in autumn. Recover the mineral without adding outside soil or fragments of horn. Label it 501 with making and retrieval dates.",
+              "Store the finished mineral dry according to the maker’s instructions, generally in a glass vessel in a light position. Retain dust precautions whenever handling dry material; dry storage is not a licence to disperse powder."
+            ],
+            "pt": [
+              "Use um chifre de vaca íntegro e preparado, reservado ao lote, e quartzo finamente moído com identificação correta. Mantenha o mineral úmido durante o processo controlado apropriado de elaboração.",
+              "Misture quartzo e água limpa para formar a pasta fina descrita no livro. Encha uniformemente o chifre. Peça ao elaborador que avalie decantação, excesso de água e fechamento da abertura; esses detalhes variam entre métodos.",
+              "Enterre durante o verão local no lugar marcado e bem drenado do grupo. Isso inverte a exposição de inverno do 500. Mantenha registro separado para não confundir chifres de 500 e 501.",
+              "Retire no outono. Recupere o mineral sem acrescentar solo externo ou fragmentos de chifre. Identifique-o como 501, com datas de elaboração e retirada.",
+              "Armazene o mineral pronto seco, conforme as instruções do elaborador, geralmente num recipiente de vidro em local iluminado. Mantenha os cuidados com poeira ao manipular material seco; armazenamento seco não autoriza dispersar o pó."
+            ]
+          }
+        },
+        {
+          "id": "application",
+          "title": {
+            "en": "Apply to established growth, in a suitable morning window",
+            "pt": "Aplique sobre plantas estabelecidas, numa manhã adequada"
+          },
+          "steps": {
+            "en": [
+              "Confirm the product and crop-specific instructions. Use after the soil-side 500 application in the practitioner sequence and when roots and leaf growth are established; a newly transplanted or stressed plant is not an automatic candidate.",
+              "Use a sufficiently precise balance for the metric example in the application guide. This is a very small quantity. Do not estimate by a household teaspoon when following a mass-based protocol.",
+              "Add the measured preparation to clean water and stir with alternating vortex and reversal for one hour. Filter without allowing the measured mineral to be lost as a large settled residue; follow the supplier’s mixing and filtering directions.",
+              "Spray promptly as a fine, evenly distributed mist over foliage in the early morning, using equipment calibrated for that mist. Avoid dripping saturation, drift and inhaling the spray.",
+              "Choose a calm window appropriate to the crop, with no impending frost or rain and no severe heat or water stress. Number of repeats depends on crop and protocol; do not turn “several applications” into a daily treatment rule."
+            ],
+            "pt": [
+              "Confira as instruções específicas do produto e da cultura. Na sequência dos praticantes, use após a aplicação de 500 no solo e quando raízes e folhas estiverem estabelecidas; uma planta recém-transplantada ou estressada não é candidata automática.",
+              "Use balança com precisão suficiente para o exemplo métrico do guia de aplicação. A quantidade é muito pequena. Não estime por uma colher de chá doméstica ao seguir um protocolo baseado em massa.",
+              "Acrescente o preparado medido à água limpa e agite por uma hora, alternando formação e inversão do vórtice. Filtre sem perder o mineral medido como grande resíduo decantado; siga as instruções do fornecedor para mistura e filtragem.",
+              "Pulverize prontamente como névoa fina e uniforme sobre a folhagem, com equipamento calibrado para isso. Evite saturação com escorrimento, deriva e inalação da névoa.",
+              "Escolha uma janela calma apropriada à cultura, sem geada ou chuva iminente nem calor ou estresse hídrico intensos. O número de repetições depende da cultura e do protocolo; não transforme várias aplicações numa regra de tratamento diário."
+            ]
+          }
+        },
+        {
+          "id": "example",
+          "title": {
+            "en": "Worked decision: the crop is newly transplanted",
+            "pt": "Decisão comentada: a cultura foi recém-transplantada"
+          },
+          "paragraphs": {
+            "en": [
+              "The morning may be calm, but crop stage is a separate condition. Give the plant time to establish and check the maker’s directions before choosing 501. Do not copy a neighbouring mature orchard’s spray programme onto nursery trees or young transplants. Early morning describes a window, not permission to ignore plant age or weather."
+            ],
+            "pt": [
+              "A manhã pode estar calma, mas a fase da cultura é outra condição. Dê tempo para a planta se estabelecer e confira as instruções do elaborador antes de escolher 501. Não copie o programa de um pomar adulto vizinho para árvores de viveiro ou mudas jovens. Manhã cedo descreve uma janela, não autorização para ignorar idade da planta ou condições meteorológicas."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "502",
+      "title": {
+        "en": "502: yarrow in a stag bladder",
+        "pt": "502: milefólio em bexiga de cervo"
+      },
+      "lead": {
+        "en": "Yarrow flowers pass through a summer exposure and then winter burial. The matured contents become a solid compost preparation.",
+        "pt": "Flores de milefólio passam por exposição de verão e depois por enterrio de inverno. O conteúdo maturado torna-se um preparado sólido de composto."
+      },
+      "sources": [
+        "books",
+        "demeter",
+        "storage"
+      ],
+      "sections": [
+        {
+          "id": "materials",
+          "title": {
+            "en": "Identify the plant and sheath",
+            "pt": "Identifique a planta e o envoltório"
+          },
+          "items": {
+            "en": [
+              "Yarrow flower heads, Achillea millefolium, positively identified and collected from a suitable uncontaminated site. Dry thinly in shade if they cannot be used at once.",
+              "A legally sourced stag bladder, prepared for this use by a knowledgeable maker; thread, filling tool, label and a protective hanging basket that admits light and air.",
+              "A marked winter burial site, batch log and separate storage jar for the final contents."
+            ],
+            "pt": [
+              "Inflorescências de milefólio, Achillea millefolium, identificadas com segurança e colhidas em local adequado e não contaminado. Se não forem usadas logo, seque em camada fina à sombra.",
+              "Bexiga de cervo obtida legalmente e preparada para esse uso por elaborador experiente; linha, utensílio de enchimento, etiqueta e cesto protetor que permita luz e ar.",
+              "Local marcado de enterrio de inverno, registro do lote e recipiente separado para o conteúdo pronto."
+            ]
+          }
+        },
+        {
+          "id": "making",
+          "title": {
+            "en": "Follow both phases",
+            "pt": "Acompanhe as duas fases"
+          },
+          "steps": {
+            "en": [
+              "Prepare the flowers and bladder with the making group. If the sheath is dried, soften it using the group’s procedure. Moisten dried flowers only as that procedure specifies; do not turn the contents into a soaking slurry.",
+              "Fill the bladder with flower heads, close the opening and label it. Keep enough structure to contain the flowers without tearing the sheath.",
+              "Hang in a protected, light and airy position through the local summer, guarding against pests, loss and destructive weather. Summer exposure is part of this method; it is not yet the final compost product.",
+              "In autumn, bury the filled bladder in the marked soil site through winter. Record its position and date so it can be recovered without cutting through it.",
+              "Lift in spring and separate the matured contents from soil and surviving sheath. Have the first batch assessed before storing and portioning it. Do not treat the fresh hanging flowers as finished 502."
+            ],
+            "pt": [
+              "Prepare flores e bexiga com o grupo de elaboração. Se o envoltório estiver seco, amoleça-o pelo procedimento do grupo. Umedeça flores secas apenas conforme esse procedimento; não transforme o conteúdo numa mistura encharcada.",
+              "Encha a bexiga com as inflorescências, feche a abertura e identifique. Preserve estrutura suficiente para conter as flores sem rasgar o envoltório.",
+              "Pendure em local protegido, iluminado e arejado durante o verão local, evitando pragas, perda e intempéries destrutivas. A exposição de verão faz parte do método; ainda não é o produto final para composto.",
+              "No outono, enterre a bexiga cheia no local marcado durante o inverno. Registre posição e data para retirá-la sem cortá-la.",
+              "Retire na primavera e separe o conteúdo maturado do solo e do envoltório restante. Peça a avaliação do primeiro lote antes de armazenar e dividir em porções. Não trate as flores frescas penduradas como 502 pronto."
+            ]
+          }
+        },
+        {
+          "id": "application",
+          "title": {
+            "en": "How and when to use the finished preparation",
+            "pt": "Como e quando usar o preparado pronto"
+          },
+          "paragraphs": {
+            "en": [
+              "The source links this preparation with sulfur and potassium relationships. That intended role explains its place in the set; the method is more specific than putting a yarrow plant beside a heap.",
+              "Use the finished material as one member of the complete 502–507 set in newly assembled manure or compost, following the shared compost-placement guide. Keep the five solids separate until each is placed in its own position. The quantity is a measured small addition, not a layer of raw flowers or bark. Do not give this solid an hour of stirring or spray it directly over vegetables.",
+              "Store a reserve separately, cool, dark and moist under the maker’s directions. Record the batch, retrieval date and pile receiving it. The month of manufacture is different from the time of compost application: a finished stored preparation can be used when a suitable new pile is assembled."
+            ],
+            "pt": [
+              "A fonte relaciona este preparado a relações entre enxofre e potássio. Essa função pretendida explica seu lugar no conjunto; o método é mais específico que colocar uma planta de milefólio ao lado da pilha.",
+              "Use o material pronto como um membro do conjunto completo 502–507 em esterco ou composto recém-organizado, seguindo o guia comum de inserção no composto. Mantenha os cinco sólidos separados até colocar cada um em sua posição. A quantidade é um pequeno acréscimo medido, não uma camada de flores ou casca cruas. Não agite esse sólido por uma hora nem o pulverize diretamente nas hortaliças.",
+              "Guarde a reserva separadamente, fresca, escura e úmida, conforme o elaborador. Registre lote, data de retirada e pilha que o recebe. O mês de elaboração difere da época de aplicação no composto: um preparado pronto e armazenado pode ser usado quando se monta uma nova pilha adequada."
+            ]
+          }
+        },
+        {
+          "id": "example",
+          "title": {
+            "en": "Common mistake: stopping after summer",
+            "pt": "Erro comum: terminar depois do verão"
+          },
+          "paragraphs": {
+            "en": [
+              "A dry, flower-filled bladder after summer has completed only the first phase. Label the next task as winter burial, not compost application. The two-season sequence is the distinguishing making process."
+            ],
+            "pt": [
+              "Uma bexiga seca com flores após o verão completou apenas a primeira fase. Identifique a próxima tarefa como enterrio de inverno, não aplicação no composto. A sequência de duas estações caracteriza a elaboração."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "503",
+      "title": {
+        "en": "503: chamomile in cattle intestine",
+        "pt": "503: camomila em intestino bovino"
+      },
+      "lead": {
+        "en": "Identified chamomile flowers are enclosed in prepared cattle intestine and matured through winter burial.",
+        "pt": "Flores de camomila identificadas são envolvidas em intestino bovino preparado e maturadas por enterrio durante o inverno."
+      },
+      "sources": [
+        "books",
+        "demeter",
+        "storage"
+      ],
+      "sections": [
+        {
+          "id": "materials",
+          "title": {
+            "en": "Use flowers and the correct casing",
+            "pt": "Use flores e o envoltório correto"
+          },
+          "items": {
+            "en": [
+              "German chamomile, Matricaria chamomilla, also known as M. recutita, with the flower heads collected and gently dried if required. Do not choose a lookalike by common name alone.",
+              "Prepared cattle intestine from a traceable, permitted source, together with tying thread and a suitable filling tool. Obtain the casing already prepared for this purpose; handling an unprocessed organ is not needed for a first application lesson.",
+              "A labelled, protected burial location and a separate storage vessel."
+            ],
+            "pt": [
+              "Camomila-alemã, Matricaria chamomilla, também conhecida como M. recutita, com capítulos florais colhidos e suavemente secos quando necessário. Não escolha uma espécie parecida apenas pelo nome popular.",
+              "Intestino bovino preparado, de fonte rastreável e permitida, além de linha e utensílio adequado de enchimento. Obtenha o envoltório já preparado para essa finalidade; manipular órgão não processado não é necessário para a primeira aprendizagem de aplicação.",
+              "Local de enterrio identificado e protegido e recipiente separado de armazenamento."
+            ]
+          }
+        },
+        {
+          "id": "making",
+          "title": {
+            "en": "Make and bury the flower-filled casing",
+            "pt": "Elabore e enterre o envoltório com flores"
+          },
+          "steps": {
+            "en": [
+              "Check the plant identity and remove foreign material. Follow the group’s procedure for moistening dried flower heads so they can be packed without becoming a wet slurry.",
+              "Prepare a manageable length of casing, tie one end and fill with the flowers. Distribute the contents evenly; avoid both loose air pockets and overfilling that splits the tissue.",
+              "Close the other end, attach a durable identification record and place in the protected burial site in autumn.",
+              "Cover with suitable soil and leave through winter. The site should permit transformation without flooding, disturbance by animals or roots growing through the contents.",
+              "Recover in spring, keeping each batch separate. Remove outside soil and remaining sheath, assess the matured contents and place in the 503 storage jar. Record any batch that is incomplete rather than silently mixing it with sound material."
+            ],
+            "pt": [
+              "Confira a espécie e retire material estranho. Siga o procedimento do grupo para umedecer capítulos secos, permitindo enchimento sem produzir uma mistura encharcada.",
+              "Prepare um comprimento manejável de envoltório, amarre uma ponta e encha com flores. Distribua o conteúdo uniformemente; evite bolsas de ar e enchimento excessivo que rompa o tecido.",
+              "Feche a outra ponta, associe um registro durável de identificação e coloque no local protegido de enterrio no outono.",
+              "Cubra com solo adequado e deixe durante o inverno. O lugar deve permitir transformação sem inundação, perturbação por animais ou raízes atravessando o conteúdo.",
+              "Retire na primavera, mantendo lotes separados. Remova solo externo e restos do envoltório, avalie o conteúdo maturado e coloque no recipiente de 503. Registre lotes incompletos em vez de misturá-los silenciosamente com material em boas condições."
+            ]
+          }
+        },
+        {
+          "id": "application",
+          "title": {
+            "en": "How and when to use the finished preparation",
+            "pt": "Como e quando usar o preparado pronto"
+          },
+          "paragraphs": {
+            "en": [
+              "Steiner assigns chamomile a relationship with calcium, sulfur, potassium and retention of nitrogen in manure. The preparation is not the same as chamomile tea poured over soil.",
+              "Use the finished material as one member of the complete 502–507 set in newly assembled manure or compost, following the shared compost-placement guide. Keep the five solids separate until each is placed in its own position. The quantity is a measured small addition, not a layer of raw flowers or bark. Do not give this solid an hour of stirring or spray it directly over vegetables.",
+              "Store a reserve separately, cool, dark and moist under the maker’s directions. Record the batch, retrieval date and pile receiving it. The month of manufacture is different from the time of compost application: a finished stored preparation can be used when a suitable new pile is assembled."
+            ],
+            "pt": [
+              "Steiner atribui à camomila uma relação com cálcio, enxofre, potássio e retenção de nitrogênio no esterco. O preparado não é o mesmo que chá de camomila despejado no solo.",
+              "Use o material pronto como um membro do conjunto completo 502–507 em esterco ou composto recém-organizado, seguindo o guia comum de inserção no composto. Mantenha os cinco sólidos separados até colocar cada um em sua posição. A quantidade é um pequeno acréscimo medido, não uma camada de flores ou casca cruas. Não agite esse sólido por uma hora nem o pulverize diretamente nas hortaliças.",
+              "Guarde a reserva separadamente, fresca, escura e úmida, conforme o elaborador. Registre lote, data de retirada e pilha que o recebe. O mês de elaboração difere da época de aplicação no composto: um preparado pronto e armazenado pode ser usado quando se monta uma nova pilha adequada."
+            ]
+          }
+        },
+        {
+          "id": "example",
+          "title": {
+            "en": "Common mistake: confusing the flower with the preparation",
+            "pt": "Erro comum: confundir flor e preparado"
+          },
+          "paragraphs": {
+            "en": [
+              "A bag of dried chamomile is a making ingredient. A packet of mature 503 contains material that has passed through the enclosing and burial process. Read the label before calculating a compost addition."
+            ],
+            "pt": [
+              "Um saco de camomila seca é um ingrediente de elaboração. Um pacote de 503 maturado contém material que passou pelo envoltório e pelo enterrio. Leia o rótulo antes de calcular o acréscimo ao composto."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "504",
+      "title": {
+        "en": "504: nettle — the full-year preparation",
+        "pt": "504: urtiga — o preparado de um ano inteiro"
+      },
+      "lead": {
+        "en": "Nettle is the classical compost preparation without an animal sheath. Its distinguishing maturation period is a full year underground.",
+        "pt": "A urtiga é o preparado clássico de composto sem envoltório animal. Seu período característico de maturação é um ano inteiro sob o solo."
+      },
+      "sources": [
+        "books",
+        "storage"
+      ],
+      "sections": [
+        {
+          "id": "materials",
+          "title": {
+            "en": "Harvest the suitable above-ground material",
+            "pt": "Colha a parte aérea adequada"
+          },
+          "items": {
+            "en": [
+              "Identified stinging nettle, classically Urtica dioica, harvested around the beginning of flowering. Use above-ground material, removing roots and coarse unwanted matter. Regional nettle substitutions require a knowledgeable local maker.",
+              "Protective gloves and clean cutting tools. Dry material, if used, needs the making group’s specified moistening procedure.",
+              "A retrievable soil-contact arrangement that keeps the nettles identifiable and separates them from surrounding soil; the book describes a peat surround. A labelled marker and separate storage jar complete the record."
+            ],
+            "pt": [
+              "Urtiga identificada, classicamente Urtica dioica, colhida próximo ao início da floração. Use a parte aérea, retirando raízes e material grosseiro indesejado. Substituições por urtigas regionais exigem elaborador local experiente.",
+              "Luvas de proteção e utensílios limpos de corte. Se usar material seco, aplique o procedimento de umedecimento indicado pelo grupo.",
+              "Arranjo recuperável de contato com o solo que mantenha as urtigas identificáveis e separadas da terra ao redor; o livro descreve um envolvimento com turfa. Marcador identificado e recipiente separado completam o registro."
+            ]
+          }
+        },
+        {
+          "id": "making",
+          "title": {
+            "en": "Allow the complete year",
+            "pt": "Respeite o ano completo"
+          },
+          "steps": {
+            "en": [
+              "Harvest and sort the plant, using gloves to avoid stings. Chop or arrange the material so it packs evenly and can later be recovered.",
+              "Prepare the marked site and the group’s retrievable container or separation layer. Pack nettle material consistently. No bladder, intestine, skull or mesentery is added.",
+              "Bury and record the exact date, location and quantity. Keep surrounding insulation or soil out of the plant material as far as the chosen method allows.",
+              "Leave for a whole year, through both summer and winter. Make the next annual batch before relying on the current one being ready; this prevents a gap in supply.",
+              "Recover after the annual cycle and assess. The remaining amount may be much smaller than the original plant bulk. Remove outside material and store the dark matured contents as 504; some stems may remain identifiable."
+            ],
+            "pt": [
+              "Colha e selecione a planta usando luvas para evitar urticância. Corte ou organize o material para enchimento uniforme e retirada posterior.",
+              "Prepare o local marcado e o recipiente recuperável ou camada de separação do grupo. Acondicione uniformemente as urtigas. Não acrescente bexiga, intestino, crânio ou mesentério.",
+              "Enterre e registre data exata, posição e quantidade. Mantenha material isolante ou solo externo fora da massa vegetal tanto quanto o método escolhido permita.",
+              "Deixe um ano inteiro, atravessando verão e inverno. Planeje o próximo lote anual antes de depender da disponibilidade do atual; isso evita faltar material.",
+              "Retire após o ciclo anual e avalie. A quantidade restante pode ser muito menor que o volume vegetal inicial. Remova material externo e guarde o conteúdo escuro e maturado como 504; alguns caules podem permanecer reconhecíveis."
+            ]
+          }
+        },
+        {
+          "id": "application",
+          "title": {
+            "en": "How and when to use the finished preparation",
+            "pt": "Como e quando usar o preparado pronto"
+          },
+          "paragraphs": {
+            "en": [
+              "The source assigns nettle a regulating role in decomposition and nitrogen retention. “Intelligent soil” describes the proposed responsiveness to different plants, not human consciousness in the heap.",
+              "Use the finished material as one member of the complete 502–507 set in newly assembled manure or compost, following the shared compost-placement guide. Keep the five solids separate until each is placed in its own position. The quantity is a measured small addition, not a layer of raw flowers or bark. Do not give this solid an hour of stirring or spray it directly over vegetables.",
+              "Store a reserve separately, cool, dark and moist under the maker’s directions. Record the batch, retrieval date and pile receiving it. The month of manufacture is different from the time of compost application: a finished stored preparation can be used when a suitable new pile is assembled."
+            ],
+            "pt": [
+              "A fonte atribui à urtiga função reguladora da decomposição e da retenção de nitrogênio. Solo inteligente descreve a receptividade proposta a plantas diferentes, não uma consciência humana na pilha.",
+              "Use o material pronto como um membro do conjunto completo 502–507 em esterco ou composto recém-organizado, seguindo o guia comum de inserção no composto. Mantenha os cinco sólidos separados até colocar cada um em sua posição. A quantidade é um pequeno acréscimo medido, não uma camada de flores ou casca cruas. Não agite esse sólido por uma hora nem o pulverize diretamente nas hortaliças.",
+              "Guarde a reserva separadamente, fresca, escura e úmida, conforme o elaborador. Registre lote, data de retirada e pilha que o recebe. O mês de elaboração difere da época de aplicação no composto: um preparado pronto e armazenado pode ser usado quando se monta uma nova pilha adequada."
+            ]
+          }
+        },
+        {
+          "id": "example",
+          "title": {
+            "en": "Common mistake: substituting liquid nettle feed",
+            "pt": "Erro comum: substituir por adubo líquido de urtiga"
+          },
+          "paragraphs": {
+            "en": [
+              "Nettle soaked in a barrel to make a liquid plant feed is a different product. It has not passed through 504’s year underground. Do not use the same name, dose or storage record for the two."
+            ],
+            "pt": [
+              "Urtiga deixada num barril para produzir adubo líquido é outro produto. Não passou pelo ano de enterrio do 504. Não use o mesmo nome, dose ou registro de armazenamento para ambos."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "505",
+      "title": {
+        "en": "505: oak bark in a prepared animal skull",
+        "pt": "505: casca de carvalho em crânio animal preparado"
+      },
+      "lead": {
+        "en": "The classical method encloses crushed oak bark in a skull and exposes it to a wet, organic environment through winter. This requires a controlled making site.",
+        "pt": "O método clássico envolve casca de carvalho triturada num crânio e a expõe a um ambiente úmido e orgânico durante o inverno. Exige um local controlado de elaboração."
+      },
+      "sources": [
+        "books",
+        "demeter",
+        "storage",
+        "fda"
+      ],
+      "sections": [
+        {
+          "id": "materials",
+          "title": {
+            "en": "Choose traceable material and a contained site",
+            "pt": "Escolha material rastreável e local com contenção"
+          },
+          "paragraphs": {
+            "en": [
+              "The book names Quercus robur bark and a domestic-animal skull. Obtain identified bark from a suitable supplier or trained collector without damaging a living tree by ring-barking it. The bark is reduced to small particles; it is not an oak-leaf infusion.",
+              "Use a lawfully sourced skull professionally prepared for this work. Historical accounts discuss the brain cavity and its lining, while later preparation and animal-by-product procedures differ. Do not use a found carcass or remove brain tissue yourself. A local preparation group should supply and handle the appropriate sheath and disposal procedure.",
+              "The winter environment is deliberately wet and rich in decomposing plant matter. Choose a contained, protected preparation-making arrangement that prevents contamination of wells, streams and irrigation water. The historical reference to a swamp-like place is not permission to put animal materials into a public watercourse."
+            ],
+            "pt": [
+              "O livro nomeia casca de Quercus robur e crânio de animal doméstico. Obtenha casca identificada de fornecedor adequado ou coletor treinado, sem danificar árvore viva retirando um anel de casca. Reduza-a a partículas pequenas; não se trata de infusão de folhas de carvalho.",
+              "Use crânio de origem legal, preparado profissionalmente para esse trabalho. Relatos históricos discutem a cavidade cerebral e seu revestimento, enquanto procedimentos posteriores de elaboração e subprodutos animais diferem. Não use carcaça encontrada nem remova tecido cerebral por conta própria. Um grupo local deve fornecer e manejar o envoltório apropriado e o procedimento de descarte.",
+              "O ambiente de inverno é deliberadamente úmido e rico em matéria vegetal em decomposição. Escolha um arranjo contido e protegido de elaboração que evite contaminar poços, cursos d’água e irrigação. A referência histórica a lugar pantanoso não autoriza colocar materiais animais num curso d’água público."
+            ]
+          }
+        },
+        {
+          "id": "making",
+          "title": {
+            "en": "Fill, expose and recover through the group’s protocol",
+            "pt": "Encha, exponha e retire pelo protocolo do grupo"
+          },
+          "steps": {
+            "en": [
+              "Identify the oak bark, prepare the particles and document the skull source. Prepare the container or wet pit before opening or filling the sheath.",
+              "Under the trained maker’s procedure, pack the bark into the prepared cranial cavity and secure the openings so contents remain identifiable and recoverable.",
+              "Place in the controlled wet organic environment in autumn. Maintain the intended moisture relationship through winter without allowing uncontrolled escape of animal residues or contaminated water.",
+              "Retrieve in spring using dedicated tools and gloves. Recover the transformed bark separately from skull fragments and outside material.",
+              "Let the experienced maker assess the batch and any required conditioning before storage. Keep the batch identity and arrange lawful disposal or permitted reuse of the remaining sheath. Strong odour is not a test of either efficacy or food safety."
+            ],
+            "pt": [
+              "Identifique a casca, prepare as partículas e documente a origem do crânio. Prepare recipiente ou cova úmida antes de abrir ou encher o envoltório.",
+              "Pelo procedimento do elaborador treinado, acondicione a casca na cavidade craniana preparada e prenda as aberturas para manter o conteúdo identificável e recuperável.",
+              "Coloque no ambiente orgânico úmido controlado no outono. Mantenha a relação de umidade pretendida durante o inverno, sem liberação descontrolada de resíduos animais ou água contaminada.",
+              "Retire na primavera com utensílios exclusivos e luvas. Recupere a casca transformada separadamente de fragmentos de crânio e material externo.",
+              "Peça ao elaborador experiente que avalie o lote e o condicionamento necessário antes do armazenamento. Preserve a identificação e providencie descarte legal ou reutilização permitida do envoltório restante. Odor forte não testa eficácia nem segurança alimentar."
+            ]
+          }
+        },
+        {
+          "id": "application",
+          "title": {
+            "en": "How and when to use the finished preparation",
+            "pt": "Como e quando usar o preparado pronto"
+          },
+          "paragraphs": {
+            "en": [
+              "Steiner assigns oak bark a calcium-related moderation of excessive etheric activity. This is the intended role in the set, not a diagnosis or a demonstrated cure for every plant disease.",
+              "Use the finished material as one member of the complete 502–507 set in newly assembled manure or compost, following the shared compost-placement guide. Keep the five solids separate until each is placed in its own position. The quantity is a measured small addition, not a layer of raw flowers or bark. Do not give this solid an hour of stirring or spray it directly over vegetables.",
+              "Store a reserve separately, cool, dark and moist under the maker’s directions. Record the batch, retrieval date and pile receiving it. The month of manufacture is different from the time of compost application: a finished stored preparation can be used when a suitable new pile is assembled."
+            ],
+            "pt": [
+              "Steiner atribui à casca de carvalho moderação ligada ao cálcio sobre atividade etérica excessiva. Essa é a função pretendida no conjunto, não um diagnóstico nem uma cura demonstrada para toda doença vegetal.",
+              "Use o material pronto como um membro do conjunto completo 502–507 em esterco ou composto recém-organizado, seguindo o guia comum de inserção no composto. Mantenha os cinco sólidos separados até colocar cada um em sua posição. A quantidade é um pequeno acréscimo medido, não uma camada de flores ou casca cruas. Não agite esse sólido por uma hora nem o pulverize diretamente nas hortaliças.",
+              "Guarde a reserva separadamente, fresca, escura e úmida, conforme o elaborador. Registre lote, data de retirada e pilha que o recebe. O mês de elaboração difere da época de aplicação no composto: um preparado pronto e armazenado pode ser usado quando se monta uma nova pilha adequada."
+            ]
+          }
+        },
+        {
+          "id": "example",
+          "title": {
+            "en": "First-season choice",
+            "pt": "Escolha para a primeira estação"
+          },
+          "paragraphs": {
+            "en": [
+              "If you do not have a suitable making group and contained site, obtain mature 505 and learn compost placement first. This still teaches its actual application. Improvising with an unidentified skull beside a stream does not make the classical method more faithful."
+            ],
+            "pt": [
+              "Se não dispõe de grupo adequado e local com contenção, obtenha 505 maturado e aprenda primeiro a inserção no composto. Isso ainda ensina sua aplicação real. Improvisar com crânio sem identificação ao lado de um curso d’água não torna o método clássico mais fiel."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "506",
+      "title": {
+        "en": "506: dandelion in bovine mesentery",
+        "pt": "506: dente-de-leão em mesentério bovino"
+      },
+      "lead": {
+        "en": "Dandelion flowers are wrapped in the specified bovine membrane and matured through winter burial. The membrane is not the stomach lining called tripe.",
+        "pt": "Flores de dente-de-leão são envolvidas na membrana bovina especificada e maturadas por enterrio de inverno. Essa membrana não é o revestimento do estômago conhecido como bucho."
+      },
+      "sources": [
+        "books",
+        "demeter",
+        "storage"
+      ],
+      "sections": [
+        {
+          "id": "materials",
+          "title": {
+            "en": "Identify flower and membrane separately",
+            "pt": "Identifique flor e membrana separadamente"
+          },
+          "items": {
+            "en": [
+              "Dandelion flowers, classically Taraxacum officinale, accurately identified and harvested at an appropriate flowering stage. Use clean, sound flowers and dry them gently if needed.",
+              "Prepared bovine mesentery or the membrane specified by the chosen making tradition, from a permitted traceable source. The supplied edition notes uncertainty over the exact portion: record what the maker actually uses.",
+              "Thread, a label, dedicated tools, a protected winter burial location and a separate storage jar."
+            ],
+            "pt": [
+              "Flores de dente-de-leão, classicamente Taraxacum officinale, corretamente identificadas e colhidas em fase adequada da floração. Use flores limpas e íntegras e seque suavemente quando necessário.",
+              "Mesentério bovino preparado ou a membrana especificada pela tradição escolhida, de fonte permitida e rastreável. A edição fornecida ressalva incerteza sobre a porção exata: registre o que o elaborador efetivamente usa.",
+              "Linha, identificação, utensílios exclusivos, lugar protegido para enterrio de inverno e recipiente separado de armazenamento."
+            ]
+          }
+        },
+        {
+          "id": "making",
+          "title": {
+            "en": "Form the flower parcel",
+            "pt": "Forme o pacote de flores"
+          },
+          "steps": {
+            "en": [
+              "Prepare flowers and membrane by the group’s established procedure. If dried flowers are moistened before filling, use only the amount needed for that method rather than making a watery mass.",
+              "Lay out the prepared membrane, place the flowers inside and fold it into a contained parcel. Secure with thread so the contents remain together during burial.",
+              "Label and bury in autumn in the marked fertile-soil location. Protect it from animal disturbance, flooding and invasive roots.",
+              "Leave through the local winter and retrieve in spring. Locate the parcel from the site record rather than probing blindly through it.",
+              "Separate the matured flower material from outside soil and surviving membrane. Assess and store as 506. Keep an incomplete or questionable batch separate for review rather than adding it to the established supply."
+            ],
+            "pt": [
+              "Prepare flores e membrana pelo procedimento estabelecido do grupo. Se flores secas forem umedecidas antes do enchimento, use apenas o necessário para o método, sem produzir massa aguada.",
+              "Estenda a membrana preparada, coloque as flores e dobre formando pacote contido. Prenda com linha para manter o conteúdo unido durante o enterrio.",
+              "Identifique e enterre no outono no lugar marcado de solo fértil. Proteja de perturbação por animais, inundação e raízes invasoras.",
+              "Deixe durante o inverno local e retire na primavera. Localize o pacote pelo registro do lugar em vez de perfurá-lo às cegas.",
+              "Separe o material floral maturado de solo externo e membrana restante. Avalie e armazene como 506. Mantenha lotes incompletos ou duvidosos separados para avaliação, sem juntá-los à reserva estabelecida."
+            ]
+          }
+        },
+        {
+          "id": "application",
+          "title": {
+            "en": "How and when to use the finished preparation",
+            "pt": "Como e quando usar o preparado pronto"
+          },
+          "paragraphs": {
+            "en": [
+              "The source relates this preparation to silica and potassium reception. Its membrane and seasonal process distinguish it from raw dandelion leaves, root tea or an ordinary compost ingredient.",
+              "Use the finished material as one member of the complete 502–507 set in newly assembled manure or compost, following the shared compost-placement guide. Keep the five solids separate until each is placed in its own position. The quantity is a measured small addition, not a layer of raw flowers or bark. Do not give this solid an hour of stirring or spray it directly over vegetables.",
+              "Store a reserve separately, cool, dark and moist under the maker’s directions. Record the batch, retrieval date and pile receiving it. The month of manufacture is different from the time of compost application: a finished stored preparation can be used when a suitable new pile is assembled."
+            ],
+            "pt": [
+              "A fonte relaciona este preparado à recepção de sílica e potássio. Sua membrana e seu processo sazonal o distinguem de folhas cruas de dente-de-leão, chá da raiz ou ingrediente comum de composto.",
+              "Use o material pronto como um membro do conjunto completo 502–507 em esterco ou composto recém-organizado, seguindo o guia comum de inserção no composto. Mantenha os cinco sólidos separados até colocar cada um em sua posição. A quantidade é um pequeno acréscimo medido, não uma camada de flores ou casca cruas. Não agite esse sólido por uma hora nem o pulverize diretamente nas hortaliças.",
+              "Guarde a reserva separadamente, fresca, escura e úmida, conforme o elaborador. Registre lote, data de retirada e pilha que o recebe. O mês de elaboração difere da época de aplicação no composto: um preparado pronto e armazenado pode ser usado quando se monta uma nova pilha adequada."
+            ]
+          }
+        },
+        {
+          "id": "example",
+          "title": {
+            "en": "Common mistake: substituting tripe",
+            "pt": "Erro comum: substituir por bucho"
+          },
+          "paragraphs": {
+            "en": [
+              "Tripe and mesentery are anatomically different. Ask the maker to identify the sheath and write it into the batch record. A local variation should be named as a variation, not silently presented as the book’s exact specification."
+            ],
+            "pt": [
+              "Bucho e mesentério são estruturas anatomicamente diferentes. Peça ao elaborador que identifique o envoltório e anote no registro do lote. Uma variação local deve ser identificada como variação, não apresentada silenciosamente como especificação exata do livro."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "507",
+      "title": {
+        "en": "507: valerian flower liquid",
+        "pt": "507: líquido de flores de valeriana"
+      },
+      "lead": {
+        "en": "Valerian is the liquid member of the compost set. It is made from flowers, not valerian-root medicine, and it is not buried in an animal organ.",
+        "pt": "A valeriana é o membro líquido do conjunto de composto. É elaborada com flores, não com medicamento de raiz de valeriana, e não é enterrada em órgão animal."
+      },
+      "sources": [
+        "books",
+        "jpicompost",
+        "storage"
+      ],
+      "sections": [
+        {
+          "id": "materials",
+          "title": {
+            "en": "Begin with the flower method",
+            "pt": "Comece pelo método das flores"
+          },
+          "paragraphs": {
+            "en": [
+              "Use correctly identified Valeriana officinalis flowers and clean, dedicated crushing, pressing, straining and bottling equipment. Root tinctures sold for human use are not interchangeable with 507. The supplied introduction describes flower juice allowed to ferment for a few weeks; later makers use several extraction methods. Record whether a batch is pressed juice or a specified water extraction, because the resulting concentrations may differ."
+            ],
+            "pt": [
+              "Use flores corretamente identificadas de Valeriana officinalis e equipamento limpo e exclusivo para triturar, prensar, filtrar e engarrafar. Tinturas de raiz vendidas para uso humano não são intercambiáveis com 507. A introdução fornecida descreve suco das flores fermentado por algumas semanas; elaboradores posteriores usam vários métodos de extração. Registre se o lote é suco prensado ou uma extração aquosa especificada, pois as concentrações podem diferir."
+            ]
+          }
+        },
+        {
+          "id": "making",
+          "title": {
+            "en": "A classical pressed-flower route",
+            "pt": "Um percurso clássico de prensagem das flores"
+          },
+          "steps": {
+            "en": [
+              "Collect sound flowers from an identified clean source and remove stems or foreign material according to the maker’s method. Work promptly so a heap of flowers does not heat and spoil.",
+              "Crush the flowers with dedicated clean equipment and press out the juice. Strain into a labelled non-food vessel, recording flower source, date and yield.",
+              "Use the maker’s controlled fermentation procedure. Keep the vessel protected and cool, and permit fermentation gas to escape safely. Do not seal an actively fermenting batch in a rigid airtight bottle.",
+              "The book’s few weeks is a broad indication, not a universal finished-on-day-21 specification. Temperature, extraction and batch condition matter. Have a first batch assessed before use.",
+              "Once the process is complete and gas production has ceased, transfer to the maker’s specified labelled storage bottle, generally brown glass in a cool dark place. Follow directions about headspace and closure. Recheck for renewed pressure and contamination."
+            ],
+            "pt": [
+              "Colha flores íntegras de fonte limpa e identificada e retire caules ou material estranho conforme o método. Trabalhe prontamente para evitar aquecimento e deterioração de flores amontoadas.",
+              "Triture as flores com equipamento exclusivo e limpo e prense o suco. Filtre para um recipiente identificado e sem uso alimentar, registrando origem, data e rendimento.",
+              "Use o procedimento controlado de fermentação do elaborador. Mantenha o recipiente protegido e fresco e permita saída segura dos gases. Não feche lote em fermentação ativa numa garrafa rígida hermética.",
+              "As algumas semanas do livro são uma indicação ampla, não uma especificação universal de conclusão no dia 21. Temperatura, extração e condição do lote importam. Peça avaliação do primeiro lote antes do uso.",
+              "Quando o processo estiver concluído e a produção de gás cessar, transfira para a garrafa identificada especificada pelo elaborador, geralmente de vidro âmbar em local fresco e escuro. Siga orientações sobre espaço livre e fechamento. Verifique novamente pressão e contaminação."
+            ]
+          }
+        },
+        {
+          "id": "application",
+          "title": {
+            "en": "Use as the liquid part of the compost set",
+            "pt": "Use como parte líquida do conjunto de composto"
+          },
+          "paragraphs": {
+            "en": [
+              "The intended role in Steiner’s account relates to phosphorus. In compost application, a measured amount of finished 507 is diluted and stirred for the short time in the chosen compost protocol, then introduced to the pile. It is not automatically stirred for an hour like the field sprays. The shared compost page gives one complete-set method and identifies its source.",
+              "Use the supplier’s dose for the actual liquid, because juice and water-extract methods are not necessarily equivalent. Keep concentrate and diluted application mixture in distinctly labelled containers. Do not drink or use the liquid as a human remedy.",
+              "Later frost-related uses and mixtures with 500 are separate practitioner protocols. This course’s core compost instruction does not establish frost protection and does not replace frost cloth, irrigation designed for frost management or crop-specific weather planning. Do not add 507 to every field spray merely because a different supplier combines it in one product."
+            ],
+            "pt": [
+              "Na explicação de Steiner, a função pretendida relaciona-se ao fósforo. Na aplicação ao composto, uma quantidade medida de 507 pronto é diluída e agitada pelo tempo curto do protocolo escolhido e depois introduzida na pilha. Não é automaticamente agitada por uma hora como as caldas de campo. A página comum de composto apresenta um método de conjunto completo e identifica sua fonte.",
+              "Use a dose do fornecedor para o líquido real, pois métodos de suco e extração aquosa não são necessariamente equivalentes. Mantenha concentrado e mistura diluída em recipientes distintamente identificados. Não beba nem use o líquido como medicamento humano.",
+              "Usos posteriores relacionados a geadas e misturas com 500 são protocolos separados de praticantes. A instrução central deste curso para composto não estabelece proteção contra geadas nem substitui manta, irrigação projetada para manejo de geadas ou planejamento meteorológico por cultura. Não acrescente 507 a toda calda de campo apenas porque outro fornecedor o combina num produto."
+            ]
+          }
+        },
+        {
+          "id": "example",
+          "title": {
+            "en": "Common mistake: confusing concentrate and spray",
+            "pt": "Erro comum: confundir concentrado e calda"
+          },
+          "paragraphs": {
+            "en": [
+              "A small bottle of 507 concentrate and several litres of diluted compost mixture are different stages. Label the first with its extraction method and batch; label the second with dilution and time of mixing. This prevents using a diluted mixture later as though it were the original concentrate."
+            ],
+            "pt": [
+              "Uma garrafinha de concentrado 507 e vários litros de mistura diluída para composto são etapas diferentes. Identifique a primeira com método de extração e lote; a segunda, com diluição e hora da mistura. Isso evita usar depois uma mistura diluída como se fosse o concentrado original."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "508",
+      "title": {
+        "en": "508: horsetail — fresh and fermented decoctions",
+        "pt": "508: cavalinha — decocções fresca e fermentada"
+      },
+      "lead": {
+        "en": "Learn two distinct horsetail methods. “Fresh tea” means freshly made decoction; it does not necessarily mean the starting herb was freshly harvested.",
+        "pt": "Aprenda dois métodos distintos de cavalinha. Chá fresco significa decocção recém-preparada; não significa necessariamente que a erva inicial tenha sido recém-colhida."
+      },
+      "sources": [
+        "books",
+        "jpi508"
+      ],
+      "sections": [
+        {
+          "id": "materials",
+          "title": {
+            "en": "Identify the herb before making a batch",
+            "pt": "Identifique a erva antes de elaborar"
+          },
+          "paragraphs": {
+            "en": [
+              "The named plant is Equisetum arvense. Obtain positively identified material from a reliable grower or supplier; other horsetail species are not interchangeable and some are toxic. Do not identify it from this course’s symbolic comet drawing. Use a dedicated cooking vessel, clean water, strainer, labelled containers, timer and appropriate sprayer.",
+              "Horsetail is proposed in the source for excessive water-mediated vitality and fungal problems. A wet period is a reason to inspect a crop, not enough to diagnose every leaf mark. Check crop identity, symptoms, weather, drainage and appropriate plant-health advice before relying on a spray."
+            ],
+            "pt": [
+              "A planta nomeada é Equisetum arvense. Obtenha material identificado com segurança de produtor ou fornecedor confiável; outras espécies de cavalinha não são intercambiáveis e algumas são tóxicas. Não a identifique pelo desenho simbólico do cometa no curso. Use recipiente exclusivo de cocção, água limpa, filtro, recipientes identificados, cronômetro e pulverizador adequado.",
+              "Na fonte, a cavalinha é proposta para excesso de vitalidade mediada pela água e problemas fúngicos. Um período úmido justifica inspecionar a cultura, mas não diagnostica toda mancha foliar. Confira cultura, sintomas, tempo, drenagem e orientação fitossanitária apropriada antes de depender de uma aplicação."
+            ]
+          }
+        },
+        {
+          "id": "fresh",
+          "title": {
+            "en": "JPI fresh-decoction protocol",
+            "pt": "Protocolo de decocção fresca do JPI"
+          },
+          "steps": {
+            "en": [
+              "Use 1.5 oz dried herb (about 42.5 g) in 1 US quart water (about 0.95 L). Simmer 1 hour; cool and strain.",
+              "Add 2 US gallons water (about 7.6 L); stir 20 minutes.",
+              "Apply as a fine foliar spray. The stated batch covers up to 1 acre (about 4,047 m²)."
+            ],
+            "pt": [
+              "Use 1,5 oz de erva seca (cerca de 42,5 g) em 1 quart americano de água (cerca de 0,95 L). Cozinhe em fogo brando por 1 hora; esfrie e filtre.",
+              "Acrescente 2 galões americanos de água (cerca de 7,6 L); agite por 20 minutos.",
+              "Aplique como névoa foliar fina. A quantidade declarada atende até 1 acre (cerca de 4.047 m²)."
+            ]
+          }
+        },
+        {
+          "id": "fermented",
+          "title": {
+            "en": "JPI fermented-decoction protocol",
+            "pt": "Protocolo de decocção fermentada do JPI"
+          },
+          "steps": {
+            "en": [
+              "Simmer the same herb amount in 1 US gallon water (about 3.8 L) for 1 hour; cool.",
+              "Ferment under a loose lid in a cool place for 10–14 days; filter.",
+              "Dilute 1 part concentrate with 9 parts water; stir 20 minutes. Direct this version to soil."
+            ],
+            "pt": [
+              "Cozinhe a mesma quantidade de erva em 1 galão americano de água (cerca de 3,8 L) por 1 hora; esfrie.",
+              "Fermente com tampa frouxa em local fresco por 10–14 dias; filtre.",
+              "Dilua 1 parte de concentrado em 9 partes de água; agite por 20 minutos. Dirija essa versão ao solo."
+            ]
+          }
+        },
+        {
+          "id": "timing",
+          "title": {
+            "en": "Choose a window and keep the recipes separate",
+            "pt": "Escolha a janela e mantenha as receitas separadas"
+          },
+          "paragraphs": {
+            "en": [
+              "These are JPI’s later practitioner recipes, not numerical directions quoted from Steiner. US units and approximate metric conversions are shown together so the two methods cannot be accidentally combined. Evaporation changes the recovered volume; do not promise an exact final volume from the starting water alone.",
+              "Prepare the fresh version for prompt use after cooling. For the fermented version, label the concentrate with its making date and dilution; use the maker’s storage and expiry directions. Fermentation gases require a safe venting arrangement. Keep all material out of food and animal feed.",
+              "Choose conditions that permit the intended target to be covered without runoff, wind drift or immediate wash-off. A repeated-treatment schedule belongs to a crop-specific protocol; do not assume a daily spray is needed throughout the season. Do not add the fermented concentrate to a foliar batch merely because both containers say 508."
+            ],
+            "pt": [
+              "Estas são receitas posteriores de praticantes do JPI, não instruções numéricas citadas de Steiner. Unidades americanas e conversões métricas aproximadas aparecem juntas para evitar combinar os métodos por engano. A evaporação muda o volume recuperado; não prometa volume final exato apenas pela água inicial.",
+              "Prepare a versão fresca para uso pronto após esfriar. Para a fermentada, identifique o concentrado com data de elaboração e diluição; use as orientações de armazenamento e validade do elaborador. Gases de fermentação exigem saída segura. Mantenha todo material fora de alimentos e ração.",
+              "Escolha condições que permitam cobrir o alvo pretendido sem escoamento, deriva ou lavagem imediata pela chuva. Um esquema de repetições pertence a protocolo específico por cultura; não presuma aplicação diária durante toda a estação. Não acrescente concentrado fermentado a uma calda foliar apenas porque ambos os recipientes dizem 508."
+            ]
+          }
+        },
+        {
+          "id": "example",
+          "title": {
+            "en": "Worked dilution: one plus nine is ten parts",
+            "pt": "Diluição comentada: uma mais nove são dez partes"
+          },
+          "paragraphs": {
+            "en": [
+              "For the fermented method, 100 mL of concentrate plus 900 mL of water makes 1 L of application mixture. It does not mean 100 mL topped up with 1 L of water. A ratio describes dilution; area coverage still depends on the chosen protocol and calibrated sprayer."
+            ],
+            "pt": [
+              "No método fermentado, 100 mL de concentrado mais 900 mL de água produzem 1 L de mistura de aplicação. Isso não significa acrescentar 1 L de água aos 100 mL. A proporção descreve diluição; a cobertura de área ainda depende do protocolo e do pulverizador calibrado."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "application",
+      "title": {
+        "en": "Field application: quantities, stirring and spraying",
+        "pt": "Aplicação no campo: quantidades, agitação e pulverização"
+      },
+      "lead": {
+        "en": "Distinguish preparation dose, carrier-water volume and treated area. Then match equipment, plant stage and weather to the preparation.",
+        "pt": "Distinga dose de preparado, volume de água e área tratada. Depois, ajuste equipamento, fase da planta e condições meteorológicas ao preparado."
+      },
+      "sources": [
+        "books",
+        "bfdi",
+        "abd501",
+        "jpi500",
+        "jpi501",
+        "fda"
+      ],
+      "sections": [
+        {
+          "id": "units",
+          "title": {
+            "en": "Three quantities that must not be confused",
+            "pt": "Três quantidades que não devem ser confundidas"
+          },
+          "paragraphs": {
+            "en": [
+              "Dose means the amount of mature preparation for an area. Carrier water is the liquid used to distribute that dose. Area is the ground surface being treated. Increasing carrier water does not automatically mean increasing preparation. Neither 500 nor 501 is irrigation or a bulk nutrient application.",
+              "For the worked metric example here, use 500 at 100 g/ha and 501 at 4 g/ha, each in 50 L/ha of carrier water. These are later manual rates, not universal values dictated in the 1924 lecture. The Bucher manual allows 25–50 L/ha; this calculator consistently uses its 50 L end. Brazilian ABD guidance also gives 4 g/ha in 50 L for 501."
+            ],
+            "pt": [
+              "Dose é a quantidade de preparado maturado por área. A água de diluição é o líquido que distribui essa dose. A área é a superfície de solo tratada. Aumentar a água não significa automaticamente aumentar o preparado. Nem 500 nem 501 é irrigação ou aplicação de nutrientes em grande quantidade.",
+              "No exemplo métrico usado aqui, considere 500 a 100 g/ha e 501 a 4 g/ha, ambos em 50 L/ha de água. São doses de manual posterior, não valores universais determinados na palestra de 1924. O manual de Bucher admite 25–50 L/ha; a calculadora usa sempre o limite de 50 L. A orientação brasileira da ABD também indica 4 g/ha em 50 L para o 501."
+            ]
+          }
+        },
+        {
+          "id": "scaling",
+          "title": {
+            "en": "Work the area calculation before mixing",
+            "pt": "Calcule a área antes da mistura"
+          },
+          "paragraphs": {
+            "en": [
+              "One hectare is 10,000 m². Multiply the per-hectare quantity by your area divided by 10,000. A rectangular bed 5 m by 20 m is 100 m², or 0.01 ha. Keep units written beside the numbers so grams are not mistaken for millilitres.",
+              "The table and calculator below are arithmetic teaching aids for this one metric protocol. They are not a recommendation to measure a nearly invisible quantity with a kitchen spoon. For tiny silica doses, obtain an accurately measured portion, use a suitable precision balance, or work with a group treating a larger measured area. Keep the full stirring time even when the area is smaller."
+            ],
+            "pt": [
+              "Um hectare corresponde a 10.000 m². Multiplique a quantidade por hectare pela sua área dividida por 10.000. Um canteiro retangular de 5 m por 20 m tem 100 m², ou 0,01 ha. Escreva as unidades junto aos números para não confundir gramas com mililitros.",
+              "A tabela e a calculadora abaixo são recursos de aritmética para esse único protocolo métrico. Não recomendam medir quantidade quase invisível com colher de cozinha. Para doses minúsculas de sílica, obtenha porção medida com precisão, use balança apropriada ou trabalhe com grupo que trate área medida maior. Mantenha o tempo completo de agitação mesmo quando a área é menor."
+            ]
+          }
+        },
+        {
+          "id": "calibrate",
+          "title": {
+            "en": "Calibrate with clean water first",
+            "pt": "Calibre primeiro com água limpa"
+          },
+          "steps": {
+            "en": [
+              "Mark a known area and fill the sprayer with a measured volume of clean water. Use the actual nozzle, pressure, walking speed and target pattern you intend to use.",
+              "Spray the test area evenly and measure the water consumed. Scale this to the whole treated area. A pressure setting alone does not establish a volume per hectare.",
+              "For 500, arrange a coarse soil-directed pattern; for 501, a fine mist directed at established foliage. Keep people, animals, nearby crops and water supplies out of drift.",
+              "Check that the planned carrier volume can actually cover the site with your equipment. If it cannot, adjust equipment or use the supplier’s suitable carrier-volume guidance; do not silently change preparation dose.",
+              "Clean the sprayer and filter, check for leaks and reserve enough time to apply the batch promptly after stirring. Equipment used for pesticides or other incompatible products requires appropriate decontamination; dedicated clean equipment avoids that problem."
+            ],
+            "pt": [
+              "Marque uma área conhecida e encha o pulverizador com volume medido de água limpa. Use o bico, pressão, velocidade de caminhada e padrão de alvo que pretende utilizar.",
+              "Pulverize uniformemente a área de teste e meça a água consumida. Extrapole para a área total. Uma pressão, sozinha, não estabelece volume por hectare.",
+              "Para 500, organize gotas grossas dirigidas ao solo; para 501, névoa fina sobre folhagem estabelecida. Mantenha pessoas, animais, culturas vizinhas e fontes de água fora da deriva.",
+              "Confira se o volume planejado realmente cobre o local com seu equipamento. Caso contrário, ajuste o equipamento ou use orientação apropriada de volume do fornecedor; não altere silenciosamente a dose do preparado.",
+              "Limpe pulverizador e filtro, confira vazamentos e reserve tempo para aplicar prontamente após a agitação. Equipamento usado com agrotóxicos ou produtos incompatíveis exige descontaminação apropriada; utensílios limpos e exclusivos evitam esse problema."
+            ]
+          }
+        },
+        {
+          "id": "stirring",
+          "title": {
+            "en": "The one-hour stirring sequence for 500 and 501",
+            "pt": "A sequência de uma hora para 500 e 501"
+          },
+          "steps": {
+            "en": [
+              "Prepare clean water in a roomy stable vessel with enough space for vigorous movement without splashing out the measured dose. Use mildly warm rather than hot water, as the chosen maker directs.",
+              "Add the separately measured preparation. Start the timer when the actual stirring sequence begins.",
+              "Stir in one direction until a deep rotating funnel forms. Reverse decisively, breaking that pattern, then build a funnel in the opposite direction. Continue alternating formation and reversal.",
+              "Continue for one full hour. Smaller areas change dose and carrier volume, not the duration. Mixing two preparations together is a separate protocol; do not infer permission from the fact both are stirred.",
+              "Filter as required by the nozzle, maintaining the intended mixture. Apply promptly; do not plan to leave a stirred batch overnight or treat it as stored concentrate.",
+              "Compost-valerian and horsetail methods have their own shorter stirring instructions. “All preparations need an hour” is incorrect."
+            ],
+            "pt": [
+              "Prepare água limpa num recipiente estável e espaçoso, permitindo movimento vigoroso sem perder a dose medida por respingos. Use água levemente morna, não quente, conforme o elaborador escolhido.",
+              "Acrescente o preparado medido separadamente. Inicie o cronômetro quando começar a sequência efetiva de agitação.",
+              "Agite numa direção até formar um funil profundo em rotação. Inverta decididamente, rompendo esse padrão, e forme um funil na direção oposta. Continue alternando formação e inversão.",
+              "Continue por uma hora completa. Áreas menores mudam dose e volume de água, não duração. Misturar dois preparados é outro protocolo; não deduza autorização porque ambos são agitados.",
+              "Filtre conforme o bico, mantendo a mistura pretendida. Aplique prontamente; não planeje deixar uma quantidade agitada de um dia para o outro nem tratá-la como concentrado armazenado.",
+              "Os métodos de valeriana para composto e cavalinha têm instruções próprias mais curtas. Dizer que todos os preparados exigem uma hora é incorreto."
+            ]
+          }
+        },
+        {
+          "id": "window",
+          "title": {
+            "en": "When the conditions fit",
+            "pt": "Quando as condições são adequadas"
+          },
+          "items": {
+            "en": [
+              "500: moist workable soil, commonly late afternoon or early evening around soil preparation, sowing, planting or seasonal transition. Do not spray edible surfaces or create runoff.",
+              "501: established roots and appropriate foliage, commonly a calm early morning. Check crop restrictions; avoid frost risk, impending rain and severe heat or water stress.",
+              "For both: distinguish a typical practice window from a guarantee. A forecast, soil observation and crop stage are more useful than following a calendar date while ignoring unsuitable conditions.",
+              "Follow the actual product’s directions on repeat frequency and permitted use. Disease symptoms, nutrient shortage or water stress need their own diagnosis and management."
+            ],
+            "pt": [
+              "500: solo úmido e trabalhável, geralmente no fim da tarde ou começo da noite, próximo ao preparo do solo, semeadura, plantio ou transição sazonal. Não pulverize superfícies comestíveis nem produza escoamento.",
+              "501: raízes estabelecidas e folhagem apropriada, geralmente numa manhã calma. Confira restrições da cultura; evite risco de geada, chuva iminente e calor ou estresse hídrico intensos.",
+              "Para ambos: distinga uma janela típica de prática de uma garantia. Previsão meteorológica, observação do solo e fase da cultura são mais úteis que seguir uma data ignorando condições inadequadas.",
+              "Siga as instruções do produto efetivo sobre frequência e uso permitido. Sintomas de doenças, carência nutricional ou estresse hídrico exigem diagnóstico e manejo próprios."
+            ]
+          }
+        },
+        {
+          "id": "variants",
+          "title": {
+            "en": "Why another supplier may give another amount",
+            "pt": "Por que outro fornecedor pode indicar outra quantidade"
+          },
+          "paragraphs": {
+            "en": [
+              "JPI describes 500 in a quarter-cup unit per acre and 501 in a teaspoon unit, each with a US-gallon carrier recipe. Those are product-specific volumetric directions. This guide’s metric example uses mass per hectare. A teaspoon is not automatically 4 g and a cup of moist manure does not have a universal mass. Follow one coherent protocol for the supplied product.",
+              "Prepared 500, 500P, barrel compound and proprietary starters may contain other materials. Their doses are not automatically those of plain horn manure. Likewise, a supplied packet of compost preparations is not defined by the mass of an arbitrary pinch."
+            ],
+            "pt": [
+              "O JPI descreve 500 em unidade de um quarto de xícara por acre e 501 em unidade de colher de chá, ambos com receita de água em galões americanos. São instruções volumétricas específicas do produto. O exemplo métrico deste guia usa massa por hectare. Uma colher de chá não corresponde automaticamente a 4 g, e uma xícara de esterco úmido não tem massa universal. Siga um protocolo coerente para o produto fornecido.",
+              "500 preparado, 500P, composto de barril e ativadores proprietários podem conter outros materiais. Suas doses não são automaticamente as do esterco de chifre simples. Da mesma forma, um pacote de preparados de composto não se define pela massa de uma pitada arbitrária."
+            ]
+          }
+        },
+        {
+          "id": "record",
+          "title": {
+            "en": "Record what was actually done",
+            "pt": "Registre o que foi realmente feito"
+          },
+          "items": {
+            "en": [
+              "Date, location, measured area, crop and growth stage; preparation identity, maker and batch.",
+              "Protocol, measured dose, carrier-water volume, water source, stirring start/end and spraying start/end.",
+              "Weather, wind, soil moisture, sprayer/nozzle and coverage; other management done at the same time.",
+              "Later observations, including no visible difference, adverse effects and a comparable untreated area where feasible. Keep interpretation separate from the observation."
+            ],
+            "pt": [
+              "Data, local, área medida, cultura e fase; identidade do preparado, elaborador e lote.",
+              "Protocolo, dose medida, volume e origem da água, início/fim da agitação e início/fim da pulverização.",
+              "Tempo, vento, umidade do solo, pulverizador/bico e cobertura; outros manejos feitos na mesma ocasião.",
+              "Observações posteriores, incluindo ausência de diferença visível, efeitos adversos e área não tratada comparável quando possível. Separe interpretação e observação."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "compost",
+      "title": {
+        "en": "Applying the complete compost set: 502–507",
+        "pt": "Como aplicar o conjunto completo ao composto: 502–507"
+      },
+      "lead": {
+        "en": "Place the five finished solids and the valerian liquid into a suitable manure or compost pile. The preparation set does not replace making and managing the pile properly.",
+        "pt": "Insira os cinco sólidos prontos e o líquido de valeriana numa pilha adequada de esterco ou composto. O conjunto de preparados não substitui a montagem e o manejo corretos da pilha."
+      },
+      "sources": [
+        "books",
+        "bfdi",
+        "jpicompost",
+        "fda"
+      ],
+      "sections": [
+        {
+          "id": "before",
+          "title": {
+            "en": "Check the pile and the set",
+            "pt": "Confira a pilha e o conjunto"
+          },
+          "paragraphs": {
+            "en": [
+              "Confirm that you have finished 502, 503, 504, 505 and 506 plus finished liquid 507. Raw yarrow, chamomile and nettle are not a substitute for the mature set. Check the supplier’s declared pile capacity; sets from different makers need not contain the same amount.",
+              "Assess moisture and aeration before insertion. A bone-dry pile or saturated, airless mass needs management first. Suitable composting also requires an appropriate material balance, pile design and decomposition process. Adding preparations does not correct every structural problem or sanitize animal manure.",
+              "Use dedicated tools and labelled portions. If the material is intended for a food crop, comply with the applicable compost-process and manure-derived-input rules. A dark colour, earthworms or a pleasant smell alone cannot establish a validated pathogen-reduction process."
+            ],
+            "pt": [
+              "Confirme que dispõe de 502, 503, 504, 505 e 506 prontos e de 507 líquido pronto. Milefólio, camomila e urtiga crus não substituem o conjunto maturado. Confira a capacidade de pilha declarada pelo fornecedor; conjuntos de elaboradores distintos podem conter quantidades diferentes.",
+              "Avalie umidade e aeração antes da inserção. Pilha muito seca ou massa saturada e sem ar exige manejo primeiro. Compostagem adequada também requer equilíbrio de materiais, desenho da pilha e processo de decomposição apropriados. Acrescentar preparados não corrige todo problema estrutural nem higieniza esterco animal.",
+              "Use utensílios exclusivos e porções identificadas. Se o material se destina a cultura alimentar, cumpra as regras aplicáveis ao processo de compostagem e aos insumos derivados de esterco. Cor escura, minhocas ou cheiro agradável, sozinhos, não estabelecem redução validada de patógenos."
+            ]
+          }
+        },
+        {
+          "id": "weighed",
+          "title": {
+            "en": "A weighed alternative for mature homemade preparations",
+            "pt": "Alternativa pesada para preparados caseiros maturados"
+          },
+          "paragraphs": {
+            "en": [
+              "Bucher’s later manual gives this separate example: 2 g of each solid 502–506 and 5 mL of finished 507 for a heap about 1.5–2 m wide, 1.5 m high and 5–10 m long. Stir the valerian in 3–5 L water for 10–15 minutes; use part inside and the remainder over the surface. See manual pages 65–66.",
+              "Distribute the five weighed solids separately inside the pile and close the positions as described in the classical method. Use this as a complete named example with a maker who has assessed your material. Sloping heap sides and bulk density mean its outside dimensions are not a universal grams-per-cubic-metre rule. Do not substitute these amounts for the contents of the JPI set below."
+            ],
+            "pt": [
+              "O manual posterior de Bucher apresenta este exemplo separado: 2 g de cada sólido 502–506 e 5 mL de 507 pronto para pilha com cerca de 1,5–2 m de largura, 1,5 m de altura e 5–10 m de comprimento. Agite a valeriana em 3–5 L de água por 10–15 minutos; use parte dentro e o restante sobre a superfície. Veja as páginas 65–66 do manual.",
+              "Distribua separadamente os cinco sólidos pesados dentro da pilha e feche as posições conforme o método clássico. Use isso como exemplo completo identificado com um elaborador que tenha avaliado seu material. Laterais inclinadas e densidade aparente impedem transformar dimensões externas numa regra universal de gramas por metro cúbico. Não substitua por essas quantidades o conteúdo do conjunto do JPI abaixo."
+            ]
+          }
+        },
+        {
+          "id": "placement",
+          "title": {
+            "en": "One labelled protocol: the JPI complete set",
+            "pt": "Um protocolo identificado: o conjunto completo do JPI"
+          },
+          "steps": {
+            "en": [
+              "Make six distributed holes to about mid-depth. Place the five solids separately, one per hole.",
+              "Stir the supplied 507 dose in 1 US gallon (about 3.8 L) of water for 10 minutes.",
+              "Pour half into the sixth hole; close every hole with mature compost or soil. Mist the other half over the pile.",
+              "JPI uses its whole set on smaller piles too, up to a stated 15 tons. Confirm the ton unit with the supplier; do not use the field calculator."
+            ],
+            "pt": [
+              "Faça seis furos distribuídos até cerca de meia profundidade. Coloque os cinco sólidos separados, um por furo.",
+              "Agite a dose fornecida de 507 em 1 galão americano (cerca de 3,8 L) de água por 10 minutos.",
+              "Despeje metade no sexto furo; feche todos com composto maturado ou solo. Pulverize a outra metade sobre a pilha.",
+              "O JPI usa o conjunto inteiro também em pilhas menores, até 15 tons na unidade original. Confirme a equivalência com o fornecedor; não use a calculadora de campo."
+            ]
+          }
+        },
+        {
+          "id": "understand",
+          "title": {
+            "en": "Why the positions and closing matter",
+            "pt": "Por que posições e fechamento importam"
+          },
+          "paragraphs": {
+            "en": [
+              "The source describes preparations surrounded by manure, distributed rather than all dropped into one exposed hollow. The practical result is a retrievable application record: each named material has a place, and the hole is closed so it is not left as a drying channel. This diagram is an original course schematic, not a reconstruction of Steiner’s blackboard.",
+              "The selected JPI example is one method, not a universal rule for every product. Other makers specify a set by cubic metres, a weighed portion or a different valerian distribution. Do not convert tons into cubic metres without the pile’s bulk density, and do not combine half of one protocol with half of another."
+            ],
+            "pt": [
+              "A fonte descreve preparados envolvidos por esterco e distribuídos, em vez de todos lançados numa cavidade exposta. O resultado prático é um registro verificável de aplicação: cada material tem lugar, e o furo é fechado para não ficar como canal de ressecamento. Este desenho é um esquema original do curso, não uma reconstrução do quadro de Steiner.",
+              "O exemplo escolhido do JPI é um método, não regra universal para todo produto. Outros elaboradores especificam conjunto por metros cúbicos, porção pesada ou outra distribuição de valeriana. Não converta toneladas em metros cúbicos sem conhecer a densidade aparente da pilha nem combine metade de um protocolo com metade de outro."
+            ]
+          }
+        },
+        {
+          "id": "after",
+          "title": {
+            "en": "Care after application",
+            "pt": "Cuidados após a aplicação"
+          },
+          "items": {
+            "en": [
+              "Mark the pile with date and preparation batch. Maintain moisture, aeration and the composting process appropriate to the material and intended use.",
+              "Monitor temperature and condition using the composting plan. If a pile needs turning for sound process management, do not abandon that need because preparations were added. Whether to reapply after rebuilding belongs to the chosen maker’s protocol.",
+              "Allow the pile to mature for its intended use. A preparation application date is not a compost-ready date and is not the start of a universally valid harvest interval.",
+              "For slurry or liquid manure, use a specific protocol for that system. The six-hole heap method cannot simply be poured into any tank without regard to mixing, volume or handling hazards."
+            ],
+            "pt": [
+              "Identifique a pilha com data e lote dos preparados. Mantenha umidade, aeração e processo de compostagem adequados ao material e ao uso pretendido.",
+              "Acompanhe temperatura e condição pelo plano de compostagem. Se a pilha precisa de revolvimento para manejo correto, não abandone essa necessidade porque recebeu preparados. Reaplicar após reconstrução depende do protocolo do elaborador.",
+              "Deixe a pilha maturar para seu uso. A data de aplicação dos preparados não é a data de composto pronto nem o começo de intervalo universalmente válido até a colheita.",
+              "Para chorume ou esterco líquido, use protocolo específico do sistema. O método de seis furos numa pilha não pode ser simplesmente despejado em qualquer tanque, ignorando mistura, volume ou riscos de manejo."
+            ]
+          }
+        },
+        {
+          "id": "example",
+          "title": {
+            "en": "Worked decision: a very small garden heap",
+            "pt": "Decisão comentada: uma pilha pequena de jardim"
+          },
+          "paragraphs": {
+            "en": [
+              "If you bought a maker’s garden-sized set, follow its stated pile range. If you bought the JPI set described above, do not invent an area-based fraction because the heap occupies only a few square metres. A pile dose and a field-spray dose answer different questions. Measure the pile in the unit required by the supplier."
+            ],
+            "pt": [
+              "Se comprou conjunto de jardim de um elaborador, siga a faixa de pilha declarada. Se comprou o conjunto do JPI descrito acima, não invente fração por área porque a pilha ocupa poucos metros quadrados. Dose para pilha e dose para calda de campo respondem a perguntas diferentes. Meça a pilha na unidade exigida pelo fornecedor."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "calendar",
+      "title": {
+        "en": "A seasonal calendar for making and applying",
+        "pt": "Calendário sazonal de elaboração e aplicação"
+      },
+      "lead": {
+        "en": "Plan by the local season and crop cycle. The season for making a preparation is not automatically the season for applying it.",
+        "pt": "Planeje pela estação e pelo ciclo da cultura locais. A estação de elaborar um preparado não é automaticamente a estação de aplicá-lo."
+      },
+      "sources": [
+        "books",
+        "jpi500",
+        "jpi501"
+      ],
+      "sections": [
+        {
+          "id": "distinguish",
+          "title": {
+            "en": "Four dates for one preparation",
+            "pt": "Quatro datas para um preparado"
+          },
+          "paragraphs": {
+            "en": [
+              "Record ingredient harvest, enclosure or burial, recovery and field or compost application as separate dates. For example, 500 is made through winter but applied when an appropriate soil-management window occurs. A stored compost preparation can be inserted whenever a suitable new pile is made. Do not confuse six months of preparation-making with the maturation time of that pile.",
+              "The table below describes temperate seasonal correspondences. Northern autumn is approximately September–November; Southern autumn is approximately March–May. Actual frost, soil moisture, rainfall pattern and growing season can shift the work. At high altitude or near the equator, obtain a regional making calendar instead of merely swapping month names."
+            ],
+            "pt": [
+              "Registre colheita do ingrediente, envolvimento ou enterrio, retirada e aplicação no campo ou composto como datas distintas. Por exemplo, 500 é elaborado durante o inverno, mas aplicado numa janela apropriada de manejo do solo. Um preparado de composto armazenado pode ser inserido quando se monta uma nova pilha adequada. Não confunda seis meses de elaboração com o tempo de maturação dessa pilha.",
+              "A tabela abaixo apresenta correspondências sazonais temperadas. O outono do Norte corresponde aproximadamente a setembro–novembro; o do Sul, a março–maio. Geadas, umidade, regime de chuvas e ciclo de crescimento podem deslocar o trabalho. Em altitude elevada ou perto do equador, obtenha calendário regional em vez de apenas trocar nomes de meses."
+            ]
+          }
+        },
+        {
+          "id": "first-year",
+          "title": {
+            "en": "A first-year route that does not require waiting for every batch",
+            "pt": "Um percurso de primeiro ano sem esperar todos os lotes"
+          },
+          "steps": {
+            "en": [
+              "Before the growing season: obtain correctly stored mature preparations, learn the measuring and application method, and plan ordinary soil and compost work.",
+              "At the chosen soil-preparation window: use the selected 500 protocol when soil and crop conditions fit. Record it; do not set a compulsory interval to 501 without the crop-specific protocol.",
+              "Once plants are established and a suitable morning arrives: consider 501 under the maker’s crop guidance. Keep a record of stage and conditions.",
+              "When building a suitable pile: insert the complete compost set by its own protocol. Continue compost management and allow maturity before use.",
+              "Through the year: collect correctly identified ingredients in their harvesting seasons and join a making group for the summer and winter preparations. Plan 504 a full year ahead.",
+              "When wet conditions or symptoms raise a plant-health question: inspect and diagnose first. If choosing a horsetail protocol, identify fresh versus fermented use and its target rather than following a fixed weekly calendar."
+            ],
+            "pt": [
+              "Antes do ciclo de crescimento: obtenha preparados maturados e bem armazenados, aprenda medição e aplicação e planeje o manejo habitual do solo e do composto.",
+              "Na janela escolhida de preparo do solo: use o protocolo selecionado de 500 quando solo e cultura forem adequados. Registre; não estabeleça intervalo obrigatório até 501 sem protocolo específico da cultura.",
+              "Quando as plantas estiverem estabelecidas e houver manhã adequada: considere 501 pela orientação do elaborador para a cultura. Registre fase e condições.",
+              "Ao montar pilha adequada: insira o conjunto completo de composto pelo protocolo próprio. Continue o manejo e aguarde maturação antes do uso.",
+              "Ao longo do ano: reúna ingredientes corretamente identificados em suas épocas de colheita e participe de grupo para os preparados de verão e inverno. Planeje 504 com um ano de antecedência.",
+              "Quando tempo úmido ou sintomas levantarem questão fitossanitária: inspecione e diagnostique primeiro. Se escolher cavalinha, identifique versão fresca ou fermentada e seu alvo, em vez de seguir calendário semanal fixo."
+            ]
+          }
+        },
+        {
+          "id": "rhythms",
+          "title": {
+            "en": "Moon and zodiac calendars: identify the system",
+            "pt": "Calendários lunares e zodiacais: identifique o sistema"
+          },
+          "paragraphs": {
+            "en": [
+              "Some biodynamic schools add Moon phases, ascending/descending Moon or constellation categories to their timing. These systems are not interchangeable, and the supplied introduction itself records disagreement and incomplete reproducibility. If you use one, record the calendar, edition, time zone and category. Explain that it is an additional practitioner framework.",
+              "This guide does not invent universal “root-day” or full-Moon instructions for every preparation. A frozen or flooded bed, strong wind, an unestablished crop or a food-safety restriction is not corrected by an auspicious calendar symbol. Choose a usable agronomic window and follow the specific preparation protocol."
+            ],
+            "pt": [
+              "Algumas escolas biodinâmicas acrescentam fases lunares, Lua ascendente/descendente ou categorias de constelações à escolha das épocas. Esses sistemas não são intercambiáveis, e a própria introdução fornecida registra divergências e reprodução incompleta dos resultados. Se usar um, registre calendário, edição, fuso e categoria. Explique que é um quadro adicional de praticantes.",
+              "Este guia não inventa instruções universais de dia de raiz ou Lua cheia para todos os preparados. Canteiro congelado ou inundado, vento forte, cultura não estabelecida ou restrição de segurança alimentar não é corrigido por símbolo favorável. Escolha uma janela agronômica utilizável e siga o protocolo específico."
+            ]
+          }
+        },
+        {
+          "id": "example",
+          "title": {
+            "en": "Worked decision: summer in January",
+            "pt": "Decisão comentada: verão em janeiro"
+          },
+          "paragraphs": {
+            "en": [
+              "In a temperate Southern Hemisphere location, January is normally part of summer. Treating it as winter because a European example uses January would reverse the intended making exposure. Start with the local season, then check soil and climate; tropical wet/dry cycles require a local adaptation rather than an automatic six-month shift."
+            ],
+            "pt": [
+              "Num local temperado do Hemisfério Sul, janeiro normalmente integra o verão. Tratá-lo como inverno porque um exemplo europeu usa janeiro inverteria a exposição pretendida da elaboração. Comece pela estação local e confira solo e clima; ciclos tropicais de chuva e seca exigem adaptação local, não deslocamento automático de seis meses."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "title": {
+        "en": "Storage, batch quality and working records",
+        "pt": "Armazenamento, qualidade dos lotes e registros"
+      },
+      "lead": {
+        "en": "Keep mature preparations distinct from raw ingredients and diluted mixtures. Storage requirements differ across the preparation families.",
+        "pt": "Mantenha preparados maturados distintos de ingredientes crus e misturas diluídas. As exigências de armazenamento diferem entre famílias."
+      },
+      "sources": [
+        "books",
+        "storage",
+        "fda",
+        "silica"
+      ],
+      "sections": [
+        {
+          "id": "separate",
+          "title": {
+            "en": "Label three different stages",
+            "pt": "Identifique três etapas distintas"
+          },
+          "paragraphs": {
+            "en": [
+              "An ingredient jar, a finished-preparation jar and a diluted spray container should never carry an ambiguous label such as “nettle” or “500 mix”. Include identity, stage, source, batch, date and, for diluted material, the dilution and time mixed. A plant infusion or a proprietary combined product should be named as such.",
+              "Keep a small inventory so the amount on hand matches planned work. Obtain only what you can store correctly, and follow the actual maker’s expiry and handling directions. Classical storage traditions vary; the practical aim is to preserve identity and condition without contamination, desiccation, excess water or dangerous pressure."
+            ],
+            "pt": [
+              "Um recipiente de ingrediente, um de preparado pronto e um de calda diluída não devem ter rótulo ambíguo como urtiga ou mistura 500. Inclua identidade, etapa, origem, lote e data; no material diluído, diluição e hora da mistura. Uma infusão vegetal ou produto combinado proprietário deve ser identificado como tal.",
+              "Mantenha pequeno inventário para relacionar a reserva ao trabalho planejado. Obtenha apenas o que consegue guardar corretamente e siga a validade e o manejo do elaborador efetivo. Tradições clássicas de armazenamento variam; o objetivo prático é preservar identidade e condição sem contaminação, ressecamento, excesso de água ou pressão perigosa."
+            ]
+          }
+        },
+        {
+          "id": "conditions",
+          "title": {
+            "en": "Different materials need different conditions",
+            "pt": "Materiais diferentes exigem condições diferentes"
+          },
+          "items": {
+            "en": [
+              "500 and the five mature solids 502–506: separate labelled jars, cool and dark, retaining their intended moisture without sitting in water. Follow the maker’s breathable-lid and insulated-box arrangement; keep insulation outside the preparation.",
+              "501: store the mature mineral dry in its specified glass container in a light location. Do not place it in the moist dark storage used for 500. Avoid releasing dry quartz dust.",
+              "507: mature valerian liquid belongs in its own cool, light-protected bottle. Vent active fermentation safely; close as directed once stable. Reassess renewed gas production or a changed batch rather than storing pressure in an airtight container.",
+              "508 ingredient: dry identified herb is separate from brewed or fermented liquid. Keep the herb dry, labelled and protected from contamination. Brew fresh material for the planned work; follow the specific maker’s storage directions for any fermented concentrate.",
+              "Diluted 500 and 501: mix for the application session and use promptly. A bottle left overnight is not a reserve of the original mature preparation."
+            ],
+            "pt": [
+              "500 e os cinco sólidos maturados 502–506: recipientes separados e identificados, frescos e escuros, mantendo a umidade pretendida sem água acumulada. Siga o arranjo de tampa respirável e caixa isolante do elaborador; mantenha o isolante fora do preparado.",
+              "501: guarde o mineral maturado seco no recipiente de vidro especificado, em local iluminado. Não o coloque no armazenamento úmido e escuro do 500. Evite liberar pó seco de quartzo.",
+              "507: o líquido maturado de valeriana fica em garrafa própria, fresca e protegida da luz. Permita saída segura de gás na fermentação ativa; feche conforme orientação quando estável. Reavalie produção renovada de gás ou mudança do lote, em vez de armazenar pressão em recipiente hermético.",
+              "Ingrediente do 508: erva seca identificada fica separada de líquido cozido ou fermentado. Mantenha-a seca, identificada e protegida de contaminação. Prepare a decocção fresca para o trabalho planejado; siga o elaborador para armazenar concentrado fermentado.",
+              "500 e 501 diluídos: misture para a sessão de aplicação e use prontamente. Uma garrafa deixada de um dia para o outro não é reserva do preparado maturado original."
+            ]
+          }
+        },
+        {
+          "id": "inspect",
+          "title": {
+            "en": "Inspect condition without claiming a safety test",
+            "pt": "Inspecione a condição sem presumir teste de segurança"
+          },
+          "paragraphs": {
+            "en": [
+              "Inspect the label, moisture, appearance, pests, container damage and unexpected change before taking a portion. Use clean dedicated tools and do not return a contaminated scoop to the reserve. Keep an uncertain batch separate and ask the maker to assess it. Do not restore an unknown spoiled material merely by adding water or another preparation.",
+              "Traditional maturity signs such as earthy texture are useful descriptive observations. They do not prove absence of pathogens or establish a food-crop harvest interval. Animal-derived materials and compost must meet the applicable hygiene requirements for their intended use. Keep them away from kitchen utensils, food, drinking water and animal feed."
+            ],
+            "pt": [
+              "Inspecione rótulo, umidade, aspecto, pragas, danos no recipiente e mudanças inesperadas antes de retirar uma porção. Use utensílios limpos e exclusivos e não devolva uma porção contaminada à reserva. Separe lote incerto e peça avaliação ao elaborador. Não tente recuperar material deteriorado desconhecido apenas acrescentando água ou outro preparado.",
+              "Sinais tradicionais de maturação, como textura terrosa, são observações descritivas úteis. Não provam ausência de patógenos nem estabelecem intervalo até a colheita de cultura alimentar. Materiais de origem animal e composto precisam cumprir as exigências higiênicas aplicáveis ao uso pretendido. Mantenha-os fora de utensílios de cozinha, alimentos, água potável e ração."
+            ]
+          }
+        },
+        {
+          "id": "batch",
+          "title": {
+            "en": "A making record that can be checked later",
+            "pt": "Um registro de elaboração que possa ser conferido depois"
+          },
+          "items": {
+            "en": [
+              "Preparation number and name; plant identification, harvest date and material supplier.",
+              "Animal-sheath source, preparation method, ingredient amounts and any named departure from the classical recipe.",
+              "Site plan, depth or container arrangement, burial/exposure date, expected retrieval season and number of units.",
+              "Recovery date, quantity recovered, observations, assessor and any rejected or incomplete portion.",
+              "Storage location, condition checks, batches supplied to which field or compost pile, and remaining inventory."
+            ],
+            "pt": [
+              "Número e nome do preparado; identificação da planta, data de colheita e fornecedor do material.",
+              "Origem do envoltório animal, método de elaboração, quantidades e qualquer alteração identificada da receita clássica.",
+              "Croqui do local, profundidade ou arranjo do recipiente, data de enterrio/exposição, estação esperada de retirada e número de unidades.",
+              "Data e quantidade recuperada, observações, responsável pela avaliação e porção rejeitada ou incompleta.",
+              "Local de armazenamento, verificações de condição, lotes destinados a cada área ou pilha e reserva restante."
+            ]
+          }
+        },
+        {
+          "id": "field-record",
+          "title": {
+            "en": "Printable application record",
+            "pt": "Registro de aplicação para impressão"
+          },
+          "paragraphs": {
+            "en": [
+              "The form below is a reusable working template. Print it or save the page as a PDF using your browser. It does not transmit entries or save them in this browser. Write the protocol and actual measurements, not only “sprayed biodynamics”."
+            ],
+            "pt": [
+              "O formulário abaixo é um modelo reutilizável de trabalho. Imprima ou salve a página como PDF pelo navegador. Ele não transmite dados nem salva entradas neste navegador. Escreva protocolo e medições reais, não apenas aplicação de biodinâmica."
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "calculator": {
+    "protocol": "Bucher 2020, application of field preparations; 50 L/ha carrier-water example",
+    "areaUnit": "m2",
+    "referenceArea": 10000,
+    "waterLitresPerHectare": 50,
+    "gramsPerHectare": {
+      "500": 100,
+      "501": 4
+    },
+    "examples": [
+      100,
+      1000,
+      10000
+    ]
+  },
+  "calendar": [
+    {
+      "prep": "500",
+      "en": [
+        "Autumn burial → spring recovery",
+        "Winter",
+        "Apply when soil-management conditions fit"
+      ],
+      "pt": [
+        "Enterrio no outono → retirada na primavera",
+        "Inverno",
+        "Aplique quando houver condições adequadas de manejo do solo"
+      ]
+    },
+    {
+      "prep": "501",
+      "en": [
+        "Spring burial → autumn recovery",
+        "Summer",
+        "Apply to suitable established growth"
+      ],
+      "pt": [
+        "Enterrio na primavera → retirada no outono",
+        "Verão",
+        "Aplique sobre crescimento estabelecido adequado"
+      ]
+    },
+    {
+      "prep": "502",
+      "en": [
+        "Flowers and summer hanging → autumn burial → spring recovery",
+        "Summer plus winter",
+        "Insert mature material into a new suitable pile"
+      ],
+      "pt": [
+        "Flores e exposição de verão → enterrio no outono → retirada na primavera",
+        "Verão mais inverno",
+        "Insira material maturado numa nova pilha adequada"
+      ]
+    },
+    {
+      "prep": "503 / 505 / 506",
+      "en": [
+        "Autumn placement → spring recovery",
+        "Winter; 505 has its own wet environment",
+        "Insert mature material into a new suitable pile"
+      ],
+      "pt": [
+        "Colocação no outono → retirada na primavera",
+        "Inverno; 505 tem ambiente úmido próprio",
+        "Insira material maturado numa nova pilha adequada"
+      ]
+    },
+    {
+      "prep": "504",
+      "en": [
+        "Bury → recover about one year later",
+        "Full annual cycle",
+        "Plan supply a year ahead"
+      ],
+      "pt": [
+        "Enterre → retire cerca de um ano depois",
+        "Ciclo anual completo",
+        "Planeje a reserva com um ano de antecedência"
+      ]
+    },
+    {
+      "prep": "507",
+      "en": [
+        "Harvest flowers → extraction and controlled fermentation",
+        "No winter animal-sheath burial",
+        "Dilute the finished liquid by the chosen compost protocol"
+      ],
+      "pt": [
+        "Colha flores → extraia e fermente de modo controlado",
+        "Sem enterrio de inverno em envoltório animal",
+        "Dilua o líquido pronto pelo protocolo escolhido de composto"
+      ]
+    },
+    {
+      "prep": "508",
+      "en": [
+        "Identified herb → fresh decoction or specified fermentation",
+        "No horn burial",
+        "Match version, crop question and target"
+      ],
+      "pt": [
+        "Erva identificada → decocção fresca ou fermentação especificada",
+        "Sem enterrio em chifre",
+        "Relacione versão, questão da cultura e alvo"
+      ]
+    }
+  ]
+}

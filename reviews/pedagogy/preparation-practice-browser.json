@@ -1,0 +1,30 @@
+{
+  "reviewed": "2026-10-24",
+  "status": "passed",
+  "pages": 28,
+  "viewportAndJavascriptCases": 112,
+  "calculatorChecks": 24,
+  "overviewEntryCases": 16,
+  "widths": [
+    1280,
+    320
+  ],
+  "javascript": [
+    false,
+    true
+  ],
+  "checks": [
+    "complete visible bilingual instructions",
+    "correct document language and single title",
+    "all local links and section anchors",
+    "no duplicate IDs or document overflow",
+    "calculator disabled with readable static examples without JavaScript",
+    "calculator area/identity changes, metric arithmetic, zero/empty validation and no form submission",
+    "course-workspace integration with JavaScript enabled",
+    "practical companion links visible on both course overviews with and without JavaScript"
+  ],
+  "limits": [
+    "No field experiment or learner study",
+    "Recipe correctness reviewed separately from UI arithmetic"
+  ]
+}

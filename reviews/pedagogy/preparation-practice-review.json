@@ -1,0 +1,116 @@
+{
+  "reviewed": "2026-10-24",
+  "request": "Detailed instructions for making, storing, timing and applying preparations 500–508 in the online course",
+  "pages": {
+    "newGuidePagesPerLanguage": 14,
+    "languages": [
+      "en",
+      "pt-BR"
+    ],
+    "route": "what-is-biodynamics/practical/index.html",
+    "structure": [
+      "Practical orientation",
+      "Nine individual preparation chapters, 500–508",
+      "Field application and calculator",
+      "Compost-set placement and diagram",
+      "Both-hemisphere seasonal calendar",
+      "Storage and printable application record"
+    ]
+  },
+  "authoring": {
+    "method": "Original bilingual teaching based on the supplied book methods and separately attributed later practitioner protocols; no source prose reproduced at length",
+    "approximatelyWords": {
+      "en": 6647,
+      "pt": 6804
+    },
+    "sourceSeparation": [
+      "Classical manufacturing methods follow Courtney’s introduction and GA 327 lectures 4–6/discussions",
+      "Metric spray examples and weighed compost-set example attributed to Bucher’s 2020 manual",
+      "501 metric example cross-checked against Brazilian ABD guidance",
+      "JPI supplied-set placement and two horsetail recipes kept distinct",
+      "No asserted universal equivalence between supplier volume units and preparation mass"
+    ],
+    "coreScope": "Classical preparations 500–508; proprietary compound products, disease diagnosis and legal certification have their own requirements"
+  },
+  "numericalReview": {
+    "500Example": {
+      "gramsPerHectare": 100,
+      "waterLitresPerHectare": 50,
+      "stirringMinutes": 60,
+      "source": "Bucher manual, pp. 23–24; selected 50 L end of 25–50 L range"
+    },
+    "501Example": {
+      "gramsPerHectare": 4,
+      "waterLitresPerHectare": 50,
+      "stirringMinutes": 60,
+      "source": "Bucher pp. 23–24 and ABD 501 technical directions"
+    },
+    "compostWeighedExample": {
+      "gramsEach502to506": 2,
+      "valerianMillilitres": 5,
+      "heapDimensionsMetres": "1.5–2 wide, 1.5 high, 5–10 long",
+      "valerianWaterLitres": "3–5",
+      "stirringMinutes": "10–15",
+      "source": "Bucher pp. 65–66; not converted to a universal volumetric rate"
+    },
+    "compostSuppliedSet": "JPI whole supplied set; six distributed holes, half-depth; 507 in one US gallon stirred 10 minutes; half internal and half over surface; original ton unit qualified",
+    "508Fresh": "JPI 1.5 oz dried herb in one US quart, simmer one hour, cool/strain, add two US gallons, stir 20 minutes, foliar; metric amounts explicitly approximate",
+    "508Fermented": "JPI same herb amount in one US gallon, simmer one hour, cool; loose-lid fermentation 10–14 days; one part concentrate plus nine water, stir 20 minutes, soil",
+    "unitChecks": [
+      "1 ha = 10000 m²",
+      "1000 m²: 500 10 g or 501 0.4 g, in 5 L",
+      "100 m²: 500 1 g or 501 0.04 g, in 0.5 L",
+      "500 and 501 duration retained at one hour irrespective of area",
+      "US customary 508 conversions are approximate; evaporation not ignored"
+    ]
+  },
+  "handlingContext": [
+    "Traceable permitted animal materials and trained handling of skull/casings",
+    "No unsupervised dry quartz grinding; respiratory silica hazard identified",
+    "Manure appearance/odour not treated as pathogen tests",
+    "Food-crop and manure-derived-input requirements left to applicable local rules, not a fabricated universal harvest interval",
+    "Fermentation pressure and venting distinguished from stable bottle storage",
+    "Horsetail identification and fresh versus fermented targets kept distinct"
+  ],
+  "integration": [
+    "Visible practical-companion entry on What Is Biodynamics? and Agriculture overviews",
+    "Links in anthology lessons 1, 8, 10 and 12",
+    "Progressive enhancement; all teaching and static calculations readable without JavaScript",
+    "Calculator performs only arithmetic for one named metric example; no stored personal data",
+    "Original compost diagram is labelled as a course schematic, not Steiner’s drawing"
+  ],
+  "preservation": {
+    "protectedSourceFiles": [
+      "content/what-is-biodynamics.json",
+      "content/what-is-biodynamics-source-map.json",
+      "content/what-is-biodynamics-passages.json",
+      "content/what-is-biodynamics-checks.json",
+      "content/what-is-biodynamics-illustrations.json",
+      "content/agriculture.json",
+      "content/agriculture-source-map.json"
+    ],
+    "result": "All hashes match the pre-task snapshot; existing quoted texts, detailed source records and seven original book illustrations unchanged"
+  },
+  "validation": {
+    "static": [
+      "Full build",
+      "check-preparation-practice.mjs",
+      "check-site.mjs",
+      "check-portuguese.mjs",
+      "check-biodynamics-source.mjs",
+      "check-biodynamics-teaching.mjs",
+      "check-agriculture-clarity.mjs"
+    ],
+    "browserReport": "preparation-practice-browser.json",
+    "limits": [
+      "No field trial or learner study",
+      "Guides describe practice; do not establish spiritual mechanisms, pathogen reduction or disease-control efficacy"
+    ],
+    "browserCases": {
+      "guidePageCases": 112,
+      "overviewEntryCases": 16,
+      "calculatorChecks": 24
+    }
+  },
+  "status": "passed"
+}
