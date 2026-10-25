@@ -14,8 +14,17 @@ try{for(const width of [1280,320])for(const js of [true,false]){
   if(['00','01','02','03','05','08'].includes(id))assert.ok(await p.locator('[data-practical-guide]').isVisible(),url+' guide visible');
   if(id==='02')assert.equal(await p.locator('.practice-table-wrap tbody tr').count(),6);
   if(id==='index'){
+   await p.locator('[data-practice-choice]').waitFor({state:'visible',timeout:5000});
+   assert.equal(await p.locator('.practice-choice-card').count(),6);
+   assert.equal(await p.locator('.practice-choice-card dt').count(),36);
+   for(const href of await p.locator('[data-practice-choice] a').evaluateAll(ns=>ns.map(n=>n.getAttribute('href')))){
+    const u=new URL(href,url),f=path.resolve('docs','.'+u.pathname);
+    assert.ok(fs.existsSync(f),url+' missing choice link '+href);
+    if(u.hash)assert.ok(fs.readFileSync(f,'utf8').includes('id="'+u.hash.slice(1)+'"'),url+' choice anchor '+href);
+   }
+
    for(const a of await p.locator('.practical-guide a').evaluateAll(ns=>ns.map(n=>n.getAttribute('href')))){
-    const u=new URL(a,url),f=path.resolve('docs','.'+u.pathname);assert.ok(fs.readFileSync(f,'utf8').includes('id="'+u.hash.slice(1)+'"'));
+    const u=new URL(a,url),f=path.resolve('docs','.'+u.pathname);assert.ok(fs.existsSync(f),url+' missing practical link '+a);if(u.hash)assert.ok(fs.readFileSync(f,'utf8').includes('id="'+u.hash.slice(1)+'"'));
    }
   }
   if(id==='01'&&js){
@@ -29,5 +38,5 @@ try{for(const width of [1280,320])for(const js of [true,false]){
  }
  await c.close();
 }
-assert.deepEqual(errors,[]);console.log(JSON.stringify({pageCases:checked,widths:[1280,320],javascript:[true,false],checks:['visible bilingual guidance','single title','no horizontal document overflow','unique IDs','six-month table','entry links','verse focus and return','reflection validation and download'],pageErrors:errors},null,2));
+assert.deepEqual(errors,[]);console.log(JSON.stringify({pageCases:checked,widths:[1280,320],javascript:[true,false],checks:['visible practice choice with and without JavaScript','six choices with purpose, preparation, rhythm and review criteria','all practice-selection links and anchors','visible bilingual guidance','single title','no horizontal document overflow','unique IDs','six-month table','entry links','verse focus and return','reflection validation and download'],pageErrors:errors},null,2));
 }finally{await browser.close();}})().catch(e=>{console.error(e);process.exitCode=1});

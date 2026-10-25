@@ -4,3 +4,5 @@
 
 /* Keep the verse visible through the shared lesson's nested reading containers. */
 body.verse-mode .verse-path,body.verse-mode .meditation-text.active{display:block!important}body.verse-mode .verse-path>:not(.verse-path):not(.meditation-text.active){display:none!important}
+
+.practice-choice-card{margin:1.7rem 0;padding:clamp(14px,3vw,24px);border:1px solid #b4c7bf;border-radius:10px;background:#fffdf7}.practice-choice dt{font-weight:700;margin-top:1rem}.practice-choice dd{margin:.25rem 0 1rem;overflow-wrap:anywhere}.practice-choice nav ul{padding-left:1.3rem}.practice-choice-card h3{margin-top:0}.practice-choice [id]{scroll-margin-top:6rem}

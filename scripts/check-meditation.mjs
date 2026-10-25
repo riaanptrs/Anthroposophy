@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import {practiceChoice} from '../content/meditation-practice-choice.mjs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 import {meditationLessons as lessons} from '../content/meditation-course.mjs';
@@ -15,6 +16,13 @@ for(const lang of ['en','pt']){
  const index=fs.readFileSync(base+'/meditation/index.html','utf8');
  assert.ok(index.includes(foundationSource));assert.ok(index.includes('52'));
  assert.ok(index.includes('304'));
+ assert.ok(index.includes('id="choose-practice"')&&index.includes('data-practice-choice'));
+ assert.equal(practiceChoice[lang].cards.length,6);
+ for(const card of practiceChoice[lang].cards){
+  assert.ok(index.includes(`id="choose-${card.id}"`));
+  for(const key of ['who','why','prepare','when','continue','reconsider','source'])assert.ok(card[key].length>30);
+  assert.ok(lessons.some(l=>l.id===card.lesson));
+ }
  for(const id of [0,1,2,3,8]) assert.ok(index.includes(`${String(id).padStart(2,'0')}.html#practical-guide`));
  for(const l of lessons){const id=String(l.id).padStart(2,'0'),file=base+'/meditation/'+id+'.html',h=fs.readFileSync(file,'utf8');
   assert.ok(h.includes(`data-meditation-session="${l.id}"`));
