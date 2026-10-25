@@ -145,3 +145,6 @@ buildCompanionClarity();
 // Layout enhancement comes last and preserves every owner-rendered main document.
 const {buildCourseWorkspace}=await import('./build-course-workspace.mjs');
 buildCourseWorkspace();
+
+// Preserve the standalone documentary course after shared lesson transforms.
+await import('./build-steiner-documentary.mjs');

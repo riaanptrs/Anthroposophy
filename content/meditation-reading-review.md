@@ -1,5 +1,7 @@
 # Meditation course source and implementation review
 
+Current practical revision: [25 October 2026 review](meditation-start-now-review.md). It uses the newly supplied 304-page PDF and replaces Start Now! locators in the course. The 177-capture scope and damaged-ending observations below describe the earlier September source, not the newly supplied PDF.
+
 13 September 2026. One selected course, nine sessions, English and Portuguese, placed after Theosophy foundations and practical thinking. This implements the new meditation request; the wider curriculum revisions in the separate learning-logic audit remain recommendations.
 
 ## Sources and scope

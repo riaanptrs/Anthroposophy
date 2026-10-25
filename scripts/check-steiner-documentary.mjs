@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+const source='courses/steiner-documentary/site/',published='docs/learn/steiner-documentary/';
+const raw=fs.readFileSync(source+'data.js','utf8');
+const data=JSON.parse(raw.slice('window.COURSE='.length).trim().replace(/;$/,''));
+assert.deepEqual(data.lessons.map(x=>x.number),Array.from({length:12},(_,i)=>i+1));
+assert.deepEqual(data.sources.map(x=>x.number),Array.from({length:43},(_,i)=>i+1));
+for(const lesson of data.lessons)assert.ok(lesson.title&&lesson.objective&&lesson.html.length>500);
+for(const name of ['app.js','style.css','data.js','icon.svg','course.md','transcript.md'])assert.deepEqual(fs.readFileSync(published+name),fs.readFileSync(source+name),name+' preserved');
+for(const prefix of ['', 'pt/'])assert.ok(fs.readFileSync('docs/'+prefix+'learn/index.html','utf8').includes('steiner-documentary/index.html'));
+assert.ok(fs.readFileSync(published+'index.html','utf8').includes('data-platform-nav'));
+assert.ok(fs.readFileSync('docs/pt/learn/steiner-documentary/index.html','utf8').includes('curso completo está disponível em inglês'));
+console.log('Passed: 12 documentary lessons, 43 reader sections, six preserved assets/downloads, course directory links and Portuguese availability notice.');

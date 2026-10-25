@@ -3,7 +3,7 @@
 // https://rsarchive.org/Lectures/GA260/English/AP1990/ChrCnf_gverses.html
 export const foundationSource='https://rsarchive.org/Lectures/GA260/English/AP1990/ChrCnf_gverses.html';
 export const texts=[
-{id:'daily',enTitle:'In the pure streams of light',ptTitle:'Nas puras correntes de luz',source:'Start Now! (2004), capture 115; verse presented among meditation material by Rudolf Steiner. English wording from the supplied edition; Portuguese is a new course translation.',sourcePt:"Start Now! (2004), captura 115; verso incluído entre os textos meditativos de Rudolf Steiner. Texto inglês da edição fornecida; nova tradução em português preparada para este curso.",en:`In the pure streams of light
+{id:'daily',enTitle:'In the pure streams of light',ptTitle:'Nas puras correntes de luz',source:'Start Now! (2004), supplied 304-page PDF p. 188, verse XV; verse presented among meditation material by Rudolf Steiner. English wording from the supplied edition; Portuguese is a new course translation.',sourcePt:"Start Now! (2004), PDF fornecido de 304 páginas p. 188, verso XV; verso incluído entre os textos meditativos de Rudolf Steiner. Texto inglês da edição fornecida; nova tradução em português preparada para este curso.",en:`In the pure streams of light
 The world’s divinity shimmers.
 In pure love for all beings
 My soul’s divine nature rays out.

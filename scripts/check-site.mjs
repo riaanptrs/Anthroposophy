@@ -75,7 +75,7 @@ for (const relative of files) {
   if(!target.startsWith(root+path.sep)&&target!==root) {errors.push(`${relative}: link escapes docs ${href}`);continue;}
   if(fs.existsSync(target)&&fs.statSync(target).isDirectory()) target=path.join(target,'index.html');
   if(!fs.existsSync(target)) {errors.push(`${relative}: missing ${href}`);continue;}
-  if(anchor&&!fs.readFileSync(target,'utf8').includes(`id="${anchor}"`)) errors.push(`${relative}: missing anchor ${href}`);
+  if(anchor&&!(target.endsWith(path.join('learn','steiner-documentary','index.html'))&&/^\/(?:$|lessons$|voices$|workbook$|resources$|lesson\/(?:[1-9]|1[0-2])$|source\/(?:[1-9]|[1-3][0-9]|4[0-3])$)/.test(anchor))&&!fs.readFileSync(target,'utf8').includes(`id="${anchor}"`)) errors.push(`${relative}: missing anchor ${href}`);
  }
  checkPlatformNavigation(relative,file,html);
  if(platformOwned){
@@ -378,7 +378,7 @@ for(const prefix of ['', 'pt/']){
 }
 // Derive an exact route inventory from the publication data. Shared English research
 // notes are published once; Portuguese indexes link those same documents.
-const expectedRoutes=new Set();
+const expectedRoutes=new Set(['learn/steiner-documentary/index.html','pt/learn/steiner-documentary/index.html']);
 const preparationPractice=JSON.parse(fs.readFileSync('content/preparation-practice.json','utf8'));
 for(const prefix of ['', 'pt/'])for(const page of preparationPractice.pages)expectedRoutes.add(prefix+'what-is-biodynamics/practical/'+page.id+'.html');
 const {courseRoutes:beesCourseRoutes}=await import('../content/bees/course.mjs');

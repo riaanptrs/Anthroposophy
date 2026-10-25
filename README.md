@@ -1,5 +1,7 @@
 # Anthroposophy
 
+**The Challenge of Rudolf Steiner — A Documentary Course** is now included at `docs/learn/steiner-documentary/index.html`, with a Portuguese entry at `docs/pt/learn/steiner-documentary/index.html`. All twelve English lessons, the 43-section reader, workbook and teaching resources are preserved from the existing Site. The main course directory links to it and to the updated *Start Now!* meditation course. Source and portable assets are in [courses/steiner-documentary](courses/steiner-documentary/README.md).
+
 The [direct teaching revision](reviews/pedagogy/TEACHING-COURSE-RESET.md)
 revises all 36 beginner Foundations explanations in English and Brazilian
 Portuguese. Topic-specific steps teach the concepts before optional source
@@ -239,6 +241,8 @@ The combined temperament course has concise opening explanations with the fuller
 The eight-lesson `ancient-myths` route follows the seven lectures in the supplied 1971 Cotterell edition, with orientation, original examples, interpretation maps, activities and a final adult teaching project. Edit `content/ancient-myths.mjs`; the builder adds four optional connections to existing courses. Run `node scripts/check-ancient-myths.mjs`. See [source and teaching review](content/ancient-myths-review.md).
 
 ## Meditation and Inner Life
+
+The 25 October 2026 practical revision uses the newly supplied 304-page *Start Now!* PDF and Markdown to expand phrase meditation, a six-month exercise table, backward review, Rose Cross preparation and spiritual development in both languages. It distinguishes Bamford’s introductory method from Steiner’s directions and updates the Foundation Stone source status. See [the practical source review](content/meditation-start-now-review.md).
 
 Nine bilingual guided sessions at docs/meditation/index.html and docs/pt/meditation/index.html use Start Now!, Weekly Meditations and The Foundation Stone. They include a daily verse, four complete Calendar verses and the complete Foundation Stone in new study translations of its printed German original. Source directions, editorial commentary and course adaptations are distinguished. Build with node scripts/build-all.mjs; validate with node scripts/check-meditation.mjs and the existing site checks. See content/meditation-reading-review.md for source scope and transcription decisions.
 

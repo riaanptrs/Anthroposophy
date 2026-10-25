@@ -1,0 +1,16 @@
+import fs from 'node:fs';
+import {platformNav,platformSupportNav} from './platform-architecture.mjs';
+import {shell} from './learning-html.mjs';
+const source='courses/steiner-documentary/site',out='docs/learn/steiner-documentary';
+fs.mkdirSync(out,{recursive:true});
+for(const file of fs.readdirSync(source))fs.copyFileSync(`${source}/${file}`,`${out}/${file}`);
+const file=out+'/index.html';let html=fs.readFileSync(file,'utf8');
+html=html.replace('<main id="main" tabindex="-1"></main>','<main id="main" tabindex="-1"><h1>The Challenge of Rudolf Steiner — A Documentary Course</h1><p>Twelve lessons on the documentary. <a href="course.md">Read the complete course</a> or <a href="transcript.md">read the source transcript</a>.</p></main>');
+html=html.replace('<header class="site-header">',`<header class="site-header">${platformNav(file,'en','learn')}`);
+html=html.replace('</footer>',`${platformSupportNav(file,'en')}</footer>`);
+html=html.replace('</head>','<link rel="alternate" hreflang="pt-BR" href="../../pt/learn/steiner-documentary/index.html"><style>.site-header{height:auto;flex-wrap:wrap;padding-top:12px;padding-bottom:12px}.site-header .system-nav{width:100%;order:-1;justify-content:flex-start;flex-wrap:wrap;gap:18px}.site-header .system-nav a{padding:3px 0;font-size:12px}.platform-support-nav{display:flex;gap:20px;flex-wrap:wrap;grid-column:1/-1}</style></head>');
+fs.writeFileSync(file,html);
+const pt='docs/pt/learn/steiner-documentary/index.html';fs.mkdirSync('docs/pt/learn/steiner-documentary',{recursive:true});
+let entry=shell(pt,'O desafio de Rudolf Steiner — Curso documental',`<h1>O desafio de Rudolf Steiner — Curso documental</h1><p class="lead">Doze lições exploram as vozes, as perguntas e as aplicações práticas apresentadas no documentário The Challenge of Rudolf Steiner.</p><p>O curso completo está disponível em inglês, com 43 seções do texto de referência, perguntas comentadas, caderno de reflexão e recursos para estudo individual ou discussão em grupo.</p><p><a class="button" href="../../../learn/steiner-documentary/index.html">Abrir o curso completo em inglês →</a></p><p>As notas e o progresso ficam neste navegador. O site contém o curso escrito e a transcrição; não inclui o vídeo do documentário.</p><p><a href="../../meditation/index.html">Continuar com Meditação e vida interior</a></p>`, 'pt', {partner:file});
+entry=entry.replace('</header>',platformNav(pt,'pt','learn')+'</header>').replace('</footer>',platformSupportNav(pt,'pt')+'</footer>');fs.writeFileSync(pt,entry);
+console.log('Published local documentary copy: 12 lessons, 43 reader sections, English course and Portuguese entry.');
