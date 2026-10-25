@@ -46,9 +46,21 @@ try{for(const width of [1280,320])for(const js of [true,false]){
     const u=new URL(a,url),f=path.resolve('docs','.'+u.pathname);assert.ok(fs.existsSync(f),url+' missing practical link '+a);if(u.hash)assert.ok(fs.readFileSync(f,'utf8').includes('id="'+u.hash.slice(1)+'"'));
    }
   }
-  if(id==='01'&&js){
+  if(id==='06'){
+   assert.ok(await p.locator('[data-foundation-study]').isVisible(),url+' Foundation study visible');
+   assert.equal(await p.locator('.foundation-map-card').count(),3);
+   assert.equal(await p.locator('#foundation-translations tbody tr').count(),3);
+   const variant=p.locator('.foundation-variant');await variant.locator('summary').click();assert.ok(await variant.locator('p').isVisible());
+   if(js)await p.locator('#foundation-map').screenshot({path:`/tmp/foundation-map-${prefix?'pt':'en'}-${width}.png`});
+  }
+  if(id==='07'){
+   assert.ok(await p.locator('[data-foundation-practice]').isVisible(),url+' Foundation practice visible');
+   assert.equal(await p.locator('.foundation-plan li').count(),4);
+   assert.ok(await p.locator('.foundation-practice-excerpt').isVisible());
+  }
+  if(['01','06'].includes(id)&&js){
    const toggle=p.locator('.verse-focus');await toggle.click();assert.equal(await p.locator('body').getAttribute('class').then(x=>x.includes('verse-mode')),true);
-   assert.equal(await p.locator('[data-practical-guide]').isVisible(),false);assert.equal(await p.locator('.meditation-text.active .verse').isVisible(),true);await toggle.click();assert.equal(await p.locator('[data-practical-guide]').isVisible(),true);
+   const guide=p.locator(id==='06'?'[data-foundation-study]':'[data-practical-guide]');assert.equal(await guide.isVisible(),false);assert.equal(await p.locator('.meditation-text.active .verse').isVisible(),true);await toggle.click();assert.equal(await guide.isVisible(),true);
    await p.locator('[data-download]').click();assert.ok((await p.locator('.download-status').innerText()).length>0);
    await p.locator('#reflection').fill('A practice reflection / Uma reflexão.');const downloaded=p.waitForEvent('download');await p.locator('[data-download]').click();const d=await downloaded;assert.ok(d.suggestedFilename().endsWith(prefix?'pt.txt':'en.txt'));
    if(width===320)await p.screenshot({path:'/tmp/start-now-'+(prefix?'pt':'en')+'-mobile.png',fullPage:true});
@@ -57,5 +69,5 @@ try{for(const width of [1280,320])for(const js of [true,false]){
  }
  await c.close();
 }
-assert.deepEqual(errors,[]);console.log(JSON.stringify({pageCases:checked,widths:[1280,320],javascript:[true,false],checks:['weekly routine, four verse commentaries and 52-week map','mirror comparisons and non-JavaScript fallback','annual diagram at desktop and mobile widths','visible practice choice with and without JavaScript','six choices with purpose, preparation, rhythm and review criteria','all practice-selection links and anchors','visible bilingual guidance','single title','no horizontal document overflow','unique IDs','six-month table','entry links','verse focus and return','reflection validation and download'],pageErrors:errors},null,2));
+assert.deepEqual(errors,[]);console.log(JSON.stringify({pageCases:checked,widths:[1280,320],javascript:[true,false],checks:['Foundation Stone study, diagram, translation comparison and variant note','four-session Foundation practice with visible excerpt','verse focus preserves the complete Foundation meditation','weekly routine, four verse commentaries and 52-week map','mirror comparisons and non-JavaScript fallback','annual diagram at desktop and mobile widths','visible practice choice with and without JavaScript','six choices with purpose, preparation, rhythm and review criteria','all practice-selection links and anchors','visible bilingual guidance','single title','no horizontal document overflow','unique IDs','six-month table','entry links','verse focus and return','reflection validation and download'],pageErrors:errors},null,2));
 }finally{await browser.close();}})().catch(e=>{console.error(e);process.exitCode=1});

@@ -2,8 +2,8 @@
 export const meditationLessons=[
   {
     "id": 0,
-    "refs": "Start Now! (2004), supplied 304-page PDF: Bamford introduction pp. 8–38; Steiner instructions pp. 45–55, reverence pp. 71–78; Bamford appendix II pp. 293–294. Other books retain their earlier capture numbering.",
-    "refsPt": "Start Now! (2004), PDF fornecido de 304 páginas: introdução de Bamford pp. 8–38; instruções de Steiner pp. 45–55, reverência pp. 71–78; apêndice II de Bamford pp. 293–294. Outros livros conservam a numeração anterior das capturas.",
+    "refs": "Start Now! (2004), supplied 304-page PDF: Bamford introduction pp. 8–38; Steiner instructions pp. 45–55, reverence pp. 71–78; Bamford appendix II pp. 293–294. Weekly Meditations uses the new 100-page PDF; Foundation Stone uses the new 47-page PDF.",
+    "refsPt": "Start Now! (2004), PDF fornecido de 304 páginas: introdução de Bamford pp. 8–38; instruções de Steiner pp. 45–55, reverência pp. 71–78; apêndice II de Bamford pp. 293–294. Weekly Meditations usa o novo PDF de 100 páginas; a Pedra Fundamental usa o novo PDF de 47 páginas.",
     "links": [
       "lessons/01.html",
       "higher-worlds/lessons/00.html"
@@ -15,7 +15,7 @@ export const meditationLessons=[
       "why": "Begin with purpose before selecting techniques. These books concern a path of self-knowledge and spiritual knowledge, with the education of thinking, feeling and willing as preparation.",
       "explain": [
         "Start Now! is an anthology edited and introduced by Christopher Bamford, not a single progressive manual written by Steiner. It brings together instructions from different dates and settings, verses, supplementary exercises, the spiritual year, Rosicrucian and Christian material, work concerning the dead and the Guardians. Its order is an editorial arrangement; you are not being asked to perform every practice in it.",
-        "Weekly Meditations contains Steiner’s 52 Calendar of the Soul verses in Christopher Bamford’s translation, followed by Patsy Scala’s reflections and intentions. Scala describes her own spiritual background and practice. Her interpretations are a companion voice, not additional instructions authored by Steiner. The Foundation Stone booklet has an introduction by Michael Wilson and a note by Steiner; the supplied file stops before the verses.",
+        "Weekly Meditations contains Steiner’s 52 Calendar of the Soul verses in Christopher Bamford’s translation, followed by Patsy Scala’s reflections and intentions. Scala describes her own spiritual background and practice. Her interpretations are a companion voice, not additional instructions authored by Steiner. The newly supplied Foundation Stone booklet has an introduction by Michael Wilson, a note by Steiner, three complete English translations and the original German.",
         "For Steiner, meditation is not simply relaxation or repeating an opinion until it feels certain. Freely directing inner activity toward a meaningful content is intended to develop capacities for spiritual cognition. The texts also connect this development with character, freedom and responsibility. Our course teaches this intention, offers selected actual texts, and helps you understand how a practice relates to it."
       ],
       "steps": [
@@ -32,7 +32,7 @@ export const meditationLessons=[
       "why": "Comece pela finalidade antes de escolher técnicas. Os livros tratam de autoconhecimento e conhecimento espiritual, com educação do pensar, sentir e querer.",
       "explain": [
         "Start Now! é uma antologia organizada e apresentada por Christopher Bamford, não um manual progressivo escrito de uma vez por Steiner. Reúne instruções de épocas e contextos diferentes, versos, exercícios complementares, o ano espiritual, materiais rosacruzes e cristãos, relações com os mortos e os Guardiões. A organização é editorial; não é necessário realizar todas as práticas.",
-        "Weekly Meditations reúne 52 versos do Calendário da Alma de Steiner, traduzidos por Christopher Bamford, com reflexões e intenções de Patsy Scala. Scala apresenta sua própria experiência espiritual; seus comentários não são instruções adicionais de Steiner. O livreto da Pedra Fundamental traz introdução de Michael Wilson e nota de Steiner, mas o arquivo fornecido termina antes dos versos.",
+        "Weekly Meditations reúne 52 versos do Calendário da Alma de Steiner, traduzidos por Christopher Bamford, com reflexões e intenções de Patsy Scala. Scala apresenta sua própria experiência espiritual; seus comentários não são instruções adicionais de Steiner. O novo livreto da Pedra Fundamental traz introdução de Michael Wilson, nota de Steiner, três traduções inglesas completas e o original alemão.",
         "Para Steiner, meditar não é apenas relaxar ou repetir uma opinião até sentir certeza. Dirigir livremente a atividade interior a um conteúdo significativo pretende desenvolver capacidades de conhecimento espiritual. Os textos relacionam esse desenvolvimento a caráter, liberdade e responsabilidade. Este curso explica essa finalidade e oferece textos selecionados e práticas contextualizadas."
       ],
       "steps": [
@@ -281,8 +281,8 @@ export const meditationLessons=[
   },
   {
     "id": 6,
-    "refs": "The Foundation Stone, earlier captures 6–8; Start Now! (2004), new supplied PDF pp. 272–276; GA 260 printed German text (linked). The displayed text remains our study translation of the German.",
-    "refsPt": "The Foundation Stone, capturas anteriores 6–8; Start Now! (2004), novo PDF fornecido pp. 272–276; versão alemã impressa de GA 260 (link). O texto exibido continua sendo nossa tradução de estudo do alemão.",
+    "refs": "The Foundation Stone Meditation (Rudolf Steiner Press 2012), new supplied 47-page PDF: Wilson introduction pp. 7–8; Steiner note p. 9; Adams pp. 11–18, Wehrle pp. 19–26, Seddon pp. 27–34, German pp. 35–42. The displayed full text remains our credited study translation, distinct from these three English versions. Start Now! PDF pp. 272–276 is a separate anthology witness.",
+    "refsPt": "The Foundation Stone Meditation (Rudolf Steiner Press 2012), novo PDF de 47 páginas: introdução de Wilson pp. 7–8; nota de Steiner p. 9; Adams pp. 11–18, Wehrle pp. 19–26, Seddon pp. 27–34, alemão pp. 35–42. O texto integral conserva sua atribuição como tradução de estudo, distinta das três versões inglesas. Start Now! pp. 272–276 é outra versão na antologia.",
     "links": [
       "lessons/01.html",
       "according-to-luke/lessons/07.html"
@@ -298,7 +298,7 @@ export const meditationLessons=[
         "Steiner’s note in the supplied booklet places the spiritual foundation in the hearts and souls of the Society’s members, in connection with the meeting of 25 December 1923. It concerns a way of life proceeding from spiritual understanding, rather than a physical stone. Wilson’s introduction is a later interpretive voice.",
         "The first three movements address the human soul through limbs and space, heart/lung rhythm and time, and the resting head and thought. Their practices are spirit-remembering, spirit-reflection and spirit-beholding in this new translation. The corresponding conditions are soul-depth, balance and quietness of thought. These terms invite more than recalling facts, having an opinion or seeing a vivid picture.",
         "Each human address opens into a cosmic-spiritual response. Father-Spirit, Christ-Will and the Spirit’s world-thoughts belong to the meditation’s Christian and Anthroposophical account. The fourth movement turns toward light that warms hearts and illuminates heads so that what people will create and guide may become good. Its concluding concern is the quality of human deeds.",
-        "The earlier Foundation Stone booklet capture stops before the verses. The newly supplied Start Now! PDF presents the meditation across pages 272–276, resolving the earlier capture’s interleaved ending. The complete text below remains our new study translation of the printed German version, linked for comparison. It is distinct from the English wording in Start Now! and from the booklet’s published translations."
+        "The newly supplied 47-page Foundation Stone booklet includes three complete English translations and the printed German, resolving the earlier eight-page capture’s missing verses. The complete text below remains our separately credited study translation of the printed German. Use the comparison table to understand word choices; it is not presented as the Adams, Wehrle or Seddon translation."
       ],
       "steps": [
         "Read the full text once, attending to the repeated address “Human soul!” and the transition to the final movement.",
@@ -317,7 +317,7 @@ export const meditationLessons=[
         "A nota de Steiner situa a fundação espiritual nos corações e almas dos membros da Sociedade, ligada à reunião de 25 de dezembro de 1923. Trata de uma vida que procede da compreensão espiritual, não de uma pedra física. A introdução de Wilson é uma interpretação posterior.",
         "Os três primeiros movimentos dirigem-se à alma pelos membros e espaço, ritmo cardíaco-pulmonar e tempo, cabeça em repouso e pensamento. Nesta tradução: recordação, reflexão e contemplação do espírito, em profundidade, equilíbrio e quietude. Não se reduzem a lembrar fatos, opinar ou visualizar intensamente.",
         "Cada apelo humano se abre a uma resposta cósmico-espiritual. Espírito-Pai, Vontade-Cristo e pensamentos cósmicos do Espírito pertencem à concepção cristã e antroposófica. O quarto movimento pede luz que aqueça corações e ilumine cabeças para que criar e conduzir possam tornar-se bons. A qualidade das ações humanas é a preocupação final.",
-        "A captura anterior do livreto da Pedra Fundamental termina antes dos versos. O novo PDF de Start Now! apresenta a meditação nas páginas 272–276, resolvendo o final em colunas misturadas da captura anterior. O texto integral abaixo continua sendo nossa nova tradução de estudo da versão alemã impressa, indicada no link. É distinto do texto inglês de Start Now! e das traduções publicadas no livreto."
+        "O novo livreto da Pedra Fundamental de 47 páginas inclui três traduções inglesas completas e o alemão impresso, resolvendo a ausência de versos da captura anterior de oito páginas. O texto integral abaixo conserva sua atribuição como nossa tradução de estudo do alemão. Use a tabela para compreender escolhas de palavras; não é apresentado como tradução de Adams, Wehrle ou Seddon."
       ],
       "steps": [
         "Leia o texto inteiro, observando “Alma humana!” e a passagem ao movimento final.",
@@ -331,8 +331,8 @@ export const meditationLessons=[
   },
   {
     "id": 7,
-    "refs": "GA 260 printed meditation; The Foundation Stone, Michael Wilson introduction, captures 6–7. The session plan below is a course adaptation, not Steiner’s seven daily rhythms.",
-    "refsPt": "Meditação impressa de GA 260; The Foundation Stone, introdução de Michael Wilson, capturas 6–7. O plano de sessões abaixo é uma adaptação do curso, não os sete ritmos diários de Steiner.",
+    "refs": "The Foundation Stone Meditation (2012), new supplied PDF: Wilson introduction pp. 7–8; Steiner note p. 9; three translations pp. 11–34 and German pp. 35–42. The four learning sessions below are course adaptations; this booklet does not provide a complete historical seven-day programme.",
+    "refsPt": "The Foundation Stone Meditation (2012), novo PDF: introdução de Wilson pp. 7–8; nota de Steiner p. 9; três traduções pp. 11–34 e alemão pp. 35–42. Os quatro encontros abaixo são adaptações do curso; o livreto não fornece um programa histórico completo de sete dias.",
     "links": [
       "philosophy-of-freedom/lessons/16.html",
       "higher-worlds/lessons/14.html"
