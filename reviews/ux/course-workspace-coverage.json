@@ -153,8 +153,8 @@
     {
       "id": "phases",
       "home": "learn/phases/index.html",
-      "lessons": 18,
-      "groups": 5
+      "lessons": 62,
+      "groups": 9
     }
   ],
   "pages": [
@@ -1904,6 +1904,11 @@
       "role": "lesson"
     },
     {
+      "page": "learn/phases/coverage.html",
+      "course": "phases",
+      "role": "reference"
+    },
+    {
       "page": "learn/phases/glossary.html",
       "course": "phases",
       "role": "reference"
@@ -1995,6 +2000,226 @@
     },
     {
       "page": "learn/phases/lessons/18.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/19.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/20.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/21.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/22.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/23.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/24.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/25.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/26.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/27.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/28.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/29.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/30.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/31.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/32.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/33.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/34.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/35.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/36.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/37.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/38.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/39.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/40.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/41.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/42.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/43.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/44.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/45.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/46.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/47.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/48.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/49.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/50.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/51.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/52.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/53.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/54.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/55.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/56.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/57.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/58.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/59.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/60.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/61.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/62.html",
       "course": "phases",
       "role": "lesson"
     },
@@ -4934,6 +5159,11 @@
       "role": "lesson"
     },
     {
+      "page": "pt/learn/phases/coverage.html",
+      "course": "phases",
+      "role": "reference"
+    },
+    {
       "page": "pt/learn/phases/glossary.html",
       "course": "phases",
       "role": "reference"
@@ -5025,6 +5255,226 @@
     },
     {
       "page": "pt/learn/phases/lessons/18.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/19.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/20.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/21.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/22.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/23.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/24.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/25.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/26.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/27.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/28.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/29.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/30.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/31.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/32.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/33.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/34.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/35.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/36.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/37.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/38.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/39.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/40.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/41.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/42.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/43.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/44.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/45.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/46.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/47.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/48.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/49.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/50.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/51.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/52.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/53.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/54.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/55.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/56.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/57.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/58.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/59.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/60.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/61.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/62.html",
       "course": "phases",
       "role": "lesson"
     },

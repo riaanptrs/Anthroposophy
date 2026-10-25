@@ -1,45 +1,45 @@
 {
-  "baseline": "140a93bc943edcb4e51bc5d3c6991b82cc2467c2",
+  "baseline": "f6c166fed70f81d85a9e299952bceb6ca6cd6cf0",
   "files": [
     {
       "path": "docs/learn/lessons/05.html",
-      "originalSha256": "322983afea33af1e885eb07b7ab32e9798e56d1df6f5e3a5ee2bbe4b993b0c18",
-      "preservedAfterRemovingCompanionSection": true
+      "surroundingContentPreserved": true,
+      "sha256WithoutCompanion": "322983afea33af1e885eb07b7ab32e9798e56d1df6f5e3a5ee2bbe4b993b0c18"
     },
     {
       "path": "docs/learn/lessons/22.html",
-      "originalSha256": "d4b2ce4f180e9abe0a2d93e44bc91e4ca28c15eb3484ddedc6213e271a5afb90",
-      "preservedAfterRemovingCompanionSection": true
+      "surroundingContentPreserved": true,
+      "sha256WithoutCompanion": "d4b2ce4f180e9abe0a2d93e44bc91e4ca28c15eb3484ddedc6213e271a5afb90"
     },
     {
       "path": "docs/theosophy/lessons/sentient-soul.html",
-      "originalSha256": "fb8ac1485e235a9b396ee7359a2e5e517027870b7b19b6f1a7c5bfe2983ce486",
-      "preservedAfterRemovingCompanionSection": true
+      "surroundingContentPreserved": true,
+      "sha256WithoutCompanion": "fb8ac1485e235a9b396ee7359a2e5e517027870b7b19b6f1a7c5bfe2983ce486"
     },
     {
       "path": "docs/theosophy/lessons/mind-soul.html",
-      "originalSha256": "fd7dafec56c2c34258da84acb540a84b4fc9ddb35f9623959321b33028de8356",
-      "preservedAfterRemovingCompanionSection": true
+      "surroundingContentPreserved": true,
+      "sha256WithoutCompanion": "fd7dafec56c2c34258da84acb540a84b4fc9ddb35f9623959321b33028de8356"
     },
     {
       "path": "docs/pt/learn/lessons/05.html",
-      "originalSha256": "4be8c85c5d3217f1a5f84ada8e35bf14fd5d526259c77d535799c0b34549a75a",
-      "preservedAfterRemovingCompanionSection": true
+      "surroundingContentPreserved": true,
+      "sha256WithoutCompanion": "4be8c85c5d3217f1a5f84ada8e35bf14fd5d526259c77d535799c0b34549a75a"
     },
     {
       "path": "docs/pt/learn/lessons/22.html",
-      "originalSha256": "2ea91b0678cb4bc7ed8b72dfb4e57e536cbc4ecfa8031a9b55599f13dcd4f394",
-      "preservedAfterRemovingCompanionSection": true
+      "surroundingContentPreserved": true,
+      "sha256WithoutCompanion": "2ea91b0678cb4bc7ed8b72dfb4e57e536cbc4ecfa8031a9b55599f13dcd4f394"
     },
     {
       "path": "docs/pt/theosophy/lessons/sentient-soul.html",
-      "originalSha256": "7b435a8f989e76c296f1631cee271c2a32df1669de9a1123d8cf6c6882d445c8",
-      "preservedAfterRemovingCompanionSection": true
+      "surroundingContentPreserved": true,
+      "sha256WithoutCompanion": "7b435a8f989e76c296f1631cee271c2a32df1669de9a1123d8cf6c6882d445c8"
     },
     {
       "path": "docs/pt/theosophy/lessons/mind-soul.html",
-      "originalSha256": "09b2ae290fb2047c127115e32123b9828613d6bfe43cf4856c5a6e862bd156a1",
-      "preservedAfterRemovingCompanionSection": true
+      "surroundingContentPreserved": true,
+      "sha256WithoutCompanion": "09b2ae290fb2047c127115e32123b9828613d6bfe43cf4856c5a6e862bd156a1"
     }
   ]
 }

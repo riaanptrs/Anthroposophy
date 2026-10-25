@@ -14,7 +14,7 @@ export function buildCourseWorkspace(){
   if(!course&&!catalogue)course=courses.find(c=>c.id!=='foundations'&&c.id!=='theosophy-reading'&&route.startsWith(c.home.replace(/index.html$/,'')));
   if(!course&&!catalogue)continue;
   const role=catalogue?'catalogue':course.home===route?'overview':course.lessons.some(l=>l.route===route)?'lesson':/\/index\.html$/.test(route)?'section':'reference';
-  // Phases owns its searchable overview and keeps the excerpt boundary visible.
+  // Phases owns its searchable overview and keeps the source scope visible.
   if(course?.id==='phases'&&role==='overview')continue;
   const config={page,route,role,course:course||null};let html=fs.readFileSync(file,'utf8');
   if(html.includes('id="cw-data"'))throw Error('Workspace pass requires fresh build: '+file);

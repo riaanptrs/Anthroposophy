@@ -2,17 +2,17 @@
   {
     "check": "check-agriculture-clarity.mjs",
     "exitCode": 0,
-    "seconds": 0.87
+    "seconds": 0.77
   },
   {
     "check": "check-agriculture-plates.mjs",
     "exitCode": 0,
-    "seconds": 0.06
+    "seconds": 0.05
   },
   {
     "check": "check-agriculture-source.mjs",
     "exitCode": 0,
-    "seconds": 0.05
+    "seconds": 0.04
   },
   {
     "check": "check-ancient-myths.mjs",
@@ -22,12 +22,12 @@
   {
     "check": "check-bees-interactions.mjs",
     "exitCode": 0,
-    "seconds": 0.04
+    "seconds": 0.03
   },
   {
     "check": "check-bees.mjs",
     "exitCode": 0,
-    "seconds": 0.11
+    "seconds": 0.1
   },
   {
     "check": "check-biodynamic-agriculture.mjs",
@@ -37,22 +37,22 @@
   {
     "check": "check-biodynamics-source.mjs",
     "exitCode": 1,
-    "seconds": 0.03
+    "seconds": 0.04
   },
   {
     "check": "check-biodynamics-teaching.mjs",
     "exitCode": 0,
-    "seconds": 0.05
+    "seconds": 0.04
   },
   {
     "check": "check-childs-temperament-source.mjs",
     "exitCode": 0,
-    "seconds": 0.05
+    "seconds": 0.07
   },
   {
     "check": "check-colour-source.mjs",
     "exitCode": 0,
-    "seconds": 0.04
+    "seconds": 0.07
   },
   {
     "check": "check-concept-platform.mjs",
@@ -62,7 +62,7 @@
   {
     "check": "check-constitution.mjs",
     "exitCode": 1,
-    "seconds": 0.11
+    "seconds": 0.13
   },
   {
     "check": "check-encountering-self-source.mjs",
@@ -82,12 +82,12 @@
   {
     "check": "check-foundation-stone.mjs",
     "exitCode": 0,
-    "seconds": 0.03
+    "seconds": 0.04
   },
   {
     "check": "check-foundations-clarity.mjs",
     "exitCode": 1,
-    "seconds": 0.98
+    "seconds": 1.21
   },
   {
     "check": "check-freedom-clarity.mjs",
@@ -102,7 +102,7 @@
   {
     "check": "check-freedom-route.mjs",
     "exitCode": 0,
-    "seconds": 0.04
+    "seconds": 0.06
   },
   {
     "check": "check-freedom-source.mjs",
@@ -112,37 +112,37 @@
   {
     "check": "check-guided-notebook.mjs",
     "exitCode": 0,
-    "seconds": 0.07
+    "seconds": 0.1
   },
   {
     "check": "check-guided-study.mjs",
     "exitCode": 1,
-    "seconds": 0.27
+    "seconds": 0.28
   },
   {
     "check": "check-higher-worlds.mjs",
     "exitCode": 0,
-    "seconds": 0.05
+    "seconds": 0.07
   },
   {
     "check": "check-humanities-clarity.mjs",
     "exitCode": 0,
-    "seconds": 1.25
+    "seconds": 1.45
   },
   {
     "check": "check-introduction-anthroposophy.mjs",
     "exitCode": 0,
-    "seconds": 0.24
+    "seconds": 0.27
   },
   {
     "check": "check-language-editorial.mjs",
     "exitCode": 1,
-    "seconds": 0.08
+    "seconds": 0.09
   },
   {
     "check": "check-learning-system.mjs",
     "exitCode": 1,
-    "seconds": 0.21
+    "seconds": 0.28
   },
   {
     "check": "check-luke-source.mjs",
@@ -152,42 +152,42 @@
   {
     "check": "check-meditation.mjs",
     "exitCode": 0,
-    "seconds": 0.03
+    "seconds": 0.04
   },
   {
     "check": "check-mystery-temperaments-source.mjs",
     "exitCode": 0,
-    "seconds": 0.05
+    "seconds": 0.07
   },
   {
     "check": "check-nutrition-book.mjs",
     "exitCode": 0,
-    "seconds": 0.07
+    "seconds": 0.09
   },
   {
     "check": "check-nutrition-clarity.mjs",
     "exitCode": 0,
-    "seconds": 0.27
+    "seconds": 0.35
   },
   {
     "check": "check-nutrition.mjs",
     "exitCode": 0,
-    "seconds": 0.04
+    "seconds": 0.06
   },
   {
     "check": "check-passage-study.mjs",
     "exitCode": 0,
-    "seconds": 0.06
+    "seconds": 0.07
   },
   {
     "check": "check-phases.mjs",
     "exitCode": 0,
-    "seconds": 0.05
+    "seconds": 0.18
   },
   {
     "check": "check-portuguese.mjs",
     "exitCode": 0,
-    "seconds": 0.15
+    "seconds": 0.2
   },
   {
     "check": "check-practical-thinking.mjs",
@@ -202,22 +202,22 @@
   {
     "check": "check-preparation-practice.mjs",
     "exitCode": 0,
-    "seconds": 0.04
+    "seconds": 0.03
   },
   {
     "check": "check-remaining-clarity.mjs",
     "exitCode": 0,
-    "seconds": 0.8
+    "seconds": 1.0
   },
   {
     "check": "check-site.mjs",
     "exitCode": 0,
-    "seconds": 2.0
+    "seconds": 2.15
   },
   {
     "check": "check-start-now.mjs",
     "exitCode": 0,
-    "seconds": 0.04
+    "seconds": 0.05
   },
   {
     "check": "check-steiner-documentary.mjs",
@@ -227,47 +227,47 @@
   {
     "check": "check-teaching-approach.mjs",
     "exitCode": 0,
-    "seconds": 0.11
+    "seconds": 0.14
   },
   {
     "check": "check-temperament-companions-clarity.mjs",
     "exitCode": 0,
-    "seconds": 0.53
+    "seconds": 0.63
   },
   {
     "check": "check-temperament-refinement.mjs",
     "exitCode": 1,
-    "seconds": 0.05
+    "seconds": 0.04
   },
   {
     "check": "check-temperaments-clarity.mjs",
     "exitCode": 0,
-    "seconds": 0.9
+    "seconds": 1.05
   },
   {
     "check": "check-temperaments-source.mjs",
     "exitCode": 0,
-    "seconds": 0.05
+    "seconds": 0.06
   },
   {
     "check": "check-theosophy-clarity.mjs",
     "exitCode": 0,
-    "seconds": 0.14
+    "seconds": 0.15
   },
   {
     "check": "check-theosophy.mjs",
     "exitCode": 1,
-    "seconds": 0.04
+    "seconds": 0.05
   },
   {
     "check": "check-thinking-depth.mjs",
     "exitCode": 1,
-    "seconds": 0.03
+    "seconds": 0.04
   },
   {
     "check": "check-threefold-source.mjs",
     "exitCode": 1,
-    "seconds": 0.03
+    "seconds": 0.04
   },
   {
     "check": "check-waldorf-provenance.mjs",
@@ -277,12 +277,12 @@
   {
     "check": "check-waldorf-teaching.mjs",
     "exitCode": 0,
-    "seconds": 0.14
+    "seconds": 0.16
   },
   {
     "check": "check-waldorf.mjs",
     "exitCode": 0,
-    "seconds": 0.18
+    "seconds": 0.2
   },
   {
     "check": "check-weekly-meditations.mjs",

@@ -9,12 +9,12 @@
     "translationCopyrightYear": 1979,
     "isbn": "9781855843042"
   },
-  "sourceSha256": "4b7fca40a71f45379df0fb4343743160c85a13a8693c53248d41f2bd2c841425",
-  "captures": 53,
-  "completeBook": false,
+  "sourceSha256": "6115d4b47c6f8179b90d96c109f3e12ef0c4da332b36b0b2d722a70b314889e6",
+  "captures": 157,
+  "completeBook": true,
   "scope": {
-    "en": "Supplied excerpt: opening, Chapter One and Chapter Two through the incomplete opening of The Organizational Phase. Later chapters are named in the contents but absent.",
-    "pt": "Trecho fornecido: abertura, Capítulo Um e Capítulo Dois até a abertura incompleta da fase organizacional. O sumário nomeia capítulos posteriores ausentes."
+    "en": "The supplied 157-capture copy includes the opening, all seven chapters, their conclusion and Recommended Reading. The course follows this whole-book structure. Some captures overlap, and OCR accuracy is not certified line by line.",
+    "pt": "A cópia de 157 capturas inclui abertura, sete capítulos, conclusão e leituras recomendadas. O curso acompanha essa estrutura integral. Algumas capturas se sobrepõem; a precisão do OCR não é certificada linha por linha."
   },
   "visualChecks": [
     3,
@@ -24,43 +24,179 @@
     8,
     18,
     34,
-    39,
-    53
+    40,
+    53,
+    54,
+    70,
+    83,
+    89,
+    98,
+    119,
+    125,
+    127,
+    139,
+    150,
+    151,
+    156,
+    157
   ],
   "ocrReviewCaptures": [
     1,
+    2,
+    3,
+    4,
     5,
     6,
     7,
     8,
     9,
+    10,
+    11,
+    12,
     13,
+    14,
     15,
     16,
+    17,
     18,
+    19,
     20,
+    21,
     22,
+    23,
+    24,
+    25,
+    26,
     27,
     28,
     29,
     30,
     31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    38,
     39,
     40,
     41,
     42,
     43,
     44,
+    45,
     46,
     47,
     48,
+    49,
     50,
     51,
-    53
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    86,
+    87,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157
   ],
   "method": {
-    "en": "Sequential study used the supplied Markdown. Title, imprint, contents, three diagrams and final boundary were also checked visually against PDF captures. This is not line-by-line certification of all OCR. Explanations and Portuguese text are original course writing; the full upload is not reproduced. Locators count PDF captures from one, not printed folios.",
-    "pt": "O estudo sequencial utilizou o Markdown fornecido. Título, expediente, sumário, três diagramas e limite final foram conferidos visualmente no PDF. Isso não certifica cada linha do OCR. Explicações e texto em português são originais do curso; o arquivo integral não é reproduzido. Localizadores contam capturas PDF desde um, sem equivaler às páginas impressas."
+    "en": "The supplied Markdown was read through the new material and compared with the existing opening-course study. The PDF contents, chapter openings, central diagrams and ending were visually checked. These checks establish structural coverage, not independent verification of every historical or clinical claim. Course explanations, fictional cases, diagrams, exercises and Portuguese study text are original. Locators count PDF captures from one and are distinct from printed pages. The uploaded PDF and full OCR text remain private.",
+    "pt": "O Markdown foi lido no novo material e comparado com o estudo anterior da abertura. Sumário, aberturas de capítulos, diagramas centrais e final foram conferidos visualmente. Isso estabelece cobertura estrutural, sem verificar independentemente toda afirmação histórica ou clínica. Explicações, casos, diagramas, atividades e estudo em português são originais. Localizadores contam capturas desde um, diferentes das páginas impressas. PDF e OCR integrais permanecem privados."
   },
   "pages": [
     {
@@ -73,19 +209,19 @@
       "capture": 2,
       "en": "Author biography and professional background.",
       "pt": "Biografia e atuação profissional do autor.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 3,
       "en": "Title, subtitle and author.",
       "pt": "Título, subtítulo e autor.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 4,
       "en": "H. S. Lake translation; 2012 imprint; original 1976 work and translation copyright 1979.",
       "pt": "Tradução de H. S. Lake; edição de 2012; original de 1976 e direitos da tradução de 1979.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 5,
@@ -101,14 +237,14 @@
     },
     {
       "capture": 7,
-      "en": "Contents: later phases, Chapters Three through Six. These later substantive sections are absent.",
-      "pt": "Sumário: fases posteriores e Capítulos Três a Seis. Esses textos substantivos estão ausentes.",
+      "en": "Contents: later phases and Chapters Three through Six, all present in this copy.",
+      "pt": "Sumário: fases posteriores e Capítulos Três a Seis, presentes nesta cópia.",
       "ocrReview": true
     },
     {
       "capture": 8,
-      "en": "Contents: Chapter Seven and recommended reading; substantive text absent.",
-      "pt": "Sumário: Capítulo Sete e leituras recomendadas; textos ausentes.",
+      "en": "Contents: Chapter Seven and Recommended Reading, both present.",
+      "pt": "Sumário: Capítulo Sete e leituras recomendadas, presentes.",
       "ocrReview": true
     },
     {
@@ -121,19 +257,19 @@
       "capture": 10,
       "en": "Introduction: professional experience, past causes and future directions.",
       "pt": "Introdução: experiência profissional, causas passadas e direções futuras.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 11,
       "en": "Audience, disciplined introspection and the meaning of inner experience.",
       "pt": "Público, introspecção disciplinada e sentido da experiência interior.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 12,
       "en": "Conclusion of introduction: learning, struggle and wisdom as a broad life image.",
       "pt": "Fim da introdução: aprender, lutar e alcançar sabedoria como imagem geral.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 13,
@@ -145,7 +281,7 @@
       "capture": 14,
       "en": "Historical critique of therapeutic approaches applied across different ages.",
       "pt": "Crítica histórica à aplicação das mesmas abordagens terapêuticas a idades diferentes.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 15,
@@ -163,7 +299,7 @@
       "capture": 17,
       "en": "Differentiation, coordination and integration; three development patterns.",
       "pt": "Diferenciação, coordenação e integração; três padrões de desenvolvimento.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 18,
@@ -175,7 +311,7 @@
       "capture": 19,
       "en": "Diagram explanation; thinking, feeling, willing and the higher ego; self-education.",
       "pt": "Explicação do diagrama; pensar, sentir, querer e Eu superior; autoeducação.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 20,
@@ -187,7 +323,7 @@
       "capture": 21,
       "en": "Active peace of mind and the active middle between polarities.",
       "pt": "Tranquilidade ativa e centro ativo entre polaridades.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 22,
@@ -199,25 +335,25 @@
       "capture": 23,
       "en": "Mechanistic, biological and psychological images; polemical historical summaries.",
       "pt": "Imagens mecanicista, biológica e psicológica; sínteses históricas polêmicas.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 24,
       "en": "Behaviorism as presented by Lievegoed; personalistic-spiritual image.",
       "pt": "Behaviorismo segundo Lievegoed; imagem personalista-espiritual.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 25,
       "en": "Division into phases; gradual transition illustrated by day and night; cultural context.",
       "pt": "Divisão em fases; transição gradual entre dia e noite; contexto cultural.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 26,
       "en": "Shifting balance among body, soul and spirit; older phase schemes.",
       "pt": "Equilíbrio móvel entre corpo, alma e espírito; esquemas históricos.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 27,
@@ -253,19 +389,19 @@
       "capture": 32,
       "en": "Seven-year periods as approximate; three soul terms and Moers's strivings.",
       "pt": "Setênios como aproximações; três termos da alma e aspirações de Moers.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 33,
       "en": "Chapter Two begins: biological life course and three broad periods.",
       "pt": "Início do Capítulo Dois: percurso biológico e três períodos gerais.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 34,
       "en": "Schematic biological curve and childhood growth phases.",
       "pt": "Curva biológica esquemática e fases de crescimento infantil.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 35,
@@ -277,109 +413,740 @@
       "capture": 36,
       "en": "Childhood trust, rhythm, imagination and educational claims.",
       "pt": "Confiança, ritmo, imaginação e afirmações educativas sobre a infância.",
-      "ocrReview": false
+      "ocrReview": true
     },
     {
       "capture": 37,
-      "en": "Adolescence and truth; author's distinction between vital and spiritual-mental functions.",
-      "pt": "Adolescência e verdade; distinção entre funções vitais e espirituais-psíquicas.",
-      "ocrReview": false
+      "en": "Childhood material overlaps capture 36; adolescence and the search for truth begin.",
+      "pt": "A infância se sobrepõe à captura 36; começam adolescência e busca da verdade.",
+      "ocrReview": true
     },
     {
       "capture": 38,
-      "en": "Possible social or policy phase; spiritual life course and value choices.",
-      "pt": "Possível fase social ou de orientação; percurso espiritual e escolha de valores.",
-      "ocrReview": false
+      "en": "Goodness, beauty and truth; education and the relation of vitality to psychological development.",
+      "pt": "Bondade, beleza e verdade; formação e relação entre vitalidade e desenvolvimento psíquico.",
+      "ocrReview": true
     },
     {
       "capture": 39,
-      "en": "Diagram comparing biological and mental-spiritual development; reception, processing and giving.",
-      "pt": "Diagrama de desenvolvimento biológico e psíquico-espiritual; receber, elaborar e oferecer.",
+      "en": "Policy as enabling others; spiritual aims, values and responsibility.",
+      "pt": "Orientação que permite desenvolver outros; finalidades, valores e responsabilidade.",
       "ocrReview": true
     },
     {
       "capture": 40,
-      "en": "Later-life forecasts; adolescence begins with identity, direction and capability questions.",
-      "pt": "Antecipações da vida posterior; adolescência e perguntas sobre identidade, direção e capacidade.",
+      "en": "Schematic biological and mental-spiritual curves: reception, processing and giving.",
+      "pt": "Curvas biológica e psíquico-espiritual: receber, elaborar e oferecer.",
       "ocrReview": true
     },
     {
       "capture": 41,
-      "en": "Sexuality, eroticism and spiritual love in the author's terminology.",
-      "pt": "Sexualidade, erotismo e amor espiritual no vocabulário do autor.",
+      "en": "Later-life overview and the beginning of adolescence; identity, aims and capacity.",
+      "pt": "Visão da vida posterior e início da adolescência; identidade, objetivos e capacidade.",
       "ocrReview": true
     },
     {
       "capture": 42,
-      "en": "Guardini on ideals, responsibility and experience; Cole and Hall's tasks as reported here.",
-      "pt": "Guardini sobre ideais, responsabilidade e experiência; tarefas de Cole e Hall segundo o relato.",
+      "en": "Sexuality, eroticism, recognition and the author's romantic symbolism.",
+      "pt": "Sexualidade, erotismo, reconhecimento e simbolismo romântico do autor.",
       "ocrReview": true
     },
     {
       "capture": 43,
-      "en": "Adolescence has its own worth; ego-development and career choices.",
-      "pt": "Valor próprio da adolescência; desenvolvimento do Eu e escolha profissional.",
+      "en": "Guardini on experience, ideals and accepting responsibility; comparison with task lists.",
+      "pt": "Guardini sobre experiência, ideais e responsabilidade; comparação com listas de tarefas.",
       "ocrReview": true
     },
     {
       "capture": 44,
-      "en": "Educational and career constraints; provisional convictions; Schiller's form and material drives.",
-      "pt": "Limites formativos e profissionais; convicções provisórias; impulsos formal e material de Schiller.",
+      "en": "Present value of adolescence; self-awareness, experience and social realization; career choice.",
+      "pt": "Valor presente da adolescência; consciência de si, experiência e realização social; profissão.",
       "ocrReview": true
     },
     {
       "capture": 45,
-      "en": "Play drive, artistic participation, alienation and meaningful responsibility.",
-      "pt": "Impulso lúdico, participação artística, alienação e responsabilidade significativa.",
-      "ocrReview": false
+      "en": "Constraints in education and work; provisional convictions; form and material drives.",
+      "pt": "Limites educativos e profissionais; convicções provisórias; impulsos formal e material.",
+      "ocrReview": true
     },
     {
       "capture": 46,
-      "en": "Universities and early employment; educational access; historical political interpretation.",
-      "pt": "Universidades e trabalho precoce; acesso à formação; interpretação política histórica.",
+      "en": "Play drive, artistic participation and alienation in large institutions.",
+      "pt": "Impulso lúdico, participação artística e alienação institucional.",
       "ocrReview": true
     },
     {
       "capture": 47,
-      "en": "Adolescence summary and historical claims about social and sexual conventions.",
-      "pt": "Resumo da adolescência e afirmações históricas sobre convenções sociais e sexuais.",
+      "en": "University scale, early employment, access to education and historical political judgements.",
+      "pt": "Escala universitária, trabalho precoce, acesso à formação e julgamentos políticos históricos.",
       "ocrReview": true
     },
     {
       "capture": 48,
-      "en": "Historical anecdote; Early Adulthood begins; legal adulthood at 21 in the text's context.",
-      "pt": "Anedota histórica; início da vida adulta; maioridade aos 21 no contexto do livro.",
+      "en": "Adolescence summarized; changing conventions and historical sexual assumptions.",
+      "pt": "Resumo da adolescência; convenções e pressupostos sexuais históricos.",
       "ocrReview": true
     },
     {
       "capture": 49,
-      "en": "Home-making, work and culture in the manner of everyday relations.",
-      "pt": "Lar, trabalho e cultura no modo das relações cotidianas.",
-      "ocrReview": false
+      "en": "Historical anecdote and gradual entry to early adulthood; legal-age claim in context.",
+      "pt": "Anedota e entrada gradual na vida adulta; maioridade legal no contexto histórico.",
+      "ocrReview": true
     },
     {
       "capture": 50,
-      "en": "External feedback, varied work experience, sentient soul and vital-mental strivings.",
-      "pt": "Retorno externo, experiência profissional variada, alma da sensação e aspirações vitais-psíquicas.",
+      "en": "Home, work and the culture communicated by everyday relationships.",
+      "pt": "Lar, trabalho e cultura comunicada pelas relações cotidianas.",
       "ocrReview": true
     },
     {
       "capture": 51,
-      "en": "Inner life and chosen responsibility; historical gender and maternal-role claims.",
-      "pt": "Vida interior e responsabilidade escolhida; afirmações históricas sobre gênero e maternidade.",
+      "en": "Work experience, approval, sentient soul and vital-mental strivings.",
+      "pt": "Experiência de trabalho, aprovação, alma da sensação e aspirações vitais-psíquicas.",
       "ocrReview": true
     },
     {
       "capture": 52,
-      "en": "Attraction and recognition; transition near 28; Organizational Phase heading.",
-      "pt": "Atração e reconhecimento; transição perto dos 28; título da fase organizacional.",
-      "ocrReview": false
+      "en": "Personal inner life, chosen responsibility and historical gender-role claims.",
+      "pt": "Vida interior, responsabilidade e afirmações históricas de gênero.",
+      "ocrReview": true
     },
     {
       "capture": 53,
-      "en": "Organizational Phase opening: planning, intellectual soul, power and gender assumptions. Ends mid-sentence.",
-      "pt": "Abertura da fase organizacional: planejamento, alma intelectual, poder e pressupostos de gênero. Termina no meio de uma frase.",
+      "en": "Attraction, recognition and the transition toward organization; section heading.",
+      "pt": "Atração, reconhecimento e transição à organização; título da seção.",
+      "ocrReview": true
+    },
+    {
+      "capture": 54,
+      "en": "Organizational phase: planning, intellectual soul, authority and gender assumptions.",
+      "pt": "Fase organizacional: planejamento, alma intelectual, autoridade e gênero.",
+      "ocrReview": true
+    },
+    {
+      "capture": 55,
+      "en": "Domestic organization, self-assurance, isolation and literary comparisons.",
+      "pt": "Organização doméstica, autoconfiança, isolamento e comparações literárias.",
+      "ocrReview": true
+    },
+    {
+      "capture": 56,
+      "en": "Perseverance and productivity claims; the second half of the thirties begins.",
+      "pt": "Persistência e afirmações de produtividade; início da segunda metade dos trinta.",
+      "ocrReview": true
+    },
+    {
+      "capture": 57,
+      "en": "Doubt within a successful life; crisis of values and avoidance.",
+      "pt": "Dúvida no sucesso; crise de valores e evasão.",
+      "ocrReview": true
+    },
+    {
+      "capture": 58,
+      "en": "The debt-free businessman; changed values, will and possible renewed creativity.",
+      "pt": "O empresário sem dívidas; valores, vontade e criatividade renovada.",
+      "ocrReview": true
+    },
+    {
+      "capture": 59,
+      "en": "Three soul terms reviewed; equal value of phases; the forties begin.",
+      "pt": "Revisão dos três termos da alma; valor das fases; início dos quarenta.",
+      "ocrReview": true
+    },
+    {
+      "capture": 60,
+      "en": "Existential values, spiritual independence, uncertainty and scapegoating.",
+      "pt": "Valores existenciais, independência espiritual, incerteza e culpabilização.",
+      "ocrReview": false
+    },
+    {
+      "capture": 61,
+      "en": "Second-puberty analogy and historical accounts of bodily ageing and menopause.",
+      "pt": "Analogia com segunda puberdade e relatos históricos de envelhecimento e menopausa.",
+      "ocrReview": true
+    },
+    {
+      "capture": 62,
+      "en": "Historical hormonal and symptom claims, including the male-menopause analogy.",
+      "pt": "Afirmações hormonais e sintomáticas históricas; analogia da menopausa masculina.",
+      "ocrReview": true
+    },
+    {
+      "capture": 63,
+      "en": "Renewal versus imitation of youth; time horizon and ego-imprisonment.",
+      "pt": "Renovação versus imitação juvenil; horizonte temporal e prisão do ego.",
+      "ocrReview": true
+    },
+    {
+      "capture": 64,
+      "en": "Possible maturity in leadership; life task and the author's personal reorientation.",
+      "pt": "Maturidade possível na liderança; tarefa vital e reorientação pessoal do autor.",
+      "ocrReview": true
+    },
+    {
+      "capture": 65,
+      "en": "Recognizing a call; the fifties begin with contrasting forms of authority.",
+      "pt": "Reconhecer um chamado; início dos cinquenta e formas contrastantes de autoridade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 66,
+      "en": "Second creative peak and historically gendered examples of renewed or frustrated life.",
+      "pt": "Segundo pico criativo e exemplos históricos de renovação ou frustração.",
+      "ocrReview": true
+    },
+    {
+      "capture": 67,
+      "en": "Renewed interests; after 56 begins with inward review and detachment.",
+      "pt": "Novos interesses; início do período após 56, revisão e desapego.",
+      "ocrReview": true
+    },
+    {
+      "capture": 68,
+      "en": "Finite time, fruits of life, age 63 in the scheme, frailty and creative possibilities.",
+      "pt": "Tempo finito, frutos da vida, 63 anos no esquema, fragilidade e criatividade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 69,
+      "en": "Cultural participation in later life and illustrations from older artists.",
+      "pt": "Participação cultural na velhice e exemplos artísticos.",
+      "ocrReview": true
+    },
+    {
+      "capture": 70,
+      "en": "Chapter Three: equal individuality and the author's account of sex differences.",
+      "pt": "Capítulo Três: igualdade da individualidade e diferenças sexuais no relato do autor.",
+      "ocrReview": true
+    },
+    {
+      "capture": 71,
+      "en": "Jung, anima and animus, biological analogy and levels of unconscious life.",
+      "pt": "Jung, anima e animus, analogia biológica e níveis inconscientes.",
+      "ocrReview": true
+    },
+    {
+      "capture": 72,
+      "en": "Archetypes, romantic symbols and problematic historical claims about sexual orientation.",
+      "pt": "Arquétipos, símbolos românticos e afirmações históricas problemáticas sobre orientação sexual.",
+      "ocrReview": true
+    },
+    {
+      "capture": 73,
+      "en": "Speculative psychological percentages and the need for care in addressing identity.",
+      "pt": "Percentuais psíquicos especulativos e cuidado ao abordar identidade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 74,
+      "en": "Sexuality and the effect of narrow educational and working opportunities.",
+      "pt": "Sexualidade e efeitos de oportunidades educativas e profissionais estreitas.",
+      "ocrReview": true
+    },
+    {
+      "capture": 75,
+      "en": "Idealized relationship development and the distinction between attraction and recognition.",
+      "pt": "Relação idealizada e distinção entre atração e reconhecimento.",
+      "ocrReview": true
+    },
+    {
+      "capture": 76,
+      "en": "Partnership in the twenties and thirties; companionship, essential and inessential qualities.",
+      "pt": "Parceria nos vinte e trinta; companheirismo e qualidades essenciais e secundárias.",
+      "ocrReview": true
+    },
+    {
+      "capture": 77,
+      "en": "Bergler's midlife account as reported; dissatisfaction and the idea of a second youth.",
+      "pt": "Relato de Bergler; insatisfação e ideia de segunda juventude.",
+      "ocrReview": true
+    },
+    {
+      "capture": 78,
+      "en": "New meaning and renewed recognition in partnership; the author's spiritual bond.",
+      "pt": "Novo sentido e reconhecimento; vínculo espiritual na concepção do autor.",
+      "ocrReview": true
+    },
+    {
+      "capture": 79,
+      "en": "Later partnership, double and shadow; artistic example and Parzival.",
+      "pt": "Parceria posterior, duplo e sombra; exemplo artístico e Parzival.",
+      "ocrReview": true
+    },
+    {
+      "capture": 80,
+      "en": "Projection, mutual accusations, self-knowledge and freedom in different beliefs.",
+      "pt": "Projeção, acusações, autoconhecimento e liberdade de crença.",
+      "ocrReview": true
+    },
+    {
+      "capture": 81,
+      "en": "Family culture, generations, rhythm and repeated or invented stories.",
+      "pt": "Cultura familiar, gerações, ritmo e histórias repetidas ou inventadas.",
+      "ocrReview": true
+    },
+    {
+      "capture": 82,
+      "en": "Celebration, preparation, anticipation, nature and art in family life.",
+      "pt": "Festas, preparo, antecipação, natureza e arte na família.",
+      "ocrReview": true
+    },
+    {
+      "capture": 83,
+      "en": "Chapter Four: six orientations distinguished from occupational types; musical-key analogy.",
+      "pt": "Capítulo Quatro: seis orientações e tipos profissionais; analogia da tonalidade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 84,
+      "en": "Aptitude, temperament, orientation and leitmotiv; several orientations in one occupation.",
+      "pt": "Aptidão, temperamento, orientação e leitmotiv; qualidades numa profissão.",
+      "ocrReview": true
+    },
+    {
+      "capture": 85,
+      "en": "Multiple interests, non-directive guidance, enquiring and thoughtful orientations.",
+      "pt": "Interesses múltiplos, orientação não diretiva, investigação e reflexão.",
+      "ocrReview": false
+    },
+    {
+      "capture": 86,
+      "en": "Organizing, caring and innovatory orientations and their one-sided forms.",
+      "pt": "Orientações organizadora, cuidadora e inovadora; unilateralidades.",
+      "ocrReview": true
+    },
+    {
+      "capture": 87,
+      "en": "Conserving orientation, creative modality and freedom in using capacities.",
+      "pt": "Conservação, modalidade criativa e liberdade no uso das capacidades.",
+      "ocrReview": true
+    },
+    {
+      "capture": 88,
+      "en": "Chosen worldview and the responsibility of keeping or leaving a tradition.",
+      "pt": "Visão de mundo escolhida e responsabilidade de permanecer ou sair de uma tradição.",
+      "ocrReview": false
+    },
+    {
+      "capture": 89,
+      "en": "Chapter Five: educational opportunity, the Lievegoed Commission and the Hibernia example.",
+      "pt": "Capítulo Cinco: oportunidades, Comissão Lievegoed e exemplo Hibernia.",
+      "ocrReview": true
+    },
+    {
+      "capture": 90,
+      "en": "Training routes, early selection, career information and varied work experience.",
+      "pt": "Rotas formativas, seleção precoce, informação e experiência variada.",
+      "ocrReview": true
+    },
+    {
+      "capture": 91,
+      "en": "Apprentice, journeyman and master; consolidation and reorientation at work.",
+      "pt": "Aprendiz, itinerante e mestre; consolidação e reorientação profissional.",
+      "ocrReview": true
+    },
+    {
+      "capture": 92,
+      "en": "Renewed aims, contrasting leadership patterns, positive observation and equanimity.",
+      "pt": "Novos objetivos, padrões de liderança, observação positiva e equanimidade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 93,
+      "en": "Interest in younger colleagues, retirement preparation and personnel development.",
+      "pt": "Interesse nos colegas, preparo da aposentadoria e desenvolvimento de pessoal.",
+      "ocrReview": true
+    },
+    {
+      "capture": 94,
+      "en": "NPI rotation example: transparent feedback, specialization, management and mentorship.",
+      "pt": "Rotação do NPI: retorno transparente, especialização, gestão e orientação.",
+      "ocrReview": true
+    },
+    {
+      "capture": 95,
+      "en": "Requirements, worker participation, substantive rotation and realistic opportunities.",
+      "pt": "Requisitos, participação, rotação substantiva e oportunidades reais.",
+      "ocrReview": true
+    },
+    {
+      "capture": 96,
+      "en": "Mobility, organizational lifespan analogy, indispensability and emerging leadership.",
+      "pt": "Mobilidade, analogia institucional, indispensabilidade e novas lideranças.",
+      "ocrReview": true
+    },
+    {
+      "capture": 97,
+      "en": "Outside assistance, retirement and responsibility of senior management.",
+      "pt": "Ajuda externa, aposentadoria e responsabilidade da direção.",
+      "ocrReview": true
+    },
+    {
+      "capture": 98,
+      "en": "Chapter Six: four models and the distinction between heredity-environment and spiritual personalism.",
+      "pt": "Capítulo Seis: quatro modelos e distinção do personalismo espiritual.",
+      "ocrReview": true
+    },
+    {
+      "capture": 99,
+      "en": "Methods and reduced images; changing intellectual fashions and assumptions.",
+      "pt": "Métodos, imagens reduzidas, tendências históricas e pressupostos.",
+      "ocrReview": true
+    },
+    {
+      "capture": 100,
+      "en": "Mechanistic model and nativism; endosomatic determination and historical heredity.",
+      "pt": "Modelo mecânico e nativismo; determinação interna e herança histórica.",
+      "ocrReview": true
+    },
+    {
+      "capture": 101,
+      "en": "Genetics, deterministic interpretations and historical biotechnology predictions.",
+      "pt": "Genética, determinismo e previsões biotecnológicas históricas.",
+      "ocrReview": true
+    },
+    {
+      "capture": 102,
+      "en": "Moderate nativism, environment and the critique of selection by testing.",
+      "pt": "Nativismo moderado, ambiente e crítica da seleção por testes.",
+      "ocrReview": true
+    },
+    {
+      "capture": 103,
+      "en": "Inherited possibilities, educational selection and the key-and-lock model.",
+      "pt": "Possibilidades herdadas, seleção e modelo de chave e fechadura.",
+      "ocrReview": true
+    },
+    {
+      "capture": 104,
+      "en": "Ground structure and learning; exosomatic influence and cultural inheritance.",
+      "pt": "Estrutura e aprendizagem; influência externa e herança cultural.",
+      "ocrReview": true
+    },
+    {
+      "capture": 105,
+      "en": "Locke, parts and whole, conditioning and the meaning of a stimulus.",
+      "pt": "Locke, partes e conjunto, condicionamento e sentido do estímulo.",
+      "ocrReview": true
+    },
+    {
+      "capture": 106,
+      "en": "Reinforcement, fear of error, experimental limits and motivation.",
+      "pt": "Reforço, medo do erro, limites experimentais e motivação.",
+      "ocrReview": true
+    },
+    {
+      "capture": 107,
+      "en": "Lock-and-key vocational conditioning contrasted with broad education.",
+      "pt": "Treinamento para postos contrastado com formação ampla.",
+      "ocrReview": true
+    },
+    {
+      "capture": 108,
+      "en": "Personalism, self-education, aims and the proposed third force.",
+      "pt": "Personalismo, autoeducação, fins e terceira força.",
+      "ocrReview": true
+    },
+    {
+      "capture": 109,
+      "en": "Strasser on standpoint, observation and evidence; human-relations research.",
+      "pt": "Strasser sobre perspectiva, observação e evidência; relações humanas.",
+      "ocrReview": true
+    },
+    {
+      "capture": 110,
+      "en": "Lewin and group dynamics; Rogers's six relational conditions.",
+      "pt": "Lewin, dinâmica grupal e seis condições de Rogers.",
+      "ocrReview": false
+    },
+    {
+      "capture": 111,
+      "en": "Non-directivity, self-chosen development and Allport's Becoming.",
+      "pt": "Não diretividade, desenvolvimento próprio e Becoming de Allport.",
+      "ocrReview": true
+    },
+    {
+      "capture": 112,
+      "en": "Understanding from within; Maslow and the study of healthy personality.",
+      "pt": "Compreensão interior; Maslow e personalidade saudável.",
+      "ocrReview": true
+    },
+    {
+      "capture": 113,
+      "en": "Values, courage, relationships and emerging possibilities in Maslow's account.",
+      "pt": "Valores, coragem, relações e possibilidades em Maslow.",
+      "ocrReview": true
+    },
+    {
+      "capture": 114,
+      "en": "Special talent and everyday creativity; philosophical assumptions of therapy.",
+      "pt": "Talento e criatividade cotidiana; pressupostos filosóficos da terapia.",
+      "ocrReview": true
+    },
+    {
+      "capture": 115,
+      "en": "Therapeutic worldviews, intolerance and the introduction to Freud.",
+      "pt": "Visões terapêuticas, intolerância e introdução a Freud.",
+      "ocrReview": true
+    },
+    {
+      "capture": 116,
+      "en": "Freud: id, ego, superego, repression, dreams and interpretation.",
+      "pt": "Freud: id, ego, superego, repressão, sonhos e interpretação.",
+      "ocrReview": true
+    },
+    {
+      "capture": 117,
+      "en": "Freud contrasted with Adler; aims, inferiority, compensation and community.",
+      "pt": "Contraste com Adler; fins, inferioridade, compensação e comunidade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 118,
+      "en": "Encouragement; Jung's functions, introversion, extroversion and persona.",
+      "pt": "Encorajamento; funções de Jung, introversão, extroversão e persona.",
+      "ocrReview": true
+    },
+    {
+      "capture": 119,
+      "en": "Jung diagram: ego, persona, unconscious levels and total self.",
+      "pt": "Diagrama de Jung: ego, persona, níveis inconscientes e si-mesmo.",
+      "ocrReview": true
+    },
+    {
+      "capture": 120,
+      "en": "Persona's two directions, shadow, projection and individuation.",
+      "pt": "Duas direções da persona, sombra, projeção e individuação.",
+      "ocrReview": true
+    },
+    {
+      "capture": 121,
+      "en": "Author's critique of Jung; Frankl and three reductions.",
+      "pt": "Crítica de Jung pelo autor; Frankl e três reduções.",
+      "ocrReview": true
+    },
+    {
+      "capture": 122,
+      "en": "Political sociologism in the author's account; existential analysis and logotherapy.",
+      "pt": "Sociologismo político segundo o autor; análise existencial e logoterapia.",
+      "ocrReview": true
+    },
+    {
+      "capture": 123,
+      "en": "Frankl on meaning and possibility; Assagioli and the regulating will.",
+      "pt": "Frankl sobre sentido e possibilidade; Assagioli e vontade reguladora.",
+      "ocrReview": true
+    },
+    {
+      "capture": 124,
+      "en": "Psychosynthesis: lower, middle and higher unconscious and the author's critique.",
+      "pt": "Psicossíntese: inconsciente inferior, médio e superior; crítica do autor.",
+      "ocrReview": true
+    },
+    {
+      "capture": 125,
+      "en": "Assagioli diagram: empirical ego, higher self and conceptual regions.",
+      "pt": "Diagrama de Assagioli: ego empírico, si-mesmo superior e regiões conceituais.",
+      "ocrReview": true
+    },
+    {
+      "capture": 126,
+      "en": "Higher self, ideal and synthesis; preparation and the limits of guidance.",
+      "pt": "Si-mesmo superior, ideal e síntese; preparo e limites da orientação.",
+      "ocrReview": true
+    },
+    {
+      "capture": 127,
+      "en": "Steiner's body-soul-spirit model and its diagram.",
+      "pt": "Modelo de corpo, alma e espírito de Steiner e seu diagrama.",
+      "ocrReview": true
+    },
+    {
+      "capture": 128,
+      "en": "Historical anthroposophical physiology and the start of biographical therapy.",
+      "pt": "Fisiologia antroposófica histórica e início da terapia biográfica.",
+      "ocrReview": true
+    },
+    {
+      "capture": 129,
+      "en": "Three fields of response, renewed aims and reincarnation doctrine.",
+      "pt": "Três campos de resposta, objetivos renovados e doutrina da reencarnação.",
+      "ocrReview": true
+    },
+    {
+      "capture": 130,
+      "en": "Realistic aims, courage, self-encouragement, art and community.",
+      "pt": "Metas realistas, coragem, autoencorajamento, arte e comunidade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 131,
+      "en": "Biography and three levels: mutual help, psychotherapy and psychiatry.",
+      "pt": "Biografia e três níveis: ajuda mútua, psicoterapia e psiquiatria.",
+      "ocrReview": true
+    },
+    {
+      "capture": 132,
+      "en": "Mutual help, organized services, attendance and access.",
+      "pt": "Ajuda mútua, serviços, frequência e acesso.",
+      "ocrReview": true
+    },
+    {
+      "capture": 133,
+      "en": "Group methods, pressure, privacy, competence and continuity.",
+      "pt": "Métodos grupais, pressão, privacidade, competência e continuidade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 134,
+      "en": "Limits of group approaches and individually tailored encounter and art therapy.",
+      "pt": "Limites grupais e encontro e arte individualizados.",
+      "ocrReview": true
+    },
+    {
+      "capture": 135,
+      "en": "Personal encounter, shop-takeover analogy, future aims and dignity.",
+      "pt": "Encontro pessoal, analogia comercial, finalidades e dignidade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 136,
+      "en": "Daily rhythm, new contents, artistic practices and the author's view of dreams.",
+      "pt": "Ritmo, conteúdos novos, práticas artísticas e sonhos segundo o autor.",
+      "ocrReview": true
+    },
+    {
+      "capture": 137,
+      "en": "Retirement activity, psychiatric services, rehabilitation and organization.",
+      "pt": "Atividade na aposentadoria, psiquiatria, reabilitação e organização.",
+      "ocrReview": true
+    },
+    {
+      "capture": 138,
+      "en": "Personhood despite impairment, mysticism analogy and the violinist image.",
+      "pt": "Pessoa e limitação, analogia mística e imagem do violinista.",
+      "ocrReview": true
+    },
+    {
+      "capture": 139,
+      "en": "Chapter Seven: biography as composition, preparation and experience versus capacity.",
+      "pt": "Capítulo Sete: composição, preparo e experiência versus capacidade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 140,
+      "en": "Spiritualism, idealism and the author's historical account of consciousness.",
+      "pt": "Espiritualismo, idealismo e narrativa histórica da consciência.",
+      "ocrReview": true
+    },
+    {
+      "capture": 141,
+      "en": "Materialism, proposed realism and Western group-development movements.",
+      "pt": "Materialismo, realismo proposto e movimentos grupais ocidentais.",
+      "ocrReview": true
+    },
+    {
+      "capture": 142,
+      "en": "Mysteries and cultural development; contemporary paths toward realism.",
+      "pt": "Mistérios e cultura; caminhos contemporâneos ao realismo.",
+      "ocrReview": true
+    },
+    {
+      "capture": 143,
+      "en": "Phenomenology, inner practice, literature and different inward paths.",
+      "pt": "Fenomenologia, prática interior, literatura e caminhos internos.",
+      "ocrReview": true
+    },
+    {
+      "capture": 144,
+      "en": "Preparation and discernment; Jung's inward journey; Goethe's plant study.",
+      "pt": "Preparo e discernimento; percurso de Jung; plantas em Goethe.",
+      "ocrReview": true
+    },
+    {
+      "capture": 145,
+      "en": "Outward and inward paths, spiritual science and the question of purpose.",
+      "pt": "Caminhos exterior e interior, ciência espiritual e propósito.",
+      "ocrReview": true
+    },
+    {
+      "capture": 146,
+      "en": "Imagination, inspiration and intuition; truth, beauty and goodness.",
+      "pt": "Imaginação, inspiração e intuição; verdade, beleza e bondade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 147,
+      "en": "Rich inner life, inner voice, discipline, later learning and independent certainty.",
+      "pt": "Vida interior, voz interna, disciplina, aprender depois e certeza própria.",
+      "ocrReview": true
+    },
+    {
+      "capture": 148,
+      "en": "Unfinished letter, freedom, networks of relationship and two thresholds.",
+      "pt": "Carta inacabada, liberdade, relações e dois limiares.",
+      "ocrReview": true
+    },
+    {
+      "capture": 149,
+      "en": "Science, art, religion, technology for life and a Christian inward horizon.",
+      "pt": "Ciência, arte, religião, tecnologia para a vida e horizonte cristão.",
+      "ocrReview": true
+    },
+    {
+      "capture": 150,
+      "en": "Conclusion: relation of outward and inward paths and spiritual-social renewal.",
+      "pt": "Conclusão: relação dos caminhos e renovação espiritual-social.",
+      "ocrReview": true
+    },
+    {
+      "capture": 151,
+      "en": "Recommended reading begins, authors A–B.",
+      "pt": "Início das leituras recomendadas, autores A–B.",
+      "ocrReview": true
+    },
+    {
+      "capture": 152,
+      "en": "Recommended reading, authors B–F.",
+      "pt": "Leituras recomendadas, autores B–F.",
+      "ocrReview": true
+    },
+    {
+      "capture": 153,
+      "en": "Recommended reading, Freud through Kaufmann.",
+      "pt": "Leituras recomendadas, de Freud a Kaufmann.",
+      "ocrReview": true
+    },
+    {
+      "capture": 154,
+      "en": "Recommended reading, Künkel through Moers.",
+      "pt": "Leituras recomendadas, de Künkel a Moers.",
+      "ocrReview": true
+    },
+    {
+      "capture": 155,
+      "en": "Recommended reading, Moers through Skinner.",
+      "pt": "Leituras recomendadas, de Moers a Skinner.",
+      "ocrReview": true
+    },
+    {
+      "capture": 156,
+      "en": "Recommended reading ends, including Steiner and authors through Wijngaarden.",
+      "pt": "Fim das leituras recomendadas, incluindo Steiner e Wijngaarden.",
+      "ocrReview": true
+    },
+    {
+      "capture": 157,
+      "en": "Closing title screen; no further substantive chapter.",
+      "pt": "Tela final com título; sem outro capítulo substantivo.",
       "ocrReview": true
     }
-  ]
+  ],
+  "structureComplete": true,
+  "transcriptionVerified": false,
+  "previousSource": {
+    "captures": 53,
+    "sha256": "4b7fca40a71f45379df0fb4343743160c85a13a8693c53248d41f2bd2c841425",
+    "status": "superseded incomplete excerpt; retained in history"
+  }
 }

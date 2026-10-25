@@ -393,7 +393,7 @@ for(const prefix of ['', 'pt/'])for(const route of ['index.html',...startNowChap
 const preparationPractice=JSON.parse(fs.readFileSync('content/preparation-practice.json','utf8'));
 for(const prefix of ['', 'pt/'])for(const page of preparationPractice.pages)expectedRoutes.add(prefix+'what-is-biodynamics/practical/'+page.id+'.html');
 const phasesLessons=JSON.parse(fs.readFileSync('content/phases/course.json'));
-for(const prefix of ['', 'pt/'])for(const route of ['index.html','workbook.html','glossary.html','sources.html','print.html',...phasesLessons.map(l=>'lessons/'+String(l.id).padStart(2,'0')+'.html')])expectedRoutes.add(prefix+'learn/phases/'+route);
+for(const prefix of ['', 'pt/'])for(const route of ['index.html','coverage.html','workbook.html','glossary.html','sources.html','print.html',...phasesLessons.map(l=>'lessons/'+String(l.id).padStart(2,'0')+'.html')])expectedRoutes.add(prefix+'learn/phases/'+route);
 const {courseRoutes:beesCourseRoutes}=await import('../content/bees/course.mjs');
 for(const route of beesCourseRoutes)expectedRoutes.add(route);
 const {courseRoutes:esotericChristianityRoutes}=await import('../content/esoteric-christianity/course.mjs');
