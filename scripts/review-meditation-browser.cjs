@@ -7,7 +7,7 @@ try{for(const width of [1280,320])for(const js of [true,false]){
  await c.route('**/*',async r=>{const u=new URL(r.request().url());if(u.hostname!=='course.test')return r.abort();const f=path.resolve('docs','.'+decodeURIComponent(u.pathname));if(!f.startsWith(path.resolve('docs')+path.sep)||!fs.existsSync(f))return r.fulfill({status:404,body:'Missing'});return r.fulfill({contentType:({'.html':'text/html','.css':'text/css','.js':'application/javascript','.woff2':'font/woff2','.png':'image/png','.svg':'image/svg+xml'})[path.extname(f)]||'application/octet-stream',body:fs.readFileSync(f)});});
  const p=await c.newPage();p.on('pageerror',e=>errors.push(e.message));
  for(const prefix of ['', 'pt/'])for(const id of ['index','00','01','02','03','04','05','06','07','08']){
-  const url='http://course.test/'+prefix+'meditation/'+id+'.html';await p.goto(url);await p.waitForLoadState('load');
+  const url='http://course.test/'+prefix+'meditation/'+id+'.html';await p.goto(url);await p.waitForLoadState('load');await p.evaluate(()=>document.fonts.ready);
   assert.equal(await p.locator('h1').count(),1,url);assert.equal(await p.locator('html').getAttribute('lang'),prefix?'pt-BR':'en');
   assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),url+' overflow at '+width);
   const ids=await p.locator('[id]').evaluateAll(ns=>ns.map(n=>n.id));assert.equal(ids.length,new Set(ids).size,url+' IDs');

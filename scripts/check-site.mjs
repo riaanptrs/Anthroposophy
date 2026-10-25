@@ -78,6 +78,15 @@ for (const relative of files) {
   if(anchor&&!(target.endsWith(path.join('learn','steiner-documentary','index.html'))&&/^\/(?:$|lessons$|voices$|workbook$|resources$|lesson\/(?:[1-9]|1[0-2])$|source\/(?:[1-9]|[1-3][0-9]|4[0-3])$)/.test(anchor))&&!fs.readFileSync(target,'utf8').includes(`id="${anchor}"`)) errors.push(`${relative}: missing anchor ${href}`);
  }
  checkPlatformNavigation(relative,file,html);
+ if(/^(?:pt\/)?start-now\//.test(normalized)){
+  const pt=normalized.startsWith('pt/'),expected=pt?'pt-BR':'en';
+  if(!html.includes(`<html lang="${expected}">`))errors.push(`${relative}: wrong Start Now language`);
+  const alternate=html.match(/<link rel="alternate"[^>]*href="([^"]+)"/);
+  const partner=path.join(root,pt?normalized.slice(3):'pt/'+normalized);
+  if(!alternate||path.resolve(path.dirname(file),alternate[1])!==partner)errors.push(`${relative}: wrong Start Now language partner`);
+  if(normalized.includes('/lessons/')&&(!html.includes('data-start-now-lesson=')||!html.includes('class="sn-example"')||!html.includes('class="sn-answer"')))errors.push(`${relative}: incomplete owned Start Now teaching`);
+  continue;
+ }
  if(platformOwned){
   const lang=normalized.startsWith('pt/')?'pt':'en',partner=path.join(root,lang==='pt'?normalized.slice(3):'pt/'+normalized);
   if(!html.includes(`<html lang="${lang==='pt'?'pt-BR':'en'}">`))errors.push(`${relative}: wrong conceptual page language`);
@@ -379,6 +388,8 @@ for(const prefix of ['', 'pt/']){
 // Derive an exact route inventory from the publication data. Shared English research
 // notes are published once; Portuguese indexes link those same documents.
 const expectedRoutes=new Set(['learn/steiner-documentary/index.html','pt/learn/steiner-documentary/index.html']);
+const {chapters:startNowChapters,lessons:startNowLessons}=await import('../content/start-now/course.mjs');
+for(const prefix of ['', 'pt/'])for(const route of ['index.html',...startNowChapters.map(c=>'chapters/'+c.id+'.html'),...startNowLessons.map(l=>'lessons/'+l.id+'.html')])expectedRoutes.add(prefix+'start-now/'+route);
 const preparationPractice=JSON.parse(fs.readFileSync('content/preparation-practice.json','utf8'));
 for(const prefix of ['', 'pt/'])for(const page of preparationPractice.pages)expectedRoutes.add(prefix+'what-is-biodynamics/practical/'+page.id+'.html');
 const {courseRoutes:beesCourseRoutes}=await import('../content/bees/course.mjs');

@@ -1,5 +1,7 @@
 # Anthroposophy
 
+**Start Now!** now has its own [complete chapter-based course](https://riaanptrs.github.io/Anthroposophy/start-now/index.html): 38 bilingual lessons across all 17 book sections. Lessons explain purpose, preparation, when to use each practice, steps, examples and questions with answers. The practice readers include 188 selected source pages and 146 original page images, including the longer meditation sequences and historical figures. The nine-session Meditation course, Weekly Meditations and Foundation Stone studies remain companions. See the [source and teaching review](content/start-now-course-review.md). Build with `node scripts/build-all.mjs`; verify with `node scripts/check-start-now.mjs` and `node scripts/review-start-now-browser.cjs`.
+
 **The Challenge of Rudolf Steiner — A Documentary Course** is now included at `docs/learn/steiner-documentary/index.html`, with a Portuguese entry at `docs/pt/learn/steiner-documentary/index.html`. All twelve English lessons, the 43-section reader, workbook and teaching resources are preserved from the existing Site. The main course directory links to it and to the updated *Start Now!* meditation course. Source and portable assets are in [courses/steiner-documentary](courses/steiner-documentary/README.md).
 
 The [direct teaching revision](reviews/pedagogy/TEACHING-COURSE-RESET.md)

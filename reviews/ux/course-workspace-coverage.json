@@ -143,6 +143,12 @@
       "home": "learn/bees/index.html",
       "lessons": 23,
       "groups": 13
+    },
+    {
+      "id": "start-now",
+      "home": "start-now/index.html",
+      "lessons": 38,
+      "groups": 17
     }
   ],
   "pages": [
@@ -5987,6 +5993,286 @@
       "role": "overview"
     },
     {
+      "page": "pt/start-now/chapters/appendices.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/christian.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/dead.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/foundation.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/guardians.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/instructions.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/introduction.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/lotus.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/prologue.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/retrospect.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/reverence.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/rosicrucian.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/school.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/six-exercises.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/sources.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/thinking.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/chapters/year.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "pt/start-now/index.html",
+      "course": "start-now",
+      "role": "overview"
+    },
+    {
+      "page": "pt/start-now/lessons/body-spirit-and-cosmic-work.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/calendar-all-weeks.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/choose-a-path.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/christian-morning-evening-programmes.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/eight-soul-processes.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/festival-meditations.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/figures-and-geometry.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/find-and-compare-sources.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/five-daily-meditations.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/foundation-as-integration.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/greater-guardian-and-service.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/guardian-mantra-sound-and-butterfly.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/heart-attention-and-harmony.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/i-am-and-body-references.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/idealism-and-aesthetic-unity.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/imagination-inspiration-intuition.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/independent-rosicrucian-study.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/john-and-seven-stages.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/lesser-guardian.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/living-sentences.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/months-and-weekdays.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/our-father-and-renewal.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/planetary-seven-moods.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/reading-and-remembering.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/reverence-and-listening.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/review-in-reverse.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/rose-cross-and-variants.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/seed-and-plant.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/short-daily-sitting.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/signature-fire-water-and-service.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/six-capacities.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/thinking-and-freedom.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/trust-in-thinking.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/verses-for-particular-losses.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/wagner-and-regularity.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/wisdom-and-three-mantras.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/yearning-and-knowledge.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/start-now/lessons/zodiac-and-monthly-virtues.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
       "page": "pt/temperaments/chapters/lecture-four-portraits.html",
       "course": "temperaments",
       "role": "reference"
@@ -6475,6 +6761,286 @@
       "page": "read/theosophy/index.html",
       "course": "theosophy-reading",
       "role": "overview"
+    },
+    {
+      "page": "start-now/chapters/appendices.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/christian.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/dead.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/foundation.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/guardians.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/instructions.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/introduction.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/lotus.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/prologue.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/retrospect.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/reverence.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/rosicrucian.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/school.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/six-exercises.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/sources.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/thinking.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/chapters/year.html",
+      "course": "start-now",
+      "role": "reference"
+    },
+    {
+      "page": "start-now/index.html",
+      "course": "start-now",
+      "role": "overview"
+    },
+    {
+      "page": "start-now/lessons/body-spirit-and-cosmic-work.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/calendar-all-weeks.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/choose-a-path.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/christian-morning-evening-programmes.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/eight-soul-processes.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/festival-meditations.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/figures-and-geometry.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/find-and-compare-sources.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/five-daily-meditations.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/foundation-as-integration.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/greater-guardian-and-service.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/guardian-mantra-sound-and-butterfly.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/heart-attention-and-harmony.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/i-am-and-body-references.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/idealism-and-aesthetic-unity.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/imagination-inspiration-intuition.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/independent-rosicrucian-study.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/john-and-seven-stages.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/lesser-guardian.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/living-sentences.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/months-and-weekdays.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/our-father-and-renewal.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/planetary-seven-moods.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/reading-and-remembering.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/reverence-and-listening.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/review-in-reverse.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/rose-cross-and-variants.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/seed-and-plant.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/short-daily-sitting.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/signature-fire-water-and-service.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/six-capacities.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/thinking-and-freedom.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/trust-in-thinking.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/verses-for-particular-losses.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/wagner-and-regularity.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/wisdom-and-three-mantras.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/yearning-and-knowledge.html",
+      "course": "start-now",
+      "role": "lesson"
+    },
+    {
+      "page": "start-now/lessons/zodiac-and-monthly-virtues.html",
+      "course": "start-now",
+      "role": "lesson"
     },
     {
       "page": "temperaments/chapters/lecture-four-portraits.html",
