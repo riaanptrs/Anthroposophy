@@ -1,3 +1,4 @@
+import {chapters as freedomBookChapters} from '../content/freedom-revision/reference.mjs';
 import {modules as phasesModules} from '../content/phases/reference.mjs';
 import fs from 'node:fs';
 import {chapters as startNowChapters,lessons as startNowLessons,courseTitle as startNowTitle} from '../content/start-now/course.mjs';
@@ -26,6 +27,11 @@ export function workspaceCourses(){
    groups=cat.parts.map(p=>({en:p.titleEn,pt:p.titlePt,routes:p.groups.flatMap(g=>g.lessonIds||[]).map(n=>byId.get(n)).filter(Boolean)}));
    for(const l of lessons)l.optional=cat.lessons.find(x=>x.pathEn.slice(5)===l.route)?.optional===true;
    const order=cat.lessonIds.map(n=>byId.get(n));lessons.sort((a,b)=>order.indexOf(a.route)-order.indexOf(b.route));
+  }
+  if(id==='philosophy-of-freedom'){
+   // The six legacy practices remain linked from their chapters; count the sixteen core stages.
+   const core=freedomBookChapters.map(c=>id+'/lessons/'+String(c.parent).padStart(2,'0')+'.html');
+   lessons=lessons.filter(l=>core.includes(l.route));
   }
   if(id==='waldorf'){
    const items=loadWaldorfContent();const labels={foundations:['Foundations','Fundamentos'],development:['Development','Desenvolvimento'],grades:['Grades 1–9','Do 1º ao 9º ano'],subjects:['Subject pathways','Percursos das matérias'],parents:['Parent questions','Perguntas das famílias']};

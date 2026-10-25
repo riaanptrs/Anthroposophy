@@ -751,5 +751,65 @@
     "last_reviewed": "2026-10-01",
     "review_notes": "agriculture-reading-review.md",
     "type": "Supplied OCR Markdown companion; full marked-page review, without native PDF visual verification."
+  },
+  {
+    "filename": "The philosophy of freedom Michael wilson.review.json",
+    "bytes": 88214,
+    "sha256": "96dac7e3dc2a11c6c6158e5be25489f2f215fb9d3abb749711956a50bc9e86b3",
+    "registered": "2026-10-25",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "The philosophy of freedom Michael wilson.audit.md",
+    "bytes": 516985,
+    "sha256": "cde55ea736a628b4d50c36be25e03e2a728e77d1f37cf626635787b6dea9d459",
+    "registered": "2026-10-25",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "The philosophy of freedom Michael wilson.md",
+    "bytes": 482067,
+    "sha256": "c110de1ed32c83a83cc45ecd525f0b2a4954f6e9034bc833eaed5397ed0b21ad",
+    "registered": "2026-10-25",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "The philosophy of freedom Michael wilson.pdf",
+    "bytes": 29986694,
+    "sha256": "2eb49fca0d12a187fef8857246b0e11ef4c901a74295aeb21e62745d48756de3",
+    "registered": "2026-10-25",
+    "contents_in_repository": false,
+    "pdf_pages": 173,
+    "actual_edition": "Michael Wilson, 2012, eighth English edition"
+  },
+  {
+    "filename": "The philosophy of freedom 3rd edition.audit.md",
+    "bytes": 184556,
+    "sha256": "66c88cc812f6321604df2754f1e9b2952c28bf364e5a23671c3dea1fe0b80228",
+    "registered": "2026-10-25",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "The philosophy of freedom 3rd edition.review.json",
+    "bytes": 49506,
+    "sha256": "c06f120438882745761a5d3d1ad793abab79e741717609c0b1e5d35547ec244b",
+    "registered": "2026-10-25",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "The philosophy of freedom 3rd edition.md",
+    "bytes": 166305,
+    "sha256": "9b840bb59cb8cda592f7db1babcfc6585443db629b3cbbd95cb56d54cdacad64",
+    "registered": "2026-10-25",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "The philosophy of freedom 3rd edition.pdf",
+    "bytes": 9866472,
+    "sha256": "d5991bf3c1a4ab9df01d8f8159bb0a1d32c9ad304c7479d2793e1c1c8a5e97c5",
+    "registered": "2026-10-25",
+    "contents_in_repository": false,
+    "pdf_pages": 84,
+    "actual_edition": "Frederick Amrine, 2022, The Essential Philosophy of Freedom: Third Expanded Edition (abridged)"
   }
 ]

@@ -99,7 +99,7 @@
     {
       "id": "philosophy-of-freedom",
       "home": "philosophy-of-freedom/index.html",
-      "lessons": 22,
+      "lessons": 16,
       "groups": 4
     },
     {
@@ -3199,9 +3199,14 @@
       "role": "reference"
     },
     {
-      "page": "philosophy-of-freedom/index.html",
+      "page": "philosophy-of-freedom/coverage.html",
       "course": "philosophy-of-freedom",
-      "role": "overview"
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/glossary.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
     },
     {
       "page": "philosophy-of-freedom/lessons/00.html",
@@ -3221,7 +3226,7 @@
     {
       "page": "philosophy-of-freedom/lessons/03.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "philosophy-of-freedom/lessons/04.html",
@@ -3236,7 +3241,7 @@
     {
       "page": "philosophy-of-freedom/lessons/06.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "philosophy-of-freedom/lessons/07.html",
@@ -3246,7 +3251,7 @@
     {
       "page": "philosophy-of-freedom/lessons/08.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "philosophy-of-freedom/lessons/09.html",
@@ -3271,7 +3276,7 @@
     {
       "page": "philosophy-of-freedom/lessons/13.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "philosophy-of-freedom/lessons/14.html",
@@ -3291,7 +3296,7 @@
     {
       "page": "philosophy-of-freedom/lessons/17.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "philosophy-of-freedom/lessons/18.html",
@@ -3301,7 +3306,7 @@
     {
       "page": "philosophy-of-freedom/lessons/19.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "philosophy-of-freedom/lessons/20.html",
@@ -3312,6 +3317,201 @@
       "page": "philosophy-of-freedom/lessons/21.html",
       "course": "philosophy-of-freedom",
       "role": "lesson"
+    },
+    {
+      "page": "philosophy-of-freedom/print.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/sources.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/01.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/02.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/03.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/04.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/05.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/06.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/07.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/08.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/09.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/10.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/11.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/12.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/13.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/14.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/15.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/16.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/17.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/18.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/19.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/20.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/21.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/22.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/23.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/24.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/25.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/26.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/27.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/28.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/29.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/30.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/31.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/32.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/33.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/34.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/35.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/studies/36.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "philosophy-of-freedom/workbook.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
     },
     {
       "page": "practical-thinking/index.html",
@@ -6449,9 +6649,14 @@
       "role": "reference"
     },
     {
-      "page": "pt/philosophy-of-freedom/index.html",
+      "page": "pt/philosophy-of-freedom/coverage.html",
       "course": "philosophy-of-freedom",
-      "role": "overview"
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/glossary.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
     },
     {
       "page": "pt/philosophy-of-freedom/lessons/00.html",
@@ -6471,7 +6676,7 @@
     {
       "page": "pt/philosophy-of-freedom/lessons/03.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "pt/philosophy-of-freedom/lessons/04.html",
@@ -6486,7 +6691,7 @@
     {
       "page": "pt/philosophy-of-freedom/lessons/06.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "pt/philosophy-of-freedom/lessons/07.html",
@@ -6496,7 +6701,7 @@
     {
       "page": "pt/philosophy-of-freedom/lessons/08.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "pt/philosophy-of-freedom/lessons/09.html",
@@ -6521,7 +6726,7 @@
     {
       "page": "pt/philosophy-of-freedom/lessons/13.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "pt/philosophy-of-freedom/lessons/14.html",
@@ -6541,7 +6746,7 @@
     {
       "page": "pt/philosophy-of-freedom/lessons/17.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "pt/philosophy-of-freedom/lessons/18.html",
@@ -6551,7 +6756,7 @@
     {
       "page": "pt/philosophy-of-freedom/lessons/19.html",
       "course": "philosophy-of-freedom",
-      "role": "lesson"
+      "role": "reference"
     },
     {
       "page": "pt/philosophy-of-freedom/lessons/20.html",
@@ -6562,6 +6767,201 @@
       "page": "pt/philosophy-of-freedom/lessons/21.html",
       "course": "philosophy-of-freedom",
       "role": "lesson"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/print.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/sources.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/01.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/02.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/03.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/04.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/05.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/06.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/07.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/08.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/09.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/10.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/11.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/12.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/13.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/14.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/15.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/16.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/17.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/18.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/19.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/20.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/21.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/22.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/23.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/24.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/25.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/26.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/27.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/28.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/29.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/30.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/31.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/32.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/33.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/34.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/35.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/studies/36.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
+    },
+    {
+      "page": "pt/philosophy-of-freedom/workbook.html",
+      "course": "philosophy-of-freedom",
+      "role": "reference"
     },
     {
       "page": "pt/practical-thinking/index.html",

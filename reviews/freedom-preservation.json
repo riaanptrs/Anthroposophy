@@ -1,0 +1,35 @@
+{
+  "baseline": "08e555b92140f16d8290ee7608c559c74e9d8318",
+  "sourceAndStudyData": [
+    {
+      "path": "content/passage-study.json",
+      "unchanged": true,
+      "sha256": "cc0e8eeba6a2c5d2e41bb3205c16e7bc73a0e9fd9c00623998cbe2377503831d"
+    },
+    {
+      "path": "content/philosophy-of-freedom-consolidated.mjs",
+      "unchanged": true,
+      "sha256": "421f8c8a8b54625b78687a47f74eddebda088974de1100cb883fa6378389a580"
+    },
+    {
+      "path": "content/philosophy-of-freedom-clear-lessons.json",
+      "unchanged": true,
+      "sha256": "629598d23cedcb96eabcdbd0e96e7461bc7ec26afa7544ac52be695c56cc14e1"
+    },
+    {
+      "path": "content/philosophy-of-freedom-lecture-guides.mjs",
+      "unchanged": true,
+      "sha256": "dd4b5e5403a933cc4c0b2f89fa6616719c10cb71536b3443e4c949efe14683ff"
+    },
+    {
+      "path": "content/learning-system-catalogue.json",
+      "unchanged": true,
+      "sha256": "322770bb742f3d8441c25727b045291e1c4a66b403169fd4b895f0c9a9e174ea"
+    }
+  ],
+  "lessonRoutesRetained": 22,
+  "coreStagesRetained": 16,
+  "optionalPracticesRetained": 6,
+  "notebookKeysRetained": 22,
+  "details": "New teaching is added by a separate renderer. Existing quotations, source locators, prior teaching, activities, catalogue identities and lecture guides are retained."
+}

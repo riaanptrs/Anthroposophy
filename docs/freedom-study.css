@@ -1,0 +1,25 @@
+.freedom-detailed-teaching,.freedom-revision-overview{margin-block:2.5rem;padding-block:1rem;border-top:2px solid var(--line,#c6c5b7)}
+.freedom-study-unit{margin-block:2.5rem;padding-block:1rem;border-bottom:1px solid var(--line,#c6c5b7);scroll-margin-top:5rem}
+.freedom-study-resources{display:flex;flex-wrap:wrap;gap:.65rem 1.2rem;margin-block:1rem 1.6rem;font-size:.95rem}
+.freedom-study-resources a{display:inline-block;padding:.35rem 0;line-height:1.5}
+.freedom-study-contents li{margin-block:.7rem}
+.freedom-study-source{font-size:.9rem;line-height:1.6;color:var(--muted,#55584d)}
+.freedom-study-step{line-height:1.85;margin-block:1.3rem;max-width:75ch}
+.freedom-step-number{font-weight:bold;color:var(--accent,#345642);padding-right:.4rem}
+.freedom-study-example{border-left:3px solid #8b9c88;padding:.6rem 1.2rem;background:#eef1e980;margin-block:1.5rem}
+.freedom-study-check,.freedom-study-exercise{margin-block:1.6rem}
+.freedom-study-check summary{cursor:pointer;padding:.8rem .5rem;min-height:44px;line-height:1.5}
+.freedom-study-unit h3,.freedom-study-unit h4{line-height:1.35;overflow-wrap:anywhere}
+.freedom-study-unit h4{font-size:1.1rem}
+.freedom-witness-note{font-size:.95rem;line-height:1.65}
+.freedom-table-scroll{max-width:100%;overflow-x:auto;margin-block:1.5rem}
+.freedom-study-table{width:100%;border-collapse:collapse;min-width:34rem;font-size:.95rem}
+.freedom-study-table th,.freedom-study-table td{text-align:left;vertical-align:top;padding:.8rem;border-bottom:1px solid #c9ccbd;line-height:1.65}
+.freedom-study-table thead th{background:#e8ede5}
+.freedom-study-table a{display:inline-block;margin-block:.2rem}
+.freedom-source-hash{overflow-wrap:anywhere;font-size:.8rem}
+.freedom-glossary div{padding-block:1rem;border-bottom:1px solid #c9ccbd}
+.freedom-glossary dt{font-weight:bold;font-size:1.1rem;margin-bottom:.4rem}
+.freedom-glossary dd{margin-inline:0;line-height:1.75;max-width:75ch}
+@media(max-width:600px){.freedom-study-example{padding-inline:.8rem}.freedom-study-unit{margin-block:1.7rem}.freedom-study-contents{padding-left:1.2rem}}
+@media print{.freedom-study-resources,.lesson-navigation,header,footer,.cw-sidebar,.cw-topbar,.cw-mobile-bar{display:none!important}.freedom-study-unit{break-inside:auto}.freedom-study-example,.freedom-study-check{break-inside:avoid}.freedom-study-source{font-size:9pt}.freedom-detailed-course{max-width:none!important}.freedom-study-step{max-width:none}}

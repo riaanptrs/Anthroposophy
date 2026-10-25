@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "cases": 312,
+  "widths": [
+    320,
+    1280
+  ],
+  "javascript": [
+    false,
+    true
+  ],
+  "checks": [
+    "every new study and resource in both languages without JavaScript",
+    "all main chapter explanations visible without disclosures",
+    "integration samples with JavaScript and course workspace",
+    "keyboard answer disclosures",
+    "one h1 and correct language",
+    "no duplicate IDs",
+    "no document horizontal overflow",
+    "local assets load under GitHub Pages path prefix",
+    "overview to study and next-study navigation",
+    "all print answers visible"
+  ],
+  "limits": [
+    "No learner study",
+    "External links not visited",
+    "Original PDF wording checked selectively, not as a browser test"
+  ]
+}

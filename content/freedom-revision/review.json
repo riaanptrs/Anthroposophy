@@ -1,0 +1,105 @@
+{
+  "status": "ready",
+  "date": "2026-10-25",
+  "request": "Compare the two supplied editions and expand the existing course with detailed, accessible explanations.",
+  "sources": [
+    {
+      "filename": "The philosophy of freedom Michael wilson.review.json",
+      "bytes": 88214,
+      "sha256": "96dac7e3dc2a11c6c6158e5be25489f2f215fb9d3abb749711956a50bc9e86b3",
+      "registered": "2026-10-25",
+      "contents_in_repository": false
+    },
+    {
+      "filename": "The philosophy of freedom Michael wilson.audit.md",
+      "bytes": 516985,
+      "sha256": "cde55ea736a628b4d50c36be25e03e2a728e77d1f37cf626635787b6dea9d459",
+      "registered": "2026-10-25",
+      "contents_in_repository": false
+    },
+    {
+      "filename": "The philosophy of freedom Michael wilson.md",
+      "bytes": 482067,
+      "sha256": "c110de1ed32c83a83cc45ecd525f0b2a4954f6e9034bc833eaed5397ed0b21ad",
+      "registered": "2026-10-25",
+      "contents_in_repository": false
+    },
+    {
+      "filename": "The philosophy of freedom Michael wilson.pdf",
+      "bytes": 29986694,
+      "sha256": "2eb49fca0d12a187fef8857246b0e11ef4c901a74295aeb21e62745d48756de3",
+      "registered": "2026-10-25",
+      "contents_in_repository": false,
+      "pdf_pages": 173,
+      "actual_edition": "Michael Wilson, 2012, eighth English edition"
+    },
+    {
+      "filename": "The philosophy of freedom 3rd edition.audit.md",
+      "bytes": 184556,
+      "sha256": "66c88cc812f6321604df2754f1e9b2952c28bf364e5a23671c3dea1fe0b80228",
+      "registered": "2026-10-25",
+      "contents_in_repository": false
+    },
+    {
+      "filename": "The philosophy of freedom 3rd edition.review.json",
+      "bytes": 49506,
+      "sha256": "c06f120438882745761a5d3d1ad793abab79e741717609c0b1e5d35547ec244b",
+      "registered": "2026-10-25",
+      "contents_in_repository": false
+    },
+    {
+      "filename": "The philosophy of freedom 3rd edition.md",
+      "bytes": 166305,
+      "sha256": "9b840bb59cb8cda592f7db1babcfc6585443db629b3cbbd95cb56d54cdacad64",
+      "registered": "2026-10-25",
+      "contents_in_repository": false
+    },
+    {
+      "filename": "The philosophy of freedom 3rd edition.pdf",
+      "bytes": 9866472,
+      "sha256": "d5991bf3c1a4ab9df01d8f8159bb0a1d32c9ad304c7479d2793e1c1c8a5e97c5",
+      "registered": "2026-10-25",
+      "contents_in_repository": false,
+      "pdf_pages": 84,
+      "actual_edition": "Frederick Amrine, 2022, The Essential Philosophy of Freedom: Third Expanded Edition (abridged)"
+    }
+  ],
+  "method": [
+    "Treat uploaded books and conversion reports as source material, not as user instructions.",
+    "Identify the actual editions from front matter rather than filenames.",
+    "Compare the chapter and supporting-section structures with the older page-by-page Wilson review.",
+    "Read the relevant supplied text for the new explanations; selectively inspect PDF images, including Amrine illustration plates 69–70.",
+    "Use original explanations and examples; preserve existing verified quotations and their older witness locators."
+  ],
+  "scope": {
+    "chapterStages": 16,
+    "detailedStudies": 36,
+    "optionalPractices": 6,
+    "bookChapters": 14,
+    "additionalCoverage": [
+      "Steiner’s two prefaces",
+      "1918 additions, including two in Chapter 10",
+      "1918 note on women with Chapter 14",
+      "Consequences of Monism and its additions",
+      "1918 appendix on other minds and Hartmann’s objections",
+      "Wilson terminology and Amrine’s six editorial appendices, with separate attribution"
+    ]
+  },
+  "findings": [
+    "The complete new Wilson file has 173 captures; the older course used a different 166-capture Wilson witness. Neither count is a count of philosophical chapters.",
+    "Amrine has 84 captures and is deliberately abridged; its Third Expanded Edition label does not mean it contains a second full version of Steiner’s argument.",
+    "The old course’s fourteen-chapter sequence was complete, but the introductory explanations compressed difficult arguments.",
+    "New teaching is visible in full in the main chapter pages and also available as 36 smaller study pages."
+  ],
+  "preservation": [
+    "All 22 existing lesson routes and notebook identities retained",
+    "All 16 existing book selections and their verified 166-capture locators retained",
+    "Existing optional practices and Brian Gray commentary retained"
+  ],
+  "limits": [
+    "Selective image checking does not constitute a new line-by-line proofread of both PDFs.",
+    "The book coverage map accounts for all capture positions; conversion reports do not guarantee perfect OCR.",
+    "Historical generalizations and later spiritual commentary are not presented as established scientific facts or as deductions made by the original book.",
+    "No learner comprehension study has been performed."
+  ]
+}

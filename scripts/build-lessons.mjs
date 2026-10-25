@@ -117,6 +117,7 @@ await import('./build-waldorf.mjs');
 await import('./build-waldorf-teaching.mjs');
 buildLinks();
 fs.copyFileSync(new URL('./assets/nutrition.css', import.meta.url), 'docs/nutrition.css');
+const {applyFreedomStudy}=await import('./build-freedom-study.mjs');
 const {buildConceptPlatform} = await import('./build-concept-platform.mjs');
 buildConceptPlatform({model:conceptualCourse});
 
@@ -145,6 +146,7 @@ const {buildCompanionClarity}=await import('./build-temperament-companions-clari
 buildCompanionClarity();
 
 buildPhasesConnections();
+applyFreedomStudy();
 
 // Layout enhancement comes last and preserves every owner-rendered main document.
 const {buildCourseWorkspace}=await import('./build-course-workspace.mjs');

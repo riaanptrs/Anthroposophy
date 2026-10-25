@@ -1,0 +1,101 @@
+{
+  "total": 59,
+  "passed": 46,
+  "failed": 13,
+  "newFailures": [],
+  "baselineReport": "reviews/phases-validation.json",
+  "baselineCommit": "08e555b92140f16d8290ee7608c559c74e9d8318",
+  "firstFailureComparison": [
+    {
+      "check": "check-biodynamics-source.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: content/passage-study.json changed during anthology integration",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: content/passage-study.json changed during anthology integration",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-constitution.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: docs/nutrition/sources.html has unlinked terminology",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: docs/nutrition/sources.html has unlinked terminology",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-foundations-clarity.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: docs/meditation/00.html exact retained original content",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: docs/meditation/00.html exact retained original content",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-freedom-clarity.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: Source record unchanged: content/passage-study.json",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: Source record unchanged: content/passage-study.json",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-guided-study.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: learn/steiner-documentary/index.html shared navigation styles",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: learn/steiner-documentary/index.html shared navigation styles",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-language-editorial.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: All quotation/attribution/locator fields remain exact 130",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: All quotation/attribution/locator fields remain exact 130",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-learning-system.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: learn/steiner-documentary/index.html shared assets",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: learn/steiner-documentary/index.html shared assets",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-practical-thinking.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: passage-study.json changed during scoped Practical revision",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: passage-study.json changed during scoped Practical revision",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-practice-courses.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: passage-study.json changed during scoped Practical revision",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: passage-study.json changed during scoped Practical revision",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-temperament-refinement.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: Historical source/question banks remain unchanged",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: Historical source/question banks remain unchanged",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-theosophy.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: Historical bank must remain byte-identical: passage-study.json",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: Historical bank must remain byte-identical: passage-study.json",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-thinking-depth.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: passage-study.json changed during scoped Practical revision",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: passage-study.json changed during scoped Practical revision",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    },
+    {
+      "check": "check-threefold-source.mjs",
+      "currentFirstFailure": "AssertionError [ERR_ASSERTION]: content/passage-study.json changed during threefold source integration",
+      "previousFirstFailure": "AssertionError [ERR_ASSERTION]: content/passage-study.json changed during threefold source integration",
+      "sameFirstFailure": true,
+      "previouslyFailed": true
+    }
+  ]
+}

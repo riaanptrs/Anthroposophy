@@ -387,7 +387,9 @@ for(const prefix of ['', 'pt/']){
 }
 // Derive an exact route inventory from the publication data. Shared English research
 // notes are published once; Portuguese indexes link those same documents.
+const freedomDetailed=JSON.parse(fs.readFileSync('content/freedom-revision/units.json'));
 const expectedRoutes=new Set(['learn/steiner-documentary/index.html','pt/learn/steiner-documentary/index.html']);
+for(const prefix of ['', 'pt/'])for(const route of ['coverage.html','sources.html','glossary.html','workbook.html','print.html',...freedomDetailed.map(l=>'studies/'+String(l.id).padStart(2,'0')+'.html')])expectedRoutes.add(prefix+'philosophy-of-freedom/'+route);
 const {chapters:startNowChapters,lessons:startNowLessons}=await import('../content/start-now/course.mjs');
 for(const prefix of ['', 'pt/'])for(const route of ['index.html',...startNowChapters.map(c=>'chapters/'+c.id+'.html'),...startNowLessons.map(l=>'lessons/'+l.id+'.html')])expectedRoutes.add(prefix+'start-now/'+route);
 const preparationPractice=JSON.parse(fs.readFileSync('content/preparation-practice.json','utf8'));
