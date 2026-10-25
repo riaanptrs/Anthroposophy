@@ -16,7 +16,7 @@ Irradia a natureza divina de minha alma.
 Repouso na divindade do mundo;
 Encontrarei a mim mesmo
 Na divindade do mundo.`},
-{id:'week-1',enTitle:'Calendar of the Soul · Week 1 · Easter mood',ptTitle:'Calendário da Alma · Semana 1 · Atmosfera de Páscoa',source:'Weekly Meditations (2008), capture 11. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',sourcePt:"Weekly Meditations (2008), captura 11. Rudolf Steiner; tradução inglesa de Christopher Bamford. Nova tradução em português preparada para este curso.",en:`When the Sun speaks to human sense
+{id:'week-1',enTitle:'Calendar of the Soul · Week 1 · Easter mood',ptTitle:'Calendário da Alma · Semana 1 · Atmosfera de Páscoa',source:'Weekly Meditations (2008), new supplied 100-page PDF pp. 13–14. Rudolf Steiner; English translation Christopher Bamford. Verse visually checked; new Portuguese course translation.',sourcePt:"Weekly Meditations (2008), novo PDF fornecido de 100 páginas pp. 13–14. Rudolf Steiner; tradução inglesa de Christopher Bamford. Verso conferido na imagem; nova tradução de estudo em português.",en:`When the Sun speaks to human sense
 From cosmic widths of space,
 And from depths of soul
 Joy unites with light in seeing—
@@ -31,7 +31,7 @@ Então, dos invólucros da individualidade,
 Os pensamentos se movem até os confins do espaço,
 Ligando obscuramente
 A essência humana ao ser do espírito.`},
-{id:'week-13',enTitle:'Calendar of the Soul · Week 13',ptTitle:'Calendário da Alma · Semana 13',source:'Weekly Meditations (2008), capture 20. Heading OCR reads “WOOK LD”; identified by position between weeks 12 and 14 and comparison with Start Now!, capture 102. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',sourcePt:"Weekly Meditations (2008), captura 20. O cabeçalho em OCR diz “WOOK LD”; a semana foi identificada pela posição entre as semanas 12 e 14 e pela comparação com Start Now!, captura 102. Rudolf Steiner; tradução inglesa de Christopher Bamford. Nova tradução em português preparada para este curso.",en:`At the height of sensory experience
+{id:'week-13',enTitle:'Calendar of the Soul · Week 13',ptTitle:'Calendário da Alma · Semana 13',source:'Weekly Meditations (2008), new supplied PDF pp. 29–30; verse on p. 29. Week heading and wording visually checked in the new copy. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',sourcePt:"Weekly Meditations (2008), novo PDF fornecido pp. 29–30; verso na p. 29. Cabeçalho e texto conferidos visualmente na nova cópia. Rudolf Steiner; tradução inglesa de Christopher Bamford. Nova tradução de estudo em português.",en:`At the height of sensory experience
 There flames deep within my soul
 From spirit’s fiery worlds
 The true word of the gods:
@@ -42,7 +42,7 @@ Dos mundos ígneos do espírito,
 A verdadeira palavra dos deuses:
 “Busca, em pressentimento, nos fundamentos do espírito,
 Encontrar-te em parentesco com o espírito.”`},
-{id:'week-26',enTitle:'Calendar of the Soul · Week 26 · Michaelmas mood',ptTitle:'Calendário da Alma · Semana 26 · Atmosfera de Micael',source:'Weekly Meditations (2008), captures 29–30; damaged line checked against Start Now!, capture 104. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',sourcePt:"Weekly Meditations (2008), capturas 29–30; verso danificado conferido em Start Now!, captura 104. Rudolf Steiner; tradução inglesa de Christopher Bamford. Nova tradução em português preparada para este curso.",en:`Nature, I bear your motherly being
+{id:'week-26',enTitle:'Calendar of the Soul · Week 26 · Michaelmas mood',ptTitle:'Calendário da Alma · Semana 26 · Atmosfera de Micael',source:'Weekly Meditations (2008), new supplied PDF pp. 45–47; verse on pp. 45–46, visually checked. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',sourcePt:"Weekly Meditations (2008), novo PDF fornecido pp. 45–47; verso nas pp. 45–46, conferido visualmente. Rudolf Steiner; tradução inglesa de Christopher Bamford. Nova tradução de estudo em português.",en:`Nature, I bear your motherly being
 In the essence of my will,
 Whose fiery force
 Steels my spirit’s desires
@@ -53,7 +53,7 @@ Cuja força ígnea
 Fortalece os anseios de meu espírito
 Para que deem à luz a autoconsciência
 E eu me sustente em mim.`},
-{id:'week-38',enTitle:'Calendar of the Soul · Week 38 · Christmas mood',ptTitle:'Calendário da Alma · Semana 38 · Atmosfera de Natal',source:'Weekly Meditations (2008), capture 39. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',sourcePt:"Weekly Meditations (2008), captura 39. Rudolf Steiner; tradução inglesa de Christopher Bamford. Nova tradução em português preparada para este curso.",en:`As if freed from enchantment, I feel
+{id:'week-38',enTitle:'Calendar of the Soul · Week 38 · Christmas mood',ptTitle:'Calendário da Alma · Semana 38 · Atmosfera de Natal',source:'Weekly Meditations (2008), new supplied PDF pp. 61–63; heading on p. 61 and verse on p. 62, visually checked. Rudolf Steiner; English translation Christopher Bamford. New Portuguese course translation.',sourcePt:"Weekly Meditations (2008), novo PDF fornecido pp. 61–63; cabeçalho na p. 61 e verso na p. 62, conferidos visualmente. Rudolf Steiner; tradução inglesa de Christopher Bamford. Nova tradução de estudo em português.",en:`As if freed from enchantment, I feel
 The spirit child in the soul’s womb,
 In the brightness of the heart
 The holy Word of Worlds has produced

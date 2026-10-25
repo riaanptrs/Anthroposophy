@@ -8,3 +8,11 @@ document.addEventListener('DOMContentLoaded',()=>{
  const hero=document.querySelector('main > .cw-hero');
  if(guide&&hero)hero.after(guide);
 });
+
+const weeklyMirror=document.querySelector('[data-weekly-mirror]');
+if(weeklyMirror)weeklyMirror.disabled=false;
+weeklyMirror?.addEventListener('change',()=>{
+ const option=weeklyMirror.selectedOptions[0],week=Number(option.value);
+ const label=document.documentElement.lang==='en'?'Week':'Semana';
+ document.querySelector('#mirror-result').textContent=`${label} ${week} ↔ ${label} ${53-week} · ${option.dataset.theme} ↔ ${option.dataset.partnerTheme} · PDF ${option.dataset.pdf} / ${option.dataset.partnerPdf}`;
+});

@@ -184,8 +184,8 @@ export const meditationLessons=[
   },
   {
     "id": 4,
-    "refs": "Weekly Meditations, earlier captures 7–11, 20, 29–30, 39; Start Now! (2004), new supplied PDF pp. 142–145, Calendar introduction. Four selected complete verses; the complete cycle has 52.",
-    "refsPt": "Weekly Meditations, capturas anteriores 7–11, 20, 29–30, 39; Start Now! (2004), novo PDF fornecido pp. 142–145, introdução ao Calendário. Quatro versos completos selecionados; o ciclo integral tem 52.",
+    "refs": "Weekly Meditations (2008), new supplied 100-page PDF: edition p. 3; Scala introduction pp. 8–11; weekly verses, reflections and intentions pp. 13–82; date tables for 2008–2012 pp. 82–95. Four complete selected verses with detailed commentary; original reading map for all 52. Start Now! PDF pp. 142–145 supplies Steiner’s Calendar introduction.",
+    "refsPt": "Weekly Meditations (2008), novo PDF fornecido de 100 páginas: edição p. 3; introdução de Scala pp. 8–11; versos, reflexões e intenções pp. 13–82; tabelas de 2008–2012 pp. 82–95. Quatro versos completos com comentários detalhados; mapa original das 52 semanas. Start Now! PDF pp. 142–145 fornece a introdução de Steiner ao Calendário.",
     "links": [
       "colour/lessons/00.html",
       "ancient-myths/lessons/06.html"
@@ -202,7 +202,7 @@ export const meditationLessons=[
       "why": "The daily rhythm now opens into the year. This is sustained companionship with one text, not a demand for a new exercise each day.",
       "explain": [
         "In the introduction reproduced in Start Now!, Steiner describes the aim as feeling self-knowledge through the relation between inner life and the course of the year. He explicitly rejects a pedantic rule that every soul must follow identically. Sensory openness and inward thinking/willing form a changing relationship, not a forecast of how everyone must feel.",
-        "The four full verses below are anchor points for learning the cycle: Easter’s outward movement, the height of sensory life, Michaelmas and inward strength, and Christmas’s image of the spirit child. Week 13 is not labelled here as an exact-date St John’s verse. The complete Calendar has 52 verses; continue with your supplied book for the intervening weeks.",
+        "The four full verses below offer detailed examples: Easter’s outward movement, spiritual kinship at a height of sensory life, Michaelmas and inward strength, and Christmas’s spirit-child image. The new PDF clearly labels week 12 as St. John’s Tide mood; week 13 follows it without that heading. Use the original 52-week reading map to locate and explore the intervening weeks in your book.",
         "Scala’s accompanying reflections and “Intention” statements are her interpretations. Read the verse first, form your own initial understanding, then compare her reflection. Her account of receiving reflections in the night is autobiographical, not Steiner’s instruction to wake at that time.",
         "The book’s seasonal imagery arises from a northern seasonal pattern and Christian festival framework. In a southern or tropical setting, actual seasonal experience may differ. You may follow the festival sequence or consciously compare local seasons; record that choice as your adaptation. We do not automatically assign a verse from today’s date or claim a hemisphere shift is Steiner’s universal rule."
       ],
@@ -221,7 +221,7 @@ export const meditationLessons=[
       "why": "O ritmo diário se abre ao ano. Trata-se de conviver com um texto, não trocar de exercício diariamente.",
       "explain": [
         "Na introdução reproduzida em Start Now!, Steiner propõe autoconhecimento pelo sentir na relação entre vida interior e curso do ano. Rejeita regras pedantes iguais para toda alma. Abertura sensorial e pensar/querer interior mantêm relação mutável, não uma previsão de sentimentos obrigatórios.",
-        "Os quatro versos integrais abaixo são pontos de orientação: movimento de Páscoa, auge da vida sensorial, força interior em Micael e criança espiritual no Natal. A semana 13 não é identificada aqui como verso de São João numa data exata. O Calendário completo tem 52 versos; use o livro fornecido para as semanas intermediárias.",
+        "Os quatro versos integrais abaixo oferecem exemplos detalhados: movimento de Páscoa, parentesco espiritual na plenitude sensorial, força interior em Micael e criança espiritual no Natal. O novo PDF identifica claramente a semana 12 como atmosfera de São João; a semana 13 a segue sem esse cabeçalho. Use o mapa original das 52 semanas para localizar e explorar as intermediárias em seu livro.",
         "As reflexões e “Intenções” de Scala são interpretações dela. Leia primeiro o verso e forme uma compreensão inicial antes de compará-las. Seu relato de receber reflexões à noite é autobiográfico, não instrução de Steiner para acordar naquele horário.",
         "As imagens partem das estações do hemisfério norte e de festas cristãs. No sul ou nos trópicos, a experiência local pode diferir. Você pode seguir a sequência festiva ou comparar as estações locais, identificando sua adaptação. Não atribuímos automaticamente um verso pela data nem uma inversão hemisférica como regra universal de Steiner."
       ],

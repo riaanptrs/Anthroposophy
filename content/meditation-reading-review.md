@@ -1,5 +1,7 @@
 # Meditation course source and implementation review
 
+The [Weekly Meditations revision](weekly-meditations-review.md) uses the newly supplied 100-page PDF, with detailed commentary on four verses, an annual diagram and a 52-week reading map. Earlier 58-capture references below describe the September source.
+
 Current practical revision: [25 October 2026 review](meditation-start-now-review.md). It uses the newly supplied 304-page PDF and replaces Start Now! locators in the course. The 177-capture scope and damaged-ending observations below describe the earlier September source, not the newly supplied PDF.
 
 13 September 2026. One selected course, nine sessions, English and Portuguese, placed after Theosophy foundations and practical thinking. This implements the new meditation request; the wider curriculum revisions in the separate learning-logic audit remain recommendations.

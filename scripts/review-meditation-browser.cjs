@@ -13,6 +13,25 @@ try{for(const width of [1280,320])for(const js of [true,false]){
   const ids=await p.locator('[id]').evaluateAll(ns=>ns.map(n=>n.id));assert.equal(ids.length,new Set(ids).size,url+' IDs');
   if(['00','01','02','03','05','08'].includes(id))assert.ok(await p.locator('[data-practical-guide]').isVisible(),url+' guide visible');
   if(id==='02')assert.equal(await p.locator('.practice-table-wrap tbody tr').count(),6);
+  if(id==='04'){
+   assert.ok(await p.locator('[data-weekly-study]').isVisible(),url+' weekly teaching visible');
+   assert.equal(await p.locator('[data-weekly-commentary]').count(),4);
+   assert.equal(await p.locator('[data-reading-week]').count(),52);
+   assert.equal(await p.locator('#year-rhythm li').count(),4);
+   assert.equal(await p.locator('[data-weekly-mirror]').isDisabled(),!js);
+   if(js){
+    for(const n of [1,14,26,39,52]){
+     await p.locator('[data-weekly-mirror]').selectOption(String(n));
+     assert.ok((await p.locator('#mirror-result').innerText()).includes(`${n} ↔ ${prefix?'Semana':'Week'} ${53-n}`));
+    }
+    await p.locator('#year-rhythm').screenshot({path:`/tmp/weekly-rhythm-${prefix?'pt':'en'}-${width}.png`});
+   }
+   await p.locator('.weekly-map-details > summary').click();
+   assert.ok(await p.locator('[data-reading-week="52"]').isVisible());
+   const q=p.locator('.weekly-understanding').first();await q.locator('summary').click();assert.ok(await q.locator('p').isVisible());
+   assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),url+' expanded map overflow '+width);
+  }
+
   if(id==='index'){
    await p.locator('[data-practice-choice]').waitFor({state:'visible',timeout:5000});
    assert.equal(await p.locator('.practice-choice-card').count(),6);
@@ -38,5 +57,5 @@ try{for(const width of [1280,320])for(const js of [true,false]){
  }
  await c.close();
 }
-assert.deepEqual(errors,[]);console.log(JSON.stringify({pageCases:checked,widths:[1280,320],javascript:[true,false],checks:['visible practice choice with and without JavaScript','six choices with purpose, preparation, rhythm and review criteria','all practice-selection links and anchors','visible bilingual guidance','single title','no horizontal document overflow','unique IDs','six-month table','entry links','verse focus and return','reflection validation and download'],pageErrors:errors},null,2));
+assert.deepEqual(errors,[]);console.log(JSON.stringify({pageCases:checked,widths:[1280,320],javascript:[true,false],checks:['weekly routine, four verse commentaries and 52-week map','mirror comparisons and non-JavaScript fallback','annual diagram at desktop and mobile widths','visible practice choice with and without JavaScript','six choices with purpose, preparation, rhythm and review criteria','all practice-selection links and anchors','visible bilingual guidance','single title','no horizontal document overflow','unique IDs','six-month table','entry links','verse focus and return','reflection validation and download'],pageErrors:errors},null,2));
 }finally{await browser.close();}})().catch(e=>{console.error(e);process.exitCode=1});
