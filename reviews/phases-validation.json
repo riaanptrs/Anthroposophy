@@ -1,0 +1,292 @@
+[
+  {
+    "check": "check-agriculture-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.87
+  },
+  {
+    "check": "check-agriculture-plates.mjs",
+    "exitCode": 0,
+    "seconds": 0.06
+  },
+  {
+    "check": "check-agriculture-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.05
+  },
+  {
+    "check": "check-ancient-myths.mjs",
+    "exitCode": 0,
+    "seconds": 0.04
+  },
+  {
+    "check": "check-bees-interactions.mjs",
+    "exitCode": 0,
+    "seconds": 0.04
+  },
+  {
+    "check": "check-bees.mjs",
+    "exitCode": 0,
+    "seconds": 0.11
+  },
+  {
+    "check": "check-biodynamic-agriculture.mjs",
+    "exitCode": 0,
+    "seconds": 0.1
+  },
+  {
+    "check": "check-biodynamics-source.mjs",
+    "exitCode": 1,
+    "seconds": 0.03
+  },
+  {
+    "check": "check-biodynamics-teaching.mjs",
+    "exitCode": 0,
+    "seconds": 0.05
+  },
+  {
+    "check": "check-childs-temperament-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.05
+  },
+  {
+    "check": "check-colour-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.04
+  },
+  {
+    "check": "check-concept-platform.mjs",
+    "exitCode": 0,
+    "seconds": 0.8
+  },
+  {
+    "check": "check-constitution.mjs",
+    "exitCode": 1,
+    "seconds": 0.11
+  },
+  {
+    "check": "check-encountering-self-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.05
+  },
+  {
+    "check": "check-esoteric-christianity.mjs",
+    "exitCode": 0,
+    "seconds": 0.09
+  },
+  {
+    "check": "check-foodwise.mjs",
+    "exitCode": 0,
+    "seconds": 0.04
+  },
+  {
+    "check": "check-foundation-stone.mjs",
+    "exitCode": 0,
+    "seconds": 0.03
+  },
+  {
+    "check": "check-foundations-clarity.mjs",
+    "exitCode": 1,
+    "seconds": 0.98
+  },
+  {
+    "check": "check-freedom-clarity.mjs",
+    "exitCode": 1,
+    "seconds": 0.12
+  },
+  {
+    "check": "check-freedom-lectures.mjs",
+    "exitCode": 0,
+    "seconds": 0.05
+  },
+  {
+    "check": "check-freedom-route.mjs",
+    "exitCode": 0,
+    "seconds": 0.04
+  },
+  {
+    "check": "check-freedom-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.06
+  },
+  {
+    "check": "check-guided-notebook.mjs",
+    "exitCode": 0,
+    "seconds": 0.07
+  },
+  {
+    "check": "check-guided-study.mjs",
+    "exitCode": 1,
+    "seconds": 0.27
+  },
+  {
+    "check": "check-higher-worlds.mjs",
+    "exitCode": 0,
+    "seconds": 0.05
+  },
+  {
+    "check": "check-humanities-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 1.25
+  },
+  {
+    "check": "check-introduction-anthroposophy.mjs",
+    "exitCode": 0,
+    "seconds": 0.24
+  },
+  {
+    "check": "check-language-editorial.mjs",
+    "exitCode": 1,
+    "seconds": 0.08
+  },
+  {
+    "check": "check-learning-system.mjs",
+    "exitCode": 1,
+    "seconds": 0.21
+  },
+  {
+    "check": "check-luke-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.04
+  },
+  {
+    "check": "check-meditation.mjs",
+    "exitCode": 0,
+    "seconds": 0.03
+  },
+  {
+    "check": "check-mystery-temperaments-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.05
+  },
+  {
+    "check": "check-nutrition-book.mjs",
+    "exitCode": 0,
+    "seconds": 0.07
+  },
+  {
+    "check": "check-nutrition-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.27
+  },
+  {
+    "check": "check-nutrition.mjs",
+    "exitCode": 0,
+    "seconds": 0.04
+  },
+  {
+    "check": "check-passage-study.mjs",
+    "exitCode": 0,
+    "seconds": 0.06
+  },
+  {
+    "check": "check-phases.mjs",
+    "exitCode": 0,
+    "seconds": 0.05
+  },
+  {
+    "check": "check-portuguese.mjs",
+    "exitCode": 0,
+    "seconds": 0.15
+  },
+  {
+    "check": "check-practical-thinking.mjs",
+    "exitCode": 1,
+    "seconds": 0.04
+  },
+  {
+    "check": "check-practice-courses.mjs",
+    "exitCode": 1,
+    "seconds": 0.05
+  },
+  {
+    "check": "check-preparation-practice.mjs",
+    "exitCode": 0,
+    "seconds": 0.04
+  },
+  {
+    "check": "check-remaining-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.8
+  },
+  {
+    "check": "check-site.mjs",
+    "exitCode": 0,
+    "seconds": 2.0
+  },
+  {
+    "check": "check-start-now.mjs",
+    "exitCode": 0,
+    "seconds": 0.04
+  },
+  {
+    "check": "check-steiner-documentary.mjs",
+    "exitCode": 0,
+    "seconds": 0.03
+  },
+  {
+    "check": "check-teaching-approach.mjs",
+    "exitCode": 0,
+    "seconds": 0.11
+  },
+  {
+    "check": "check-temperament-companions-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.53
+  },
+  {
+    "check": "check-temperament-refinement.mjs",
+    "exitCode": 1,
+    "seconds": 0.05
+  },
+  {
+    "check": "check-temperaments-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.9
+  },
+  {
+    "check": "check-temperaments-source.mjs",
+    "exitCode": 0,
+    "seconds": 0.05
+  },
+  {
+    "check": "check-theosophy-clarity.mjs",
+    "exitCode": 0,
+    "seconds": 0.14
+  },
+  {
+    "check": "check-theosophy.mjs",
+    "exitCode": 1,
+    "seconds": 0.04
+  },
+  {
+    "check": "check-thinking-depth.mjs",
+    "exitCode": 1,
+    "seconds": 0.03
+  },
+  {
+    "check": "check-threefold-source.mjs",
+    "exitCode": 1,
+    "seconds": 0.03
+  },
+  {
+    "check": "check-waldorf-provenance.mjs",
+    "exitCode": 0,
+    "seconds": 0.03
+  },
+  {
+    "check": "check-waldorf-teaching.mjs",
+    "exitCode": 0,
+    "seconds": 0.14
+  },
+  {
+    "check": "check-waldorf.mjs",
+    "exitCode": 0,
+    "seconds": 0.18
+  },
+  {
+    "check": "check-weekly-meditations.mjs",
+    "exitCode": 0,
+    "seconds": 0.03
+  }
+]

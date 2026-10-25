@@ -1,0 +1,385 @@
+{
+  "edition": {
+    "title": "Phases: The Spiritual Rhythms of Adult Life",
+    "author": "Bernard Lievegoed",
+    "translator": "H. S. Lake",
+    "publisher": "Rudolf Steiner Press / Sophia Books",
+    "imprintYear": 2012,
+    "originalYear": 1976,
+    "translationCopyrightYear": 1979,
+    "isbn": "9781855843042"
+  },
+  "sourceSha256": "4b7fca40a71f45379df0fb4343743160c85a13a8693c53248d41f2bd2c841425",
+  "captures": 53,
+  "completeBook": false,
+  "scope": {
+    "en": "Supplied excerpt: opening, Chapter One and Chapter Two through the incomplete opening of The Organizational Phase. Later chapters are named in the contents but absent.",
+    "pt": "Trecho fornecido: abertura, Capítulo Um e Capítulo Dois até a abertura incompleta da fase organizacional. O sumário nomeia capítulos posteriores ausentes."
+  },
+  "visualChecks": [
+    3,
+    4,
+    6,
+    7,
+    8,
+    18,
+    34,
+    39,
+    53
+  ],
+  "ocrReviewCaptures": [
+    1,
+    5,
+    6,
+    7,
+    8,
+    9,
+    13,
+    15,
+    16,
+    18,
+    20,
+    22,
+    27,
+    28,
+    29,
+    30,
+    31,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    46,
+    47,
+    48,
+    50,
+    51,
+    53
+  ],
+  "method": {
+    "en": "Sequential study used the supplied Markdown. Title, imprint, contents, three diagrams and final boundary were also checked visually against PDF captures. This is not line-by-line certification of all OCR. Explanations and Portuguese text are original course writing; the full upload is not reproduced. Locators count PDF captures from one, not printed folios.",
+    "pt": "O estudo sequencial utilizou o Markdown fornecido. Título, expediente, sumário, três diagramas e limite final foram conferidos visualmente no PDF. Isso não certifica cada linha do OCR. Explicações e texto em português são originais do curso; o arquivo integral não é reproduzido. Localizadores contam capturas PDF desde um, sem equivaler às páginas impressas."
+  },
+  "pages": [
+    {
+      "capture": 1,
+      "en": "Cover; OCR severely damaged.",
+      "pt": "Capa; OCR bastante danificado.",
+      "ocrReview": true
+    },
+    {
+      "capture": 2,
+      "en": "Author biography and professional background.",
+      "pt": "Biografia e atuação profissional do autor.",
+      "ocrReview": false
+    },
+    {
+      "capture": 3,
+      "en": "Title, subtitle and author.",
+      "pt": "Título, subtítulo e autor.",
+      "ocrReview": false
+    },
+    {
+      "capture": 4,
+      "en": "H. S. Lake translation; 2012 imprint; original 1976 work and translation copyright 1979.",
+      "pt": "Tradução de H. S. Lake; edição de 2012; original de 1976 e direitos da tradução de 1979.",
+      "ocrReview": false
+    },
+    {
+      "capture": 5,
+      "en": "ISBN 9781855843042 and production credits.",
+      "pt": "ISBN 9781855843042 e créditos editoriais.",
+      "ocrReview": true
+    },
+    {
+      "capture": 6,
+      "en": "Contents: introduction and Chapter One, then Chapter Two opening.",
+      "pt": "Sumário: introdução, Capítulo Um e início do Capítulo Dois.",
+      "ocrReview": true
+    },
+    {
+      "capture": 7,
+      "en": "Contents: later phases, Chapters Three through Six. These later substantive sections are absent.",
+      "pt": "Sumário: fases posteriores e Capítulos Três a Seis. Esses textos substantivos estão ausentes.",
+      "ocrReview": true
+    },
+    {
+      "capture": 8,
+      "en": "Contents: Chapter Seven and recommended reading; substantive text absent.",
+      "pt": "Sumário: Capítulo Sete e leituras recomendadas; textos ausentes.",
+      "ocrReview": true
+    },
+    {
+      "capture": 9,
+      "en": "Preface: personalistic standpoint and three perspectives on biography.",
+      "pt": "Prefácio: perspectiva personalista e três olhares sobre a biografia.",
+      "ocrReview": true
+    },
+    {
+      "capture": 10,
+      "en": "Introduction: professional experience, past causes and future directions.",
+      "pt": "Introdução: experiência profissional, causas passadas e direções futuras.",
+      "ocrReview": false
+    },
+    {
+      "capture": 11,
+      "en": "Audience, disciplined introspection and the meaning of inner experience.",
+      "pt": "Público, introspecção disciplinada e sentido da experiência interior.",
+      "ocrReview": false
+    },
+    {
+      "capture": 12,
+      "en": "Conclusion of introduction: learning, struggle and wisdom as a broad life image.",
+      "pt": "Fim da introdução: aprender, lutar e alcançar sabedoria como imagem geral.",
+      "ocrReview": false
+    },
+    {
+      "capture": 13,
+      "en": "Chapter One opens: interest in inner life and historical approaches to consciousness.",
+      "pt": "Início do Capítulo Um: interesse pela vida interior e abordagens históricas da consciência.",
+      "ocrReview": true
+    },
+    {
+      "capture": 14,
+      "en": "Historical critique of therapeutic approaches applied across different ages.",
+      "pt": "Crítica histórica à aplicação das mesmas abordagens terapêuticas a idades diferentes.",
+      "ocrReview": false
+    },
+    {
+      "capture": 15,
+      "en": "The book's stated aims; beginning of Human Development.",
+      "pt": "Objetivos do livro; início de Desenvolvimento humano.",
+      "ocrReview": true
+    },
+    {
+      "capture": 16,
+      "en": "Change, quantitative growth and structural development; biological examples.",
+      "pt": "Mudança, crescimento quantitativo e desenvolvimento estrutural; exemplos biológicos.",
+      "ocrReview": true
+    },
+    {
+      "capture": 17,
+      "en": "Differentiation, coordination and integration; three development patterns.",
+      "pt": "Diferenciação, coordenação e integração; três padrões de desenvolvimento.",
+      "ocrReview": false
+    },
+    {
+      "capture": 18,
+      "en": "Personalistic meaning and the diagram of body, psyche and spiritual world.",
+      "pt": "Sentido personalista e diagrama de corpo, psiquismo e mundo espiritual.",
+      "ocrReview": true
+    },
+    {
+      "capture": 19,
+      "en": "Diagram explanation; thinking, feeling, willing and the higher ego; self-education.",
+      "pt": "Explicação do diagrama; pensar, sentir, querer e Eu superior; autoeducação.",
+      "ocrReview": false
+    },
+    {
+      "capture": 20,
+      "en": "Desire and satisfaction; aim and fulfilment; creativity and wisdom.",
+      "pt": "Desejo e satisfação; objetivo e realização; criatividade e sabedoria.",
+      "ocrReview": true
+    },
+    {
+      "capture": 21,
+      "en": "Active peace of mind and the active middle between polarities.",
+      "pt": "Tranquilidade ativa e centro ativo entre polaridades.",
+      "ocrReview": false
+    },
+    {
+      "capture": 22,
+      "en": "Three polarities summarized; beginning of four images of the human being.",
+      "pt": "Resumo das polaridades; início das quatro imagens do ser humano.",
+      "ocrReview": true
+    },
+    {
+      "capture": 23,
+      "en": "Mechanistic, biological and psychological images; polemical historical summaries.",
+      "pt": "Imagens mecanicista, biológica e psicológica; sínteses históricas polêmicas.",
+      "ocrReview": false
+    },
+    {
+      "capture": 24,
+      "en": "Behaviorism as presented by Lievegoed; personalistic-spiritual image.",
+      "pt": "Behaviorismo segundo Lievegoed; imagem personalista-espiritual.",
+      "ocrReview": false
+    },
+    {
+      "capture": 25,
+      "en": "Division into phases; gradual transition illustrated by day and night; cultural context.",
+      "pt": "Divisão em fases; transição gradual entre dia e noite; contexto cultural.",
+      "ocrReview": false
+    },
+    {
+      "capture": 26,
+      "en": "Shifting balance among body, soul and spirit; older phase schemes.",
+      "pt": "Equilíbrio móvel entre corpo, alma e espírito; esquemas históricos.",
+      "ocrReview": false
+    },
+    {
+      "capture": 27,
+      "en": "Seven-year schemes and historical terminology; survey of psychoanalytic development.",
+      "pt": "Esquemas de sete anos e terminologia histórica; panorama psicanalítico.",
+      "ocrReview": true
+    },
+    {
+      "capture": 28,
+      "en": "Charlotte Bühler: guiding motive, vitality, mentality and fulfilment.",
+      "pt": "Charlotte Bühler: motivo orientador, vitalidade, mentalidade e realização.",
+      "ocrReview": true
+    },
+    {
+      "capture": 29,
+      "en": "Biographical method and Guardini's distinctive value of each phase.",
+      "pt": "Método biográfico e valor próprio de cada fase em Guardini.",
+      "ocrReview": true
+    },
+    {
+      "capture": 30,
+      "en": "Guardini's transitions; Martha Moers and life as a task.",
+      "pt": "Transições de Guardini; Martha Moers e vida como tarefa.",
+      "ocrReview": true
+    },
+    {
+      "capture": 31,
+      "en": "Moers on work, relations and values; Steiner's influence on the author.",
+      "pt": "Moers sobre trabalho, relações e valores; influência de Steiner.",
+      "ocrReview": true
+    },
+    {
+      "capture": 32,
+      "en": "Seven-year periods as approximate; three soul terms and Moers's strivings.",
+      "pt": "Setênios como aproximações; três termos da alma e aspirações de Moers.",
+      "ocrReview": false
+    },
+    {
+      "capture": 33,
+      "en": "Chapter Two begins: biological life course and three broad periods.",
+      "pt": "Início do Capítulo Dois: percurso biológico e três períodos gerais.",
+      "ocrReview": false
+    },
+    {
+      "capture": 34,
+      "en": "Schematic biological curve and childhood growth phases.",
+      "pt": "Curva biológica esquemática e fases de crescimento infantil.",
+      "ocrReview": false
+    },
+    {
+      "capture": 35,
+      "en": "Historical physiology, nutrition and organ-specific ageing examples; not clinical guidance.",
+      "pt": "Fisiologia histórica, nutrição e envelhecimento de órgãos; sem orientação clínica.",
+      "ocrReview": false
+    },
+    {
+      "capture": 36,
+      "en": "Childhood trust, rhythm, imagination and educational claims.",
+      "pt": "Confiança, ritmo, imaginação e afirmações educativas sobre a infância.",
+      "ocrReview": false
+    },
+    {
+      "capture": 37,
+      "en": "Adolescence and truth; author's distinction between vital and spiritual-mental functions.",
+      "pt": "Adolescência e verdade; distinção entre funções vitais e espirituais-psíquicas.",
+      "ocrReview": false
+    },
+    {
+      "capture": 38,
+      "en": "Possible social or policy phase; spiritual life course and value choices.",
+      "pt": "Possível fase social ou de orientação; percurso espiritual e escolha de valores.",
+      "ocrReview": false
+    },
+    {
+      "capture": 39,
+      "en": "Diagram comparing biological and mental-spiritual development; reception, processing and giving.",
+      "pt": "Diagrama de desenvolvimento biológico e psíquico-espiritual; receber, elaborar e oferecer.",
+      "ocrReview": true
+    },
+    {
+      "capture": 40,
+      "en": "Later-life forecasts; adolescence begins with identity, direction and capability questions.",
+      "pt": "Antecipações da vida posterior; adolescência e perguntas sobre identidade, direção e capacidade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 41,
+      "en": "Sexuality, eroticism and spiritual love in the author's terminology.",
+      "pt": "Sexualidade, erotismo e amor espiritual no vocabulário do autor.",
+      "ocrReview": true
+    },
+    {
+      "capture": 42,
+      "en": "Guardini on ideals, responsibility and experience; Cole and Hall's tasks as reported here.",
+      "pt": "Guardini sobre ideais, responsabilidade e experiência; tarefas de Cole e Hall segundo o relato.",
+      "ocrReview": true
+    },
+    {
+      "capture": 43,
+      "en": "Adolescence has its own worth; ego-development and career choices.",
+      "pt": "Valor próprio da adolescência; desenvolvimento do Eu e escolha profissional.",
+      "ocrReview": true
+    },
+    {
+      "capture": 44,
+      "en": "Educational and career constraints; provisional convictions; Schiller's form and material drives.",
+      "pt": "Limites formativos e profissionais; convicções provisórias; impulsos formal e material de Schiller.",
+      "ocrReview": true
+    },
+    {
+      "capture": 45,
+      "en": "Play drive, artistic participation, alienation and meaningful responsibility.",
+      "pt": "Impulso lúdico, participação artística, alienação e responsabilidade significativa.",
+      "ocrReview": false
+    },
+    {
+      "capture": 46,
+      "en": "Universities and early employment; educational access; historical political interpretation.",
+      "pt": "Universidades e trabalho precoce; acesso à formação; interpretação política histórica.",
+      "ocrReview": true
+    },
+    {
+      "capture": 47,
+      "en": "Adolescence summary and historical claims about social and sexual conventions.",
+      "pt": "Resumo da adolescência e afirmações históricas sobre convenções sociais e sexuais.",
+      "ocrReview": true
+    },
+    {
+      "capture": 48,
+      "en": "Historical anecdote; Early Adulthood begins; legal adulthood at 21 in the text's context.",
+      "pt": "Anedota histórica; início da vida adulta; maioridade aos 21 no contexto do livro.",
+      "ocrReview": true
+    },
+    {
+      "capture": 49,
+      "en": "Home-making, work and culture in the manner of everyday relations.",
+      "pt": "Lar, trabalho e cultura no modo das relações cotidianas.",
+      "ocrReview": false
+    },
+    {
+      "capture": 50,
+      "en": "External feedback, varied work experience, sentient soul and vital-mental strivings.",
+      "pt": "Retorno externo, experiência profissional variada, alma da sensação e aspirações vitais-psíquicas.",
+      "ocrReview": true
+    },
+    {
+      "capture": 51,
+      "en": "Inner life and chosen responsibility; historical gender and maternal-role claims.",
+      "pt": "Vida interior e responsabilidade escolhida; afirmações históricas sobre gênero e maternidade.",
+      "ocrReview": true
+    },
+    {
+      "capture": 52,
+      "en": "Attraction and recognition; transition near 28; Organizational Phase heading.",
+      "pt": "Atração e reconhecimento; transição perto dos 28; título da fase organizacional.",
+      "ocrReview": false
+    },
+    {
+      "capture": 53,
+      "en": "Organizational Phase opening: planning, intellectual soul, power and gender assumptions. Ends mid-sentence.",
+      "pt": "Abertura da fase organizacional: planejamento, alma intelectual, poder e pressupostos de gênero. Termina no meio de uma frase.",
+      "ocrReview": true
+    }
+  ]
+}

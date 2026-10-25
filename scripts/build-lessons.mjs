@@ -112,6 +112,7 @@ await import('./build-nutrition.mjs');
 await import('./build-foodwise.mjs');
 await import('./build-esoteric-christianity.mjs');
 await import('./build-bees.mjs');
+const {buildPhasesConnections}=await import('./build-phases.mjs');
 await import('./build-waldorf.mjs');
 await import('./build-waldorf-teaching.mjs');
 buildLinks();
@@ -142,6 +143,8 @@ buildNutritionClarity();
 
 const {buildCompanionClarity}=await import('./build-temperament-companions-clarity.mjs');
 buildCompanionClarity();
+
+buildPhasesConnections();
 
 // Layout enhancement comes last and preserves every owner-rendered main document.
 const {buildCourseWorkspace}=await import('./build-course-workspace.mjs');

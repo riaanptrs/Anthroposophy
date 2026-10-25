@@ -1,0 +1,26 @@
+{
+  "pageCases": 104,
+  "widths": [
+    1280,
+    320
+  ],
+  "languages": [
+    "en",
+    "pt-BR"
+  ],
+  "allRoutesWithJS": true,
+  "noJS": [
+    "index",
+    "lesson",
+    "print"
+  ],
+  "checks": [
+    "headings",
+    "language",
+    "no horizontal overflow",
+    "search and zero results",
+    "answer disclosure",
+    "print includes answers"
+  ],
+  "errors": []
+}

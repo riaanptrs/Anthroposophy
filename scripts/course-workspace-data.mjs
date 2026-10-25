@@ -1,3 +1,4 @@
+import {modules as phasesModules} from '../content/phases/reference.mjs';
 import fs from 'node:fs';
 import {chapters as startNowChapters,lessons as startNowLessons,courseTitle as startNowTitle} from '../content/start-now/course.mjs';
 import {title as beesTitle,lessons as beesLessons} from '../content/bees/course.mjs';
@@ -49,5 +50,8 @@ export function workspaceCourses(){
  const beeRoute=l=>'learn/bees/lessons/'+String(l.id).padStart(2,'0')+'.html';
  result.push({id:'bees',home:'learn/bees/index.html',en:beesTitle.en,pt:beesTitle.pt,lessons:beesLessons.map(l=>({route:beeRoute(l),en:l.en.title,pt:l.pt.title})),groups:[...beesSections.filter(s=>s.id!=='drawings').map(s=>({en:s.en,pt:s.pt,routes:beesLessons.filter(l=>l.section===s.id).map(beeRoute)})),{en:'Final synthesis',pt:'Síntese final',routes:[beeRoute(beesLessons.at(-1))]}]});
  result.push({id:'start-now',home:'start-now/index.html',en:startNowTitle.en,pt:startNowTitle.pt,lessons:startNowLessons.map(l=>({route:'start-now/lessons/'+l.id+'.html',en:l.en.title,pt:l.pt.title})),groups:startNowChapters.map(c=>({en:c.en,pt:c.pt,routes:startNowLessons.filter(l=>l.chapter===c.id).map(l=>'start-now/lessons/'+l.id+'.html')}))});
+ const phases=read('phases/course.json');
+ const phaseRoute=l=>'learn/phases/lessons/'+String(l.id).padStart(2,'0')+'.html';
+ result.push({id:'phases',home:'learn/phases/index.html',en:title('learn/phases/index.html'),pt:title('pt/learn/phases/index.html'),lessons:phases.map(l=>({route:phaseRoute(l),en:l.en.title,pt:l.pt.title})),groups:[...new Set(phases.map(l=>l.module))].map(id=>({en:phasesModules.find(m=>m.id===id).en,pt:phasesModules.find(m=>m.id===id).pt,routes:phases.filter(l=>l.module===id).map(phaseRoute)}))});
  return result;
 }

@@ -149,6 +149,12 @@
       "home": "start-now/index.html",
       "lessons": 38,
       "groups": 17
+    },
+    {
+      "id": "phases",
+      "home": "learn/phases/index.html",
+      "lessons": 18,
+      "groups": 5
     }
   ],
   "pages": [
@@ -1896,6 +1902,116 @@
       "page": "learn/lessons/36.html",
       "course": "foundations",
       "role": "lesson"
+    },
+    {
+      "page": "learn/phases/glossary.html",
+      "course": "phases",
+      "role": "reference"
+    },
+    {
+      "page": "learn/phases/lessons/01.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/02.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/03.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/04.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/05.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/06.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/07.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/08.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/09.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/10.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/11.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/12.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/13.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/14.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/15.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/16.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/17.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/lessons/18.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "learn/phases/print.html",
+      "course": "phases",
+      "role": "reference"
+    },
+    {
+      "page": "learn/phases/sources.html",
+      "course": "phases",
+      "role": "reference"
+    },
+    {
+      "page": "learn/phases/workbook.html",
+      "course": "phases",
+      "role": "reference"
     },
     {
       "page": "learn/waldorf/development/adolescence-judgment.html",
@@ -4816,6 +4932,116 @@
       "page": "pt/learn/lessons/36.html",
       "course": "foundations",
       "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/glossary.html",
+      "course": "phases",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/phases/lessons/01.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/02.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/03.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/04.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/05.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/06.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/07.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/08.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/09.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/10.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/11.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/12.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/13.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/14.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/15.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/16.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/17.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/lessons/18.html",
+      "course": "phases",
+      "role": "lesson"
+    },
+    {
+      "page": "pt/learn/phases/print.html",
+      "course": "phases",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/phases/sources.html",
+      "course": "phases",
+      "role": "reference"
+    },
+    {
+      "page": "pt/learn/phases/workbook.html",
+      "course": "phases",
+      "role": "reference"
     },
     {
       "page": "pt/learn/waldorf/development/adolescence-judgment.html",

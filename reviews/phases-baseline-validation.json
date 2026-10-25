@@ -1,0 +1,67 @@
+[
+  {
+    "check": "check-biodynamics-source.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-constitution.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-foundations-clarity.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-freedom-clarity.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-guided-study.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-language-editorial.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-learning-system.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-practical-thinking.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-practice-courses.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-temperament-refinement.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-theosophy.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-thinking-depth.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  },
+  {
+    "check": "check-threefold-source.mjs",
+    "exitCode": 1,
+    "sameFirstAssertion": true
+  }
+]
