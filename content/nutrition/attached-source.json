@@ -1,0 +1,1675 @@
+{
+  "title": "Nutrition: Food, Health and Spiritual Development",
+  "sha256": "af877b29b8b73e27b55b0baa182997cfb1a1aefc152d9c57a4dd3c30863111fc",
+  "pageCount": 122,
+  "textCompleteness": "unverified",
+  "flaggedPages": [
+    1,
+    7,
+    8,
+    10,
+    13,
+    14,
+    15,
+    17,
+    19,
+    30,
+    39,
+    45,
+    49,
+    52,
+    53,
+    54,
+    56,
+    57,
+    60,
+    62,
+    63,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    74,
+    76,
+    80,
+    81,
+    82,
+    83,
+    85,
+    87,
+    88,
+    94,
+    97,
+    107,
+    110,
+    113,
+    119,
+    121
+  ],
+  "chapters": [
+    {
+      "id": 1,
+      "start": 12,
+      "end": 21,
+      "title": "Nutrition in the Light of Spiritual Science"
+    },
+    {
+      "id": 2,
+      "start": 22,
+      "end": 32,
+      "title": "The Penetration of Substance with Spirit"
+    },
+    {
+      "id": 3,
+      "start": 33,
+      "end": 39,
+      "title": "Nutrition from a Cosmic Perspective"
+    },
+    {
+      "id": 4,
+      "start": 40,
+      "end": 51,
+      "title": "Nutrition and the Human Body"
+    },
+    {
+      "id": 5,
+      "start": 52,
+      "end": 58,
+      "title": "Healthy Nutrition and the Quality of Food"
+    },
+    {
+      "id": 6,
+      "start": 59,
+      "end": 68,
+      "title": "The Processes of Digestion"
+    },
+    {
+      "id": 7,
+      "start": 69,
+      "end": 84,
+      "title": "The Effect of Plant, Raw Food, Vegetarian and Meat Diets"
+    },
+    {
+      "id": 8,
+      "start": 85,
+      "end": 89,
+      "title": "Potatoes, Beetroots, Radishes and the Spiritual in Human Beings"
+    },
+    {
+      "id": 9,
+      "start": 90,
+      "end": 96,
+      "title": "The Effects of Protein, Fats, Carbohydrates and Salts"
+    },
+    {
+      "id": 10,
+      "start": 97,
+      "end": 107,
+      "title": "The Effects of Alcohol"
+    },
+    {
+      "id": 11,
+      "start": 108,
+      "end": 112,
+      "title": "The Effects of Nicotine"
+    },
+    {
+      "id": 12,
+      "start": 113,
+      "end": 117,
+      "title": "Nutrition and Health"
+    }
+  ],
+  "legacyConcordance": [
+    {
+      "legacy": 1,
+      "start": 1,
+      "end": 1
+    },
+    {
+      "legacy": 2,
+      "start": 2,
+      "end": 3
+    },
+    {
+      "legacy": 3,
+      "start": 4,
+      "end": 4
+    },
+    {
+      "legacy": 4,
+      "start": 5,
+      "end": 6
+    },
+    {
+      "legacy": 5,
+      "start": 7,
+      "end": 8
+    },
+    {
+      "legacy": 6,
+      "start": 9,
+      "end": 9
+    },
+    {
+      "legacy": 7,
+      "start": 10,
+      "end": 10
+    },
+    {
+      "legacy": 8,
+      "start": 11,
+      "end": 11
+    },
+    {
+      "legacy": 9,
+      "start": 12,
+      "end": 12
+    },
+    {
+      "legacy": 10,
+      "start": 13,
+      "end": 13
+    },
+    {
+      "legacy": 11,
+      "start": 14,
+      "end": 14
+    },
+    {
+      "legacy": 12,
+      "start": 15,
+      "end": 15
+    },
+    {
+      "legacy": 13,
+      "start": 16,
+      "end": 16
+    },
+    {
+      "legacy": 14,
+      "start": 17,
+      "end": 17
+    },
+    {
+      "legacy": 15,
+      "start": 18,
+      "end": 18
+    },
+    {
+      "legacy": 16,
+      "start": 19,
+      "end": 19
+    },
+    {
+      "legacy": 17,
+      "start": 20,
+      "end": 20
+    },
+    {
+      "legacy": 18,
+      "start": 21,
+      "end": 21
+    },
+    {
+      "legacy": 19,
+      "start": null,
+      "end": null
+    },
+    {
+      "legacy": 20,
+      "start": 22,
+      "end": 22
+    },
+    {
+      "legacy": 21,
+      "start": 23,
+      "end": 23
+    },
+    {
+      "legacy": 22,
+      "start": 24,
+      "end": 24
+    },
+    {
+      "legacy": 23,
+      "start": 25,
+      "end": 25
+    },
+    {
+      "legacy": 24,
+      "start": 26,
+      "end": 26
+    },
+    {
+      "legacy": 25,
+      "start": 27,
+      "end": 27
+    },
+    {
+      "legacy": 26,
+      "start": 28,
+      "end": 28
+    },
+    {
+      "legacy": 27,
+      "start": 29,
+      "end": 29
+    },
+    {
+      "legacy": 28,
+      "start": 30,
+      "end": 30
+    },
+    {
+      "legacy": 29,
+      "start": 31,
+      "end": 31
+    },
+    {
+      "legacy": 30,
+      "start": 32,
+      "end": 32
+    },
+    {
+      "legacy": 31,
+      "start": 33,
+      "end": 33
+    },
+    {
+      "legacy": 32,
+      "start": 34,
+      "end": 34
+    },
+    {
+      "legacy": 33,
+      "start": 35,
+      "end": 35
+    },
+    {
+      "legacy": 34,
+      "start": 36,
+      "end": 36
+    },
+    {
+      "legacy": 35,
+      "start": 37,
+      "end": 37
+    },
+    {
+      "legacy": 36,
+      "start": 38,
+      "end": 38
+    },
+    {
+      "legacy": 37,
+      "start": 39,
+      "end": 39
+    },
+    {
+      "legacy": 38,
+      "start": 40,
+      "end": 40
+    },
+    {
+      "legacy": 39,
+      "start": 41,
+      "end": 41
+    },
+    {
+      "legacy": 40,
+      "start": 42,
+      "end": 42
+    },
+    {
+      "legacy": 41,
+      "start": 43,
+      "end": 43
+    },
+    {
+      "legacy": 42,
+      "start": 44,
+      "end": 44
+    },
+    {
+      "legacy": 43,
+      "start": 45,
+      "end": 45
+    },
+    {
+      "legacy": 44,
+      "start": 46,
+      "end": 46
+    },
+    {
+      "legacy": 45,
+      "start": 47,
+      "end": 47
+    },
+    {
+      "legacy": 46,
+      "start": 48,
+      "end": 48
+    },
+    {
+      "legacy": 47,
+      "start": 49,
+      "end": 49
+    },
+    {
+      "legacy": 48,
+      "start": 50,
+      "end": 50
+    },
+    {
+      "legacy": 49,
+      "start": 51,
+      "end": 51
+    },
+    {
+      "legacy": 50,
+      "start": 52,
+      "end": 52
+    },
+    {
+      "legacy": 51,
+      "start": 53,
+      "end": 53
+    },
+    {
+      "legacy": 52,
+      "start": 54,
+      "end": 55
+    },
+    {
+      "legacy": 53,
+      "start": 55,
+      "end": 55
+    },
+    {
+      "legacy": 54,
+      "start": 56,
+      "end": 56
+    },
+    {
+      "legacy": 55,
+      "start": 57,
+      "end": 57
+    },
+    {
+      "legacy": 56,
+      "start": 58,
+      "end": 58
+    },
+    {
+      "legacy": 57,
+      "start": 59,
+      "end": 59
+    },
+    {
+      "legacy": 58,
+      "start": 60,
+      "end": 60
+    },
+    {
+      "legacy": 59,
+      "start": 61,
+      "end": 61
+    },
+    {
+      "legacy": 60,
+      "start": 62,
+      "end": 62
+    },
+    {
+      "legacy": 61,
+      "start": 63,
+      "end": 63
+    },
+    {
+      "legacy": 62,
+      "start": 64,
+      "end": 64
+    },
+    {
+      "legacy": 63,
+      "start": 65,
+      "end": 65
+    },
+    {
+      "legacy": 64,
+      "start": 66,
+      "end": 66
+    },
+    {
+      "legacy": 65,
+      "start": 67,
+      "end": 68
+    },
+    {
+      "legacy": 66,
+      "start": 68,
+      "end": 68
+    },
+    {
+      "legacy": 67,
+      "start": 69,
+      "end": 69
+    },
+    {
+      "legacy": 68,
+      "start": 70,
+      "end": 70
+    },
+    {
+      "legacy": 69,
+      "start": 71,
+      "end": 71
+    },
+    {
+      "legacy": 70,
+      "start": 72,
+      "end": 72
+    },
+    {
+      "legacy": 71,
+      "start": 73,
+      "end": 73
+    },
+    {
+      "legacy": 72,
+      "start": 74,
+      "end": 74
+    },
+    {
+      "legacy": 73,
+      "start": 75,
+      "end": 75
+    },
+    {
+      "legacy": 74,
+      "start": 76,
+      "end": 76
+    },
+    {
+      "legacy": 75,
+      "start": 77,
+      "end": 77
+    },
+    {
+      "legacy": 76,
+      "start": 78,
+      "end": 78
+    },
+    {
+      "legacy": 77,
+      "start": 79,
+      "end": 79
+    },
+    {
+      "legacy": 78,
+      "start": 80,
+      "end": 80
+    },
+    {
+      "legacy": 79,
+      "start": 81,
+      "end": 81
+    },
+    {
+      "legacy": 80,
+      "start": 82,
+      "end": 82
+    },
+    {
+      "legacy": 81,
+      "start": 83,
+      "end": 83
+    },
+    {
+      "legacy": 82,
+      "start": 84,
+      "end": 84
+    },
+    {
+      "legacy": 83,
+      "start": 85,
+      "end": 86
+    },
+    {
+      "legacy": 84,
+      "start": 87,
+      "end": 87
+    },
+    {
+      "legacy": 85,
+      "start": 88,
+      "end": 88
+    },
+    {
+      "legacy": 86,
+      "start": 89,
+      "end": 89
+    },
+    {
+      "legacy": 87,
+      "start": 90,
+      "end": 90
+    },
+    {
+      "legacy": 88,
+      "start": 91,
+      "end": 91
+    },
+    {
+      "legacy": 89,
+      "start": 92,
+      "end": 92
+    },
+    {
+      "legacy": 90,
+      "start": 93,
+      "end": 93
+    },
+    {
+      "legacy": 91,
+      "start": 94,
+      "end": 94
+    },
+    {
+      "legacy": 92,
+      "start": 95,
+      "end": 95
+    },
+    {
+      "legacy": 93,
+      "start": 96,
+      "end": 96
+    },
+    {
+      "legacy": 94,
+      "start": 97,
+      "end": 97
+    },
+    {
+      "legacy": 95,
+      "start": 98,
+      "end": 98
+    },
+    {
+      "legacy": 96,
+      "start": 99,
+      "end": 99
+    },
+    {
+      "legacy": 97,
+      "start": 100,
+      "end": 100
+    },
+    {
+      "legacy": 98,
+      "start": 101,
+      "end": 101
+    },
+    {
+      "legacy": 99,
+      "start": 102,
+      "end": 102
+    },
+    {
+      "legacy": 100,
+      "start": 103,
+      "end": 103
+    },
+    {
+      "legacy": 101,
+      "start": 104,
+      "end": 104
+    },
+    {
+      "legacy": 102,
+      "start": 105,
+      "end": 105
+    },
+    {
+      "legacy": 103,
+      "start": 106,
+      "end": 106
+    },
+    {
+      "legacy": 104,
+      "start": 107,
+      "end": 107
+    },
+    {
+      "legacy": 105,
+      "start": 108,
+      "end": 108
+    },
+    {
+      "legacy": 106,
+      "start": 109,
+      "end": 109
+    },
+    {
+      "legacy": 107,
+      "start": 110,
+      "end": 110
+    },
+    {
+      "legacy": 108,
+      "start": 111,
+      "end": 111
+    },
+    {
+      "legacy": 109,
+      "start": 112,
+      "end": 112
+    },
+    {
+      "legacy": 110,
+      "start": 113,
+      "end": 113
+    },
+    {
+      "legacy": 111,
+      "start": 114,
+      "end": 114
+    },
+    {
+      "legacy": 112,
+      "start": 115,
+      "end": 115
+    },
+    {
+      "legacy": 113,
+      "start": 116,
+      "end": 116
+    },
+    {
+      "legacy": 114,
+      "start": 117,
+      "end": 117
+    },
+    {
+      "legacy": 115,
+      "start": 118,
+      "end": 118
+    },
+    {
+      "legacy": 116,
+      "start": 119,
+      "end": 119
+    },
+    {
+      "legacy": 117,
+      "start": 120,
+      "end": 120
+    },
+    {
+      "legacy": 118,
+      "start": 121,
+      "end": 122
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "chapter": null,
+      "kind": "front-matter",
+      "note": "Cover; its OCR title is incomplete.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 2,
+      "chapter": null,
+      "kind": "front-matter",
+      "note": "Publisher biography of Rudolf Steiner, first part.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 3,
+      "chapter": null,
+      "kind": "front-matter",
+      "note": "Publisher biography continued; not a lecture extract.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 4,
+      "chapter": null,
+      "kind": "front-matter",
+      "note": "Title page names Rudolf Steiner and compiler Christian von Arnim.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 5,
+      "chapter": null,
+      "kind": "front-matter",
+      "note": "Publication, selection and translation credits for the 2012 edition.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 6,
+      "chapter": null,
+      "kind": "front-matter",
+      "note": "Design and typesetting credits.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 7,
+      "chapter": null,
+      "kind": "front-matter",
+      "note": "Contents, chapters 1–9.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 8,
+      "chapter": null,
+      "kind": "front-matter",
+      "note": "Contents continued, chapters 10–12 and Sources.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 9,
+      "chapter": null,
+      "kind": "editorial",
+      "note": "Editor’s introduction situates changing nutritional advice and environmental questions.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 10,
+      "chapter": null,
+      "kind": "editorial",
+      "note": "Editor explains whole-person interpretation, general-to-particular order and individual freedom.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 11,
+      "chapter": null,
+      "kind": "editorial",
+      "note": "Introduction closes with spiritual development; signed by Christian von Arnim.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 12,
+      "chapter": 1,
+      "kind": "chapter",
+      "note": "Chapter 1 opens with Feuerbach’s saying and rejects dietary agitation.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 13,
+      "chapter": 1,
+      "kind": "chapter",
+      "note": "The body is an instrument whose fitness enables spiritual activity.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 14,
+      "chapter": 1,
+      "kind": "chapter",
+      "note": "Fourfold human being: physical, etheric, astral and I; mutual interaction and organ expressions.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 15,
+      "chapter": 1,
+      "kind": "chapter",
+      "note": "Plant formation in outer light is contrasted with human inward transformation.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 16,
+      "chapter": 1,
+      "kind": "chapter",
+      "note": "Dissolution, consciousness and warmth shift the question from intake to inner activity.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 17,
+      "chapter": 1,
+      "kind": "chapter",
+      "note": "Producing one’s own fat and transforming protein are contrasted with animal preparation.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 18,
+      "chapter": 1,
+      "kind": "chapter",
+      "note": "Animal specialization and human integration support the plant/meat contrast.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 19,
+      "chapter": 1,
+      "kind": "chapter",
+      "note": "Individual dietary constitution qualifies general claims; assertions about meat and eye fat require scrutiny.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 20,
+      "chapter": 1,
+      "kind": "chapter",
+      "note": "Alcohol is interpreted as a surrogate for the I; coffee as support for thinking.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 21,
+      "chapter": 1,
+      "kind": "chapter",
+      "note": "Tea, coffee and milk illustrate differing effects; freedom remains a limit on prescription.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 22,
+      "chapter": 2,
+      "kind": "chapter",
+      "note": "Chapter 2 contrasts laboratory substances with transformation inside the organism.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 23,
+      "chapter": 2,
+      "kind": "chapter",
+      "note": "Minerals become warmth ether, receive cosmic forces and resolidify; milk and childhood form.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 24,
+      "chapter": 2,
+      "kind": "chapter",
+      "note": "Incomplete transformation is linked to deposits and diabetes in Steiner’s account.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 25,
+      "chapter": 2,
+      "kind": "chapter",
+      "note": "Assimilating temperature is compared with poisoning; roots and flowers are given different tendencies.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 26,
+      "chapter": 2,
+      "kind": "chapter",
+      "note": "Flowers, conscience, seasons and moon-related root forces extend the spiritual picture.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 27,
+      "chapter": 2,
+      "kind": "chapter",
+      "note": "Earth’s spiritual origin and the reversal of root/flower directions inside the human being.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 28,
+      "chapter": 2,
+      "kind": "chapter",
+      "note": "Root forces toward the head, flower forces downward; digestion as spiritual transformation.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 29,
+      "chapter": 2,
+      "kind": "chapter",
+      "note": "Animal organization and elemental beings explain why Steiner distinguishes animal from human digestion.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 30,
+      "chapter": 2,
+      "kind": "chapter",
+      "note": "Limits of projecting human consciousness onto animals; milk supports childhood shaping.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 31,
+      "chapter": 2,
+      "kind": "chapter",
+      "note": "Bee colony, honey and the head; honey and milk are paired as formative nourishment.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 32,
+      "chapter": 2,
+      "kind": "chapter",
+      "note": "Human and nature as mutually intelligible poles; mineral transformation links to spiritual hierarchies.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 33,
+      "chapter": 3,
+      "kind": "chapter",
+      "note": "Chapter 3 differentiates milk, plant and meat nourishment by earth and cosmic relationships.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 34,
+      "chapter": 3,
+      "kind": "chapter",
+      "note": "Milk supports earthly citizenship; meat binds more strongly; plants suggest lightness.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 35,
+      "chapter": 3,
+      "kind": "chapter",
+      "note": "Milk as earthly ballast for esoteric development; egg protein is related to cosmic forces.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 36,
+      "chapter": 3,
+      "kind": "chapter",
+      "note": "Protein and fat are related to spiritual hierarchies and differentiated esoteric perception.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 37,
+      "chapter": 3,
+      "kind": "chapter",
+      "note": "Sugar’s proposed bodily stabilizing role during spiritual development; unsupported generalizations about national personality.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 38,
+      "chapter": 3,
+      "kind": "chapter",
+      "note": "Coffee provides a thinking scaffold; dependence and inner effort matter.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 39,
+      "chapter": 3,
+      "kind": "chapter",
+      "note": "Tea and chocolate characterize different tendencies; identify polemic rather than established psychology.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 40,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Chapter 4 questions an older high-protein recommendation and excess-protein consequences.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 41,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Changing protein quantities lead into etheric activity in fluids.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 42,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Protein/abdomen and fat/chest warmth; the etheric body opposes putrefaction.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 43,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Death and etheric activity; astral activity is related to preventing rancidity.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 44,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Historical copper and arsenic treatments; starch-to-sugar transformation.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 45,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Alcohol interferes with the claimed control of fermentation; hangover example.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 46,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Solid/fluid/gas/warmth correspond to physical/etheric/astral/I; the potato example begins.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 47,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Potato consumption is linked to materialism and head strain; these causal claims are unsupported.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 48,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Instinct, endogenous alcohol and the three processes of decay, rancidity and fermentation.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 49,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Living processes contrasted with autopsy; spa sulphur example.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 50,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Individual responses at spas, organ/process summary and the relation of food to poison.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 51,
+      "chapter": 4,
+      "kind": "chapter",
+      "note": "Excess nourishment and dosage close the chapter.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 52,
+      "chapter": 5,
+      "kind": "chapter",
+      "note": "Chapter 5 uses dismantling a watch to explain the transformation of protein.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 53,
+      "chapter": 5,
+      "kind": "chapter",
+      "note": "Claim that inhaled nitrogen, hydrogen and sulphur build protein; distinguish from present physiology.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 54,
+      "chapter": 5,
+      "kind": "chapter",
+      "note": "Living soil and manure are linked to food quality; mineral-fertilizer criticism.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 55,
+      "chapter": 5,
+      "kind": "chapter",
+      "note": "Fat craving under deprivation, grains and a question about children’s carrots.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 56,
+      "chapter": 5,
+      "kind": "chapter",
+      "note": "Instinct contrasted with weighing food; claims about carrots, worms, sugar and liver.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 57,
+      "chapter": 5,
+      "kind": "chapter",
+      "note": "Not forcing disliked foods; coffee and tea illustrated through occupations.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 58,
+      "chapter": 5,
+      "kind": "chapter",
+      "note": "Coffee connects thoughts, tea scatters them; the chapter’s closing contrast.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 59,
+      "chapter": 6,
+      "kind": "chapter",
+      "note": "Chapter 6 begins with taste, saliva/ptyalin and stomach/pepsin.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 60,
+      "chapter": 6,
+      "kind": "chapter",
+      "note": "Taste depends on context; pancreas and infant milk relationships.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 61,
+      "chapter": 6,
+      "kind": "chapter",
+      "note": "Trypsin, liver perception, kidney thinking and bile as tears; four secretions and absorption.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 62,
+      "chapter": 6,
+      "kind": "chapter",
+      "note": "Living digestive wisdom contrasted with laboratory reasoning; nutrient-transformation table.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 63,
+      "chapter": 6,
+      "kind": "chapter",
+      "note": "Claims about sugar, endogenous alcohol and preservation of protein.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 64,
+      "chapter": 6,
+      "kind": "chapter",
+      "note": "Fats, dissolved minerals and a glass-of-water analogy; an exaggerated body-water estimate.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 65,
+      "chapter": 6,
+      "kind": "chapter",
+      "note": "Fluid transport and urine; speculative explanation of migraine through uric acid.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 66,
+      "chapter": 6,
+      "kind": "chapter",
+      "note": "Cerebrospinal fluid and buoyancy lead toward an account of thinking and bodily support.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 67,
+      "chapter": 6,
+      "kind": "chapter",
+      "note": "Salt/thinking and phosphorus/willing; argument from substances to soul-spirit.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 68,
+      "chapter": 6,
+      "kind": "chapter",
+      "note": "Critique of autopsy and material science; translator’s explanatory footnote.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 69,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Chapter 7 opens with an editorial BSE comparison, then a workers’ question and four food groups.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 70,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Plant production and animal dependence; chlorophyll and blood comparison.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 71,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Reciprocal plant/animal gas processes, carbon and the green plant’s work.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 72,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Root/mineral/head relationships; unsupported carrot and intestinal-worm explanation.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 73,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "The potato is a tuber rather than a root; transformation is linked to strength.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 74,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Grains and potatoes compared; warmth, milling and cooking introduced.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 75,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Preparation outside the body saves work inside; criticism of raw-food diets.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 76,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Making human fat and changing sugar; unsupported national-character generalizations.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 77,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Bread and butter; roots/head, leaves/chest and fruit/abdomen relationships.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 78,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Sun-ripened fruit and inherited digestive capacities; limits of diet fanaticism.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 79,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Vegetarian inner activity, Steiner’s personal experience and the individual-matter qualification.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 80,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Excess-protein case and a nutrient/organ summary.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 81,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Continuous renewal and an inaccurate universal seven-to-eight-year replacement claim.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 82,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "An ox fed meat, unused forces and claimed urates in the brain; distinguish from BSE.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 83,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Unsupported racial/intestine-length generalizations; spa diets and vegetarianism.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 84,
+      "chapter": 7,
+      "kind": "chapter",
+      "note": "Food markets and wealthy spa patients raise the social question of access.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 85,
+      "chapter": 8,
+      "kind": "chapter",
+      "note": "Chapter 8 opens with root/blossom relationships, minerals, oils and the potato distinction.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 86,
+      "chapter": 8,
+      "kind": "chapter",
+      "note": "Continuation of the claim about potato tubers and the head.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 87,
+      "chapter": 8,
+      "kind": "chapter",
+      "note": "Beetroot, radish and potato interpreted through thinking, dreams and hunger.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 88,
+      "chapter": 8,
+      "kind": "chapter",
+      "note": "Food as stimulus rather than bodily building material; cosmic formation and renewal.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 89,
+      "chapter": 8,
+      "kind": "chapter",
+      "note": "Heart as compacted light; the food/body armchair distinguishes the occupant from its support.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 90,
+      "chapter": 9,
+      "kind": "chapter",
+      "note": "Chapter 9: salt and thinking; spiritual activity needs material conditions.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 91,
+      "chapter": 9,
+      "kind": "chapter",
+      "note": "Iron machinery analogy; carbohydrate connected with human form and speech.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 92,
+      "chapter": 9,
+      "kind": "chapter",
+      "note": "Fat filling the form and protein sustaining life.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 93,
+      "chapter": 9,
+      "kind": "chapter",
+      "note": "Physical/protein, etheric/fat, astral/carbohydrate and I/salt; fruit versus potato tuber.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 94,
+      "chapter": 9,
+      "kind": "chapter",
+      "note": "Rye and potato contrasted through astral activity; reproductive speculation begins.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 95,
+      "chapter": 9,
+      "kind": "chapter",
+      "note": "Unsupported potato/hydrocephalus claim; etheric and astral developmental phases.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 96,
+      "chapter": 9,
+      "kind": "chapter",
+      "note": "Agricultural organization and social reform; nutrition is made a public concern.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 97,
+      "chapter": 10,
+      "kind": "chapter",
+      "note": "Chapter 10: alcohol accelerates inward activity and disturbs reason/passion balance.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 98,
+      "chapter": 10,
+      "kind": "chapter",
+      "note": "Further drinking as an apparent hangover remedy; depletion and delirium.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 99,
+      "chapter": 10,
+      "kind": "chapter",
+      "note": "Severe withdrawal and historical bloodletting; blood/will contrasted with nerves/reason.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 100,
+      "chapter": 10,
+      "kind": "chapter",
+      "note": "Bone marrow and blood renewal; unsupported sex-specific reproductive account.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 101,
+      "chapter": 10,
+      "kind": "chapter",
+      "note": "Speculative sex-specific and fetal mechanisms of alcohol effects.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 102,
+      "chapter": 10,
+      "kind": "chapter",
+      "note": "Generational injury and phosphorus introduce a dose analogy.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 103,
+      "chapter": 10,
+      "kind": "chapter",
+      "note": "Match workers’ jaw injury and exposure route; occupational and humanitarian context.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 104,
+      "chapter": 10,
+      "kind": "chapter",
+      "note": "Alcohol interpreted through blood preservation and bone-marrow renewal; prohibition introduced.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 105,
+      "chapter": 10,
+      "kind": "chapter",
+      "note": "Contaminated-water statistics challenge simplistic immediate-harm comparisons.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 106,
+      "chapter": 10,
+      "kind": "chapter",
+      "note": "Substitution with cocaine; understanding that reaches feeling is preferred to prohibition.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 107,
+      "chapter": 10,
+      "kind": "chapter",
+      "note": "Accessible explanation, self-determination and respect for human freedom.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 108,
+      "chapter": 11,
+      "kind": "chapter",
+      "note": "Chapter 11: nicotine, circulation and the stated 72:18 pulse/breath ratio; heart-pump denial.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 109,
+      "chapter": 11,
+      "kind": "chapter",
+      "note": "Disturbed pulse/breath relationship and a proposed oxygen/anxiety/organ-damage sequence.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 110,
+      "chapter": 11,
+      "kind": "chapter",
+      "note": "Smoking, judgement and alleged therapeutic exceptions; distinguish from medical advice.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 111,
+      "chapter": 11,
+      "kind": "chapter",
+      "note": "Work alienation and reading; bone-forming and bone-resorbing cells as opposing activities.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 112,
+      "chapter": 11,
+      "kind": "chapter",
+      "note": "Construction and breakdown are jointly necessary in the whole organism.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 113,
+      "chapter": 12,
+      "kind": "chapter",
+      "note": "Chapter 12: nature, poison and dose; Paracelsus introduced.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 114,
+      "chapter": 12,
+      "kind": "chapter",
+      "note": "Matter/spirit and specialized knowledge; Paracelsus and Hahnemann contrasted as methods.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 115,
+      "chapter": 12,
+      "kind": "chapter",
+      "note": "Physician development and character; coffee and logical thinking as example.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 116,
+      "chapter": 12,
+      "kind": "chapter",
+      "note": "Tea and scattered thoughts; physician as artist continuing nature’s processes.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 117,
+      "chapter": 12,
+      "kind": "chapter",
+      "note": "Rice/duck, protein balance, independent thinking and vegetarianism with spiritual practice.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 118,
+      "chapter": null,
+      "kind": "sources",
+      "note": "Source records for chapters 1–5, followed by the chapter 6 heading.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 119,
+      "chapter": null,
+      "kind": "sources",
+      "note": "Source records for chapters 6–12 with dates, locations, translators and GA references.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 120,
+      "chapter": null,
+      "kind": "sources",
+      "note": "Lecture transcription and audience note: records may contain faulty passages.",
+      "ocrReviewFlag": false
+    },
+    {
+      "page": 121,
+      "chapter": null,
+      "kind": "advertisement",
+      "note": "Cover image advertising Happiness; excluded from the Nutrition teachings.",
+      "ocrReviewFlag": true
+    },
+    {
+      "page": 122,
+      "chapter": null,
+      "kind": "advertisement",
+      "note": "Publisher advertisement and purchase prompt for Happiness; excluded from the Nutrition teachings.",
+      "ocrReviewFlag": false
+    }
+  ],
+  "figures": [
+    {
+      "page": 50,
+      "lesson": 6
+    },
+    {
+      "page": 61,
+      "lesson": 8
+    },
+    {
+      "page": 67,
+      "lesson": 9
+    },
+    {
+      "page": 71,
+      "lesson": 10
+    }
+  ],
+  "excerptLocations": [
+    {
+      "lesson": 1,
+      "legacyCapture": 9,
+      "page": 12
+    },
+    {
+      "lesson": 2,
+      "legacyCapture": 11,
+      "page": 14
+    },
+    {
+      "lesson": 3,
+      "legacyCapture": 21,
+      "page": 23
+    },
+    {
+      "lesson": 4,
+      "legacyCapture": 25,
+      "page": 27
+    },
+    {
+      "lesson": 5,
+      "legacyCapture": 35,
+      "page": 37
+    },
+    {
+      "lesson": 6,
+      "legacyCapture": 44,
+      "page": 46
+    },
+    {
+      "lesson": 7,
+      "legacyCapture": 52,
+      "page": 55
+    },
+    {
+      "lesson": 8,
+      "legacyCapture": 59,
+      "page": 61
+    },
+    {
+      "lesson": 9,
+      "legacyCapture": 65,
+      "page": 68
+    },
+    {
+      "lesson": 10,
+      "legacyCapture": 73,
+      "page": 75
+    },
+    {
+      "lesson": 11,
+      "legacyCapture": 77,
+      "page": 79
+    },
+    {
+      "lesson": 12,
+      "legacyCapture": 86,
+      "page": 89
+    },
+    {
+      "lesson": 13,
+      "legacyCapture": 90,
+      "page": 93
+    },
+    {
+      "lesson": 14,
+      "legacyCapture": 104,
+      "page": 107
+    },
+    {
+      "lesson": 15,
+      "legacyCapture": 105,
+      "page": 108
+    },
+    {
+      "lesson": 16,
+      "legacyCapture": 114,
+      "page": 117
+    }
+  ]
+}

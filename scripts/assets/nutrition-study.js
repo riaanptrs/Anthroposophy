@@ -30,3 +30,8 @@
     });
   }
 })();
+
+document.addEventListener('DOMContentLoaded',()=>{
+ const guide=document.querySelector('[data-nutrition-book-orientation]'),hero=document.querySelector('main > .cw-hero');
+ if(guide&&hero)hero.after(guide);
+});

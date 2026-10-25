@@ -1,0 +1,20 @@
+{
+  "pageCases": 32,
+  "widths": [
+    1280,
+    320
+  ],
+  "javascript": [
+    true,
+    false
+  ],
+  "checks": [
+    "four source figures load with visible dimensions",
+    "source comparisons and application answers open by keyboard",
+    "bilingual teaching and worked cases",
+    "language, unique IDs and no document overflow"
+  ],
+  "pageErrors": [],
+  "missingAssets": [],
+  "scope": "source figure pages"
+}

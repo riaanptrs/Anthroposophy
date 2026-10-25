@@ -1,4 +1,7 @@
-# Nutrition reading-course publication review
+# Earlier Nutrition reading-course publication review
+
+The current attached-book expansion is documented in [attached-book-review.md](attached-book-review.md). The record below describes the earlier 118-capture source and original teaching pass.
+
 
 The main nutrition course now teaches Rudolf Steiner’s twelve-chapter anthology through sixteen chapter lessons, an orientation and a final synthesis. Four denser chapters (1, 2, 6 and 7) have two lessons each. The course is learner-facing and self-paced, with no assumed child age group. Each chapter lesson explains the argument through four sustained concept sections, a short source excerpt, three multiple-choice checks and two descriptive prompts with model responses. There are 54 checks and 37 written prompts across the full sequence.
 

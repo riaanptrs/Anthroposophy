@@ -1,0 +1,25 @@
+{
+  "pageCases": 168,
+  "widths": [
+    1280,
+    320
+  ],
+  "javascript": [
+    true,
+    false
+  ],
+  "checks": [
+    "all 36 lesson bodies show detailed teaching",
+    "chapter explanations and worked cases",
+    "keyboard-operable application answers",
+    "four source figures decode and fit",
+    "current 122-page map and 16 excerpt locations",
+    "legacy concordance",
+    "course entry visible",
+    "collected print answers open",
+    "existing quiz feedback",
+    "language, unique IDs and no document overflow"
+  ],
+  "pageErrors": [],
+  "missingAssets": []
+}
