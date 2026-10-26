@@ -1,0 +1,12 @@
+{
+  "baseline": "d4cd7134801c46019c93f08a67363688aa3220dc",
+  "htmlPages": 2005,
+  "mainMarkupUnchanged": 2001,
+  "changedHubs": [
+    "index.html",
+    "learn/index.html",
+    "pt/index.html",
+    "pt/learn/index.html"
+  ],
+  "details": "All existing teaching, excerpts, exercises, source locators and notebook markup are unchanged. Discovery hubs add clear actions and Nutrition discovery. Preferences and filters enhance the existing documents without replacing authored teaching."
+}

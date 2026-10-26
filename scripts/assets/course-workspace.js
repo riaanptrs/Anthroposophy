@@ -27,14 +27,33 @@
   const heading=main.querySelector('h1'),intro=main.querySelector('.lead'),startHere=main.querySelector('.course-start-here');const guidance=make('details','cw-panel cw-catalogue-guidance');guidance.append(make('summary','',say('Learning paths and course guidance','Percursos de aprendizagem e orientação')));
   const grid=make('div','cw-catalogue-grid');cards.forEach(c=>{c.classList.add('cw-course-card');grid.append(c);});
   for(const n of [...main.childNodes])guidance.append(n);
-  main.append(heading);if(intro)main.append(intro);if(startHere)main.append(startHere);
+  main.append(heading);if(intro)main.append(intro);if(startHere){const guide=make('details','cw-start-guide');guide.append(make('summary','',say('New here? Find your starting course','Chegando agora? Encontre seu curso inicial')),startHere);main.append(guide);}
   const label=make('label','cw-search-label',say('Find a course','Encontre um curso')),input=make('input');input.type='search';input.placeholder=say('Search by title or subject','Busque por título ou assunto');label.append(input);
+  const subjectLabel=make('label','cw-subject-label',say('Browse by subject','Explorar por tema')),subject=make('select');
+  const subjects=[['all','All subjects','Todos os temas'],['foundations','Getting started','Primeiros passos'],['thinking','Thinking & freedom','Pensar e liberdade'],['inner','Inner development','Desenvolvimento interior'],['education','Education & relationships','Educação e relações'],['nature','Nature & food','Natureza e alimentação'],['arts','Art & colour','Arte e cor'],['society','Society & culture','Sociedade e cultura']];
+  for(const [value,en,pt]of subjects){const o=make('option','',say(en,pt));o.value=value;subject.append(o);}subjectLabel.append(subject);
+  const filters=make('div','cw-catalogue-filters');filters.append(label,subjectLabel);
+  const topics={foundations:['learn/foundations/','introduction-to-anthroposophy/','start-now/','learn/steiner-documentary/'],thinking:['philosophy-of-freedom/','practical-thinking/'],inner:['theosophy/','read/theosophy/','higher-worlds/','meditation/','according-to-luke/','learn/esoteric-christianity/'],education:['learn/waldorf/','temperaments/','mystery-temperaments/','understand-temperament/','understanding-temperaments/','encountering-the-self/','learn/phases/'],nature:['agriculture/','biodynamics/','what-is-biodynamics/','foodwise/','nutrition/','learn/bees/'],arts:['colour/'],society:['toward-threefold-society/','ancient-myths/']};
+  for(const card of cards){
+   const a=card.querySelector('h3 a,h2 a');if(!a)continue;
+   const route=new URL(a.href).pathname.slice(scope.length).replace(/^pt\//,'');
+   card.dataset.courseSubject=Object.keys(topics).find(k=>topics[k].some(prefix=>route.startsWith(prefix)))||'inner';
+   let content=card.querySelector('.identity-course-copy,.identity-directory-copy');
+   if(!content){content=make('div','identity-directory-copy');while(card.firstChild)content.append(card.firstChild);card.append(content);}
+   const meta=config.catalogueCourses?.find(c=>c.route===route);
+   if(meta){const m=make('p','cw-course-meta',say(`${meta.lessons} lessons · At your own pace`,`${meta.lessons} lições · No seu ritmo`));content.append(m);}
+   const existingAction=card.querySelector('.identity-card-action,.cw-course-action');
+   if(existingAction){existingAction.textContent=say('View course →','Ver curso →');existingAction.setAttribute('aria-label',say('View course: ','Ver curso: ')+a.textContent);const row=existingAction.closest('p')||existingAction;row.classList.add('cw-course-action-row');content.append(row);}
+   if(!existingAction){const action=make('a','cw-course-action',say('View course →','Ver curso →'));action.href=a.href;action.setAttribute('aria-label',say('View course: ','Ver curso: ')+a.textContent);content.append(action);}
+  }
+  const clear=make('button','cw-reset-search',say('Clear filters','Limpar filtros'));clear.type='button';clear.hidden=true;
   const status=make('p','cw-results');status.setAttribute('role','status');const controls=make('nav','cw-catalogue-pages');controls.setAttribute('aria-label',say('Course results pages','Páginas dos resultados de cursos'));
   const previous=make('button','',say('Previous page','Página anterior')),next=make('button','',say('Next page','Próxima página'));previous.type=next.type='button';controls.append(previous,next);
   let at=0;const size=matchMedia('(max-width:600px)').matches?6:9;
-  function paint(){const q=normalize(input.value.trim()),matches=cards.filter(c=>normalize(c.textContent).includes(q));cards.forEach(c=>c.hidden=true);matches.slice(at*size,(at+1)*size).forEach(c=>c.hidden=false);status.textContent=matches.length?say(`${matches.length} ${matches.length===1?'result':'results'} · page ${at+1} of ${Math.ceil(matches.length/size)}`,`${matches.length} ${matches.length===1?'resultado':'resultados'} · página ${at+1} de ${Math.ceil(matches.length/size)}`):say('No courses match. Try another title or subject.','Nenhum curso encontrado. Tente outro título ou assunto.');previous.disabled=at===0;next.disabled=(at+1)*size>=matches.length;}
+  function paint(){const q=normalize(input.value.trim()),matches=cards.filter(c=>normalize(c.textContent).includes(q)&&(subject.value==='all'||c.dataset.courseSubject===subject.value));cards.forEach(c=>c.hidden=true);matches.slice(at*size,(at+1)*size).forEach(c=>c.hidden=false);status.textContent=matches.length?say(`${matches.length} ${matches.length===1?'result':'results'} · page ${at+1} of ${Math.ceil(matches.length/size)}`,`${matches.length} ${matches.length===1?'resultado':'resultados'} · página ${at+1} de ${Math.ceil(matches.length/size)}`):say('No courses match. Try another title or subject.','Nenhum curso encontrado. Tente outro título ou assunto.');previous.disabled=at===0;next.disabled=(at+1)*size>=matches.length;controls.hidden=matches.length<=size;clear.hidden=!q&&subject.value==='all';}
   input.addEventListener('input',()=>{at=0;paint();});previous.onclick=()=>{at--;paint();label.scrollIntoView({block:'start'});};next.onclick=()=>{at++;paint();label.scrollIntoView({block:'start'});};
-  main.append(label,status,grid,controls,guidance);paint();document.body.classList.add('cw-ready','cw-catalogue');
+  subject.addEventListener('change',()=>{at=0;paint();});clear.addEventListener('click',()=>{input.value='';subject.value='all';at=0;paint();input.focus();});
+  main.append(filters,status,clear,grid,controls,guidance);paint();document.body.classList.add('cw-ready','cw-catalogue');
  } else if(config.role==='overview'){
   const course=config.course,heading=main.querySelector('h1');const original=make('div','cw-original-overview');while(main.firstChild)original.append(main.firstChild);
   const hero=make('section','cw-hero');hero.append(heading);const artwork=original.querySelector('.identity-course-art');if(artwork)hero.append(artwork);

@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-26",
+  "status": "ready",
+  "scope": "Presentation and learning UX on the existing bilingual GitHub Pages site.",
+  "findings": [
+    "The existing paper palette and editorial illustrations provide a coherent foundation.",
+    "Search was separated from the top of the catalogue by a long beginner introduction.",
+    "Subject browsing and clear course actions were missing.",
+    "Nutrition was an unclassified section outside the searchable card inventory.",
+    "Legacy position labels competed with the course toolbar.",
+    "A narrow Theosophy overview illustration extended beyond the viewport."
+  ],
+  "changes": [
+    "Original calligraphic display typography for h1–h3, with readable body and interface text.",
+    "Illustrated cards with clearer actions, subject filters and course counts where supported by the course adapter.",
+    "Compact, expandable beginner guidance above course search.",
+    "Nutrition joins the searchable catalogue and its language label is corrected.",
+    "Optional larger reading text and focus mode with keyboard exit.",
+    "Focus and size controls degrade safely when storage is blocked; only explicit text-size choices use sessionStorage.",
+    "Existing authored reading documents, saved-note namespaces and progress functions retained."
+  ],
+  "font": {
+    "family": "Unfolding Display",
+    "source": "Almendra by Ana Sanfelippo",
+    "license": "SIL Open Font License 1.1",
+    "delivery": "Self-hosted Latin WOFF2, 15 KB regular and 12 KB bold; Portuguese glyphs verified.",
+    "attribution": "A renamed calligraphic derivative chosen for a Waldorf-inspired visual feel; not claimed as an original Steiner or official institutional typeface."
+  },
+  "validation": {
+    "browser": "learning-experience/browser.json",
+    "studyInteractions": "learning-experience/study-interactions.json",
+    "preservation": "learning-experience-preservation.json",
+    "validators": "learning-experience-validators.json",
+    "comparison": "learning-experience-validation-comparison.json"
+  },
+  "limits": [
+    "Representative browser checks do not constitute a learner usability study.",
+    "The 13 pre-existing repository validation failures remain; their first failures match the previous revision.",
+    "Browser checks use the local generated site with a GitHub Pages path prefix."
+  ]
+}

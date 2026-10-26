@@ -62,7 +62,10 @@ function sharedVisualIdentity(html, logicalFile, route, version) {
     return path.posix.normalize(path.posix.join(path.posix.dirname(logicalFile), url.split(/[?#]/)[0])) === asset ? '' : tag;
   });
   const href = path.posix.relative(path.posix.dirname(logicalFile), asset);
-  html = html.replace(/<\/head>/i, `<link rel="stylesheet" href="${esc(href)}?v=${version}"></head>`);
+  const uxHref=path.posix.relative(path.posix.dirname(logicalFile),'docs/learning-experience.js');
+  const uxVersion=createHash('sha256').update(fs.readFileSync(new URL('./assets/learning-experience.js',import.meta.url))).digest('hex').slice(0,12);
+  html=html.replace(/<script\b[^>]*src=["'][^"']*learning-experience\.js[^"']*["'][^>]*><\/script>/gi,'');
+  html = html.replace(/<\/head>/i, `<link rel="stylesheet" href="${esc(href)}?v=${version}"><script defer src="${esc(uxHref)}?v=${uxVersion}"></script></head>`);
   html = html.replace(/<body\b[^>]*>/i, tag => {
     const clean = tag.replace(/\sdata-(?:visual-identity|identity-theme)\s*=\s*(["'])[\s\S]*?\1/gi, '');
     return clean.replace(/>$/, ` data-visual-identity="2026-10" data-identity-theme="${esc(visualThemeFor(route))}">`);
@@ -84,6 +87,7 @@ function sharedVisualIdentity(html, logicalFile, route, version) {
 export function applyPlatformNavigation(docsDir = 'docs') {
   const root = path.resolve(docsDir);
   if (!fs.existsSync(root) || !fs.statSync(root).isDirectory()) throw new Error('Platform navigation requires an existing docs tree');
+  fs.copyFileSync(new URL('./assets/learning-experience.js',import.meta.url),path.join(root,'learning-experience.js'));
   const routes = fs.readdirSync(root, {recursive:true}).filter(name => name.endsWith('.html')).map(name => name.split(path.sep).join('/')).sort();
   const writes = [];
   const identityVersion = createHash('sha256').update(fs.readFileSync(new URL('./assets/visual-identity.css', import.meta.url))).digest('hex').slice(0,12);

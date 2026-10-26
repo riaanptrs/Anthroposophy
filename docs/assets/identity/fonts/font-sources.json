@@ -56,6 +56,31 @@
       "missingOptionalSymbols": [],
       "axes": [],
       "portugueseAccentsVerified": true
+    },
+    {
+      "file": "UnfoldingDisplay-Regular-Latin.woff2",
+      "family": "Unfolding Display",
+      "authors": "Derived from Almendra by Ana Sanfelippo",
+      "canonicalSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/almendra/Almendra-Regular.ttf",
+      "originalSha256": "b127a6121209353b53da9ce73bf9d350f74190d8384c28ede179e4fb9440f946",
+      "bundledSha256": "58858257aeb7685a5adc92eb2fa1d94180cb7218dfb58550d70f19963469c571",
+      "bytes": 14604,
+      "glyphCount": 333,
+      "portugueseAccentsVerified": true,
+      "derivative": "Latin WOFF2 subset renamed Unfolding Display to respect the original Reserved Font Name. No claim of a historical Steiner or institutional Waldorf typeface."
+    },
+    {
+      "file": "UnfoldingDisplay-Bold-Latin.woff2",
+      "family": "Unfolding Display",
+      "authors": "Derived from Almendra by Ana Sanfelippo",
+      "canonicalSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/almendra/Almendra-Bold.ttf",
+      "originalSha256": "5895ef04d0d56c60083ec302e72db99b952b044ab2b440ee12283649b5edc971",
+      "bundledSha256": "a840f347baeb536f0d87c900d25b4f0229ecae0112b69853f60a54992d92b55f",
+      "bytes": 12040,
+      "glyphCount": 230,
+      "portugueseAccentsVerified": true,
+      "derivative": "Latin WOFF2 subset renamed Unfolding Display to respect the original Reserved Font Name. No claim of a historical Steiner or institutional Waldorf typeface."
     }
-  ]
+  ],
+  "updated": "2026-10-26"
 }

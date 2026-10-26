@@ -12,6 +12,9 @@ const themes = new Set(['violet', 'teal', 'clay', 'gold', 'green']);
 // Steiner correspondences or reproduce an institutional/historical emblem.
 const subjects = new Map([
   ['bees', ['gold', 'bees']],
+  ['nutrition', ['green', 'agriculture']],
+  ['foodwise', ['gold', 'agriculture']],
+  ['phases', ['clay', 'human-being']],
   ['foundations', ['violet', 'unfolding']],
   ['introduction-to-anthroposophy', ['violet', 'unfolding']],
   ['theosophy', ['violet', 'human-being']],
@@ -58,6 +61,7 @@ function subjectFor(route) {
   if (parts[0] === 'read' && parts[1] === 'theosophy') return subjects.get('theosophy');
   if (parts[0] === 'learn' && parts[1] === 'foundations') return subjects.get('foundations');
   if (parts[0] === 'learn' && parts[1] === 'bees') return subjects.get('bees');
+  if (parts[0] === 'learn' && parts[1] === 'phases') return subjects.get('phases');
   if (parts[0] === 'learn' && parts[1] === 'waldorf') return subjects.get('waldorf');
   const key = (parts[0] ?? '').replace(/\.html$/, '');
   return subjects.get(key) ?? ['violet', 'unfolding'];
