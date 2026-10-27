@@ -154,3 +154,6 @@ buildCourseWorkspace();
 
 // Preserve the standalone documentary course after shared lesson transforms.
 await import('./build-steiner-documentary.mjs');
+
+// Course-owned lecture teaching and resources.
+await import('./build-esoteric-social.mjs');

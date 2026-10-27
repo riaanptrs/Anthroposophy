@@ -389,6 +389,9 @@ for(const prefix of ['', 'pt/']){
 // notes are published once; Portuguese indexes link those same documents.
 const freedomDetailed=JSON.parse(fs.readFileSync('content/freedom-revision/units.json'));
 const expectedRoutes=new Set(['learn/steiner-documentary/index.html','pt/learn/steiner-documentary/index.html']);
+const {lessons:esotericSocialLessons}=await import('../content/esoteric-social/course.mjs');
+for(const route of ['index.html','concepts.html','workbook.html','teaching.html','sources.html','print.html',...esotericSocialLessons.map(l=>'lessons/'+String(l.id).padStart(2,'0')+'.html')])expectedRoutes.add('learn/esoteric-social/'+route);
+expectedRoutes.add('pt/learn/esoteric-social/index.html');
 for(const prefix of ['', 'pt/'])for(const route of ['coverage.html','sources.html','glossary.html','workbook.html','print.html',...freedomDetailed.map(l=>'studies/'+String(l.id).padStart(2,'0')+'.html')])expectedRoutes.add(prefix+'philosophy-of-freedom/'+route);
 const {chapters:startNowChapters,lessons:startNowLessons}=await import('../content/start-now/course.mjs');
 for(const prefix of ['', 'pt/'])for(const route of ['index.html',...startNowChapters.map(c=>'chapters/'+c.id+'.html'),...startNowLessons.map(l=>'lessons/'+l.id+'.html')])expectedRoutes.add(prefix+'start-now/'+route);
