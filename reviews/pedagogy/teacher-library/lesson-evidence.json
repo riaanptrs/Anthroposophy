@@ -86,7 +86,7 @@
       "course": "meditation",
       "units": 9,
       "earlierIndividualAudits": 9,
-      "revisedAssessments": 0
+      "revisedAssessments": 4
     },
     {
       "course": "mystery-temperaments",
@@ -179,7 +179,7 @@
       "revisedAssessments": 0
     }
   ],
-  "revisedAssessments": 132,
+  "revisedAssessments": 136,
   "records": [
     {
       "course": "according-to-luke",
@@ -20553,8 +20553,7 @@
         "The course selects practices rather than asking you to perform everything in these books. Understanding, meditation and everyday application are related activities, but one does not automatically accomplish the others."
       ],
       "questionEvidence": [
-        "Why not begin by doing every exercise in Start Now!?",
-        "If attention wandered, was the exercise necessarily wasted?"
+        "Why not begin by doing every exercise in Start Now!?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -20567,7 +20566,11 @@
           "sourceReverificationBlocked": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "meditation/REVIEW.md",
+        "scope": "All nine English main explanations and primary checks, retained session explanations, guided steps and worked examples read; four second checks and matching worked questions revised bilingually; session six source paragraph clarified; full source texts and all practical-guide sections not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -20576,7 +20579,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "d0b6f3a0a136351ffcd2ca6e502f3b6f1e490ee843e216e85ed567f9437a1dee"
+      "sha256": "b01f6af0c86fe807210d5a2b56eb9782011e69780c05ba68169c61f1f22c4d25"
     },
     {
       "course": "meditation",
@@ -20607,6 +20610,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "meditation/REVIEW.md",
+        "scope": "All nine English main explanations and primary checks, retained session explanations, guided steps and worked examples read; four second checks and matching worked questions revised bilingually; session six source paragraph clarified; full source texts and all practical-guide sections not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -20646,6 +20653,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "meditation/REVIEW.md",
+        "scope": "All nine English main explanations and primary checks, retained session explanations, guided steps and worked examples read; four second checks and matching worked questions revised bilingually; session six source paragraph clarified; full source texts and all practical-guide sections not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -20685,6 +20696,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "meditation/REVIEW.md",
+        "scope": "All nine English main explanations and primary checks, retained session explanations, guided steps and worked examples read; four second checks and matching worked questions revised bilingually; session six source paragraph clarified; full source texts and all practical-guide sections not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -20710,7 +20725,7 @@
       ],
       "questionEvidence": [
         "What is the Calendar trying to teach beyond noticing the weather?",
-        "If the local season differs from the verse’s setting, is your observation wrong?"
+        "A northern seasonal image differs from your surroundings, and Scala’s reflection suggests a mood you do not feel. How would you record the comparison and decide what to revisit?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -20723,7 +20738,11 @@
           "sourceReverificationBlocked": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "meditation/REVIEW.md",
+        "scope": "All nine English main explanations and primary checks, retained session explanations, guided steps and worked examples read; four second checks and matching worked questions revised bilingually; session six source paragraph clarified; full source texts and all practical-guide sections not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -20732,7 +20751,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "173770b65fb851d10fdfdf9c67ded95d0edf19b93e1e012d939e74d811a99be4"
+      "sha256": "6b24c8c593aa8e79f996fac0d0b5365f4db11735387628db80a61f5f2b07af54"
     },
     {
       "course": "meditation",
@@ -20749,7 +20768,7 @@
       ],
       "questionEvidence": [
         "Why does the source insist on building the image before meditating?",
-        "What can a learner do if visual imagery is difficult?"
+        "One learner explains the Rose Cross’s relationships clearly without a vivid image; another copies a striking picture but cannot explain its preparation. What has each demonstrated, and what further distinction matters?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -20762,7 +20781,11 @@
           "sourceReverificationBlocked": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "meditation/REVIEW.md",
+        "scope": "All nine English main explanations and primary checks, retained session explanations, guided steps and worked examples read; four second checks and matching worked questions revised bilingually; session six source paragraph clarified; full source texts and all practical-guide sections not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -20771,7 +20794,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "3a8cceebd57029ced818f627fe59f4f0f18a5d098583a01b9e2f81ab2da27add"
+      "sha256": "2cd457fb344bdd2e80a973b4941a3b69fd380c0f248e1831a663ea9dcb84a367"
     },
     {
       "course": "meditation",
@@ -20802,6 +20825,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "meditation/REVIEW.md",
+        "scope": "All nine English main explanations and primary checks, retained session explanations, guided steps and worked examples read; four second checks and matching worked questions revised bilingually; session six source paragraph clarified; full source texts and all practical-guide sections not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -20810,7 +20837,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "760ff5cdfca650fefc05d2e960b13c3d679dd06f261794594282b4b2d9885b95"
+      "sha256": "33122f80fef58b4131615f952ab153f62ff431aba94ed8f9fc038389a64d5a65"
     },
     {
       "course": "meditation",
@@ -20828,7 +20855,7 @@
       "questionEvidence": [
         "After studying the ending, consider a modest deed: what would warmth of heart notice and clarity of thought need to understand? Ask the person affected rather than assuming what helps. Review understanding and conduct over time without demanding a special experience.",
         "Does helping someone prove that the spiritual process described occurred?",
-        "If a session adds no new insight, should you invent a more impressive note?"
+        "After a session with no new insight, a learner invents a revelation in their journal and calls the course’s four-session plan Steiner’s historical rhythm. How should both records be corrected?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -20841,7 +20868,11 @@
           "sourceReverificationBlocked": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "meditation/REVIEW.md",
+        "scope": "All nine English main explanations and primary checks, retained session explanations, guided steps and worked examples read; four second checks and matching worked questions revised bilingually; session six source paragraph clarified; full source texts and all practical-guide sections not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -20850,7 +20881,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "21a7ecf67288c869f2649f9b4fbeeafac0e76c6de34f7b725b9a694f9897a740"
+      "sha256": "8566955f81d6305b1bb1e5a79b2b2f9338a32e2b56324aec297d77952df05f73"
     },
     {
       "course": "meditation",
@@ -20881,6 +20912,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "meditation/REVIEW.md",
+        "scope": "All nine English main explanations and primary checks, retained session explanations, guided steps and worked examples read; four second checks and matching worked questions revised bilingually; session six source paragraph clarified; full source texts and all practical-guide sections not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,

@@ -400,15 +400,15 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [What meditation is meant to teach](../../../docs/meditation/00.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [A verse: understand it, then live with it](../../../docs/meditation/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The six supporting exercises](../../../docs/meditation/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The backward review: learning from the day](../../../docs/meditation/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The Calendar of the Soul: one verse through a week](../../../docs/meditation/04.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The Rose Cross: why preparation matters](../../../docs/meditation/05.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The Foundation Stone: the whole meditation](../../../docs/meditation/06.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Working with the Foundation Stone over time](../../../docs/meditation/07.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [A rhythm that serves your life](../../../docs/meditation/08.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [What meditation is meant to teach](../../../docs/meditation/00.html) | Current main and retained session teaching/tasks read; [focused review](meditation/REVIEW.md) | Second check and matching worked assessment revised bilingually |
+| [A verse: understand it, then live with it](../../../docs/meditation/01.html) | Current main and retained session teaching/tasks read; [focused review](meditation/REVIEW.md) | Existing teaching and checks retained after close review |
+| [The six supporting exercises](../../../docs/meditation/02.html) | Current main and retained session teaching/tasks read; [focused review](meditation/REVIEW.md) | Existing teaching and checks retained after close review |
+| [The backward review: learning from the day](../../../docs/meditation/03.html) | Current main and retained session teaching/tasks read; [focused review](meditation/REVIEW.md) | Existing teaching and checks retained after close review |
+| [The Calendar of the Soul: one verse through a week](../../../docs/meditation/04.html) | Current main and retained session teaching/tasks read; [focused review](meditation/REVIEW.md) | Second check and matching worked assessment revised bilingually |
+| [The Rose Cross: why preparation matters](../../../docs/meditation/05.html) | Current main and retained session teaching/tasks read; [focused review](meditation/REVIEW.md) | Second check and matching worked assessment revised bilingually |
+| [The Foundation Stone: the whole meditation](../../../docs/meditation/06.html) | Current main and retained session teaching/tasks read; [focused review](meditation/REVIEW.md) | Checks retained; booklet-source paragraph clarified bilingually |
+| [Working with the Foundation Stone over time](../../../docs/meditation/07.html) | Current main and retained session teaching/tasks read; [focused review](meditation/REVIEW.md) | Second check and matching worked assessment revised bilingually |
+| [A rhythm that serves your life](../../../docs/meditation/08.html) | Current main and retained session teaching/tasks read; [focused review](meditation/REVIEW.md) | Existing teaching and checks retained after close review |
 
 ## mystery-temperaments
 
