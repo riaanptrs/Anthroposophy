@@ -197,34 +197,34 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [What Is Anthroposophy?](../../../docs/introduction-to-anthroposophy/lessons/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Who Was Rudolf Steiner?](../../../docs/introduction-to-anthroposophy/lessons/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [What Does Steiner Mean by Spiritual Science?](../../../docs/introduction-to-anthroposophy/lessons/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Body, Soul and Spirit](../../../docs/introduction-to-anthroposophy/lessons/04.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Physical Body, Etheric Body, Astral Body and I](../../../docs/introduction-to-anthroposophy/lessons/05.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Thinking, Feeling and Willing](../../../docs/introduction-to-anthroposophy/lessons/06.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Soul Development and Individuality](../../../docs/introduction-to-anthroposophy/lessons/07.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Reincarnation](../../../docs/introduction-to-anthroposophy/lessons/08.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Karma](../../../docs/introduction-to-anthroposophy/lessons/09.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Death and Life Beyond the Physical Body](../../../docs/introduction-to-anthroposophy/lessons/10.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The Physical World](../../../docs/introduction-to-anthroposophy/lessons/11.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The Soul World](../../../docs/introduction-to-anthroposophy/lessons/12.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The Spiritual World](../../../docs/introduction-to-anthroposophy/lessons/13.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [How the Three Worlds Relate](../../../docs/introduction-to-anthroposophy/lessons/14.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Why Thinking Matters](../../../docs/introduction-to-anthroposophy/lessons/15.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Freedom and Moral Intuition](../../../docs/introduction-to-anthroposophy/lessons/16.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [How Steiner Says Spiritual Knowledge Can Be Developed](../../../docs/introduction-to-anthroposophy/lessons/17.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Imagination, Inspiration and Intuition](../../../docs/introduction-to-anthroposophy/lessons/18.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Human and Cosmic Evolution](../../../docs/introduction-to-anthroposophy/lessons/19.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Spiritual Beings and Hierarchies](../../../docs/introduction-to-anthroposophy/lessons/20.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Lucifer and Ahriman](../../../docs/introduction-to-anthroposophy/lessons/21.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Anthroposophy and Christianity](../../../docs/introduction-to-anthroposophy/lessons/22.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Human Development and Education](../../../docs/introduction-to-anthroposophy/lessons/23.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Waldorf Education](../../../docs/introduction-to-anthroposophy/lessons/24.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Biodynamic Agriculture](../../../docs/introduction-to-anthroposophy/lessons/25.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Medicine, Art and Eurythmy](../../../docs/introduction-to-anthroposophy/lessons/26.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Social Threefolding and Cultural Life](../../../docs/introduction-to-anthroposophy/lessons/27.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [How the Anthroposophical Worldview Fits Together](../../../docs/introduction-to-anthroposophy/lessons/28.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [What Is Anthroposophy?](../../../docs/introduction-to-anthroposophy/lessons/01.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Who Was Rudolf Steiner?](../../../docs/introduction-to-anthroposophy/lessons/02.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [What Does Steiner Mean by Spiritual Science?](../../../docs/introduction-to-anthroposophy/lessons/03.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Body, Soul and Spirit](../../../docs/introduction-to-anthroposophy/lessons/04.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Physical Body, Etheric Body, Astral Body and I](../../../docs/introduction-to-anthroposophy/lessons/05.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Thinking, Feeling and Willing](../../../docs/introduction-to-anthroposophy/lessons/06.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Soul Development and Individuality](../../../docs/introduction-to-anthroposophy/lessons/07.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Reincarnation](../../../docs/introduction-to-anthroposophy/lessons/08.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Karma](../../../docs/introduction-to-anthroposophy/lessons/09.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Death and Life Beyond the Physical Body](../../../docs/introduction-to-anthroposophy/lessons/10.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [The Physical World](../../../docs/introduction-to-anthroposophy/lessons/11.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [The Soul World](../../../docs/introduction-to-anthroposophy/lessons/12.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [The Spiritual World](../../../docs/introduction-to-anthroposophy/lessons/13.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [How the Three Worlds Relate](../../../docs/introduction-to-anthroposophy/lessons/14.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Why Thinking Matters](../../../docs/introduction-to-anthroposophy/lessons/15.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Freedom and Moral Intuition](../../../docs/introduction-to-anthroposophy/lessons/16.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [How Steiner Says Spiritual Knowledge Can Be Developed](../../../docs/introduction-to-anthroposophy/lessons/17.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Imagination, Inspiration and Intuition](../../../docs/introduction-to-anthroposophy/lessons/18.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Human and Cosmic Evolution](../../../docs/introduction-to-anthroposophy/lessons/19.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Spiritual Beings and Hierarchies](../../../docs/introduction-to-anthroposophy/lessons/20.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Lucifer and Ahriman](../../../docs/introduction-to-anthroposophy/lessons/21.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Anthroposophy and Christianity](../../../docs/introduction-to-anthroposophy/lessons/22.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Human Development and Education](../../../docs/introduction-to-anthroposophy/lessons/23.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Waldorf Education](../../../docs/introduction-to-anthroposophy/lessons/24.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Biodynamic Agriculture](../../../docs/introduction-to-anthroposophy/lessons/25.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Medicine, Art and Eurythmy](../../../docs/introduction-to-anthroposophy/lessons/26.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Social Threefolding and Cultural Life](../../../docs/introduction-to-anthroposophy/lessons/27.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [How the Anthroposophical Worldview Fits Together](../../../docs/introduction-to-anthroposophy/lessons/28.html) | Current main-explanation and question review | Revised applied check; see course report |
 
 ## learn/esoteric-christianity
 

@@ -4,6 +4,10 @@
 
 The library generally has a coherent educational purpose. Its strongest lessons explain a distinction, work through a concrete example, and then ask learners to use it. The main problems found in this pass concern **the order in which a learner encounters material, questions that can be answered without applying it, and keeping corrected teaching consistent between editions and authoring files**. Agreement with anthroposophy is not evidence of understanding; accurately explaining or criticizing a claim can be.
 
+## Course continuation
+
+The subsequent [Introduction to Anthroposophy revision](introduction/REVIEW.md) reads all 28 current main explanations and their checks, revises one applied question per lesson, and develops five explanations. This raises the combined assessment revision count to **47 units**; the nineteen-unit description below records the first pass. Detailed source verification remains separate.
+
 ## What was actually reviewed
 
 This is a whole-library teaching and alignment pass, not a new line-by-line certification of every source book or every sentence in both languages. It combines **487 existing individual editorial audits** with current rendered-content evidence and **187 additional units**: Bees (23), Start Now (38), Phases (62), Esoteric Social (16), detailed Freedom studies (36), and the documentary (12). Earlier judgments are explicitly attributed to their existing ledgers. Newer units were screened for their stated goal, explanatory material, activity and assessment; targeted lessons received closer reading. Foundations, Practical Thinking and Higher Worlds received a current reading of their short main explanations and answers.
@@ -28,7 +32,7 @@ The assessment changes affect **19 authored units**, in English and Portuguese. 
 | Course / companion | Units | Teacher judgment and teaching purpose |
 | --- | ---: | --- |
 | Foundations | 36 | Retain. Its sequence introduces vocabulary before most later uses, distinguishes ordinary examples from wider spiritual claims, and ends with a connected synthesis. The detailed ninefold/sevenfold account is demanding but has diagrams, grouping explanations and optional depth. |
-| Introduction to Anthroposophy | 28 | Retain at introductory scope, using its earlier individual audit. Keep its survey role distinct from Foundations; a short explanation is an entry point to the retained detailed account. |
+| Introduction to Anthroposophy | 28 | Current 28-lesson main-reading revision completed: five explanations developed and one applied check per lesson revised. Keep the introductory path distinct from the retained detailed source reading. See the continuation report. |
 | Theosophy concept course | 24 | Retain. Distinctions and worked cases support the conceptual sequence; feeling, understanding, individuality and spiritual claims must remain distinguishable. Earlier individual audits are retained as evidence. |
 | Theosophy reading companion | 28 | Retain for source-ordered reading, with the conceptual course available as preparation. It is a separate learning route, not 28 further chapters of the conceptual course. |
 | Practical Thinking | 13 | Revise sequencing and one applied check in every unit. Twelve core lessons now lead from attention and observation to alternatives and judgment; prediction remains optional. |

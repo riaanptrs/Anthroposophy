@@ -56,7 +56,7 @@
       "course": "introduction-to-anthroposophy",
       "units": 28,
       "earlierIndividualAudits": 28,
-      "revisedAssessments": 0
+      "revisedAssessments": 28
     },
     {
       "course": "learn/esoteric-christianity",
@@ -179,7 +179,7 @@
       "revisedAssessments": 0
     }
   ],
-  "revisedAssessments": 19,
+  "revisedAssessments": 47,
   "records": [
     {
       "course": "according-to-luke",
@@ -10130,7 +10130,7 @@
       "questionEvidence": [
         "He connects this path with questions experienced as an inner need. For an adult learner, such a question might be: What makes a choice free? How can I understand another person more fully? The need gives inquiry a personal starting point, while the search for an answer asks for careful thought.",
         "What two sides does Steiner’s definition bring into relationship?",
-        "What role does an inner need play in beginning the path?"
+        "A learner wants to understand what makes a choice free. How can this be an inner need and still require examination of the answer?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10152,7 +10152,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10161,7 +10165,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "2813ce088ec1701ce04b5a2a4a7cb166f1a392eeccd7ffe3c571ff53cb214bbf"
+      "sha256": "15b86fc418eeeecf47b04c6bf08394eb432c68cfd6d751a56afcd29c71030fa4"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10178,8 +10182,7 @@
       ],
       "questionEvidence": [
         "New to anthroposophy? Read the plain-language introduction.",
-        "Why does Goethe’s scientific work matter in Steiner’s account?",
-        "How does Steiner describe his relationship with the Theosophical Society?"
+        "Why does Goethe’s scientific work matter in Steiner’s account?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10202,7 +10205,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10211,7 +10218,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "c45b14fc213c775e39cbf3e77e0f7883bac17cfd99b02d6c23a7aeba7a79c5d2"
+      "sha256": "5a1fc763f60a8840bd280951cf2494cb641a5e98a5308674e6768a4aa6952008"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10227,8 +10234,7 @@
         "The botanical comparison clarifies the reader's role; it does not establish that spiritual observation has the same verification as botanical observation. Patience and precision alone do not make every interpretation correct."
       ],
       "questionEvidence": [
-        "Why does Steiner use the word science for the inquiry he proposes?",
-        "Which statement preserves Steiner’s distinction between a reader and an investigator?"
+        "Why does Steiner use the word science for the inquiry he proposes?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10250,7 +10256,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10259,7 +10269,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "4d6019d28d1a42321f7faff29097a367e60d7e89d6719151bd35d52796e61c10"
+      "sha256": "44923216cdb1a2b15bc8e02983441b631cdd9a22df273585952b177ec466a804"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10267,16 +10277,19 @@
       "title": "Body, Soul and Spirit",
       "languagePartner": "pt/introduction-to-anthroposophy/lessons/04.html",
       "headings": [
+        "One warning, different responses",
+        "The three contributions",
+        "Experience through time",
+        "Return to the encounter",
         "Two questions — optional"
       ],
       "explanationEvidence": [
         "You hear a warning bell, feel startled and understand that it signals danger. Someone else may understand the same warning while feeling differently. Access, inward response and meaning contribute different things.",
-        "Steiner calls these broad relationships body, soul and spirit. The terms concern one person's encounter, not three separate physical objects inside them.",
+        "Steiner calls these broad relationships body, soul and spirit. Bodily hearing gives access to the bell; consciously hearing it and feeling startled belong to lived soul experience; understanding what the warning means illustrates the spiritual relation. Soul includes sensation and memory as well as emotion. These are contributions within one person’s encounter, not three separate physical objects inside them.",
         "His meadow example adds time. The original flowers disappear; remembered joy remains personally connected with the encounter; an understood relationship can be recognized in new flowers and discussed with others."
       ],
       "questionEvidence": [
-        "Which relation does feeling startled illustrate?",
-        "Two listeners feel differently about the bell. Can they understand the same warning?"
+        "Which relation does feeling startled illustrate?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10297,7 +10310,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10306,7 +10323,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "f9959682645f089b70e94908102eba3cf209c0ba197e8b165a7196860e06bb89"
+      "sha256": "a944c6b3548153e09d93c7d583021974cc4b32332c759b6be2811c4c2819f46f"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10326,8 +10343,7 @@
         "Astral organization brings sentience into the account: pleasure, pain, desire and a conscious inner response to what happens. The I names the individual centre that can say “I”, reflect on a desire and work upon it. Feeling hungry and choosing how to respond are connected, but the desire alone does not explain the decision to wait."
       ],
       "questionEvidence": [
-        "Which contrast distinguishes etheric and astral body here?",
-        "What does the I add to the hunger example?"
+        "Which contrast distinguishes etheric and astral body here?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10348,7 +10364,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10357,7 +10377,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "c018925aa074d550e23e7d8b7cd4695873e67566c33d9dd8d299959932638f3a"
+      "sha256": "424a35406773b655284aa5d7b91505f3dfc1d2bff763cb6f52e12a20f1d6c924"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10374,7 +10394,7 @@
       ],
       "questionEvidence": [
         "You reconsider the request and change your offer. Which activity clarifies the needed response?",
-        "Which statement distinguishes feeling from willing?"
+        "You offer to carry a friend’s bag, then learn they need someone to listen. What can change in thinking, feeling and willing while the concern remains?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10395,7 +10415,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10404,7 +10428,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "8dfd79f42c7816c09b532319f98ef193280de0207dad2bdf6bfb1be4eba1ced0"
+      "sha256": "bd82a0ac7766c8264c9eac69aa666c7aa3f3508f827fc6aec7606a060eec298c"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10421,7 +10445,7 @@
       ],
       "questionEvidence": [
         "Does correcting an unwelcome mistake make the earlier feeling unreal?",
-        "Both responses are articulate. After seeing the dated receipt, which better exemplifies truth guiding revision?"
+        "A dated receipt disproves your accusation that a colleague missed this deadline. Compare ‘They were late before, so I keep this accusation’ with ‘I withdraw this accusation and discuss earlier delays separately.’ Which response lets truth guide revision, and why?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10443,7 +10467,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10452,7 +10480,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "e628fd72d573bb4d39cd857aa352405dc3f82dc31ba1a1c8fb7ef8f8e365b678"
+      "sha256": "5c9ad124fb1065d0b0e83439e84fd4c2312e672487f7b71273ea50323086b3dc"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10468,8 +10496,7 @@
         "The continuing individuality is not an unchanged earthly personality. Bodily conditions, circumstances and expression change. The account also allows inherited tendencies rather than assigning everything inward to a previous life."
       ],
       "questionEvidence": [
-        "What are “fruits of experience” in this account?",
-        "What does Steiner describe as reincarnating?"
+        "What are “fruits of experience” in this account?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10491,7 +10518,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10500,7 +10531,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "1cedd1656065c3ecfeaf4af73210c8fabdacb9e951158101df6b2dc2d0d05eac"
+      "sha256": "35c8109a674927fc94b62241f24465451c9704943a4dac117b302b7f09415634"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10517,7 +10548,7 @@
       ],
       "questionEvidence": [
         "What two effects of a deed does the chapter distinguish?",
-        "Does this lesson give a method for identifying someone’s earlier wrongdoing from present suffering?"
+        "Someone becomes more reliable after breaking a promise. What may have changed within them, what may still need repair, and what further claim does karma add?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10539,7 +10570,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10548,7 +10583,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "e80401a34a188437a92803ce795fd0358570ac51f0fd2735ce4abad73e02bd49"
+      "sha256": "d53a993cb861690823f51a04ff6bf5d05e9ba205c8471ab37eac9b15a4aca4bf"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10565,7 +10600,7 @@
       ],
       "questionEvidence": [
         "What belongs to the physical account of death here?",
-        "Does relinquishing bodily attachment mean erasing all earthly development?"
+        "Compare wanting a familiar taste with developing better judgment from a past experience. Which illustrates attachment, which illustrates a fruit of experience, and why does the account distinguish their proposed futures?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10587,7 +10622,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10596,7 +10635,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "25168016e3434b50f182f26318e2c70271887c40cbc8b5659369cd43e6c9633e"
+      "sha256": "6301a9f0ebf60952b1eadc849a8d691cdb9fbad449d29cebaa85fe8208a59680"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10613,7 +10652,7 @@
       ],
       "questionEvidence": [
         "What role does the physical world retain?",
-        "What does comparing a plant on different days add?"
+        "A plant has changed between two visits. What do the observations supply, what does thinking try to connect, and what remains unknown?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10635,7 +10674,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10644,7 +10687,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "8c481a3ef4d8b03ee33ddc37cd3dc5d8706d5c2e19368723f86782957ef36a60"
+      "sha256": "0b99f40e1354a285aa77e93f39da556e93cef6acc2276f439d3dc6b44f2011d2"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10652,16 +10695,20 @@
       "title": "The Soul World",
       "languagePartner": "pt/introduction-to-anthroposophy/lessons/12.html",
       "headings": [
+        "Attraction and exclusion together",
+        "What a soul formation means",
+        "Relationships rather than labels",
+        "The example and the further claim",
         "Two questions — optional"
       ],
       "explanationEvidence": [
-        "Wanting an object intensely can draw attention toward it while excluding everything else. Attraction and separation can therefore cooperate in one response.",
-        "Steiner describes soul-world formations through sympathy and antipathy: tendencies toward connection and toward exclusion. Their technical meanings are broader than ordinary friendliness and dislike.",
+        "Imagine wanting a book only because it would complete your collection. You are strongly drawn to possessing it but ignore its meaning and what other readers discover. Attraction toward one object and exclusion of wider relationships can therefore cooperate. This is different from receptive interest in the book’s content; owning or lending it alone does not settle that distinction.",
+        "Steiner describes soul-world formations through sympathy and antipathy: tendencies toward connection and toward exclusion. A formation here means an organized configuration of soul qualities, not a solid object in another location. The terms name relationships and are broader than ordinary friendliness and dislike. The collection example helps explain how the two tendencies can combine.",
         "Sympathy is not automatically kindness, and antipathy is not simply a moral verdict. The question is how a formation relates to its surroundings, including whether attraction serves only its own satisfaction."
       ],
       "questionEvidence": [
         "What does sympathy mean in this source account?",
-        "Is the soul world a distant region of physical space?"
+        "A reader wants a book only as a possession and ignores its meaning and other readers. How can attraction and exclusion coexist here, and why is that different from simply calling the reader unkind?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10683,7 +10730,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10692,7 +10743,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "26fdd733bc5045531dd41f6a548f111b58be809829d2ed2e2201875dd9c1f71c"
+      "sha256": "b4e12d5f4d01ed35e523637cf0e4946709715e08f0daaaf26c165c8a9daada41"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10700,16 +10751,20 @@
       "title": "The Spiritual World",
       "languagePartner": "pt/introduction-to-anthroposophy/lessons/13.html",
       "headings": [
+        "Creative activity and changing form",
+        "A category, a picture and an archetype",
+        "Cooperating spiritual activity",
+        "What the analogy can explain",
         "Two questions — optional"
       ],
       "explanationEvidence": [
         "A painter can develop a conception while painting, rather than merely copy a fixed outline. Creative activity can produce different forms while maintaining meaningful relationships among them.",
-        "This helps introduce Steiner's spiritual archetype, which he presents as living formative reality. It is not simply an abstract category used to classify finished objects or a mould stored somewhere.",
+        "This helps introduce Steiner’s spiritual archetype, which he presents as independently real, living formative activity. A category such as chair groups finished objects; a remembered picture recalls a particular chair. Neither brings a chair into existence. Steiner makes the stronger claim that spiritual archetypes participate in creating form and life. A favourite mental picture or a fixed mould does not express that claim.",
         "Archetypes are said to cooperate in forming physical and soul existence. Spiritual hearing names a way of knowing their relationships, not ordinary sounds reaching bodily ears. The regions interpenetrate rather than stack like floors."
       ],
       "questionEvidence": [
         "What characterizes an archetype in this account?",
-        "Which distinction separates the soul and spiritual worlds here?"
+        "A learner calls an archetype a favourite picture stored in their mind. What needs correcting, and what does the painter comparison actually help explain?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10731,7 +10786,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10740,7 +10799,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "708935d48a2fbb4dc9457cb6d7403544e57d1977a0ed4c383faf3ce82e4571d1"
+      "sha256": "2a027892a52495ead8c99cc361436ac550d42eb77fa6e12e0fdda6d24e6c927f"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10757,7 +10816,7 @@
       ],
       "questionEvidence": [
         "When does the source say a person participates in the three worlds?",
-        "What does the separate death panel distinguish?"
+        "Use the chair repair to explain how bodily encounter, soul response and understanding cooperate now. Why would arranging them as three consecutive destinations change the account?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10779,7 +10838,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10788,7 +10851,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "6d5dc7130f425823fdac23fdc119aef1eae74939dfaf6dbfa0392813ae0f0901"
+      "sha256": "c5a61f3fc9d4222e5064bdb5dfc16df4212e0b600afc0425e0b10eb35d50751d"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10809,7 +10872,7 @@
       ],
       "questionEvidence": [
         "What does Steiner call a percept?",
-        "What does reflection add to the billiard event?"
+        "A spectator misses the impact and explains a billiard ball’s movement as a hidden push. Which parts are observed content and proposed concept, and what would improve the explanation?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10832,7 +10895,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10841,7 +10908,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "53879c52f27a5f10fb9835e045949cb0ba2189f12f9a457807dbd3810357b845"
+      "sha256": "0f5fc593b80d2ba6ee7898269afa85ec84e34682cc7d2ae927c847014134a7e9"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10857,8 +10924,7 @@
         "Moral imagination gives the aim a concrete possible expression. Moral technique concerns the real conditions and skills needed to carry it out. Choosing an accessible venue and checking its entrances answer different parts of the task."
       ],
       "questionEvidence": [
-        "Which source of action best fits Steiner’s idea of a free deed?",
-        "What is the role of moral imagination?"
+        "Which source of action best fits Steiner’s idea of a free deed?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10881,7 +10947,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10890,7 +10960,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "ac2874324eaebcd4fd103c31337a6899c5493bd851f1e134510fbcc2ed57928c"
+      "sha256": "2203fff172e05b98ca49230122a9b6ae0e4c8e845902ec1260cece605ad97ca6"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10907,7 +10977,7 @@
       ],
       "questionEvidence": [
         "What quality does Steiner ask of contemplative reflection?",
-        "Why are moral habits relevant to Steiner’s proposed method?"
+        "A teacher blames a pupil, then discovers their own instruction was unclear. What would moral preparation and discernment change in the next attempt?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10930,7 +11000,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10939,7 +11013,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "f6513471ab42ba0c30c0278db229a034e54b5a032f5bcdce519f107d3c8425d1"
+      "sha256": "f5b9cf2b10e58e3d52ca3ae51f8335512002525eb5d5773a050840fb852c17a3"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10958,7 +11032,6 @@
       ],
       "questionEvidence": [
         "Which mode does GA 13 associate with recognizing relationships among spiritual beings?",
-        "What does higher Intuition mean in the selected account?",
         "A learner connects the spiritual beings named in a chapter and explains their assigned relationships correctly. She says, “I have therefore attained Inspiration.” What follows?"
       ],
       "priorIndividualAudit": {
@@ -10982,7 +11055,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10991,7 +11068,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "f4617be4b6e92b013b0390b4c7ffaf81bdad544f0d2d1bceda25615dc80f2072"
+      "sha256": "65f0afef88d14394d3aefe25aec93b39350972e6b25f9ed6f36d90ca9aeb3d34"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -10999,16 +11076,20 @@
       "title": "Human and Cosmic Evolution",
       "languagePartner": "pt/introduction-to-anthroposophy/lessons/19.html",
       "headings": [
+        "Preparation and later activity",
+        "Four conditions and developing members",
+        "Conditions rather than destinations",
+        "The comparison and its limits",
         "Two questions — optional"
       ],
       "explanationEvidence": [
         "Preparing a tool and learning to use it are different stages of one activity. This helps introduce Steiner's question about how the human bodily members became capable of receiving the I's work.",
-        "His cosmic history describes earlier conditions preparing physical, etheric and astral organization. The Earth stage makes possible the I's further activity within them. Earlier members are transformed rather than simply replaced.",
+        "His cosmic history describes successive beginnings of human organization: physical organization under Old Saturn conditions, life or etheric organization under Old Sun, sentient or astral organization under Old Moon, and the I’s activity on Earth. Earlier members are transformed rather than simply replaced. These are beginnings and changes in the conditions of existence, not present-day organs appearing fully formed. For example, Old Saturn’s physical beginning is described in terms of warmth rather than a modern solid human body.",
         "Saturn, Sun and Moon name earlier evolutionary states in this account, not merely the present astronomical bodies with those names. The history is presented as spiritual investigation, not a reconstruction from ordinary astronomical observations."
       ],
       "questionEvidence": [
         "Why does the chapter turn from human constitution to cosmic evolution?",
-        "What does “Saturn” name in the assigned context?"
+        "A diagram sends an unchanged present-day human body from Saturn to the Sun and then the Moon. How would you correct it using the account of developing members?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11030,7 +11111,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11039,7 +11124,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "a6f0da03570c2d1a2aba331cf122d7c59d6c7c86369aff9eb52a943b6d14eaf6"
+      "sha256": "ed8b11c5b254fe3890dc5364081c21b791e66123aadf6ae9c8bec037aa609c8c"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -11056,7 +11141,7 @@
       ],
       "questionEvidence": [
         "What makes the different groups meaningful in this account?",
-        "Does a group act only during the period in which it is most prominent?"
+        "A summary says the Spirits of Wisdom stop all activity as soon as the Spirits of Motion become prominent. What relation does it lose?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11078,7 +11163,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11087,7 +11176,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "36b8d72995b3f3dc280468630f2c58618731393c1869a65bb273aa190f64a134"
+      "sha256": "041c979f37000e27807001852ced36db94464def707500d04facc42365b045b9"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -11104,7 +11193,7 @@
       ],
       "questionEvidence": [
         "Does the Luciferic possibility of independence guarantee good action?",
-        "Which claim matches the Ahrimanic restriction described here?"
+        "Compare ‘I will examine this stone carefully’ with ‘Only what the senses disclose can exist.’ What does the second add, and why does independence alone not guarantee truth?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11126,7 +11215,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11135,7 +11228,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "636e42889df221453aa017f50d6c824489dd5e707cc7e8568aa65768161566a7"
+      "sha256": "31f3b0bfd048e444dd602c624e7aca05fb4ebe17ff3820682023ce99ab333eb1"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -11152,7 +11245,7 @@
       ],
       "questionEvidence": [
         "Is the Christ only a moral teacher in the assigned account?",
-        "Where does Steiner place the effects of the Mystery of Golgotha?"
+        "A summary describes Golgotha only as an inspiring example of kindness. Which part of Steiner’s account is missing, and what can the ordinary ideal-and-capacity comparison clarify?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11174,7 +11267,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11183,7 +11280,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "fe2695544ddf02eec40fe1543630e950a02ab2f412a530089ee338a5fd5d2515"
+      "sha256": "cb783320b03556a1906c64e54580100edb170101d952ab3ef0410963ee74fb92"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -11201,7 +11298,7 @@
       "questionEvidence": [
         "What question follows from Steiner’s developmental account?",
         "Which capacities are developing, and how might teaching address them? The account directs attention to changing capacities within the developing human being.",
-        "How does the autobiographical episode contribute?"
+        "Two pupils of the same age need different help with a task. What would you observe, change and check before relying on an age-based explanation?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11223,7 +11320,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11232,7 +11333,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "a47e61e6b982acea12dfec90e7fe6730a7a79780ce0261dcfbacb83ce6921616"
+      "sha256": "a2aa10cf316057f37b8fb83939545a3b09d24b2ea0a40d52013aaa53a855048a"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -11240,16 +11341,20 @@
       "title": "Waldorf Education",
       "languagePartner": "pt/introduction-to-anthroposophy/lessons/24.html",
       "headings": [
+        "From drawing to a relationship",
+        "Development and individual response",
+        "Interest without fixed labels",
+        "A new case to check understanding",
         "Two questions — optional"
       ],
       "explanationEvidence": [
-        "A pupil loses interest when a subject is presented abstractly. A teacher begins with a familiar activity, then helps the pupil recognize the same relationship in a new setting. Interest can become a bridge to understanding.",
+        "A learner copies a symmetrical drawing without understanding its mirror relationship. On squared paper, mark a point two squares to the left of a vertical line, then its partner two squares to the right at the same height. Ask the learner to draw a new pair and explain the equal distances. Artistic and practical activity can become a route into a precise concept, rather than a reward after the thinking is finished. This is an original teaching example, not a quoted Steiner exercise.",
         "The developmental account asks which capacities are emerging. Steiner's temperament lecture adds that learners of a similar age need not respond alike. Individual responsiveness and a shared educational aim can cooperate.",
         "Affection, trust in competence and companions' interests appear in his educational proposals. They should not become fixed labels inferred from a child's appearance or a reason to keep the child only within existing preferences."
       ],
       "questionEvidence": [
         "Why consider individual differences as well as development?",
-        "Which response best illustrates working with what is present?"
+        "A pupil copies a symmetrical drawing neatly but cannot place a reflected point in a new figure. What would you teach next, and what would show more than copying?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11271,7 +11376,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11280,7 +11389,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "a8159ec1398d3a2df5f0cdb12da10726619c089faad9420385f2ad367f08a8f9"
+      "sha256": "93ddbc27d09effefc2069a4e944576161313d61c746cd887db50c9ab5c4e9e21"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -11296,8 +11405,7 @@
         "His account adds spiritual explanations of vitality and planetary influences. Fertilizing as enlivening soil and the preparations belong to that wider conception, beyond ordinary description of nutrient relationships."
       ],
       "questionEvidence": [
-        "How does Steiner qualify the self-contained farm ideal?",
-        "What does the plant–soil passage change in the picture of a crop?"
+        "How does Steiner qualify the self-contained farm ideal?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11319,7 +11427,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11328,7 +11440,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "788b5a925dd340bddc9cdd1ca0dff7b3d2bb3250edd8dc9bb5222df90461b32b"
+      "sha256": "5c05962b69695707845f506c55d448b49d18596208048df5fcab43718635ea69"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -11350,7 +11462,7 @@
       "questionEvidence": [
         "How might a spiritual understanding of the human being shape practical work? Art, eurythmy and anthroposophic medicine offer different answers. Matthew Barton’s afterword to Francis Edmunds’s introduction surveys these fields as expressions of a concern for the whole person. This overview introduces their purposes; the detailed source reading below develops the artistic side.",
         "What distinguishes eurythmy from simply exercising the body?",
-        "What connects these three fields, and what remains different?"
+        "A viewer finds a painting calming and a practitioner describes a movement therapy. What can the shared whole-person aim explain, and what separate questions remain?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11372,7 +11484,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11381,7 +11497,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "0008e5df765aa7faf7d9119ce86d46e7fd0f94088eeab176f4eaaeeac20930ab"
+      "sha256": "2510e8479f98d2451a7d91bf9bd4e5dc5161de9625341c9a45e08d3c994454ee"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -11397,8 +11513,7 @@
         "Independence does not mean isolation. Educational choices need resources, economic activity meets legal conditions, and the people involved bring capacities developed in cultural life."
       ],
       "questionEvidence": [
-        "Which distinction best follows the preface?",
-        "Why do economic associations matter in this account?"
+        "Which distinction best follows the preface?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11420,7 +11535,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11429,7 +11548,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "7469903f8ee970182b518a532e0ad5bb18b090c9e4f39cab0027eb31535453cd"
+      "sha256": "7e030df3c634aa4d8b441958fc12d784a772257e02cbb8335977239a299986c2"
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -11450,7 +11569,6 @@
       ],
       "questionEvidence": [
         "Why study human constitution before the educational orientation?",
-        "What do the arrows in this map mean?",
         "Additional reading: Rudolf Steiner, What Is Anthroposophy? (2002 edition), Lecture III, 22 July 1923, GA 225; supplied PDF captures 51–61. The repair and teaching examples are original course applications."
       ],
       "priorIndividualAudit": {
@@ -11473,7 +11591,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "introduction/REVIEW.md",
+        "scope": "All 28 current main explanations and both checks read; detailed retained sources preserved, not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11482,7 +11604,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "bbdae4f1a1218aef6d21d94f06a4219426e9cb7f3ed971b49cc527eb2efd688a"
+      "sha256": "639d5696d8c271ea56189657fdd07218cea621e380c8ac889230167e3956f2fe"
     },
     {
       "course": "learn/esoteric-christianity",
