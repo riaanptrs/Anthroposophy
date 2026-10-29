@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "baseline": "3d7a525e",
+  "reviewedUnits": 19,
+  "revised": [
+    1,
+    2,
+    4,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    14,
+    16,
+    18
+  ],
+  "retained": [
+    0,
+    3,
+    5,
+    8,
+    13,
+    15,
+    17
+  ],
+  "pages": 38,
+  "authoringReconciliation": "Lesson 11 third paragraph and first check synchronized with unchanged published baseline in both languages.",
+  "preservation": "Only second primary checks changed in twelve bilingual units; all explanations, first checks, retained detailed teaching, activities, source material and other page content preserved. Seven bilingual units entirely unchanged. Other courses in shared authoring data unchanged."
+}

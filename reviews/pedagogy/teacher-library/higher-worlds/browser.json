@@ -1,0 +1,932 @@
+{
+  "status": "passed",
+  "lessonCases": 152,
+  "units": 19,
+  "viewports": [
+    320,
+    1280
+  ],
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "javascript": [
+    false,
+    true
+  ],
+  "progression": "All nineteen main explanations visible and first/last course positions verified.",
+  "results": [
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/11.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/13.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/14.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/15.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/16.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/17.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/18.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/11.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/13.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/14.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/15.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/16.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/17.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/18.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/11.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/13.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/14.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/15.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/16.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/17.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/18.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/11.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/13.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/14.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/15.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/16.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/17.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/18.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/11.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/13.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/14.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/15.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/16.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/17.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/18.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/11.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/13.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/14.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/15.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/16.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/17.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/18.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/11.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/13.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/14.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/15.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/16.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/17.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "higher-worlds/lessons/18.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/11.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/13.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/14.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/15.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/16.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/17.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/higher-worlds/lessons/18.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    }
+  ]
+}

@@ -50,7 +50,7 @@
       "course": "higher-worlds",
       "units": 19,
       "earlierIndividualAudits": 19,
-      "revisedAssessments": 0
+      "revisedAssessments": 12
     },
     {
       "course": "introduction-to-anthroposophy",
@@ -179,7 +179,7 @@
       "revisedAssessments": 0
     }
   ],
-  "revisedAssessments": 120,
+  "revisedAssessments": 132,
   "records": [
     {
       "course": "according-to-luke",
@@ -9094,6 +9094,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9119,7 +9123,7 @@
       ],
       "questionEvidence": [
         "Does reverence require agreement with a teacher?",
-        "Why add inward reflection to an encounter?"
+        "A learner quietly recalls a tree after a walk, then says the reflection proves a spiritual faculty has formed. What does the reflection contribute, and what has not been established?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -9148,7 +9152,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9157,7 +9165,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "6a40fa76388f8c349652c7d3b16dc3e4eaa461e6a2edbe1d440e3070a9c2eb02"
+      "sha256": "49cd0f3fb263b19b682ad376a5e09d0ff139fc14d41bd53f5f8a1196058d7195"
     },
     {
       "course": "higher-worlds",
@@ -9174,7 +9182,7 @@
       ],
       "questionEvidence": [
         "Does an observer's standpoint remove responsibility?",
-        "Is self-review the whole chapter's meditation?"
+        "Alex calmly reviews a sharp reply and plans a repair, then says this completes the chapter’s meditation. What has Alex done, and what further direction does the chapter add?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -9204,7 +9212,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9213,7 +9225,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "fc6fbe4efb06557ccdf0f60bbf537646682cd1b0783d3e29aa26dd1884a6eade"
+      "sha256": "3f2df88e880149a7346ed3c0ea90963303cc1a26061dbcec6636cb8f8f779421"
     },
     {
       "course": "higher-worlds",
@@ -9260,6 +9272,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9289,7 +9305,7 @@
       ],
       "questionEvidence": [
         "Why use an actual seed?",
-        "Are the colour descriptions ordinary optical predictions?",
+        "A learner sees coloured light while imagining a plant and calls it the result of the seed contemplation. Which distinctions would you ask them to explain first?",
         "A real seed and a wax imitation remain on a shelf; neither grows. A learner concludes that they have the same developmental capacity. Which distinction has been missed?"
       ],
       "priorIndividualAudit": {
@@ -9319,7 +9335,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9328,7 +9348,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "7cfc4751f3bde4d2230877f1aa7c06fa0f4a5d44b681f08a2dbc9cb913dc53d7"
+      "sha256": "51558978d81644c8623a2f1086fc8478301451023d58da558f9ca59a4276731d"
     },
     {
       "course": "higher-worlds",
@@ -9375,6 +9395,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9399,8 +9423,7 @@
         "The names are images, not instructions for physical ordeals. The hidden writing is likewise presented as meaningful spiritual relations, not an alphabet whose memorization grants initiation. Sound judgment and everyday duties remain necessary."
       ],
       "questionEvidence": [
-        "What separates water from air in this account?",
-        "Does forgetfulness discard learned skill?"
+        "What separates water from air in this account?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -9430,7 +9453,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9439,7 +9466,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "2f031eb739454ce207ceef1b2af0eff20626a13f4c89a152fa5f7c88401387a1"
+      "sha256": "957d9df091ec1010a8e151d5b1fba8d4e692d23875a874b48e0ed90d40e15adc"
     },
     {
       "course": "higher-worlds",
@@ -9456,7 +9483,7 @@
       ],
       "questionEvidence": [
         "Does calmness mean accepting every insult?",
-        "Is patience passive waiting?"
+        "A learner keeps working, hides their impatience and demands illumination by next week. Another calmly challenges an insulting remark. How would you assess their understanding of patience and tact?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -9486,7 +9513,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9495,7 +9526,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "65c835799040077c66e969740decf975370f1680d948b971abc4be027a1f78e2"
+      "sha256": "745a2303c2751d0e8f9759aa7f1e2a1470c171ab72d1cb7d854dec963750ad35"
     },
     {
       "course": "higher-worlds",
@@ -9542,6 +9573,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9567,7 +9602,7 @@
       ],
       "questionEvidence": [
         "When should a resolution change?",
-        "What does the seventh condition add?"
+        "Jo persists with a teaching plan, ignores evidence that the explanation confuses the group and calls this harmony of the conditions. What should change, and what could remain?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -9596,7 +9631,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9605,7 +9644,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "250ea6d99aaa10a155ccea967c9d78556c164798aff261d1d52ff6af816d92a9"
+      "sha256": "78efff9b9d0e152f929d0908e7217f5c9567a636a98c961c5ce50b6d10aeed3e"
     },
     {
       "course": "higher-worlds",
@@ -9622,7 +9661,7 @@
       ],
       "questionEvidence": [
         "Do the eight functions and six attributes name the same list?",
-        "Does a vivid presentiment establish independent knowledge?"
+        "After seeing a report in passing, someone later has a vivid prediction and calls it independent spiritual knowledge. What should be investigated before that conclusion?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -9653,7 +9692,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9662,7 +9705,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "91de816bcfa37ce856c102414cc9cc00503b9ea315de76083ac7548520037d59"
+      "sha256": "87b713edcfcfe06313797258a37645dea9db5a143e72a4c7773b9971995dba5c"
     },
     {
       "course": "higher-worlds",
@@ -9679,7 +9722,7 @@
       ],
       "questionEvidence": [
         "A learner assumes that a striking spiritual image must come from an independent being. What distinction is missing?",
-        "Is the higher self merely an improved habit in this chapter?"
+        "Someone hears words inwardly and says they have therefore experienced the inner word and the birth of the higher self. What parts of the chapter’s account are missing from that inference?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -9708,7 +9751,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9717,7 +9764,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "34c7842b6b45775dc3f1a4d274658d57bcc1159129e6cfadf39d6c2045fa00fb"
+      "sha256": "409a8d156e024c1c6dc256b3c08c5ff80e7468de567f3cd8ab6f2000b49387d0"
     },
     {
       "course": "higher-worlds",
@@ -9734,7 +9781,7 @@
       ],
       "questionEvidence": [
         "Does an orderly dream become authoritative by itself?",
-        "What does the spiritual home contribute?"
+        "A learner collects orderly dreams and invents a private system to connect them, calling it a spiritual home. How does this differ from the chapter’s stated requirements?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -9763,7 +9810,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9772,7 +9823,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "da10acb6401fbb340075ef1f400d890ebbf4920d98a8e77cee3a7664e55fdfc0"
+      "sha256": "594dd559e2147eed6c01c1b6934b5b2f9ae8b75b0bda1e016e3c9269d5b2d5fd"
     },
     {
       "course": "higher-worlds",
@@ -9819,6 +9870,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9844,7 +9899,7 @@
       ],
       "questionEvidence": [
         "Is freedom the absence of connection among the three forces?",
-        "Does the room example establish a change in finer bodies?"
+        "In the stuffy room, a learner feels discomfort and immediately opens the window despite another person’s objection. What coordination is missing, and what would an improved response still not prove?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -9873,7 +9928,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9882,7 +9941,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "2dddc60073f58a0101280e1234f56f314b586cff6bb1e0c0fb4a8cb48fa5f036"
+      "sha256": "756e5e304d47abe7374a50a6404be0504ed67ebdfdb42ce6d5c851bd46ce0385"
     },
     {
       "course": "higher-worlds",
@@ -9930,6 +9989,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9955,7 +10018,7 @@
       ],
       "questionEvidence": [
         "How do the two Guardians differ?",
-        "Can universal service make the racial hierarchy disappear from the text?"
+        "A summary praises the greater Guardian’s service ideal but omits the racial hierarchy. How would you revise it to represent and assess the chapter accurately?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -9984,7 +10047,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -9993,7 +10060,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "19c6320633ef0312641f1eb76899baea2f0bad11969a3560fea049c216f6ba51"
+      "sha256": "c9ddf325af02a2c5007c75167db63e385666be22cf352b30681dbe29cc5b82c7"
     },
     {
       "course": "higher-worlds",
@@ -10041,6 +10108,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10067,7 +10138,7 @@
       "questionEvidence": [
         "The result is a connected account with questions still open: how are spiritual findings distinguished from self-produced images, and how is independent judgment related to authority? The racial hierarchy also remains a claim to criticize. Understanding the book means being able to explain these connections and tensions, not claiming attainment or agreement with every assertion.",
         "Why is service more than an unrelated final rule?",
-        "What can the everyday sequence establish?"
+        "A final project describes better listening and helpful conduct, then concludes that spiritual organs and the Guardians are verified. How would you revise the argument while preserving what the example teaches?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -10096,7 +10167,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "higher-worlds/REVIEW.md",
+        "scope": "All nineteen English main explanations and primary checks read, plus retained study activities and comprehension checks for alignment; twelve second checks revised bilingually; lesson 11 authoring reconciled with unchanged published improvements; retained source bodies not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -10105,7 +10180,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "985b5fa51d00c15caed1faf62526e5810319dc56d9589b5a276d0ee0f28b58cd"
+      "sha256": "db0a886b96c5b858b6a3c359927bd0a677984b7d62154b2d7af3f3ed3e1657ab"
     },
     {
       "course": "introduction-to-anthroposophy",

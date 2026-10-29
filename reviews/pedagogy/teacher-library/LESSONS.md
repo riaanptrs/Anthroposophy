@@ -173,25 +173,25 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [From Theosophy to a path of conscious development](../../../docs/higher-worlds/lessons/00.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Reverence, inner life and knowledge for service](../../../docs/higher-worlds/lessons/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Inner tranquillity and the higher human being](../../../docs/higher-worlds/lessons/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Growth, decay and selfless listening](../../../docs/higher-worlds/lessons/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Enlightenment, the seed and the full-grown plant](../../../docs/higher-worlds/lessons/04.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Human desire, moral preparation and courage](../../../docs/higher-worlds/lessons/05.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The three trials and responsible knowledge](../../../docs/higher-worlds/lessons/06.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Patience, desire and tact](../../../docs/higher-worlds/lessons/07.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Seven conditions: health, participation and inner life](../../../docs/higher-worlds/lessons/08.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Seven conditions: inner being, resolve, gratitude and harmony](../../../docs/higher-worlds/lessons/09.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Spiritual organs, eight functions and six attributes](../../../docs/higher-worlds/lessons/10.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Etheric currents, the inner word and the higher self](../../../docs/higher-worlds/lessons/11.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Dream transformation and a spiritual point of reference](../../../docs/higher-worlds/lessons/12.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Waking, dreaming and dreamless sleep](../../../docs/higher-worlds/lessons/13.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Thinking, feeling and willing under conscious guidance](../../../docs/higher-worlds/lessons/14.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The lesser Guardian: karma made visible](../../../docs/higher-worlds/lessons/15.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The greater Guardian and the task of service](../../../docs/higher-worlds/lessons/16.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The appendix: clear thought, self-study and ordinary life](../../../docs/higher-worlds/lessons/17.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [A connected path: knowledge, self-direction and service](../../../docs/higher-worlds/lessons/18.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [From Theosophy to a path of conscious development](../../../docs/higher-worlds/lessons/00.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Existing primary teaching and checks retained after close review |
+| [Reverence, inner life and knowledge for service](../../../docs/higher-worlds/lessons/01.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually |
+| [Inner tranquillity and the higher human being](../../../docs/higher-worlds/lessons/02.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually |
+| [Growth, decay and selfless listening](../../../docs/higher-worlds/lessons/03.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Existing primary teaching and checks retained after close review |
+| [Enlightenment, the seed and the full-grown plant](../../../docs/higher-worlds/lessons/04.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually |
+| [Human desire, moral preparation and courage](../../../docs/higher-worlds/lessons/05.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Existing primary teaching and checks retained after close review |
+| [The three trials and responsible knowledge](../../../docs/higher-worlds/lessons/06.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually |
+| [Patience, desire and tact](../../../docs/higher-worlds/lessons/07.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually |
+| [Seven conditions: health, participation and inner life](../../../docs/higher-worlds/lessons/08.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Existing primary teaching and checks retained after close review |
+| [Seven conditions: inner being, resolve, gratitude and harmony](../../../docs/higher-worlds/lessons/09.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually |
+| [Spiritual organs, eight functions and six attributes](../../../docs/higher-worlds/lessons/10.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually |
+| [Etheric currents, the inner word and the higher self](../../../docs/higher-worlds/lessons/11.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually; published lesson 11 improvements preserved in authoring |
+| [Dream transformation and a spiritual point of reference](../../../docs/higher-worlds/lessons/12.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually |
+| [Waking, dreaming and dreamless sleep](../../../docs/higher-worlds/lessons/13.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Existing primary teaching and checks retained after close review |
+| [Thinking, feeling and willing under conscious guidance](../../../docs/higher-worlds/lessons/14.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually |
+| [The lesser Guardian: karma made visible](../../../docs/higher-worlds/lessons/15.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Existing primary teaching and checks retained after close review |
+| [The greater Guardian and the task of service](../../../docs/higher-worlds/lessons/16.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually |
+| [The appendix: clear thought, self-study and ordinary life](../../../docs/higher-worlds/lessons/17.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Existing primary teaching and checks retained after close review |
+| [A connected path: knowledge, self-direction and service](../../../docs/higher-worlds/lessons/18.html) | Current main explanation and checks read; activity alignment reviewed; [focused review](higher-worlds/REVIEW.md) | Second check revised bilingually |
 
 ## introduction-to-anthroposophy
 
