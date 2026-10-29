@@ -106,7 +106,7 @@ Lievegoed chama de crescimento o aumento dentro do mesmo sistema: mais integrant
 
 ### Desenvolvimento modifica a estrutura
 
-O desenvolvimento envolve uma reorganização pela qual o conjunto passa a funcionar de outra maneira. Lievegoed descreve diferenciação, coordenação e integração: as funções se distinguem, suas relações se ordenam e as partes colaboram num novo todo. Os exemplos biológicos esclarecem seu vocabulário. Aplicá-lo à biografia é uma extensão interpretativa; não prova que escolhas humanas sigam um desenho orgânico predeterminado.
+O desenvolvimento envolve uma reorganização pela qual o conjunto passa a funcionar de outra maneira. Lievegoed distingue diferenciação (as funções se especializam), hierarquização (algumas funções coordenam ou dirigem outras) e integração (as partes formam um novo conjunto organizado). Os exemplos biológicos esclarecem seu vocabulário. Aplicá-lo à biografia é uma extensão interpretativa; não prova que escolhas humanas sigam um desenho orgânico predeterminado.
 
 ### O que uma crise pode revelar
 
@@ -676,7 +676,7 @@ Compare um problema logístico e outro relacional numa equipe fictícia. Identif
 
 A capacidade organizadora pode aparecer no cuidado doméstico, além de uma empresa?
 
-Sim. Lievegoed compara expressamente organização doméstica e profissional. A capacidade envolve coordenar responsabilidades complexas, além do prestígio ou salário. A distribuição de funções por sexo no livro é histórica, sem prescrever nosso arranjo.
+Sim. Lievegoed compara expressamente organização doméstica e profissional. A capacidade envolve coordenar responsabilidades complexas; não depende do prestígio nem da remuneração da função. A distribuição de funções por sexo no livro é histórica, sem prescrever nosso arranjo.
 
 ## 17. Quando o sucesso deixa de responder
 
@@ -686,11 +686,11 @@ Capturas PDF 56–59
 
 ### Uma crise dentro do sucesso
 
-Lievegoed descreve pessoas competentes que passam a perguntar para que servem suas rotinas bem-sucedidas. O empresário quita a dívida, mas sente vazio em vez de celebrar. A meta organizou anos de esforço; alcançá-la retira essa força. A questão pode estar no sentido do desempenho, além de sua qualidade.
+Lievegoed descreve pessoas competentes que passam a perguntar para que servem suas rotinas bem-sucedidas. O empresário quita a dívida, mas sente vazio em vez de celebrar. A meta organizou anos de esforço; alcançá-la retira essa força. A questão nem sempre é uma falha no desempenho; pode estar na finalidade que torna esse esforço significativo.
 
 ### Meios e finalidades
 
-A inteligência escolhe meios dentro de valores, sem decidir sozinha quais valores merecem compromisso. Uma empresa eficiente pode servir prestígio, sustento, trabalho útil ou diversos fins. A transição examina finalidades, além de acrescentar metas semelhantes. O autor relaciona a tarefa à alma da consciência e às aspirações espirituais-psíquicas.
+A inteligência escolhe meios dentro de valores, sem decidir sozinha quais valores merecem compromisso. Uma empresa eficiente pode servir prestígio, sustento, trabalho útil ou diversos fins. A transição exige examinar as finalidades; acrescentar outra meta do mesmo tipo pode deixar essa pergunta sem resposta. O autor relaciona a tarefa à alma da consciência e às aspirações espirituais-psíquicas.
 
 ### Fazer de outra maneira
 
@@ -744,7 +744,7 @@ O futuro aparentemente aberto ganha horizonte. Pergunta-se o que merece o tempo 
 
 ### Exemplo comentado
 
-Uma professora percebe que toda conversa vira defesa de seu método. Passa a observar necessidades dos alunos e convida uma colega para planejar uma unidade. Conserva conhecimentos, mas os dirige à aprendizagem, além de defender autoridade. A mudança concreta pode ser examinada sem declarar concluída uma crise universal.
+Uma professora percebe que toda conversa vira defesa de seu método. Passa a observar necessidades dos alunos e convida uma colega para planejar uma unidade. Conserva conhecimentos, mas passa a colocá-los a serviço da aprendizagem, em vez de defender a própria autoridade. A mudança concreta pode ser examinada sem declarar concluída uma crise universal.
 
 ### Pergunta
 
@@ -824,7 +824,7 @@ O autor propõe outra realização criativa, diferente da produção quantitativ
 
 ### Renovação além da função
 
-O livro descreve novos interesses sociais, jardinagem, música e relações entre gerações. Os exemplos de gênero são históricos; a pergunta serve a qualquer pessoa. Um interesse vale pelo envolvimento e sentido, sem exigir destaque público. Frustrações antigas podem precisar de apoio, além de julgamento moral.
+O livro descreve novos interesses sociais, jardinagem, música e relações entre gerações. Os exemplos de gênero são históricos; a pergunta serve a qualquer pessoa. Um interesse vale pelo envolvimento e sentido, sem exigir destaque público. Frustrações antigas podem precisar de apoio, em vez de condenação moral.
 
 ### Exemplo comentado
 
@@ -1002,7 +1002,7 @@ Miguel imagina uma amiga sempre calma e compreensiva. Quando ela demonstra raiva
 
 Por que a imagem ideal não basta para reconhecer alguém?
 
-Pode descrever o desejo do observador, além da pessoa real. O reconhecimento exige encontros capazes de corrigir a imagem.
+Pode descrever o que o observador deseja, em vez de quem a outra pessoa é. O reconhecimento exige encontros capazes de corrigir a imagem.
 
 ### Atividade
 
@@ -1016,7 +1016,7 @@ Não. A semelhança convida à comparação, mas exige examinar contexto, interp
 
 ## 25. Parceria numa biografia em transformação
 
-Explique a relação duradoura como reconhecimento renovado, além de um arranjo fixo.
+Explique por que o autor entende a relação duradoura como reconhecimento renovado, e não como um arranjo fixo.
 
 Capturas PDF 74–79
 
@@ -1222,7 +1222,7 @@ Identifique a orientação ausente num projeto fictício e proponha uma contribu
 
 Uma rotina pode ser a resposta correta?
 
-Sim. Pode garantir segurança e continuidade. Criatividade inclui perceber quando adaptar, além de mudar pela novidade.
+Sim. Pode garantir segurança e continuidade. Criatividade inclui perceber quando adaptar; não exige mudar tudo só pela novidade.
 
 ## 30. Escolher quando mais de um caminho faz sentido
 
@@ -1274,7 +1274,7 @@ Capturas PDF 89–91
 
 ### Direito à formação
 
-O capítulo defende educação que forme a pessoa, além de preparar produção imediata. A comissão de Lievegoed propõe formação até os 18, adequada a capacidades e expectativas. É uma política histórica holandesa. A pergunta é quais possibilidades o sistema mantém abertas ou fecha cedo demais.
+O capítulo defende educação que forme a pessoa, sem se limitar à preparação para a produção imediata. A comissão de Lievegoed propõe formação até os 18, adequada a capacidades e expectativas. É uma política histórica holandesa. A pergunta é quais possibilidades o sistema mantém abertas ou fecha cedo demais.
 
 ### Aprendizagem intelectual e prática
 
@@ -1912,7 +1912,7 @@ O ego empírico organiza a consciência cotidiana. O si-mesmo superior é propos
 
 ### Vontade como reguladora
 
-A vontade coordena funções, além de aumentar impulsos. Percebem-se desejos concorrentes, comparam-se fins e organiza-se uma resposta. Um ideal pode reunir esforços dispersos. Trata-se de desenvolvimento, sem garantir controle imediato ou ausência de conflito.
+A vontade coordena funções, em vez de apenas intensificar impulsos. Percebem-se desejos concorrentes, comparam-se fins e organiza-se uma resposta. Um ideal pode reunir esforços dispersos. Trata-se de desenvolvimento, sem garantir controle imediato ou ausência de conflito.
 
 ### A porta e o limite
 
@@ -2042,7 +2042,7 @@ O terceiro envolve sofrimento grave que exige avaliação médica e cuidado coor
 
 ### Por que os limites importam
 
-A preocupação é alguém não ser atendido por nenhum serviço. É preciso esclarecer alcance, reconhecer limites e garantir continuidade, além de tomar faltas como recusa. O esquema ajuda a compreender responsabilidades, sem virar teste pessoal.
+A preocupação é alguém não ser atendido por nenhum serviço. É preciso esclarecer alcance, reconhecer limites e garantir continuidade, sem tomar faltas como simples recusa. O esquema ajuda a compreender responsabilidades, sem virar teste pessoal.
 
 ### Exemplo comentado
 
@@ -2192,13 +2192,13 @@ Não. Dignidade e apoio adequado podem ser afirmados independentemente da metaf�
 
 ## 53. Desenvolvimento pessoal começa pela preparação
 
-Explique cultivar capacidades, além de acumular experiências marcantes.
+Explique a diferença entre cultivar capacidades e apenas acumular experiências marcantes.
 
 Capturas PDF 139–140
 
 ### A biografia como composição
 
-A sinfonia une continuidade e participação criativa. Trabalha-se com condições, ações alheias e escolhas possíveis. Compor não significa controlar tudo. O autor pergunta pela participação consciente, além de histórias impostas por hábito ou moda.
+A sinfonia une continuidade e participação criativa. Trabalha-se com condições, ações alheias e escolhas possíveis. Compor não significa controlar tudo. O autor pergunta pela participação consciente, em vez de aceitar uma história imposta por hábito ou moda.
 
 ### Folhas antes das flores
 
@@ -2248,7 +2248,7 @@ O polo oposto concede realidade à matéria e toma espírito como derivado ou il
 
 ### Realismo como síntese pretendida
 
-O novo realismo reconheceria matéria e espírito preservando pensamento disciplinado. É um sentido filosófico específico, além de senso prático. Precisa explicar como investigar e distinguir espírito e projeção, sem apenas anunciar duas realidades.
+O novo realismo reconheceria matéria e espírito preservando pensamento disciplinado. O termo tem aqui um sentido filosófico específico, não significa apenas agir com senso prático. Precisa explicar como investigar e distinguir espírito e projeção, sem apenas anunciar duas realidades.
 
 ### Narrativa e limites
 
@@ -2262,7 +2262,7 @@ Uma pessoa chama realismo de aceitar apenas medidas; outra, de agir praticamente
 
 Qual o realismo deste capítulo?
 
-Reconhecer realidade material e espiritual numa investigação disciplinada, além de pragmatismo ou materialismo.
+Reconhecer realidade material e espiritual numa investigação disciplinada. Não significa apenas agir com senso prático nem é outro nome para materialismo.
 
 ### Atividade
 
@@ -2294,7 +2294,7 @@ O hierofante guardaria preparo e distinção entre ilusão e realidade. A pergun
 
 ### Da narrativa à investigação
 
-O livro busca caminho moderno com consciência clara, além de retorno cultural. A aplicação educativa é preparar, esclarecer fins e examinar afirmações, sem autoridade secreta ou promessa iniciática.
+O livro busca um caminho moderno com consciência clara, sem simplesmente retornar a um estágio cultural anterior. A aplicação educativa é preparar, esclarecer fins e examinar afirmações, sem autoridade secreta ou promessa iniciática.
 
 ### Exemplo comentado
 
@@ -2324,11 +2324,11 @@ Capturas PDF 142–145
 
 ### Começar pelo fenômeno
 
-A fenomenologia é apresentada como descrição atenta, além de encaixar aparências numa teoria pronta. Observe sequência, forma, variação e relação. Perguntas orientam atenção; cuidado não elimina todos os pressupostos.
+A fenomenologia é apresentada como descrição atenta, em vez de encaixar aparências numa teoria pronta. Observe sequência, forma, variação e relação. Perguntas orientam atenção; cuidado não elimina todos os pressupostos.
 
 ### Metamorfose e intensificação
 
-O exemplo vegetal procura transformações relacionadas, além de colecionar formas soltas. Intensificação indica mudança qualitativa nesse relato. A planta primordial é proposta como relação geradora, sem ser outra espécie encontrada ao lado das demais.
+O exemplo vegetal procura transformações relacionadas, em vez de apenas colecionar formas soltas. Intensificação indica mudança qualitativa nesse relato. A planta primordial é proposta como relação geradora, sem ser outra espécie encontrada ao lado das demais.
 
 ### Imaginação objetiva?
 
@@ -2402,7 +2402,7 @@ Não. Treina correção, sem garantir infalibilidade. A revisão continua necess
 
 ## 58. Imaginação, inspiração e intuição neste livro
 
-Aprenda as transformações propostas, além de fantasia, emoção e impulso comuns.
+Aprenda as transformações propostas e distinga-as da fantasia, da emoção e dos impulsos cotidianos.
 
 Capturas PDF 145–146
 
@@ -2412,7 +2412,7 @@ O pensamento abstrato se tornaria imagem com relações mais ricas. Na afirmaç�
 
 ### Sentir e inspiração
 
-A arte treina percepção além do produto final, especialmente música e cor. Inspiração designa sentido revelado, além de comoção ou ideia excitante. Intensidade não estabelece verdade ou origem.
+A arte treina percepção além do produto final, especialmente música e cor. Inspiração designa um sentido revelado no relato espiritual do autor, não apenas comoção ou uma ideia estimulante. Intensidade não estabelece verdade ou origem.
 
 ### Querer e intuição
 
@@ -2450,7 +2450,7 @@ Capturas PDF 143–147
 
 ### Conteúdo antes da técnica
 
-O autor recomenda arte, natureza, literatura, filosofia, religião, ciência e responsabilidade social. Busca conteúdo de reflexão, além de agenda cheia. Um encontro prolongado pode valer mais que acumular informação. A atenção precisa de algo a conhecer.
+O autor recomenda arte, natureza, literatura, filosofia, religião, ciência e responsabilidade social. Busca conteúdo para reflexão, em vez de apenas uma agenda cheia. Um encontro prolongado pode valer mais que acumular informação. A atenção precisa de algo a conhecer.
 
 ### Concentração e equanimidade
 
@@ -2598,11 +2598,11 @@ Marina, 46 anos, cuida de familiar e sente estagnação. Gosta de orientar apren
 
 O que torna a síntese estudo do livro inteiro?
 
-Relacionar os sete capítulos, incluir pessoas e instituições, comparar explicações e testar uma proposta. A idade é pergunta, além de veredito.
+Relacionar os sete capítulos, incluir pessoas e instituições, comparar explicações e testar uma proposta. A idade é uma pergunta entre outras, não um veredito.
 
 ### Atividade
 
-Escreva 1.200–1.800 palavras ou converse por 35–45 minutos, com os critérios do caderno. Inclua interpretações, contraexemplo, ação delimitada e limites da conclusão.
+Comece com um esboço de 150–250 palavras ou uma conversa de cinco minutos: uma transição, duas interpretações, um contraexemplo e uma ação delimitada. Se for útil, amplie para o projeto de sete capítulos do caderno (1.200–1.800 palavras ou 35–45 minutos), incluindo os limites do que o caso permite concluir.
 
 ### Caso modificado
 

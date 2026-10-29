@@ -246,7 +246,7 @@ Fonte: Capturas PDF 23–26
 
 Separe melhora relatada de uma afirmação sobre sua causa.
 
-A terceira palestra, de 1º de dezembro, começa com um relato da médica Paula Emrich sobre crianças desnutridas que receberam mel com leite. Steiner destaca idade e fase de desenvolvimento. Pergunta se listar os ingredientes analisados de um alimento explica sua ação num corpo vivo.
+A terceira palestra, de 1º de dezembro, começa com um relato da médica Paula Emrich sobre crianças desnutridas que receberam mel com leite. O relato inclui um irmão que recebeu leite sem mel; as duas crianças começaram com medidas sanguíneas relatadas diferentes. Steiner destaca idade e fase de desenvolvimento. Pergunta se listar os ingredientes analisados de um alimento explica sua ação num corpo vivo.
 
 Sua crítica à palavra vitamina é que um rótulo pode esconder uma pergunta sem resposta. A pergunta é útil, mas ele também rejeita com força excessiva a explicação material que surgia. As melhoras relatadas, as medidas sanguíneas históricas e sua interpretação formadora são coisas distintas. Um nome ou interpretação atraente não substitui uma comparação que teste a causalidade.
 
@@ -782,6 +782,6 @@ Resposta: 2. Sim. Interpretação precisa e julgamento responsável caminham jun
 
 ### Atividade
 
-Escreva 400–600 palavras sobre “A colônia como todo vivo”. Use uma ideia de cada palestra, distinga Hauk e Adams e proponha uma pergunta observável de cuidado. Compare com o guia de síntese abaixo.
+Comece com três frases: explique uma relação dentro da colônia, atribua uma interpretação espiritual a Steiner e formule uma pergunta observável de cuidado. Se quiser desenvolver a síntese completa, escreva 400–600 palavras sobre “A colônia como todo vivo”, usando uma ideia de cada uma das oito palestras e distinguindo Hauk, Hahn e Adams. Compare sua resposta com o guia de síntese abaixo.
 
 Fonte: Capturas PDF 7–113

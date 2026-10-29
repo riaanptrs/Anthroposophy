@@ -1,11 +1,14 @@
 /* Reading preferences are optional, tab-local and independent of saved study notes. */
 (() => {
  'use strict';
+ if(document.documentElement.dataset.readingEnhancementReady)return;
+ document.documentElement.dataset.readingEnhancementReady='true';
+ let activeControls=null;
  function enhance(){
   const body=document.body,main=document.querySelector('main'),h1=main?.querySelector('h1');
   if(!h1||!body.hasAttribute('data-visual-identity')||document.querySelector('.reader-tools'))return;
   let workspaceLesson=false;try{workspaceLesson=JSON.parse(document.getElementById('cw-data')?.textContent||'{}').role==='lesson';}catch{}
-  const isLesson=workspaceLesson||body.classList.contains('tw-lesson')||!!document.querySelector('[data-study-id],[data-intro-study-id],[data-phases-lesson],[data-freedom-study],.cp-building,.cp-lesson,.cp-synthesis,.thought-practice,.ec-lesson,.wf-lesson');
+  const isLesson=workspaceLesson||body.classList.contains('tw-lesson')||!!document.querySelector('[data-study-id],[data-intro-study-id],[data-phases-lesson],[data-es-lesson],[data-documentary-reading],[data-freedom-study],.cp-building,.cp-lesson,.cp-synthesis,.thought-practice,.ec-lesson,.wf-lesson');
   if(!isLesson||location.pathname.endsWith('/print.html')||body.classList.contains('cw-overview'))return;
   const pt=document.documentElement.lang==='pt-BR',say=(a,b)=>pt?b:a;
   const make=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text)e.textContent=text;return e;};
@@ -20,13 +23,24 @@
   let saved;try{saved=sessionStorage.getItem('anthroposophy:reading-size');}catch{}size(saved==='large'?'large':'standard');
   function setFocus(on){body.classList.toggle('reader-focus',on);focus.setAttribute('aria-pressed',String(on));focus.textContent=on?say('Exit focus · Esc','Sair do foco · Esc'):say('Focus reading','Focar na leitura');}
   focus.addEventListener('click',()=>{const on=!body.classList.contains('reader-focus');setFocus(on);if(on){document.querySelector('dialog[open]')?.close();h1.scrollIntoView({block:'start'});}focus.focus({preventScroll:true});});
-  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&body.classList.contains('reader-focus')){setFocus(false);focus.focus({preventScroll:true});}});
-  window.addEventListener('beforeprint',()=>{if(body.classList.contains('reader-focus')){body.dataset.restoreReaderFocus='true';setFocus(false);}});
-  window.addEventListener('afterprint',()=>{if(body.dataset.restoreReaderFocus){delete body.dataset.restoreReaderFocus;setFocus(true);}});
+  activeControls={setFocus,focus};
   bar.append(options,focus);
   const existing=document.querySelector('.cw-section-links');(existing||h1).after(bar);
   // The toolbar already supplies the course position; preserve but suppress conflicting legacy counters.
   if(body.classList.contains('cw-lesson'))for(const e of main.querySelectorAll('.learning-context'))e.hidden=true;
  }
+ // A standalone course may replace its reading in place. One set of global
+ // listeners always addresses the current toolbar, never a detached lesson.
+ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&activeControls&&document.body.classList.contains('reader-focus')){activeControls.setFocus(false);activeControls.focus.focus({preventScroll:true});}});
+ window.addEventListener('beforeprint',()=>{if(activeControls&&document.body.classList.contains('reader-focus')){document.body.dataset.restoreReaderFocus='true';activeControls.setFocus(false);}});
+ window.addEventListener('afterprint',()=>{if(document.body.dataset.restoreReaderFocus){delete document.body.dataset.restoreReaderFocus;if(activeControls)activeControls.setFocus(true);}});
+ document.addEventListener('anthroposophy:reading-content-changed',()=>{
+  if(!document.querySelector('.reader-tools')){
+   activeControls?.setFocus(false);
+   activeControls=null;
+   delete document.body.dataset.restoreReaderFocus;
+  }
+  enhance();
+ });
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',enhance,{once:true});else enhance();
 })();

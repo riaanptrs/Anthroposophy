@@ -1,0 +1,7 @@
+/* Keep the standalone course layout while using the shared reading toolbar. */
+body[data-reader-size=large] main .reading :is(li,td,th){font-size:22px;line-height:1.85}
+body.reader-focus .study-layout,body.reader-focus .source-layout{grid-template-columns:minmax(0,1fr);gap:0;padding-top:0}
+body.reader-focus .sidebar,body.reader-focus .source-nav{display:none}
+body.reader-focus main>.container{padding:0}
+body.reader-focus .lesson-main,body.reader-focus .source-main{max-width:100%}
+@media print{.reader-tools{display:none!important}}

@@ -106,7 +106,7 @@ Lievegoed uses growth for an increase within the same system: more members, grea
 
 ### Development alters structure
 
-Development involves a reorganization through which the whole functions differently. Lievegoed describes differentiation, coordination and integration: functions become more distinct, their relations are ordered, and the parts work together in a new whole. The biological examples help explain his vocabulary. Applying this vocabulary to a person's biography is an interpretive extension, not proof that human choices follow an organism's predetermined design.
+Development involves a reorganization through which the whole functions differently. Lievegoed distinguishes differentiation (functions become specialized), hierarchization (some functions coordinate or govern others), and integration (the parts form a newly organized whole). The biological examples help explain his vocabulary. Applying this vocabulary to a person's biography is an interpretive extension, not proof that human choices follow an organism's predetermined design.
 
 ### What a crisis can reveal
 
@@ -2602,7 +2602,7 @@ It connects concepts from all seven chapters, includes relationships and institu
 
 ### Exercise
 
-Write 1,200–1,800 words or discuss for 35–45 minutes. Use the workbook's seven-chapter prompts and rubric. Include two interpretations, one counterexample, a bounded next action and the limits of what the case can establish.
+Start with a 150–250-word sketch or a five-minute discussion: one transition, two interpretations, one counterexample and a bounded next action. If useful, develop it into the workbook’s seven-chapter project (1,200–1,800 words or 35–45 minutes), including the limits of what the case can establish.
 
 ### Changed case
 

@@ -246,7 +246,7 @@ Source: PDF captures 23–26
 
 Separate reported improvement from a claim about its cause.
 
-Lecture Three, 1 December, opens with a report by Dr Paula Emrich on undernourished children receiving honey in milk. Steiner emphasizes age and developmental stage. He uses the report to ask whether listing a food’s analyzed ingredients can explain its action in a living body.
+Lecture Three, 1 December, opens with a report by Dr Paula Emrich on undernourished children receiving honey in milk. The report includes a sibling given milk without honey; the two children began with different reported blood measures. Steiner emphasizes age and developmental stage. He uses the report to ask whether listing a food’s analyzed ingredients can explain its action in a living body.
 
 His criticism of the word vitamin is that a label can conceal an unanswered question. That is a useful question about explanation, but he also rejects the emerging material explanation too strongly. The report’s improvements, its historical blood measurements and his proposed formative account are three different things. Neither a successful name nor an appealing interpretation substitutes for a comparison that tests causation.
 
@@ -782,6 +782,6 @@ Answer: 2. Yes. Accurate interpretation and responsible judgment work together.
 
 ### Activity
 
-Write 400–600 words on “The colony as a living whole.” Use one idea from each of the eight lectures, distinguish Hauk and Adams, and propose one observable care question. Compare your answer with the synthesis guide below.
+Begin with three sentences: explain one relationship within the colony, attribute one spiritual interpretation to Steiner, and name one observable care question. If you want to develop the full synthesis, write 400–600 words on “The colony as a living whole,” using one idea from each of the eight lectures and distinguishing Hauk, Hahn and Adams. Compare your answer with the synthesis guide below.
 
 Source: PDF captures 7–113
