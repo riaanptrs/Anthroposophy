@@ -26,7 +26,7 @@ export function workspaceCourses(){
    const byId=new Map(cat.lessons.map(l=>[l.id,l.pathEn.slice(5)]));
    groups=cat.parts.map(p=>({en:p.titleEn,pt:p.titlePt,routes:p.groups.flatMap(g=>g.lessonIds||[]).map(n=>byId.get(n)).filter(Boolean)}));
    for(const l of lessons)l.optional=cat.lessons.find(x=>x.pathEn.slice(5)===l.route)?.optional===true;
-   const order=cat.lessonIds.map(n=>byId.get(n));lessons.sort((a,b)=>order.indexOf(a.route)-order.indexOf(b.route));
+   const order=cat.lessonIds.map(n=>byId.get(n));lessons.sort((a,b)=>{const ai=order.indexOf(a.route),bi=order.indexOf(b.route);return (ai<0?order.length:ai)-(bi<0?order.length:bi);});
   }
   if(id==='philosophy-of-freedom'){
    // The six legacy practices remain linked from their chapters; count the sixteen core stages.

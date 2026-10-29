@@ -1,0 +1,66 @@
+# Teacher review of the current learning library
+
+29 October 2026. This pass covers **674 lesson units in 29 course/companion groups**. It counts a bilingual lesson once, separates the 36 detailed Freedom studies from its main path, includes optional practices and orientations, and includes the documentary's twelve lessons. Research notes and the 36 additional Waldorf support/navigation views are not additional authored lessons.
+
+The library generally has a coherent educational purpose. Its strongest lessons explain a distinction, work through a concrete example, and then ask learners to use it. The main problems found in this pass concern **the order in which a learner encounters material, questions that can be answered without applying it, and keeping corrected teaching consistent between editions and authoring files**. Agreement with anthroposophy is not evidence of understanding; accurately explaining or criticizing a claim can be.
+
+## What was actually reviewed
+
+This is a whole-library teaching and alignment pass, not a new line-by-line certification of every source book or every sentence in both languages. It combines **487 existing individual editorial audits** with current rendered-content evidence and **187 additional units**: Bees (23), Start Now (38), Phases (62), Esoteric Social (16), detailed Freedom studies (36), and the documentary (12). Earlier judgments are explicitly attributed to their existing ledgers. Newer units were screened for their stated goal, explanatory material, activity and assessment; targeted lessons received closer reading. Foundations, Practical Thinking and Higher Worlds received a current reading of their short main explanations and answers.
+
+[The individual lesson record](LESSONS.md) lists every unit. [Machine-readable evidence](lesson-evidence.json) records routes, explanation and question evidence, earlier audit scope where applicable, language coverage, delivery checks and page hashes. An automated evidence-presence check is never labelled an independent editorial judgment.
+
+## Corrections made
+
+1. **Practical Thinking began with an optional exercise.** The workspace sorted an unlisted optional prediction lesson before the main course. “Begin the course” therefore bypassed the observation groundwork that the prediction lesson assumes. Unlisted supplements now follow the authored sequence. The course begins at `00.html`; the toolbar counts twelve core lessons and labels `04.html` as optional. Stable URLs and existing study records are preserved.
+2. **Thirteen Practical Thinking checks required too little application.** One check in each unit now presents a concrete case and asks for a description, distinction, inquiry or reasoned revision. Explanatory feedback shows the relevant steps and preserves the limits of the conclusion. The other check and all explanation/source material remain.
+3. **Phases 1 tested the course's coverage rather than biography.** Its second question now asks the learner to distinguish a chronology from an interpretation of continuity and to say how that interpretation could be checked.
+4. **Phases 4 did not directly test its three perspectives.** Its first question now asks learners to distinguish Bruno's bodily fatigue, psychological experience and value commitment, then identify what they would ask him. It does not infer spiritual reality from the example.
+5. **Four Start Now checks now test the actual practice.** Choosing one practice, returning from distraction, reconstructing the day in reverse, and preparing the Rose Cross are assessed through situations requiring the taught method rather than a leading yes/no answer. These are educational questions, not tests of spiritual attainment.
+6. **Published Phases corrections were missing from authoring data.** Fifteen existing paragraphs (two English/Portuguese versions of the development terminology plus thirteen Portuguese passages) were reconciled with the already-published wording. This preserves hierarchization as distinct from generic coordination and preserves contrasts such as “support instead of moral condemnation.” The print/study editions were aligned too. These are preserved earlier corrections, not fifteen newly discovered errors in the live lessons.
+
+The assessment changes affect **19 authored units**, in English and Portuguese. Existing source quotations, source locators and notebook identities were not edited. Search indexes were refreshed so learners can find the revised teaching.
+
+## Course-by-course judgment
+
+“Retain” means the available teaching and review evidence support the stated learning purpose at this pass's scope. It does not certify specialist completeness, factual truth of every historical claim, or actual learner mastery.
+
+| Course / companion | Units | Teacher judgment and teaching purpose |
+| --- | ---: | --- |
+| Foundations | 36 | Retain. Its sequence introduces vocabulary before most later uses, distinguishes ordinary examples from wider spiritual claims, and ends with a connected synthesis. The detailed ninefold/sevenfold account is demanding but has diagrams, grouping explanations and optional depth. |
+| Introduction to Anthroposophy | 28 | Retain at introductory scope, using its earlier individual audit. Keep its survey role distinct from Foundations; a short explanation is an entry point to the retained detailed account. |
+| Theosophy concept course | 24 | Retain. Distinctions and worked cases support the conceptual sequence; feeling, understanding, individuality and spiritual claims must remain distinguishable. Earlier individual audits are retained as evidence. |
+| Theosophy reading companion | 28 | Retain for source-ordered reading, with the conceptual course available as preparation. It is a separate learning route, not 28 further chapters of the conceptual course. |
+| Practical Thinking | 13 | Revise sequencing and one applied check in every unit. Twelve core lessons now lead from attention and observation to alternatives and judgment; prediction remains optional. |
+| Philosophy of Freedom, main path and detailed studies | 58 | Retain the distinction between sixteen core stages, six legacy practices and thirty-six detailed studies. Knowing must precede the ethical argument. Motive, driving force, imagination and technique are separately explained rather than collapsed into “do what feels right.” |
+| Higher Worlds | 19 | Retain. Short explanations distinguish the path's stages, different lists and the Guardians. Ordinary examples clarify rather than establish supersensible perception. The historical racial hierarchy remains a subject for criticism, not a classification of learners. |
+| Meditation | 9 | Retain the guided progression and companion role. Understanding a verse, sustaining attention and reviewing practice are different achievements; completing a session does not certify an attainment. |
+| Start Now | 38 | Retain the anthology's distinct practices and contexts; revise four central checks. Purpose, preparation, steps and the source reader need to remain together. Reading a later chapter does not require adding its practice. |
+| According to Luke | 12 | Retain. Gospel narrative, Steiner's interpretation and editorial commentary are distinguished. The childhood transfer and Jordan Baptism must retain different subjects and dates. |
+| Esoteric Christianity I | 24 | Retain. The preparatory sequence and different figures are taught before synthesis. Everyday analogies must continue to clarify a relation without replacing the source narrative. |
+| Ancient Myths | 8 | Retain at interpretive reading scope. Narrative events need to precede interpretation; multiple readings still require support in story details. This is not a general ancient-history syllabus. |
+| Colour | 14 | Retain for the collection's artistic and interpretive purpose. Controlled comparisons, image/lustre vocabulary and composition support study; individual responses are not character diagnoses. |
+| The Four Temperaments | 11 | Retain with tentative observation and contextual comparison. Do not assess learning by how confidently a learner labels someone. |
+| Mystery of Temperaments | 15 | Retain. Educational responses need their mechanism explained, not just a portrait or type name. Earlier lesson-specific review remains the basis for retention. |
+| Understand Your Temperament | 13 | Retain as Childs's model and applications, with alternative interpretations and the limits of appearance-based inference kept visible. |
+| Understanding Temperaments | 12 | Retain the observation → tentative interpretation → response → review purpose. Successful use includes revising or abandoning an unhelpful interpretation. |
+| Encountering the Self | 17 | Retain. The child/adult encounter, developmental interpretation and historical medical contribution remain distinct. Drawing tasks teach observable relationships; developmental maps do not decide an individual child's readiness. |
+| Waldorf primary topics | 62 | Retain the parent-course scope and earlier individual review. Activities and examples explain educational intentions; the course is not a complete specialist syllabus for every school subject. |
+| Biodynamic Agriculture | 24 | Retain the whole-farm sequence before preparations. The distinction between material flows, spiritual mechanisms, practical proposals and comparisons is necessary to the teaching. |
+| Agriculture complete lecture companion | 18 | Retain as the source-ordered counterpart. Farm individuality, seasons, substances, preparations and landscape form a connected argument; recipes alone would not fulfill its purpose. |
+| What Is Biodynamics | 14 | Retain the anthology's own scope and authorship distinctions. Whole-farm examples support the concepts; selected lectures are not the complete GA 327 sequence. |
+| Bees | 23 | Retain. Each unit has teaching, a worked example, explained choices and an activity. Some distractors are easy; discussion and synthesis are stronger evidence of understanding than a correct multiple-choice selection alone. |
+| Nutrition | 18 | Retain as historical-source teaching with current physiological distinctions. Both language teaching routes exist; historical explanations do not establish treatment or dietary prescriptions. |
+| Foodwise | 39 | Retain the sequence from food history and farm relationships to ingredients and kitchen judgment. Ingredient form, processing and actual conditions must govern practical choices rather than symbolic associations alone. |
+| Phases | 62 | Retain the seven-chapter progression, revise two checks, and preserve existing wording corrections in source and print. Age patterns supply questions; the individual biography can challenge the model. |
+| Toward a Threefold Society | 7 | Retain for the supplied opening only. The separation and cooperation of culture, rights and economy are taught; this is not a complete course on unavailable main chapters. |
+| Esoteric Aspect of the Social Question | 16 | Retain. The sequence moves from social perception through three spheres to thinking, willing and institutional proposals. Its open discussion questions allow real criticism and distinguish spiritual premises from public reasons. |
+| Documentary | 12 | Retain. Outcomes, interview excerpts, activities and answer guides align well; the final project requires accurate representation, a feasible proposal and grounds for revision. The course is English with a Portuguese entry, not twelve fully translated Portuguese lessons. |
+
+## Validation and limits
+
+- The census records all **674 units** and **487 earlier individual audit links**. Every static lesson has a title, explanation evidence, answer disclosure and a Portuguese counterpart; the documentary's English-only scope is separately recorded.
+- **152 browser cases pass**: all nineteen changed units in two languages, at 320 and 1280 pixels, with and without JavaScript. Applied questions are visible, explained answers open, and pages do not overflow. Interactive checks also verify the correct Practical Thinking start, first/last core positions and optional label. [Browser results](browser.json).
+- The Phases and Start Now course validators pass. JavaScript syntax and whitespace checks pass. Workspace metadata comparison confirms that only Practical Thinking and the catalogue counts changed; other course configurations are unchanged.
+- Two inherited validators still fail against old snapshots: Practical Thinking pins an old `passage-study.json` hash, and Remaining Clarity compares a Higher Worlds retained body with a historical version that predates an existing Freedom connection. Neither underlying item was edited in this pass. These failures are reported rather than changing the old assertions to claim a pass.
+- No new complete source-book verification, specialist certification or learner study is claimed. The source corpus and historical evidence have different coverage across courses. This pass does not turn the existence of a question or an automated check into proof that a learner understands it.

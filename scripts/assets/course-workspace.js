@@ -60,7 +60,8 @@
   const lead=[...original.querySelectorAll('.lead,.subtitle,.cp-lead')].find(e=>e.textContent.trim().length>35&&e.textContent.trim().length<260);if(lead){lead.classList.add('cw-overview-lead');hero.append(lead);}
   const resume=original.querySelector('[data-study-resume],[data-ec-resume],[data-learning-resume],[data-intro-continue]');if(resume){resume.classList.add('cw-resume');hero.append(resume);}
   for(const summary of original.querySelectorAll('[data-intro-progress],[data-learning-progress-summary]')){summary.classList.add('cw-count');hero.append(summary);}
-  const first=course.lessons[0];const start=anchor(first.route,say('Begin the course','Comece o curso'));start.className='cw-start';hero.append(start,make('p','cw-count',say(`${course.lessons.length} lessons · choose a chapter or read in order`,`${course.lessons.length} lições · escolha um capítulo ou leia em sequência`)));
+  const coreLessons=course.lessons.filter(l=>!l.optional),optionalCount=course.lessons.length-coreLessons.length;
+  const first=coreLessons[0]||course.lessons[0];const start=anchor(first.route,say('Begin the course','Comece o curso'));start.className='cw-start';hero.append(start,make('p','cw-count',say(`${coreLessons.length} lessons${optionalCount?` + ${optionalCount} optional`:''} · choose a chapter or read in order`,`${coreLessons.length} lições${optionalCount?` + ${optionalCount} opcional`:''} · escolha um capítulo ou leia em sequência`)));
   const nav=curriculum(course);const wrapper=make('section','cw-overview-curriculum');wrapper.id='workspace-curriculum';wrapper.append(make('h2','',say('Your course curriculum','Currículo do curso')),nav);
   const about=make('details','cw-panel');about.append(make('summary','',say('About this course, sources and study tools','Sobre o curso, fontes e ferramentas de estudo')),original);
   main.append(hero,wrapper,about);lookup(nav,say('Find a lesson','Encontre uma lição'));
@@ -84,9 +85,9 @@
   const resources=make('details','cw-module cw-resources');resources.append(make('summary','',say('Course resources','Recursos do curso')));
   for(const old of [...reading.querySelectorAll('.wf-breadcrumb,.wf-nav,.foodwise-nav,.learning-breadcrumb,.bio-breadcrumb,.ec-reference-nav')])if(!old.closest('details'))resources.append(old);
   if(resources.children.length>1)nav.append(resources);
-  const index=course.lessons.findIndex(l=>l.route===config.route),current=course.lessons[index];
+  const index=course.lessons.findIndex(l=>l.route===config.route),current=course.lessons[index],coreLessons=course.lessons.filter(l=>!l.optional),coreIndex=coreLessons.findIndex(l=>l.route===config.route);
   const toolbar=make('div','cw-toolbar'),trigger=make('button','cw-chapters',say('Chapters','Capítulos'));trigger.type='button';
-  const position=make('span','cw-position',current?.optional?say('Optional practice','Prática opcional'):index>=0?say(`Lesson ${index+1} of ${course.lessons.length}`,`Lição ${index+1} de ${course.lessons.length}`):say('Course reference','Referência do curso'));
+  const position=make('span','cw-position',current?.optional?say('Optional practice','Prática opcional'):index>=0?say(`Lesson ${coreIndex+1} of ${coreLessons.length}`,`Lição ${coreIndex+1} de ${coreLessons.length}`):say('Course reference','Referência do curso'));
   const home=anchor(course.home,say('Course','Curso'));home.title=course[lang];toolbar.append(trigger,home,position);main.before(toolbar);
   // Preserve special source-owned sequences, including optional practices and Waldorf branches.
   const oldSequence=reading.querySelector('.lesson-navigation,.foodwise-next,.wf-prev-next,.ec-lesson-nav,.learning-navigation');

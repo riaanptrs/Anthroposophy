@@ -1,0 +1,932 @@
+{
+  "status": "passed",
+  "lessonCases": 152,
+  "units": 19,
+  "viewports": [
+    320,
+    1280
+  ],
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "javascript": [
+    false,
+    true
+  ],
+  "progression": "Begin opens core lesson 1; core positions 1–12; prediction explicitly optional.",
+  "results": [
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/11.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/phases/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/phases/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/choose-a-path.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/short-daily-sitting.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/review-in-reverse.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/rose-cross-and-variants.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/11.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/phases/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/phases/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/choose-a-path.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/short-daily-sitting.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/review-in-reverse.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/rose-cross-and-variants.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/11.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/phases/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/phases/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/choose-a-path.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/short-daily-sitting.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/review-in-reverse.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/rose-cross-and-variants.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/11.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/phases/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/phases/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/choose-a-path.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/short-daily-sitting.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/review-in-reverse.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/rose-cross-and-variants.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/11.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/phases/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/phases/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/choose-a-path.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/short-daily-sitting.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/review-in-reverse.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/rose-cross-and-variants.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/11.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/phases/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/phases/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/choose-a-path.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/short-daily-sitting.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/review-in-reverse.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/rose-cross-and-variants.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/11.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "practical-thinking/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/phases/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/phases/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/choose-a-path.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/short-daily-sitting.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/review-in-reverse.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/rose-cross-and-variants.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/11.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/practical-thinking/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/phases/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/phases/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/choose-a-path.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/short-daily-sitting.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/review-in-reverse.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/rose-cross-and-variants.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    }
+  ]
+}
