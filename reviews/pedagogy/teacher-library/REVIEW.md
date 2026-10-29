@@ -6,6 +6,8 @@ The library generally has a coherent educational purpose. Its strongest lessons 
 
 ## Course continuation
 
+The [first Mystery of Temperaments lesson](mystery-first/REVIEW.md) is reviewed and its second check revised bilingually. This is **one of fifteen** units; fourteen remain for the next reviewer. The [handoff](HANDOFF.md) records the restart point. The combined revised-assessment count is **175 distinct units**.
+
 The [Four Temperaments review](four-temperaments/REVIEW.md) reads all eleven book-course main explanations and check pairs, plus retained activities. Four second checks are revised bilingually; seven pairs and all explanations are retained. The separate twelve-lesson introductory path is unchanged. The combined assessment revision count is **174 distinct units**.
 
 The [Colour review](colour/REVIEW.md) reads all fourteen main explanations and check pairs, plus retained activities. Six second checks are revised bilingually, lesson 5’s tone/advocate explanation is expanded and the opening activity’s synthesis pointer is corrected. Eight check pairs are retained. The combined assessment revision count is **170 distinct units**.
@@ -69,7 +71,7 @@ The assessment changes affect **19 authored units**, in English and Portuguese. 
 | Ancient Myths | 8 | Focused eight-lesson review completed: four second checks revised and four pairs retained. Retain the interpretive reading scope. Narrative events need to precede interpretation; multiple readings still require support in story details. This is not a general ancient-history syllabus. |
 | Colour | 14 | Focused review completed: six applied checks revised, eight pairs retained, one explanation completed and an activity pointer corrected. Retain the collection’s artistic and interpretive purpose. Controlled comparisons, image/lustre vocabulary and composition support study; individual responses are not character diagnoses. |
 | The Four Temperaments | 11 | Focused book-course review completed: four second checks revised, seven pairs retained. Retain tentative observation and contextual comparison. Do not assess learning by how confidently a learner labels someone. |
-| Mystery of Temperaments | 15 | Retain. Educational responses need their mechanism explained, not just a portrait or type name. Earlier lesson-specific review remains the basis for retention. |
+| Mystery of Temperaments | 15 | First main lesson reviewed and one second check revised; fourteen remain for focused continuation. Earlier screening remains the basis for those later units. Educational responses need their mechanism explained, not just a portrait or type name. Earlier lesson-specific review remains the basis for retention. |
 | Understand Your Temperament | 13 | Retain as Childs's model and applications, with alternative interpretations and the limits of appearance-based inference kept visible. |
 | Understanding Temperaments | 12 | Retain the observation → tentative interpretation → response → review purpose. Successful use includes revising or abandoning an unhelpful interpretation. |
 | Encountering the Self | 17 | Retain. The child/adult encounter, developmental interpretation and historical medical contribution remain distinct. Drawing tasks teach observable relationships; developmental maps do not decide an individual child's readiness. |

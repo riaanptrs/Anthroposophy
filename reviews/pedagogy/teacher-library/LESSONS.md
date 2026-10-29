@@ -414,7 +414,7 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [From the individual enigma to an art of living](../../../docs/mystery-temperaments/lessons/00.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [From the individual enigma to an art of living](../../../docs/mystery-temperaments/lessons/00.html) | First main explanation/checks read; opening activity alignment reviewed; [focused review](mystery-first/REVIEW.md) | Second check revised bilingually; next fourteen units pending |
 | [General human nature and the particular person](../../../docs/mystery-temperaments/lessons/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
 | [Heredity and the individuality carried through lives](../../../docs/mystery-temperaments/lessons/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
 | [Temperament as reciprocal colouring](../../../docs/mystery-temperaments/lessons/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
