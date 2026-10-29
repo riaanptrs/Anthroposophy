@@ -6,7 +6,9 @@ The library generally has a coherent educational purpose. Its strongest lessons 
 
 ## Course continuation
 
-The subsequent [Introduction to Anthroposophy revision](introduction/REVIEW.md) reads all 28 current main explanations and their checks, revises one applied question per lesson, and develops five explanations. This raises the combined assessment revision count to **47 units**; the nineteen-unit description below records the first pass. Detailed source verification remains separate.
+The subsequent [Theosophy revision](theosophy/REVIEW.md) reads all 24 current primary explanations and both checks, revises seventeen second questions, adds three reading maps, and clarifies the I. Seven strong existing changed-case checks are retained. The combined assessment revision count is now **64 units**.
+
+The subsequent [Introduction to Anthroposophy revision](introduction/REVIEW.md) reads all 28 current main explanations and their checks, revises one applied question per lesson, and develops five explanations. That continuation raised the assessment revision count to **47 units**; the nineteen-unit description below records the first pass. Detailed source verification remains separate.
 
 ## What was actually reviewed
 
@@ -33,7 +35,7 @@ The assessment changes affect **19 authored units**, in English and Portuguese. 
 | --- | ---: | --- |
 | Foundations | 36 | Retain. Its sequence introduces vocabulary before most later uses, distinguishes ordinary examples from wider spiritual claims, and ends with a connected synthesis. The detailed ninefold/sevenfold account is demanding but has diagrams, grouping explanations and optional depth. |
 | Introduction to Anthroposophy | 28 | Current 28-lesson main-reading revision completed: five explanations developed and one applied check per lesson revised. Keep the introductory path distinct from the retained detailed source reading. See the continuation report. |
-| Theosophy concept course | 24 | Retain. Distinctions and worked cases support the conceptual sequence; feeling, understanding, individuality and spiritual claims must remain distinguishable. Earlier individual audits are retained as evidence. |
+| Theosophy concept course | 24 | Current 24-lesson main-reading review completed: seventeen applied checks revised, three reading maps added, and the I clarified. Seven strong changed-case checks deliberately retained. See the Theosophy continuation report. |
 | Theosophy reading companion | 28 | Retain for source-ordered reading, with the conceptual course available as preparation. It is a separate learning route, not 28 further chapters of the conceptual course. |
 | Practical Thinking | 13 | Revise sequencing and one applied check in every unit. Twelve core lessons now lead from attention and observation to alternatives and judgment; prediction remains optional. |
 | Philosophy of Freedom, main path and detailed studies | 58 | Retain the distinction between sixteen core stages, six legacy practices and thirty-six detailed studies. Knowing must precede the ethical argument. Motive, driving force, imagination and technique are separately explained rather than collapsed into “do what feels right.” |

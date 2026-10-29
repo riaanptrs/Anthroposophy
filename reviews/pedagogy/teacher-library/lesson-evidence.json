@@ -164,7 +164,7 @@
       "course": "theosophy",
       "units": 24,
       "earlierIndividualAudits": 24,
-      "revisedAssessments": 0
+      "revisedAssessments": 17
     },
     {
       "course": "learn/esoteric-social",
@@ -179,7 +179,7 @@
       "revisedAssessments": 0
     }
   ],
-  "revisedAssessments": 47,
+  "revisedAssessments": 64,
   "records": [
     {
       "course": "according-to-luke",
@@ -35413,7 +35413,6 @@
       "questionEvidence": [
         "How can one encounter belong to us in three different ways?",
         "Can two passengers feel differently and reach the same conclusion?",
-        "Does correcting the timetable judgment mean the disappointment was unreal?",
         "You hear a melody, enjoy it and recognize a rhythm. Hearing, enjoyment and recognition occur together, yet they answer different questions. What reached your senses? What did it mean to you? What relationship did you understand?",
         "Suppose you misread the departure time. Does your certainty make the connection impossible?",
         "Which part of your account describes the world, which your response, and which a relationship that still needs to be sound?",
@@ -35434,7 +35433,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -35443,7 +35446,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "1ff5ba850381feb664637d5a2982784f9819a667c92ef8f8f897445f5d942aee"
+      "sha256": "8d6a00370856a48b80949db9f7d1eabe5c4da188028d9e3d2c033b0ecb5cf60d"
     },
     {
       "course": "theosophy",
@@ -35509,6 +35512,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -35579,6 +35586,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -35601,8 +35612,6 @@
         "The spiritual worlds",
         "The path of knowledge",
         "Understand the idea",
-        "One whole, distinct contributions",
-        "Three people understand a common purpose and contribute differently. Does sharing the purpose by itself mean that individuality has disappeared?",
         "Optional questions with explanations",
         "Begin with experience",
         "The central idea",
@@ -35630,7 +35639,7 @@
       "questionEvidence": [
         "What makes an action your own: its intensity, or your understanding of its motive?",
         "A teacher approves a plan, but you discover that it unfairly burdens one person. Does independence mean agreeing, refusing automatically, or examining the reasons?",
-        "Does completing the course establish initiation?",
+        "A learner can explain a spiritual teaching accurately and chooses to question one premise. What can course completion record, and why do neither agreement nor disagreement establish initiation?",
         "What can this course responsibly help you demonstrate?",
         "How would you explain the difference between an impulse you happen to have and a motive you have examined and made your own?"
       ],
@@ -35649,7 +35658,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -35658,7 +35671,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "360156816aef3d7693fc29e5a9da4c530a83b66c05e9ee1676be69b2fe99443e"
+      "sha256": "15725ba79e031e4fa7c2276633540861a2b48ef2c345998af6d2ae3163308226"
     },
     {
       "course": "theosophy",
@@ -35700,7 +35713,7 @@
       "questionEvidence": [
         "What does it mean to speak from an inward centre?",
         "Does noticing irritation require denying the feeling?",
-        "Does making a truth your own make it privately true?",
+        "Two people understand the same reason for keeping a promise, but one comes personally and the other agrees on a substitute. What is shared, what is individualized, and why is the truth not made private?",
         "Does using the word I prove that a decision is free?",
         "Why does an unselfish action still involve an I?"
       ],
@@ -35719,7 +35732,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -35728,7 +35745,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "d9e515f81ae3d4966a9b60e85b6e579b50a9023259d917e506c7caf89665165c"
+      "sha256": "f267c011c316ba1066bb8a37cc5f612a85addab97ae85f9dd2be4393a55ef24b"
     },
     {
       "course": "theosophy",
@@ -35770,7 +35787,6 @@
       "questionEvidence": [
         "How can something you do today become part of tomorrow’s situation?",
         "You broke a borrowed tool yesterday and discover the damage today. Does an existing consequence make your present response useless?",
-        "May we infer that someone deserved a present hardship?",
         "You learn to handle tools carefully but leave the owner to pay. Has inward learning resolved the whole consequence?",
         "What remains of the action outside you, and what remains as a change within you?",
         "In one ordinary action, what changed within you and what changed in the situation shared with others?"
@@ -35790,7 +35806,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -35799,7 +35819,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "ca9a5a78345bfda69a575a592777f0e0bd00a7d2eb8469c83f9e40e81cd811d4"
+      "sha256": "9db245c70602bb1b881f615e52868bbdbdee3a70a81188d461b8b33fdb1c4a88"
     },
     {
       "course": "theosophy",
@@ -35842,7 +35862,6 @@
       "questionEvidence": [
         "What distinguishes a living form from its changing materials?",
         "What can you report directly from watching the seedling?",
-        "Is the etheric body just a metaphor in Steiner's account?",
         "Would a time-lapse of growth by itself demonstrate the etheric body?",
         "A reader says, “Our senses have limits, so Steiner's comparison proves that an etheric body exists.” What needs correcting?",
         "What did you actually see, and what did you add as an explanatory concept?",
@@ -35863,7 +35882,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -35872,7 +35895,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "eae90dfccc6d6f1043306484dfeba75ea03d1fc9a9602c6dab4413acc85015d2"
+      "sha256": "85607e459e74b639a292f0980bd9ba47e49f3e0bb8a98b5a04fd3c4369dbcd07"
     },
     {
       "course": "theosophy",
@@ -35912,7 +35935,7 @@
       "questionEvidence": [
         "How can lived experience become a capacity for future action?",
         "An organizer cannot recall a meeting but has learned to notice who is left out. What illustrates a fruit of experience, and what remains a further claim?",
-        "Does the account predict that every next life is visibly more successful?",
+        "An experienced organiser loses a public role but retains the capacity to notice who is excluded. What does this show about capacity and outward success, and what can it not establish about another life?",
         "What remains missing if we infer reincarnation directly from learning through experience?",
         "Why would a list of someone’s remembered events or public achievements fail to describe the enduring individuality in this account?"
       ],
@@ -35931,7 +35954,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -35940,7 +35967,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "c5c2c8b8247c3f13aec1e08144676005467955aa18610d5acccbc85c040bb31b"
+      "sha256": "50c370064ec69d51035b10ca5ecc00483945ec43cd1513670798c233d952dece"
     },
     {
       "course": "theosophy",
@@ -36001,6 +36028,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36051,7 +36082,7 @@
       "questionEvidence": [
         "What remains of an experience after its details fade?",
         "Does forgetting a lesson necessarily erase what you learned?",
-        "Does retaining a skill prove reincarnation?",
+        "Someone reads a new sentence fluently but cannot recall their first reading lesson. What remains effective, what is not recalled, and what further step would be needed to reach Steiner’s cross-life claim?",
         "What would recalling every instruction still leave to find out?",
         "Which part is a remembered event, and which part is a present capacity?",
         "Choose a familiar ability. How would you distinguish the memories of learning it from the ability you now have?"
@@ -36071,7 +36102,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36080,7 +36115,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "609e3478006cef5f4fae4daefced20f46e1861d734c4067c299545da68776aa3"
+      "sha256": "fa4611640f264f704985aa9f4cd21ca601d6db1314c71fa0b0d19f87c0ce423e"
     },
     {
       "course": "theosophy",
@@ -36124,7 +36159,7 @@
       "questionEvidence": [
         "How does thinking change the way we meet our needs?",
         "Does mind soul refer to a level of education?",
-        "Does finding the fastest route establish that the visit is appropriate?",
+        "You find the fastest bus route, then learn your friend does not want a visit today. Which problem did the route comparison solve, and what should be reconsidered now?",
         "If the route is mathematically shortest, what remains to consider?",
         "Where did thought serve a preference, and where did it let a reason challenge that preference?",
         "Can a carefully reasoned plan still be guided by an unexamined preference?",
@@ -36145,7 +36180,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36154,7 +36193,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "cf7639df028248f4bf97995e407e20696c7c2d464efaa6486220ba752ba090cd"
+      "sha256": "6b4ca36ceb3ee37493ae5d051c87892ba05800550e9087cb07b53b505c295ace"
     },
     {
       "course": "theosophy",
@@ -36195,7 +36234,7 @@
       "questionEvidence": [
         "What are we describing when we describe a living form or a shared activity?",
         "Does an orderly plant establish a spiritual being as its cause?",
-        "Are the seven kingdoms the same as the seven soul regions?",
+        "A chart places gnomes in Elementary Kingdom One because both use a similar-sounding word, then equates that kingdom with the first soul region. What needs correcting?",
         "If a second plant grows differently, which statement can you revise directly, and what has not been tested?",
         "What changed when you moved from describing the plant to explaining it, and then to reconstructing Steiner’s account?",
         "If a group sings the same song, what is publicly observable, and what further claim does Steiner make when he speaks of a Folk Spirit?"
@@ -36215,7 +36254,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36224,7 +36267,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "08a6cb356bf278306da1339326bd5ee943b1a2acaf2567a70b4eb32c5656912f"
+      "sha256": "184a4d63725a6e5f9531c746cd579b480677c6bd3ae792bfeeaa0c121ca321b0"
     },
     {
       "course": "theosophy",
@@ -36264,7 +36307,7 @@
       "questionEvidence": [
         "What are we explaining when we describe a person’s material body?",
         "A model hand has the right outline but cannot maintain or repair itself. What does its shape explain, and what remains to ask?",
-        "Does discussing soul and spirit make bodily study unnecessary?",
+        "A model hand has the same materials as a living hand but its parts cannot work together to lift a cup. What must a physical explanation include, and what further question would remain even if the model could lift it?",
         "What changes if the same hand grips gently to reassure someone?",
         "What would a material description of a written note explain, and what would remain to be understood?"
       ],
@@ -36283,7 +36326,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36292,7 +36339,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "28463af6d91cd73cb30581d7141c9eb880dd885c2586b6d75aabdd5c184b73a8"
+      "sha256": "d1d052e93484db7d2c75b91944a3b1599fddc5a52d8b050aeb2e4edf6248097e"
     },
     {
       "course": "theosophy",
@@ -36355,6 +36402,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36404,7 +36455,6 @@
       "questionEvidence": [
         "Does an inherited constitution explain the whole history of a person?",
         "Two equally taught pupils learn at different speeds. Which step is missing if someone calls this proof of reincarnation?",
-        "Can an unusual talent identify a specific former life?",
         "Can the statement “she learned quickly” identify a former occupation?",
         "How could a person receive inherited traits and still have a spiritual history of their own within Steiner’s account?"
       ],
@@ -36423,7 +36473,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36432,7 +36486,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "1701c3f6abe58c12c7a5e59b2990dd965b4cca52835446167d691ca6425adbf4"
+      "sha256": "ccdd5de0c89c4cf1968ac3ec9e0ecd2f1e62722c3b7b43e402e03e62aa39b4a6"
     },
     {
       "course": "theosophy",
@@ -36474,7 +36528,6 @@
       "questionEvidence": [
         "How does bodily sensation differ from inwardly experiencing it?",
         "A model eye copies the material shape of an eye. Has it therefore reproduced all four roles in the map?",
-        "Can you infer a person's complete inward experience from their expression?",
         "Does a stronger outward reaction establish a richer inward experience?",
         "Why can astral body include two members without making sentient body and sentient soul identical?"
       ],
@@ -36493,7 +36546,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36502,7 +36559,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "ca1c2e7996c66d83c537d1572daa46cbf3649db279a37acb63e6c37b2f591a48"
+      "sha256": "3e7518cb26060940faf25fbee2a0c26c241313262a2c82b32ee2913c17511181"
     },
     {
       "course": "theosophy",
@@ -36548,7 +36605,6 @@
       "questionEvidence": [
         "How does a sensation become part of your inward life?",
         "Does sentient mean only detecting a stimulus?",
-        "Does waiting for permission mean the desire never occurred?",
         "If another listener enjoys the whistle, must one feeling be false?",
         "How did the encounter become personally significant, and why was its expression in action not inevitable?",
         "How do smell, pleasure, desire and action differ in the bakery example?",
@@ -36569,7 +36625,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36578,7 +36638,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "50b202e4f693efce36c5378c504bb7f37c52996fd998417c23a1685f3bca5632"
+      "sha256": "5f9f4c7acc8dead7e6075f9991152a20a08b60db034b05453b031f88e062838f"
     },
     {
       "course": "theosophy",
@@ -36618,7 +36678,6 @@
       "questionEvidence": [
         "How can attraction include both openness to something and a wish to possess it?",
         "Someone wants more company but only on their own terms. Has stronger attraction by itself become outward-giving sympathy?",
-        "Can the seven regions be used as a personality test?",
         "If attraction becomes stronger while everything attracted is still treated as belonging to oneself, has the relation become unreservedly outward-giving?",
         "What difference is there between being attracted to something and allowing it to enlarge your understanding?",
         "In an impersonal example, can you distinguish receiving something, wanting to possess it and allowing it to change your understanding?"
@@ -36638,7 +36697,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36647,7 +36710,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "64d8a5cf21017ad1f2b90c408f7c9fb8ea33b80b043f552dfc5fc5bb420a4fb2"
+      "sha256": "dfa1b4b1d0c238786c1cf1b70046ecf51eff55f5871b2beba56bd1e125d3bc23"
     },
     {
       "course": "theosophy",
@@ -36695,7 +36758,6 @@
       "questionEvidence": [
         "How does development change the relationship between the I and its constitution?",
         "A learner combines sentient body and sentient soul in a diagram, then says the person has achieved spirit-self. What went wrong?",
-        "Does improved listening prove the presence of life-spirit?",
         "A diagram replaces “life body” with “spirit-self” because both sound spiritual. What relation has it confused?",
         "Why are the chapter’s two sevenfold lists not interchangeable?"
       ],
@@ -36714,7 +36776,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36723,7 +36789,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "cf2d5091ca9f34378471c719928d816062f510d0019c0600a5a2ed3a98497b6a"
+      "sha256": "0bf0a7d17089c5d668538e8ea6578ce646a3938c7bdc71ff748518cf8af39ec4"
     },
     {
       "course": "theosophy",
@@ -36765,7 +36831,6 @@
       "questionEvidence": [
         "Does a satisfying conclusion actually follow from its reasons?",
         "The route calculation is correct, but the library is closed on that day. What needs correcting?",
-        "Does enjoying a helpful act make it driven by praise?",
         "Does abandoning the delivery show weak will?",
         "What guided the action: its recognized purpose, a passing preference, or a mixture you can now distinguish?",
         "Take a small planned action. What is its reason, what steps follow from that reason, and what would make you reconsider?"
@@ -36785,7 +36850,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36794,7 +36863,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "07f88772748946db0eee2397357602ecc2fdf5737ceab1526dc9dd4c6b44b571"
+      "sha256": "09abcade0a72cd8b0deee8e413052dcfc08036193ad8a0d8b4a9cfcd5385b8dc"
     },
     {
       "course": "theosophy",
@@ -36854,6 +36923,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36923,6 +36996,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -36995,6 +37072,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -37068,7 +37149,6 @@
       "questionEvidence": [
         "How do the human being, destiny, the spiritual worlds and knowledge belong together?",
         "What is retained inwardly, and what remains outwardly after the repair?",
-        "What does the garden example leave unproved?",
         "At the next meal, Ana has forgotten who taught her to divide the work, but now notices an unfair arrangement and reorganizes it. Explain this one event through body, soul and spirit; memory and acquired capacity; and inward learning and outward consequence. Where does the book’s account go beyond what the event establishes?",
         "Steiner describes the physical, soul and spiritual worlds as interrelated realities. Soul affinities organize one account; living creative archetypes organize another. After-death release and the assimilation of experience connect these worlds with renewed earthly life. Nature beings, thought-forms and the aura extend the same constitution question: how do body, soul and spirit participate in a wider world?"
       ],
@@ -37087,7 +37167,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "theosophy/REVIEW.md",
+        "scope": "All 24 English primary explanations and both checks read; bilingual revised checks and maps supplied; retained source depth not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -37096,7 +37180,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "a79097f62862c67b94e829e7c221c289100070fdce4a1e1436ac2da23bb2f147"
+      "sha256": "a1d41b15ee744418217574ef65d4c119a9ba7be9a00cd36a6df6e8d8e5b69c81"
     },
     {
       "course": "learn/esoteric-social",

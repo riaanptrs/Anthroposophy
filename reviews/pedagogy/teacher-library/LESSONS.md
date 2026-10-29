@@ -758,30 +758,30 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [Body, soul and spirit](../../../docs/theosophy/lessons/body-soul-spirit.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The consciousness-soul](../../../docs/theosophy/lessons/consciousness-soul.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [What depends on a bodily instrument?](../../../docs/theosophy/lessons/death-and-release.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Freedom, individuality and initiation](../../../docs/theosophy/lessons/freedom-and-initiation.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The human I](../../../docs/theosophy/lessons/human-i.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Actions, consequences and karma](../../../docs/theosophy/lessons/karma-and-action.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Life and the etheric body](../../../docs/theosophy/lessons/life-and-etheric-body.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Life between lives](../../../docs/theosophy/lessons/life-between-lives.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Living archetypes](../../../docs/theosophy/lessons/living-archetypes.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Memory, learning and individuality](../../../docs/theosophy/lessons/memory-and-individuality.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The intellectual or mind soul](../../../docs/theosophy/lessons/mind-soul.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Nature and spiritual beings](../../../docs/theosophy/lessons/nature-and-spiritual-beings.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The physical body](../../../docs/theosophy/lessons/physical-body.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Receptivity and equanimity](../../../docs/theosophy/lessons/receptivity-and-equanimity.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Reincarnation and inherited life](../../../docs/theosophy/lessons/reincarnation.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Sentience and the astral body](../../../docs/theosophy/lessons/sentience-and-astral-body.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The sentient soul](../../../docs/theosophy/lessons/sentient-soul.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [What draws us in, and what keeps us separate?](../../../docs/theosophy/lessons/soul-affinities.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Spiritual transformation](../../../docs/theosophy/lessons/spiritual-transformation.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Ordered thinking and educated willing](../../../docs/theosophy/lessons/thinking-and-willing.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Thought-forms and the aura](../../../docs/theosophy/lessons/thought-forms-and-aura.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [One experience, three questions](../../../docs/theosophy/lessons/three-worlds.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Understanding and spiritual knowledge](../../../docs/theosophy/lessons/understanding-and-knowledge.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Bringing the whole picture together](../../../docs/theosophy/lessons/whole-picture.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [Body, soul and spirit](../../../docs/theosophy/lessons/body-soul-spirit.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [The consciousness-soul](../../../docs/theosophy/lessons/consciousness-soul.html) | Current main-explanation and question review | Retained at stated scope |
+| [What depends on a bodily instrument?](../../../docs/theosophy/lessons/death-and-release.html) | Current main-explanation and question review | Retained at stated scope |
+| [Freedom, individuality and initiation](../../../docs/theosophy/lessons/freedom-and-initiation.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [The human I](../../../docs/theosophy/lessons/human-i.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Actions, consequences and karma](../../../docs/theosophy/lessons/karma-and-action.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Life and the etheric body](../../../docs/theosophy/lessons/life-and-etheric-body.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Life between lives](../../../docs/theosophy/lessons/life-between-lives.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Living archetypes](../../../docs/theosophy/lessons/living-archetypes.html) | Current main-explanation and question review | Retained at stated scope |
+| [Memory, learning and individuality](../../../docs/theosophy/lessons/memory-and-individuality.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [The intellectual or mind soul](../../../docs/theosophy/lessons/mind-soul.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Nature and spiritual beings](../../../docs/theosophy/lessons/nature-and-spiritual-beings.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [The physical body](../../../docs/theosophy/lessons/physical-body.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Receptivity and equanimity](../../../docs/theosophy/lessons/receptivity-and-equanimity.html) | Current main-explanation and question review | Retained at stated scope |
+| [Reincarnation and inherited life](../../../docs/theosophy/lessons/reincarnation.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Sentience and the astral body](../../../docs/theosophy/lessons/sentience-and-astral-body.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [The sentient soul](../../../docs/theosophy/lessons/sentient-soul.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [What draws us in, and what keeps us separate?](../../../docs/theosophy/lessons/soul-affinities.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Spiritual transformation](../../../docs/theosophy/lessons/spiritual-transformation.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Ordered thinking and educated willing](../../../docs/theosophy/lessons/thinking-and-willing.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Thought-forms and the aura](../../../docs/theosophy/lessons/thought-forms-and-aura.html) | Current main-explanation and question review | Retained at stated scope |
+| [One experience, three questions](../../../docs/theosophy/lessons/three-worlds.html) | Current main-explanation and question review | Retained at stated scope |
+| [Understanding and spiritual knowledge](../../../docs/theosophy/lessons/understanding-and-knowledge.html) | Current main-explanation and question review | Retained at stated scope |
+| [Bringing the whole picture together](../../../docs/theosophy/lessons/whole-picture.html) | Current main-explanation and question review | Revised applied check; see course report |
 
 ## learn/esoteric-social
 
