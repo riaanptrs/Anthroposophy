@@ -1,0 +1,548 @@
+{
+  "status": "passed",
+  "lessonCases": 88,
+  "units": 11,
+  "viewports": [
+    320,
+    1280
+  ],
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "javascript": [
+    false,
+    true
+  ],
+  "progression": "All eleven main explanations visible and first/last course positions verified.",
+  "results": [
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/01.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/02.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/03.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/04.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/05.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/06.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/07.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/08.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/09.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/10.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "temperaments/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/01.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/02.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/03.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/04.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/05.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/06.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/07.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/08.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/09.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/temperaments/lessons/10.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    }
+  ]
+}

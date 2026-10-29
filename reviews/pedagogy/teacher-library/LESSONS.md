@@ -538,17 +538,17 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [Meet the person before the type](../../../docs/temperaments/lessons/00.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Two streams and their meeting](../../../docs/temperaments/lessons/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Four members, four tendencies](../../../docs/temperaments/lessons/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Choleric: purpose meeting resistance](../../../docs/temperaments/lessons/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Sanguine: interest that moves quickly](../../../docs/temperaments/lessons/04.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Phlegmatic: finding an invitation to participate](../../../docs/temperaments/lessons/05.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Melancholic: sensitivity and compassionate attention](../../../docs/temperaments/lessons/06.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Mixtures, appearance and the limits of a label](../../../docs/temperaments/lessons/07.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Education: work with what is already present](../../../docs/temperaments/lessons/08.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Self-education through an indirect route](../../../docs/temperaments/lessons/09.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Your synthesis: a person, a pattern, a response](../../../docs/temperaments/lessons/10.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [Meet the person before the type](../../../docs/temperaments/lessons/00.html) | Current book-course main explanation/checks read; activity alignment reviewed; [focused review](four-temperaments/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Two streams and their meeting](../../../docs/temperaments/lessons/01.html) | Current book-course main explanation/checks read; activity alignment reviewed; [focused review](four-temperaments/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Four members, four tendencies](../../../docs/temperaments/lessons/02.html) | Current book-course main explanation/checks read; activity alignment reviewed; [focused review](four-temperaments/REVIEW.md) | Second check revised bilingually; explanation retained |
+| [Choleric: purpose meeting resistance](../../../docs/temperaments/lessons/03.html) | Current book-course main explanation/checks read; activity alignment reviewed; [focused review](four-temperaments/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Sanguine: interest that moves quickly](../../../docs/temperaments/lessons/04.html) | Current book-course main explanation/checks read; activity alignment reviewed; [focused review](four-temperaments/REVIEW.md) | Second check revised bilingually; explanation retained |
+| [Phlegmatic: finding an invitation to participate](../../../docs/temperaments/lessons/05.html) | Current book-course main explanation/checks read; activity alignment reviewed; [focused review](four-temperaments/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Melancholic: sensitivity and compassionate attention](../../../docs/temperaments/lessons/06.html) | Current book-course main explanation/checks read; activity alignment reviewed; [focused review](four-temperaments/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Mixtures, appearance and the limits of a label](../../../docs/temperaments/lessons/07.html) | Current book-course main explanation/checks read; activity alignment reviewed; [focused review](four-temperaments/REVIEW.md) | Second check revised bilingually; explanation retained |
+| [Education: work with what is already present](../../../docs/temperaments/lessons/08.html) | Current book-course main explanation/checks read; activity alignment reviewed; [focused review](four-temperaments/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Self-education through an indirect route](../../../docs/temperaments/lessons/09.html) | Current book-course main explanation/checks read; activity alignment reviewed; [focused review](four-temperaments/REVIEW.md) | Second check revised bilingually; explanation retained |
+| [Your synthesis: a person, a pattern, a response](../../../docs/temperaments/lessons/10.html) | Current book-course main explanation/checks read; activity alignment reviewed; [focused review](four-temperaments/REVIEW.md) | Existing main teaching/checks retained after close review |
 
 ## toward-threefold-society
 

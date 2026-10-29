@@ -116,7 +116,7 @@
       "course": "temperaments",
       "units": 11,
       "earlierIndividualAudits": 11,
-      "revisedAssessments": 0
+      "revisedAssessments": 4
     },
     {
       "course": "toward-threefold-society",
@@ -179,7 +179,7 @@
       "revisedAssessments": 0
     }
   ],
-  "revisedAssessments": 170,
+  "revisedAssessments": 174,
   "records": [
     {
       "course": "according-to-luke",
@@ -27487,6 +27487,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "four-temperaments/REVIEW.md",
+        "scope": "All eleven English book-course main explanations and primary checks read, plus retained activities for alignment; four second checks revised bilingually; twelve-lesson introductory path and original lecture not freshly audited here."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -27564,6 +27568,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "four-temperaments/REVIEW.md",
+        "scope": "All eleven English book-course main explanations and primary checks read, plus retained activities for alignment; four second checks revised bilingually; twelve-lesson introductory path and original lecture not freshly audited here."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -27601,7 +27609,7 @@
       ],
       "questionEvidence": [
         "What distinguishes the physical, etheric , astral and I in this framework?",
-        "What would be lost if etheric were explained simply as “being comfortable”?",
+        "A teacher applies the 1909 I/choleric chart to every child and treats one member as the only one present. What must be corrected before using the chart to explain Steiner’s account?",
         "A learner reads the sanguine row and says: “ Astral predominance means there is no I. Any deliberate promise must therefore change this person into a choleric.” Which response follows the map?"
       ],
       "priorIndividualAudit": {
@@ -27640,7 +27648,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "four-temperaments/REVIEW.md",
+        "scope": "All eleven English book-course main explanations and primary checks read, plus retained activities for alignment; four second checks revised bilingually; twelve-lesson introductory path and original lecture not freshly audited here."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -27649,7 +27661,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "88e887490fd39347ac4b0c52d210a179711ff34e97d3036d8ff0805140bc4d0a"
+      "sha256": "2018ec6e8e48c2cbfee13dba959754134b279b3fa80eb2e7e85e60e47adb072c"
     },
     {
       "course": "temperaments",
@@ -27717,6 +27729,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "four-temperaments/REVIEW.md",
+        "scope": "All eleven English book-course main explanations and primary checks read, plus retained activities for alignment; four second checks revised bilingually; twelve-lesson introductory path and original lecture not freshly audited here."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -27754,7 +27770,7 @@
       ],
       "questionEvidence": [
         "Why are starting with enthusiasm and following through different abilities?",
-        "Why can genuine enthusiasm coexist with unfinished work?"
+        "A learner eagerly starts a drawing but repeatedly leaves it for new materials. A small completion point helps one day but not the next. How would you support follow-through without deciding that the enthusiasm was false or the type is fixed?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -27792,7 +27808,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "four-temperaments/REVIEW.md",
+        "scope": "All eleven English book-course main explanations and primary checks read, plus retained activities for alignment; four second checks revised bilingually; twelve-lesson introductory path and original lecture not freshly audited here."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -27801,7 +27821,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "2fa0d1c35fcac5c844c860c12266870f572d61f26470c95ba567aa622b604520"
+      "sha256": "88ddf6a4327958e723ede19232705a38532b59b6e0c5bb6835e59c4759142f0c"
     },
     {
       "course": "temperaments",
@@ -27869,6 +27889,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "four-temperaments/REVIEW.md",
+        "scope": "All eleven English book-course main explanations and primary checks read, plus retained activities for alignment; four second checks revised bilingually; twelve-lesson introductory path and original lecture not freshly audited here."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -27946,6 +27970,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "four-temperaments/REVIEW.md",
+        "scope": "All eleven English book-course main explanations and primary checks read, plus retained activities for alignment; four second checks revised bilingually; twelve-lesson introductory path and original lecture not freshly audited here."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -27981,7 +28009,7 @@
       ],
       "questionEvidence": [
         "What is the difference between observing a movement and interpreting it as temperament?",
-        "What is missing between a visible feature and an asserted temperament?"
+        "You observe slow walking and assign a phlegmatic temperament. Later the person explains that a temporary injury changed their pace. What should happen to the description and inference?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -28019,7 +28047,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "four-temperaments/REVIEW.md",
+        "scope": "All eleven English book-course main explanations and primary checks read, plus retained activities for alignment; four second checks revised bilingually; twelve-lesson introductory path and original lecture not freshly audited here."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -28028,7 +28060,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "6ec5342c8f0a7fd96c355c017ba54284f7dd083879412adfca1f75cf704cf5d7"
+      "sha256": "c35f865caa7a338ce23320a0c3db13fc7cbda48e2fca3b6c6d2eafd72695ed47"
     },
     {
       "course": "temperaments",
@@ -28094,6 +28126,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "four-temperaments/REVIEW.md",
+        "scope": "All eleven English book-course main explanations and primary checks read, plus retained activities for alignment; four second checks revised bilingually; twelve-lesson introductory path and original lecture not freshly audited here."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -28132,7 +28168,7 @@
       "questionEvidence": [
         "At the end, compare a similar event and an exception. Did the change help, and what else may explain the result? Steiner's indirect self-education works with existing tendencies, but the historical prescriptions below are not identical to these modest voluntary practices. No change is also useful information.",
         "What role does reason have in an indirect practice?",
-        "Does an indirect route mean that reasoning has no role?"
+        "Repeating ‘never interrupt’ has not helped. Before the next discussion, you arrange to hear two suggestions and then summarize them before proposing a plan. What work is reason doing, and how would you review the result?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -28170,7 +28206,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "four-temperaments/REVIEW.md",
+        "scope": "All eleven English book-course main explanations and primary checks read, plus retained activities for alignment; four second checks revised bilingually; twelve-lesson introductory path and original lecture not freshly audited here."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -28179,7 +28219,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "1707d9d4c289cd1e8869d1de2caeed19233d73765cb9969678d4d7690fd4d924"
+      "sha256": "a185de43e72b75ad47c99218ae0015a6ecead40378bbf27515fbf6e7b86afc7f"
     },
     {
       "course": "temperaments",
@@ -28246,6 +28286,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "four-temperaments/REVIEW.md",
+        "scope": "All eleven English book-course main explanations and primary checks read, plus retained activities for alignment; four second checks revised bilingually; twelve-lesson introductory path and original lecture not freshly audited here."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
