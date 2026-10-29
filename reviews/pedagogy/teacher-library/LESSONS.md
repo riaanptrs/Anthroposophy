@@ -457,28 +457,28 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [Two questions to carry through the book](../../../docs/philosophy-of-freedom/lessons/00.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [What makes you say yes?](../../../docs/philosophy-of-freedom/lessons/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Why is seeing not always understanding?](../../../docs/philosophy-of-freedom/lessons/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Thinking, then noticing how you thought](../../../docs/philosophy-of-freedom/lessons/04.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [What you see and what you remember](../../../docs/philosophy-of-freedom/lessons/05.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [How a bud and a flower belong together](../../../docs/philosophy-of-freedom/lessons/07.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Recognizing your own bicycle](../../../docs/philosophy-of-freedom/lessons/09.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Not knowing yet](../../../docs/philosophy-of-freedom/lessons/10.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Feeling moved, understanding, acting](../../../docs/philosophy-of-freedom/lessons/11.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [What actually moves a helpful action?](../../../docs/philosophy-of-freedom/lessons/12.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [A rule you can make your own](../../../docs/philosophy-of-freedom/lessons/14.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [An aim is present before its result](../../../docs/philosophy-of-freedom/lessons/15.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [From an ethical idea to a workable action](../../../docs/philosophy-of-freedom/lessons/16.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Why pleasure is not the whole question](../../../docs/philosophy-of-freedom/lessons/18.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Meet the person beyond the category](../../../docs/philosophy-of-freedom/lessons/20.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Bring knowing and acting together](../../../docs/philosophy-of-freedom/lessons/21.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Seeing a sequence, explaining a connection](../../../docs/philosophy-of-freedom/lessons/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Does the explanation undermine itself?](../../../docs/philosophy-of-freedom/lessons/06.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Different drawings, one idea](../../../docs/philosophy-of-freedom/lessons/08.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Different solutions, shared freedom](../../../docs/philosophy-of-freedom/lessons/13.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Improve the plan without confusing the questions](../../../docs/philosophy-of-freedom/lessons/17.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Partial fulfillment is still particular](../../../docs/philosophy-of-freedom/lessons/19.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [Two questions to carry through the book](../../../docs/philosophy-of-freedom/lessons/00.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [What makes you say yes?](../../../docs/philosophy-of-freedom/lessons/01.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Existing checks retained after close review |
+| [Why is seeing not always understanding?](../../../docs/philosophy-of-freedom/lessons/02.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [Thinking, then noticing how you thought](../../../docs/philosophy-of-freedom/lessons/04.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Existing checks retained after close review |
+| [What you see and what you remember](../../../docs/philosophy-of-freedom/lessons/05.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [How a bud and a flower belong together](../../../docs/philosophy-of-freedom/lessons/07.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [Recognizing your own bicycle](../../../docs/philosophy-of-freedom/lessons/09.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [Not knowing yet](../../../docs/philosophy-of-freedom/lessons/10.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [Feeling moved, understanding, acting](../../../docs/philosophy-of-freedom/lessons/11.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [What actually moves a helpful action?](../../../docs/philosophy-of-freedom/lessons/12.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [A rule you can make your own](../../../docs/philosophy-of-freedom/lessons/14.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [An aim is present before its result](../../../docs/philosophy-of-freedom/lessons/15.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Existing checks retained after close review |
+| [From an ethical idea to a workable action](../../../docs/philosophy-of-freedom/lessons/16.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [Why pleasure is not the whole question](../../../docs/philosophy-of-freedom/lessons/18.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Existing checks retained after close review |
+| [Meet the person beyond the category](../../../docs/philosophy-of-freedom/lessons/20.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [Bring knowing and acting together](../../../docs/philosophy-of-freedom/lessons/21.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [Seeing a sequence, explaining a connection](../../../docs/philosophy-of-freedom/lessons/03.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [Does the explanation undermine itself?](../../../docs/philosophy-of-freedom/lessons/06.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Existing checks retained after close review |
+| [Different drawings, one idea](../../../docs/philosophy-of-freedom/lessons/08.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [Different solutions, shared freedom](../../../docs/philosophy-of-freedom/lessons/13.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
+| [Improve the plan without confusing the questions](../../../docs/philosophy-of-freedom/lessons/17.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Existing checks retained after close review |
+| [Partial fulfillment is still particular](../../../docs/philosophy-of-freedom/lessons/19.html) | Current main explanation and all three checks read; [focused review](freedom-main/REVIEW.md) | Third check revised in both languages; explanation retained |
 | [Why knowledge belongs in a book about freedom](../../../docs/philosophy-of-freedom/studies/01.html) | Current goal/activity/assessment screening | Retained at stated scope |
 | [Use the two editions without mixing their voices](../../../docs/philosophy-of-freedom/studies/02.html) | Current goal/activity/assessment screening | Retained at stated scope |
 | [Knowing what you want is not yet knowing why](../../../docs/philosophy-of-freedom/studies/03.html) | Current goal/activity/assessment screening | Retained at stated scope |

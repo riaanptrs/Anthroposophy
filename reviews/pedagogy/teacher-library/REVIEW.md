@@ -6,6 +6,8 @@ The library generally has a coherent educational purpose. Its strongest lessons 
 
 ## Course continuation
 
+The [Philosophy of Freedom main-course review](freedom-main/REVIEW.md) reads all 22 primary explanations and their three checks (sixteen core stages and six optional practices). Sixteen third checks now require transfer to a new case; six are retained. Existing explanations and source material remain. The combined assessment revision count is **108 units**. The thirty-six detailed studies still await their focused continuation.
+
 The subsequent [Theosophy reading-companion revision](theosophy-reading/REVIEW.md) reviews all 28 current main readings and their questions in book order. It revises one check per reading, develops six explanations and adds three comparison tables. The combined assessment revision count is now **92 units**.
 
 The subsequent [Theosophy revision](theosophy/REVIEW.md) reads all 24 current primary explanations and both checks, revises seventeen second questions, adds three reading maps, and clarifies the I. Seven strong existing changed-case checks are retained. That continuation brought the assessment revision count to **64 units**.
@@ -40,7 +42,7 @@ The assessment changes affect **19 authored units**, in English and Portuguese. 
 | Theosophy concept course | 24 | Current 24-lesson main-reading review completed: seventeen applied checks revised, three reading maps added, and the I clarified. Seven strong changed-case checks deliberately retained. See the Theosophy continuation report. |
 | Theosophy reading companion | 28 | Current 28-reading primary-text review completed: one applied check per reading revised, six explanations developed and three comparison tables added. Its non-numeric URL order is preserved. Detailed source verification is separate. |
 | Practical Thinking | 13 | Revise sequencing and one applied check in every unit. Twelve core lessons now lead from attention and observation to alternatives and judgment; prediction remains optional. |
-| Philosophy of Freedom, main path and detailed studies | 58 | Retain the distinction between sixteen core stages, six legacy practices and thirty-six detailed studies. Knowing must precede the ethical argument. Motive, driving force, imagination and technique are separately explained rather than collapsed into “do what feels right.” |
+| Philosophy of Freedom, main path and detailed studies | 58 | Main-course review completed for sixteen core stages and six optional practices: sixteen third checks revised, six retained. The thirty-six detailed studies retain their earlier screening scope. Knowing precedes the ethical argument; motive, driving force, imagination and technique remain distinct. |
 | Higher Worlds | 19 | Retain. Short explanations distinguish the path's stages, different lists and the Guardians. Ordinary examples clarify rather than establish supersensible perception. The historical racial hierarchy remains a subject for criticism, not a classification of learners. |
 | Meditation | 9 | Retain the guided progression and companion role. Understanding a verse, sustaining attention and reviewing practice are different achievements; completing a session does not certify an attainment. |
 | Start Now | 38 | Retain the anthology's distinct practices and contexts; revise four central checks. Purpose, preparation, steps and the source reader need to remain together. Reading a later chapter does not require adding its practice. |
