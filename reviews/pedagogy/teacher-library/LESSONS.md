@@ -88,20 +88,20 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [Reading the collection: Goethe, colour and artistic renewal](../../../docs/colour/lessons/00.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Colour experience and the four image colours](../../../docs/colour/lessons/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Lustre and image: colour’s inner activity](../../../docs/colour/lessons/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Colour in matter and painting out of colour](../../../docs/colour/lessons/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Colour, living form and a shared spiritual culture](../../../docs/colour/lessons/04.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Moral colour experience and the windows of tone](../../../docs/colour/lessons/05.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Thought–light and will–darkness: past and future](../../../docs/colour/lessons/06.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Light, weight, love and a moral world becoming](../../../docs/colour/lessons/07.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Light, darkness and the living observer](../../../docs/colour/lessons/08.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Colour perspective and cosmic memory](../../../docs/colour/lessons/09.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Titian: beauty between wisdom and virtue](../../../docs/colour/lessons/10.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Weightless colour, consciousness and the renewal of painting](../../../docs/colour/lessons/11.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Hierarchies, elemental reflections and the rainbow](../../../docs/colour/lessons/12.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Reconstruct, compare and create: a colour synthesis](../../../docs/colour/lessons/13.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [Reading the collection: Goethe, colour and artistic renewal](../../../docs/colour/lessons/00.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Checks retained; final-synthesis activity pointer corrected |
+| [Colour experience and the four image colours](../../../docs/colour/lessons/01.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Second check revised bilingually |
+| [Lustre and image: colour’s inner activity](../../../docs/colour/lessons/02.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Second check revised bilingually |
+| [Colour in matter and painting out of colour](../../../docs/colour/lessons/03.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Colour, living form and a shared spiritual culture](../../../docs/colour/lessons/04.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Moral colour experience and the windows of tone](../../../docs/colour/lessons/05.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Second check revised bilingually; tone/advocate explanation completed |
+| [Thought–light and will–darkness: past and future](../../../docs/colour/lessons/06.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Second check revised bilingually |
+| [Light, weight, love and a moral world becoming](../../../docs/colour/lessons/07.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Light, darkness and the living observer](../../../docs/colour/lessons/08.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Colour perspective and cosmic memory](../../../docs/colour/lessons/09.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Second check revised bilingually |
+| [Titian: beauty between wisdom and virtue](../../../docs/colour/lessons/10.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Second check revised bilingually |
+| [Weightless colour, consciousness and the renewal of painting](../../../docs/colour/lessons/11.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Hierarchies, elemental reflections and the rainbow](../../../docs/colour/lessons/12.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Reconstruct, compare and create: a colour synthesis](../../../docs/colour/lessons/13.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](colour/REVIEW.md) | Existing main teaching/checks retained after close review |
 
 ## encountering-the-self
 

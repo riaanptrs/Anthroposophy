@@ -32,7 +32,7 @@
       "course": "colour",
       "units": 14,
       "earlierIndividualAudits": 14,
-      "revisedAssessments": 0
+      "revisedAssessments": 6
     },
     {
       "course": "encountering-the-self",
@@ -179,7 +179,7 @@
       "revisedAssessments": 0
     }
   ],
-  "revisedAssessments": 164,
+  "revisedAssessments": 170,
   "records": [
     {
       "course": "according-to-luke",
@@ -4986,6 +4986,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -4994,7 +4998,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "6313f817be4a5a5136f8b4ea1defd7d299e7f40ac3b75bc8f0c5ad6dbbac1ae8"
+      "sha256": "8ef0d1d028bdbf463123131df0e36ed2a816ee5c94fbb58212af9326d36dd471"
     },
     {
       "course": "colour",
@@ -5011,7 +5015,7 @@
       ],
       "questionEvidence": [
         "Why does Steiner call green an image of life rather than life itself?",
-        "Why is painted green an image rather than a living plant?"
+        "A learner calls painted green a living plant and uses peach-blossom to judge another person’s health or worth. How would you correct both uses of the image-colour account?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -5049,7 +5053,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5058,7 +5066,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "fedb2c212836c9950d7348dc9ca11a72115d4c11d951fd73d519d05ae8d05d4c"
+      "sha256": "aada708945bda38a16de6d615e8f908813018bd15dcb7124202fc33245884153"
     },
     {
       "course": "colour",
@@ -5075,7 +5083,7 @@
       ],
       "questionEvidence": [
         "How do yellow, blue and red differ in distribution?",
-        "Is lustre the same as a glossy paint finish?"
+        "Two circular yellow studies use the same hue and outline, but one is strongest at the edge and the other at the centre. What changed, and how would you compare this with lustre without confusing it with paint finish?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -5113,7 +5121,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5122,7 +5134,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "567e37840562e4692be7f344b7e47bb6cbfceb87df5c713af462eef37a75f9e5"
+      "sha256": "6b90004ced1fbaa3ba70df088c4f0bd6699cad7a27ba567c5e1aa927f205faae"
     },
     {
       "course": "colour",
@@ -5178,6 +5190,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5242,6 +5258,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5263,11 +5283,11 @@
       "explanationEvidence": [
         "One learner finds a blue study quiet; another finds it lonely. The painter changes the neighbouring colour and both descriptions shift.",
         "The New Year address pairs reverence with energetic self-development: the soul should be receptive without losing itself. Steiner expects future art to unite sense perception with moral-spiritual experience. Immersed vermilion confronts the soul with divine wrath and teaches prayer; a scattering red form makes room for mercy, with magenta suggested at the centre. Orange awakens strength and desire for knowledge, yellow evokes the beginning of earthly incarnation, green strengthens the current incarnation while stimulating egoism, and blue leads toward devotion and self-overcoming.",
-        "Feeling can guide artistic choices while remaining open to revision. A report of feeling and a judgment of someone’s moral character answer different questions."
+        "Steiner also treats tones as windows into spiritual experience: the tonic threatens dissolution, while later intervals bring comfort, companionship, transformed memories and enrichment. The advocate story moves through three explanatory layers: apparent wounded ambition, newly disclosed financial losses and a promised fee, then Steiner’s added account of spiritual forces preparing another incarnation. New facts warrant revising the first explanation; they do not verify the spiritual layer. Tone windows describe ascent, while the event illustrates descent in his account. A personal colour response remains distinct from a judgment of moral character."
       ],
       "questionEvidence": [
         "What distinguishes red from orange in Steiner’s sequence?",
-        "Does a viewer’s response establish moral character?"
+        "New financial facts change the explanation of the advocate’s fainting. Do they also verify Steiner’s reincarnation interpretation, and how does the story relate to tone windows?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -5305,7 +5325,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5314,7 +5338,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "3a8f218fea15d7c9f2b6d5a8f8f495abbb663caa76f8ba5d0bbf8868eb173867"
+      "sha256": "044d30d258441614d7deeebb9b1033934131d0356659d17695bd985b438a2af5"
     },
     {
       "course": "colour",
@@ -5331,7 +5355,7 @@
       ],
       "questionEvidence": [
         "What does Steiner qualify when he says thought becomes luminous?",
-        "How do time and standpoint differ in this comparison?"
+        "A reader labels an intended sketch revision ‘physically dark’ and treats moving from inside to outside as the same relation as past to future. How would you separate the comparisons?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -5369,7 +5393,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5378,7 +5406,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "dd36c9e7458ebb6e038a2c6b8e1021a3d54c5aae4207b814a01e32617504878a"
+      "sha256": "8f34e4c1b567eebe2050a4608579b69f493ea130f052b70191119d8e82461625"
     },
     {
       "course": "colour",
@@ -5434,6 +5462,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5500,6 +5532,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5525,7 +5561,7 @@
       ],
       "questionEvidence": [
         "Why keep size and position constant in the colour comparison?",
-        "Does felt depth establish cosmic memory?"
+        "After exchanging colours in equal fixed patches, one viewer sees altered depth and another sees no clear change. What should the comparison record, and what cannot be concluded about cosmic memory?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -5563,7 +5599,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5572,7 +5612,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "5f63dcc416c57e9563c441df42f1656504c273feffb07619963430c8cfa7fca9"
+      "sha256": "ea433c2462b9242d5e0b7d5aeee0a933949044de2751ce719c043d027cfabbc1"
     },
     {
       "course": "colour",
@@ -5589,7 +5629,7 @@
       ],
       "questionEvidence": [
         "What does removing the middle colour echo help reveal?",
-        "How does the middle area mediate rather than merely separate?"
+        "An abstract study has three bands, but its middle repeats nothing from below and does not open toward the upper light. Is central position enough for the mediation discussed here? Explain a revision and its limits."
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -5627,7 +5667,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5636,7 +5680,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "f529e7d707a2e1761135f39ce9a47170e350f5d9ea08e893e3613225284e48d9"
+      "sha256": "d7b3616116969541c7fd2d1cae7e65a512193934cc84d3e3475e71fb1edaef3d"
     },
     {
       "course": "colour",
@@ -5692,6 +5736,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5756,6 +5804,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -5820,6 +5872,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "colour/REVIEW.md",
+        "scope": "All fourteen English primary explanations and check pairs read, plus retained activities for alignment; six second checks revised bilingually, tone-window/advocate explanation expanded and final-synthesis activity pointer corrected; full original source book not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
