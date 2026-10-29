@@ -46,14 +46,14 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [Reading a myth](../../../docs/ancient-myths/lessons/00.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Isis, Osiris and the Greek gods](../../../docs/ancient-myths/lessons/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Images, language and changing consciousness](../../../docs/ancient-myths/lessons/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The veil of Isis and the search for knowledge](../../../docs/ancient-myths/lessons/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Individuality, heredity and freedom](../../../docs/ancient-myths/lessons/04.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Humanity’s development and lifelong learning](../../../docs/ancient-myths/lessons/05.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [From head knowledge to heartfelt understanding](../../../docs/ancient-myths/lessons/06.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Myth in education: interpretation and a final project](../../../docs/ancient-myths/lessons/07.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [Reading a myth](../../../docs/ancient-myths/lessons/00.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](ancient-myths/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Isis, Osiris and the Greek gods](../../../docs/ancient-myths/lessons/01.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](ancient-myths/REVIEW.md) | Second check revised bilingually; explanation retained |
+| [Images, language and changing consciousness](../../../docs/ancient-myths/lessons/02.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](ancient-myths/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [The veil of Isis and the search for knowledge](../../../docs/ancient-myths/lessons/03.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](ancient-myths/REVIEW.md) | Second check revised bilingually; explanation retained |
+| [Individuality, heredity and freedom](../../../docs/ancient-myths/lessons/04.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](ancient-myths/REVIEW.md) | Second check revised bilingually; explanation retained |
+| [Humanity’s development and lifelong learning](../../../docs/ancient-myths/lessons/05.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](ancient-myths/REVIEW.md) | Second check revised bilingually; explanation retained |
+| [From head knowledge to heartfelt understanding](../../../docs/ancient-myths/lessons/06.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](ancient-myths/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Myth in education: interpretation and a final project](../../../docs/ancient-myths/lessons/07.html) | Current main explanation/checks read; activity alignment reviewed; [focused review](ancient-myths/REVIEW.md) | Existing main teaching/checks retained after close review |
 
 ## biodynamics
 

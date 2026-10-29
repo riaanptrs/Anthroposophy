@@ -20,7 +20,7 @@
       "course": "ancient-myths",
       "units": 8,
       "earlierIndividualAudits": 8,
-      "revisedAssessments": 0
+      "revisedAssessments": 4
     },
     {
       "course": "biodynamics",
@@ -179,7 +179,7 @@
       "revisedAssessments": 0
     }
   ],
-  "revisedAssessments": 160,
+  "revisedAssessments": 164,
   "records": [
     {
       "course": "according-to-luke",
@@ -2450,6 +2450,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "ancient-myths/REVIEW.md",
+        "scope": "All eight English main explanations and check pairs read, plus retained activities for alignment; four second checks revised bilingually; original lecture book and retained detailed reading not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -2478,8 +2482,7 @@
       "questionEvidence": [
         "Place 'what continues?' beside the Osiris story and 'what succeeds what?' beside the Greek generations. The two questions reveal different structures that a vague idea of progress conceals. Steiner adds an interpretation of changing consciousness. Recognizing the narrative structures helps you follow him without assigning one fixed psychology to all members of an ancient culture.",
         "What is lost in the summary “both stories show progress”?",
-        "What differs between search and succession?",
-        "Place 'what continues?' beside the Osiris story and 'what succeeds what?' beside the Greek generations. The two questions reveal different structures that a vague idea of progress conceals. Steiner adds an interpretation of changing consciousness. Recognizing the narrative structures helps you follow him without assigning one fixed psychology to all members of an ancient culture."
+        "A comparison says both the Osiris search and the Greek divine generations simply mean ‘good defeats evil,’ then assigns each culture one fixed mentality. What should be restored and qualified?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -2510,7 +2513,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "ancient-myths/REVIEW.md",
+        "scope": "All eight English main explanations and check pairs read, plus retained activities for alignment; four second checks revised bilingually; original lecture book and retained detailed reading not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -2519,7 +2526,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "dc5cc1f4ccd89309334054d33a6d38a755d01ea6cabe6e6d4b58a3009d39c225"
+      "sha256": "6daa6f82eca92ad058f5c2827813c8d40bcc59625b5545ac6cae988693960926"
     },
     {
       "course": "ancient-myths",
@@ -2569,6 +2576,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "ancient-myths/REVIEW.md",
+        "scope": "All eight English main explanations and check pairs read, plus retained activities for alignment; four second checks revised bilingually; original lecture book and retained detailed reading not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -2596,8 +2607,7 @@
       ],
       "questionEvidence": [
         "A covered object invites you to uncover it. A difficult idea invites you to develop the capacity to understand it. What changes when the veil is an image of knowledge rather than a piece of cloth?",
-        "Does a vivid image establish spiritual Imagination?",
-        "How can the veil clarify a difficulty in understanding?"
+        "Does a vivid image establish spiritual Imagination?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -2628,7 +2638,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "ancient-myths/REVIEW.md",
+        "scope": "All eight English main explanations and check pairs read, plus retained activities for alignment; four second checks revised bilingually; original lecture book and retained detailed reading not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -2637,7 +2651,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "fe286becd3663f485171d30da335c795b6dce7ef26e99bad962d6aff440aeecf"
+      "sha256": "cffa85ee194e4e594116f0430ff0ed75ded1e709ca1b4e4f6d4f059031687b06"
     },
     {
       "course": "ancient-myths",
@@ -2655,7 +2669,7 @@
       "questionEvidence": [
         "A learner says, “My family has always done this, so I have no choice.” Another says, “I can choose, so my background has no influence.” What does each statement leave out?",
         "Does an account of freedom require denying all influence?",
-        "Can influence, constraint and a considered reason coexist?"
+        "A fictional learner chooses a profession partly because of family experience but cannot afford one training route. Another observer says this proves either complete determination or complete freedom. What would a more precise account include?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -2686,7 +2700,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "ancient-myths/REVIEW.md",
+        "scope": "All eight English main explanations and check pairs read, plus retained activities for alignment; four second checks revised bilingually; original lecture book and retained detailed reading not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -2695,7 +2713,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "647deadab49681eb21a3fc2762b114bcc4a0a84b54e7ad54ea48b35ddb13a9ba"
+      "sha256": "0e7645fa04a3bedf44fd081abf10608eb97af44a810092609e102c06da08b442"
     },
     {
       "course": "ancient-myths",
@@ -2715,7 +2733,7 @@
       "questionEvidence": [
         "An older adult begins learning an unfamiliar craft. Someone calls this “becoming young again.” Is that an observation about learning, a metaphor, or a claim about humanity’s evolution?",
         "Does an adult learning a craft verify the epoch scheme?",
-        "Does renewed curiosity mean biological youth?"
+        "An older learner develops curiosity and skill in a craft. An educator calls this biological rejuvenation and proof of Steiner’s collective epoch scheme. How would you revise the explanation and learning plan?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -2746,7 +2764,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "ancient-myths/REVIEW.md",
+        "scope": "All eight English main explanations and check pairs read, plus retained activities for alignment; four second checks revised bilingually; original lecture book and retained detailed reading not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -2755,7 +2777,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "b94098a7df99e74981d8bfd936604a75a4b675c4abe6623a4d5787ca6c8b5181"
+      "sha256": "508a183126bb43efd78fc00931d8afc8a159d183e66f8d6ec5daf6ce9dabdd4a"
     },
     {
       "course": "ancient-myths",
@@ -2805,6 +2827,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "ancient-myths/REVIEW.md",
+        "scope": "All eight English main explanations and check pairs read, plus retained activities for alignment; four second checks revised bilingually; original lecture book and retained detailed reading not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -2862,6 +2888,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "ancient-myths/REVIEW.md",
+        "scope": "All eight English main explanations and check pairs read, plus retained activities for alignment; four second checks revised bilingually; original lecture book and retained detailed reading not freshly verified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
