@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "baseline": "abf1f4f9",
+  "reviewedUnits": 24,
+  "revised": [
+    "ec1-03",
+    "ec1-04",
+    "ec1-05",
+    "ec1-06",
+    "ec1-09",
+    "ec1-10",
+    "ec1-12",
+    "ec1-18",
+    "ec1-19",
+    "ec1-20",
+    "ec1-22",
+    "ec1-23"
+  ],
+  "retainedAssessments": [
+    "ec1-01",
+    "ec1-02",
+    "ec1-07",
+    "ec1-08",
+    "ec1-11",
+    "ec1-13",
+    "ec1-14",
+    "ec1-15",
+    "ec1-16",
+    "ec1-17",
+    "ec1-21",
+    "ec1-24"
+  ],
+  "additionalFeedbackClarified": [
+    "ec1-09 first answer"
+  ],
+  "explanationsExpanded": [
+    "ec1-12 second paragraph",
+    "ec1-19 second paragraph"
+  ],
+  "pages": 48,
+  "preservation": "Only designated primary checks, two primary explanation paragraphs and one first-answer clarification change. All retained detailed teaching, activities, source material, diagrams, navigation and other page content are byte-identical. Other courses in the shared authoring file are unchanged."
+}

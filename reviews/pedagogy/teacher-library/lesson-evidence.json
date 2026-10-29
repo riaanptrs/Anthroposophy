@@ -62,7 +62,7 @@
       "course": "learn/esoteric-christianity",
       "units": 24,
       "earlierIndividualAudits": 24,
-      "revisedAssessments": 0
+      "revisedAssessments": 12
     },
     {
       "course": "foundations",
@@ -179,7 +179,7 @@
       "revisedAssessments": 0
     }
   ],
-  "revisedAssessments": 148,
+  "revisedAssessments": 160,
   "records": [
     {
       "course": "according-to-luke",
@@ -11772,6 +11772,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11824,6 +11828,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11849,7 +11857,7 @@
       ],
       "questionEvidence": [
         "Why use four Gospel perspectives?",
-        "Luke includes an active deed. Does that defeat the compassion emphasis?"
+        "A reader finds an active deed in Luke and concludes that the compassion emphasis is false. How would you revise the comparison of Gospel perspectives?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11876,7 +11884,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11885,7 +11897,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "2df4d4847c09b7bed263bc9ab1f49e5d8f422f4647438e2cda9ca8d156bdf68b"
+      "sha256": "15cdd5ed42c62c022388505f2a6106676d539c53f7a1610ae7287c6b08fe522f"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -11902,7 +11914,7 @@
       ],
       "questionEvidence": [
         "Which account contains the Magi and the flight to Egypt?",
-        "How should a detail absent from Luke be described?"
+        "A combined Christmas picture places the Magi and shepherds at one scene, then a caption says Luke denies the flight to Egypt. What should the reader separate and correct?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11929,7 +11941,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11938,7 +11954,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "8c5db5582e9f29c3ace1f5136e2158649df73d5077d514850cdf1dd9fa52c758"
+      "sha256": "1f2a2898cff3dabf41b81e9b352baa412599d294d5d9a06891075e28341abdab"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -11955,7 +11971,7 @@
       ],
       "questionEvidence": [
         "Why is obeying “be free” insufficient in the lecturer's thought experiment?",
-        "Someone freely follows a useful rule. Is that impossible here?"
+        "Two people follow a useful group rule: one fears disapproval and the other understands how it protects a guest. What differs, and what does the outward action leave unknown?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -11982,7 +11998,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -11991,7 +12011,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "ec75707ac35cf44c717d041e078baac059c4e836799b0233d8cf6aee2cd51c9c"
+      "sha256": "8394b4533d99173a96bf814053e633183b23861ce74c730066433f7bca1f1aa2"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -12008,7 +12028,7 @@
       ],
       "questionEvidence": [
         "Which is the correct distinction?",
-        "Where does ancient Persia belong in the map?"
+        "A timeline places Old Moon, Atlantis and ancient Persia as three equal periods inside modern astronomy. How would you redraw and label the map?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -12035,7 +12055,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12044,7 +12068,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "9b6a6039def3a4bdc4bdb5a28951e8c3f259fbe9ee3be1f9fd731bf29849d855"
+      "sha256": "e6e2b203d982c3dfb7b424849300a8f2121196b14b8daa895da59d5967d8e24e"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -12089,6 +12113,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12142,6 +12170,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12167,7 +12199,7 @@
       ],
       "questionEvidence": [
         "Does the course establish a list of fourteen incarnations?",
-        "What distinguishes Zarathustra’s preparation from Christ’s entry?"
+        "A learner says Zarathustra must be Christ because he recognizes the approaching Sun being and prepares its bearer. Which roles and limits should be restored?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -12194,7 +12226,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12203,7 +12239,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "c4051cf2a5298f2ce99e65198726d2067bd2aabbb550fd41a26d634d652fb182"
+      "sha256": "ef9805d78f31bafeafb7be6e43eef2cd6149afb7e3e155343ccb2dde650cc182"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -12220,7 +12256,7 @@
       ],
       "questionEvidence": [
         "How are the Hermes/Moses gifts presented?",
-        "Does a recurring place prove spiritual transmission?"
+        "A map uses one arrow for a journey to Egypt and another for an etheric or astral gift, then treats the shared place as proof of transmission. How would you revise it?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -12247,7 +12283,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12256,7 +12296,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "22e2c025a652d52dc27fd789f148607b522213c9bf6d93377358370cb379b69e"
+      "sha256": "8ca2f2f82528271c43475b56beb1b2fd40ea9fc55d54e783ef61de5de31a00c6"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -12301,6 +12341,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12321,12 +12365,12 @@
       ],
       "explanationEvidence": [
         "A musical tradition develops techniques across generations. A present musician receives that history but must still listen, judge and perform individually. The comparison clarifies communal preparation without proving the lecture’s account of bodily organization.",
-        "The lecturer reads that structure as preparation of an instrument. He relates the first group to physical preparation, the second to etheric development, and the third to astral development. The point is maturation across time: a capacity appearing in one person can require a long history before it serves a particular task. This is the spiritual interpretation given in the series, rather than an independently established genetic mechanism.",
+        "Matthew 1:17 groups the genealogy into three sets of fourteen: Abraham to David, David to the exile, and the exile to Christ. The lecturer interprets the first group as physical preparation, the second as etheric development and the third as astral development. These are proposed spiritual correspondences, not independently established genetic mechanisms. Identifying the textual groups first makes clear what the interpretation adds.",
         "Ancestry prepares the bodily line; Zarathustra names the individuality working through that preparation; Christ names the being for whom the bearer is prepared. Those are three explanatory roles, not three successive names for one person. A prepared instrument does not supply its own individual purpose merely through inheritance. The account therefore needs both the genealogical preparation and Zarathustra’s work, while reserving Christ’s entry for the Jordan."
       ],
       "questionEvidence": [
         "What does the genealogical structure mainly illustrate here?",
-        "Does inherited preparation remove individual responsibility?"
+        "A diagram turns Matthew’s groups of fourteen into genetic laws and says the ancestral preparation makes Zarathustra and Christ unnecessary. What should change?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -12353,7 +12397,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12362,7 +12410,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "714b41622d809efb5e5148d8295b5fe35d44d301fd35e33deb1bd662143c04f6"
+      "sha256": "c48535393077ea122f5491765e88d45b98cccc497dbc536dcc7f04de0c65f7f5"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -12407,6 +12455,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12460,6 +12512,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12515,6 +12571,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12568,6 +12628,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12621,6 +12685,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12646,7 +12714,7 @@
       ],
       "questionEvidence": [
         "Is the Temple convergence identical to the Jordan event?",
-        "What changes at the Temple in the spiritual account?"
+        "A summary says two physical children merge in the Temple and Christ enters there. How would you correct the bearer, acting individuality and later event?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -12674,7 +12742,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12683,7 +12755,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "fba0fb2bdf967ee673a73bc51b3188819968a8504eaafbdf08b3f8913e311823"
+      "sha256": "dd83e0fd8b6ecf021e717fe0581e9642b98bf3e9fe927a59252055d1041bdb24"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -12695,13 +12767,12 @@
       ],
       "explanationEvidence": [
         "A group preserves a valuable practice but offers it only at a time newcomers cannot attend. Renewal might mean creating another accessible occasion without abandoning the practice’s substance. Preserving value and widening access can be one task.",
-        "The first concerns Hebrew teachings. The unexpected wisdom in the Temple opens into deep engagement with the tradition. In the speaker’s account, Jesus encounters the difficulty that inherited words and practices no longer find sufficient understanding. The question is not whether a tradition contains value, but whether people can receive its living meaning.",
+        "The first encounter concerns Hebrew teachings: in the speaker’s account, inherited words and practices no longer find sufficient understanding, raising the question of how their living meaning can be received. The second concerns other ancient mystery traditions. The lecturer describes a ritual crisis at an altar, destructive beings and a spiritual lament, deepening Jesus’ concern about separation from spiritual life. This is an attributed account of spiritual experience, not a verified travel itinerary or a verdict on present communities.",
         "The third concerns Essene discipline. The transcript describes disappointment but offers little explanation. The supplied dossier’s targeted GA 148 reading adds the question of those outside the protected gates: a community’s purification can leave an unresolved burden for others. This expansion must retain its source. It is not a complete historical description of all Essene communities."
       ],
       "questionEvidence": [
         "What is a central question raised by the encounters?",
-        "What question does the Essene expansion raise?",
-        "Who remains outside a protected community’s benefit? The issue is access and responsibility beyond the gates."
+        "A protected group preserves a valuable practice but excludes newcomers through its schedule. What question does the Essene comparison raise, and where does the comparison stop?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -12728,7 +12799,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12737,7 +12812,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "afcf60ec108a26a7f42bf9e862fe339b5abd6ffc28a6fc67f3d2090588d1d2a4"
+      "sha256": "d0f72679460d6e86050bc931d73dfae88591a397c3cc18a64c6aed28cfd26ab1"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -12754,7 +12829,7 @@
       ],
       "questionEvidence": [
         "At the Jordan, what has preceded Christ's entry in this account?",
-        "How should Mary’s renewal be understood in this lesson?"
+        "A reader treats Mary’s renewal as proven physical rejuvenation and says relinquishment asks learners to erase their own agency. How would you correct both inferences?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -12781,7 +12856,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12790,7 +12869,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "6f75824776aa7e539975fae01822ffe0bb8f5e2cbc9ca5202120ace83d0b861e"
+      "sha256": "d428882ccbce19fb8c4ea7666910ccfdb7ea70b18aa7e2671759f5965846afc4"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -12836,6 +12915,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12861,7 +12944,7 @@
       ],
       "questionEvidence": [
         "Why recommend GA 131 next?",
-        "What should a future resurrection course begin with?"
+        "Someone says a melody on different instruments proves the resurrection body and that this course has completed GA 131. What can the analogy establish, and what study is still needed?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -12888,7 +12971,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12897,7 +12984,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "8ceab4e0cb21750c0ba16db01b571e8b1356e259a3696080c17d1bbc5f6c37e9"
+      "sha256": "4923270fcb2fff32537c9f9e6bba6933db28778ec8e4c8732142596ff5c8fed1"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -12914,7 +13001,7 @@
       ],
       "questionEvidence": [
         "What does respectful universalism require here?",
-        "Someone describes their religion differently from this synthesis. What is respectful?"
+        "A person says their tradition understands its purpose differently from this Christ-centred synthesis. How could you compare the accounts without erasing the disagreement?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -12941,7 +13028,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -12950,7 +13041,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "200677625a44b86224205838732feef8dddefd781cc5734b9dfd8a0fd86cdb11"
+      "sha256": "9e55765fa62c74c56435084e5f51cd4f640810a68329f4362fa86d214d82443e"
     },
     {
       "course": "learn/esoteric-christianity",
@@ -12996,6 +13087,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "esoteric-christianity/REVIEW.md",
+        "scope": "All 24 English primary explanations and checks read, plus retained exercises for alignment; twelve second checks revised bilingually, two explanation gaps filled and one first answer clarified; retained source transcripts and detailed readers not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,

@@ -6,6 +6,8 @@ The library generally has a coherent educational purpose. Its strongest lessons 
 
 ## Course continuation
 
+The [Esoteric Christianity I review](esoteric-christianity/REVIEW.md) reads all 24 primary explanations and checks, plus retained exercises. Twelve second checks are revised bilingually; lesson 9’s first answer is clarified, and explanation gaps in the genealogy and three-encounters lessons are filled. The combined assessment revision count is **160 distinct units**.
+
 The [According to Luke review](luke/REVIEW.md) reads all twelve current published primary lessons and assessments. Their newer EPUB-based teaching and applied checks are retained. The build now preserves that primary layer instead of regenerating older short-PDF teaching, and lesson 2’s outdated coverage sentence is corrected bilingually. The revised-assessment count remains **148 units**.
 
 The [Start Now review](start-now/REVIEW.md) reads all 38 current English lessons and their purposes, preparation, steps, examples and assessments. Twelve checks are revised bilingually; twenty-six are retained, including four earlier revisions. The combined assessment revision count is **148 distinct units**, with sixteen in Start Now across both passes.
@@ -57,7 +59,7 @@ The assessment changes affect **19 authored units**, in English and Portuguese. 
 | Meditation | 9 | Focused nine-session review completed: four applied checks revised, five retained, one booklet-source paragraph clarified. Retain the guided progression and companion role. Understanding a verse, sustaining attention and reviewing practice are different achievements; completing a session does not certify an attainment. |
 | Start Now | 38 | Focused 38-lesson review completed: twelve additional checks revised and twenty-six retained, including four earlier revised checks. Retain the anthology’s distinct practices and contexts. Purpose, preparation, steps and the source reader need to remain together. Reading a later chapter does not require adding its practice. |
 | According to Luke | 12 | Current twelve-lesson primary review completed; all current assessments retained. Newer published primary teaching is now preserved in builds, and one obsolete coverage sentence corrected. Gospel narrative, Steiner's interpretation and editorial commentary are distinguished. The childhood transfer and Jordan Baptism must retain different subjects and dates. |
-| Esoteric Christianity I | 24 | Retain. The preparatory sequence and different figures are taught before synthesis. Everyday analogies must continue to clarify a relation without replacing the source narrative. |
+| Esoteric Christianity I | 24 | Focused review completed: twelve applied checks revised, twelve pairs retained, two primary explanations completed and one first answer clarified. The preparatory sequence and different figures are taught before synthesis. Everyday analogies must continue to clarify a relation without replacing the source narrative. |
 | Ancient Myths | 8 | Retain at interpretive reading scope. Narrative events need to precede interpretation; multiple readings still require support in story details. This is not a general ancient-history syllabus. |
 | Colour | 14 | Retain for the collection's artistic and interpretive purpose. Controlled comparisons, image/lustre vocabulary and composition support study; individual responses are not character diagnoses. |
 | The Four Temperaments | 11 | Retain with tentative observation and contextual comparison. Do not assess learning by how confidently a learner labels someone. |
