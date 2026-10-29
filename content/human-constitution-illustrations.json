@@ -31,7 +31,7 @@
     "The first three diagrams use terracotta, teal and violet to distinguish body, soul and spirit families. The developmental diagram uses colours to trace each transformation relationship, rather than the three-family legend.",
     "Labels and counts checked against the course and Theosophy. Grouping and transformation are presented in separate images.",
     "Colours, card positions and connectors are teaching conventions, not bodily locations, aura measurements or literal material layers.",
-    "Supply the accompanying lesson text and accessible descriptions whenever embedding images. Text inside raster images is English; Portuguese artwork has not been produced."
+    "Supply the accompanying lesson text and accessible descriptions whenever embedding images. The threefold flower-encounter illustration has Brazilian Portuguese artwork; the other raster illustrations retain English labels with Portuguese textual equivalents."
   ],
   "illustrations": [
     {
@@ -52,6 +52,10 @@
         ]
       },
       "pt": {
+        "file": "assets/constitution-illustrations/threefold-human-being-pt-br.png",
+        "imageLanguage": "pt-BR",
+        "width": 1765,
+        "height": 891,
         "title": "Um ser humano, três perspectivas",
         "alt": "Três painéis mostram um encontro com uma flor: o corpo dá acesso pelos sentidos; a alma vivencia alegria; o espírito procura compreender seu crescimento.",
         "description": [

@@ -11,8 +11,11 @@ export const illustrationStyles=file=>`<link rel="stylesheet" href="${relative(f
 export function constitutionIllustration(id,lang,file){
  const item=guide.illustrations.find(item=>item.id===id);
  if(!item)throw Error('Unknown constitution illustration: '+id);
- const v=item[lang],pt=lang==='pt',src=relative(file,'docs/'+item.file);
- return `<figure class="constitution-illustration" data-constitution-illustration="${esc(id)}"><a class="constitution-illustration-image" href="${src}" aria-label="${esc((pt?'Abrir imagem completa: ':'Open full-size image: ')+v.title)}"><img src="${src}" alt="${esc(v.alt)}" width="${item.width}" height="${item.height}" loading="lazy" decoding="async"${pt?' lang="en"':''}></a><figcaption><p><strong>${esc(v.title)}</strong> · ${pt?'Ilustração original do curso sobre a concepção de Steiner. Legendas da imagem em inglês.':'Original course illustration of Steiner’s account.'} <a href="${src}">${pt?'Abrir imagem completa':'Open full-size image'}</a></p><details class="constitution-illustration-description"><summary>${pt?'Ler o diagrama em português':'Read the diagram in words'}</summary>${v.description.map(p=>`<p>${esc(p)}</p>`).join('')}</details></figcaption></figure>`;
+ const v=item[lang],pt=lang==='pt',src=relative(file,'docs/'+(v.file||item.file));
+ const imageLanguage=v.imageLanguage||guide.language||'en';
+ const width=v.width||item.width,height=v.height||item.height;
+ const caption=pt?'Ilustração original do curso sobre a concepção de Steiner.'+(imageLanguage==='en'?' Legendas da imagem em inglês.':''):'Original course illustration of Steiner’s account.';
+ return `<figure class="constitution-illustration" data-constitution-illustration="${esc(id)}"><a class="constitution-illustration-image" href="${src}" aria-label="${esc((pt?'Abrir imagem completa: ':'Open full-size image: ')+v.title)}"><img src="${src}" alt="${esc(v.alt)}" width="${width}" height="${height}" loading="lazy" decoding="async"${pt?` lang="${esc(imageLanguage)}"`:''}></a><figcaption><p><strong>${esc(v.title)}</strong> · ${caption} <a href="${src}">${pt?'Abrir imagem completa':'Open full-size image'}</a></p><details class="constitution-illustration-description"><summary>${pt?'Ler o diagrama em português':'Read the diagram in words'}</summary>${v.description.map(p=>`<p>${esc(p)}</p>`).join('')}</details></figcaption></figure>`;
 }
 
 export function constitutionGallery(lang,file){

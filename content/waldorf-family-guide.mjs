@@ -18,6 +18,40 @@ export const familyGuide = {
    ['The arts are part of understanding', 'Drawing, painting, music, drama, modeling, and handwork remain present throughout the curriculum. A student might model a bone while studying the body, explore geometry through drawing, or sew while learning about textile production. Artistic and practical work make ideas tangible and give children more ways to communicate what they understand.'],
    ['Independence grows with the child', 'Younger children receive more storytelling and guidance. Older children increasingly research, discuss, revise, and form judgments. For example, recalling what happened in a historical account can develop into asking whose perspective it represents and what consequences followed. Adults continue to guide and support this work.']
   ],
+  development: {
+   title: 'The seven-year periods: goodness, beauty, and truth',
+   intro: 'Steiner describes three broad periods, approximately 0–7, 7–14, and 14–21 years. Goodness, beauty, and truth name a changing emphasis in the child’s relationship with the world. They describe an underlying attitude in his spiritual and educational framework, rather than words every child thinks or says. Ages are approximate; this is a guide to observation, not a developmental test.',
+   stages: [
+    {
+     id: 'goodness',
+     title: 'Birth to about 7: the world is good',
+     experience: 'In Steiner’s picture, the young child meets the immediate world with trust and a wish to take part. Learning happens through the body, the senses, and imitation: doing what the adults do. Goodness becomes something tangible through dependable care and the adult’s example.',
+     example: 'While watering a plant together, let the child copy your gentle handling. If water spills, calmly wipe it up together. Care is experienced in the action, rather than only explained in a rule.'
+    },
+    {
+     id: 'beauty',
+     title: 'About 7–14: the world is beautiful',
+     experience: 'The emphasis moves toward feeling, imagination, and a living connection with what is learned. A trusted adult helps the world feel meaningful and worth exploring. Beauty here includes expressive stories, rhythm, music, and well-shaped work; it involves the way an idea comes alive, beyond attractive decoration.',
+     example: 'Observe the plant closely, draw its changing form, and tell the story of its growth. Invite wonder while helping the child describe accurately what is actually there.'
+    },
+    {
+     id: 'truth',
+     title: 'About 14–21: the world is true',
+     experience: 'The young person increasingly wants to examine reasons, form independent judgments, and find ideals worth acting on. An adult’s explanation needs to stand up to questions. Support this search by listening, offering evidence, and being willing to reconsider a conclusion together.',
+     example: 'Compare records of plants grown under different conditions. Ask which observations support a claim about light or water, what else may explain the result, and what further observation would help.'
+    }
+   ],
+   exampleLabel: 'At home',
+   after: 'Goodness, beauty, and truth matter at every age. Young children can ask questions and recognize truth; adolescents still need care, imagination, and beauty. These are shifts of emphasis, not abilities that switch on at a birthday. Respond honestly to questions and adapt to the particular child.',
+   linkLabel: 'Explore the three seven-year periods →',
+   check: {
+    title: 'A question for family life (optional)',
+    question: 'A teenager asks, “Why should I believe that?” How could you respond in the spirit of this third period?',
+    answerTitle: 'One possible response',
+    answer: 'Ask what they doubt, explain the reasons for your view, and examine a concrete example or source together. Invite them to explain their conclusion. The aim is to support a reasoned judgment while keeping a caring relationship; agreement with the adult is not the only sign of learning.'
+   },
+   source: 'Sources: Rudolf Steiner, The Foundations of Human Experience (CW 293), Lecture Nine, Stuttgart, 30 August 1919, pp. 148 and 156–158 in the supplied English edition; Education for Adolescents (CW 302), Lecture Eight, 19 June 1921, pp. 120–121 and 125, on ideals, judgment, and an earlier sense for truth. The first phrase in CW 293 is “the world is moral”; “good” is the approachable paraphrase used here. The family examples and descriptions of inner experience are editorial explanations, not quotations. This spiritual and educational picture is not an established scientific timetable.'
+  },
   gradesTitle: 'The journey through grades 1–8',
   gradesIntro: 'This overview describes a common Waldorf progression reflected in the supplied guides. Schools and families vary in their choices and timing, and children bring individual strengths and needs. These are educational intentions rather than fixed developmental rules.',
   headers: ['Grade', 'What children may explore', 'The learning emphasis'],
@@ -69,6 +103,40 @@ export const familyGuide = {
    ['As artes participam da compreensão', 'Desenho, pintura, música, teatro, modelagem e trabalhos manuais acompanham o currículo. Um estudante pode modelar um osso ao estudar o corpo, explorar geometria pelo desenho ou costurar ao conhecer a produção de tecidos. O trabalho artístico e prático torna ideias concretas e amplia as formas de comunicar o que se compreendeu.'],
    ['A autonomia cresce com a criança', 'As crianças menores recebem mais histórias e orientação. Os estudantes mais velhos passam a pesquisar, discutir, revisar e formar julgamentos com maior independência. Relembrar um relato histórico, por exemplo, pode dar lugar a perguntar de quem é a perspectiva apresentada e quais foram as consequências. Os adultos continuam a orientar e apoiar esse trabalho.']
   ],
+  development: {
+   title: 'Os períodos de sete anos: o bom, o belo e o verdadeiro',
+   intro: 'Steiner descreve três grandes períodos, aproximadamente dos 0 aos 7, dos 7 aos 14 e dos 14 aos 21 anos. O bom, o belo e o verdadeiro indicam uma mudança de ênfase na relação da criança com o mundo. Expressam uma atitude interior em sua concepção espiritual e pedagógica, em vez de frases que toda criança pensa ou diz. As idades são aproximadas: o modelo orienta a observação, não é um teste de desenvolvimento.',
+   stages: [
+    {
+     id: 'goodness',
+     title: 'Do nascimento a cerca de 7 anos: o mundo é bom',
+     experience: 'Na concepção de Steiner, a criança pequena se aproxima do mundo imediato com confiança e vontade de participar. Aprende pelo corpo, pelos sentidos e pela imitação: fazendo o que os adultos fazem. A bondade se torna concreta no cuidado confiável e no exemplo do adulto.',
+     example: 'Ao regar uma planta juntos, deixe a criança imitar seu cuidado ao tocá-la. Se a água derramar, enxuguem juntos com tranquilidade. O cuidado é vivido na ação, além de ser explicado por uma regra.'
+    },
+    {
+     id: 'beauty',
+     title: 'De cerca de 7 a 14 anos: o mundo é belo',
+     experience: 'A ênfase passa ao sentir, à imaginação e ao vínculo vivo com o que se aprende. Um adulto de confiança ajuda o mundo a ganhar sentido e a despertar interesse. O belo inclui histórias expressivas, ritmo, música e trabalho bem cuidado: envolve a maneira como uma ideia ganha vida, para além da decoração atraente.',
+     example: 'Observem a planta com atenção, desenhem suas mudanças e contem a história de seu crescimento. Acolha o encantamento e ajude a criança a descrever com precisão o que realmente está ali.'
+    },
+    {
+     id: 'truth',
+     title: 'De cerca de 14 a 21 anos: o mundo é verdadeiro',
+     experience: 'O jovem deseja cada vez mais examinar razões, formar julgamentos próprios e encontrar ideais que orientem sua ação. A explicação do adulto precisa responder a perguntas. Apoie essa busca escutando, apresentando evidências e aceitando reconsiderar uma conclusão em conjunto.',
+     example: 'Comparem registros de plantas cultivadas em condições diferentes. Perguntem quais observações sustentam uma afirmação sobre luz ou água, o que mais poderia explicar o resultado e que nova observação ajudaria.'
+    }
+   ],
+   exampleLabel: 'Em casa',
+   after: 'Bondade, beleza e verdade importam em todas as idades. Crianças pequenas podem perguntar e reconhecer a verdade; adolescentes continuam precisando de cuidado, imaginação e beleza. São mudanças de ênfase, não capacidades que surgem no dia do aniversário. Responda às perguntas com honestidade e adapte o apoio à criança concreta.',
+   linkLabel: 'Explore os três períodos de sete anos →',
+   check: {
+    title: 'Uma pergunta para a vida em família (opcional)',
+    question: 'Um adolescente pergunta: “Por que eu deveria acreditar nisso?” Como responder considerando a ênfase desse terceiro período?',
+    answerTitle: 'Uma resposta possível',
+    answer: 'Pergunte qual é sua dúvida, explique as razões de sua posição e examinem juntos um exemplo concreto ou uma fonte. Convide-o a explicar a conclusão a que chegou. O objetivo é apoiar um julgamento fundamentado e manter uma relação de cuidado; concordar com o adulto não é o único sinal de aprendizagem.'
+   },
+   source: 'Fontes: Rudolf Steiner, The Foundations of Human Experience (CW 293), nona conferência, Stuttgart, 30 de agosto de 1919, pp. 148 e 156–158 da edição inglesa fornecida; Education for Adolescents (CW 302), oitava conferência, 19 de junho de 1921, pp. 120–121 e 125, sobre ideais, julgamento e um sentido anterior para a verdade. A primeira expressão no CW 293 é “o mundo é moral”; usamos “bom” como uma paráfrase acessível. Os exemplos familiares e as explicações da experiência interior são uma elaboração editorial, não citações. Essa concepção espiritual e pedagógica não estabelece um calendário científico do desenvolvimento.'
+  },
   gradesTitle: 'O percurso do 1º ao 8º ano',
   gradesIntro: 'Este panorama apresenta uma sequência Waldorf comum, refletida nos guias fornecidos. Escolas e famílias variam nas escolhas e no momento de apresentar os conteúdos; cada criança tem capacidades e necessidades próprias. São intenções pedagógicas, não regras fixas de desenvolvimento.',
   headers: ['Ano', 'O que a criança pode explorar', 'Ênfase da aprendizagem'],
