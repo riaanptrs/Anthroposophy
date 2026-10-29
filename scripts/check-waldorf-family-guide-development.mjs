@@ -7,11 +7,12 @@ import {renderFamilyGuideDevelopment} from './waldorf-family-guide-development.m
 for(const lang of ['en','pt']) {
  const d=familyGuide[lang].development,html=renderFamilyGuideDevelopment(lang);
  assert.deepEqual(d.stages.map(stage=>stage.id),['goodness','beauty','truth'],'Both languages retain the three distinct educational emphases');
- assert.equal((html.match(/<h3>/g)||[]).length,3);
+ assert.equal((html.match(/<h3>/g)||[]).length,6);
+ for(const text of [d.whyTitle,...d.why,d.parentStepsTitle,...d.parentSteps,d.sharedReadingLabel,d.applicationNote,d.takeawayTitle,...d.takeaways,d.primaryLabel])assert.ok(html.includes(esc(text)),'Parent application text is retained');
  assert.equal((html.match(/<details>/g)||[]).length,3,'Reflection, explained answer, and sources stay optional native disclosures');
  assert.ok(d.stages.every(stage=>stage.experience.length>160&&stage.example.length>100),'Each phase explains an inner relationship and a usable example');
  for(const stage of d.stages) {
-  for(const value of [stage.title,stage.experience,stage.example])assert.ok(html.includes(esc(value)));
+  for(const value of [stage.title,stage.experience,stage.example,stage.adultAction,stage.anotherExample,stage.notMeaning])assert.ok(html.includes(esc(value)));
  }
  for(const text of [d.intro,d.after,d.check.question,d.check.answer,d.source])assert.ok(html.includes(esc(text)));
  assert.ok(d.source.includes('CW 293')&&d.source.includes('CW 302')&&d.source.includes('156–158'),'The public note identifies the exact primary witnesses');

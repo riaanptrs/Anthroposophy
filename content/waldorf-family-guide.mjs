@@ -21,27 +21,59 @@ export const familyGuide = {
   development: {
    title: 'The seven-year periods: goodness, beauty, and truth',
    intro: 'Steiner describes three broad periods, approximately 0–7, 7–14, and 14–21 years. Goodness, beauty, and truth name a changing emphasis in the child’s relationship with the world. They describe an underlying attitude in his spiritual and educational framework, rather than words every child thinks or says. Ages are approximate; this is a guide to observation, not a developmental test.',
+   whyTitle: 'Why parents need to understand developmental stages',
+   why: [
+    'Understanding development helps a parent ask what kind of support a child needs now. A young child who struggles to follow a long explanation may need an example to imitate and a simple shared action. A teenager who challenges an explanation may need reasons and room to examine them. Changing the response can be more useful than expecting the same kind of attention, obedience, or independence at every age.',
+    'This also makes the purpose of the Waldorf curriculum easier to understand. Stories, artistic work, observation, and discussion are ways of approaching understanding, with changing emphasis as the child grows. Parents can ask a teacher why a particular experience is offered now, what the child is learning through it, and how the work will develop toward greater independence.',
+    'A developmental picture helps adults reconsider expectations without reducing a child to an age label. Reading fluently does not mean a child can manage every frustration independently; needing help with writing does not mean their ideas are immature. Look at the particular task, the child’s response, and the support already available. Use the broad picture to ask better questions and make thoughtful adjustments.'
+   ],
+   parentStepsTitle: 'Use the picture in a real family situation',
+   parentSteps: [
+    'Describe what happened before interpreting it: “My child left the task after five minutes” gives more to work with than “My child is lazy.”',
+    'Ask what the task requires: imitation, movement, sustained attention, imagination, a new skill, or independent judgment. Notice which part needs support.',
+    'Try one adjustment: show the action, divide the work into manageable steps, bring an idea through a story or drawing, or invite the young person to compare reasons and make a plan.',
+    'Return to the situation and notice what changed. Discuss continuing difficulties with the teacher and agree on suitable support. An age-based expectation should not be a reason to postpone help or withhold a challenge the child is ready for.'
+   ],
+   sharedReadingLabel: 'Further reflection: Truth Beauty Goodness Explained — shared ChatGPT conversation (English)',
    stages: [
     {
      id: 'goodness',
+     adultAction: "Make care tangible through the adult’s actions.",
+     anotherExample: "Preparing food for someone who needs help gives a child another way to participate in kindness. Offer a manageable task so that care is experienced and done.",
+     notMeaning: "Goodness does not mean pretending nobody behaves badly or requiring blind obedience. A firm boundary can express care: stop a child from hurting a sibling, then help them attend to the person who was hurt.",
+     exampleLabel: "At home",
      title: 'Birth to about 7: the world is good',
      experience: 'In Steiner’s picture, the young child meets the immediate world with trust and a wish to take part. Learning happens through the body, the senses, and imitation: doing what the adults do. Goodness becomes something tangible through dependable care and the adult’s example.',
-     example: 'While watering a plant together, let the child copy your gentle handling. If water spills, calmly wipe it up together. Care is experienced in the action, rather than only explained in a rule.'
+     example: 'A child spills water. Instead of shaming the child or giving a long lecture, say that there is water on the floor, fetch a cloth, and dry it together. The adult makes care and responsibility visible: a mistake can be repaired, and people help one another.'
     },
     {
      id: 'beauty',
+     adultAction: "Make learning meaningful through feeling and form.",
+     anotherExample: "At home, observe a growing plant, draw its changing shapes, and create a short poem about its unfolding. Accurate observation and imaginative expression can work together; distinguish the poem from a scientific explanation.",
+     notMeaning: "Beauty does not mean that everything must be pretty, that difficult feelings are excluded, or that factual accuracy becomes optional.",
+     exampleLabel: "In learning",
      title: 'About 7–14: the world is beautiful',
      experience: 'The emphasis moves toward feeling, imagination, and a living connection with what is learned. A trusted adult helps the world feel meaningful and worth exploring. Beauty here includes expressive stories, rhythm, music, and well-shaped work; it involves the way an idea comes alive, beyond attractive decoration.',
-     example: 'Observe the plant closely, draw its changing form, and tell the story of its growth. Invite wonder while helping the child describe accurately what is actually there.'
+     example: 'To introduce fractions, fold paper circles into halves and quarters, arrange the pieces into patterns, and draw the relationships. Then connect the experience to the mathematical symbols. The purpose is to understand parts and a whole through meaningful form and activity, rather than decorate a worksheet.'
     },
     {
      id: 'truth',
+     adultAction: "Make reasons open to examination.",
+     anotherExample: "When a teenager questions a household rule, explain its purpose, listen to objections, and consider whether an adjustment is justified. Keep responsibility for necessary boundaries while allowing the reasons to be discussed.",
+     notMeaning: "Truth does not mean that adults are beyond question or that every opinion is equally supported. Younger children also deserve honest answers.",
+     exampleLabel: "In learning",
      title: 'About 14–21: the world is true',
      experience: 'The young person increasingly wants to examine reasons, form independent judgments, and find ideals worth acting on. An adult’s explanation needs to stand up to questions. Support this search by listening, offering evidence, and being willing to reconsider a conclusion together.',
-     example: 'Compare records of plants grown under different conditions. Ask which observations support a claim about light or water, what else may explain the result, and what further observation would help.'
+     example: 'Two seedlings have grown differently. Ask what was observed, what might explain the difference, and how an explanation could be tested. Compare plants while changing one condition, record results, and consider other explanations. Invite the young person to state their reasons and what could change their conclusion.'
     }
    ],
    exampleLabel: 'At home',
+   anotherExampleLabel: 'Another example',
+   notMeaningLabel: 'What this does not mean',
+   applicationNote: 'The framework is paraphrased from Steiner. These home and teaching examples are proposed applications for this parent guide, not quotations from his lectures.',
+   takeawayTitle: 'Three practical questions for the adult',
+   takeaways: ['Goodness: how can I make care tangible?', 'Beauty: how can I make learning meaningful through feeling and form?', 'Truth: how can I make reasons open to examination?'],
+   primaryLabel: 'Read The Study of Man, GA 293, Lecture 9, paragraphs 19–22 (English)',
    after: 'Goodness, beauty, and truth matter at every age. Young children can ask questions and recognize truth; adolescents still need care, imagination, and beauty. These are shifts of emphasis, not abilities that switch on at a birthday. Respond honestly to questions and adapt to the particular child.',
    linkLabel: 'Explore the three seven-year periods →',
    check: {
@@ -106,27 +138,59 @@ export const familyGuide = {
   development: {
    title: 'Os períodos de sete anos: o bom, o belo e o verdadeiro',
    intro: 'Steiner descreve três grandes períodos, aproximadamente dos 0 aos 7, dos 7 aos 14 e dos 14 aos 21 anos. O bom, o belo e o verdadeiro indicam uma mudança de ênfase na relação da criança com o mundo. Expressam uma atitude interior em sua concepção espiritual e pedagógica, em vez de frases que toda criança pensa ou diz. As idades são aproximadas: o modelo orienta a observação, não é um teste de desenvolvimento.',
+   whyTitle: 'Por que os responsáveis precisam compreender as etapas do desenvolvimento',
+   why: [
+    'Compreender o desenvolvimento ajuda a perguntar de que apoio a criança precisa agora. Uma criança pequena que tem dificuldade para acompanhar uma explicação longa pode precisar de um exemplo para imitar e de uma ação simples feita em conjunto. Um adolescente que questiona uma explicação pode precisar de razões e de espaço para examiná-las. Mudar a resposta pode ser mais útil do que esperar o mesmo tipo de atenção, obediência ou autonomia em todas as idades.',
+    'Essa compreensão também esclarece a finalidade do currículo Waldorf. Histórias, trabalho artístico, observação e discussão são caminhos para compreender, com mudanças de ênfase ao longo do crescimento. A família pode perguntar ao professor por que determinada experiência é oferecida agora, o que a criança aprende por meio dela e como esse trabalho se desenvolverá em direção a uma autonomia maior.',
+    'Uma concepção do desenvolvimento ajuda os adultos a rever expectativas sem reduzir a criança a uma faixa etária. Ler com fluência não significa conseguir lidar sozinha com toda frustração; precisar de ajuda para escrever não torna suas ideias imaturas. Observe a tarefa concreta, a resposta da criança e o apoio disponível. Use o panorama geral para formular perguntas melhores e ajustar o acompanhamento com cuidado.'
+   ],
+   parentStepsTitle: 'Aplique essa compreensão a uma situação familiar',
+   parentSteps: [
+    'Descreva o que aconteceu antes de interpretar: “Meu filho abandonou a tarefa depois de cinco minutos” oferece mais elementos do que “Meu filho é preguiçoso”.',
+    'Pergunte o que a tarefa exige: imitação, movimento, atenção continuada, imaginação, uma habilidade nova ou julgamento independente. Observe em que parte é necessário oferecer apoio.',
+    'Experimente um ajuste: demonstre a ação, divida o trabalho em etapas possíveis, apresente uma ideia por uma história ou um desenho, ou convide o jovem a comparar razões e elaborar um plano.',
+    'Retome a situação e observe o que mudou. Converse com o professor sobre dificuldades que continuam e combinem um apoio adequado. Uma expectativa baseada na idade não deve adiar ajuda nem impedir um desafio para o qual a criança esteja preparada.'
+   ],
+   sharedReadingLabel: 'Para continuar a reflexão: Truth Beauty Goodness Explained — conversa compartilhada do ChatGPT (em inglês)',
    stages: [
     {
      id: 'goodness',
+     adultAction: "Torne o cuidado concreto por meio das ações do adulto.",
+     anotherExample: "Preparar comida para alguém que precisa de ajuda oferece outra maneira de a criança participar da bondade. Proponha uma tarefa possível para que o cuidado seja vivido e praticado.",
+     notMeaning: "Bondade não significa fingir que ninguém age mal nem exigir obediência cega. Um limite firme pode expressar cuidado: impeça que a criança machuque um irmão e ajude-a a cuidar de quem foi ferido.",
+     exampleLabel: "Em casa",
      title: 'Do nascimento a cerca de 7 anos: o mundo é bom',
      experience: 'Na concepção de Steiner, a criança pequena se aproxima do mundo imediato com confiança e vontade de participar. Aprende pelo corpo, pelos sentidos e pela imitação: fazendo o que os adultos fazem. A bondade se torna concreta no cuidado confiável e no exemplo do adulto.',
-     example: 'Ao regar uma planta juntos, deixe a criança imitar seu cuidado ao tocá-la. Se a água derramar, enxuguem juntos com tranquilidade. O cuidado é vivido na ação, além de ser explicado por uma regra.'
+     example: 'Uma criança derrama água. Em vez de envergonhá-la ou fazer um longo sermão, diga que há água no chão, busque um pano e enxuguem juntos. O adulto torna o cuidado e a responsabilidade visíveis: um erro pode ser reparado, e as pessoas ajudam umas às outras.'
     },
     {
      id: 'beauty',
+     adultAction: "Dê sentido à aprendizagem pelo sentir e pela forma.",
+     anotherExample: "Em casa, observem uma planta crescendo, desenhem suas mudanças e criem um poema curto sobre seu desenvolvimento. Observação precisa e expressão imaginativa podem caminhar juntas; diferencie o poema de uma explicação científica.",
+     notMeaning: "Beleza não significa que tudo deva ser bonito, que sentimentos difíceis sejam excluídos ou que a precisão dos fatos se torne opcional.",
+     exampleLabel: "Na aprendizagem",
      title: 'De cerca de 7 a 14 anos: o mundo é belo',
      experience: 'A ênfase passa ao sentir, à imaginação e ao vínculo vivo com o que se aprende. Um adulto de confiança ajuda o mundo a ganhar sentido e a despertar interesse. O belo inclui histórias expressivas, ritmo, música e trabalho bem cuidado: envolve a maneira como uma ideia ganha vida, para além da decoração atraente.',
-     example: 'Observem a planta com atenção, desenhem suas mudanças e contem a história de seu crescimento. Acolha o encantamento e ajude a criança a descrever com precisão o que realmente está ali.'
+     example: 'Para apresentar frações, dobrem círculos de papel em metades e quartos, organizem as partes em padrões e desenhem as relações. Depois, relacionem a experiência aos símbolos matemáticos. A finalidade é compreender partes e todo por uma atividade com forma e sentido, em vez de apenas enfeitar uma folha de exercícios.'
     },
     {
      id: 'truth',
+     adultAction: "Abra as razões ao exame e ao questionamento.",
+     anotherExample: "Quando um adolescente questionar uma regra da casa, explique sua finalidade, escute as objeções e considere se um ajuste é justificado. Mantenha a responsabilidade pelos limites necessários e permita discutir suas razões.",
+     notMeaning: "Verdade não significa que os adultos estejam acima de perguntas nem que toda opinião tenha o mesmo fundamento. As crianças menores também merecem respostas honestas.",
+     exampleLabel: "Na aprendizagem",
      title: 'De cerca de 14 a 21 anos: o mundo é verdadeiro',
      experience: 'O jovem deseja cada vez mais examinar razões, formar julgamentos próprios e encontrar ideais que orientem sua ação. A explicação do adulto precisa responder a perguntas. Apoie essa busca escutando, apresentando evidências e aceitando reconsiderar uma conclusão em conjunto.',
-     example: 'Comparem registros de plantas cultivadas em condições diferentes. Perguntem quais observações sustentam uma afirmação sobre luz ou água, o que mais poderia explicar o resultado e que nova observação ajudaria.'
+     example: 'Duas mudas cresceram de maneira diferente. Pergunte o que foi observado, o que pode explicar a diferença e como testar uma explicação. Comparem plantas mudando uma condição, registrem os resultados e considerem outras explicações. Convide o jovem a apresentar suas razões e o que poderia mudar sua conclusão.'
     }
    ],
    exampleLabel: 'Em casa',
+   anotherExampleLabel: 'Outro exemplo',
+   notMeaningLabel: 'O que isso não significa',
+   applicationNote: 'A concepção é apresentada como paráfrase de Steiner. Os exemplos de casa e de ensino são aplicações propostas para este guia de famílias, não citações de suas conferências.',
+   takeawayTitle: 'Três perguntas práticas para o adulto',
+   takeaways: ['Bondade: como tornar o cuidado concreto?', 'Beleza: como dar sentido à aprendizagem pelo sentir e pela forma?', 'Verdade: como abrir as razões ao exame e ao questionamento?'],
+   primaryLabel: 'Leia The Study of Man, GA 293, nona conferência, parágrafos 19–22 (em inglês)',
    after: 'Bondade, beleza e verdade importam em todas as idades. Crianças pequenas podem perguntar e reconhecer a verdade; adolescentes continuam precisando de cuidado, imaginação e beleza. São mudanças de ênfase, não capacidades que surgem no dia do aniversário. Responda às perguntas com honestidade e adapte o apoio à criança concreta.',
    linkLabel: 'Explore os três períodos de sete anos →',
    check: {
