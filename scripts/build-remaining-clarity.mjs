@@ -1,3 +1,4 @@
+import {reviewedLukePrimary} from './render-luke-primary.mjs';
 import {biodynamicsFiguresAfter,biodynamicsFurtherFigures,biodynamicsWorkedExample,biodynamicsIllustrationStyles} from './render-biodynamics-illustrations.mjs';
 import fs from 'node:fs';
 import {temperamentWorkedExample,temperamentBeginnerStyles} from './render-temperament-beginner.mjs';
@@ -38,6 +39,7 @@ export function buildRemainingClarity(rows=clarityRows){
   }
   if(v.activity)first=first.replace(/<\/section>$/,`<details class="clarity-activity"><summary>${esc(v.activity.title)}</summary><p>${esc(v.activity.prompt)}</p><details><summary>${pt?'Veja um exemplo de resposta':'See an example response'}</summary><p>${esc(v.activity.example)}</p></details></details></section>`);
   if(['nutrition','understand-temperament','mystery-temperaments','higher-worlds','temperaments','understanding-temperaments','foundations','meditation','agriculture','what-is-biodynamics','according-to-luke','ancient-myths','encountering-the-self','learn/esoteric-christianity','colour','toward-threefold-society'].includes(row.course))first=linkTerms('<body>'+first+'</body>',relative(file,`docs/${pt?'pt/':''}reference/human-constitution.html`)).html.slice(6,-7);
+  if(row.course==='according-to-luke')first=reviewedLukePrimary(row.id,lang);
   const foundation=row.course==='foundations';
   let context=foundation?`<section class="foundation-orientation"><p>${pt?'Lição':'Lesson'} ${row.id} / 36 · ${row.id===1?(pt?'Comece aqui; nenhum conhecimento anterior é necessário.':'Start here; no previous study is needed.'):`${pt?'Retome primeiro:':'Builds on:'} <a href="${n(row.id-1)}.html">${esc(rows.find(r=>r.course==='foundations'&&r.id===row.id-1)[lang].title)}</a>`}</p><p><strong>${esc(v.goal)}</strong></p></section>`:'';
   if(foundation)context=linkTerms('<body>'+context+'</body>',relative(file,`docs/${pt?'pt/':''}reference/human-constitution.html`)).html.slice(6,-7);

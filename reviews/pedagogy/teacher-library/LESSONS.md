@@ -6,18 +6,18 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [McDermott’s introduction and how to read the lectures](../../../docs/according-to-luke/lessons/00.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The four Gospels and three levels of spiritual cognition](../../../docs/according-to-luke/lessons/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Bodhisattva, Buddha and the teaching of love and compassion](../../../docs/according-to-luke/lessons/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Give care a practical form](../../../docs/according-to-luke/lessons/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Keep the two infancy narratives distinct](../../../docs/according-to-luke/lessons/04.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Influence is not the same as identity](../../../docs/according-to-luke/lessons/05.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Responsibility beyond inherited belonging](../../../docs/according-to-luke/lessons/06.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Jesus and Christ: read the stages carefully](../../../docs/according-to-luke/lessons/07.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Read healing narratives without turning them into a diagnosis](../../../docs/according-to-luke/lessons/08.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Love that reaches beyond self-interest](../../../docs/according-to-luke/lessons/09.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Golgotha and a hope that changes conduct](../../../docs/according-to-luke/lessons/10.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Your synthesis: trace an argument and apply one idea](../../../docs/according-to-luke/lessons/11.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [McDermott’s introduction and how to read the lectures](../../../docs/according-to-luke/lessons/00.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved |
+| [The four Gospels and three levels of spiritual cognition](../../../docs/according-to-luke/lessons/01.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved |
+| [Bodhisattva, Buddha and the teaching of love and compassion](../../../docs/according-to-luke/lessons/02.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved; coverage note corrected |
+| [Give care a practical form](../../../docs/according-to-luke/lessons/03.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved |
+| [Keep the two infancy narratives distinct](../../../docs/according-to-luke/lessons/04.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved |
+| [Influence is not the same as identity](../../../docs/according-to-luke/lessons/05.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved |
+| [Responsibility beyond inherited belonging](../../../docs/according-to-luke/lessons/06.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved |
+| [Jesus and Christ: read the stages carefully](../../../docs/according-to-luke/lessons/07.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved |
+| [Read healing narratives without turning them into a diagnosis](../../../docs/according-to-luke/lessons/08.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved |
+| [Love that reaches beyond self-interest](../../../docs/according-to-luke/lessons/09.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved |
+| [Golgotha and a hope that changes conduct](../../../docs/according-to-luke/lessons/10.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved |
+| [Your synthesis: trace an argument and apply one idea](../../../docs/according-to-luke/lessons/11.html) | Current published primary explanation and all checks read; [focused review](luke/REVIEW.md) | Current teaching/checks retained; primary build source preserved |
 
 ## agriculture
 

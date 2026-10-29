@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "baseline": "bf2237d8",
+  "reviewedUnits": 12,
+  "retainedAssessments": "All current primary question/answer pairs retained; no new assessment revisions.",
+  "pages": 24,
+  "bilingualPrimaryChecks": 66,
+  "buildRegression": "The actual clarity builder is run on all 24 isolated lesson fixtures using the older humanities authoring rows; every generated primary section equals the canonical current primary teaching, preserving diagrams and source notes. Retained reader fixtures remain.",
+  "preservation": "Twenty-two published pages byte-identical to baseline; lesson 2 in both languages differs only by correcting the obsolete claim that later primary readings have not received EPUB revisions. Canonical source preserves the current primary teaching instead of regenerating the earlier short-PDF layer. Other source layers remain attributed separately."
+}
