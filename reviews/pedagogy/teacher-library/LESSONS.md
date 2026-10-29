@@ -367,34 +367,34 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [Reading Theosophy: purpose and approach](../../../docs/lessons/00.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Encounter, personal response and understanding](../../../docs/lessons/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Bodily foundation and inward activity](../../../docs/lessons/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Material organization and living form](../../../docs/lessons/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Sensation and its bodily mediation](../../../docs/lessons/23.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Thinking, truth and the three soul members](../../../docs/lessons/04.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The I: inward centre and spiritual openness](../../../docs/lessons/05.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Spiritual content and spiritual individuality](../../../docs/lessons/24.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [One human being, related classifications](../../../docs/lessons/06.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Memory and the fruits of experience](../../../docs/lessons/07.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Biography and spiritual individuality](../../../docs/lessons/08.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Inherited traits and capacities carried forward](../../../docs/lessons/27.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Deeds, destiny and karma](../../../docs/lessons/09.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Three worlds and their organs of perception](../../../docs/lessons/10.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Sympathy, antipathy and the seven soul regions](../../../docs/lessons/25.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [After death: desire, bodily organs and release](../../../docs/lessons/11.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Purification through the seven soul regions](../../../docs/lessons/26.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Spirit-land: creative archetypes and their regions](../../../docs/lessons/12.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Earthly experience becomes spiritual faculty](../../../docs/lessons/13.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Culture, enduring Self and spiritual purposes](../../../docs/lessons/14.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The three worlds at work in nature and thinking](../../../docs/lessons/15.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Collective spirits and other forms of embodiment](../../../docs/lessons/16.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Thought-forms and the threefold human aura](../../../docs/lessons/17.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Thinking and receiving communicated knowledge](../../../docs/lessons/18.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Feeling and equanimity](../../../docs/lessons/19.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Ordered thinking and educated will](../../../docs/lessons/20.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The eternal, freedom and initiation](../../../docs/lessons/21.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [How the four chapters fit together](../../../docs/lessons/22.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [Reading Theosophy: purpose and approach](../../../docs/lessons/00.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Encounter, personal response and understanding](../../../docs/lessons/01.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Bodily foundation and inward activity](../../../docs/lessons/02.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Material organization and living form](../../../docs/lessons/03.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Sensation and its bodily mediation](../../../docs/lessons/23.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Thinking, truth and the three soul members](../../../docs/lessons/04.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [The I: inward centre and spiritual openness](../../../docs/lessons/05.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Spiritual content and spiritual individuality](../../../docs/lessons/24.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [One human being, related classifications](../../../docs/lessons/06.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Memory and the fruits of experience](../../../docs/lessons/07.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Biography and spiritual individuality](../../../docs/lessons/08.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Inherited traits and capacities carried forward](../../../docs/lessons/27.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Deeds, destiny and karma](../../../docs/lessons/09.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Three worlds and their organs of perception](../../../docs/lessons/10.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Sympathy, antipathy and the seven soul regions](../../../docs/lessons/25.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [After death: desire, bodily organs and release](../../../docs/lessons/11.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Purification through the seven soul regions](../../../docs/lessons/26.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Spirit-land: creative archetypes and their regions](../../../docs/lessons/12.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Earthly experience becomes spiritual faculty](../../../docs/lessons/13.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Culture, enduring Self and spiritual purposes](../../../docs/lessons/14.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [The three worlds at work in nature and thinking](../../../docs/lessons/15.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Collective spirits and other forms of embodiment](../../../docs/lessons/16.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Thought-forms and the threefold human aura](../../../docs/lessons/17.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Thinking and receiving communicated knowledge](../../../docs/lessons/18.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Feeling and equanimity](../../../docs/lessons/19.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [Ordered thinking and educated will](../../../docs/lessons/20.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [The eternal, freedom and initiation](../../../docs/lessons/21.html) | Current main-explanation and question review | Revised applied check; see course report |
+| [How the four chapters fit together](../../../docs/lessons/22.html) | Current main-explanation and question review | Revised applied check; see course report |
 
 ## meditation
 
