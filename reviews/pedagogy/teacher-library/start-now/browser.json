@@ -1,0 +1,2148 @@
+{
+  "status": "passed",
+  "units": 38,
+  "cases": 304,
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "viewports": [
+    320,
+    1280
+  ],
+  "javascript": [
+    false,
+    true
+  ],
+  "coverage": "All teaching paragraphs, suitability, preparation, steps, example and applied question visible; answers keyboard-operable, no overflow or duplicate IDs, first/last interactive positions retained.",
+  "results": [
+    {
+      "route": "start-now/lessons/choose-a-path.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/yearning-and-knowledge.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/short-daily-sitting.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/wagner-and-regularity.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/trust-in-thinking.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/thinking-and-freedom.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/reverence-and-listening.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/seed-and-plant.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/eight-soul-processes.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/heart-attention-and-harmony.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/six-capacities.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/review-in-reverse.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/five-daily-meditations.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/months-and-weekdays.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/planetary-seven-moods.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/zodiac-and-monthly-virtues.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/calendar-all-weeks.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/festival-meditations.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/living-sentences.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/figures-and-geometry.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/i-am-and-body-references.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/wisdom-and-three-mantras.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/body-spirit-and-cosmic-work.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/guardian-mantra-sound-and-butterfly.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/independent-rosicrucian-study.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/rose-cross-and-variants.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/signature-fire-water-and-service.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/john-and-seven-stages.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/christian-morning-evening-programmes.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/our-father-and-renewal.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/reading-and-remembering.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/verses-for-particular-losses.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/foundation-as-integration.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/lesser-guardian.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/greater-guardian-and-service.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/idealism-and-aesthetic-unity.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/imagination-inspiration-intuition.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/find-and-compare-sources.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/choose-a-path.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/yearning-and-knowledge.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/short-daily-sitting.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/wagner-and-regularity.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/trust-in-thinking.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/thinking-and-freedom.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/reverence-and-listening.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/seed-and-plant.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/eight-soul-processes.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/heart-attention-and-harmony.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/six-capacities.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/review-in-reverse.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/five-daily-meditations.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/months-and-weekdays.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/planetary-seven-moods.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/zodiac-and-monthly-virtues.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/calendar-all-weeks.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/festival-meditations.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/living-sentences.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/figures-and-geometry.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/i-am-and-body-references.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/wisdom-and-three-mantras.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/body-spirit-and-cosmic-work.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/guardian-mantra-sound-and-butterfly.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/independent-rosicrucian-study.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/rose-cross-and-variants.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/signature-fire-water-and-service.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/john-and-seven-stages.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/christian-morning-evening-programmes.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/our-father-and-renewal.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/reading-and-remembering.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/verses-for-particular-losses.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/foundation-as-integration.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/lesser-guardian.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/greater-guardian-and-service.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/idealism-and-aesthetic-unity.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/imagination-inspiration-intuition.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/find-and-compare-sources.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/choose-a-path.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/yearning-and-knowledge.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/short-daily-sitting.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/wagner-and-regularity.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/trust-in-thinking.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/thinking-and-freedom.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/reverence-and-listening.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/seed-and-plant.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/eight-soul-processes.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/heart-attention-and-harmony.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/six-capacities.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/review-in-reverse.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/five-daily-meditations.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/months-and-weekdays.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/planetary-seven-moods.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/zodiac-and-monthly-virtues.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/calendar-all-weeks.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/festival-meditations.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/living-sentences.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/figures-and-geometry.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/i-am-and-body-references.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/wisdom-and-three-mantras.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/body-spirit-and-cosmic-work.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/guardian-mantra-sound-and-butterfly.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/independent-rosicrucian-study.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/rose-cross-and-variants.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/signature-fire-water-and-service.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/john-and-seven-stages.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/christian-morning-evening-programmes.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/our-father-and-renewal.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/reading-and-remembering.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/verses-for-particular-losses.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/foundation-as-integration.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/lesser-guardian.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/greater-guardian-and-service.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/idealism-and-aesthetic-unity.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/imagination-inspiration-intuition.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/find-and-compare-sources.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/choose-a-path.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/yearning-and-knowledge.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/short-daily-sitting.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/wagner-and-regularity.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/trust-in-thinking.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/thinking-and-freedom.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/reverence-and-listening.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/seed-and-plant.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/eight-soul-processes.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/heart-attention-and-harmony.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/six-capacities.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/review-in-reverse.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/five-daily-meditations.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/months-and-weekdays.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/planetary-seven-moods.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/zodiac-and-monthly-virtues.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/calendar-all-weeks.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/festival-meditations.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/living-sentences.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/figures-and-geometry.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/i-am-and-body-references.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/wisdom-and-three-mantras.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/body-spirit-and-cosmic-work.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/guardian-mantra-sound-and-butterfly.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/independent-rosicrucian-study.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/rose-cross-and-variants.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/signature-fire-water-and-service.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/john-and-seven-stages.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/christian-morning-evening-programmes.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/our-father-and-renewal.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/reading-and-remembering.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/verses-for-particular-losses.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/foundation-as-integration.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/lesser-guardian.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/greater-guardian-and-service.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/idealism-and-aesthetic-unity.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/imagination-inspiration-intuition.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/find-and-compare-sources.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/choose-a-path.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/yearning-and-knowledge.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/short-daily-sitting.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/wagner-and-regularity.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/trust-in-thinking.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/thinking-and-freedom.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/reverence-and-listening.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/seed-and-plant.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/eight-soul-processes.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/heart-attention-and-harmony.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/six-capacities.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/review-in-reverse.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/five-daily-meditations.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/months-and-weekdays.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/planetary-seven-moods.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/zodiac-and-monthly-virtues.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/calendar-all-weeks.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/festival-meditations.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/living-sentences.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/figures-and-geometry.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/i-am-and-body-references.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/wisdom-and-three-mantras.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/body-spirit-and-cosmic-work.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/guardian-mantra-sound-and-butterfly.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/independent-rosicrucian-study.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/rose-cross-and-variants.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/signature-fire-water-and-service.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/john-and-seven-stages.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/christian-morning-evening-programmes.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/our-father-and-renewal.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/reading-and-remembering.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/verses-for-particular-losses.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/foundation-as-integration.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/lesser-guardian.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/greater-guardian-and-service.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/idealism-and-aesthetic-unity.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/imagination-inspiration-intuition.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/find-and-compare-sources.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/choose-a-path.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/yearning-and-knowledge.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/short-daily-sitting.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/wagner-and-regularity.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/trust-in-thinking.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/thinking-and-freedom.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/reverence-and-listening.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/seed-and-plant.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/eight-soul-processes.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/heart-attention-and-harmony.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/six-capacities.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/review-in-reverse.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/five-daily-meditations.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/months-and-weekdays.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/planetary-seven-moods.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/zodiac-and-monthly-virtues.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/calendar-all-weeks.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/festival-meditations.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/living-sentences.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/figures-and-geometry.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/i-am-and-body-references.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/wisdom-and-three-mantras.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/body-spirit-and-cosmic-work.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/guardian-mantra-sound-and-butterfly.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/independent-rosicrucian-study.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/rose-cross-and-variants.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/signature-fire-water-and-service.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/john-and-seven-stages.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/christian-morning-evening-programmes.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/our-father-and-renewal.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/reading-and-remembering.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/verses-for-particular-losses.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/foundation-as-integration.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/lesser-guardian.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/greater-guardian-and-service.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/idealism-and-aesthetic-unity.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/imagination-inspiration-intuition.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/find-and-compare-sources.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/choose-a-path.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/yearning-and-knowledge.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/short-daily-sitting.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/wagner-and-regularity.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/trust-in-thinking.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/thinking-and-freedom.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/reverence-and-listening.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/seed-and-plant.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/eight-soul-processes.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/heart-attention-and-harmony.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/six-capacities.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/review-in-reverse.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/five-daily-meditations.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/months-and-weekdays.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/planetary-seven-moods.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/zodiac-and-monthly-virtues.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/calendar-all-weeks.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/festival-meditations.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/living-sentences.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/figures-and-geometry.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/i-am-and-body-references.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/wisdom-and-three-mantras.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/body-spirit-and-cosmic-work.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/guardian-mantra-sound-and-butterfly.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/independent-rosicrucian-study.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/rose-cross-and-variants.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/signature-fire-water-and-service.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/john-and-seven-stages.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/christian-morning-evening-programmes.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/our-father-and-renewal.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/reading-and-remembering.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/verses-for-particular-losses.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/foundation-as-integration.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/lesser-guardian.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/greater-guardian-and-service.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/idealism-and-aesthetic-unity.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/imagination-inspiration-intuition.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "start-now/lessons/find-and-compare-sources.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/choose-a-path.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/yearning-and-knowledge.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/short-daily-sitting.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/wagner-and-regularity.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/trust-in-thinking.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/thinking-and-freedom.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/reverence-and-listening.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/seed-and-plant.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/eight-soul-processes.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/heart-attention-and-harmony.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/six-capacities.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/review-in-reverse.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/five-daily-meditations.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/months-and-weekdays.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/planetary-seven-moods.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/zodiac-and-monthly-virtues.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/calendar-all-weeks.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/festival-meditations.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/living-sentences.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/figures-and-geometry.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/i-am-and-body-references.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/wisdom-and-three-mantras.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/body-spirit-and-cosmic-work.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/guardian-mantra-sound-and-butterfly.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/independent-rosicrucian-study.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/rose-cross-and-variants.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/signature-fire-water-and-service.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/john-and-seven-stages.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/christian-morning-evening-programmes.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/our-father-and-renewal.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/reading-and-remembering.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/verses-for-particular-losses.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/foundation-as-integration.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/lesser-guardian.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/greater-guardian-and-service.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/idealism-and-aesthetic-unity.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/imagination-inspiration-intuition.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/start-now/lessons/find-and-compare-sources.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    }
+  ]
+}
