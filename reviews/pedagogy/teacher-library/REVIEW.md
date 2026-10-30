@@ -6,6 +6,8 @@ The library generally has a coherent educational purpose. Its strongest lessons 
 
 ## Course continuation
 
+30 October: the [first Waldorf lesson review](waldorf-first/REVIEW.md) clarifies its opening anthroposophical context bilingually and retains the strong grouping example and transfer question. This is **one of 62 units**, with 61 pending; the revised-assessment count remains **197**.
+
 30 October: the [Encountering the Self review](encountering-self/REVIEW.md) reads all seventeen main explanations/check pairs and activities. Seven second checks are revised bilingually; ten pairs and all explanations are retained. The combined assessment revision count is **197 distinct units**.
 
 30 October: the [Understanding Temperaments introductory review](temperaments-introduction/REVIEW.md) reads all twelve primary explanations/check pairs and activities. Four second checks are revised bilingually, and lesson 01’s activity now matches the two streams/four functions taught. Eight pairs and all explanations are retained. The combined assessment revision count is **190 distinct units**.
@@ -83,7 +85,7 @@ The assessment changes affect **19 authored units**, in English and Portuguese. 
 | Understand Your Temperament | 13 | Focused review completed: five second checks revised, eight pairs retained and one example reference corrected. Retain Childs’s model and applications, with alternative interpretations and the limits of appearance-based inference kept visible. |
 | Understanding Temperaments | 12 | Focused introductory review completed: four second checks revised, eight pairs retained and one activity aligned. Retain the observation → tentative interpretation → response → review purpose. Successful use includes revising or abandoning an unhelpful interpretation. |
 | Encountering the Self | 17 | Focused review completed: seven second checks revised and ten pairs retained; explanations and activities unchanged. The child/adult encounter, developmental interpretation and historical medical contribution remain distinct. Drawing tasks teach observable relationships; developmental maps do not decide an individual child's readiness. |
-| Waldorf primary topics | 62 | Retain the parent-course scope and earlier individual review. Activities and examples explain educational intentions; the course is not a complete specialist syllabus for every school subject. |
+| Waldorf primary topics | 62 | First lesson reviewed: opening context clarified, example/check retained; 61 units pending focused continuation. Retain the parent-course scope and attributed earlier review. Activities and examples explain educational intentions; the course is not a complete specialist syllabus for every school subject. |
 | Biodynamic Agriculture | 24 | Retain the whole-farm sequence before preparations. The distinction between material flows, spiritual mechanisms, practical proposals and comparisons is necessary to the teaching. |
 | Agriculture complete lecture companion | 18 | Retain as the source-ordered counterpart. Farm individuality, seasons, substances, preparations and landscape form a connected argument; recipes alone would not fulfill its purpose. |
 | What Is Biodynamics | 14 | Retain the anthology's own scope and authorship distinctions. Whole-farm examples support the concepts; selected lectures are not the complete GA 327 sequence. |

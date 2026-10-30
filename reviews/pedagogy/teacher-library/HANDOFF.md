@@ -26,9 +26,9 @@ All pass. The browser batch covers fifteen lessons in two languages, 320/1280 pi
 
 ## Exact restart point
 
-**Encountering the Self** is complete at primary-teaching review scope. All seventeen English lessons and retained activities were reviewed; seven questions revised bilingually, ten pairs and all explanations retained. The focused report, source checks and 136 browser cases are recorded in `encountering-self/REVIEW.md`.
+The **first Waldorf primary-topics lesson** is reviewed: `learn/waldorf/foundations/what-is-waldorf.html`. Its opening now names the anthroposophical context in both languages; the grouping example and transfer question are retained. Focused preservation and eight browser cases pass. The broader Waldorf validator has an unchanged Portuguese religion-page mismatch; see `waldorf-first/REVIEW.md`.
 
-Next course: **Waldorf primary topics**, the larger subject-teaching course. Inspect the current course metadata and ledger for its 62 authored units and subject sequence before selecting a manageable review batch. Keep scope explicit: a completed batch is not a completed 62-unit course.
+Next: **Steiner and the first Waldorf school**, route `learn/waldorf/foundations/first-waldorf-school.html`. Main authoring is `content/waldorf-teaching-course.json` (locate its exact source key before editing). **61 of 62 authored units remain pending focused review.** Use the workspace sequence/ledger to select further lessons; a first-lesson review is not a completed course.
 
 Read each current English primary explanation, all questions/answers and retained activities for alignment. Compare rendered teaching with authoring first: some published courses are newer than older source layers. Retain strong content; change actual gaps, leading assessments or inconsistencies. Keep source claims, ordinary illustrations and the learner’s assessment distinct. Preserve source locators, diagrams, notebook identities and content outside the scoped change.
 

@@ -15192,7 +15192,7 @@
         "Related topics"
       ],
       "explanationEvidence": [
-        "Waldorf education approaches teaching through a view of the developing human being. Its central question is how a child can encounter an idea meaningfully at a particular stage. Listening, moving, making, imagining, observing and reasoning become different routes into understanding.",
+        "Waldorf education approaches teaching through a view of the developing human being. In Waldorf education, this view draws on Rudolf Steiner’s anthroposophical account of development. Explaining its educational purpose does not establish every claim in that account. Its central question is how a child can encounter an idea meaningfully at a particular stage. Listening, moving, making, imagining, observing and reasoning become different routes into understanding.",
         "The curriculum connects thinking, emotional engagement and purposeful action. Art and practical work can help a pupil notice a relationship before giving it a formal name. The teacher must then make that relationship clear: an enjoyable experience alone does not demonstrate learning.",
         "A developmental framework offers questions about teaching method; observation of actual pupils helps answer them. Ask what pupils should understand, what experience supports it and what they can explain or do afterward. Schools differ, so these intentions describe an approach rather than guaranteeing an outcome."
       ],
@@ -15221,6 +15221,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "waldorf-first/REVIEW.md",
+        "scope": "First Waldorf lesson only: English teaching, example, assessment and original-record alignment reviewed; opening developmental context clarified bilingually, existing changed-case assessment retained. Sixty-one units pending focused continuation."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -15229,7 +15233,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "466e5ee4999a751438d20b04bac6e2e74831b86891c17a4589fe10a836273b27"
+      "sha256": "cad6e233e00963a6943ad417a561efec1f5f4ab9f69147f5add598d35c9be175"
     },
     {
       "course": "waldorf",
