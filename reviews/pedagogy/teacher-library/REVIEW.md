@@ -6,6 +6,8 @@ The library generally has a coherent educational purpose. Its strongest lessons 
 
 ## Course continuation
 
+30 October: the [Waldorf Development review](waldorf-development/REVIEW.md) reads and retains all seven lessons, including the published historical-context distinctions. **26 of 62 Waldorf units** are now reviewed; **36 remain**. The assessment-revision count stays **197**.
+
 30 October: the [Waldorf Foundations continuation](waldorf-foundations/REVIEW.md) reviews and retains the remaining sixteen lessons unchanged. All **nineteen Foundations units** now have focused judgments across the checkpoints; **43 of 62 course units** remain. The assessment-revision count stays **197**.
 
 30 October: the [third Waldorf lesson](waldorf-third/REVIEW.md), Anthroposophy and classroom teaching, is retained unchanged after explanation/example/assessment review. **Three of 62 units** now have focused reviews; 59 remain. The revised-assessment count stays **197**.
@@ -91,7 +93,7 @@ The assessment changes affect **19 authored units**, in English and Portuguese. 
 | Understand Your Temperament | 13 | Focused review completed: five second checks revised, eight pairs retained and one example reference corrected. Retain Childs’s model and applications, with alternative interpretations and the limits of appearance-based inference kept visible. |
 | Understanding Temperaments | 12 | Focused introductory review completed: four second checks revised, eight pairs retained and one activity aligned. Retain the observation → tentative interpretation → response → review purpose. Successful use includes revising or abandoning an unhelpful interpretation. |
 | Encountering the Self | 17 | Focused review completed: seven second checks revised and ten pairs retained; explanations and activities unchanged. The child/adult encounter, developmental interpretation and historical medical contribution remain distinct. Drawing tasks teach observable relationships; developmental maps do not decide an individual child's readiness. |
-| Waldorf primary topics | 62 | All nineteen Foundations lessons reviewed: first opening clarified, remaining teaching/example/checks retained unchanged. Forty-three course units pending focused continuation. Retain the parent-course scope and attributed earlier review. Activities and examples explain educational intentions; the course is not a complete specialist syllabus for every school subject. |
+| Waldorf primary topics | 62 | All nineteen Foundations lessons reviewed: first opening clarified, remaining teaching/example/checks retained unchanged. All seven Development lessons also reviewed and retained; thirty-six course units pending focused continuation. Retain the parent-course scope and attributed earlier review. Activities and examples explain educational intentions; the course is not a complete specialist syllabus for every school subject. |
 | Biodynamic Agriculture | 24 | Retain the whole-farm sequence before preparations. The distinction between material flows, spiritual mechanisms, practical proposals and comparisons is necessary to the teaching. |
 | Agriculture complete lecture companion | 18 | Retain as the source-ordered counterpart. Farm individuality, seasons, substances, preparations and landscape form a connected argument; recipes alone would not fulfill its purpose. |
 | What Is Biodynamics | 14 | Retain the anthology's own scope and authorship distinctions. Whole-farm examples support the concepts; selected lectures are not the complete GA 327 sequence. |

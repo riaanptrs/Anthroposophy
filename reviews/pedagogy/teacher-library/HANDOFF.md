@@ -26,9 +26,9 @@ All pass. The browser batch covers fifteen lessons in two languages, 320/1280 pi
 
 ## Exact restart point
 
-**Waldorf Foundations is complete at primary-teaching review scope: all nineteen units.** The first opening was clarified in its checkpoint; all remaining lessons were retained. The sixteen-unit completion batch passes 32-page preservation checks and 128 browser cases; see `waldorf-foundations/REVIEW.md`.
+**Waldorf Foundations (19 units) and Development (7 units) are complete at primary-teaching review scope.** All seven Development lessons are retained unchanged after reading goals, explanations, examples, assessments and published historical-context additions. The continuation passes 14-page preservation checks and 56 browser cases; see `waldorf-development/REVIEW.md`.
 
-Next: the **Development section**, starting at **School readiness and the change of teeth**, `learn/waldorf/development/school-readiness.html`. Main authoring is `content/waldorf-teaching-course.json`; use workspace metadata to preserve the section order. **43 of 62 course units remain pending focused review.** This is a completed section, not a completed Waldorf course. The broader validator’s unchanged Portuguese religion-page mismatch remains documented in `waldorf-first/REVIEW.md`.
+Next: the **Grades section**, starting at **Grade 1: entering school through imagination**, `learn/waldorf/grades/grade-1/index.html`. Main authoring is `content/waldorf-teaching-course.json`; preserve workspace section order. **26 of 62 course units reviewed; 36 remain.** The broader validator’s unchanged Portuguese religion-page mismatch remains documented in `waldorf-first/REVIEW.md`.
 
 Read each current English primary explanation, all questions/answers and retained activities for alignment. Compare rendered teaching with authoring first: some published courses are newer than older source layers. Retain strong content; change actual gaps, leading assessments or inconsistencies. Keep source claims, ordinary illustrations and the learner’s assessment distinct. Preserve source locators, diagrams, notebook identities and content outside the scoped change.
 
