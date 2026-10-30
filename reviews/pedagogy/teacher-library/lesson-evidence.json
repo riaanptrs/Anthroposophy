@@ -38,7 +38,7 @@
       "course": "encountering-the-self",
       "units": 17,
       "earlierIndividualAudits": 17,
-      "revisedAssessments": 0
+      "revisedAssessments": 7
     },
     {
       "course": "foodwise",
@@ -179,7 +179,7 @@
       "revisedAssessments": 0
     }
   ],
-  "revisedAssessments": 190,
+  "revisedAssessments": 197,
   "records": [
     {
       "course": "according-to-luke",
@@ -5940,6 +5940,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6004,6 +6008,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6030,8 +6038,7 @@
       "questionEvidence": [
         "A parent can offer privacy and remain available: 'Would you like to tell me what frightened you, now or later?' That response does not assume a death premonition or a spiritual cause. It keeps Monica's story as an interpretation to understand while giving a real child room to describe the concern. Continuing distress deserves attention beyond the story's explanatory frame.",
         "How does the teacher qualify his explanation of Monica's fears?",
-        "Can privacy and continuing care coexist?",
-        "A parent can offer privacy and remain available: 'Would you like to tell me what frightened you, now or later?' That response does not assume a death premonition or a spiritual cause. It keeps Monica's story as an interpretation to understand while giving a real child room to describe the concern. Continuing distress deserves attention beyond the story's explanatory frame."
+        "A child asks to read alone but wants company at bedtime. An adult treats this as proof of a death premonition and withdraws ordinary support. How would you revise the interpretation and response?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -6069,7 +6076,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6078,7 +6089,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "fac7b640214c159e9c6ab699397fb2870bb57659cf7bdb0268447644c3e062e2"
+      "sha256": "ea82eb3d2a28b2e6bf225e9a6b6ad1e4eb9393ff7016a496409cde7144769cec"
     },
     {
       "course": "encountering-the-self",
@@ -6134,6 +6145,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6159,7 +6174,7 @@
       ],
       "questionEvidence": [
         "Which seven biographies does Koepke compare?",
-        "Does a meaningful childhood memory predict the whole life?"
+        "Two memoirs select different childhood interests for the same adult vocation. One omits an equally strong interest that led nowhere professionally. What can those accounts show, and what would a claim of inevitable destiny still require?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -6197,7 +6212,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6206,7 +6225,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "5c51536acba990204639dc2a826ab7dad0758806e7819754549c33835f916e2e"
+      "sha256": "18a81e014515a881ba0b56d2ddf2d78c3aa0cbbe10ca9338ea0fdbdcf0761527"
     },
     {
       "course": "encountering-the-self",
@@ -6223,7 +6242,7 @@
       ],
       "questionEvidence": [
         "Which three correspondences structure the chapter?",
-        "What does changing emphasis leave active?"
+        "A teacher sees a darkened heart-lung region in Diagram 1 and stops offering practical handling because the other systems are supposedly inactive. How should the diagram and classroom decision be corrected?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -6261,7 +6280,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6270,7 +6293,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "c07b1f0b7ddcdba286e615add542f25f6efdf991ff84945db147ddce835913b7"
+      "sha256": "da69413e4e9819dbc6261522978fb7dbd50baef7023136f9826e338a53c6f90d"
     },
     {
       "course": "encountering-the-self",
@@ -6326,6 +6349,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6390,6 +6417,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6454,6 +6485,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6479,7 +6514,7 @@
       ],
       "questionEvidence": [
         "How are the bodice, comb and apple mapped in the chapter?",
-        "What would a successful workload adjustment establish?"
+        "A reduced homework load helps a learner finish, but headaches continue. Someone calls the improved work proof of Koepke’s Snow White explanation. What should the review separate?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -6517,7 +6552,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6526,7 +6565,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "32aba93b43d818af7dc935badfb624d2eea9f0f77c3ed7afc4b33e691dee64ee"
+      "sha256": "ee80e22e278dc33ec9d4e185dfd03222cf88605b32b58bc3d6f065125539305a"
     },
     {
       "course": "encountering-the-self",
@@ -6582,6 +6621,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6607,7 +6650,7 @@
       ],
       "questionEvidence": [
         "Why does an age theory not decide a symptom’s cause?",
-        "Why record symptoms without deciding their spiritual cause?"
+        "A caregiver selects an iron remedy solely because a child is nine and has stomach pain. How would you use Holtzapfel’s contribution as a historical reading while preparing a useful consultation record?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -6645,7 +6688,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6654,7 +6701,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "f2deaf0547521cf2858af05d120eac94f8e2d431289da7d749970f15871b03e8"
+      "sha256": "449f4df79e5c34af0a316b344cb11e47764d0a2452315a16856fab3ed518e8e6"
     },
     {
       "course": "encountering-the-self",
@@ -6710,6 +6757,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6735,7 +6786,7 @@
       ],
       "questionEvidence": [
         "What changes at the half moon-node in the author’s explanation?",
-        "Does a matching interval establish a developmental cause?"
+        "An adult notes a similar interval in lunar nodes and a developmental story, then uses a birthday to decide what a child is ready to learn. Which relations and evidence need to be separated?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -6773,7 +6824,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6782,7 +6837,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "643648cfc0d0b900ac29e19a5a98ebe81e7dc35d226c7265a850f26178048be9"
+      "sha256": "78e5a3d3b2e4389f5822ab2f18eb2b7fee5bb26403de1f69c82885b907b334e8"
     },
     {
       "course": "encountering-the-self",
@@ -6838,6 +6893,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6867,7 +6926,7 @@
       ],
       "questionEvidence": [
         "How does completing a figure involve more than copying?",
-        "How does strict reflection differ from a creative response?"
+        "A reflected point is drawn at a different distance from the axis, and the teacher calls it both exact reflection and creative freedom. How would you assess and revise the task?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -6905,7 +6964,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -6914,7 +6977,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "a4c689f0d0a5ee6b096e729f8a25fa668374db3a84cb2f9463c4012c615bb9fb"
+      "sha256": "79a23a96bc98d2f70a17031f2adc3e1486f375ae5c1b3447d1267a9113b78c67"
     },
     {
       "course": "encountering-the-self",
@@ -6970,6 +7033,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "encountering-self/REVIEW.md",
+        "scope": "All seventeen English main explanations/checks and retained activities read; seven second checks revised bilingually, ten pairs and all explanatory prose retained; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,

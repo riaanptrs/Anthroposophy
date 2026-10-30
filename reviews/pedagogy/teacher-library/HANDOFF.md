@@ -8,7 +8,7 @@ Updated 30 October 2026. The user resumed the review directly. No handoff to an 
 - Branch: `review/teacher-library-2026-10-29`.
 - Draft PR: https://github.com/riaanptrs/Anthroposophy/pull/11 . Lesson revisions are not live. Continue on this review branch; do not merge or deploy by assumption.
 - Authoritative review index: `reviews/pedagogy/teacher-library/REVIEW.md`; per-unit basis/action: `LESSONS.md`; generated census: `lesson-evidence.json`.
-- Census: 674 units, 29 course/companion groups, 487 attributed earlier audits. Current cumulative revised assessments: **190 distinct units**, counting each bilingual unit once.
+- Census: 674 units, 29 course/companion groups, 487 attributed earlier audits. Current cumulative revised assessments: **197 distinct units**, counting each bilingual unit once.
 
 ## Completed checkpoint
 
@@ -26,9 +26,9 @@ All pass. The browser batch covers fifteen lessons in two languages, 320/1280 pi
 
 ## Exact restart point
 
-The twelve-lesson **Understanding Temperaments** introductory path is now complete at primary-teaching review scope. Four checks were revised bilingually and lesson 01’s activity aligned. All 96 browser cases and focused preservation checks pass; the older refinement validator’s unchanged passage-bank hash failure is documented in `temperaments-introduction/REVIEW.md`.
+**Encountering the Self** is complete at primary-teaching review scope. All seventeen English lessons and retained activities were reviewed; seven questions revised bilingually, ten pairs and all explanations retained. The focused report, source checks and 136 browser cases are recorded in `encountering-self/REVIEW.md`.
 
-Next course: **Encountering the Self**. Consult its current rendered lessons and the root ledger before choosing authoring files. The similarly named temperament courses are now separately reviewed at their stated scopes.
+Next course: **Waldorf primary topics**, the larger subject-teaching course. Inspect the current course metadata and ledger for its 62 authored units and subject sequence before selecting a manageable review batch. Keep scope explicit: a completed batch is not a completed 62-unit course.
 
 Read each current English primary explanation, all questions/answers and retained activities for alignment. Compare rendered teaching with authoring first: some published courses are newer than older source layers. Retain strong content; change actual gaps, leading assessments or inconsistencies. Keep source claims, ordinary illustrations and the learner’s assessment distinct. Preserve source locators, diagrams, notebook identities and content outside the scoped change.
 
