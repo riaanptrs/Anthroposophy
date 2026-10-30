@@ -92,7 +92,7 @@
       "course": "mystery-temperaments",
       "units": 15,
       "earlierIndividualAudits": 15,
-      "revisedAssessments": 1
+      "revisedAssessments": 7
     },
     {
       "course": "nutrition",
@@ -179,7 +179,7 @@
       "revisedAssessments": 0
     }
   ],
-  "revisedAssessments": 175,
+  "revisedAssessments": 181,
   "records": [
     {
       "course": "according-to-luke",
@@ -21219,8 +21219,8 @@
       },
       "currentReview": "Applied assessment revised; explanation and source material retained.",
       "currentCourseReview": {
-        "reference": "mystery-first/REVIEW.md",
-        "scope": "First lesson only: English primary explanation and check pairs plus retained activity read; second check revised bilingually. Fourteen later lessons remain pending focused review."
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
       },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
@@ -21256,7 +21256,7 @@
       ],
       "questionEvidence": [
         "What are the three levels distinguished in this lesson?",
-        "What is the intermediate role of a temperament portrait?"
+        "A colleague speaks little in meetings but freely during a walk. A shared portrait is offered as the complete explanation. What should be added before deciding how to respond?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -21294,7 +21294,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -21303,7 +21307,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "dab30f2ceb40db432909c1f2e5b62de33ed74ce564bb8eb1eb41003b99bc1998"
+      "sha256": "8827b866a763346bbcb868b23abe8e9cf56f457ca4cb51fe93001424d3280d86"
     },
     {
       "course": "mystery-temperaments",
@@ -21369,6 +21373,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -21403,7 +21411,7 @@
       ],
       "questionEvidence": [
         "What does reciprocal colouring add to a list of two streams?",
-        "Why does the green comparison help more than a list of three ingredients?"
+        "A player changes the phrasing for a plucked instrument, while the chosen musical phrase determines which of its possibilities are used. What makes this reciprocal rather than two separate contributions, and where does the analogy stop?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -21441,7 +21449,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -21450,7 +21462,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "cc88773bdd367ca9eeffd4db49b46928aef6e145926a50febebded300d561983"
+      "sha256": "f4695d517a18de84b3df9462584b3deb0224dae94ee661c49c2d9aae0f6a94e4"
     },
     {
       "course": "mystery-temperaments",
@@ -21518,6 +21530,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -21551,8 +21567,8 @@
         "To compare the four portraits, keep the event constant and change the focus of attention. Choleric asks what must be accomplished; sanguine notices what is new or inviting; phlegmatic preserves an established rhythm; melancholic considers the weight of what has happened. These questions are teaching summaries of the portraits, not words that every person necessarily says."
       ],
       "questionEvidence": [
-        "How do purpose, novelty, continuity and felt significance differ in the cancelled-bus example?",
-        "Why is keeping the same event useful when comparing portraits?"
+        "How do purpose, novelty, continuity and felt significance differ in the workshop example?",
+        "One workshop participant presses toward a goal in a familiar task but explores every new material in an unfamiliar task. How should you use the four-portrait comparison without claiming a permanent constitution?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -21590,7 +21606,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -21599,7 +21619,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "c48774a63872abe4b800257c46eae4d27f06a01a1b256d6cd32f2a0761cb13ce"
+      "sha256": "9016f896cbb3a2ed558d908555f0147def080e43fe6a0669722c202e2b6612be"
     },
     {
       "course": "mystery-temperaments",
@@ -21664,6 +21684,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -21737,6 +21761,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -21771,7 +21799,7 @@
       ],
       "questionEvidence": [
         "What sequence connects the personal relationship with continued participation?",
-        "Why does the personal relationship matter in the source’s argument?"
+        "A child repeatedly returns to a bird book but leaves drawings unfinished. An adult makes affection conditional on finishing. How would you revise the arrangement while distinguishing the source’s argument from the course adaptation?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -21809,7 +21837,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -21818,7 +21850,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "98782df5d533bd386ddb0d4a05498eab609e54662f521cf4ac88b886f9ab1373"
+      "sha256": "ae7273618d6f34210e2e8ab2c8c0319bb3531e81e8c19c68985fee8dac9738d3"
     },
     {
       "course": "mystery-temperaments",
@@ -21883,6 +21915,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -21956,6 +21992,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -21990,7 +22030,7 @@
       ],
       "questionEvidence": [
         "What is the proposed sequence from a companion’s interest to a learner’s own interest?",
-        "Why is companionship more than simply placing two children beside each other?"
+        "Two children are placed side by side at seed planting, but one remains a spectator. What would make the proposed companionship route more than physical proximity, and what might watching still tell you?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -22028,7 +22068,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -22037,7 +22081,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "a86c74ccbb64426b2b2edfc53f0a1214853043f6d2a4c89a8763741d2ed47e0a"
+      "sha256": "533b1170ff15e412b55fc7e79422eac00614cda0127b9d820254810f281274cd"
     },
     {
       "course": "mystery-temperaments",
@@ -22063,7 +22107,7 @@
       ],
       "questionEvidence": [
         "What role does reason have in an indirect practice?",
-        "Does an indirect route mean that reasoning has no role?"
+        "A learner alternates between two passages for five minutes but produces no connection. They say the indirect method forbids reasoning and must work unchanged. What should be revised?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -22101,7 +22145,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -22110,7 +22158,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "03c2a64e7cc0ea5e106ac9b571f99e7181c3a56ea21afac6b1c017a3ef2a3a6e"
+      "sha256": "0e632ce03d5efe9de9a2e3a120a05c569f5035cca6fff0e181f4beb37ba62259"
     },
     {
       "course": "mystery-temperaments",
@@ -22176,6 +22224,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -22249,6 +22301,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "mystery-temperaments/REVIEW.md",
+        "scope": "All fifteen English primary lessons and checks reviewed across the first checkpoint and fourteen-unit continuation, with activity alignment; six additional second checks revised bilingually and a workshop question corrected. Earlier lesson zero revision retained; original PDF and retained detailed source prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,

@@ -11,3 +11,5 @@ The second check now presents a quiet colleague who takes charge after plans col
 The existing Mystery source validator passes 33 page records, the supplied/parallel distinction, fifteen source guides, source selections, tables and thirty language pages. This confirms existing records and delivery, not a new teacher review of all fifteen lessons or fresh source-PDF certification. No claim of line-by-line review of retained detailed prose or Portuguese prose is made.
 
 Continue at `mystery-temperaments/lessons/01.html`. See the [handoff](../HANDOFF.md).
+
+30 October update: the [full-course continuation](../mystery-temperaments/REVIEW.md) now completes the remaining fourteen lessons. The checkpoint scope and results above remain historical.

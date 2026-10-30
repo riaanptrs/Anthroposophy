@@ -1,42 +1,38 @@
 # Teacher-library review handoff
 
-Prepared 29 October 2026 for the user’s requested handoff to Dot. **Recipient/channel unresolved; this document has not been sent to or assigned to Dot.** It is available on the existing draft PR for the next reviewer.
+Updated 30 October 2026. The user resumed the review directly. No handoff to an external Dot recipient has been sent or assigned; the earlier destination remains unidentified. This file records the current restart point.
 
-## Workspace and review destination
+## Current state
 
 - Repository: `riaanptrs/Anthroposophy`, local `/workspace/Anthroposophy`.
 - Branch: `review/teacher-library-2026-10-29`.
-- Draft PR: https://github.com/riaanptrs/Anthroposophy/pull/11 . Lesson revisions are not live; continue on the draft branch. The earlier UI work is on main.
-- Authoritative review index: `reviews/pedagogy/teacher-library/REVIEW.md`; individual basis/action ledger: `LESSONS.md`; generated census: `lesson-evidence.json`.
-- Library census: 674 units in 29 course/companion groups. Existing screening and 487 earlier audits are explicitly attributed; neither is a new close-reading certification. Current cumulative assessment revisions: **175 distinct units**, each counted once across both languages.
+- Draft PR: https://github.com/riaanptrs/Anthroposophy/pull/11 . Lesson revisions are not live. Continue on this review branch; do not merge or deploy by assumption.
+- Authoritative review index: `reviews/pedagogy/teacher-library/REVIEW.md`; per-unit basis/action: `LESSONS.md`; generated census: `lesson-evidence.json`.
+- Census: 674 units, 29 course/companion groups, 487 attributed earlier audits. Current cumulative revised assessments: **181 distinct units**, counting each bilingual unit once.
+
+## Completed checkpoint
+
+**The Mystery of Temperaments is complete at primary-teaching review scope.** The first lesson was reviewed on 29 October; all fourteen remaining English primary explanations/check pairs and activities were read on 30 October. Six further second checks are revised bilingually, and lesson 05’s first question now matches its workshop example. Seven units have assessment revisions across both passes; eight pairs and all explanations/activities are retained.
+
+Report: `mystery-temperaments/REVIEW.md`. Current validation:
+
+```sh
+node scripts/check-mystery-temperaments-teacher.mjs
+node scripts/check-mystery-temperaments-source.mjs
+node scripts/review-mystery-temperaments-teacher.cjs
+```
+
+All pass. The browser batch covers fifteen lessons in two languages, 320/1280 pixels and JavaScript enabled/disabled: **120 cases**. Preservation checks cover all thirty language pages against `00148bb0`. The older `mystery-first` report remains a historical first-lesson checkpoint, not the current restart point.
 
 ## Exact restart point
 
-Continue **The Mystery of Temperaments** at `docs/mystery-temperaments/lessons/01.html` (the second of fifteen units), then review `02.html` through `14.html` in order. Only lesson `00.html` has this continuation’s focused teacher review; do not claim the whole course is complete. Its report and tests are in `reviews/pedagogy/teacher-library/mystery-first/`.
+Next course: **Understand Your Temperament**, the thirteen-unit Childs book course. Consult its entries in `LESSONS.md` and current rendered lessons before editing. It is separate from the twelve-unit **Understanding Temperaments** introductory path, which follows it in the established review order. Do not treat these similarly named courses as interchangeable.
 
-Main authoring: `content/temperament-companions-clear-lessons.json`, filtered to `course === 'mystery-temperaments'`. Retained teaching: `content/mystery-temperaments.mjs`, `mystery-temperaments-source-guides.mjs`, related core additions and existing page notes. Portuguese partners use `docs/pt/mystery-temperaments/lessons/`.
+Read each current English primary explanation, all questions/answers and retained activities for alignment. Compare rendered teaching with authoring first: some published courses are newer than older source layers. Retain strong content; change actual gaps, leading assessments or inconsistencies. Keep source claims, ordinary illustrations and the learner’s assessment distinct. Preserve source locators, diagrams, notebook identities and content outside the scoped change.
 
-Read each current rendered English primary explanation and all questions/answers, compare with authoring before editing, and inspect retained activities for alignment. Several courses contain newer published teaching than older source layers; do not regenerate older material over it. Revise only where teaching or assessment needs improvement. Retaining a strong lesson is a valid outcome. Preserve source distinctions, diagrams, notebook identities and material outside the authorized revision scope.
+Use existing focused reports, preservation validators and browser harnesses as templates. Some commands and Chromium require normal managed-environment escalation. Browser checks use `/usr/bin/chromium` and local-file request interception, not the live website.
 
-## Current first-lesson result
-
-Lesson 00’s explanation, table, optional overview and activity are retained. Its second check now uses a colleague who is quiet in one context and takes charge in another, testing recurring tendency versus mood, context and the person’s own account. Revised in English and Portuguese. First check and all other content are unchanged.
-
-Checks pass:
-
-```sh
-node scripts/check-mystery-first-teacher.mjs
-node scripts/check-mystery-temperaments-source.mjs
-node scripts/review-mystery-first-teacher.cjs
-```
-
-The browser script covers **only lesson 00**, eight cases (two languages, two widths, with/without JavaScript). Do not extrapolate that to all fifteen lessons. Browser launch and some Git subprocesses need the managed environment’s normal escalation; the browser uses `/usr/bin/chromium` and local-file request interception, not the live site.
-
-## Continuing the review
-
-Use the established scoped reports, preservation checks and browser harnesses as templates. Keep current authoring and delivered teaching synchronized. Compare changed pages against the preceding review commit, and use the existing course validator without altering old assertions to hide inherited failures. Run checks appropriate to the actual changes.
-
-Refresh search and review evidence after content changes:
+After changes:
 
 ```sh
 node --input-type=module -e "import {applyAcademyPolish} from './scripts/build-academy-ui.mjs'; applyAcademyPolish()"
@@ -44,8 +40,6 @@ node scripts/audit-teacher-library.mjs
 git diff --check
 ```
 
-Update the census script’s revised-route set and course-review references accurately, the root review, per-lesson ledger, focused report and PR description. Commit and push to the existing draft branch. Avoid a full-site rebuild: older course layers can overwrite newer published content. The Luke primary build regression has a dedicated canonical layer and test; preserve it.
+Update revised-route counts, course references, individual ledger, report and PR description accurately. Run appropriate existing and scoped checks; document inherited failures rather than changing historical assertions to manufacture passes. Commit and push to the existing draft branch. Avoid a full-site rebuild: older layers may overwrite newer published content. Preserve the Luke canonical-primary build regression fix.
 
-Broader inherited validators sometimes fail on historical retained-body or source-label comparisons in unchanged pages. Reports document each observed failure; distinguish those from new failures. No fresh original-book verification or learner trial is implied by automated presence checks.
-
-After Mystery is finished, the next course in the established order is **Understand Your Temperament**, followed by the separate **Understanding Temperaments** introductory course. Read the root ledger before selecting subsequent work. The user authorized review and reversible fixes; do not send this handoff to an external recipient until Dot’s identity and destination are known.
+Review scope is not fresh full-book/source-transcript certification or a learner trial. Source validator presence checks establish recorded consistency and delivery, not semantic mastery or historical truth. User authorization covers review and reversible fixes; an external recipient still needs to be identified before sending a handoff.
