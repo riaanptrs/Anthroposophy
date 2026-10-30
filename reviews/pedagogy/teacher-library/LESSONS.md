@@ -566,19 +566,19 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [A second author, a broader application](../../../docs/understand-temperament/lessons/00.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Chapter 1: the same, only different](../../../docs/understand-temperament/lessons/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Chapter 2: reading the psychological map](../../../docs/understand-temperament/lessons/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Chapter 3: initiative, determination and correction](../../../docs/understand-temperament/lessons/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Chapter 4: enthusiasm, change and following through](../../../docs/understand-temperament/lessons/04.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Chapter 5: steadiness, privacy and participation](../../../docs/understand-temperament/lessons/05.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Chapter 6: sensitivity, self-concern and practical compassion](../../../docs/understand-temperament/lessons/06.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Chapter 7: cooperation in the workplace](../../../docs/understand-temperament/lessons/07.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Chapter 8: compatibility as a question, not a verdict](../../../docs/understand-temperament/lessons/08.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Chapter 9: spiritual explanation and practical love](../../../docs/understand-temperament/lessons/09.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Appendix I: spirit, appearance and conscious practice](../../../docs/understand-temperament/lessons/10.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Appendix II: reconstructing the four-body-type hypothesis](../../../docs/understand-temperament/lessons/11.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Synthesis: from the book's model to a considerate action](../../../docs/understand-temperament/lessons/12.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [A second author, a broader application](../../../docs/understand-temperament/lessons/00.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Second check revised bilingually |
+| [Chapter 1: the same, only different](../../../docs/understand-temperament/lessons/01.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Chapter 2: reading the psychological map](../../../docs/understand-temperament/lessons/02.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Second check revised bilingually |
+| [Chapter 3: initiative, determination and correction](../../../docs/understand-temperament/lessons/03.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Second check revised bilingually; repair example reference corrected |
+| [Chapter 4: enthusiasm, change and following through](../../../docs/understand-temperament/lessons/04.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Chapter 5: steadiness, privacy and participation](../../../docs/understand-temperament/lessons/05.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Chapter 6: sensitivity, self-concern and practical compassion](../../../docs/understand-temperament/lessons/06.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Chapter 7: cooperation in the workplace](../../../docs/understand-temperament/lessons/07.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Chapter 8: compatibility as a question, not a verdict](../../../docs/understand-temperament/lessons/08.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Second check revised bilingually |
+| [Chapter 9: spiritual explanation and practical love](../../../docs/understand-temperament/lessons/09.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Appendix I: spirit, appearance and conscious practice](../../../docs/understand-temperament/lessons/10.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Existing main teaching/checks retained after close review |
+| [Appendix II: reconstructing the four-body-type hypothesis](../../../docs/understand-temperament/lessons/11.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Second check revised bilingually |
+| [Synthesis: from the book's model to a considerate action](../../../docs/understand-temperament/lessons/12.html) | Current Childs-course main explanation/checks read; activity alignment reviewed; [focused review](childs-temperament/REVIEW.md) | Existing main teaching/checks retained after close review |
 
 ## understanding-temperaments
 

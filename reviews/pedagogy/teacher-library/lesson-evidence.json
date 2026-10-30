@@ -128,7 +128,7 @@
       "course": "understand-temperament",
       "units": 13,
       "earlierIndividualAudits": 13,
-      "revisedAssessments": 0
+      "revisedAssessments": 5
     },
     {
       "course": "understanding-temperaments",
@@ -179,7 +179,7 @@
       "revisedAssessments": 0
     }
   ],
-  "revisedAssessments": 181,
+  "revisedAssessments": 186,
   "records": [
     {
       "course": "according-to-luke",
@@ -28722,7 +28722,7 @@
       ],
       "questionEvidence": [
         "What distinguishes temperament from a passing mood?",
-        "Why does “I felt angry yesterday” give less information than a description of a recurring response?"
+        "A reader sees the same four names in Steiner and Childs and attributes every later job and body-type prediction to Steiner. Another infers a fixed type from one angry day. What distinctions should be restored?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -28760,7 +28760,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -28769,7 +28773,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "e1f75fcea49632f1ee0c1623a6126ac8563676c93efe179ee6610ecfac7048ed"
+      "sha256": "07956fa97a01ba11831c2f3f93fa08734f92034eff131cb6aefb4ee8309170d6"
     },
     {
       "course": "understand-temperament",
@@ -28834,6 +28838,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -28868,7 +28876,7 @@
       ],
       "questionEvidence": [
         "Does quiet participation tell you whether a person is thinking convergently or divergently?",
-        "How can sanguinity be called stable in Childs’s special usage?"
+        "A quiet designer generates several possibilities, then selects one against criteria. An observer calls the designer convergent, calm and reliable merely because they are quiet. How would you revise the use of Childs’s three axes?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -28906,7 +28914,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -28915,7 +28927,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "db28cbf2088963908fd9f217d25909a2b8dbe8a2299e0a6371201a3204278cd0"
+      "sha256": "a48429649b410169dee68e9121a7bcb597f850528cbe8406817a2922d84f6047"
     },
     {
       "course": "understand-temperament",
@@ -28941,7 +28953,7 @@
       ],
       "questionEvidence": [
         "What is central to the choleric portrait besides anger?",
-        "How could the same determination help and hinder the bridge project?"
+        "A determined organizer overlooks an unstable support in a repair. A colleague thinks that respecting competence means concealing the defect. How would you give feedback while retaining the useful initiative?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -28979,7 +28991,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -28988,7 +29004,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "abc8b61e002dc7a28428d17a6225d4739ba1ca9339c3191a616d39da25d54940"
+      "sha256": "c3a0ccb037f7c70b1a0dc6a1207a64a5af50af276217fbbbe79900b96626c951"
     },
     {
       "course": "understand-temperament",
@@ -29053,6 +29069,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -29126,6 +29146,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -29200,6 +29224,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -29278,6 +29306,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -29312,7 +29344,7 @@
       ],
       "questionEvidence": [
         "Why are there ten unordered pairings of four main temperaments, including same-type pairs?",
-        "Why can both similarity and difference create difficulties?"
+        "Partners with different preferences for spontaneous outings are assigned an incompatible pairing. One says that reversing their names creates an eleventh pairing. What should be corrected, and what agreement could they test?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -29350,7 +29382,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -29359,7 +29395,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "16e7de275e3d79bc921385323c1ced3520334d0f8c25274b5ee8c3ac98f521c5"
+      "sha256": "87a643de7572104363ef86015057568a62da08ffb1e1b94fc72b3cd75a2b680c"
     },
     {
       "course": "understand-temperament",
@@ -29424,6 +29460,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -29497,6 +29537,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -29531,7 +29575,7 @@
       ],
       "questionEvidence": [
         "How does Childs’s final proposal produce four positions?",
-        "Why is “four cannot fit into three” insufficient as biological evidence?"
+        "A diagram makes four body positions from two builds and two degrees, then treats the matching count as proof of temperament and organ-system links. Which steps need independent evidence?"
       ],
       "priorIndividualAudit": {
         "reference": "../chapter-coverage.json",
@@ -29569,7 +29613,11 @@
           "existingFeedbackReviewed": true
         }
       },
-      "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentReview": "Applied assessment revised; explanation and source material retained.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
@@ -29578,7 +29626,7 @@
         "hasAnswerDisclosure": true,
         "hasPortuguesePartner": true
       },
-      "sha256": "97cecded76dedb322598d0d66180ccc2726e92cc388321da9f387ce059d29cbc"
+      "sha256": "fe62194795a9fe16c6f5e2e46485a80b8ddf103425ceed20a7df21c81ec3ffa3"
     },
     {
       "course": "understand-temperament",
@@ -29643,6 +29691,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "childs-temperament/REVIEW.md",
+        "scope": "All thirteen English Childs-course primary explanations and checks read, plus activity alignment; five second checks revised bilingually and the repair-example reference corrected; original book and retained detailed prose not freshly audited."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,

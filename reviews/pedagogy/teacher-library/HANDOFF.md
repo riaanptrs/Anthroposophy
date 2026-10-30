@@ -8,7 +8,7 @@ Updated 30 October 2026. The user resumed the review directly. No handoff to an 
 - Branch: `review/teacher-library-2026-10-29`.
 - Draft PR: https://github.com/riaanptrs/Anthroposophy/pull/11 . Lesson revisions are not live. Continue on this review branch; do not merge or deploy by assumption.
 - Authoritative review index: `reviews/pedagogy/teacher-library/REVIEW.md`; per-unit basis/action: `LESSONS.md`; generated census: `lesson-evidence.json`.
-- Census: 674 units, 29 course/companion groups, 487 attributed earlier audits. Current cumulative revised assessments: **181 distinct units**, counting each bilingual unit once.
+- Census: 674 units, 29 course/companion groups, 487 attributed earlier audits. Current cumulative revised assessments: **186 distinct units**, counting each bilingual unit once.
 
 ## Completed checkpoint
 
@@ -26,7 +26,9 @@ All pass. The browser batch covers fifteen lessons in two languages, 320/1280 pi
 
 ## Exact restart point
 
-Next course: **Understand Your Temperament**, the thirteen-unit Childs book course. Consult its entries in `LESSONS.md` and current rendered lessons before editing. It is separate from the twelve-unit **Understanding Temperaments** introductory path, which follows it in the established review order. Do not treat these similarly named courses as interchangeable.
+The thirteen-lesson **Understand Your Temperament** Childs course is now complete at primary-teaching review scope. Its five revised checks, unchanged explanations/activities and full 104-case browser validation are recorded in `childs-temperament/REVIEW.md`.
+
+Next course: **Understanding Temperaments**, the separate twelve-lesson introductory path (`understanding-temperaments`). Start with its current rendered lesson `00.html` and matching rows in `content/temperaments-clear-lessons.json`. Do not treat the similarly named courses as interchangeable.
 
 Read each current English primary explanation, all questions/answers and retained activities for alignment. Compare rendered teaching with authoring first: some published courses are newer than older source layers. Retain strong content; change actual gaps, leading assessments or inconsistencies. Keep source claims, ordinary illustrations and the learner’s assessment distinct. Preserve source locators, diagrams, notebook identities and content outside the scoped change.
 
