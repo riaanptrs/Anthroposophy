@@ -5,7 +5,7 @@ import {esc} from './learning-html.mjs';
 export function applyAcademyPolish(docsDir='docs') {
  const root=path.resolve(docsDir),searchPages={en:[],pt:[]};
  for(const asset of ['platform-polish.css','platform-polish.js'])fs.copyFileSync(new URL('./assets/'+asset,import.meta.url),path.join(root,asset));
- const routes=fs.readdirSync(root,{recursive:true}).filter(route=>route.endsWith('.html')).sort();
+ const routes=fs.readdirSync(root,{recursive:true}).map(route=>route.replaceAll('\\','/')).filter(route=>route.endsWith('.html')).sort();
  for(const route of routes){
  const file=path.join(root,route),logicalFile='docs/'+route;
  let after=fs.readFileSync(file,'utf8');

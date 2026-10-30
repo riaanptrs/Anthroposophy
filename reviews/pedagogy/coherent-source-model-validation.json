@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "baseline": "55ec3198973cdf97573d72df69f62ba6083a9afd",
+  "existingContentInputsUnchanged": true,
+  "historicalBankSha256": {
+    "passage-study.json": "cc0e8eeba6a2c5d2e41bb3205c16e7bc73a0e9fd9c00623998cbe2377503831d",
+    "learning-book-checks.json": "37c3c7d96d754717713ba4ce67d1cdb5a6a4cca37f39bd6143820023d167df22"
+  },
+  "newlineNormalization": "Windows CRLF normalized to repository LF for byte comparison",
+  "foundationSourceRecords": 36,
+  "introductionSourceLessons": 28,
+  "theosophyConceptLessons": 23,
+  "mapFrameworks": 6,
+  "languages": [
+    "en",
+    "pt-BR"
+  ],
+  "checks": [
+    "Theosophy graph and source capture bounds validated by owner model",
+    "Introduction source registry/primary assignments/28-lesson sequence",
+    "Foundations source sequence and bilingual clarity parity",
+    "all existing tracked content files unchanged",
+    "historical source/question banks unchanged against current HEAD",
+    "six bilingual map frameworks have sources and attributed explanatory notes"
+  ],
+  "limits": [
+    "No fresh verification of private source books",
+    "New diagrams are original teaching paraphrases, not quotations"
+  ]
+}

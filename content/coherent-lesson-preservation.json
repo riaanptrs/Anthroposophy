@@ -1,0 +1,2529 @@
+{
+  "schemaVersion": 1,
+  "baselineCommit": "55ec3198973cdf97573d72df69f62ba6083a9afd",
+  "purpose": "Keep historical public lesson anchors across fresh builds and retain two already-published source annotations that the older owner data does not reproduce.",
+  "scope": "174 bilingual canonical lessons. DOM IDs only; data-*-id metadata is not a DOM identifier. Source overrides are restricted to Introduction lesson 27 in English and Brazilian Portuguese.",
+  "reviewNote": "This ledger preserves the reviewed repository output; it does not certify a new reading of any private source book. The two source blocks, including citation URLs, edition credits and qualified capture notes, are copied exactly from the baseline.",
+  "lessons": [
+    {
+      "route": "introduction-to-anthroposophy/lessons/01.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/02.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection",
+        "deeper-study"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/03.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/04.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/05.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "member-cards",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/06.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/07.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/08.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/09.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/10.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/11.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/12.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/13.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/14.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "world-relationships",
+        "world-diagram-title",
+        "death-transition",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/15.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection",
+        "deeper-study"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/16.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection",
+        "deeper-study"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/17.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection",
+        "deeper-study"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/18.html",
+      "domIds": [
+        "main",
+        "intro-18-map",
+        "intro-18-map-heading",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/19.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/20.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/21.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/22.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/23.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "source-needed",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/24.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "source-needed",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/25.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "source-needed",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/26.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "source-needed",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/27.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "source-needed",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ],
+      "sourceOverride": {
+        "selector": "#source",
+        "reason": "The prior reviewed, published annotation identifies the supplied 14-capture PDF and differentiates its capture positions from printed pages. The older owner JSON still says that no PDF is available. Preserve the existing qualified annotation verbatim until that source record receives a separate editorial review; no fresh PDF audit is claimed.",
+        "html": "<section id=\"source\"><h2>Read Steiner</h2><section class=\"intro-source\" data-intro-source-role=\"primary\" data-intro-source-id=\"ga23-opening\"><div class=\"eyebrow\">Primary source</div><h3>Toward a Threefold Society</h3><p class=\"intro-source-meta\">Rudolf Steiner · GA 23<br>Frank Thomas Smith · Rudolf Steiner Publications · 2019 · supplied 1920 preface in Markdown</p><p><strong>Section:</strong> Preface to the Fourth German Edition — 1920<br><strong>Reading:</strong> Markdown markers 9–14</p><p>Read captures 9-14 of Steiner’s 1920 preface in the newly supplied 14-capture PDF. Distinguish the preface from Frank Thomas Smith’s introduction in captures 6-7. These are capture positions, not reliable printed page numbers; the main chapters remain unavailable.</p><p>This reference is optional further reading. The lesson’s explanation and checks can be studied here; no excerpt from this section is reproduced.</p></section></section>"
+      }
+    },
+    {
+      "route": "introduction-to-anthroposophy/lessons/28.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "concept-architecture",
+        "architecture-title",
+        "architecture-description",
+        "architecture-arrow",
+        "distinction",
+        "checks",
+        "connection",
+        "pathways"
+      ]
+    },
+    {
+      "route": "learn/lessons/01.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/02.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/03.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/04.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/05.html",
+      "domIds": [
+        "main",
+        "foundation-05-reasons",
+        "foundation-05-reasons-heading",
+        "read",
+        "learning-note",
+        "phases-connection"
+      ]
+    },
+    {
+      "route": "learn/lessons/06.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/07.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/08.html",
+      "domIds": [
+        "main",
+        "foundation-08-experience",
+        "foundation-08-experience-heading",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/09.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/10.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/11.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/12.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/13.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/14.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/15.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/16.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/17.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/18.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/19.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/20.html",
+      "domIds": [
+        "main",
+        "foundations-20-future-conditions",
+        "foundations-20-future-conditions-heading",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/21.html",
+      "domIds": [
+        "main",
+        "foundations-21-freedom-error",
+        "foundations-21-freedom-error-heading",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/22.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note",
+        "phases-connection"
+      ]
+    },
+    {
+      "route": "learn/lessons/23.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/24.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/25.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/26.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/27.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/28.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/29.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/30.html",
+      "domIds": [
+        "main",
+        "foundations-changing-emphasis",
+        "foundations-changing-emphasis-heading",
+        "foundations-changing-emphasis-0-title",
+        "foundations-changing-emphasis-0-desc",
+        "foundations-changing-emphasis-0-arrow",
+        "foundations-changing-emphasis-1-title",
+        "foundations-changing-emphasis-1-desc",
+        "foundations-changing-emphasis-1-arrow",
+        "foundations-changing-emphasis-2-title",
+        "foundations-changing-emphasis-2-desc",
+        "foundations-changing-emphasis-2-arrow",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/31.html",
+      "domIds": [
+        "main",
+        "symmetry-title",
+        "symmetry-desc",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/32.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/33.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/34.html",
+      "domIds": [
+        "main",
+        "colour-title",
+        "colour-desc",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/35.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "learn/lessons/36.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/01.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/02.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection",
+        "deeper-study"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/03.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/04.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/05.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "member-cards",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/06.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/07.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/08.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/09.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/10.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/11.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/12.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/13.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/14.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "world-relationships",
+        "world-diagram-title",
+        "death-transition",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/15.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection",
+        "deeper-study"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/16.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection",
+        "deeper-study"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/17.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection",
+        "deeper-study"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/18.html",
+      "domIds": [
+        "main",
+        "intro-18-map",
+        "intro-18-map-heading",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/19.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/20.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/21.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/22.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/23.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "source-needed",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/24.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "source-needed",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/25.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "source-needed",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/26.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "source-needed",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ]
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/27.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "source-needed",
+        "example",
+        "distinction",
+        "checks",
+        "connection"
+      ],
+      "sourceOverride": {
+        "selector": "#source",
+        "reason": "The prior reviewed, published annotation identifies the supplied 14-capture PDF and differentiates its capture positions from printed pages. The older owner JSON still says that no PDF is available. Preserve the existing qualified annotation verbatim until that source record receives a separate editorial review; no fresh PDF audit is claimed.",
+        "html": "<section id=\"source\"><h2>Leia Steiner</h2><section class=\"intro-source\" data-intro-source-role=\"primary\" data-intro-source-id=\"ga23-opening\"><div class=\"eyebrow\">Fonte principal</div><h3>Toward a Threefold Society</h3><p class=\"intro-source-meta\">Rudolf Steiner · GA 23<br>Frank Thomas Smith · Rudolf Steiner Publications · 2019 · supplied 1920 preface in Markdown</p><p><strong>Seção:</strong> Preface to the Fourth German Edition — 1920<br><strong>Leitura:</strong> Marcadores do Markdown 9–14</p><p>Leia as capturas 9-14 do prefácio de Steiner de 1920 no novo PDF fornecido, com 14 capturas. Distinga o prefácio da introdução de Frank Thomas Smith nas capturas 6-7. São posições de captura, não páginas impressas confiáveis; os capítulos principais continuam indisponíveis.</p><p>Esta referência é uma leitura complementar opcional. A explicação e as perguntas da lição podem ser estudadas aqui; esta seção não reproduz um trecho da fonte.</p></section></section>"
+      }
+    },
+    {
+      "route": "pt/introduction-to-anthroposophy/lessons/28.html",
+      "domIds": [
+        "main",
+        "question",
+        "matters",
+        "source",
+        "explanation",
+        "key-concept",
+        "concept-architecture",
+        "architecture-title",
+        "architecture-description",
+        "architecture-arrow",
+        "distinction",
+        "checks",
+        "connection",
+        "pathways"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/01.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/02.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/03.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/04.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/05.html",
+      "domIds": [
+        "main",
+        "foundation-05-reasons",
+        "foundation-05-reasons-heading",
+        "read",
+        "learning-note",
+        "phases-connection"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/06.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/07.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/08.html",
+      "domIds": [
+        "main",
+        "foundation-08-experience",
+        "foundation-08-experience-heading",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/09.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/10.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/11.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/12.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/13.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/14.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/15.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/16.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/17.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/18.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/19.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/20.html",
+      "domIds": [
+        "main",
+        "foundations-20-future-conditions",
+        "foundations-20-future-conditions-heading",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/21.html",
+      "domIds": [
+        "main",
+        "foundations-21-freedom-error",
+        "foundations-21-freedom-error-heading",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/22.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note",
+        "phases-connection"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/23.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/24.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/25.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/26.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/27.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/28.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/29.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/30.html",
+      "domIds": [
+        "main",
+        "foundations-changing-emphasis",
+        "foundations-changing-emphasis-heading",
+        "foundations-changing-emphasis-0-title",
+        "foundations-changing-emphasis-0-desc",
+        "foundations-changing-emphasis-0-arrow",
+        "foundations-changing-emphasis-1-title",
+        "foundations-changing-emphasis-1-desc",
+        "foundations-changing-emphasis-1-arrow",
+        "foundations-changing-emphasis-2-title",
+        "foundations-changing-emphasis-2-desc",
+        "foundations-changing-emphasis-2-arrow",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/31.html",
+      "domIds": [
+        "main",
+        "symmetry-title",
+        "symmetry-desc",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/32.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/33.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/34.html",
+      "domIds": [
+        "main",
+        "colour-title",
+        "colour-desc",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/35.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/learn/lessons/36.html",
+      "domIds": [
+        "main",
+        "read",
+        "learning-note"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/body-soul-spirit.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/consciousness-soul.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/death-and-release.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/freedom-and-initiation.html",
+      "domIds": [
+        "main",
+        "theosophy-preserved-individuality",
+        "theosophy-preserved-individuality-heading",
+        "theosophy-preserved-individuality-svg-title",
+        "theosophy-preserved-individuality-svg-desc",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/human-i.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/karma-and-action.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/life-and-etheric-body.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "theosophy-life-analogy",
+        "theosophy-life-analogy-heading",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/life-between-lives.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/living-archetypes.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/memory-and-individuality.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/mind-soul.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading",
+        "phases-connection"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/nature-and-spiritual-beings.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/physical-body.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/receptivity-and-equanimity.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/reincarnation.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/sentience-and-astral-body.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/sentient-soul.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading",
+        "phases-connection"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/soul-affinities.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/spiritual-transformation.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/thinking-and-willing.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/thought-forms-and-aura.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/three-worlds.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "pt/theosophy/lessons/understanding-and-knowledge.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/body-soul-spirit.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/consciousness-soul.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/death-and-release.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/freedom-and-initiation.html",
+      "domIds": [
+        "main",
+        "theosophy-preserved-individuality",
+        "theosophy-preserved-individuality-heading",
+        "theosophy-preserved-individuality-svg-title",
+        "theosophy-preserved-individuality-svg-desc",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/human-i.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/karma-and-action.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/life-and-etheric-body.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "theosophy-life-analogy",
+        "theosophy-life-analogy-heading",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/life-between-lives.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/living-archetypes.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/memory-and-individuality.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/mind-soul.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading",
+        "phases-connection"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/nature-and-spiritual-beings.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/physical-body.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/receptivity-and-equanimity.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/reincarnation.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/sentience-and-astral-body.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/sentient-soul.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading",
+        "phases-connection"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/soul-affinities.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/spiritual-transformation.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/thinking-and-willing.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/thought-forms-and-aura.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/three-worlds.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    },
+    {
+      "route": "theosophy/lessons/understanding-and-knowledge.html",
+      "domIds": [
+        "main",
+        "begin-with-experience",
+        "central-idea",
+        "useful-terminology",
+        "building-the-concept",
+        "keep-the-distinction",
+        "connected-ideas",
+        "connected-ideas-heading",
+        "try-in-life",
+        "reflection",
+        "takeaways",
+        "deeper-study",
+        "study-controls-heading",
+        "concept-study-state",
+        "concept-reflection",
+        "primary-sources",
+        "primary-sources-heading"
+      ]
+    }
+  ]
+}

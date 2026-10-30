@@ -3,6 +3,9 @@
  'use strict';
  const data=document.getElementById('cw-data');if(!data)return;
  const config=JSON.parse(data.textContent),main=document.querySelector('main');if(!main)return;
+ // Authored pathways and the canonical beginner overview already provide their
+ // complete navigation. Keep them visible instead of flattening their content.
+ if(main.hasAttribute('data-learning-pathways')||main.querySelector('.pathway-foundations-start'))return;
  const pt=document.documentElement.lang==='pt-BR',lang=pt?'pt':'en',say=(a,b)=>pt?b:a;
  if(!location.pathname.endsWith('/'+config.page))return;
  const scope=location.pathname.slice(0,-config.page.length),url=r=>scope+(pt?'pt/':'')+r;
@@ -91,24 +94,24 @@
   // Preserve special source-owned sequences, including optional practices and Waldorf branches.
   const oldSequence=reading.querySelector('.lesson-navigation,.foodwise-next,.wf-prev-next,.ec-lesson-nav,.learning-navigation');
   const oldLinks=oldSequence?[...oldSequence.querySelectorAll('a')]:[];
-  const previous=oldLinks.find(a=>/←|previous|anterior/i.test(a.textContent));const next=oldLinks.find(a=>/→|next|próxim|seguinte/i.test(a.textContent)&&a!==previous);
+  const previous=oldLinks.find(a=>/←|previous|anterior/i.test(a.textContent));const next=reading.querySelector('[data-flow-step="next"] a.button')||oldLinks.find(a=>/→|next|próxim|seguinte/i.test(a.textContent)&&a!==previous);
   const bar=make('nav','cw-pagination');bar.setAttribute('aria-label',say('Lesson navigation','Navegação das lições'));
   const addDirection=(original,fallback,text)=>{if(!original&&!fallback)return;const a=original?original.cloneNode(true):anchor(fallback.route,fallback[lang]);let title=a.textContent.replace(/[←→]/g,'').replace(/^\s*(?:previous|next|anterior|próxima|seguinte)\s*:?\s*/i,'').trim();if(!title){const destination=course.lessons.find(l=>url(l.route)===a.pathname);title=destination?.[lang]||fallback?.[lang]||course[lang];}a.replaceChildren(make('span','cw-direction',text),make('span','cw-nav-title',title));a.removeAttribute('id');for(const attr of [...a.attributes])if(attr.name.startsWith('data-'))a.removeAttribute(attr.name);bar.append(a);};
   addDirection(previous,index>0?course.lessons[index-1]:{route:course.home,[lang]:course[lang]},say('← Previous','← Anterior'));
   if(index>=0)addDirection(next,course.lessons[index+1]||{route:course.home,[lang]:course[lang]},index===course.lessons.length-1&&!next?say('Course overview →','Visão geral →'):say('Next →','Próxima →'));
   else if(next)addDirection(next,null,say('Next →','Próxima →'));
   main.append(bar);if(oldSequence)oldSequence.hidden=true;
-  if(course.id==='introduction-to-anthroposophy'&&index===course.lessons.length-1&&reading.querySelector('#pathways')){
+  if(course.id==='introduction-to-anthroposophy'&&index===course.lessons.length-1&&reading.querySelector('#pathways')&&!reading.querySelector('[data-lesson-flow="canonical"]')){
    const last=bar.lastElementChild;last.href='#pathways';last.querySelector('.cw-direction').textContent=say('Next study →','Próximo estudo →');
   }
   const contents=make('nav','cw-section-links');contents.setAttribute('aria-label',say('In this lesson','Nesta lição'));
-  const depth=reading.querySelector('.batch-retained-depth,.cp-retained-depth,.wf-original-record,.wf-retained-record');
+  const depth=reading.querySelector('.flow-depth,.batch-retained-depth,.cp-retained-depth,.wf-original-record,.wf-retained-record');
   if(depth){depth.id||='workspace-depth';const a=make('a','',say('Go deeper','Aprofundar'));a.href='#'+depth.id;contents.append(a);}
-  const studies=[...reading.querySelectorAll('.study-notebook,.learning-notebook,.ec-study-controls,.wf-study,.thought-study')].filter(e=>!e.closest('.cw-panel')&&!(course.id==='foundations'&&e.matches('.learning-notebook')));
+  const studies=[...reading.querySelectorAll('.study-notebook,.learning-notebook,.ec-study-controls,.wf-study,.thought-study')].filter(e=>!e.closest('.cw-panel,.flow-depth')&&!(course.id==='foundations'&&e.matches('.learning-notebook')));
   studies.forEach((e,i)=>{const d=fold(e,say('Personal study','Estudo pessoal'),'workspace-study-'+i);if(i===0){const a=make('a','',say('My study','Meu estudo'));a.href='#'+d.id;contents.append(a);}});
   const thought=reading.querySelector('.thought-practice');if(thought&&!studies.length){thought.id||='workspace-practice-study';const a=make('a','',say('My study','Meu estudo'));a.href='#'+thought.id;contents.append(a);}
   const sectionIndex=make('details','cw-page-index');sectionIndex.append(make('summary','',say('On this page','Nesta página')));const list=make('ul');
-  [...reading.querySelectorAll('h2')].filter(h=>!h.closest('nav,dialog,.wf-original')).forEach((h,i)=>{h.id||='workspace-section-'+i;const li=make('li'),a=make('a','',h.textContent);a.href='#'+h.id;li.append(a);list.append(li);});sectionIndex.append(list);contents.append(sectionIndex);
+  [...reading.querySelectorAll('h2')].filter(h=>!h.closest('nav,dialog,.wf-original,.flow-depth')).forEach((h,i)=>{h.id||='workspace-section-'+i;const li=make('li'),a=make('a','',h.textContent);a.href='#'+h.id;li.append(a);list.append(li);});sectionIndex.append(list);contents.append(sectionIndex);
   const h1=reading.querySelector('h1');(h1?.closest('header')||h1||reading.firstElementChild).after(contents);
   const drawer=make('dialog','cw-drawer');drawer.id='workspace-chapters';drawer.setAttribute('aria-labelledby','workspace-chapters-title');
   const drawerHead=make('div','cw-drawer-heading'),title=make('h2','',say('Chapters','Capítulos'));title.id='workspace-chapters-title';const close=make('button','',say('Close','Fechar'));close.type='button';drawerHead.append(title,close);drawer.append(drawerHead);main.append(drawer);

@@ -3,6 +3,7 @@ import {createHash} from 'node:crypto';
 import {esc, relative} from './learning-html.mjs';
 import {platformNav, platformSupportNav, platformArea} from './platform-architecture.mjs';
 import {renderCourseArtwork} from './visual-identity.mjs';
+import {renderAnthroposophyMap} from './render-anthroposophy-maps.mjs';
 
 const slug = /^[a-z][a-z0-9]*(?:-[a-z0-9]+)*$/;
 const t = (lang, en, pt) => lang === 'pt' ? pt : en;
@@ -90,7 +91,7 @@ export function renderPlatformPage(file, title, body, lang, {partner, descriptio
   if (!['en', 'pt'].includes(lang)) throw new Error('Unsupported platform language');
   const area = platformArea(file), areaName = area ?? (file.replace(/^docs\/(?:pt\/)?/, '') === 'index.html' ? 'home' : 'support');
   const attributes = ['course','order','routes','lesson'].map(name => body.match(new RegExp(`\\bdata-concept-${name}="([^"]*)"`))?.[0]).filter(Boolean).join(' ');
-  const assets = ['concept-platform.css','concept-platform.js'].map(name => {
+  const assets = ['concept-platform.css','concept-platform.js','anthroposophy-maps.css','coherent-lessons.css'].map(name => {
     const hash = createHash('sha256').update(fs.readFileSync(new URL('./assets/' + name, import.meta.url))).digest('hex').slice(0,12);
     const href = esc(relative(file, 'docs/' + name)) + '?v=' + hash;
     return name.endsWith('.css') ? `<link rel="stylesheet" href="${href}">` : `<script defer src="${href}"></script>`;
@@ -121,44 +122,40 @@ function firstReading(id, lang) {
 }
 
 export function renderConceptLesson(lesson, {course, lessons, concepts, practices, lang, file}) {
-  const v = lesson[lang], order = orderFor(course,lessons), position = order.indexOf(lesson.id);
-  if (position < 0 || !v?.title || !v.question) throw new Error('Lesson is absent from its course or language');
-  const module = find(course.modules,lesson.moduleId,'module');
-  const terms = lesson.termIds.map(id => find(concepts,id,'term'));
-  const central = find(concepts,lesson.primaryConceptId,'primary concept');
-  const relationships = lesson.connections.map(edge => {
-    const concept = find(concepts,edge.id,'connected concept');
-    return `<li><h3>${link(file,conceptRoute(concept),value(concept,lang,'term'),lang)}</h3><p>${esc(edge[lang])}</p></li>`;
+  const v=lesson[lang],order=orderFor(course,lessons),position=order.indexOf(lesson.id);
+  if(position<0||!v?.title||!v.question)throw new Error('Lesson is absent from its course or language');
+  const module=find(course.modules,lesson.moduleId,'module'),terms=lesson.termIds.map(id=>find(concepts,id,'term'));
+  const central=find(concepts,lesson.primaryConceptId,'primary concept');
+  const practice=lesson.practiceId?find(practices,lesson.practiceId,'practice'):null;
+  const previous=position?find(lessons,order[position-1],'previous lesson'):null;
+  const next=position+1<order.length?find(lessons,order[position+1],'next lesson'):null;
+  const clarity=theosophyClarity.find(item=>item.id===lesson.id)?.[lang];
+  if(!clarity||clarity.paragraphs.length<2||clarity.checks.length!==2)throw Error('Incomplete canonical Theosophy reading '+lesson.id+'/'+lang);
+  const step=(name,title,body,attributes='')=>'<section class="lesson-flow-step'+(name==='distinction'?' flow-distinction':'')+'" data-flow-step="'+name+'" '+attributes+'><h2'+(name==='relationship'?' id="connected-ideas-heading"':'')+'>'+title+'</h2>'+body+'</section>';
+  const connections=lesson.connections.map(edge=>{const concept=find(concepts,edge.id,'connected concept');return '<li><h3>'+link(file,conceptRoute(concept),value(concept,lang,'term'),lang)+'</h3><p>'+esc(edge[lang])+'</p></li>';}).join('');
+  const mapId=({'body-soul-spirit':'constitution','physical-body':'constitution','life-and-etheric-body':'constitution','sentience-and-astral-body':'constitution','human-i':'constitution','sentient-soul':'soul-development','mind-soul':'soul-development','consciousness-soul':'soul-development','spiritual-transformation':'transformation','reincarnation':'death-rebirth','death-and-release':'death-rebirth','life-between-lives':'death-rebirth'})[lesson.id];
+  const map=mapId?renderAnthroposophyMap(mapId,lang,{prefix:'theosophy'}):'';
+  const roleMap=readingRoleMap(clarity.roleMap,clarity.paragraphs.length,lesson.id+'/'+lang);
+  const checks=clarity.checks.map(([question,answer])=>'<div class="cp-clarity-check"><h3>'+esc(question)+'</h3><details><summary>'+t(lang,'Explore the reasoning','Explore o raciocínio')+'</summary><p>'+esc(answer)+'</p></details></div>').join('');
+  const comparisons=(v.comparisons??[]).map(table=>{
+    if(!table.title||!Array.isArray(table.headers)||!table.headers.length||!Array.isArray(table.rows)||table.rows.some(row=>!Array.isArray(row)||row.length!==table.headers.length))throw Error('Invalid concept comparison table');
+    return '<table class="cp-comparison"><caption>'+esc(table.title)+'</caption><thead><tr>'+table.headers.map(h=>'<th scope="col">'+esc(h)+'</th>').join('')+'</tr></thead><tbody>'+table.rows.map(row=>'<tr>'+row.map((cell,i)=>i?'<td>'+esc(cell)+'</td>':'<th scope="row">'+esc(cell)+'</th>').join('')+'</tr>').join('')+'</tbody></table>';
   }).join('');
-  const practice = lesson.practiceId ? find(practices,lesson.practiceId,'practice') : null;
-  const previous = position ? find(lessons,order[position-1],'previous lesson') : null;
-  const next = position + 1 < order.length ? find(lessons,order[position+1],'next lesson') : null;
-  const comparisons = (v.comparisons ?? []).map(table => {
-    if (!table.title || !Array.isArray(table.headers) || !table.headers.length || !Array.isArray(table.rows) || table.rows.some(row=>!Array.isArray(row)||row.length!==table.headers.length)) throw new Error('Invalid concept comparison table');
-    return `<table class="cp-comparison"><caption>${esc(table.title)}</caption><thead><tr>${table.headers.map(header=>`<th scope="col">${esc(header)}</th>`).join('')}</tr></thead><tbody>${table.rows.map(row=>`<tr>${row.map((cell,index)=>index?`<td>${esc(cell)}</td>`:`<th scope="row">${esc(cell)}</th>`).join('')}</tr>`).join('')}</tbody></table>`;
-  }).join('');
+  const deeper='<details class="lesson-flow-step flow-depth cp-deeper cp-retained-depth" data-flow-step="depth" id="go-deeper"><summary>'+t(lang,'Go Deeper — optional','Aprofunde — opcional')+'</summary><p>'+t(lang,'Source context, terminology and personal study tools. The teaching sequence above is complete.','Contexto das fontes, terminologia e ferramentas pessoais de estudo. A sequência de ensino acima está completa.')+'</p>'+moduleNavigation(lesson.id,{course,lessons,lang,file})+'<section class="cp-terminology" id="useful-terminology" data-concept-section="terminology"><h3>'+t(lang,'Useful terminology','Terminologia útil')+'</h3><dl>'+terms.map(term=>'<dt>'+link(file,conceptRoute(term),value(term,lang,'term'),lang)+'</dt><dd>'+esc(value(term,lang,'definition'))+'</dd>').join('')+'</dl></section>'+comparisons+'<section class="cp-takeaways" id="takeaways" data-concept-section="takeaways"><h3>'+t(lang,'Points to revisit','Pontos para retomar')+'</h3>'+list(v.takeaways)+'</section>'+(v.deeper?.length?'<section id="deeper-study" data-concept-section="deeper"><h3>'+t(lang,'Source questions and qualifications','Perguntas e qualificações das fontes')+'</h3>'+v.deeper.map(item=>'<details class="cp-deeper"><summary>'+esc(item.title)+'</summary>'+paragraphs(item.paragraphs)+'</details>').join('')+'</section>':'')+studyControls(lang)+sourceReferences(lesson.sources,{course,lang,file})+'</details>';
   return [
-    `<article class="cp-lesson" ${progressAttributes(course,lessons,lesson)}>`,
-    `<nav class="cp-breadcrumb" aria-label="${t(lang,'Course location','Localização no curso')}">${link(file,`${courseRoute(course)}/index.html`,value(course,lang,'title'),lang)}<span>${t(lang,'Lesson','Lição')} ${position+1} ${t(lang,'of','de')} ${order.length}</span></nav>`,
-    `<header class="cp-lesson-heading"><p class="cp-label">${esc(value(module,lang,'title'))}</p><h1>${esc(v.title)}</h1><p class="cp-question">${esc(v.question)}</p></header>`,
-    moduleNavigation(lesson.id,{course,lessons,lang,file}),
-    firstReading(lesson.id,lang),
-    `<details class="cp-deeper cp-retained-depth"><summary>${t(lang,'Go deeper: the full explanation, connections and practices','Aprofunde: explicação completa, conexões e práticas')}</summary>`,
-    `<section class="cp-experience" id="begin-with-experience" data-concept-section="experience"><div class="cp-label">${t(lang,'Observe','Observe')}</div><h2>${t(lang,'Begin with experience','Comece com a experiência')}</h2>${paragraphs(v.experience)}</section>`,
-    `<section class="cp-central-idea" id="central-idea" data-concept-section="central"><div class="cp-label">${t(lang,'Steiner’s account','A concepção de Steiner')}</div><h2>${t(lang,'The central idea','A ideia central')}</h2><p>${esc(v.centralIdea)}</p></section>`,
-    `<section class="cp-terminology" id="useful-terminology" data-concept-section="terminology"><h2>${t(lang,'Useful terminology','Terminologia útil')}</h2><dl>${terms.map(term => `<dt>${link(file,conceptRoute(term),value(term,lang,'term'),lang)}</dt><dd>${esc(value(term,lang,'definition'))}</dd>`).join('')}</dl></section>`,
-    `<section class="cp-explanation" id="building-the-concept" data-concept-section="teaching"><h2>${t(lang,'Building the concept','Construindo o conceito')}</h2>${paragraphs(v.explanation)}${comparisons}</section>`,
-    workedCase(v.workedExample, lang),
-    `<aside class="cp-distinction" id="keep-the-distinction" data-concept-section="distinction"><h2>${t(lang,'Keep this distinction','Conserve esta distinção')}</h2><p>${esc(v.distinction)}</p></aside>`,
-    `<section class="cp-concept-map" id="connected-ideas" data-concept-section="connections" aria-labelledby="connected-ideas-heading"><h2 id="connected-ideas-heading">${t(lang,'How the ideas connect','Como as ideias se conectam')}</h2><div class="cp-map-center"><h3>${link(file,conceptRoute(central),value(central,lang,'term'),lang)}</h3><p>${esc(value(central,lang,'definition'))}</p></div><ul class="cp-map-relations">${relationships}</ul></section>`,
-    practice ? practiceBody(practice,{lang,file},true) : '',
-    `<section class="cp-reflection" id="reflection" data-concept-section="reflection"><h2>${t(lang,'Reflect in your own words','Reflita com suas palavras')}</h2><p class="cp-reflection-question">${esc(v.reflection.question)}</p><details class="cp-course-notes"><summary>${t(lang,'Reveal course notes','Revelar notas do curso')}</summary>${paragraphs(v.reflection.notes)}</details></section>`,
-    `<section class="cp-takeaways" id="takeaways" data-concept-section="takeaways"><h2>${t(lang,'What to remember','O que lembrar')}</h2>${list(v.takeaways)}</section>`,
-    v.deeper?.length ? `<section class="cp-deeper-study" id="deeper-study" data-concept-section="deeper"><h2>${t(lang,'Optional deeper study','Aprofundamento opcional')}</h2>${v.deeper.map(item => `<details class="cp-deeper"><summary>${esc(item.title)}</summary>${paragraphs(item.paragraphs)}</details>`).join('')}</section>` : '',
-    '</details>',
-    studyControls(lang),
-    sourceReferences(lesson.sources,{course,lang,file}),
-    `<nav class="cp-lesson-navigation" aria-label="${t(lang,'Lesson navigation','Navegação das lições')}">${previous ? link(file,lessonRoute(course,previous),'← '+value(previous,lang,'title'),lang) : link(file,`${courseRoute(course)}/index.html`,t(lang,'← Course introduction','← Introdução do curso'),lang)}${next ? link(file,lessonRoute(course,next),value(next,lang,'title')+' →',lang,'class="cp-next"') : link(file,`${courseRoute(course)}/index.html`,t(lang,'Return to the course map →','Retornar ao mapa do curso →'),lang,'class="cp-next"')}</nav></article>`
+    '<article class="cp-lesson canonical-lesson" data-lesson-flow="canonical" '+progressAttributes(course,lessons,lesson)+'>',
+    '<nav class="cp-breadcrumb" aria-label="'+t(lang,'Course location','Localização no curso')+'">'+link(file,courseRoute(course)+'/index.html',value(course,lang,'title'),lang)+'<span>'+t(lang,'Lesson','Lição')+' '+(position+1)+' '+t(lang,'of','de')+' '+order.length+'</span></nav>',
+    '<header class="cp-lesson-heading"><p class="cp-label">'+esc(value(module,lang,'title'))+'</p><h1>'+esc(v.title)+'</h1></header>',
+    step('question',t(lang,'The Question','A pergunta'),'<p class="cp-question">'+esc(v.question)+'</p>','id="the-question"'),
+    step('experience',t(lang,'Begin with Experience','Comece com a experiência'),paragraphs(clarity.paragraphs[0]),'id="begin-with-experience" data-concept-section="experience"'),
+    step('idea',t(lang,'Steiner’s Idea','A ideia de Steiner'),'<div id="building-the-concept" data-concept-section="teaching">'+paragraphs(clarity.paragraphs.slice(1))+'</div>','id="central-idea" data-concept-section="central"'),
+    step('relationship',t(lang,'See the Relationship','Veja a relação'),map+roleMap+'<div class="cp-concept-map"><div class="cp-map-center"><h3>'+link(file,conceptRoute(central),value(central,lang,'term'),lang)+'</h3><p>'+esc(value(central,lang,'definition'))+'</p></div><ul class="cp-map-relations">'+connections+'</ul></div>','id="connected-ideas" data-concept-section="connections"'),
+    step('distinction',t(lang,'Important Distinction','Distinção importante'),paragraphs(v.distinction),'id="keep-the-distinction" data-concept-section="distinction"'),
+    step('apply',t(lang,'Apply It','Aplique'),'<div id="reflection" data-concept-section="reflection"><p class="cp-reflection-question">'+esc(v.reflection.question)+'</p><details class="cp-course-notes"><summary>'+t(lang,'Consider an approach','Considere uma abordagem')+'</summary>'+paragraphs(v.reflection.notes)+'</details></div><div id="try-in-life" data-concept-section="practice">'+(practice?'<p>'+link(file,practiceRoute(practice),t(lang,'Optional: try the related practice','Opcional: experimente a prática relacionada'),lang)+'</p>':'')+'</div>'),
+    step('check',t(lang,'Check Your Understanding','Confira sua compreensão'),checks,'id="check-understanding"'),
+    deeper,
+    step('next',t(lang,'Next Lesson','Próxima lição'),'<p>'+t(lang,'Carry this distinction into the next question.','Leve esta distinção para a próxima pergunta.')+'</p><nav class="cp-lesson-navigation" aria-label="'+t(lang,'Lesson navigation','Navegação das lições')+'">'+(previous?link(file,lessonRoute(course,previous),'← '+value(previous,lang,'title'),lang):link(file,courseRoute(course)+'/index.html',t(lang,'← Course introduction','← Introdução do curso'),lang))+(next?link(file,lessonRoute(course,next),value(next,lang,'title')+' →',lang,'class="cp-next"'):link(file,courseRoute(course)+'/index.html',t(lang,'Return to the course map →','Retornar ao mapa do curso →'),lang,'class="cp-next"'))+'</nav>','id="next-lesson"'),
+    '</article>'
   ].join('');
 }
 

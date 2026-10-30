@@ -1,0 +1,14 @@
+/* The existing academy palette and type remain the visual foundation. */
+.canonical-lesson{counter-reset:lesson-step;max-width:49rem;margin:1.5rem auto}
+.canonical-lesson>.lesson-flow-step{counter-increment:lesson-step;padding:1.3rem 0;border-top:1px solid color-mix(in srgb,currentColor 18%,transparent);scroll-margin-top:8rem}
+.canonical-lesson>.lesson-flow-step>h2,.canonical-lesson>.flow-depth>summary{font-family:Georgia,serif;font-size:clamp(1.25rem,2.2vw,1.65rem);line-height:1.35;margin:0 0 1rem;color:inherit}
+.canonical-lesson>.lesson-flow-step>h2::before,.canonical-lesson>.flow-depth>summary::before{content:counter(lesson-step,decimal-leading-zero) ' ';font-family:system-ui,sans-serif;font-size:.7em;opacity:.6;margin-right:.35rem}
+.canonical-lesson>.lesson-flow-step h3{font-size:1.05rem;line-height:1.5;margin:1.1rem 0 .4rem}
+.canonical-lesson>.lesson-flow-step p{line-height:1.8;overflow-wrap:anywhere}
+.canonical-lesson .flow-distinction{padding:1.2rem;border-left:3px solid var(--accent,#75618b);background:color-mix(in srgb,var(--accent,#75618b) 5%,transparent)}
+.canonical-lesson .flow-check{margin:1.2rem 0}.canonical-lesson summary{cursor:pointer;min-height:44px;padding:.45rem 0}
+.canonical-lesson .flow-depth[open]>summary{margin-bottom:1.5rem}.canonical-lesson .flow-depth .learning-source{margin-top:0}
+.canonical-lesson .flow-relationship{margin:0}.flow-relationship figcaption{font-size:.9rem;margin-bottom:1rem}.flow-relationship ul{list-style:none;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:0;padding:0}.flow-relationship li{border:1px solid color-mix(in srgb,currentColor 25%,transparent);border-radius:.6rem;padding:1rem;display:flex;align-items:center;min-height:5rem;font-weight:600;overflow-wrap:anywhere}.flow-relationship p{font-size:.9rem}.flow-table{overflow-x:auto;max-width:100%}.flow-table table{min-width:30rem}.flow-position{font-size:.9rem;opacity:.8}.flow-legacy-anchor{display:block;scroll-margin-top:8rem}
+body.cw-lesson .canonical-lesson .lesson-navigation{display:flex}body.cw-lesson .canonical-lesson .learning-notebook{display:block}
+@media(max-width:600px){.canonical-lesson{margin:1rem 0}.flow-relationship ul{grid-template-columns:1fr;gap:.5rem}.flow-relationship li{min-height:auto}.canonical-lesson>.lesson-flow-step{padding:1.1rem 0}.canonical-lesson>.flow-distinction{padding:1rem}.canonical-lesson .button{white-space:normal;overflow-wrap:anywhere}}
+@media print{.canonical-lesson>.lesson-flow-step{break-inside:auto}.canonical-lesson .flow-check,.flow-relationship li{break-inside:avoid}}

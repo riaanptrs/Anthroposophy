@@ -76,7 +76,7 @@
     main.prepend(sidebar);
     const jump = make('nav', 'tw-section-links');
     jump.setAttribute('aria-label', say('In this lesson', 'Nesta lição'));
-    const reading = article.querySelector('.cp-first-reading');
+    const reading = article.querySelector('.cp-first-reading,[data-flow-step="question"]');
     reading.id ||= 'short-reading';
     const depth = article.querySelector('.cp-retained-depth');
     depth.id ||= 'full-reading';
