@@ -23,11 +23,12 @@ const overrides = {
 export function loadWaldorfContent() {
  return Object.keys(groups).flatMap(group => fs.readdirSync(new URL(group+'/',packageRoot)).filter(f=>f.endsWith('.md')).sort().map(name=>{
   const source = group+'/'+name, raw = fs.readFileSync(new URL(source,packageRoot),'utf8');
-  const front = raw.match(/^---\n([\s\S]*?)\n---\n/);
+  const front = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n/);
   if (!front) throw Error('Missing frontmatter: '+source);
-  const title = front[1].match(/^title: "(.*)"$/m)?.[1];
-  const state = front[1].match(/^status: (.*)$/m)?.[1];
-  if (!title || !states[state] || !/^source_verification: pending$/m.test(front[1])) throw Error('Invalid content status: '+source);
+  const metadata=front[1].replaceAll('\r','');
+  const title = metadata.match(/^title: "(.*)"$/m)?.[1];
+  const state = metadata.match(/^status: (.*)$/m)?.[1];
+  if (!title || !states[state] || !/^source_verification: pending$/m.test(metadata)) throw Error('Invalid content status: '+source);
   let route = overrides[source] || group+'/'+name.replace(/^\d+-/,'').replace(/\.md$/,'.html');
   const grade = group === 'grades' ? Number(name.match(/\d+/)[0]) : null;
   if (grade) route = `grades/grade-${grade}/index.html`;

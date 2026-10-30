@@ -3,12 +3,17 @@ import path from 'node:path';
 import {createHash} from 'node:crypto';
 import {relative} from './learning-html.mjs';
 import {workspaceCourses} from './course-workspace-data.mjs';
+export function refreshCourseWorkspaceAssets(){
+ const hashes={};
+ for(const asset of ['course-workspace.css','course-workspace.js']){fs.copyFileSync(new URL('./assets/'+asset,import.meta.url),'docs/'+asset);hashes[asset]=createHash('sha256').update(fs.readFileSync('docs/'+asset)).digest('hex').slice(0,12);}
+ for(const route of fs.readdirSync('docs',{recursive:true}).filter(r=>r.endsWith('.html'))){const file=path.join('docs',route),html=fs.readFileSync(file,'utf8');const after=html.replace(/(\b(?:href|src)="[^"?]*\/(course-workspace\.(?:css|js)))(?:\?v=[^"]*)?("[^>]*>)/g,(_,href,asset,end)=>`${href}?v=${hashes[asset]}${end}`).replace(/(\b(?:href|src)="(course-workspace\.(?:css|js)))(?:\?v=[^"]*)?("[^>]*>)/g,(_,href,asset,end)=>`${href}?v=${hashes[asset]}${end}`);if(after!==html)fs.writeFileSync(file,after);}
+}
 export function buildCourseWorkspace(){
  const courses=workspaceCourses(),pages=[],assets=['course-workspace.css','course-workspace.js'];
  for(const asset of assets)fs.copyFileSync('scripts/assets/'+asset,'docs/'+asset);
  const hashes=Object.fromEntries(assets.map(a=>[a,createHash('sha256').update(fs.readFileSync('docs/'+a)).digest('hex').slice(0,12)]));
  const files=[];function walk(dir){for(const x of fs.readdirSync(dir,{withFileTypes:true})){const f=path.join(dir,x.name);if(x.isDirectory())walk(f);else if(f.endsWith('.html'))files.push(f);}}walk('docs');
- for(const file of files){const page=file.slice(5),route=page.replace(/^pt\//,'');let course=courses.find(c=>c.lessons.some(l=>l.route===route)||c.home===route);
+ for(const file of files){const page=file.slice(5).replaceAll('\\','/'),route=page.replace(/^pt\//,'');let course=courses.find(c=>c.lessons.some(l=>l.route===route)||c.home===route);
   const catalogue=['learn/index.html','books/index.html'].includes(route);
   // Course-owned companions retain their own content and existing sequence controls.
   if(!course&&!catalogue)course=courses.find(c=>c.id!=='foundations'&&c.id!=='theosophy-reading'&&route.startsWith(c.home.replace(/index.html$/,'')));

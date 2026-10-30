@@ -1,0 +1,182 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 360,
+      "heading": "Learn Anthroposophy",
+      "route": "/learn/index.html",
+      "viewport": 375
+    },
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 360,
+      "heading": "Foundations of Anthroposophy",
+      "route": "/learn/foundations/index.html",
+      "viewport": 375
+    },
+    {
+      "canonicalSteps": 9,
+      "documentWidth": 360,
+      "heading": "Body, Soul and Spirit",
+      "route": "/learn/lessons/05.html",
+      "viewport": 375
+    },
+    {
+      "canonicalSteps": 9,
+      "documentWidth": 360,
+      "heading": "Body, soul and spirit",
+      "route": "/theosophy/lessons/body-soul-spirit.html",
+      "viewport": 375
+    },
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 360,
+      "heading": "Anthroposophy in Seven Parts — A Short Overview",
+      "route": "/introduction-to-anthroposophy/overview.html",
+      "viewport": 375
+    },
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 360,
+      "heading": "Maps for understanding Anthroposophy",
+      "route": "/reference/anthroposophy-map.html",
+      "viewport": 375
+    },
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 753,
+      "heading": "Learn Anthroposophy",
+      "route": "/learn/index.html",
+      "viewport": 768
+    },
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 753,
+      "heading": "Foundations of Anthroposophy",
+      "route": "/learn/foundations/index.html",
+      "viewport": 768
+    },
+    {
+      "canonicalSteps": 9,
+      "documentWidth": 753,
+      "heading": "Body, Soul and Spirit",
+      "route": "/learn/lessons/05.html",
+      "viewport": 768
+    },
+    {
+      "canonicalSteps": 9,
+      "documentWidth": 753,
+      "heading": "Body, soul and spirit",
+      "route": "/theosophy/lessons/body-soul-spirit.html",
+      "viewport": 768
+    },
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 753,
+      "heading": "Anthroposophy in Seven Parts — A Short Overview",
+      "route": "/introduction-to-anthroposophy/overview.html",
+      "viewport": 768
+    },
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 753,
+      "heading": "Maps for understanding Anthroposophy",
+      "route": "/reference/anthroposophy-map.html",
+      "viewport": 768
+    },
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 1265,
+      "heading": "Learn Anthroposophy",
+      "route": "/learn/index.html",
+      "viewport": 1280
+    },
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 1265,
+      "heading": "Foundations of Anthroposophy",
+      "route": "/learn/foundations/index.html",
+      "viewport": 1280
+    },
+    {
+      "canonicalSteps": 9,
+      "documentWidth": 1265,
+      "heading": "Body, Soul and Spirit",
+      "route": "/learn/lessons/05.html",
+      "viewport": 1280
+    },
+    {
+      "canonicalSteps": 9,
+      "documentWidth": 1265,
+      "heading": "Body, soul and spirit",
+      "route": "/theosophy/lessons/body-soul-spirit.html",
+      "viewport": 1280
+    },
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 1265,
+      "heading": "Anthroposophy in Seven Parts — A Short Overview",
+      "route": "/introduction-to-anthroposophy/overview.html",
+      "viewport": 1280
+    },
+    {
+      "canonicalSteps": 0,
+      "documentWidth": 1265,
+      "heading": "Maps for understanding Anthroposophy",
+      "route": "/reference/anthroposophy-map.html",
+      "viewport": 1280
+    }
+  ],
+  "navigation": [
+    {
+      "languageLinks": [
+        "http://127.0.0.1:8766/pt/introduction-to-anthroposophy/lessons/28.html",
+        "http://127.0.0.1:8766/introduction-to-anthroposophy/lessons/28.html"
+      ],
+      "previousNext": [
+        {
+          "label": "← PreviousSocial Threefolding and Cultural Life",
+          "url": "27.html"
+        },
+        {
+          "label": "Next →Choose a learning pathway",
+          "url": "../../learn/index.html"
+        }
+      ],
+      "route": "/introduction-to-anthroposophy/lessons/28.html"
+    },
+    {
+      "languageLinks": [
+        "http://127.0.0.1:8766/pt/learn/lessons/36.html",
+        "http://127.0.0.1:8766/learn/lessons/36.html"
+      ],
+      "previousNext": [
+        {
+          "label": "← PreviousSocial Threefolding",
+          "url": "35.html"
+        },
+        {
+          "label": "Next →Choose a learning pathway",
+          "url": "../index.html"
+        }
+      ],
+      "route": "/learn/lessons/36.html"
+    },
+    {
+      "languageLinks": [
+        "../../pt/learn/commentary/05.html",
+        "05.html"
+      ],
+      "previousNext": [],
+      "route": "/learn/commentary/05.html"
+    }
+  ],
+  "checkedInteractions": [
+    "Mobile chapter drawer opens and closes",
+    "Optional source panel and unsaved note input work",
+    "Course endings lead to learning pathways",
+    "Commentary language links stay in commentary"
+  ],
+  "consoleErrors": []
+}

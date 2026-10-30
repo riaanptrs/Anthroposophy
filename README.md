@@ -1,5 +1,25 @@
 # Anthroposophy
 
+**Coherent beginner learning paths — 30 October 2026.** Foundations of
+Anthroposophy is the canonical 36-lesson beginner course. The Learn directory
+groups further study into seven subject pathways; the Introduction is a short
+seven-part overview with its 28 detailed topic pages retained as references.
+Foundations, those topic pages and 23 Theosophy concept lessons (174 bilingual
+pages in total) follow one question → experience → idea →
+relationship → distinction → application → understanding check → optional
+source study → next lesson sequence. Earlier extended commentary is linked
+separately, and existing source passages and study identities are preserved.
+Six bilingual concept maps explain major frameworks without presenting them
+as established facts. This revision used the Anthroposophist plugin’s guidance
+on primary sources, attribution and accessible bilingual explanation.
+
+Edit `content/foundations-lesson-flow.mjs`, the existing reviewed clarity text,
+and the map/pathway content; regenerate with `node scripts/build-all.mjs`.
+Validate the visible learning structure, preserved source evidence and local
+links with `node scripts/check-coherent-learning.mjs --baseline 55ec319 --report
+reviews/pedagogy/coherent-learning-validation.json`. Older preservation checks
+describe historical page layouts and are not the new visible teaching contract.
+
 **The Esoteric Aspect of the Social Question** now has a [16-lesson course across all four lectures](https://riaanptrs.github.io/Anthroposophy/learn/esoteric-social/index.html). Original explanations, 16 worked cases, explained questions, exercises, an 18-term concept guide, browser-local workbook, final project, four-session teacher guide and printable course teach the book’s inner social argument. The full course is in English, with a clearly labeled Portuguese entry. Edit `content/esoteric-social/course.mjs`; build with `node scripts/build-all.mjs`. Edition, PDF capture map and OCR limitations are on the course Sources page.
 
 **Phases: Understanding Adult Development** is a [62-lesson course across all seven chapters](https://riaanptrs.github.io/Anthroposophy/learn/phases/index.html), in English and Brazilian Portuguese. The new 157-capture copy replaces the earlier incomplete excerpt. Detailed teaching covers life phases, relationships, six orientations, work, psychological models and personal development. The [book coverage guide](https://riaanptrs.github.io/Anthroposophy/learn/phases/coverage.html) maps 32 principal sections to lessons; 62 glossary definitions, 248 explained lesson questions across both languages, chapter reviews, workbook and print/download editions support study. See the [source and release review](content/phases/review.md). Edit `content/phases/`; build with `node scripts/build-all.mjs`; verify with `node scripts/check-phases.mjs` and `node scripts/review-phases-browser.cjs`.

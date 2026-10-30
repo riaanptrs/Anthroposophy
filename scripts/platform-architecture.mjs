@@ -65,7 +65,7 @@ export function platformArea(route, html = '') {
   const declarations = [...String(html).matchAll(/\bdata-platform-area=["']([^"']*)["']/g)].map(match => match[1]);
   for (const declared of declarations) {
     const expected = area ?? 'support';
-    if (declared !== expected && !(local === 'index.html' && declared === 'home')) throw new Error(`Platform area conflicts with route ${local}: ${declared}`);
+    if (declared !== expected && !(/^(?:en\/)?index\.html$/.test(local) && declared === 'home')) throw new Error(`Platform area conflicts with route ${local}: ${declared}`);
   }
   return area;
 }
