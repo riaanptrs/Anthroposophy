@@ -584,18 +584,18 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 
 | Lesson | Review basis | Action |
 | --- | --- | --- |
-| [Meet the person before the type](../../../docs/understanding-temperaments/lessons/00.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [The four tendencies and their background](../../../docs/understanding-temperaments/lessons/01.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Choleric: purpose and correction](../../../docs/understanding-temperaments/lessons/02.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Sanguine: interest and follow-through](../../../docs/understanding-temperaments/lessons/03.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Phlegmatic: steadiness and participation](../../../docs/understanding-temperaments/lessons/04.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Melancholic: sensitivity and care](../../../docs/understanding-temperaments/lessons/05.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Mixtures, context and change](../../../docs/understanding-temperaments/lessons/06.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Supporting a learner](../../../docs/understanding-temperaments/lessons/07.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Working together](../../../docs/understanding-temperaments/lessons/08.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Relationships and communication](../../../docs/understanding-temperaments/lessons/09.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [Self-education through a small experiment](../../../docs/understanding-temperaments/lessons/10.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
-| [A more attentive encounter](../../../docs/understanding-temperaments/lessons/11.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [Meet the person before the type](../../../docs/understanding-temperaments/lessons/00.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Existing primary teaching/checks retained after close review |
+| [The four tendencies and their background](../../../docs/understanding-temperaments/lessons/01.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Second check revised bilingually; activity aligned with lesson concepts |
+| [Choleric: purpose and correction](../../../docs/understanding-temperaments/lessons/02.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Existing primary teaching/checks retained after close review |
+| [Sanguine: interest and follow-through](../../../docs/understanding-temperaments/lessons/03.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Second check revised bilingually |
+| [Phlegmatic: steadiness and participation](../../../docs/understanding-temperaments/lessons/04.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Existing primary teaching/checks retained after close review |
+| [Melancholic: sensitivity and care](../../../docs/understanding-temperaments/lessons/05.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Existing primary teaching/checks retained after close review |
+| [Mixtures, context and change](../../../docs/understanding-temperaments/lessons/06.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Existing primary teaching/checks retained after close review |
+| [Supporting a learner](../../../docs/understanding-temperaments/lessons/07.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Existing primary teaching/checks retained after close review |
+| [Working together](../../../docs/understanding-temperaments/lessons/08.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Existing primary teaching/checks retained after close review |
+| [Relationships and communication](../../../docs/understanding-temperaments/lessons/09.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Second check revised bilingually |
+| [Self-education through a small experiment](../../../docs/understanding-temperaments/lessons/10.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Second check revised bilingually |
+| [A more attentive encounter](../../../docs/understanding-temperaments/lessons/11.html) | Current introductory primary explanation/checks read; activity alignment reviewed; [focused review](temperaments-introduction/REVIEW.md) | Existing primary teaching/checks retained after close review |
 
 ## what-is-biodynamics
 
