@@ -15284,6 +15284,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "waldorf-second/REVIEW.md",
+        "scope": "Second Waldorf lesson only: English primary explanation, worked example and assessment reviewed; all content retained in both languages. Two units reviewed so far, sixty remain; historical sources not freshly certified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,

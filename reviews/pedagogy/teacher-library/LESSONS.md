@@ -301,7 +301,7 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 | Lesson | Review basis | Action |
 | --- | --- | --- |
 | [What is Waldorf education?](../../../docs/learn/waldorf/foundations/what-is-waldorf.html) | Current first-lesson teaching, example and assessment read; [focused review](waldorf-first/REVIEW.md) | Opening context clarified bilingually; example/assessment retained; 61 units pending |
-| [Steiner and the first Waldorf school](../../../docs/learn/waldorf/foundations/first-waldorf-school.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [Steiner and the first Waldorf school](../../../docs/learn/waldorf/foundations/first-waldorf-school.html) | Current second-lesson explanation, example and assessment read; [focused review](waldorf-second/REVIEW.md) | All teaching and assessment retained after close review |
 | [Anthroposophy and classroom teaching](../../../docs/learn/waldorf/foundations/anthroposophy-and-education.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
 | [The whole human being](../../../docs/learn/waldorf/foundations/whole-human-being.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
 | [Thinking, feeling and willing](../../../docs/learn/waldorf/foundations/thinking-feeling-willing.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |

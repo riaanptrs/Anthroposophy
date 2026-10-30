@@ -26,9 +26,9 @@ All pass. The browser batch covers fifteen lessons in two languages, 320/1280 pi
 
 ## Exact restart point
 
-The **first Waldorf primary-topics lesson** is reviewed: `learn/waldorf/foundations/what-is-waldorf.html`. Its opening now names the anthroposophical context in both languages; the grouping example and transfer question are retained. Focused preservation and eight browser cases pass. The broader Waldorf validator has an unchanged Portuguese religion-page mismatch; see `waldorf-first/REVIEW.md`.
+The **first two Waldorf primary-topics lessons** are reviewed. The first opening was clarified; the second, `learn/waldorf/foundations/first-waldorf-school.html`, is retained unchanged after teacher review and eight bilingual browser cases. Its explanation, worked example and changed-case question meet the goal; see `waldorf-second/REVIEW.md`.
 
-Next: **Steiner and the first Waldorf school**, route `learn/waldorf/foundations/first-waldorf-school.html`. Main authoring is `content/waldorf-teaching-course.json` (locate its exact source key before editing). **61 of 62 authored units remain pending focused review.** Use the workspace sequence/ledger to select further lessons; a first-lesson review is not a completed course.
+Next: **Anthroposophy and classroom teaching**, route `learn/waldorf/foundations/anthroposophy-and-education.html`. Main authoring is `content/waldorf-teaching-course.json`; locate its exact source key before editing. **60 of 62 units remain pending focused review.** The broader Waldorf validator’s unchanged Portuguese religion-page mismatch remains documented in `waldorf-first/REVIEW.md`.
 
 Read each current English primary explanation, all questions/answers and retained activities for alignment. Compare rendered teaching with authoring first: some published courses are newer than older source layers. Retain strong content; change actual gaps, leading assessments or inconsistencies. Keep source claims, ordinary illustrations and the learner’s assessment distinct. Preserve source locators, diagrams, notebook identities and content outside the scoped change.
 
