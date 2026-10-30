@@ -1,0 +1,916 @@
+{
+  "status": "passed",
+  "units": 16,
+  "cases": 128,
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "viewports": [
+    320,
+    1280
+  ],
+  "javascript": [
+    false,
+    true
+  ],
+  "coverage": "Sixteen remaining Waldorf Foundations lessons: all primary prose, example and changed-case question visible; feedback keyboard-operable, no overflow or duplicate IDs.",
+  "results": [
+    {
+      "route": "learn/waldorf/foundations/whole-human-being.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/thinking-feeling-willing.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/seven-year-periods.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/development-determines-curriculum.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/imagination-before-abstraction.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/teaching-through-art.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/rhythm-repetition-sleep.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/main-lesson.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/class-teacher.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/main-lesson-books.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/eurythmy.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/music.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/handwork.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/foreign-languages.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/assessment.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/technology.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/whole-human-being.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/thinking-feeling-willing.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/seven-year-periods.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/development-determines-curriculum.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/imagination-before-abstraction.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/teaching-through-art.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/rhythm-repetition-sleep.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/main-lesson.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/class-teacher.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/main-lesson-books.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/eurythmy.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/music.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/handwork.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/foreign-languages.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/assessment.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/technology.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/whole-human-being.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/thinking-feeling-willing.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/seven-year-periods.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/development-determines-curriculum.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/imagination-before-abstraction.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/teaching-through-art.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/rhythm-repetition-sleep.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/main-lesson.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/class-teacher.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/main-lesson-books.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/eurythmy.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/music.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/handwork.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/foreign-languages.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/assessment.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/technology.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/whole-human-being.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/thinking-feeling-willing.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/seven-year-periods.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/development-determines-curriculum.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/imagination-before-abstraction.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/teaching-through-art.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/rhythm-repetition-sleep.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/main-lesson.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/class-teacher.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/main-lesson-books.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/eurythmy.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/music.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/handwork.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/foreign-languages.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/assessment.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/technology.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/whole-human-being.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/thinking-feeling-willing.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/seven-year-periods.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/development-determines-curriculum.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/imagination-before-abstraction.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/teaching-through-art.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/rhythm-repetition-sleep.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/main-lesson.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/class-teacher.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/main-lesson-books.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/eurythmy.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/music.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/handwork.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/foreign-languages.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/assessment.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/technology.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/whole-human-being.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/thinking-feeling-willing.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/seven-year-periods.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/development-determines-curriculum.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/imagination-before-abstraction.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/teaching-through-art.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/rhythm-repetition-sleep.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/main-lesson.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/class-teacher.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/main-lesson-books.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/eurythmy.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/music.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/handwork.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/foreign-languages.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/assessment.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/technology.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/whole-human-being.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/thinking-feeling-willing.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/seven-year-periods.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/development-determines-curriculum.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/imagination-before-abstraction.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/teaching-through-art.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/rhythm-repetition-sleep.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/main-lesson.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/class-teacher.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/main-lesson-books.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/eurythmy.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/music.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/handwork.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/foreign-languages.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/assessment.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/technology.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/whole-human-being.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/thinking-feeling-willing.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/seven-year-periods.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/development-determines-curriculum.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/imagination-before-abstraction.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/teaching-through-art.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/rhythm-repetition-sleep.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/main-lesson.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/class-teacher.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/main-lesson-books.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/eurythmy.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/music.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/handwork.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/foreign-languages.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/assessment.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/technology.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    }
+  ]
+}
