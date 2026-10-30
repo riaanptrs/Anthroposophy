@@ -302,7 +302,7 @@ See [the review and its scope](REVIEW.md). Earlier individual audit judgments ar
 | --- | --- | --- |
 | [What is Waldorf education?](../../../docs/learn/waldorf/foundations/what-is-waldorf.html) | Current first-lesson teaching, example and assessment read; [focused review](waldorf-first/REVIEW.md) | Opening context clarified bilingually; example/assessment retained; 61 units pending |
 | [Steiner and the first Waldorf school](../../../docs/learn/waldorf/foundations/first-waldorf-school.html) | Current second-lesson explanation, example and assessment read; [focused review](waldorf-second/REVIEW.md) | All teaching and assessment retained after close review |
-| [Anthroposophy and classroom teaching](../../../docs/learn/waldorf/foundations/anthroposophy-and-education.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
+| [Anthroposophy and classroom teaching](../../../docs/learn/waldorf/foundations/anthroposophy-and-education.html) | Current third-lesson explanation, example and assessment read; [focused review](waldorf-third/REVIEW.md) | All teaching and assessment retained after close review |
 | [The whole human being](../../../docs/learn/waldorf/foundations/whole-human-being.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
 | [Thinking, feeling and willing](../../../docs/learn/waldorf/foundations/thinking-feeling-willing.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |
 | [The three seven-year periods](../../../docs/learn/waldorf/foundations/seven-year-periods.html) | Earlier individual audit + current delivery evidence | Retained at stated scope |

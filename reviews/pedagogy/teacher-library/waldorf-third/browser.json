@@ -1,0 +1,76 @@
+{
+  "status": "passed",
+  "units": 1,
+  "cases": 8,
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "viewports": [
+    320,
+    1280
+  ],
+  "javascript": [
+    false,
+    true
+  ],
+  "coverage": "Third Waldorf lesson only: all primary prose, example and changed-case question visible; feedback keyboard-operable, no overflow or duplicate IDs, next-lesson link retained.",
+  "results": [
+    {
+      "route": "learn/waldorf/foundations/anthroposophy-and-education.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/anthroposophy-and-education.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/anthroposophy-and-education.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/anthroposophy-and-education.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/anthroposophy-and-education.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/anthroposophy-and-education.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/foundations/anthroposophy-and-education.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/foundations/anthroposophy-and-education.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    }
+  ]
+}

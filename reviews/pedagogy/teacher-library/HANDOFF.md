@@ -26,9 +26,9 @@ All pass. The browser batch covers fifteen lessons in two languages, 320/1280 pi
 
 ## Exact restart point
 
-The **first two Waldorf primary-topics lessons** are reviewed. The first opening was clarified; the second, `learn/waldorf/foundations/first-waldorf-school.html`, is retained unchanged after teacher review and eight bilingual browser cases. Its explanation, worked example and changed-case question meet the goal; see `waldorf-second/REVIEW.md`.
+The **first three Waldorf primary-topics lessons** are reviewed. The first opening was clarified; the second and third are retained unchanged. The third, `learn/waldorf/foundations/anthroposophy-and-education.html`, connects a developmental proposal, chosen method and observed understanding; its fraction example and transfer question meet the goal. Focused checks and eight browser cases pass; see `waldorf-third/REVIEW.md`.
 
-Next: **Anthroposophy and classroom teaching**, route `learn/waldorf/foundations/anthroposophy-and-education.html`. Main authoring is `content/waldorf-teaching-course.json`; locate its exact source key before editing. **60 of 62 units remain pending focused review.** The broader Waldorf validator’s unchanged Portuguese religion-page mismatch remains documented in `waldorf-first/REVIEW.md`.
+Next: **The whole human being**, route `learn/waldorf/foundations/whole-human-being.html`. Main authoring is `content/waldorf-teaching-course.json`; locate its exact source key before editing. **59 of 62 units remain pending focused review.** The broader Waldorf validator’s unchanged Portuguese religion-page mismatch remains documented in `waldorf-first/REVIEW.md`.
 
 Read each current English primary explanation, all questions/answers and retained activities for alignment. Compare rendered teaching with authoring first: some published courses are newer than older source layers. Retain strong content; change actual gaps, leading assessments or inconsistencies. Keep source claims, ordinary illustrations and the learner’s assessment distinct. Preserve source locators, diagrams, notebook identities and content outside the scoped change.
 

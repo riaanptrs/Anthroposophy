@@ -15350,6 +15350,10 @@
         }
       },
       "currentReview": "Earlier individual editorial judgment retained as background; current delivery evidence recorded separately.",
+      "currentCourseReview": {
+        "reference": "waldorf-third/REVIEW.md",
+        "scope": "Third Waldorf lesson only: English explanation, fraction example and assessment reviewed; all teaching retained unchanged in both languages. Three units reviewed, fifty-nine remain; original sources not freshly certified."
+      },
       "sourceFidelity": "Not freshly certified by this review.",
       "deliveryChecks": {
         "hasMain": true,
