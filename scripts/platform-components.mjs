@@ -112,7 +112,7 @@ function readingRoleMap(map, paragraphCount, id) {
   }
   return `<figure class="cp-reading-role-map"><figcaption>${esc(map.caption)}</figcaption><dl>${map.entries.map(([term, meaning]) => `<div><dt>${esc(term)}</dt><dd>${esc(meaning)}</dd></div>`).join('')}</dl></figure>`;
 }
-function firstReading(id, lang) {
+export function renderTheosophyFirstReading(id, lang) {
   const row=theosophyClarity.find(item=>item.id===id),v=row?.[lang];
   if(!v||v.paragraphs.length<4||v.checks.length!==2)throw Error(`Incomplete Theosophy first reading ${id}/${lang}`);
   const roleMap=readingRoleMap(v.roleMap,v.paragraphs.length,`${id}/${lang}`);
@@ -142,7 +142,7 @@ export function renderConceptLesson(lesson, {course, lessons, concepts, practice
     `<nav class="cp-breadcrumb" aria-label="${t(lang,'Course location','Localização no curso')}">${link(file,`${courseRoute(course)}/index.html`,value(course,lang,'title'),lang)}<span>${t(lang,'Lesson','Lição')} ${position+1} ${t(lang,'of','de')} ${order.length}</span></nav>`,
     `<header class="cp-lesson-heading"><p class="cp-label">${esc(value(module,lang,'title'))}</p><h1>${esc(v.title)}</h1><p class="cp-question">${esc(v.question)}</p></header>`,
     moduleNavigation(lesson.id,{course,lessons,lang,file}),
-    firstReading(lesson.id,lang),
+    renderTheosophyFirstReading(lesson.id,lang),
     `<details class="cp-deeper cp-retained-depth"><summary>${t(lang,'Go deeper: the full explanation, connections and practices','Aprofunde: explicação completa, conexões e práticas')}</summary>`,
     `<section class="cp-experience" id="begin-with-experience" data-concept-section="experience"><div class="cp-label">${t(lang,'Observe','Observe')}</div><h2>${t(lang,'Begin with experience','Comece com a experiência')}</h2>${paragraphs(v.experience)}</section>`,
     `<section class="cp-central-idea" id="central-idea" data-concept-section="central"><div class="cp-label">${t(lang,'Steiner’s account','A concepção de Steiner')}</div><h2>${t(lang,'The central idea','A ideia central')}</h2><p>${esc(v.centralIdea)}</p></section>`,
@@ -188,7 +188,7 @@ export function renderCourseSynthesis({course, lessons, concepts, practices, lan
     `<nav class="cp-breadcrumb" aria-label="${t(lang,'Course location','Localização no curso')}">${link(file,`${courseRoute(course)}/index.html`,value(course,lang,'title'),lang)}<span>${t(lang,'Whole-course synthesis','Síntese do curso')}</span></nav>`,
     `<h1>${esc(v.title)}</h1><p class="cp-question">${esc(v.question)}</p>`,
     moduleNavigation(synthesis.id,{course,lessons,lang,file}),
-    firstReading(synthesis.id,lang),
+    renderTheosophyFirstReading(synthesis.id,lang),
     // Keep the workspace's existing deep-link IDs when moving the case into the main reading.
     workedCase(v.workedExample, lang, 'depth-section-1'),
     `<details class="cp-deeper cp-retained-depth"><summary>${t(lang,'Go deeper: the complete course map and review','Aprofunde: mapa completo do curso e revisão')}</summary>`,

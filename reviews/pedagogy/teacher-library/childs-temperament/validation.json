@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "baseline": "eb3f79ee",
+  "reviewedUnits": 13,
+  "revised": [
+    0,
+    2,
+    3,
+    8,
+    11
+  ],
+  "retained": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    12
+  ],
+  "pages": 26,
+  "preservation": "Only five second primary question/answer pairs change. All explanations, first checks, tables, optional context, retained activities/readers, sources, navigation and other page content unchanged. Other courses in shared authoring data unchanged."
+}

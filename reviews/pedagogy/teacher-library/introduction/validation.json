@@ -1,0 +1,27 @@
+{
+  "course": "Introduction to Anthroposophy",
+  "units": 28,
+  "languagePages": 56,
+  "changedChecksPerLanguage": 28,
+  "developedExplanations": [
+    4,
+    12,
+    13,
+    19,
+    24
+  ],
+  "preservedPublishedPortugueseWording": [
+    13,
+    20
+  ],
+  "browserCases": 224,
+  "baseline": "4743de2703756ee02c3c6bde0c73cbaccfe6b4fd",
+  "preservation": {
+    "allContentOutsidePrimaryReading": "byte-identical on all 56 pages",
+    "otherCoursesInSharedAuthoringFile": "unchanged",
+    "firstChecksAndGoals": "unchanged",
+    "sourceQuotationsLocatorsStudyHooks": "unchanged"
+  },
+  "courseValidator": "passed",
+  "legacyCombinedValidator": "fails on unrelated Foundations 1 historical home link"
+}

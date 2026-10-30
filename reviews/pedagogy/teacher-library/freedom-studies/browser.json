@@ -1,0 +1,3476 @@
+{
+  "status": "passed",
+  "units": 36,
+  "cases": 384,
+  "viewports": [
+    320,
+    1280
+  ],
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "javascript": [
+    false,
+    true
+  ],
+  "coverage": "Every standalone study; embedded chapter, workbook and print samples for studies 2, 21, 32 and 35. Full text and all four delivery contexts verified statically for every study.",
+  "results": [
+    {
+      "id": 1,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/01.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/02.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/03.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 4,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/04.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 5,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/05.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/06.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 7,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/07.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 8,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/08.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 9,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/09.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 10,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/10.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 11,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/11.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 12,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/12.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 13,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/13.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 14,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/14.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 15,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/15.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 16,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/16.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 17,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/17.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 18,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/18.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 19,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/19.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 20,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/20.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/21.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 22,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/22.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 23,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/23.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 24,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/24.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 25,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/25.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 26,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/26.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 27,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/27.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 28,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/28.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 29,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/29.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 30,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/30.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 31,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/31.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/32.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 33,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/33.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 34,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/34.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/35.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 36,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/36.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/20.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/21.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 1,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/01.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/02.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 3,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/03.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 4,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/04.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 5,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/05.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 6,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/06.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 7,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/07.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 8,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/08.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 9,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/09.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 10,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/10.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 11,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/11.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 12,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/12.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 13,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/13.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 14,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/14.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 15,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/15.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 16,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/16.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 17,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/17.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 18,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/18.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 19,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/19.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 20,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/20.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/21.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 22,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/22.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 23,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/23.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 24,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/24.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 25,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/25.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 26,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/26.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 27,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/27.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 28,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/28.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 29,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/29.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 30,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/30.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 31,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/31.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/32.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 33,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/33.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 34,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/34.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/35.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 36,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/36.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/20.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/21.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 1,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/01.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/02.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/03.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 4,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/04.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 5,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/05.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/06.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 7,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/07.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 8,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/08.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 9,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/09.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 10,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/10.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 11,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/11.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 12,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/12.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 13,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/13.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 14,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/14.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 15,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/15.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 16,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/16.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 17,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/17.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 18,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/18.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 19,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/19.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 20,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/20.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/21.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 22,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/22.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 23,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/23.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 24,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/24.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 25,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/25.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 26,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/26.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 27,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/27.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 28,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/28.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 29,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/29.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 30,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/30.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 31,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/31.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/32.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 33,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/33.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 34,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/34.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/35.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 36,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/36.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/20.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/21.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 1,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/01.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/02.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 3,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/03.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 4,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/04.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 5,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/05.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 6,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/06.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 7,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/07.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 8,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/08.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 9,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/09.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 10,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/10.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 11,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/11.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 12,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/12.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 13,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/13.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 14,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/14.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 15,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/15.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 16,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/16.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 17,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/17.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 18,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/18.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 19,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/19.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 20,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/20.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/21.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 22,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/22.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 23,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/23.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 24,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/24.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 25,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/25.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 26,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/26.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 27,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/27.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 28,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/28.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 29,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/29.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 30,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/30.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 31,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/31.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/32.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 33,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/33.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 34,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/34.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/35.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 36,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/36.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/20.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/21.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "id": 1,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/01.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/02.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/03.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 4,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/04.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 5,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/05.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/06.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 7,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/07.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 8,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/08.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 9,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/09.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 10,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/10.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 11,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/11.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 12,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/12.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 13,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/13.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 14,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/14.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 15,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/15.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 16,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/16.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 17,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/17.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 18,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/18.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 19,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/19.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 20,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/20.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/21.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 22,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/22.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 23,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/23.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 24,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/24.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 25,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/25.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 26,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/26.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 27,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/27.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 28,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/28.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 29,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/29.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 30,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/30.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 31,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/31.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/32.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 33,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/33.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 34,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/34.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/35.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 36,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/36.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/20.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/21.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 1,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/01.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/02.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 3,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/03.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 4,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/04.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 5,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/05.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 6,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/06.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 7,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/07.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 8,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/08.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 9,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/09.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 10,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/10.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 11,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/11.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 12,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/12.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 13,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/13.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 14,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/14.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 15,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/15.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 16,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/16.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 17,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/17.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 18,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/18.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 19,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/19.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 20,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/20.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/21.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 22,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/22.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 23,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/23.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 24,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/24.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 25,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/25.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 26,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/26.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 27,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/27.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 28,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/28.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 29,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/29.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 30,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/30.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 31,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/31.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/32.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 33,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/33.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 34,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/34.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/35.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 36,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/36.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/12.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/20.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/21.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 1,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/01.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/02.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 3,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/03.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 4,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/04.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 5,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/05.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 6,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/06.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 7,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/07.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 8,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/08.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 9,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/09.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 10,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/10.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 11,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/11.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 12,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/12.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 13,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/13.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 14,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/14.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 15,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/15.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 16,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/16.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 17,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/17.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 18,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/18.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 19,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/19.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 20,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/20.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/21.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 22,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/22.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 23,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/23.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 24,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/24.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 25,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/25.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 26,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/26.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 27,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/27.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 28,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/28.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 29,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/29.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 30,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/30.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 31,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/31.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/32.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 33,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/33.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 34,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/34.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/35.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 36,
+      "lang": "en",
+      "context": "standalone",
+      "route": "philosophy-of-freedom/studies/36.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/20.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "embedded",
+      "route": "philosophy-of-freedom/lessons/21.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "workbook",
+      "route": "philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "en",
+      "context": "print",
+      "route": "philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 1,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/01.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/02.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 3,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/03.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 4,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/04.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 5,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/05.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 6,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/06.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 7,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/07.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 8,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/08.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 9,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/09.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 10,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/10.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 11,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/11.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 12,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/12.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 13,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/13.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 14,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/14.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 15,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/15.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 16,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/16.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 17,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/17.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 18,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/18.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 19,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/19.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 20,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/20.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/21.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 22,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/22.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 23,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/23.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 24,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/24.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 25,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/25.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 26,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/26.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 27,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/27.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 28,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/28.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 29,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/29.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 30,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/30.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 31,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/31.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/32.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 33,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/33.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 34,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/34.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/35.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 36,
+      "lang": "pt",
+      "context": "standalone",
+      "route": "pt/philosophy-of-freedom/studies/36.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/00.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 2,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/12.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 21,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/20.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 32,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "embedded",
+      "route": "pt/philosophy-of-freedom/lessons/21.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "workbook",
+      "route": "pt/philosophy-of-freedom/workbook.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "id": 35,
+      "lang": "pt",
+      "context": "print",
+      "route": "pt/philosophy-of-freedom/print.html",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    }
+  ]
+}

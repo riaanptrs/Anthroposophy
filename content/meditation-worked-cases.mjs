@@ -5,14 +5,14 @@ export const meditationCases = [
     "en": {
       "title": "Attention is an activity",
       "explanation": "You choose one familiar object and try to stay with its shape and use. A shopping list interrupts the thought. Noticing the interruption and returning to the chosen subject is already an act you can describe. The point is not to manufacture a blank mind or an impressive experience. In the course’s spiritual context, disciplined attention is preparatory work; one ordinary exercise cannot certify a spiritual faculty.",
-      "question": "If attention wandered, was the exercise necessarily wasted?",
-      "answer": "No. You can distinguish the chosen content, the interruption and the return. That is more informative than calling the whole attempt a failure or claiming that distraction disappeared."
+      "question": "A learner explains a verse’s meaning, notices attention wandering during practice and later listens more carefully to a friend. Distinguish what each part shows without claiming an attainment.",
+      "answer": "Explaining the verse shows intellectual understanding; noticing the interruption and returning describes deliberate meditative attention; listening to the friend is a possible application in conduct. None automatically accomplishes the others. A useful change or an imperfect session can be described honestly without treating either as proof or disproof of a spiritual faculty."
     },
     "pt": {
       "title": "A atenção é uma atividade",
       "explanation": "Você escolhe um objeto conhecido e procura permanecer com sua forma e seu uso. Uma lista de compras interrompe o pensamento. Perceber a interrupção e retornar ao assunto escolhido já é uma ação que pode ser descrita. A finalidade não é produzir uma mente vazia nem uma experiência impressionante. No contexto espiritual do curso, a atenção disciplinada é preparatória; um exercício cotidiano não certifica uma faculdade espiritual.",
-      "question": "Se a atenção se desviou, o exercício foi necessariamente inútil?",
-      "answer": "Não. Você pode distinguir o conteúdo escolhido, a interrupção e o retorno. Isso informa mais do que chamar toda a tentativa de fracasso ou afirmar que a distração desapareceu."
+      "question": "Uma pessoa explica o sentido de um verso, nota a atenção dispersar durante a prática e depois escuta uma amiga com mais cuidado. Distinga o que cada parte mostra sem afirmar uma realização espiritual.",
+      "answer": "Explicar o verso mostra compreensão intelectual; notar a interrupção e retornar descreve atenção meditativa deliberada; escutar a amiga é uma possível aplicação na conduta. Nenhuma parte realiza automaticamente as demais. Uma mudança útil ou uma sessão imperfeita podem ser descritas honestamente sem tratar uma ou outra como prova ou refutação de uma faculdade espiritual."
     }
   },
   {
@@ -65,14 +65,14 @@ export const meditationCases = [
     "en": {
       "title": "A seasonal image is not a required mood",
       "explanation": "A verse speaks through seasonal imagery, but your surroundings and mood may differ. Begin by understanding the movement expressed in the verse. Then observe the difference between that movement and your present situation. The contrast can become a question, rather than a reason to pretend you feel what the text describes. Keep Steiner’s verse distinct from Scala’s accompanying reflection and your own response.",
-      "question": "If the local season differs from the verse’s setting, is your observation wrong?",
-      "answer": "No. The text’s annual pattern and your local observation are different reference points. Name both. Do not alter an observation to make it fit the verse or treat a commentary as part of Steiner’s wording."
+      "question": "A northern seasonal image differs from your surroundings, and Scala’s reflection suggests a mood you do not feel. How would you record the comparison and decide what to revisit?",
+      "answer": "Identify the verse’s wording and movement, your actual local observation and response, and Scala’s separate interpretation. Let the difference become a question rather than inventing a matching mood. Name any festival-based or local-season adaptation as your choice, then return to the verse through the week. Neither the difference nor a commentary determines your spiritual condition or changes who authored the verse."
     },
     "pt": {
       "title": "Uma imagem sazonal não exige determinado humor",
       "explanation": "Um verso usa imagens sazonais, mas seu ambiente e seu estado de ânimo podem ser diferentes. Comece por compreender o movimento expresso no verso. Depois observe a diferença entre esse movimento e sua situação atual. O contraste pode se tornar uma pergunta, em vez de exigir que você finja sentir o que o texto descreve. Distinga o verso de Steiner, a reflexão de Scala e sua própria resposta.",
-      "question": "Se a estação local difere da situação do verso, sua observação está errada?",
-      "answer": "Não. O percurso anual do texto e sua observação local são referências diferentes. Identifique ambas. Não altere uma observação para ajustá-la ao verso nem trate um comentário como parte das palavras de Steiner."
+      "question": "Uma imagem sazonal do hemisfério norte difere do ambiente ao seu redor, e a reflexão de Scala sugere um estado de ânimo que você não sente. Como registrar a comparação e decidir o que retomar?",
+      "answer": "Identifique as palavras e o movimento do verso, sua observação e resposta locais e a interpretação separada de Scala. Faça da diferença uma pergunta em vez de inventar um estado de ânimo correspondente. Nomeie como escolha sua qualquer adaptação pelos festivais ou pela estação local e retorne ao verso durante a semana. Nem a diferença nem um comentário determinam sua condição espiritual ou mudam a autoria do verso."
     }
   },
   {
@@ -80,14 +80,14 @@ export const meditationCases = [
     "en": {
       "title": "An image with a prepared meaning",
       "explanation": "Someone copies a Rose Cross picture and waits for a special effect. The preparation described in this lesson instead develops the relationships that give the image its meaning. A symbol is not understood merely because its outline is accurate. Read the attributed preparation as a sequence of ideas; if you choose to contemplate it, retain that context. Studying the account does not require undertaking the practice.",
-      "question": "What can a learner do if visual imagery is difficult?",
-      "answer": "Explain the relationships verbally and study the preparation without claiming to visualize it. Understanding the account and having a vivid mental picture are different achievements; the course does not rank learners by vividness."
+      "question": "One learner explains the Rose Cross’s relationships clearly without a vivid image; another copies a striking picture but cannot explain its preparation. What has each demonstrated, and what further distinction matters?",
+      "answer": "The first demonstrates understanding of the symbolic relationships without claiming an identical experience of image meditation. The second demonstrates an image’s outline, not yet its prepared meaning. The source develops thought and feeling before contemplation; during it, the argument recedes while image and prepared significance remain. Vividness alone neither supplies that preparation nor establishes independent spiritual perception."
     },
     "pt": {
       "title": "Uma imagem com sentido preparado",
       "explanation": "Alguém copia uma imagem da Rosa-Cruz e espera um efeito especial. A preparação descrita nesta lição desenvolve, em vez disso, as relações que dão sentido à imagem. Um símbolo não é compreendido apenas porque seu contorno está correto. Leia a preparação atribuída como uma sequência de ideias; se optar por contemplá-la, preserve esse contexto. Estudar a descrição não exige realizar a prática.",
-      "question": "O que fazer quando formar imagens mentais é difícil?",
-      "answer": "Explique verbalmente as relações e estude a preparação sem alegar visualizá-la. Compreender a descrição e formar uma imagem vívida são realizações diferentes; o curso não classifica as pessoas pela vividez das imagens."
+      "question": "Uma pessoa explica claramente as relações da Rosa-Cruz sem uma imagem vívida; outra copia uma figura marcante, mas não explica sua preparação. O que cada uma demonstrou e que distinção adicional importa?",
+      "answer": "A primeira demonstra compreensão das relações simbólicas sem afirmar uma experiência idêntica à meditação por imagem. A segunda demonstra o contorno da figura, ainda não seu significado preparado. A fonte desenvolve pensamento e sentimento antes da contemplação; nela, o argumento recua enquanto imagem e significado preparado permanecem. A vivacidade, sozinha, não fornece essa preparação nem estabelece percepção espiritual independente."
     }
   },
   {
@@ -110,14 +110,14 @@ export const meditationCases = [
     "en": {
       "title": "Returning can reveal a changed emphasis",
       "explanation": "On one reading you notice a relation to remembering; on another you notice how a later movement changes the emphasis. Record what in the wording supports the change. Returning over time allows attention to deepen without requiring a new revelation at every session. Distinguish the source’s historical rhythm from a study schedule proposed by this course: a helpful arrangement is not automatically a prescription by Steiner.",
-      "question": "If a session adds no new insight, should you invent a more impressive note?",
-      "answer": "No. You can record a stable understanding, an unresolved question or simply no new observation. Honest repetition is preferable to turning the journal into evidence of supposed attainment."
+      "question": "After a session with no new insight, a learner invents a revelation in their journal and calls the course’s four-session plan Steiner’s historical rhythm. How should both records be corrected?",
+      "answer": "Record stable understanding, an unresolved question or no new observation instead of inventing experience. Attribute the four-session introduction to the course and distinguish it from the historical seven daily rhythms. A useful arrangement and honest repetition can support learning without becoming a source quotation or a certificate of attainment. Use the text’s wording and the next ordinary review to decide what to revisit."
     },
     "pt": {
       "title": "Retornar pode revelar outra ênfase",
       "explanation": "Numa leitura você percebe uma relação com recordar; em outra, nota como um movimento posterior muda a ênfase. Registre que palavras sustentam a mudança. Retornar ao longo do tempo permite aprofundar a atenção sem exigir uma revelação nova a cada sessão. Distinga o ritmo histórico da fonte de uma organização de estudo proposta pelo curso: um arranjo útil não é automaticamente uma prescrição de Steiner.",
-      "question": "Se uma sessão não traz nova compreensão, é preciso inventar uma anotação mais impressionante?",
-      "answer": "Não. Você pode registrar uma compreensão estável, uma pergunta não resolvida ou simplesmente nenhuma observação nova. Repetir com honestidade é preferível a transformar o diário em prova de uma suposta realização."
+      "question": "Depois de uma sessão sem nova compreensão, uma pessoa inventa uma revelação no diário e chama o plano de quatro sessões do curso de ritmo histórico de Steiner. Como corrigir os dois registros?",
+      "answer": "Registre compreensão estável, uma pergunta em aberto ou nenhuma observação nova em vez de inventar uma experiência. Atribua a introdução em quatro sessões ao curso e distinga-a dos sete ritmos diários históricos. Uma organização útil e a repetição honesta podem apoiar o aprendizado sem se tornarem citação da fonte ou certificado de realização. Use as palavras do texto e a próxima revisão cotidiana para decidir o que retomar."
     }
   },
   {

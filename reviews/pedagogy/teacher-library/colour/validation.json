@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "baseline": "b766948b",
+  "reviewedUnits": 14,
+  "revised": [
+    1,
+    2,
+    5,
+    6,
+    9,
+    10
+  ],
+  "retainedAssessments": [
+    0,
+    3,
+    4,
+    7,
+    8,
+    11,
+    12,
+    13
+  ],
+  "expandedExplanation": 5,
+  "correctedActivityPointer": 0,
+  "pages": 28,
+  "preservation": "Only six second checks, lesson five third primary paragraph and opening activity return pointer differ. All first checks, other explanations, diagrams, source material, navigation and remaining page content unchanged; other courses in shared authoring data unchanged."
+}

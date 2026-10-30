@@ -16,7 +16,7 @@ export function buildCourseWorkspace(){
   const role=catalogue?'catalogue':course.home===route?'overview':course.lessons.some(l=>l.route===route)?'lesson':/\/index\.html$/.test(route)?'section':'reference';
   // Source-owned overviews keep their chapter path, detailed studies and edition scope visible.
   if(['phases','philosophy-of-freedom'].includes(course?.id)&&role==='overview')continue;
-  const config={page,route,role,course:course||null,...(catalogue?{catalogueCourses:courses.map(c=>({route:c.home,lessons:c.lessons.length}))}:{})};let html=fs.readFileSync(file,'utf8');
+  const config={page,route,role,course:course||null,...(catalogue?{catalogueCourses:courses.map(c=>({route:c.home,lessons:c.lessons.filter(l=>!l.optional).length}))}:{})};let html=fs.readFileSync(file,'utf8');
   if(html.includes('id="cw-data"'))throw Error('Workspace pass requires fresh build: '+file);
   const head=assets.map(a=>a.endsWith('.css')?`<link rel="stylesheet" href="${relative(file,'docs/'+a)}?v=${hashes[a]}">`:`<script defer src="${relative(file,'docs/'+a)}?v=${hashes[a]}"></script>`).join('');
   html=html.replace('</head>',head+'</head>').replace('</body>',()=>`<script type="application/json" id="cw-data">${JSON.stringify(config).replace(/</g,'\\u003c')}</script></body>`);

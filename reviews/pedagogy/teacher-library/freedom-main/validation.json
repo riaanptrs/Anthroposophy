@@ -1,0 +1,60 @@
+{
+  "status": "passed",
+  "baseline": "cc74e2fb",
+  "reviewedUnits": 22,
+  "revised": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    19,
+    20,
+    21
+  ],
+  "retained": [
+    1,
+    4,
+    6,
+    15,
+    17,
+    18
+  ],
+  "pages": 44,
+  "core": [
+    0,
+    1,
+    2,
+    4,
+    5,
+    7,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    18,
+    20,
+    21
+  ],
+  "optional": {
+    "3": 4,
+    "6": 5,
+    "8": 7,
+    "13": 12,
+    "17": 16,
+    "19": 18
+  },
+  "preservation": "Only the third check changes in sixteen bilingual units; all main prose, first two checks, sources, navigation and other page content byte-identical to baseline. Six retained units entirely unchanged.",
+  "legacyClarityValidator": "Fails inherited historical content/passage-study.json comparison; that file is unchanged in this review."
+}

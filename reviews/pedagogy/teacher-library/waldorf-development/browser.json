@@ -1,0 +1,412 @@
+{
+  "status": "passed",
+  "units": 7,
+  "cases": 56,
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "viewports": [
+    320,
+    1280
+  ],
+  "javascript": [
+    false,
+    true
+  ],
+  "coverage": "Seven Waldorf Development lessons: all primary prose, example and changed-case question visible; feedback keyboard-operable, no overflow or duplicate IDs.",
+  "results": [
+    {
+      "route": "learn/waldorf/development/school-readiness.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/ages-7-9.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/nine-year-change.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/ages-9-12.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/age-12-causality.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/puberty-authority.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/school-readiness.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/ages-7-9.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/nine-year-change.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/ages-9-12.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/age-12-causality.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/puberty-authority.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/school-readiness.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/ages-7-9.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/nine-year-change.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/ages-9-12.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/age-12-causality.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/puberty-authority.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/school-readiness.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/ages-7-9.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/nine-year-change.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/ages-9-12.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/age-12-causality.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/puberty-authority.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/school-readiness.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/ages-7-9.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/nine-year-change.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/ages-9-12.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/age-12-causality.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/puberty-authority.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/school-readiness.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/ages-7-9.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/nine-year-change.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/ages-9-12.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/age-12-causality.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/puberty-authority.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/school-readiness.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/ages-7-9.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/nine-year-change.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/ages-9-12.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/age-12-causality.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/puberty-authority.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "learn/waldorf/development/adolescence-judgment.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/school-readiness.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/ages-7-9.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/nine-year-change.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/ages-9-12.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/age-12-causality.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/puberty-authority.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    },
+    {
+      "route": "pt/learn/waldorf/development/adolescence-judgment.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+  "status": "passed",
+  "units": 12,
+  "cases": 96,
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "viewports": [
+    320,
+    1280
+  ],
+  "javascript": [
+    false,
+    true
+  ],
+  "coverage": "Complete canonical primary HTML delivery; all direct explanation paragraphs and applied questions visible; every answer keyboard-operable, no overflow/duplicate IDs; first and last course positions retained.",
+  "results": [
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/01.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/02.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/03.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/04.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/05.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/06.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/07.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/08.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/09.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/10.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/11.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/01.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/02.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/03.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/04.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/05.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/06.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/07.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/08.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/09.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/10.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/11.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/01.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/02.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/03.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/04.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/05.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/06.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/07.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/08.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/09.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/10.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/11.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/01.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/02.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/03.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/04.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/05.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/06.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/07.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/08.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/09.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/10.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/11.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": false,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/01.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/02.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/03.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/04.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/05.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/06.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/07.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/08.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/09.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/10.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/11.html",
+      "lang": "en",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/01.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/02.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/03.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/04.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/05.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/06.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/07.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/08.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/09.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/10.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/11.html",
+      "lang": "pt",
+      "width": 320,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/00.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/01.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/02.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/03.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/04.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/05.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/06.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/07.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/08.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/09.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/10.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "according-to-luke/lessons/11.html",
+      "lang": "en",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/00.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/01.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/02.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/03.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/04.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/05.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/06.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/07.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/08.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/09.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/10.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 3,
+      "status": "passed"
+    },
+    {
+      "route": "pt/according-to-luke/lessons/11.html",
+      "lang": "pt",
+      "width": 1280,
+      "javaScriptEnabled": true,
+      "checks": 2,
+      "status": "passed"
+    }
+  ]
+}

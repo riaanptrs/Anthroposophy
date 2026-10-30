@@ -29,8 +29,8 @@
       "question": "What does a future aim change in a biographical reading?",
       "answer": "It can change present interpretation and action. It neither changes the facts of the past nor guarantees a particular outcome. The biographical approach asks how a person responds within actual conditions.",
       "exercise": "Make three columns: event, meaning at the time, meaning now. Use an ordinary event or a fictional person. Add one possible next step and one constraint. Keep uncertain recollections marked as uncertain.",
-      "transfer": "How can you check whether this course covers the book rather than only its opening?",
-      "response": "Use the Book coverage guide: each of the seven chapters and its main sections links to lessons and source captures. A coverage map makes the claim inspectable; it does not certify every OCR character or establish every claim in the book."
+      "transfer": "A teacher changes jobs after an injury but continues helping others learn. What would distinguish a chronology from a biographical interpretation, and how could you check the interpretation?",
+      "response": "The chronology records the injury and job change. A biographical interpretation proposes a continuing concern, such as making learning accessible. Check that proposal against earlier and later examples, exceptions and the teacher’s own account. Income, opportunity or other circumstances may also explain the change; continuity should not be assigned as a hidden destiny."
     },
     "pt": {
       "title": "Uma vida é mais que uma sequência de acontecimentos",
@@ -57,8 +57,8 @@
       "question": "O que um objetivo futuro modifica numa leitura biográfica?",
       "answer": "Pode modificar a interpretação presente e a ação. Não muda os fatos do passado nem garante um resultado. A abordagem biográfica pergunta como a pessoa responde dentro de condições reais.",
       "exercise": "Faça três colunas: acontecimento, sentido na época e sentido hoje. Use uma situação cotidiana ou uma personagem fictícia. Acrescente um próximo passo possível e uma limitação. Marque lembranças incertas como incertas.",
-      "transfer": "Como conferir se o curso abrange o livro, além da abertura?",
-      "response": "Consulte a cobertura do livro: os sete capítulos e suas seções principais têm lições e capturas correspondentes. O mapa permite conferir o alcance; não certifica cada caractere do OCR nem comprova toda afirmação do autor."
+      "transfer": "Uma professora muda de trabalho após uma lesão, mas continua ajudando outras pessoas a aprender. O que distingue uma cronologia de uma interpretação biográfica e como você verificaria a interpretação?",
+      "response": "A cronologia registra a lesão e a mudança de trabalho. A interpretação biográfica propõe uma preocupação contínua, como tornar a aprendizagem acessível. Confira a proposta com exemplos anteriores e posteriores, exceções e o relato da própria professora. Renda, oportunidades e outras circunstâncias também podem explicar a mudança; a continuidade não deve ser atribuída como um destino oculto."
     },
     "chapter": 0,
     "concepts": [
@@ -156,7 +156,7 @@
         },
         {
           "title": "Development alters structure",
-          "text": "Development involves a reorganization through which the whole functions differently. Lievegoed describes differentiation, coordination and integration: functions become more distinct, their relations are ordered, and the parts work together in a new whole. The biological examples help explain his vocabulary. Applying this vocabulary to a person's biography is an interpretive extension, not proof that human choices follow an organism's predetermined design."
+          "text": "Development involves a reorganization through which the whole functions differently. Lievegoed distinguishes differentiation (functions become specialized), hierarchization (some functions coordinate or govern others), and integration (the parts form a newly organized whole). The biological examples help explain his vocabulary. Applying this vocabulary to a person's biography is an interpretive extension, not proof that human choices follow an organism's predetermined design."
         },
         {
           "title": "What a crisis can reveal",
@@ -184,7 +184,7 @@
         },
         {
           "title": "Desenvolvimento modifica a estrutura",
-          "text": "O desenvolvimento envolve uma reorganização pela qual o conjunto passa a funcionar de outra maneira. Lievegoed descreve diferenciação, coordenação e integração: as funções se distinguem, suas relações se ordenam e as partes colaboram num novo todo. Os exemplos biológicos esclarecem seu vocabulário. Aplicá-lo à biografia é uma extensão interpretativa; não prova que escolhas humanas sigam um desenho orgânico predeterminado."
+          "text": "O desenvolvimento envolve uma reorganização pela qual o conjunto passa a funcionar de outra maneira. Lievegoed distingue diferenciação (as funções se especializam), hierarquização (algumas funções coordenam ou dirigem outras) e integração (as partes formam um novo conjunto organizado). Os exemplos biológicos esclarecem seu vocabulário. Aplicá-lo à biografia é uma extensão interpretativa; não prova que escolhas humanas sigam um desenho orgânico predeterminado."
         },
         {
           "title": "O que uma crise pode revelar",
@@ -233,8 +233,8 @@
         }
       ],
       "example": "During an evening meeting, Bruno interrupts a colleague. He slept poorly, feels that his contribution has been overlooked, and cares strongly about a fair decision. A bodily response might be rest or a shorter meeting. A psychological response might clarify the perceived dismissal. A value-based response might agree a fair speaking process. Calling the interruption “only fatigue” or “only ego” would leave important questions unexplored.",
-      "question": "Does the example prove the existence of a higher ego?",
-      "answer": "No. It illustrates the distinctions in Lievegoed's account. His claim about a spiritual individuality is a further claim, whereas fatigue, felt dismissal and stated commitments can be investigated in their own ways.",
+      "question": "Bruno is tired, feels dismissed in a meeting and wants everyone to be heard. Separate the bodily, psychological and spiritual questions in Lievegoed’s model. What would you ask Bruno before explaining his response?",
+      "answer": "Fatigue concerns bodily conditions; feeling dismissed concerns his lived psychological experience; the commitment to fair participation introduces the question of values and individuality called spiritual in this model. Ask what happened, how he experienced it and what he was trying to do. These aspects interact in one person. The example illustrates the model’s distinctions without proving a separate spiritual individuality.",
       "exercise": "Draw three overlapping circles labeled bodily conditions, lived experience and values. Put one fictional decision in the overlap. Write one question and one possible practical response for each perspective.",
       "transfer": "What changes if Bruno's value is loyalty to his friend rather than fairness to the whole group?",
       "response": "The bodily condition can remain the same while the meaning and aim differ. Ask how loyalty affects his judgement and how he would handle a conflict between loyalty and fair participation."
@@ -261,8 +261,8 @@
         }
       ],
       "example": "Numa reunião à noite, Bruno interrompe uma colega. Dormiu mal, sente que sua contribuição foi ignorada e deseja uma decisão justa. Uma resposta corporal seria descansar ou encurtar a reunião. Uma resposta psíquica esclareceria a sensação de desconsideração. Uma resposta orientada por valores combinaria uma distribuição justa da fala. Explicar a interrupção apenas pelo cansaço ou pelo ego deixaria perguntas importantes de fora.",
-      "question": "O exemplo comprova a existência de um Eu superior?",
-      "answer": "Não. Ilustra as distinções da concepção de Lievegoed. A individualidade espiritual é uma afirmação adicional; cansaço, sentimento de desconsideração e compromissos declarados podem ser investigados de formas próprias.",
+      "question": "Bruno está cansado, sente-se ignorado numa reunião e quer que todos sejam ouvidos. Separe as questões corporal, psicológica e espiritual no modelo de Lievegoed. O que você perguntaria a Bruno antes de explicar sua resposta?",
+      "answer": "O cansaço se refere às condições corporais; sentir-se ignorado diz respeito à experiência psicológica vivida; o compromisso com a participação justa introduz a questão de valores e individualidade chamada espiritual neste modelo. Pergunte o que aconteceu, como ele viveu a situação e o que tentava fazer. Os aspectos interagem numa pessoa. O exemplo ilustra as distinções do modelo sem provar uma individualidade espiritual separada.",
       "exercise": "Desenhe três círculos sobrepostos: condições corporais, experiência vivida e valores. Coloque uma decisão fictícia na interseção. Escreva uma pergunta e uma resposta prática possível para cada perspectiva.",
       "transfer": "O que muda se o valor de Bruno for lealdade ao amigo, em vez de justiça para o grupo?",
       "response": "A condição corporal pode permanecer igual, mas o sentido e a finalidade mudam. Pergunte como a lealdade afeta o julgamento e como ele lidaria com um conflito entre lealdade e participação justa."
@@ -1150,11 +1150,11 @@
       "sections": [
         {
           "title": "Uma crise dentro do sucesso",
-          "text": "Lievegoed descreve pessoas competentes que passam a perguntar para que servem suas rotinas bem-sucedidas. O empresário quita a dívida, mas sente vazio em vez de celebrar. A meta organizou anos de esforço; alcançá-la retira essa força. A questão pode estar no sentido do desempenho, além de sua qualidade."
+          "text": "Lievegoed descreve pessoas competentes que passam a perguntar para que servem suas rotinas bem-sucedidas. O empresário quita a dívida, mas sente vazio em vez de celebrar. A meta organizou anos de esforço; alcançá-la retira essa força. A questão nem sempre é uma falha no desempenho; pode estar na finalidade que torna esse esforço significativo."
         },
         {
           "title": "Meios e finalidades",
-          "text": "A inteligência escolhe meios dentro de valores, sem decidir sozinha quais valores merecem compromisso. Uma empresa eficiente pode servir prestígio, sustento, trabalho útil ou diversos fins. A transição examina finalidades, além de acrescentar metas semelhantes. O autor relaciona a tarefa à alma da consciência e às aspirações espirituais-psíquicas."
+          "text": "A inteligência escolhe meios dentro de valores, sem decidir sozinha quais valores merecem compromisso. Uma empresa eficiente pode servir prestígio, sustento, trabalho útil ou diversos fins. A transição exige examinar as finalidades; acrescentar outra meta do mesmo tipo pode deixar essa pergunta sem resposta. O autor relaciona a tarefa à alma da consciência e às aspirações espirituais-psíquicas."
         },
         {
           "title": "Fazer de outra maneira",
@@ -1372,7 +1372,7 @@
         },
         {
           "title": "Renovação além da função",
-          "text": "O livro descreve novos interesses sociais, jardinagem, música e relações entre gerações. Os exemplos de gênero são históricos; a pergunta serve a qualquer pessoa. Um interesse vale pelo envolvimento e sentido, sem exigir destaque público. Frustrações antigas podem precisar de apoio, além de julgamento moral."
+          "text": "O livro descreve novos interesses sociais, jardinagem, música e relações entre gerações. Os exemplos de gênero são históricos; a pergunta serve a qualquer pessoa. Um interesse vale pelo envolvimento e sentido, sem exigir destaque público. Frustrações antigas podem precisar de apoio, em vez de condenação moral."
         }
       ],
       "example": "Um técnico experiente explica os fundamentos de um reparo e deixa um colega propor uma melhoria de segurança. Sua experiência vira recurso. Outro usa o mesmo conhecimento para impedir mudanças. Compare condutas e condições de trabalho, sem deduzir maturidade completa pela idade ou pelo cargo.",
@@ -2132,7 +2132,7 @@
       "sections": [
         {
           "title": "Direito à formação",
-          "text": "O capítulo defende educação que forme a pessoa, além de preparar produção imediata. A comissão de Lievegoed propõe formação até os 18, adequada a capacidades e expectativas. É uma política histórica holandesa. A pergunta é quais possibilidades o sistema mantém abertas ou fecha cedo demais."
+          "text": "O capítulo defende educação que forme a pessoa, sem se limitar à preparação para a produção imediata. A comissão de Lievegoed propõe formação até os 18, adequada a capacidades e expectativas. É uma política histórica holandesa. A pergunta é quais possibilidades o sistema mantém abertas ou fecha cedo demais."
         },
         {
           "title": "Aprendizagem intelectual e prática",
@@ -3203,7 +3203,7 @@
         },
         {
           "title": "Vontade como reguladora",
-          "text": "A vontade coordena funções, além de aumentar impulsos. Percebem-se desejos concorrentes, comparam-se fins e organiza-se uma resposta. Um ideal pode reunir esforços dispersos. Trata-se de desenvolvimento, sem garantir controle imediato ou ausência de conflito."
+          "text": "A vontade coordena funções, em vez de apenas intensificar impulsos. Percebem-se desejos concorrentes, comparam-se fins e organiza-se uma resposta. Um ideal pode reunir esforços dispersos. Trata-se de desenvolvimento, sem garantir controle imediato ou ausência de conflito."
         },
         {
           "title": "A porta e o limite",
@@ -3419,7 +3419,7 @@
         },
         {
           "title": "Por que os limites importam",
-          "text": "A preocupação é alguém não ser atendido por nenhum serviço. É preciso esclarecer alcance, reconhecer limites e garantir continuidade, além de tomar faltas como recusa. O esquema ajuda a compreender responsabilidades, sem virar teste pessoal."
+          "text": "A preocupação é alguém não ser atendido por nenhum serviço. É preciso esclarecer alcance, reconhecer limites e garantir continuidade, sem tomar faltas como simples recusa. O esquema ajuda a compreender responsabilidades, sem virar teste pessoal."
         }
       ],
       "example": "Um grupo percebe necessidades além de sua competência. Explica limites e apoia acesso a serviço adequado, mantendo respeito e apoio combinado. Afirmar que amizade basta ou excluir abruptamente pode deixar lacunas.",
@@ -3690,7 +3690,7 @@
       "sections": [
         {
           "title": "A biografia como composição",
-          "text": "A sinfonia une continuidade e participação criativa. Trabalha-se com condições, ações alheias e escolhas possíveis. Compor não significa controlar tudo. O autor pergunta pela participação consciente, além de histórias impostas por hábito ou moda."
+          "text": "A sinfonia une continuidade e participação criativa. Trabalha-se com condições, ações alheias e escolhas possíveis. Compor não significa controlar tudo. O autor pergunta pela participação consciente, em vez de aceitar uma história imposta por hábito ou moda."
         },
         {
           "title": "Folhas antes das flores",
@@ -3769,7 +3769,7 @@
         },
         {
           "title": "Realismo como síntese pretendida",
-          "text": "O novo realismo reconheceria matéria e espírito preservando pensamento disciplinado. É um sentido filosófico específico, além de senso prático. Precisa explicar como investigar e distinguir espírito e projeção, sem apenas anunciar duas realidades."
+          "text": "O novo realismo reconheceria matéria e espírito preservando pensamento disciplinado. O termo tem aqui um sentido filosófico específico, não significa apenas agir com senso prático. Precisa explicar como investigar e distinguir espírito e projeção, sem apenas anunciar duas realidades."
         },
         {
           "title": "Narrativa e limites",
@@ -3844,7 +3844,7 @@
         },
         {
           "title": "Da narrativa à investigação",
-          "text": "O livro busca caminho moderno com consciência clara, além de retorno cultural. A aplicação educativa é preparar, esclarecer fins e examinar afirmações, sem autoridade secreta ou promessa iniciática."
+          "text": "O livro busca um caminho moderno com consciência clara, sem simplesmente retornar a um estágio cultural anterior. A aplicação educativa é preparar, esclarecer fins e examinar afirmações, sem autoridade secreta ou promessa iniciática."
         }
       ],
       "example": "Um professor proíbe perguntas porque apenas iniciados compreenderiam. Isso difere de explicar finalidade, condições e limites. A narrativa antiga não concede autoridade ilimitada ao professor atual.",
@@ -3903,11 +3903,11 @@
       "sections": [
         {
           "title": "Começar pelo fenômeno",
-          "text": "A fenomenologia é apresentada como descrição atenta, além de encaixar aparências numa teoria pronta. Observe sequência, forma, variação e relação. Perguntas orientam atenção; cuidado não elimina todos os pressupostos."
+          "text": "A fenomenologia é apresentada como descrição atenta, em vez de encaixar aparências numa teoria pronta. Observe sequência, forma, variação e relação. Perguntas orientam atenção; cuidado não elimina todos os pressupostos."
         },
         {
           "title": "Metamorfose e intensificação",
-          "text": "O exemplo vegetal procura transformações relacionadas, além de colecionar formas soltas. Intensificação indica mudança qualitativa nesse relato. A planta primordial é proposta como relação geradora, sem ser outra espécie encontrada ao lado das demais."
+          "text": "O exemplo vegetal procura transformações relacionadas, em vez de apenas colecionar formas soltas. Intensificação indica mudança qualitativa nesse relato. A planta primordial é proposta como relação geradora, sem ser outra espécie encontrada ao lado das demais."
         },
         {
           "title": "Imaginação objetiva?",
@@ -4049,7 +4049,7 @@
         },
         {
           "title": "Sentir e inspiração",
-          "text": "A arte treina percepção além do produto final, especialmente música e cor. Inspiração designa sentido revelado, além de comoção ou ideia excitante. Intensidade não estabelece verdade ou origem."
+          "text": "A arte treina percepção além do produto final, especialmente música e cor. Inspiração designa um sentido revelado no relato espiritual do autor, não apenas comoção ou uma ideia estimulante. Intensidade não estabelece verdade ou origem."
         },
         {
           "title": "Querer e intuição",
@@ -4116,7 +4116,7 @@
       "sections": [
         {
           "title": "Conteúdo antes da técnica",
-          "text": "O autor recomenda arte, natureza, literatura, filosofia, religião, ciência e responsabilidade social. Busca conteúdo de reflexão, além de agenda cheia. Um encontro prolongado pode valer mais que acumular informação. A atenção precisa de algo a conhecer."
+          "text": "O autor recomenda arte, natureza, literatura, filosofia, religião, ciência e responsabilidade social. Busca conteúdo para reflexão, em vez de apenas uma agenda cheia. Um encontro prolongado pode valer mais que acumular informação. A atenção precisa de algo a conhecer."
         },
         {
           "title": "Concentração e equanimidade",

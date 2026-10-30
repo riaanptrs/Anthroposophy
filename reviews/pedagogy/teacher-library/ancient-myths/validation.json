@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "baseline": "f5ecfd4a",
+  "reviewedUnits": 8,
+  "revised": [
+    1,
+    3,
+    4,
+    5
+  ],
+  "retained": [
+    0,
+    2,
+    6,
+    7
+  ],
+  "pages": 16,
+  "preservation": "Only second primary checks changed in four bilingual units; all explanations, first checks, retained detailed teaching, activities, source material and other page content preserved. Four bilingual units entirely unchanged. Other courses in shared authoring data unchanged."
+}

@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "baseline": "aed8f7d4",
+  "reviewedThisContinuation": 16,
+  "previouslyReviewed": 3,
+  "completedSectionUnits": 19,
+  "totalCourseUnits": 62,
+  "remainingCourseUnits": 43,
+  "pages": 32,
+  "revisedAssessments": 0,
+  "records": [
+    {
+      "source": "foundations/04-whole-human-being.md",
+      "route": "learn/waldorf/foundations/whole-human-being.html"
+    },
+    {
+      "source": "foundations/05-thinking-feeling-willing.md",
+      "route": "learn/waldorf/foundations/thinking-feeling-willing.html"
+    },
+    {
+      "source": "foundations/06-seven-year-periods.md",
+      "route": "learn/waldorf/foundations/seven-year-periods.html"
+    },
+    {
+      "source": "foundations/07-development-determines-curriculum.md",
+      "route": "learn/waldorf/foundations/development-determines-curriculum.html"
+    },
+    {
+      "source": "foundations/08-imagination-before-abstraction.md",
+      "route": "learn/waldorf/foundations/imagination-before-abstraction.html"
+    },
+    {
+      "source": "foundations/09-teaching-through-art.md",
+      "route": "learn/waldorf/foundations/teaching-through-art.html"
+    },
+    {
+      "source": "foundations/10-rhythm-repetition-sleep.md",
+      "route": "learn/waldorf/foundations/rhythm-repetition-sleep.html"
+    },
+    {
+      "source": "foundations/11-main-lesson.md",
+      "route": "learn/waldorf/foundations/main-lesson.html"
+    },
+    {
+      "source": "foundations/12-class-teacher.md",
+      "route": "learn/waldorf/foundations/class-teacher.html"
+    },
+    {
+      "source": "foundations/13-main-lesson-books.md",
+      "route": "learn/waldorf/foundations/main-lesson-books.html"
+    },
+    {
+      "source": "foundations/14-eurythmy.md",
+      "route": "learn/waldorf/foundations/eurythmy.html"
+    },
+    {
+      "source": "foundations/15-music-and-singing.md",
+      "route": "learn/waldorf/foundations/music.html"
+    },
+    {
+      "source": "foundations/16-handwork.md",
+      "route": "learn/waldorf/foundations/handwork.html"
+    },
+    {
+      "source": "foundations/17-foreign-languages.md",
+      "route": "learn/waldorf/foundations/foreign-languages.html"
+    },
+    {
+      "source": "foundations/18-assessment.md",
+      "route": "learn/waldorf/foundations/assessment.html"
+    },
+    {
+      "source": "foundations/19-technology.md",
+      "route": "learn/waldorf/foundations/technology.html"
+    }
+  ],
+  "preservation": "All sixteen bilingual lesson pages and complete 62-unit authoring file retained byte-for-byte. Current teaching/example/question/answer agreement and anchors verified."
+}

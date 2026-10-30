@@ -1,0 +1,29 @@
+# Meditation and Inner Life: teacher review
+
+29 October 2026. Read all **nine current English main explanations and both primary checks**, plus each session’s retained course explanation, guided steps and worked example with its question and answer. The sequence makes sense: purpose and one verse precede supporting capacities and review; the weekly Calendar and Rose Cross develop textual and symbolic work; the whole Foundation Stone precedes a manageable study rhythm and final choice.
+
+**Four second primary checks are revised in English and Portuguese**, together with their matching worked-example questions and answers. They now ask for distinctions in a new case rather than a leading yes/no response. Five existing primary check pairs are retained. Session 6’s fourth main paragraph now identifies the supplied complete 47-page booklet and separates its three English translations from the course’s credited study translation. No practice programme, verse wording or historical timetable is changed.
+
+## Individual judgments
+
+| Session | Decision and teaching reason |
+| --- | --- |
+| [00 — What meditation is meant to teach](../../../../docs/meditation/00.html) | Revise second check. The anthology and different editorial voices are clearly introduced. The revised case requires separating explaining a verse, directing attention and applying it in conduct, without turning a result into proof of attainment. |
+| [01 — A verse: understand it, then live with it](../../../../docs/meditation/01.html) | Retain checks. The wording-to-meaning-to-attention sequence fits the goal. The existing changed-ending question tests the verse’s actual movement, and the retained guided steps distinguish meditation from later application. |
+| [02 — The six supporting exercises](../../../../docs/meditation/02.html) | Retain checks. The pin example, small initiative adaptation and gradual source timescale fit the supporting qualities. The existing implausible-suggestion case tests openness without compulsory agreement. |
+| [03 — The backward review: learning from the day](../../../../docs/meditation/03.html) | Retain checks. The reverse sequence, accurate gaps and responsible repair are coherently taught. The existing uncertain-wording case tests accuracy without inventing memory or turning review into self-condemnation. |
+| [04 — The Calendar of the Soul: one verse through a week](../../../../docs/meditation/04.html) | Revise second check. The source/commentary distinction and local-season adaptation are explained well. The revised case now requires identifying verse, observation and Scala’s interpretation separately and deciding what to revisit. |
+| [05 — The Rose Cross: why preparation matters](../../../../docs/meditation/05.html) | Revise second check. The preparation and the later quiet contemplation have different roles. The revised two-learner case tests understanding versus visual vividness, while retaining verbal study as valid evidence of understanding. |
+| [06 — The Foundation Stone: the whole meditation](../../../../docs/meditation/06.html) | Retain checks. The three-row map and ending connect the whole meditation to considered action. Existing checks already test fact recall versus the spiritual practices. The fourth main paragraph now identifies the complete 47-page booklet and distinguishes the course’s study translation from the three English translations it contains. |
+| [07 — Working with the Foundation Stone over time](../../../../docs/meditation/07.html) | Revise second check. The four-session teaching arrangement is distinguished from the historical seven rhythms. The new case requires correcting both invented journal evidence and mistaken historical attribution. |
+| [08 — A rhythm that serves your life](../../../../docs/meditation/08.html) | Retain checks. The final choice and weekly review require an explained decision to continue, simplify or return to study. Its existing assessment asks for a specific observation rather than a completion streak or spiritual rank. |
+
+## Delivery, preservation and limits
+
+- [Focused validation](validation.json) compares all eighteen bilingual session pages with commit `89d6b20c`. Only the four second checks and corresponding worked-example question/answer pairs, plus session 6’s source clarification paragraph, differ. First checks, all verse texts, practical guides, guided steps, worked explanations, navigation and reflection controls are unchanged. The other courses in shared authoring data are unchanged.
+- The existing Meditation validator passes eighteen bilingual session pages, two indexes, complete selected texts, Foundation Stone ending, attribution, navigation and reflection controls. This verifies the existing content’s delivery and recorded structure, not a fresh original-book text audit.
+- [Browser results](browser.json) pass **72 cases**: nine sessions, two languages, 320/1280 pixels and JavaScript enabled/disabled. Full main prose and questions display, feedback opens, and pages do not overflow. First and last interactive positions remain 1 and 9. The retained texts and practical instructions remain open by default.
+
+This review judges the current English teaching and selected tasks, with bilingual revised questions and source clarification. It does not newly read every practical-guide sub-section, every Calendar reflection, every translation or all retained Portuguese prose line by line. No original-book verification, learner trial or spiritual certification is claimed. Completion can be shown through accurate explanation, source attribution, a reasoned choice and honest review; undertaking every practice is not required.
+
+Next in the continuing library review: **Start Now!**, including the units beyond the four questions strengthened in the initial library pass.

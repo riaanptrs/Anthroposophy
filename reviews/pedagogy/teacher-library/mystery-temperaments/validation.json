@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "baseline": "00148bb0",
+  "reviewedUnits": 15,
+  "continuationUnits": 14,
+  "previouslyReviewed": 0,
+  "revised": [
+    1,
+    3,
+    5,
+    8,
+    11,
+    12
+  ],
+  "firstCheckCorrected": 5,
+  "retainedThisContinuation": [
+    0,
+    2,
+    4,
+    6,
+    7,
+    9,
+    10,
+    13,
+    14
+  ],
+  "pages": 30,
+  "preservation": "Only six second primary question/answer pairs and lesson five first pair change. All explanations, tables, optional context, retained activities/readers, source material, navigation and other page content unchanged. Previously revised lesson zero unchanged; other courses in shared authoring data unchanged."
+}

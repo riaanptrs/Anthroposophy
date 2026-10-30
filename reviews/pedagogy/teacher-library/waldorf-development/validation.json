@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "baseline": "d0e82d71",
+  "reviewedThisContinuation": 7,
+  "previouslyReviewed": 19,
+  "completedSectionUnits": 7,
+  "completedCourseUnits": 26,
+  "totalCourseUnits": 62,
+  "remainingCourseUnits": 36,
+  "pages": 14,
+  "revisedAssessments": 0,
+  "records": [
+    {
+      "source": "development/20-school-readiness.md",
+      "route": "learn/waldorf/development/school-readiness.html"
+    },
+    {
+      "source": "development/21-ages-seven-to-nine.md",
+      "route": "learn/waldorf/development/ages-7-9.html"
+    },
+    {
+      "source": "development/22-nine-year-change.md",
+      "route": "learn/waldorf/development/nine-year-change.html"
+    },
+    {
+      "source": "development/23-ages-nine-to-twelve.md",
+      "route": "learn/waldorf/development/ages-9-12.html"
+    },
+    {
+      "source": "development/24-threshold-of-causality.md",
+      "route": "learn/waldorf/development/age-12-causality.html"
+    },
+    {
+      "source": "development/25-puberty-and-authority.md",
+      "route": "learn/waldorf/development/puberty-authority.html"
+    },
+    {
+      "source": "development/26-adolescence-and-judgment.md",
+      "route": "learn/waldorf/development/adolescence-judgment.html"
+    }
+  ],
+  "preservation": "All seven bilingual lesson pages and complete 62-unit authoring file retained byte-for-byte. Current teaching/example/question/answer agreement and anchors verified."
+}

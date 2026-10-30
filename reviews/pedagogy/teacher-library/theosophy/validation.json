@@ -1,0 +1,49 @@
+{
+  "unitsReviewed": 24,
+  "revised": [
+    "body-soul-spirit",
+    "physical-body",
+    "life-and-etheric-body",
+    "sentience-and-astral-body",
+    "human-i",
+    "sentient-soul",
+    "mind-soul",
+    "spiritual-transformation",
+    "memory-and-individuality",
+    "reincarnation",
+    "karma-and-action",
+    "soul-affinities",
+    "life-between-lives",
+    "nature-and-spiritual-beings",
+    "thinking-and-willing",
+    "freedom-and-initiation",
+    "whole-picture"
+  ],
+  "retained": [
+    "consciousness-soul",
+    "three-worlds",
+    "death-and-release",
+    "living-archetypes",
+    "thought-forms-and-aura",
+    "understanding-and-knowledge",
+    "receptivity-and-equanimity"
+  ],
+  "readingMapsAdded": [
+    "spiritual-transformation",
+    "soul-affinities",
+    "nature-and-spiritual-beings"
+  ],
+  "languagePages": 48,
+  "browserCases": 192,
+  "baseline": "85fc843c77277e1c866aae7a44013d6846deffc6",
+  "preservation": {
+    "firstChecks": "unchanged in all 24 units",
+    "outsidePrimaryReading": "byte-identical in all 48 language pages",
+    "studyGraphAndSourceAssignments": "byte-identical",
+    "sevenRetainedLessonPairs": "byte-identical"
+  },
+  "validators": {
+    "theosophyClarity": "passed",
+    "conceptPlatformModel": "passed"
+  }
+}
